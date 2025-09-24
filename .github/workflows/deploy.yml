@@ -29,6 +29,16 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+      - name: Restore state database + cards.json
+        uses: actions/cache@v3
+        with:
+          path: |
+            assets/state.db
+            assets/cards.json
+          key: state-${{ github.run_id }}
+          restore-keys: |
+            state-
+
       - name: Create .env from repository secrets (runner only)
         env:
           TG_API_ID: ${{ secrets.TG_API_ID }}
@@ -50,6 +60,14 @@ jobs:
 
       - name: Run site build script
         run: python telegram_to_site.py
+
+      - name: Save state database + cards.json
+        uses: actions/cache@v3
+        with:
+          path: |
+            assets/state.db
+            assets/cards.json
+          key: state-${{ github.run_id }}
 
       - name: Prepare site folder
         run: |
