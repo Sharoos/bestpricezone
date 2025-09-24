@@ -1,0 +1,5 @@
+.env
+assets/
+*.sqlite3
+state.db
+.env.local
