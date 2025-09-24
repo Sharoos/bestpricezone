@@ -3,78 +3,59 @@ name: Build & Publish Site
 on:
   push:
     branches: [ main ]
-  schedule:
-    # every 10 minutes — change to your preference (CRON)
-    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
-  build-and-publish:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout repository
+      - name: Check out repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r requirements.txt || true
 
-      - name: Prepare .env
-        # create a .env file from secrets (do NOT store in repo)
+      - name: Create .env from secrets
         run: |
-          cat > .env <<EOF
+          cat > .env <<'EOF'
           TG_API_ID=${{ secrets.TG_API_ID }}
           TG_API_HASH=${{ secrets.TG_API_HASH }}
           TG_STRING_SESSION=${{ secrets.TG_STRING_SESSION }}
-          CHANNEL_USERNAME=${{ secrets.CHANNEL_USERNAME || '@bestpricezone' }}
+          CHANNEL_USERNAME=${{ secrets.CHANNEL_USERNAME }}
           HERO_BANNER=banner.jpg
           HERO_HEIGHT=300px
-          CLEAN_IMAGES_ON_RUN=0
-          MAX_SCAN_MESSAGES=1500
           MAX_KEEP=200
           EOF
 
-      - name: Ensure assets dir exists
-        run: mkdir -p assets/images
+      - name: Run site build script
+        run: python telegram_to_site.py
 
-      - name: Run script to build site
-        # adjust script name if different (telegram_to_site.py or bestpricezone_fetch_latest.py)
-        run: |
-          python telegram_to_site.py
+      - name: Upload artifact for GitHub Pages
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: |
+            index.html
+            assets
 
-      - name: Commit and push generated files to gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          # checkout gh-pages branch (create if missing)
-          if git ls-remote --exit-code --heads origin gh-pages; then
-            git fetch origin gh-pages:gh-pages
-            git checkout gh-pages
-          else
-            git checkout --orphan gh-pages
-            git rm -rf .
-          fi
-          # copy generated output (index.html + assets) into branch root
-          git rm -rf .
-          git checkout -- .
-          # Move the generated files into repo index (the runner's workspace already contains them)
-          cp -r index.html assets . || true
-          git add index.html assets || true
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Auto build: update site (run at $(date -u))"
-            git push --set-upstream origin gh-pages --force
-          fi
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
