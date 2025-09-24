@@ -50,7 +50,7 @@ jobs:
       - name: Run script to build site
         # adjust script name if different (telegram_to_site.py or bestpricezone_fetch_latest.py)
         run: |
-          python bestpricezone_fetch_latest.py
+          python telegram_to_site.py
 
       - name: Commit and push generated files to gh-pages
         env:
