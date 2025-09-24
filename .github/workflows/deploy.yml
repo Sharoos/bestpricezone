@@ -15,11 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: |
-            index.html
-            assets
+        uses: actions/checkout@v4   # ✅ FIXED
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -38,7 +34,6 @@ jobs:
           TG_STRING_SESSION: ${{ secrets.TG_STRING_SESSION }}
           CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
         run: |
-          # Do not commit .env — this writes to the runner for the build step only
           cat > .env <<'EOF'
           TG_API_ID=${TG_API_ID}
           TG_API_HASH=${TG_API_HASH}
@@ -53,11 +48,10 @@ jobs:
 
       - name: Run site build script
         run: |
-          # adjust to your script filename if different
           python telegram_to_site.py
 
       - name: Upload site artifact for GitHub Pages
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v3   # ✅ NEWEST VERSION
         with:
           path: |
             index.html
@@ -71,4 +65,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4   # ✅ UPDATED TO v4
