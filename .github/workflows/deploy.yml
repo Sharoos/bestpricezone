@@ -52,8 +52,21 @@ jobs:
         run: |
           python telegram_to_site.py
 
+      - name: Check build output exists
+        run: |
+          echo "=== Checking output ==="
+          ls -la
+          if [ ! -f index.html ]; then
+            echo "ERROR: index.html missing!"
+            exit 1
+          fi
+          if [ ! -d assets ]; then
+            echo "ERROR: assets/ directory missing!"
+            exit 1
+          fi
+
       - name: Upload site artifact for GitHub Pages
-        uses: actions/upload-pages-artifact@v3   # ✅ fixed to newest
+        uses: actions/upload-pages-artifact@v3
         with:
           path: |
             index.html
