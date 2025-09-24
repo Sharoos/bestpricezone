@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4   # ✅ FIXED
+        uses: actions/checkout@v4   # ✅ latest version
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -27,14 +27,14 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Create .env from repository secrets (in runner only)
+      - name: Create .env from repository secrets (runner only)
         env:
           TG_API_ID: ${{ secrets.TG_API_ID }}
           TG_API_HASH: ${{ secrets.TG_API_HASH }}
           TG_STRING_SESSION: ${{ secrets.TG_STRING_SESSION }}
           CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
         run: |
-          cat > .env <<'EOF'
+          cat > .env <<EOF
           TG_API_ID=${TG_API_ID}
           TG_API_HASH=${TG_API_HASH}
           TG_STRING_SESSION=${TG_STRING_SESSION}
@@ -45,13 +45,15 @@ jobs:
           CLEAN_IMAGES_ON_RUN=0
           EOF
           echo ".env created for build (runner only)"
+          echo "---- .env content (masked secrets not shown) ----"
+          grep -v TG_STRING_SESSION .env || true
 
       - name: Run site build script
         run: |
           python telegram_to_site.py
 
       - name: Upload site artifact for GitHub Pages
-        uses: actions/upload-pages-artifact@v3   # ✅ NEWEST VERSION
+        uses: actions/upload-pages-artifact@v3   # ✅ fixed to newest
         with:
           path: |
             index.html
@@ -65,4 +67,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4   # ✅ UPDATED TO v4
+        uses: actions/deploy-pages@v4   # ✅ fixed to newest
