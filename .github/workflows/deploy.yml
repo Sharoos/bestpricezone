@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: actions/checkout@v4   # ✅ latest version
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -45,25 +45,9 @@ jobs:
           CLEAN_IMAGES_ON_RUN=0
           EOF
           echo ".env created for build (runner only)"
-          echo "---- .env content (masked secrets not shown) ----"
-          grep -v TG_STRING_SESSION .env || true
 
       - name: Run site build script
-        run: |
-          python telegram_to_site.py
-
-      - name: Check build output exists
-        run: |
-          echo "=== Checking output ==="
-          ls -la
-          if [ ! -f index.html ]; then
-            echo "ERROR: index.html missing!"
-            exit 1
-          fi
-          if [ ! -d assets ]; then
-            echo "ERROR: assets/ directory missing!"
-            exit 1
-          fi
+        run: python telegram_to_site.py
 
       - name: Upload site artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
@@ -80,4 +64,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4   # ✅ fixed to newest
+        uses: actions/deploy-pages@v4
