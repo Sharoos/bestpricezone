@@ -25,24 +25,34 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt || true
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Create .env from secrets
+      - name: Create .env from repository secrets (in runner only)
+        env:
+          TG_API_ID: ${{ secrets.TG_API_ID }}
+          TG_API_HASH: ${{ secrets.TG_API_HASH }}
+          TG_STRING_SESSION: ${{ secrets.TG_STRING_SESSION }}
+          CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
         run: |
+          # Do not commit .env — this writes to the runner for the build step only
           cat > .env <<'EOF'
-          TG_API_ID=${{ secrets.TG_API_ID }}
-          TG_API_HASH=${{ secrets.TG_API_HASH }}
-          TG_STRING_SESSION=${{ secrets.TG_STRING_SESSION }}
-          CHANNEL_USERNAME=${{ secrets.CHANNEL_USERNAME }}
+          TG_API_ID=${TG_API_ID}
+          TG_API_HASH=${TG_API_HASH}
+          TG_STRING_SESSION=${TG_STRING_SESSION}
+          CHANNEL_USERNAME=${CHANNEL_USERNAME}
           HERO_BANNER=banner.jpg
           HERO_HEIGHT=300px
           MAX_KEEP=200
+          CLEAN_IMAGES_ON_RUN=0
           EOF
+          echo ".env created for build (runner only)"
 
       - name: Run site build script
-        run: python telegram_to_site.py
+        run: |
+          # adjust to your script filename if different
+          python telegram_to_site.py
 
-      - name: Upload artifact for GitHub Pages
+      - name: Upload site artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v1
         with:
           path: |
@@ -54,7 +64,6 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
