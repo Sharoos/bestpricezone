@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg7367",
+    "title": "Amazon | 21",
+    "description": "",
+    "shortlink": "https://www.amazon.in/dp/B0C6GVZCLB?th=1&smid=A1JFLV2BUSJ5AK&language=en_IN&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0C6GVZCLB?th=1&smid=A1JFLV2BUSJ5AK&language=en_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_7367.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-09-25T18:50:41+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0C6GVZCLB?th=1&smid=A1JFLV2BUSJ5AK&language=en_IN&tag=bestpricezo0f-21",
+    "date_iso": "2025-09-25T18:50:41+00:00"
+  },
+  {
+    "id": "msg7374",
+    "title": "Ajio | Up to 80% Off : John Players Clothing",
+    "description": "AJIO : Upto 80% Off : John Players Clothing Jeans –  Shirts –  T-Shirts –  Trousers –  Sweatshirts –  Sweaters –  Jackets –  Waistcoats & Blazers –",
+    "shortlink": "https://ajiio.in/I2zU1k7",
+    "final_url": "https://ajiio.in/I2zU1k7",
+    "local_image": "assets/images/tgmsg_7374.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajio",
+    "date_obj": "2025-09-25T18:54:45+00:00",
+    "buy_link": "https://ajiio.in/I2zU1k7",
+    "date_iso": "2025-09-25T18:54:45+00:00"
+  },
+  {
     "id": "msg7303",
     "title": "Flipkart | | EVM SATA 128 GB SSD at Rs.999",
     "description": "Flipkart | EVM SATA 128 GB SSD at Rs.999 -",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-24T04:18:14+00:00",
     "buy_link": "https://fkrt.co/T2KFTV",
     "date_iso": "2025-09-24T04:18:14+00:00"
-  },
-  {
-    "id": "msg6500",
-    "title": "Flipkart | Loot : Pack of 4 At Rs.40 Each (Effective)",
-    "description": "Loot : Pack of 4 At Rs.40 Each (Effective)  Buy Max",
-    "shortlink": "https://fkrt.co/JP1wtQ",
-    "final_url": "https://fkrt.co/JP1wtQ",
-    "local_image": "assets/images/tgmsg_6500.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-24T04:18:35+00:00",
-    "buy_link": "https://fkrt.co/JP1wtQ",
-    "date_iso": "2025-09-24T04:18:35+00:00"
-  },
-  {
-    "id": "msg6502",
-    "title": "Ajio | Loot : Flat 75% Off On Jack & Jones Clothing",
-    "description": "AJIO Loot : Flat 75% Off On Jack & Jones Clothing.  Upto 75% Off On USPA Clothing. Men :  Women :  Boys :  Girls :  Upto 80% Off On Spykar Clothing. Men :  Women :  💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "shortlink": "https://ajiio.co/c9YgXf",
-    "final_url": "https://ajiio.co/c9YgXf",
-    "local_image": "assets/images/tgmsg_6502.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajio",
-    "date_obj": "2025-09-24T04:29:07+00:00",
-    "buy_link": "https://ajiio.co/c9YgXf",
-    "date_iso": "2025-09-24T04:29:07+00:00"
   }
 ]
