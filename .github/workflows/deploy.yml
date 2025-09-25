@@ -5,7 +5,7 @@ on:
     branches: [ main ]
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: '*/30 * * * *'
 
 permissions:
   contents: write
@@ -40,23 +40,12 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Verify origin/main has assets (debug)
-        run: |
-          git fetch origin main --depth=1 || true
-          echo "Listing assets in origin/main (if any):"
-          git ls-tree -r origin/main --name-only | grep '^assets/' || echo "origin/main has no assets/"
-          if git ls-tree -r origin/main --name-only | grep -q '^assets/state.db'; then
-            echo "assets/state.db exists in origin/main"
-          else
-            echo "assets/state.db NOT found in origin/main"
-          fi
-
       - name: Show assets snapshot (for debugging)
         run: |
           echo "Assets dir listing (workdir):"
           ls -la assets || echo "assets missing"
 
-      - name: Create .env for runner (do not indent the file contents)
+      - name: Create .env for runner (do not indent file contents)
         env:
           TG_API_ID: ${{ secrets.TG_API_ID }}
           TG_API_HASH: ${{ secrets.TG_API_HASH }}
@@ -81,8 +70,8 @@ EOF
           TG_API_HASH: ${{ secrets.TG_API_HASH }}
           TG_STRING_SESSION: ${{ secrets.TG_STRING_SESSION }}
           CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
-          MAX_KEEP: "200"
-          CLEAN_IMAGES_ON_RUN: "0"
+          MAX_KEEP: '200'
+          CLEAN_IMAGES_ON_RUN: '0'
         run: |
           echo "Running telegram_to_site.py (MAX_KEEP=$MAX_KEEP)"
           python telegram_to_site.py
@@ -125,7 +114,7 @@ EOF
             if ! git push origin HEAD:main; then
               echo "Push failed. Dumping git remote + logs for debugging:"
               git remote -v
-              git log -n 5 --oneline --decorate
+              git log -n 5 --oneline --decorate || true
               git show --name-only --pretty="" HEAD || true
               exit 1
             else
@@ -136,7 +125,7 @@ EOF
       - name: Prepare site folder
         run: |
           mkdir -p site
-          cp index.html site/
+          cp index.html site/ || true
           cp -r assets site/ || true
 
       - name: Upload site artifact for GitHub Pages
