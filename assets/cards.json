@@ -1,5 +1,44 @@
 [
   {
+    "id": "msg7162",
+    "title": "Amazon | At An Effective Price Of Rs. 2841 Only. (With Offer)",
+    "description": "Amazon | JBL Wave Beam 2 Ear Buds Wireless At An Effective Price Of Rs. 2841 Only. (With Coupon Offer)",
+    "shortlink": "https://www.amazon.in/dp/B0DHL93XCN?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DHL93XCN?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_7162.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-09-25T14:11:00+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DHL93XCN?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-09-25T14:11:00+00:00"
+  },
+  {
+    "id": "msg7166",
+    "title": "Flipkart | Check more from Himalaya Up to 65% Off",
+    "description": "Loot : HIMALAYA Total Care Baby Pants - M (72 Pieces) at ₹399  Check more from Himalaya Upto 65% Off :",
+    "shortlink": "https://fktr.in/grkYKch",
+    "final_url": "https://fktr.in/grkYKch",
+    "local_image": "assets/images/tgmsg_7166.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-25T14:13:34+00:00",
+    "buy_link": "https://fktr.in/grkYKch",
+    "date_iso": "2025-09-25T14:13:34+00:00"
+  },
+  {
+    "id": "msg7167",
+    "title": "Amazon | | Flat 77% Off on boAt Aavante Prime 7050D – Premium 5.1 Soundbar @ just ₹14,999",
+    "description": "Amazon | Flat 77% Off on boAt Aavante Prime 7050D – Premium 5.1 Soundbar @ just ₹14,999 🔥 Dolby Audio | 700W RMS Power | 2025 Edition ⚡ True 5.1 Channel Surround Sound 📡 Wireless Satellite Speakers 🔊 Wireless Subwoofer…",
+    "shortlink": "https://www.amazon.in/dp/B0FLYD83H7?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FLYD83H7?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_7167.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-09-25T14:13:57+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FLYD83H7?tag=bestpricezo0f-21",
+    "date_iso": "2025-09-25T14:13:57+00:00"
+  },
+  {
     "id": "msg7147",
     "title": "Amazon | 🏆 | Mivi Superbars Nova 780 Watts Dolby Audio Home Theatre Speaker [New Launch]",
     "description": "🏆 Amazon | Buy Mivi Superbars Nova 780 Watts Dolby Audio Home Theatre Speaker [New Launch] ✨ At An Effective Price Of Rs. 8549 Only. (With Bank Offer) 👉",
@@ -2559,44 +2598,5 @@
     "date_obj": "2025-09-24T18:53:12+00:00",
     "buy_link": "https://fkrt.co/TQMe8q",
     "date_iso": "2025-09-24T18:53:12+00:00"
-  },
-  {
-    "id": "msg6888",
-    "title": "Flipkart | FAST ₹250",
-    "description": "FAST ₹250.",
-    "shortlink": "https://fkrt.co/EHkokg",
-    "final_url": "https://fkrt.co/EHkokg",
-    "local_image": "assets/images/tgmsg_6888.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-24T18:53:26+00:00",
-    "buy_link": "https://fkrt.co/EHkokg",
-    "date_iso": "2025-09-24T18:53:26+00:00"
-  },
-  {
-    "id": "msg6890",
-    "title": "Myntra | | Pigeon Green Digital Air Frye",
-    "description": "Myntra | Pigeon Green Digital Air Fryer - 4.2 L at Rs 2399!",
-    "shortlink": "https://myntr.in/ADOz1y",
-    "final_url": "https://myntr.in/ADOz1y",
-    "local_image": "assets/images/tgmsg_6890.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-24T18:55:34+00:00",
-    "buy_link": "https://myntr.in/ADOz1y",
-    "date_iso": "2025-09-24T18:55:34+00:00"
-  },
-  {
-    "id": "msg6891",
-    "title": "Myntra | | Pigeon Green Digital Air Frye",
-    "description": "Myntra | Pigeon Green Digital Air Fryer - 4.2 L at Rs 2399! Link :",
-    "shortlink": "https://myntr.in/mTUyCq",
-    "final_url": "https://myntr.in/mTUyCq",
-    "local_image": "assets/images/tgmsg_6891.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-24T18:56:06+00:00",
-    "buy_link": "https://myntr.in/mTUyCq",
-    "date_iso": "2025-09-24T18:56:06+00:00"
   }
 ]
