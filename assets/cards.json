@@ -1,5 +1,18 @@
 [
   {
+    "id": "msg7480",
+    "title": "Amazon | | Panasonic 9W Led Bulb (Pack Of 2) @85",
+    "description": "Amazon | Panasonic 9W Led Bulb (Pack Of 2) @85.",
+    "shortlink": "https://www.amazon.in/dp/B0CCL6ML79?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CCL6ML79?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_7480.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-09-25T20:26:20+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CCL6ML79?tag=bestpricezo0f-21",
+    "date_iso": "2025-09-25T20:26:20+00:00"
+  },
+  {
     "id": "msg7474",
     "title": "Myntra | Up to 90% Off On Women Footwear 💥💥",
     "description": "Myntra : Upto 90% Off On Women Footwear 💥💥 👉Flip Flops :  👉 Flats :  👉 Heels :  👉Shoes :",
@@ -2585,18 +2598,5 @@
     "date_obj": "2025-09-23T19:02:09+00:00",
     "buy_link": "https://myntr.in/3skfFE",
     "date_iso": "2025-09-23T19:02:09+00:00"
-  },
-  {
-    "id": "msg6420",
-    "title": "Flipkart | | Loot : boAt Aavante 1550 Pro Soundbar at 4,499",
-    "description": "Flipkart | Loot : boAt Aavante 1550 Pro Soundbar at 4,499.",
-    "shortlink": "https://fkrt.co/11yB0i",
-    "final_url": "https://fkrt.co/11yB0i",
-    "local_image": "assets/images/tgmsg_6420.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-23T19:03:57+00:00",
-    "buy_link": "https://fkrt.co/11yB0i",
-    "date_iso": "2025-09-23T19:03:57+00:00"
   }
 ]
