@@ -7,7 +7,6 @@ on:
   schedule:
     - cron: "*/30 * * * *"
 
-# IMPORTANT: allow contents write so the runner can push updated assets/state.db back to repo
 permissions:
   contents: write
   pages: write
@@ -41,7 +40,6 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      # Debug: show whether origin/main already has assets/state.db (helps confirm persisted state)
       - name: Verify origin/main has assets (debug)
         run: |
           git fetch origin main --depth=1 || true
@@ -78,7 +76,6 @@ EOF
           echo ".env written (runner)."
 
       - name: Run site build script
-        # also export the important env vars to be absolutely sure Python sees them
         env:
           TG_API_ID: ${{ secrets.TG_API_ID }}
           TG_API_HASH: ${{ secrets.TG_API_HASH }}
@@ -106,7 +103,6 @@ EOF
           echo "---- head of assets/cards.json (if present) ----"
           head -n 50 assets/cards.json || true
 
-      # Commit updated state + cards + images back to repo so next run has them
       - name: Commit updated state, cards and images back to repo
         if: ${{ github.event_name != 'pull_request' }}
         env:
@@ -116,11 +112,8 @@ EOF
           set -e
           git config user.name "${GIT_AUTHOR_NAME}"
           git config user.email "${GIT_AUTHOR_EMAIL}"
-          # Force-add assets in case a prior .gitignore entry still lingers in history
           git add -f assets || true
-          # Add state and json explicitly too (safe)
           git add -f assets/state.db assets/cards.json || true
-          # Also add images directory
           git add -f assets/images || true
           echo "Git status (staged):"
           git status --porcelain=v1 --short || true
