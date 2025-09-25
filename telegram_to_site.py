@@ -936,17 +936,16 @@ __BANNER_HTML__
 
       el.innerHTML = `
   <div class="thumb"><img loading="lazy" src="${c.local_image}" alt="${escapeHtml(c.title)}" /></div>
-  <div class="meta">
-  <div>
-    <div class="badge">${escapeHtml(c.merchant_label||'')}</div>
-    <div class="small" style="margin-top:6px">${escapeHtml(timeStr)}</div>
-  </div>
+  <div class="meta" style="display:flex;justify-content:space-between;align-items:center;margin-top:10px">
+  <div class="badge">${escapeHtml(c.merchant_label||'')}</div>
+  <div class="small" style="color:var(--muted)">${escapeHtml(timeStr)}</div>
 </div>
 <div class="title">${escapeHtml(c.title)}</div>
 <div class="actions">
-    <a class="buy view-btn" href="javascript:void(0)" data-id="${c.id}">View</a>
-    <a class="buy" href="${c.buy_link}" target="_blank" rel="noopener">Buy Now</a>
-  </div>
+  <a class="buy view-btn" href="javascript:void(0)" data-id="${c.id}">View</a>
+  <a class="buy" href="${c.buy_link}" target="_blank" rel="noopener">Buy Now</a>
+</div>
+
 `;
 
       const viewBtn = el.querySelector('.view-btn');
@@ -1273,3 +1272,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
