@@ -16,53 +16,45 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository (full)
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           persist-credentials: true
           fetch-depth: 0
 
-      - name: Set up Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.11'
-
-      - name: Cache pip
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: pip-cache-${{ runner.os }}-v1
-          restore-keys: |
-            pip-cache-${{ runner.os }}-v1
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      - name: Show assets snapshot (for debugging)
+      - name: Show .gitignore + repo listing (debug)
         run: |
-          echo "Assets dir listing (workdir):"
-          ls -la assets || echo "assets missing"
+          echo "---- .gitignore ----"
+          sed -n '1,200p' .gitignore || true
+          echo "---- repo root ----"
+          ls -la
 
-      - name: Create .env for runner (do not indent file contents)
+      - name: Create .env (safe method)
         env:
           TG_API_ID: ${{ secrets.TG_API_ID }}
           TG_API_HASH: ${{ secrets.TG_API_HASH }}
           TG_STRING_SESSION: ${{ secrets.TG_STRING_SESSION }}
           CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
         run: |
-          cat > .env <<'EOF'
-TG_API_ID=${TG_API_ID}
-TG_API_HASH=${TG_API_HASH}
-TG_STRING_SESSION=${TG_STRING_SESSION}
-CHANNEL_USERNAME=${CHANNEL_USERNAME}
-HERO_BANNER=banner.jpg
-HERO_HEIGHT=300px
-MAX_KEEP=200
-CLEAN_IMAGES_ON_RUN=0
-EOF
-          echo ".env written (runner)."
+          printf 'TG_API_ID=%s\n' "$TG_API_ID" > .env
+          printf 'TG_API_HASH=%s\n' "$TG_API_HASH" >> .env
+          printf 'TG_STRING_SESSION=%s\n' "$TG_STRING_SESSION" >> .env
+          printf 'CHANNEL_USERNAME=%s\n' "$CHANNEL_USERNAME" >> .env
+          printf 'HERO_BANNER=banner.jpg\n' >> .env
+          printf 'HERO_HEIGHT=300px\n' >> .env
+          printf 'MAX_KEEP=200\n' >> .env
+          printf 'CLEAN_IMAGES_ON_RUN=0\n' >> .env
+          echo ".env created."
 
       - name: Run site build script
         env:
@@ -78,21 +70,13 @@ EOF
 
       - name: Show assets AFTER build (debug)
         run: |
-          echo "---- assets listing (after) ----"
-          ls -la assets || true
-          echo "---- images count ----"
+          echo "---- assets (after) ----"
+          ls -la assets || echo "assets missing"
+          echo "image count:"
           find assets/images -type f | wc -l || true
-          if [ -f assets/state.db ]; then
-            echo "state.db present AFTER build"
-            if command -v sqlite3 >/dev/null 2>&1; then
-              echo "cards count (after):"
-              sqlite3 assets/state.db "SELECT count(*) FROM cards;" || echo "sqlite read failed"
-            fi
-          fi
-          echo "---- head of assets/cards.json (if present) ----"
-          head -n 50 assets/cards.json || true
+          [ -f assets/state.db ] && echo "state.db exists" || echo "state.db missing"
 
-      - name: Commit updated state, cards and images back to repo
+      - name: Commit persisted assets
         if: ${{ github.event_name != 'pull_request' }}
         env:
           GIT_AUTHOR_NAME: github-actions
@@ -104,22 +88,11 @@ EOF
           git add -f assets || true
           git add -f assets/state.db assets/cards.json || true
           git add -f assets/images || true
-          echo "Git status (staged):"
-          git status --porcelain=v1 --short || true
           if git diff --staged --quiet; then
             echo "No assets changes to commit."
           else
             git commit -m "Update persisted state and images [skip ci]" || true
-            echo "Attempting to push updated assets to origin/main..."
-            if ! git push origin HEAD:main; then
-              echo "Push failed. Dumping git remote + logs for debugging:"
-              git remote -v
-              git log -n 5 --oneline --decorate || true
-              git show --name-only --pretty="" HEAD || true
-              exit 1
-            else
-              echo "Push succeeded."
-            fi
+            git push origin HEAD:main
           fi
 
       - name: Prepare site folder
@@ -128,7 +101,7 @@ EOF
           cp index.html site/ || true
           cp -r assets site/ || true
 
-      - name: Upload site artifact for GitHub Pages
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: site
@@ -136,9 +109,6 @@ EOF
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
     steps:
       - name: Deploy to GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v4
