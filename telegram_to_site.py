@@ -406,9 +406,9 @@ def build_index(cards, show_relative=True, banner_rel: Optional[str] = None, her
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>BestPriceZone — Best Online Deals & Discounts</title>
+<title>BestPriceZone | Today's Best Online Deals & Discounts in India</title>
 <meta name="title" content="BestPriceZone — Best Online Deals & Discounts" />
-<meta name="description" content="BestPriceZone curates trending shopping offers and discounts from Flipkart, Amazon, Myntra, Ajio and more. Updated frequently." />
+<meta name="description" content="BestPriceZone brings you the latest discounts from Amazon, Flipkart, Ajio, Myntra & more. Save money with daily updated deals, offers, and coupons.">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
@@ -463,7 +463,63 @@ body{
   border:0; outline:0; font-size:14px; padding:6px 8px; width:260px;
   min-width:0; background:transparent;
 }
+.brand-wrap { min-width: 0; }
 
+.site-header {
+  display: flex;
+  flex-direction: column;   /* ⬅️ stack vertically */
+  align-items: flex-start;  /* ⬅️ left align (use center if you want centered) */
+  gap: 2px;                 /* small space between title and tagline */
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.site-title {
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  font-weight: 800;
+  font-size: 32.5px;   /* ⬅️ increase size (was 18px) */
+  line-height: 1.2;
+  color: var(--accent);
+  margin: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Mobile adjustment: slightly smaller so it doesn’t overflow */
+@media (max-width: 768px) {
+  .site-title {
+    font-size: 30px;  /* instead of 17px */
+    white-space: normal;
+  }
+}
+
+.site-tagline {
+  font-size: 14px;      /* slightly bigger for readability */
+  font-weight: 500;
+  color: var(--muted);
+  margin: 0;
+  line-height: 1.3;     /* better line spacing */
+  white-space: normal;  /* ⬅️ allow multi-line wrapping */
+  overflow: visible;
+  text-overflow: unset;
+}
+
+/* reduce vertical gap in header */
+.header .wrap { padding-top: 6px; padding-bottom: 6px; }
+
+/* Mobile: stack vertically and allow wrapping */
+@media (max-width: 768px) {
+  .site-header {
+    flex-direction: column;
+    align-items: flex-start; /* change to 'flex-start' if you want left-aligned on mobile */
+    gap: 4px;
+  }
+  .site-title { font-size: 17px; white-space: normal; }
+  .site-tagline { font-size: 13px; white-space: normal; }
+  .search input { width: 140px; } /* prevents search pushing header off-screen */
+}
 /* banner */
 .banner-wrap{width:100%; display:flex; justify-content:center; padding:0 8px; margin:12px 0}
 .banner-wrap img{
@@ -650,19 +706,25 @@ body{
 </head>
 <body>
   <header class="header">
-    <div class="wrap">
-      <div class="brand">BestPriceZone <span style="font-weight:400;color:var(--muted);font-size:13px">Best online deals & discounts</span></div>
-      <div class="controls">
-        <div class="search" role="search">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" style="opacity:.6;margin-left:4px">
-            <path d="M21 21l-4.35-4.35" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
-            <circle cx="11" cy="11" r="6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
-          </svg>
-          <input id="q" placeholder="Search products, brands, categories..." />
-        </div>
+  <div class="wrap">
+    <div class="brand-wrap">
+      <div class="site-header" role="banner" aria-label="Site title">
+        <h1 class="site-title">Best Price Zone</h1>
+        <div class="site-tagline">Best Online Deals &amp; Discounts in India</div>
       </div>
     </div>
-  </header>
+
+    <div class="controls">
+      <div class="search" role="search">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" style="opacity:.6;margin-left:4px">
+          <path d="M21 21l-4.35-4.35" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+          <circle cx="11" cy="11" r="6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+        </svg>
+        <input id="q" placeholder="Search products, brands, categories..." />
+      </div>
+    </div>
+  </div>
+</header>
 __BANNER_HTML__
   <div class="hero" role="region" aria-label="Latest deals">
     <div style="flex:1">
