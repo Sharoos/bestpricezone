@@ -1,5 +1,44 @@
 [
   {
+    "id": "msg7289",
+    "title": "Flipkart | | Televisions up to 77% off",
+    "description": "Flipkart | Televisions up to 77% off",
+    "shortlink": "https://fkrt.co/optKgT",
+    "final_url": "https://fkrt.co/optKgT",
+    "local_image": "assets/images/tgmsg_7289.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-25T17:21:23+00:00",
+    "buy_link": "https://fkrt.co/optKgT",
+    "date_iso": "2025-09-25T17:21:23+00:00"
+  },
+  {
+    "id": "msg7290",
+    "title": "Myntra | Up to 90% Off On Women Footwear 💥💥",
+    "description": "Myntra : Upto 90% Off On Women Footwear 💥💥 👉Flip Flops :  👉 Flats :  👉 Heels :  👉Shoes :",
+    "shortlink": "https://myntr.in/EpMzla",
+    "final_url": "https://myntr.in/EpMzla",
+    "local_image": "assets/images/tgmsg_7290.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-25T17:31:22+00:00",
+    "buy_link": "https://myntr.in/EpMzla",
+    "date_iso": "2025-09-25T17:31:22+00:00"
+  },
+  {
+    "id": "msg7291",
+    "title": "Amazon | | Electric Egg Boiler at 699",
+    "description": "Amazon | Electric Egg Boiler at 699",
+    "shortlink": "https://www.amazon.in/dp/B09VK244N7?psc=1&th=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B09VK244N7?psc=1&th=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_7291.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-09-25T17:36:48+00:00",
+    "buy_link": "https://www.amazon.in/dp/B09VK244N7?psc=1&th=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
+    "date_iso": "2025-09-25T17:36:48+00:00"
+  },
+  {
     "id": "msg7265",
     "title": "Amazon | Loot : Glen Baffle Filter Kitchen Chimney at Rs 5,299",
     "description": "Loot : Glen Baffle Filter Kitchen Chimney at Rs 5,299",
@@ -2559,44 +2598,5 @@
     "date_obj": "2025-09-24T05:53:30+00:00",
     "buy_link": "https://fkrt.co/M8FeGr",
     "date_iso": "2025-09-24T05:53:30+00:00"
-  },
-  {
-    "id": "msg6520",
-    "title": "Amazon | | Boldfit Knee Supporter @ 229",
-    "description": "Amazon | Boldfit Knee Supporter @ 229.  189 :",
-    "shortlink": "https://www.amazon.in/dp/B0D7HRQLHW?th=1&tag=bestpricezone03-21",
-    "final_url": "https://www.amazon.in/dp/B0D7HRQLHW?th=1&tag=bestpricezone03-21",
-    "local_image": "assets/images/tgmsg_6520.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-24T06:01:36+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D7HRQLHW?th=1&tag=bestpricezone03-21",
-    "date_iso": "2025-09-24T06:01:36+00:00"
-  },
-  {
-    "id": "msg6521",
-    "title": "Amazon | | Up to 85% Off on Sports & Fitness Equipments Starting @ Just ₹50",
-    "description": "Amazon | Upto 85% Off on Sports & Fitness Equipments Starting @ Just ₹50 Link :",
-    "shortlink": "https://www.amazon.in/b/ref=Newyear4_3?pf_rd_r=DYSW53HTZC2YT6W9Z3QY&pf_rd_p=1b3cb01d-e175-4fd2-9b76-4a744bcb3d63&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-2&pf_rd_t=&pf_rd_i=29514608031&node=204392983031&tag=bestpricezone03-21",
-    "final_url": "https://www.amazon.in/b/ref=Newyear4_3?pf_rd_r=DYSW53HTZC2YT6W9Z3QY&pf_rd_p=1b3cb01d-e175-4fd2-9b76-4a744bcb3d63&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-2&pf_rd_t=&pf_rd_i=29514608031&node=204392983031&tag=bestpricezone03-21",
-    "local_image": "assets/images/tgmsg_6521.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-24T06:11:35+00:00",
-    "buy_link": "https://www.amazon.in/b/ref=Newyear4_3?pf_rd_r=DYSW53HTZC2YT6W9Z3QY&pf_rd_p=1b3cb01d-e175-4fd2-9b76-4a744bcb3d63&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-2&pf_rd_t=&pf_rd_i=29514608031&node=204392983031&tag=bestpricezone03-21",
-    "date_iso": "2025-09-24T06:11:35+00:00"
-  },
-  {
-    "id": "msg6522",
-    "title": "Ajio | | Up to 80% Off on Fragrances & Deodorants Starting @ Just ₹140",
-    "description": "Ajio | Upto 80% Off on Fragrances & Deodorants Starting @ Just ₹140 Link :",
-    "shortlink": "https://ajiio.co/bVt2xp",
-    "final_url": "https://ajiio.co/bVt2xp",
-    "local_image": "assets/images/tgmsg_6522.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajio",
-    "date_obj": "2025-09-24T06:21:15+00:00",
-    "buy_link": "https://ajiio.co/bVt2xp",
-    "date_iso": "2025-09-24T06:21:15+00:00"
   }
 ]
