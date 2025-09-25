@@ -534,24 +534,53 @@ body{
 }
 .card:hover{ transform:translateY(-4px); box-shadow:0 14px 28px rgba(16,24,40,0.08) }
 
+/* thumbnail container: keeps aspect ratio via padding-top */
 .thumb{
-  height:0; padding-top:56.25%; position:relative; border-radius:10px; overflow:hidden;
-  background:linear-gradient(180deg,#fafafa,#fff); display:block;
+  position: relative;
+  padding-top: 56.25%;    /* 16:9 box — change if you want a different ratio */
+  border-radius:10px;
+  overflow: hidden;
+  background: #fff;       /* nice neutral backdrop for images */
 }
+
+/* thumbnail image: centered and fully visible (no cropping) */
 .thumb img{
-  position:absolute; inset:0; width:100%; height:100%; object-fit:cover; display:block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* center the image */
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;    /* <-- important: shows whole image without crop */
+  object-position: center;
+  display: block;
 }
+
 
 /* meta / text */
 .meta{display:flex; align-items:center; justify-content:space-between; margin-top:10px}
 .title{font-weight:700;font-size:14px;margin:8px 0; line-height:1.18; min-height:42px; overflow:hidden}
-.desc{font-size:13px;color:var(--muted); min-height:38px; margin-bottom:8px; overflow:hidden}
 .badge{display:inline-block;background:var(--pill); color:var(--primary); padding:6px 10px; border-radius:999px; font-weight:700; font-size:12px}
-.price{background:linear-gradient(90deg,#fff,#fef6e7); padding:8px 10px; border-radius:10px; font-weight:800; white-space:nowrap; font-size:13px}
 .actions{margin-top:auto; display:flex; gap:8px; align-items:center; flex-wrap:wrap}
-.buy{
-  background:linear-gradient(90deg,#111827,#0b6bff); color:#fff; padding:10px 12px; border-radius:10px;
-  text-decoration:none; font-weight:700; display:inline-block; text-align:center;
+.buy {
+  background: #2563eb; /* solid indigo/blue */
+  color: #fff;
+  padding: 10px 14px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 14px;
+  display: inline-block;
+  text-align: center;
+  transition: background 0.2s ease, transform 0.15s ease;
+  box-shadow: 0 2px 6px rgba(37, 99, 235, 0.25);
+}
+.buy:hover {
+  background: #1d4ed8; /* darker on hover */
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
 }
 
 /* modal */
@@ -706,8 +735,7 @@ __BANNER_HTML__
           <div style="display:flex;align-items:center;gap:10px">
             <div id="modal-merchant" style="font-weight:700"></div>
             <div id="modal-time" style="margin-left:auto" class="small"></div>
-          </div>
-          <div style="font-size:14px;color:var(--muted)" id="modal-desc"></div>
+          </div>          
           <div style="display:flex;gap:10px;align-items:center;margin-top:12px">
             <a id="modal-buy" class="buy" target="_blank" rel="noopener">Buy now</a>
             <!-- affiliate link text removed to avoid showing shortlink -->
@@ -845,21 +873,20 @@ __BANNER_HTML__
       const timeStr = (typeof SHOW_RELATIVE !== 'undefined' && SHOW_RELATIVE) ? timeAgo(c.date_iso) : (c.date_iso ? new Date(c.date_iso).toLocaleString() : '');
 
       el.innerHTML = `
-        <div class="thumb"><img loading="lazy" src="${c.local_image}" alt="${escapeHtml(c.title)}" /></div>
-        <div class="meta">
-          <div>
-            <div class="badge">${escapeHtml(c.merchant_label||'')}</div>
-            <div class="small" style="margin-top:6px">${escapeHtml(timeStr)}</div>
-          </div>
-          <div class="price">${c.price_raw ? escapeHtml(c.price_raw) : ''}</div>
-        </div>
-        <div class="title">${escapeHtml(c.title)}</div>
-        <div class="desc">${escapeHtml(c.description)}</div>
-        <div class="actions">
-          <a class="buy view-btn" href="javascript:void(0)" data-id="${c.id}">View</a>
-          <a class="buy" href="${c.buy_link}" target="_blank" rel="noopener">Buy Now</a>
-        </div>
-      `;
+  <div class="thumb"><img loading="lazy" src="${c.local_image}" alt="${escapeHtml(c.title)}" /></div>
+  <div class="meta">
+  <div>
+    <div class="badge">${escapeHtml(c.merchant_label||'')}</div>
+    <div class="small" style="margin-top:6px">${escapeHtml(timeStr)}</div>
+  </div>
+</div>
+<div class="title">${escapeHtml(c.title)}</div>
+<div class="actions">
+    <a class="buy view-btn" href="javascript:void(0)" data-id="${c.id}">View</a>
+    <a class="buy" href="${c.buy_link}" target="_blank" rel="noopener">Buy Now</a>
+  </div>
+`;
+
       const viewBtn = el.querySelector('.view-btn');
       if (viewBtn) viewBtn.addEventListener('click', ()=>openModal(c));
       grid.appendChild(el);
@@ -909,8 +936,7 @@ __BANNER_HTML__
 
   function openModal(card) {
     modalImage.src = card.local_image;
-    modalTitle.textContent = card.title;
-    modalDesc.textContent = card.description;
+    modalTitle.textContent = card.title;    
     modalMerchant.textContent = card.merchant_label;
     modalTime.textContent = timeAgo(card.date_iso);
     modalBuy.href = card.buy_link || '#';
