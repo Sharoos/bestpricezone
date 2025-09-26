@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg7696",
+    "title": "Flipkart | | Up to 75% Off On The Bear House Clothing",
+    "description": "Flipkart | Upto 75% Off On The Bear House Clothing. Shirts  Tshirts  Jeans",
+    "shortlink": "https://fkrt.co/UJQQbI",
+    "final_url": "https://fkrt.co/UJQQbI",
+    "local_image": "assets/images/tgmsg_7696.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-26T16:31:59+00:00",
+    "buy_link": "https://fkrt.co/UJQQbI",
+    "date_iso": "2025-09-26T16:31:59+00:00"
+  },
+  {
+    "id": "msg7699",
+    "title": "Flipkart | LOOT FAST",
+    "description": "LOOT FAST.  + Bank Offer.",
+    "shortlink": "https://fkrt.co/B0dS6e",
+    "final_url": "https://fkrt.co/B0dS6e",
+    "local_image": "assets/images/tgmsg_7699.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-26T16:38:14+00:00",
+    "buy_link": "https://fkrt.co/B0dS6e",
+    "date_iso": "2025-09-26T16:38:14+00:00"
+  },
+  {
     "id": "msg7686",
     "title": "Ajio | Loot : Price Drop On Premium Brand",
     "description": "AJIO Loot : Price Drop On Premium Brands. Armani Exchange :  Replay :  La Martina :  G Star Raw :  Clarks :  GAS, G-Star Raw & GANT Clothing. Men’s :  Women’s :  *Additional Coupons + Card Discounts.",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-23T17:06:36+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F1TVVK2C?th=1&tag=bestpricezone03-21",
     "date_iso": "2025-09-23T17:06:36+00:00"
-  },
-  {
-    "id": "msg6270",
-    "title": "Amazon | @39% off with save & subscribe option",
-    "description": "Amazon | Pond's Bright Beauty Anti-Spot Serum Cream with Niacinamide and SPF 15 PA++, Fades Dark Spots and Reveals Bright Skin, 50g 👉 @39% off with save & subscribe option",
-    "shortlink": "https://www.amazon.in/gp/product/B099QVJGCR?th=1&tag=bestpricezone03-21",
-    "final_url": "https://www.amazon.in/gp/product/B099QVJGCR?th=1&tag=bestpricezone03-21",
-    "local_image": "assets/images/tgmsg_6270.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-23T17:11:16+00:00",
-    "buy_link": "https://www.amazon.in/gp/product/B099QVJGCR?th=1&tag=bestpricezone03-21",
-    "date_iso": "2025-09-23T17:11:16+00:00"
-  },
-  {
-    "id": "msg6272",
-    "title": "Amazon | Samsung Galaxy S24 Ultra 5G @71,999",
-    "description": "Amazon | Back In Stock 🛍 Samsung Galaxy S24 Ultra 5G @71,999. 👉 + Rs.3600 Cashback with Amzn ICICI CC",
-    "shortlink": "https://www.amazon.in/dp/B0CS5XW6TN?tag=bestpricezone03-21",
-    "final_url": "https://www.amazon.in/dp/B0CS5XW6TN?tag=bestpricezone03-21",
-    "local_image": "assets/images/tgmsg_6272.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-23T17:13:14+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CS5XW6TN?tag=bestpricezone03-21",
-    "date_iso": "2025-09-23T17:13:14+00:00"
   }
 ]
