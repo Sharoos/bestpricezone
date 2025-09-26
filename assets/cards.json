@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg7489",
+    "title": "Myntra | | Shampoo and Hair Care Combo Starting @ just ₹ 55",
+    "description": "Myntra | Shampoo and Hair Care Combo Starting @ just ₹ 55 Link :",
+    "shortlink": "https://myntr.in/FEgciG",
+    "final_url": "https://myntr.in/FEgciG",
+    "local_image": "assets/images/tgmsg_7489.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-26T04:02:19+00:00",
+    "buy_link": "https://myntr.in/FEgciG",
+    "date_iso": "2025-09-26T04:02:19+00:00"
+  },
+  {
+    "id": "msg7490",
+    "title": "Myntra | Up to 80% Off On Roadster Clothing",
+    "description": "Myntra : Upto 80% Off On Roadster Clothing. Men’s :  Women’s :",
+    "shortlink": "https://myntr.in/hgpI4U",
+    "final_url": "https://myntr.in/hgpI4U",
+    "local_image": "assets/images/tgmsg_7490.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-26T04:16:04+00:00",
+    "buy_link": "https://myntr.in/hgpI4U",
+    "date_iso": "2025-09-26T04:16:04+00:00"
+  },
+  {
     "id": "msg7486",
     "title": "Flipkart | | Kids Clogs Starts @226",
     "description": "Flipkart | Kids Clogs Starts @226",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-23T18:58:43+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FQJPC8HR?psc=1&sid=TRMHfL&tag=bestpricezone03-21",
     "date_iso": "2025-09-23T18:58:43+00:00"
-  },
-  {
-    "id": "msg6414",
-    "title": "Amazon | | 39% Off on Samsung Galaxy M36 5G (Orange Haze, 6 GB RAM, 128 GB Storage)| Circle to Search| Google Gemini| Corning Gorilla Glass ",
-    "description": "Amazon | 39% Off on Samsung Galaxy M36 5G (Orange Haze, 6 GB RAM, 128 GB Storage)| Circle to Search| Google Gemini| Corning Gorilla Glass Victus+| 7.7mm Slim, @ ₹13999",
-    "shortlink": "https://www.amazon.in/s?k=Samsung+Galaxy+M36+5&tag=bestpricezone03-21&",
-    "final_url": "https://www.amazon.in/s?k=Samsung+Galaxy+M36+5&tag=bestpricezone03-21&",
-    "local_image": "assets/images/tgmsg_6414.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-23T18:59:10+00:00",
-    "buy_link": "https://www.amazon.in/s?k=Samsung+Galaxy+M36+5&tag=bestpricezone03-21&",
-    "date_iso": "2025-09-23T18:59:10+00:00"
-  },
-  {
-    "id": "msg6416",
-    "title": "Amazon | Deal Price: ₹1186 ₹1945",
-    "description": "Amazon | Pigeon by Stovekraft Joy Rice Cooker with Single pot, 1 litr... Deal Price: ₹1186 ₹1945",
-    "shortlink": "https://www.amazon.in/dp/B07XZH9QWX?psc=1&sid=4F6zSO&tag=bestpricezone03-21",
-    "final_url": "https://www.amazon.in/dp/B07XZH9QWX?psc=1&sid=4F6zSO&tag=bestpricezone03-21",
-    "local_image": "assets/images/tgmsg_6416.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-23T19:01:35+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07XZH9QWX?psc=1&sid=4F6zSO&tag=bestpricezone03-21",
-    "date_iso": "2025-09-23T19:01:35+00:00"
   }
 ]
