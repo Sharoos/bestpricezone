@@ -1,5 +1,18 @@
 [
   {
+    "id": "msg7542",
+    "title": "Flipkart | Loot: Personal Care Ultimate Price Drop (Until Stocks Last)",
+    "description": "Loot: Personal Care Ultimate Price Drop (Until Stocks Last)",
+    "shortlink": "https://fktr.in/MwSz2b5",
+    "final_url": "https://fktr.in/MwSz2b5",
+    "local_image": "assets/images/tgmsg_7542.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-26T11:26:55+00:00",
+    "buy_link": "https://fktr.in/MwSz2b5",
+    "date_iso": "2025-09-26T11:26:55+00:00"
+  },
+  {
     "id": "msg7538",
     "title": "Myntra | | Flat 40% off on sujata juicer mixer grinders and Kettle",
     "description": "Myntra | Flat 40% off on sujata juicer mixer grinders and Kettles.",
@@ -2585,18 +2598,5 @@
     "date_obj": "2025-09-23T18:44:57+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FFGT7XGT?psc=1&sid=cgQCqI&tag=bestpricezone03-21",
     "date_iso": "2025-09-23T18:44:57+00:00"
-  },
-  {
-    "id": "msg6385",
-    "title": "Flipkart | Men Sneakers Starts at 245",
-    "description": "Men Sneakers Starts at 245.",
-    "shortlink": "https://fkrt.co/oZQBOV",
-    "final_url": "https://fkrt.co/oZQBOV",
-    "local_image": "assets/images/tgmsg_6385.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-23T18:45:42+00:00",
-    "buy_link": "https://fkrt.co/oZQBOV",
-    "date_iso": "2025-09-23T18:45:42+00:00"
   }
 ]
