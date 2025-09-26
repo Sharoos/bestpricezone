@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg7510",
+    "title": "Flipkart | Realme C61 (4GB ,64GB) @5999",
+    "description": "Realme C61 (4GB ,64GB) @5999  Best Mobile Under Budget",
+    "shortlink": "https://fktr.in/wtCe8bV",
+    "final_url": "https://fktr.in/wtCe8bV",
+    "local_image": "assets/images/tgmsg_7510.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-26T07:31:12+00:00",
+    "buy_link": "https://fktr.in/wtCe8bV",
+    "date_iso": "2025-09-26T07:31:12+00:00"
+  },
+  {
+    "id": "msg7511",
+    "title": "Amazon | | Loot Deal",
+    "description": "Amazon | Loot Deal ✅ Portronics K2 Mechanical Gaming Keyboard @1699 Only",
+    "shortlink": "https://www.amazon.in/dp/B0CTKNQ7W3?psc=1&th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CTKNQ7W3?psc=1&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_7511.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-09-26T07:31:21+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CTKNQ7W3?psc=1&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-09-26T07:31:21+00:00"
+  },
+  {
     "id": "msg7507",
     "title": "Amazon | | ✅ Ant Esports KM1610 LED Keyboard and Mouse Combo",
     "description": "Amazon | ✅ Ant Esports KM1610 LED Keyboard and Mouse Combo @649",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-23T18:56:26+00:00",
     "buy_link": "https://myntr.in/DbgW7Z",
     "date_iso": "2025-09-23T18:56:26+00:00"
-  },
-  {
-    "id": "msg7113",
-    "title": "Myntra | Allen Solly belts and wallets starting at 449 🔥",
-    "description": "🔥 Levis belts at 699 🔥  🔥 Louis Philippe belts and wallets at 699 🔥  Tommy Hilfiger starting at 899 🔥  Allen Solly belts and wallets starting at 449 🔥  🔥Van heusen belts & wallets starting at 499 🔥  🔥Ucb belts and…",
-    "shortlink": "https://myntr.in/JdJpp4",
-    "final_url": "https://myntr.in/JdJpp4",
-    "local_image": "assets/images/tgmsg_7113.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-25T13:31:33+00:00",
-    "buy_link": "https://myntr.in/JdJpp4",
-    "date_iso": "2025-09-25T13:31:33+00:00"
-  },
-  {
-    "id": "msg7118",
-    "title": "Flipkart | Loot : VN AROMA Luxury Fragrance Gift Set",
-    "description": "Loot : VN AROMA Luxury Fragrance Gift Set - Pack of 4, Under 199",
-    "shortlink": "https://fktr.in/JES5PoL",
-    "final_url": "https://fktr.in/JES5PoL",
-    "local_image": "assets/images/tgmsg_7118.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-25T13:34:30+00:00",
-    "buy_link": "https://fktr.in/JES5PoL",
-    "date_iso": "2025-09-25T13:34:30+00:00"
   }
 ]
