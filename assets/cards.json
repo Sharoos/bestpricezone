@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg7546",
+    "title": "Myntra | | Up to 85% Off On Branded Backpack",
+    "description": "Myntra | Upto 85% Off On Branded Backpacks. Master Link:  Skybags:  Safari:  Wildcraft:  Aristocrat:",
+    "shortlink": "https://myntr.in/E48COw",
+    "final_url": "https://myntr.in/E48COw",
+    "local_image": "assets/images/tgmsg_7546.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-26T11:40:10+00:00",
+    "buy_link": "https://myntr.in/E48COw",
+    "date_iso": "2025-09-26T11:40:10+00:00"
+  },
+  {
+    "id": "msg7548",
+    "title": "Ajio | Loot : Up to 80% Off On John Players Clothing🔥",
+    "description": "AJIO Loot : Upto 80% Off On John Players Clothing🔥. Jeans :  Shirts :  T-Shirts :  Trousers :  Sweatshirts :  Sweaters :  Jackets :  Waistcoat & Blazers :  LOOT : Jack & Jones Clothing 😍. MasterLink :  T-Shirts : …",
+    "shortlink": "https://ajiio.co/W4K4mW",
+    "final_url": "https://ajiio.co/W4K4mW",
+    "local_image": "assets/images/tgmsg_7548.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajio",
+    "date_obj": "2025-09-26T11:51:30+00:00",
+    "buy_link": "https://ajiio.co/W4K4mW",
+    "date_iso": "2025-09-26T11:51:30+00:00"
+  },
+  {
     "id": "msg7542",
     "title": "Flipkart | Loot: Personal Care Ultimate Price Drop (Until Stocks Last)",
     "description": "Loot: Personal Care Ultimate Price Drop (Until Stocks Last)",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-23T18:44:21+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CRF441PK?psc=1&sid=SsEwYC&tag=bestpricezone03-21",
     "date_iso": "2025-09-23T18:44:21+00:00"
-  },
-  {
-    "id": "msg6380",
-    "title": "Amazon | | 22% Off on iQOO Neo 10R 5G @ 24998",
-    "description": "Amazon | 22% Off on iQOO Neo 10R 5G @ 24998",
-    "shortlink": "https://www.amazon.in/iQOO-Moonknight-Snapdragon-Processor-Smartphone/dp/B0DW478NDF/ref=sr_1_2_sspa?nsdOptOutParam=true&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&tag=bestpricezone03-21",
-    "final_url": "https://www.amazon.in/iQOO-Moonknight-Snapdragon-Processor-Smartphone/dp/B0DW478NDF/ref=sr_1_2_sspa?nsdOptOutParam=true&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&tag=bestpricezone03-21",
-    "local_image": "assets/images/tgmsg_6380.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-23T18:44:30+00:00",
-    "buy_link": "https://www.amazon.in/iQOO-Moonknight-Snapdragon-Processor-Smartphone/dp/B0DW478NDF/ref=sr_1_2_sspa?nsdOptOutParam=true&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&tag=bestpricezone03-21",
-    "date_iso": "2025-09-23T18:44:30+00:00"
-  },
-  {
-    "id": "msg6382",
-    "title": "Amazon | Deal Price: ₹699 ₹2999",
-    "description": "Amazon | BSB HOME Luxury Reversible Comforter Double Size | Dual Colo... Deal Price: ₹699 ₹2999",
-    "shortlink": "https://www.amazon.in/dp/B0FFGT7XGT?psc=1&sid=cgQCqI&tag=bestpricezone03-21",
-    "final_url": "https://www.amazon.in/dp/B0FFGT7XGT?psc=1&sid=cgQCqI&tag=bestpricezone03-21",
-    "local_image": "assets/images/tgmsg_6382.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-23T18:44:57+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FFGT7XGT?psc=1&sid=cgQCqI&tag=bestpricezone03-21",
-    "date_iso": "2025-09-23T18:44:57+00:00"
   }
 ]
