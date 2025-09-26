@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg7630",
+    "title": "Flipkart | GRAB FAST : Personal Care Trending Products at extra 15% Off",
+    "description": "GRAB FAST : Personal Care Trending Products at extra 15% Off  Valid Till : 8 PM |Check all",
+    "shortlink": "https://fktr.in/S11Tnx4",
+    "final_url": "https://fktr.in/S11Tnx4",
+    "local_image": "assets/images/tgmsg_7630.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-26T14:22:29+00:00",
+    "buy_link": "https://fktr.in/S11Tnx4",
+    "date_iso": "2025-09-26T14:22:29+00:00"
+  },
+  {
+    "id": "msg7634",
+    "title": "Flipkart | 💥 Straight Discount: ₹5000 OFF 🤯",
+    "description": "🚨 Flipkart | 10-Minute Flash Deal – Tonight 8 PM Only! 🚨 ❄️ Samsung 385 L Frost Free Double Door Refrigerator @ just Rs 35000 ⭐ 2 Star | Convertible 5-in-1 | Digital Inverter | Display Panel 💥 Straight Discount: ₹5000…",
+    "shortlink": "https://fkrt.co/5WNE9j",
+    "final_url": "https://fkrt.co/5WNE9j",
+    "local_image": "assets/images/tgmsg_7634.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-26T14:30:11+00:00",
+    "buy_link": "https://fkrt.co/5WNE9j",
+    "date_iso": "2025-09-26T14:30:11+00:00"
+  },
+  {
     "id": "msg7608",
     "title": "Flipkart | Loot : Men’s Clothing Up to 90% Off",
     "description": "Loot : Men’s Clothing Upto 90% Off. Polo and Round Neck T-shirts :  Track Pants :  sweatshirts :",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-23T18:06:16+00:00",
     "buy_link": "https://fkrt.co/po7EMV",
     "date_iso": "2025-09-23T18:06:16+00:00"
-  },
-  {
-    "id": "msg6319",
-    "title": "Amazon | GRAB: Stahl Artisan Hybrid Stainless Steel Kadhai Stainless Steel Fry Pan + Stainless Steel Lid Combo @ 5299",
-    "description": "GRAB: Stahl Artisan Hybrid Stainless Steel Kadhai Stainless Steel Fry Pan + Stainless Steel Lid Combo @ 5299",
-    "shortlink": "https://www.amazon.in/dp/B0FRJDRQ72?th=1&tag=bestpricezone03-21",
-    "final_url": "https://www.amazon.in/dp/B0FRJDRQ72?th=1&tag=bestpricezone03-21",
-    "local_image": "assets/images/tgmsg_6319.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-23T18:08:17+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FRJDRQ72?th=1&tag=bestpricezone03-21",
-    "date_iso": "2025-09-23T18:08:17+00:00"
-  },
-  {
-    "id": "msg6320",
-    "title": "Amazon | | Samsung Galaxy S24 Ultra 5G AI Smartphone with Galaxy AI (Titanium Gray, 12GB, 256GB Storage), Snapdragon 8 Gen 3, 200 MP Camera ",
-    "description": "Amazon | Samsung Galaxy S24 Ultra 5G AI Smartphone with Galaxy AI (Titanium Gray, 12GB, 256GB Storage), Snapdragon 8 Gen 3, 200 MP Camera with ProVisual Engine and 5000mAh Battery MRP Price 134999❌ Deal Price 71999✅",
-    "shortlink": "https://www.amazon.in/Samsung-Galaxy-Smartphone-Titanium-Storage/dp/B0CS5XW6TN/ref=sr_1_1_sspa?nsdOptOutParam=true&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&tag=bestpricezone03-21",
-    "final_url": "https://www.amazon.in/Samsung-Galaxy-Smartphone-Titanium-Storage/dp/B0CS5XW6TN/ref=sr_1_1_sspa?nsdOptOutParam=true&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&tag=bestpricezone03-21",
-    "local_image": "assets/images/tgmsg_6320.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-23T18:08:51+00:00",
-    "buy_link": "https://www.amazon.in/Samsung-Galaxy-Smartphone-Titanium-Storage/dp/B0CS5XW6TN/ref=sr_1_1_sspa?nsdOptOutParam=true&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&tag=bestpricezone03-21",
-    "date_iso": "2025-09-23T18:08:51+00:00"
   }
 ]
