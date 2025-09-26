@@ -1,5 +1,44 @@
 [
   {
+    "id": "msg7771",
+    "title": "Amazon | 60% Off",
+    "description": "60% Off - Lifelong Gun Massager for Pain Relief at Rs.799  Regular Rs.1100+",
+    "shortlink": "https://www.amazon.in/dp/B0F29KCJPZ?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F29KCJPZ?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_7771.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-09-26T18:49:12+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F29KCJPZ?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-09-26T18:49:12+00:00"
+  },
+  {
+    "id": "msg7772",
+    "title": "Myntra | boAt Airdopes 163 @463 per piece",
+    "description": "boAt Airdopes 163 @463 per piece ✅Apply Coupon😶BFFBOAT20 ✅ Pay via HDFC FLAT ▶️ ADD 10 Qty 👇🏻",
+    "shortlink": "https://myntr.in/d4IOSn",
+    "final_url": "https://myntr.in/d4IOSn",
+    "local_image": "assets/images/tgmsg_7772.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-26T18:49:48+00:00",
+    "buy_link": "https://myntr.in/d4IOSn",
+    "date_iso": "2025-09-26T18:49:48+00:00"
+  },
+  {
+    "id": "msg7773",
+    "title": "Amazon | ➢ ₹6000 Off with SBI Debit/Credit Card",
+    "description": "AC LOOT 18290  20350  ➢ Apply ₹1500 Off Coupon ➢ ₹6000 Off with SBI Debit/Credit Cards",
+    "shortlink": "https://www.amazon.in/dp/B0F1KR3TP6?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F1KR3TP6?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_7773.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-09-26T18:50:15+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F1KR3TP6?tag=bestpricezo0f-21",
+    "date_iso": "2025-09-26T18:50:15+00:00"
+  },
+  {
     "id": "msg7735",
     "title": "Flipkart | LOOT ₹273",
     "description": "LOOT ₹273 :",
@@ -2559,44 +2598,5 @@
     "date_obj": "2025-09-23T15:50:35+00:00",
     "buy_link": "https://fkrt.co/TMxUNg",
     "date_iso": "2025-09-23T15:50:35+00:00"
-  },
-  {
-    "id": "msg6193",
-    "title": "Flipkart | Peter England Casual Shirts Starts at ₹499",
-    "description": "Peter England Casual Shirts Starts at ₹499",
-    "shortlink": "https://fkrt.co/SmGY3j",
-    "final_url": "https://fkrt.co/SmGY3j",
-    "local_image": "assets/images/tgmsg_6193.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-23T15:53:10+00:00",
-    "buy_link": "https://fkrt.co/SmGY3j",
-    "date_iso": "2025-09-23T15:53:10+00:00"
-  },
-  {
-    "id": "msg6200",
-    "title": "Flipkart | | ADONYX Shaker Bottle Rs.80",
-    "description": "Flipkart | ADONYX Shaker Bottle Rs.80",
-    "shortlink": "https://fkrt.co/HtJedx",
-    "final_url": "https://fkrt.co/HtJedx",
-    "local_image": "assets/images/tgmsg_6200.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-23T16:03:44+00:00",
-    "buy_link": "https://fkrt.co/HtJedx",
-    "date_iso": "2025-09-23T16:03:44+00:00"
-  },
-  {
-    "id": "msg6202",
-    "title": "Flipkart | LOOT : Peter England Formal Shirt Up to 78% Off",
-    "description": "LOOT : Peter England Formal Shirt Upto 78% Off :",
-    "shortlink": "https://fktr.in/swlQ96M",
-    "final_url": "https://fktr.in/swlQ96M",
-    "local_image": "assets/images/tgmsg_6202.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-23T16:05:27+00:00",
-    "buy_link": "https://fktr.in/swlQ96M",
-    "date_iso": "2025-09-23T16:05:27+00:00"
   }
 ]
