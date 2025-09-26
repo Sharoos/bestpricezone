@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg7501",
+    "title": "Flipkart | Pack Of 4 Dollar Cotton Round Neck Vest at Rs.159",
+    "description": "Pack Of 4 Dollar Cotton Round Neck Vest at Rs.159  *Effective Per Pc ₹39",
+    "shortlink": "https://fkrt.co/4d208R",
+    "final_url": "https://fkrt.co/4d208R",
+    "local_image": "assets/images/tgmsg_7501.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-26T06:07:08+00:00",
+    "buy_link": "https://fkrt.co/4d208R",
+    "date_iso": "2025-09-26T06:07:08+00:00"
+  },
+  {
+    "id": "msg7502",
+    "title": "Myntra | Loot : Up to 88% Off On Invictus Men’s Clothing",
+    "description": "Myntra Loot : Upto 88% Off On Invictus Men’s Clothing. Shirts :  Trousers :",
+    "shortlink": "https://myntr.in/KJPmJ6",
+    "final_url": "https://myntr.in/KJPmJ6",
+    "local_image": "assets/images/tgmsg_7502.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-26T06:10:47+00:00",
+    "buy_link": "https://myntr.in/KJPmJ6",
+    "date_iso": "2025-09-26T06:10:47+00:00"
+  },
+  {
     "id": "msg7499",
     "title": "Amazon | | Loot boAt Type",
     "description": "Amazon | Loot boAt Type-C Braided Cable at ₹99 Min.2 :",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-25T13:46:31+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FLQ8XZS8?tag=bestpricezo0f-21",
     "date_iso": "2025-09-25T13:46:31+00:00"
-  },
-  {
-    "id": "msg7137",
-    "title": "Flipkart | | Bajaj Inner Lid Pressure Cookers (2L, 3L, 5L) Combo @1499",
-    "description": "Flipkart | Bajaj Inner Lid Pressure Cookers (2L, 3L, 5L) Combo @1499",
-    "shortlink": "https://fkrt.co/oijP8M",
-    "final_url": "https://fkrt.co/oijP8M",
-    "local_image": "assets/images/tgmsg_7137.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-25T13:51:30+00:00",
-    "buy_link": "https://fkrt.co/oijP8M",
-    "date_iso": "2025-09-25T13:51:30+00:00"
-  },
-  {
-    "id": "msg7142",
-    "title": "Amazon | 🛍️ Deal | Flat 80% Off",
-    "description": "🛍️ Amazon Deal | Flat 80% Off 🎉 boAt Aavante 2.1 2000 Soundbar – Now at just ₹4,999 (MRP ₹24,490) 💥 200W RMS Output | 2.1 Channel Audio 🎛️ Multiple EQ Modes – Customize your sound 📶 Bluetooth v5.4 – Seamless Wireless…",
-    "shortlink": "https://www.amazon.in/dp/B0F5B7RTC7?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F5B7RTC7?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_7142.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-25T13:56:21+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F5B7RTC7?tag=bestpricezo0f-21",
-    "date_iso": "2025-09-25T13:56:21+00:00"
   }
 ]
