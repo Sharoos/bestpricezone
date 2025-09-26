@@ -1,5 +1,18 @@
 [
   {
+    "id": "msg7521",
+    "title": "Amazon | tax%3A27060456031&s=price",
+    "description": "Amazon | boAt Charging Cable Starts @ 99.",
+    "shortlink": "https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
+    "final_url": "https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
+    "local_image": "assets/images/tgmsg_7521.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-09-26T08:46:28+00:00",
+    "buy_link": "https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
+    "date_iso": "2025-09-26T08:46:28+00:00"
+  },
+  {
     "id": "msg7519",
     "title": "Myntra | | Hrx Backpack Starts @356",
     "description": "Myntra | Hrx Backpack Starts @356.",
@@ -2585,18 +2598,5 @@
     "date_obj": "2025-09-23T18:55:14+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FHB2KYVF?th=1&sid=vYKXFZ&tag=bestpricezone03-21",
     "date_iso": "2025-09-23T18:55:14+00:00"
-  },
-  {
-    "id": "msg6403",
-    "title": "Amazon | | 25% Off onHP Victus, 13th Gen Intel Core i5",
-    "description": "Amazon | 25% Off onHP Victus, 13th Gen Intel Core i5-13420H, 6GB RTX 3050, 16GB , @ 65990",
-    "shortlink": "https://www.amazon.in/s?k=HP+Victus%2C+13th+Gen+Intel+Core+i5&tag=bestpricezone03-21&",
-    "final_url": "https://www.amazon.in/s?k=HP+Victus%2C+13th+Gen+Intel+Core+i5&tag=bestpricezone03-21&",
-    "local_image": "assets/images/tgmsg_6403.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-23T18:55:32+00:00",
-    "buy_link": "https://www.amazon.in/s?k=HP+Victus%2C+13th+Gen+Intel+Core+i5&tag=bestpricezone03-21&",
-    "date_iso": "2025-09-23T18:55:32+00:00"
   }
 ]
