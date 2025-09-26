@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg7519",
+    "title": "Myntra | | Hrx Backpack Starts @356",
+    "description": "Myntra | Hrx Backpack Starts @356.",
+    "shortlink": "https://myntr.in/5wNWhW",
+    "final_url": "https://myntr.in/5wNWhW",
+    "local_image": "assets/images/tgmsg_7519.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-26T08:16:23+00:00",
+    "buy_link": "https://myntr.in/5wNWhW",
+    "date_iso": "2025-09-26T08:16:23+00:00"
+  },
+  {
+    "id": "msg7520",
+    "title": "Myntra | 🔥Up to 63% Off On Parachute Beauty Product",
+    "description": "🔥Myntra : Upto 63% Off On Parachute Beauty Products 👉",
+    "shortlink": "https://myntr.in/dWK6Xh",
+    "final_url": "https://myntr.in/dWK6Xh",
+    "local_image": "assets/images/tgmsg_7520.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-26T08:29:05+00:00",
+    "buy_link": "https://myntr.in/dWK6Xh",
+    "date_iso": "2025-09-26T08:29:05+00:00"
+  },
+  {
     "id": "msg7510",
     "title": "Flipkart | Realme C61 (4GB ,64GB) @5999",
     "description": "Realme C61 (4GB ,64GB) @5999  Best Mobile Under Budget",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-23T18:55:32+00:00",
     "buy_link": "https://www.amazon.in/s?k=HP+Victus%2C+13th+Gen+Intel+Core+i5&tag=bestpricezone03-21&",
     "date_iso": "2025-09-23T18:55:32+00:00"
-  },
-  {
-    "id": "msg6405",
-    "title": "Amazon | | ⭐Lifelong Idli Cooker 4 Plate",
-    "description": "Amazon | ⭐Lifelong Idli Cooker 4 Plate 🔗 ✅Offers: ₹562",
-    "shortlink": "https://www.amazon.in/s?k=B0BQDM2FXD&i=kitchen&crid=1X7T43S4S5T9K&sprefix=b0bqdm2fxd%252Ckitchen%252C324&language=en_IN&sid=V9SGNu&tag=bestpricezone03-21",
-    "final_url": "https://www.amazon.in/s?k=B0BQDM2FXD&i=kitchen&crid=1X7T43S4S5T9K&sprefix=b0bqdm2fxd%252Ckitchen%252C324&language=en_IN&sid=V9SGNu&tag=bestpricezone03-21",
-    "local_image": "assets/images/tgmsg_6405.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-23T18:55:46+00:00",
-    "buy_link": "https://www.amazon.in/s?k=B0BQDM2FXD&i=kitchen&crid=1X7T43S4S5T9K&sprefix=b0bqdm2fxd%252Ckitchen%252C324&language=en_IN&sid=V9SGNu&tag=bestpricezone03-21",
-    "date_iso": "2025-09-23T18:55:46+00:00"
-  },
-  {
-    "id": "msg6407",
-    "title": "Myntra | Loot : Doormats Pack Of 2 At 159",
-    "description": "Loot : Doormats Pack Of 2 At 159.",
-    "shortlink": "https://myntr.in/DbgW7Z",
-    "final_url": "https://myntr.in/DbgW7Z",
-    "local_image": "assets/images/tgmsg_6407.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-23T18:56:26+00:00",
-    "buy_link": "https://myntr.in/DbgW7Z",
-    "date_iso": "2025-09-23T18:56:26+00:00"
   }
 ]
