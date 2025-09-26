@@ -1,5 +1,44 @@
 [
   {
+    "id": "msg7532",
+    "title": "Flipkart | | 44% Off",
+    "description": "Flipkart | 44% Off -Orient Electric Ujala Prime At Rs.2,599 👉",
+    "shortlink": "https://fkrt.co/WZBxNC",
+    "final_url": "https://fkrt.co/WZBxNC",
+    "local_image": "assets/images/tgmsg_7532.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-26T10:06:27+00:00",
+    "buy_link": "https://fkrt.co/WZBxNC",
+    "date_iso": "2025-09-26T10:06:27+00:00"
+  },
+  {
+    "id": "msg7533",
+    "title": "Flipkart | Get Flat 79% off on Yatra Gift card",
+    "description": "🔥 BBD Flash Sale [4PM – 6PM] 🔥 Get Flat 79% off on Yatra Gift cards Link:  ✅ More Giftcards At Discount :  Note: Get 5% Cashback with SBI Cashback Cards.",
+    "shortlink": "https://fkrt.co/Voqvhd",
+    "final_url": "https://fkrt.co/Voqvhd",
+    "local_image": "assets/images/tgmsg_7533.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-26T10:09:37+00:00",
+    "buy_link": "https://fkrt.co/Voqvhd",
+    "date_iso": "2025-09-26T10:09:37+00:00"
+  },
+  {
+    "id": "msg7534",
+    "title": "Myntra | | Flat 47% off on the United colours of Benetton perfumes and deodorant",
+    "description": "Myntra | Flat 47% off on the United colours of Benetton perfumes and deodorants",
+    "shortlink": "https://myntr.in/QdyWZt",
+    "final_url": "https://myntr.in/QdyWZt",
+    "local_image": "assets/images/tgmsg_7534.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-26T10:16:35+00:00",
+    "buy_link": "https://myntr.in/QdyWZt",
+    "date_iso": "2025-09-26T10:16:35+00:00"
+  },
+  {
     "id": "msg7530",
     "title": "Flipkart | GRAB : Pack Of 5 Men’s Charcoal kit, 360g at 277",
     "description": "Flipkart GRAB : Pack Of 5 Men’s Charcoal kit, 360g at 277.",
@@ -2559,44 +2598,5 @@
     "date_obj": "2025-09-23T18:47:06+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F3HWNTR1?th=1&tag=bestpricezone03-21",
     "date_iso": "2025-09-23T18:47:06+00:00"
-  },
-  {
-    "id": "msg6390",
-    "title": "Amazon | | 67% Off on JBL Vibe Beam in",
-    "description": "Amazon | 67% Off on JBL Vibe Beam in-Ear Wireless Earbuds (TWS) with Mic, @ 1994",
-    "shortlink": "https://www.amazon.in/s?k=JBL+Vibe+Beam+in-Ear+Wireless+Earbuds&tag=bestpricezone03-21&",
-    "final_url": "https://www.amazon.in/s?k=JBL+Vibe+Beam+in-Ear+Wireless+Earbuds&tag=bestpricezone03-21&",
-    "local_image": "assets/images/tgmsg_6390.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-23T18:47:22+00:00",
-    "buy_link": "https://www.amazon.in/s?k=JBL+Vibe+Beam+in-Ear+Wireless+Earbuds&tag=bestpricezone03-21&",
-    "date_iso": "2025-09-23T18:47:22+00:00"
-  },
-  {
-    "id": "msg6393",
-    "title": "Myntra | Loot Bath Rugs",
-    "description": "Loot Bath Rugs :",
-    "shortlink": "https://myntr.in/YbYA1t",
-    "final_url": "https://myntr.in/YbYA1t",
-    "local_image": "assets/images/tgmsg_6393.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-23T18:48:35+00:00",
-    "buy_link": "https://myntr.in/YbYA1t",
-    "date_iso": "2025-09-23T18:48:35+00:00"
-  },
-  {
-    "id": "msg6395",
-    "title": "Flipkart | Loot at ₹679",
-    "description": "Loot at ₹679",
-    "shortlink": "https://fkrt.co/IMGy5C",
-    "final_url": "https://fkrt.co/IMGy5C",
-    "local_image": "assets/images/tgmsg_6395.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-23T18:49:47+00:00",
-    "buy_link": "https://fkrt.co/IMGy5C",
-    "date_iso": "2025-09-23T18:49:47+00:00"
   }
 ]
