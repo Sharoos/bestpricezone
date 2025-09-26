@@ -1,5 +1,18 @@
 [
   {
+    "id": "msg7486",
+    "title": "Flipkart | | Kids Clogs Starts @226",
+    "description": "Flipkart | Kids Clogs Starts @226",
+    "shortlink": "https://fkrt.co/U7Dik3",
+    "final_url": "https://fkrt.co/U7Dik3",
+    "local_image": "assets/images/tgmsg_7486.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-26T03:45:42+00:00",
+    "buy_link": "https://fkrt.co/U7Dik3",
+    "date_iso": "2025-09-26T03:45:42+00:00"
+  },
+  {
     "id": "msg7480",
     "title": "Amazon | | Panasonic 9W Led Bulb (Pack Of 2) @85",
     "description": "Amazon | Panasonic 9W Led Bulb (Pack Of 2) @85.",
@@ -2585,18 +2598,5 @@
     "date_obj": "2025-09-23T19:01:35+00:00",
     "buy_link": "https://www.amazon.in/dp/B07XZH9QWX?psc=1&sid=4F6zSO&tag=bestpricezone03-21",
     "date_iso": "2025-09-23T19:01:35+00:00"
-  },
-  {
-    "id": "msg6419",
-    "title": "Myntra | Loot : Premium Blankets Up to 85% Off",
-    "description": "Loot : Premium Blankets Upto 85% Off.",
-    "shortlink": "https://myntr.in/3skfFE",
-    "final_url": "https://myntr.in/3skfFE",
-    "local_image": "assets/images/tgmsg_6419.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-23T19:02:09+00:00",
-    "buy_link": "https://myntr.in/3skfFE",
-    "date_iso": "2025-09-23T19:02:09+00:00"
   }
 ]
