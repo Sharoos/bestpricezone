@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg7722",
+    "title": "Flipkart | 🎟️ Flat ₹2,000 Off (add to cart)",
+    "description": "ONLY 3 HOURS TODAY (9 PM – 12 AM) 1) Alcatel V3 Ultra 128 GB – ₹12,749 👉  💸 Special Offers up to ₹2,250 2) Realme P3 Ultra 8/256 – ₹20,999 👉  🎟️ Flat ₹2,000 Off Coupon (add to cart) 3) Tecno Pova 7 128 GB – ₹11,499 👉 …",
+    "shortlink": "https://fkrt.co/Lgbz6Z",
+    "final_url": "https://fkrt.co/Lgbz6Z",
+    "local_image": "assets/images/tgmsg_7722.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-26T18:12:01+00:00",
+    "buy_link": "https://fkrt.co/Lgbz6Z",
+    "date_iso": "2025-09-26T18:12:01+00:00"
+  },
+  {
+    "id": "msg7723",
+    "title": "Myntra | Loot : Up to 90% off Men's Clothing",
+    "description": "Myntra Loot : Upto 90% off Men's Clothing Shirts @179 :  Trousers @279 :  Kurtas @249 :  Blazers @999 :",
+    "shortlink": "https://myntr.in/GAyrFm",
+    "final_url": "https://myntr.in/GAyrFm",
+    "local_image": "assets/images/tgmsg_7723.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-26T18:16:06+00:00",
+    "buy_link": "https://myntr.in/GAyrFm",
+    "date_iso": "2025-09-26T18:16:06+00:00"
+  },
+  {
     "id": "msg7719",
     "title": "Flipkart | | Up to 80% Off On Engage Deodorant",
     "description": "Flipkart | Upto 80% Off On Engage Deodorants.",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-23T16:28:48+00:00",
     "buy_link": "https://www.amazon.in/dp/B0C8NTDY55?th=1&language=en_IN&tag=bestpricezone03-21",
     "date_iso": "2025-09-23T16:28:48+00:00"
-  },
-  {
-    "id": "msg6233",
-    "title": "Flipkart | | 66% : Samsung Galaxy Watch6 12499",
-    "description": "Flipkart | 66% : Samsung Galaxy Watch6 12499 🛒",
-    "shortlink": "https://fkrt.co/4y2iEI",
-    "final_url": "https://fkrt.co/4y2iEI",
-    "local_image": "assets/images/tgmsg_6233.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-23T16:34:43+00:00",
-    "buy_link": "https://fkrt.co/4y2iEI",
-    "date_iso": "2025-09-23T16:34:43+00:00"
-  },
-  {
-    "id": "msg6237",
-    "title": "Amazon | Pack | 120ml Each @250",
-    "description": "Amazon | Secret Temptation Te Amo Perfume 2-Pack | 120ml Each @250.",
-    "shortlink": "https://www.amazon.in/dp/B08WCTWLF4?tag=bestpricezone03-21",
-    "final_url": "https://www.amazon.in/dp/B08WCTWLF4?tag=bestpricezone03-21",
-    "local_image": "assets/images/tgmsg_6237.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-23T16:36:22+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08WCTWLF4?tag=bestpricezone03-21",
-    "date_iso": "2025-09-23T16:36:22+00:00"
   }
 ]
