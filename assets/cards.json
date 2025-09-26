@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg7522",
+    "title": "Flipkart | | Bruton Men's Shoes start from ₹250",
+    "description": "Flipkart | Bruton Men's Shoes start from ₹250 👉",
+    "shortlink": "https://fkrt.co/WztO3n",
+    "final_url": "https://fkrt.co/WztO3n",
+    "local_image": "assets/images/tgmsg_7522.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-26T09:03:34+00:00",
+    "buy_link": "https://fkrt.co/WztO3n",
+    "date_iso": "2025-09-26T09:03:34+00:00"
+  },
+  {
+    "id": "msg7525",
+    "title": "Myntra | | Devoiler Men's Kurta Up to 90% off",
+    "description": "Myntra | Devoiler Men's Kurta Upto 90% off 👉",
+    "shortlink": "https://myntr.in/zhrGWS",
+    "final_url": "https://myntr.in/zhrGWS",
+    "local_image": "assets/images/tgmsg_7525.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-26T09:16:05+00:00",
+    "buy_link": "https://myntr.in/zhrGWS",
+    "date_iso": "2025-09-26T09:16:05+00:00"
+  },
+  {
     "id": "msg7521",
     "title": "Amazon | tax%3A27060456031&s=price",
     "description": "Amazon | boAt Charging Cable Starts @ 99.",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-23T18:52:49+00:00",
     "buy_link": "https://fkrt.co/DuHWnV",
     "date_iso": "2025-09-23T18:52:49+00:00"
-  },
-  {
-    "id": "msg6401",
-    "title": "Amazon | ✅ Flat ₹9,500 off with SBI Credit Card",
-    "description": "Amazon | 💥ASUS Vivobook 16, 16\" FHD (1920 x 1200) OLED, Intel i5 - (16GB RAM/512GB SSD) Laptop at Rs.44,990 🔥 ✅ Flat ₹9,500 off with SBI Credit Cards 🔗 👉🏾 Regular Price: Rs.57,990",
-    "shortlink": "https://www.amazon.in/dp/B0FN9WN6XD?tag=bestpricezone03-21",
-    "final_url": "https://www.amazon.in/dp/B0FN9WN6XD?tag=bestpricezone03-21",
-    "local_image": "assets/images/tgmsg_6401.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-23T18:54:02+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FN9WN6XD?tag=bestpricezone03-21",
-    "date_iso": "2025-09-23T18:54:02+00:00"
-  },
-  {
-    "id": "msg6402",
-    "title": "Amazon | 🔥🔥🔥 DISCOUNT RS.250",
-    "description": "Amazon | ⭐Mr India Black Diamond Hard Anodised Pressure Cooker, Stainless Steel Lid, Induction Compatible Base (2 Liters) 🔗 ✅Offers: ₹836 🔥🔥🔥COUPON DISCOUNT RS.250",
-    "shortlink": "https://www.amazon.in/dp/B0FHB2KYVF?th=1&sid=vYKXFZ&tag=bestpricezone03-21",
-    "final_url": "https://www.amazon.in/dp/B0FHB2KYVF?th=1&sid=vYKXFZ&tag=bestpricezone03-21",
-    "local_image": "assets/images/tgmsg_6402.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-23T18:55:14+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FHB2KYVF?th=1&sid=vYKXFZ&tag=bestpricezone03-21",
-    "date_iso": "2025-09-23T18:55:14+00:00"
   }
 ]
