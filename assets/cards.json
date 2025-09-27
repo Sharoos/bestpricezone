@@ -1,5 +1,44 @@
 [
   {
+    "id": "msg7997",
+    "title": "Myntra | | Veet cream at 50% Off",
+    "description": "Myntra | Veet cream at 50% Off 👉Link :",
+    "shortlink": "https://myntr.in/V9KETd",
+    "final_url": "https://myntr.in/V9KETd",
+    "local_image": "assets/images/tgmsg_7997.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-27T13:11:26+00:00",
+    "buy_link": "https://myntr.in/V9KETd",
+    "date_iso": "2025-09-27T13:11:26+00:00"
+  },
+  {
+    "id": "msg7998",
+    "title": "Myntra | 🥥 Vaseline Intensive Care Deep Moisture Lotion (600ml) – Flat 68% OFF!",
+    "description": "🛍💥 Ultimate Beauty & Haircare Deals on Myntra! 💥🛍 🌟 Clinic Plus 1L Shampoo – Flat 68% OFF! 👉  💙 Clinic Plus Shampoos – Min. 50% OFF! 👉  🕊 Dove 1L Shampoo Combos – Flat 63% OFF! 👉  ✨ Tresemme 1L Shampoo Combos – Flat 63%…",
+    "shortlink": "https://myntr.in/KfF4ik",
+    "final_url": "https://myntr.in/KfF4ik",
+    "local_image": "assets/images/tgmsg_7998.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-27T13:21:26+00:00",
+    "buy_link": "https://myntr.in/KfF4ik",
+    "date_iso": "2025-09-27T13:21:26+00:00"
+  },
+  {
+    "id": "msg7999",
+    "title": "Flipkart | Extra ₹250 Off with ICICI & Axis Card",
+    "description": "Triple Loot Offer – Flipkart Grocery 🔥🔥 🛒 Shop groceries & save big 👉 Make Cart Total ₹3499+ and grab: • Flat ₹400 Off (Checkout Coupon) • Extra ₹250 Off with ICICI & Axis Cards • Extra ₹150 Off via Supercoins 🔗 Shop…",
+    "shortlink": "https://fkrt.co/OtOMSz",
+    "final_url": "https://fkrt.co/OtOMSz",
+    "local_image": "assets/images/tgmsg_7999.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-27T13:22:47+00:00",
+    "buy_link": "https://fkrt.co/OtOMSz",
+    "date_iso": "2025-09-27T13:22:47+00:00"
+  },
+  {
     "id": "msg7978",
     "title": "Myntra | | Min 40% off on Pure Home & Living Décor (only for today)",
     "description": "Myntra | Min 40% off on Pure Home & Living Décor (only for today)",
@@ -2559,44 +2598,5 @@
     "date_obj": "2025-09-25T19:26:34+00:00",
     "buy_link": "https://myntr.in/yiL7lc",
     "date_iso": "2025-09-25T19:26:34+00:00"
-  },
-  {
-    "id": "msg7440",
-    "title": "Flipkart | | Crompton Powerbox Alpha S – 4 Socket Extension Board – Just ₹289",
-    "description": "Flipkart | Crompton Powerbox Alpha S – 4 Socket Extension Board – Just ₹289 👉",
-    "shortlink": "https://fkrt.co/6w0AM7",
-    "final_url": "https://fkrt.co/6w0AM7",
-    "local_image": "assets/images/tgmsg_7440.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-25T19:26:36+00:00",
-    "buy_link": "https://fkrt.co/6w0AM7",
-    "date_iso": "2025-09-25T19:26:36+00:00"
-  },
-  {
-    "id": "msg7449",
-    "title": "Myntra | 🔥Vishudh Women Clothing Loot Starts ₹389",
-    "description": "🔥Myntra : Vishudh Women Clothing Loot Starts ₹389. Master Link :  Co-Ords :  Kurtas :  Trousers :  Tops :",
-    "shortlink": "https://myntr.in/NCbVjI",
-    "final_url": "https://myntr.in/NCbVjI",
-    "local_image": "assets/images/tgmsg_7449.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-25T19:28:19+00:00",
-    "buy_link": "https://myntr.in/NCbVjI",
-    "date_iso": "2025-09-25T19:28:19+00:00"
-  },
-  {
-    "id": "msg7459",
-    "title": "Myntra | Up to 80% Off On Roadster Clothing",
-    "description": "Myntra : Upto 80% Off On Roadster Clothing. Men’s :  Women’s :",
-    "shortlink": "https://myntr.in/OYVke9",
-    "final_url": "https://myntr.in/OYVke9",
-    "local_image": "assets/images/tgmsg_7459.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-25T19:31:21+00:00",
-    "buy_link": "https://myntr.in/OYVke9",
-    "date_iso": "2025-09-25T19:31:21+00:00"
   }
 ]
