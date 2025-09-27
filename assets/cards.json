@@ -1,5 +1,18 @@
 [
   {
+    "id": "msg7890",
+    "title": "Flipkart | FESTIVAL SPECIAL : Chikankari Men's Kurtas under Rs. 399",
+    "description": "FESTIVAL SPECIAL : Chikankari Men's Kurtas under Rs. 399 Buy Now :",
+    "shortlink": "https://fktr.in/9PNwmbn",
+    "final_url": "https://fktr.in/9PNwmbn",
+    "local_image": "assets/images/tgmsg_7890.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-27T08:30:41+00:00",
+    "buy_link": "https://fktr.in/9PNwmbn",
+    "date_iso": "2025-09-27T08:30:41+00:00"
+  },
+  {
     "id": "msg7880",
     "title": "Flipkart | ₹2000 Off with All UPI/Card",
     "description": "Flipkart | OPPO K13x 5G @9999 👉 ₹2000 Off with All UPI/Cards",
@@ -2585,18 +2598,5 @@
     "date_obj": "2025-09-25T15:00:40+00:00",
     "buy_link": "https://bitli.in/xClgYO8",
     "date_iso": "2025-09-25T15:00:40+00:00"
-  },
-  {
-    "id": "msg7198",
-    "title": "Myntra | | Up to 89% off on Footwear by Action",
-    "description": "Myntra | Upto 89% off on Footwear by Action. 👉Link :",
-    "shortlink": "https://myntr.in/ieP0e0",
-    "final_url": "https://myntr.in/ieP0e0",
-    "local_image": "assets/images/tgmsg_7198.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-25T15:01:47+00:00",
-    "buy_link": "https://myntr.in/ieP0e0",
-    "date_iso": "2025-09-25T15:01:47+00:00"
   }
 ]
