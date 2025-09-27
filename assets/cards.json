@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg7862",
+    "title": "Flipkart | | Up to 80% Off On Engage Deodorant",
+    "description": "Flipkart | Upto 80% Off On Engage Deodorants.",
+    "shortlink": "https://fkrt.co/e7jjpC",
+    "final_url": "https://fkrt.co/e7jjpC",
+    "local_image": "assets/images/tgmsg_7862.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-27T06:05:22+00:00",
+    "buy_link": "https://fkrt.co/e7jjpC",
+    "date_iso": "2025-09-27T06:05:22+00:00"
+  },
+  {
+    "id": "msg7863",
+    "title": "Ajio | Loot : Up to 80% Off On Ove",
+    "description": "AJIO Loot : Upto 80% Off On Over-Sized T-Shirts. Men’s :  Women’s :  Polo T-Shirts :  Jeans :  Branded Innerwears :  Men' Blazers & Waistcoat :  Kid’s Clothing Starts at Rs.45. Boys :  Girls :  Infants :",
+    "shortlink": "https://ajiio.co/pXAQ8Z",
+    "final_url": "https://ajiio.co/pXAQ8Z",
+    "local_image": "assets/images/tgmsg_7863.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajio",
+    "date_obj": "2025-09-27T06:15:56+00:00",
+    "buy_link": "https://ajiio.co/pXAQ8Z",
+    "date_iso": "2025-09-27T06:15:56+00:00"
+  },
+  {
     "id": "msg7861",
     "title": "Myntra | | Killer Watches Starting From At Rs.300",
     "description": "Myntra | Killer Watches Starting From At Rs.300 Men :  Women :",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-25T14:13:57+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FLYD83H7?tag=bestpricezo0f-21",
     "date_iso": "2025-09-25T14:13:57+00:00"
-  },
-  {
-    "id": "msg7147",
-    "title": "Amazon | 🏆 | Mivi Superbars Nova 780 Watts Dolby Audio Home Theatre Speaker [New Launch]",
-    "description": "🏆 Amazon | Buy Mivi Superbars Nova 780 Watts Dolby Audio Home Theatre Speaker [New Launch] ✨ At An Effective Price Of Rs. 8549 Only. (With Bank Offer) 👉",
-    "shortlink": "https://www.amazon.in/dp/B0F3HQSPDR?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F3HQSPDR?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_7147.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-25T14:01:09+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F3HQSPDR?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-09-25T14:01:09+00:00"
-  },
-  {
-    "id": "msg7148",
-    "title": "Myntra | Home Decoration Items From @95",
-    "description": "Myntra : Home Decoration Items From @95. 👉",
-    "shortlink": "https://myntr.in/N5L10V",
-    "final_url": "https://myntr.in/N5L10V",
-    "local_image": "assets/images/tgmsg_7148.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-25T14:01:36+00:00",
-    "buy_link": "https://myntr.in/N5L10V",
-    "date_iso": "2025-09-25T14:01:36+00:00"
   }
 ]
