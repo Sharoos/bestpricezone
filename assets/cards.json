@@ -1,5 +1,44 @@
 [
   {
+    "id": "msg8131",
+    "title": "Myntra | | L'Oreal Hair Serum Starting @ just ₹ 153",
+    "description": "Myntra | L'Oreal Hair Serum Starting @ just ₹ 153 Link :",
+    "shortlink": "https://myntr.in/pRM090",
+    "final_url": "https://myntr.in/pRM090",
+    "local_image": "assets/images/tgmsg_8131.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-27T15:21:23+00:00",
+    "buy_link": "https://myntr.in/pRM090",
+    "date_iso": "2025-09-27T15:21:23+00:00"
+  },
+  {
+    "id": "msg8132",
+    "title": "Flipkart | JAVIRO Toilet Cleaner Liquid 5L @186",
+    "description": "JAVIRO Toilet Cleaner Liquid 5L @186",
+    "shortlink": "https://fkrt.co/an1TH2",
+    "final_url": "https://fkrt.co/an1TH2",
+    "local_image": "assets/images/tgmsg_8132.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-27T15:22:45+00:00",
+    "buy_link": "https://fkrt.co/an1TH2",
+    "date_iso": "2025-09-27T15:22:45+00:00"
+  },
+  {
+    "id": "msg8138",
+    "title": "Myntra | 71% Off On Branded BodyLotion",
+    "description": "Myntra : 50-71% Off On Branded BodyLotions. 👉 (Ponds, Nivea, Vaseline, Parachute, Etc)",
+    "shortlink": "https://myntr.in/fXkfsW",
+    "final_url": "https://myntr.in/fXkfsW",
+    "local_image": "assets/images/tgmsg_8138.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-27T15:31:49+00:00",
+    "buy_link": "https://myntr.in/fXkfsW",
+    "date_iso": "2025-09-27T15:31:49+00:00"
+  },
+  {
     "id": "msg8106",
     "title": "Flipkart | Loot : Garbage Bags (Pack Of 120) At 105",
     "description": "Loot : Garbage Bags (Pack Of 120) At 105.",
@@ -2559,44 +2598,5 @@
     "date_obj": "2025-09-26T09:32:07+00:00",
     "buy_link": "https://fkrt.co/nsFtkX",
     "date_iso": "2025-09-26T09:32:07+00:00"
-  },
-  {
-    "id": "msg7522",
-    "title": "Flipkart | | Bruton Men's Shoes start from ₹250",
-    "description": "Flipkart | Bruton Men's Shoes start from ₹250 👉",
-    "shortlink": "https://fkrt.co/WztO3n",
-    "final_url": "https://fkrt.co/WztO3n",
-    "local_image": "assets/images/tgmsg_7522.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-26T09:03:34+00:00",
-    "buy_link": "https://fkrt.co/WztO3n",
-    "date_iso": "2025-09-26T09:03:34+00:00"
-  },
-  {
-    "id": "msg7525",
-    "title": "Myntra | | Devoiler Men's Kurta Up to 90% off",
-    "description": "Myntra | Devoiler Men's Kurta Upto 90% off 👉",
-    "shortlink": "https://myntr.in/zhrGWS",
-    "final_url": "https://myntr.in/zhrGWS",
-    "local_image": "assets/images/tgmsg_7525.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-26T09:16:05+00:00",
-    "buy_link": "https://myntr.in/zhrGWS",
-    "date_iso": "2025-09-26T09:16:05+00:00"
-  },
-  {
-    "id": "msg7521",
-    "title": "Amazon | tax%3A27060456031&s=price",
-    "description": "Amazon | boAt Charging Cable Starts @ 99.",
-    "shortlink": "https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
-    "final_url": "https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
-    "local_image": "assets/images/tgmsg_7521.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-26T08:46:28+00:00",
-    "buy_link": "https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
-    "date_iso": "2025-09-26T08:46:28+00:00"
   }
 ]
