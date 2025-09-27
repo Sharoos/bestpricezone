@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg8146",
+    "title": "Myntra | Up to 80% Off on Personal Care Products starting @ just ₹ 139",
+    "description": "Myntra | L'Oreal Hair Serum Starting @ just ₹ 160 🔗👉Link :  UPTO 80% Off on Personal Care Products starting @ just ₹ 139 🔗👉Link :  Upto 70% Off On Fair & Handsome Facewash. 🔗👉Link :  UPTO 85% Off on Branded Perfumes…",
+    "shortlink": "https://myntr.in/WFJ0Kn",
+    "final_url": "https://myntr.in/WFJ0Kn",
+    "local_image": "assets/images/tgmsg_8146.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-27T15:41:29+00:00",
+    "buy_link": "https://myntr.in/WFJ0Kn",
+    "date_iso": "2025-09-27T15:41:29+00:00"
+  },
+  {
+    "id": "msg8154",
+    "title": "Myntra | 🔥| Up to 75% Off On Renee Product",
+    "description": "🔥Myntra | Upto 75% Off On Renee Products. 👉",
+    "shortlink": "https://myntr.in/Pa93Ak",
+    "final_url": "https://myntr.in/Pa93Ak",
+    "local_image": "assets/images/tgmsg_8154.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-27T15:51:27+00:00",
+    "buy_link": "https://myntr.in/Pa93Ak",
+    "date_iso": "2025-09-27T15:51:27+00:00"
+  },
+  {
     "id": "msg8131",
     "title": "Myntra | | L'Oreal Hair Serum Starting @ just ₹ 153",
     "description": "Myntra | L'Oreal Hair Serum Starting @ just ₹ 153 Link :",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-26T10:16:35+00:00",
     "buy_link": "https://myntr.in/QdyWZt",
     "date_iso": "2025-09-26T10:16:35+00:00"
-  },
-  {
-    "id": "msg7530",
-    "title": "Flipkart | GRAB : Pack Of 5 Men’s Charcoal kit, 360g at 277",
-    "description": "Flipkart GRAB : Pack Of 5 Men’s Charcoal kit, 360g at 277.",
-    "shortlink": "https://fkrt.co/xtpw2l",
-    "final_url": "https://fkrt.co/xtpw2l",
-    "local_image": "assets/images/tgmsg_7530.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-26T09:48:39+00:00",
-    "buy_link": "https://fkrt.co/xtpw2l",
-    "date_iso": "2025-09-26T09:48:39+00:00"
-  },
-  {
-    "id": "msg7527",
-    "title": "Flipkart | Up to 85% Off On Branded Watche",
-    "description": "Flipkart : Upto 85% Off On Branded Watches Lee Cooper. Women's :  Men's :  Killer :  Timex :  Casio :  Maxima :  Van Heusen :  Allen Solly :  Peter England :  U.S Polo Assn :  Fcuk :  Emporio Armani :  Citizen :  Fossil…",
-    "shortlink": "https://fkrt.co/nsFtkX",
-    "final_url": "https://fkrt.co/nsFtkX",
-    "local_image": "assets/images/tgmsg_7527.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-26T09:32:07+00:00",
-    "buy_link": "https://fkrt.co/nsFtkX",
-    "date_iso": "2025-09-26T09:32:07+00:00"
   }
 ]
