@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg7915",
+    "title": "Myntra | | Up to 85% Off On Bewakoof Clothing",
+    "description": "Myntra | Upto 85% Off On Bewakoof Clothing Mens :  Women :",
+    "shortlink": "https://myntr.in/Jg4oEu",
+    "final_url": "https://myntr.in/Jg4oEu",
+    "local_image": "assets/images/tgmsg_7915.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-27T09:45:16+00:00",
+    "buy_link": "https://myntr.in/Jg4oEu",
+    "date_iso": "2025-09-27T09:45:16+00:00"
+  },
+  {
+    "id": "msg7916",
+    "title": "Flipkart | CAMPUS SHOES Up to 75% OFF",
+    "description": "CAMPUS SHOES Upto 75% OFF",
+    "shortlink": "https://fktr.in/Tatk5Gt",
+    "final_url": "https://fktr.in/Tatk5Gt",
+    "local_image": "assets/images/tgmsg_7916.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-27T09:46:13+00:00",
+    "buy_link": "https://fktr.in/Tatk5Gt",
+    "date_iso": "2025-09-27T09:46:13+00:00"
+  },
+  {
     "id": "msg7909",
     "title": "Flipkart | | Dabur Kesar Ubtan Face Wash (2 x 100ml) @263",
     "description": "Flipkart | Dabur Kesar Ubtan Face Wash (2 x 100ml) @263 👉",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-25T16:13:12+00:00",
     "buy_link": "https://fkrt.co/b5zNdw",
     "date_iso": "2025-09-25T16:13:12+00:00"
-  },
-  {
-    "id": "msg7232",
-    "title": "Flipkart | Up to 90% Off On Handbags Starting From Rs.93",
-    "description": "Flipkart | Wrogn Rucksacks Starts @435. 👉 Upto 90% Off On Handbags Starting From Rs.93 👉Link :",
-    "shortlink": "https://fkrt.co/xPJsYt",
-    "final_url": "https://fkrt.co/xPJsYt",
-    "local_image": "assets/images/tgmsg_7232.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-25T16:21:35+00:00",
-    "buy_link": "https://fkrt.co/xPJsYt",
-    "date_iso": "2025-09-25T16:21:35+00:00"
-  },
-  {
-    "id": "msg7235",
-    "title": "Myntra | ✅✅ Up to 88% OFF on Invictus Men’s Clothing [Limited Period Offer]",
-    "description": "Myntra Loot Deal 🔥🔥 ✅✅ Upto 88% OFF on Invictus Men’s Clothing [Limited Period Offer] 👔 Shirts →  👖 Trousers →",
-    "shortlink": "https://myntr.in/mWk41D",
-    "final_url": "https://myntr.in/mWk41D",
-    "local_image": "assets/images/tgmsg_7235.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-25T16:25:21+00:00",
-    "buy_link": "https://myntr.in/mWk41D",
-    "date_iso": "2025-09-25T16:25:21+00:00"
   }
 ]
