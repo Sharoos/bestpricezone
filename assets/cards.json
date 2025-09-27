@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg8106",
+    "title": "Flipkart | Loot : Garbage Bags (Pack Of 120) At 105",
+    "description": "Loot : Garbage Bags (Pack Of 120) At 105.",
+    "shortlink": "https://fkrt.co/0sdvML",
+    "final_url": "https://fkrt.co/0sdvML",
+    "local_image": "assets/images/tgmsg_8106.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-27T14:58:17+00:00",
+    "buy_link": "https://fkrt.co/0sdvML",
+    "date_iso": "2025-09-27T14:58:17+00:00"
+  },
+  {
+    "id": "msg8108",
+    "title": "Flipkart | | Aristocrat Backpack Starts @569",
+    "description": "Flipkart | Aristocrat Backpack Starts @569. 👉",
+    "shortlink": "https://fkrt.co/V0HhiW",
+    "final_url": "https://fkrt.co/V0HhiW",
+    "local_image": "assets/images/tgmsg_8108.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-27T15:01:46+00:00",
+    "buy_link": "https://fkrt.co/V0HhiW",
+    "date_iso": "2025-09-27T15:01:46+00:00"
+  },
+  {
+    "id": "msg8122",
+    "title": "Myntra | | Up to 85% Off on Cups And Mugs Starting @ just ₹ 99",
+    "description": "Myntra | UPTO 85% Off on Cups And Mugs Starting @ just ₹ 99 Link :",
+    "shortlink": "https://myntr.in/kyZTxc",
+    "final_url": "https://myntr.in/kyZTxc",
+    "local_image": "assets/images/tgmsg_8122.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-27T15:11:43+00:00",
+    "buy_link": "https://myntr.in/kyZTxc",
+    "date_iso": "2025-09-27T15:11:43+00:00"
+  },
+  {
+    "id": "msg8124",
+    "title": "Amazon | Loot : Glen Premium Mixer Grinder 550 Watt, 3 Stainless Steel Jar at ₹1,699",
+    "description": "Loot : Glen Premium Mixer Grinder 550 Watt, 3 Stainless Steel Jar at ₹1,699",
+    "shortlink": "https://www.amazon.in/dp/B0FC267MQC?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FC267MQC?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_8124.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-09-27T15:15:05+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FC267MQC?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-09-27T15:15:05+00:00"
+  },
+  {
     "id": "msg8088",
     "title": "Amazon | Anker Portable Charger,10,000mAh 30W Power Bank At 2499",
     "description": "Anker Portable Charger,10,000mAh 30W Power Bank At 2499",
@@ -2546,57 +2598,5 @@
     "date_obj": "2025-09-26T08:46:28+00:00",
     "buy_link": "https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
     "date_iso": "2025-09-26T08:46:28+00:00"
-  },
-  {
-    "id": "msg7519",
-    "title": "Myntra | | Hrx Backpack Starts @356",
-    "description": "Myntra | Hrx Backpack Starts @356.",
-    "shortlink": "https://myntr.in/5wNWhW",
-    "final_url": "https://myntr.in/5wNWhW",
-    "local_image": "assets/images/tgmsg_7519.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-26T08:16:23+00:00",
-    "buy_link": "https://myntr.in/5wNWhW",
-    "date_iso": "2025-09-26T08:16:23+00:00"
-  },
-  {
-    "id": "msg7520",
-    "title": "Myntra | 🔥Up to 63% Off On Parachute Beauty Product",
-    "description": "🔥Myntra : Upto 63% Off On Parachute Beauty Products 👉",
-    "shortlink": "https://myntr.in/dWK6Xh",
-    "final_url": "https://myntr.in/dWK6Xh",
-    "local_image": "assets/images/tgmsg_7520.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-26T08:29:05+00:00",
-    "buy_link": "https://myntr.in/dWK6Xh",
-    "date_iso": "2025-09-26T08:29:05+00:00"
-  },
-  {
-    "id": "msg7510",
-    "title": "Flipkart | Realme C61 (4GB ,64GB) @5999",
-    "description": "Realme C61 (4GB ,64GB) @5999  Best Mobile Under Budget",
-    "shortlink": "https://fktr.in/wtCe8bV",
-    "final_url": "https://fktr.in/wtCe8bV",
-    "local_image": "assets/images/tgmsg_7510.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-26T07:31:12+00:00",
-    "buy_link": "https://fktr.in/wtCe8bV",
-    "date_iso": "2025-09-26T07:31:12+00:00"
-  },
-  {
-    "id": "msg7511",
-    "title": "Amazon | | Loot Deal",
-    "description": "Amazon | Loot Deal ✅ Portronics K2 Mechanical Gaming Keyboard @1699 Only",
-    "shortlink": "https://www.amazon.in/dp/B0CTKNQ7W3?psc=1&th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CTKNQ7W3?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_7511.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-26T07:31:21+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CTKNQ7W3?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-09-26T07:31:21+00:00"
   }
 ]
