@@ -1,5 +1,18 @@
 [
   {
+    "id": "msg8359",
+    "title": "Flipkart | Loot Pack of 12 at ₹449",
+    "description": "Loot Pack of 12 at ₹449  Buy Max",
+    "shortlink": "https://fkrt.co/7lbM6b",
+    "final_url": "https://fkrt.co/7lbM6b",
+    "local_image": "assets/images/tgmsg_8359.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-27T19:16:42+00:00",
+    "buy_link": "https://fkrt.co/7lbM6b",
+    "date_iso": "2025-09-27T19:16:42+00:00"
+  },
+  {
     "id": "msg8320",
     "title": "Flipkart | LOOT FAST",
     "description": "LOOT FAST",
@@ -2585,18 +2598,5 @@
     "date_obj": "2025-09-26T14:54:58+00:00",
     "buy_link": "https://myntr.in/vlZ9GI",
     "date_iso": "2025-09-26T14:54:58+00:00"
-  },
-  {
-    "id": "msg7650",
-    "title": "Flipkart | Loot : Glen Baffle Filter 1000 Cmh Chimney at ₹5,699",
-    "description": "Loot : Glen Baffle Filter 1000 Cmh Chimney at ₹5,699",
-    "shortlink": "https://fktr.in/ur14L2R",
-    "final_url": "https://fktr.in/ur14L2R",
-    "local_image": "assets/images/tgmsg_7650.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-26T14:56:37+00:00",
-    "buy_link": "https://fktr.in/ur14L2R",
-    "date_iso": "2025-09-26T14:56:37+00:00"
   }
 ]
