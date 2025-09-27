@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg8088",
+    "title": "Amazon | Anker Portable Charger,10,000mAh 30W Power Bank At 2499",
+    "description": "Anker Portable Charger,10,000mAh 30W Power Bank At 2499",
+    "shortlink": "https://www.amazon.in/dp/B0CZ9M6X8Q?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CZ9M6X8Q?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_8088.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-09-27T14:40:03+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CZ9M6X8Q?tag=bestpricezo0f-21",
+    "date_iso": "2025-09-27T14:40:03+00:00"
+  },
+  {
+    "id": "msg8100",
+    "title": "Ajio | Men's Jeans Start @₹99",
+    "description": "AJIO : Men's Jeans Start @₹99 👉",
+    "shortlink": "https://ajiio.co/tgYOvy",
+    "final_url": "https://ajiio.co/tgYOvy",
+    "local_image": "assets/images/tgmsg_8100.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajio",
+    "date_obj": "2025-09-27T14:51:33+00:00",
+    "buy_link": "https://ajiio.co/tgYOvy",
+    "date_iso": "2025-09-27T14:51:33+00:00"
+  },
+  {
     "id": "msg8067",
     "title": "Flipkart | Newborn Baby Doll with Feeding Toy for Kids and Gift for Kids (Pink) @380",
     "description": "Newborn Baby Doll with Feeding Toy for Kids and Gift for Kids (Pink) @380",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-26T07:31:21+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CTKNQ7W3?psc=1&th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-09-26T07:31:21+00:00"
-  },
-  {
-    "id": "msg7507",
-    "title": "Amazon | | ✅ Ant Esports KM1610 LED Keyboard and Mouse Combo",
-    "description": "Amazon | ✅ Ant Esports KM1610 LED Keyboard and Mouse Combo @649",
-    "shortlink": "https://www.amazon.in/dp/B0CMXQN2B4?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CMXQN2B4?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_7507.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-26T07:02:49+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CMXQN2B4?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-09-26T07:02:49+00:00"
-  },
-  {
-    "id": "msg7509",
-    "title": "Amazon | | ✅ HP 712w 64GB USB 3.2 Flash Drive",
-    "description": "Amazon | ✅ HP 712w 64GB USB 3.2 Flash Drive @449",
-    "shortlink": "https://www.amazon.in/dp/B0C9TY5RDV?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0C9TY5RDV?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_7509.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-26T07:15:47+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0C9TY5RDV?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-09-26T07:15:47+00:00"
   }
 ]
