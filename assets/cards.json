@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg7935",
+    "title": "Amazon | | boAt Airdopes 141 Gen 2 Bluetooth Earbuds @799",
+    "description": "Amazon | boAt Airdopes 141 Gen 2 Bluetooth Earbuds @799 👉",
+    "shortlink": "https://www.amazon.in/dp/B0F8BW85MZ?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F8BW85MZ?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_7935.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-09-27T10:50:13+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F8BW85MZ?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-09-27T10:50:13+00:00"
+  },
+  {
+    "id": "msg7936",
+    "title": "Flipkart | Motorola Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB At 20999 + 10% Bank Offe",
+    "description": "Flipkart : Motorola Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB At 20999 + 10% Bank Offers 👉 Link :",
+    "shortlink": "https://fkrt.co/fZy4J0",
+    "final_url": "https://fkrt.co/fZy4J0",
+    "local_image": "assets/images/tgmsg_7936.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-27T10:50:21+00:00",
+    "buy_link": "https://fkrt.co/fZy4J0",
+    "date_iso": "2025-09-27T10:50:21+00:00"
+  },
+  {
     "id": "msg7925",
     "title": "Flipkart | ✅ Savings Up to Rs 25000",
     "description": "Celebrate this Festive Season with savings like never before.✨ 🎉 vivo x Flipkart Big Billion Days 🎉 Store Link:  ✅ Lowest-ever prices on our smartphones ✅ 5G smartphones starting only Rs 8,999* ✅ Savings Upto Rs 25000 ✅…",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-25T17:02:57+00:00",
     "buy_link": "https://fkrt.co/5ootuO",
     "date_iso": "2025-09-25T17:02:57+00:00"
-  },
-  {
-    "id": "msg7282",
-    "title": "Myntra | | HRX Shocks Pack of 3 starts @105",
-    "description": "Myntra | HRX Shocks Pack of 3 starts @105 Link :",
-    "shortlink": "https://myntr.in/CJJaTl",
-    "final_url": "https://myntr.in/CJJaTl",
-    "local_image": "assets/images/tgmsg_7282.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-25T17:11:25+00:00",
-    "buy_link": "https://myntr.in/CJJaTl",
-    "date_iso": "2025-09-25T17:11:25+00:00"
-  },
-  {
-    "id": "msg7241",
-    "title": "Ajio | | Up to 70% Off on Co",
-    "description": "Ajio | Upto 70% Off on Co-Ord Sets Starting @ just ₹297 Link :",
-    "shortlink": "https://ajiio.co/kWBSI5",
-    "final_url": "https://ajiio.co/kWBSI5",
-    "local_image": "assets/images/tgmsg_7241.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajio",
-    "date_obj": "2025-09-25T16:32:18+00:00",
-    "buy_link": "https://ajiio.co/kWBSI5",
-    "date_iso": "2025-09-25T16:32:18+00:00"
   }
 ]
