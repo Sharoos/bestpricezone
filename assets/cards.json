@@ -1,5 +1,44 @@
 [
   {
+    "id": "msg8468",
+    "title": "Amazon | | Dettol Soap (150g x 5) @194",
+    "description": "Amazon | Dettol Soap (150g x 5) @194.",
+    "shortlink": "https://www.amazon.in/dp/B0DGLMGY59?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DGLMGY59?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_8468.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-09-28T07:27:26+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DGLMGY59?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-09-28T07:27:26+00:00"
+  },
+  {
+    "id": "msg8472",
+    "title": "Myntra | ✨ Min 80% OFF ✨",
+    "description": "👗 Women’s Kurtas Loot 👗 ✨ Min 80% OFF ✨ Shop Stylish & Trendy Kurtas at Unbelievable Prices 🔥 👉  ⏳ Hurry, Limited Time Offer!",
+    "shortlink": "https://myntr.in/n47EIo",
+    "final_url": "https://myntr.in/n47EIo",
+    "local_image": "assets/images/tgmsg_8472.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-28T07:35:08+00:00",
+    "buy_link": "https://myntr.in/n47EIo",
+    "date_iso": "2025-09-28T07:35:08+00:00"
+  },
+  {
+    "id": "msg8473",
+    "title": "Ajio | Up to 70% Off On CLARKS Footwea",
+    "description": "AJIO : Upto 70% Off On CLARKS Footwears. Women :  Men :",
+    "shortlink": "https://ajiio.co/P8M3ON",
+    "final_url": "https://ajiio.co/P8M3ON",
+    "local_image": "assets/images/tgmsg_8473.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajio",
+    "date_obj": "2025-09-28T07:37:24+00:00",
+    "buy_link": "https://ajiio.co/P8M3ON",
+    "date_iso": "2025-09-28T07:37:24+00:00"
+  },
+  {
     "id": "msg8457",
     "title": "Myntra | | Up to 78% Off on Wildcraft Backpack",
     "description": "Myntra | Up to 78% Off on Wildcraft Backpacks 👉",
@@ -2559,44 +2598,5 @@
     "date_obj": "2025-09-26T18:33:55+00:00",
     "buy_link": "https://fkrt.co/khMfQg",
     "date_iso": "2025-09-26T18:33:55+00:00"
-  },
-  {
-    "id": "msg7749",
-    "title": "Amazon | 125 Max Qty",
-    "description": "125 Buy Max Qty",
-    "shortlink": "https://www.amazon.in/dp/B07DPRHCH5?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07DPRHCH5?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_7749.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-26T18:37:51+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07DPRHCH5?tag=bestpricezo0f-21",
-    "date_iso": "2025-09-26T18:37:51+00:00"
-  },
-  {
-    "id": "msg7752",
-    "title": "Flipkart | TV Loot",
-    "description": "TV Loot  Selected Pincodes",
-    "shortlink": "https://fkrt.co/Dj25m9",
-    "final_url": "https://fkrt.co/Dj25m9",
-    "local_image": "assets/images/tgmsg_7752.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-26T18:39:49+00:00",
-    "buy_link": "https://fkrt.co/Dj25m9",
-    "date_iso": "2025-09-26T18:39:49+00:00"
-  },
-  {
-    "id": "msg7764",
-    "title": "Amazon | 997🔥🔥",
-    "description": "997🔥🔥",
-    "shortlink": "https://www.amazon.in/dp/B0DTKN7LZY?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DTKN7LZY?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_7764.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-26T18:44:21+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DTKN7LZY?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2025-09-26T18:44:21+00:00"
   }
 ]
