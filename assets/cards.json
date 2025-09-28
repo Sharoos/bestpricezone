@@ -1,5 +1,18 @@
 [
   {
+    "id": "msg8401",
+    "title": "Flipkart | Shoes loot",
+    "description": "Shoes loot :",
+    "shortlink": "https://fktr.in/Ub3Qezl",
+    "final_url": "https://fktr.in/Ub3Qezl",
+    "local_image": "assets/images/tgmsg_8401.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-28T03:32:10+00:00",
+    "buy_link": "https://fktr.in/Ub3Qezl",
+    "date_iso": "2025-09-28T03:32:10+00:00"
+  },
+  {
     "id": "msg8359",
     "title": "Flipkart | Loot Pack of 12 at ₹449",
     "description": "Loot Pack of 12 at ₹449  Buy Max",
@@ -2585,18 +2598,5 @@
     "date_obj": "2025-09-26T15:36:34+00:00",
     "buy_link": "https://fkrt.co/557rtO",
     "date_iso": "2025-09-26T15:36:34+00:00"
-  },
-  {
-    "id": "msg7649",
-    "title": "Myntra | Loot : Up to 90% off Men's Clothing",
-    "description": "Myntra Loot : Upto 90% off Men's Clothing Shirts At 179 :  Trousers At 279 :  Kurtas At 249 :  Blazers At 999 :",
-    "shortlink": "https://myntr.in/vlZ9GI",
-    "final_url": "https://myntr.in/vlZ9GI",
-    "local_image": "assets/images/tgmsg_7649.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-26T14:54:58+00:00",
-    "buy_link": "https://myntr.in/vlZ9GI",
-    "date_iso": "2025-09-26T14:54:58+00:00"
   }
 ]
