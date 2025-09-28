@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg8687",
+    "title": "Myntra | 🔹 Ponds Day & Night Creams, Moisturisers – Min. 50% Off",
+    "description": "Top Beauty & Personal Care Deals 💄 🔹 Lakme Skin Care – Min. 50% Off 👉  🔹 Lakme Makeup – Min. 50–70% Off 👉  🔹 Lakme Liquid Lipstick Trio – Flat 65% Off 👉  🔹 Ponds Day & Night Creams, Moisturisers – Min. 50% Off 👉  🔹 Dove…",
+    "shortlink": "https://myntr.in/gz9tdh",
+    "final_url": "https://myntr.in/gz9tdh",
+    "local_image": "assets/images/tgmsg_8687.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-28T14:46:20+00:00",
+    "buy_link": "https://myntr.in/gz9tdh",
+    "date_iso": "2025-09-28T14:46:20+00:00"
+  },
+  {
+    "id": "msg8688",
+    "title": "Flipkart | LOOT FAST",
+    "description": "LOOT FAST",
+    "shortlink": "https://fkrt.co/Nmeixs",
+    "final_url": "https://fkrt.co/Nmeixs",
+    "local_image": "assets/images/tgmsg_8688.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-28T14:48:27+00:00",
+    "buy_link": "https://fkrt.co/Nmeixs",
+    "date_iso": "2025-09-28T14:48:27+00:00"
+  },
+  {
     "id": "msg8668",
     "title": "Myntra | Coupons disappearing soon. Additional 40% off( first time ever)",
     "description": "Myntra | Shop before the stock lasts. Coupons disappearing soon. Additional 40% off( first time ever) Use code : EM40 Link :  Apply Code : PREMIUM40 Shop here :",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-27T12:36:14+00:00",
     "buy_link": "https://fkrt.co/SP2y5j",
     "date_iso": "2025-09-27T12:36:14+00:00"
-  },
-  {
-    "id": "msg7977",
-    "title": "Flipkart | Up to 50% OFF on Beardo Grooming Products 🔥🔥",
-    "description": "Flipkart : Upto 50% OFF on Beardo Grooming Products 🔥🔥 👉 Link:",
-    "shortlink": "https://fkrt.co/9XfmMI",
-    "final_url": "https://fkrt.co/9XfmMI",
-    "local_image": "assets/images/tgmsg_7977.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-27T12:37:08+00:00",
-    "buy_link": "https://fkrt.co/9XfmMI",
-    "date_iso": "2025-09-27T12:37:08+00:00"
-  },
-  {
-    "id": "msg7956",
-    "title": "Myntra | 💥 Up to 89% OFF – Limited Time!",
-    "description": "Myntra Loot – Women’s Ethnic Wear 👗 🔥 Vishudh, Libas & More 💥 Upto 89% OFF – Limited Time! 👉 Link :",
-    "shortlink": "https://myntr.in/vwhEZR",
-    "final_url": "https://myntr.in/vwhEZR",
-    "local_image": "assets/images/tgmsg_7956.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-27T11:39:25+00:00",
-    "buy_link": "https://myntr.in/vwhEZR",
-    "date_iso": "2025-09-27T11:39:25+00:00"
   }
 ]
