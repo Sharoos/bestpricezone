@@ -1,5 +1,18 @@
 [
   {
+    "id": "msg8780",
+    "title": "Flipkart | LOOT ₹271",
+    "description": "LOOT ₹271 :",
+    "shortlink": "https://fkrt.co/S0wXy6",
+    "final_url": "https://fkrt.co/S0wXy6",
+    "local_image": "assets/images/tgmsg_8780.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-28T18:29:18+00:00",
+    "buy_link": "https://fkrt.co/S0wXy6",
+    "date_iso": "2025-09-28T18:29:18+00:00"
+  },
+  {
     "id": "msg8777",
     "title": "Myntra | 71% Off On Branded Body Lotion",
     "description": "Myntra : 50-71% Off On Branded Body Lotions. 👉 (Ponds, Nivea, Vaseline, Parachute, Etc)",
@@ -2585,18 +2598,5 @@
     "date_obj": "2025-09-27T13:40:24+00:00",
     "buy_link": "https://www.amazon.in/l/211779671031/ref=BareBeautyTelegramJup25?tag=bestpricezo0f-21",
     "date_iso": "2025-09-27T13:40:24+00:00"
-  },
-  {
-    "id": "msg8009",
-    "title": "Myntra | 💄✨ Beauty & Personal Care Mega Sale! ✨💄",
-    "description": "💄✨ Myntra Beauty & Personal Care Mega Sale! ✨💄 🔥 Lakmé Makeup – Flat 60-75% OFF! 🛍 Shop Now :  🌸 Pond’s Skincare – Flat 50-70% OFF! 🛍 Grab Here :  💚 Love Beauty & Planet – Flat 40-55% OFF! 🛍 Buy Now :  🌞 Sunsilk…",
-    "shortlink": "https://myntr.in/NQLy6v",
-    "final_url": "https://myntr.in/NQLy6v",
-    "local_image": "assets/images/tgmsg_8009.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-27T13:41:24+00:00",
-    "buy_link": "https://myntr.in/NQLy6v",
-    "date_iso": "2025-09-27T13:41:24+00:00"
   }
 ]
