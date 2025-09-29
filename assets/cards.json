@@ -1,5 +1,44 @@
 [
   {
+    "id": "msg8956",
+    "title": "Amazon | Wrinkle Cream, 50g @121",
+    "description": "Amazon | Himalaya Herbals Anti-Wrinkle Cream, 50g @121. 👉",
+    "shortlink": "https://www.amazon.in/dp/B003OPTXW4?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B003OPTXW4?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_8956.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-09-29T08:34:22+00:00",
+    "buy_link": "https://www.amazon.in/dp/B003OPTXW4?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-09-29T08:34:22+00:00"
+  },
+  {
+    "id": "msg8959",
+    "title": "Myntra | | Guess, Police sunglasses at never before prices Min 40% off, Hurry up before the offer last",
+    "description": "Myntra | Guess, Police sunglasses at never before prices Min 40% off, Hurry up before the offer lasts. 👉",
+    "shortlink": "https://myntr.in/a18LAm",
+    "final_url": "https://myntr.in/a18LAm",
+    "local_image": "assets/images/tgmsg_8959.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-29T08:45:14+00:00",
+    "buy_link": "https://myntr.in/a18LAm",
+    "date_iso": "2025-09-29T08:45:14+00:00"
+  },
+  {
+    "id": "msg8960",
+    "title": "Bitli | Loot : 4 Party Collection Jewellery @199",
+    "description": "Loot : Buy 4 Party Collection Jewellery @199 Use Code : CK4",
+    "shortlink": "https://bitli.in/3klwcpo",
+    "final_url": "https://bitli.in/3klwcpo",
+    "local_image": "assets/images/tgmsg_8960.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-09-29T08:46:35+00:00",
+    "buy_link": "https://bitli.in/3klwcpo",
+    "date_iso": "2025-09-29T08:46:35+00:00"
+  },
+  {
     "id": "msg8953",
     "title": "Myntra | Min 50% off on Festive Cushion Cover Set",
     "description": "Myntra | Bedcovers and Bedding sets starting @ 459 👉 Premium Blankets under 1199 👉 Winter Blankets starting @ 399 👉 Double Bed Fitted Bedsheets Under 199 👉 5 pcs Bedding sets @ 459 Only! 👉 Double Cotton Bedsheets…",
@@ -2559,44 +2598,5 @@
     "date_obj": "2025-09-27T15:01:46+00:00",
     "buy_link": "https://fkrt.co/V0HhiW",
     "date_iso": "2025-09-27T15:01:46+00:00"
-  },
-  {
-    "id": "msg8122",
-    "title": "Myntra | | Up to 85% Off on Cups And Mugs Starting @ just ₹ 99",
-    "description": "Myntra | UPTO 85% Off on Cups And Mugs Starting @ just ₹ 99 Link :",
-    "shortlink": "https://myntr.in/kyZTxc",
-    "final_url": "https://myntr.in/kyZTxc",
-    "local_image": "assets/images/tgmsg_8122.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-27T15:11:43+00:00",
-    "buy_link": "https://myntr.in/kyZTxc",
-    "date_iso": "2025-09-27T15:11:43+00:00"
-  },
-  {
-    "id": "msg8124",
-    "title": "Amazon | Loot : Glen Premium Mixer Grinder 550 Watt, 3 Stainless Steel Jar at ₹1,699",
-    "description": "Loot : Glen Premium Mixer Grinder 550 Watt, 3 Stainless Steel Jar at ₹1,699",
-    "shortlink": "https://www.amazon.in/dp/B0FC267MQC?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FC267MQC?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_8124.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-27T15:15:05+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FC267MQC?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-09-27T15:15:05+00:00"
-  },
-  {
-    "id": "msg8088",
-    "title": "Amazon | Anker Portable Charger,10,000mAh 30W Power Bank At 2499",
-    "description": "Anker Portable Charger,10,000mAh 30W Power Bank At 2499",
-    "shortlink": "https://www.amazon.in/dp/B0CZ9M6X8Q?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CZ9M6X8Q?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_8088.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-27T14:40:03+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CZ9M6X8Q?tag=bestpricezo0f-21",
-    "date_iso": "2025-09-27T14:40:03+00:00"
   }
 ]
