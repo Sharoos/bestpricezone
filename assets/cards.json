@@ -1,5 +1,31 @@
 [
   {
+    "id": "msg8951",
+    "title": "Myntra | Use Code: BFFOP12 to get 12% Off!",
+    "description": "Myntra | 🔥 OnePlus Lowest Prices on new models!!🔥 Only for Few Hours OnePlus Wireless Z3 at Rs. 1143 only! Use Coupon Code: BFFOP12 to get 12% Off! 👉",
+    "shortlink": "https://myntr.in/YY4YTz",
+    "final_url": "https://myntr.in/YY4YTz",
+    "local_image": "assets/images/tgmsg_8951.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-29T07:31:21+00:00",
+    "buy_link": "https://myntr.in/YY4YTz",
+    "date_iso": "2025-09-29T07:31:21+00:00"
+  },
+  {
+    "id": "msg8952",
+    "title": "Myntra | Use Code : BFFOP10 To Get Extra 10 % Off!",
+    "description": "Myntra | 🔥OnePlus Lowest Prices Ever🔥 ONLY FOR FEW Hours OnePlus Nord Buds 2r at Rs. 1231 only! Use Coupon Code : BFFOP12 to get 12% Off! 👉 OnePlus Nord Buds 3r Only at Rs. 1439 + Bank offers!! Use Coupon Code : BFFOP10…",
+    "shortlink": "https://myntr.in/C27PRA",
+    "final_url": "https://myntr.in/C27PRA",
+    "local_image": "assets/images/tgmsg_8952.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-29T07:40:17+00:00",
+    "buy_link": "https://myntr.in/C27PRA",
+    "date_iso": "2025-09-29T07:40:17+00:00"
+  },
+  {
     "id": "msg8950",
     "title": "Myntra | Realme T110 Buds Only at Rs. 749 + Bank offers!! Use Code: BFFRM25 To Get Extra 25% Off!",
     "description": "Myntra | 🔥 Realme Lowest Prices Ever🔥 Only for last few hours Realme Wireless 3 Neo Only at Rs. 737 + Bank offers!! Use COUPON CODE: BFFRM18 To Get 18% off!! 👉 Realme T110 Buds Only at Rs. 749 + Bank offers!! Use Coupon…",
@@ -2572,31 +2598,5 @@
     "date_obj": "2025-09-27T14:51:33+00:00",
     "buy_link": "https://ajiio.co/tgYOvy",
     "date_iso": "2025-09-27T14:51:33+00:00"
-  },
-  {
-    "id": "msg8067",
-    "title": "Flipkart | Newborn Baby Doll with Feeding Toy for Kids and Gift for Kids (Pink) @380",
-    "description": "Newborn Baby Doll with Feeding Toy for Kids and Gift for Kids (Pink) @380",
-    "shortlink": "https://fkrt.co/YT4sO0",
-    "final_url": "https://fkrt.co/YT4sO0",
-    "local_image": "assets/images/tgmsg_8067.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-27T14:18:24+00:00",
-    "buy_link": "https://fkrt.co/YT4sO0",
-    "date_iso": "2025-09-27T14:18:24+00:00"
-  },
-  {
-    "id": "msg8075",
-    "title": "Flipkart | Discounted Price: ₹22,240",
-    "description": "Flipkart | Samsung Crystal 4K 43\" TV MRP: ₹44,900 Discounted Price: ₹22,240* Product Link:  TCL T6C 55\" QLED TV MRP: ₹93,990 Discounted Price: ₹28,740* Product Link:  Hisense E6N 43\" 4K LED MRP: ₹44,999 Discounted…",
-    "shortlink": "https://fkrt.co/yGoLxw",
-    "final_url": "https://fkrt.co/yGoLxw",
-    "local_image": "assets/images/tgmsg_8075.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-27T14:26:34+00:00",
-    "buy_link": "https://fkrt.co/yGoLxw",
-    "date_iso": "2025-09-27T14:26:34+00:00"
   }
 ]
