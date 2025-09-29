@@ -466,7 +466,7 @@ body{
 .header .wrap{
   max-width:var(--max-width); margin:0 auto; display:flex; gap:12px; align-items:center;
 }
-.brand{font-weight:800;font-size:18px; letter-spacing:-0.4px}
+
 .controls{margin-left:auto; display:flex; gap:10px; align-items:center}
 .search{
   display:flex; align-items:center; background:#fff; padding:8px; border-radius:12px;
@@ -606,7 +606,7 @@ body{
 /* thumbnail container: keeps aspect ratio via padding-top */
 .thumb{
   position: relative;
-  padding-top: 56.25%;    /* 16:9 box — change if you want a different ratio */
+  aspect-ratio: 1 / 1; /* square cards look tidy */
   border-radius:10px;
   overflow: hidden;
   background: #fff;       /* nice neutral backdrop for images */
@@ -632,7 +632,13 @@ body{
 .meta{display:flex; align-items:center; justify-content:space-between; margin-top:10px}
 .title{font-weight:700;font-size:14px;margin:8px 0; line-height:1.18; min-height:42px; overflow:hidden}
 .badge{display:inline-block;background:var(--pill); color:var(--primary); padding:6px 10px; border-radius:999px; font-weight:700; font-size:12px}
-.actions{margin-top:auto; display:flex; gap:8px; align-items:center; flex-wrap:wrap}
+.card .actions {
+  margin-top: auto;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: nowrap; /* keep consistent across desktop and mobile */
+}
 .buy {
   background: #2563eb; /* solid indigo/blue */
   color: #fff;
@@ -738,7 +744,7 @@ body{
 }
 .modal .left{flex:1; min-width:220px}
 .modal .right{width:360px; max-width:100%; display:flex; flex-direction:column}
-.close-btn{background:transparent;border:0;font-size:18px;cursor:pointer;color:#666; float:right}
+.close-btn{background:transparent;border:0;font-size:18px;cursor:pointer;color:#666}
 #modal-image{width:100%; height:420px; object-fit:contain; background:#fff}
 
 .modal .modal-link-row {
@@ -828,7 +834,6 @@ body{
 .pagination button:hover{transform:translateY(-2px)}
 .pagination button.active{background:var(--primary); color:#fff; border-color:transparent; box-shadow:0 10px 20px rgba(15,98,254,0.14)}
 
-/* responsive tweaks */
 @media (max-width:980px){
   .hero{padding:14px}
   .search input{width:180px}
@@ -836,35 +841,64 @@ body{
   #modal-image{height:320px}
   .thumb{padding-top:60%}
 }
-@media (max-width:720px){
-  .header{padding:10px 10px}
-  .brand{font-size:16px}
-  .hero .h{font-size:16px}
-  .search input{width:120px}
-  .grid{grid-template-columns:repeat(auto-fill,minmax(140px, 1fr)); gap:10px}
-  .thumb{padding-top:66%}
-  .title{font-size:13px}
-  .desc{font-size:12px}
-  .modal{padding:12px}
-  .modal .left, .modal .right{width:100%}
-  #modal-image{height:260px}
-  .buy{flex:1; width:100%}
-  .actions{display:flex; flex-direction:column; gap:8px}
-  .filter-bar{padding:0 10px}
-  .banner-wrap img{height:calc(var(--hero-height) * 0.55); border-radius:10px}
+
+/* Mobile */
+@media (max-width:720px) {
+  .card .actions {
+    display: flex;
+    flex-wrap: wrap;       /* allow wrapping into two rows */
+    gap: 8px;
+    margin-top: 12px;
+    width: 100%;
+  }
+
+  /* Row 1: View + Share */
+  .card .actions .view-btn {
+    flex: 1 1 auto;        /* takes remaining space */
+    min-width: 60px;
+    padding: 8px 12px;
+    font-size: 14px;
+    border-radius: 10px;
+  }
+  .card .actions .share-btn {
+    flex: 0 0 44px;
+    width: 44px;
+    height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin-left: auto;
+  }
+
+  /* Row 2: Buy button full width */
+  .card .actions .buy {
+    flex: 1 0 100%;
+    width: 100%;
+    text-align: center;
+    padding: 10px 12px;
+    font-size: 15px;
+    margin-top: 4px;       /* little space below first row */
+  }
 }
 
-/* very small phones */
+/* Small phones (kept separate — NOT nested) */
 @media (max-width:420px){
   .search input{width:92px}
-  .brand{font-size:15px}
+  
   .hero{gap:8px}
   .banner-wrap img{height:calc(var(--hero-height) * 0.45)}
   .thumb{padding-top:72%}
   .title{min-height:36px}
   .desc{min-height:28px}
   .container{padding-left:10px;padding-right:10px}
+
+  .card .actions { gap: 6px; padding-right: 6px; margin-top:10px; }
+  .card .actions .view-btn,
+  .card .actions .buy { font-size: 13px; padding: 7px 10px; min-width: 52px; }
+  .card .actions .share-btn { flex: 0 0 40px; width: 40px; height: 40px; margin-left: 8px; }
 }
+
 </style>
 
 </head>
@@ -1574,10 +1608,16 @@ document.getElementById("modal-share").addEventListener("click", () => {
 """
 
     # replace placeholders and return
-    html = html_template.replace("__CARDS_JSON__", cards_json_safe)
+    html = html_template
+    html = html.replace("__CARDS_JSON__", cards_json_safe)
     html = html.replace("__BANNER_HTML__", banner_html)
     html = html.replace("__HERO_HEIGHT__", hero_height)
     html = html.replace("__GEN_TS__", gen_ts)
+
+    # set OG/Twitter image to banner if present, else empty to avoid leaking placeholder
+    og_img = banner_rel or ""
+    html = html.replace("__BANNER_IMAGE__", og_img)
+
     # inject SHOW_RELATIVE boolean literal into the HTML for client-side JS
     html = html.replace("__SHOW_RELATIVE__", "true" if show_relative else "false")
     return html
