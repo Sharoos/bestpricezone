@@ -1,5 +1,22 @@
 [
   {
+    "id": "msg8981",
+    "title": "Sujata Appliances at Flat 45% off",
+    "description": "Myntra :  👉Link -",
+    "shortlink": "https://myntr.in/fW3S8b",
+    "urls": [
+      "https://myntr.in/fW3S8b"
+    ],
+    "raw_text": "Myntra : Sujata Appliances at Flat 45% off\n\n👉Link - https://myntr.in/fW3S8b",
+    "final_url": "https://myntr.in/fW3S8b",
+    "local_image": "assets/images/tgmsg_8981.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-29T10:50:08+00:00",
+    "buy_link": "https://myntr.in/fW3S8b",
+    "date_iso": "2025-09-29T10:50:08+00:00"
+  },
+  {
     "id": "msg8978",
     "title": "Titan Analog Watches Minimum 50% OFF",
     "description": "Flipkart |  Men's :  Women's :",
@@ -2631,18 +2648,5 @@
     "date_obj": "2025-09-27T16:34:14+00:00",
     "buy_link": "https://fkrt.co/kGm0gN",
     "date_iso": "2025-09-27T16:34:14+00:00"
-  },
-  {
-    "id": "msg8205",
-    "title": "Myntra | 90% Off On Women Clothing",
-    "description": "Myntra : 90% Off On Women Clothing. Tops :  Dresses :  Sweatshirt :  Shirt :  Jackets :  Trousers :  Co-Ords :  Jeans :  Aeropostale:  FCUK :",
-    "shortlink": "https://myntr.in/eSPzOG",
-    "final_url": "https://myntr.in/eSPzOG",
-    "local_image": "assets/images/tgmsg_8205.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-27T16:35:08+00:00",
-    "buy_link": "https://myntr.in/eSPzOG",
-    "date_iso": "2025-09-27T16:35:08+00:00"
   }
 ]
