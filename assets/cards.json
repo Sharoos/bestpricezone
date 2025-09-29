@@ -1,5 +1,39 @@
 [
   {
+    "id": "msg9142",
+    "title": "Himalaya Baby Body Lotion, 600 ml @190",
+    "description": "Amazon | .",
+    "shortlink": "https://www.amazon.in/dp/B0FLHX748R?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      "https://www.amazon.in/dp/B0FLHX748R?th=1&tag=bestpricezo0f-21"
+    ],
+    "raw_text": "Amazon | Himalaya Baby Body Lotion, 600 ml @190.\n\nhttps://www.amazon.in/dp/B0FLHX748R?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FLHX748R?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_9142.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-09-29T17:11:28+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FLHX748R?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-09-29T17:11:28+00:00"
+  },
+  {
+    "id": "msg9149",
+    "title": "Anti Skid Door Rugs Starting At 99",
+    "description": ".",
+    "shortlink": "https://myntr.in/QTMh6K",
+    "urls": [
+      "https://myntr.in/QTMh6K"
+    ],
+    "raw_text": "Anti Skid Door Rugs Starting At 99.\n\nhttps://myntr.in/QTMh6K",
+    "final_url": "https://myntr.in/QTMh6K",
+    "local_image": "assets/images/tgmsg_9149.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-29T17:18:52+00:00",
+    "buy_link": "https://myntr.in/QTMh6K",
+    "date_iso": "2025-09-29T17:18:52+00:00"
+  },
+  {
     "id": "msg9139",
     "title": "Up to 75% Off On Puma Shoes & Accessorie",
     "description": "Myntra Loot : Upto 75% Off On Puma Shoes & Accessories. Men's :  Women's :  Boy’s :  Girl’s :",
@@ -2840,31 +2874,5 @@
     "date_obj": "2025-09-28T06:07:28+00:00",
     "buy_link": "https://myntr.in/4HjEM4",
     "date_iso": "2025-09-28T06:07:28+00:00"
-  },
-  {
-    "id": "msg8449",
-    "title": "Amazon | 2 Or 3 & Get Extra Up to 7% Off",
-    "description": "GRAB : Men's Trackpant/Trouser Starts At 279 + Coupon  Buy 2 Or 3 & Get Extra Upto 7% Off",
-    "shortlink": "https://www.amazon.in/b?node=205654056031&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/b?node=205654056031&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_8449.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-28T06:09:45+00:00",
-    "buy_link": "https://www.amazon.in/b?node=205654056031&tag=bestpricezo0f-21",
-    "date_iso": "2025-09-28T06:09:45+00:00"
-  },
-  {
-    "id": "msg8451",
-    "title": "Myntra | | Tracksuits Up to 82% Off",
-    "description": "Myntra | Tracksuits Upto 82% Off 👉Link :",
-    "shortlink": "https://myntr.in/7bjRVO",
-    "final_url": "https://myntr.in/7bjRVO",
-    "local_image": "assets/images/tgmsg_8451.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-28T06:17:27+00:00",
-    "buy_link": "https://myntr.in/7bjRVO",
-    "date_iso": "2025-09-28T06:17:27+00:00"
   }
 ]
