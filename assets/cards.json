@@ -1,5 +1,18 @@
 [
   {
+    "id": "msg8943",
+    "title": "Myntra | Up to 87% Off On HRX Shoe",
+    "description": "Myntra : Upto 87% Off On HRX Shoes. Men :  Women :",
+    "shortlink": "https://myntr.in/iAFGdt",
+    "final_url": "https://myntr.in/iAFGdt",
+    "local_image": "assets/images/tgmsg_8943.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-29T05:53:25+00:00",
+    "buy_link": "https://myntr.in/iAFGdt",
+    "date_iso": "2025-09-29T05:53:25+00:00"
+  },
+  {
     "id": "msg8942",
     "title": "Flipkart | | Grab : Up to 80% OFF on Beardo Perfumes 🔥🔥",
     "description": "Flipkart | Grab : Upto 80% OFF on Beardo Perfumes 🔥🔥 Link:",
@@ -2585,18 +2598,5 @@
     "date_obj": "2025-09-27T13:56:52+00:00",
     "buy_link": "https://fkrt.co/4JYVT4",
     "date_iso": "2025-09-27T13:56:52+00:00"
-  },
-  {
-    "id": "msg8036",
-    "title": "Flipkart | Up to 85% Off On Branded Shoes [Limited Stock]",
-    "description": "Flipkart : Upto 85% Off On Branded Shoes [Limited Stock] 👉 Master Link :  Suggestions: Puma :  Adidas :  Reebok :  Campus :  Redtape :  Ducati :  Crocs :",
-    "shortlink": "https://fkrt.co/UqvewV",
-    "final_url": "https://fkrt.co/UqvewV",
-    "local_image": "assets/images/tgmsg_8036.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-27T13:58:01+00:00",
-    "buy_link": "https://fkrt.co/UqvewV",
-    "date_iso": "2025-09-27T13:58:01+00:00"
   }
 ]
