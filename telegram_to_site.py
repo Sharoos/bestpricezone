@@ -190,14 +190,24 @@ def clean_message_text(text: str, shortlink: Optional[str] = None) -> str:
     chosen = re.sub(r'\bUpto\b', 'Up to', chosen, flags=re.I)
     merchant = normalize_merchant(chosen, shortlink)
     if merchant:
-        chosen = re.sub(r'(?i)\b' + re.escape(merchant) + r'\b[:\s\-]*', '', chosen).strip()
-        final = f"{merchant} | {chosen}".strip()
-    else:
-        final = chosen
+        # remove merchant name if it appears in the line
+        chosen = re.sub(r'(?i)\b' + re.escape(merchant) + r'\b[:\s\-|]*', '', chosen).strip()
+    # no merchant prefix anymore
+    final = chosen
+    # remove junk phrases
+    final = re.sub(r'\b(grab here|grab now|grab|link|loot:?|buy now|click here)\b','', final, flags=re.I)
+    # cleanup stray leading/trailing separators like "|" or ":" or "-"
+    final = re.sub(r'^[\|\-:]+', '', final).strip()
+    final = re.sub(r'[\|\-:]+$', '', final).strip()
+    final = re.sub(r'\s*[\|\-:]+\s*', ' ', final)  # turn " | " or " - " into single space
+    final = re.sub(r'\s+', ' ', final).strip()
+    # collapse spaces
     final = re.sub(r'\s+', ' ', final).strip()
     if len(final) > 160:
         final = final[:157].rsplit(' ', 1)[0] + '…'
+
     return final
+
 
 def safe_filename(base: str) -> str:
     name = os.path.basename(base) or "img"
@@ -385,6 +395,9 @@ def build_index(cards, show_relative=True, banner_rel: Optional[str] = None, her
     # JSON for embedding — default safe conversion ensured above
     cards_json = json.dumps(serializable, ensure_ascii=False)
 
+    # protect against accidentally closing the <script> tag when we embed JSON
+    cards_json_safe = cards_json.replace("</", "<\\/")
+
     # banner HTML fragment if we have a banner
     banner_html = ""
     if banner_rel:
@@ -401,7 +414,7 @@ def build_index(cards, show_relative=True, banner_rel: Optional[str] = None, her
 
     # Build HTML (JS inside the string only)
     # NOTE: Small pager CSS added to make nice buttons
-    html_template = """<!doctype html>
+    html_template = r"""<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8" />
@@ -639,6 +652,84 @@ body{
   box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
 }
 
+/* Share button (matches .buy) */
+.share-btn {
+  background: #ffffff;
+  color: #000000;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(37, 99, 235, 0.25);
+  transition: background 0.2s ease, transform 0.12s ease;
+  font-weight: 600;
+}
+.share-btn:hover { background: #1d4ed8; transform: translateY(-2px); }
+
+/* small icon-only variant (for modal header) */
+.share-btn.icon {
+  padding: 8px;
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  font-weight: 500;
+}
+
+/* popup container for desktop fallback */
+.share-popup {
+  position: absolute;
+  z-index: 1001;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(2,6,23,0.18);
+  padding: 8px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  min-width: 230px;
+  max-width: 320px;
+}
+
+/* share item (icon + label) */
+.share-item {
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  padding: 8px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  text-decoration: none;
+  color: #111827;
+  background: #f8fafc;
+}
+.share-item:hover { background: #eef2ff; color: #0f172a; }
+
+/* icon style inside popup */
+.share-item svg { width: 18px; height: 18px; flex: 0 0 18px; }
+
+/* tiny "copied" toast */
+.share-toast {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(17,24,39,0.95);
+  color: #fff;
+  padding: 8px 14px;
+  border-radius: 999px;
+  font-weight: 600;
+  z-index: 1200;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .18s ease;
+}
+.share-toast.show { opacity: 1; pointer-events: auto; }
+
+
 /* modal */
 .modal-backdrop{position:fixed; inset:0; background:rgba(2,6,23,0.6); display:none; align-items:center; justify-content:center; z-index:140}
 .modal{
@@ -649,6 +740,79 @@ body{
 .modal .right{width:360px; max-width:100%; display:flex; flex-direction:column}
 .close-btn{background:transparent;border:0;font-size:18px;cursor:pointer;color:#666; float:right}
 #modal-image{width:100%; height:420px; object-fit:contain; background:#fff}
+
+.modal .modal-link-row {
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 8px;
+  flex-wrap: wrap;
+}
+
+/* Modal header: keep title left, close button right on the same row */
+.modal-header {
+  display: flex;
+  align-items: center;       /* vertically center title + button */
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
+}
+
+/* Title styling inside modal header */
+.modal-header .modal-title,
+.modal-title {
+  margin: 0;
+  font-weight: 800;          /* restore boldness */
+  font-size: 18px;
+  line-height: 1.2;
+  flex: 1 1 auto;
+  white-space: normal;
+  word-break: break-word;
+}
+
+/* Close button: remove float and align in flex layout */
+.close-btn {
+  background: transparent;
+  border: 0;
+  font-size: 18px;
+  cursor: pointer;
+  color: #666;
+  padding: 6px 8px;
+  border-radius: 8px;
+  /* ensure not floating and does not shrink */
+  float: none !important;
+  flex: 0 0 auto;
+  align-self: flex-start; /* tune vertical alignment if desired */
+}
+
+/* Optional: nicer hover for the close button */
+.close-btn:hover {
+  background: rgba(0,0,0,0.04);
+}
+
+/* Make sure the label can wrap but won't push the button out */
+.modal .modal-link-row > div {
+  flex: 1 1 auto;
+  word-break: break-word;
+  white-space: normal;
+  max-width: calc(100% - 120px); /* reserve ~120px for the button; increase if your buttons are wider */
+}
+
+/* Button stays fixed-sized and anchored to the right */
+.modal .modal-link-row .buy {
+  flex: 0 0 auto;
+  min-width: 96px;
+  margin-left: auto;
+  flex-shrink: 0;
+}
+#modal-links-wrap {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
 
 /* footer */
 .footer{background:#fff;border-top:1px solid rgba(0,0,0,0.04); padding:28px 12px; color:var(--muted); margin-top:30px}
@@ -786,18 +950,26 @@ __BANNER_HTML__
   <div id="modal-back" class="modal-backdrop" aria-hidden="true">
     <div class="modal" role="dialog" aria-modal="true">
       <div class="left">
-        <button class="close-btn" id="modal-close" aria-label="Close">✕</button>
         <div style="border-radius:10px;overflow:hidden;margin-top:6px" id="modal-image-wrap">
           <img id="modal-image" src="" style="width:100%;height:420px;object-fit:contain;background:#fff" />
         </div>
       </div>
       <div class="right">
         <div style="display:flex;flex-direction:column;gap:10px">
-          <div style="font-weight:800;font-size:18px" id="modal-title"></div>
+          <!-- title row with close button -->
+          <div class="modal-header">
+            <h2 id="modal-title" class="modal-title"></h2>
+            <div style="display:flex;gap:8px;align-items:center">
+              <button class="share-btn icon" id="modal-share" aria-label="Share this deal (modal)"></button>
+              <button class="close-btn" id="modal-close" aria-label="Close">✕</button>
+            </div>
+          </div>
+
           <div style="display:flex;align-items:center;gap:10px">
             <div id="modal-merchant" style="font-weight:700"></div>
             <div id="modal-time" style="margin-left:auto" class="small"></div>
-          </div>          
+          </div>
+
           <div style="display:flex;gap:10px;align-items:center;margin-top:12px">
             <a id="modal-buy" class="buy" target="_blank" rel="noopener">Buy now</a>
             <!-- affiliate link text removed to avoid showing shortlink -->
@@ -806,6 +978,7 @@ __BANNER_HTML__
       </div>
     </div>
   </div>
+
 
 <script>
   // embed cards snapshot
@@ -845,15 +1018,40 @@ __BANNER_HTML__
     return Math.floor(s/86400) + 'd ago';
   }
 
+  async function shareCard(id, title, url) {
+  const shareData = {
+    title: title,
+    text: title,
+    url: url
+  };
+
+  if (navigator.share) {
+    try {
+      await navigator.share(shareData);
+    } catch (err) {
+      console.warn("Share cancelled", err);
+    }
+  } else {
+    try {
+      await navigator.clipboard.writeText(url);
+      alert("Link copied! Share it with your friends.");
+    } catch (err) {
+      console.error("Clipboard copy failed", err);
+    }
+  }
+}
+
   let cards = (window.CARDS || []).map(c => {
     return {
       id: c.id || (c.shortlink||'') + Math.random().toString(36).slice(2,8),
       title: c.title || '',
       description: c.description || '',
+      raw_text: c.raw_text || c.description || c.title || '',   // <-- added
       merchant_label: c.merchant_label || (c.source_host || ''),
       local_image: c.local_image || '',
       date_iso: c.date_iso || c.date_obj || '',
       buy_link: c.buy_link || c.shortlink || '',
+      urls: Array.isArray(c.urls) ? c.urls : (c.urls ? [c.urls] : []),
       price_raw: parsePrice((c.title || '') + ' ' + (c.description || '')) || ''
     };
   });
@@ -941,9 +1139,18 @@ __BANNER_HTML__
   <div class="small" style="color:var(--muted)">${escapeHtml(timeStr)}</div>
 </div>
 <div class="title">${escapeHtml(c.title)}</div>
+
 <div class="actions">
   <a class="buy view-btn" href="javascript:void(0)" data-id="${c.id}">View</a>
   <a class="buy" href="${c.buy_link}" target="_blank" rel="noopener">Buy Now</a>
+  <button class="share-btn" onclick="openShareMenu(this, '${encodeURIComponent(c.id)}')" aria-label="Share this deal">
+    <!-- arrow-out-of-box icon -->
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path>
+      <polyline points="16 6 12 2 8 6"></polyline>
+      <line x1="12" y1="2" x2="12" y2="15"></line>
+    </svg>
+  </button>
 </div>
 
 `;
@@ -995,30 +1202,367 @@ __BANNER_HTML__
   document.getElementById('modal-close').addEventListener('click', closeModal);
   modalBack.addEventListener('click', (e)=>{ if(e.target === modalBack) closeModal(); });
 
-  function openModal(card) {
-    modalImage.src = card.local_image;
-    modalTitle.textContent = card.title;    
-    modalMerchant.textContent = card.merchant_label;
-    modalTime.textContent = timeAgo(card.date_iso);
-    modalBuy.href = card.buy_link || '#';
-    modalBack.style.display = 'flex';
-    modalBack.setAttribute('aria-hidden','false');
+function openModal(card) {
+  // set main modal image
+  modalImage.src = card.local_image || "";
+
+  // Clean title so merchant prefixes like "Myntra | ..." never appear
+  let cleanTitle = card.title || "";
+  if (card.merchant_label) {
+    // strip merchant name at start like "Myntra | " or "Myntra - " (case-insensitive)
+    const re = new RegExp(
+      "^\\s*" +
+        card.merchant_label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") +
+        "\\s*[:\\-|\\|]+\\s*",
+      "i"
+    );
+    cleanTitle = cleanTitle.replace(re, "").trim();
   }
-  function closeModal() {
-    modalBack.style.display = 'none';
-    modalBack.setAttribute('aria-hidden','true');
-    modalImage.src = '';
+  // strip stray leading separators
+  cleanTitle = cleanTitle.replace(/^[\|\-:]+/, "").trim();
+  // remove noisy phrases
+  cleanTitle = cleanTitle
+    .replace(/\b(grab here|grab now|grab|link|loot:?|buy now|click here)\b/gi, "")
+    .trim();
+  // final cleanup of duplicate separators/spaces
+  cleanTitle = cleanTitle.replace(/\s*[\|\-:]+\s*/g, " ").replace(/\s+/g, " ").trim();
+
+  modalTitle.textContent = cleanTitle || card.merchant_label || "";
+
+  modalMerchant.textContent = card.merchant_label || "";
+  modalTime.textContent =
+    typeof SHOW_RELATIVE !== "undefined" && SHOW_RELATIVE
+      ? timeAgo(card.date_iso)
+      : card.date_iso
+      ? new Date(card.date_iso).toLocaleString()
+      : "";
+
+  // remove previous multi-link container
+  let linksWrap = document.getElementById("modal-links-wrap");
+  if (linksWrap) {
+    linksWrap.remove();
+    linksWrap = null;
   }
 
-  function escapeHtml(s) {
-    if(!s) return '';
-    return String(s)
-      .replace(/&/g,'&amp;')
-      .replace(/</g,'&lt;')
-      .replace(/>/g,'&gt;')
-      .replace(/"/g,'&quot;')
-      .replace(/'/g,'&#39;');
+  // helper to clean labels
+  function cleanLabelText(txt) {
+    if (!txt) return "";
+    return txt
+      .replace(/\b(grab here|grab now|grab|link|loot:?|buy now|click here)\b/gi, "")
+      .replace(/[:\-–—]+$/g, "")
+      .trim();
   }
+
+  function guessLabelFromUrl(url, cardObj) {
+    const raw = String(cardObj.raw_text || cardObj.description || cardObj.title || "");
+    const lines = raw.split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
+
+    // helper: determine if a line is likely a merchant/header or otherwise noisy
+    function isNoiseLine(s) {
+      if (!s) return true;
+      // strip emojis and arrows for the check
+      const stripped = s.replace(/^[\p{Emoji}_\s👉\->•\*…—–:]+|[\p{Emoji}_\s👉\->•\*…—–:]+$/gu, "").trim();
+      if (!stripped) return true;
+      // common single-word merchants / headings to ignore
+      if (/^(myntra|amazon|flipkart|ajio|snapdeal|flipkart\W*)$/i.test(stripped)) return true;
+      // if the line is very short and contains no letters (or just a single word), treat as noise
+      if (stripped.length < 3) return true;
+      // if line is mostly punctuation / currency / link text, treat as noise
+      if (/^[\W\d_]+$/.test(stripped)) return true;
+      return false;
+    }
+
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i];
+      if (!line) continue;
+      if (line.indexOf(url) !== -1) {
+        const idx = line.indexOf(url);
+        const left = line
+          .slice(0, idx)
+          .replace(/^[👉\-\:\s]+/, "")
+          .replace(/[:\-\u2014\u2013\.\s]+$/, "")
+          .trim();
+
+        if (left && !left.match(/^https?:\/\//i)) {
+          const leftClean = cleanLabelText(left);
+          // if leftClean is not just noise, use it
+          if (leftClean && !isNoiseLine(leftClean)) return leftClean;
+        }
+
+        // look at previous non-empty line but skip it when it's likely a merchant/header/noise
+        if (i > 0) {
+          // scan backwards to find the nearest non-empty previous line
+          for (let j = i - 1; j >= 0; j--) {
+            const prev = lines[j].trim();
+            if (!prev) continue;
+            if (prev.match(/^https?:\/\//i)) break; // if previous is a link, don't use it
+            const prevClean = cleanLabelText(prev);
+            if (prevClean && !isNoiseLine(prevClean)) {
+              return prevClean;
+            } else {
+              // if prev line is noisy, don't keep falling back to earlier lines blindly;
+              // allow one more earlier line as a last attempt (helps when list has a header + empty line + product)
+              if (j - 1 >= 0) {
+                const prev2 = cleanLabelText(lines[j - 1] || "");
+                if (prev2 && !isNoiseLine(prev2)) return prev2;
+              }
+            }
+            break;
+          }
+        }
+
+        const withoutUrl = line
+          .replace(url, "")
+          .replace(/^[👉\-\:\s]+/, "")
+          .replace(/[:\-\u2014\u2013]+$/, "")
+          .trim();
+        if (withoutUrl) {
+          const wClean = cleanLabelText(withoutUrl);
+          if (wClean && !isNoiseLine(wClean)) return wClean;
+        }
+
+        try {
+          const u = new URL(url);
+          return u.hostname.replace("www.", "");
+        } catch (e) {
+          return url;
+        }
+      }
+    }
+
+    try {
+      const u = new URL(url);
+      return u.hostname.replace("www.", "");
+    } catch (e) {
+      return url;
+    }
+  }
+
+
+  // if card.urls exists and has items, render multiple buy rows
+  if (Array.isArray(card.urls) && card.urls.length > 0) {
+    if (modalBuy) modalBuy.style.display = "none";
+
+    linksWrap = document.createElement("div");
+    linksWrap.id = "modal-links-wrap";
+    linksWrap.style.display = "flex";
+    linksWrap.style.flexDirection = "column";
+    linksWrap.style.alignItems = "stretch";
+    linksWrap.style.marginTop = "12px";
+    const parentForBuy =
+      modalBuy && modalBuy.parentNode
+        ? modalBuy.parentNode
+        : document.querySelector(".modal .right") || document.body;
+    parentForBuy.appendChild(linksWrap);
+
+    card.urls.forEach((u) => {
+      if (!u) return;
+
+      let labelText = guessLabelFromUrl(u, card) || "";
+      const domainLike = /^[a-z0-9-]+(\.[a-z0-9-]+)+$/i;
+      if (labelText && domainLike.test(labelText)) labelText = "";
+
+      // --- REMOVE MERCHANT PREFIX FROM modal label (e.g. "Amazon | ...") ---
+      if (labelText) {
+        // try to use card.merchant_label (comes from Python normalize_merchant)
+        if (card.merchant_label) {
+          const merchantEsc = card.merchant_label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+          const re = new RegExp("^\\s*" + merchantEsc + "\\s*[:\\-|\\|]+\\s*", "i");
+          labelText = labelText.replace(re, "").trim();
+        }
+
+        // also defensive: remove generic leading "Word |" or "Word - " patterns
+        // (handles cases where merchant_label isn't exact or missing)
+        labelText = labelText.replace(/^[A-Za-z0-9&\s]{2,40}\s*[:\-\|]+\s*/i, "").trim();
+
+        // remove noisy phrases and stray separators
+        labelText = labelText
+          .replace(/\b(grab here|grab now|grab|link|loot:?|buy now|click here)\b/gi, "")
+          .replace(/^[\|\-:]+/, "")
+          .replace(/[:\-–—]+$/g, "")
+          .replace(/\s*[\|\-:]+\s*/g, " ")
+          .replace(/\s+/g, " ")
+          .trim();
+        // === NEW: replace MasterLink / Master with Visit main site ===
+        labelText = labelText.replace(/\b(MasterLink|Master)\b/gi, "Visit merchant site");
+      }
+
+      const row = document.createElement("div");
+      row.className = "modal-link-row";
+      row.style.display = "flex";
+      row.style.alignItems = "center";
+      row.style.gap = "12px";
+      row.style.marginTop = "8px";
+      row.style.width = "100%";
+      row.style.flexWrap = "wrap";
+
+      const label = document.createElement("div");
+      label.style.flex = "1 1 auto";
+      label.style.fontSize = "14px";
+      label.style.fontWeight = "600";
+      label.style.wordBreak = "break-word";
+      label.style.whiteSpace = "normal";
+      label.style.maxWidth = "calc(100% - 120px)";
+      label.textContent = labelText || "";
+      row.appendChild(label);
+
+      const a = document.createElement("a");
+      a.className = "buy";
+      a.href = u;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.textContent = "Buy now";
+      a.style.flex = "0 0 auto";
+      a.style.marginLeft = "auto";
+      a.style.padding = "8px 12px";
+      a.style.fontSize = "13px";
+      a.style.minWidth = "96px";
+      row.appendChild(a);
+
+      linksWrap.appendChild(row);
+    });
+
+  } else {
+    if (modalBuy) {
+      modalBuy.style.display = "";
+      modalBuy.href = card.buy_link || card.shortlink || "#";
+    }
+  }
+
+  // open the modal
+  modalBack.style.display = "flex";
+  modalBack.setAttribute("aria-hidden", "false");
+
+  // === setup modal share button & currentModalCard ===
+  currentModalCard = card;
+  const modalShareBtn = document.getElementById("modal-share");
+  if (modalShareBtn) {
+    modalShareBtn.innerHTML = `
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+           width="16" height="16" fill="none" stroke="currentColor"
+           stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path>
+        <polyline points="16 6 12 2 8 6"></polyline>
+        <line x1="12" y1="2" x2="12" y2="15"></line>
+      </svg>`;
+    modalShareBtn.title = "Share this deal";
+    modalShareBtn.style.display = ""; // ensure visible
+  }
+}
+
+function closeModal() {
+  modalBack.style.display = "none";
+  modalBack.setAttribute("aria-hidden", "true");
+  modalImage.src = "";
+}
+
+function escapeHtml(s) {
+  if (!s) return "";
+  return String(s)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
+// === Share helpers ===
+let currentModalCard = null;
+
+function findCardById(id) {
+  return (window.CARDS || []).find((c) => c.id === decodeURIComponent(id));
+}
+
+function buildSharePayload(card) {
+  const url = card.buy_link || card.shortlink || window.location.href;
+  return {
+    title: card.title || "Check this deal",
+    text: card.title || "",
+    url: url,
+  };
+}
+
+async function tryNativeShare(card) {
+  const data = buildSharePayload(card);
+  if (navigator.share) {
+    try {
+      await navigator.share(data);
+      return true;
+    } catch (e) {
+      console.warn("Share cancelled", e);
+      return false;
+    }
+  }
+  return false;
+}
+
+function openShareMenu(buttonEl, encodedCardId) {
+  const card = findCardById(encodedCardId);
+  if (!card) return;
+  currentModalCard = card;
+
+  // Mobile: use native share if available
+  if (navigator.share) {
+    tryNativeShare(card);
+    return;
+  }
+
+  // Desktop fallback: show small popup with options + copy
+  closeSharePopup();
+  const rect = buttonEl.getBoundingClientRect();
+  const popup = document.createElement("div");
+  popup.className = "share-popup";
+  popup.id = "share-popup";
+  popup.style.top = window.scrollY + rect.bottom + 8 + "px";
+  popup.style.left = Math.max(8, rect.left) + "px";
+
+  const shareUrl = card.buy_link || card.shortlink || window.location.href;
+
+  popup.innerHTML = `
+    <a class="share-item" href="https://wa.me/?text=${encodeURIComponent(
+      card.title + " " + shareUrl
+    )}" target="_blank">WhatsApp</a>
+    <a class="share-item" href="https://t.me/share/url?url=${encodeURIComponent(
+      shareUrl
+    )}&text=${encodeURIComponent(card.title)}" target="_blank">Telegram</a>
+    <a class="share-item" href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+      shareUrl
+    )}" target="_blank">Facebook</a>
+    <a class="share-item" href="https://twitter.com/intent/tweet?url=${encodeURIComponent(
+      shareUrl
+    )}&text=${encodeURIComponent(card.title)}" target="_blank">Twitter</a>
+    <button class="share-item" onclick="navigator.clipboard.writeText('${shareUrl}').then(()=>showShareToast('Link copied!'))">Copy Link</button>
+  `;
+
+  document.body.appendChild(popup);
+}
+
+function closeSharePopup() {
+  const existing = document.getElementById("share-popup");
+  if (existing) existing.remove();
+}
+
+function showShareToast(msg) {
+  const t = document.createElement("div");
+  t.className = "share-toast show";
+  t.textContent = msg;
+  document.body.appendChild(t);
+  setTimeout(() => t.classList.remove("show"), 2000);
+  setTimeout(() => t.remove(), 2500);
+}
+
+window.addEventListener("scroll", closeSharePopup, true);
+window.addEventListener("resize", closeSharePopup);
+
+// Modal share button
+document.getElementById("modal-share").addEventListener("click", () => {
+  if (currentModalCard) {
+    openShareMenu(
+      document.getElementById("modal-share"),
+      encodeURIComponent(currentModalCard.id)
+    );
+  }
+});
 
   // initial render
   render();
@@ -1030,7 +1574,7 @@ __BANNER_HTML__
 """
 
     # replace placeholders and return
-    html = html_template.replace("__CARDS_JSON__", cards_json)
+    html = html_template.replace("__CARDS_JSON__", cards_json_safe)
     html = html.replace("__BANNER_HTML__", banner_html)
     html = html.replace("__HERO_HEIGHT__", hero_height)
     html = html.replace("__GEN_TS__", gen_ts)
@@ -1169,8 +1713,8 @@ def main():
 
                 title = clean_message_text(raw, shortlink)[:140]
                 merchant_label = normalize_merchant(title, shortlink) or ""
-                if merchant_label and not title.lower().startswith(merchant_label.lower()):
-                    title = f"{merchant_label} | {title}"
+                #if merchant_label and not title.lower().startswith(merchant_label.lower()):
+                #    title = f"{merchant_label} | {title}"
 
                 title_norm = re.sub(r'\W+', ' ', title).strip().lower()
                 if title_norm in seen_titles and not treat_as_new:
@@ -1199,17 +1743,20 @@ def main():
                 buy_link = shortlink
 
                 card = {
-                    "id": f"msg{msg_id_str}",
-                    "title": title,
-                    "description": description,
-                    "shortlink": shortlink,
-                    "final_url": final,
-                    "local_image": local_img.replace("\\", "/"),
-                    "source_host": urlparse(final).netloc if final else urlparse(shortlink).netloc,
-                    "merchant_label": merchant_label,
-                    "date_obj": msg_date,
-                    "buy_link": buy_link
+                  "id": f"msg{msg_id_str}",
+                  "title": title,
+                  "description": description,
+                  "shortlink": shortlink,
+                  "urls": urls,
+                  "raw_text": raw,        # <-- add this
+                  "final_url": final,
+                  "local_image": local_img.replace("\\", "/"),
+                  "source_host": urlparse(final).netloc if final else urlparse(shortlink).netloc,
+                  "merchant_label": merchant_label,
+                  "date_obj": msg_date,
+                  "buy_link": buy_link
                 }
+
 
                 # insert at start (newest first)
                 cards.insert(0, card)
@@ -1272,4 +1819,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
