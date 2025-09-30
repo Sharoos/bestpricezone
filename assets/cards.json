@@ -1,5 +1,44 @@
 [
   {
+    "id": "msg9244",
+    "title": "Up to 82% Off On Roadster Clothing",
+    "description": "Myntra : Upto 82% Off On Roadster Clothing Men's :  Jeans :  Winterwear :  Women's :  Jeans :  Winterwear :",
+    "shortlink": "https://myntr.in/F4ruF6",
+    "urls": [
+      "https://myntr.in/F4ruF6",
+      "https://myntr.in/pwJ3yY",
+      "https://myntr.in/zDgYbf",
+      "https://myntr.in/Ojz2hV",
+      "https://myntr.in/SfkH9y",
+      "https://myntr.in/RQZf1q"
+    ],
+    "raw_text": "Myntra : Upto 82% Off On Roadster Clothing\n\nMen's : https://myntr.in/F4ruF6\nJeans : https://myntr.in/pwJ3yY\nWinterwear : https://myntr.in/zDgYbf\n\nWomen's : https://myntr.in/Ojz2hV\nJeans : https://myntr.in/SfkH9y\nWinterwear : https://myntr.in/RQZf1q",
+    "final_url": "https://myntr.in/F4ruF6",
+    "local_image": "assets/images/tgmsg_9244.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-30T05:31:34+00:00",
+    "buy_link": "https://myntr.in/F4ruF6",
+    "date_iso": "2025-09-30T05:31:34+00:00"
+  },
+  {
+    "id": "msg9246",
+    "title": "Body Milk Nourishing Body Lotion @₹250",
+    "description": "Ajio |  👉Link :",
+    "shortlink": "https://ajiio.co/AISyRz",
+    "urls": [
+      "https://ajiio.co/AISyRz"
+    ],
+    "raw_text": "Ajio | Body Milk Nourishing Body Lotion @₹250\n\n👉Link : https://ajiio.co/AISyRz",
+    "final_url": "https://ajiio.co/AISyRz",
+    "local_image": "assets/images/tgmsg_9246.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-09-30T05:42:09+00:00",
+    "buy_link": "https://ajiio.co/AISyRz",
+    "date_iso": "2025-09-30T05:42:09+00:00"
+  },
+  {
     "id": "msg9240",
     "title": "Men Polo Tshirts Starts at 105",
     "description": "AJIO Loot : .  Oversized Tshirts Starts at 190. Women :  Men :  Kids Clothing Boys :  Girls :  Infants :",
@@ -3225,31 +3264,5 @@
     "date_obj": "2025-09-28T14:13:24+00:00",
     "buy_link": "https://fkrt.co/kJW8rg",
     "date_iso": "2025-09-28T14:13:24+00:00"
-  },
-  {
-    "id": "msg8665",
-    "title": "Myntra | | Bath rugs and Doormat sets starting @ 249",
-    "description": "Myntra | Bath rugs and Doormat sets starting @ 249",
-    "shortlink": "https://myntr.in/icO8ue",
-    "final_url": "https://myntr.in/icO8ue",
-    "local_image": "assets/images/tgmsg_8665.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-28T14:16:26+00:00",
-    "buy_link": "https://myntr.in/icO8ue",
-    "date_iso": "2025-09-28T14:16:26+00:00"
-  },
-  {
-    "id": "msg8616",
-    "title": "Flipkart | Loot : Premium California Almonds, 5Kg at ₹3,069 | 1Kg at ₹613 (Effectively)",
-    "description": "Loot : Premium California Almonds, 5Kg at ₹3,069 | 1Kg at ₹613 (Effectively). Add 5 Qty :  *Buy More Save More + Use Supercoins.",
-    "shortlink": "https://fktr.in/97rBdf8",
-    "final_url": "https://fktr.in/97rBdf8",
-    "local_image": "assets/images/tgmsg_8616.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-28T13:35:41+00:00",
-    "buy_link": "https://fktr.in/97rBdf8",
-    "date_iso": "2025-09-28T13:35:41+00:00"
   }
 ]
