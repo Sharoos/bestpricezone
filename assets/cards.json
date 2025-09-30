@@ -1,5 +1,39 @@
 [
   {
+    "id": "msg9601",
+    "title": "Up to 60% Off On Head & Shoulder Shampoo",
+    "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos.",
+    "shortlink": "https://fkrt.co/S58o5P",
+    "urls": [
+      "https://fkrt.co/S58o5P"
+    ],
+    "raw_text": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos.\n\nhttps://fkrt.co/S58o5P",
+    "final_url": "https://fkrt.co/S58o5P",
+    "local_image": "assets/images/tgmsg_9601.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-09-30T20:28:30+00:00",
+    "buy_link": "https://fkrt.co/S58o5P",
+    "date_iso": "2025-09-30T20:28:30+00:00"
+  },
+  {
+    "id": "msg9602",
+    "title": "iQOO Z10x 5G (6GB RAM, 128GB Storage) @12,998",
+    "description": "Amazon | . 👉",
+    "shortlink": "https://www.amazon.in/dp/B0F2T7B9TM?tag=bestpricezo0f-21",
+    "urls": [
+      "https://www.amazon.in/dp/B0F2T7B9TM?tag=bestpricezo0f-21"
+    ],
+    "raw_text": "Amazon | iQOO Z10x 5G (6GB RAM, 128GB Storage) @12,998.\n\n👉https://www.amazon.in/dp/B0F2T7B9TM?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F2T7B9TM?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_9602.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-09-30T20:33:08+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F2T7B9TM?tag=bestpricezo0f-21",
+    "date_iso": "2025-09-30T20:33:08+00:00"
+  },
+  {
     "id": "msg9598",
     "title": "Price Drop On Premium Brand",
     "description": "AJIO Loot : s. Armani Exchange :  Replay :  La Martina :  G Star Raw :  Clarks :  GAS, G-Star Raw & GANT Clothing. Men’s :  Women’s :  *Additional Coupons + Card Discounts.",
@@ -3572,39 +3606,5 @@
     "date_obj": "2025-09-29T19:36:36+00:00",
     "buy_link": "https://www.amazon.in/dp/B0BT12TG3K?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-09-29T19:36:36+00:00"
-  },
-  {
-    "id": "msg9215",
-    "title": "59% off Prestige Omega Select Plus Tawa @468",
-    "description": "Amazon | 59% off : Prestige Omega Select Plus Tawa @468",
-    "shortlink": "https://www.amazon.in/dp/B095SFQ9QT?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      "https://www.amazon.in/dp/B095SFQ9QT?th=1&psc=1&tag=bestpricezo0f-21"
-    ],
-    "raw_text": "Amazon | 59% off : Prestige Omega Select Plus Tawa @468\n\nhttps://www.amazon.in/dp/B095SFQ9QT?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B095SFQ9QT?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9215.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-29T19:37:12+00:00",
-    "buy_link": "https://www.amazon.in/dp/B095SFQ9QT?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-09-29T19:37:12+00:00"
-  },
-  {
-    "id": "msg9216",
-    "title": "Rs.2750 Instant Discount On SBI CC",
-    "description": "Amazon | SleepyCat Ultima Natural Latex Mattress @ Rs.18,249.",
-    "shortlink": "https://www.amazon.in/dp/B0D58NBSN9?tag=bestpricezo0f-21",
-    "urls": [
-      "https://www.amazon.in/dp/B0D58NBSN9?tag=bestpricezo0f-21"
-    ],
-    "raw_text": "Amazon | SleepyCat Ultima Natural Latex Mattress @ Rs.18,249.\n\nhttps://www.amazon.in/dp/B0D58NBSN9?tag=bestpricezo0f-21\n\nRs.2750 Instant Discount On SBI CC",
-    "final_url": "https://www.amazon.in/dp/B0D58NBSN9?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9216.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-29T19:37:39+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D58NBSN9?tag=bestpricezo0f-21",
-    "date_iso": "2025-09-29T19:37:39+00:00"
   }
 ]
