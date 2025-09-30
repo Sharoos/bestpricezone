@@ -1,5 +1,23 @@
 [
   {
+    "id": "msg9497",
+    "title": "Branded Cargo Trousers Starts @298",
+    "description": "Myntra :  Men :  Women :",
+    "shortlink": "https://myntr.in/JJRAuB",
+    "urls": [
+      "https://myntr.in/JJRAuB",
+      "https://myntr.in/JDm4aB"
+    ],
+    "raw_text": "Myntra : Branded Cargo Trousers Starts @298\n\nMen : https://myntr.in/JJRAuB\nWomen : https://myntr.in/JDm4aB",
+    "final_url": "https://myntr.in/JJRAuB",
+    "local_image": "assets/images/tgmsg_9497.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-30T17:41:47+00:00",
+    "buy_link": "https://myntr.in/JJRAuB",
+    "date_iso": "2025-09-30T17:41:47+00:00"
+  },
+  {
     "id": "msg9492",
     "title": "🔥 Sale Is Live – Ethnic Wear Steals You Can’t Miss! 🔥",
     "description": "🔥 Flipkart Sale Is Live – Ethnic Wear Steals You Can’t Miss! 🔥 ✨Kurtas & Ethnic Suits Under ₹699 👉  ✨Pathani Kurta Sets From ₹649 👉  ✨Ikat Print Kurtas From Just ₹299 👉  ✨Embroidered Kurtas Under ₹599 👉",
@@ -3596,22 +3614,5 @@
     "date_obj": "2025-09-29T13:10:17+00:00",
     "buy_link": "https://fkrt.co/XXbSEC",
     "date_iso": "2025-09-29T13:10:17+00:00"
-  },
-  {
-    "id": "msg8999",
-    "title": "At 99",
-    "description": "Loot  :",
-    "shortlink": "https://myntr.in/QrFpdV",
-    "urls": [
-      "https://myntr.in/QrFpdV"
-    ],
-    "raw_text": "Loot At 99 : https://myntr.in/QrFpdV",
-    "final_url": "https://myntr.in/QrFpdV",
-    "local_image": "assets/images/tgmsg_8999.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-29T11:56:02+00:00",
-    "buy_link": "https://myntr.in/QrFpdV",
-    "date_iso": "2025-09-29T11:56:02+00:00"
   }
 ]
