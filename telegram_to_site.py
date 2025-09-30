@@ -21,7 +21,7 @@ Optional env:
   HERO_HEIGHT (CSS height value, default '160px')
 
 Added env:
-  MAX_KEEP (default 200) -> keep exactly this many cards/images after each run
+  MAX_KEEP (default 400) -> keep exactly this many cards/images after each run
 """
 import os
 import re
@@ -2470,3 +2470,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
