@@ -1,5 +1,23 @@
 [
   {
+    "id": "msg9258",
+    "title": "Up to 76% Off On Milton Product",
+    "description": "Myntra Loot : Upto 76% Off On Milton Products.  Low To High :",
+    "shortlink": "https://myntr.in/sbkT5U",
+    "urls": [
+      "https://myntr.in/sbkT5U",
+      "https://myntr.in/VAFbAT"
+    ],
+    "raw_text": "Myntra Loot : Upto 76% Off On Milton Products.\n\nhttps://myntr.in/sbkT5U\n\nLow To High : https://myntr.in/VAFbAT",
+    "final_url": "https://myntr.in/sbkT5U",
+    "local_image": "assets/images/tgmsg_9258.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-09-30T07:22:07+00:00",
+    "buy_link": "https://myntr.in/sbkT5U",
+    "date_iso": "2025-09-30T07:22:07+00:00"
+  },
+  {
     "id": "msg9256",
     "title": "Monte Carlo blanket and bedsheets min 50% off",
     "description": "Myntra Loot 🔥🔥 Story@home at 70% off 👉 . 👉",
@@ -3299,18 +3317,5 @@
     "date_obj": "2025-09-28T14:26:24+00:00",
     "buy_link": "https://myntr.in/mj2F55",
     "date_iso": "2025-09-28T14:26:24+00:00"
-  },
-  {
-    "id": "msg8674",
-    "title": "Flipkart | BBD Flash Sale : Flat 7% Off On Kalyan Jewellers Gift Cards (8",
-    "description": "BBD Flash Sale : Flat 7% Off On Kalyan Jewellers Gift Cards (8 - 10 PM)  More Giftcards at Discount :  + 5% Cashback with SBI Cashback Cards.",
-    "shortlink": "https://fkrt.co/rRt1MZ",
-    "final_url": "https://fkrt.co/rRt1MZ",
-    "local_image": "assets/images/tgmsg_8674.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-28T14:33:33+00:00",
-    "buy_link": "https://fkrt.co/rRt1MZ",
-    "date_iso": "2025-09-28T14:33:33+00:00"
   }
 ]
