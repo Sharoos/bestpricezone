@@ -445,7 +445,7 @@ def build_index(cards, show_relative=True, banner_rel: Optional[str] = None, her
   --accent:#111827;
   --primary:#0f62fe;
   --pill:#eef2ff;
-  --hero-height:__HERO_HEIGHT__;
+  --hero-height:__HERO_HEIGHT__; /* preserved for optional max-height */
   --max-width:1200px;
   --gutter:12px;
   --card-radius:12px;
@@ -458,189 +458,745 @@ body{
   margin:0; background:var(--bg); color:var(--accent); -webkit-font-smoothing:antialiased;
   -moz-osx-font-smoothing:grayscale;
 }
+
+/* ---------- Header (kept compact & stable) ---------- */
 .header{
   background:linear-gradient(90deg,#fff 0%, #f9fbff 100%);
-  padding:14px var(--gutter); border-bottom:1px solid rgba(0,0,0,0.04);
-  position:sticky; top:0; z-index:60; backdrop-filter:saturate(120%) blur(4px);
-}
-.header .wrap{
-  max-width:var(--max-width); margin:0 auto; display:flex; gap:12px; align-items:center;
+  padding:14px var(--gutter);
+  border-bottom:1px solid rgba(0,0,0,0.04);
+  position:sticky;
+  top:0;
+  z-index:80;
+  backdrop-filter:saturate(120%) blur(4px);
 }
 
-.controls{margin-left:auto; display:flex; gap:10px; align-items:center}
+/* use space-between so left brand and right controls stay aligned */
+.header .wrap{
+  max-width:var(--max-width);
+  margin:0 auto;
+  display:flex;
+  gap:12px;
+  align-items:center;
+  justify-content:space-between;
+  padding-top:6px;
+  padding-bottom:6px;
+}
+
+/* brand area (left) */
+.brand-wrap{
+  display:flex;
+  align-items:center;
+  min-width:0;
+  flex:1 1 auto;
+}
+
+/* title + tagline stack but don't overflow */
+.site-header {
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+  gap:2px;
+  min-width:0;
+  margin:0;
+  padding:0;
+}
+
+/* constrain title so search/control won't wrap underneath */
+.site-title {
+  font-weight:800;
+  font-size:32.5px;
+  line-height:1.2;
+  color:var(--accent);
+  margin:0;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  max-width: calc(100vw - 340px); /* leave room for controls (tweak if needed) */
+}
+
+/* tagline */
+.site-tagline {
+  font-size:14px;
+  font-weight:500;
+  color:var(--muted);
+  margin:0;
+  line-height:1.3;
+  white-space:normal;
+}
+
+/* controls area (right) stays fixed size and does not grow */
+.controls{
+  flex:0 0 auto;
+  display:flex;
+  gap:10px;
+  align-items:center;
+}
+
+/* search box: keep compact and never force header wrap */
 .search{
-  display:flex; align-items:center; background:#fff; padding:8px; border-radius:12px;
-  box-shadow:0 6px 18px rgba(16,24,40,0.04); min-width:0;
+  display:flex;
+  align-items:center;
+  background:#fff;
+  padding:8px;
+  border-radius:12px;
+  box-shadow:0 6px 18px rgba(16,24,40,0.04);
+  min-width:0;
 }
 .search input{
-  border:0; outline:0; font-size:14px; padding:6px 8px; width:260px;
-  min-width:0; background:transparent;
-}
-.brand-wrap { min-width: 0; }
-
-.site-header {
-  display: flex;
-  flex-direction: column;   /* ⬅️ stack vertically */
-  align-items: flex-start;  /* ⬅️ left align (use center if you want centered) */
-  gap: 2px;                 /* small space between title and tagline */
-  min-width: 0;
-  margin: 0;
-  padding: 0;
+  border:0;
+  outline:0;
+  font-size:14px;
+  padding:6px 8px;
+  width:260px;
+  max-width: calc(100vw - 360px);
+  min-width:0;
+  background:transparent;
 }
 
-.site-title {
-  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-  font-weight: 800;
-  font-size: 32.5px;   /* ⬅️ increase size (was 18px) */
-  line-height: 1.2;
-  color: var(--accent);
-  margin: 0;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+/* ---------- Banner (responsive, no crop, centered) ---------- */
+/* banner container keeps full-width centering */
+.banner-wrap{
+  width:100%;
+  display:flex;
+  justify-content:center;
+  padding:0 8px;
+  margin:12px 0;
+  box-sizing:border-box;
 }
 
-/* Mobile adjustment: slightly smaller so it doesn’t overflow */
-@media (max-width: 768px) {
-  .site-title {
-    font-size: 30px;  /* instead of 17px */
-    white-space: normal;
-  }
-}
-
-.site-tagline {
-  font-size: 14px;      /* slightly bigger for readability */
-  font-weight: 500;
-  color: var(--muted);
-  margin: 0;
-  line-height: 1.3;     /* better line spacing */
-  white-space: normal;  /* ⬅️ allow multi-line wrapping */
-  overflow: visible;
-  text-overflow: unset;
-}
-
-/* reduce vertical gap in header */
-.header .wrap { padding-top: 6px; padding-bottom: 6px; }
-
-/* Mobile: stack vertically and allow wrapping */
-@media (max-width: 768px) {
-  .site-header {
-    flex-direction: column;
-    align-items: flex-start; /* change to 'flex-start' if you want left-aligned on mobile */
-    gap: 4px;
-  }
-  .site-title { font-size: 17px; white-space: normal; }
-  .site-tagline { font-size: 13px; white-space: normal; }
-  .search input { width: 140px; } /* prevents search pushing header off-screen */
-}
-/* banner */
-.banner-wrap{width:100%; display:flex; justify-content:center; padding:0 8px; margin:12px 0}
+/* image: show whole image, keep natural height, but cap max-height on very large screens */
 .banner-wrap img{
-  max-width:var(--max-width); width:100%; height:var(--hero-height); object-fit:cover; display:block;
-  border-radius:var(--card-radius); border-bottom:6px solid rgba(255,255,255,0.04);
+  display:block;
+  width:100%;
+  max-width:var(--max-width);
+  height:auto;               /* natural height; no forced cropping */
+  object-fit:contain;        /* show whole image without crop */
+  object-position:center;
+  border-radius:var(--card-radius);
+  border-bottom:6px solid rgba(255,255,255,0.04);
+  margin:0 auto;
+  /* optional visual cap so banner doesn't grow excessively tall on very wide screens */
+  max-height: calc(var(--hero-height, 300px) * 1.15);
 }
 
-/* hero & filter */
+/* ---------- Hero & filters: hug the banner, reduce big gaps ---------- */
 .hero{
-  max-width:var(--max-width); margin:18px auto 8px; padding:16px; border-radius:var(--card-radius);
-  background:linear-gradient(90deg,#ffffff,#f7fbff); display:flex; gap:12px; align-items:center;
+  max-width:var(--max-width);
+  margin:8px auto 12px;   /* tighter spacing so hero hugs banner */
+  padding:14px 16px;
+  border-radius:var(--card-radius);
+  background:linear-gradient(90deg,#ffffff,#f7fbff);
+  display:flex;
+  gap:12px;
+  align-items:center;
   flex-wrap:wrap;
 }
-.hero .h{font-size:18px;font-weight:800}
-.filter-bar{
-  max-width:var(--max-width); margin:12px auto; display:flex; gap:12px; align-items:center;
-  padding:0 var(--gutter); flex-wrap:wrap;
-}
-.filter-bar select{ padding:8px; border-radius:10px; border:1px solid rgba(16,24,40,0.06); background:#fff}
+.hero .h{ font-size:18px; font-weight:800; margin:0; }
 
-/* merchant chips */
+/* filter bar layout */
+.filter-bar{
+  max-width:var(--max-width);
+  margin:12px auto;
+  display:flex;
+  gap:12px;
+  align-items:center;
+  padding:0 var(--gutter);
+  box-sizing:border-box;
+  flex-wrap:wrap;
+}
+
+/* keep the left label + chips in a single flow block that can shrink */
+.filter-bar > div:first-child{
+  display:flex;
+  gap:12px;
+  align-items:center;
+  flex:1 1 auto;
+  min-width:0;
+}
+
+/* right-side controls (sort / perpage) anchored */
+.filter-bar > div:last-child{
+  flex:0 0 auto;
+  display:flex;
+  align-items:center;
+  gap:8px;
+}
+
+/* merchant chips wrap and behave predictably */
 .filter-bar .chips {
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
+  display:flex;
+  gap:8px;
+  flex-wrap:wrap;
+  align-items:center;
 }
 .filter-bar .chips button {
-  appearance: none;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  font-size: 13px;
-  font-weight: 600;
-  padding: 8px 16px;
-  border-radius: 999px;
-  background: #f9fafb;        /* lighter base */
-  color: #111827;             /* near black for better contrast */
-  transition: all 0.25s ease;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  appearance:none;
+  border:0;
+  outline:0;
+  cursor:pointer;
+  font-size:13px;
+  font-weight:600;
+  padding:8px 14px;
+  border-radius:999px;
+  background:#f9fafb;
+  color:#111827;
+  transition:all .22s;
+  box-shadow:0 1px 3px rgba(0,0,0,0.06);
+}
+.filter-bar .chips button:hover{ transform:translateY(-1px); background:#eef2ff; color:#1e3a8a; }
+.filter-bar .chips button.active{ background:linear-gradient(90deg,#2563eb,#0f62fe); color:#fff; box-shadow:0 6px 18px rgba(37,99,235,0.12); }
+
+/* select / controls small tweaks */
+.filter-bar select{ padding:8px; border-radius:10px; border:1px solid rgba(16,24,40,0.06); background:#fff; }
+
+/* ---------- Responsive tweaks ---------- */
+@media (max-width: 980px) {
+  .site-title { font-size: 26px; max-width: calc(100vw - 240px); }
+  .search input { width: 180px; max-width: calc(100vw - 260px); }
+
+  /* keep banner under control on medium screens */
+  .banner-wrap img { max-height: calc(var(--hero-height, 260px) * 1.0); }
+
+  .hero { padding: 14px; margin: 10px 12px; gap: 10px; }
+  .filter-bar { padding-left: 10px; padding-right: 10px; gap: 10px; }
+  .grid { gap: 14px; }
 }
 
-.filter-bar .chips button:hover {
-  background: #e0e7ff;        /* soft indigo tint on hover */
-  color: #1e3a8a;             /* deep indigo text */
-  box-shadow: 0 2px 6px rgba(0,0,0,0.12);
-  transform: translateY(-1px);
+@media (max-width: 720px) {
+  .site-title { font-size: 20px; max-width: calc(100vw - 140px); white-space: normal; }
+  .search input { width: 140px; max-width: calc(100vw - 160px); }
+
+  .banner-wrap { padding-left: 10px; padding-right: 10px; margin: 10px 0; }
+  /* keep whole banner visible but cap height on phones */
+  .banner-wrap img { border-radius: 10px; max-height: calc(var(--hero-height, 220px) * 0.95); }
+
+  .hero { padding: 12px; margin: 6px 8px 10px; gap: 8px; }
+  .filter-bar { padding-left: 10px; padding-right: 10px; gap: 8px; }
+
+  /* force the right controls (sort/perpage) to the next line and align right */
+  .filter-bar > div:last-child { width: 100%; justify-content: flex-end; margin-top: 6px; display: flex; }
+  .filter-bar > div:first-child { min-width: 0; flex: 1 1 auto; }
+  .grid { grid-template-columns: repeat(auto-fill, minmax(clamp(140px, 42%, 260px), 1fr)); gap: 12px; }
+  #modal-image { height: 320px; }
+
+  /* Slightly taller thumb on medium-narrow screens to reduce blank padding */
+  .thumb {
+    position: relative;
+    aspect-ratio: 4 / 3;
+    border-radius: 10px;
+    overflow: hidden;
+    background: #fff;
+  }
 }
 
-.filter-bar .chips button.active {
-  background: linear-gradient(90deg, #2563eb, #0f62fe); /* bright blue gradient */
-  color: #ffffff;
-  box-shadow: 0 3px 8px rgba(37,99,235,0.35);
-  transform: translateY(-2px);
+@media (max-width: 520px) {
+  .share-popup { min-width: 92vw; max-width: 92vw; left: 4vw !important; right: 4vw !important; }
+  .share-preview .img { width: 56px; height: 56px; }
 }
 
-/* grid and cards */
-.container{max-width:var(--max-width); margin:0 auto; padding:8px var(--gutter) 100px}
-.grid{
-  display:grid;
-  gap:16px;
+@media (max-width: 420px) {
+  .site-title { font-size: 18px; }
+  .search input { width: 92px; }
+
+  /* very small phones: make the banner compact but still whole */
+  .banner-wrap img { border-radius: 8px; max-height: 140px; height: auto; object-fit: contain; }
+
+  .hero { padding: 10px; margin: 6px 8px 10px; gap: 8px; }
+  .filter-bar { gap: 6px; padding-left: 8px; padding-right: 8px; }
+  .filter-bar .chips button { padding: 7px 12px; font-size: 13px; }
+
+  .grid { grid-template-columns: repeat(auto-fill, minmax(clamp(140px, 45%, 220px), 1fr)); gap: 12px; }
+
+  /* make thumbs less tall on smallest screens but keep aspect-ratio to reduce blank space */
+  .thumb {
+    position: relative;
+    aspect-ratio: 4 / 3;
+    border-radius: 10px;
+    overflow: hidden;
+    background: #fff;
+  }
+}
+
+/* Small utility: ensure header/hero/filter layering doesn't obscure interactive elements */
+.header, .banner-wrap, .hero, .filter-bar { position: relative; z-index: 10; }
+
+
+/* ---------- grid and cards (cleaned) ---------- */
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 8px var(--gutter) 100px;
+  box-sizing: border-box;
+}
+
+.grid {
+  display: grid;
+  gap: 16px;
   grid-template-columns: repeat(auto-fill, minmax(clamp(160px, 42%, 320px), 1fr));
 }
 
 /* card */
-.card{
-  background:var(--card); border-radius:12px; padding:12px; box-shadow:var(--shadow);
-  display:flex; flex-direction:column; transition:transform .18s, box-shadow .18s; min-height:unset;
+.card {
+  background: var(--card);
+  border-radius: 12px;
+  padding: 12px;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  transition: transform .18s, box-shadow .18s;
+  min-height: unset;
 }
-.card:hover{ transform:translateY(-4px); box-shadow:0 14px 28px rgba(16,24,40,0.08) }
+.card:hover { transform: translateY(-4px); box-shadow: 0 14px 28px rgba(16,24,40,0.08); }
 
-/* thumbnail container: keeps aspect ratio via padding-top */
-.thumb{
+/* thumbnail container: prefer aspect-ratio (modern) fallback to padding-top if needed */
+.thumb {
   position: relative;
-  aspect-ratio: 1 / 1; /* square cards look tidy */
-  border-radius:10px;
+  aspect-ratio: 4 / 3;
+  border-radius: 10px;
   overflow: hidden;
-  background: #fff;       /* nice neutral backdrop for images */
+  background: #fff;
 }
 
 /* thumbnail image: centered and fully visible (no cropping) */
-.thumb img{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%); /* center the image */
-  max-width: 100%;
-  max-height: 100%;
-  width: auto;
-  height: auto;
-  object-fit: contain;    /* <-- important: shows whole image without crop */
+.thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;    /* show whole image without crop */
   object-position: center;
   display: block;
+  /* absolute centering removed — simpler and more predictable */
 }
 
-
 /* meta / text */
-.meta{display:flex; align-items:center; justify-content:space-between; margin-top:10px}
-.title{font-weight:700;font-size:14px;margin:8px 0; line-height:1.18; min-height:42px; overflow:hidden}
-.badge{display:inline-block;background:var(--pill); color:var(--primary); padding:6px 10px; border-radius:999px; font-weight:700; font-size:12px}
+.meta { display: flex; align-items: center; justify-content: space-between; margin-top: 10px; }
+.title { font-weight: 700; font-size: 14px; margin: 8px 0; line-height: 1.18; min-height: 42px; overflow: hidden; }
+.badge { display: inline-block; background: var(--pill); color: var(--primary); padding: 6px 10px; border-radius: 999px; font-weight: 700; font-size: 12px; }
+
+
+/* ---------- Card actions: ensure View + Share always inline; Buy can drop ---------- */
+/* Desktop: single-row layout */
 .card .actions {
   margin-top: auto;
   display: flex;
   gap: 8px;
   align-items: center;
-  flex-wrap: nowrap; /* keep consistent across desktop and mobile */
+  flex-wrap: nowrap; /* desktop: do not wrap */
+  box-sizing: border-box;
 }
-.buy {
-  background: #2563eb; /* solid indigo/blue */
+
+/* View button: now wide/flexible like Buy used to be */
+.card .actions .view-btn {
+  flex: 1 1 auto;          /* grow & shrink */
+  min-width: 0;            /* allow shrinking */
+  max-width: 100%;         /* don’t artificially cap */
+  padding: 10px 12px;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  background: #2563eb;     /* blue, primary */
+  border: 1px solid rgba(16,24,40,0.06);
+  font-weight: 700;
+  box-sizing: border-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Share: unchanged */
+.card .actions .share-btn {
+  flex: 0 0 44px;
+  width: 44px;
+  height: 44px;
+  padding: 8px;
+  border-radius: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  border: 1px solid rgba(16,24,40,0.06);
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+
+/* Buy: now compact/fixed like old View */
+.card .actions .buy {
+  flex: 0 0 auto;          /* no growth */
+  min-width: 96px;         /* fixed base width */
+  padding: 10px 14px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  background: #2563eb;
+  color: #fff;
+  box-shadow: 0 2px 6px rgba(37,99,235,0.25);
+  box-sizing: border-box;
+  white-space: nowrap;
+  text-align: center;     /* centers the text */
+}
+
+/* ---------- Small screens: force View+Share inline, Buy full width below ---------- */
+@media (max-width: 720px) {
+  .card .actions {
+    /* allow wrapping so Buy can go to its own row when needed */
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+  }
+
+  /* Force VIEW first and let it shrink to fit next to SHARE.
+     Keep it single-line (no wrapping) — truncate if too long. */
+  .card .actions .view-btn {
+    order: 1;
+    flex: 1 1 calc(100% - 56px); /* leave room for share (44) + small gap */
+    min-width: 0;
+    max-width: 100%;
+    white-space: nowrap;         /* CRITICAL: prevent wrapping */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 8px 10px;
+    font-size: 14px;
+    background: #2563eb;
+    color: #fff;
+  }
+
+  /* SHARE to the right of VIEW, fixed size */
+  .card .actions .share-btn {
+    order: 2;
+    flex: 0 0 44px;
+    width: 44px;
+    height: 44px;
+    margin-left: 8px;
+  }
+
+  /* BUY on its own full-width row below */
+  .card .actions .buy {
+    order: 3;
+    flex: 1 1 100%;
+    width: 100%;
+    margin-top: 8px;
+    text-align: center;
+    font-size: 14px;
+    padding: 8px 10px;
+    text-align: center;     /* centers the text */
+  }
+}
+
+/* Extra-tight phones: tiny tweaks so View stays single-line and Share keeps size */
+@media (max-width: 420px) {
+  .card .actions .view-btn {
+    flex: 1 1 calc(100% - 52px);
+    padding: 7px 10px;
+    font-size: 13px;
+  }
+  .card .actions .share-btn {
+    flex: 0 0 40px;
+    width: 40px;
+    height: 40px;
+    margin-left: 6px;
+  }
+  .card .actions .buy {
+    padding: 8px 10px;
+    font-size: 13px;
+  }
+}
+
+/* force a two-column first row: left area for View, right for Share.
+   Buy will wrap below when needed. This avoids calc() problems. */
+@media (max-width: 720px) {
+  .card .actions {
+    display: grid;
+    grid-template-columns: 1fr 44px;
+    grid-auto-rows: auto;
+    gap: 8px;
+    align-items: center;
+  }
+
+  /* place the Buy button on the next row and make it full width */
+  .card .actions .buy {
+    grid-column: 1 / -1;
+    width: 100%;
+    order: unset; /* ensure CSS Grid handles placement */
+    justify-self: stretch;
+    text-align: center;     /* centers the text */
+  }
+
+  /* View spans the left cell */
+  .card .actions .view-btn {
+    grid-column: 1 / 2;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  /* Share goes to the right column */
+  .card .actions .share-btn {
+    grid-column: 2 / 3;
+    justify-self: end;
+  }
+}
+
+/* ---------- FORCE SWAP: on desktop make BUY expand, VIEW fixed ---------- */
+@media (min-width: 721px) {
+  /* Make Buy take remaining space (wide) */
+  .card .actions .buy {
+    flex: 1 1 auto !important;
+    min-width: 0 !important;
+    width: auto !important;
+    max-width: 100% !important;
+    padding: 10px 12px !important;
+    box-sizing: border-box !important;
+    text-align: center;     /* centers the text */
+  }
+
+  /* Make View a smaller fixed button (narrow) */
+  .card .actions .view-btn {
+    flex: 0 0 auto !important;
+    min-width: 96px !important;
+    width: 96px !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    padding: 10px 12px !important;
+    box-sizing: border-box !important;
+    text-align: center;     /* centers the text */
+    justify-content: center; /* if flex is applied somewhere */
+    display: flex;          /* make it flex so justify works */
+    align-items: center;    /* vertically centers text */
+  }
+
+  /* Keep share fixed */
+  .card .actions .share-btn {
+    flex: 0 0 44px !important;
+    width: 44px !important;
+    height: 44px !important;
+  }
+
+  /* Ensure layout spacing is sane */
+  .card .actions { gap: 12px !important; align-items: center !important; }
+}
+
+
+/* ---------- Share popup, modal, footer, pagination unchanged (kept for completeness) ---------- */
+.share-popup {
+  position: absolute;
+  z-index: 10010;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 20px 40px rgba(2,6,23,0.18);
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 320px;
+  max-width: 420px;
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+.share-preview { display: flex; gap: 10px; align-items: center; }
+.share-preview .img { width: 64px; height: 64px; border-radius: 8px; overflow: hidden; flex: 0 0 64px; background: #f6f7fb; display:flex; align-items:center; justify-content:center; }
+.share-preview .img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.share-preview .meta { flex: 1; min-width: 0; }
+.share-preview .meta .title { font-weight: 700; font-size: 14px; line-height: 1.2; color: #0f1724; max-height: 3.6em; overflow: hidden; }
+
+.share-row { display: flex; gap: 8px; align-items: center; justify-content: space-between; flex-wrap: wrap; }
+.share-row .url { font-size: 13px; color: #475569; word-break: break-all; flex: 1; min-width: 0; }
+.actions-inline { display: flex; gap: 8px; align-items: center; flex: 0 0 auto; }
+.share-btn-inline { background: #0f62fe; color: #fff; border: 0; padding: 8px 10px; border-radius: 8px; font-weight: 700; font-size: 13px; cursor: pointer; box-shadow: 0 6px 18px rgba(15,98,254,0.12); }
+.copy-btn { background: transparent; border: 1px solid rgba(15,23,42,0.06); padding: 8px 10px; border-radius: 8px; cursor: pointer; font-weight: 600; }
+.social-links { display: flex; gap: 6px; align-items: center; }
+.social-links a { padding: 8px 10px; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 13px; border: 1px solid rgba(0,0,0,0.06); color: #0f1724; }
+
+.share-toast { position: fixed; bottom: 22px; left: 50%; transform: translateX(-50%); background: #0f1724; color: white; padding: 8px 12px; border-radius: 999px; font-weight: 700; z-index: 12000; opacity: 0; transition: opacity .18s; }
+.share-toast.show { opacity: 1; }
+
+.modal-backdrop { position: fixed; inset: 0; background: rgba(2,6,23,0.6); display: none; align-items: center; justify-content: center; z-index: 140; }
+.modal { background: #fff; border-radius: 12px; max-width: 920px; width: calc(100% - 32px); max-height: 92vh; overflow: auto; padding: 18px; display: flex; gap: 18px; flex-wrap: wrap; }
+.modal .left { flex: 1; min-width: 220px; }
+.modal .right { width: 360px; max-width: 100%; display: flex; flex-direction: column; }
+.close-btn { background: transparent; border: 0; font-size: 18px; cursor: pointer; color: #666; padding: 6px 8px; border-radius: 8px; }
+#modal-image { width: 100%; height: 420px; object-fit: contain; background: #fff; }
+
+.modal .modal-link-row { width: 100%; box-sizing: border-box; display: flex; align-items: center; gap: 12px; margin-top: 8px; flex-wrap: wrap; }
+.modal .modal-link-row > div { flex: 1 1 auto; word-break: break-word; white-space: normal; max-width: calc(100% - 120px); }
+.modal .modal-link-row .buy { flex: 0 0 auto; min-width: 96px; margin-left: auto; flex-shrink: 0; }
+#modal-links-wrap { width: 100%; display: flex; flex-direction: column; gap: 8px; }
+
+.footer { background: #fff; border-top: 1px solid rgba(0,0,0,0.04); padding: 28px 12px; color: var(--muted); margin-top: 30px; }
+.footer .wrap { max-width: var(--max-width); margin: 0 auto; display: flex; gap: 16px; align-items: flex-start; flex-wrap: wrap; }
+.footer .col { flex: 1; min-width: 160px; }
+.footer h4 { margin: 0 0 8px 0; font-size: 14px; }
+.footer p, .footer a { color: var(--muted); text-decoration: none; font-size: 13px; }
+.footer .bottom { max-width: var(--max-width); margin: 18px auto 0; text-align: center; font-size: 13px; color: var(--muted); }
+
+/* Footer: make layout stack on small screens and add share button styles */
+.footer .wrap {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  flex-wrap: wrap; /* allow wrapping on small screens */
+}
+
+/* Footer share button (matches site button language, smaller visual weight) */
+.footer .share-page {
+  appearance: none;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+  font-weight: 700;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: #fff;
+  color: #000;
+  box-shadow: 0 6px 18px rgba(37,99,235,0.12);
+  font-size: 14px;
+}
+
+/* Place share control in footer bottom area for compact screens */
+@media (max-width: 720px) {
+  .footer .wrap {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 12px;
+    padding: 12px;
+  }
+  .footer .col { width: 100%; }
+  .footer .share-row { display:flex; gap:8px; justify-content:center; margin-top:6px; }
+}
+
+/* very small phones: slightly smaller share button */
+@media (max-width: 420px) {
+  .footer .share-page { padding: 8px 12px; font-size: 13px; border-radius: 9px; }
+}
+
+.pagination { display: flex; gap: 8px; justify-content: center; margin: 18px 0; }
+.pagination button { background: #fff; border: 1px solid rgba(16,24,40,0.08); padding: 8px 12px; border-radius: 10px; cursor: pointer; font-weight: 600; box-shadow: 0 6px 12px rgba(16,24,40,0.03); }
+.pagination button:hover { transform: translateY(-2px); }
+.pagination button.active { background: var(--primary); color: #fff; border-color: transparent; box-shadow: 0 10px 20px rgba(15,98,254,0.14); }
+
+/* ---------- Modal (restored, tightened, and consistent with site buttons) ---------- */
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(2,6,23,0.6);
+  display: none;               /* toggled via JS */
+  align-items: center;
+  justify-content: center;
+  z-index: 140;
+}
+
+/* modal shell */
+.modal {
+  background: #fff;
+  border-radius: 12px;
+  max-width: 920px;
+  width: calc(100% - 32px);
+  max-height: 92vh;
+  overflow: auto;
+  padding: 18px;
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  align-items: flex-start;
+}
+
+/* left (image) / right (meta) columns */
+.modal .left {
+  flex: 1 1 0;
+  min-width: 220px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.modal .right {
+  flex: 0 0 360px;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  box-sizing: border-box;
+}
+
+/* close button */
+.close-btn {
+  background: transparent;
+  border: 0;
+  font-size: 18px;
+  cursor: pointer;
+  color: #666;
+  padding: 6px 8px;
+  border-radius: 8px;
+}
+.close-btn:hover { background: rgba(0,0,0,0.03); }
+
+/* Modal image: preserve aspect, avoid stretching */
+#modal-image {
+  width: 100%;
+  height: 420px;
+  object-fit: contain;
+  background: #fff;
+  border-radius: 8px;
+  display: block;
+}
+
+/* header row inside modal right column: title + actions (close/share) */
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.modal-header .modal-title,
+.modal-title {
+  margin: 0;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.2;
+  flex: 1 1 auto;
+  white-space: normal;
+  word-break: break-word;
+}
+
+/* Ensure the header buttons stay aligned right and do not wrap */
+.modal-header > * { flex-shrink: 0; }
+
+/* modal link rows (for multiple buy links): label left, buy button right */
+.modal .modal-link-row {
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 8px;
+  flex-wrap: wrap;
+}
+.modal .modal-link-row > div {
+  flex: 1 1 auto;
+  word-break: break-word;
+  white-space: normal;
+  max-width: calc(100% - 120px);
+}
+
+/* container for multiple link rows */
+#modal-links-wrap {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  box-sizing: border-box;
+}
+
+/* ---------- Buttons inside modal (match site buttons) ---------- */
+
+/* Shared buy button style (applies to rows and standalone buy buttons) */
+.modal .modal-link-row .buy,
+.modal .right .buy,
+.modal .buy {
+  background: #2563eb;
   color: #fff;
   padding: 10px 14px;
   border-radius: 8px;
@@ -651,253 +1207,122 @@ body{
   text-align: center;
   transition: background 0.2s ease, transform 0.15s ease;
   box-shadow: 0 2px 6px rgba(37, 99, 235, 0.25);
-}
-.buy:hover {
-  background: #1d4ed8; /* darker on hover */
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
-}
 
-/* Share button (matches .buy) */
-.share-btn {
-  background: #ffffff;
-  color: #000000;
-  padding: 10px 12px;
-  border-radius: 8px;
-  border: none;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  cursor: pointer;
-  box-shadow: 0 2px 6px rgba(37, 99, 235, 0.25);
-  transition: background 0.2s ease, transform 0.12s ease;
-  font-weight: 600;
-}
-.share-btn:hover { background: #1d4ed8; transform: translateY(-2px); }
-
-/* small icon-only variant (for modal header) */
-.share-btn.icon {
-  padding: 8px;
-  width: 40px;
-  height: 40px;
-  border-radius: 10px;
-  font-weight: 500;
-}
-
-/* popup container for desktop fallback */
-.share-popup {
-  position: absolute;
-  z-index: 1001;
-  background: #fff;
-  border-radius: 10px;
-  box-shadow: 0 10px 30px rgba(2,6,23,0.18);
-  padding: 8px;
-  display: flex;
-  gap: 8px;
-  align-items: center;
-  min-width: 230px;
-  max-width: 320px;
-}
-
-/* share item (icon + label) */
-.share-item {
-  display: inline-flex;
-  gap: 8px;
-  align-items: center;
-  padding: 8px 10px;
-  border-radius: 8px;
-  cursor: pointer;
-  font-weight: 600;
-  text-decoration: none;
-  color: #111827;
-  background: #f8fafc;
-}
-.share-item:hover { background: #eef2ff; color: #0f172a; }
-
-/* icon style inside popup */
-.share-item svg { width: 18px; height: 18px; flex: 0 0 18px; }
-
-/* tiny "copied" toast */
-.share-toast {
-  position: fixed;
-  bottom: 20px;
-  left: 50%;
-  transform: translateX(-50%);
-  background: rgba(17,24,39,0.95);
-  color: #fff;
-  padding: 8px 14px;
-  border-radius: 999px;
-  font-weight: 600;
-  z-index: 1200;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity .18s ease;
-}
-.share-toast.show { opacity: 1; pointer-events: auto; }
-
-
-/* modal */
-.modal-backdrop{position:fixed; inset:0; background:rgba(2,6,23,0.6); display:none; align-items:center; justify-content:center; z-index:140}
-.modal{
-  background:#fff; border-radius:12px; max-width:920px; width:calc(100% - 32px); max-height:92vh; overflow:auto;
-  padding:18px; display:flex; gap:18px; flex-wrap:wrap;
-}
-.modal .left{flex:1; min-width:220px}
-.modal .right{width:360px; max-width:100%; display:flex; flex-direction:column}
-.close-btn{background:transparent;border:0;font-size:18px;cursor:pointer;color:#666}
-#modal-image{width:100%; height:420px; object-fit:contain; background:#fff}
-
-.modal .modal-link-row {
-  width: 100%;
-  box-sizing: border-box;
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  margin-top: 8px;
-  flex-wrap: wrap;
-}
-
-/* Modal header: keep title left, close button right on the same row */
-.modal-header {
-  display: flex;
-  align-items: center;       /* vertically center title + button */
-  justify-content: space-between;
-  gap: 12px;
-  width: 100%;
-}
-
-/* Title styling inside modal header */
-.modal-header .modal-title,
-.modal-title {
-  margin: 0;
-  font-weight: 800;          /* restore boldness */
-  font-size: 18px;
-  line-height: 1.2;
-  flex: 1 1 auto;
-  white-space: normal;
-  word-break: break-word;
-}
-
-/* Close button: remove float and align in flex layout */
-.close-btn {
-  background: transparent;
-  border: 0;
-  font-size: 18px;
-  cursor: pointer;
-  color: #666;
-  padding: 6px 8px;
-  border-radius: 8px;
-  /* ensure not floating and does not shrink */
-  float: none !important;
-  flex: 0 0 auto;
-  align-self: flex-start; /* tune vertical alignment if desired */
-}
-
-/* Optional: nicer hover for the close button */
-.close-btn:hover {
-  background: rgba(0,0,0,0.04);
-}
-
-/* Make sure the label can wrap but won't push the button out */
-.modal .modal-link-row > div {
-  flex: 1 1 auto;
-  word-break: break-word;
-  white-space: normal;
-  max-width: calc(100% - 120px); /* reserve ~120px for the button; increase if your buttons are wider */
-}
-
-/* Button stays fixed-sized and anchored to the right */
-.modal .modal-link-row .buy {
   flex: 0 0 auto;
   min-width: 96px;
   margin-left: auto;
   flex-shrink: 0;
 }
-#modal-links-wrap {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
+.modal .modal-link-row .buy:hover,
+.modal .right .buy:hover,
+.modal .buy:hover {
+  background: #1d4ed8;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
 }
 
-/* footer */
-.footer{background:#fff;border-top:1px solid rgba(0,0,0,0.04); padding:28px 12px; color:var(--muted); margin-top:30px}
-.footer .wrap{max-width:var(--max-width); margin:0 auto; display:flex; gap:16px; align-items:flex-start; flex-wrap:wrap}
-.footer .col{flex:1; min-width:160px}
-.footer h4{margin:0 0 8px 0; font-size:14px}
-.footer p, .footer a{color:var(--muted); text-decoration:none; font-size:13px}
-.footer .bottom{max-width:var(--max-width); margin:18px auto 0; text-align:center; font-size:13px; color:var(--muted)}
-
-/* pagination */
-.pagination{display:flex; gap:8px; justify-content:center; margin:18px 0}
-.pagination button{background:#fff;border:1px solid rgba(16,24,40,0.08); padding:8px 12px; border-radius:10px; cursor:pointer; font-weight:600; box-shadow:0 6px 12px rgba(16,24,40,0.03)}
-.pagination button:hover{transform:translateY(-2px)}
-.pagination button.active{background:var(--primary); color:#fff; border-color:transparent; box-shadow:0 10px 20px rgba(15,98,254,0.14)}
-
-@media (max-width:980px){
-  .hero{padding:14px}
-  .search input{width:180px}
-  .grid{grid-template-columns: repeat(auto-fill, minmax(clamp(150px, 40%, 260px), 1fr)); gap:12px}
-  #modal-image{height:320px}
-  .thumb{padding-top:60%}
+/* Share button inside modal link rows (matches .share-btn look from main site) */
+.modal .modal-link-row .share-btn,
+.modal .modal-header .share-btn,
+#modal-share {
+  background: #ffffff;
+  color: #0f1724;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid rgba(16,24,40,0.06);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(2,6,23,0.06);
+  transition: background 0.18s ease, transform 0.12s ease, color 0.18s ease;
+  font-weight: 600;
+  min-width: 44px;
+  height: 44px;
+}
+.modal .modal-link-row .share-btn:hover,
+.modal .modal-header .share-btn:hover,
+#modal-share:hover {
+  background: #1d4ed8;
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(15,98,254,0.12);
 }
 
-/* Mobile */
-@media (max-width:720px) {
-  .card .actions {
-    display: flex;
-    flex-wrap: wrap;       /* allow wrapping into two rows */
-    gap: 8px;
-    margin-top: 12px;
-    width: 100%;
-  }
+/* If you want icon-only variant in header to be a bit smaller */
+.modal .modal-header .share-btn.icon,
+#modal-share.icon {
+  padding: 8px;
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+}
 
-  /* Row 1: View + Share */
-  .card .actions .view-btn {
-    flex: 1 1 auto;        /* takes remaining space */
-    min-width: 60px;
-    padding: 8px 12px;
-    font-size: 14px;
-    border-radius: 10px;
+/* ---------- Small-screen adjustments: modal stacks ---------- */
+@media (max-width: 720px) {
+  .modal {
+    padding: 14px;
+    gap: 12px;
   }
-  .card .actions .share-btn {
-    flex: 0 0 44px;
-    width: 44px;
-    height: 44px;
-    display: inline-flex;
+  .modal .left { min-width: 0; }
+  .modal .right { flex: 1 1 100%; width: 100%; }
+  #modal-image { height: 320px; }
+
+  /* ensure modal header actions remain in one row */
+  .modal-header { gap: 8px; }
+
+  /* keep buy/share rows tidy */
+  .modal .modal-link-row { align-items: center; }
+  .modal .modal-link-row .buy { margin-top: 0; }
+}
+
+/* very small phones */
+@media (max-width: 420px) {
+  .modal { padding: 12px; gap: 10px; }
+  #modal-image { height: 260px; }
+  .modal .modal-link-row > div { max-width: calc(100% - 96px); }
+  .modal .modal-link-row .share-btn { min-width: 40px; height: 40px; }
+}
+
+/* Footer share button styling */
+.footer .share-page {
+  appearance: none;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+  font-weight: 700;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: #fff;
+  color: #000;
+  box-shadow: 0 6px 18px rgba(37,99,235,0.12);
+  font-size: 14px;
+  transition: background 0.2s ease, transform 0.15s ease;
+}
+.footer .share-page:hover {
+  background: #1d4ed8;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(37,99,235,0.25);
+}
+
+/* Mobile-friendly footer */
+@media (max-width: 720px) {
+  .footer .wrap {
+    flex-direction: column;
     align-items: center;
-    justify-content: center;
-    border-radius: 10px;
-    margin-left: auto;
-  }
-
-  /* Row 2: Buy button full width */
-  .card .actions .buy {
-    flex: 1 0 100%;
-    width: 100%;
     text-align: center;
-    padding: 10px 12px;
-    font-size: 15px;
-    margin-top: 4px;       /* little space below first row */
+    gap: 14px;
+    padding: 12px;
   }
+  .footer .col { width: 100%; }
+  .footer .share-page { width: auto; }
 }
 
-/* Small phones (kept separate — NOT nested) */
-@media (max-width:420px){
-  .search input{width:92px}
-  
-  .hero{gap:8px}
-  .banner-wrap img{height:calc(var(--hero-height) * 0.45)}
-  .thumb{padding-top:72%}
-  .title{min-height:36px}
-  .desc{min-height:28px}
-  .container{padding-left:10px;padding-right:10px}
-
-  .card .actions { gap: 6px; padding-right: 6px; margin-top:10px; }
-  .card .actions .view-btn,
-  .card .actions .buy { font-size: 13px; padding: 7px 10px; min-width: 52px; }
-  .card .actions .share-btn { flex: 0 0 40px; width: 40px; height: 40px; margin-left: 8px; }
+/* Very small screens: shrink buttons a bit */
+@media (max-width: 420px) {
+  .footer .share-page { padding: 8px 12px; font-size: 13px; border-radius: 9px; }
 }
+
 
 </style>
 
@@ -976,6 +1401,14 @@ __BANNER_HTML__
       <h4>Don’t miss a deal 👇</h4>
       <p><a href="https://t.me/bestpricezone" target="_blank">Follow BestPriceZone on Telegram</a></p>
     </div>
+    <div class="col">
+    <h4>Share this page</h4>
+      <button id="share-page" class="share-page" aria-label="Share this page">
+        Share
+      </button>
+    </div>
+
+  </div>
   </div>
   <div class="bottom">© 2025 BestPriceZone. All rights reserved.</div>
 </footer>
@@ -1052,28 +1485,7 @@ __BANNER_HTML__
     return Math.floor(s/86400) + 'd ago';
   }
 
-  async function shareCard(id, title, url) {
-  const shareData = {
-    title: title,
-    text: title,
-    url: url
-  };
-
-  if (navigator.share) {
-    try {
-      await navigator.share(shareData);
-    } catch (err) {
-      console.warn("Share cancelled", err);
-    }
-  } else {
-    try {
-      await navigator.clipboard.writeText(url);
-      alert("Link copied! Share it with your friends.");
-    } catch (err) {
-      console.error("Clipboard copy failed", err);
-    }
-  }
-}
+// (duplicate old shareCard removed — using improved shareCardById / openShareMenu below)
 
   let cards = (window.CARDS || []).map(c => {
     return {
@@ -1166,28 +1578,35 @@ __BANNER_HTML__
       // compute relative time or full time depending on SHOW_RELATIVE
       const timeStr = (typeof SHOW_RELATIVE !== 'undefined' && SHOW_RELATIVE) ? timeAgo(c.date_iso) : (c.date_iso ? new Date(c.date_iso).toLocaleString() : '');
 
-      el.innerHTML = `
-  <div class="thumb"><img loading="lazy" src="${c.local_image}" alt="${escapeHtml(c.title)}" /></div>
+el.innerHTML = `
+  <div class="thumb">
+    <img loading="lazy" src="${c.local_image}" alt="${escapeHtml(c.title)}" />
+  </div>
+
   <div class="meta" style="display:flex;justify-content:space-between;align-items:center;margin-top:10px">
-  <div class="badge">${escapeHtml(c.merchant_label||'')}</div>
-  <div class="small" style="color:var(--muted)">${escapeHtml(timeStr)}</div>
-</div>
-<div class="title">${escapeHtml(c.title)}</div>
+    <div class="badge">${escapeHtml(c.merchant_label||'')}</div>
+    <div class="small" style="color:var(--muted)">${escapeHtml(timeStr)}</div>
+  </div>
 
-<div class="actions">
-  <a class="buy view-btn" href="javascript:void(0)" data-id="${c.id}">View</a>
-  <a class="buy" href="${c.buy_link}" target="_blank" rel="noopener">Buy Now</a>
-  <button class="share-btn" onclick="openShareMenu(this, '${encodeURIComponent(c.id)}')" aria-label="Share this deal">
-    <!-- arrow-out-of-box icon -->
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path>
-      <polyline points="16 6 12 2 8 6"></polyline>
-      <line x1="12" y1="2" x2="12" y2="15"></line>
-    </svg>
-  </button>
-</div>
+  <div class="title">${escapeHtml(c.title)}</div>
 
+  <div class="actions">
+    <!-- Buy (only .buy has blue/full-width behavior on small screens) -->
+    <a class="buy" href="${c.buy_link}" target="_blank" rel="noopener noreferrer">Buy Now</a>
+    <!-- View (only view-btn class) -->
+    <a class="view-btn" href="javascript:void(0)" data-id="${c.id}" aria-label="View details">View</a>
+
+    <!-- Share placed immediately after View so they remain on the same row -->
+    <button class="share-btn" onclick="openShareMenu(this, '${encodeURIComponent(c.id)}')" aria-label="Share this deal">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path>
+        <polyline points="16 6 12 2 8 6"></polyline>
+        <line x1="12" y1="2" x2="12" y2="15"></line>
+      </svg>
+    </button>
+  </div>
 `;
+
 
       const viewBtn = el.querySelector('.view-btn');
       if (viewBtn) viewBtn.addEventListener('click', ()=>openModal(c));
@@ -1500,80 +1919,32 @@ function escapeHtml(s) {
     .replace(/'/g, "&#39;");
 }
 
-// === Share helpers ===
-let currentModalCard = null;
-
+// ----------------- Unified improved share helpers -----------------
 function findCardById(id) {
-  return (window.CARDS || []).find((c) => c.id === decodeURIComponent(id));
+  if (!id) return null;
+  const decoded = decodeURIComponent(id);
+  return (window.CARDS || []).find((c) => String(c.id) === String(decoded));
+}
+
+function getCardUrl(card) {
+  try {
+    if (!card) return window.location.href;
+    if (card.buy_link) return card.buy_link;
+    if (card.shortlink) return card.shortlink;
+    const base = window.location.origin + window.location.pathname;
+    return base + (base.indexOf('?') === -1 ? '?' : '&') + 'id=' + encodeURIComponent(card.id || card.shortlink || '');
+  } catch (e) {
+    return (card && (card.buy_link || card.shortlink)) || window.location.href;
+  }
 }
 
 function buildSharePayload(card) {
-  const url = card.buy_link || card.shortlink || window.location.href;
+  const url = getCardUrl(card) || window.location.href;
   return {
-    title: card.title || "Check this deal",
-    text: card.title || "",
-    url: url,
+    title: (card && card.title) ? card.title : "Check this deal",
+    text: (card && card.title) ? (card.title + "\n" + url) : url,
+    url: url
   };
-}
-
-async function tryNativeShare(card) {
-  const data = buildSharePayload(card);
-  if (navigator.share) {
-    try {
-      await navigator.share(data);
-      return true;
-    } catch (e) {
-      console.warn("Share cancelled", e);
-      return false;
-    }
-  }
-  return false;
-}
-
-function openShareMenu(buttonEl, encodedCardId) {
-  const card = findCardById(encodedCardId);
-  if (!card) return;
-  currentModalCard = card;
-
-  // Mobile: use native share if available
-  if (navigator.share) {
-    tryNativeShare(card);
-    return;
-  }
-
-  // Desktop fallback: show small popup with options + copy
-  closeSharePopup();
-  const rect = buttonEl.getBoundingClientRect();
-  const popup = document.createElement("div");
-  popup.className = "share-popup";
-  popup.id = "share-popup";
-  popup.style.top = window.scrollY + rect.bottom + 8 + "px";
-  popup.style.left = Math.max(8, rect.left) + "px";
-
-  const shareUrl = card.buy_link || card.shortlink || window.location.href;
-
-  popup.innerHTML = `
-    <a class="share-item" href="https://wa.me/?text=${encodeURIComponent(
-      card.title + " " + shareUrl
-    )}" target="_blank">WhatsApp</a>
-    <a class="share-item" href="https://t.me/share/url?url=${encodeURIComponent(
-      shareUrl
-    )}&text=${encodeURIComponent(card.title)}" target="_blank">Telegram</a>
-    <a class="share-item" href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
-      shareUrl
-    )}" target="_blank">Facebook</a>
-    <a class="share-item" href="https://twitter.com/intent/tweet?url=${encodeURIComponent(
-      shareUrl
-    )}&text=${encodeURIComponent(card.title)}" target="_blank">Twitter</a>
-    <button class="share-item" onclick="navigator.clipboard.writeText('${shareUrl}').then(()=>showShareToast('Link copied!'))">Copy Link</button>
-  `;
-
-  document.body.appendChild(popup);
-}
-
-function closeSharePopup() {
-  const existing = document.getElementById("share-popup");
-  if (existing) existing.remove();
 }
 
 function showShareToast(msg) {
@@ -1581,22 +1952,247 @@ function showShareToast(msg) {
   t.className = "share-toast show";
   t.textContent = msg;
   document.body.appendChild(t);
-  setTimeout(() => t.classList.remove("show"), 2000);
-  setTimeout(() => t.remove(), 2500);
+  setTimeout(() => t.classList.remove("show"), 1800);
+  setTimeout(() => t.remove(), 2400);
 }
 
-window.addEventListener("scroll", closeSharePopup, true);
-window.addEventListener("resize", closeSharePopup);
+function closeSharePopup() {
+  const existing = document.getElementById("share-popup");
+  if (existing) existing.remove();
+}
 
-// Modal share button
-document.getElementById("modal-share").addEventListener("click", () => {
-  if (currentModalCard) {
-    openShareMenu(
-      document.getElementById("modal-share"),
-      encodeURIComponent(currentModalCard.id)
-    );
+// Try to fetch an image URL and convert to a File for Web Share v2
+async function fetchImageAsFile(imgUrl, filenameHint = "image.jpg") {
+  try {
+    // Note: this requires the image server to allow cross-origin fetch.
+    const res = await fetch(imgUrl, { mode: 'cors' });
+    if (!res.ok) throw new Error("Image fetch failed " + res.status);
+    const blob = await res.blob();
+    // Only return file if it's plausibly an image
+    if (!blob.type || !blob.type.startsWith("image/")) throw new Error("Not an image");
+    const ext = (blob.type.split('/')[1] || "jpg").split('+')[0];
+    const fname = (filenameHint || "img") + "." + ext;
+    // File constructor may not be available in all browsers, but modern ones support it
+    try {
+      return new File([blob], fname, { type: blob.type });
+    } catch (e) {
+      // fallback: attach blob with name property (some implementations accept it)
+      blob.name = fname;
+      return blob;
+    }
+  } catch (err) {
+    console.debug("fetchImageAsFile error:", err);
+    return null;
   }
-});
+}
+
+/**
+ * Main share entry:
+ * - Tries native share with image (if supported and image fetch works)
+ * - Else falls back to native share text+url
+ * - Else shows desktop popup with 2-row card, copy link and social buttons
+ */
+async function shareCardById(encodedCardId, anchorEl) {
+  const card = findCardById(encodedCardId);
+  if (!card) return;
+
+  const payload = buildSharePayload(card);
+  const cardUrl = payload.url;
+
+  // 1) Try Web Share with image file (Web Share Level 2)
+  if (navigator && navigator.canShare && navigator.share) {
+    let file = null;
+    if (card.local_image) {
+      file = await fetchImageAsFile(card.local_image, "product");
+    }
+    try {
+      if (file && navigator.canShare && navigator.canShare({ files: [file] })) {
+        await navigator.share({
+          title: payload.title,
+          text: payload.text,
+          files: [file],
+          url: cardUrl
+        });
+        return; // success
+      }
+    } catch (err) {
+      // sharing with files failed (CORS, unsupported, or user cancelled)
+      console.warn("Share with files failed:", err);
+      // fall through to try share text+url
+    }
+  }
+
+  // 2) Try plain native share (title + text + url)
+  if (navigator && navigator.share) {
+    try {
+      await navigator.share({
+        title: payload.title,
+        text: payload.text,
+        url: cardUrl
+      });
+      return;
+    } catch (err) {
+      // user cancelled or share failed — fall back to popup
+      console.warn("Native share failed/cancelled:", err);
+    }
+  }
+
+  // 3) Desktop fallback: popup with 2-row, 2-column card design
+  openDesktopSharePopup(card, anchorEl);
+}
+
+// Desktop popup builder — two-row layout: first row small image (left) + title (right), second row copy link + social buttons
+function openDesktopSharePopup(card, anchorEl) {
+  closeSharePopup();
+  const rect = (anchorEl && anchorEl.getBoundingClientRect) ? anchorEl.getBoundingClientRect() : { left: 20, bottom: 80 };
+
+  const popup = document.createElement("div");
+  popup.className = "share-popup";
+  popup.id = "share-popup";
+  // small, fixed width for a neat card
+  popup.style.minWidth = "320px";
+  popup.style.maxWidth = "420px";
+  popup.style.top = Math.max(8, window.scrollY + (rect.bottom || 80) + 8) + "px";
+  popup.style.left = Math.min(Math.max(8, rect.left || 8), Math.max(8, window.innerWidth - 440)) + "px";
+
+  const cardImg = card.local_image || "";
+  const titleText = card.title || card.merchant_label || "";
+
+  popup.innerHTML = `
+    <div style="display:flex;flex-direction:column;gap:10px;font-family:Inter,system-ui,Arial;">
+      <!-- Row 1: left image (small) + right title -->
+      <div style="display:flex;gap:12px;align-items:center">
+        <div style="flex:0 0 72px; width:72px; height:72px; border-radius:8px; overflow:hidden; background:#f6f7fb; display:flex;align-items:center;justify-content:center;">
+          <img src="${cardImg}" alt="${escapeHtml(titleText)}" style="width:100%;height:100%;object-fit:cover;display:block" />
+        </div>
+        <div style="flex:1;min-width:0;">
+          <div style="font-weight:700;font-size:15px;line-height:1.2;color:#0f1724;word-break:break-word;">${escapeHtml(titleText)}</div>
+          <div style="font-size:13px;color:#64748b;margin-top:6px;">${escapeHtml(card.merchant_label || "")}</div>
+        </div>
+      </div>
+
+      <!-- Row 2: link + copy and social actions -->
+      <div style="display:flex;flex-direction:column;gap:8px">
+        <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+          <div class="url" style="flex:1;min-width:0;font-size:13px;color:#475569;word-break:break-all;">${escapeHtml(getCardUrl(card))}</div>
+          <button class="share-btn-inline" id="share-copy-btn" style="flex:0 0 auto;padding:8px 12px;border-radius:8px;border:0;background:#0f62fe;color:#fff;font-weight:700;cursor:pointer">Copy</button>
+        </div>
+
+        <div style="display:flex;gap:8px;flex-wrap:wrap">
+          <a class="social-links" href="https://wa.me/?text=${encodeURIComponent((card.title || '') + ' ' + getCardUrl(card))}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">WhatsApp</a>
+          <a class="social-links" href="https://t.me/share/url?url=${encodeURIComponent(getCardUrl(card))}&text=${encodeURIComponent(card.title || '')}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Telegram</a>
+          <a class="social-links" href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(getCardUrl(card))}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Facebook</a>
+          <a class="social-links" href="https://twitter.com/intent/tweet?url=${encodeURIComponent(getCardUrl(card))}&text=${encodeURIComponent(card.title || '')}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Twitter</a>
+        </div>
+      </div>
+    </div>
+  `;
+
+  document.body.appendChild(popup);
+
+  // copy behaviour
+  const copyBtn = popup.querySelector("#share-copy-btn");
+  if (copyBtn) {
+    copyBtn.addEventListener("click", () => {
+      const urlToCopy = getCardUrl(card);
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(urlToCopy).then(() => {
+          showShareToast("Link copied!");
+          copyBtn.textContent = "Copied";
+          setTimeout(() => (copyBtn.textContent = "Copy"), 1200);
+        }).catch(() => {
+          // fallback to select text
+          const urlEl = popup.querySelector(".url");
+          if (urlEl) {
+            const range = document.createRange();
+            const sel = window.getSelection();
+            range.selectNodeContents(urlEl);
+            sel.removeAllRanges();
+            sel.addRange(range);
+          }
+          showShareToast("Select & copy the link");
+        });
+      } else {
+        const urlEl = popup.querySelector(".url");
+        if (urlEl) {
+          const range = document.createRange();
+          const sel = window.getSelection();
+          range.selectNodeContents(urlEl);
+          sel.removeAllRanges();
+          sel.addRange(range);
+        }
+        showShareToast("Select & copy the link");
+      }
+    });
+  }
+
+  // close popup when clicking outside / on scroll / resize
+  const closeFn = () => closeSharePopup();
+  setTimeout(() => {
+    window.addEventListener("scroll", closeFn, true);
+    window.addEventListener("resize", closeFn);
+    document.addEventListener("click", closeFn, { once: true, capture: true });
+  }, 10);
+
+  // stop clicks inside popup from bubbling (so it won't immediately close)
+  popup.addEventListener("click", (ev) => ev.stopPropagation());
+}
+
+// Wire up any inline share button usage e.g. openShareMenu(this, encodeURIComponent(c.id))
+function openShareMenu(buttonEl, encodedCardId) {
+  // Use the unified flow: tries native image+text, falls back to popup
+  shareCardById(encodedCardId, buttonEl).catch((e)=>console.debug("shareCardById error", e));
+}
+
+// If you have a modal share button (currentModalCard), keep it connected:
+const modalShareEl = document.getElementById("modal-share");
+if (modalShareEl) {
+  modalShareEl.addEventListener("click", (ev) => {
+    if (currentModalCard) {
+      openShareMenu(modalShareEl, encodeURIComponent(currentModalCard.id));
+    }
+  });
+}
+
+(function(){
+  const shareBtn = document.getElementById('share-page');
+
+  function fallbackCopy() {
+    const url = window.location.href;
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(()=>{
+        if (typeof showShareToast === 'function') showShareToast('Link copied!');
+        else alert('Link copied: ' + url);
+      });
+    } else {
+      const ta = document.createElement('textarea');
+      ta.value = url;
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand('copy');
+      ta.remove();
+      alert('Link copied: ' + url);
+    }
+  }
+
+  if (shareBtn) {
+    shareBtn.addEventListener('click', async function() {
+      const url = window.location.href;
+      const title = document.title || 'BestPriceZone — check this out';
+      const text = title;
+
+      if (navigator.share) {
+        try {
+          await navigator.share({ title, text, url });
+        } catch (err) {
+          fallbackCopy();
+        }
+      } else {
+        fallbackCopy();
+      }
+    });
+  }
+})();
 
   // initial render
   render();
