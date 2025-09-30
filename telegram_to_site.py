@@ -2139,9 +2139,24 @@ function openDesktopSharePopup(card, anchorEl) {
 }
 
 // Wire up any inline share button usage e.g. openShareMenu(this, encodeURIComponent(c.id))
-function openShareMenu(buttonEl, encodedCardId) {
-  // Use the unified flow: tries native image+text, falls back to popup
-  shareCardById(encodedCardId, buttonEl).catch((e)=>console.debug("shareCardById error", e));
+function openShareMenu(el, cardId) {
+  const cleanUrl = `${window.location.origin}/?id=${encodeURIComponent(cardId)}`;
+  const title = "BestPriceZone Deal";
+  const text = "Check out this deal I found on BestPriceZone!";
+
+  if (navigator.share) {
+    navigator.share({
+      title,
+      text,
+      url: cleanUrl
+    }).catch(() => {
+      navigator.clipboard.writeText(cleanUrl);
+      if (typeof showShareToast === 'function') showShareToast('Link copied!');
+    });
+  } else {
+    navigator.clipboard.writeText(cleanUrl);
+    if (typeof showShareToast === 'function') showShareToast('Link copied!');
+  }
 }
 
 // If you have a modal share button (currentModalCard), keep it connected:
