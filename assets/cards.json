@@ -1,5 +1,42 @@
 [
   {
+    "id": "msg9235",
+    "title": "Branded Beauty Products Min 25 Percent Off",
+    "description": "Ajio |",
+    "shortlink": "https://ajiio.co/FrQy3i",
+    "urls": [
+      "https://ajiio.co/FrQy3i"
+    ],
+    "raw_text": "Ajio | Branded Beauty Products Min 25 Percent Off\n\nhttps://ajiio.co/FrQy3i",
+    "final_url": "https://ajiio.co/FrQy3i",
+    "local_image": "assets/images/tgmsg_9235.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-09-30T04:01:29+00:00",
+    "buy_link": "https://ajiio.co/FrQy3i",
+    "date_iso": "2025-09-30T04:01:29+00:00"
+  },
+  {
+    "id": "msg9236",
+    "title": "Min. 70% Off On USPA Clothing",
+    "description": "Ajio : . Men's :  Womens :  Boys :  Girls :",
+    "shortlink": "https://ajiio.co/RjUpPi",
+    "urls": [
+      "https://ajiio.co/RjUpPi",
+      "https://ajiio.co/efQlLW",
+      "https://ajiio.co/Kqsr2O",
+      "https://ajiio.co/eCo9S3"
+    ],
+    "raw_text": "Ajio : Min. 70% Off On USPA Clothing.\n\nMen's : https://ajiio.co/RjUpPi\nWomens : https://ajiio.co/efQlLW\nBoys : https://ajiio.co/Kqsr2O\nGirls : https://ajiio.co/eCo9S3",
+    "final_url": "https://ajiio.co/RjUpPi",
+    "local_image": "assets/images/tgmsg_9236.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-09-30T04:16:27+00:00",
+    "buy_link": "https://ajiio.co/RjUpPi",
+    "date_iso": "2025-09-30T04:16:27+00:00"
+  },
+  {
     "id": "msg9233",
     "title": "Up to 87% Off On HRX Shoe",
     "description": "Myntra : Upto 87% Off On HRX Shoes. Men :  Women :",
@@ -3166,31 +3203,5 @@
     "date_obj": "2025-09-28T13:21:25+00:00",
     "buy_link": "https://myntr.in/fr8Fd1",
     "date_iso": "2025-09-28T13:21:25+00:00"
-  },
-  {
-    "id": "msg8570",
-    "title": "Ajio | Loot : Price Drop On Premium Brand",
-    "description": "AJIO Loot : Price Drop On Premium Brands. Armani Exchange :  Replay :  La Martina :  G Star Raw :  Clarks :  GAS, G-Star Raw & GANT Clothing. Men’s :  Women’s :  *Additional Coupons + Card Discounts.",
-    "shortlink": "https://ajiio.co/NePr6M",
-    "final_url": "https://ajiio.co/NePr6M",
-    "local_image": "assets/images/tgmsg_8570.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajio",
-    "date_obj": "2025-09-28T12:51:01+00:00",
-    "buy_link": "https://ajiio.co/NePr6M",
-    "date_iso": "2025-09-28T12:51:01+00:00"
-  },
-  {
-    "id": "msg8572",
-    "title": "Flipkart | BBD Flash Sale : Flat 6% Off On Tanishq Gift Cards (6",
-    "description": "BBD Flash Sale : Flat 6% Off On Tanishq Gift Cards (6 - 8 PM)  More :  + 5% Cashback with SBI Cashback Cards.",
-    "shortlink": "https://fkrt.co/Q9Bl87",
-    "final_url": "https://fkrt.co/Q9Bl87",
-    "local_image": "assets/images/tgmsg_8572.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-28T12:51:47+00:00",
-    "buy_link": "https://fkrt.co/Q9Bl87",
-    "date_iso": "2025-09-28T12:51:47+00:00"
   }
 ]
