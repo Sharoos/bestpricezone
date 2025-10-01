@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg9830",
+    "title": "Up to 86% Off On HRX Luggage",
+    "description": "Flipkart | Upto 86% Off On HRX Luggage. Small : https://fkrt.co/Fvwub3 Medium : https://fkrt.co/q3xCy2 Large : https://fkrt.co/Ic8C8t Pack Of 2/3 : https://fkrt.co/sTIyM8",
+    "shortlink": "https://fkrt.co/Fvwub3",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 86% Off On HRX Luggage"
+      },
+      {
+        "url": "https://fkrt.co/Fvwub3",
+        "label": "Small"
+      },
+      {
+        "url": "https://fkrt.co/q3xCy2",
+        "label": "Medium"
+      },
+      {
+        "url": "https://fkrt.co/Ic8C8t",
+        "label": "Large"
+      },
+      {
+        "url": "https://fkrt.co/sTIyM8",
+        "label": "Pack Of 2/3"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 86% Off On HRX Luggage.\n\nSmall : https://fkrt.co/Fvwub3\nMedium : https://fkrt.co/q3xCy2\nLarge : https://fkrt.co/Ic8C8t\n\nPack Of 2/3 : https://fkrt.co/sTIyM8",
+    "final_url": "https://fkrt.co/Fvwub3",
+    "local_image": "assets/images/tgmsg_9830.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-01T17:45:56+00:00",
+    "buy_link": "https://fkrt.co/Fvwub3",
+    "date_iso": "2025-10-01T17:45:56+00:00"
+  },
+  {
     "id": "msg9828",
     "title": "Set of 2 pillows @ 259",
     "description": "Myntra | Set of 2 pillows @ 259 https://myntr.in/KOuAHc",
@@ -3858,22 +3894,5 @@
     "date_obj": "2025-09-30T13:10:21+00:00",
     "buy_link": "https://www.amazon.in/Godrej-Crisper-Technology-Vegetable-Refrigerator/dp/B0C2NHPZJF?pf_rd_r=3DTYZPTENX50F59KXGS5&pf_rd_p=355fc5e7-6fe2-45a3-b705-fb1cf959a246&th=1&language=en_IN&tag=bestpricezo0f-21",
     "date_iso": "2025-09-30T13:10:21+00:00"
-  },
-  {
-    "id": "msg9353",
-    "title": "💡 Apply ₹2,250 Off + Flat ₹3,750 Off With SBI Cc",
-    "description": "Amazon Lowest⚡️Godrej 9 Kg 5 Star Fully-Automatic Front Load Washing Machine @ ₹25,990 🔗  ❌ Regular price @ ₹31,990 💡 Apply ₹2,250 Off Coupon + Flat ₹3,750 Off With SBI Cc",
-    "shortlink": "https://www.amazon.in/dp/B0F6MVY5TH?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "urls": [
-      "https://www.amazon.in/dp/B0F6MVY5TH?th=1&language=en_IN&tag=bestpricezo0f-21"
-    ],
-    "raw_text": "Amazon Lowest⚡️Godrej 9 Kg 5 Star Fully-Automatic Front Load Washing Machine @ ₹25,990\n\n🔗 https://www.amazon.in/dp/B0F6MVY5TH?th=1&language=en_IN&tag=bestpricezo0f-21\n\n❌ Regular price @ ₹31,990\n\n💡 Apply ₹2,250 Off Coupon + Flat ₹3,750 Off With SBI Cc",
-    "final_url": "https://www.amazon.in/dp/B0F6MVY5TH?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9353.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-30T13:20:20+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F6MVY5TH?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2025-09-30T13:20:20+00:00"
   }
 ]
