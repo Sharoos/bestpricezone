@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg9816",
+    "title": "65% Off On U.S. Polo Assn. Men's Clothing",
+    "description": "Myntra : Flat 60-. Tshirts : Shirts : Jeans : Trousers : Shorts : Sweatshirts : Trackpants : Footwears :",
+    "shortlink": "https://myntr.in/ZgJklU",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flat 60-65% Off On U.S. Polo Assn. Men's Clothing"
+      },
+      {
+        "url": "https://myntr.in/ZgJklU",
+        "label": "Tshirts"
+      },
+      {
+        "url": "https://myntr.in/ZhthGY",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://myntr.in/chGQBT",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://myntr.in/FM9xYb",
+        "label": "Trousers"
+      },
+      {
+        "url": "https://myntr.in/kmt1LQ",
+        "label": "Shorts"
+      },
+      {
+        "url": "https://myntr.in/Hno98f",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "https://myntr.in/yD7Yfb",
+        "label": "Trackpants"
+      },
+      {
+        "url": "https://myntr.in/tCV9QT",
+        "label": "Footwears"
+      }
+    ],
+    "raw_text": "Myntra : Flat 60-65% Off On U.S. Polo Assn. Men's Clothing.\n\nTshirts : https://myntr.in/ZgJklU\nShirts : https://myntr.in/ZhthGY\nJeans : https://myntr.in/chGQBT\nTrousers : https://myntr.in/FM9xYb\nShorts : https://myntr.in/kmt1LQ\nSweatshirts : https://myntr.in/Hno98f\nTrackpants : https://myntr.in/yD7Yfb\nFootwears : https://myntr.in/tCV9QT",
+    "final_url": "https://myntr.in/ZgJklU",
+    "local_image": "assets/images/tgmsg_9816.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-01T16:51:37+00:00",
+    "buy_link": "https://myntr.in/ZgJklU",
+    "date_iso": "2025-10-01T16:51:37+00:00"
+  },
+  {
     "id": "msg9806",
     "title": "Up to 80% Off On Jack & Jones Clothing",
     "description": "Ajio : Upto 80% Off On Jack & Jones Clothing. T-Shirt : Shirt : Jeans : Sweatshirt & Sweater : Jacket : Shorts : Trouser : Trackpant : .💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!!",
@@ -3713,22 +3765,5 @@
     "date_obj": "2025-09-30T11:20:19+00:00",
     "buy_link": "https://fkrt.co/1CjmLi",
     "date_iso": "2025-09-30T11:20:19+00:00"
-  },
-  {
-    "id": "msg9298",
-    "title": "Realme Earbuds & Neckbands Starts @720",
-    "description": "Myntra Loot : . 👉",
-    "shortlink": "https://myntr.in/67b3mo",
-    "urls": [
-      "https://myntr.in/67b3mo"
-    ],
-    "raw_text": "Myntra Loot : Realme Earbuds & Neckbands Starts @720.\n\n👉https://myntr.in/67b3mo",
-    "final_url": "https://myntr.in/67b3mo",
-    "local_image": "assets/images/tgmsg_9298.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-30T11:31:25+00:00",
-    "buy_link": "https://myntr.in/67b3mo",
-    "date_iso": "2025-09-30T11:31:25+00:00"
   }
 ]
