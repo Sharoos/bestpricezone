@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg9792",
+    "title": "From ₹399",
+    "description": "LOOT From  ₹399 https://fkrt.co/07HnLp",
+    "shortlink": "https://fkrt.co/07HnLp",
+    "urls": [
+      {
+        "url": "https://fkrt.co/07HnLp",
+        "label": "LOOT From ₹399"
+      }
+    ],
+    "raw_text": "LOOT From  ₹399\n\nhttps://fkrt.co/07HnLp",
+    "final_url": "https://fkrt.co/07HnLp",
+    "local_image": "assets/images/tgmsg_9792.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-01T15:57:12+00:00",
+    "buy_link": "https://fkrt.co/07HnLp",
+    "date_iso": "2025-10-01T15:57:12+00:00"
+  },
+  {
+    "id": "msg9796",
+    "title": "🔥Branded Jeans Up to 80% Off Starts From ₹287",
+    "description": "🔥Myntra : Branded Jeans Upto 80% Off Starts From ₹287 Men : https://myntr.in/AXxFUd Women : https://myntr.in/nU0z7N",
+    "shortlink": "https://myntr.in/AXxFUd",
+    "urls": [
+      {
+        "url": "https://myntr.in/AXxFUd",
+        "label": "🔥Myntra : Branded Jeans Upto 80% Off Starts From ₹287"
+      },
+      {
+        "url": "https://myntr.in/nU0z7N",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "🔥Myntra : Branded Jeans Upto 80% Off Starts From ₹287\n\nMen : https://myntr.in/AXxFUd\nWomen : https://myntr.in/nU0z7N",
+    "final_url": "https://myntr.in/AXxFUd",
+    "local_image": "assets/images/tgmsg_9796.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-01T16:03:47+00:00",
+    "buy_link": "https://myntr.in/AXxFUd",
+    "date_iso": "2025-10-01T16:03:47+00:00"
+  },
+  {
+    "id": "msg9800",
+    "title": "C Wired Earphones @599",
+    "description": "Amazon | boAt Type-C Wired Earphones @599. 👉https://www.amazon.in/dp/B0DB1L9676?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DB1L9676?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DB1L9676?tag=bestpricezo0f-21",
+        "label": "boAt Type-C Wired Earphones @599"
+      }
+    ],
+    "raw_text": "Amazon | boAt Type-C Wired Earphones @599.\n\n👉https://www.amazon.in/dp/B0DB1L9676?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DB1L9676?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_9800.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-01T16:11:34+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DB1L9676?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-01T16:11:34+00:00"
+  },
+  {
     "id": "msg9789",
     "title": "HRX Women Tshirts Starts at ₹188",
     "description": "Flipkart | .",
@@ -3598,56 +3662,5 @@
     "date_obj": "2025-09-30T10:32:05+00:00",
     "buy_link": "https://myntr.in/UXCITv",
     "date_iso": "2025-09-30T10:32:05+00:00"
-  },
-  {
-    "id": "msg9289",
-    "title": "Raymond Clothing Up to 70% Off + Discount @ 70% OFF",
-    "description": "Amazon | Raymond Clothing Upto 70% Off + Coupon Discount @ 70% OFF 👉",
-    "shortlink": "https://www.amazon.in/dp/B0CZXQYTBH?tag=bestpricezo0f-21",
-    "urls": [
-      "https://www.amazon.in/dp/B0CZXQYTBH?tag=bestpricezo0f-21"
-    ],
-    "raw_text": "Amazon | Raymond Clothing Upto 70% Off + Coupon Discount @ 70% OFF\n\n👉https://www.amazon.in/dp/B0CZXQYTBH?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CZXQYTBH?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9289.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-30T10:40:16+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CZXQYTBH?tag=bestpricezo0f-21",
-    "date_iso": "2025-09-30T10:40:16+00:00"
-  },
-  {
-    "id": "msg9290",
-    "title": "Up to 75% Off on Personal Care Product",
-    "description": "*Loot:* Upto 75% Off on Personal Care Products",
-    "shortlink": "https://fktr.in/o1iprNS",
-    "urls": [
-      "https://fktr.in/o1iprNS"
-    ],
-    "raw_text": "*Loot:* Upto 75% Off on Personal Care Products\n\nhttps://fktr.in/o1iprNS",
-    "final_url": "https://fktr.in/o1iprNS",
-    "local_image": "assets/images/tgmsg_9290.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-30T10:44:36+00:00",
-    "buy_link": "https://fktr.in/o1iprNS",
-    "date_iso": "2025-09-30T10:44:36+00:00"
-  },
-  {
-    "id": "msg9283",
-    "title": "Cello Opalware Dazzle Series 'Tree of Life' 18 Piece Dinner Set @949",
-    "description": "Amazon |  👉",
-    "shortlink": "https://www.amazon.in/dp/B0CPYN5WQK?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      "https://www.amazon.in/dp/B0CPYN5WQK?th=1&psc=1&tag=bestpricezo0f-21"
-    ],
-    "raw_text": "Amazon | Cello Opalware Dazzle Series 'Tree of Life' 18 Piece Dinner Set @949\n\n👉https://www.amazon.in/dp/B0CPYN5WQK?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CPYN5WQK?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9283.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-30T10:04:01+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CPYN5WQK?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-09-30T10:04:01+00:00"
   }
 ]
