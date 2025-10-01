@@ -1,5 +1,40 @@
 [
   {
+    "id": "msg9630",
+    "title": "Up to 65% Off On Set Wet Perfume",
+    "description": "Myntra | Upto 65% Off On Set Wet Perfumes. 👉 53% Off : Gillet Venus - razor + 3 catridges @316. 👉",
+    "shortlink": "https://myntr.in/ALHzCK",
+    "urls": [
+      "https://myntr.in/ALHzCK",
+      "https://myntr.in/DsBVGm"
+    ],
+    "raw_text": "Myntra | Upto 65% Off On Set Wet Perfumes.\n\n👉https://myntr.in/ALHzCK\n\n53% Off : Gillet Venus - razor + 3 catridges @316.\n\n👉https://myntr.in/DsBVGm",
+    "final_url": "https://myntr.in/ALHzCK",
+    "local_image": "assets/images/tgmsg_9630.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-01T06:43:17+00:00",
+    "buy_link": "https://myntr.in/ALHzCK",
+    "date_iso": "2025-10-01T06:43:17+00:00"
+  },
+  {
+    "id": "msg9632",
+    "title": "Wrogn Rucksacks Starts @435",
+    "description": "Flipkart | . 👉",
+    "shortlink": "https://fkrt.co/lmgYMP",
+    "urls": [
+      "https://fkrt.co/lmgYMP"
+    ],
+    "raw_text": "Flipkart | Wrogn Rucksacks Starts @435.\n\n👉https://fkrt.co/lmgYMP",
+    "final_url": "https://fkrt.co/lmgYMP",
+    "local_image": "assets/images/tgmsg_9632.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-01T06:50:56+00:00",
+    "buy_link": "https://fkrt.co/lmgYMP",
+    "date_iso": "2025-10-01T06:50:56+00:00"
+  },
+  {
     "id": "msg9623",
     "title": "tax%3A2665401031%2Cp_89%3ALAKM%25C3%2589&s=price",
     "description": "Amazon | Lakme Beauty Products Starts @109. 👉 Pond's :",
@@ -3612,39 +3647,5 @@
     "date_obj": "2025-09-29T19:24:30+00:00",
     "buy_link": "https://fkrt.co/vCF1vO",
     "date_iso": "2025-09-29T19:24:30+00:00"
-  },
-  {
-    "id": "msg9194",
-    "title": "Logitech MX Master 2S Bluetooth Edition Wireless Mouse @ 3495",
-    "description": "Amazon |",
-    "shortlink": "https://www.amazon.in/dp/B071YZJ1G1?tag=bestpricezo0f-21",
-    "urls": [
-      "https://www.amazon.in/dp/B071YZJ1G1?tag=bestpricezo0f-21"
-    ],
-    "raw_text": "Amazon | Logitech MX Master 2S Bluetooth Edition Wireless Mouse @ 3495\n\nhttps://www.amazon.in/dp/B071YZJ1G1?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B071YZJ1G1?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9194.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-29T19:25:15+00:00",
-    "buy_link": "https://www.amazon.in/dp/B071YZJ1G1?tag=bestpricezo0f-21",
-    "date_iso": "2025-09-29T19:25:15+00:00"
-  },
-  {
-    "id": "msg9195",
-    "title": "70% Off Livon Style Pro Hair Styling Gel 100 ml @199",
-    "description": "Amazon | 70% Off : Livon Style Pro Hair Styling Gel 100 ml @199.",
-    "shortlink": "https://www.amazon.in/dp/B0C94CDLQ1?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      "https://www.amazon.in/dp/B0C94CDLQ1?th=1&psc=1&tag=bestpricezo0f-21"
-    ],
-    "raw_text": "Amazon | 70% Off : Livon Style Pro Hair Styling Gel 100 ml @199.\n \nhttps://www.amazon.in/dp/B0C94CDLQ1?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0C94CDLQ1?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9195.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-29T19:25:42+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0C94CDLQ1?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-09-29T19:25:42+00:00"
   }
 ]
