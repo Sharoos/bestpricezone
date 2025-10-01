@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg9828",
+    "title": "Set of 2 pillows @ 259",
+    "description": "Myntra | Set of 2 pillows @ 259 https://myntr.in/KOuAHc",
+    "shortlink": "https://myntr.in/KOuAHc",
+    "urls": [
+      {
+        "url": "https://myntr.in/KOuAHc",
+        "label": "Set of 2 pillows @ 259"
+      }
+    ],
+    "raw_text": "Myntra | Set of 2 pillows @ 259\n\nhttps://myntr.in/KOuAHc",
+    "final_url": "https://myntr.in/KOuAHc",
+    "local_image": "assets/images/tgmsg_9828.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-01T17:38:32+00:00",
+    "buy_link": "https://myntr.in/KOuAHc",
+    "date_iso": "2025-10-01T17:38:32+00:00"
+  },
+  {
     "id": "msg9825",
     "title": "Tide Matic Liquid Detergent 2L",
     "description": "Amazon | Tide Matic Liquid Detergent 2L @254: https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21 @232: https://www.amazon.in/dp/B0CF4WQ5D1?th=1&psc=1&tag=bestpricezo0f-21",
@@ -3855,22 +3875,5 @@
     "date_obj": "2025-09-30T13:20:20+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F6MVY5TH?th=1&language=en_IN&tag=bestpricezo0f-21",
     "date_iso": "2025-09-30T13:20:20+00:00"
-  },
-  {
-    "id": "msg9306",
-    "title": "Lowest HIMALAYA Happy Baby Gift Pack (5",
-    "description": "Flipkart Lowest : HIMALAYA Happy Baby Gift Pack (5-IN-1) @ 153 👉",
-    "shortlink": "https://fkrt.co/QurZxX",
-    "urls": [
-      "https://fkrt.co/QurZxX"
-    ],
-    "raw_text": "Flipkart Lowest : HIMALAYA Happy Baby Gift Pack (5-IN-1) @ 153\n \n👉https://fkrt.co/QurZxX",
-    "final_url": "https://fkrt.co/QurZxX",
-    "local_image": "assets/images/tgmsg_9306.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-30T12:02:38+00:00",
-    "buy_link": "https://fkrt.co/QurZxX",
-    "date_iso": "2025-09-30T12:02:38+00:00"
   }
 ]
