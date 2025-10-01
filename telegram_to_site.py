@@ -2238,65 +2238,113 @@ async function fetchImageAsFile(imgUrl, filenameHint = "image") {
 }
 
 // Main share entry for cards/modal: attempts image+text share, falls back to text share or desktop popup
+// ---------- NO-CLIPBOARD share handlers (paste to replace existing) ----------
+
+const SHARE_PREFIX = "I just found this deal on BestPriceZone.in";
+
+async function tryOpenSocialIntent(permalink, title, imgSrc) {
+  // Preferred order: WhatsApp -> Telegram -> Twitter -> Facebook
+  // Text includes product image URL as well (so apps can preview it if they fetch it)
+  const text = `${SHARE_PREFIX}\n${title}\n${permalink}\n${imgSrc || ''}`.trim();
+  // WhatsApp mobile intent generally opens app on mobile
+  const wa = `https://wa.me/?text=${encodeURIComponent(text)}`;
+  const tg = `https://t.me/share/url?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(SHARE_PREFIX + "\n" + title)}`;
+  const tw = `https://twitter.com/intent/tweet?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(SHARE_PREFIX + " " + title)}`;
+  const fb = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(permalink)}`;
+
+  // Try opening WhatsApp first (best mobile reach), then Telegram, then fallback to popup
+  // We open a small window/tab for the intent; on mobile it will redirect to the app
+  try {
+    // open a chooser popup to the best possible option — we'll attempt WhatsApp then Telegram.
+    // The user agent check helps prefer app-friendly intent on phones.
+    const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+    if (isMobile) {
+      // try WhatsApp first
+      window.open(wa, '_blank');
+      return true;
+    } else {
+      // desktop: open desktop popup so user can click an option (no clipboard)
+      return false;
+    }
+  } catch (e) {
+    return false;
+  }
+}
+
 async function shareCardById(encodedCardId, anchorEl) {
   const card = findCardById(encodedCardId);
   if (!card) return;
 
-  const url = getCardUrl(card) || window.location.href;
-  const title = card.title || "Check this deal";
+  const permalink = getCardUrl(card) || window.location.href;
+  const title = (card.title || "Check this deal").trim();
+  const text = `${SHARE_PREFIX}\n${title}\n${permalink}`;
+  let imgSrc = card.local_image || '';
 
-  // new prefix line requested
-  const SHARE_PREFIX = "I just found this deal on BestPriceZone.in";
+  // If no product image on card, try to fall back to banner (like page share)
+  if (!imgSrc) {
+    const bannerImg = document.querySelector('.banner-wrap img');
+    if (bannerImg && bannerImg.src) imgSrc = bannerImg.src;
+  }
 
-  // include prefix, title and url in the shared text (native share will show this)
-  const text = `${SHARE_PREFIX}\n${title}\n${url}`;
-
-  // 1) Try Web Share with image file (Web Share Level 2)
-  if (navigator && navigator.share && navigator.canShare) {
-    let file = null;
-    if (card.local_image) {
-      file = await fetchImageAsFile(card.local_image, "product");
-    }
-    try {
-      if (file && navigator.canShare({ files: [file] })) {
-        await navigator.share({ title, text, files: [file], url });
-        return;
+  // 1) Try Web Share Level 2 (files)
+  try {
+    if (navigator && navigator.share && navigator.canShare) {
+      if (imgSrc) {
+        const file = await fetchImageAsFile(imgSrc, "product");
+        if (file && navigator.canShare({ files: [file] })) {
+          await navigator.share({ title, text, files: [file], url: permalink });
+          return; // DONE: native sheet with image
+        }
       }
-    } catch (err) {
-      console.warn("Share with files failed:", err);
     }
+  } catch (err) {
+    console.warn("Web Share with files failed:", err);
+    // fallthrough to next step (no clipboard)
   }
 
-  // 2) Try plain native share (title + text + url)
-  if (navigator && navigator.share) {
-    try {
-      await navigator.share({ title, text, url });
-      return;
-    } catch (err) {
-      console.warn("Native share failed/cancelled:", err);
+  // 2) Try native share with text+url (no image attach)
+  try {
+    if (navigator && navigator.share) {
+      await navigator.share({ title, text, url: permalink });
+      return; // DONE: native sheet (may be without image)
     }
+  } catch (err) {
+    console.warn("Native text share failed/cancelled:", err);
+    // fallthrough to social intents / popup (no clipboard)
   }
 
-  // 3) Desktop fallback: popup with product image + title + copy/social links
-  openDesktopSharePopup(card, anchorEl, /* prefer image */ true);
+  // 3) If on mobile, directly open social intent (WhatsApp/Telegram) — avoids clipboard entirely.
+  const openedIntent = await tryOpenSocialIntent(permalink, title, imgSrc);
+  if (openedIntent) return;
+
+  // 4) Desktop fallback: open desktop share popup (no clipboard). The popup has social links
+  //    and also shows the product image/title/permalink so the user can click the social links.
+  openDesktopSharePopup(card, anchorEl, /* preferImage */ true);
 }
 
-// Inline share button (card-level) and modal-share should call this. Force using the product image.
+// openShareMenu wrapper used by card buttons
 function openShareMenu(el, cardId) {
-  shareCardById(cardId, el).catch(() => {
+  shareCardById(cardId, el).catch((err) => {
+    console.warn("shareCardById failed:", err);
+    // As a final fallback we still show the desktop popup UI (explicit) so user can share manually.
     try {
-      const permalink = getCardUrl({ id: decodeURIComponent(cardId) });
-      navigator.clipboard && navigator.clipboard.writeText(permalink);
-      showShareToastSafe("Link copied!");
+      const card = findCardById(cardId);
+      if (card) {
+        openDesktopSharePopup(card, el, true);
+      } else {
+        // if findCardById fails (rare), open page share popup with banner
+        openDesktopSharePopup({ id: '', title: document.title || '', merchant_label: '', local_image: (document.querySelector('.banner-wrap img')||{}).src || '' }, el, true);
+      }
     } catch (e) {
-      showShareToastSafe("Link copied!");
+      console.warn("Final fallback popup failed:", e);
     }
   });
 }
 
-// Desktop popup builder (two-row card) — prefers product image, falls back to banner
-// Desktop popup builder (two-row card) — prefers product image, falls back to banner
+// Modify openDesktopSharePopup slightly so social links include the full multiline text
+// and openDesktopSharePopup can be used as the desktop/manual UI (no clipboard).
 function openDesktopSharePopup(card, anchorEl, preferImage = true) {
+  // remove existing first
   const existing = document.getElementById("share-popup");
   if (existing) existing.remove();
 
@@ -2310,11 +2358,7 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
 
   const permalink = getCardUrl(card);
   const titleText = card.title || card.merchant_label || "BestPriceZone Deal";
-  const SHARE_PREFIX = "I just found this deal on BestPriceZone.in";
-
-  const whatsappText = encodeURIComponent(`${SHARE_PREFIX}\n${titleText}\n${permalink}`);
-  const telegramText = encodeURIComponent(`${SHARE_PREFIX}\n${titleText}`);
-  const twitterText = encodeURIComponent(`${SHARE_PREFIX}\n${titleText}`);
+  const fullText = `${SHARE_PREFIX}\n${titleText}\n${permalink}\n${imgSrc || ''}`.trim();
 
   const popup = document.createElement("div");
   popup.className = "share-popup";
@@ -2340,34 +2384,40 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
       <div style="display:flex;flex-direction:column;gap:8px">
         <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
           <div class="url" style="flex:1;min-width:0;font-size:13px;color:#475569;word-break:break-all;">${escapeHtml(permalink)}</div>
-          <button class="share-btn-inline" id="share-copy-btn" style="flex:0 0 auto;padding:8px 12px;border-radius:8px;border:0;background:#0f62fe;color:#fff;font-weight:700;cursor:pointer">Copy</button>
+          <button class="share-btn-inline" id="share-copy-btn" style="flex:0 0 auto;padding:8px 12px;border-radius:8px;border:0;background:#0f62fe;color:#fff;font-weight:700;cursor:pointer">Open share options</button>
         </div>
 
         <div style="display:flex;gap:8px;flex-wrap:wrap">
-          <a class="social-links" href="https://wa.me/?text=${whatsappText}" target="_blank" rel="noopener">WhatsApp</a>
-          <a class="social-links" href="https://t.me/share/url?url=${encodeURIComponent(permalink)}&text=${telegramText}" target="_blank" rel="noopener">Telegram</a>
-          <a class="social-links" href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(permalink)}" target="_blank" rel="noopener">Facebook</a>
-          <a class="social-links" href="https://twitter.com/intent/tweet?url=${encodeURIComponent(permalink)}&text=${twitterText}" target="_blank" rel="noopener">Twitter</a>
+          <a class="social-links" id="popup-wa" href="https://wa.me/?text=${encodeURIComponent(fullText)}" target="_blank" rel="noopener">WhatsApp</a>
+          <a class="social-links" id="popup-tg" href="https://t.me/share/url?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(SHARE_PREFIX + "\\n" + titleText)}" target="_blank" rel="noopener">Telegram</a>
+          <a class="social-links" id="popup-fb" href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(permalink)}" target="_blank" rel="noopener">Facebook</a>
+          <a class="social-links" id="popup-tw" href="https://twitter.com/intent/tweet?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(SHARE_PREFIX + " " + titleText)}" target="_blank" rel="noopener">Twitter</a>
         </div>
       </div>
     </div>
   `;
+
   document.body.appendChild(popup);
 
+  // When user clicks "Open share options" we try to open WhatsApp/Telegram directly (mobile-first)
   const copyBtn = popup.querySelector("#share-copy-btn");
   if (copyBtn) {
     copyBtn.addEventListener("click", async () => {
-      try {
-        await navigator.clipboard.writeText(permalink);
-        showShareToastSafe("Link copied!");
-        copyBtn.textContent = "Copied";
-        setTimeout(() => (copyBtn.textContent = "Copy"), 1200);
-      } catch (e) {
-        showShareToastSafe("Copy failed — select & copy the link");
+      // Try to open mobile intent first
+      const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+      if (isMobile) {
+        // open whatsapp intent
+        window.open(`https://wa.me/?text=${encodeURIComponent(fullText)}`, '_blank');
+      } else {
+        // on desktop, just visually show the social links (user clicks)
+        // optionally focus first link
+        const waLink = popup.querySelector("#popup-wa");
+        if (waLink) waLink.focus();
       }
     });
   }
 
+  // close popup when clicking outside / on scroll / resize
   const closeFn = () => {
     const el = document.getElementById("share-popup");
     if (el) el.remove();
@@ -2384,6 +2434,7 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
 }
 
 
+
 // Wire modal share button
 (function wireModalShare() {
   const modalShareBtn = document.getElementById("modal-share");
@@ -2397,7 +2448,7 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
   }
 })();
 
-// Footer "Share page" button
+// Footer "Share page" button - NO CLIPBOARD fallback
 (function wireFooterShare() {
   const shareBtn = document.getElementById('share-page');
   if (!shareBtn) return;
@@ -2411,6 +2462,7 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
     const bannerImgEl = document.querySelector('.banner-wrap img');
     let bannerSrc = bannerImgEl ? (bannerImgEl.src || '') : '';
 
+    // Try Web Share Level 2 with banner image (mobile Android)
     if (navigator && navigator.share && navigator.canShare && bannerSrc) {
       const file = await fetchImageAsFile(bannerSrc, "banner");
       try {
@@ -2423,6 +2475,7 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
       }
     }
 
+    // Try native share with text+url (no image)
     if (navigator && navigator.share) {
       try {
         await navigator.share({ title, text, url });
@@ -2432,13 +2485,7 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
       }
     }
 
-    try {
-      await navigator.clipboard.writeText(url);
-      showShareToastSafe("Page link copied!");
-    } catch (e) {
-      showShareToastSafe("Link copied!");
-    }
-
+    // Desktop: show the desktop share popup (social links + preview) — NO clipboard
     const dummyCard = { id: "", title, merchant_label: "", local_image: bannerSrc };
     openDesktopSharePopup(dummyCard, shareBtn, true);
   });
