@@ -1,5 +1,213 @@
 [
   {
+    "id": "msg9891",
+    "title": "🛒 Deal Price Up to 89% Off",
+    "description": "Flipkart | 👟 Branded Shoe Bonanza - Up to 89% Off! Puma 🛒 Deal Price: Up to 89% Off Adidas 🛒 Deal Price: Up to 89% Off Campus 🛒 Deal Price: Up to 89% Off Redtape 🛒 Deal Price: Up to 89% Off Skechers 🛒 Deal Price: Up to…",
+    "shortlink": "https://fkrt.co/ghbQ07",
+    "urls": [
+      {
+        "url": "",
+        "label": "👟 Branded Shoe Bonanza - Up to 89% Off!"
+      },
+      {
+        "url": "https://fkrt.co/ghbQ07",
+        "label": "🛒 Deal Price: Up to 89% Off"
+      },
+      {
+        "url": "https://fkrt.co/vQ9Of6",
+        "label": "🛒 Deal Price: Up to 89% Off"
+      },
+      {
+        "url": "https://fkrt.co/TlUs40",
+        "label": "🛒 Deal Price: Up to 89% Off"
+      },
+      {
+        "url": "https://fkrt.co/BB69kg",
+        "label": "🛒 Deal Price: Up to 89% Off"
+      },
+      {
+        "url": "https://fkrt.co/4dBRbh",
+        "label": "🛒 Deal Price: Up to 89% Off"
+      }
+    ],
+    "raw_text": "Flipkart | 👟 Branded Shoe Bonanza - Up to 89% Off!\n\nPuma\n\n🛒 Deal Price: Up to 89% Off\n\nhttps://fkrt.co/ghbQ07\n\nAdidas\n\n🛒 Deal Price: Up to 89% Off\n\nhttps://fkrt.co/vQ9Of6\n\nCampus\n\n🛒 Deal Price: Up to 89% Off\n\nhttps://fkrt.co/TlUs40\n\nRedtape\n\n🛒 Deal Price: Up to 89% Off\n\nhttps://fkrt.co/BB69kg\n\nSkechers\n\n🛒 Deal Price: Up to 89% Off\n\nhttps://fkrt.co/4dBRbh",
+    "final_url": "https://fkrt.co/ghbQ07",
+    "local_image": "assets/images/tgmsg_9891.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-01T19:39:32+00:00",
+    "buy_link": "https://fkrt.co/ghbQ07",
+    "date_iso": "2025-10-01T19:39:32+00:00"
+  },
+  {
+    "id": "msg9893",
+    "title": "🛒 Deal Price ₹8999",
+    "description": "Amazon | 🔊 JBL Soundbar Deals JBL Cinema Dolby Digital Soundbar with Wireless Subwoofer 🛒 Deal Price: ₹8999",
+    "shortlink": "https://www.amazon.in/dp/B0B6441RNK?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔊 JBL Soundbar Deals"
+      },
+      {
+        "url": "",
+        "label": "JBL Cinema Dolby Digital Soundbar with Wireless Subwoofer"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0B6441RNK?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹8999"
+      }
+    ],
+    "raw_text": "Amazon | 🔊 JBL Soundbar Deals\n\nJBL Cinema Dolby Digital Soundbar with Wireless Subwoofer\n\n🛒 Deal Price: ₹8999\n\nhttps://www.amazon.in/dp/B0B6441RNK?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0B6441RNK?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_9893.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-01T19:42:43+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0B6441RNK?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-01T19:42:43+00:00"
+  },
+  {
+    "id": "msg9894",
+    "title": "🛒 Deal Price ₹1599",
+    "description": "Myntra | 👟 Asics Sports Shoes Deal 🛒 Deal Price: ₹1599 🏷️ Coupon: SPORTS20 https://myntr.in/P22ieX",
+    "shortlink": "https://myntr.in/P22ieX",
+    "urls": [
+      {
+        "url": "",
+        "label": "👟 Asics Sports Shoes Deal"
+      },
+      {
+        "url": "https://myntr.in/P22ieX",
+        "label": "🛒 Deal Price: ₹1599"
+      }
+    ],
+    "raw_text": "Myntra | 👟 Asics Sports Shoes Deal\n\n🛒 Deal Price: ₹1599\n🏷️ Coupon: SPORTS20\n\nhttps://myntr.in/P22ieX",
+    "final_url": "https://myntr.in/P22ieX",
+    "local_image": "assets/images/tgmsg_9894.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-01T19:43:29+00:00",
+    "buy_link": "https://myntr.in/P22ieX",
+    "date_iso": "2025-10-01T19:43:29+00:00"
+  },
+  {
+    "id": "msg9895",
+    "title": "💰 Offer Flat ₹11,000 Off With SBI Credit Card",
+    "description": "Amazon | 📱 Samsung Galaxy S25 Ultra Deals Samsung Galaxy S25 Ultra 🛒 Deal Price: ₹1,05,499 💰 Offer: Flat ₹11,000 Off With SBI Credit Card",
+    "shortlink": "https://www.amazon.in/dp/B0DSKNKCYX?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "📱 Samsung Galaxy S25 Ultra Deals"
+      },
+      {
+        "url": "",
+        "label": "Samsung Galaxy S25 Ultra"
+      },
+      {
+        "url": "",
+        "label": "🛒 Deal Price: ₹1,05,499"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0DSKNKCYX?tag=bestpricezo0f-21",
+        "label": "💰 Offer: Flat ₹11,000 Off With SBI Credit Card"
+      }
+    ],
+    "raw_text": "Amazon | 📱 Samsung Galaxy S25 Ultra Deals\n\nSamsung Galaxy S25 Ultra\n\n🛒 Deal Price: ₹1,05,499\n💰 Offer: Flat ₹11,000 Off With SBI Credit Card\n\nhttps://www.amazon.in/dp/B0DSKNKCYX?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DSKNKCYX?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_9895.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-01T19:44:14+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DSKNKCYX?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-01T19:44:14+00:00"
+  },
+  {
+    "id": "msg9896",
+    "title": "🛒 Deal Price Up to 82% Off",
+    "description": "Flipkart | 👕 Ducati Men's Clothing - Up to 82% Off! T-Shirts 🛒 Deal Price: Up to 82% Off Sweatshirts & Jackets 🛒 Deal Price: Up to 82% Off Jeans & Trackpants 🛒 Deal Price: Up to 82% Off",
+    "shortlink": "https://fkrt.co/dPuc4R",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 Ducati Men's Clothing - Up to 82% Off!"
+      },
+      {
+        "url": "https://fkrt.co/dPuc4R",
+        "label": "🛒 Deal Price: Up to 82% Off"
+      },
+      {
+        "url": "",
+        "label": "Sweatshirts & Jackets"
+      },
+      {
+        "url": "https://fkrt.co/Xrdr3H",
+        "label": "🛒 Deal Price: Up to 82% Off"
+      },
+      {
+        "url": "",
+        "label": "Jeans & Trackpants"
+      },
+      {
+        "url": "https://fkrt.co/UsxGXu",
+        "label": "🛒 Deal Price: Up to 82% Off"
+      }
+    ],
+    "raw_text": "Flipkart | 👕 Ducati Men's Clothing - Up to 82% Off!\n\nT-Shirts\n\n🛒 Deal Price: Up to 82% Off\n\nhttps://fkrt.co/dPuc4R\n\nSweatshirts & Jackets\n\n🛒 Deal Price: Up to 82% Off\n\nhttps://fkrt.co/Xrdr3H\n\nJeans & Trackpants\n\n🛒 Deal Price: Up to 82% Off\n\nhttps://fkrt.co/UsxGXu",
+    "final_url": "https://fkrt.co/dPuc4R",
+    "local_image": "assets/images/tgmsg_9896.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-01T19:44:59+00:00",
+    "buy_link": "https://fkrt.co/dPuc4R",
+    "date_iso": "2025-10-01T19:44:59+00:00"
+  },
+  {
+    "id": "msg9897",
+    "title": "🛒 Deal Price ₹499",
+    "description": "Amazon | HP H150 Wireless Earbuds 🛒 Deal Price: ₹499 https://www.amazon.in/dp/B0D6NMXQ2V?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0D6NMXQ2V?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "HP H150 Wireless Earbuds"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0D6NMXQ2V?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹499"
+      }
+    ],
+    "raw_text": "Amazon | HP H150 Wireless Earbuds\n\n🛒 Deal Price: ₹499\n\nhttps://www.amazon.in/dp/B0D6NMXQ2V?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D6NMXQ2V?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_9897.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-01T19:45:44+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D6NMXQ2V?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-01T19:45:44+00:00"
+  },
+  {
+    "id": "msg9898",
+    "title": "Up to 87% Off",
+    "description": "Flipkart | 👟 Red Tape Sneakers - Up to 87% Off https://fkrt.co/k7TVrK",
+    "shortlink": "https://fkrt.co/k7TVrK",
+    "urls": [
+      {
+        "url": "https://fkrt.co/k7TVrK",
+        "label": "👟 Red Tape Sneakers - Up to 87% Off"
+      }
+    ],
+    "raw_text": "Flipkart | 👟 Red Tape Sneakers - Up to 87% Off\n\nhttps://fkrt.co/k7TVrK",
+    "final_url": "https://fkrt.co/k7TVrK",
+    "local_image": "assets/images/tgmsg_9898.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-01T19:46:57+00:00",
+    "buy_link": "https://fkrt.co/k7TVrK",
+    "date_iso": "2025-10-01T19:46:57+00:00"
+  },
+  {
     "id": "msg9883",
     "title": "🛒 Deal Price ₹699",
     "description": "Amazon | BSB HOME Comforter Double Size 🛒 Deal Price: ₹699 https://www.amazon.in/dp/B0FFGPVV3S?tag=bestpricezo0f-21",
@@ -4222,124 +4430,5 @@
     "date_obj": "2025-09-30T18:47:40+00:00",
     "buy_link": "https://myntr.in/FwZ8pg",
     "date_iso": "2025-09-30T18:47:40+00:00"
-  },
-  {
-    "id": "msg9542",
-    "title": "Realme Wireless 3 Flat at Rs. 999 + Bank offers!!",
-    "description": "Myntra | 🔥 Realme Lowest Prices Ever🔥 Only for last few hours  👉",
-    "shortlink": "https://myntr.in/pVuYBQ",
-    "urls": [
-      "https://myntr.in/pVuYBQ"
-    ],
-    "raw_text": "Myntra |  🔥 Realme Lowest Prices Ever🔥 Only for last few hours\n\nRealme Wireless 3 Flat at Rs. 999 + Bank offers!!\n\n👉https://myntr.in/pVuYBQ",
-    "final_url": "https://myntr.in/pVuYBQ",
-    "local_image": "assets/images/tgmsg_9542.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-30T18:48:25+00:00",
-    "buy_link": "https://myntr.in/pVuYBQ",
-    "date_iso": "2025-09-30T18:48:25+00:00"
-  },
-  {
-    "id": "msg9543",
-    "title": "Realme T110 Buds Only at Rs. 749 + Bank offers!! To Get Extra 25% Off!",
-    "description": "Myntra | 🔥 Realme Lowest Prices Ever🔥 Only for last few hours  👉",
-    "shortlink": "https://myntr.in/icJqM2",
-    "urls": [
-      "https://myntr.in/icJqM2"
-    ],
-    "raw_text": "Myntra | 🔥 Realme Lowest Prices Ever🔥 Only for last few hours\n\nRealme T110 Buds Only at Rs. 749 + Bank offers!! To Get Extra 25% Off!\n\n👉https://myntr.in/icJqM2",
-    "final_url": "https://myntr.in/icJqM2",
-    "local_image": "assets/images/tgmsg_9543.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-30T18:49:10+00:00",
-    "buy_link": "https://myntr.in/icJqM2",
-    "date_iso": "2025-09-30T18:49:10+00:00"
-  },
-  {
-    "id": "msg9548",
-    "title": "Up to 60% OFF Lifebuoy Body Wash Starts At ₹99",
-    "description": "Myntra : Upto 60% OFF | Lifebuoy Body Wash Starts At ₹99",
-    "shortlink": "https://myntr.in/PlfvTG",
-    "urls": [
-      "https://myntr.in/PlfvTG"
-    ],
-    "raw_text": "Myntra : Upto 60% OFF | Lifebuoy Body Wash Starts At ₹99\n\nhttps://myntr.in/PlfvTG",
-    "final_url": "https://myntr.in/PlfvTG",
-    "local_image": "assets/images/tgmsg_9548.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-30T18:50:23+00:00",
-    "buy_link": "https://myntr.in/PlfvTG",
-    "date_iso": "2025-09-30T18:50:23+00:00"
-  },
-  {
-    "id": "msg9549",
-    "title": "boAt Avante 1550 Pro Bluetooth Soundbar @ ₹3,999",
-    "description": "Flipkart Loot :",
-    "shortlink": "https://fkrt.co/TVA6ZR",
-    "urls": [
-      "https://fkrt.co/TVA6ZR"
-    ],
-    "raw_text": "Flipkart Loot : boAt Avante 1550 Pro Bluetooth Soundbar @ ₹3,999\n\n https://fkrt.co/TVA6ZR",
-    "final_url": "https://fkrt.co/TVA6ZR",
-    "local_image": "assets/images/tgmsg_9549.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-30T18:50:59+00:00",
-    "buy_link": "https://fkrt.co/TVA6ZR",
-    "date_iso": "2025-09-30T18:50:59+00:00"
-  },
-  {
-    "id": "msg9550",
-    "title": "Lowest⚡️URBN 20000 mAh 22.5 W Power Bank @ ₹699",
-    "description": "Flipkart  🔗  ❌ Regular price @ ₹1,199",
-    "shortlink": "https://fkrt.co/CKiKo2",
-    "urls": [
-      "https://fkrt.co/CKiKo2"
-    ],
-    "raw_text": "Flipkart Lowest⚡️URBN 20000 mAh 22.5 W Power Bank @ ₹699\n\n🔗 https://fkrt.co/CKiKo2\n\n❌ Regular price @ ₹1,199",
-    "final_url": "https://fkrt.co/CKiKo2",
-    "local_image": "assets/images/tgmsg_9550.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-30T18:51:25+00:00",
-    "buy_link": "https://fkrt.co/CKiKo2",
-    "date_iso": "2025-09-30T18:51:25+00:00"
-  },
-  {
-    "id": "msg9551",
-    "title": "ZEBRONICS LP1000 LED Projector with 3300 Lumens Max @5919",
-    "description": "Amazon |",
-    "shortlink": "https://www.amazon.in/dp/B0CLYCRRWV?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      "https://www.amazon.in/dp/B0CLYCRRWV?th=1&psc=1&tag=bestpricezo0f-21"
-    ],
-    "raw_text": "Amazon | ZEBRONICS LP1000 LED Projector with 3300 Lumens Max @5919   \n\nhttps://www.amazon.in/dp/B0CLYCRRWV?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CLYCRRWV?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9551.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-30T18:52:21+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CLYCRRWV?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-09-30T18:52:21+00:00"
-  },
-  {
-    "id": "msg9506",
-    "title": "Tunifi Z2 Bullets Wireless Earphones At Rs.284",
-    "description": "Flipkart |",
-    "shortlink": "https://fkrt.co/N5ULU6",
-    "urls": [
-      "https://fkrt.co/N5ULU6"
-    ],
-    "raw_text": "Flipkart | Tunifi Z2 Bullets Wireless Earphones At Rs.284\n\nhttps://fkrt.co/N5ULU6",
-    "final_url": "https://fkrt.co/N5ULU6",
-    "local_image": "assets/images/tgmsg_9506.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-30T18:01:34+00:00",
-    "buy_link": "https://fkrt.co/N5ULU6",
-    "date_iso": "2025-09-30T18:01:34+00:00"
   }
 ]
