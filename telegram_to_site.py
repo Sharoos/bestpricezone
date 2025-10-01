@@ -2244,7 +2244,12 @@ async function shareCardById(encodedCardId, anchorEl) {
 
   const url = getCardUrl(card) || window.location.href;
   const title = card.title || "Check this deal";
-  const text = `I just found this deal on BestPriceZone.in\n${title}\n${url}`;
+
+  // new prefix line requested
+  const SHARE_PREFIX = "I just found this deal on BestPriceZone.in";
+
+  // include prefix, title and url in the shared text (native share will show this)
+  const text = `${SHARE_PREFIX}\n${title}\n${url}`;
 
   // 1) Try Web Share with image file (Web Share Level 2)
   if (navigator && navigator.share && navigator.canShare) {
@@ -2290,6 +2295,7 @@ function openShareMenu(el, cardId) {
 }
 
 // Desktop popup builder (two-row card) — prefers product image, falls back to banner
+// Desktop popup builder (two-row card) — prefers product image, falls back to banner
 function openDesktopSharePopup(card, anchorEl, preferImage = true) {
   const existing = document.getElementById("share-popup");
   if (existing) existing.remove();
@@ -2304,6 +2310,11 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
 
   const permalink = getCardUrl(card);
   const titleText = card.title || card.merchant_label || "BestPriceZone Deal";
+  const SHARE_PREFIX = "I just found this deal on BestPriceZone.in";
+
+  const whatsappText = encodeURIComponent(`${SHARE_PREFIX}\n${titleText}\n${permalink}`);
+  const telegramText = encodeURIComponent(`${SHARE_PREFIX}\n${titleText}`);
+  const twitterText = encodeURIComponent(`${SHARE_PREFIX}\n${titleText}`);
 
   const popup = document.createElement("div");
   popup.className = "share-popup";
@@ -2333,10 +2344,10 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
         </div>
 
         <div style="display:flex;gap:8px;flex-wrap:wrap">
-          <a class="social-links" href="https://wa.me/?text=${encodeURIComponent((titleText || '') + ' ' + permalink)}" target="_blank" rel="noopener">WhatsApp</a>
-          <a class="social-links" href="https://t.me/share/url?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(titleText || '')}" target="_blank" rel="noopener">Telegram</a>
+          <a class="social-links" href="https://wa.me/?text=${whatsappText}" target="_blank" rel="noopener">WhatsApp</a>
+          <a class="social-links" href="https://t.me/share/url?url=${encodeURIComponent(permalink)}&text=${telegramText}" target="_blank" rel="noopener">Telegram</a>
           <a class="social-links" href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(permalink)}" target="_blank" rel="noopener">Facebook</a>
-          <a class="social-links" href="https://twitter.com/intent/tweet?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(titleText || '')}" target="_blank" rel="noopener">Twitter</a>
+          <a class="social-links" href="https://twitter.com/intent/tweet?url=${encodeURIComponent(permalink)}&text=${twitterText}" target="_blank" rel="noopener">Twitter</a>
         </div>
       </div>
     </div>
@@ -2372,6 +2383,7 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
   popup.addEventListener("click", (ev) => ev.stopPropagation());
 }
 
+
 // Wire modal share button
 (function wireModalShare() {
   const modalShareBtn = document.getElementById("modal-share");
@@ -2393,7 +2405,8 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
   shareBtn.addEventListener('click', async function() {
     const url = window.location.href;
     const title = document.title || 'BestPriceZone — check this out';
-    const text = title;
+    const SHARE_PREFIX = "I just found this deal on BestPriceZone.in";
+    const text = `${SHARE_PREFIX}\n${title}\n${url}`;
 
     const bannerImgEl = document.querySelector('.banner-wrap img');
     let bannerSrc = bannerImgEl ? (bannerImgEl.src || '') : '';
@@ -2430,6 +2443,7 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
     openDesktopSharePopup(dummyCard, shareBtn, true);
   });
 })();
+
 
 // Keep the global openShareMenu
 window.openShareMenu = function(el, cardId) {
