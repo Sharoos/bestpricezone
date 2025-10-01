@@ -21,7 +21,7 @@ Optional env:
   HERO_HEIGHT (CSS height value, default '160px')
 
 Added env:
-  MAX_KEEP (default 400) -> keep exactly this many cards/images after each run
+  MAX_KEEP (default 200) -> keep exactly this many cards/images after each run
 """
 import os
 import re
@@ -219,6 +219,193 @@ def safe_filename(base: str) -> str:
 REQ = requests.Session()
 REQ.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "en-IN,en;q=0.9"})
 REQ.max_redirects = 8
+
+def extract_url_labels(raw_text: str, urls: list) -> list:
+    """
+    Return list of {"url":..., "label":...} in reading order.
+    This version:
+      - merges duplicate URLs (keep first occurrence, prefer first non-empty label)
+      - removes duplicate header-only labels (keeps first)
+      - normalizes / strips trivial 'buy now' noise from labels
+      - ensures every original url appears at least once
+    """
+    out = []
+    lines = [ln for ln in re.split(r'[\r\n]+', raw_text)]
+
+    def only_urls_and_arrows(s: str) -> bool:
+        if not s: return False
+        found = URL_RE.findall(s)
+        if not found: return False
+        without_urls = s
+        for u in found:
+            without_urls = without_urls.replace(u, '')
+        without_urls = re.sub(r'^[\s\-\u25B6👉\*•…\:\|]+|[\s\-\u25B6👉\*•…\:\|]+$', '', without_urls).strip()
+        return len(without_urls) < 4
+
+    def is_header_line(s: str) -> bool:
+        if not s: return False
+        s2 = s.strip()
+        if URL_RE.search(s2): return False
+        if NOISE_WORDS_RE.search(s2): return False
+        if re.search(r'[,&]| and | & ', s2, flags=re.I) and re.search(r'[A-Za-z]{2,}', s2):
+            return True
+        words = re.findall(r"[A-Za-z0-9&'-]{2,}", s2)
+        if len(words) >= 2:
+            upper_words = sum(1 for w in words if w and w[0].isupper())
+            if upper_words >= 1:
+                return True
+        return False
+
+    def clean_label_candidate(s: str) -> str:
+        if not s: return ""
+        s = s.strip()
+        s = re.sub(r'^[\s\-\u25B6👉\*•…\:\|]+', '', s)
+        s = re.sub(r'[\|\-\:\s]+$', '', s)
+        s = NOISE_WORDS_RE.sub('', s)
+        s = re.sub(r'\s+', ' ', s).strip()
+        s = s.rstrip('.').strip()
+        if not s or CURRENCY_ONLY_RE.match(s) or len(re.findall(r'[A-Za-z0-9]{2,}', s)) < 1:
+            return ""
+        s = re.sub(r'^[A-Za-z0-9&\s]{2,40}\s*[:\-\|]+\s*', '', s).strip()
+        return s
+
+    discount_re = re.compile(r'\b(upto|up to|off|discount|% off|%|sale|save|flat)\b', re.I)
+
+    current_header = ""
+    i = 0
+    while i < len(lines):
+        ln = lines[i]
+        if not ln or not ln.strip():
+            i += 1
+            continue
+        stripped = ln.strip()
+
+        # header lookahead and merge-with-next-url behaviour
+        if is_header_line(stripped):
+            candidate = clean_label_candidate(stripped)
+            j = i + 1
+            next_line = ""
+            while j < len(lines):
+                if lines[j] and lines[j].strip():
+                    next_line = lines[j].strip()
+                    break
+                j += 1
+
+            if candidate and discount_re.search(candidate) and next_line and only_urls_and_arrows(next_line):
+                found_urls = URL_RE.findall(next_line)
+                if found_urls:
+                    for fu in found_urls:
+                        matched = None
+                        for u in urls:
+                            if fu.strip() == u.strip() or fu.strip() in u or u in fu.strip():
+                                matched = u
+                                break
+                        if not matched:
+                            matched = fu
+                        out.append({"url": matched, "label": candidate})
+                    i = j + 1
+                    continue
+                else:
+                    out.append({"url": "", "label": candidate})
+                    current_header = candidate
+                    i += 1
+                    continue
+            else:
+                if candidate:
+                    out.append({"url": "", "label": candidate})
+                    current_header = candidate
+                i += 1
+                continue
+
+        # normal url-bearing line
+        found_urls = URL_RE.findall(stripped)
+        if found_urls:
+            for fu in found_urls:
+                matched = None
+                for u in urls:
+                    if fu.strip() == u.strip() or fu.strip() in u or u in fu.strip():
+                        matched = u
+                        break
+                if not matched:
+                    matched = fu
+
+                left = stripped.split(fu, 1)[0].strip()
+                left_clean = clean_label_candidate(left)
+                label = ""
+                if left_clean:
+                    label = left_clean
+                elif current_header:
+                    label = current_header
+                else:
+                    whole_no_url = URL_RE.sub('', stripped).strip()
+                    whole_clean = clean_label_candidate(whole_no_url)
+                    if whole_clean:
+                        label = whole_clean
+
+                out.append({"url": matched, "label": label})
+            i += 1
+            continue
+
+        i += 1
+
+    # ensure each original url appears at least once
+    for u in urls:
+        if not any(entry.get("url") == u for entry in out):
+            out.append({"url": u, "label": ""})
+
+    # --- Post-process and normalize labels ---
+    # remove trivial label words and normalize whitespace
+    def normalize_label(lbl: str) -> str:
+        if not lbl:
+            return ""
+        s = lbl.strip()
+        # remove very common noise short phrases that serve only as "buy" markers
+        s = re.sub(r'\b(Buy now|Buy|buy now|Click here|Shop full collection here)\b', '', s, flags=re.I).strip()
+        s = re.sub(r'\s+', ' ', s).strip()
+        return s
+
+    # merge duplicate urls (prefer first occ; if later label is non-empty and first was empty, fill it)
+    merged = []
+    seen_url_to_index = {}
+    seen_headers = set()
+    for entry in out:
+        u = (entry.get("url") or "").strip()
+        lbl = normalize_label(entry.get("label") or "")
+        if not u:
+            # header-only
+            key = (lbl or "").lower()
+            if not lbl:
+                continue
+            if key in seen_headers:
+                # skip duplicates of header labels anywhere (keep first)
+                continue
+            # if a later url entry has the same label as its label, prefer the url-lined row and skip header
+            # (we check original out list for presence)
+            label_used_by_url = any((e.get("url") and (e.get("label") or "").strip().lower() == key) for e in out)
+            if label_used_by_url:
+                # skip header-only if it's just repeating a labeled url (avoid header then same label repeated)
+                seen_headers.add(key)
+                continue
+            seen_headers.add(key)
+            merged.append({"url": "", "label": lbl})
+            continue
+
+        # url present
+        if u in seen_url_to_index:
+            idx = seen_url_to_index[u]
+            existing = merged[idx]
+            existing_lbl = (existing.get("label") or "").strip()
+            if not existing_lbl and lbl:
+                existing["label"] = lbl
+            # otherwise keep first
+            continue
+        # new url
+        merged.append({"url": u, "label": lbl})
+        seen_url_to_index[u] = len(merged) - 1
+
+    return merged
+
+
 
 # ---------- Telegram media downloader ----------
 import asyncio as _asyncio
@@ -1793,9 +1980,11 @@ function openModal(card) {
 
 
   // if card.urls exists and has items, render multiple buy rows
+    // if card.urls exists and has items, render multiple buy rows
   if (Array.isArray(card.urls) && card.urls.length > 0) {
     if (modalBuy) modalBuy.style.display = "none";
 
+    // create linksWrap container
     linksWrap = document.createElement("div");
     linksWrap.id = "modal-links-wrap";
     linksWrap.style.display = "flex";
@@ -1808,27 +1997,98 @@ function openModal(card) {
         : document.querySelector(".modal .right") || document.body;
     parentForBuy.appendChild(linksWrap);
 
-    card.urls.forEach((u) => {
-      if (!u) return;
+    // ---------- NORMALIZE card.urls into {url,label} objects ----------
+    const rawUrls = Array.isArray(card.urls) ? card.urls.slice() : [];
+    const unified = rawUrls.map(it => {
+      if (!it) return { url: "", label: "" };
+      if (typeof it === "string") return { url: it.trim(), label: "" };
+      // object expected: {url:..., label:...} or custom shape
+      return { url: (it.url || "").toString().trim(), label: (it.label || "").toString().trim() };
+    });
 
-      let labelText = guessLabelFromUrl(u, card) || "";
+    // dedupe exact pairs (preserve first occurrence)
+    const seenPairs = new Set();
+    const deduped = [];
+    for (const obj of unified) {
+      const key = (obj.url || "") + "||" + (obj.label || "");
+      if (seenPairs.has(key)) continue;
+      seenPairs.add(key);
+      deduped.push(obj);
+    }
+
+    // If a header-only row (no url) is immediately followed by a buy row with the same label,
+    // clear the buy-row label to avoid "header then same label repeated".
+    for (let i = 0; i < deduped.length - 1; i++) {
+      const cur = deduped[i];
+      const nxt = deduped[i + 1];
+      if ((!cur.url || cur.url.trim() === "") && nxt && nxt.url) {
+        const h = (cur.label || "").trim().toLowerCase();
+        const l = (nxt.label || "").trim().toLowerCase();
+        if (h && l && h === l) {
+          nxt.label = "";
+        }
+      }
+    }
+
+    // Render rows from deduped list. Use a for-loop so we can continue cleanly.
+    for (const itemObj of deduped) {
+      if (!itemObj) continue;
+      const url = (itemObj.url || "").trim();
+      let labelText = (itemObj.label || "").trim();
+
+      // If no label from Python, try to guess from message text
+      if (!labelText && url) {
+        try {
+          labelText = guessLabelFromUrl(url, card) || "";
+        } catch (e) {
+          labelText = "";
+        }
+      }
+
+      // If header-only row (no URL) -> render as label-only row
+      if (!url) {
+        // avoid adding an identical consecutive header-only row
+        const last = linksWrap.lastElementChild;
+        const lastText = last ? (last.textContent || "").trim().toLowerCase() : "";
+        const curText = (labelText || "").trim().toLowerCase();
+        if (curText && curText === lastText) {
+          continue;
+        }
+
+        const row = document.createElement("div");
+        row.className = "modal-link-row";
+        row.style.display = "flex";
+        row.style.alignItems = "center";
+        row.style.gap = "12px";
+        row.style.marginTop = "8px";
+        row.style.width = "100%";
+        row.style.flexWrap = "wrap";
+
+        const labelOnly = document.createElement("div");
+        labelOnly.style.flex = "1 1 auto";
+        labelOnly.style.fontSize = "14px";
+        labelOnly.style.fontWeight = "700";
+        labelOnly.style.wordBreak = "break-word";
+        labelOnly.style.whiteSpace = "normal";
+        labelOnly.style.maxWidth = "100%";
+        labelOnly.textContent = labelText || "";
+        row.appendChild(labelOnly);
+
+        linksWrap.appendChild(row);
+        continue;
+      }
+
+      // Defensive label cleanups: drop domain-like labels, strip merchant prefix, sanitize text
       const domainLike = /^[a-z0-9-]+(\.[a-z0-9-]+)+$/i;
       if (labelText && domainLike.test(labelText)) labelText = "";
 
-      // --- REMOVE MERCHANT PREFIX FROM modal label (e.g. "Amazon | ...") ---
       if (labelText) {
-        // try to use card.merchant_label (comes from Python normalize_merchant)
         if (card.merchant_label) {
           const merchantEsc = card.merchant_label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
           const re = new RegExp("^\\s*" + merchantEsc + "\\s*[:\\-|\\|]+\\s*", "i");
           labelText = labelText.replace(re, "").trim();
         }
-
-        // also defensive: remove generic leading "Word |" or "Word - " patterns
-        // (handles cases where merchant_label isn't exact or missing)
         labelText = labelText.replace(/^[A-Za-z0-9&\s]{2,40}\s*[:\-\|]+\s*/i, "").trim();
-
-        // remove noisy phrases and stray separators
         labelText = labelText
           .replace(/\b(grab here|grab now|grab|link|loot:?|buy now|click here)\b/gi, "")
           .replace(/^[\|\-:]+/, "")
@@ -1836,10 +2096,10 @@ function openModal(card) {
           .replace(/\s*[\|\-:]+\s*/g, " ")
           .replace(/\s+/g, " ")
           .trim();
-        // === NEW: replace MasterLink / Master with Visit main site ===
         labelText = labelText.replace(/\b(MasterLink|Master)\b/gi, "Visit merchant site");
       }
 
+      // Create UI row: label + buy button
       const row = document.createElement("div");
       row.className = "modal-link-row";
       row.style.display = "flex";
@@ -1861,7 +2121,7 @@ function openModal(card) {
 
       const a = document.createElement("a");
       a.className = "buy";
-      a.href = u;
+      a.href = url;
       a.target = "_blank";
       a.rel = "noopener";
       a.textContent = "Buy now";
@@ -1873,7 +2133,7 @@ function openModal(card) {
       row.appendChild(a);
 
       linksWrap.appendChild(row);
-    });
+    }
 
   } else {
     if (modalBuy) {
@@ -1881,6 +2141,7 @@ function openModal(card) {
       modalBuy.href = card.buy_link || card.shortlink || "#";
     }
   }
+
 
   // open the modal
   modalBack.style.display = "flex";
@@ -1920,30 +2181,28 @@ function escapeHtml(s) {
 }
 
 // ----------------- Unified improved share helpers -----------------
-function findCardById(id) {
-  if (!id) return null;
-  const decoded = decodeURIComponent(id);
-  return (window.CARDS || []).find((c) => String(c.id) === String(decoded));
-}
-
-function getCardUrl(card) {
+function getCardPermalink(card) {
   try {
-    if (!card) return window.location.href;
-    if (card.buy_link) return card.buy_link;
-    if (card.shortlink) return card.shortlink;
     const base = window.location.origin + window.location.pathname;
-    return base + (base.indexOf('?') === -1 ? '?' : '&') + 'id=' + encodeURIComponent(card.id || card.shortlink || '');
+    const id = encodeURIComponent(card && (card.id || card.shortlink || ""));
+    return base + (base.indexOf("?") === -1 ? "?" : "&") + "id=" + id;
   } catch (e) {
-    return (card && (card.buy_link || card.shortlink)) || window.location.href;
+    return window.location.href;
   }
 }
 
+function findCardById(id) {
+  if (!id) return null;
+  const decoded = decodeURIComponent(String(id));
+  return (window.CARDS || []).find((c) => String(c.id) === String(decoded));
+}
+
 function buildSharePayload(card) {
-  const url = getCardUrl(card) || window.location.href;
+  const url = getCardPermalink(card);
   return {
-    title: (card && card.title) ? card.title : "Check this deal",
-    text: (card && card.title) ? (card.title + "\n" + url) : url,
-    url: url
+    title: (card && card.title) ? card.title : "Check this deal on BestPriceZone",
+    text: (card && card.title) ? (card.title + " — " + url) : url,
+    url
   };
 }
 
@@ -1952,8 +2211,8 @@ function showShareToast(msg) {
   t.className = "share-toast show";
   t.textContent = msg;
   document.body.appendChild(t);
-  setTimeout(() => t.classList.remove("show"), 1800);
-  setTimeout(() => t.remove(), 2400);
+  setTimeout(() => t.classList.remove("show"), 1600);
+  setTimeout(() => t.remove(), 2200);
 }
 
 function closeSharePopup() {
@@ -1961,87 +2220,95 @@ function closeSharePopup() {
   if (existing) existing.remove();
 }
 
-// Try to fetch an image URL and convert to a File for Web Share v2
-async function fetchImageAsFile(imgUrl, filenameHint = "image.jpg") {
-  try {
-    // Note: this requires the image server to allow cross-origin fetch.
-    const res = await fetch(imgUrl, { mode: 'cors' });
-    if (!res.ok) throw new Error("Image fetch failed " + res.status);
-    const blob = await res.blob();
-    // Only return file if it's plausibly an image
-    if (!blob.type || !blob.type.startsWith("image/")) throw new Error("Not an image");
-    const ext = (blob.type.split('/')[1] || "jpg").split('+')[0];
-    const fname = (filenameHint || "img") + "." + ext;
-    // File constructor may not be available in all browsers, but modern ones support it
+/**
+ * Try to fetch the card image and return a File/Blob suitable for Web Share Level 2.
+ * (Uses existing fetchImageAsFile if present; otherwise reimplements lightly.)
+ */
+async function tryFetchImageFile(imgUrl, hint = "product") {
+  if (!imgUrl) return null;
+  // use existing helper if available
+  if (typeof fetchImageAsFile === "function") {
     try {
-      return new File([blob], fname, { type: blob.type });
+      const f = await fetchImageAsFile(imgUrl, hint);
+      return f;
     } catch (e) {
-      // fallback: attach blob with name property (some implementations accept it)
-      blob.name = fname;
-      return blob;
+      // fall through to attempt manual fetch below
     }
+  }
+  try {
+    const res = await fetch(imgUrl, { mode: "cors" });
+    if (!res.ok) throw new Error("image fetch failed");
+    const blob = await res.blob();
+    if (!blob.type || !blob.type.startsWith("image/")) return null;
+    try { return new File([blob], hint + ".jpg", { type: blob.type }); } catch (e) { blob.name = hint + ".jpg"; return blob; }
   } catch (err) {
-    console.debug("fetchImageAsFile error:", err);
     return null;
   }
 }
 
 /**
- * Main share entry:
- * - Tries native share with image (if supported and image fetch works)
- * - Else falls back to native share text+url
- * - Else shows desktop popup with 2-row card, copy link and social buttons
+ * Primary share entrypoint used by inline share buttons and modal share.
+ * Behaviour:
+ *  - Try Web Share with image (Level 2) for best mobile/native experience.
+ *  - If that fails, try plain navigator.share (text + url).
+ *  - Otherwise fallback to lightweight desktop popup + copy-to-clipboard (permalink only).
+ *
+ * IMPORTANT: this intentionally shares only getCardPermalink(card) and card.title + image.
+ * It never surfaces card.buy_link / shortlink / affiliate link.
  */
 async function shareCardById(encodedCardId, anchorEl) {
   const card = findCardById(encodedCardId);
   if (!card) return;
 
   const payload = buildSharePayload(card);
-  const cardUrl = payload.url;
+  const permalink = payload.url;
 
-  // 1) Try Web Share with image file (Web Share Level 2)
-  if (navigator && navigator.canShare && navigator.share) {
-    let file = null;
-    if (card.local_image) {
-      file = await fetchImageAsFile(card.local_image, "product");
-    }
+  // 1) Try Web Share with image (Web Share Level 2)
+  if (navigator && navigator.share) {
     try {
+      let file = null;
+      if (card.local_image) {
+        file = await tryFetchImageFile(card.local_image, "product");
+      }
       if (file && navigator.canShare && navigator.canShare({ files: [file] })) {
+        // Share title + image + url (clean permalink)
         await navigator.share({
           title: payload.title,
           text: payload.text,
           files: [file],
-          url: cardUrl
+          url: permalink
         });
-        return; // success
+        return;
       }
-    } catch (err) {
-      // sharing with files failed (CORS, unsupported, or user cancelled)
-      console.warn("Share with files failed:", err);
-      // fall through to try share text+url
-    }
-  }
-
-  // 2) Try plain native share (title + text + url)
-  if (navigator && navigator.share) {
-    try {
+      // fallback to plain native share (text + url)
       await navigator.share({
         title: payload.title,
         text: payload.text,
-        url: cardUrl
+        url: permalink
       });
       return;
     } catch (err) {
-      // user cancelled or share failed — fall back to popup
-      console.warn("Native share failed/cancelled:", err);
+      // user cancelled or share failed -> fall through to desktop popup fallback
+      console.warn("Native share failed or cancelled:", err);
     }
   }
 
-  // 3) Desktop fallback: popup with 2-row, 2-column card design
+  // 2) Desktop fallback: popup with small product preview + copy link and social buttons
   openDesktopSharePopup(card, anchorEl);
+  // also attempt to copy permalink to clipboard to make sharing easier
+  if (navigator && navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(permalink).then(() => {
+      showShareToast("Link copied!");
+    }).catch(() => {
+      /* ignore */ 
+    });
+  }
 }
 
-// Desktop popup builder — two-row layout: first row small image (left) + title (right), second row copy link + social buttons
+/**
+ * Desktop popup: simple two-row card showing product image (thumbnail) + title,
+ * plus a copy button and social share links that use the clean permalink.
+ */
 function openDesktopSharePopup(card, anchorEl) {
   closeSharePopup();
   const rect = (anchorEl && anchorEl.getBoundingClientRect) ? anchorEl.getBoundingClientRect() : { left: 20, bottom: 80 };
@@ -2049,40 +2316,37 @@ function openDesktopSharePopup(card, anchorEl) {
   const popup = document.createElement("div");
   popup.className = "share-popup";
   popup.id = "share-popup";
-  // small, fixed width for a neat card
   popup.style.minWidth = "320px";
-  popup.style.maxWidth = "420px";
+  popup.style.maxWidth = "480px";
   popup.style.top = Math.max(8, window.scrollY + (rect.bottom || 80) + 8) + "px";
-  popup.style.left = Math.min(Math.max(8, rect.left || 8), Math.max(8, window.innerWidth - 440)) + "px";
+  popup.style.left = Math.min(Math.max(8, rect.left || 8), Math.max(8, window.innerWidth - 500)) + "px";
 
-  const cardImg = card.local_image || "";
-  const titleText = card.title || card.merchant_label || "";
+  const permalink = getCardPermalink(card);
+  const titleText = card.title || card.merchant_label || "BestPriceZone deal";
+  const img = card.local_image || "";
 
   popup.innerHTML = `
     <div style="display:flex;flex-direction:column;gap:10px;font-family:Inter,system-ui,Arial;">
-      <!-- Row 1: left image (small) + right title -->
       <div style="display:flex;gap:12px;align-items:center">
         <div style="flex:0 0 72px; width:72px; height:72px; border-radius:8px; overflow:hidden; background:#f6f7fb; display:flex;align-items:center;justify-content:center;">
-          <img src="${cardImg}" alt="${escapeHtml(titleText)}" style="width:100%;height:100%;object-fit:cover;display:block" />
+          <img src="${img}" alt="${escapeHtml(titleText)}" style="width:100%;height:100%;object-fit:cover;display:block" />
         </div>
         <div style="flex:1;min-width:0;">
           <div style="font-weight:700;font-size:15px;line-height:1.2;color:#0f1724;word-break:break-word;">${escapeHtml(titleText)}</div>
-          <div style="font-size:13px;color:#64748b;margin-top:6px;">${escapeHtml(card.merchant_label || "")}</div>
         </div>
       </div>
 
-      <!-- Row 2: link + copy and social actions -->
       <div style="display:flex;flex-direction:column;gap:8px">
         <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
-          <div class="url" style="flex:1;min-width:0;font-size:13px;color:#475569;word-break:break-all;">${escapeHtml(getCardUrl(card))}</div>
-          <button class="share-btn-inline" id="share-copy-btn" style="flex:0 0 auto;padding:8px 12px;border-radius:8px;border:0;background:#0f62fe;color:#fff;font-weight:700;cursor:pointer">Copy</button>
+          <div class="url" style="flex:1;min-width:0;font-size:13px;color:#475569;word-break:break-all;">${escapeHtml(permalink)}</div>
+          <button id="share-copy-btn" style="flex:0 0 auto;padding:8px 12px;border-radius:8px;border:0;background:#0f62fe;color:#fff;font-weight:700;cursor:pointer">Copy</button>
         </div>
 
         <div style="display:flex;gap:8px;flex-wrap:wrap">
-          <a class="social-links" href="https://wa.me/?text=${encodeURIComponent((card.title || '') + ' ' + getCardUrl(card))}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">WhatsApp</a>
-          <a class="social-links" href="https://t.me/share/url?url=${encodeURIComponent(getCardUrl(card))}&text=${encodeURIComponent(card.title || '')}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Telegram</a>
-          <a class="social-links" href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(getCardUrl(card))}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Facebook</a>
-          <a class="social-links" href="https://twitter.com/intent/tweet?url=${encodeURIComponent(getCardUrl(card))}&text=${encodeURIComponent(card.title || '')}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Twitter</a>
+          <a href="https://wa.me/?text=${encodeURIComponent(titleText + ' ' + permalink)}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">WhatsApp</a>
+          <a href="https://t.me/share/url?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(titleText)}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Telegram</a>
+          <a href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(permalink)}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Facebook</a>
+          <a href="https://twitter.com/intent/tweet?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(titleText)}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Twitter</a>
         </div>
       </div>
     </div>
@@ -2090,38 +2354,19 @@ function openDesktopSharePopup(card, anchorEl) {
 
   document.body.appendChild(popup);
 
-  // copy behaviour
   const copyBtn = popup.querySelector("#share-copy-btn");
   if (copyBtn) {
     copyBtn.addEventListener("click", () => {
-      const urlToCopy = getCardUrl(card);
       if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(urlToCopy).then(() => {
+        navigator.clipboard.writeText(permalink).then(() => {
           showShareToast("Link copied!");
           copyBtn.textContent = "Copied";
           setTimeout(() => (copyBtn.textContent = "Copy"), 1200);
         }).catch(() => {
-          // fallback to select text
-          const urlEl = popup.querySelector(".url");
-          if (urlEl) {
-            const range = document.createRange();
-            const sel = window.getSelection();
-            range.selectNodeContents(urlEl);
-            sel.removeAllRanges();
-            sel.addRange(range);
-          }
-          showShareToast("Select & copy the link");
+          showShareToast("Copy failed — select & copy manually");
         });
       } else {
-        const urlEl = popup.querySelector(".url");
-        if (urlEl) {
-          const range = document.createRange();
-          const sel = window.getSelection();
-          range.selectNodeContents(urlEl);
-          sel.removeAllRanges();
-          sel.addRange(range);
-        }
-        showShareToast("Select & copy the link");
+        showShareToast("Copy not available");
       }
     });
   }
@@ -2134,80 +2379,57 @@ function openDesktopSharePopup(card, anchorEl) {
     document.addEventListener("click", closeFn, { once: true, capture: true });
   }, 10);
 
-  // stop clicks inside popup from bubbling (so it won't immediately close)
   popup.addEventListener("click", (ev) => ev.stopPropagation());
 }
 
-// Wire up any inline share button usage e.g. openShareMenu(this, encodeURIComponent(c.id))
+/**
+ * Simpler openShareMenu used by inline share buttons and modal share icon.
+ * It focuses on sharing only the clean permalink + title (and lets the browser handle native UX).
+ */
 function openShareMenu(el, cardId) {
-  const cleanUrl = `${window.location.origin}/?id=${encodeURIComponent(cardId)}`;
-  const title = "BestPriceZone Deal";
-  const text = "Check out this deal I found on BestPriceZone!";
+  const card = findCardById(decodeURIComponent(cardId || ""));
+  if (!card) return;
+  const url = getCardPermalink(card);
+  const title = card.title || "BestPriceZone deal";
 
-  if (navigator.share) {
-    navigator.share({
-      title,
-      text,
-      url: cleanUrl
-    }).catch(() => {
-      navigator.clipboard.writeText(cleanUrl);
-      if (typeof showShareToast === 'function') showShareToast('Link copied!');
+  if (navigator && navigator.share) {
+    navigator.share({ title, text: title, url }).catch(() => {
+      // fallback: copy permalink
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(url).then(() => showShareToast("Link copied!")).catch(() => showShareToast("Copy failed"));
+      } else {
+        showShareToast("Copied to clipboard not available");
+      }
     });
   } else {
-    navigator.clipboard.writeText(cleanUrl);
-    if (typeof showShareToast === 'function') showShareToast('Link copied!');
-  }
-}
-
-// If you have a modal share button (currentModalCard), keep it connected:
-const modalShareEl = document.getElementById("modal-share");
-if (modalShareEl) {
-  modalShareEl.addEventListener("click", (ev) => {
-    if (currentModalCard) {
-      openShareMenu(modalShareEl, encodeURIComponent(currentModalCard.id));
-    }
-  });
-}
-
-(function(){
-  const shareBtn = document.getElementById('share-page');
-
-  function fallbackCopy() {
-    const url = window.location.href;
+    // fallback: copy to clipboard + show popup preview
     if (navigator.clipboard && navigator.clipboard.writeText) {
-      navigator.clipboard.writeText(url).then(()=>{
-        if (typeof showShareToast === 'function') showShareToast('Link copied!');
-        else alert('Link copied: ' + url);
+      navigator.clipboard.writeText(url).then(() => {
+        showShareToast("Link copied!");
+        // also open lightweight popup so desktop users see the image+title
+        openDesktopSharePopup(card, el);
+      }).catch(() => {
+        openDesktopSharePopup(card, el);
       });
     } else {
-      const ta = document.createElement('textarea');
-      ta.value = url;
-      document.body.appendChild(ta);
-      ta.select();
-      document.execCommand('copy');
-      ta.remove();
-      alert('Link copied: ' + url);
+      openDesktopSharePopup(card, el);
     }
   }
+}
 
-  if (shareBtn) {
-    shareBtn.addEventListener('click', async function() {
-      const url = window.location.href;
-      const title = document.title || 'BestPriceZone — check this out';
-      const text = title;
-
-      if (navigator.share) {
-        try {
-          await navigator.share({ title, text, url });
-        } catch (err) {
-          fallbackCopy();
-        }
-      } else {
-        fallbackCopy();
+// Wire up modal share button (if present) to use the clean share flow
+try {
+  const modalShareEl = document.getElementById("modal-share");
+  if (modalShareEl) {
+    modalShareEl.addEventListener("click", (ev) => {
+      if (typeof currentModalCard !== "undefined" && currentModalCard) {
+        openShareMenu(modalShareEl, encodeURIComponent(currentModalCard.id));
       }
     });
   }
-})();
+} catch (e) {
+  // ignore wiring errors
+}
 
   // initial render
   render();
@@ -2372,11 +2594,38 @@ def main():
                     mark_processed(msg_id_str, shortlink)
                     continue
 
-                description = re.sub(r'\s+', ' ', raw).strip()
+                # Build description from raw message but strip URLs and collapse repeated lines
+                description = raw
+                # remove inline URLs (we keep labeled urls separately)
                 description = URL_RE.sub('', description).strip()
-                description = re.sub(re.escape(title), '', description, flags=re.I).strip()
+                # collapse multiple whitespace to single spaces
+                description = re.sub(r'\s+', ' ', description).strip()
+                # remove the chosen title from the description (case-insensitive)
+                try:
+                    description = re.sub(re.escape(title), '', description, flags=re.I).strip()
+                except Exception:
+                    pass
+
+                # collapse repeated identical lines from the raw message (helps with duplicate lines)
+                lines = [ln.strip() for ln in re.split(r'[\r\n]+', raw) if ln and ln.strip()]
+                seen_lines = set()
+                dedup_lines = []
+                for ln in lines:
+                    key = ln.strip().lower()
+                    if key in seen_lines:
+                        continue
+                    seen_lines.add(key)
+                    dedup_lines.append(ln.strip())
+                if dedup_lines:
+                    description_from_lines = " ".join(dedup_lines)
+                    # prefer the shorter/cleaner of the two or use deduped if original was small
+                    if len(description_from_lines) < len(description) or len(description) < 80:
+                        description = description_from_lines
+
+                # final trim to sensible length
                 if len(description) > 220:
                     description = description[:220].rsplit(' ',1)[0] + '…'
+
 
                 final = shortlink
                 try:
@@ -2393,13 +2642,59 @@ def main():
 
                 buy_link = shortlink
 
+                # raw extraction (preserve reading order & heuristics)
+                _raw_urls = extract_url_labels(raw, urls)
+
+                # Final pass: clean trivial labels and dedupe predictable duplicates.
+                # - remove pure "Buy now" / "Shop full collection here" noise
+                # - collapse duplicate header-only rows
+                # - collapse duplicate URLs (prefer first occurrence, fill empty labels)
+                cleaned_urls = []
+                seen_url = set()
+                seen_header = set()
+
+                for it in _raw_urls:
+                    u = (it.get("url") or "").strip()
+                    lbl = (it.get("label") or "").strip()
+
+                    # Normalize trivial labels (remove pure "Buy now" etc.)
+                    lbl = re.sub(r'\b(Buy now|Buy|buy now|Click here|Shop full collection here)\b', '', lbl, flags=re.I).strip()
+                    lbl = re.sub(r'\s+', ' ', lbl).strip()
+
+                    if not u:
+                        # header-only row
+                        key = lbl.lower()
+                        if not lbl:
+                            continue
+                        if key in seen_header:
+                            continue
+                        # if some url row already used this label, skip header-only repeat
+                        if any((x.get("url") and (x.get("label") or "").strip().lower() == key) for x in _raw_urls):
+                            seen_header.add(key)
+                            continue
+                        seen_header.add(key)
+                        cleaned_urls.append({"url": "", "label": lbl})
+                        continue
+
+                    # url row: collapse duplicates by URL, prefer first non-empty label
+                    if u in seen_url:
+                        for ex in cleaned_urls:
+                            if ex.get("url") == u:
+                                if not ex.get("label") and lbl:
+                                    ex["label"] = lbl
+                                break
+                        continue
+
+                    seen_url.add(u)
+                    cleaned_urls.append({"url": u, "label": lbl})
+
                 card = {
                   "id": f"msg{msg_id_str}",
                   "title": title,
                   "description": description,
                   "shortlink": shortlink,
-                  "urls": urls,
-                  "raw_text": raw,        # <-- add this
+                  "urls": cleaned_urls,
+                  "raw_text": raw,        # <-- keep raw for client-side heuristics
                   "final_url": final,
                   "local_image": local_img.replace("\\", "/"),
                   "source_host": urlparse(final).netloc if final else urlparse(shortlink).netloc,
@@ -2407,6 +2702,7 @@ def main():
                   "date_obj": msg_date,
                   "buy_link": buy_link
                 }
+
 
 
                 # insert at start (newest first)
@@ -2470,4 +2766,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
