@@ -2181,172 +2181,169 @@ function escapeHtml(s) {
 }
 
 // ----------------- Unified improved share helpers -----------------
-function getCardPermalink(card) {
+/* ---------- Improved share helpers: share product image for cards/modal,
+   and banner image for footer share (never expose affiliate links) ---------- */
+
+function getCardUrl(card) {
+  // Always share the site permalink that references the card id.
+  // This avoids exposing affiliate/buy links.
   try {
     const base = window.location.origin + window.location.pathname;
-    const id = encodeURIComponent(card && (card.id || card.shortlink || ""));
-    return base + (base.indexOf("?") === -1 ? "?" : "&") + "id=" + id;
+    return base + (base.indexOf('?') === -1 ? '?' : '&') + 'id=' + encodeURIComponent(card.id || '');
   } catch (e) {
     return window.location.href;
   }
 }
 
-function findCardById(id) {
-  if (!id) return null;
-  const decoded = decodeURIComponent(String(id));
-  return (window.CARDS || []).find((c) => String(c.id) === String(decoded));
-}
-
-function buildSharePayload(card) {
-  const url = getCardPermalink(card);
-  return {
-    title: (card && card.title) ? card.title : "Check this deal on BestPriceZone",
-    text: (card && card.title) ? (card.title + " — " + url) : url,
-    url
-  };
-}
-
-function showShareToast(msg) {
+// Show small toast (reuse if already defined)
+function showShareToastSafe(msg) {
+  if (typeof showShareToast === "function") {
+    showShareToast(msg);
+    return;
+  }
   const t = document.createElement("div");
   t.className = "share-toast show";
   t.textContent = msg;
   document.body.appendChild(t);
-  setTimeout(() => t.classList.remove("show"), 1600);
-  setTimeout(() => t.remove(), 2200);
+  setTimeout(() => t.classList.remove("show"), 1800);
+  setTimeout(() => t.remove(), 2400);
 }
 
-function closeSharePopup() {
-  const existing = document.getElementById("share-popup");
-  if (existing) existing.remove();
-}
-
-/**
- * Try to fetch the card image and return a File/Blob suitable for Web Share Level 2.
- * (Uses existing fetchImageAsFile if present; otherwise reimplements lightly.)
- */
-async function tryFetchImageFile(imgUrl, hint = "product") {
-  if (!imgUrl) return null;
-  // use existing helper if available
-  if (typeof fetchImageAsFile === "function") {
-    try {
-      const f = await fetchImageAsFile(imgUrl, hint);
-      return f;
-    } catch (e) {
-      // fall through to attempt manual fetch below
-    }
-  }
+// Try to fetch an image URL and convert to a File or Blob usable by navigator.share
+async function fetchImageAsFile(imgUrl, filenameHint = "image") {
   try {
-    const res = await fetch(imgUrl, { mode: "cors" });
-    if (!res.ok) throw new Error("image fetch failed");
+    if (!imgUrl) return null;
+    // resolve relative URLs
+    try {
+      imgUrl = (new URL(imgUrl, window.location.href)).toString();
+    } catch (e) { /* keep original */ }
+
+    const res = await fetch(imgUrl, { mode: 'cors' });
+    if (!res.ok) throw new Error("Image fetch failed " + res.status);
     const blob = await res.blob();
-    if (!blob.type || !blob.type.startsWith("image/")) return null;
-    try { return new File([blob], hint + ".jpg", { type: blob.type }); } catch (e) { blob.name = hint + ".jpg"; return blob; }
+    if (!blob.type || !blob.type.startsWith("image/")) throw new Error("Not an image");
+    const ext = (blob.type.split('/')[1] || "jpg").split('+')[0];
+    const fname = (filenameHint || "img") + "." + ext;
+    try {
+      return new File([blob], fname, { type: blob.type });
+    } catch (e) {
+      // Some environments may not support File constructor; attach name and return blob
+      blob.name = fname;
+      return blob;
+    }
   } catch (err) {
+    console.debug("fetchImageAsFile error:", err);
     return null;
   }
 }
 
-/**
- * Primary share entrypoint used by inline share buttons and modal share.
- * Behaviour:
- *  - Try Web Share with image (Level 2) for best mobile/native experience.
- *  - If that fails, try plain navigator.share (text + url).
- *  - Otherwise fallback to lightweight desktop popup + copy-to-clipboard (permalink only).
- *
- * IMPORTANT: this intentionally shares only getCardPermalink(card) and card.title + image.
- * It never surfaces card.buy_link / shortlink / affiliate link.
- */
+// Main share entry for cards/modal: attempts image+text share, falls back to text share or desktop popup
 async function shareCardById(encodedCardId, anchorEl) {
   const card = findCardById(encodedCardId);
   if (!card) return;
 
-  const payload = buildSharePayload(card);
-  const permalink = payload.url;
+  const url = getCardUrl(card) || window.location.href;
+  const title = card.title || "Check this deal";
+  const text = title;
 
-  // 1) Try Web Share with image (Web Share Level 2)
-  if (navigator && navigator.share) {
+  // 1) Try Web Share with image file (Web Share Level 2)
+  if (navigator && navigator.share && navigator.canShare) {
+    let file = null;
+    if (card.local_image) {
+      file = await fetchImageAsFile(card.local_image, "product");
+    }
     try {
-      let file = null;
-      if (card.local_image) {
-        file = await tryFetchImageFile(card.local_image, "product");
-      }
-      if (file && navigator.canShare && navigator.canShare({ files: [file] })) {
-        // Share title + image + url (clean permalink)
-        await navigator.share({
-          title: payload.title,
-          text: payload.text,
-          files: [file],
-          url: permalink
-        });
+      if (file && navigator.canShare({ files: [file] })) {
+        await navigator.share({ title, text, files: [file], url });
         return;
       }
-      // fallback to plain native share (text + url)
-      await navigator.share({
-        title: payload.title,
-        text: payload.text,
-        url: permalink
-      });
-      return;
     } catch (err) {
-      // user cancelled or share failed -> fall through to desktop popup fallback
-      console.warn("Native share failed or cancelled:", err);
+      // fall through to try share text+url
+      console.warn("Share with files failed:", err);
     }
   }
 
-  // 2) Desktop fallback: popup with small product preview + copy link and social buttons
-  openDesktopSharePopup(card, anchorEl);
-  // also attempt to copy permalink to clipboard to make sharing easier
-  if (navigator && navigator.clipboard && navigator.clipboard.writeText) {
-    navigator.clipboard.writeText(permalink).then(() => {
-      showShareToast("Link copied!");
-    }).catch(() => {
-      /* ignore */ 
-    });
+  // 2) Try plain native share (title + text + url)
+  if (navigator && navigator.share) {
+    try {
+      await navigator.share({ title, text, url });
+      return;
+    } catch (err) {
+      console.warn("Native share failed/cancelled:", err);
+      // fall through to desktop popup
+    }
   }
+
+  // 3) Desktop fallback: popup with product image + title + copy/social links
+  openDesktopSharePopup(card, anchorEl, /* prefer image */ true);
 }
 
-/**
- * Desktop popup: simple two-row card showing product image (thumbnail) + title,
- * plus a copy button and social share links that use the clean permalink.
- */
-function openDesktopSharePopup(card, anchorEl) {
-  closeSharePopup();
+// Inline share button (card-level) and modal-share should call this. Force using the product image.
+function openShareMenu(el, cardId) {
+  // Try a full share (with image) first
+  shareCardById(cardId, el).catch(() => {
+    // If anything fails, as a fallback copy the page permalink
+    try {
+      const permalink = getCardUrl({ id: decodeURIComponent(cardId) });
+      navigator.clipboard && navigator.clipboard.writeText(permalink);
+      showShareToastSafe("Link copied!");
+    } catch (e) {
+      showShareToastSafe("Link copied!");
+    }
+  });
+}
+
+// Desktop popup builder (two-row card) — prefers product image, falls back to banner
+function openDesktopSharePopup(card, anchorEl, preferImage = true) {
+  // remove any existing popup
+  const existing = document.getElementById("share-popup");
+  if (existing) existing.remove();
+
   const rect = (anchorEl && anchorEl.getBoundingClientRect) ? anchorEl.getBoundingClientRect() : { left: 20, bottom: 80 };
+
+  // pick image: prefer product image, else banner image from DOM if available, else blank
+  let imgSrc = "";
+  if (preferImage && card && card.local_image) imgSrc = card.local_image;
+  if (!imgSrc) {
+    const bannerImg = document.querySelector('.banner-wrap img');
+    if (bannerImg && bannerImg.src) imgSrc = bannerImg.src;
+  }
+
+  const permalink = getCardUrl(card);
+  const titleText = card.title || card.merchant_label || "BestPriceZone Deal";
 
   const popup = document.createElement("div");
   popup.className = "share-popup";
   popup.id = "share-popup";
   popup.style.minWidth = "320px";
-  popup.style.maxWidth = "480px";
+  popup.style.maxWidth = "420px";
   popup.style.top = Math.max(8, window.scrollY + (rect.bottom || 80) + 8) + "px";
-  popup.style.left = Math.min(Math.max(8, rect.left || 8), Math.max(8, window.innerWidth - 500)) + "px";
-
-  const permalink = getCardPermalink(card);
-  const titleText = card.title || card.merchant_label || "BestPriceZone deal";
-  const img = card.local_image || "";
+  popup.style.left = Math.min(Math.max(8, rect.left || 8), Math.max(8, window.innerWidth - 440)) + "px";
+  popup.style.zIndex = 12001;
 
   popup.innerHTML = `
     <div style="display:flex;flex-direction:column;gap:10px;font-family:Inter,system-ui,Arial;">
       <div style="display:flex;gap:12px;align-items:center">
         <div style="flex:0 0 72px; width:72px; height:72px; border-radius:8px; overflow:hidden; background:#f6f7fb; display:flex;align-items:center;justify-content:center;">
-          <img src="${img}" alt="${escapeHtml(titleText)}" style="width:100%;height:100%;object-fit:cover;display:block" />
+          ${imgSrc ? `<img src="${imgSrc}" alt="${escapeHtml(titleText)}" style="width:100%;height:100%;object-fit:cover;display:block" />` : `<div style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;color:#94a3b8">No image</div>`}
         </div>
         <div style="flex:1;min-width:0;">
           <div style="font-weight:700;font-size:15px;line-height:1.2;color:#0f1724;word-break:break-word;">${escapeHtml(titleText)}</div>
+          <div style="font-size:13px;color:#64748b;margin-top:6px;">${escapeHtml(card.merchant_label || "")}</div>
         </div>
       </div>
 
       <div style="display:flex;flex-direction:column;gap:8px">
         <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
           <div class="url" style="flex:1;min-width:0;font-size:13px;color:#475569;word-break:break-all;">${escapeHtml(permalink)}</div>
-          <button id="share-copy-btn" style="flex:0 0 auto;padding:8px 12px;border-radius:8px;border:0;background:#0f62fe;color:#fff;font-weight:700;cursor:pointer">Copy</button>
+          <button class="share-btn-inline" id="share-copy-btn" style="flex:0 0 auto;padding:8px 12px;border-radius:8px;border:0;background:#0f62fe;color:#fff;font-weight:700;cursor:pointer">Copy</button>
         </div>
 
         <div style="display:flex;gap:8px;flex-wrap:wrap">
-          <a href="https://wa.me/?text=${encodeURIComponent(titleText + ' ' + permalink)}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">WhatsApp</a>
-          <a href="https://t.me/share/url?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(titleText)}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Telegram</a>
-          <a href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(permalink)}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Facebook</a>
-          <a href="https://twitter.com/intent/tweet?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(titleText)}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Twitter</a>
+          <a class="social-links" href="https://wa.me/?text=${encodeURIComponent((titleText || '') + ' ' + permalink)}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">WhatsApp</a>
+          <a class="social-links" href="https://t.me/share/url?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(titleText || '')}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Telegram</a>
+          <a class="social-links" href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(permalink)}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Facebook</a>
+          <a class="social-links" href="https://twitter.com/intent/tweet?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(titleText || '')}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Twitter</a>
         </div>
       </div>
     </div>
@@ -2354,82 +2351,121 @@ function openDesktopSharePopup(card, anchorEl) {
 
   document.body.appendChild(popup);
 
+  // copy behaviour
   const copyBtn = popup.querySelector("#share-copy-btn");
   if (copyBtn) {
-    copyBtn.addEventListener("click", () => {
-      if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(permalink).then(() => {
-          showShareToast("Link copied!");
-          copyBtn.textContent = "Copied";
-          setTimeout(() => (copyBtn.textContent = "Copy"), 1200);
-        }).catch(() => {
-          showShareToast("Copy failed — select & copy manually");
-        });
-      } else {
-        showShareToast("Copy not available");
+    copyBtn.addEventListener("click", async () => {
+      try {
+        await navigator.clipboard.writeText(permalink);
+        showShareToastSafe("Link copied!");
+        copyBtn.textContent = "Copied";
+        setTimeout(() => (copyBtn.textContent = "Copy"), 1200);
+      } catch (e) {
+        showShareToastSafe("Copy failed — select & copy the link");
       }
     });
   }
 
   // close popup when clicking outside / on scroll / resize
-  const closeFn = () => closeSharePopup();
+  const closeFn = () => {
+    const el = document.getElementById("share-popup");
+    if (el) el.remove();
+    window.removeEventListener("scroll", closeFn, true);
+    window.removeEventListener("resize", closeFn);
+  };
   setTimeout(() => {
     window.addEventListener("scroll", closeFn, true);
     window.addEventListener("resize", closeFn);
     document.addEventListener("click", closeFn, { once: true, capture: true });
   }, 10);
 
+  // keep clicks inside popup from bubbling (so it won't immediately close)
   popup.addEventListener("click", (ev) => ev.stopPropagation());
 }
 
-/**
- * Simpler openShareMenu used by inline share buttons and modal share icon.
- * It focuses on sharing only the clean permalink + title (and lets the browser handle native UX).
- */
-function openShareMenu(el, cardId) {
-  const card = findCardById(decodeURIComponent(cardId || ""));
-  if (!card) return;
-  const url = getCardPermalink(card);
-  const title = card.title || "BestPriceZone deal";
-
-  if (navigator && navigator.share) {
-    navigator.share({ title, text: title, url }).catch(() => {
-      // fallback: copy permalink
-      if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(url).then(() => showShareToast("Link copied!")).catch(() => showShareToast("Copy failed"));
-      } else {
-        showShareToast("Copied to clipboard not available");
+// Wire modal share button to share product image (modal uses currentModalCard variable)
+(function wireModalShare() {
+  const modalShareBtn = document.getElementById("modal-share");
+  if (modalShareBtn) {
+    modalShareBtn.addEventListener("click", (ev) => {
+      if (typeof currentModalCard !== "undefined" && currentModalCard) {
+        // currentModalCard.id might be raw id; ensure encoded as expected by findCardById
+        const encoded = encodeURIComponent(currentModalCard.id || currentModalCard.shortlink || "");
+        shareCardById(encoded, modalShareBtn);
       }
     });
-  } else {
-    // fallback: copy to clipboard + show popup preview
-    if (navigator.clipboard && navigator.clipboard.writeText) {
-      navigator.clipboard.writeText(url).then(() => {
-        showShareToast("Link copied!");
-        // also open lightweight popup so desktop users see the image+title
-        openDesktopSharePopup(card, el);
-      }).catch(() => {
-        openDesktopSharePopup(card, el);
-      });
-    } else {
-      openDesktopSharePopup(card, el);
+  }
+})();
+
+// Footer "Share page" button: share page permalink + banner image (if available)
+(function wireFooterShare() {
+  const shareBtn = document.getElementById('share-page');
+  if (!shareBtn) return;
+
+  shareBtn.addEventListener('click', async function() {
+    const url = window.location.href;
+    const title = document.title || 'BestPriceZone — check this out';
+    const text = title;
+
+    // banner element in DOM
+    const bannerImgEl = document.querySelector('.banner-wrap img');
+    let bannerSrc = bannerImgEl ? (bannerImgEl.src || '') : '';
+
+    // try native share with banner image
+    if (navigator && navigator.share && navigator.canShare && bannerSrc) {
+      const file = await fetchImageAsFile(bannerSrc, "banner");
+      try {
+        if (file && navigator.canShare({ files: [file] })) {
+          await navigator.share({ title, text, files: [file], url });
+          return;
+        }
+      } catch (e) {
+        console.warn("Footer share with files failed:", e);
+      }
+    }
+
+    // try native share text+url
+    if (navigator && navigator.share) {
+      try {
+        await navigator.share({ title, text, url });
+        return;
+      } catch (e) {
+        console.warn("Footer native share failed:", e);
+      }
+    }
+
+    // fallback: copy url and inform user; also show a desktop popup using banner image if present
+    try {
+      await navigator.clipboard.writeText(url);
+      showShareToastSafe("Page link copied!");
+    } catch (e) {
+      showShareToastSafe("Link copied!");
+    }
+
+    // Desktop popup as a nicer fallback (use banner image)
+    const dummyCard = { id: "", title, merchant_label: "", local_image: bannerSrc };
+    openDesktopSharePopup(dummyCard, shareBtn, /* preferImage */ true);
+  });
+})();
+
+// Keep the global openShareMenu API used by card buttons (already used in markup)
+window.openShareMenu = function(el, cardId) {
+  try {
+    openShareMenu(el, cardId);
+  } catch (e) {
+    // last-resort: copy permalink
+    try {
+      const permalink = getCardUrl({ id: decodeURIComponent(cardId) });
+      navigator.clipboard && navigator.clipboard.writeText(permalink);
+      showShareToastSafe("Link copied!");
+    } catch (x) {
+      showShareToastSafe("Link copied!");
     }
   }
-}
+};
 
-// Wire up modal share button (if present) to use the clean share flow
-try {
-  const modalShareEl = document.getElementById("modal-share");
-  if (modalShareEl) {
-    modalShareEl.addEventListener("click", (ev) => {
-      if (typeof currentModalCard !== "undefined" && currentModalCard) {
-        openShareMenu(modalShareEl, encodeURIComponent(currentModalCard.id));
-      }
-    });
-  }
-} catch (e) {
-  // ignore wiring errors
-}
+// Also expose shareCardById globally (optional)
+window.shareCardById = shareCardById;
 
   // initial render
   render();
