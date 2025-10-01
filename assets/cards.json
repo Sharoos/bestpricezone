@@ -1,5 +1,22 @@
 [
   {
+    "id": "msg9676",
+    "title": "",
+    "description": "Loot -Get 2 Tiaraa products @ 119 INR Use code : CK2",
+    "shortlink": "https://bitli.in/wOuybFd",
+    "urls": [
+      "https://bitli.in/wOuybFd"
+    ],
+    "raw_text": "Loot -Get 2 Tiaraa products @ 119 INR\nUse code : CK2\n\nhttps://bitli.in/wOuybFd",
+    "final_url": "https://bitli.in/wOuybFd",
+    "local_image": "assets/images/tgmsg_9676.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-10-01T11:32:36+00:00",
+    "buy_link": "https://bitli.in/wOuybFd",
+    "date_iso": "2025-10-01T11:32:36+00:00"
+  },
+  {
     "id": "msg9669",
     "title": "Up to 82% Off On Being Human Clothing",
     "description": "Myntra : Upto 82% Off On Being Human Clothing Tshirts :  Jeans :  Shirts :  Sweatshirts :  Trackpants & Trousers :",
@@ -3606,25 +3623,5 @@
     "date_obj": "2025-09-30T06:30:36+00:00",
     "buy_link": "https://fktr.in/cxY2fyG",
     "date_iso": "2025-09-30T06:30:36+00:00"
-  },
-  {
-    "id": "msg9252",
-    "title": "All Stars Sale",
-    "description": "AJIO  : - Levi's Jeans at 999 -  - ⁠USPA Tshirts at 499 -  - ⁠USPA Shirts at 799 -  - ⁠Pepe, Spykar Jeans at 849 -",
-    "shortlink": "https://ajiio.co/OKLOiv",
-    "urls": [
-      "https://ajiio.co/OKLOiv",
-      "https://ajiio.co/nmSo1L",
-      "https://ajiio.co/0KPg1W",
-      "https://ajiio.co/ukoNJd"
-    ],
-    "raw_text": "AJIO All Stars Sale : \n\n- Levi's Jeans at 999 - https://ajiio.co/OKLOiv\n- ⁠USPA Tshirts at 499 - https://ajiio.co/nmSo1L\n- ⁠USPA Shirts at 799 - https://ajiio.co/0KPg1W\n- ⁠Pepe, Spykar Jeans at 849 - https://ajiio.co/ukoNJd",
-    "final_url": "https://ajiio.co/OKLOiv",
-    "local_image": "assets/images/tgmsg_9252.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-09-30T06:32:07+00:00",
-    "buy_link": "https://ajiio.co/OKLOiv",
-    "date_iso": "2025-09-30T06:32:07+00:00"
   }
 ]
