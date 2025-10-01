@@ -2244,7 +2244,7 @@ async function shareCardById(encodedCardId, anchorEl) {
 
   const url = getCardUrl(card) || window.location.href;
   const title = card.title || "Check this deal";
-  const text = title;
+  const text = `I just found this deal on BestPriceZone.in\n${title}\n${url}`;
 
   // 1) Try Web Share with image file (Web Share Level 2)
   if (navigator && navigator.share && navigator.canShare) {
@@ -2258,7 +2258,6 @@ async function shareCardById(encodedCardId, anchorEl) {
         return;
       }
     } catch (err) {
-      // fall through to try share text+url
       console.warn("Share with files failed:", err);
     }
   }
@@ -2270,7 +2269,6 @@ async function shareCardById(encodedCardId, anchorEl) {
       return;
     } catch (err) {
       console.warn("Native share failed/cancelled:", err);
-      // fall through to desktop popup
     }
   }
 
@@ -2280,9 +2278,7 @@ async function shareCardById(encodedCardId, anchorEl) {
 
 // Inline share button (card-level) and modal-share should call this. Force using the product image.
 function openShareMenu(el, cardId) {
-  // Try a full share (with image) first
   shareCardById(cardId, el).catch(() => {
-    // If anything fails, as a fallback copy the page permalink
     try {
       const permalink = getCardUrl({ id: decodeURIComponent(cardId) });
       navigator.clipboard && navigator.clipboard.writeText(permalink);
@@ -2295,13 +2291,10 @@ function openShareMenu(el, cardId) {
 
 // Desktop popup builder (two-row card) — prefers product image, falls back to banner
 function openDesktopSharePopup(card, anchorEl, preferImage = true) {
-  // remove any existing popup
   const existing = document.getElementById("share-popup");
   if (existing) existing.remove();
 
   const rect = (anchorEl && anchorEl.getBoundingClientRect) ? anchorEl.getBoundingClientRect() : { left: 20, bottom: 80 };
-
-  // pick image: prefer product image, else banner image from DOM if available, else blank
   let imgSrc = "";
   if (preferImage && card && card.local_image) imgSrc = card.local_image;
   if (!imgSrc) {
@@ -2340,18 +2333,16 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
         </div>
 
         <div style="display:flex;gap:8px;flex-wrap:wrap">
-          <a class="social-links" href="https://wa.me/?text=${encodeURIComponent((titleText || '') + ' ' + permalink)}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">WhatsApp</a>
-          <a class="social-links" href="https://t.me/share/url?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(titleText || '')}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Telegram</a>
-          <a class="social-links" href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(permalink)}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Facebook</a>
-          <a class="social-links" href="https://twitter.com/intent/tweet?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(titleText || '')}" target="_blank" rel="noopener" style="text-decoration:none;padding:8px 10px;border-radius:8px;border:1px solid rgba(0,0,0,0.06);font-weight:700;color:#0f1724">Twitter</a>
+          <a class="social-links" href="https://wa.me/?text=${encodeURIComponent((titleText || '') + ' ' + permalink)}" target="_blank" rel="noopener">WhatsApp</a>
+          <a class="social-links" href="https://t.me/share/url?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(titleText || '')}" target="_blank" rel="noopener">Telegram</a>
+          <a class="social-links" href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(permalink)}" target="_blank" rel="noopener">Facebook</a>
+          <a class="social-links" href="https://twitter.com/intent/tweet?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(titleText || '')}" target="_blank" rel="noopener">Twitter</a>
         </div>
       </div>
     </div>
   `;
-
   document.body.appendChild(popup);
 
-  // copy behaviour
   const copyBtn = popup.querySelector("#share-copy-btn");
   if (copyBtn) {
     copyBtn.addEventListener("click", async () => {
@@ -2366,7 +2357,6 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
     });
   }
 
-  // close popup when clicking outside / on scroll / resize
   const closeFn = () => {
     const el = document.getElementById("share-popup");
     if (el) el.remove();
@@ -2379,17 +2369,15 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
     document.addEventListener("click", closeFn, { once: true, capture: true });
   }, 10);
 
-  // keep clicks inside popup from bubbling (so it won't immediately close)
   popup.addEventListener("click", (ev) => ev.stopPropagation());
 }
 
-// Wire modal share button to share product image (modal uses currentModalCard variable)
+// Wire modal share button
 (function wireModalShare() {
   const modalShareBtn = document.getElementById("modal-share");
   if (modalShareBtn) {
-    modalShareBtn.addEventListener("click", (ev) => {
+    modalShareBtn.addEventListener("click", () => {
       if (typeof currentModalCard !== "undefined" && currentModalCard) {
-        // currentModalCard.id might be raw id; ensure encoded as expected by findCardById
         const encoded = encodeURIComponent(currentModalCard.id || currentModalCard.shortlink || "");
         shareCardById(encoded, modalShareBtn);
       }
@@ -2397,7 +2385,7 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
   }
 })();
 
-// Footer "Share page" button: share page permalink + banner image (if available)
+// Footer "Share page" button
 (function wireFooterShare() {
   const shareBtn = document.getElementById('share-page');
   if (!shareBtn) return;
@@ -2407,11 +2395,9 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
     const title = document.title || 'BestPriceZone — check this out';
     const text = title;
 
-    // banner element in DOM
     const bannerImgEl = document.querySelector('.banner-wrap img');
     let bannerSrc = bannerImgEl ? (bannerImgEl.src || '') : '';
 
-    // try native share with banner image
     if (navigator && navigator.share && navigator.canShare && bannerSrc) {
       const file = await fetchImageAsFile(bannerSrc, "banner");
       try {
@@ -2424,7 +2410,6 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
       }
     }
 
-    // try native share text+url
     if (navigator && navigator.share) {
       try {
         await navigator.share({ title, text, url });
@@ -2434,7 +2419,6 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
       }
     }
 
-    // fallback: copy url and inform user; also show a desktop popup using banner image if present
     try {
       await navigator.clipboard.writeText(url);
       showShareToastSafe("Page link copied!");
@@ -2442,18 +2426,16 @@ function openDesktopSharePopup(card, anchorEl, preferImage = true) {
       showShareToastSafe("Link copied!");
     }
 
-    // Desktop popup as a nicer fallback (use banner image)
     const dummyCard = { id: "", title, merchant_label: "", local_image: bannerSrc };
-    openDesktopSharePopup(dummyCard, shareBtn, /* preferImage */ true);
+    openDesktopSharePopup(dummyCard, shareBtn, true);
   });
 })();
 
-// Keep the global openShareMenu API used by card buttons (already used in markup)
+// Keep the global openShareMenu
 window.openShareMenu = function(el, cardId) {
   try {
     openShareMenu(el, cardId);
   } catch (e) {
-    // last-resort: copy permalink
     try {
       const permalink = getCardUrl({ id: decodeURIComponent(cardId) });
       navigator.clipboard && navigator.clipboard.writeText(permalink);
@@ -2464,7 +2446,6 @@ window.openShareMenu = function(el, cardId) {
   }
 };
 
-// Also expose shareCardById globally (optional)
 window.shareCardById = shareCardById;
 
   // initial render
