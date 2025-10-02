@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg10105",
+    "title": "⁠Use code “Impulse17” for additional 17% off",
+    "description": "Myntra | Impulse under 299/- backpacks | Buy 2 get extra 15% off. Products link - Now trending - - ⁠-",
+    "shortlink": "https://myntr.in/3y2whp",
+    "urls": [
+      {
+        "url": "https://myntr.in/3y2whp",
+        "label": "Products"
+      },
+      {
+        "url": "https://myntr.in/j6D8or",
+        "label": "Now trending"
+      },
+      {
+        "url": "https://myntr.in/5w0r3d",
+        "label": ""
+      },
+      {
+        "url": "",
+        "label": "⁠Use code “Impulse17” for additional 17% off"
+      }
+    ],
+    "raw_text": "Myntra | Impulse under 299/- backpacks | Buy 2 get extra 15% off.\n\nProducts link - https://myntr.in/3y2whp\n\n\nNow trending  - https://myntr.in/j6D8or\n                          \n\n- ⁠- https://myntr.in/5w0r3d\n\n⁠Use code “Impulse17” for additional 17% off",
+    "final_url": "https://myntr.in/3y2whp",
+    "local_image": "assets/images/tgmsg_10105.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-02T15:52:10+00:00",
+    "buy_link": "https://myntr.in/3y2whp",
+    "date_iso": "2025-10-02T15:52:10+00:00"
+  },
+  {
+    "id": "msg10106",
+    "title": "Up to 71% Off On Aristocrat Bag",
+    "description": "Ajio | Upto 71% Off On Aristocrat Bags 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/qx5bPa",
+    "urls": [
+      {
+        "url": "https://ajiio.co/qx5bPa",
+        "label": "Upto 71% Off On Aristocrat Bags"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "Ajio | Upto 71% Off On Aristocrat Bags \n\nhttps://ajiio.co/qx5bPa\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/qx5bPa",
+    "local_image": "assets/images/tgmsg_10106.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-02T15:52:11+00:00",
+    "buy_link": "https://ajiio.co/qx5bPa",
+    "date_iso": "2025-10-02T15:52:11+00:00"
+  },
+  {
     "id": "msg10103",
     "title": "Min 75% Off On Women T",
     "description": "Ajio LOOT : Min 75% Off On Women T-shirts Starting From @120🔥🔥🔥🔥 🔗Links : https://ajiio.co/3Ly6Aa",
@@ -5577,39 +5633,5 @@
     "date_obj": "2025-10-01T10:45:14+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DKNM4GPM/ref=cm_sw_r_as_gl_apa_gl_i_dl_Y4PF0YPARR66J6M6PQVQ?tag=bestpricezo0f-21",
     "date_iso": "2025-10-01T10:45:14+00:00"
-  },
-  {
-    "id": "msg9663",
-    "title": "✅Deal price RS.2899",
-    "description": "Amazon | POLYCAB Wizzy Neo 1200mm 5-Star BLDC, Remote Ceiling fan 🔗",
-    "shortlink": "https://www.amazon.in/dp/B0DKC24SSQ/ref=cm_sw_r_as_gl_apa_gl_i_dl_5360AXJNEC76DHBK5ZKZ?tag=bestpricezo0f-21",
-    "urls": [
-      "https://www.amazon.in/dp/B0DKC24SSQ/ref=cm_sw_r_as_gl_apa_gl_i_dl_5360AXJNEC76DHBK5ZKZ?tag=bestpricezo0f-21"
-    ],
-    "raw_text": "Amazon | POLYCAB Wizzy Neo 1200mm 5-Star BLDC, Remote Ceiling fan\n\n🔗https://www.amazon.in/dp/B0DKC24SSQ/ref=cm_sw_r_as_gl_apa_gl_i_dl_5360AXJNEC76DHBK5ZKZ?tag=bestpricezo0f-21\n\n✅Deal price RS.2899",
-    "final_url": "https://www.amazon.in/dp/B0DKC24SSQ/ref=cm_sw_r_as_gl_apa_gl_i_dl_5360AXJNEC76DHBK5ZKZ?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9663.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-01T10:20:18+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DKC24SSQ/ref=cm_sw_r_as_gl_apa_gl_i_dl_5360AXJNEC76DHBK5ZKZ?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-01T10:20:18+00:00"
-  },
-  {
-    "id": "msg9666",
-    "title": "🔥 Fixderma Sunscreen",
-    "description": "Flipkart 🔥 Loot | Fixderma Sunscreen - SPF 30+ PA+++ (40g) @ ₹99. 🔗",
-    "shortlink": "https://fkrt.co/dZJP0Q",
-    "urls": [
-      "https://fkrt.co/dZJP0Q"
-    ],
-    "raw_text": "Flipkart 🔥  Loot | Fixderma Sunscreen - SPF 30+ PA+++ (40g) @ ₹99.\n\n🔗 https://fkrt.co/dZJP0Q",
-    "final_url": "https://fkrt.co/dZJP0Q",
-    "local_image": "assets/images/tgmsg_9666.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-01T10:31:56+00:00",
-    "buy_link": "https://fkrt.co/dZJP0Q",
-    "date_iso": "2025-10-01T10:31:56+00:00"
   }
 ]
