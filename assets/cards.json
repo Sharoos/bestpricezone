@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10103",
+    "title": "Min 75% Off On Women T",
+    "description": "Ajio LOOT : Min 75% Off On Women T-shirts Starting From @120🔥🔥🔥🔥 🔗Links : https://ajiio.co/3Ly6Aa",
+    "shortlink": "https://ajiio.co/3Ly6Aa",
+    "urls": [
+      {
+        "url": "https://ajiio.co/3Ly6Aa",
+        "label": "Min 75% Off On Women T-shirts Starting From @120🔥🔥🔥🔥"
+      }
+    ],
+    "raw_text": "Ajio LOOT : Min 75% Off On Women T-shirts Starting From @120🔥🔥🔥🔥 \n \n🔗Links : https://ajiio.co/3Ly6Aa",
+    "final_url": "https://ajiio.co/3Ly6Aa",
+    "local_image": "assets/images/tgmsg_10103.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-02T15:41:41+00:00",
+    "buy_link": "https://ajiio.co/3Ly6Aa",
+    "date_iso": "2025-10-02T15:41:41+00:00"
+  },
+  {
     "id": "msg10098",
     "title": "🔥 Mens Jeans Starts at Rs.400",
     "description": "🔥AJIO LOOT : Mens Jeans Starts at Rs.400. 👉 Branded Suggestions ⬇️⬇️ Master Link : Lee Cooper : Jack & Jones : John Players : DNMX : Buda Jeans Co : Snitch : GAP : Spykar : Allen Cooper : U.S. Polo Assn. : Pepe Jeans :…",
@@ -5591,22 +5611,5 @@
     "date_obj": "2025-10-01T10:31:56+00:00",
     "buy_link": "https://fkrt.co/dZJP0Q",
     "date_iso": "2025-10-01T10:31:56+00:00"
-  },
-  {
-    "id": "msg9658",
-    "title": "🔥 Wall Stickers from 65",
-    "description": "Flipkart 🔥 Loot : Wall Stickers from 65. 🔗",
-    "shortlink": "https://fkrt.co/Rvw9Io",
-    "urls": [
-      "https://fkrt.co/Rvw9Io"
-    ],
-    "raw_text": "Flipkart 🔥  Loot : Wall Stickers from 65.\n\n🔗 https://fkrt.co/Rvw9Io",
-    "final_url": "https://fkrt.co/Rvw9Io",
-    "local_image": "assets/images/tgmsg_9658.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-01T10:05:33+00:00",
-    "buy_link": "https://fkrt.co/Rvw9Io",
-    "date_iso": "2025-10-01T10:05:33+00:00"
   }
 ]
