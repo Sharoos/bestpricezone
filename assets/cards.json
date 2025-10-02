@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg10003",
+    "title": "Raymond & Park Avenue Shirts Flat 70% Off",
+    "description": "Raymond & Park Avenue Shirts Flat 70% Off https://fkrt.co/3o5cRp",
+    "shortlink": "https://fkrt.co/3o5cRp",
+    "urls": [
+      {
+        "url": "https://fkrt.co/3o5cRp",
+        "label": "Raymond & Park Avenue Shirts Flat 70% Off"
+      }
+    ],
+    "raw_text": "Raymond & Park Avenue Shirts Flat 70% Off\n\n https://fkrt.co/3o5cRp",
+    "final_url": "https://fkrt.co/3o5cRp",
+    "local_image": "assets/images/tgmsg_10003.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-02T11:27:33+00:00",
+    "buy_link": "https://fkrt.co/3o5cRp",
+    "date_iso": "2025-10-02T11:27:33+00:00"
+  },
+  {
+    "id": "msg10004",
+    "title": "Up to 85% Off On Branded Backpack",
+    "description": "Myntra | Upto 85% Off On Branded Backpacks. Master Link : Skybags : Safari : Wildcraft : Aristocrat :",
+    "shortlink": "https://myntr.in/rMmG7K",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% Off On Branded Backpacks"
+      },
+      {
+        "url": "https://myntr.in/rMmG7K",
+        "label": "Master"
+      },
+      {
+        "url": "https://myntr.in/CeRLCg",
+        "label": "Skybags"
+      },
+      {
+        "url": "https://myntr.in/7s3MH5",
+        "label": "Safari"
+      },
+      {
+        "url": "https://myntr.in/mEQgVD",
+        "label": "Wildcraft"
+      },
+      {
+        "url": "https://myntr.in/3g9Toz",
+        "label": "Aristocrat"
+      }
+    ],
+    "raw_text": "Myntra | Upto 85% Off On Branded Backpacks.\n\nMaster Link : https://myntr.in/rMmG7K\n\nSkybags : https://myntr.in/CeRLCg \nSafari : https://myntr.in/7s3MH5 \nWildcraft : https://myntr.in/mEQgVD \nAristocrat : https://myntr.in/3g9Toz",
+    "final_url": "https://myntr.in/rMmG7K",
+    "local_image": "assets/images/tgmsg_10004.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-02T11:32:14+00:00",
+    "buy_link": "https://myntr.in/rMmG7K",
+    "date_iso": "2025-10-02T11:32:14+00:00"
+  },
+  {
     "id": "msg10002",
     "title": "Up to 75% Off On Levi's Clothing",
     "description": "Ajio Loot | Upto 75% Off On Levi's Clothing Women's : Jeans : Men's : Jeans : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!",
@@ -5224,39 +5284,5 @@
     "date_obj": "2025-10-01T04:21:31+00:00",
     "buy_link": "https://myntr.in/SCAU66",
     "date_iso": "2025-10-01T04:21:31+00:00"
-  },
-  {
-    "id": "msg9605",
-    "title": "Set Wet Fire Perfume for Men, 100ml@ 197",
-    "description": "Amazon |  👉",
-    "shortlink": "https://www.amazon.in/dp/B0CM3DWYBT?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      "https://www.amazon.in/dp/B0CM3DWYBT?psc=1&tag=bestpricezo0f-21"
-    ],
-    "raw_text": "Amazon | Set Wet Fire Perfume for Men, 100ml@ 197\n\n👉https://www.amazon.in/dp/B0CM3DWYBT?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CM3DWYBT?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9605.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-01T03:34:23+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CM3DWYBT?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-01T03:34:23+00:00"
-  },
-  {
-    "id": "msg9606",
-    "title": "Speedex Water Bottles @ Min 50% Off",
-    "description": "Myntra |  👉Link :",
-    "shortlink": "https://myntr.in/rX8TPt",
-    "urls": [
-      "https://myntr.in/rX8TPt"
-    ],
-    "raw_text": "Myntra | Speedex Water Bottles @ Min 50% Off\n\n👉Link : https://myntr.in/rX8TPt",
-    "final_url": "https://myntr.in/rX8TPt",
-    "local_image": "assets/images/tgmsg_9606.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-01T03:41:28+00:00",
-    "buy_link": "https://myntr.in/rX8TPt",
-    "date_iso": "2025-10-01T03:41:28+00:00"
   }
 ]
