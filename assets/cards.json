@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg9990",
+    "title": "🛒 Deal Price Up to 79% Off",
+    "description": "Amazon | 🎒 Aristocrat Luggage & Duffel Bags - Up to 79% Off 🛒 Deal Price: Up to 79% Off 👉",
+    "shortlink": "https://www.amazon.in/s?k=Aristocrat&rh=n%3A2454169031%2Cp_89%3AAristocrat%2Cp_6%3AAXOGFIT0PZZ7G%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=luggage&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "🎒 Aristocrat Luggage & Duffel Bags - Up to 79% Off"
+      },
+      {
+        "url": "https://www.amazon.in/s?k=Aristocrat&rh=n%3A2454169031%2Cp_89%3AAristocrat%2Cp_6%3AAXOGFIT0PZZ7G%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=luggage&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: Up to 79% Off"
+      }
+    ],
+    "raw_text": "Amazon | 🎒 Aristocrat Luggage & Duffel Bags - Up to 79% Off\n\n🛒 Deal Price: Up to 79% Off\n\n👉https://www.amazon.in/s?k=Aristocrat&rh=n%3A2454169031%2Cp_89%3AAristocrat%2Cp_6%3AAXOGFIT0PZZ7G%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=luggage&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?k=Aristocrat&rh=n%3A2454169031%2Cp_89%3AAristocrat%2Cp_6%3AAXOGFIT0PZZ7G%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=luggage&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_9990.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-02T10:45:14+00:00",
+    "buy_link": "https://www.amazon.in/s?k=Aristocrat&rh=n%3A2454169031%2Cp_89%3AAristocrat%2Cp_6%3AAXOGFIT0PZZ7G%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=luggage&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-02T10:45:14+00:00"
+  },
+  {
     "id": "msg9988",
     "title": "👜 Handbag Bonanza Up to 87% Off!",
     "description": "Myntra | 👜 Handbag Bonanza: Up to 87% Off! 🛒 Deal Price: Up to 87% Off 👉https://myntr.in/j0drF7",
@@ -5208,28 +5232,5 @@
     "date_obj": "2025-09-30T20:33:08+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F2T7B9TM?tag=bestpricezo0f-21",
     "date_iso": "2025-09-30T20:33:08+00:00"
-  },
-  {
-    "id": "msg9598",
-    "title": "Price Drop On Premium Brand",
-    "description": "AJIO Loot : s. Armani Exchange :  Replay :  La Martina :  G Star Raw :  Clarks :  GAS, G-Star Raw & GANT Clothing. Men’s :  Women’s :  *Additional Coupons + Card Discounts.",
-    "shortlink": "https://ajiio.co/SKtYcR",
-    "urls": [
-      "https://ajiio.co/SKtYcR",
-      "https://ajiio.co/Us8NF0",
-      "https://ajiio.co/7xRD63",
-      "https://ajiio.co/oSNS2Q",
-      "https://ajiio.co/myyMgc",
-      "https://ajiio.co/5UZ0em",
-      "https://ajiio.co/7rWAHO"
-    ],
-    "raw_text": "AJIO Loot : Price Drop On Premium Brands. \n\nArmani Exchange : https://ajiio.co/SKtYcR\nReplay : https://ajiio.co/Us8NF0\nLa Martina : https://ajiio.co/7xRD63\nG Star Raw : https://ajiio.co/oSNS2Q\nClarks : https://ajiio.co/myyMgc\n\nGAS, G-Star Raw & GANT Clothing.\n\nMen’s : https://ajiio.co/5UZ0em\nWomen’s : https://ajiio.co/7rWAHO\n\n*Additional Coupons + Card Discounts.",
-    "final_url": "https://ajiio.co/SKtYcR",
-    "local_image": "assets/images/tgmsg_9598.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-09-30T20:20:08+00:00",
-    "buy_link": "https://ajiio.co/SKtYcR",
-    "date_iso": "2025-09-30T20:20:08+00:00"
   }
 ]
