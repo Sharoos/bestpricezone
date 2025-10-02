@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg9988",
+    "title": "👜 Handbag Bonanza Up to 87% Off!",
+    "description": "Myntra | 👜 Handbag Bonanza: Up to 87% Off! 🛒 Deal Price: Up to 87% Off 👉https://myntr.in/j0drF7",
+    "shortlink": "https://myntr.in/j0drF7",
+    "urls": [
+      {
+        "url": "",
+        "label": "👜 Handbag Bonanza: Up to 87% Off!"
+      },
+      {
+        "url": "https://myntr.in/j0drF7",
+        "label": "🛒 Deal Price: Up to 87% Off"
+      }
+    ],
+    "raw_text": "Myntra | 👜 Handbag Bonanza: Up to 87% Off!\n\n🛒 Deal Price: Up to 87% Off\n\n👉https://myntr.in/j0drF7",
+    "final_url": "https://myntr.in/j0drF7",
+    "local_image": "assets/images/tgmsg_9988.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-02T10:34:57+00:00",
+    "buy_link": "https://myntr.in/j0drF7",
+    "date_iso": "2025-10-02T10:34:57+00:00"
+  },
+  {
     "id": "msg9983",
     "title": "Meesho 💎 Jewelry Set Deal",
     "description": "Meesho | 💎 Jewelry Set Deals 🛒 Deal Price: ₹81 👉https://msho.in/eBoCph 👉https://msho.in/pWvbdJ 👉https://msho.in/IN012m",
@@ -5207,28 +5231,5 @@
     "date_obj": "2025-09-30T20:20:08+00:00",
     "buy_link": "https://ajiio.co/SKtYcR",
     "date_iso": "2025-09-30T20:20:08+00:00"
-  },
-  {
-    "id": "msg9599",
-    "title": "Price Drop On Premium Brand",
-    "description": "AJIO Loot : s. Armani Exchange :  Replay :  La Martina :  G Star Raw :  Clarks :  GAS, G-Star Raw & GANT Clothing. Men’s :  Women’s :  *Additional Coupons + Card Discounts.",
-    "shortlink": "https://ajiio.co/xsmoZx",
-    "urls": [
-      "https://ajiio.co/xsmoZx",
-      "https://ajiio.co/tTbkVG",
-      "https://ajiio.co/nLbLaW",
-      "https://ajiio.co/CU2c9t",
-      "https://ajiio.co/RqRT1h",
-      "https://ajiio.co/9VdnF7",
-      "https://ajiio.co/Y2ZtwR"
-    ],
-    "raw_text": "AJIO Loot : Price Drop On Premium Brands. \n\nArmani Exchange : https://ajiio.co/xsmoZx\nReplay : https://ajiio.co/tTbkVG\nLa Martina : https://ajiio.co/nLbLaW\nG Star Raw : https://ajiio.co/CU2c9t\nClarks : https://ajiio.co/RqRT1h\n\nGAS, G-Star Raw & GANT Clothing.\n\nMen’s : https://ajiio.co/9VdnF7\nWomen’s : https://ajiio.co/Y2ZtwR\n\n*Additional Coupons + Card Discounts.",
-    "final_url": "https://ajiio.co/xsmoZx",
-    "local_image": "assets/images/tgmsg_9599.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-09-30T20:21:11+00:00",
-    "buy_link": "https://ajiio.co/xsmoZx",
-    "date_iso": "2025-09-30T20:21:11+00:00"
   }
 ]
