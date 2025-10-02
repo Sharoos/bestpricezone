@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg10141",
+    "title": "Eveready 7W Led Bulb Pack Of 10 @499",
+    "description": "Amazon | Eveready 7W Led Bulb Pack Of 10 @499. 👉https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
+        "label": "Eveready 7W Led Bulb Pack Of 10 @499"
+      }
+    ],
+    "raw_text": "Amazon | Eveready 7W Led Bulb Pack Of 10 @499.\n \n👉https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_10141.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-02T17:51:40+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-02T17:51:40+00:00"
+  },
+  {
+    "id": "msg10142",
+    "title": "FAST ₹349",
+    "description": "LOOT FAST ₹349 https://fkrt.co/HugH8C",
+    "shortlink": "https://fkrt.co/HugH8C",
+    "urls": [
+      {
+        "url": "https://fkrt.co/HugH8C",
+        "label": "LOOT FAST ₹349"
+      }
+    ],
+    "raw_text": "LOOT FAST ₹349 \n\nhttps://fkrt.co/HugH8C",
+    "final_url": "https://fkrt.co/HugH8C",
+    "local_image": "assets/images/tgmsg_10142.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-02T17:55:53+00:00",
+    "buy_link": "https://fkrt.co/HugH8C",
+    "date_iso": "2025-10-02T17:55:53+00:00"
+  },
+  {
     "id": "msg10139",
     "title": "Fast ₹322",
     "description": "Loot Fast ₹322 https://fkrt.co/jy0Gt3",
@@ -5848,43 +5888,5 @@
     "date_obj": "2025-10-01T14:21:32+00:00",
     "buy_link": "https://ajiio.co/VpgRXF",
     "date_iso": "2025-10-01T14:21:32+00:00"
-  },
-  {
-    "id": "msg9753",
-    "title": "From Rs.95",
-    "description": "Loot  -  Sort Low To High*",
-    "shortlink": "https://fkrt.co/ppRz0D",
-    "urls": [
-      "https://fkrt.co/ppRz0D"
-    ],
-    "raw_text": "Loot From Rs.95\n\n-   https://fkrt.co/ppRz0D\n\nSort Low To High*",
-    "final_url": "https://fkrt.co/ppRz0D",
-    "local_image": "assets/images/tgmsg_9753.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-01T14:29:33+00:00",
-    "buy_link": "https://fkrt.co/ppRz0D",
-    "date_iso": "2025-10-01T14:29:33+00:00"
-  },
-  {
-    "id": "msg9756",
-    "title": "Branded Suitcases Up to 80% Off",
-    "description": "Flipkart | Branded Suitcases Upto 80% Off Aristocrat :  Safari :  Skybags :  Metronaut :  Master link :",
-    "shortlink": "https://fkrt.co/LDS5Fm",
-    "urls": [
-      "https://fkrt.co/LDS5Fm",
-      "https://fkrt.co/0mKU1D",
-      "https://fkrt.co/uVGt92",
-      "https://fkrt.co/iA8XkA",
-      "https://fkrt.co/FFmCqu"
-    ],
-    "raw_text": "Flipkart | Branded Suitcases Upto 80% Off \n\nAristocrat :   https://fkrt.co/LDS5Fm\nSafari :   https://fkrt.co/0mKU1D\nSkybags :   https://fkrt.co/uVGt92\nMetronaut :   https://fkrt.co/iA8XkA\n\nMaster link :   https://fkrt.co/FFmCqu",
-    "final_url": "https://fkrt.co/LDS5Fm",
-    "local_image": "assets/images/tgmsg_9756.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-01T14:31:48+00:00",
-    "buy_link": "https://fkrt.co/LDS5Fm",
-    "date_iso": "2025-10-01T14:31:48+00:00"
   }
 ]
