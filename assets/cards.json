@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg9954",
+    "title": "🛒 Deal Price ₹269 (82% off)",
+    "description": "Amazon | Michael Angelo Men's MA-2229 Formal Shoes 🛒 Deal Price : ₹269 (82% off) 👉",
+    "shortlink": "https://www.amazon.in/dp/B0CQSZYLZ9?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Michael Angelo Men's MA-2229 Formal Shoes"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0CQSZYLZ9?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price : ₹269 (82% off)"
+      }
+    ],
+    "raw_text": "Amazon | Michael Angelo Men's MA-2229 Formal Shoes\n\n🛒 Deal Price : ₹269 (82% off)\n\n👉 https://www.amazon.in/dp/B0CQSZYLZ9?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CQSZYLZ9?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_9954.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-02T08:10:13+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CQSZYLZ9?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-02T08:10:13+00:00"
+  },
+  {
+    "id": "msg9958",
+    "title": "Swiss Military Unisex Camouflage Backpack Flat 58% off + Coupon",
+    "description": "Myntra | Swiss Military Unisex Camouflage Backpack | Flat 58% off + Coupons BFF Effective Price - Under 999/- Regular price - 1419/- Link 1 - Link 2 -",
+    "shortlink": "https://myntr.in/KturKn",
+    "urls": [
+      {
+        "url": "",
+        "label": "Swiss Military Unisex Camouflage Backpack | Flat 58% off + Coupons"
+      },
+      {
+        "url": "",
+        "label": "Under 999/"
+      },
+      {
+        "url": "https://myntr.in/KturKn",
+        "label": "1419/"
+      },
+      {
+        "url": "https://myntr.in/ajreQ2",
+        "label": "1419/"
+      }
+    ],
+    "raw_text": "Myntra | Swiss Military Unisex Camouflage Backpack | Flat 58% off + Coupons\n\nBFF Effective Price - Under 999/-\n\nRegular price - 1419/-\n\nLink 1 - https://myntr.in/KturKn\n\nLink 2 - https://myntr.in/ajreQ2",
+    "final_url": "https://myntr.in/KturKn",
+    "local_image": "assets/images/tgmsg_9958.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-02T08:20:20+00:00",
+    "buy_link": "https://myntr.in/KturKn",
+    "date_iso": "2025-10-02T08:20:20+00:00"
+  },
+  {
     "id": "msg9951",
     "title": "Mi 20000 mAh 33 W Power Bank",
     "description": "Flipkart | Mi 20000 mAh 33 W Power Bank @1452₹(With offer) 👉https://fkrt.co/Cdba5B",
@@ -4934,39 +4990,5 @@
     "date_obj": "2025-09-30T19:25:44+00:00",
     "buy_link": "https://myntr.in/JoCcJi",
     "date_iso": "2025-09-30T19:25:44+00:00"
-  },
-  {
-    "id": "msg9589",
-    "title": "Starting 99 + additional 15%",
-    "description": "Myntra | Handbags Legal bribe, Bandicoot  coupon",
-    "shortlink": "https://myntr.in/psxUdN",
-    "urls": [
-      "https://myntr.in/psxUdN"
-    ],
-    "raw_text": "Myntra | Handbags    \nLegal bribe, Bandicoot    \nStarting 99 + additional 15% coupon\n\nhttps://myntr.in/psxUdN",
-    "final_url": "https://myntr.in/psxUdN",
-    "local_image": "assets/images/tgmsg_9589.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-30T19:29:48+00:00",
-    "buy_link": "https://myntr.in/psxUdN",
-    "date_iso": "2025-09-30T19:29:48+00:00"
-  },
-  {
-    "id": "msg9590",
-    "title": "Min 60% off + additional 15%",
-    "description": "Myntra | Handbags The Tan Clan  coupon",
-    "shortlink": "https://myntr.in/nkrHkP",
-    "urls": [
-      "https://myntr.in/nkrHkP"
-    ],
-    "raw_text": "Myntra | Handbags The Tan Clan\n\nMin 60% off + additional 15% coupon\n\nhttps://myntr.in/nkrHkP",
-    "final_url": "https://myntr.in/nkrHkP",
-    "local_image": "assets/images/tgmsg_9590.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-30T19:31:56+00:00",
-    "buy_link": "https://myntr.in/nkrHkP",
-    "date_iso": "2025-09-30T19:31:56+00:00"
   }
 ]
