@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg9998",
+    "title": "Min 74% Off On Raymond Home Blanket",
+    "description": "Myntra | Min 74% Off On Raymond Home Blankets 👉Link : https://myntr.in/TIcJD4",
+    "shortlink": "https://myntr.in/TIcJD4",
+    "urls": [
+      {
+        "url": "https://myntr.in/TIcJD4",
+        "label": "Min 74% Off On Raymond Home Blankets"
+      }
+    ],
+    "raw_text": "Myntra | Min 74% Off On Raymond Home Blankets \n \n👉Link : https://myntr.in/TIcJD4",
+    "final_url": "https://myntr.in/TIcJD4",
+    "local_image": "assets/images/tgmsg_9998.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-02T11:05:07+00:00",
+    "buy_link": "https://myntr.in/TIcJD4",
+    "date_iso": "2025-10-02T11:05:07+00:00"
+  },
+  {
     "id": "msg9990",
     "title": "🛒 Deal Price Up to 79% Off",
     "description": "Amazon | 🎒 Aristocrat Luggage & Duffel Bags - Up to 79% Off 🛒 Deal Price: Up to 79% Off 👉",
@@ -5215,22 +5235,5 @@
     "date_obj": "2025-09-30T20:28:30+00:00",
     "buy_link": "https://fkrt.co/S58o5P",
     "date_iso": "2025-09-30T20:28:30+00:00"
-  },
-  {
-    "id": "msg9602",
-    "title": "iQOO Z10x 5G (6GB RAM, 128GB Storage) @12,998",
-    "description": "Amazon | . 👉",
-    "shortlink": "https://www.amazon.in/dp/B0F2T7B9TM?tag=bestpricezo0f-21",
-    "urls": [
-      "https://www.amazon.in/dp/B0F2T7B9TM?tag=bestpricezo0f-21"
-    ],
-    "raw_text": "Amazon | iQOO Z10x 5G (6GB RAM, 128GB Storage) @12,998.\n\n👉https://www.amazon.in/dp/B0F2T7B9TM?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F2T7B9TM?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9602.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-30T20:33:08+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F2T7B9TM?tag=bestpricezo0f-21",
-    "date_iso": "2025-09-30T20:33:08+00:00"
   }
 ]
