@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg9951",
+    "title": "Mi 20000 mAh 33 W Power Bank",
+    "description": "Flipkart | Mi 20000 mAh 33 W Power Bank @1452₹(With offer) 👉https://fkrt.co/Cdba5B",
+    "shortlink": "https://fkrt.co/Cdba5B",
+    "urls": [
+      {
+        "url": "",
+        "label": "Mi 20000 mAh 33 W Power Bank"
+      },
+      {
+        "url": "https://fkrt.co/Cdba5B",
+        "label": "@1452₹(With offer)"
+      }
+    ],
+    "raw_text": "Flipkart | Mi 20000 mAh 33 W Power Bank \n\n@1452₹(With offer)\n\n👉https://fkrt.co/Cdba5B",
+    "final_url": "https://fkrt.co/Cdba5B",
+    "local_image": "assets/images/tgmsg_9951.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-02T07:54:37+00:00",
+    "buy_link": "https://fkrt.co/Cdba5B",
+    "date_iso": "2025-10-02T07:54:37+00:00"
+  },
+  {
     "id": "msg9949",
     "title": "FAST",
     "description": "LOOT FAST. https://fkrt.co/bETmpv",
@@ -4944,28 +4968,5 @@
     "date_obj": "2025-09-30T19:31:56+00:00",
     "buy_link": "https://myntr.in/nkrHkP",
     "date_iso": "2025-09-30T19:31:56+00:00"
-  },
-  {
-    "id": "msg9553",
-    "title": "Use Code BFFOP10 To Get Extra 10 % Off!",
-    "description": "Myntra | 🔥OnePlus Lowest Prices Ever🔥 ONLY FOR FEW Hours OnePlus Nord Buds 2r at Rs. 1231 only! Use Coupon Code: BFFOP12 to get 12% Off!  OnePlus Nord Buds 3r Only at Rs. 1439 + Bank offers!! Use Coupon Code: BFFOP10 To…",
-    "shortlink": "https://myntr.in/X9QSk0",
-    "urls": [
-      "https://myntr.in/X9QSk0",
-      "https://myntr.in/7GbmYj",
-      "https://myntr.in/KXY5lK",
-      "https://myntr.in/AoM5TY",
-      "https://myntr.in/9k92Wd",
-      "https://myntr.in/uf7soD",
-      "https://myntr.in/Z9k3tk"
-    ],
-    "raw_text": "Myntra | 🔥OnePlus Lowest Prices Ever🔥  ONLY FOR FEW Hours\n\nOnePlus Nord Buds 2r at Rs. 1231 only!\nUse Coupon Code: BFFOP12 to get 12% Off!\nhttps://myntr.in/X9QSk0\n\nOnePlus Nord Buds 3r Only at Rs. 1439 + Bank offers!!\nUse Coupon Code: BFFOP10 To Get Extra 10 % Off!\nhttps://myntr.in/7GbmYj\n\nOnePlus Bullets Z2 ANC at Rs. 1410 only!\nUse Coupon Code: BFFOP17 to get 17% Off!\nhttps://myntr.in/KXY5lK\n\nOnePlus Nord Buds 3 Pro Only at Rs. 2111 + Bank offers!!\nUse Coupon Code:BFFOP12 To Get Extra 12% Off!\nhttps://myntr.in/AoM5TY\n\nOnePlus Wireless Z3 at Rs. 1169 only!\nUse Coupon Code: BFFOP10 to get 10% Off!\nhttps://myntr.in/9k92Wd\n\nOnePlus Nord Buds 3 Only at Rs. 1565 + Bank offers!!\nUse Coupon Code: BFFOP13 To Get Extra 13 % Off!\nhttps://myntr.in/uf7soD\n\nOnePlus Bullets Z2 at Rs. 1049 only + Bank Offers!\nUse Coupon Code: BFFOP16 to get 16% Off!\nhttps://myntr.in/Z9k3tk",
-    "final_url": "https://myntr.in/X9QSk0",
-    "local_image": "assets/images/tgmsg_9553.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-30T18:55:22+00:00",
-    "buy_link": "https://myntr.in/X9QSk0",
-    "date_iso": "2025-09-30T18:55:22+00:00"
   }
 ]
