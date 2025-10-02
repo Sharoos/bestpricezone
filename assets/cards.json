@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg9941",
+    "title": "Up to 60% Off On Head & Shoulder Shampoo",
+    "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos. https://fkrt.co/iNVf4c",
+    "shortlink": "https://fkrt.co/iNVf4c",
+    "urls": [
+      {
+        "url": "https://fkrt.co/iNVf4c",
+        "label": "Upto 60% Off On Head & Shoulder Shampoos"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos.\n\nhttps://fkrt.co/iNVf4c",
+    "final_url": "https://fkrt.co/iNVf4c",
+    "local_image": "assets/images/tgmsg_9941.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-02T06:51:35+00:00",
+    "buy_link": "https://fkrt.co/iNVf4c",
+    "date_iso": "2025-10-02T06:51:35+00:00"
+  },
+  {
     "id": "msg9936",
     "title": "Up to 80% Off On DNMX Clothing",
     "description": "AJIO LOOT : Upto 80% Off On DNMX Clothing. Men’s👇. T-Shirts : Jeans : Shirts : Sweaters & Cardigans : Sweatshirt & Hoodies : Shorts : Trousers & Jogger : Women's👇. T-shirts : Shirts & Tops : Jeans & Jeggings :…",
@@ -4866,22 +4886,5 @@
     "date_obj": "2025-09-30T19:03:22+00:00",
     "buy_link": "https://fkrt.co/MSTBKh",
     "date_iso": "2025-09-30T19:03:22+00:00"
-  },
-  {
-    "id": "msg9559",
-    "title": "Apply 26% off @108",
-    "description": "Amazon | Apply 26% off Coupon : @108",
-    "shortlink": "https://www.amazon.in/dp/B0CW9SLXXL?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      "https://www.amazon.in/dp/B0CW9SLXXL?th=1&psc=1&tag=bestpricezo0f-21"
-    ],
-    "raw_text": "Amazon | Apply 26% off Coupon : @108   \n\nhttps://www.amazon.in/dp/B0CW9SLXXL?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CW9SLXXL?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9559.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-30T19:04:07+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CW9SLXXL?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-09-30T19:04:07+00:00"
   }
 ]
