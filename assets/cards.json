@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg10002",
+    "title": "Up to 75% Off On Levi's Clothing",
+    "description": "Ajio Loot | Upto 75% Off On Levi's Clothing Women's : Jeans : Men's : Jeans : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!",
+    "shortlink": "https://ajiio.co/eaBw3Z",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On Levi's Clothing"
+      },
+      {
+        "url": "https://ajiio.co/eaBw3Z",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/kGSkxS",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/2OlMzP",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/TzQMRA",
+        "label": "Jeans"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!"
+      }
+    ],
+    "raw_text": "Ajio Loot | Upto 75% Off On Levi's Clothing\n\nWomen's : https://ajiio.co/eaBw3Z\nJeans : https://ajiio.co/kGSkxS\n\nMen's : https://ajiio.co/2OlMzP\nJeans : https://ajiio.co/TzQMRA\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!",
+    "final_url": "https://ajiio.co/eaBw3Z",
+    "local_image": "assets/images/tgmsg_10002.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-02T11:15:10+00:00",
+    "buy_link": "https://ajiio.co/eaBw3Z",
+    "date_iso": "2025-10-02T11:15:10+00:00"
+  },
+  {
     "id": "msg9998",
     "title": "Min 74% Off On Raymond Home Blanket",
     "description": "Myntra | Min 74% Off On Raymond Home Blankets 👉Link : https://myntr.in/TIcJD4",
@@ -5218,22 +5258,5 @@
     "date_obj": "2025-10-01T03:41:28+00:00",
     "buy_link": "https://myntr.in/rX8TPt",
     "date_iso": "2025-10-01T03:41:28+00:00"
-  },
-  {
-    "id": "msg9601",
-    "title": "Up to 60% Off On Head & Shoulder Shampoo",
-    "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos.",
-    "shortlink": "https://fkrt.co/S58o5P",
-    "urls": [
-      "https://fkrt.co/S58o5P"
-    ],
-    "raw_text": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos.\n\nhttps://fkrt.co/S58o5P",
-    "final_url": "https://fkrt.co/S58o5P",
-    "local_image": "assets/images/tgmsg_9601.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-09-30T20:28:30+00:00",
-    "buy_link": "https://fkrt.co/S58o5P",
-    "date_iso": "2025-09-30T20:28:30+00:00"
   }
 ]
