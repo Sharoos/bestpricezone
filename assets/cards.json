@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg9949",
+    "title": "FAST",
+    "description": "LOOT FAST. https://fkrt.co/bETmpv",
+    "shortlink": "https://fkrt.co/bETmpv",
+    "urls": [
+      {
+        "url": "https://fkrt.co/bETmpv",
+        "label": "LOOT FAST"
+      }
+    ],
+    "raw_text": "LOOT FAST. \n\nhttps://fkrt.co/bETmpv",
+    "final_url": "https://fkrt.co/bETmpv",
+    "local_image": "assets/images/tgmsg_9949.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-02T07:42:50+00:00",
+    "buy_link": "https://fkrt.co/bETmpv",
+    "date_iso": "2025-10-02T07:42:50+00:00"
+  },
+  {
     "id": "msg9944",
     "title": "Up to 70% Off On Premium Brands Clothing + Extra 10% Super Cash",
     "description": "AJIO Loot : Upto 70% Off On Premium Brands Clothing + Extra 10% Super Cash. 70% Off On GAS : Men : Women : Upto 68% Off On SUPERDRY : Men : Women : Min. 50% Off On GAP : Women : Men : Boys : Girls : Upto 65% Off On…",
@@ -4947,28 +4967,5 @@
     "date_obj": "2025-09-30T18:55:22+00:00",
     "buy_link": "https://myntr.in/X9QSk0",
     "date_iso": "2025-09-30T18:55:22+00:00"
-  },
-  {
-    "id": "msg9554",
-    "title": "CMF by Nothing Buds 2 Plus at Rs. 2199 only!!",
-    "description": "CMF By Nothing Deals live in Myntra BFF!! CMF by Nothing Buds 2 at Rs. 1899 only!! 👉  👉 CMF by Nothing Buds Pro 2 at Rs. 2799 only!! 👉 CMF by Neckband Pro at Rs. 1599 only!! 👉 CMF by Watch Pro 2 at Rs. 3799 only!! 👉 CMF…",
-    "shortlink": "https://myntr.in/k6MPL7",
-    "urls": [
-      "https://myntr.in/k6MPL7",
-      "https://myntr.in/nGjF1M",
-      "https://myntr.in/phJuc2",
-      "https://myntr.in/WQwpLx",
-      "https://myntr.in/qpa6Rm",
-      "https://myntr.in/UyTMMd",
-      "https://myntr.in/tHDLvx"
-    ],
-    "raw_text": "CMF By Nothing Deals live in Myntra BFF!!\n\nCMF by Nothing Buds 2 at Rs. 1899 only!!\n👉https://myntr.in/k6MPL7\n\nCMF by Nothing Buds 2 Plus at Rs. 2199 only!!\n👉https://myntr.in/nGjF1M\n\nCMF by Nothing Buds Pro 2 at Rs. 2799 only!!\n👉https://myntr.in/phJuc2\n\nCMF by Neckband Pro at Rs. 1599 only!!\n👉https://myntr.in/WQwpLx\n\nCMF by Watch Pro 2 at Rs. 3799 only!!\n👉https://myntr.in/qpa6Rm\n\nCMF by Watch Pro at Rs. 3199 only!!\n👉https://myntr.in/UyTMMd\n\nNothing Ear Buds at Rs. 7299 only!!\n👉https://myntr.in/tHDLvx",
-    "final_url": "https://myntr.in/k6MPL7",
-    "local_image": "assets/images/tgmsg_9554.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-30T18:56:52+00:00",
-    "buy_link": "https://myntr.in/k6MPL7",
-    "date_iso": "2025-09-30T18:56:52+00:00"
   }
 ]
