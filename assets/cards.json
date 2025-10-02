@@ -1,5 +1,97 @@
 [
   {
+    "id": "msg9923",
+    "title": "boAt 10000 mAh 22.5W Power Bank @799",
+    "description": "Flipkart | boAt 10000 mAh 22.5W Power Bank @799 👉https://fkrt.co/FoZcIN Mi by Xiaomi Beard 2C Trimmer At Rs.999 👉 https://fkrt.co/UjatKi",
+    "shortlink": "https://fkrt.co/FoZcIN",
+    "urls": [
+      {
+        "url": "https://fkrt.co/FoZcIN",
+        "label": "boAt 10000 mAh 22.5W Power Bank @799"
+      },
+      {
+        "url": "https://fkrt.co/UjatKi",
+        "label": "Mi by Xiaomi Beard 2C Trimmer At Rs.999"
+      }
+    ],
+    "raw_text": "Flipkart | boAt 10000 mAh 22.5W Power Bank @799\n\n👉https://fkrt.co/FoZcIN\n\nMi by Xiaomi Beard 2C Trimmer At Rs.999\n\n👉 https://fkrt.co/UjatKi",
+    "final_url": "https://fkrt.co/FoZcIN",
+    "local_image": "assets/images/tgmsg_9923.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-02T05:21:32+00:00",
+    "buy_link": "https://fkrt.co/FoZcIN",
+    "date_iso": "2025-10-02T05:21:32+00:00"
+  },
+  {
+    "id": "msg9925",
+    "title": "Up to 80% Off On Branded Watche",
+    "description": "Flipkart | Upto 80% Off On Branded Watches. Casio : Van Heusen : Allen Solly : Peter England : Maxima : Fastrack : FCUK :",
+    "shortlink": "https://fkrt.co/HpqJ9k",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On Branded Watches"
+      },
+      {
+        "url": "https://fkrt.co/HpqJ9k",
+        "label": "Casio"
+      },
+      {
+        "url": "https://fkrt.co/ZVZzi1",
+        "label": "Van Heusen"
+      },
+      {
+        "url": "https://fkrt.co/ettKtk",
+        "label": "Allen Solly"
+      },
+      {
+        "url": "https://fkrt.co/xsA40j",
+        "label": "Peter England"
+      },
+      {
+        "url": "https://fkrt.co/gk8d6N",
+        "label": "Maxima"
+      },
+      {
+        "url": "https://fkrt.co/uMIDHh",
+        "label": "Fastrack"
+      },
+      {
+        "url": "https://fkrt.co/H0t2f5",
+        "label": "FCUK"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 80% Off On Branded Watches.\n\nCasio : https://fkrt.co/HpqJ9k\nVan Heusen : https://fkrt.co/ZVZzi1\nAllen Solly : https://fkrt.co/ettKtk\nPeter England : https://fkrt.co/xsA40j\nMaxima : https://fkrt.co/gk8d6N\nFastrack : https://fkrt.co/uMIDHh\nFCUK : https://fkrt.co/H0t2f5",
+    "final_url": "https://fkrt.co/HpqJ9k",
+    "local_image": "assets/images/tgmsg_9925.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-02T05:31:49+00:00",
+    "buy_link": "https://fkrt.co/HpqJ9k",
+    "date_iso": "2025-10-02T05:31:49+00:00"
+  },
+  {
+    "id": "msg9926",
+    "title": "BLACK+DECKER 650W 4''/100mm Angle Grinder (Corded) at ₹1,509",
+    "description": "Loot: BLACK+DECKER 650W 4''/100mm Angle Grinder (Corded) at ₹1,509 https://www.amazon.in/dp/B07BWQRGYT?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B07BWQRGYT?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B07BWQRGYT?tag=bestpricezo0f-21",
+        "label": "BLACK+DECKER 650W 4''/100mm Angle Grinder (Corded) at ₹1,509"
+      }
+    ],
+    "raw_text": "Loot: BLACK+DECKER 650W 4''/100mm Angle Grinder (Corded) at ₹1,509\n\nhttps://www.amazon.in/dp/B07BWQRGYT?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B07BWQRGYT?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_9926.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-02T05:32:32+00:00",
+    "buy_link": "https://www.amazon.in/dp/B07BWQRGYT?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-02T05:32:32+00:00"
+  },
+  {
     "id": "msg9920",
     "title": "✅ Little Angel Easy Dry Diaper Pants (Size L, 62 Pieces) @ 329",
     "description": "✅ Loot : Little Angel Easy Dry Diaper Pants (Size L, 62 Pieces) @ 329 *Lowest Price Of The Year MasterLink : Cuddles, Cetaphil, Himalaya & More Upto 80% Off + Bank Offer",
@@ -4686,58 +4778,5 @@
     "date_obj": "2025-09-30T19:08:22+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F2FPC11M?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-09-30T19:08:22+00:00"
-  },
-  {
-    "id": "msg9568",
-    "title": "Liberty Leap7x Mens AMBASDOR Sports Lacing Shoes @589",
-    "description": "Amazon |",
-    "shortlink": "https://www.amazon.in/dp/B0BG5NTCHZ?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      "https://www.amazon.in/dp/B0BG5NTCHZ?psc=1&tag=bestpricezo0f-21"
-    ],
-    "raw_text": "Amazon | Liberty Leap7x Mens AMBASDOR Sports Lacing Shoes @589\n\nhttps://www.amazon.in/dp/B0BG5NTCHZ?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BG5NTCHZ?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9568.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-30T19:09:15+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BG5NTCHZ?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-09-30T19:09:15+00:00"
-  },
-  {
-    "id": "msg9569",
-    "title": "649",
-    "description": "Amazon | Grab  :",
-    "shortlink": "https://www.amazon.in/dp/B0BV27SM1C?tag=bestpricezo0f-21",
-    "urls": [
-      "https://www.amazon.in/dp/B0BV27SM1C?tag=bestpricezo0f-21"
-    ],
-    "raw_text": "Amazon | Grab 649 : https://www.amazon.in/dp/B0BV27SM1C?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BV27SM1C?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9569.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-30T19:09:42+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BV27SM1C?tag=bestpricezo0f-21",
-    "date_iso": "2025-09-30T19:09:42+00:00"
-  },
-  {
-    "id": "msg9570",
-    "title": "1099",
-    "description": "Amazon |",
-    "shortlink": "https://www.amazon.in/dp/B0CT3K11PV?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      "https://www.amazon.in/dp/B0CT3K11PV?th=1&psc=1&tag=bestpricezo0f-21",
-      "https://www.amazon.in/dp/B0CH8K6FD3?th=1&psc=1&tag=bestpricezo0f-21",
-      "https://www.amazon.in/dp/B0CH8KX2MQ?th=1&psc=1&tag=bestpricezo0f-21"
-    ],
-    "raw_text": "Amazon | 1099\n\nhttps://www.amazon.in/dp/B0CT3K11PV?th=1&psc=1&tag=bestpricezo0f-21\nhttps://www.amazon.in/dp/B0CH8K6FD3?th=1&psc=1&tag=bestpricezo0f-21\nhttps://www.amazon.in/dp/B0CH8KX2MQ?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CT3K11PV?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9570.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-09-30T19:10:10+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CT3K11PV?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-09-30T19:10:10+00:00"
   }
 ]
