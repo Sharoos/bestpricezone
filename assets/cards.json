@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg9962",
+    "title": "🎒 Genie Combo! 4 Backpacks – Under ₹499 Each 😍",
+    "description": "Myntra | 🎒 Genie Combo! 4 Backpacks – Under ₹499 Each 😍 👉Link - https://myntr.in/ms6Iwt Hurry, stocks won’t last long!",
+    "shortlink": "https://myntr.in/ms6Iwt",
+    "urls": [
+      {
+        "url": "https://myntr.in/ms6Iwt",
+        "label": "🎒 Genie Combo! 4 Backpacks – Under ₹499 Each 😍"
+      },
+      {
+        "url": "",
+        "label": "Hurry, stocks won’t last long!"
+      }
+    ],
+    "raw_text": "Myntra | 🎒 Genie Combo! 4 Backpacks – Under ₹499 Each 😍\n\n👉Link - https://myntr.in/ms6Iwt\n\nHurry, stocks won’t last long!",
+    "final_url": "https://myntr.in/ms6Iwt",
+    "local_image": "assets/images/tgmsg_9962.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-02T08:40:17+00:00",
+    "buy_link": "https://myntr.in/ms6Iwt",
+    "date_iso": "2025-10-02T08:40:17+00:00"
+  },
+  {
     "id": "msg9954",
     "title": "🛒 Deal Price ₹269 (82% off)",
     "description": "Amazon | Michael Angelo Men's MA-2229 Formal Shoes 🛒 Deal Price : ₹269 (82% off) 👉",
@@ -4973,22 +4997,5 @@
     "date_obj": "2025-09-30T19:24:40+00:00",
     "buy_link": "https://myntr.in/mqJb6y",
     "date_iso": "2025-09-30T19:24:40+00:00"
-  },
-  {
-    "id": "msg9588",
-    "title": "Min 70% on Exotic Womens handbag",
-    "description": "Myntra | s Limited hour deal !! Link :",
-    "shortlink": "https://myntr.in/JoCcJi",
-    "urls": [
-      "https://myntr.in/JoCcJi"
-    ],
-    "raw_text": "Myntra | Min 70% on Exotic Womens handbags\n\nLimited hour deal !!\n\nLink : https://myntr.in/JoCcJi",
-    "final_url": "https://myntr.in/JoCcJi",
-    "local_image": "assets/images/tgmsg_9588.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-09-30T19:25:44+00:00",
-    "buy_link": "https://myntr.in/JoCcJi",
-    "date_iso": "2025-09-30T19:25:44+00:00"
   }
 ]
