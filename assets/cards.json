@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg10137",
+    "title": "Up to 89% Off On HRX Footwea",
+    "description": "Myntra : Upto 89% Off On HRX Footwear. Men's : https://myntr.in/EuWfiC Women's : https://myntr.in/KhnWzH Shoes : https://myntr.in/wFp5yY",
+    "shortlink": "https://myntr.in/EuWfiC",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 89% Off On HRX Footwear"
+      },
+      {
+        "url": "https://myntr.in/EuWfiC",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/KhnWzH",
+        "label": "Women's"
+      },
+      {
+        "url": "https://myntr.in/wFp5yY",
+        "label": "Shoes"
+      }
+    ],
+    "raw_text": "Myntra : Upto 89% Off On HRX Footwear.\n\nMen's : https://myntr.in/EuWfiC\nWomen's : https://myntr.in/KhnWzH\nShoes : https://myntr.in/wFp5yY",
+    "final_url": "https://myntr.in/EuWfiC",
+    "local_image": "assets/images/tgmsg_10137.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-02T17:31:34+00:00",
+    "buy_link": "https://myntr.in/EuWfiC",
+    "date_iso": "2025-10-02T17:31:34+00:00"
+  },
+  {
     "id": "msg10133",
     "title": "Up to 80% Off On Branded Clothing",
     "description": "AJIO Loot : Upto 80% Off On Branded Clothing. Men's : Shirts : Jeans : T-shirts : Jackets : Sweatshirts : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
@@ -5854,22 +5886,5 @@
     "date_obj": "2025-10-01T14:03:54+00:00",
     "buy_link": "https://fkrt.co/T4urdo",
     "date_iso": "2025-10-01T14:03:54+00:00"
-  },
-  {
-    "id": "msg9746",
-    "title": "Carbamide Forte 5X Strength Omega 3 Fish Oil Capsules At 569",
-    "description": "",
-    "shortlink": "https://www.amazon.in/dp/B0F4DHLH97?tag=bestpricezo0f-21",
-    "urls": [
-      "https://www.amazon.in/dp/B0F4DHLH97?tag=bestpricezo0f-21"
-    ],
-    "raw_text": "Carbamide Forte 5X Strength Omega 3 Fish Oil Capsules At 569\n\nhttps://www.amazon.in/dp/B0F4DHLH97?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F4DHLH97?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9746.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-01T14:09:37+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F4DHLH97?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-01T14:09:37+00:00"
   }
 ]
