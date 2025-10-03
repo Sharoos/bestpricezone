@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg10190",
+    "title": "Wild Stone Perfume, 120ml @125",
+    "description": "Myntra : Wild Stone Perfume, 120ml @125 https://myntr.in/0ADl4o",
+    "shortlink": "https://myntr.in/0ADl4o",
+    "urls": [
+      {
+        "url": "https://myntr.in/0ADl4o",
+        "label": "Wild Stone Perfume, 120ml @125"
+      }
+    ],
+    "raw_text": "Myntra : Wild Stone Perfume, 120ml @125\n\nhttps://myntr.in/0ADl4o",
+    "final_url": "https://myntr.in/0ADl4o",
+    "local_image": "assets/images/tgmsg_10190.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-03T03:33:48+00:00",
+    "buy_link": "https://myntr.in/0ADl4o",
+    "date_iso": "2025-10-03T03:33:48+00:00"
+  },
+  {
+    "id": "msg10191",
+    "title": "Up to 88% Off On Kook N Keech Clothing",
+    "description": "Myntra : Upto 88% Off On Kook N Keech Clothing. Men's : Womens : Here & Now Men's Clothing Starts @165. 👉",
+    "shortlink": "https://myntr.in/fI4xNm",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 88% Off On Kook N Keech Clothing"
+      },
+      {
+        "url": "https://myntr.in/fI4xNm",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/E8CT49",
+        "label": "Womens"
+      },
+      {
+        "url": "https://myntr.in/EzLYDG",
+        "label": "Here & Now Men's Clothing Starts @165"
+      }
+    ],
+    "raw_text": "Myntra : Upto 88% Off On Kook N Keech Clothing.\n\nMen's : https://myntr.in/fI4xNm\nWomens : https://myntr.in/E8CT49\n\nHere & Now Men's Clothing Starts @165.\n\n👉https://myntr.in/EzLYDG",
+    "final_url": "https://myntr.in/fI4xNm",
+    "local_image": "assets/images/tgmsg_10191.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-03T03:41:35+00:00",
+    "buy_link": "https://myntr.in/fI4xNm",
+    "date_iso": "2025-10-03T03:41:35+00:00"
+  },
+  {
     "id": "msg10188",
     "title": "Lux Soaps Less than Half Rate (Up to 57% Off)",
     "description": "Myntra | Lux Soaps Less than Half Rate (Upto 57% Off) https://myntr.in/l6m03f",
@@ -5754,45 +5806,5 @@
     "date_obj": "2025-10-01T18:20:47+00:00",
     "buy_link": "https://fkrt.co/shEhpV",
     "date_iso": "2025-10-01T18:20:47+00:00"
-  },
-  {
-    "id": "msg9835",
-    "title": "Track Pant (Pack of 2) @375",
-    "description": "Loot : Track Pant (Pack of 2) @375. https://fkrt.co/SdDlsY",
-    "shortlink": "https://fkrt.co/SdDlsY",
-    "urls": [
-      {
-        "url": "https://fkrt.co/SdDlsY",
-        "label": "Track Pant (Pack of 2) @375"
-      }
-    ],
-    "raw_text": "Loot : Track Pant (Pack of 2) @375.\n\nhttps://fkrt.co/SdDlsY",
-    "final_url": "https://fkrt.co/SdDlsY",
-    "local_image": "assets/images/tgmsg_9835.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-01T18:30:37+00:00",
-    "buy_link": "https://fkrt.co/SdDlsY",
-    "date_iso": "2025-10-01T18:30:37+00:00"
-  },
-  {
-    "id": "msg9836",
-    "title": "Redmi Buds 6 @1,999",
-    "description": "Amazon | Redmi Buds 6 @1,999 https://www.amazon.in/dp/B0DN6S19M8?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DN6S19M8?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DN6S19M8?th=1&tag=bestpricezo0f-21",
-        "label": "Redmi Buds 6 @1,999"
-      }
-    ],
-    "raw_text": "Amazon | Redmi Buds 6 @1,999\n\nhttps://www.amazon.in/dp/B0DN6S19M8?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DN6S19M8?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9836.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-01T18:32:12+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DN6S19M8?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-01T18:32:12+00:00"
   }
 ]
