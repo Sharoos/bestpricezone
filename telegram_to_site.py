@@ -1597,7 +1597,7 @@ __BANNER_HTML__
 
   </div>
   </div>
-  <div class="bottom">© 2025 BestPriceZone. All rights reserved.</div>
+  <div class="bottom">Deals are collected from other stores — not sold here. Please shop carefully. © 2025 BestPriceZone. All rights reserved.</div>
 </footer>
 
   <!-- modal -->
@@ -3014,4 +3014,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
