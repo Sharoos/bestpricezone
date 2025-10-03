@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg10298",
+    "title": "Up to 80% Off on Roadster Jean",
+    "description": "Myntra  Upto 80% Off on Roadster Jeans Women : https://myntr.in/VUOVAw Men : https://myntr.in/f6N3ZQ",
+    "shortlink": "https://myntr.in/VUOVAw",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Upto 80% Off on Roadster Jeans"
+      },
+      {
+        "url": "https://myntr.in/VUOVAw",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/f6N3ZQ",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "Myntra  Upto 80% Off on Roadster Jeans \n\nWomen : https://myntr.in/VUOVAw\nMen : https://myntr.in/f6N3ZQ",
+    "final_url": "https://myntr.in/VUOVAw",
+    "local_image": "assets/images/tgmsg_10298.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-03T17:56:11+00:00",
+    "buy_link": "https://myntr.in/VUOVAw",
+    "date_iso": "2025-10-03T17:56:11+00:00"
+  },
+  {
+    "id": "msg10299",
+    "title": "Top Brands Luggage Starts at Rs.1149",
+    "description": "Myntra : Top Brands Luggage Starts at Rs.1149 Small : https://myntr.in/QfUdT6 Medium : https://myntr.in/WFVsbz Large : https://myntr.in/eyODuv Set Of 2 & 3 : https://myntr.in/VPEOVU",
+    "shortlink": "https://myntr.in/QfUdT6",
+    "urls": [
+      {
+        "url": "",
+        "label": "Top Brands Luggage Starts at Rs.1149"
+      },
+      {
+        "url": "https://myntr.in/QfUdT6",
+        "label": "Small"
+      },
+      {
+        "url": "https://myntr.in/WFVsbz",
+        "label": "Medium"
+      },
+      {
+        "url": "https://myntr.in/eyODuv",
+        "label": "Large"
+      },
+      {
+        "url": "https://myntr.in/VPEOVU",
+        "label": "Set Of 2 & 3"
+      }
+    ],
+    "raw_text": "Myntra : Top Brands Luggage Starts at Rs.1149\n\nSmall : https://myntr.in/QfUdT6\nMedium : https://myntr.in/WFVsbz\nLarge : https://myntr.in/eyODuv\n\nSet Of 2 & 3 : https://myntr.in/VPEOVU",
+    "final_url": "https://myntr.in/QfUdT6",
+    "local_image": "assets/images/tgmsg_10299.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-03T18:11:03+00:00",
+    "buy_link": "https://myntr.in/QfUdT6",
+    "date_iso": "2025-10-03T18:11:03+00:00"
+  },
+  {
     "id": "msg10297",
     "title": "1kg Peanut Butter @ ₹214",
     "description": "Amazon | 1kg Peanut Butter @ ₹214 👉https://www.amazon.in/dp/B0D3HR194F?tag=bestpricezo0f-21",
