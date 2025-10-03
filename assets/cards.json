@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg10229",
+    "title": "💥 Grocery Up to 92% Off",
+    "description": "💥 Flipkart Grocery : Upto 92% Off Link 1 : Link 2 : Link 3 : Availiable for Selected Locations ✔️",
+    "shortlink": "https://fktr.in/6hin4Ww",
+    "urls": [
+      {
+        "url": "https://fktr.in/6hin4Ww",
+        "label": "💥 Flipkart Grocery : Upto 92% Off"
+      },
+      {
+        "url": "https://fktr.in/UZMPWBE",
+        "label": "💥 Flipkart Grocery : Upto 92% Off"
+      },
+      {
+        "url": "https://fktr.in/8mAoh4I",
+        "label": "💥 Flipkart Grocery : Upto 92% Off"
+      },
+      {
+        "url": "",
+        "label": "Availiable for Selected Locations ✔️"
+      }
+    ],
+    "raw_text": "💥 Flipkart Grocery : Upto 92% Off \n\nLink 1 :   https://fktr.in/6hin4Ww\nLink 2 :   https://fktr.in/UZMPWBE\nLink 3 :   https://fktr.in/8mAoh4I\n\nAvailiable for Selected Locations ✔️",
+    "final_url": "https://fktr.in/6hin4Ww",
+    "local_image": "assets/images/tgmsg_10229.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-03T09:37:13+00:00",
+    "buy_link": "https://fktr.in/6hin4Ww",
+    "date_iso": "2025-10-03T09:37:13+00:00"
+  },
+  {
+    "id": "msg10230",
+    "title": "Buds VS404 at 789",
+    "description": "Myntra | Buds VS404 at 789 👉https://myntr.in/jLGmnL",
+    "shortlink": "https://myntr.in/jLGmnL",
+    "urls": [
+      {
+        "url": "https://myntr.in/jLGmnL",
+        "label": "Buds VS404 at 789"
+      }
+    ],
+    "raw_text": "Myntra | Buds VS404 at 789\n\n👉https://myntr.in/jLGmnL",
+    "final_url": "https://myntr.in/jLGmnL",
+    "local_image": "assets/images/tgmsg_10230.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-03T09:38:14+00:00",
+    "buy_link": "https://myntr.in/jLGmnL",
+    "date_iso": "2025-10-03T09:38:14+00:00"
+  },
+  {
     "id": "msg10227",
     "title": "keywords=B0FGVK69QV%257CB08KNYZ1N5%257CB0D5QLMJPK&qid=1759469978&ds=v1%253AJQyO6xjp5gMlufRnNv52S0HAPwSZp%252FGUbm%252BXeQp%252Fyhg&tag=bestp",
     "description": "Amazon | Led String/Strip Light Starts @ ₹284 + Coupon.…",
