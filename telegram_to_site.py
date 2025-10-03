@@ -21,7 +21,7 @@ Optional env:
   HERO_HEIGHT (CSS height value, default '160px')
 
 Added env:
-  MAX_KEEP (default 200) -> keep exactly this many cards/images after each run
+  MAX_KEEP (default 500) -> keep exactly this many cards/images after each run
 """
 import os
 import re
@@ -68,11 +68,11 @@ TG_API_HASH = os.environ.get("TG_API_HASH")
 TG_STRING_SESSION = os.environ.get("TG_STRING_SESSION")
 CHANNEL = os.environ.get("CHANNEL_USERNAME")
 
-TARGET_CARDS = int(os.environ.get("TARGET_CARDS", "100"))
-MAX_SCAN_MESSAGES = int(os.environ.get("MAX_SCAN_MESSAGES", "1000"))
+TARGET_CARDS = int(os.environ.get("TARGET_CARDS", "500"))
+MAX_SCAN_MESSAGES = int(os.environ.get("MAX_SCAN_MESSAGES", "3000"))
 
 # NEW: how many cards to keep on every run (default 200)
-MAX_KEEP = int(os.environ.get("MAX_KEEP", "200"))
+MAX_KEEP = int(os.environ.get("MAX_KEEP", "500"))
 
 CLEAN_IMAGES_ON_RUN = os.environ.get("CLEAN_IMAGES_ON_RUN", "1") == "1"
 CLEAN_DB_ON_RUN = os.environ.get("CLEAN_DB_ON_RUN", "0") == "1"
@@ -2210,37 +2210,122 @@ function showShareToastSafe(msg) {
 }
 
 // Try to fetch an image URL and convert to a File or Blob usable by navigator.share
+// Improved fetchImageAsFile: 1) fetch+blob 2) image->canvas fallback 3) final fetch fallback
 async function fetchImageAsFile(imgUrl, filenameHint = "image") {
   try {
     if (!imgUrl) return null;
     // resolve relative URLs
-    try {
-      imgUrl = (new URL(imgUrl, window.location.href)).toString();
-    } catch (e) { /* keep original */ }
+    try { imgUrl = (new URL(imgUrl, window.location.href)).toString(); } catch(e){}
 
-    const res = await fetch(imgUrl, { mode: 'cors' });
-    if (!res.ok) throw new Error("Image fetch failed " + res.status);
-    const blob = await res.blob();
-    if (!blob.type || !blob.type.startsWith("image/")) throw new Error("Not an image");
-    const ext = (blob.type.split('/')[1] || "jpg").split('+')[0];
-    const fname = (filenameHint || "img") + "." + ext;
+    console.debug("fetchImageAsFile: fetching", imgUrl);
+    showShareToastSafe("Preparing image...");
+
+    // 1) Try fetch with CORS mode
     try {
-      return new File([blob], fname, { type: blob.type });
-    } catch (e) {
-      // Some environments may not support File constructor; attach name and return blob
-      blob.name = fname;
-      return blob;
+      const res = await fetch(imgUrl, { mode: 'cors' });
+      if (res.ok) {
+        const blob = await res.blob();
+        if (blob && blob.type && blob.type.startsWith("image/")) {
+          const ext = (blob.type.split('/')[1] || "jpg").split('+')[0];
+          const fname = (filenameHint || "img") + "." + ext;
+          try { return new File([blob], fname, { type: blob.type }); }
+          catch (e) { blob.name = fname; return blob; }
+        } else {
+          console.debug("fetchImageAsFile: fetch returned non-image blob/type:", blob && blob.type);
+        }
+      } else {
+        console.debug("fetchImageAsFile: fetch returned not ok:", res.status);
+      }
+    } catch (errFetch) {
+      console.debug("fetchImageAsFile: fetch(err) (CORS or network):", errFetch);
     }
+
+    // 2) Try image -> canvas route (may be tainted by CORS)
+    try {
+      const img = document.createElement('img');
+      img.crossOrigin = "anonymous";
+      const p = new Promise((resolve, reject) => {
+        img.onload = () => resolve(true);
+        img.onerror = (e) => reject(e);
+      });
+      img.src = imgUrl;
+      await p;
+      // draw into canvas
+      const canvas = document.createElement('canvas');
+      canvas.width = img.naturalWidth || img.width || 800;
+      canvas.height = img.naturalHeight || img.height || 600;
+      const ctx = canvas.getContext('2d');
+      ctx.drawImage(img, 0, 0);
+      const blob = await new Promise(resolve => {
+        try {
+          canvas.toBlob(b => resolve(b), 'image/jpeg', 0.92);
+        } catch (e) {
+          resolve(null);
+        }
+      });
+      if (blob) {
+        const fname = (filenameHint || "img") + ".jpg";
+        try { return new File([blob], fname, { type: blob.type || 'image/jpeg' }); }
+        catch (e) { blob.name = fname; return blob; }
+      } else {
+        console.debug("fetchImageAsFile: canvas.toBlob returned null (tainted?)");
+      }
+    } catch (errCanvas) {
+      console.debug("fetchImageAsFile: image->canvas failed (likely CORS):", errCanvas);
+    }
+
+    // 3) Last-chance fetch (no CORS mode) — may be blocked
+    try {
+      const res2 = await fetch(imgUrl);
+      if (res2.ok) {
+        const blob2 = await res2.blob();
+        if (blob2 && blob2.type && blob2.type.startsWith("image/")) {
+          const ext = (blob2.type.split('/')[1] || "jpg").split('+')[0];
+          const fname = (filenameHint || "img") + "." + ext;
+          try { return new File([blob2], fname, { type: blob2.type }); }
+          catch (e) { blob2.name = fname; return blob2; }
+        }
+      }
+    } catch (errFallback) {
+      console.debug("fetchImageAsFile: final fetch fallback failed:", errFallback);
+    }
+
   } catch (err) {
-    console.debug("fetchImageAsFile error:", err);
-    return null;
+    console.debug("fetchImageAsFile: unexpected error:", err);
   }
+  // give user a short toast so they know image attach failed and link-only share will be used
+  showShareToastSafe("Image unavailable — sharing link only");
+  return null;
 }
 
 // Main share entry for cards/modal: attempts image+text share, falls back to text share or desktop popup
 // ---------- NO-CLIPBOARD share handlers (paste to replace existing) ----------
 
 const SHARE_PREFIX = "I just found this deal on BestPriceZone.in";
+
+/* Helper: robust card lookup by encoded id, raw id, shortlink, buy_link, or substring */
+function findCardById(encodedOrRaw) {
+  try {
+    const key = (encodedOrRaw || "").toString();
+    let decoded = key;
+    try { decoded = decodeURIComponent(key || ""); } catch (e) { /* ignore */ }
+
+    // exact id match
+    let c = cards.find(x => (x.id || "") === decoded || (x.id || "") === key);
+    if (c) return c;
+
+    // match against shortlink/buy_link
+    c = cards.find(x => (x.shortlink || "").toString() === decoded || (x.buy_link || "").toString() === decoded || (x.shortlink || "").toString() === key || (x.buy_link || "").toString() === key);
+    if (c) return c;
+
+    // fallback: substring match in title or merchant
+    const lower = decoded.toLowerCase();
+    return cards.find(x => (((x.title||"") + " " + (x.merchant_label||"")).toLowerCase().includes(lower))) || null;
+  } catch (e) {
+    console.debug("findCardById error:", e);
+    return null;
+  }
+}
 
 async function tryOpenSocialIntent(permalink, title, imgSrc) {
   // Preferred order: WhatsApp -> Telegram -> Twitter -> Facebook
@@ -2252,18 +2337,14 @@ async function tryOpenSocialIntent(permalink, title, imgSrc) {
   const tw = `https://twitter.com/intent/tweet?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(SHARE_PREFIX + " " + title)}`;
   const fb = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(permalink)}`;
 
-  // Try opening WhatsApp first (best mobile reach), then Telegram, then fallback to popup
-  // We open a small window/tab for the intent; on mobile it will redirect to the app
   try {
-    // open a chooser popup to the best possible option — we'll attempt WhatsApp then Telegram.
-    // The user agent check helps prefer app-friendly intent on phones.
     const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
     if (isMobile) {
-      // try WhatsApp first
+      // open WhatsApp first (best mobile reach)
       window.open(wa, '_blank');
       return true;
     } else {
-      // desktop: open desktop popup so user can click an option (no clipboard)
+      // desktop: don't auto-open external intents; let popup handle it
       return false;
     }
   } catch (e) {
@@ -2271,55 +2352,74 @@ async function tryOpenSocialIntent(permalink, title, imgSrc) {
   }
 }
 
+/* Unified share flow for card/modal that prioritizes product image + title.
+   This preserves the footer/page share behavior while ensuring modal & card
+   share attach the product image (when supported). */
 async function shareCardById(encodedCardId, anchorEl) {
-  const card = findCardById(encodedCardId);
-  if (!card) return;
-
-  const permalink = getCardUrl(card) || window.location.href;
-  const title = (card.title || "Check this deal").trim();
-  const text = `${SHARE_PREFIX}\n${title}\n${permalink}`;
-  let imgSrc = card.local_image || '';
-
-  // If no product image on card, try to fall back to banner (like page share)
-  if (!imgSrc) {
-    const bannerImg = document.querySelector('.banner-wrap img');
-    if (bannerImg && bannerImg.src) imgSrc = bannerImg.src;
-  }
-
-  // 1) Try Web Share Level 2 (files)
   try {
-    if (navigator && navigator.share && navigator.canShare) {
-      if (imgSrc) {
-        const file = await fetchImageAsFile(imgSrc, "product");
-        if (file && navigator.canShare({ files: [file] })) {
-          await navigator.share({ title, text, files: [file], url: permalink });
-          return; // DONE: native sheet with image
+    const card = findCardById(encodedCardId);
+    if (!card) {
+      // no card found — fallback to showing page share popup
+      openDesktopSharePopup({ id: '', title: document.title || '', merchant_label: '', local_image: (document.querySelector('.banner-wrap img')||{}).src || '' }, anchorEl || document.body, true);
+      return;
+    }
+
+    const permalink = getCardUrl(card) || window.location.href;
+    const title = (card.title || "Check this deal").trim();
+    const text = `${SHARE_PREFIX}\n${title}\n${permalink}`;
+    let imgSrc = card.local_image || '';
+
+    // If no product image on card, try to fall back to banner (like page share)
+    if (!imgSrc) {
+      const bannerImg = document.querySelector('.banner-wrap img');
+      if (bannerImg && bannerImg.src) imgSrc = bannerImg.src;
+    }
+
+    // 1) Try Web Share Level 2 (files) with product image attached
+    try {
+      if (navigator && navigator.share && navigator.canShare) {
+        if (imgSrc) {
+          const file = await fetchImageAsFile(imgSrc, "product");
+          if (file && navigator.canShare({ files: [file] })) {
+            await navigator.share({ title, text, files: [file], url: permalink });
+            return; // DONE: native sheet with image
+          }
         }
       }
+    } catch (err) {
+      console.warn("Web Share with files failed:", err);
+      // fallthrough to next step
     }
-  } catch (err) {
-    console.warn("Web Share with files failed:", err);
-    // fallthrough to next step (no clipboard)
-  }
 
-  // 2) Try native share with text+url (no image attach)
-  try {
-    if (navigator && navigator.share) {
-      await navigator.share({ title, text, url: permalink });
-      return; // DONE: native sheet (may be without image)
+    // 2) Try native share with text+url (no image attach)
+    try {
+      if (navigator && navigator.share) {
+        await navigator.share({ title, text, url: permalink });
+        return; // DONE: native sheet (may be without image)
+      }
+    } catch (err) {
+      console.warn("Native text share failed/cancelled:", err);
+      // fallthrough to social intents / popup (no clipboard)
     }
+
+    // 3) If on mobile, directly open social intent (WhatsApp/Telegram) — avoids clipboard entirely.
+    const openedIntent = await tryOpenSocialIntent(permalink, title, imgSrc);
+    if (openedIntent) return;
+
+    // 4) Desktop fallback: open desktop share popup (no clipboard). The popup has social links
+    //    and also shows the product image/title/permalink so the user can click the social links.
+    openDesktopSharePopup(card, anchorEl, /* preferImage */ true);
+
   } catch (err) {
-    console.warn("Native text share failed/cancelled:", err);
-    // fallthrough to social intents / popup (no clipboard)
+    console.warn("shareCardById unexpected error:", err);
+    // Final fallback: show page share popup with banner image
+    try {
+      const bannerSrc = (document.querySelector('.banner-wrap img')||{}).src || "";
+      openDesktopSharePopup({ id: "", title: document.title || "BestPriceZone", merchant_label: "", local_image: bannerSrc }, anchorEl || document.body, true);
+    } catch (e) {
+      console.warn("Final share fallback failed:", e);
+    }
   }
-
-  // 3) If on mobile, directly open social intent (WhatsApp/Telegram) — avoids clipboard entirely.
-  const openedIntent = await tryOpenSocialIntent(permalink, title, imgSrc);
-  if (openedIntent) return;
-
-  // 4) Desktop fallback: open desktop share popup (no clipboard). The popup has social links
-  //    and also shows the product image/title/permalink so the user can click the social links.
-  openDesktopSharePopup(card, anchorEl, /* preferImage */ true);
 }
 
 // openShareMenu wrapper used by card buttons
@@ -2508,6 +2608,7 @@ window.openShareMenu = function(el, cardId) {
 };
 
 window.shareCardById = shareCardById;
+
 
   // initial render
   render();
@@ -2765,6 +2866,75 @@ def main():
 
                     seen_url.add(u)
                     cleaned_urls.append({"url": u, "label": lbl})
+
+                    # ---------- Improved: preserve possessive labels (Men's) and ignore coupon lines ----------
+                    COUPON_HDR_RE = re.compile(r'\b(apply\s*code|code|use\s*code|coupon|apply coupon|offer code|use coupon)\b', flags=re.I)
+
+                    def _normalize_label_token(tok: str) -> str:
+                        """Normalize a candidate token: preserve ASCII and curly apostrophes, ampersand;
+                          strip surrounding junk, return normalized string or ''."""
+                        if not tok:
+                            return ""
+                        tok = tok.strip()
+                        tok = tok.replace("’", "'")   # normalize curly apostrophe to ASCII
+                        # strip only surrounding characters that are not letters, digits, apostrophe or ampersand
+                        tok = re.sub(r'^[^A-Za-z0-9\'&]+|[^A-Za-z0-9\'&]+$', '', tok).strip()
+                        return tok
+
+                    def infer_left_short_label_v2(url, raw_text):
+                        """Return a short label (like "Men's", "Women", "Kids & Co") found immediately left of URL.
+                          Avoids coupon/header lines and rejects very-short garbage tokens.
+                        """
+                        try:
+                            lines = [ln for ln in re.split(r'[\r\n]+', raw_text)]
+                            # same-line search first
+                            for ln in lines:
+                                if url in ln:
+                                    # try "Label : url" or "Label - url"
+                                    m = re.search(r'(.{1,60}?)\s*[:\-\|]\s*' + re.escape(url), ln, flags=re.I)
+                                    if m:
+                                        cand = m.group(1).strip()
+                                        # take last token-ish candidate (but allow apostrophes & ampersand)
+                                        tok = cand.split()[-1] if cand.split() else cand
+                                        tok = _normalize_label_token(tok)
+
+                                        # reject coupon-like tokens or pure codes
+                                        if not tok or COUPON_HDR_RE.search(tok):
+                                            pass
+                                        else:
+                                            # require length >= 2 and at least one letter (so "s" or pure codes are rejected)
+                                            if len(tok) >= 2 and re.search(r'[A-Za-z\u00C0-\u024F]', tok):
+                                                return tok
+
+                                    # fallback: token immediately left of url on same line
+                                    left = ln.split(url, 1)[0].strip()
+                                    left = re.sub(r'^[👉\-\:\s]+', '', left)
+                                    left = re.sub(r'[:\-\u2014\u2013\.\s]+$', '', left).strip()
+                                    if left:
+                                        tok = left.split()[-1]
+                                        tok = _normalize_label_token(tok)
+                                        if tok and not COUPON_HDR_RE.search(tok) and len(tok) >= 2 and re.search(r'[A-Za-z\u00C0-\u024F]', tok):
+                                            return tok
+
+                            # not on same line: look 1-2 lines above
+                            for i, ln in enumerate(lines):
+                                if url in ln:
+                                    for j in (i-1, i-2):
+                                        if j >= 0:
+                                            candidate = lines[j].strip()
+                                            candidate = re.sub(r'^[👉\-\:\s]+', '', candidate)
+                                            candidate = re.sub(r'[:\-\u2014\u2013\.\s]+$', '', candidate).strip()
+                                            if candidate and len(candidate) <= 40 and not COUPON_HDR_RE.search(candidate):
+                                                tokens = candidate.split()
+                                                if tokens and len(tokens) <= 4:
+                                                    tok = tokens[-1]
+                                                    tok = _normalize_label_token(tok)
+                                                    if tok and len(tok) >= 2 and re.search(r'[A-Za-z\u00C0-\u024F]', tok):
+                                                        return tok
+                        except Exception:
+                            pass
+                        return ""
+
 
                 card = {
                   "id": f"msg{msg_id_str}",
