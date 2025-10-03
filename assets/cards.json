@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg10419",
+    "title": "",
+    "description": "FLIPKART Men Vest - @98 Only https://fkrt.co/KPjQML",
+    "shortlink": "https://fkrt.co/KPjQML",
+    "urls": [
+      {
+        "url": "https://fkrt.co/KPjQML",
+        "label": "@98 Only"
+      }
+    ],
+    "raw_text": "FLIPKART \nMen Vest - @98 Only\n\nhttps://fkrt.co/KPjQML",
+    "final_url": "https://fkrt.co/KPjQML",
+    "local_image": "assets/images/tgmsg_10419.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-03T20:38:58+00:00",
+    "buy_link": "https://fkrt.co/KPjQML",
+    "date_iso": "2025-10-03T20:38:58+00:00"
+  },
+  {
+    "id": "msg10420",
+    "title": "87% OFF",
+    "description": "FLIPKART  GOBOULT Y1 Ear Buds -  87% OFF https://fkrt.co/vSz4To",
+    "shortlink": "https://fkrt.co/vSz4To",
+    "urls": [
+      {
+        "url": "https://fkrt.co/vSz4To",
+        "label": "87% OFF"
+      }
+    ],
+    "raw_text": "FLIPKART  GOBOULT Y1 Ear Buds -  87% OFF\n\nhttps://fkrt.co/vSz4To",
+    "final_url": "https://fkrt.co/vSz4To",
+    "local_image": "assets/images/tgmsg_10420.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-03T20:40:20+00:00",
+    "buy_link": "https://fkrt.co/vSz4To",
+    "date_iso": "2025-10-03T20:40:20+00:00"
+  },
+  {
     "id": "msg10418",
     "title": "65% OFF",
     "description": "Flipkart | Pigeon Zoom Electric Vegetable & Fruit Chopper  - 65% OFF https://fkrt.co/GMd6n1",
@@ -8154,53 +8194,5 @@
     "date_obj": "2025-10-02T06:19:23+00:00",
     "buy_link": "https://www.amazon.in/dp/B084ZGJ8H5?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-02T06:19:23+00:00"
-  },
-  {
-    "id": "msg9935",
-    "title": "L'Oreal shampoos Up to 50% off",
-    "description": "Myntra | L'Oreal shampoos Upto 50% off - Maybelliene Make Up Starting 129 - Garnier Face washes Upto 57% off-",
-    "shortlink": "https://myntr.in/GgY1jc",
-    "urls": [
-      {
-        "url": "https://myntr.in/GgY1jc",
-        "label": "L'Oreal shampoos Upto 50% off"
-      },
-      {
-        "url": "https://myntr.in/u1AOfN",
-        "label": "Maybelliene Make Up Starting 129"
-      },
-      {
-        "url": "https://myntr.in/p2d8kQ",
-        "label": "Garnier Face washes Upto 57% off"
-      }
-    ],
-    "raw_text": "Myntra | L'Oreal shampoos Upto 50% off - https://myntr.in/GgY1jc\n\nMaybelliene  Make Up Starting 129 - https://myntr.in/u1AOfN\n\nGarnier Face washes Upto 57% off- https://myntr.in/p2d8kQ",
-    "final_url": "https://myntr.in/GgY1jc",
-    "local_image": "assets/images/tgmsg_9935.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-02T06:21:31+00:00",
-    "buy_link": "https://myntr.in/GgY1jc",
-    "date_iso": "2025-10-02T06:21:31+00:00"
-  },
-  {
-    "id": "msg9927",
-    "title": "Puma Reebok Polos From ₹539",
-    "description": "Puma Reebok Polos From ₹539 https://fkrt.co/o7bsbF",
-    "shortlink": "https://fkrt.co/o7bsbF",
-    "urls": [
-      {
-        "url": "https://fkrt.co/o7bsbF",
-        "label": "Puma Reebok Polos From ₹539"
-      }
-    ],
-    "raw_text": "Puma Reebok Polos From ₹539\n\nhttps://fkrt.co/o7bsbF",
-    "final_url": "https://fkrt.co/o7bsbF",
-    "local_image": "assets/images/tgmsg_9927.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-02T05:33:29+00:00",
-    "buy_link": "https://fkrt.co/o7bsbF",
-    "date_iso": "2025-10-02T05:33:29+00:00"
   }
 ]
