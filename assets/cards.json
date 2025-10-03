@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg10233",
+    "title": "🛒 Deal Price ₹269990",
+    "description": "Amazon | TCL 248 cm (98 inches) 4K Ultra HD Smart QLED Google TV 98P8K 🛒 Deal Price : ₹269990 👉",
+    "shortlink": "https://www.amazon.in/dp/B0F3JL3MSL?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "TCL 248 cm (98 inches) 4K Ultra HD Smart QLED Google TV 98P8K"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0F3JL3MSL?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price : ₹269990"
+      }
+    ],
+    "raw_text": "Amazon | TCL 248 cm (98 inches) 4K Ultra HD Smart QLED Google TV 98P8K\n\n🛒 Deal Price : ₹269990\n\n👉https://www.amazon.in/dp/B0F3JL3MSL?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F3JL3MSL?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_10233.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-03T10:10:12+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F3JL3MSL?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-03T10:10:12+00:00"
+  },
+  {
     "id": "msg10231",
     "title": "Air Buds Pro at 1349",
     "description": "Myntra | Noise at lowest prices ever 🔥🔥  👉 Buds Aero TWS at 689 👉 Buds Aero TWS at 689 👉",
