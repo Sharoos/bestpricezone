@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg10211",
+    "title": "+10% Super Cash on Every Orde",
+    "description": "🔥AJIO : Men's Footwear Starts ₹93 👉 Sports : Casual : Sandals : +10% AJIO Super Cash on Every Order.",
+    "shortlink": "https://ajiio.co/pa8nN5",
+    "urls": [
+      {
+        "url": "https://ajiio.co/pa8nN5",
+        "label": "🔥AJIO : Men's Footwear Starts ₹93"
+      },
+      {
+        "url": "https://ajiio.co/aOXWqD",
+        "label": "Sports"
+      },
+      {
+        "url": "https://ajiio.co/1tlQfk",
+        "label": "Casual"
+      },
+      {
+        "url": "https://ajiio.co/NkfoYG",
+        "label": "Sandals"
+      },
+      {
+        "url": "",
+        "label": "+10% AJIO Super Cash on Every Order"
+      }
+    ],
+    "raw_text": "🔥AJIO : Men's Footwear Starts ₹93\n\n👉https://ajiio.co/pa8nN5\n\nSports : https://ajiio.co/aOXWqD\nCasual : https://ajiio.co/1tlQfk\nSandals : https://ajiio.co/NkfoYG\n\n+10% AJIO Super Cash on Every Order.",
+    "final_url": "https://ajiio.co/pa8nN5",
+    "local_image": "assets/images/tgmsg_10211.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-03T07:01:35+00:00",
+    "buy_link": "https://ajiio.co/pa8nN5",
+    "date_iso": "2025-10-03T07:01:35+00:00"
+  },
+  {
     "id": "msg10208",
     "title": "Solimo Hot or Cold Flask Bottle, 1L @ 569 +",
     "description": "Amazon | Solimo Hot or Cold Flask Bottle, 1L @ 569 + Coupon 👉https://www.amazon.in/dp/B0BTHFSFQL?th=1&smid=&tag=bestpricezo0f-21",
@@ -5714,33 +5750,5 @@
     "date_obj": "2025-10-01T19:05:15+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FGY739Q2?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-01T19:05:15+00:00"
-  },
-  {
-    "id": "msg9870",
-    "title": "✨ Offers Flat ₹200 Off With BI Credit Card. Flat ₹999 Off With SBI Credit Card",
-    "description": "Amazon | 🎧Oneplus Nord Bud 3 Earbuds 🛒 Deal Price: ₹1599 ✨ Offers: Flat ₹200 Off With BI Credit Card. Flat ₹999 Off With SBI Credit Card.",
-    "shortlink": "https://www.amazon.in/dp/B0DFQ1R3W4?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🎧Oneplus Nord Bud 3 Earbuds"
-      },
-      {
-        "url": "",
-        "label": "🛒 Deal Price: ₹1599"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0DFQ1R3W4?tag=bestpricezo0f-21",
-        "label": "✨ Offers: Flat ₹200 Off With BI Credit Card. Flat ₹999 Off With SBI Credit Card"
-      }
-    ],
-    "raw_text": "Amazon | 🎧Oneplus Nord Bud 3 Earbuds\n\n🛒 Deal Price: ₹1599\n\n✨ Offers: Flat ₹200 Off With BI Credit Card. Flat ₹999 Off With SBI Credit Card.\n\nhttps://www.amazon.in/dp/B0DFQ1R3W4?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DFQ1R3W4?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9870.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-01T19:06:09+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DFQ1R3W4?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-01T19:06:09+00:00"
   }
 ]
