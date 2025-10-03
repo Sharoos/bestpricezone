@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg10193",
+    "title": "Up to 79% Off on Sunglasses Starts At Rs.419",
+    "description": "Ajio | Upto 79% Off on Sunglasses Starts At Rs.419 👉Link : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/n7UO1z",
+    "urls": [
+      {
+        "url": "https://ajiio.co/n7UO1z",
+        "label": "Upto 79% Off on Sunglasses Starts At Rs.419"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "Ajio | Upto 79% Off on Sunglasses Starts At Rs.419\n \n👉Link : https://ajiio.co/n7UO1z\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/n7UO1z",
+    "local_image": "assets/images/tgmsg_10193.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-03T04:01:34+00:00",
+    "buy_link": "https://ajiio.co/n7UO1z",
+    "date_iso": "2025-10-03T04:01:34+00:00"
+  },
+  {
+    "id": "msg10194",
+    "title": "🔥Branded Jeans Up to 80% Off Starts From ₹229",
+    "description": "🔥Myntra : Branded Jeans Upto 80% Off Starts From ₹229 Men : https://myntr.in/TGQgFZ Women : https://myntr.in/wtUuan",
+    "shortlink": "https://myntr.in/TGQgFZ",
+    "urls": [
+      {
+        "url": "https://myntr.in/TGQgFZ",
+        "label": "🔥Myntra : Branded Jeans Upto 80% Off Starts From ₹229"
+      },
+      {
+        "url": "https://myntr.in/wtUuan",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "🔥Myntra : Branded Jeans Upto 80% Off Starts From ₹229\n\nMen : https://myntr.in/TGQgFZ\nWomen : https://myntr.in/wtUuan",
+    "final_url": "https://myntr.in/TGQgFZ",
+    "local_image": "assets/images/tgmsg_10194.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-03T04:11:41+00:00",
+    "buy_link": "https://myntr.in/TGQgFZ",
+    "date_iso": "2025-10-03T04:11:41+00:00"
+  },
+  {
     "id": "msg10192",
     "title": "Min. 70% Off On Boroplus Beauty Product",
     "description": "Myntra | Min. 70% Off On Boroplus Beauty Products. https://myntr.in/quCtzK",
@@ -5754,45 +5802,5 @@
     "date_obj": "2025-10-01T18:50:43+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CKVQXCGG?tag=bestpricezo0f-21",
     "date_iso": "2025-10-01T18:50:43+00:00"
-  },
-  {
-    "id": "msg9831",
-    "title": "Red Tape Shoes Up to 85% off",
-    "description": "Flipkart | Red Tape Shoes Upto 85% off 👉https://fkrt.co/Fng428",
-    "shortlink": "https://fkrt.co/Fng428",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Fng428",
-        "label": "Red Tape Shoes Upto 85% off"
-      }
-    ],
-    "raw_text": "Flipkart | Red Tape Shoes Upto 85% off \n\n👉https://fkrt.co/Fng428",
-    "final_url": "https://fkrt.co/Fng428",
-    "local_image": "assets/images/tgmsg_9831.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-01T18:02:49+00:00",
-    "buy_link": "https://fkrt.co/Fng428",
-    "date_iso": "2025-10-01T18:02:49+00:00"
-  },
-  {
-    "id": "msg9832",
-    "title": "Dove, Tresemme 1L Shampoo Combos at 70% Off",
-    "description": "Myntra | Dove, Tresemme 1L Shampoo Combos at 70% Off 👉Link : https://myntr.in/Ztee0b",
-    "shortlink": "https://myntr.in/Ztee0b",
-    "urls": [
-      {
-        "url": "https://myntr.in/Ztee0b",
-        "label": "Dove, Tresemme 1L Shampoo Combos at 70% Off"
-      }
-    ],
-    "raw_text": "Myntra | Dove, Tresemme 1L Shampoo Combos at 70% Off \n\n👉Link : https://myntr.in/Ztee0b",
-    "final_url": "https://myntr.in/Ztee0b",
-    "local_image": "assets/images/tgmsg_9832.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-01T18:10:49+00:00",
-    "buy_link": "https://myntr.in/Ztee0b",
-    "date_iso": "2025-10-01T18:10:49+00:00"
   }
 ]
