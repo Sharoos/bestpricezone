@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10235",
+    "title": "Apply ₹2000 Off + ₹5500 Off With SBI Card",
+    "description": "Amazon | Acer Nitro V15 RYZEN 5 Gaming Laptop @ 55,490* 👉 *Apply ₹2000 Off Coupon + ₹5500 Off With SBI Cards",
+    "shortlink": "https://www.amazon.in/dp/B0FPQ7YC8D?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FPQ7YC8D?tag=bestpricezo0f-21",
+        "label": "Acer Nitro V15 RYZEN 5 Gaming Laptop @ 55,490*"
+      }
+    ],
+    "raw_text": "Amazon | Acer Nitro V15 RYZEN 5 Gaming Laptop @ 55,490*\n\n👉https://www.amazon.in/dp/B0FPQ7YC8D?tag=bestpricezo0f-21\n\n*Apply ₹2000 Off Coupon + ₹5500 Off With SBI Cards",
+    "final_url": "https://www.amazon.in/dp/B0FPQ7YC8D?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_10235.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-03T10:20:10+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FPQ7YC8D?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-03T10:20:10+00:00"
+  },
+  {
     "id": "msg10233",
     "title": "🛒 Deal Price ₹269990",
     "description": "Amazon | TCL 248 cm (98 inches) 4K Ultra HD Smart QLED Google TV 98P8K 🛒 Deal Price : ₹269990 👉",
