@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10202",
+    "title": "Flat 40% off on Bosch Juicer Mixer Grinde",
+    "description": "Myntra | Flat 40% off on Bosch Juicer Mixer Grinders. Link : https://myntr.in/3Yx4fZ",
+    "shortlink": "https://myntr.in/3Yx4fZ",
+    "urls": [
+      {
+        "url": "https://myntr.in/3Yx4fZ",
+        "label": "Flat 40% off on Bosch Juicer Mixer Grinders"
+      }
+    ],
+    "raw_text": "Myntra | Flat 40% off on Bosch Juicer Mixer Grinders.\n\nLink : https://myntr.in/3Yx4fZ",
+    "final_url": "https://myntr.in/3Yx4fZ",
+    "local_image": "assets/images/tgmsg_10202.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-03T05:31:38+00:00",
+    "buy_link": "https://myntr.in/3Yx4fZ",
+    "date_iso": "2025-10-03T05:31:38+00:00"
+  },
+  {
     "id": "msg10199",
     "title": "Up to 87% Off On Fastrack Earbuds Starts @399",
     "description": "Amazon | Upto 87% Off On Fastrack Earbuds Starts @399.…",
@@ -5754,33 +5774,5 @@
     "date_obj": "2025-10-01T18:41:57+00:00",
     "buy_link": "https://myntr.in/GdHxHP",
     "date_iso": "2025-10-01T18:41:57+00:00"
-  },
-  {
-    "id": "msg9845",
-    "title": "🛒 Deal Price Rs.123",
-    "description": "Flipkart | 🧽 Wall Hook Deals Sticky Wall Hook for Hangers 🛒 Deal Price: Rs.123 https://fkrt.co/5r6QhO",
-    "shortlink": "https://fkrt.co/5r6QhO",
-    "urls": [
-      {
-        "url": "",
-        "label": "🧽 Wall Hook Deals"
-      },
-      {
-        "url": "",
-        "label": "Sticky Wall Hook for Hangers"
-      },
-      {
-        "url": "https://fkrt.co/5r6QhO",
-        "label": "🛒 Deal Price: Rs.123"
-      }
-    ],
-    "raw_text": "Flipkart | 🧽 Wall Hook Deals\n\nSticky Wall Hook for Hangers\n\n🛒 Deal Price: Rs.123\n\nhttps://fkrt.co/5r6QhO",
-    "final_url": "https://fkrt.co/5r6QhO",
-    "local_image": "assets/images/tgmsg_9845.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-01T18:43:01+00:00",
-    "buy_link": "https://fkrt.co/5r6QhO",
-    "date_iso": "2025-10-01T18:43:01+00:00"
   }
 ]
