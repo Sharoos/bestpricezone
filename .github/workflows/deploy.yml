@@ -77,7 +77,7 @@ jobs:
           printf 'CHANNEL_USERNAME=%s\n' "$CHANNEL_USERNAME" >> .env
           printf 'HERO_BANNER=banner.jpg\n' >> .env
           printf 'HERO_HEIGHT=300px\n' >> .env
-          printf 'MAX_KEEP=200\n' >> .env
+          printf 'MAX_KEEP=300\n' >> .env
           printf 'CLEAN_IMAGES_ON_RUN=0\n' >> .env
           echo ".env created."
 
@@ -87,7 +87,7 @@ jobs:
           TG_API_HASH: ${{ secrets.TG_API_HASH }}
           TG_STRING_SESSION: ${{ secrets.TG_STRING_SESSION }}
           CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
-          MAX_KEEP: '200'
+          MAX_KEEP: '300'
           CLEAN_IMAGES_ON_RUN: '0'
         run: |
           echo "Running telegram_to_site.py (MAX_KEEP=$MAX_KEEP)"
