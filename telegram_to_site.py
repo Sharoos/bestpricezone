@@ -1538,8 +1538,8 @@ body{
 __BANNER_HTML__
   <div class="hero" role="region" aria-label="Latest deals">
     <div style="flex:1">
-      <div class="h">Latest curated deals — handpicked for shoppers</div>
-      <div style="color:var(--muted);margin-top:6px;font-size:13px">Filter by merchant, sort by newest or price, click a product to view details and buy.</div>
+      <div class="h">Curated online shopping deals in India</div>
+      <div style="color:var(--muted);margin-top:6px;font-size:13px">Find the best prices from Amazon, Flipkart, Myntra, Ajio & more. Filter offers, sort by lowest price or latest arrivals, and click to shop securely.</div>
     </div>
     <div style="min-width:200px;text-align:right">
       <div style="font-size:13px;color:var(--muted)">Items per page</div>
@@ -3014,3 +3014,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
