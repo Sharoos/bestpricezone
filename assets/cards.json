@@ -1,5 +1,101 @@
 [
   {
+    "id": "msg10246",
+    "title": "Up to 60% Off On Body Lotion",
+    "description": "Myntra | Upto 60% Off On Body Lotion 👉Link : https://myntr.in/uMYF8n",
+    "shortlink": "https://myntr.in/uMYF8n",
+    "urls": [
+      {
+        "url": "https://myntr.in/uMYF8n",
+        "label": "Upto 60% Off On Body Lotion"
+      }
+    ],
+    "raw_text": "Myntra | Upto 60% Off On Body Lotion \n \n👉Link : https://myntr.in/uMYF8n",
+    "final_url": "https://myntr.in/uMYF8n",
+    "local_image": "assets/images/tgmsg_10246.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-03T12:02:23+00:00",
+    "buy_link": "https://myntr.in/uMYF8n",
+    "date_iso": "2025-10-03T12:02:23+00:00"
+  },
+  {
+    "id": "msg10249",
+    "title": "Up to 80% Off On Puma Clothing",
+    "description": "Ajio | Upto 80% Off On Puma Clothing Men's : https://ajiio.co/R4hCg1 Women's : https://ajiio.co/G7gaHa",
+    "shortlink": "https://ajiio.co/R4hCg1",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On Puma Clothing"
+      },
+      {
+        "url": "https://ajiio.co/R4hCg1",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/G7gaHa",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Ajio | Upto 80% Off On Puma Clothing\n\nMen's : https://ajiio.co/R4hCg1\nWomen's : https://ajiio.co/G7gaHa",
+    "final_url": "https://ajiio.co/R4hCg1",
+    "local_image": "assets/images/tgmsg_10249.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-03T12:15:14+00:00",
+    "buy_link": "https://ajiio.co/R4hCg1",
+    "date_iso": "2025-10-03T12:15:14+00:00"
+  },
+  {
+    "id": "msg10250",
+    "title": "🔥Fast Women's BodyconDress Only ₹99",
+    "description": "🔥Myntra | Fast Women's BodyconDress Only  ₹99 👉https://myntr.in/XYoqdz",
+    "shortlink": "https://myntr.in/XYoqdz",
+    "urls": [
+      {
+        "url": "https://myntr.in/XYoqdz",
+        "label": "🔥Myntra | Fast Women's BodyconDress Only ₹99"
+      }
+    ],
+    "raw_text": "🔥Myntra | Fast Women's BodyconDress Only  ₹99\n\n👉https://myntr.in/XYoqdz",
+    "final_url": "https://myntr.in/XYoqdz",
+    "local_image": "assets/images/tgmsg_10250.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-03T12:30:31+00:00",
+    "buy_link": "https://myntr.in/XYoqdz",
+    "date_iso": "2025-10-03T12:30:31+00:00"
+  },
+  {
+    "id": "msg10251",
+    "title": "Goodhomes Set of 2 borosilicate glass tumblers with glass straw & wooden lid 385 ml",
+    "description": "Myntra | Goodhomes Set of 2 borosilicate glass tumblers with glass straw & wooden lid 385 ml Get this at ₹350 Use code HOMEBUYMORE to get this at 245 👉Link : https://myntr.in/8ykyA2",
+    "shortlink": "https://myntr.in/8ykyA2",
+    "urls": [
+      {
+        "url": "",
+        "label": "Goodhomes Set of 2 borosilicate glass tumblers with glass straw & wooden lid 385 ml"
+      },
+      {
+        "url": "",
+        "label": "Get this at ₹350"
+      },
+      {
+        "url": "https://myntr.in/8ykyA2",
+        "label": "Use code HOMEBUYMORE to get this at 245"
+      }
+    ],
+    "raw_text": "Myntra | Goodhomes Set of 2 borosilicate glass tumblers with glass straw & wooden lid 385 ml\n\nGet this at ₹350\nUse code HOMEBUYMORE to get this at 245\n\n👉Link : https://myntr.in/8ykyA2",
+    "final_url": "https://myntr.in/8ykyA2",
+    "local_image": "assets/images/tgmsg_10251.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-03T12:40:11+00:00",
+    "buy_link": "https://myntr.in/8ykyA2",
+    "date_iso": "2025-10-03T12:40:11+00:00"
+  },
+  {
     "id": "msg10245",
     "title": "Vega Atom Open Face Helmet @ 698",
     "description": "Amazon | Vega Atom Open Face Helmet @ 698. 👉https://www.amazon.in/dp/B07RFQRF46?th=1&tag=bestpricezo0f-21",
