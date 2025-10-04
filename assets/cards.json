@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10495",
+    "title": "Orient Electric FHNA20G New Areva Fan Room Heater @₹1359",
+    "description": "Flipkart | Orient Electric FHNA20G New Areva Fan Room Heater @₹1359 👉https://fkrt.co/o5r5Om",
+    "shortlink": "https://fkrt.co/o5r5Om",
+    "urls": [
+      {
+        "url": "https://fkrt.co/o5r5Om",
+        "label": "Orient Electric FHNA20G New Areva Fan Room Heater @₹1359"
+      }
+    ],
+    "raw_text": "Flipkart | Orient Electric FHNA20G New Areva Fan Room Heater @₹1359\n\n👉https://fkrt.co/o5r5Om",
+    "final_url": "https://fkrt.co/o5r5Om",
+    "local_image": "assets/images/tgmsg_10495.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-04T10:40:11+00:00",
+    "buy_link": "https://fkrt.co/o5r5Om",
+    "date_iso": "2025-10-04T10:40:11+00:00"
+  },
+  {
     "id": "msg10492",
     "title": "Philips Min 30% off on beauty & grooming Appliance",
     "description": "Myntra | Philips Min 30% off on beauty & grooming Appliances 👉Link : https://myntr.in/VW70cy",
@@ -8206,37 +8226,5 @@
     "date_obj": "2025-10-02T13:41:40+00:00",
     "buy_link": "https://myntr.in/5vhZTg",
     "date_iso": "2025-10-02T13:41:40+00:00"
-  },
-  {
-    "id": "msg10045",
-    "title": "Up to 90% off on Bedsheets, Cushion Covers & Curtains + Bank offe",
-    "description": "Myntra : Upto 90% off on Bedsheets, Cushion Covers & Curtains + Bank offers 👉 Bedsheets : 👉 Cushion Covers : 👉 Curtains :",
-    "shortlink": "https://myntr.in/AA6oMb",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 90% off on Bedsheets, Cushion Covers & Curtains + Bank offers"
-      },
-      {
-        "url": "https://myntr.in/AA6oMb",
-        "label": "Bedsheets"
-      },
-      {
-        "url": "https://myntr.in/MIzGXX",
-        "label": "Cushion Covers"
-      },
-      {
-        "url": "https://myntr.in/vodr5s",
-        "label": "Curtains"
-      }
-    ],
-    "raw_text": "Myntra : Upto 90% off on Bedsheets, Cushion Covers & Curtains  + Bank offers \n\n👉 Bedsheets : https://myntr.in/AA6oMb\n👉 Cushion Covers : https://myntr.in/MIzGXX\n👉 Curtains : https://myntr.in/vodr5s",
-    "final_url": "https://myntr.in/AA6oMb",
-    "local_image": "assets/images/tgmsg_10045.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-02T13:51:38+00:00",
-    "buy_link": "https://myntr.in/AA6oMb",
-    "date_iso": "2025-10-02T13:51:38+00:00"
   }
 ]
