@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg10655",
+    "title": "Branded Battery Inverter Starting From Rs.5499",
+    "description": "Flipkart | Branded Battery Inverter Starting From Rs.5499 -     https://fkrt.co/TYfOiF",
+    "shortlink": "https://fkrt.co/TYfOiF",
+    "urls": [
+      {
+        "url": "https://fkrt.co/TYfOiF",
+        "label": "Branded Battery Inverter Starting From Rs.5499"
+      }
+    ],
+    "raw_text": "Flipkart | Branded Battery Inverter Starting From Rs.5499\n\n -     https://fkrt.co/TYfOiF",
+    "final_url": "https://fkrt.co/TYfOiF",
+    "local_image": "assets/images/tgmsg_10655.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-04T19:42:10+00:00",
+    "buy_link": "https://fkrt.co/TYfOiF",
+    "date_iso": "2025-10-04T19:42:10+00:00"
+  },
+  {
+    "id": "msg10656",
+    "title": "Denver Perfumes Combo 🔥",
+    "description": "Flipkart | Denver Perfumes Combo 🔥 https://fkrt.co/ACfxRB",
+    "shortlink": "https://fkrt.co/ACfxRB",
+    "urls": [
+      {
+        "url": "https://fkrt.co/ACfxRB",
+        "label": "Denver Perfumes Combo 🔥"
+      }
+    ],
+    "raw_text": "Flipkart | Denver Perfumes Combo 🔥 \n\nhttps://fkrt.co/ACfxRB",
+    "final_url": "https://fkrt.co/ACfxRB",
+    "local_image": "assets/images/tgmsg_10656.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-04T19:45:39+00:00",
+    "buy_link": "https://fkrt.co/ACfxRB",
+    "date_iso": "2025-10-04T19:45:39+00:00"
+  },
+  {
     "id": "msg10652",
     "title": "Lowest Pack of 5 Dollar Lehar Mens Trunk at Rs.309",
     "description": "Flipkart Lowest : Pack of 5 Dollar Lehar Mens Trunk at Rs.309 - *Each at ₹60/Pc.",
@@ -8398,49 +8438,5 @@
     "date_obj": "2025-10-03T08:20:12+00:00",
     "buy_link": "https://myntr.in/k9nXsY",
     "date_iso": "2025-10-03T08:20:12+00:00"
-  },
-  {
-    "id": "msg10222",
-    "title": "Greenchef Black Glass Top 2 Burner Gas Stove @999",
-    "description": "Myntra | Greenchef Black Glass Top 2 Burner Gas Stove @999 👉https://myntr.in/rzSj6n Greenchef Black Glass Top 3 Burner Gas Stove @1499 👉https://myntr.in/nKPB92",
-    "shortlink": "https://myntr.in/rzSj6n",
-    "urls": [
-      {
-        "url": "https://myntr.in/rzSj6n",
-        "label": "Greenchef Black Glass Top 2 Burner Gas Stove @999"
-      },
-      {
-        "url": "https://myntr.in/nKPB92",
-        "label": "Greenchef Black Glass Top 3 Burner Gas Stove @1499"
-      }
-    ],
-    "raw_text": "Myntra | Greenchef Black Glass Top 2 Burner Gas Stove @999\n👉https://myntr.in/rzSj6n\n\nGreenchef Black Glass Top 3 Burner Gas Stove @1499\n👉https://myntr.in/nKPB92",
-    "final_url": "https://myntr.in/rzSj6n",
-    "local_image": "assets/images/tgmsg_10222.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-03T08:31:23+00:00",
-    "buy_link": "https://myntr.in/rzSj6n",
-    "date_iso": "2025-10-03T08:31:23+00:00"
-  },
-  {
-    "id": "msg10220",
-    "title": "Double Bed Reversible Comforters @ 769",
-    "description": "Myntra | Double Bed Reversible Comforters @ 769 👉Link : https://myntr.in/6adTe4",
-    "shortlink": "https://myntr.in/6adTe4",
-    "urls": [
-      {
-        "url": "https://myntr.in/6adTe4",
-        "label": "Double Bed Reversible Comforters @ 769"
-      }
-    ],
-    "raw_text": "Myntra | Double Bed Reversible Comforters @ 769\n\n👉Link : https://myntr.in/6adTe4",
-    "final_url": "https://myntr.in/6adTe4",
-    "local_image": "assets/images/tgmsg_10220.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-03T08:10:14+00:00",
-    "buy_link": "https://myntr.in/6adTe4",
-    "date_iso": "2025-10-03T08:10:14+00:00"
   }
 ]
