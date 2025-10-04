@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10525",
+    "title": "Flat 40% off on Bosch Juicer Mixer Grinde",
+    "description": "Myntra | Flat 40% off on Bosch Juicer Mixer Grinders. Link : https://myntr.in/nAUn3O",
+    "shortlink": "https://myntr.in/nAUn3O",
+    "urls": [
+      {
+        "url": "https://myntr.in/nAUn3O",
+        "label": "Flat 40% off on Bosch Juicer Mixer Grinders"
+      }
+    ],
+    "raw_text": "Myntra | Flat 40% off on Bosch Juicer Mixer Grinders.\n\nLink : https://myntr.in/nAUn3O",
+    "final_url": "https://myntr.in/nAUn3O",
+    "local_image": "assets/images/tgmsg_10525.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-04T13:41:30+00:00",
+    "buy_link": "https://myntr.in/nAUn3O",
+    "date_iso": "2025-10-04T13:41:30+00:00"
+  },
+  {
     "id": "msg10521",
     "title": "✔️ ₹150 Off on Zomato & Soon Coming In many place",
     "description": "🎉 Get Lifetime FREE RIO Card – No Fees Ever 🚀🚀🚀 👉 Apply Now: ✅ Lifetime Free – No Joining or Annual Fees 💥 Top Benefits: ✔️ 3% Rio Coins on UPI spends (₹100+) ✔️ 1% Rio Coins on Card spends (₹100+) ✔️ 8 FREE Airport…",
@@ -8242,29 +8262,5 @@
     "date_obj": "2025-10-02T15:52:10+00:00",
     "buy_link": "https://myntr.in/3y2whp",
     "date_iso": "2025-10-02T15:52:10+00:00"
-  },
-  {
-    "id": "msg10106",
-    "title": "Up to 71% Off On Aristocrat Bag",
-    "description": "Ajio | Upto 71% Off On Aristocrat Bags 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "shortlink": "https://ajiio.co/qx5bPa",
-    "urls": [
-      {
-        "url": "https://ajiio.co/qx5bPa",
-        "label": "Upto 71% Off On Aristocrat Bags"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "Ajio | Upto 71% Off On Aristocrat Bags \n\nhttps://ajiio.co/qx5bPa\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/qx5bPa",
-    "local_image": "assets/images/tgmsg_10106.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-02T15:52:11+00:00",
-    "buy_link": "https://ajiio.co/qx5bPa",
-    "date_iso": "2025-10-02T15:52:11+00:00"
   }
 ]
