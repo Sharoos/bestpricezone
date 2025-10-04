@@ -1,5 +1,73 @@
 [
   {
+    "id": "msg10475",
+    "title": "Bank Offer Get 10% Instant Discount with HDFC Credit Card",
+    "description": "Flipkart⚡️ BIG FESTIVE DHAMAKA Sale Is Live! ⚡️Get up to 70% OFF on Televisions, Refrigerators, ACs & Washing Machines. Master Link: • Televisions: • Air Conditioners: • Refrigerators: • Washing Machines: *Bank Offer:…",
+    "shortlink": "https://fktr.in/OQgKo05",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart⚡️ BIG FESTIVE DHAMAKA Sale Is Live!"
+      },
+      {
+        "url": "",
+        "label": "⚡️Get up to 70% OFF on Televisions, Refrigerators, ACs & Washing Machines"
+      },
+      {
+        "url": "https://fktr.in/OQgKo05",
+        "label": "Master"
+      },
+      {
+        "url": "https://fktr.in/74t9g8z",
+        "label": "Televisions"
+      },
+      {
+        "url": "https://fktr.in/ANzA93i",
+        "label": "Air Conditioners"
+      },
+      {
+        "url": "https://fktr.in/mxZqqI8",
+        "label": "Refrigerators"
+      },
+      {
+        "url": "https://fktr.in/NFk7A3z",
+        "label": "Washing Machines"
+      },
+      {
+        "url": "",
+        "label": "Get 10% Instant Discount with HDFC Credit Cards"
+      }
+    ],
+    "raw_text": "Flipkart⚡️ BIG FESTIVE DHAMAKA Sale Is Live!\n\n⚡️Get up to 70% OFF on Televisions, Refrigerators, ACs & Washing Machines.\n\nMaster Link: https://fktr.in/OQgKo05\n • Televisions: https://fktr.in/74t9g8z\n • Air Conditioners: https://fktr.in/ANzA93i\n • Refrigerators: https://fktr.in/mxZqqI8\n • Washing Machines: https://fktr.in/NFk7A3z\n\n*Bank Offer: Get 10% Instant Discount with HDFC Credit Cards",
+    "final_url": "https://fktr.in/OQgKo05",
+    "local_image": "assets/images/tgmsg_10475.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-04T09:19:45+00:00",
+    "buy_link": "https://fktr.in/OQgKo05",
+    "date_iso": "2025-10-04T09:19:45+00:00"
+  },
+  {
+    "id": "msg10476",
+    "title": "Ikonic min 40% off on hair styling appliance",
+    "description": "Myntra | Ikonic min 40% off on hair styling appliances 👉Link : https://myntr.in/K7oUt8",
+    "shortlink": "https://myntr.in/K7oUt8",
+    "urls": [
+      {
+        "url": "https://myntr.in/K7oUt8",
+        "label": "Ikonic min 40% off on hair styling appliances"
+      }
+    ],
+    "raw_text": "Myntra | Ikonic min 40% off on hair styling appliances\n\n👉Link : https://myntr.in/K7oUt8",
+    "final_url": "https://myntr.in/K7oUt8",
+    "local_image": "assets/images/tgmsg_10476.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-04T09:21:06+00:00",
+    "buy_link": "https://myntr.in/K7oUt8",
+    "date_iso": "2025-10-04T09:21:06+00:00"
+  },
+  {
     "id": "msg10471",
     "title": "Up to 63% Off on Home Fragrances Starting from ₹185💥💥💥💥",
     "description": "Ajio | Upto 63% Off on Home Fragrances Starting from ₹185💥💥💥💥 Link : 🛍 + Extra 10% AJIO Super Cash!🎉",
@@ -8162,45 +8230,5 @@
     "date_obj": "2025-10-02T12:10:13+00:00",
     "buy_link": "https://myntr.in/G1dA0Y",
     "date_iso": "2025-10-02T12:10:13+00:00"
-  },
-  {
-    "id": "msg10014",
-    "title": "₹3076",
-    "description": "LOOT ₹3076 https://fkrt.co/diS8mQ",
-    "shortlink": "https://fkrt.co/diS8mQ",
-    "urls": [
-      {
-        "url": "https://fkrt.co/diS8mQ",
-        "label": "LOOT ₹3076"
-      }
-    ],
-    "raw_text": "LOOT ₹3076 \n\n https://fkrt.co/diS8mQ",
-    "final_url": "https://fkrt.co/diS8mQ",
-    "local_image": "assets/images/tgmsg_10014.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-02T12:10:50+00:00",
-    "buy_link": "https://fkrt.co/diS8mQ",
-    "date_iso": "2025-10-02T12:10:50+00:00"
-  },
-  {
-    "id": "msg10016",
-    "title": "Miarcus Toys Starting From 287",
-    "description": "Myntra | Miarcus Toys Starting From 287. 👉https://myntr.in/4uzsGI",
-    "shortlink": "https://myntr.in/4uzsGI",
-    "urls": [
-      {
-        "url": "https://myntr.in/4uzsGI",
-        "label": "Miarcus Toys Starting From 287"
-      }
-    ],
-    "raw_text": "Myntra | Miarcus Toys Starting From 287.\n\n👉https://myntr.in/4uzsGI",
-    "final_url": "https://myntr.in/4uzsGI",
-    "local_image": "assets/images/tgmsg_10016.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-02T12:20:21+00:00",
-    "buy_link": "https://myntr.in/4uzsGI",
-    "date_iso": "2025-10-02T12:20:21+00:00"
   }
 ]
