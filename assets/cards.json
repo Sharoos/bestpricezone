@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg10568",
+    "title": "Men’s Sweatshirt Under ₹339",
+    "description": "Flipkart  Men’s Sweatshirt Under ₹339. https://fkrt.co/fybvnQ T-shirt Under ₹269 : https://fkrt.co/D69AJx",
+    "shortlink": "https://fkrt.co/fybvnQ",
+    "urls": [
+      {
+        "url": "https://fkrt.co/fybvnQ",
+        "label": "Flipkart Men’s Sweatshirt Under ₹339"
+      },
+      {
+        "url": "https://fkrt.co/D69AJx",
+        "label": "T-shirt Under ₹269"
+      }
+    ],
+    "raw_text": "Flipkart  Men’s Sweatshirt Under ₹339. \n\nhttps://fkrt.co/fybvnQ\n\nT-shirt Under ₹269 : https://fkrt.co/D69AJx",
+    "final_url": "https://fkrt.co/fybvnQ",
+    "local_image": "assets/images/tgmsg_10568.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-04T15:51:31+00:00",
+    "buy_link": "https://fkrt.co/fybvnQ",
+    "date_iso": "2025-10-04T15:51:31+00:00"
+  },
+  {
     "id": "msg10567",
     "title": "Printed Totes and Slings Under 999",
     "description": "Myntra | Printed Totes and Slings Under 999 👉Link : https://myntr.in/sgW5Gp",
@@ -8202,81 +8226,5 @@
     "date_obj": "2025-10-02T18:46:40+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DHL6N6BG?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-02T18:46:40+00:00"
-  },
-  {
-    "id": "msg10143",
-    "title": "80% Off On Lee Cooper Men’s Clothing🔥",
-    "description": "AJIO Loot : . Master Link : T-Shirt : Shirts : Jeans : Shorts : Sweatshirts & Hoodies : Loot : Women’s Clothing👇. Master Link : T-Shirt : Top & Shirt : Jeans : Shorts : Sweatshirt & Hoodies : + Extra 10% AJIO Super Cash.",
-    "shortlink": "https://ajiio.co/RE6uz4",
-    "urls": [
-      {
-        "url": "",
-        "label": "80% Off On Lee Cooper Men’s Clothing🔥"
-      },
-      {
-        "url": "https://ajiio.co/RE6uz4",
-        "label": "Master"
-      },
-      {
-        "url": "https://ajiio.co/VswIfM",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://ajiio.co/ZPSctX",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/6uMuji",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/SOX89h",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.co/qWelQM",
-        "label": "Sweatshirts & Hoodies"
-      },
-      {
-        "url": "",
-        "label": "Women’s Clothing👇"
-      },
-      {
-        "url": "https://ajiio.co/mFETaw",
-        "label": "Master"
-      },
-      {
-        "url": "https://ajiio.co/UUW1H4",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://ajiio.co/hZ8DJg",
-        "label": "Top & Shirt"
-      },
-      {
-        "url": "https://ajiio.co/sz7xAl",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/p9Zfv1",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.co/pIgcAV",
-        "label": "Sweatshirt & Hoodies"
-      },
-      {
-        "url": "",
-        "label": "+ Extra 10% AJIO Super Cash"
-      }
-    ],
-    "raw_text": "AJIO Loot : 80% Off On Lee Cooper Men’s Clothing🔥. \n\nMaster Link : https://ajiio.co/RE6uz4\n\nT-Shirt : https://ajiio.co/VswIfM\nShirts : https://ajiio.co/ZPSctX\nJeans : https://ajiio.co/6uMuji\nShorts : https://ajiio.co/SOX89h\nSweatshirts & Hoodies : https://ajiio.co/qWelQM\n\nLoot : Women’s Clothing👇.\n\nMaster Link : https://ajiio.co/mFETaw\n\nT-Shirt : https://ajiio.co/UUW1H4\nTop & Shirt : https://ajiio.co/hZ8DJg\nJeans : https://ajiio.co/sz7xAl\nShorts : https://ajiio.co/p9Zfv1\nSweatshirt & Hoodies : https://ajiio.co/pIgcAV\n\n+ Extra 10% AJIO Super Cash.",
-    "final_url": "https://ajiio.co/RE6uz4",
-    "local_image": "assets/images/tgmsg_10143.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-02T18:01:37+00:00",
-    "buy_link": "https://ajiio.co/RE6uz4",
-    "date_iso": "2025-10-02T18:01:37+00:00"
   }
 ]
