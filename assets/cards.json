@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10424",
+    "title": "Aristocrat Duffel Bags Up to 85% Off From @579",
+    "description": "Flipkart | Aristocrat Duffel Bags Upto 85% Off From @579 https://fkrt.co/BYZEqK",
+    "shortlink": "https://fkrt.co/BYZEqK",
+    "urls": [
+      {
+        "url": "https://fkrt.co/BYZEqK",
+        "label": "Aristocrat Duffel Bags Upto 85% Off From @579"
+      }
+    ],
+    "raw_text": "Flipkart | Aristocrat Duffel Bags Upto 85% Off From @579\n\nhttps://fkrt.co/BYZEqK",
+    "final_url": "https://fkrt.co/BYZEqK",
+    "local_image": "assets/images/tgmsg_10424.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-04T03:31:40+00:00",
+    "buy_link": "https://fkrt.co/BYZEqK",
+    "date_iso": "2025-10-04T03:31:40+00:00"
+  },
+  {
     "id": "msg10419",
     "title": "",
     "description": "FLIPKART Men Vest - @98 Only https://fkrt.co/KPjQML",
@@ -8174,25 +8194,5 @@
     "date_obj": "2025-10-02T06:02:13+00:00",
     "buy_link": "https://ajiio.co/jO7IFy",
     "date_iso": "2025-10-02T06:02:13+00:00"
-  },
-  {
-    "id": "msg9933",
-    "title": "STANLEY heavy",
-    "description": "Loot: STANLEY heavy-duty portable toolbox at ₹341 https://www.amazon.in/dp/B084ZGJ8H5?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B084ZGJ8H5?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B084ZGJ8H5?th=1&tag=bestpricezo0f-21",
-        "label": "STANLEY heavy-duty portable toolbox at ₹341"
-      }
-    ],
-    "raw_text": "Loot: STANLEY heavy-duty portable toolbox at ₹341\n\nhttps://www.amazon.in/dp/B084ZGJ8H5?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B084ZGJ8H5?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9933.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-02T06:19:23+00:00",
-    "buy_link": "https://www.amazon.in/dp/B084ZGJ8H5?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-02T06:19:23+00:00"
   }
 ]
