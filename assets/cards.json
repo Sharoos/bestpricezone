@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg10458",
+    "title": "Up to 75% OFF on UCB Clothing",
+    "description": "Ajio | Up to 75% OFF on UCB Clothing Men’s: https://ajiio.co/kohdKn Women’s: https://ajiio.co/3uurRT Boy’s: https://ajiio.co/50nQKu Girl’s: https://ajiio.co/Cgg5Ff *10% Ajio Super Cash On Every Order.",
+    "shortlink": "https://ajiio.co/kohdKn",
+    "urls": [
+      {
+        "url": "",
+        "label": "Up to 75% OFF on UCB Clothing"
+      },
+      {
+        "url": "https://ajiio.co/kohdKn",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/3uurRT",
+        "label": "Women’s"
+      },
+      {
+        "url": "https://ajiio.co/50nQKu",
+        "label": "Boy’s"
+      },
+      {
+        "url": "https://ajiio.co/Cgg5Ff",
+        "label": "Girl’s"
+      },
+      {
+        "url": "",
+        "label": "10% Ajio Super Cash On Every Order"
+      }
+    ],
+    "raw_text": "Ajio | Up to 75% OFF on UCB Clothing\n\nMen’s: https://ajiio.co/kohdKn\nWomen’s: https://ajiio.co/3uurRT\nBoy’s: https://ajiio.co/50nQKu\nGirl’s: https://ajiio.co/Cgg5Ff\n\n*10% Ajio Super Cash On Every Order.",
+    "final_url": "https://ajiio.co/kohdKn",
+    "local_image": "assets/images/tgmsg_10458.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-04T07:31:39+00:00",
+    "buy_link": "https://ajiio.co/kohdKn",
+    "date_iso": "2025-10-04T07:31:39+00:00"
+  },
+  {
     "id": "msg10454",
     "title": "Up to 80% Off on Personal Care Products starting @ just ₹ 86",
     "description": "Myntra | UPTO 80% Off on Personal Care Products starting @ just ₹ 86 Link : https://myntr.in/DSgTkv",
@@ -8118,29 +8158,5 @@
     "date_obj": "2025-10-02T10:10:19+00:00",
     "buy_link": "https://msho.in/eBoCph",
     "date_iso": "2025-10-02T10:10:19+00:00"
-  },
-  {
-    "id": "msg9985",
-    "title": "🛒 Deal Price ₹1999",
-    "description": "Amazon | STANLEY SDH550KPA-IN 550W 13mm Corded Single Speed Hammer Drill Machine and Hand Tool Kit 🛒 Deal Price: ₹1999 👉",
-    "shortlink": "https://www.amazon.in/dp/B0DNJYM8GT?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "STANLEY SDH550KPA-IN 550W 13mm Corded Single Speed Hammer Drill Machine and Hand Tool Kit"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0DNJYM8GT?th=1&language=en_IN&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹1999"
-      }
-    ],
-    "raw_text": "Amazon | STANLEY SDH550KPA-IN 550W 13mm Corded Single Speed Hammer Drill Machine and Hand Tool Kit\n\n🛒 Deal Price: ₹1999\n\n👉https://www.amazon.in/dp/B0DNJYM8GT?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DNJYM8GT?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_9985.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-02T10:20:09+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DNJYM8GT?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-02T10:20:09+00:00"
   }
 ]
