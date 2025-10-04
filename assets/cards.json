@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg10427",
+    "title": "70% Off On Pond's Beauty Product",
+    "description": "Myntra : 50-70% Off On Pond's Beauty Products. https://myntr.in/4uf5P6",
+    "shortlink": "https://myntr.in/4uf5P6",
+    "urls": [
+      {
+        "url": "https://myntr.in/4uf5P6",
+        "label": "50-70% Off On Pond's Beauty Products"
+      }
+    ],
+    "raw_text": "Myntra : 50-70% Off On Pond's Beauty Products.\n\nhttps://myntr.in/4uf5P6",
+    "final_url": "https://myntr.in/4uf5P6",
+    "local_image": "assets/images/tgmsg_10427.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-04T04:01:37+00:00",
+    "buy_link": "https://myntr.in/4uf5P6",
+    "date_iso": "2025-10-04T04:01:37+00:00"
+  },
+  {
+    "id": "msg10428",
+    "title": "Metronaut Rucksacks Starting From Rs.663",
+    "description": "Flipkart | Metronaut Rucksacks Starting From Rs.663 https://fkrt.co/TZRUIc",
+    "shortlink": "https://fkrt.co/TZRUIc",
+    "urls": [
+      {
+        "url": "https://fkrt.co/TZRUIc",
+        "label": "Metronaut Rucksacks Starting From Rs.663"
+      }
+    ],
+    "raw_text": "Flipkart | Metronaut Rucksacks Starting From Rs.663\n\nhttps://fkrt.co/TZRUIc",
+    "final_url": "https://fkrt.co/TZRUIc",
+    "local_image": "assets/images/tgmsg_10428.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-04T04:18:55+00:00",
+    "buy_link": "https://fkrt.co/TZRUIc",
+    "date_iso": "2025-10-04T04:18:55+00:00"
+  },
+  {
     "id": "msg10425",
     "title": "PUMA Caps Starts @239",
     "description": "Myntra : PUMA Caps Starts @239. https://myntr.in/aLmTL5",
@@ -8134,61 +8174,5 @@
     "date_obj": "2025-10-02T06:31:39+00:00",
     "buy_link": "https://ajiio.co/1gdOqB",
     "date_iso": "2025-10-02T06:31:39+00:00"
-  },
-  {
-    "id": "msg9938",
-    "title": "Puma Track",
-    "description": "Loot : Puma Track-Pants Starts From ₹799 https://fkrt.co/wgzL99",
-    "shortlink": "https://fkrt.co/wgzL99",
-    "urls": [
-      {
-        "url": "https://fkrt.co/wgzL99",
-        "label": "Puma Track-Pants Starts From ₹799"
-      }
-    ],
-    "raw_text": "Loot : Puma Track-Pants Starts From ₹799\n\n https://fkrt.co/wgzL99",
-    "final_url": "https://fkrt.co/wgzL99",
-    "local_image": "assets/images/tgmsg_9938.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-02T06:35:34+00:00",
-    "buy_link": "https://fkrt.co/wgzL99",
-    "date_iso": "2025-10-02T06:35:34+00:00"
-  },
-  {
-    "id": "msg9939",
-    "title": "Up to 89% Off On Women Footwear 💥💥",
-    "description": "Myntra : Upto 89% Off On Women Footwear 💥💥 👉Flip Flops : 👉 Flats : 👉 Heels : 👉Shoes :",
-    "shortlink": "https://myntr.in/V0FPxh",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 89% Off On Women Footwear 💥💥"
-      },
-      {
-        "url": "https://myntr.in/V0FPxh",
-        "label": "Flip Flops"
-      },
-      {
-        "url": "https://myntr.in/mlv0QU",
-        "label": "Flats"
-      },
-      {
-        "url": "https://myntr.in/EH8vPT",
-        "label": "Heels"
-      },
-      {
-        "url": "https://myntr.in/s4wSVI",
-        "label": "Shoes"
-      }
-    ],
-    "raw_text": "Myntra : Upto 89% Off On Women Footwear 💥💥\n\n👉Flip Flops : https://myntr.in/V0FPxh\n👉 Flats : https://myntr.in/mlv0QU\n👉 Heels : https://myntr.in/EH8vPT\n👉Shoes : https://myntr.in/s4wSVI",
-    "final_url": "https://myntr.in/V0FPxh",
-    "local_image": "assets/images/tgmsg_9939.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-02T06:41:37+00:00",
-    "buy_link": "https://myntr.in/V0FPxh",
-    "date_iso": "2025-10-02T06:41:37+00:00"
   }
 ]
