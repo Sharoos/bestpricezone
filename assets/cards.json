@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg10530",
+    "title": "🛒 Deal Price ₹159",
+    "description": "Flipkart | 🖼️ Wallpaper Deal! Premium Wallpapers (500cm) 🛒 Deal Price: ₹159 https://fkrt.co/iCq6cH",
+    "shortlink": "https://fkrt.co/iCq6cH",
+    "urls": [
+      {
+        "url": "",
+        "label": "🖼️ Wallpaper Deal!"
+      },
+      {
+        "url": "",
+        "label": "Premium Wallpapers (500cm)"
+      },
+      {
+        "url": "https://fkrt.co/iCq6cH",
+        "label": "🛒 Deal Price: ₹159"
+      }
+    ],
+    "raw_text": "Flipkart | 🖼️ Wallpaper Deal!\n\nPremium Wallpapers (500cm)\n\n🛒 Deal Price: ₹159\n\nhttps://fkrt.co/iCq6cH",
+    "final_url": "https://fkrt.co/iCq6cH",
+    "local_image": "assets/images/tgmsg_10530.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-04T14:05:35+00:00",
+    "buy_link": "https://fkrt.co/iCq6cH",
+    "date_iso": "2025-10-04T14:05:35+00:00"
+  },
+  {
     "id": "msg10527",
     "title": "Up to 70% Off On Premium Brands Clothing + Extra 10% Super Cash",
     "description": "AJIO Upto 70% Off On Premium Brands Clothing + Extra 10% Super Cash. 70% Off On GAS : Men : Women : Upto 68% Off On SUPERDRY : Men : Women : Min. 50% Off On GAP : Women : Men : Boys : Girls : Upto 65% Off On Calvin…",
@@ -8250,65 +8278,5 @@
     "date_obj": "2025-10-02T16:31:33+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CCL6ML79?tag=bestpricezo0f-21",
     "date_iso": "2025-10-02T16:31:33+00:00"
-  },
-  {
-    "id": "msg10119",
-    "title": "Steve & Anderson Double Fitted Bedsheet under ₹194",
-    "description": "Bundle 1: Bedsheets & Bedding Essentials Raymond Home Bedsheet under ₹399 👉 Raymond Home 200+ TC Bedsheet under ₹1299 👉 Raymond Home Cotton Bedsheet under ₹999 👉 Raymond Home Cotton Bedsheet under ₹399 👉 Mytrident…",
-    "shortlink": "https://myntr.in/V0VWru",
-    "urls": [
-      {
-        "url": "",
-        "label": "Bedsheets & Bedding Essentials"
-      },
-      {
-        "url": "https://myntr.in/V0VWru",
-        "label": "Raymond Home Bedsheet under ₹399 👉"
-      },
-      {
-        "url": "https://myntr.in/i48pSN",
-        "label": "Raymond Home 200+ TC Bedsheet under ₹1299 👉"
-      },
-      {
-        "url": "https://myntr.in/CCeDFs",
-        "label": "Raymond Home Cotton Bedsheet under ₹999 👉"
-      },
-      {
-        "url": "https://myntr.in/exzh73",
-        "label": "Raymond Home Cotton Bedsheet under ₹399 👉"
-      },
-      {
-        "url": "https://myntr.in/LSu6Xy",
-        "label": "Mytrident Double Bedsheet under ₹699 👉"
-      },
-      {
-        "url": "https://myntr.in/CKUF35",
-        "label": "Mytrident Double Bedsheet under ₹699 👉"
-      },
-      {
-        "url": "https://myntr.in/a3orpQ",
-        "label": "Steve & Anderson Double Fitted Bedsheet under ₹194 👉"
-      },
-      {
-        "url": "https://myntr.in/4uivyP",
-        "label": "Ddecor, Portico Solid Bedsheet starting ₹499 👉"
-      },
-      {
-        "url": "https://myntr.in/Xb6bsh",
-        "label": "Ddecor, Mytrident & UCB Bedding Set starting ₹1499 👉"
-      },
-      {
-        "url": "https://myntr.in/MQRcMg",
-        "label": "La Verne Bedsheet starting ₹199 👉"
-      }
-    ],
-    "raw_text": "Bundle 1: Bedsheets & Bedding Essentials\n\nRaymond Home Bedsheet under ₹399 👉 https://myntr.in/V0VWru\n\nRaymond Home 200+ TC Bedsheet under ₹1299 👉 https://myntr.in/i48pSN\n\nRaymond Home Cotton Bedsheet under ₹999 👉 https://myntr.in/CCeDFs\n\nRaymond Home Cotton Bedsheet under ₹399 👉 https://myntr.in/exzh73\n\nMytrident Double Bedsheet under ₹699 👉 https://myntr.in/LSu6Xy\n\nMytrident Double Bedsheet under ₹699 👉 https://myntr.in/CKUF35\n\nSteve & Anderson Double Fitted Bedsheet under ₹194 👉 https://myntr.in/a3orpQ\n\nDdecor, Portico Solid Bedsheet starting ₹499 👉 https://myntr.in/4uivyP\n\nDdecor, Mytrident & UCB Bedding Set starting ₹1499 👉 https://myntr.in/Xb6bsh\n\nLa Verne Bedsheet starting ₹199 👉 https://myntr.in/MQRcMg",
-    "final_url": "https://myntr.in/V0VWru",
-    "local_image": "assets/images/tgmsg_10119.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-02T16:31:42+00:00",
-    "buy_link": "https://myntr.in/V0VWru",
-    "date_iso": "2025-10-02T16:31:42+00:00"
   }
 ]
