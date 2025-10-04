@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10540",
+    "title": "Sticky Wall Hook for Hangers At Rs.123",
+    "description": "Flipkart | Sticky Wall Hook for Hangers At Rs.123 👉https://fkrt.co/fzsFZA",
+    "shortlink": "https://fkrt.co/fzsFZA",
+    "urls": [
+      {
+        "url": "https://fkrt.co/fzsFZA",
+        "label": "Sticky Wall Hook for Hangers At Rs.123"
+      }
+    ],
+    "raw_text": "Flipkart | Sticky Wall Hook for Hangers At Rs.123\n\n👉https://fkrt.co/fzsFZA",
+    "final_url": "https://fkrt.co/fzsFZA",
+    "local_image": "assets/images/tgmsg_10540.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-04T14:41:32+00:00",
+    "buy_link": "https://fkrt.co/fzsFZA",
+    "date_iso": "2025-10-04T14:41:32+00:00"
+  },
+  {
     "id": "msg10537",
     "title": "Tide Matic Liquid Detergent 2L",
     "description": "Amazon | Tide Matic Liquid Detergent 2L @220: https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21 @232: https://www.amazon.in/dp/B0CF4WQ5D1?th=1&psc=1&tag=bestpricezo0f-21",
@@ -8258,37 +8278,5 @@
     "date_obj": "2025-10-02T16:11:55+00:00",
     "buy_link": "https://fkrt.co/mvRAUI",
     "date_iso": "2025-10-02T16:11:55+00:00"
-  },
-  {
-    "id": "msg10111",
-    "title": "🌟Up to 80% Off On Mast & Harbour Men's Clothing.🔥🔥",
-    "description": "🌟Myntra : Upto 80% Off On Mast & Harbour Men's Clothing.🔥🔥 🖇️T-Shirt : 🖇️Shirt : 🖇️Jeans :",
-    "shortlink": "https://myntr.in/DNFJfx",
-    "urls": [
-      {
-        "url": "",
-        "label": "🌟Myntra : Upto 80% Off On Mast & Harbour Men's Clothing.🔥🔥"
-      },
-      {
-        "url": "https://myntr.in/DNFJfx",
-        "label": "🖇️T-Shirt"
-      },
-      {
-        "url": "https://myntr.in/Xxep7D",
-        "label": "🖇️Shirt"
-      },
-      {
-        "url": "https://myntr.in/JDqMaY",
-        "label": "🖇️Jeans"
-      }
-    ],
-    "raw_text": "🌟Myntra : Upto 80% Off On Mast & Harbour Men's Clothing.🔥🔥\n\n🖇️T-Shirt : https://myntr.in/DNFJfx\n🖇️Shirt : https://myntr.in/Xxep7D\n🖇️Jeans : https://myntr.in/JDqMaY",
-    "final_url": "https://myntr.in/DNFJfx",
-    "local_image": "assets/images/tgmsg_10111.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-02T16:12:40+00:00",
-    "buy_link": "https://myntr.in/DNFJfx",
-    "date_iso": "2025-10-02T16:12:40+00:00"
   }
 ]
