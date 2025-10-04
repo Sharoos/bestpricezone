@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg10652",
+    "title": "Lowest Pack of 5 Dollar Lehar Mens Trunk at Rs.309",
+    "description": "Flipkart Lowest : Pack of 5 Dollar Lehar Mens Trunk at Rs.309 - *Each at ₹60/Pc.",
+    "shortlink": "https://fkrt.co/jedAWF",
+    "urls": [
+      {
+        "url": "https://fkrt.co/jedAWF",
+        "label": "Pack of 5 Dollar Lehar Mens Trunk at Rs.309"
+      },
+      {
+        "url": "",
+        "label": "Each at ₹60/Pc"
+      }
+    ],
+    "raw_text": "Flipkart Lowest : Pack of 5 Dollar Lehar Mens Trunk at Rs.309\n\n-   https://fkrt.co/jedAWF\n\n*Each at ₹60/Pc.",
+    "final_url": "https://fkrt.co/jedAWF",
+    "local_image": "assets/images/tgmsg_10652.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-04T19:31:26+00:00",
+    "buy_link": "https://fkrt.co/jedAWF",
+    "date_iso": "2025-10-04T19:31:26+00:00"
+  },
+  {
     "id": "msg10644",
     "title": "BEARDO Whisky Smoke EDP Perfume Strong & Long Lasting",
     "description": "Flipkart | BEARDO Whisky Smoke EDP Perfume Strong & Long Lasting https://fkrt.co/x969HI",
@@ -8418,25 +8442,5 @@
     "date_obj": "2025-10-03T08:10:14+00:00",
     "buy_link": "https://myntr.in/6adTe4",
     "date_iso": "2025-10-03T08:10:14+00:00"
-  },
-  {
-    "id": "msg10218",
-    "title": "@99",
-    "description": "Myntra Loot | @99 Link👉👉👉https://myntr.in/1s18JK",
-    "shortlink": "https://myntr.in/1s18JK",
-    "urls": [
-      {
-        "url": "https://myntr.in/1s18JK",
-        "label": "@99"
-      }
-    ],
-    "raw_text": "Myntra Loot | @99\n\nLink👉👉👉https://myntr.in/1s18JK",
-    "final_url": "https://myntr.in/1s18JK",
-    "local_image": "assets/images/tgmsg_10218.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-03T07:52:04+00:00",
-    "buy_link": "https://myntr.in/1s18JK",
-    "date_iso": "2025-10-03T07:52:04+00:00"
   }
 ]
