@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10481",
+    "title": "Wild stone min 55% off",
+    "description": "Myntra | Wild stone min 55% off 👉Link : https://myntr.in/GvatUS",
+    "shortlink": "https://myntr.in/GvatUS",
+    "urls": [
+      {
+        "url": "https://myntr.in/GvatUS",
+        "label": "Wild stone min 55% off"
+      }
+    ],
+    "raw_text": "Myntra | Wild stone min 55% off\n\n👉Link : https://myntr.in/GvatUS",
+    "final_url": "https://myntr.in/GvatUS",
+    "local_image": "assets/images/tgmsg_10481.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-04T09:40:09+00:00",
+    "buy_link": "https://myntr.in/GvatUS",
+    "date_iso": "2025-10-04T09:40:09+00:00"
+  },
+  {
     "id": "msg10480",
     "title": "Metronaut Men's T Shirts Up to 75% Off",
     "description": "Flipkart | Metronaut Men's T Shirts Upto 75% Off 👉 French Connection Men's T Shirts Upto 70% Off 👉",
@@ -8214,25 +8234,5 @@
     "date_obj": "2025-10-02T13:15:22+00:00",
     "buy_link": "https://ajiio.co/BvigC8",
     "date_iso": "2025-10-02T13:15:22+00:00"
-  },
-  {
-    "id": "msg10012",
-    "title": "Wembley Toys Starting From 411",
-    "description": "Myntra | Wembley Toys Starting From 411. 👉https://myntr.in/j1NfCl",
-    "shortlink": "https://myntr.in/j1NfCl",
-    "urls": [
-      {
-        "url": "https://myntr.in/j1NfCl",
-        "label": "Wembley Toys Starting From 411"
-      }
-    ],
-    "raw_text": "Myntra | Wembley Toys Starting From 411.\n\n👉https://myntr.in/j1NfCl",
-    "final_url": "https://myntr.in/j1NfCl",
-    "local_image": "assets/images/tgmsg_10012.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-02T12:03:53+00:00",
-    "buy_link": "https://myntr.in/j1NfCl",
-    "date_iso": "2025-10-02T12:03:53+00:00"
   }
 ]
