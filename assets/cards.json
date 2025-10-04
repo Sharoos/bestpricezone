@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg10564",
+    "title": "Bruton Men's Shoes start from ₹214",
+    "description": "Flipkart | Bruton Men's Shoes start from ₹214 👉https://fkrt.co/SXWEQQ",
+    "shortlink": "https://fkrt.co/SXWEQQ",
+    "urls": [
+      {
+        "url": "https://fkrt.co/SXWEQQ",
+        "label": "Bruton Men's Shoes start from ₹214"
+      }
+    ],
+    "raw_text": "Flipkart | Bruton Men's Shoes start from ₹214\n\n👉https://fkrt.co/SXWEQQ",
+    "final_url": "https://fkrt.co/SXWEQQ",
+    "local_image": "assets/images/tgmsg_10564.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-04T15:31:43+00:00",
+    "buy_link": "https://fkrt.co/SXWEQQ",
+    "date_iso": "2025-10-04T15:31:43+00:00"
+  },
+  {
+    "id": "msg10565",
+    "title": "Branded Blankets From 399",
+    "description": "Branded Blankets From 399. https://fkrt.co/3XanDS",
+    "shortlink": "https://fkrt.co/3XanDS",
+    "urls": [
+      {
+        "url": "https://fkrt.co/3XanDS",
+        "label": "Branded Blankets From 399"
+      }
+    ],
+    "raw_text": "Branded Blankets From 399.\n\nhttps://fkrt.co/3XanDS",
+    "final_url": "https://fkrt.co/3XanDS",
+    "local_image": "assets/images/tgmsg_10565.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-04T15:33:14+00:00",
+    "buy_link": "https://fkrt.co/3XanDS",
+    "date_iso": "2025-10-04T15:33:14+00:00"
+  },
+  {
     "id": "msg10547",
     "title": "Up to 78% Off On Hrx By Hrithik Roshan Duffel Bag",
     "description": "Flipkart | Upto 78% Off On Hrx By Hrithik Roshan Duffel Bags 👉Link : https://fkrt.co/fc0WLM",
@@ -8238,45 +8278,5 @@
     "date_obj": "2025-10-02T18:11:35+00:00",
     "buy_link": "https://myntr.in/NF2qZT",
     "date_iso": "2025-10-02T18:11:35+00:00"
-  },
-  {
-    "id": "msg10141",
-    "title": "Eveready 7W Led Bulb Pack Of 10 @499",
-    "description": "Amazon | Eveready 7W Led Bulb Pack Of 10 @499. 👉https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
-        "label": "Eveready 7W Led Bulb Pack Of 10 @499"
-      }
-    ],
-    "raw_text": "Amazon | Eveready 7W Led Bulb Pack Of 10 @499.\n \n👉https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10141.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-02T17:51:40+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-02T17:51:40+00:00"
-  },
-  {
-    "id": "msg10142",
-    "title": "FAST ₹349",
-    "description": "LOOT FAST ₹349 https://fkrt.co/HugH8C",
-    "shortlink": "https://fkrt.co/HugH8C",
-    "urls": [
-      {
-        "url": "https://fkrt.co/HugH8C",
-        "label": "LOOT FAST ₹349"
-      }
-    ],
-    "raw_text": "LOOT FAST ₹349 \n\nhttps://fkrt.co/HugH8C",
-    "final_url": "https://fkrt.co/HugH8C",
-    "local_image": "assets/images/tgmsg_10142.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-02T17:55:53+00:00",
-    "buy_link": "https://fkrt.co/HugH8C",
-    "date_iso": "2025-10-02T17:55:53+00:00"
   }
 ]
