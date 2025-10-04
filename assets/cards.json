@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10492",
+    "title": "Philips Min 30% off on beauty & grooming Appliance",
+    "description": "Myntra | Philips Min 30% off on beauty & grooming Appliances 👉Link : https://myntr.in/VW70cy",
+    "shortlink": "https://myntr.in/VW70cy",
+    "urls": [
+      {
+        "url": "https://myntr.in/VW70cy",
+        "label": "Philips Min 30% off on beauty & grooming Appliances"
+      }
+    ],
+    "raw_text": "Myntra | Philips Min 30% off on beauty & grooming Appliances\n\n👉Link : https://myntr.in/VW70cy",
+    "final_url": "https://myntr.in/VW70cy",
+    "local_image": "assets/images/tgmsg_10492.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-04T10:31:25+00:00",
+    "buy_link": "https://myntr.in/VW70cy",
+    "date_iso": "2025-10-04T10:31:25+00:00"
+  },
+  {
     "id": "msg10485",
     "title": "Bank Offer Get 10% Instant Discount with HDFC Credit Card",
     "description": "Flipkart⚡️ BIG FESTIVE DHAMAKA Sale Is Live! ⚡️Get up to 70% OFF on Televisions, Refrigerators, ACs & Washing Machines. Master Link: • Televisions: • Air Conditioners: • Refrigerators: • Washing Machines: *Bank Offer:…",
@@ -8218,25 +8238,5 @@
     "date_obj": "2025-10-02T13:51:38+00:00",
     "buy_link": "https://myntr.in/AA6oMb",
     "date_iso": "2025-10-02T13:51:38+00:00"
-  },
-  {
-    "id": "msg10038",
-    "title": "FAST",
-    "description": "LOOT FAST. https://fkrt.co/YfFxzY",
-    "shortlink": "https://fkrt.co/YfFxzY",
-    "urls": [
-      {
-        "url": "https://fkrt.co/YfFxzY",
-        "label": "LOOT FAST"
-      }
-    ],
-    "raw_text": "LOOT FAST. \n\nhttps://fkrt.co/YfFxzY",
-    "final_url": "https://fkrt.co/YfFxzY",
-    "local_image": "assets/images/tgmsg_10038.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-02T13:27:45+00:00",
-    "buy_link": "https://fkrt.co/YfFxzY",
-    "date_iso": "2025-10-02T13:27:45+00:00"
   }
 ]
