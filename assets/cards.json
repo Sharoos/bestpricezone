@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg10439",
+    "title": "Min. 70% Off Lino Perros Handbag",
+    "description": "Myntra | Min. 70% Off Lino Perros Handbags https://myntr.in/ta8tRE",
+    "shortlink": "https://myntr.in/ta8tRE",
+    "urls": [
+      {
+        "url": "https://myntr.in/ta8tRE",
+        "label": "Min. 70% Off Lino Perros Handbags"
+      }
+    ],
+    "raw_text": "Myntra | Min. 70% Off Lino Perros Handbags \n\nhttps://myntr.in/ta8tRE",
+    "final_url": "https://myntr.in/ta8tRE",
+    "local_image": "assets/images/tgmsg_10439.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-04T05:31:41+00:00",
+    "buy_link": "https://myntr.in/ta8tRE",
+    "date_iso": "2025-10-04T05:31:41+00:00"
+  },
+  {
+    "id": "msg10440",
+    "title": "Up to 87% Off on Kurti Sets & Kurti",
+    "description": "Flipkart | Up to 87% Off on Kurti Sets & Kurtis 👉https://fkrt.co/VFelq4",
+    "shortlink": "https://fkrt.co/VFelq4",
+    "urls": [
+      {
+        "url": "https://fkrt.co/VFelq4",
+        "label": "Up to 87% Off on Kurti Sets & Kurtis"
+      }
+    ],
+    "raw_text": "Flipkart | Up to 87% Off on Kurti Sets & Kurtis\n\n👉https://fkrt.co/VFelq4",
+    "final_url": "https://fkrt.co/VFelq4",
+    "local_image": "assets/images/tgmsg_10440.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-04T05:41:40+00:00",
+    "buy_link": "https://fkrt.co/VFelq4",
+    "date_iso": "2025-10-04T05:41:40+00:00"
+  },
+  {
     "id": "msg10437",
     "title": "Heels Min. 55% Off",
     "description": "🔥Flipkart Women’s Footwear Deals Is Live !!!! Shoes Starts @ ₹187 👉  👉 Flats Under ₹299 👉 Slippers From ₹99 👉",
@@ -8146,49 +8186,5 @@
     "date_obj": "2025-10-02T08:20:20+00:00",
     "buy_link": "https://myntr.in/KturKn",
     "date_iso": "2025-10-02T08:20:20+00:00"
-  },
-  {
-    "id": "msg9951",
-    "title": "Mi 20000 mAh 33 W Power Bank",
-    "description": "Flipkart | Mi 20000 mAh 33 W Power Bank @1452₹(With offer) 👉https://fkrt.co/Cdba5B",
-    "shortlink": "https://fkrt.co/Cdba5B",
-    "urls": [
-      {
-        "url": "",
-        "label": "Mi 20000 mAh 33 W Power Bank"
-      },
-      {
-        "url": "https://fkrt.co/Cdba5B",
-        "label": "@1452₹(With offer)"
-      }
-    ],
-    "raw_text": "Flipkart | Mi 20000 mAh 33 W Power Bank \n\n@1452₹(With offer)\n\n👉https://fkrt.co/Cdba5B",
-    "final_url": "https://fkrt.co/Cdba5B",
-    "local_image": "assets/images/tgmsg_9951.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-02T07:54:37+00:00",
-    "buy_link": "https://fkrt.co/Cdba5B",
-    "date_iso": "2025-10-02T07:54:37+00:00"
-  },
-  {
-    "id": "msg9949",
-    "title": "FAST",
-    "description": "LOOT FAST. https://fkrt.co/bETmpv",
-    "shortlink": "https://fkrt.co/bETmpv",
-    "urls": [
-      {
-        "url": "https://fkrt.co/bETmpv",
-        "label": "LOOT FAST"
-      }
-    ],
-    "raw_text": "LOOT FAST. \n\nhttps://fkrt.co/bETmpv",
-    "final_url": "https://fkrt.co/bETmpv",
-    "local_image": "assets/images/tgmsg_9949.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-02T07:42:50+00:00",
-    "buy_link": "https://fkrt.co/bETmpv",
-    "date_iso": "2025-10-02T07:42:50+00:00"
   }
 ]
