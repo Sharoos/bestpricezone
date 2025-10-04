@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg10537",
+    "title": "Tide Matic Liquid Detergent 2L",
+    "description": "Amazon | Tide Matic Liquid Detergent 2L @220: https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21 @232: https://www.amazon.in/dp/B0CF4WQ5D1?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Tide Matic Liquid Detergent 2L"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "@220"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0CF4WQ5D1?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "@232"
+      }
+    ],
+    "raw_text": "Amazon | Tide Matic Liquid Detergent 2L\n\n@220: https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21\n\n@232: https://www.amazon.in/dp/B0CF4WQ5D1?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_10537.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-04T14:32:28+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-04T14:32:28+00:00"
+  },
+  {
     "id": "msg10531",
     "title": "🥣 Tableware & Dinnerware – Up to 93% Off",
     "description": "🍽️ Flipkart Home Deals – Kitchen Essentials 🏠  🔗 🍽️ Dinner Sets – Up to 70% Off 🔗 🍷 Barware – Premium Collection 🔗",
@@ -8262,25 +8290,5 @@
     "date_obj": "2025-10-02T16:12:40+00:00",
     "buy_link": "https://myntr.in/DNFJfx",
     "date_iso": "2025-10-02T16:12:40+00:00"
-  },
-  {
-    "id": "msg10113",
-    "title": "4.2 L at 2699 + extra discounts!",
-    "description": "Myntra | Pigeon Green Digital Air Fryer - 4.2 L at 2699 + extra coupon discounts!",
-    "shortlink": "https://myntr.in/G06wut",
-    "urls": [
-      {
-        "url": "https://myntr.in/G06wut",
-        "label": ""
-      }
-    ],
-    "raw_text": "Myntra | Pigeon Green Digital Air Fryer - 4.2 L at 2699 + extra coupon discounts! \n \nhttps://myntr.in/G06wut",
-    "final_url": "https://myntr.in/G06wut",
-    "local_image": "assets/images/tgmsg_10113.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-02T16:18:34+00:00",
-    "buy_link": "https://myntr.in/G06wut",
-    "date_iso": "2025-10-02T16:18:34+00:00"
   }
 ]
