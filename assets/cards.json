@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg10600",
+    "title": "Up to 88% Off on Fubar Clothing 🔥🔥",
+    "description": "Flipkart : Upto 88% Off on Fubar Clothing 🔥🔥 → Shirts : →Trousers : → Kurta : → Pack of shirts - 2 @ Rs.349",
+    "shortlink": "https://fkrt.co/A57ME5",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 88% Off on Fubar Clothing 🔥🔥"
+      },
+      {
+        "url": "https://fkrt.co/A57ME5",
+        "label": "→ Shirts"
+      },
+      {
+        "url": "https://fkrt.co/8eSkPk",
+        "label": "→Trousers"
+      },
+      {
+        "url": "https://fkrt.co/MUxxI2",
+        "label": "→ Kurta"
+      },
+      {
+        "url": "https://fkrt.co/a0TqEC",
+        "label": "→ Pack of shirts - 2 @ Rs.349"
+      }
+    ],
+    "raw_text": "Flipkart : Upto 88% Off on Fubar Clothing 🔥🔥\n\n→ Shirts : https://fkrt.co/A57ME5\n→Trousers : https://fkrt.co/8eSkPk\n→ Kurta : https://fkrt.co/MUxxI2\n→ Pack of shirts - 2 @ Rs.349 https://fkrt.co/a0TqEC",
+    "final_url": "https://fkrt.co/A57ME5",
+    "local_image": "assets/images/tgmsg_10600.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-04T17:58:01+00:00",
+    "buy_link": "https://fkrt.co/A57ME5",
+    "date_iso": "2025-10-04T17:58:01+00:00"
+  },
+  {
+    "id": "msg10602",
+    "title": "Episkey 3 in 1 Soap Pump Dispenser @ 157",
+    "description": "Amazon | Episkey 3 in 1 Soap Pump Dispenser @ 157. 👉Link : https://www.amazon.in/dp/B0DNBT6TRF?tag=bestpricezo0f-21 Steel Scrubber (Pack of 10) Rs.119 👉Link : https://www.amazon.in/dp/B0D7MNBWJT?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DNBT6TRF?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DNBT6TRF?tag=bestpricezo0f-21",
+        "label": "Episkey 3 in 1 Soap Pump Dispenser @ 157"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0D7MNBWJT?tag=bestpricezo0f-21",
+        "label": "Steel Scrubber (Pack of 10) Rs.119"
+      }
+    ],
+    "raw_text": "Amazon | Episkey 3 in 1 Soap Pump Dispenser @ 157.\n\n👉Link : https://www.amazon.in/dp/B0DNBT6TRF?tag=bestpricezo0f-21\n\nSteel Scrubber (Pack of 10) Rs.119\n\n👉Link : https://www.amazon.in/dp/B0D7MNBWJT?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DNBT6TRF?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_10602.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-04T18:02:40+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DNBT6TRF?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-04T18:02:40+00:00"
+  },
+  {
     "id": "msg10595",
     "title": "Carbamide Forte Multivitamin with Probiotics & Omega 3 fish oil capsules At 598",
     "description": "Carbamide Forte Multivitamin with Probiotics & Omega 3 fish oil capsules At 598. https://www.amazon.in/dp/B0DQV32N4K?tag=bestpricezo0f-21",
@@ -8322,49 +8382,5 @@
     "date_obj": "2025-10-02T19:04:36+00:00",
     "buy_link": "https://www.amazon.in/dp/B09F9Q7287?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-02T19:04:36+00:00"
-  },
-  {
-    "id": "msg10177",
-    "title": "65% Off Lifebuoy Body Wash, 1 L @227",
-    "description": "Amazon | 65% Off : Lifebuoy Body Wash, 1 L @227. https://www.amazon.in/dp/B09TH95DP8?th=1&psc=1&tag=bestpricezo0f-21 More :…",
-    "shortlink": "https://www.amazon.in/dp/B09TH95DP8?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B09TH95DP8?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "65% Off : Lifebuoy Body Wash, 1 L @227"
-      },
-      {
-        "url": "https://www.amazon.in/s?k=lifebuoy%20bodywash&rh=n%3A22735839031%2Cp_6%3AA15APWRK6P7LBV%2Cp_123%3A369272%2Cp_n_pct-off-with-tax%3A2665401031&tag=bestpricezo0f-21",
-        "label": "More"
-      }
-    ],
-    "raw_text": "Amazon | 65% Off : Lifebuoy Body Wash, 1 L @227.\n\nhttps://www.amazon.in/dp/B09TH95DP8?th=1&psc=1&tag=bestpricezo0f-21\n\nMore : https://www.amazon.in/s?k=lifebuoy%20bodywash&rh=n%3A22735839031%2Cp_6%3AA15APWRK6P7LBV%2Cp_123%3A369272%2Cp_n_pct-off-with-tax%3A2665401031&tag=bestpricezo0f-21\n\nBuy 2, Get Extra 5% Off",
-    "final_url": "https://www.amazon.in/dp/B09TH95DP8?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10177.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-02T19:05:12+00:00",
-    "buy_link": "https://www.amazon.in/dp/B09TH95DP8?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-02T19:05:12+00:00"
-  },
-  {
-    "id": "msg10178",
-    "title": "Hisense 55 inch 4K Smart TV @24,499 Using Card",
-    "description": "Amazon | Hisense 55 inch 4K Smart TV @24,499 Using Card https://www.amazon.in/dp/B0D3XBS2VB?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D3XBS2VB?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0D3XBS2VB?th=1&tag=bestpricezo0f-21",
-        "label": "Hisense 55 inch 4K Smart TV @24,499 Using Card"
-      }
-    ],
-    "raw_text": "Amazon | Hisense 55 inch 4K Smart TV @24,499 Using Card\n\nhttps://www.amazon.in/dp/B0D3XBS2VB?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D3XBS2VB?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10178.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-02T19:05:58+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D3XBS2VB?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-02T19:05:58+00:00"
   }
 ]
