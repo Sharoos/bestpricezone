@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10802",
+    "title": "Digital Kitchen Countdown Timer & Stopwatch @299",
+    "description": "Amazon | Digital Kitchen Countdown Timer & Stopwatch @299. 👉https://www.amazon.in/dp/B0FJ87R98J?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FJ87R98J?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FJ87R98J?tag=bestpricezo0f-21",
+        "label": "Digital Kitchen Countdown Timer & Stopwatch @299"
+      }
+    ],
+    "raw_text": "Amazon | Digital Kitchen Countdown Timer & Stopwatch @299.\n\n👉https://www.amazon.in/dp/B0FJ87R98J?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FJ87R98J?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_10802.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-05T16:51:39+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FJ87R98J?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-05T16:51:39+00:00"
+  },
+  {
     "id": "msg10799",
     "title": "71% Off On Branded BodyLotion",
     "description": "Myntra : 50-71% Off On Branded BodyLotions. 👉https://myntr.in/kgfzv5 (Ponds, Nivea, Vaseline, Parachute, Etc)",
@@ -8854,25 +8874,5 @@
     "date_obj": "2025-10-03T19:07:46+00:00",
     "buy_link": "https://fkrt.co/mgqU01",
     "date_iso": "2025-10-03T19:07:46+00:00"
-  },
-  {
-    "id": "msg10378",
-    "title": "Women's Jeans From ₹399",
-    "description": "Myntra | Women's Jeans From ₹399 https://myntr.in/HRcBt5",
-    "shortlink": "https://myntr.in/HRcBt5",
-    "urls": [
-      {
-        "url": "https://myntr.in/HRcBt5",
-        "label": "Women's Jeans From ₹399"
-      }
-    ],
-    "raw_text": "Myntra | Women's Jeans From ₹399\n\nhttps://myntr.in/HRcBt5",
-    "final_url": "https://myntr.in/HRcBt5",
-    "local_image": "assets/images/tgmsg_10378.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-03T19:08:00+00:00",
-    "buy_link": "https://myntr.in/HRcBt5",
-    "date_iso": "2025-10-03T19:08:00+00:00"
   }
 ]
