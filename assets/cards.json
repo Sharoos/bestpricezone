@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10695",
+    "title": "Ambrane 20W Dual Port Charger @399",
+    "description": "Amazon | Ambrane 20W Dual Port Charger @399. 👉https://www.amazon.in/dp/B09N18X9WN?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B09N18X9WN?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B09N18X9WN?tag=bestpricezo0f-21",
+        "label": "Ambrane 20W Dual Port Charger @399"
+      }
+    ],
+    "raw_text": "Amazon | Ambrane 20W Dual Port Charger @399.\n\n👉https://www.amazon.in/dp/B09N18X9WN?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B09N18X9WN?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_10695.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-05T07:41:42+00:00",
+    "buy_link": "https://www.amazon.in/dp/B09N18X9WN?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-05T07:41:42+00:00"
+  },
+  {
     "id": "msg10694",
     "title": "Vegetable Chopper Starts At Rs.115",
     "description": "Flipkart | Vegetable Chopper Starts At Rs.115 👉Link : https://fkrt.co/Eo2C6Z",
@@ -8522,29 +8542,5 @@
     "date_obj": "2025-10-03T13:06:29+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DQV1W1FX?tag=bestpricezo0f-21",
     "date_iso": "2025-10-03T13:06:29+00:00"
-  },
-  {
-    "id": "msg10255",
-    "title": "🛒 Deal Price ₹1114 (82% Off)",
-    "description": "Amazon | Ferro Analog Black Dial Men's Watch-F11037C-1082-R 🛒 Deal Price: ₹1114 (82% Off) 👉",
-    "shortlink": "https://www.amazon.in/dp/B09RZXM4KS?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Ferro Analog Black Dial Men's Watch-F11037C-1082-R"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B09RZXM4KS?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹1114 (82% Off)"
-      }
-    ],
-    "raw_text": "Amazon | Ferro Analog Black Dial Men's Watch-F11037C-1082-R\n\n🛒 Deal Price: ₹1114 (82% Off)\n\n👉https://www.amazon.in/dp/B09RZXM4KS?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B09RZXM4KS?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10255.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-03T13:10:15+00:00",
-    "buy_link": "https://www.amazon.in/dp/B09RZXM4KS?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-03T13:10:15+00:00"
   }
 ]
