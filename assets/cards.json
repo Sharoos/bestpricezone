@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg10821",
+    "title": "Min 70% Off💥💥",
+    "description": "Flipkart Grab : Min 70% Off💥💥 Dolby and Atmos Speakers https://fkrt.co/Z5TTFl",
+    "shortlink": "https://fkrt.co/Z5TTFl",
+    "urls": [
+      {
+        "url": "",
+        "label": "Min 70% Off💥💥"
+      },
+      {
+        "url": "https://fkrt.co/Z5TTFl",
+        "label": "Dolby and Atmos Speakers"
+      }
+    ],
+    "raw_text": "Flipkart Grab : Min 70% Off💥💥\n\nDolby and Atmos Speakers\n\nhttps://fkrt.co/Z5TTFl",
+    "final_url": "https://fkrt.co/Z5TTFl",
+    "local_image": "assets/images/tgmsg_10821.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-05T19:41:55+00:00",
+    "buy_link": "https://fkrt.co/Z5TTFl",
+    "date_iso": "2025-10-05T19:41:55+00:00"
+  },
+  {
     "id": "msg10818",
     "title": "Power Banks From ₹285",
     "description": "Flipkart | Power Banks From ₹285 👉Link : https://fkrt.co/lsbK79",
@@ -8850,25 +8874,5 @@
     "date_obj": "2025-10-03T18:57:49+00:00",
     "buy_link": "https://fkrt.co/qq6Mub",
     "date_iso": "2025-10-03T18:57:49+00:00"
-  },
-  {
-    "id": "msg10360",
-    "title": "Javiro Dish Cleaning Gels Starts At 224",
-    "description": "Flipkart | Javiro Dish Cleaning Gels Starts At 224. 👉https://fkrt.co/uGbXPw",
-    "shortlink": "https://fkrt.co/uGbXPw",
-    "urls": [
-      {
-        "url": "https://fkrt.co/uGbXPw",
-        "label": "Javiro Dish Cleaning Gels Starts At 224"
-      }
-    ],
-    "raw_text": "Flipkart | Javiro Dish Cleaning Gels Starts At 224.\n\n👉https://fkrt.co/uGbXPw",
-    "final_url": "https://fkrt.co/uGbXPw",
-    "local_image": "assets/images/tgmsg_10360.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T18:58:11+00:00",
-    "buy_link": "https://fkrt.co/uGbXPw",
-    "date_iso": "2025-10-03T18:58:11+00:00"
   }
 ]
