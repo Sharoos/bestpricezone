@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg10792",
+    "title": "Extra 10% Cashback On Every Orde",
+    "description": "Ajio | Vero Moda Twist-Front Top Starting @ Rs.561 👉 Extra 10% Ajio Cashback On Every Order",
+    "shortlink": "https://ajiio.co/l6vp1I",
+    "urls": [
+      {
+        "url": "https://ajiio.co/l6vp1I",
+        "label": "Vero Moda Twist-Front Top Starting @ Rs.561"
+      },
+      {
+        "url": "",
+        "label": "Extra 10% Ajio Cashback On Every Order"
+      }
+    ],
+    "raw_text": "Ajio | Vero Moda Twist-Front Top Starting @ Rs.561\n \n👉https://ajiio.co/l6vp1I\n\nExtra 10% Ajio Cashback On Every Order",
+    "final_url": "https://ajiio.co/l6vp1I",
+    "local_image": "assets/images/tgmsg_10792.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-05T15:53:57+00:00",
+    "buy_link": "https://ajiio.co/l6vp1I",
+    "date_iso": "2025-10-05T15:53:57+00:00"
+  },
+  {
     "id": "msg10789",
     "title": "Up to 81% Off on Ducati Shoe",
     "description": "Flipkart | Up to 81% Off on Ducati Shoes 👉https://fkrt.co/BZPMqd",
@@ -8774,29 +8798,5 @@
     "date_obj": "2025-10-03T18:45:39+00:00",
     "buy_link": "https://fkrt.co/Z9gfN8",
     "date_iso": "2025-10-03T18:45:39+00:00"
-  },
-  {
-    "id": "msg10337",
-    "title": "💰 Deal Price ₹150 ✅",
-    "description": "Flipkart | 💥 Joyful Junction 46PCS Sockets, Extension Bars, Mechanic Kit 💰 Deal Price: ₹150 ✅ 🔗",
-    "shortlink": "https://fkrt.co/iu45tI",
-    "urls": [
-      {
-        "url": "",
-        "label": "💥 Joyful Junction 46PCS Sockets, Extension Bars, Mechanic Kit"
-      },
-      {
-        "url": "https://fkrt.co/iu45tI",
-        "label": "💰 Deal Price: ₹150 ✅"
-      }
-    ],
-    "raw_text": "Flipkart | 💥 Joyful Junction 46PCS Sockets, Extension Bars, Mechanic Kit  \n\n💰 Deal Price: ₹150 ✅  \n\n🔗  https://fkrt.co/iu45tI",
-    "final_url": "https://fkrt.co/iu45tI",
-    "local_image": "assets/images/tgmsg_10337.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T18:46:06+00:00",
-    "buy_link": "https://fkrt.co/iu45tI",
-    "date_iso": "2025-10-03T18:46:06+00:00"
   }
 ]
