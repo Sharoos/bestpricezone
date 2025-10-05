@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10705",
+    "title": "Digital Kitchen Food Weighing Scale at RS.226",
+    "description": "Flipkart | 👉Digital Kitchen Food Weighing Scale at RS.226 🔗   https://fkrt.co/hd9aY9",
+    "shortlink": "https://fkrt.co/hd9aY9",
+    "urls": [
+      {
+        "url": "https://fkrt.co/hd9aY9",
+        "label": "👉Digital Kitchen Food Weighing Scale at RS.226"
+      }
+    ],
+    "raw_text": "Flipkart | 👉Digital Kitchen Food Weighing Scale at RS.226\n\n🔗   https://fkrt.co/hd9aY9",
+    "final_url": "https://fkrt.co/hd9aY9",
+    "local_image": "assets/images/tgmsg_10705.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-05T08:50:07+00:00",
+    "buy_link": "https://fkrt.co/hd9aY9",
+    "date_iso": "2025-10-05T08:50:07+00:00"
+  },
+  {
     "id": "msg10704",
     "title": "Plix B1G1 💥💥",
     "description": "Myntra | Plix B1G1 💥💥 👉https://myntr.in/C9xMKy",
@@ -8630,25 +8650,5 @@
     "date_obj": "2025-10-03T14:05:52+00:00",
     "buy_link": "https://myntr.in/QcjKvM",
     "date_iso": "2025-10-03T14:05:52+00:00"
-  },
-  {
-    "id": "msg10264",
-    "title": "Up to 80% Off On Skybag",
-    "description": "Myntra : Upto 80% Off On Skybags. https://myntr.in/dBewlW",
-    "shortlink": "https://myntr.in/dBewlW",
-    "urls": [
-      {
-        "url": "https://myntr.in/dBewlW",
-        "label": "Upto 80% Off On Skybags"
-      }
-    ],
-    "raw_text": "Myntra : Upto 80% Off On Skybags.\n\n https://myntr.in/dBewlW",
-    "final_url": "https://myntr.in/dBewlW",
-    "local_image": "assets/images/tgmsg_10264.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-03T14:11:09+00:00",
-    "buy_link": "https://myntr.in/dBewlW",
-    "date_iso": "2025-10-03T14:11:09+00:00"
   }
 ]
