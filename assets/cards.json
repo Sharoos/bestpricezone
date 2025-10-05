@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10704",
+    "title": "Plix B1G1 💥💥",
+    "description": "Myntra | Plix B1G1 💥💥 👉https://myntr.in/C9xMKy",
+    "shortlink": "https://myntr.in/C9xMKy",
+    "urls": [
+      {
+        "url": "https://myntr.in/C9xMKy",
+        "label": "Plix B1G1 💥💥"
+      }
+    ],
+    "raw_text": "Myntra | Plix B1G1 💥💥\n\n👉https://myntr.in/C9xMKy",
+    "final_url": "https://myntr.in/C9xMKy",
+    "local_image": "assets/images/tgmsg_10704.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-05T08:40:09+00:00",
+    "buy_link": "https://myntr.in/C9xMKy",
+    "date_iso": "2025-10-05T08:40:09+00:00"
+  },
+  {
     "id": "msg10700",
     "title": "Use Code BFFOP10 To Get Extra 10 % Off!",
     "description": "Myntra | 🔥OnePlus Lowest Prices Ever🔥 ONLY FOR FEW Hours OnePlus Nord Buds 2r at Rs. 1231 only! Use Coupon Code: BFFOP12 to get 12% Off! 👉 OnePlus Nord Buds 3r Only at Rs. 1439 + Bank offers!! Use Coupon Code: BFFOP10…",
@@ -8630,25 +8650,5 @@
     "date_obj": "2025-10-03T14:11:09+00:00",
     "buy_link": "https://myntr.in/dBewlW",
     "date_iso": "2025-10-03T14:11:09+00:00"
-  },
-  {
-    "id": "msg10267",
-    "title": "👟Up to 70% Off on UMBRO Men's Shoes – Starting at ₹900",
-    "description": "Ajio | 👟Upto 70% Off on UMBRO Men's Shoes – Starting at ₹900 👉 https://ajiio.co/YLRS5f",
-    "shortlink": "https://ajiio.co/YLRS5f",
-    "urls": [
-      {
-        "url": "https://ajiio.co/YLRS5f",
-        "label": "👟Upto 70% Off on UMBRO Men's Shoes – Starting at ₹900"
-      }
-    ],
-    "raw_text": "Ajio | 👟Upto 70% Off on UMBRO Men's Shoes – Starting at ₹900\n\n👉 https://ajiio.co/YLRS5f",
-    "final_url": "https://ajiio.co/YLRS5f",
-    "local_image": "assets/images/tgmsg_10267.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-03T14:21:43+00:00",
-    "buy_link": "https://ajiio.co/YLRS5f",
-    "date_iso": "2025-10-03T14:21:43+00:00"
   }
 ]
