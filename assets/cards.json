@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg10691",
+    "title": "Up to 81% Off On The Souled Store Clothing",
+    "description": "Myntra | Upto 81% Off On The Souled Store Clothing. Men's : https://myntr.in/NJwEnX Women's : https://myntr.in/7IG2kP Snitch : https://myntr.in/SIcRIC",
+    "shortlink": "https://myntr.in/NJwEnX",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 81% Off On The Souled Store Clothing"
+      },
+      {
+        "url": "https://myntr.in/NJwEnX",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/7IG2kP",
+        "label": "Women's"
+      },
+      {
+        "url": "https://myntr.in/SIcRIC",
+        "label": "Snitch"
+      }
+    ],
+    "raw_text": "Myntra | Upto 81% Off On The Souled Store Clothing.\n\nMen's : https://myntr.in/NJwEnX\nWomen's : https://myntr.in/7IG2kP\n\nSnitch : https://myntr.in/SIcRIC",
+    "final_url": "https://myntr.in/NJwEnX",
+    "local_image": "assets/images/tgmsg_10691.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-05T07:11:47+00:00",
+    "buy_link": "https://myntr.in/NJwEnX",
+    "date_iso": "2025-10-05T07:11:47+00:00"
+  },
+  {
+    "id": "msg10692",
+    "title": "Asics Shoes Up to 65% Off",
+    "description": "Ajio : Asics Shoes Upto 65% Off 👉https://ajiio.co/DypCbh",
+    "shortlink": "https://ajiio.co/DypCbh",
+    "urls": [
+      {
+        "url": "https://ajiio.co/DypCbh",
+        "label": "Asics Shoes Upto 65% Off"
+      }
+    ],
+    "raw_text": "Ajio : Asics Shoes Upto 65% Off\n\n👉https://ajiio.co/DypCbh",
+    "final_url": "https://ajiio.co/DypCbh",
+    "local_image": "assets/images/tgmsg_10692.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-05T07:21:45+00:00",
+    "buy_link": "https://ajiio.co/DypCbh",
+    "date_iso": "2025-10-05T07:21:45+00:00"
+  },
+  {
     "id": "msg10689",
     "title": "keywords=B0F316589H%7CB0F31646RD%7CB0F1DNZ4X7%7CB0F1DL43N7&ds=v1%3AGFvFNalJ5DYGjH5XKXezsXc%252BW0mtdik3S1EvTzBldKs&qid=1755863632&tag=bestpr",
     "description": "Amazon | Almonds/Cashews, 200-250g @ 249/299.…",
@@ -8494,53 +8546,5 @@
     "date_obj": "2025-10-03T13:20:13+00:00",
     "buy_link": "https://myntr.in/EI7hM4",
     "date_iso": "2025-10-03T13:20:13+00:00"
-  },
-  {
-    "id": "msg10246",
-    "title": "Up to 60% Off On Body Lotion",
-    "description": "Myntra | Upto 60% Off On Body Lotion 👉Link : https://myntr.in/uMYF8n",
-    "shortlink": "https://myntr.in/uMYF8n",
-    "urls": [
-      {
-        "url": "https://myntr.in/uMYF8n",
-        "label": "Upto 60% Off On Body Lotion"
-      }
-    ],
-    "raw_text": "Myntra | Upto 60% Off On Body Lotion \n \n👉Link : https://myntr.in/uMYF8n",
-    "final_url": "https://myntr.in/uMYF8n",
-    "local_image": "assets/images/tgmsg_10246.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-03T12:02:23+00:00",
-    "buy_link": "https://myntr.in/uMYF8n",
-    "date_iso": "2025-10-03T12:02:23+00:00"
-  },
-  {
-    "id": "msg10249",
-    "title": "Up to 80% Off On Puma Clothing",
-    "description": "Ajio | Upto 80% Off On Puma Clothing Men's : https://ajiio.co/R4hCg1 Women's : https://ajiio.co/G7gaHa",
-    "shortlink": "https://ajiio.co/R4hCg1",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Puma Clothing"
-      },
-      {
-        "url": "https://ajiio.co/R4hCg1",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/G7gaHa",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "Ajio | Upto 80% Off On Puma Clothing\n\nMen's : https://ajiio.co/R4hCg1\nWomen's : https://ajiio.co/G7gaHa",
-    "final_url": "https://ajiio.co/R4hCg1",
-    "local_image": "assets/images/tgmsg_10249.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-03T12:15:14+00:00",
-    "buy_link": "https://ajiio.co/R4hCg1",
-    "date_iso": "2025-10-03T12:15:14+00:00"
   }
 ]
