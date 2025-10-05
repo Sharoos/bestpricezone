@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10694",
+    "title": "Vegetable Chopper Starts At Rs.115",
+    "description": "Flipkart | Vegetable Chopper Starts At Rs.115 👉Link : https://fkrt.co/Eo2C6Z",
+    "shortlink": "https://fkrt.co/Eo2C6Z",
+    "urls": [
+      {
+        "url": "https://fkrt.co/Eo2C6Z",
+        "label": "Vegetable Chopper Starts At Rs.115"
+      }
+    ],
+    "raw_text": "Flipkart | Vegetable Chopper Starts At Rs.115\n\n👉Link : https://fkrt.co/Eo2C6Z",
+    "final_url": "https://fkrt.co/Eo2C6Z",
+    "local_image": "assets/images/tgmsg_10694.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-05T07:31:43+00:00",
+    "buy_link": "https://fkrt.co/Eo2C6Z",
+    "date_iso": "2025-10-05T07:31:43+00:00"
+  },
+  {
     "id": "msg10691",
     "title": "Up to 81% Off On The Souled Store Clothing",
     "description": "Myntra | Upto 81% Off On The Souled Store Clothing. Men's : https://myntr.in/NJwEnX Women's : https://myntr.in/7IG2kP Snitch : https://myntr.in/SIcRIC",
@@ -8526,25 +8546,5 @@
     "date_obj": "2025-10-03T13:10:15+00:00",
     "buy_link": "https://www.amazon.in/dp/B09RZXM4KS?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-03T13:10:15+00:00"
-  },
-  {
-    "id": "msg10256",
-    "title": "Bedsheets Starting From @274",
-    "description": "Myntra | Bedsheets Starting From @274 👉https://myntr.in/EI7hM4",
-    "shortlink": "https://myntr.in/EI7hM4",
-    "urls": [
-      {
-        "url": "https://myntr.in/EI7hM4",
-        "label": "Bedsheets Starting From @274"
-      }
-    ],
-    "raw_text": "Myntra | Bedsheets Starting From @274\n\n👉https://myntr.in/EI7hM4",
-    "final_url": "https://myntr.in/EI7hM4",
-    "local_image": "assets/images/tgmsg_10256.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-03T13:20:13+00:00",
-    "buy_link": "https://myntr.in/EI7hM4",
-    "date_iso": "2025-10-03T13:20:13+00:00"
   }
 ]
