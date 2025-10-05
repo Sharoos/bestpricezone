@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg10711",
+    "title": "✨ Lavie, Caprese & More – Min 70% Off",
+    "description": "👜🔥 FLIPKART BAG & LUGGAGE MEGA SALE - MIN 70% OFF! 🔥👜  👉Link : 💼 Dressberry, Anouk & More – From ₹349 👉Link : 🎒 Sling Bags – From ₹199 👉Link : 🧳 Safari, Aristocrat & More – Min 70% Off 👉Link : 🛄 Safari, Metronaut & More…",
+    "shortlink": "https://fkrt.co/cLqzwU",
+    "urls": [
+      {
+        "url": "",
+        "label": "👜🔥 FLIPKART BAG & LUGGAGE MEGA SALE - MIN 70% OFF! 🔥👜"
+      },
+      {
+        "url": "https://fkrt.co/cLqzwU",
+        "label": "✨ Lavie, Caprese & More – Min 70% Off"
+      },
+      {
+        "url": "https://fkrt.co/7WpuCh",
+        "label": "💼 Dressberry, Anouk & More – From ₹349"
+      },
+      {
+        "url": "https://fkrt.co/yIQxut",
+        "label": "🎒 Sling Bags – From ₹199"
+      },
+      {
+        "url": "https://fkrt.co/RedjVx",
+        "label": "🧳 Safari, Aristocrat & More – Min 70% Off"
+      },
+      {
+        "url": "https://fkrt.co/FLCkwv",
+        "label": "🛄 Safari, Metronaut & More – From ₹799"
+      },
+      {
+        "url": "",
+        "label": "📌 Limited Time Offer – Grab Your Favorite Bags Now! 🚀"
+      }
+    ],
+    "raw_text": "👜🔥 FLIPKART BAG & LUGGAGE MEGA SALE - MIN 70% OFF! 🔥👜\n\n✨ Lavie, Caprese & More – Min 70% Off\n👉Link : https://fkrt.co/cLqzwU\n\n💼 Dressberry, Anouk & More – From ₹349\n👉Link : https://fkrt.co/7WpuCh\n\n🎒 Sling Bags – From ₹199\n👉Link : https://fkrt.co/yIQxut\n\n🧳 Safari, Aristocrat & More – Min 70% Off\n👉Link : https://fkrt.co/RedjVx\n\n🛄 Safari, Metronaut & More – From ₹799\n👉Link : https://fkrt.co/FLCkwv\n\n📌 Limited Time Offer – Grab Your Favorite Bags Now! 🚀",
+    "final_url": "https://fkrt.co/cLqzwU",
+    "local_image": "assets/images/tgmsg_10711.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-05T09:35:10+00:00",
+    "buy_link": "https://fkrt.co/cLqzwU",
+    "date_iso": "2025-10-05T09:35:10+00:00"
+  },
+  {
     "id": "msg10707",
     "title": "Monvelli Gym Bag Up to 77% off From Rs.171",
     "description": "Flipkart | Monvelli Gym Bag upto 77% off  From Rs.171 👉 https://fkrt.co/og82Fe",
@@ -8598,45 +8642,5 @@
     "date_obj": "2025-10-03T14:51:38+00:00",
     "buy_link": "https://ajiio.co/WHGL0h",
     "date_iso": "2025-10-03T14:51:38+00:00"
-  },
-  {
-    "id": "msg10270",
-    "title": "🔥Up to 70% Off on Beauty Product",
-    "description": "🔥Myntra Up to 70% Off on Beauty Products Master Link : Boroplus : HE: Parachute : Deodorant :",
-    "shortlink": "https://myntr.in/YubPZu",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Myntra Up to 70% Off on Beauty Products"
-      },
-      {
-        "url": "https://myntr.in/YubPZu",
-        "label": "Master"
-      },
-      {
-        "url": "https://myntr.in/EO5sEw",
-        "label": "Boroplus"
-      },
-      {
-        "url": "https://myntr.in/z9ODS0",
-        "label": "HE"
-      },
-      {
-        "url": "https://myntr.in/Nijxgh",
-        "label": "Parachute"
-      },
-      {
-        "url": "https://myntr.in/KDuHTm",
-        "label": "Deodorant"
-      }
-    ],
-    "raw_text": "🔥Myntra  Up to 70% Off on Beauty Products \n\nMaster Link : https://myntr.in/YubPZu\n\nBoroplus : https://myntr.in/EO5sEw\nHE: https://myntr.in/z9ODS0\nParachute : https://myntr.in/Nijxgh\nDeodorant : https://myntr.in/KDuHTm",
-    "final_url": "https://myntr.in/YubPZu",
-    "local_image": "assets/images/tgmsg_10270.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-03T14:31:42+00:00",
-    "buy_link": "https://myntr.in/YubPZu",
-    "date_iso": "2025-10-03T14:31:42+00:00"
   }
 ]
