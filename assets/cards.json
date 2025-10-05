@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg10755",
+    "title": "🛍 + Extra 10% Super Cash! 🎉",
+    "description": "AJIO Min 60% Off On PUMA. Shoes : Men : Women : Kids : 🛍 + Extra 10% AJIO Super Cash! 🎉",
+    "shortlink": "https://ajiio.co/LJTCEd",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Min 60% Off On PUMA"
+      },
+      {
+        "url": "https://ajiio.co/LJTCEd",
+        "label": "Shoes"
+      },
+      {
+        "url": "https://ajiio.co/kjxobC",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/FPdO1t",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/GGyUSE",
+        "label": "Kids"
+      },
+      {
+        "url": "",
+        "label": "🛍 + Extra 10% AJIO Super Cash! 🎉"
+      }
+    ],
+    "raw_text": "AJIO  Min 60% Off On PUMA. \n\nShoes : https://ajiio.co/LJTCEd\n\nMen : https://ajiio.co/kjxobC\nWomen : https://ajiio.co/FPdO1t\nKids : https://ajiio.co/GGyUSE\n\n🛍 + Extra 10% AJIO Super Cash! 🎉",
+    "final_url": "https://ajiio.co/LJTCEd",
+    "local_image": "assets/images/tgmsg_10755.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-05T13:51:46+00:00",
+    "buy_link": "https://ajiio.co/LJTCEd",
+    "date_iso": "2025-10-05T13:51:46+00:00"
+  },
+  {
     "id": "msg10754",
     "title": "Up to 85% Off On Branded Clothing [TOP BRANDS ONLY]",
     "description": "Upto 85% Off On Branded Clothing [TOP BRANDS ONLY] Men's : Shirts : Jeans : T-shirts : Jackets : Sweatshirt Sweaters : Blazers : Women : Kid’s :",
@@ -8850,45 +8890,5 @@
     "date_obj": "2025-10-03T18:35:07+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F9P6PYPK?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-03T18:35:07+00:00"
-  },
-  {
-    "id": "msg10312",
-    "title": "Up to 88% Off Tokyo Talkies Women's Clothing",
-    "description": "Flipkart | Upto 88% Off Tokyo Talkies Women's Clothing. Topwear : Dresses And Gowns : Tracksuits : Bottomwear : h Sleepwear : Jumpsuits :",
-    "shortlink": "https://fktr.in/rwnrgRN",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 88% Off Tokyo Talkies Women's Clothing"
-      },
-      {
-        "url": "https://fktr.in/rwnrgRN",
-        "label": "Topwear"
-      },
-      {
-        "url": "https://fktr.in/8VhKpDN",
-        "label": "Dresses And Gowns"
-      },
-      {
-        "url": "https://fktr.in/6fbr3Ou",
-        "label": "Tracksuits"
-      },
-      {
-        "url": "https://fktr.in/pd9ryC3",
-        "label": "Sleepwear"
-      },
-      {
-        "url": "https://fktr.in/P4gbP24",
-        "label": "Jumpsuits"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 88% Off Tokyo Talkies Women's Clothing.\n\nTopwear : https://fktr.in/rwnrgRN\nDresses And Gowns : https://fktr.in/8VhKpDN\nTracksuits : https://fktr.in/6fbr3Ou\nBottomwear : h\nSleepwear : https://fktr.in/pd9ryC3\nJumpsuits : https://fktr.in/P4gbP24",
-    "final_url": "https://fktr.in/rwnrgRN",
-    "local_image": "assets/images/tgmsg_10312.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T18:35:10+00:00",
-    "buy_link": "https://fktr.in/rwnrgRN",
-    "date_iso": "2025-10-03T18:35:10+00:00"
   }
 ]
