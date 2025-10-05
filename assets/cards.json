@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10818",
+    "title": "Power Banks From ₹285",
+    "description": "Flipkart | Power Banks From ₹285 👉Link : https://fkrt.co/lsbK79",
+    "shortlink": "https://fkrt.co/lsbK79",
+    "urls": [
+      {
+        "url": "https://fkrt.co/lsbK79",
+        "label": "Power Banks From ₹285"
+      }
+    ],
+    "raw_text": "Flipkart | Power Banks From ₹285\n\n👉Link : https://fkrt.co/lsbK79",
+    "final_url": "https://fkrt.co/lsbK79",
+    "local_image": "assets/images/tgmsg_10818.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-05T19:26:31+00:00",
+    "buy_link": "https://fkrt.co/lsbK79",
+    "date_iso": "2025-10-05T19:26:31+00:00"
+  },
+  {
     "id": "msg10812",
     "title": "Tea Light Candle (50 Pcs) @ ₹110/",
     "description": "Flipkart | Tea Light Candle (50 Pcs) @ ₹110/- https://fkrt.co/Lv9GQY",
@@ -8850,33 +8870,5 @@
     "date_obj": "2025-10-03T18:58:11+00:00",
     "buy_link": "https://fkrt.co/uGbXPw",
     "date_iso": "2025-10-03T18:58:11+00:00"
-  },
-  {
-    "id": "msg10361",
-    "title": "Up to 75% Off On Top Branded Men Clothing",
-    "description": "Flipkart | Upto 75% Off On Top Branded Men Clothing. Spykar : https://fkrt.co/ef9jAD UCB : https://fkrt.co/bA52UC",
-    "shortlink": "https://fkrt.co/ef9jAD",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 75% Off On Top Branded Men Clothing"
-      },
-      {
-        "url": "https://fkrt.co/ef9jAD",
-        "label": "Spykar"
-      },
-      {
-        "url": "https://fkrt.co/bA52UC",
-        "label": "UCB"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 75% Off On Top Branded Men Clothing.\n\nSpykar : https://fkrt.co/ef9jAD\nUCB : https://fkrt.co/bA52UC",
-    "final_url": "https://fkrt.co/ef9jAD",
-    "local_image": "assets/images/tgmsg_10361.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T18:59:06+00:00",
-    "buy_link": "https://fkrt.co/ef9jAD",
-    "date_iso": "2025-10-03T18:59:06+00:00"
   }
 ]
