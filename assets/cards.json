@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg10736",
+    "title": "Up to 60% Off On Park Avenue Product",
+    "description": "Myntra | Upto 60% Off On Park Avenue Products. Upto 60% Off On Branded Shampoo. Dove : Tresemme :",
+    "shortlink": "https://myntr.in/bamLjx",
+    "urls": [
+      {
+        "url": "https://myntr.in/bamLjx",
+        "label": "Upto 60% Off On Park Avenue Products"
+      },
+      {
+        "url": "",
+        "label": "Upto 60% Off On Branded Shampoo"
+      },
+      {
+        "url": "https://myntr.in/KtcTqV",
+        "label": "Dove"
+      },
+      {
+        "url": "https://myntr.in/xoBDAH",
+        "label": "Tresemme"
+      }
+    ],
+    "raw_text": "Myntra | Upto 60% Off On Park Avenue Products.\n\nhttps://myntr.in/bamLjx\n\nUpto 60% Off On Branded Shampoo.\n\nDove : https://myntr.in/KtcTqV\nTresemme : https://myntr.in/xoBDAH",
+    "final_url": "https://myntr.in/bamLjx",
+    "local_image": "assets/images/tgmsg_10736.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-05T12:05:20+00:00",
+    "buy_link": "https://myntr.in/bamLjx",
+    "date_iso": "2025-10-05T12:05:20+00:00"
+  },
+  {
+    "id": "msg10737",
+    "title": "Apollo Tubeless Car Tyres — Just @3299",
+    "description": "Flipkart | Apollo Tubeless Car Tyres — Just @3299 👉https://fkrt.co/5qWchs JK Tubeless Car Tyres @3199 👉https://fkrt.co/9uphIz CEAT Milaze Car Tyres @906 👉https://fkrt.co/ivxpwK",
+    "shortlink": "https://fkrt.co/5qWchs",
+    "urls": [
+      {
+        "url": "https://fkrt.co/5qWchs",
+        "label": "Apollo Tubeless Car Tyres — Just @3299"
+      },
+      {
+        "url": "https://fkrt.co/9uphIz",
+        "label": "JK Tubeless Car Tyres @3199"
+      },
+      {
+        "url": "https://fkrt.co/ivxpwK",
+        "label": "CEAT Milaze Car Tyres @906"
+      }
+    ],
+    "raw_text": "Flipkart | Apollo Tubeless Car Tyres — Just @3299\n👉https://fkrt.co/5qWchs\n\nJK Tubeless Car Tyres @3199\n👉https://fkrt.co/9uphIz\n\nCEAT Milaze Car Tyres @906\n👉https://fkrt.co/ivxpwK",
+    "final_url": "https://fkrt.co/5qWchs",
+    "local_image": "assets/images/tgmsg_10737.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-05T12:10:14+00:00",
+    "buy_link": "https://fkrt.co/5qWchs",
+    "date_iso": "2025-10-05T12:10:14+00:00"
+  },
+  {
     "id": "msg10729",
     "title": "💳 Extra ₹250 Off on ₹2499+ Cart Value with HDFC Bank Credit Card",
     "description": "Flipkart Kilos 🔥🔥 Grocery Upto 80% Off + Many ₹1 Deals 👉 Master Link: 🍚 Atta, Rice & Daal: 🛢️ Oil & Ghee: 🍜 Noodles & Pasta: 🍪 Snacks: 🪥 Oral Care: 🧴 Personal Care: ☕ Tea & Coffee: 💄 Beauty & Grooming: 🏠 House Hold &…",
@@ -8702,45 +8762,5 @@
     "date_obj": "2025-10-03T18:11:03+00:00",
     "buy_link": "https://myntr.in/QfUdT6",
     "date_iso": "2025-10-03T18:11:03+00:00"
-  },
-  {
-    "id": "msg10297",
-    "title": "1kg Peanut Butter @ ₹214",
-    "description": "Amazon | 1kg Peanut Butter @ ₹214 👉https://www.amazon.in/dp/B0D3HR194F?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D3HR194F?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0D3HR194F?tag=bestpricezo0f-21",
-        "label": "1kg Peanut Butter @ ₹214"
-      }
-    ],
-    "raw_text": "Amazon | 1kg Peanut Butter @ ₹214\n\n👉https://www.amazon.in/dp/B0D3HR194F?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D3HR194F?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10297.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-03T17:46:22+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D3HR194F?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-03T17:46:22+00:00"
-  },
-  {
-    "id": "msg10293",
-    "title": "Nike Deo’s (Pack Of 3) @ 395",
-    "description": "Amazon | Nike Deo’s (Pack Of 3) @ 395. 👉https://www.amazon.in/dp/B07S34X3Y7?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07S34X3Y7?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07S34X3Y7?tag=bestpricezo0f-21",
-        "label": "Nike Deo’s (Pack Of 3) @ 395"
-      }
-    ],
-    "raw_text": "Amazon | Nike Deo’s (Pack Of 3) @ 395.\n\n👉https://www.amazon.in/dp/B07S34X3Y7?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07S34X3Y7?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10293.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-03T16:56:29+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07S34X3Y7?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-03T16:56:29+00:00"
   }
 ]
