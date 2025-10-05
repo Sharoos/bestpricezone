@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10789",
+    "title": "Up to 81% Off on Ducati Shoe",
+    "description": "Flipkart | Up to 81% Off on Ducati Shoes 👉https://fkrt.co/BZPMqd",
+    "shortlink": "https://fkrt.co/BZPMqd",
+    "urls": [
+      {
+        "url": "https://fkrt.co/BZPMqd",
+        "label": "Up to 81% Off on Ducati Shoes"
+      }
+    ],
+    "raw_text": "Flipkart | Up to 81% Off on Ducati Shoes\n\n👉https://fkrt.co/BZPMqd",
+    "final_url": "https://fkrt.co/BZPMqd",
+    "local_image": "assets/images/tgmsg_10789.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-05T15:41:40+00:00",
+    "buy_link": "https://fkrt.co/BZPMqd",
+    "date_iso": "2025-10-05T15:41:40+00:00"
+  },
+  {
     "id": "msg10788",
     "title": "💰 Bonus Earn 10% Super Cash on Every Order!!!",
     "description": "🔥AJIO Clogs Start ₹280 Men's : Women's : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
@@ -8778,29 +8798,5 @@
     "date_obj": "2025-10-03T18:46:06+00:00",
     "buy_link": "https://fkrt.co/iu45tI",
     "date_iso": "2025-10-03T18:46:06+00:00"
-  },
-  {
-    "id": "msg10339",
-    "title": "iPhone 17 256 GB Sage Green",
-    "description": "Amazon | iPhone 17 256 GB Sage Green https://www.amazon.in/dp/B0FQFLZNKL?th=1&psc=1&tag=bestpricezo0f-21 77650 Pay with SBI CREDIT CARD",
-    "shortlink": "https://www.amazon.in/dp/B0FQFLZNKL?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FQFLZNKL?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "iPhone 17 256 GB Sage Green"
-      },
-      {
-        "url": "",
-        "label": "Pay with SBI CREDIT CARD"
-      }
-    ],
-    "raw_text": "Amazon | iPhone 17 256 GB Sage Green\n\nhttps://www.amazon.in/dp/B0FQFLZNKL?th=1&psc=1&tag=bestpricezo0f-21 77650\n\nPay with SBI CREDIT CARD",
-    "final_url": "https://www.amazon.in/dp/B0FQFLZNKL?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10339.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-03T18:47:19+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FQFLZNKL?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-03T18:47:19+00:00"
   }
 ]
