@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10807",
+    "title": "Up to 60% Off On Head & Shoulder Shampoo",
+    "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos. https://fkrt.co/VWwA6N",
+    "shortlink": "https://fkrt.co/VWwA6N",
+    "urls": [
+      {
+        "url": "https://fkrt.co/VWwA6N",
+        "label": "Upto 60% Off On Head & Shoulder Shampoos"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos.\n\nhttps://fkrt.co/VWwA6N",
+    "final_url": "https://fkrt.co/VWwA6N",
+    "local_image": "assets/images/tgmsg_10807.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-05T17:31:41+00:00",
+    "buy_link": "https://fkrt.co/VWwA6N",
+    "date_iso": "2025-10-05T17:31:41+00:00"
+  },
+  {
     "id": "msg10806",
     "title": "Up to 74% Off on Co",
     "description": "Ajio | Upto 74% Off on Co-Ord Sets Starting @ just ₹372 Link : https://ajiio.co/88t53b",
@@ -8890,25 +8910,5 @@
     "date_obj": "2025-10-03T19:04:04+00:00",
     "buy_link": "https://fkrt.co/4g8Ypm",
     "date_iso": "2025-10-03T19:04:04+00:00"
-  },
-  {
-    "id": "msg10372",
-    "title": "Up to 70% Off Lifebuoy Body Wash",
-    "description": "Myntra | Upto 70% Off Lifebuoy Body Wash. https://myntr.in/OTZjnA",
-    "shortlink": "https://myntr.in/OTZjnA",
-    "urls": [
-      {
-        "url": "https://myntr.in/OTZjnA",
-        "label": "Upto 70% Off Lifebuoy Body Wash"
-      }
-    ],
-    "raw_text": "Myntra | Upto 70% Off Lifebuoy Body Wash.\n\nhttps://myntr.in/OTZjnA",
-    "final_url": "https://myntr.in/OTZjnA",
-    "local_image": "assets/images/tgmsg_10372.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-03T19:04:59+00:00",
-    "buy_link": "https://myntr.in/OTZjnA",
-    "date_iso": "2025-10-03T19:04:59+00:00"
   }
 ]
