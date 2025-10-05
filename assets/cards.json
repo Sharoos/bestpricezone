@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg10781",
+    "title": "85% Off",
+    "description": "Flipkart | 85% Off -Women's Trousers From @149 👉Link : https://fkrt.co/rXyFQq",
+    "shortlink": "https://fkrt.co/rXyFQq",
+    "urls": [
+      {
+        "url": "https://fkrt.co/rXyFQq",
+        "label": "85% Off -Women's Trousers From @149"
+      }
+    ],
+    "raw_text": "Flipkart | 85% Off -Women's Trousers From @149\n\n👉Link : https://fkrt.co/rXyFQq",
+    "final_url": "https://fkrt.co/rXyFQq",
+    "local_image": "assets/images/tgmsg_10781.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-05T14:53:51+00:00",
+    "buy_link": "https://fkrt.co/rXyFQq",
+    "date_iso": "2025-10-05T14:53:51+00:00"
+  },
+  {
+    "id": "msg10783",
+    "title": "Streax Sunscreen Gel Crème SPF 50 PA+++, 50g @ 210",
+    "description": "Amazon | Streax Sunscreen Gel Crème SPF 50 PA+++, 50g @ 210. 👉https://www.amazon.in/dp/B0DZP54PQF?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DZP54PQF?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DZP54PQF?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+        "label": "Streax Sunscreen Gel Crème SPF 50 PA+++, 50g @ 210"
+      }
+    ],
+    "raw_text": "Amazon | Streax Sunscreen Gel Crème SPF 50 PA+++, 50g @ 210.\n\n👉https://www.amazon.in/dp/B0DZP54PQF?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DZP54PQF?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_10783.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-05T15:01:47+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DZP54PQF?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-05T15:01:47+00:00"
+  },
+  {
     "id": "msg10777",
     "title": "Curtains Up to 86% Off 🔥",
     "description": "Flipkart | Curtains Upto 86% Off 🔥 🛒https://fkrt.co/cwGYGz",
@@ -8766,81 +8806,5 @@
     "date_obj": "2025-10-03T18:50:02+00:00",
     "buy_link": "https://myntr.in/jTgq2Q",
     "date_iso": "2025-10-03T18:50:02+00:00"
-  },
-  {
-    "id": "msg10344",
-    "title": "Branded Shoes Up to 80% Off",
-    "description": "Flipkart | Branded Shoes Upto 80% Off Puma : Adidas : Campus : Redtape : Sketchers :",
-    "shortlink": "https://fkrt.co/HMfoYp",
-    "urls": [
-      {
-        "url": "",
-        "label": "Branded Shoes Upto 80% Off"
-      },
-      {
-        "url": "https://fkrt.co/HMfoYp",
-        "label": "Puma"
-      },
-      {
-        "url": "https://fkrt.co/FgeWjE",
-        "label": "Adidas"
-      },
-      {
-        "url": "https://fkrt.co/wWj6zK",
-        "label": "Campus"
-      },
-      {
-        "url": "https://fkrt.co/SXPCUm",
-        "label": "Redtape"
-      },
-      {
-        "url": "https://fkrt.co/qz7N2n",
-        "label": "Sketchers"
-      }
-    ],
-    "raw_text": "Flipkart | Branded Shoes Upto 80% Off\n\nPuma : https://fkrt.co/HMfoYp\nAdidas : https://fkrt.co/FgeWjE\nCampus : https://fkrt.co/wWj6zK\nRedtape : https://fkrt.co/SXPCUm\nSketchers : https://fkrt.co/qz7N2n",
-    "final_url": "https://fkrt.co/HMfoYp",
-    "local_image": "assets/images/tgmsg_10344.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T18:50:38+00:00",
-    "buy_link": "https://fkrt.co/HMfoYp",
-    "date_iso": "2025-10-03T18:50:38+00:00"
-  },
-  {
-    "id": "msg10345",
-    "title": "Heels Min. 55% Off",
-    "description": "🔥Flipkart Women’s Footwear Deals — Budget to Trendy Shoes Under ₹499 👉  👉 Flats Under ₹299 👉 Slippers From ₹99 👉",
-    "shortlink": "https://fkrt.co/NBOrK4",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Flipkart Women’s Footwear Deals — Budget to Trendy"
-      },
-      {
-        "url": "https://fkrt.co/NBOrK4",
-        "label": "Shoes Under ₹499"
-      },
-      {
-        "url": "https://fkrt.co/1Nc4vb",
-        "label": "Heels Min. 55% Off"
-      },
-      {
-        "url": "https://fkrt.co/cVq6cL",
-        "label": "Flats Under ₹299"
-      },
-      {
-        "url": "https://fkrt.co/r0DjrH",
-        "label": "Slippers From ₹99"
-      }
-    ],
-    "raw_text": "🔥Flipkart Women’s Footwear Deals — Budget to Trendy\n\nShoes  Under ₹499\n👉https://fkrt.co/NBOrK4\n\nHeels Min. 55% Off\n👉https://fkrt.co/1Nc4vb\n\nFlats Under ₹299\n👉https://fkrt.co/cVq6cL\n\nSlippers From ₹99\n👉https://fkrt.co/r0DjrH",
-    "final_url": "https://fkrt.co/NBOrK4",
-    "local_image": "assets/images/tgmsg_10345.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T18:50:56+00:00",
-    "buy_link": "https://fkrt.co/NBOrK4",
-    "date_iso": "2025-10-03T18:50:56+00:00"
   }
 ]
