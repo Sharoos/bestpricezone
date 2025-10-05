@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10806",
+    "title": "Up to 74% Off on Co",
+    "description": "Ajio | Upto 74% Off on Co-Ord Sets Starting @ just ₹372 Link : https://ajiio.co/88t53b",
+    "shortlink": "https://ajiio.co/88t53b",
+    "urls": [
+      {
+        "url": "https://ajiio.co/88t53b",
+        "label": "Upto 74% Off on Co-Ord Sets Starting @ just ₹372"
+      }
+    ],
+    "raw_text": "Ajio | Upto 74% Off on Co-Ord Sets Starting @ just ₹372\n \nLink : https://ajiio.co/88t53b",
+    "final_url": "https://ajiio.co/88t53b",
+    "local_image": "assets/images/tgmsg_10806.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-05T17:23:54+00:00",
+    "buy_link": "https://ajiio.co/88t53b",
+    "date_iso": "2025-10-05T17:23:54+00:00"
+  },
+  {
     "id": "msg10803",
     "title": "Men's Footwear Starts at ₹90",
     "description": "AJIO:  Men's Footwear Starts at ₹90 👉https://ajiio.co/h1DS8X Sports Shoes : https://ajiio.co/MJS7Fj Casual Shoes : https://ajiio.co/CF2IKu Sandals : https://ajiio.co/WwyeNZ",
@@ -8890,25 +8910,5 @@
     "date_obj": "2025-10-03T19:04:59+00:00",
     "buy_link": "https://myntr.in/OTZjnA",
     "date_iso": "2025-10-03T19:04:59+00:00"
-  },
-  {
-    "id": "msg10374",
-    "title": "Anchor By Panasonic 4 way 6A International Socket with Single Switch 4 Socket Extension Boards (White, 1.5 m) @ 199",
-    "description": "Flipkart | Anchor By Panasonic 4 way 6A International Socket with Single Switch 4 Socket Extension Boards (White, 1.5 m) @ 199 https://fkrt.co/SAKc01",
-    "shortlink": "https://fkrt.co/SAKc01",
-    "urls": [
-      {
-        "url": "https://fkrt.co/SAKc01",
-        "label": "Anchor By Panasonic 4 way 6A International Socket with Single Switch 4 Socket Extension Boards (White, 1.5 m) @ 199"
-      }
-    ],
-    "raw_text": "Flipkart | Anchor By Panasonic 4 way 6A International Socket with Single Switch 4 Socket Extension Boards (White, 1.5 m) @ 199 \n\nhttps://fkrt.co/SAKc01",
-    "final_url": "https://fkrt.co/SAKc01",
-    "local_image": "assets/images/tgmsg_10374.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T19:06:56+00:00",
-    "buy_link": "https://fkrt.co/SAKc01",
-    "date_iso": "2025-10-03T19:06:56+00:00"
   }
 ]
