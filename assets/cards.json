@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10688",
+    "title": "Laptop Bags Starts @269",
+    "description": "Flipkart | Laptop Bags Starts @269. 👉https://fkrt.co/YkW7Fi",
+    "shortlink": "https://fkrt.co/YkW7Fi",
+    "urls": [
+      {
+        "url": "https://fkrt.co/YkW7Fi",
+        "label": "Laptop Bags Starts @269"
+      }
+    ],
+    "raw_text": "Flipkart | Laptop Bags Starts @269.\n\n👉https://fkrt.co/YkW7Fi",
+    "final_url": "https://fkrt.co/YkW7Fi",
+    "local_image": "assets/images/tgmsg_10688.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-05T06:51:38+00:00",
+    "buy_link": "https://fkrt.co/YkW7Fi",
+    "date_iso": "2025-10-05T06:51:38+00:00"
+  },
+  {
     "id": "msg10680",
     "title": "Dylect Single Channel Dash Cam with Night Vision @2199",
     "description": "Amazon | Dylect Single Channel Dash Cam with Night Vision @2199. https://www.amazon.in/dp/B0F3349WXZ?tag=bestpricezo0f-21",
@@ -8522,25 +8542,5 @@
     "date_obj": "2025-10-03T12:40:11+00:00",
     "buy_link": "https://myntr.in/8ykyA2",
     "date_iso": "2025-10-03T12:40:11+00:00"
-  },
-  {
-    "id": "msg10245",
-    "title": "Vega Atom Open Face Helmet @ 698",
-    "description": "Amazon | Vega Atom Open Face Helmet @ 698. 👉https://www.amazon.in/dp/B07RFQRF46?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07RFQRF46?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07RFQRF46?th=1&tag=bestpricezo0f-21",
-        "label": "Vega Atom Open Face Helmet @ 698"
-      }
-    ],
-    "raw_text": "Amazon | Vega Atom Open Face Helmet @ 698.\n\n👉https://www.amazon.in/dp/B07RFQRF46?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07RFQRF46?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10245.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-03T11:45:18+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07RFQRF46?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-03T11:45:18+00:00"
   }
 ]
