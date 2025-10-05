@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg10788",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!!!",
+    "description": "🔥AJIO Clogs Start ₹280 Men's : Women's : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/rl6e9K",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥AJIO Clogs Start ₹280"
+      },
+      {
+        "url": "https://ajiio.co/rl6e9K",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/kkT3Bv",
+        "label": "Women's"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "🔥AJIO  Clogs Start ₹280\n\nMen's : https://ajiio.co/rl6e9K\nWomen's : https://ajiio.co/kkT3Bv\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/rl6e9K",
+    "local_image": "assets/images/tgmsg_10788.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-05T15:31:41+00:00",
+    "buy_link": "https://ajiio.co/rl6e9K",
+    "date_iso": "2025-10-05T15:31:41+00:00"
+  },
+  {
     "id": "msg10785",
     "title": "🔥Up to 70% Off on Branded Laptop Bags And Backpacks Starts @234",
     "description": "🔥AJIO Upto 70% Off on Branded Laptop Bags And Backpacks Starts @234 Link : + 10% AJIO Extra CASH",
@@ -8770,45 +8802,5 @@
     "date_obj": "2025-10-03T18:47:19+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FQFLZNKL?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-03T18:47:19+00:00"
-  },
-  {
-    "id": "msg10340",
-    "title": "BLAUPUNKT True Wireless Earbuds Only at Rs. 1299 + Bank offers!! Use Code BPEXTRA15",
-    "description": "Myntra | BLAUPUNKT Speakers and headphones at lowest prices !!! offers valid for limited time only !!! ✨✨✨ BLAUPUNKT BTW300 Only at Rs. 1799 + Bank offers!! Use Coupon Code: BPEXTRA15 BLAUPUNKT BT speaker Only at Rs.…",
-    "shortlink": "https://myntr.in/7udj0d",
-    "urls": [
-      {
-        "url": "https://myntr.in/7udj0d",
-        "label": "BLAUPUNKT Speakers and headphones at lowest prices !!! offers valid for limited time only !!! ✨✨✨"
-      },
-      {
-        "url": "https://myntr.in/1lyxeI",
-        "label": "BLAUPUNKT Speakers and headphones at lowest prices !!! offers valid for limited time only !!! ✨✨✨"
-      },
-      {
-        "url": "https://myntr.in/GFou5l",
-        "label": "BLAUPUNKT Speakers and headphones at lowest prices !!! offers valid for limited time only !!! ✨✨✨"
-      },
-      {
-        "url": "https://myntr.in/uP1YFz",
-        "label": "BLAUPUNKT Speakers and headphones at lowest prices !!! offers valid for limited time only !!! ✨✨✨"
-      },
-      {
-        "url": "https://myntr.in/NHFq7b",
-        "label": "BLAUPUNKT Speakers and headphones at lowest prices !!! offers valid for limited time only !!! ✨✨✨"
-      },
-      {
-        "url": "https://myntr.in/WMs6FW",
-        "label": "BLAUPUNKT Speakers and headphones at lowest prices !!! offers valid for limited time only !!! ✨✨✨"
-      }
-    ],
-    "raw_text": "Myntra | BLAUPUNKT  Speakers and headphones at lowest prices !!! offers valid for limited time only !!! ✨✨✨\n\n\nBLAUPUNKT  BTW300  Only at Rs. 1799 + Bank offers!! Use Coupon Code:  BPEXTRA15\nhttps://myntr.in/7udj0d\n\n\nBLAUPUNKT BT speaker Only at Rs. 949 + Bank offers!! Use Coupon Code :  BPEXTRA15\nhttps://myntr.in/1lyxeI\n\n\nBLAUPUNKT True Wireless Earbuds Only at Rs. 1299 + Bank offers!! Use Coupon Code: BPEXTRA15\nhttps://myntr.in/GFou5l\n\n\nBLAUPUNKT  USB compatible BT Speaker Only at Rs. 949 + Bank offers!! Use Coupon Code: BPEXTRA15\nhttps://myntr.in/uP1YFz\n\n\nBLAUPUNKT BH31 AUDIOX Headphones Only at Rs. 1299 + Bank offers!! Use Coupon Code: BPEXTRA8\nhttps://myntr.in/NHFq7b\n\n\nBLAUPUNKT ANC Headphones Only at Rs. 2199 + Bank offers!! Use Coupon Code: BPEXTRA10\nhttps://myntr.in/WMs6FW",
-    "final_url": "https://myntr.in/7udj0d",
-    "local_image": "assets/images/tgmsg_10340.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-03T18:48:04+00:00",
-    "buy_link": "https://myntr.in/7udj0d",
-    "date_iso": "2025-10-03T18:48:04+00:00"
   }
 ]
