@@ -1,5 +1,109 @@
 [
   {
+    "id": "msg10757",
+    "title": "PHILIPS 10W LED Bulb (Pack of 2) @ 169",
+    "description": "Amazon | PHILIPS 10W LED Bulb (Pack of 2) @ 169. 👉https://www.amazon.in/dp/B0C2Q3SZLP?th=1&smid=&tag=bestpricezo0f-21 3 Colors in 1",
+    "shortlink": "https://www.amazon.in/dp/B0C2Q3SZLP?th=1&smid=&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0C2Q3SZLP?th=1&smid=&tag=bestpricezo0f-21",
+        "label": "PHILIPS 10W LED Bulb (Pack of 2) @ 169"
+      },
+      {
+        "url": "",
+        "label": "3 Colors in 1"
+      }
+    ],
+    "raw_text": "Amazon | PHILIPS 10W LED Bulb (Pack of 2) @ 169.\n\n👉https://www.amazon.in/dp/B0C2Q3SZLP?th=1&smid=&tag=bestpricezo0f-21\n\n3 Colors in 1",
+    "final_url": "https://www.amazon.in/dp/B0C2Q3SZLP?th=1&smid=&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_10757.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-05T14:01:47+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0C2Q3SZLP?th=1&smid=&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-05T14:01:47+00:00"
+  },
+  {
+    "id": "msg10762",
+    "title": "Grocery – Up to 96% Off",
+    "description": "Flipkart Grocery – Upto 96% Off Master Link : Selected Pincodes Only | Many Items at Price More Suggestions👇. Atta/Rice : Oil/Ghee : Snacks : Oral Care : Tea/Coffee : *Extra ₹250 Off On ₹2499+ Orders.",
+    "shortlink": "https://fkrt.co/rwZhi4",
+    "urls": [
+      {
+        "url": "https://fkrt.co/rwZhi4",
+        "label": "Flipkart Grocery – Upto 96% Off"
+      },
+      {
+        "url": "https://fkrt.co/z8krpp",
+        "label": "Flipkart Grocery – Upto 96% Off"
+      },
+      {
+        "url": "https://fkrt.co/fO6ZkT",
+        "label": "Flipkart Grocery – Upto 96% Off"
+      },
+      {
+        "url": "",
+        "label": "Many Items at Price"
+      },
+      {
+        "url": "",
+        "label": "More Suggestions👇"
+      },
+      {
+        "url": "https://fkrt.co/ZecIRJ",
+        "label": "Atta/Rice"
+      },
+      {
+        "url": "https://fkrt.co/GcvBGX",
+        "label": "Oil/Ghee"
+      },
+      {
+        "url": "https://fkrt.co/gW6nNM",
+        "label": "Snacks"
+      },
+      {
+        "url": "https://fkrt.co/krXu1g",
+        "label": "Oral Care"
+      },
+      {
+        "url": "https://fkrt.co/DAkey2",
+        "label": "Tea/Coffee"
+      },
+      {
+        "url": "",
+        "label": "Extra ₹250 Off On ₹2499+ Orders"
+      }
+    ],
+    "raw_text": "Flipkart Grocery  – Upto 96% Off\n\nMaster Link : \nhttps://fkrt.co/rwZhi4\nhttps://fkrt.co/z8krpp\nhttps://fkrt.co/fO6ZkT\n\nSelected Pincodes Only | Many Items at  Price\n\nMore Suggestions👇. \n\nAtta/Rice : https://fkrt.co/ZecIRJ\nOil/Ghee : https://fkrt.co/GcvBGX\nSnacks : https://fkrt.co/gW6nNM\nOral Care : https://fkrt.co/krXu1g\nTea/Coffee : https://fkrt.co/DAkey2\n\n*Extra ₹250 Off On ₹2499+ Orders.",
+    "final_url": "https://fkrt.co/rwZhi4",
+    "local_image": "assets/images/tgmsg_10762.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-05T14:04:04+00:00",
+    "buy_link": "https://fkrt.co/rwZhi4",
+    "date_iso": "2025-10-05T14:04:04+00:00"
+  },
+  {
+    "id": "msg10767",
+    "title": "👟 Up to 86% Off On Redtape At ₹452",
+    "description": "Flipkart | 👟 Upto 86% Off On Redtape At ₹452 👉https://fkrt.co/anvcFQ",
+    "shortlink": "https://fkrt.co/anvcFQ",
+    "urls": [
+      {
+        "url": "https://fkrt.co/anvcFQ",
+        "label": "👟 Upto 86% Off On Redtape At ₹452"
+      }
+    ],
+    "raw_text": "Flipkart | 👟 Upto 86% Off On Redtape At ₹452\n\n👉https://fkrt.co/anvcFQ",
+    "final_url": "https://fkrt.co/anvcFQ",
+    "local_image": "assets/images/tgmsg_10767.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-05T14:11:46+00:00",
+    "buy_link": "https://fkrt.co/anvcFQ",
+    "date_iso": "2025-10-05T14:11:46+00:00"
+  },
+  {
     "id": "msg10755",
     "title": "🛍 + Extra 10% Super Cash! 🎉",
     "description": "AJIO Min 60% Off On PUMA. Shoes : Men : Women : Kids : 🛍 + Extra 10% AJIO Super Cash! 🎉",
@@ -8726,169 +8830,5 @@
     "date_obj": "2025-10-03T18:33:16+00:00",
     "buy_link": "https://fkrt.co/sLdytN",
     "date_iso": "2025-10-03T18:33:16+00:00"
-  },
-  {
-    "id": "msg10309",
-    "title": "LIVE 🔥💣🎉 BIG FESTIVE DHAMAKA SALE",
-    "description": "LIVE 🔥💣🎉 FLIPKART BIG FESTIVE DHAMAKA SALE 👉🏻 📣 LOOT LANDING PAGES��🏻 👀 TOP OFFERS 👉 🌟 HERO DEALS 👉 💥 DEALS UNDER 199 👉🏻 💥 DEALS UNDER 399 👉🏻 💥 DEALS UNDER 799 👉🏻 MOBILES GADGETS HOME 👉🏻 💣TV& APPLIANCES 👉🏻 TV 💣LAPTOPS 👉🏻",
-    "shortlink": "https://fktr.in/wZk38kw",
-    "urls": [
-      {
-        "url": "https://fktr.in/wZk38kw",
-        "label": "LIVE 🔥💣🎉 FLIPKART BIG FESTIVE DHAMAKA SALE"
-      },
-      {
-        "url": "",
-        "label": "📣 LOOT LANDING PAGES��🏻"
-      },
-      {
-        "url": "https://fktr.in/hZnGc8X",
-        "label": "👀 TOP OFFERS"
-      },
-      {
-        "url": "https://fktr.in/7tA5jOy",
-        "label": "🌟 HERO DEALS"
-      },
-      {
-        "url": "https://fktr.in/XRMEdZL",
-        "label": "💥 DEALS UNDER 199"
-      },
-      {
-        "url": "https://fktr.in/6kGhpA1",
-        "label": "💥 DEALS UNDER 399"
-      },
-      {
-        "url": "https://fktr.in/J2lzml1",
-        "label": "💥 DEALS UNDER 799"
-      },
-      {
-        "url": "https://fktr.in/VUJ1Z7G",
-        "label": "MOBILES"
-      },
-      {
-        "url": "https://fktr.in/U809VS3",
-        "label": "GADGETS"
-      },
-      {
-        "url": "https://fktr.in/bzRDyxX",
-        "label": "HOME"
-      },
-      {
-        "url": "https://fktr.in/XnTjusl",
-        "label": "💥 DEALS UNDER 799"
-      },
-      {
-        "url": "https://fktr.in/UDC86ia",
-        "label": "💣TV& APPLIANCES"
-      },
-      {
-        "url": "https://fktr.in/6rdnNvT",
-        "label": "TV"
-      },
-      {
-        "url": "https://fktr.in/IiHpXYL",
-        "label": "💣TV& APPLIANCES"
-      }
-    ],
-    "raw_text": "LIVE 🔥💣🎉 FLIPKART BIG FESTIVE DHAMAKA SALE\n👉🏻 https://fktr.in/wZk38kw\n\n📣 LOOT LANDING PAGES��🏻\n\n👀 TOP OFFERS\n👉 https://fktr.in/hZnGc8X\n\n🌟 HERO DEALS\n👉 https://fktr.in/7tA5jOy\n\n💥 DEALS UNDER 199\n👉🏻 https://fktr.in/XRMEdZL\n\n💥 DEALS UNDER 399\n👉🏻 https://fktr.in/6kGhpA1\n\n💥 DEALS UNDER 799\n👉🏻 https://fktr.in/J2lzml1\n\nMOBILES https://fktr.in/VUJ1Z7G\n\nGADGETS https://fktr.in/U809VS3\n\nHOME https://fktr.in/bzRDyxX\n👉🏻 https://fktr.in/XnTjusl\n\n💣TV& APPLIANCES\n👉🏻 https://fktr.in/UDC86ia\nTV  https://fktr.in/6rdnNvT\n\n💣LAPTOPS\n👉🏻 https://fktr.in/IiHpXYL",
-    "final_url": "https://fktr.in/wZk38kw",
-    "local_image": "assets/images/tgmsg_10309.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T18:33:59+00:00",
-    "buy_link": "https://fktr.in/wZk38kw",
-    "date_iso": "2025-10-03T18:33:59+00:00"
-  },
-  {
-    "id": "msg10310",
-    "title": "LIVE 🔥💣🎉 BIG FESTIVE DHAMAKA SALE",
-    "description": "LIVE 🔥💣🎉 FLIPKART BIG FESTIVE DHAMAKA SALE 👉🏻 📣 LANDING PAGES��🏻 👀 TOP OFFERS 👉 🌟 HERO DEALS 👉 💥 DEALS UNDER 199 👉🏻 💥 DEALS UNDER 399 👉🏻 💥 DEALS UNDER 799 👉🏻 MOBILES GADGETS HOME 👉🏻 💣TV& APPLIANCES 👉🏻 TV 💣LAPTOPS 👉🏻",
-    "shortlink": "https://fkrt.co/rtknh3",
-    "urls": [
-      {
-        "url": "https://fkrt.co/rtknh3",
-        "label": "LIVE 🔥💣🎉 FLIPKART BIG FESTIVE DHAMAKA SALE"
-      },
-      {
-        "url": "",
-        "label": "📣 LANDING PAGES��🏻"
-      },
-      {
-        "url": "https://fkrt.co/ISFdrc",
-        "label": "👀 TOP OFFERS"
-      },
-      {
-        "url": "https://fkrt.co/2sBnER",
-        "label": "🌟 HERO DEALS"
-      },
-      {
-        "url": "https://fkrt.co/9gmkgQ",
-        "label": "💥 DEALS UNDER 199"
-      },
-      {
-        "url": "https://fkrt.co/eC20MS",
-        "label": "💥 DEALS UNDER 399"
-      },
-      {
-        "url": "https://fkrt.co/QBael3",
-        "label": "💥 DEALS UNDER 799"
-      },
-      {
-        "url": "https://fkrt.co/s0NKQE",
-        "label": "MOBILES"
-      },
-      {
-        "url": "https://fkrt.co/9jKlaG",
-        "label": "GADGETS"
-      },
-      {
-        "url": "https://fkrt.co/NWdSms",
-        "label": "HOME"
-      },
-      {
-        "url": "https://fkrt.co/zwOdnG",
-        "label": "💥 DEALS UNDER 799"
-      },
-      {
-        "url": "https://fkrt.co/S8nP48",
-        "label": "💣TV& APPLIANCES"
-      },
-      {
-        "url": "https://fkrt.co/3HyPw7",
-        "label": "TV"
-      },
-      {
-        "url": "https://fkrt.co/gv9h6q",
-        "label": "💣TV& APPLIANCES"
-      }
-    ],
-    "raw_text": "LIVE 🔥💣🎉 FLIPKART BIG FESTIVE DHAMAKA SALE\n👉🏻 https://fkrt.co/rtknh3\n\n📣  LANDING PAGES��🏻\n\n👀 TOP OFFERS\n👉 https://fkrt.co/ISFdrc\n\n🌟 HERO DEALS\n👉 https://fkrt.co/2sBnER\n\n💥 DEALS UNDER 199\n👉🏻 https://fkrt.co/9gmkgQ\n\n💥 DEALS UNDER 399\n👉🏻 https://fkrt.co/eC20MS\n\n💥 DEALS UNDER 799\n👉🏻 https://fkrt.co/QBael3\n\nMOBILES https://fkrt.co/s0NKQE\n\nGADGETS https://fkrt.co/9jKlaG\n\nHOME https://fkrt.co/NWdSms\n👉🏻 https://fkrt.co/zwOdnG\n\n💣TV& APPLIANCES\n👉🏻 https://fkrt.co/S8nP48\nTV  https://fkrt.co/3HyPw7\n\n💣LAPTOPS\n👉🏻 https://fkrt.co/gv9h6q",
-    "final_url": "https://fkrt.co/rtknh3",
-    "local_image": "assets/images/tgmsg_10310.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T18:35:06+00:00",
-    "buy_link": "https://fkrt.co/rtknh3",
-    "date_iso": "2025-10-03T18:35:06+00:00"
-  },
-  {
-    "id": "msg10311",
-    "title": "₹1249",
-    "description": "₹1249 : https://www.amazon.in/dp/B0F9P6PYPK?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F9P6PYPK?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F9P6PYPK?psc=1&tag=bestpricezo0f-21",
-        "label": "₹1249"
-      }
-    ],
-    "raw_text": "₹1249 : https://www.amazon.in/dp/B0F9P6PYPK?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F9P6PYPK?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10311.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-03T18:35:07+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F9P6PYPK?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-03T18:35:07+00:00"
   }
 ]
