@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg10668",
+    "title": "+ 10% EXTRA CASH",
+    "description": "AJIO Flat 70-76% Off On Performax Clothing. Men : Shoes : Women : Shoes : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/L6qyck",
+    "urls": [
+      {
+        "url": "https://ajiio.co/L6qyck",
+        "label": "76% Off On Performax Clothing"
+      },
+      {
+        "url": "https://ajiio.co/qGliex",
+        "label": "Shoes"
+      },
+      {
+        "url": "https://ajiio.co/FgFdPB",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/XVS5m5",
+        "label": "Shoes"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO  Flat 70-76% Off On Performax Clothing.\n\nMen : https://ajiio.co/L6qyck\nShoes : https://ajiio.co/qGliex\n\nWomen : https://ajiio.co/FgFdPB\nShoes : https://ajiio.co/XVS5m5\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/L6qyck",
+    "local_image": "assets/images/tgmsg_10668.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-05T04:25:46+00:00",
+    "buy_link": "https://ajiio.co/L6qyck",
+    "date_iso": "2025-10-05T04:25:46+00:00"
+  },
+  {
     "id": "msg10665",
     "title": "Backpacks Starts @207",
     "description": "Myntra : Backpacks Starts @207 https://myntr.in/3qvhV9 Skybags : https://myntr.in/vWbfAy Wildcraft : https://myntr.in/YQ1HE8 Bewakoof : https://myntr.in/uimqjl",
@@ -8466,37 +8502,5 @@
     "date_obj": "2025-10-03T09:50:15+00:00",
     "buy_link": "https://myntr.in/38zexU",
     "date_iso": "2025-10-03T09:50:15+00:00"
-  },
-  {
-    "id": "msg10229",
-    "title": "💥 Grocery Up to 92% Off",
-    "description": "💥 Flipkart Grocery : Upto 92% Off Link 1 : Link 2 : Link 3 : Availiable for Selected Locations ✔️",
-    "shortlink": "https://fktr.in/6hin4Ww",
-    "urls": [
-      {
-        "url": "https://fktr.in/6hin4Ww",
-        "label": "💥 Flipkart Grocery : Upto 92% Off"
-      },
-      {
-        "url": "https://fktr.in/UZMPWBE",
-        "label": "💥 Flipkart Grocery : Upto 92% Off"
-      },
-      {
-        "url": "https://fktr.in/8mAoh4I",
-        "label": "💥 Flipkart Grocery : Upto 92% Off"
-      },
-      {
-        "url": "",
-        "label": "Availiable for Selected Locations ✔️"
-      }
-    ],
-    "raw_text": "💥 Flipkart Grocery : Upto 92% Off \n\nLink 1 :   https://fktr.in/6hin4Ww\nLink 2 :   https://fktr.in/UZMPWBE\nLink 3 :   https://fktr.in/8mAoh4I\n\nAvailiable for Selected Locations ✔️",
-    "final_url": "https://fktr.in/6hin4Ww",
-    "local_image": "assets/images/tgmsg_10229.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T09:37:13+00:00",
-    "buy_link": "https://fktr.in/6hin4Ww",
-    "date_iso": "2025-10-03T09:37:13+00:00"
   }
 ]
