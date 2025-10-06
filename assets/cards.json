@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10869",
+    "title": "76% Off",
+    "description": "Flipkart | 76% Off - URBN 20000 mAh 22.5 W Power Bank At Rs.799 👉https://fkrt.co/Qh3M6M",
+    "shortlink": "https://fkrt.co/Qh3M6M",
+    "urls": [
+      {
+        "url": "https://fkrt.co/Qh3M6M",
+        "label": "76% Off - URBN 20000 mAh 22.5 W Power Bank At Rs.799"
+      }
+    ],
+    "raw_text": "Flipkart | 76% Off - URBN 20000 mAh 22.5 W Power Bank At Rs.799\n\n👉https://fkrt.co/Qh3M6M",
+    "final_url": "https://fkrt.co/Qh3M6M",
+    "local_image": "assets/images/tgmsg_10869.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-06T10:30:12+00:00",
+    "buy_link": "https://fkrt.co/Qh3M6M",
+    "date_iso": "2025-10-06T10:30:12+00:00"
+  },
+  {
     "id": "msg10868",
     "title": "Polycab BLDC Ceiling Fan with Remote @ 2599",
     "description": "Amazon | Polycab BLDC Ceiling Fan with Remote @ 2599. 👉https://www.amazon.in/dp/B0F99RH45K?psc=1&th=1&tag=bestpricezo0f-21 1899 : https://www.amazon.in/dp/B0BWYLQF23?psc=1&th=1&tag=bestpricezo0f-21",
@@ -9010,25 +9030,5 @@
     "date_obj": "2025-10-03T19:48:30+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DTHH5DTZ?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-03T19:48:30+00:00"
-  },
-  {
-    "id": "msg10411",
-    "title": "SmartBuy Grill Sandwich Maker @799",
-    "description": "Flipkart SmartBuy Grill Sandwich Maker @799 https://fkrt.co/9RRmEr",
-    "shortlink": "https://fkrt.co/9RRmEr",
-    "urls": [
-      {
-        "url": "https://fkrt.co/9RRmEr",
-        "label": "Flipkart SmartBuy Grill Sandwich Maker @799"
-      }
-    ],
-    "raw_text": "Flipkart SmartBuy Grill Sandwich Maker @799\n\nhttps://fkrt.co/9RRmEr",
-    "final_url": "https://fkrt.co/9RRmEr",
-    "local_image": "assets/images/tgmsg_10411.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T19:49:07+00:00",
-    "buy_link": "https://fkrt.co/9RRmEr",
-    "date_iso": "2025-10-03T19:49:07+00:00"
   }
 ]
