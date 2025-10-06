@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg10875",
+    "title": "Pillow at 167",
+    "description": "Myntra | Pillow at 167 👉https://myntr.in/bA1JW8",
+    "shortlink": "https://myntr.in/bA1JW8",
+    "urls": [
+      {
+        "url": "https://myntr.in/bA1JW8",
+        "label": "Pillow at 167"
+      }
+    ],
+    "raw_text": "Myntra | Pillow at 167\n\n👉https://myntr.in/bA1JW8",
+    "final_url": "https://myntr.in/bA1JW8",
+    "local_image": "assets/images/tgmsg_10875.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-06T11:11:08+00:00",
+    "buy_link": "https://myntr.in/bA1JW8",
+    "date_iso": "2025-10-06T11:11:08+00:00"
+  },
+  {
+    "id": "msg10876",
+    "title": "Virtuous Purple Printed 2L Water Bottle at Rs.271",
+    "description": "Myntra |  👉 Virtuous 2L Water Bottle with Straw at Just. 298 👉 Virtuous Blue Set of 2 Printed Water Bottle 2L each at Rs. 398 👉 Virtuous 3 Pieces Pink Printed Dishwasher Safe Water Bottles at Rs.378 👉 Virtuous Blue &…",
+    "shortlink": "https://myntr.in/Pcilif",
+    "urls": [
+      {
+        "url": "https://myntr.in/Pcilif",
+        "label": "Virtuous Purple Printed 2L Water Bottle at Rs.271"
+      },
+      {
+        "url": "https://myntr.in/3ebPaw",
+        "label": "Virtuous 2L Water Bottle with Straw at Just. 298"
+      },
+      {
+        "url": "https://myntr.in/0YNpHQ",
+        "label": "Virtuous Blue Set of 2 Printed Water Bottle 2L each at Rs. 398"
+      },
+      {
+        "url": "https://myntr.in/2OyTXi",
+        "label": "Virtuous 3 Pieces Pink Printed Dishwasher Safe Water Bottles at Rs.378"
+      },
+      {
+        "url": "https://myntr.in/5HppWv",
+        "label": "Virtuous Blue & White Printed Water Bottle 2L at 390"
+      }
+    ],
+    "raw_text": "Myntra | Virtuous Purple Printed 2L Water Bottle at Rs.271\n👉https://myntr.in/Pcilif\n\nVirtuous 2L Water Bottle with Straw at Just. 298\n👉https://myntr.in/3ebPaw\n\nVirtuous Blue Set of 2 Printed Water Bottle 2L each at Rs. 398\n👉https://myntr.in/0YNpHQ\n\nVirtuous 3 Pieces Pink Printed Dishwasher Safe Water Bottles at Rs.378\n👉https://myntr.in/2OyTXi\n\nVirtuous Blue & White Printed Water Bottle 2L at 390\n👉https://myntr.in/5HppWv",
+    "final_url": "https://myntr.in/Pcilif",
+    "local_image": "assets/images/tgmsg_10876.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-06T11:20:12+00:00",
+    "buy_link": "https://myntr.in/Pcilif",
+    "date_iso": "2025-10-06T11:20:12+00:00"
+  },
+  {
     "id": "msg10872",
     "title": "Flat 50% OFF on Earrings (Min 2 Quantity)",
     "description": "TIARAA Monday Loot Deal Flat 50% OFF on Earrings (Min 2 Quantity) Use Code: LOOT50 Shop Now 👉 https://bitli.in/zf7Bjon",
@@ -9002,45 +9058,5 @@
     "date_obj": "2025-10-04T03:31:40+00:00",
     "buy_link": "https://fkrt.co/BYZEqK",
     "date_iso": "2025-10-04T03:31:40+00:00"
-  },
-  {
-    "id": "msg10419",
-    "title": "",
-    "description": "FLIPKART Men Vest - @98 Only https://fkrt.co/KPjQML",
-    "shortlink": "https://fkrt.co/KPjQML",
-    "urls": [
-      {
-        "url": "https://fkrt.co/KPjQML",
-        "label": "@98 Only"
-      }
-    ],
-    "raw_text": "FLIPKART \nMen Vest - @98 Only\n\nhttps://fkrt.co/KPjQML",
-    "final_url": "https://fkrt.co/KPjQML",
-    "local_image": "assets/images/tgmsg_10419.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T20:38:58+00:00",
-    "buy_link": "https://fkrt.co/KPjQML",
-    "date_iso": "2025-10-03T20:38:58+00:00"
-  },
-  {
-    "id": "msg10420",
-    "title": "87% OFF",
-    "description": "FLIPKART  GOBOULT Y1 Ear Buds -  87% OFF https://fkrt.co/vSz4To",
-    "shortlink": "https://fkrt.co/vSz4To",
-    "urls": [
-      {
-        "url": "https://fkrt.co/vSz4To",
-        "label": "87% OFF"
-      }
-    ],
-    "raw_text": "FLIPKART  GOBOULT Y1 Ear Buds -  87% OFF\n\nhttps://fkrt.co/vSz4To",
-    "final_url": "https://fkrt.co/vSz4To",
-    "local_image": "assets/images/tgmsg_10420.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T20:40:20+00:00",
-    "buy_link": "https://fkrt.co/vSz4To",
-    "date_iso": "2025-10-03T20:40:20+00:00"
   }
 ]
