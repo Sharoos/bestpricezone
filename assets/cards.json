@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg10855",
+    "title": "Worng Backpacks Up to 90% Off",
+    "description": "Flipkart | Worng Backpacks Upto 90% Off 👉https://fkrt.co/TulIYV",
+    "shortlink": "https://fkrt.co/TulIYV",
+    "urls": [
+      {
+        "url": "https://fkrt.co/TulIYV",
+        "label": "Worng Backpacks Upto 90% Off"
+      }
+    ],
+    "raw_text": "Flipkart | Worng Backpacks Upto 90% Off\n\n👉https://fkrt.co/TulIYV",
+    "final_url": "https://fkrt.co/TulIYV",
+    "local_image": "assets/images/tgmsg_10855.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-06T08:10:05+00:00",
+    "buy_link": "https://fkrt.co/TulIYV",
+    "date_iso": "2025-10-06T08:10:05+00:00"
+  },
+  {
+    "id": "msg10856",
+    "title": "Men's Clothing Start @99",
+    "description": "Myntra : Men's Clothing Start @99 👉https://myntr.in/EfxJ90 Branded Jeans : https://myntr.in/yrc7Ce",
+    "shortlink": "https://myntr.in/EfxJ90",
+    "urls": [
+      {
+        "url": "https://myntr.in/EfxJ90",
+        "label": "Men's Clothing Start @99"
+      },
+      {
+        "url": "https://myntr.in/yrc7Ce",
+        "label": "Branded Jeans"
+      }
+    ],
+    "raw_text": "Myntra : Men's Clothing Start @99\n\n👉https://myntr.in/EfxJ90\n\nBranded Jeans : https://myntr.in/yrc7Ce",
+    "final_url": "https://myntr.in/EfxJ90",
+    "local_image": "assets/images/tgmsg_10856.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-06T08:20:24+00:00",
+    "buy_link": "https://myntr.in/EfxJ90",
+    "date_iso": "2025-10-06T08:20:24+00:00"
+  },
+  {
     "id": "msg10854",
     "title": "Orient Electric Ceiling Fan @1099",
     "description": "Amazon | Orient Electric Ceiling Fan @1099. 👉https://www.amazon.in/dp/B0BMVG2CJK?tag=bestpricezo0f-21",
@@ -8934,49 +8978,5 @@
     "date_obj": "2025-10-03T19:41:42+00:00",
     "buy_link": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.ZAY52JH66AE6Q?rdpf=en&tag=bestpricezo0f-21",
     "date_iso": "2025-10-03T19:41:42+00:00"
-  },
-  {
-    "id": "msg10408",
-    "title": "Meeso O 101rs saree",
-    "description": "Meeso | O 101rs saree https://msho.in/0gMRjH",
-    "shortlink": "https://msho.in/0gMRjH",
-    "urls": [
-      {
-        "url": "https://msho.in/0gMRjH",
-        "label": "O 101rs saree"
-      }
-    ],
-    "raw_text": "Meeso | O 101rs saree\n\nhttps://msho.in/0gMRjH",
-    "final_url": "https://msho.in/0gMRjH",
-    "local_image": "assets/images/tgmsg_10408.jpg",
-    "source_host": "msho.in",
-    "merchant_label": "Msho",
-    "date_obj": "2025-10-03T19:45:02+00:00",
-    "buy_link": "https://msho.in/0gMRjH",
-    "date_iso": "2025-10-03T19:45:02+00:00"
-  },
-  {
-    "id": "msg10392",
-    "title": "45% OFF",
-    "description": "Flipkart | Colgate Visible White Purple Toothpaste - 45% OFF @229 Only https://fkrt.co/FoG5Hi",
-    "shortlink": "https://fkrt.co/FoG5Hi",
-    "urls": [
-      {
-        "url": "",
-        "label": "Colgate Visible White Purple Toothpaste - 45% OFF"
-      },
-      {
-        "url": "https://fkrt.co/FoG5Hi",
-        "label": "@229 Only"
-      }
-    ],
-    "raw_text": "Flipkart | Colgate Visible White Purple Toothpaste - 45% OFF \n\n@229 Only\n\nhttps://fkrt.co/FoG5Hi",
-    "final_url": "https://fkrt.co/FoG5Hi",
-    "local_image": "assets/images/tgmsg_10392.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T19:24:37+00:00",
-    "buy_link": "https://fkrt.co/FoG5Hi",
-    "date_iso": "2025-10-03T19:24:37+00:00"
   }
 ]
