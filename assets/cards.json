@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg10867",
+    "title": "Get Up to 65% OFF on your favorite chocolates 🍬",
+    "description": "Flipkart 🍫 Chocolate Treats for You! 😋  🍫 Dairy Milk • 5 Star • Silk • Snickers & more! Perfect for gifting, snacking & sweet cravings 💝 👉 Shop Here :",
+    "shortlink": "https://fkrt.co/OTl1r4",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart 🍫 Chocolate Treats for You! 😋"
+      },
+      {
+        "url": "",
+        "label": "Get Up to 65% OFF on your favorite chocolates 🍬"
+      },
+      {
+        "url": "",
+        "label": "🍫 Dairy Milk • 5 Star • Silk • Snickers & more!"
+      },
+      {
+        "url": "",
+        "label": "Perfect for gifting, snacking & sweet cravings 💝"
+      },
+      {
+        "url": "https://fkrt.co/OTl1r4",
+        "label": "Shop Here"
+      }
+    ],
+    "raw_text": "Flipkart 🍫 Chocolate Treats for You! 😋\n\nGet Up to 65% OFF on your favorite chocolates 🍬\n\n🍫 Dairy Milk • 5 Star • Silk • Snickers & more!\nPerfect for gifting, snacking & sweet cravings 💝\n\n👉 Shop Here : https://fkrt.co/OTl1r4",
+    "final_url": "https://fkrt.co/OTl1r4",
+    "local_image": "assets/images/tgmsg_10867.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-06T09:50:11+00:00",
+    "buy_link": "https://fkrt.co/OTl1r4",
+    "date_iso": "2025-10-06T09:50:11+00:00"
+  },
+  {
     "id": "msg10864",
     "title": "Nike Tights For Women Up to 65% Off",
     "description": "Flipkart | Nike Tights For Women Up to 65% Off 👉https://fkrt.co/giaSW1",
@@ -8990,29 +9026,5 @@
     "date_obj": "2025-10-03T19:50:56+00:00",
     "buy_link": "https://www.amazon.in/dp/B0B5YGSQ3F?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-03T19:50:56+00:00"
-  },
-  {
-    "id": "msg10401",
-    "title": "51% OFF",
-    "description": "Flipkart | Nivea Men Active Clean Body Wash - 51% OFF @267 Only https://fkrt.co/jLbsv7",
-    "shortlink": "https://fkrt.co/jLbsv7",
-    "urls": [
-      {
-        "url": "",
-        "label": "Nivea Men Active Clean Body Wash - 51% OFF"
-      },
-      {
-        "url": "https://fkrt.co/jLbsv7",
-        "label": "@267 Only"
-      }
-    ],
-    "raw_text": "Flipkart | Nivea Men Active Clean Body Wash - 51% OFF \n\n@267 Only\n\nhttps://fkrt.co/jLbsv7",
-    "final_url": "https://fkrt.co/jLbsv7",
-    "local_image": "assets/images/tgmsg_10401.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T19:35:21+00:00",
-    "buy_link": "https://fkrt.co/jLbsv7",
-    "date_iso": "2025-10-03T19:35:21+00:00"
   }
 ]
