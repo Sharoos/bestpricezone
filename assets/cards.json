@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10850",
+    "title": "Grocery FORTUNE Soya Chunks (1 kg) @115",
+    "description": "Flipkart Grocery | FORTUNE Soya Chunks  (1 kg) @115 👉 Link : https://fkrt.co/fCc2HF",
+    "shortlink": "https://fkrt.co/fCc2HF",
+    "urls": [
+      {
+        "url": "https://fkrt.co/fCc2HF",
+        "label": "FORTUNE Soya Chunks (1 kg) @115"
+      }
+    ],
+    "raw_text": "Flipkart Grocery | FORTUNE Soya Chunks  (1 kg) @115\n\n👉 Link : https://fkrt.co/fCc2HF",
+    "final_url": "https://fkrt.co/fCc2HF",
+    "local_image": "assets/images/tgmsg_10850.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-06T07:20:13+00:00",
+    "buy_link": "https://fkrt.co/fCc2HF",
+    "date_iso": "2025-10-06T07:20:13+00:00"
+  },
+  {
     "id": "msg10848",
     "title": "2️⃣ Samsung 236L 3★ Convertible – ₹25,990 (MRP ₹40,990)",
     "description": "❄️ HOT REFRIGERATOR DEALS – FLIPKART ❄️ 1️⃣ Samsung 183L 4★ – ₹15,790 (MRP ₹22,999) 👉  👉 LG 242L 3★ – ₹24,990 (MRP ₹37,599) 👉 Samsung 236L 2★ Convertible – ₹23,990 (MRP ₹35,990) 👉 Samsung 183L 5★ – ₹16,790 (MRP ₹22,999)…",
@@ -9010,25 +9030,5 @@
     "date_obj": "2025-10-03T19:30:13+00:00",
     "buy_link": "https://fkrt.co/FlAedH",
     "date_iso": "2025-10-03T19:30:13+00:00"
-  },
-  {
-    "id": "msg10398",
-    "title": "Rin Top Load Detergent Liquid 2L Pouch @ 149",
-    "description": "Amazon | Rin  Top Load Detergent Liquid 2L Pouch @ 149. https://www.amazon.in/dp/B0BHHZBXV5?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0BHHZBXV5?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BHHZBXV5?th=1&tag=bestpricezo0f-21",
-        "label": "Rin Top Load Detergent Liquid 2L Pouch @ 149"
-      }
-    ],
-    "raw_text": "Amazon | Rin  Top Load Detergent Liquid 2L Pouch @ 149.\n\nhttps://www.amazon.in/dp/B0BHHZBXV5?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BHHZBXV5?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10398.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-03T19:33:05+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BHHZBXV5?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-03T19:33:05+00:00"
   }
 ]
