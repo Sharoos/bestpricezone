@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg10952",
+    "title": "Up to 85% Off On Branded Backpacks Starting @ ₹ 329",
+    "description": "Flipkart | Upto 85% Off On Branded Backpacks Starting @ ₹ 329 Skybags : Safari : Wildcraft : Gear : Lavie : American Tourister :",
+    "shortlink": "https://fkrt.co/RWilol",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% Off On Branded Backpacks Starting @ ₹ 329"
+      },
+      {
+        "url": "https://fkrt.co/RWilol",
+        "label": "Skybags"
+      },
+      {
+        "url": "https://fkrt.co/JttE1M",
+        "label": "Safari"
+      },
+      {
+        "url": "https://fkrt.co/25Wbwu",
+        "label": "Wildcraft"
+      },
+      {
+        "url": "https://fkrt.co/luvLBG",
+        "label": "Gear"
+      },
+      {
+        "url": "https://fkrt.co/DaQYpi",
+        "label": "Lavie"
+      },
+      {
+        "url": "https://fkrt.co/bjg3QT",
+        "label": "American Tourister"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 85% Off On Branded Backpacks Starting @ ₹ 329\n\nSkybags :https://fkrt.co/RWilol\nSafari :https://fkrt.co/JttE1M \nWildcraft :https://fkrt.co/25Wbwu\nGear :https://fkrt.co/luvLBG\nLavie :https://fkrt.co/DaQYpi\nAmerican Tourister :https://fkrt.co/bjg3QT",
+    "final_url": "https://fkrt.co/RWilol",
+    "local_image": "assets/images/tgmsg_10952.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-06T17:51:47+00:00",
+    "buy_link": "https://fkrt.co/RWilol",
+    "date_iso": "2025-10-06T17:51:47+00:00"
+  },
+  {
     "id": "msg10950",
     "title": "Up to 89% Off On Here & Now Clothing",
     "description": "Myntra | Upto 89% Off On Here & Now Clothing. Men's : https://myntr.in/axAQIy Women's : https://myntr.in/DEv7yi",
@@ -8894,53 +8938,5 @@
     "date_obj": "2025-10-04T09:33:48+00:00",
     "buy_link": "https://fkrt.co/BA4XGf",
     "date_iso": "2025-10-04T09:33:48+00:00"
-  },
-  {
-    "id": "msg10475",
-    "title": "Bank Offer Get 10% Instant Discount with HDFC Credit Card",
-    "description": "Flipkart⚡️ BIG FESTIVE DHAMAKA Sale Is Live! ⚡️Get up to 70% OFF on Televisions, Refrigerators, ACs & Washing Machines. Master Link: • Televisions: • Air Conditioners: • Refrigerators: • Washing Machines: *Bank Offer:…",
-    "shortlink": "https://fktr.in/OQgKo05",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart⚡️ BIG FESTIVE DHAMAKA Sale Is Live!"
-      },
-      {
-        "url": "",
-        "label": "⚡️Get up to 70% OFF on Televisions, Refrigerators, ACs & Washing Machines"
-      },
-      {
-        "url": "https://fktr.in/OQgKo05",
-        "label": "Master"
-      },
-      {
-        "url": "https://fktr.in/74t9g8z",
-        "label": "Televisions"
-      },
-      {
-        "url": "https://fktr.in/ANzA93i",
-        "label": "Air Conditioners"
-      },
-      {
-        "url": "https://fktr.in/mxZqqI8",
-        "label": "Refrigerators"
-      },
-      {
-        "url": "https://fktr.in/NFk7A3z",
-        "label": "Washing Machines"
-      },
-      {
-        "url": "",
-        "label": "Get 10% Instant Discount with HDFC Credit Cards"
-      }
-    ],
-    "raw_text": "Flipkart⚡️ BIG FESTIVE DHAMAKA Sale Is Live!\n\n⚡️Get up to 70% OFF on Televisions, Refrigerators, ACs & Washing Machines.\n\nMaster Link: https://fktr.in/OQgKo05\n • Televisions: https://fktr.in/74t9g8z\n • Air Conditioners: https://fktr.in/ANzA93i\n • Refrigerators: https://fktr.in/mxZqqI8\n • Washing Machines: https://fktr.in/NFk7A3z\n\n*Bank Offer: Get 10% Instant Discount with HDFC Credit Cards",
-    "final_url": "https://fktr.in/OQgKo05",
-    "local_image": "assets/images/tgmsg_10475.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-04T09:19:45+00:00",
-    "buy_link": "https://fktr.in/OQgKo05",
-    "date_iso": "2025-10-04T09:19:45+00:00"
   }
 ]
