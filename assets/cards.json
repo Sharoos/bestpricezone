@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10854",
+    "title": "Orient Electric Ceiling Fan @1099",
+    "description": "Amazon | Orient Electric Ceiling Fan @1099. 👉https://www.amazon.in/dp/B0BMVG2CJK?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0BMVG2CJK?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0BMVG2CJK?tag=bestpricezo0f-21",
+        "label": "Orient Electric Ceiling Fan @1099"
+      }
+    ],
+    "raw_text": "Amazon | Orient Electric Ceiling Fan @1099.\n\n👉https://www.amazon.in/dp/B0BMVG2CJK?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0BMVG2CJK?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_10854.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-06T07:50:17+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0BMVG2CJK?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-06T07:50:17+00:00"
+  },
+  {
     "id": "msg10851",
     "title": "Up to 75% Off On Branded Mop Sets Starting @ ₹395",
     "description": "Flipkart GRAB : Upto 75% Off On Branded Mop Sets Starting @ ₹395 👉https://fkrt.co/wffv5O",
@@ -8958,49 +8978,5 @@
     "date_obj": "2025-10-03T19:24:37+00:00",
     "buy_link": "https://fkrt.co/FoG5Hi",
     "date_iso": "2025-10-03T19:24:37+00:00"
-  },
-  {
-    "id": "msg10394",
-    "title": "Red Tape Footwear Up to 85% off",
-    "description": "Flipkart | Red Tape Footwear Upto 85% off Shoes. Mens : Womens : Slides & Slippers. Women : Men : Kids :",
-    "shortlink": "https://fkrt.co/44Pcgo",
-    "urls": [
-      {
-        "url": "https://fkrt.co/44Pcgo",
-        "label": "Red Tape Footwear Upto 85% off"
-      },
-      {
-        "url": "https://fkrt.co/f1grcs",
-        "label": "Mens"
-      },
-      {
-        "url": "https://fkrt.co/zUdchM",
-        "label": "Womens"
-      },
-      {
-        "url": "",
-        "label": "Slides & Slippers"
-      },
-      {
-        "url": "https://fkrt.co/AwDnsV",
-        "label": "Women"
-      },
-      {
-        "url": "https://fkrt.co/ihxSQp",
-        "label": "Men"
-      },
-      {
-        "url": "https://fkrt.co/RhaF8Y",
-        "label": "Kids"
-      }
-    ],
-    "raw_text": "Flipkart | Red Tape Footwear Upto 85% off\n\nhttps://fkrt.co/44Pcgo\n\nShoes.\n\nMens : https://fkrt.co/f1grcs\nWomens : https://fkrt.co/zUdchM\n\nSlides & Slippers. \n\nWomen : https://fkrt.co/AwDnsV\nMen : https://fkrt.co/ihxSQp\nKids : https://fkrt.co/RhaF8Y",
-    "final_url": "https://fkrt.co/44Pcgo",
-    "local_image": "assets/images/tgmsg_10394.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T19:25:40+00:00",
-    "buy_link": "https://fkrt.co/44Pcgo",
-    "date_iso": "2025-10-03T19:25:40+00:00"
   }
 ]
