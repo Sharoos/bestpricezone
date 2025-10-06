@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10882",
+    "title": "Set of 4 Pillows at 599 only",
+    "description": "Myntra | Set of 4 Pillows at 599 only 👉https://myntr.in/S8OvL4",
+    "shortlink": "https://myntr.in/S8OvL4",
+    "urls": [
+      {
+        "url": "https://myntr.in/S8OvL4",
+        "label": "Set of 4 Pillows at 599 only"
+      }
+    ],
+    "raw_text": "Myntra | Set of 4 Pillows at 599 only\n\n👉https://myntr.in/S8OvL4",
+    "final_url": "https://myntr.in/S8OvL4",
+    "local_image": "assets/images/tgmsg_10882.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-06T11:50:16+00:00",
+    "buy_link": "https://myntr.in/S8OvL4",
+    "date_iso": "2025-10-06T11:50:16+00:00"
+  },
+  {
     "id": "msg10879",
     "title": "81% off Bevzilla Instant Choclate & Mocha Coffee Powde",
     "description": "Flipkart | 81% off : Bevzilla Instant Choclate & Mocha Coffee Powder - 200gms @ Rs.188 👉Link :",
@@ -9038,25 +9058,5 @@
     "date_obj": "2025-10-04T04:01:37+00:00",
     "buy_link": "https://myntr.in/4uf5P6",
     "date_iso": "2025-10-04T04:01:37+00:00"
-  },
-  {
-    "id": "msg10428",
-    "title": "Metronaut Rucksacks Starting From Rs.663",
-    "description": "Flipkart | Metronaut Rucksacks Starting From Rs.663 https://fkrt.co/TZRUIc",
-    "shortlink": "https://fkrt.co/TZRUIc",
-    "urls": [
-      {
-        "url": "https://fkrt.co/TZRUIc",
-        "label": "Metronaut Rucksacks Starting From Rs.663"
-      }
-    ],
-    "raw_text": "Flipkart | Metronaut Rucksacks Starting From Rs.663\n\nhttps://fkrt.co/TZRUIc",
-    "final_url": "https://fkrt.co/TZRUIc",
-    "local_image": "assets/images/tgmsg_10428.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-04T04:18:55+00:00",
-    "buy_link": "https://fkrt.co/TZRUIc",
-    "date_iso": "2025-10-04T04:18:55+00:00"
   }
 ]
