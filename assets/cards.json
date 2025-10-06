@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg10950",
+    "title": "Up to 89% Off On Here & Now Clothing",
+    "description": "Myntra | Upto 89% Off On Here & Now Clothing. Men's : https://myntr.in/axAQIy Women's : https://myntr.in/DEv7yi",
+    "shortlink": "https://myntr.in/axAQIy",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 89% Off On Here & Now Clothing"
+      },
+      {
+        "url": "https://myntr.in/axAQIy",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/DEv7yi",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Myntra | Upto 89% Off On Here & Now Clothing.\n\nMen's : https://myntr.in/axAQIy\nWomen's : https://myntr.in/DEv7yi",
+    "final_url": "https://myntr.in/axAQIy",
+    "local_image": "assets/images/tgmsg_10950.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-06T17:41:48+00:00",
+    "buy_link": "https://myntr.in/axAQIy",
+    "date_iso": "2025-10-06T17:41:48+00:00"
+  },
+  {
     "id": "msg10948",
     "title": "Carbamide Forte Ashwagandha Supplements At 581",
     "description": "Carbamide Forte Ashwagandha Supplements At 581. https://www.amazon.in/dp/B0DV951LZK?tag=bestpricezo0f-21",
@@ -8914,25 +8942,5 @@
     "date_obj": "2025-10-04T09:19:45+00:00",
     "buy_link": "https://fktr.in/OQgKo05",
     "date_iso": "2025-10-04T09:19:45+00:00"
-  },
-  {
-    "id": "msg10476",
-    "title": "Ikonic min 40% off on hair styling appliance",
-    "description": "Myntra | Ikonic min 40% off on hair styling appliances 👉Link : https://myntr.in/K7oUt8",
-    "shortlink": "https://myntr.in/K7oUt8",
-    "urls": [
-      {
-        "url": "https://myntr.in/K7oUt8",
-        "label": "Ikonic min 40% off on hair styling appliances"
-      }
-    ],
-    "raw_text": "Myntra | Ikonic min 40% off on hair styling appliances\n\n👉Link : https://myntr.in/K7oUt8",
-    "final_url": "https://myntr.in/K7oUt8",
-    "local_image": "assets/images/tgmsg_10476.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-04T09:21:06+00:00",
-    "buy_link": "https://myntr.in/K7oUt8",
-    "date_iso": "2025-10-04T09:21:06+00:00"
   }
 ]
