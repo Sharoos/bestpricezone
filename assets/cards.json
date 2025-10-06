@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg10835",
+    "title": "Up to 80% Off On Ceiling Lamps Starting From Rs.350",
+    "description": "Myntra | Upto 80% Off On Ceiling Lamps Starting From Rs.350 👉Link : UPTO 85% Off on Cups And Mugs Starting @ just ₹ 159 Link :",
+    "shortlink": "https://myntr.in/CLVUY1",
+    "urls": [
+      {
+        "url": "https://myntr.in/CLVUY1",
+        "label": "Upto 80% Off On Ceiling Lamps Starting From Rs.350"
+      },
+      {
+        "url": "https://myntr.in/fB28rm",
+        "label": "UPTO 85% Off on Cups And Mugs Starting @ just ₹ 159"
+      }
+    ],
+    "raw_text": "Myntra | Upto 80% Off On Ceiling Lamps Starting From Rs.350\n\n👉Link : https://myntr.in/CLVUY1\n\nUPTO 85% Off on Cups And Mugs Starting @ just ₹ 159\n\nLink : https://myntr.in/fB28rm",
+    "final_url": "https://myntr.in/CLVUY1",
+    "local_image": "assets/images/tgmsg_10835.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-06T05:07:12+00:00",
+    "buy_link": "https://myntr.in/CLVUY1",
+    "date_iso": "2025-10-06T05:07:12+00:00"
+  },
+  {
     "id": "msg10834",
     "title": "Up to 70% Off on Buda Jeans Co Clothing",
     "description": "AJIO -  T-Shirts : Trousers : Shirts : Jeans : Sweatshirts : Jackets : Trackpants : *10% Ajio Super Cash On Every Order.",
@@ -8918,25 +8942,5 @@
     "date_obj": "2025-10-03T19:21:35+00:00",
     "buy_link": "https://fkrt.co/DIHBjE",
     "date_iso": "2025-10-03T19:21:35+00:00"
-  },
-  {
-    "id": "msg10390",
-    "title": "Longway 550W Mixer Grinder (4 Jars) @ 1249",
-    "description": "Amazon | Longway 550W Mixer Grinder (4 Jars) @ 1249. https://www.amazon.in/dp/B0F9P6PYPK?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F9P6PYPK?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F9P6PYPK?th=1&tag=bestpricezo0f-21",
-        "label": "Longway 550W Mixer Grinder (4 Jars) @ 1249"
-      }
-    ],
-    "raw_text": "Amazon | Longway 550W Mixer Grinder (4 Jars) @ 1249.\n\nhttps://www.amazon.in/dp/B0F9P6PYPK?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F9P6PYPK?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10390.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-03T19:21:54+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F9P6PYPK?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-03T19:21:54+00:00"
   }
 ]
