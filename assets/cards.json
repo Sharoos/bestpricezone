@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11010",
+    "title": "Apply ₹1000 Off + ₹900 Off With Axis/IDFC/BOB/RBL Credit Card",
+    "description": "Amazon | Black+Decker (32 Inches) Smart TV @ 8099* *Apply ₹1000 Off Coupon + ₹900 Off With Axis/IDFC/BOB/RBL Credit Card.",
+    "shortlink": "https://www.amazon.in/dp/B0DPSD1PG5?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DPSD1PG5?th=1&tag=bestpricezo0f-21",
+        "label": "Black+Decker (32 Inches) Smart TV @ 8099*"
+      }
+    ],
+    "raw_text": "Amazon | Black+Decker (32 Inches) Smart TV @ 8099*\n\nhttps://www.amazon.in/dp/B0DPSD1PG5?th=1&tag=bestpricezo0f-21\n\n*Apply ₹1000 Off Coupon + ₹900 Off With Axis/IDFC/BOB/RBL Credit Card.",
+    "final_url": "https://www.amazon.in/dp/B0DPSD1PG5?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_11010.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-06T20:52:21+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DPSD1PG5?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-06T20:52:21+00:00"
+  },
+  {
     "id": "msg11008",
     "title": "Extra Discount Offer On Havells Product",
     "description": "Amazon | Apply Coupon Extra Discount Offer On Havells Products…",
@@ -8538,25 +8558,5 @@
     "date_obj": "2025-10-04T15:51:31+00:00",
     "buy_link": "https://fkrt.co/fybvnQ",
     "date_iso": "2025-10-04T15:51:31+00:00"
-  },
-  {
-    "id": "msg10567",
-    "title": "Printed Totes and Slings Under 999",
-    "description": "Myntra | Printed Totes and Slings Under 999 👉Link : https://myntr.in/sgW5Gp",
-    "shortlink": "https://myntr.in/sgW5Gp",
-    "urls": [
-      {
-        "url": "https://myntr.in/sgW5Gp",
-        "label": "Printed Totes and Slings Under 999"
-      }
-    ],
-    "raw_text": "Myntra | Printed Totes and Slings Under 999\n\n👉Link : https://myntr.in/sgW5Gp",
-    "final_url": "https://myntr.in/sgW5Gp",
-    "local_image": "assets/images/tgmsg_10567.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-04T15:41:42+00:00",
-    "buy_link": "https://myntr.in/sgW5Gp",
-    "date_iso": "2025-10-04T15:41:42+00:00"
   }
 ]
