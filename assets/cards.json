@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg10943",
+    "title": "Men's Jeans Starting From 299",
+    "description": "Flipkart On Men's Fashion 🔥🔥 Trackpants, Shorts Under 499 👉 Casual Shirts Under 499 👉  👉",
+    "shortlink": "https://fkrt.co/huoA9T",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart On Men's Fashion 🔥🔥"
+      },
+      {
+        "url": "https://fkrt.co/huoA9T",
+        "label": "Trackpants, Shorts Under 499"
+      },
+      {
+        "url": "https://fkrt.co/PK92sE",
+        "label": "Casual Shirts Under 499"
+      },
+      {
+        "url": "https://fkrt.co/0XGjB2",
+        "label": "Men's Jeans Starting From 299"
+      }
+    ],
+    "raw_text": "Flipkart  On Men's Fashion 🔥🔥\n\nTrackpants, Shorts Under 499\n👉https://fkrt.co/huoA9T\n\nCasual Shirts Under 499\n👉https://fkrt.co/PK92sE\n\nMen's Jeans Starting From 299\n👉https://fkrt.co/0XGjB2",
+    "final_url": "https://fkrt.co/huoA9T",
+    "local_image": "assets/images/tgmsg_10943.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-06T16:43:52+00:00",
+    "buy_link": "https://fkrt.co/huoA9T",
+    "date_iso": "2025-10-06T16:43:52+00:00"
+  },
+  {
+    "id": "msg10945",
+    "title": "Story@Home Carpets Up to 73% Off",
+    "description": "Myntra | Story@Home Carpets Upto 73% Off 👉https://myntr.in/yG1EW8",
+    "shortlink": "https://myntr.in/yG1EW8",
+    "urls": [
+      {
+        "url": "https://myntr.in/yG1EW8",
+        "label": "Story@Home Carpets Upto 73% Off"
+      }
+    ],
+    "raw_text": "Myntra | Story@Home Carpets Upto 73% Off\n\n👉https://myntr.in/yG1EW8",
+    "final_url": "https://myntr.in/yG1EW8",
+    "local_image": "assets/images/tgmsg_10945.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-06T16:51:47+00:00",
+    "buy_link": "https://myntr.in/yG1EW8",
+    "date_iso": "2025-10-06T16:51:47+00:00"
+  },
+  {
     "id": "msg10941",
     "title": "Red Tape Shoes at Up to 86% Discount",
     "description": "Ajio | Red Tape Shoes at Upto 86% Discount https://ajiio.co/zvrM7X",
@@ -8926,45 +8978,5 @@
     "date_obj": "2025-10-04T08:46:21+00:00",
     "buy_link": "https://fkrt.co/wGSISo",
     "date_iso": "2025-10-04T08:46:21+00:00"
-  },
-  {
-    "id": "msg10470",
-    "title": "Up to 85% Off Aeropostale Clothing",
-    "description": "Flipkart | Upto 85% Off Aeropostale Clothing Link : https://fkrt.co/mnCrDP",
-    "shortlink": "https://fkrt.co/mnCrDP",
-    "urls": [
-      {
-        "url": "https://fkrt.co/mnCrDP",
-        "label": "Upto 85% Off Aeropostale Clothing"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 85% Off Aeropostale Clothing \n\nLink : https://fkrt.co/mnCrDP",
-    "final_url": "https://fkrt.co/mnCrDP",
-    "local_image": "assets/images/tgmsg_10470.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-04T08:50:17+00:00",
-    "buy_link": "https://fkrt.co/mnCrDP",
-    "date_iso": "2025-10-04T08:50:17+00:00"
-  },
-  {
-    "id": "msg10467",
-    "title": "Axe Deodorant Spray Starting @156",
-    "description": "Flipkart | Axe Deodorant Spray Starting @156 Link- https://fkrt.co/wRRbut",
-    "shortlink": "https://fkrt.co/wRRbut",
-    "urls": [
-      {
-        "url": "https://fkrt.co/wRRbut",
-        "label": "Axe Deodorant Spray Starting @156"
-      }
-    ],
-    "raw_text": "Flipkart | Axe Deodorant Spray Starting @156\n \nLink- https://fkrt.co/wRRbut",
-    "final_url": "https://fkrt.co/wRRbut",
-    "local_image": "assets/images/tgmsg_10467.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-04T08:31:42+00:00",
-    "buy_link": "https://fkrt.co/wRRbut",
-    "date_iso": "2025-10-04T08:31:42+00:00"
   }
 ]
