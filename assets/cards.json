@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg10923",
+    "title": "Up to 85% Off on Libas Clothing",
+    "description": "Myntra : Upto 85% Off on Libas Clothing. https://myntr.in/Mwdfs2 Kurta Sets : https://myntr.in/Two2Yy",
+    "shortlink": "https://myntr.in/Mwdfs2",
+    "urls": [
+      {
+        "url": "https://myntr.in/Mwdfs2",
+        "label": "Upto 85% Off on Libas Clothing"
+      },
+      {
+        "url": "https://myntr.in/Two2Yy",
+        "label": "Kurta Sets"
+      }
+    ],
+    "raw_text": "Myntra : Upto 85% Off on Libas Clothing.\n\nhttps://myntr.in/Mwdfs2\n\nKurta Sets : https://myntr.in/Two2Yy",
+    "final_url": "https://myntr.in/Mwdfs2",
+    "local_image": "assets/images/tgmsg_10923.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-06T14:41:32+00:00",
+    "buy_link": "https://myntr.in/Mwdfs2",
+    "date_iso": "2025-10-06T14:41:32+00:00"
+  },
+  {
     "id": "msg10918",
     "title": "🥣 Tableware & Dinnerware – Up to 93% Off",
     "description": "🍽️ Flipkart Home Deals – Kitchen Essentials 🏠  🔗 🍽️ Dinner Sets – Up to 70% Off 🔗 🍷 Barware – Premium Collection 🔗",
@@ -9002,29 +9026,5 @@
     "date_obj": "2025-10-04T06:55:00+00:00",
     "buy_link": "https://fktr.in/ToeM5OY",
     "date_iso": "2025-10-04T06:55:00+00:00"
-  },
-  {
-    "id": "msg10453",
-    "title": "Up to 80% Off On Ceiling Lamps Starting From Rs.350",
-    "description": "Myntra | Upto 80% Off On Ceiling Lamps Starting From Rs.350 👉Link : UPTO 85% Off on Cups And Mugs Starting @ just ₹ 159 Link :",
-    "shortlink": "https://myntr.in/MSNSyN",
-    "urls": [
-      {
-        "url": "https://myntr.in/MSNSyN",
-        "label": "Upto 80% Off On Ceiling Lamps Starting From Rs.350"
-      },
-      {
-        "url": "https://myntr.in/N2dtCO",
-        "label": "UPTO 85% Off on Cups And Mugs Starting @ just ₹ 159"
-      }
-    ],
-    "raw_text": "Myntra | Upto 80% Off On Ceiling Lamps Starting From Rs.350\n\n👉Link : https://myntr.in/MSNSyN\n\nUPTO 85% Off on Cups And Mugs Starting @ just ₹ 159\n\nLink : https://myntr.in/N2dtCO",
-    "final_url": "https://myntr.in/MSNSyN",
-    "local_image": "assets/images/tgmsg_10453.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-04T07:01:36+00:00",
-    "buy_link": "https://myntr.in/MSNSyN",
-    "date_iso": "2025-10-04T07:01:36+00:00"
   }
 ]
