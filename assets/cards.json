@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg10925",
+    "title": "🔥 Denver Perfumes & Deodorants – Up to 55% OFF 🔥",
+    "description": "🔥 Myntra | Denver Perfumes & Deodorants – Up to 55% OFF 🔥 🔗 Shop here: https://myntr.in/Ek04Th",
+    "shortlink": "https://myntr.in/Ek04Th",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Myntra | Denver Perfumes & Deodorants – Up to 55% OFF 🔥"
+      },
+      {
+        "url": "https://myntr.in/Ek04Th",
+        "label": "🔗 Shop here"
+      }
+    ],
+    "raw_text": "🔥 Myntra | Denver Perfumes & Deodorants – Up to 55% OFF 🔥\n🔗 Shop here: https://myntr.in/Ek04Th",
+    "final_url": "https://myntr.in/Ek04Th",
+    "local_image": "assets/images/tgmsg_10925.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-06T14:51:30+00:00",
+    "buy_link": "https://myntr.in/Ek04Th",
+    "date_iso": "2025-10-06T14:51:30+00:00"
+  },
+  {
     "id": "msg10923",
     "title": "Up to 85% Off on Libas Clothing",
     "description": "Myntra : Upto 85% Off on Libas Clothing. https://myntr.in/Mwdfs2 Kurta Sets : https://myntr.in/Two2Yy",
@@ -8954,77 +8978,5 @@
     "date_obj": "2025-10-04T06:51:39+00:00",
     "buy_link": "https://ajiio.co/s5q7V9",
     "date_iso": "2025-10-04T06:51:39+00:00"
-  },
-  {
-    "id": "msg10452",
-    "title": "Big Festive Dhamaka Sale Is Live Now",
-    "description": "Flipkart . Link : Landing Pages : ↓↓ Top Offers : Hero Deals : Deals Under ₹199 : Deals Under ₹399 : Deals Under ₹799 : Mobiles : Laptop : Gadgets : Home : | TV & Appliances : |",
-    "shortlink": "https://fktr.in/ToeM5OY",
-    "urls": [
-      {
-        "url": "https://fktr.in/ToeM5OY",
-        "label": "Flipkart Big Festive Dhamaka Sale Is Live Now"
-      },
-      {
-        "url": "",
-        "label": "↓↓"
-      },
-      {
-        "url": "https://fktr.in/E1z1w5s",
-        "label": "Top Offers"
-      },
-      {
-        "url": "https://fktr.in/yRFJ5r5",
-        "label": "Hero Deals"
-      },
-      {
-        "url": "https://fktr.in/0CDbvhA",
-        "label": "Deals Under ₹199"
-      },
-      {
-        "url": "https://fktr.in/h523zzJ",
-        "label": "Deals Under ₹399"
-      },
-      {
-        "url": "https://fktr.in/Bdu2DF7",
-        "label": "Deals Under ₹799"
-      },
-      {
-        "url": "https://fktr.in/mmsw35X",
-        "label": "Mobiles"
-      },
-      {
-        "url": "https://fktr.in/yqwVOEn",
-        "label": "Laptop"
-      },
-      {
-        "url": "https://fktr.in/IilNU72",
-        "label": "Gadgets"
-      },
-      {
-        "url": "https://fktr.in/gRHKH0H",
-        "label": "Home"
-      },
-      {
-        "url": "https://fktr.in/8st2Vi6",
-        "label": "https://fktr.in/gRHKH0H"
-      },
-      {
-        "url": "https://fktr.in/qNCv82H",
-        "label": "TV & Appliances"
-      },
-      {
-        "url": "https://fktr.in/s45PHrl",
-        "label": "https://fktr.in/qNCv82H"
-      }
-    ],
-    "raw_text": "Flipkart Big Festive Dhamaka Sale Is Live Now. \n\nLink : https://fktr.in/ToeM5OY\n\nLanding Pages : ↓↓\nTop Offers : https://fktr.in/E1z1w5s\nHero Deals : https://fktr.in/yRFJ5r5\n\nDeals Under ₹199 : https://fktr.in/0CDbvhA\nDeals Under ₹399 : https://fktr.in/h523zzJ\nDeals Under ₹799 : https://fktr.in/Bdu2DF7\n\nMobiles : https://fktr.in/mmsw35X\nLaptop : https://fktr.in/yqwVOEn\nGadgets : https://fktr.in/IilNU72\nHome : https://fktr.in/gRHKH0H | https://fktr.in/8st2Vi6\n\nTV & Appliances : https://fktr.in/qNCv82H | https://fktr.in/s45PHrl",
-    "final_url": "https://fktr.in/ToeM5OY",
-    "local_image": "assets/images/tgmsg_10452.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-04T06:55:00+00:00",
-    "buy_link": "https://fktr.in/ToeM5OY",
-    "date_iso": "2025-10-04T06:55:00+00:00"
   }
 ]
