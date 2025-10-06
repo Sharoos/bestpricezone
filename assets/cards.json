@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg10935",
+    "title": "Up to 74% Off on Co",
+    "description": "Ajio | Upto 74% Off on Co-Ord Sets Starting @ just ₹319 Link : https://ajiio.co/PLCKu9",
+    "shortlink": "https://ajiio.co/PLCKu9",
+    "urls": [
+      {
+        "url": "https://ajiio.co/PLCKu9",
+        "label": "Upto 74% Off on Co-Ord Sets Starting @ just ₹319"
+      }
+    ],
+    "raw_text": "Ajio | Upto 74% Off on Co-Ord Sets Starting @ just ₹319\n \nLink : https://ajiio.co/PLCKu9",
+    "final_url": "https://ajiio.co/PLCKu9",
+    "local_image": "assets/images/tgmsg_10935.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-06T15:51:57+00:00",
+    "buy_link": "https://ajiio.co/PLCKu9",
+    "date_iso": "2025-10-06T15:51:57+00:00"
+  },
+  {
     "id": "msg10929",
     "title": "on Electric Bike at 2699",
     "description": "Amazon | Storio Kid’s Ride-on Electric Bike at 2699. https://www.amazon.in/dp/B0F6783VKW?th=1&tag=bestpricezo0f-21",
@@ -8954,25 +8974,5 @@
     "date_obj": "2025-10-04T07:38:03+00:00",
     "buy_link": "https://fktr.in/nx9W0Wy",
     "date_iso": "2025-10-04T07:38:03+00:00"
-  },
-  {
-    "id": "msg10460",
-    "title": "🪑 Laptop Tables – Starting at just ₹383! 💻",
-    "description": "Flipkart | 🪑 Laptop Tables – Starting at just ₹383! 💻 👉 https://fkrt.co/RkGqbU",
-    "shortlink": "https://fkrt.co/RkGqbU",
-    "urls": [
-      {
-        "url": "https://fkrt.co/RkGqbU",
-        "label": "🪑 Laptop Tables – Starting at just ₹383! 💻"
-      }
-    ],
-    "raw_text": "Flipkart | 🪑 Laptop Tables – Starting at just ₹383! 💻\n\n👉 https://fkrt.co/RkGqbU",
-    "final_url": "https://fkrt.co/RkGqbU",
-    "local_image": "assets/images/tgmsg_10460.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-04T07:46:37+00:00",
-    "buy_link": "https://fkrt.co/RkGqbU",
-    "date_iso": "2025-10-04T07:46:37+00:00"
   }
 ]
