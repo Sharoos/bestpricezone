@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg10872",
+    "title": "Flat 50% OFF on Earrings (Min 2 Quantity)",
+    "description": "TIARAA Monday Loot Deal Flat 50% OFF on Earrings (Min 2 Quantity) Use Code: LOOT50 Shop Now 👉 https://bitli.in/zf7Bjon",
+    "shortlink": "https://bitli.in/zf7Bjon",
+    "urls": [
+      {
+        "url": "",
+        "label": "TIARAA Monday Loot Deal"
+      },
+      {
+        "url": "",
+        "label": "Flat 50% OFF on Earrings (Min 2 Quantity)"
+      },
+      {
+        "url": "",
+        "label": "LOOT50"
+      },
+      {
+        "url": "https://bitli.in/zf7Bjon",
+        "label": "Shop Now 👉"
+      }
+    ],
+    "raw_text": "TIARAA Monday Loot Deal \n\nFlat 50% OFF on Earrings (Min 2 Quantity)\n\nUse Code: LOOT50\n\nShop Now 👉 https://bitli.in/zf7Bjon",
+    "final_url": "https://bitli.in/zf7Bjon",
+    "local_image": "assets/images/tgmsg_10872.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-10-06T10:44:42+00:00",
+    "buy_link": "https://bitli.in/zf7Bjon",
+    "date_iso": "2025-10-06T10:44:42+00:00"
+  },
+  {
+    "id": "msg10873",
+    "title": "Save Up to 81%",
+    "description": "Flipkart | Accessorize Bags Women - Save Up to 81% 👉https://fkrt.co/SKxZ93",
+    "shortlink": "https://fkrt.co/SKxZ93",
+    "urls": [
+      {
+        "url": "https://fkrt.co/SKxZ93",
+        "label": "Accessorize Bags Women - Save Up to 81%"
+      }
+    ],
+    "raw_text": "Flipkart | Accessorize Bags Women - Save Up to 81%\n\n👉https://fkrt.co/SKxZ93",
+    "final_url": "https://fkrt.co/SKxZ93",
+    "local_image": "assets/images/tgmsg_10873.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-06T10:45:18+00:00",
+    "buy_link": "https://fkrt.co/SKxZ93",
+    "date_iso": "2025-10-06T10:45:18+00:00"
+  },
+  {
     "id": "msg10869",
     "title": "76% Off",
     "description": "Flipkart | 76% Off - URBN 20000 mAh 22.5 W Power Bank At Rs.799 👉https://fkrt.co/Qh3M6M",
@@ -8990,45 +9042,5 @@
     "date_obj": "2025-10-03T20:40:20+00:00",
     "buy_link": "https://fkrt.co/vSz4To",
     "date_iso": "2025-10-03T20:40:20+00:00"
-  },
-  {
-    "id": "msg10418",
-    "title": "65% OFF",
-    "description": "Flipkart | Pigeon Zoom Electric Vegetable & Fruit Chopper  - 65% OFF https://fkrt.co/GMd6n1",
-    "shortlink": "https://fkrt.co/GMd6n1",
-    "urls": [
-      {
-        "url": "https://fkrt.co/GMd6n1",
-        "label": "Pigeon Zoom Electric Vegetable & Fruit Chopper - 65% OFF"
-      }
-    ],
-    "raw_text": "Flipkart | Pigeon Zoom Electric Vegetable & Fruit Chopper  - 65% OFF\n\nhttps://fkrt.co/GMd6n1",
-    "final_url": "https://fkrt.co/GMd6n1",
-    "local_image": "assets/images/tgmsg_10418.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T20:03:28+00:00",
-    "buy_link": "https://fkrt.co/GMd6n1",
-    "date_iso": "2025-10-03T20:03:28+00:00"
-  },
-  {
-    "id": "msg10410",
-    "title": "Larah Glassware Lunchbox with Bag 3pc @517",
-    "description": "Amazon | Larah Glassware Lunchbox with Bag | 3pc @517. https://www.amazon.in/dp/B0DTHH5DTZ?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DTHH5DTZ?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DTHH5DTZ?th=1&tag=bestpricezo0f-21",
-        "label": "Larah Glassware Lunchbox with Bag | 3pc @517"
-      }
-    ],
-    "raw_text": "Amazon | Larah Glassware Lunchbox with Bag | 3pc @517.\n\nhttps://www.amazon.in/dp/B0DTHH5DTZ?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DTHH5DTZ?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10410.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-03T19:48:30+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DTHH5DTZ?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-03T19:48:30+00:00"
   }
 ]
