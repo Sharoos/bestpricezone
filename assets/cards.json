@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg10833",
+    "title": "Up to 75% OFF on UCB Clothing",
+    "description": "Ajio | Up to 75% OFF on UCB Clothing Men’s: https://ajiio.co/5bBl8a Women’s: https://ajiio.co/ltQGxn Boy’s: https://ajiio.co/Lj4KYt Girl’s: https://ajiio.co/MuxmyP *10% Ajio Super Cash On Every Order.",
+    "shortlink": "https://ajiio.co/5bBl8a",
+    "urls": [
+      {
+        "url": "",
+        "label": "Up to 75% OFF on UCB Clothing"
+      },
+      {
+        "url": "https://ajiio.co/5bBl8a",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/ltQGxn",
+        "label": "Women’s"
+      },
+      {
+        "url": "https://ajiio.co/Lj4KYt",
+        "label": "Boy’s"
+      },
+      {
+        "url": "https://ajiio.co/MuxmyP",
+        "label": "Girl’s"
+      },
+      {
+        "url": "",
+        "label": "10% Ajio Super Cash On Every Order"
+      }
+    ],
+    "raw_text": "Ajio | Up to 75% OFF on UCB Clothing\n\nMen’s: https://ajiio.co/5bBl8a\nWomen’s: https://ajiio.co/ltQGxn\nBoy’s: https://ajiio.co/Lj4KYt\nGirl’s: https://ajiio.co/MuxmyP\n\n*10% Ajio Super Cash On Every Order.",
+    "final_url": "https://ajiio.co/5bBl8a",
+    "local_image": "assets/images/tgmsg_10833.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-06T04:46:11+00:00",
+    "buy_link": "https://ajiio.co/5bBl8a",
+    "date_iso": "2025-10-06T04:46:11+00:00"
+  },
+  {
     "id": "msg10831",
     "title": "💫 Veet Creams & Hair Removal Kits — 45% Off (Today Only!)",
     "description": "🧴 Myntra | Personal Care Mega Sale! 💥 ✨ Boroplus Soaps & Creams — 60–70% Off! 🔗 🌿 Dabur Amla & Dabur Vatika — Min. 55% Off!! 🔗  🔗 🧴 Kesh King Shampoo — Upto 70% Off! 🔗",
@@ -8866,49 +8906,5 @@
     "date_obj": "2025-10-03T18:53:31+00:00",
     "buy_link": "https://myntr.in/oIlJsf",
     "date_iso": "2025-10-03T18:53:31+00:00"
-  },
-  {
-    "id": "msg10351",
-    "title": "🔥Women's Saaree Under @499",
-    "description": "🔥Flipkart: Women's Saaree Under @499 Silk Sarees: Kanjivaram: Daily Wear: Organza Saaree: Sequin Saaree: Blouse:",
-    "shortlink": "https://fkrt.co/wtndMv",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Flipkart: Women's Saaree Under @499"
-      },
-      {
-        "url": "https://fkrt.co/wtndMv",
-        "label": "Silk Sarees"
-      },
-      {
-        "url": "https://fkrt.co/enIysv",
-        "label": "Kanjivaram"
-      },
-      {
-        "url": "https://fkrt.co/HgVXuM",
-        "label": "Daily Wear"
-      },
-      {
-        "url": "https://fkrt.co/Ol0VyS",
-        "label": "Organza Saaree"
-      },
-      {
-        "url": "https://fkrt.co/lXewq3",
-        "label": "Sequin Saaree"
-      },
-      {
-        "url": "https://fkrt.co/wEtGDE",
-        "label": "Blouse"
-      }
-    ],
-    "raw_text": "🔥Flipkart: Women's Saaree Under @499\n\nSilk Sarees: https://fkrt.co/wtndMv\nKanjivaram: https://fkrt.co/enIysv\nDaily Wear: https://fkrt.co/HgVXuM\nOrganza Saaree: https://fkrt.co/Ol0VyS\nSequin Saaree: https://fkrt.co/lXewq3\nBlouse: https://fkrt.co/wEtGDE",
-    "final_url": "https://fkrt.co/wtndMv",
-    "local_image": "assets/images/tgmsg_10351.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T18:53:39+00:00",
-    "buy_link": "https://fkrt.co/wtndMv",
-    "date_iso": "2025-10-03T18:53:39+00:00"
   }
 ]
