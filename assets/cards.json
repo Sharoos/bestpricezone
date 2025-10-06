@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg10861",
+    "title": "Weighing Scales Min 65% Off",
+    "description": "Flipkart | Weighing Scales  Min 65% Off 👉https://fkrt.co/SbP80I",
+    "shortlink": "https://fkrt.co/SbP80I",
+    "urls": [
+      {
+        "url": "https://fkrt.co/SbP80I",
+        "label": "Weighing Scales Min 65% Off"
+      }
+    ],
+    "raw_text": "Flipkart | Weighing Scales  Min 65% Off\n\n👉https://fkrt.co/SbP80I",
+    "final_url": "https://fkrt.co/SbP80I",
+    "local_image": "assets/images/tgmsg_10861.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-06T09:02:23+00:00",
+    "buy_link": "https://fkrt.co/SbP80I",
+    "date_iso": "2025-10-06T09:02:23+00:00"
+  },
+  {
+    "id": "msg10862",
+    "title": "Up to 89% Off On Bewakoof Clothing",
+    "description": "Myntra : Upto 89% Off On Bewakoof Clothing. Men : Women : Upto 85% Off On The Souled Store Clothing. Men : Women :",
+    "shortlink": "https://myntr.in/QfVU15",
+    "urls": [
+      {
+        "url": "https://myntr.in/QfVU15",
+        "label": "Upto 89% Off On Bewakoof Clothing"
+      },
+      {
+        "url": "https://myntr.in/TULLYm",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/UhRGvQ",
+        "label": "Upto 85% Off On The Souled Store Clothing"
+      },
+      {
+        "url": "https://myntr.in/s572F2",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra : Upto 89% Off On Bewakoof Clothing.\n\nMen : https://myntr.in/QfVU15\nWomen : https://myntr.in/TULLYm\n\nUpto 85% Off On The Souled Store Clothing.\n\nMen : https://myntr.in/UhRGvQ\nWomen : https://myntr.in/s572F2",
+    "final_url": "https://myntr.in/QfVU15",
+    "local_image": "assets/images/tgmsg_10862.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-06T09:17:39+00:00",
+    "buy_link": "https://myntr.in/QfVU15",
+    "date_iso": "2025-10-06T09:17:39+00:00"
+  },
+  {
     "id": "msg10857",
     "title": "Men's Perfumes at Up to 78% Discount",
     "description": "Flipkart | Men's Perfumes at Up to 78% Discount 👉 https://fkrt.co/KicUN6",
@@ -8962,45 +9014,5 @@
     "date_obj": "2025-10-03T19:36:34+00:00",
     "buy_link": "https://fkrt.co/20OxrT",
     "date_iso": "2025-10-03T19:36:34+00:00"
-  },
-  {
-    "id": "msg10403",
-    "title": "Pears Pure and Gentle Body Wash @ 106/",
-    "description": "Flipkart | Pears Pure and Gentle Body Wash @ 106/- https://fkrt.co/Vp4LB2",
-    "shortlink": "https://fkrt.co/Vp4LB2",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Vp4LB2",
-        "label": "Pears Pure and Gentle Body Wash @ 106/"
-      }
-    ],
-    "raw_text": "Flipkart | Pears Pure and Gentle Body Wash @ 106/- \n\nhttps://fkrt.co/Vp4LB2",
-    "final_url": "https://fkrt.co/Vp4LB2",
-    "local_image": "assets/images/tgmsg_10403.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T19:37:37+00:00",
-    "buy_link": "https://fkrt.co/Vp4LB2",
-    "date_iso": "2025-10-03T19:37:37+00:00"
-  },
-  {
-    "id": "msg10404",
-    "title": "19789/",
-    "description": "Amazon | 19789/- APPLY COUPON + SBI OFF Intel Core i9-11900 LGA1200 Desktop Processor https://www.amazon.in/dp/B08X5XVLL9?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B08X5XVLL9?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B08X5XVLL9?tag=bestpricezo0f-21",
-        "label": "11900 LGA1200 Desktop Processor"
-      }
-    ],
-    "raw_text": "Amazon | 19789/- APPLY COUPON + SBI OFF\nIntel Core i9-11900 LGA1200 Desktop Processor\n\nhttps://www.amazon.in/dp/B08X5XVLL9?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B08X5XVLL9?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10404.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-03T19:38:57+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08X5XVLL9?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-03T19:38:57+00:00"
   }
 ]
