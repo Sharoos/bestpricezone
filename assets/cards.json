@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg10834",
+    "title": "Up to 70% Off on Buda Jeans Co Clothing",
+    "description": "AJIO -  T-Shirts : Trousers : Shirts : Jeans : Sweatshirts : Jackets : Trackpants : *10% Ajio Super Cash On Every Order.",
+    "shortlink": "https://ajiio.co/ENCdwF",
+    "urls": [
+      {
+        "url": "",
+        "label": "Up to 70% Off on Buda Jeans Co Clothing"
+      },
+      {
+        "url": "https://ajiio.co/ENCdwF",
+        "label": "T-Shirts"
+      },
+      {
+        "url": "https://ajiio.co/KhxfmC",
+        "label": "Trousers"
+      },
+      {
+        "url": "https://ajiio.co/mYhkuj",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/MqaKTZ",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/BjjDDu",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "https://ajiio.co/nIMcId",
+        "label": "Jackets"
+      },
+      {
+        "url": "https://ajiio.co/BGW8mT",
+        "label": "Trackpants"
+      },
+      {
+        "url": "",
+        "label": "10% Ajio Super Cash On Every Order"
+      }
+    ],
+    "raw_text": "AJIO - Up to 70% Off on Buda Jeans Co Clothing \n\n T-Shirts : https://ajiio.co/ENCdwF\n Trousers : https://ajiio.co/KhxfmC\n Shirts : https://ajiio.co/mYhkuj\n Jeans : https://ajiio.co/MqaKTZ\n Sweatshirts : https://ajiio.co/BjjDDu\n Jackets : https://ajiio.co/nIMcId\n Trackpants : https://ajiio.co/BGW8mT\n\n*10% Ajio Super Cash On Every Order.",
+    "final_url": "https://ajiio.co/ENCdwF",
+    "local_image": "assets/images/tgmsg_10834.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-06T04:55:51+00:00",
+    "buy_link": "https://ajiio.co/ENCdwF",
+    "date_iso": "2025-10-06T04:55:51+00:00"
+  },
+  {
     "id": "msg10833",
     "title": "Up to 75% OFF on UCB Clothing",
     "description": "Ajio | Up to 75% OFF on UCB Clothing Men’s: https://ajiio.co/5bBl8a Women’s: https://ajiio.co/ltQGxn Boy’s: https://ajiio.co/Lj4KYt Girl’s: https://ajiio.co/MuxmyP *10% Ajio Super Cash On Every Order.",
@@ -8886,25 +8938,5 @@
     "date_obj": "2025-10-03T19:21:54+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F9P6PYPK?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-03T19:21:54+00:00"
-  },
-  {
-    "id": "msg10350",
-    "title": "Up to 75% Off",
-    "description": "Myntra | Upto 75% Off https://myntr.in/oIlJsf",
-    "shortlink": "https://myntr.in/oIlJsf",
-    "urls": [
-      {
-        "url": "https://myntr.in/oIlJsf",
-        "label": "Upto 75% Off"
-      }
-    ],
-    "raw_text": "Myntra | Upto 75% Off\n\nhttps://myntr.in/oIlJsf",
-    "final_url": "https://myntr.in/oIlJsf",
-    "local_image": "assets/images/tgmsg_10350.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-03T18:53:31+00:00",
-    "buy_link": "https://myntr.in/oIlJsf",
-    "date_iso": "2025-10-03T18:53:31+00:00"
   }
 ]
