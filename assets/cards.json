@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg10825",
+    "title": "Kook N Keech Men's Trackpants Starts @269",
+    "description": "Myntra : Kook N Keech Men's Trackpants Starts @269. 👉https://myntr.in/WEsO2J",
+    "shortlink": "https://myntr.in/WEsO2J",
+    "urls": [
+      {
+        "url": "https://myntr.in/WEsO2J",
+        "label": "Kook N Keech Men's Trackpants Starts @269"
+      }
+    ],
+    "raw_text": "Myntra : Kook N Keech Men's Trackpants Starts @269.\n\n👉https://myntr.in/WEsO2J",
+    "final_url": "https://myntr.in/WEsO2J",
+    "local_image": "assets/images/tgmsg_10825.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-06T03:41:01+00:00",
+    "buy_link": "https://myntr.in/WEsO2J",
+    "date_iso": "2025-10-06T03:41:01+00:00"
+  },
+  {
+    "id": "msg10828",
+    "title": "Eveready 7W Led Bulb @59",
+    "description": "Amazon | Eveready 7W Led Bulb @59. 👉https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
+        "label": "Eveready 7W Led Bulb @59"
+      }
+    ],
+    "raw_text": "Amazon | Eveready 7W Led Bulb @59.\n \n👉https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_10828.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-06T03:50:41+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0743BFR7H?psc=1&th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-06T03:50:41+00:00"
+  },
+  {
     "id": "msg10823",
     "title": "mivi earphones at 599/",
     "description": "Flipkart  mivi earphones at 599/- https://fkrt.co/ceWgsv",
@@ -8834,45 +8874,5 @@
     "date_obj": "2025-10-03T18:56:41+00:00",
     "buy_link": "https://fkrt.co/Pqe4tC",
     "date_iso": "2025-10-03T18:56:41+00:00"
-  },
-  {
-    "id": "msg10356",
-    "title": "FAST 4975 REGULAR 10K+",
-    "description": "Flipkart | FAST 4975  REGULAR 10K+ https://fkrt.co/SlFWjF",
-    "shortlink": "https://fkrt.co/SlFWjF",
-    "urls": [
-      {
-        "url": "https://fkrt.co/SlFWjF",
-        "label": "FAST 4975 REGULAR 10K+"
-      }
-    ],
-    "raw_text": "Flipkart | FAST 4975  REGULAR 10K+\n\nhttps://fkrt.co/SlFWjF",
-    "final_url": "https://fkrt.co/SlFWjF",
-    "local_image": "assets/images/tgmsg_10356.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T18:56:42+00:00",
-    "buy_link": "https://fkrt.co/SlFWjF",
-    "date_iso": "2025-10-03T18:56:42+00:00"
-  },
-  {
-    "id": "msg10358",
-    "title": "Lowest HIMALAYA Happy Baby Gift Pack (5",
-    "description": "Flipkart Lowest : HIMALAYA Happy Baby Gift Pack (5-IN-1) @ 210 👉https://fkrt.co/oD1RLM",
-    "shortlink": "https://fkrt.co/oD1RLM",
-    "urls": [
-      {
-        "url": "https://fkrt.co/oD1RLM",
-        "label": "HIMALAYA Happy Baby Gift Pack (5-IN-1) @ 210"
-      }
-    ],
-    "raw_text": "Flipkart Lowest : HIMALAYA Happy Baby Gift Pack (5-IN-1) @ 210\n \n👉https://fkrt.co/oD1RLM",
-    "final_url": "https://fkrt.co/oD1RLM",
-    "local_image": "assets/images/tgmsg_10358.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-03T18:57:48+00:00",
-    "buy_link": "https://fkrt.co/oD1RLM",
-    "date_iso": "2025-10-03T18:57:48+00:00"
   }
 ]
