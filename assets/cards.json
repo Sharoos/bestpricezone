@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg11133",
+    "title": "FAST",
+    "description": "FAST. https://fkrt.co/XJLVdD",
+    "shortlink": "https://fkrt.co/XJLVdD",
+    "urls": [
+      {
+        "url": "https://fkrt.co/XJLVdD",
+        "label": ""
+      }
+    ],
+    "raw_text": "FAST.\n\nhttps://fkrt.co/XJLVdD",
+    "final_url": "https://fkrt.co/XJLVdD",
+    "local_image": "assets/images/tgmsg_11133.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-07T17:20:10+00:00",
+    "buy_link": "https://fkrt.co/XJLVdD",
+    "date_iso": "2025-10-07T17:20:10+00:00"
+  },
+  {
+    "id": "msg11134",
+    "title": "Home Centre Products at Min 40%",
+    "description": "MYNTRA | Home Centre Products at Min 40% https://myntr.in/UW8eBf",
+    "shortlink": "https://myntr.in/UW8eBf",
+    "urls": [
+      {
+        "url": "https://myntr.in/UW8eBf",
+        "label": "Home Centre Products at Min 40%"
+      }
+    ],
+    "raw_text": "MYNTRA | Home Centre Products at Min 40% \n\nhttps://myntr.in/UW8eBf",
+    "final_url": "https://myntr.in/UW8eBf",
+    "local_image": "assets/images/tgmsg_11134.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-07T17:21:50+00:00",
+    "buy_link": "https://myntr.in/UW8eBf",
+    "date_iso": "2025-10-07T17:21:50+00:00"
+  },
+  {
+    "id": "msg11135",
+    "title": "Grocery Container (Pack of 12) at Rs.286",
+    "description": "Flipkart | Grocery Container (Pack of 12) at Rs.286 https://fkrt.co/T3uTt1 More : https://fkrt.co/AC4h4u",
+    "shortlink": "https://fkrt.co/T3uTt1",
+    "urls": [
+      {
+        "url": "https://fkrt.co/T3uTt1",
+        "label": "Grocery Container (Pack of 12) at Rs.286"
+      },
+      {
+        "url": "https://fkrt.co/AC4h4u",
+        "label": "More"
+      }
+    ],
+    "raw_text": "Flipkart | Grocery Container (Pack of 12) at Rs.286\n\nhttps://fkrt.co/T3uTt1\n\nMore : https://fkrt.co/AC4h4u",
+    "final_url": "https://fkrt.co/T3uTt1",
+    "local_image": "assets/images/tgmsg_11135.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-07T17:31:49+00:00",
+    "buy_link": "https://fkrt.co/T3uTt1",
+    "date_iso": "2025-10-07T17:31:49+00:00"
+  },
+  {
     "id": "msg11129",
     "title": "Happilo Premium Diwali Gift Pack with 8 Inclusions @182",
     "description": "Loot: Happilo Premium Diwali Gift Pack with 8 Inclusions @182 https://www.amazon.in/dp/B0CF98YNHZ?tag=bestpricezo0f-21",
@@ -8754,77 +8818,5 @@
     "date_obj": "2025-10-05T07:41:42+00:00",
     "buy_link": "https://www.amazon.in/dp/B09N18X9WN?tag=bestpricezo0f-21",
     "date_iso": "2025-10-05T07:41:42+00:00"
-  },
-  {
-    "id": "msg10694",
-    "title": "Vegetable Chopper Starts At Rs.115",
-    "description": "Flipkart | Vegetable Chopper Starts At Rs.115 👉Link : https://fkrt.co/Eo2C6Z",
-    "shortlink": "https://fkrt.co/Eo2C6Z",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Eo2C6Z",
-        "label": "Vegetable Chopper Starts At Rs.115"
-      }
-    ],
-    "raw_text": "Flipkart | Vegetable Chopper Starts At Rs.115\n\n👉Link : https://fkrt.co/Eo2C6Z",
-    "final_url": "https://fkrt.co/Eo2C6Z",
-    "local_image": "assets/images/tgmsg_10694.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-05T07:31:43+00:00",
-    "buy_link": "https://fkrt.co/Eo2C6Z",
-    "date_iso": "2025-10-05T07:31:43+00:00"
-  },
-  {
-    "id": "msg10691",
-    "title": "Up to 81% Off On The Souled Store Clothing",
-    "description": "Myntra | Upto 81% Off On The Souled Store Clothing. Men's : https://myntr.in/NJwEnX Women's : https://myntr.in/7IG2kP Snitch : https://myntr.in/SIcRIC",
-    "shortlink": "https://myntr.in/NJwEnX",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 81% Off On The Souled Store Clothing"
-      },
-      {
-        "url": "https://myntr.in/NJwEnX",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/7IG2kP",
-        "label": "Women's"
-      },
-      {
-        "url": "https://myntr.in/SIcRIC",
-        "label": "Snitch"
-      }
-    ],
-    "raw_text": "Myntra | Upto 81% Off On The Souled Store Clothing.\n\nMen's : https://myntr.in/NJwEnX\nWomen's : https://myntr.in/7IG2kP\n\nSnitch : https://myntr.in/SIcRIC",
-    "final_url": "https://myntr.in/NJwEnX",
-    "local_image": "assets/images/tgmsg_10691.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-05T07:11:47+00:00",
-    "buy_link": "https://myntr.in/NJwEnX",
-    "date_iso": "2025-10-05T07:11:47+00:00"
-  },
-  {
-    "id": "msg10692",
-    "title": "Asics Shoes Up to 65% Off",
-    "description": "Ajio : Asics Shoes Upto 65% Off 👉https://ajiio.co/DypCbh",
-    "shortlink": "https://ajiio.co/DypCbh",
-    "urls": [
-      {
-        "url": "https://ajiio.co/DypCbh",
-        "label": "Asics Shoes Upto 65% Off"
-      }
-    ],
-    "raw_text": "Ajio : Asics Shoes Upto 65% Off\n\n👉https://ajiio.co/DypCbh",
-    "final_url": "https://ajiio.co/DypCbh",
-    "local_image": "assets/images/tgmsg_10692.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-05T07:21:45+00:00",
-    "buy_link": "https://ajiio.co/DypCbh",
-    "date_iso": "2025-10-05T07:21:45+00:00"
   }
 ]
