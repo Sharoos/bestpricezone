@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg11051",
+    "title": "Up to 80% Off John Players Clothing",
+    "description": "AJIO : Upto 80% Off : John Players Clothing Jeans – Shirts – T-Shirts – Trousers – Sweatshirts – Sweaters – Jackets – Waistcoats & Blazers –",
+    "shortlink": "https://ajiio.co/lcE5Jg",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off : John Players Clothing"
+      },
+      {
+        "url": "https://ajiio.co/lcE5Jg",
+        "label": "Jeans –"
+      },
+      {
+        "url": "https://ajiio.co/kYKaAp",
+        "label": "Shirts –"
+      },
+      {
+        "url": "https://ajiio.co/qoq57k",
+        "label": "T-Shirts –"
+      },
+      {
+        "url": "https://ajiio.co/pgFY0R",
+        "label": "Trousers –"
+      },
+      {
+        "url": "https://ajiio.co/Lbhxmk",
+        "label": "Sweatshirts –"
+      },
+      {
+        "url": "https://ajiio.co/AEdAo8",
+        "label": "Sweaters –"
+      },
+      {
+        "url": "https://ajiio.co/G7fgeT",
+        "label": "Jackets –"
+      },
+      {
+        "url": "https://ajiio.co/kUgEDu",
+        "label": "Waistcoats & Blazers –"
+      }
+    ],
+    "raw_text": "AJIO : Upto 80% Off : John Players Clothing \n\nJeans – https://ajiio.co/lcE5Jg\nShirts – https://ajiio.co/kYKaAp\nT-Shirts – https://ajiio.co/qoq57k\nTrousers – https://ajiio.co/pgFY0R\nSweatshirts – https://ajiio.co/Lbhxmk\nSweaters – https://ajiio.co/AEdAo8\nJackets – https://ajiio.co/G7fgeT\nWaistcoats & Blazers – https://ajiio.co/kUgEDu",
+    "final_url": "https://ajiio.co/lcE5Jg",
+    "local_image": "assets/images/tgmsg_11051.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-07T08:34:50+00:00",
+    "buy_link": "https://ajiio.co/lcE5Jg",
+    "date_iso": "2025-10-07T08:34:50+00:00"
+  },
+  {
     "id": "msg11048",
     "title": "Roadster Sweatshirts Starts @ 229",
     "description": "Myntra : Roadster Sweatshirts Starts @ 229. Men's : https://myntr.in/LLQRMX Women's : https://myntr.in/2yzECe",
@@ -8798,25 +8850,5 @@
     "date_obj": "2025-10-04T18:46:48+00:00",
     "buy_link": "https://myntr.in/3ruoMg",
     "date_iso": "2025-10-04T18:46:48+00:00"
-  },
-  {
-    "id": "msg10624",
-    "title": "Aristocrat Duffle Bag Starts at Rs.381",
-    "description": "Flipkart | Aristocrat Duffle Bag Starts at Rs.381 👉https://fkrt.co/Y93DA4",
-    "shortlink": "https://fkrt.co/Y93DA4",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Y93DA4",
-        "label": "Aristocrat Duffle Bag Starts at Rs.381"
-      }
-    ],
-    "raw_text": "Flipkart | Aristocrat Duffle Bag Starts at Rs.381\n\n👉https://fkrt.co/Y93DA4",
-    "final_url": "https://fkrt.co/Y93DA4",
-    "local_image": "assets/images/tgmsg_10624.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-04T18:48:10+00:00",
-    "buy_link": "https://fkrt.co/Y93DA4",
-    "date_iso": "2025-10-04T18:48:10+00:00"
   }
 ]
