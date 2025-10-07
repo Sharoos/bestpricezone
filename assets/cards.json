@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg11090",
+    "title": "Up to 85% OFF on Branded Shoes, Trolleys & Clothing 🔥🔥",
+    "description": "Flipkart : Upto 85% OFF on Branded Shoes, Trolleys & Clothing 🔥🔥 🧳 Trolleys: 👟 Shoes: 👔 Men’s Shirts: 👚 Women’s Top Wear: 💥 Hurry! Limited-Time Offers Only",
+    "shortlink": "https://fkrt.co/mxWvb1",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% OFF on Branded Shoes, Trolleys & Clothing 🔥🔥"
+      },
+      {
+        "url": "https://fkrt.co/mxWvb1",
+        "label": "🧳 Trolleys"
+      },
+      {
+        "url": "https://fkrt.co/11Nmb4",
+        "label": "👟 Shoes"
+      },
+      {
+        "url": "https://fkrt.co/3lhFkr",
+        "label": "👔 Men’s Shirts"
+      },
+      {
+        "url": "https://fkrt.co/YMNZB8",
+        "label": "👚 Women’s Top Wear"
+      },
+      {
+        "url": "",
+        "label": "💥 Hurry! Limited-Time Offers Only"
+      }
+    ],
+    "raw_text": "Flipkart : Upto 85% OFF on Branded Shoes, Trolleys & Clothing 🔥🔥\n\n🧳 Trolleys: https://fkrt.co/mxWvb1\n👟 Shoes: https://fkrt.co/11Nmb4\n👔 Men’s Shirts: https://fkrt.co/3lhFkr\n👚 Women’s Top Wear: https://fkrt.co/YMNZB8\n\n💥 Hurry! Limited-Time Offers Only",
+    "final_url": "https://fkrt.co/mxWvb1",
+    "local_image": "assets/images/tgmsg_11090.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-07T13:57:56+00:00",
+    "buy_link": "https://fkrt.co/mxWvb1",
+    "date_iso": "2025-10-07T13:57:56+00:00"
+  },
+  {
     "id": "msg11088",
     "title": "💇‍♀️ Schwarzkopf & Schwarzkopf Professional – Up to 45% Off + Coupon",
     "description": "💆‍♀️ Myntra Beauty & Body Care Sale — Live Now! 💥 ✨ Livon Hair Serum – Min 60% Off 🔗 🧴 Parachute Body Lotion – Min 60% Off 🔗 💇‍♀️ Schwarzkopf & Schwarzkopf Professional – Upto 45% Off + Coupons 🔗 🌿 Lotus Botanicals –…",
@@ -8802,29 +8842,5 @@
     "date_obj": "2025-10-04T19:22:59+00:00",
     "buy_link": "https://www.amazon.in/s?k=U.S.%2520POLO%2520ASSN.&i=apparel&rh=n%253A1571271031%252Cp_6%253AA1WYWER0W24N8S%252Cp_n_pct-off-with-tax%253A27060457031%252Cp_123%253A390827&s=price-asc-rank&dc=&ds=v1%253AWHXpz8BMvGlQNKDjUAKTWxRYUcnf5xqtaW7VFJfjlmM&crid=RCBK2EWSQ56B&qid=1759170041&sprefix=u.s.%2520polo%2520assn.%252Capparel%252C292&tag=bestpricezo0f-21",
     "date_iso": "2025-10-04T19:22:59+00:00"
-  },
-  {
-    "id": "msg10647",
-    "title": "₹3000 Off with SBI Credit Card EMI",
-    "description": "Amazon | Samsung (43 inches) FHD Smart LED TV @ 18990/- https://www.amazon.in/dp/B0F84DKX8K?psc=1&th=1&tag=bestpricezo0f-21 ₹3000 Off with SBI Credit Card EMIs",
-    "shortlink": "https://www.amazon.in/dp/B0F84DKX8K?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F84DKX8K?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "Samsung (43 inches) FHD Smart LED TV @ 18990/"
-      },
-      {
-        "url": "",
-        "label": "₹3000 Off with SBI Credit Card EMIs"
-      }
-    ],
-    "raw_text": "Amazon | Samsung (43 inches) FHD Smart LED TV @ 18990/-\n\nhttps://www.amazon.in/dp/B0F84DKX8K?psc=1&th=1&tag=bestpricezo0f-21\n\n₹3000 Off with SBI Credit Card EMIs",
-    "final_url": "https://www.amazon.in/dp/B0F84DKX8K?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10647.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-04T19:23:53+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F84DKX8K?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-04T19:23:53+00:00"
   }
 ]
