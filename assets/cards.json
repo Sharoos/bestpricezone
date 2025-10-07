@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11052",
+    "title": "Acer i3 13th Gen Laptop @ 27,240 Using Axis CC",
+    "description": "Amazon | Acer i3 13th Gen Laptop @ 27,240 Using Axis CC 👉https://www.amazon.in/dp/B0DB1SDB87?psc=1&th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DB1SDB87?psc=1&th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DB1SDB87?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "Acer i3 13th Gen Laptop @ 27,240 Using Axis CC"
+      }
+    ],
+    "raw_text": "Amazon | Acer i3 13th Gen Laptop @ 27,240 Using Axis CC\n\n👉https://www.amazon.in/dp/B0DB1SDB87?psc=1&th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DB1SDB87?psc=1&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_11052.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-07T08:45:15+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DB1SDB87?psc=1&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-07T08:45:15+00:00"
+  },
+  {
     "id": "msg11051",
     "title": "Up to 80% Off John Players Clothing",
     "description": "AJIO : Upto 80% Off : John Players Clothing Jeans – Shirts – T-Shirts – Trousers – Sweatshirts – Sweaters – Jackets – Waistcoats & Blazers –",
@@ -8818,37 +8838,5 @@
     "date_obj": "2025-10-04T18:45:54+00:00",
     "buy_link": "https://myntr.in/YO3xUG",
     "date_iso": "2025-10-04T18:45:54+00:00"
-  },
-  {
-    "id": "msg10623",
-    "title": "NOISE Buds VS102 Pro 25dB ANC, 11mm Driver and 70hrs Playtime Truly Wireless Earbuds at Rs. 1799",
-    "description": "Myntra |  + Bank Offers!! NOISE Buds Aero With 45hrs Playtime, Instacharge and 13mm Driver Truly Wireless Earbuds at Rs.749 + Bank Offers!! NOISE Buds Nero Truly Wireless Earbuds with Rubberised Finish, Quad Mic ENC &…",
-    "shortlink": "https://myntr.in/3ruoMg",
-    "urls": [
-      {
-        "url": "",
-        "label": "NOISE Buds VS102 Pro 25dB ANC, 11mm Driver and 70hrs Playtime Truly Wireless Earbuds at Rs. 1799"
-      },
-      {
-        "url": "https://myntr.in/3ruoMg",
-        "label": "+ Bank Offers!!"
-      },
-      {
-        "url": "https://myntr.in/abn8zy",
-        "label": "NOISE Buds Aero With 45hrs Playtime, Instacharge and 13mm Driver Truly Wireless Earbuds at Rs.749 + Bank Offers!!"
-      },
-      {
-        "url": "https://myntr.in/6kMHIw",
-        "label": "NOISE Buds Nero Truly Wireless Earbuds with Rubberised Finish, Quad Mic ENC & 45H Playtime at Rs. 799 +Bank Offers!!"
-      }
-    ],
-    "raw_text": "Myntra | NOISE Buds VS102 Pro 25dB ANC, 11mm Driver and 70hrs Playtime Truly Wireless Earbuds at Rs. 1799\n+ Bank Offers!! \nhttps://myntr.in/3ruoMg\n\nNOISE Buds Aero With 45hrs Playtime, Instacharge and 13mm Driver Truly Wireless Earbuds at Rs.749 + Bank Offers!! \nhttps://myntr.in/abn8zy\n\nNOISE Buds Nero Truly Wireless Earbuds with Rubberised Finish, Quad Mic ENC & 45H Playtime at Rs. 799 +Bank Offers!!\nhttps://myntr.in/6kMHIw",
-    "final_url": "https://myntr.in/3ruoMg",
-    "local_image": "assets/images/tgmsg_10623.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-04T18:46:48+00:00",
-    "buy_link": "https://myntr.in/3ruoMg",
-    "date_iso": "2025-10-04T18:46:48+00:00"
   }
 ]
