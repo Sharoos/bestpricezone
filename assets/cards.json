@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg11042",
+    "title": "Up to 75% Off On Beauty Item",
+    "description": "Myntra : Upto 75% Off On Beauty Items. Lakmé : Pond's : BoroPlus : Livon : Vaseline : Master Link :",
+    "shortlink": "https://myntr.in/QZ4dWZ",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On Beauty Items"
+      },
+      {
+        "url": "https://myntr.in/QZ4dWZ",
+        "label": "Lakmé"
+      },
+      {
+        "url": "https://myntr.in/r1M8Ll",
+        "label": "Pond's"
+      },
+      {
+        "url": "https://myntr.in/QwPMr0",
+        "label": "BoroPlus"
+      },
+      {
+        "url": "https://myntr.in/eCQxX4",
+        "label": "Livon"
+      },
+      {
+        "url": "https://myntr.in/P4f2lk",
+        "label": "Vaseline"
+      },
+      {
+        "url": "https://myntr.in/lN376b",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Myntra : Upto 75% Off On Beauty Items. \n\nLakmé : https://myntr.in/QZ4dWZ\nPond's : https://myntr.in/r1M8Ll\nBoroPlus : https://myntr.in/QwPMr0\nLivon : https://myntr.in/eCQxX4\nVaseline : https://myntr.in/P4f2lk\n\nMaster Link : https://myntr.in/lN376b",
+    "final_url": "https://myntr.in/QZ4dWZ",
+    "local_image": "assets/images/tgmsg_11042.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-07T07:16:05+00:00",
+    "buy_link": "https://myntr.in/QZ4dWZ",
+    "date_iso": "2025-10-07T07:16:05+00:00"
+  },
+  {
+    "id": "msg11043",
+    "title": "🔥Vegetable & Fruit Chopper at RS.120",
+    "description": "🔥Flipkart | Vegetable & Fruit Chopper at RS.120 👉Link- https://fkrt.co/mNqUnR",
+    "shortlink": "https://fkrt.co/mNqUnR",
+    "urls": [
+      {
+        "url": "https://fkrt.co/mNqUnR",
+        "label": "🔥Flipkart | Vegetable & Fruit Chopper at RS.120"
+      }
+    ],
+    "raw_text": "🔥Flipkart | Vegetable & Fruit Chopper at RS.120\n\n👉Link- https://fkrt.co/mNqUnR",
+    "final_url": "https://fkrt.co/mNqUnR",
+    "local_image": "assets/images/tgmsg_11043.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-07T07:21:50+00:00",
+    "buy_link": "https://fkrt.co/mNqUnR",
+    "date_iso": "2025-10-07T07:21:50+00:00"
+  },
+  {
     "id": "msg11039",
     "title": "➤ Fuel Surcharge Waiver 1% (on transactions ₹400",
     "description": "Get Lifetime-Free HDFC Tata Neu Infinity Credit Card Apply here: Benefits: ➤ 5% NeuCoins on Tata & partner brand spends ➤ 1.5% NeuCoins on non-Tata spends (capped) ➤ Domestic Lounge Access (with milestone spends)…",
@@ -8694,53 +8758,5 @@
     "date_obj": "2025-10-04T18:36:59+00:00",
     "buy_link": "https://myntr.in/I5LkoN",
     "date_iso": "2025-10-04T18:36:59+00:00"
-  },
-  {
-    "id": "msg10612",
-    "title": "Up to 61% Off On Titan Watche",
-    "description": "Flipkart | Upto 61% Off On Titan Watches. https://fkrt.co/I6UBim",
-    "shortlink": "https://fkrt.co/I6UBim",
-    "urls": [
-      {
-        "url": "https://fkrt.co/I6UBim",
-        "label": "Upto 61% Off On Titan Watches"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 61% Off On Titan Watches.\n\nhttps://fkrt.co/I6UBim",
-    "final_url": "https://fkrt.co/I6UBim",
-    "local_image": "assets/images/tgmsg_10612.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-04T18:37:34+00:00",
-    "buy_link": "https://fkrt.co/I6UBim",
-    "date_iso": "2025-10-04T18:37:34+00:00"
-  },
-  {
-    "id": "msg10613",
-    "title": "Roadster Jeans Starts @395",
-    "description": "Myntra  Roadster Jeans Starts @395. Women : https://myntr.in/XuXB5u Men : https://myntr.in/smbjew",
-    "shortlink": "https://myntr.in/XuXB5u",
-    "urls": [
-      {
-        "url": "",
-        "label": "Myntra Roadster Jeans Starts @395"
-      },
-      {
-        "url": "https://myntr.in/XuXB5u",
-        "label": "Women"
-      },
-      {
-        "url": "https://myntr.in/smbjew",
-        "label": "Men"
-      }
-    ],
-    "raw_text": "Myntra  Roadster Jeans Starts @395.\n\nWomen : https://myntr.in/XuXB5u\nMen : https://myntr.in/smbjew",
-    "final_url": "https://myntr.in/XuXB5u",
-    "local_image": "assets/images/tgmsg_10613.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-04T18:37:36+00:00",
-    "buy_link": "https://myntr.in/XuXB5u",
-    "date_iso": "2025-10-04T18:37:36+00:00"
   }
 ]
