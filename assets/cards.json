@@ -1,5 +1,97 @@
 [
   {
+    "id": "msg11084",
+    "title": "Power Banks From ₹300",
+    "description": "Flipkart | Power Banks From ₹300 👉Link : https://fkrt.co/OwIwuc",
+    "shortlink": "https://fkrt.co/OwIwuc",
+    "urls": [
+      {
+        "url": "https://fkrt.co/OwIwuc",
+        "label": "Power Banks From ₹300"
+      }
+    ],
+    "raw_text": "Flipkart | Power Banks From ₹300\n\n👉Link : https://fkrt.co/OwIwuc",
+    "final_url": "https://fkrt.co/OwIwuc",
+    "local_image": "assets/images/tgmsg_11084.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-07T13:21:49+00:00",
+    "buy_link": "https://fkrt.co/OwIwuc",
+    "date_iso": "2025-10-07T13:21:49+00:00"
+  },
+  {
+    "id": "msg11085",
+    "title": "FLAT 50% OFF",
+    "description": "Zandu Shilajitprash | Boost Strength & Immunity | Ayurvedic & Natural Coupon Code: ZNSPRASH50",
+    "shortlink": "https://bitli.in/19uZqN5",
+    "urls": [
+      {
+        "url": "https://bitli.in/19uZqN5",
+        "label": "Boost Strength & Immunity | Ayurvedic & Natural"
+      },
+      {
+        "url": "",
+        "label": "FLAT 50% OFF"
+      }
+    ],
+    "raw_text": "Zandu Shilajitprash | Boost Strength & Immunity | Ayurvedic & Natural\n\nCoupon Code: ZNSPRASH50\n\nhttps://bitli.in/19uZqN5\n\nFLAT 50% OFF",
+    "final_url": "https://bitli.in/19uZqN5",
+    "local_image": "assets/images/tgmsg_11085.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-10-07T13:31:28+00:00",
+    "buy_link": "https://bitli.in/19uZqN5",
+    "date_iso": "2025-10-07T13:31:28+00:00"
+  },
+  {
+    "id": "msg11086",
+    "title": "🦷 Sensodyne – Min 30% Off on Toothpaste & Toothbrushes (Limited Stock!)",
+    "description": "🔥 Myntra Beauty & Grooming Sale is LIVE! 🔥 💈 Philips – Min 30% Off on Beauty & Grooming Appliances 🔗 💪 Beardo – Min 70% Off on Perfumes & Grooming Kits 🔗 💅 VEGA – Min 40% Off on Beauty & Grooming Appliances 🔗 💨 Denver –…",
+    "shortlink": "https://myntr.in/s2mxLm",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Myntra Beauty & Grooming Sale is LIVE! 🔥"
+      },
+      {
+        "url": "https://myntr.in/s2mxLm",
+        "label": "💈 Philips – Min 30% Off on Beauty & Grooming Appliances"
+      },
+      {
+        "url": "https://myntr.in/SZ8sBp",
+        "label": "💪 Beardo – Min 70% Off on Perfumes & Grooming Kits"
+      },
+      {
+        "url": "https://myntr.in/Ev8Inb",
+        "label": "💅 VEGA – Min 40% Off on Beauty & Grooming Appliances"
+      },
+      {
+        "url": "https://myntr.in/Iojrm4",
+        "label": "💨 Denver – Up to 60% Off on Perfumes & Deodorants"
+      },
+      {
+        "url": "https://myntr.in/4dgAp7",
+        "label": "🔥 Wild Stone – Min 55% Off on Deos & Perfumes"
+      },
+      {
+        "url": "https://myntr.in/cogkFq",
+        "label": "💇‍♀️ Ikonic – Min 40% Off on Hair Styling Appliances"
+      },
+      {
+        "url": "https://myntr.in/d4dsGF",
+        "label": "🦷 Sensodyne – Min 30% Off on Toothpaste & Toothbrushes (Limited Stock!)"
+      }
+    ],
+    "raw_text": "🔥 Myntra Beauty & Grooming Sale is LIVE! 🔥\n\n💈 Philips – Min 30% Off on Beauty & Grooming Appliances\n🔗 https://myntr.in/s2mxLm\n\n💪 Beardo – Min 70% Off on Perfumes & Grooming Kits\n🔗 https://myntr.in/SZ8sBp\n\n💅 VEGA – Min 40% Off on Beauty & Grooming Appliances\n🔗 https://myntr.in/Ev8Inb\n\n💨 Denver – Up to 60% Off on Perfumes & Deodorants\n🔗 https://myntr.in/Iojrm4\n\n🔥 Wild Stone – Min 55% Off on Deos & Perfumes\n🔗 https://myntr.in/4dgAp7\n\n💇‍♀️ Ikonic – Min 40% Off on Hair Styling Appliances\n🔗 https://myntr.in/cogkFq\n\n🦷 Sensodyne – Min 30% Off on Toothpaste & Toothbrushes (Limited Stock!)\n🔗 https://myntr.in/d4dsGF",
+    "final_url": "https://myntr.in/s2mxLm",
+    "local_image": "assets/images/tgmsg_11086.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-07T13:32:06+00:00",
+    "buy_link": "https://myntr.in/s2mxLm",
+    "date_iso": "2025-10-07T13:32:06+00:00"
+  },
+  {
     "id": "msg11080",
     "title": "Tiaraa Necklace Deal 💎",
     "description": "Tiaraa Necklace Loot Deal 💎 Get 2 Necklaces @ ₹119 Use Code: CK2 Link: https://bitli.in/kgNa66v",
@@ -8698,145 +8790,5 @@
     "date_obj": "2025-10-04T19:24:48+00:00",
     "buy_link": "https://myntr.in/2MRRy9",
     "date_iso": "2025-10-04T19:24:48+00:00"
-  },
-  {
-    "id": "msg10649",
-    "title": "Portronics 4 Universal Sockets Extension Board @ 249",
-    "description": "Amazon | Portronics 4 Universal Sockets Extension Board @ 249. https://www.amazon.in/dp/B0B2WQFHB2?smid=&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0B2WQFHB2?smid=&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0B2WQFHB2?smid=&tag=bestpricezo0f-21",
-        "label": "Portronics 4 Universal Sockets Extension Board @ 249"
-      }
-    ],
-    "raw_text": "Amazon | Portronics 4 Universal Sockets Extension Board @ 249.\n\nhttps://www.amazon.in/dp/B0B2WQFHB2?smid=&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0B2WQFHB2?smid=&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10649.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-04T19:25:51+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0B2WQFHB2?smid=&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-04T19:25:51+00:00"
-  },
-  {
-    "id": "msg10633",
-    "title": "Apply ₹500 Off + ₹2000 Off With SBI Debit/Credit Card",
-    "description": "Amazon | Panasonic 1.5 Ton 5 Star Premium Wi-Fi Inverter Smart Split AC @36,490. Flat ₹4000 Off With SBI Bank Cards. Lloyd 1.5 Ton 3 Star Split AC @26,999. Apply ₹500 Off Coupon + ₹2000 Off With SBI Debit/Credit Cards.",
-    "shortlink": "https://www.amazon.in/dp/B0DSVRY811?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DSVRY811?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Panasonic 1.5 Ton 5 Star Premium Wi-Fi Inverter Smart Split AC @36,490"
-      },
-      {
-        "url": "",
-        "label": "Flat ₹4000 Off With SBI Bank Cards"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0CCY3HLCV?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Lloyd 1.5 Ton 3 Star Split AC @26,999"
-      }
-    ],
-    "raw_text": "Amazon | Panasonic 1.5 Ton 5 Star Premium Wi-Fi Inverter Smart Split AC @36,490.\n\nhttps://www.amazon.in/dp/B0DSVRY811?th=1&psc=1&tag=bestpricezo0f-21\n\nFlat ₹4000 Off With SBI Bank  Cards.\n\nLloyd 1.5 Ton 3 Star Split AC @26,999.\n\nhttps://www.amazon.in/dp/B0CCY3HLCV?th=1&psc=1&tag=bestpricezo0f-21\n\nApply ₹500 Off Coupon + ₹2000 Off With SBI Debit/Credit Cards.",
-    "final_url": "https://www.amazon.in/dp/B0DSVRY811?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10633.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-04T19:02:00+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DSVRY811?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-04T19:02:00+00:00"
-  },
-  {
-    "id": "msg10634",
-    "title": "Up to 85% Off On Premium Brand Men's & Women's Shoe",
-    "description": "Ajio : Upto 85% Off On Premium Brand Men's & Women's Shoe *Men's Shoes Adidas : Puma : Nike : Reebok : Campus : Red Tape : Skechers : Red Chief : *Women's Shoes Adidas : Puma : Nike : Reebok : Campus : Red Tape :…",
-    "shortlink": "https://ajiio.co/3TimV2",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On Premium Brand Men's & Women's Shoe"
-      },
-      {
-        "url": "",
-        "label": "Men's Shoes"
-      },
-      {
-        "url": "https://ajiio.co/3TimV2",
-        "label": "Adidas"
-      },
-      {
-        "url": "https://ajiio.co/qKHQtB",
-        "label": "Puma"
-      },
-      {
-        "url": "https://ajiio.co/Qx03Nc",
-        "label": "Nike"
-      },
-      {
-        "url": "https://ajiio.co/b1YBJU",
-        "label": "Reebok"
-      },
-      {
-        "url": "https://ajiio.co/2XrkJY",
-        "label": "Campus"
-      },
-      {
-        "url": "https://ajiio.co/gpYyUS",
-        "label": "Red Tape"
-      },
-      {
-        "url": "https://ajiio.co/APydBN",
-        "label": "Skechers"
-      },
-      {
-        "url": "https://ajiio.co/cM1Qh5",
-        "label": "Red Chief"
-      },
-      {
-        "url": "",
-        "label": "Women's Shoes"
-      },
-      {
-        "url": "https://ajiio.co/4837cu",
-        "label": "Adidas"
-      },
-      {
-        "url": "https://ajiio.co/R7GSTh",
-        "label": "Puma"
-      },
-      {
-        "url": "https://ajiio.co/jNLPDK",
-        "label": "Nike"
-      },
-      {
-        "url": "https://ajiio.co/uVNbph",
-        "label": "Reebok"
-      },
-      {
-        "url": "https://ajiio.co/TPDmSO",
-        "label": "Campus"
-      },
-      {
-        "url": "https://ajiio.co/3RSF6h",
-        "label": "Red Tape"
-      },
-      {
-        "url": "https://ajiio.co/e4HFIY",
-        "label": "Skechers"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "Ajio : Upto 85% Off On Premium Brand Men's & Women's Shoe\n\n*Men's Shoes\n\nAdidas : https://ajiio.co/3TimV2\nPuma : https://ajiio.co/qKHQtB\nNike : https://ajiio.co/Qx03Nc\nReebok : https://ajiio.co/b1YBJU\nCampus : https://ajiio.co/2XrkJY\nRed Tape : https://ajiio.co/gpYyUS\nSkechers : https://ajiio.co/APydBN\nRed Chief : https://ajiio.co/cM1Qh5\n\n*Women's Shoes\n\nAdidas : https://ajiio.co/4837cu\nPuma : https://ajiio.co/R7GSTh\nNike : https://ajiio.co/jNLPDK\nReebok : https://ajiio.co/uVNbph\nCampus : https://ajiio.co/TPDmSO\nRed Tape : https://ajiio.co/3RSF6h\nSkechers : https://ajiio.co/e4HFIY\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/3TimV2",
-    "local_image": "assets/images/tgmsg_10634.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-04T19:03:11+00:00",
-    "buy_link": "https://ajiio.co/3TimV2",
-    "date_iso": "2025-10-04T19:03:11+00:00"
   }
 ]
