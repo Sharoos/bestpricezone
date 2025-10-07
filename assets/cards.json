@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11020",
+    "title": "💥OverSized Tshirts Starts @180",
+    "description": "💥Ajio | OverSized Tshirts Starts @180. 👉Link : https://ajiio.co/FkHUL5",
+    "shortlink": "https://ajiio.co/FkHUL5",
+    "urls": [
+      {
+        "url": "https://ajiio.co/FkHUL5",
+        "label": "💥Ajio | OverSized Tshirts Starts @180"
+      }
+    ],
+    "raw_text": "💥Ajio | OverSized Tshirts Starts @180.\n\n👉Link : https://ajiio.co/FkHUL5",
+    "final_url": "https://ajiio.co/FkHUL5",
+    "local_image": "assets/images/tgmsg_11020.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-07T04:50:52+00:00",
+    "buy_link": "https://ajiio.co/FkHUL5",
+    "date_iso": "2025-10-07T04:50:52+00:00"
+  },
+  {
     "id": "msg11019",
     "title": "Up to 85% Off On Top Branded Sports Shoe",
     "description": "AJIO Upto 85% Off On Top Branded Sports Shoes. Adidas : Puma : Reebok : Nike : Asics : Premium Branded Shoes : Woodland Footwears : CROCS Footwears. Men : Women : Boys : Girls : Upto 85% Off On Red Tape Shoes. Women :…",
@@ -8502,25 +8522,5 @@
     "date_obj": "2025-10-04T16:50:03+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CF99XGDX?tag=bestpricezo0f-21",
     "date_iso": "2025-10-04T16:50:03+00:00"
-  },
-  {
-    "id": "msg10583",
-    "title": "Up to 90% Off on Hair clips, clutchers, scrunchies from Rs. 109",
-    "description": "Flipkart | Upto 90% Off on Hair clips, clutchers, scrunchies from Rs. 109 https://fkrt.co/WlLuBk",
-    "shortlink": "https://fkrt.co/WlLuBk",
-    "urls": [
-      {
-        "url": "https://fkrt.co/WlLuBk",
-        "label": "Upto 90% Off on Hair clips, clutchers, scrunchies from Rs. 109"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 90% Off on Hair clips, clutchers, scrunchies from Rs. 109\n\nhttps://fkrt.co/WlLuBk",
-    "final_url": "https://fkrt.co/WlLuBk",
-    "local_image": "assets/images/tgmsg_10583.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-04T16:51:30+00:00",
-    "buy_link": "https://fkrt.co/WlLuBk",
-    "date_iso": "2025-10-04T16:51:30+00:00"
   }
 ]
