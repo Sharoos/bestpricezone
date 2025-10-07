@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11012",
+    "title": "Boat speaker starts @699",
+    "description": "Flipkart | Boat speaker starts @699 https://fkrt.co/gtaHjp",
+    "shortlink": "https://fkrt.co/gtaHjp",
+    "urls": [
+      {
+        "url": "https://fkrt.co/gtaHjp",
+        "label": "Boat speaker starts @699"
+      }
+    ],
+    "raw_text": "Flipkart | Boat speaker starts @699\n\nhttps://fkrt.co/gtaHjp",
+    "final_url": "https://fkrt.co/gtaHjp",
+    "local_image": "assets/images/tgmsg_11012.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-07T03:32:08+00:00",
+    "buy_link": "https://fkrt.co/gtaHjp",
+    "date_iso": "2025-10-07T03:32:08+00:00"
+  },
+  {
     "id": "msg11010",
     "title": "Apply ₹1000 Off + ₹900 Off With Axis/IDFC/BOB/RBL Credit Card",
     "description": "Amazon | Black+Decker (32 Inches) Smart TV @ 8099* *Apply ₹1000 Off Coupon + ₹900 Off With Axis/IDFC/BOB/RBL Credit Card.",
@@ -8534,29 +8554,5 @@
     "date_obj": "2025-10-04T16:11:28+00:00",
     "buy_link": "https://www.amazon.in/dp/B0D2R2QXQZ?psc=1&smid=A19ONO82Z19P4O&tag=bestpricezo0f-21",
     "date_iso": "2025-10-04T16:11:28+00:00"
-  },
-  {
-    "id": "msg10568",
-    "title": "Men’s Sweatshirt Under ₹339",
-    "description": "Flipkart  Men’s Sweatshirt Under ₹339. https://fkrt.co/fybvnQ T-shirt Under ₹269 : https://fkrt.co/D69AJx",
-    "shortlink": "https://fkrt.co/fybvnQ",
-    "urls": [
-      {
-        "url": "https://fkrt.co/fybvnQ",
-        "label": "Flipkart Men’s Sweatshirt Under ₹339"
-      },
-      {
-        "url": "https://fkrt.co/D69AJx",
-        "label": "T-shirt Under ₹269"
-      }
-    ],
-    "raw_text": "Flipkart  Men’s Sweatshirt Under ₹339. \n\nhttps://fkrt.co/fybvnQ\n\nT-shirt Under ₹269 : https://fkrt.co/D69AJx",
-    "final_url": "https://fkrt.co/fybvnQ",
-    "local_image": "assets/images/tgmsg_10568.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-04T15:51:31+00:00",
-    "buy_link": "https://fkrt.co/fybvnQ",
-    "date_iso": "2025-10-04T15:51:31+00:00"
   }
 ]
