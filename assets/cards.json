@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11072",
+    "title": "Hrithik Roshan Men Trackpants from Rs.279",
+    "description": "Myntra : Hrithik Roshan Men Trackpants from Rs.279 👉https://myntr.in/f9yXRi",
+    "shortlink": "https://myntr.in/f9yXRi",
+    "urls": [
+      {
+        "url": "https://myntr.in/f9yXRi",
+        "label": "Hrithik Roshan Men Trackpants from Rs.279"
+      }
+    ],
+    "raw_text": "Myntra : Hrithik Roshan Men Trackpants from Rs.279\n\n👉https://myntr.in/f9yXRi",
+    "final_url": "https://myntr.in/f9yXRi",
+    "local_image": "assets/images/tgmsg_11072.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-07T11:34:31+00:00",
+    "buy_link": "https://myntr.in/f9yXRi",
+    "date_iso": "2025-10-07T11:34:31+00:00"
+  },
+  {
     "id": "msg11067",
     "title": "Grocery Deals – Up to 96% OFF! 🔥🔥",
     "description": "Flipkart Grocery Deals – Upto 96% OFF! 🔥🔥 🛒 Master Links: | | 💥 Extra ₹250 OFF on orders ₹2,499+ Category Deals: Atta/Rice: Oil/Ghee: Snacks: Oral Care: Tea/Coffee: 🚀 Shop now & grab amazing savings on your grocery…",
@@ -8842,25 +8862,5 @@
     "date_obj": "2025-10-04T19:13:10+00:00",
     "buy_link": "https://www.amazon.in/dp/B0C1G7PJKG?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-04T19:13:10+00:00"
-  },
-  {
-    "id": "msg10641",
-    "title": "Aeropostale Wallets at Flat ₹149",
-    "description": "Myntra : Aeropostale Wallets at Flat ₹149. https://myntr.in/e30NvU",
-    "shortlink": "https://myntr.in/e30NvU",
-    "urls": [
-      {
-        "url": "https://myntr.in/e30NvU",
-        "label": "Aeropostale Wallets at Flat ₹149"
-      }
-    ],
-    "raw_text": "Myntra : Aeropostale Wallets at Flat ₹149.\n\nhttps://myntr.in/e30NvU",
-    "final_url": "https://myntr.in/e30NvU",
-    "local_image": "assets/images/tgmsg_10641.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-04T19:14:49+00:00",
-    "buy_link": "https://myntr.in/e30NvU",
-    "date_iso": "2025-10-04T19:14:49+00:00"
   }
 ]
