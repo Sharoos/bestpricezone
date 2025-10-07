@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11058",
+    "title": "Adofys Travel Pillow Premium Memory Foam @₹692",
+    "description": "Amazon | Adofys Travel Pillow Premium Memory Foam @₹692 👉Link : https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
+        "label": "Adofys Travel Pillow Premium Memory Foam @₹692"
+      }
+    ],
+    "raw_text": "Amazon | Adofys Travel Pillow Premium Memory Foam @₹692\n\n👉Link : https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_11058.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-07T09:45:05+00:00",
+    "buy_link": "https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-07T09:45:05+00:00"
+  },
+  {
     "id": "msg11056",
     "title": "TMC Eau De Parfum Cruiser (100ml) @ ₹399 (MRP ₹2999)",
     "description": "TMC: Eau De Parfum | Cruiser (100ml) @ ₹399 (MRP ₹2999) USE CODE: FLASH1 https://bitli.in/yEPwb7d",
@@ -8782,37 +8802,5 @@
     "date_obj": "2025-10-04T18:40:10+00:00",
     "buy_link": "https://www.amazon.in/dp/B0D47L3H19?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-04T18:40:10+00:00"
-  },
-  {
-    "id": "msg10618",
-    "title": "Up to 77% Off On The Bear House Clothing",
-    "description": "Flipkart | Upto 77% Off On The Bear House Clothing. Shirts https://fkrt.co/En5hAN Tshirts https://fkrt.co/7zY9bA Jeans https://fkrt.co/AQ60bL",
-    "shortlink": "https://fkrt.co/En5hAN",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 77% Off On The Bear House Clothing"
-      },
-      {
-        "url": "https://fkrt.co/En5hAN",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://fkrt.co/7zY9bA",
-        "label": "Tshirts"
-      },
-      {
-        "url": "https://fkrt.co/AQ60bL",
-        "label": "Jeans"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 77% Off On The Bear House Clothing.\n\nShirts https://fkrt.co/En5hAN\nTshirts https://fkrt.co/7zY9bA\nJeans https://fkrt.co/AQ60bL",
-    "final_url": "https://fkrt.co/En5hAN",
-    "local_image": "assets/images/tgmsg_10618.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-04T18:41:49+00:00",
-    "buy_link": "https://fkrt.co/En5hAN",
-    "date_iso": "2025-10-04T18:41:49+00:00"
   }
 ]
