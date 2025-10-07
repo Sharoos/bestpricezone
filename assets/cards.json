@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11117",
+    "title": "Up to 60% Off on Kitchen Tools and Essentials Starting @ just 199",
+    "description": "Ajio | Upto 60% Off on Kitchen Tools and Essentials Starting @ just 199 Link : https://ajiio.co/GUMF0r",
+    "shortlink": "https://ajiio.co/GUMF0r",
+    "urls": [
+      {
+        "url": "https://ajiio.co/GUMF0r",
+        "label": "Upto 60% Off on Kitchen Tools and Essentials Starting @ just 199"
+      }
+    ],
+    "raw_text": "Ajio | Upto 60% Off on Kitchen Tools and Essentials Starting @ just 199\n \nLink : https://ajiio.co/GUMF0r",
+    "final_url": "https://ajiio.co/GUMF0r",
+    "local_image": "assets/images/tgmsg_11117.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-07T15:46:48+00:00",
+    "buy_link": "https://ajiio.co/GUMF0r",
+    "date_iso": "2025-10-07T15:46:48+00:00"
+  },
+  {
     "id": "msg11113",
     "title": "Extra Flat 20% Off On Raymond Home Luxury Bedsheets, Exclusively On",
     "description": "Flipkart: Steps To Redeem: Open Flipkart App > Account > Coupons > Add coupons > Enter RHB20 Once the coupon is applied, Prices shown will be inclusive of above extra 20% discount.",
@@ -8798,53 +8818,5 @@
     "date_obj": "2025-10-05T05:06:10+00:00",
     "buy_link": "https://fkrt.co/UrN00p",
     "date_iso": "2025-10-05T05:06:10+00:00"
-  },
-  {
-    "id": "msg10672",
-    "title": "Flat 75% Off On Jack & Jones Clothing",
-    "description": "AJIO . Upto 75% Off On USPA Clothing. Men : Women : Boys : Girls : Upto 80% Off On Spykar Clothing. Men : Women : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "shortlink": "https://ajiio.co/XQuGv4",
-    "urls": [
-      {
-        "url": "https://ajiio.co/XQuGv4",
-        "label": "AJIO Flat 75% Off On Jack & Jones Clothing"
-      },
-      {
-        "url": "https://ajiio.co/gskGzl",
-        "label": "Upto 75% Off On USPA Clothing"
-      },
-      {
-        "url": "https://ajiio.co/bRCdxy",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/ydnyNH",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/KrbiGu",
-        "label": "Girls"
-      },
-      {
-        "url": "https://ajiio.co/QhE6Aw",
-        "label": "Upto 80% Off On Spykar Clothing"
-      },
-      {
-        "url": "https://ajiio.co/F5C1Lk",
-        "label": "Women"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
-      }
-    ],
-    "raw_text": "AJIO  Flat 75% Off On Jack & Jones Clothing.\n\nhttps://ajiio.co/XQuGv4\n\nUpto 75% Off On USPA Clothing.\n\nMen : https://ajiio.co/gskGzl\nWomen : https://ajiio.co/bRCdxy\nBoys : https://ajiio.co/ydnyNH\nGirls : https://ajiio.co/KrbiGu\n\nUpto 80% Off On Spykar Clothing.\n\nMen : https://ajiio.co/QhE6Aw\nWomen : https://ajiio.co/F5C1Lk\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "final_url": "https://ajiio.co/XQuGv4",
-    "local_image": "assets/images/tgmsg_10672.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-05T05:16:08+00:00",
-    "buy_link": "https://ajiio.co/XQuGv4",
-    "date_iso": "2025-10-05T05:16:08+00:00"
   }
 ]
