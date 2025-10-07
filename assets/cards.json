@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11066",
+    "title": "GOVO 16W Bluetooth Soundbar @ 699",
+    "description": "Amazon | GOVO 16W Bluetooth Soundbar @ 699. 👉https://www.amazon.in/dp/B0CC9RR41T?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CC9RR41T?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CC9RR41T?th=1&tag=bestpricezo0f-21",
+        "label": "GOVO 16W Bluetooth Soundbar @ 699"
+      }
+    ],
+    "raw_text": "Amazon | GOVO 16W Bluetooth Soundbar @ 699.\n\n👉https://www.amazon.in/dp/B0CC9RR41T?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CC9RR41T?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_11066.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-07T10:45:25+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CC9RR41T?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-07T10:45:25+00:00"
+  },
+  {
     "id": "msg11063",
     "title": "Flat 74% Off On American Tourister Backpack",
     "description": "Myntra | Flat 74% Off On American Tourister Backpack 👉Link : https://myntr.in/bVASmC",
@@ -8774,37 +8794,5 @@
     "date_obj": "2025-10-04T18:50:26+00:00",
     "buy_link": "https://myntr.in/zH8HMa",
     "date_iso": "2025-10-04T18:50:26+00:00"
-  },
-  {
-    "id": "msg10627",
-    "title": "🔥Clothing Starts ₹199",
-    "description": "🔥AJIO  Clothing Starts ₹199 Tshirt : https://ajiio.co/YBqinq Shirt : https://ajiio.co/N4NS6W Jeans : https://ajiio.co/FdRava",
-    "shortlink": "https://ajiio.co/YBqinq",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥AJIO Clothing Starts ₹199"
-      },
-      {
-        "url": "https://ajiio.co/YBqinq",
-        "label": "Tshirt"
-      },
-      {
-        "url": "https://ajiio.co/N4NS6W",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://ajiio.co/FdRava",
-        "label": "Jeans"
-      }
-    ],
-    "raw_text": "🔥AJIO  Clothing Starts ₹199\n\nTshirt : https://ajiio.co/YBqinq\nShirt : https://ajiio.co/N4NS6W\nJeans : https://ajiio.co/FdRava",
-    "final_url": "https://ajiio.co/YBqinq",
-    "local_image": "assets/images/tgmsg_10627.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-04T18:51:11+00:00",
-    "buy_link": "https://ajiio.co/YBqinq",
-    "date_iso": "2025-10-04T18:51:11+00:00"
   }
 ]
