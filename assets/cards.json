@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg11063",
+    "title": "Flat 74% Off On American Tourister Backpack",
+    "description": "Myntra | Flat 74% Off On American Tourister Backpack 👉Link : https://myntr.in/bVASmC",
+    "shortlink": "https://myntr.in/bVASmC",
+    "urls": [
+      {
+        "url": "https://myntr.in/bVASmC",
+        "label": "Flat 74% Off On American Tourister Backpack"
+      }
+    ],
+    "raw_text": "Myntra | Flat 74% Off On American Tourister Backpack \n\n👉Link : https://myntr.in/bVASmC",
+    "final_url": "https://myntr.in/bVASmC",
+    "local_image": "assets/images/tgmsg_11063.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-07T10:32:52+00:00",
+    "buy_link": "https://myntr.in/bVASmC",
+    "date_iso": "2025-10-07T10:32:52+00:00"
+  },
+  {
+    "id": "msg11064",
+    "title": "Happilo Essentials Californian Popular Almonds 1Kg @ 769",
+    "description": "GRAB: Happilo Essentials Californian Popular Almonds 1Kg @ 769 https://fktr.in/eCNFrGi",
+    "shortlink": "https://fktr.in/eCNFrGi",
+    "urls": [
+      {
+        "url": "https://fktr.in/eCNFrGi",
+        "label": "Happilo Essentials Californian Popular Almonds 1Kg @ 769"
+      }
+    ],
+    "raw_text": "GRAB: Happilo Essentials Californian Popular Almonds 1Kg @ 769\n\nhttps://fktr.in/eCNFrGi",
+    "final_url": "https://fktr.in/eCNFrGi",
+    "local_image": "assets/images/tgmsg_11064.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-07T10:38:26+00:00",
+    "buy_link": "https://fktr.in/eCNFrGi",
+    "date_iso": "2025-10-07T10:38:26+00:00"
+  },
+  {
     "id": "msg11059",
     "title": "🛒 Deal Price ₹269",
     "description": "Amazon | 🖱 Wireless Mouse Deals! Zebronics Wireless Mouse 🛒 Deal Price: ₹269 👉 Logitech Wireless Mouse 🛒 Deal Price: ₹399 👉 Lenovo Wireless Mouse 🛒 Deal Price: ₹399 👉",
@@ -8766,65 +8806,5 @@
     "date_obj": "2025-10-04T18:51:11+00:00",
     "buy_link": "https://ajiio.co/YBqinq",
     "date_iso": "2025-10-04T18:51:11+00:00"
-  },
-  {
-    "id": "msg10628",
-    "title": "🔥Beauty Products Start @₹79",
-    "description": "🔥Myntra Beauty Products Start @₹79 Master Link : Boroplus: HE: Parachute: Deodorant:",
-    "shortlink": "https://myntr.in/1EZKKD",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Myntra Beauty Products Start @₹79"
-      },
-      {
-        "url": "https://myntr.in/1EZKKD",
-        "label": "Master"
-      },
-      {
-        "url": "https://myntr.in/cXXSbB",
-        "label": "Boroplus"
-      },
-      {
-        "url": "https://myntr.in/0mJbDA",
-        "label": "HE"
-      },
-      {
-        "url": "https://myntr.in/mxhFtq",
-        "label": "Parachute"
-      },
-      {
-        "url": "https://myntr.in/8oO9zs",
-        "label": "Deodorant"
-      }
-    ],
-    "raw_text": "🔥Myntra  Beauty Products Start @₹79\n\nMaster Link : https://myntr.in/1EZKKD\n\nBoroplus: https://myntr.in/cXXSbB\nHE: https://myntr.in/0mJbDA\nParachute: https://myntr.in/mxhFtq\n\nDeodorant: https://myntr.in/8oO9zs",
-    "final_url": "https://myntr.in/1EZKKD",
-    "local_image": "assets/images/tgmsg_10628.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-04T18:54:03+00:00",
-    "buy_link": "https://myntr.in/1EZKKD",
-    "date_iso": "2025-10-04T18:54:03+00:00"
-  },
-  {
-    "id": "msg10629",
-    "title": "Sujata Appliances at Flat 47% off",
-    "description": "Myntra : Sujata Appliances at Flat 47% off Link - https://myntr.in/pWX35L",
-    "shortlink": "https://myntr.in/pWX35L",
-    "urls": [
-      {
-        "url": "https://myntr.in/pWX35L",
-        "label": "Sujata Appliances at Flat 47% off"
-      }
-    ],
-    "raw_text": "Myntra : Sujata Appliances at Flat 47% off\n\nLink - https://myntr.in/pWX35L",
-    "final_url": "https://myntr.in/pWX35L",
-    "local_image": "assets/images/tgmsg_10629.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-04T18:54:40+00:00",
-    "buy_link": "https://myntr.in/pWX35L",
-    "date_iso": "2025-10-04T18:54:40+00:00"
   }
 ]
