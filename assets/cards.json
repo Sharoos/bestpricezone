@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg11120",
+    "title": "FAST",
+    "description": "FAST. https://fkrt.co/adtG92",
+    "shortlink": "https://fkrt.co/adtG92",
+    "urls": [
+      {
+        "url": "https://fkrt.co/adtG92",
+        "label": ""
+      }
+    ],
+    "raw_text": "FAST. \n\nhttps://fkrt.co/adtG92",
+    "final_url": "https://fkrt.co/adtG92",
+    "local_image": "assets/images/tgmsg_11120.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-07T16:09:00+00:00",
+    "buy_link": "https://fkrt.co/adtG92",
+    "date_iso": "2025-10-07T16:09:00+00:00"
+  },
+  {
+    "id": "msg11121",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!!!",
+    "description": "Ajio SHEIN Clothing Starting @ 99💥💥 Men : Women : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/4KRniI",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio SHEIN Clothing Starting @ 99💥💥"
+      },
+      {
+        "url": "https://ajiio.co/4KRniI",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/BvQsYL",
+        "label": "Women"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "Ajio  SHEIN Clothing  Starting @ 99💥💥\n\n Men : https://ajiio.co/4KRniI\n Women : https://ajiio.co/BvQsYL\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/4KRniI",
+    "local_image": "assets/images/tgmsg_11121.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-07T16:16:51+00:00",
+    "buy_link": "https://ajiio.co/4KRniI",
+    "date_iso": "2025-10-07T16:16:51+00:00"
+  },
+  {
     "id": "msg11117",
     "title": "Up to 60% Off on Kitchen Tools and Essentials Starting @ just 199",
     "description": "Ajio | Upto 60% Off on Kitchen Tools and Essentials Starting @ just 199 Link : https://ajiio.co/GUMF0r",
@@ -8754,69 +8806,5 @@
     "date_obj": "2025-10-05T06:21:07+00:00",
     "buy_link": "https://ajiio.co/aKz9Py",
     "date_iso": "2025-10-05T06:21:07+00:00"
-  },
-  {
-    "id": "msg10674",
-    "title": "Up to 90% Off On Roadster Clothing",
-    "description": "Myntra : Upto 90% Off On Roadster Clothing Men's : Jeans : Winterwear : Women's : Jeans : Winterwear :",
-    "shortlink": "https://myntr.in/ROi8bc",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 90% Off On Roadster Clothing"
-      },
-      {
-        "url": "https://myntr.in/ROi8bc",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/nYdHkM",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://myntr.in/PcEdJb",
-        "label": "Winterwear"
-      },
-      {
-        "url": "https://myntr.in/uCVYuL",
-        "label": "Women's"
-      },
-      {
-        "url": "https://myntr.in/KPLNq4",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://myntr.in/q9xJ5j",
-        "label": "Winterwear"
-      }
-    ],
-    "raw_text": "Myntra : Upto 90% Off On Roadster Clothing\n\nMen's : https://myntr.in/ROi8bc\nJeans : https://myntr.in/nYdHkM\nWinterwear : https://myntr.in/PcEdJb\n\nWomen's : https://myntr.in/uCVYuL\nJeans : https://myntr.in/KPLNq4\nWinterwear : https://myntr.in/q9xJ5j",
-    "final_url": "https://myntr.in/ROi8bc",
-    "local_image": "assets/images/tgmsg_10674.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-05T05:34:07+00:00",
-    "buy_link": "https://myntr.in/ROi8bc",
-    "date_iso": "2025-10-05T05:34:07+00:00"
-  },
-  {
-    "id": "msg10671",
-    "title": "WROGN Trekking Bags from Rs.435",
-    "description": "Flipkart | WROGN Trekking Bags from Rs.435 👉Link : https://fkrt.co/UrN00p",
-    "shortlink": "https://fkrt.co/UrN00p",
-    "urls": [
-      {
-        "url": "https://fkrt.co/UrN00p",
-        "label": "WROGN Trekking Bags from Rs.435"
-      }
-    ],
-    "raw_text": "Flipkart | WROGN Trekking Bags from Rs.435\n\n👉Link : https://fkrt.co/UrN00p",
-    "final_url": "https://fkrt.co/UrN00p",
-    "local_image": "assets/images/tgmsg_10671.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-05T05:06:10+00:00",
-    "buy_link": "https://fkrt.co/UrN00p",
-    "date_iso": "2025-10-05T05:06:10+00:00"
   }
 ]
