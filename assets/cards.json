@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg11080",
+    "title": "Tiaraa Necklace Deal 💎",
+    "description": "Tiaraa Necklace Loot Deal 💎 Get 2 Necklaces @ ₹119 Use Code: CK2 Link: https://bitli.in/kgNa66v",
+    "shortlink": "https://bitli.in/kgNa66v",
+    "urls": [
+      {
+        "url": "",
+        "label": "Tiaraa Necklace Loot Deal 💎"
+      },
+      {
+        "url": "",
+        "label": "Get 2 Necklaces @ ₹119"
+      },
+      {
+        "url": "https://bitli.in/kgNa66v",
+        "label": "CK2"
+      }
+    ],
+    "raw_text": "Tiaraa Necklace Loot Deal 💎\nGet 2 Necklaces @ ₹119\n\nUse Code: CK2\n\nLink: https://bitli.in/kgNa66v",
+    "final_url": "https://bitli.in/kgNa66v",
+    "local_image": "assets/images/tgmsg_11080.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-10-07T12:38:33+00:00",
+    "buy_link": "https://bitli.in/kgNa66v",
+    "date_iso": "2025-10-07T12:38:33+00:00"
+  },
+  {
+    "id": "msg11082",
+    "title": "👟 Up to 86% Off On Redtape At ₹452",
+    "description": "Flipkart | 👟 Upto 86% Off On Redtape At ₹452 👉https://fkrt.co/ZRMIgA",
+    "shortlink": "https://fkrt.co/ZRMIgA",
+    "urls": [
+      {
+        "url": "https://fkrt.co/ZRMIgA",
+        "label": "👟 Upto 86% Off On Redtape At ₹452"
+      }
+    ],
+    "raw_text": "Flipkart | 👟 Upto 86% Off On Redtape At ₹452\n\n👉https://fkrt.co/ZRMIgA",
+    "final_url": "https://fkrt.co/ZRMIgA",
+    "local_image": "assets/images/tgmsg_11082.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-07T13:01:07+00:00",
+    "buy_link": "https://fkrt.co/ZRMIgA",
+    "date_iso": "2025-10-07T13:01:07+00:00"
+  },
+  {
     "id": "msg11074",
     "title": "71% off Everyuth Naturals Rejuvenating Flora Body Lotion",
     "description": "71% off : Everyuth Naturals Rejuvenating Flora Body Lotion - 500 ml At 142 🤜 Link:",
@@ -8790,57 +8838,5 @@
     "date_obj": "2025-10-04T19:03:11+00:00",
     "buy_link": "https://ajiio.co/3TimV2",
     "date_iso": "2025-10-04T19:03:11+00:00"
-  },
-  {
-    "id": "msg10635",
-    "title": "Up to 60% Off On Park Avenue Product",
-    "description": "Myntra | Upto 60% Off On Park Avenue Products. Upto 60% Off On Branded Shampoo. Dove : Tresemme :",
-    "shortlink": "https://myntr.in/WVCMN3",
-    "urls": [
-      {
-        "url": "https://myntr.in/WVCMN3",
-        "label": "Upto 60% Off On Park Avenue Products"
-      },
-      {
-        "url": "",
-        "label": "Upto 60% Off On Branded Shampoo"
-      },
-      {
-        "url": "https://myntr.in/X0nqpb",
-        "label": "Dove"
-      },
-      {
-        "url": "https://myntr.in/So8aD3",
-        "label": "Tresemme"
-      }
-    ],
-    "raw_text": "Myntra | Upto 60% Off On Park Avenue Products.\n\nhttps://myntr.in/WVCMN3\n\nUpto 60% Off On Branded Shampoo.\n\nDove : https://myntr.in/X0nqpb\nTresemme : https://myntr.in/So8aD3",
-    "final_url": "https://myntr.in/WVCMN3",
-    "local_image": "assets/images/tgmsg_10635.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-04T19:05:00+00:00",
-    "buy_link": "https://myntr.in/WVCMN3",
-    "date_iso": "2025-10-04T19:05:00+00:00"
-  },
-  {
-    "id": "msg10636",
-    "title": "PU Leather Car Armrest Pad with Mobile Pockets @449 +",
-    "description": "Amazon | PU Leather Car Armrest Pad with Mobile Pockets @449 + Coupon https://www.amazon.in/dp/B0FQ2FMD79?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FQ2FMD79?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FQ2FMD79?tag=bestpricezo0f-21",
-        "label": ""
-      }
-    ],
-    "raw_text": "Amazon | PU Leather Car Armrest Pad with Mobile Pockets @449 + Coupon \n\nhttps://www.amazon.in/dp/B0FQ2FMD79?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FQ2FMD79?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10636.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-04T19:05:10+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FQ2FMD79?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-04T19:05:10+00:00"
   }
 ]
