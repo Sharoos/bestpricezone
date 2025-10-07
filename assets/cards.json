@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11208",
+    "title": "Apply ₹2000 Off + ₹5000 Off With Axis Bank Card",
+    "description": "Amazon | Samsung Galaxy Tab S10 Lite @23999 Apply ₹2000 Off Coupon + ₹5000 Off With Axis Bank Card",
+    "shortlink": "https://www.amazon.in/dp/B0FNWQLD9K?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FNWQLD9K?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Samsung Galaxy Tab S10 Lite @23999"
+      }
+    ],
+    "raw_text": "Amazon | Samsung Galaxy Tab S10 Lite @23999 \n\nhttps://www.amazon.in/dp/B0FNWQLD9K?th=1&psc=1&tag=bestpricezo0f-21\n\nApply ₹2000 Off Coupon + ₹5000 Off With Axis Bank Card",
+    "final_url": "https://www.amazon.in/dp/B0FNWQLD9K?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_11208.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-07T20:18:49+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FNWQLD9K?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-07T20:18:49+00:00"
+  },
+  {
     "id": "msg11197",
     "title": "Lifelong Percussion Massage Gun @799",
     "description": "Amazon | Lifelong Percussion Massage Gun @799. https://www.amazon.in/dp/B0C9DX5RFY?tag=bestpricezo0f-21",
@@ -8290,81 +8310,5 @@
     "date_obj": "2025-10-05T16:04:27+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FK2L2WSQ?tag=bestpricezo0f-21",
     "date_iso": "2025-10-05T16:04:27+00:00"
-  },
-  {
-    "id": "msg10796",
-    "title": "Up to 80% Off On DNMX Clothing",
-    "description": "AJIO Upto 80% Off On DNMX Clothing. Men’s👇. T-Shirts : Jeans : Shirts : Sweaters & Cardigans : Sweatshirt & Hoodies : Shorts : Trousers & Jogger : Women's👇. T-shirts : Shirts & Tops : Jeans & Jeggings : Sweatshirts :…",
-    "shortlink": "https://ajiio.co/gU2iXQ",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 80% Off On DNMX Clothing"
-      },
-      {
-        "url": "https://ajiio.co/gU2iXQ",
-        "label": "T-Shirts"
-      },
-      {
-        "url": "https://ajiio.co/1FT3if",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/0djsYi",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/t6cuXn",
-        "label": "Sweaters & Cardigans"
-      },
-      {
-        "url": "https://ajiio.co/M23Q5A",
-        "label": "Sweatshirt & Hoodies"
-      },
-      {
-        "url": "https://ajiio.co/qqD3NI",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.co/1w7WlK",
-        "label": "Trousers & Jogger"
-      },
-      {
-        "url": "https://ajiio.co/bvDr50",
-        "label": "T-shirts"
-      },
-      {
-        "url": "https://ajiio.co/br8Y8g",
-        "label": "Shirts & Tops"
-      },
-      {
-        "url": "https://ajiio.co/2s4v42",
-        "label": "Jeans & Jeggings"
-      },
-      {
-        "url": "https://ajiio.co/H5YdYz",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://ajiio.co/geb7nx",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/bomT7U",
-        "label": "Jackets"
-      },
-      {
-        "url": "",
-        "label": "+ Extra 10% AJIO Super Cash"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On DNMX Clothing. \n\nMen’s👇.\n\nT-Shirts : https://ajiio.co/gU2iXQ \nJeans : https://ajiio.co/1FT3if \nShirts : https://ajiio.co/0djsYi \nSweaters & Cardigans : https://ajiio.co/t6cuXn \nSweatshirt & Hoodies : https://ajiio.co/M23Q5A \nShorts : https://ajiio.co/qqD3NI \nTrousers & Jogger : https://ajiio.co/1w7WlK \n\nWomen's👇.\n\nT-shirts : https://ajiio.co/bvDr50 \nShirts & Tops : https://ajiio.co/br8Y8g \nJeans & Jeggings : https://ajiio.co/2s4v42 \nSweatshirts : https://ajiio.co/H5YdYz \nShirts : https://ajiio.co/geb7nx \nJackets : https://ajiio.co/bomT7U\n\n+ Extra 10% AJIO Super Cash.",
-    "final_url": "https://ajiio.co/gU2iXQ",
-    "local_image": "assets/images/tgmsg_10796.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-05T16:11:45+00:00",
-    "buy_link": "https://ajiio.co/gU2iXQ",
-    "date_iso": "2025-10-05T16:11:45+00:00"
   }
 ]
