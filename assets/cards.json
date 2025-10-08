@@ -1,5 +1,89 @@
 [
   {
+    "id": "msg11255",
+    "title": "🛒 Deal Price Up to 88% Off",
+    "description": "Myntra | Backpack Bonanza - Up to 88% Off! Skybags: 🛒 Deal Price: Up to 88% Off Safari: 🛒 Deal Price: Up to 88% Off Wildcraft: 🛒 Deal Price: Up to 88% Off Aristocrat: 🛒 Deal Price: Up to 88% Off",
+    "shortlink": "https://myntr.in/XsWarB",
+    "urls": [
+      {
+        "url": "",
+        "label": "Backpack Bonanza - Up to 88% Off!"
+      },
+      {
+        "url": "https://myntr.in/XsWarB",
+        "label": "🛒 Deal Price: Up to 88% Off"
+      },
+      {
+        "url": "https://myntr.in/SLu4eF",
+        "label": "🛒 Deal Price: Up to 88% Off"
+      },
+      {
+        "url": "https://myntr.in/5JytR6",
+        "label": "🛒 Deal Price: Up to 88% Off"
+      },
+      {
+        "url": "https://myntr.in/oQySTW",
+        "label": "🛒 Deal Price: Up to 88% Off"
+      }
+    ],
+    "raw_text": "Myntra  | Backpack Bonanza - Up to 88% Off!\n\nSkybags: \n🛒 Deal Price: Up to 88% Off\nhttps://myntr.in/XsWarB\n\nSafari: \n🛒 Deal Price: Up to 88% Off\nhttps://myntr.in/SLu4eF\n\nWildcraft: \n🛒 Deal Price: Up to 88% Off\nhttps://myntr.in/5JytR6\n\nAristocrat: \n🛒 Deal Price: Up to 88% Off\nhttps://myntr.in/oQySTW",
+    "final_url": "https://myntr.in/XsWarB",
+    "local_image": "assets/images/tgmsg_11255.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-08T09:04:19+00:00",
+    "buy_link": "https://myntr.in/XsWarB",
+    "date_iso": "2025-10-08T09:04:19+00:00"
+  },
+  {
+    "id": "msg11256",
+    "title": "FAST",
+    "description": "FAST. https://fkrt.co/Y1HU2K",
+    "shortlink": "https://fkrt.co/Y1HU2K",
+    "urls": [
+      {
+        "url": "https://fkrt.co/Y1HU2K",
+        "label": ""
+      }
+    ],
+    "raw_text": "FAST.\n\nhttps://fkrt.co/Y1HU2K",
+    "final_url": "https://fkrt.co/Y1HU2K",
+    "local_image": "assets/images/tgmsg_11256.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-08T09:06:53+00:00",
+    "buy_link": "https://fkrt.co/Y1HU2K",
+    "date_iso": "2025-10-08T09:06:53+00:00"
+  },
+  {
+    "id": "msg11257",
+    "title": "Diwali Top Deal",
+    "description": "Myntra | s Automatic Air Freshner Kit & Room Freshner – Starting @99 👉 Bathroom Accessories & Kitchen Accessories – Starting @155 👉",
+    "shortlink": "https://myntr.in/jG2qUO",
+    "urls": [
+      {
+        "url": "",
+        "label": "Diwali Top Deals"
+      },
+      {
+        "url": "https://myntr.in/jG2qUO",
+        "label": "Automatic Air Freshner Kit & Room Freshner – Starting @99"
+      },
+      {
+        "url": "https://myntr.in/lLAG7X",
+        "label": "Bathroom Accessories & Kitchen Accessories – Starting @155"
+      }
+    ],
+    "raw_text": "Myntra | Diwali Top Deals \n\nAutomatic Air Freshner Kit & Room Freshner – Starting @99\n👉https://myntr.in/jG2qUO\n\nBathroom Accessories & Kitchen Accessories – Starting @155\n👉https://myntr.in/lLAG7X",
+    "final_url": "https://myntr.in/jG2qUO",
+    "local_image": "assets/images/tgmsg_11257.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-08T09:15:21+00:00",
+    "buy_link": "https://myntr.in/jG2qUO",
+    "date_iso": "2025-10-08T09:15:21+00:00"
+  },
+  {
     "id": "msg11252",
     "title": "Up to 97% Off on Diwali Light",
     "description": "Amazon | Upto 97% Off on Diwali Lights 👉 Stock Up Guys, Diwali Se Pehle Deliver Ho Jayega Abhi",
@@ -8534,117 +8618,5 @@
     "date_obj": "2025-10-06T07:16:36+00:00",
     "buy_link": "https://bitli.in/qYHyga4",
     "date_iso": "2025-10-06T07:16:36+00:00"
-  },
-  {
-    "id": "msg10845",
-    "title": "Up to 74% Off on Vera Moda",
-    "description": "Flipkart | Up to 74% Off on Vera Moda 👉https://fkrt.co/KckC1e",
-    "shortlink": "https://fkrt.co/KckC1e",
-    "urls": [
-      {
-        "url": "https://fkrt.co/KckC1e",
-        "label": "Up to 74% Off on Vera Moda"
-      }
-    ],
-    "raw_text": "Flipkart | Up to 74% Off on Vera Moda\n\n 👉https://fkrt.co/KckC1e",
-    "final_url": "https://fkrt.co/KckC1e",
-    "local_image": "assets/images/tgmsg_10845.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-06T06:39:42+00:00",
-    "buy_link": "https://fkrt.co/KckC1e",
-    "date_iso": "2025-10-06T06:39:42+00:00"
-  },
-  {
-    "id": "msg10846",
-    "title": "WINgFI 10000 mAh 30 W Power Bank @970",
-    "description": "Flipkart | WINgFI 10000 mAh 30 W Power Bank @970 👉https://fkrt.co/hYRpqr",
-    "shortlink": "https://fkrt.co/hYRpqr",
-    "urls": [
-      {
-        "url": "https://fkrt.co/hYRpqr",
-        "label": "WINgFI 10000 mAh 30 W Power Bank @970"
-      }
-    ],
-    "raw_text": "Flipkart | WINgFI 10000 mAh 30 W Power Bank @970\n\n👉https://fkrt.co/hYRpqr",
-    "final_url": "https://fkrt.co/hYRpqr",
-    "local_image": "assets/images/tgmsg_10846.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-06T06:50:16+00:00",
-    "buy_link": "https://fkrt.co/hYRpqr",
-    "date_iso": "2025-10-06T06:50:16+00:00"
-  },
-  {
-    "id": "msg10843",
-    "title": "💳 Extra ₹250 Off on ₹2499+ Cart Value with HDFC Bank Credit Card",
-    "description": "Flipkart Kilos 🔥🔥 Grocery Upto 80% Off + Many ₹1 Deals 👉 Master Link: 🍚 Atta, Rice & Daal: 🛢️ Oil & Ghee: 🍜 Noodles & Pasta: 🍪 Snacks: 🪥 Oral Care: 🧴 Personal Care: ☕ Tea & Coffee: 💄 Beauty & Grooming: 🏠 House Hold &…",
-    "shortlink": "https://fkrt.co/WBiw9g",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart Kilos 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "Grocery Upto 80% Off + Many ₹1 Deals"
-      },
-      {
-        "url": "https://fkrt.co/WBiw9g",
-        "label": "Master"
-      },
-      {
-        "url": "https://fkrt.co/dqumsf",
-        "label": "🍚 Atta, Rice & Daal"
-      },
-      {
-        "url": "https://fkrt.co/YppJNz",
-        "label": "🛢️ Oil & Ghee"
-      },
-      {
-        "url": "https://fkrt.co/m6zc3D",
-        "label": "🍜 Noodles & Pasta"
-      },
-      {
-        "url": "https://fkrt.co/XLE3z3",
-        "label": "🍪 Snacks"
-      },
-      {
-        "url": "https://fkrt.co/9dUDue",
-        "label": "🪥 Oral Care"
-      },
-      {
-        "url": "https://fkrt.co/fADT0z",
-        "label": "🧴 Personal Care"
-      },
-      {
-        "url": "https://fkrt.co/EtbNGJ",
-        "label": "☕ Tea & Coffee"
-      },
-      {
-        "url": "https://fkrt.co/PxW3ET",
-        "label": "💄 Beauty & Grooming"
-      },
-      {
-        "url": "https://fkrt.co/NxJyPw",
-        "label": "🏠 House Hold & Cleaning"
-      },
-      {
-        "url": "",
-        "label": "💳 Extra ₹250 Off on ₹2499+ Cart Value with HDFC Bank Credit Cards"
-      },
-      {
-        "url": "",
-        "label": "Hurry – Limited Time ! ⚡"
-      }
-    ],
-    "raw_text": "Flipkart Kilos  🔥🔥\n\nGrocery Upto 80% Off + Many ₹1 Deals\n\n👉 Master Link: https://fkrt.co/WBiw9g\n\n🍚 Atta, Rice & Daal: https://fkrt.co/dqumsf\n🛢️ Oil & Ghee: https://fkrt.co/YppJNz\n🍜 Noodles & Pasta: https://fkrt.co/m6zc3D\n🍪 Snacks: https://fkrt.co/XLE3z3\n🪥 Oral Care: https://fkrt.co/9dUDue\n🧴 Personal Care: https://fkrt.co/fADT0z\n☕ Tea & Coffee: https://fkrt.co/EtbNGJ\n💄 Beauty & Grooming: https://fkrt.co/PxW3ET\n🏠 House Hold & Cleaning: https://fkrt.co/NxJyPw\n\n💳 Extra ₹250 Off on ₹2499+ Cart Value with HDFC Bank Credit Cards \n\nHurry – Limited Time ! ⚡",
-    "final_url": "https://fkrt.co/WBiw9g",
-    "local_image": "assets/images/tgmsg_10843.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-06T06:03:55+00:00",
-    "buy_link": "https://fkrt.co/WBiw9g",
-    "date_iso": "2025-10-06T06:03:55+00:00"
   }
 ]
