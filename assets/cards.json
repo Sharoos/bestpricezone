@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg11213",
+    "title": "Up to 85% Off On Branded Backpack",
+    "description": "FLIPKART Upto 85% Off On Branded Backpacks. Masterlink : Skybags : Safari : Aristocrat :",
+    "shortlink": "https://fkrt.co/wr50lQ",
+    "urls": [
+      {
+        "url": "",
+        "label": "FLIPKART Upto 85% Off On Branded Backpacks"
+      },
+      {
+        "url": "https://fkrt.co/wr50lQ",
+        "label": "Masterlink"
+      },
+      {
+        "url": "https://fkrt.co/nk2Nq7",
+        "label": "Skybags"
+      },
+      {
+        "url": "https://fkrt.co/llEx0E",
+        "label": "Safari"
+      },
+      {
+        "url": "https://fkrt.co/QIQNvC",
+        "label": "Aristocrat"
+      }
+    ],
+    "raw_text": "FLIPKART  Upto 85% Off On Branded Backpacks. \n\nMasterlink : https://fkrt.co/wr50lQ\n\nSkybags : https://fkrt.co/nk2Nq7\nSafari : https://fkrt.co/llEx0E\nAristocrat : https://fkrt.co/QIQNvC",
+    "final_url": "https://fkrt.co/wr50lQ",
+    "local_image": "assets/images/tgmsg_11213.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-08T03:46:54+00:00",
+    "buy_link": "https://fkrt.co/wr50lQ",
+    "date_iso": "2025-10-08T03:46:54+00:00"
+  },
+  {
     "id": "msg11211",
     "title": "Tide Plus Detergent Powder 5kg @ 498",
     "description": "Amazon | Tide Plus Detergent Powder 5kg @ 498 👉https://www.amazon.in/dp/B079Q4PCXV?th=1&tag=bestpricezo0f-21",
@@ -8290,25 +8326,5 @@
     "date_obj": "2025-10-05T16:41:40+00:00",
     "buy_link": "https://fkrt.co/B8CyRT",
     "date_iso": "2025-10-05T16:41:40+00:00"
-  },
-  {
-    "id": "msg10793",
-    "title": "Bedsheets starting 149+ Coupon",
-    "description": "Myntra | Bedsheets starting 149+ Coupons https://myntr.in/1l0nNm",
-    "shortlink": "https://myntr.in/1l0nNm",
-    "urls": [
-      {
-        "url": "https://myntr.in/1l0nNm",
-        "label": "Bedsheets starting 149+ Coupons"
-      }
-    ],
-    "raw_text": "Myntra | Bedsheets starting 149+ Coupons\n\nhttps://myntr.in/1l0nNm",
-    "final_url": "https://myntr.in/1l0nNm",
-    "local_image": "assets/images/tgmsg_10793.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-05T16:01:38+00:00",
-    "buy_link": "https://myntr.in/1l0nNm",
-    "date_iso": "2025-10-05T16:01:38+00:00"
   }
 ]
