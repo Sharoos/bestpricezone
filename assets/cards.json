@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg11341",
+    "title": "🛒 Deal Price ₹188",
+    "description": "Flipkart | 🖼️ Wallpaper Deal! Premium Wallpapers (500cm) 🛒 Deal Price: ₹188 https://fkrt.co/pv4w3G",
+    "shortlink": "https://fkrt.co/pv4w3G",
+    "urls": [
+      {
+        "url": "",
+        "label": "🖼️ Wallpaper Deal!"
+      },
+      {
+        "url": "",
+        "label": "Premium Wallpapers (500cm)"
+      },
+      {
+        "url": "https://fkrt.co/pv4w3G",
+        "label": "🛒 Deal Price: ₹188"
+      }
+    ],
+    "raw_text": "Flipkart | 🖼️ Wallpaper Deal!\n\nPremium Wallpapers (500cm)\n\n🛒 Deal Price: ₹188\n\nhttps://fkrt.co/pv4w3G",
+    "final_url": "https://fkrt.co/pv4w3G",
+    "local_image": "assets/images/tgmsg_11341.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-08T17:16:41+00:00",
+    "buy_link": "https://fkrt.co/pv4w3G",
+    "date_iso": "2025-10-08T17:16:41+00:00"
+  },
+  {
     "id": "msg11340",
     "title": "Orient Electric Fabrijoy Electric Plastic Overheat Protection Dry Iron",
     "description": "Myntra | Orient Electric Fabrijoy Electric Plastic Overheat Protection Dry Iron-1000W at 599 👉 https://myntr.in/GkKuGc",
@@ -8746,25 +8774,5 @@
     "date_obj": "2025-10-06T16:43:52+00:00",
     "buy_link": "https://fkrt.co/huoA9T",
     "date_iso": "2025-10-06T16:43:52+00:00"
-  },
-  {
-    "id": "msg10945",
-    "title": "Story@Home Carpets Up to 73% Off",
-    "description": "Myntra | Story@Home Carpets Upto 73% Off 👉https://myntr.in/yG1EW8",
-    "shortlink": "https://myntr.in/yG1EW8",
-    "urls": [
-      {
-        "url": "https://myntr.in/yG1EW8",
-        "label": "Story@Home Carpets Upto 73% Off"
-      }
-    ],
-    "raw_text": "Myntra | Story@Home Carpets Upto 73% Off\n\n👉https://myntr.in/yG1EW8",
-    "final_url": "https://myntr.in/yG1EW8",
-    "local_image": "assets/images/tgmsg_10945.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-06T16:51:47+00:00",
-    "buy_link": "https://myntr.in/yG1EW8",
-    "date_iso": "2025-10-06T16:51:47+00:00"
   }
 ]
