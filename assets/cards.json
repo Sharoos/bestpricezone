@@ -1,5 +1,117 @@
 [
   {
+    "id": "msg11223",
+    "title": "DNMX Clothing Starts @100",
+    "description": "AJIO :  Men : Jeans : Shirts : Sweaters : Sweatshirt : Jackets : More : Women : Sweaters : Top : Shirts : Jeans : More :",
+    "shortlink": "https://ajiio.in/HeTuFUw",
+    "urls": [
+      {
+        "url": "",
+        "label": "DNMX Clothing Starts @100"
+      },
+      {
+        "url": "https://ajiio.in/HeTuFUw",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.in/bgEcfvK",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.in/1z6xPvW",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.in/YnoxxM2",
+        "label": "Sweaters"
+      },
+      {
+        "url": "https://ajiio.in/1TWMum6",
+        "label": "Sweatshirt"
+      },
+      {
+        "url": "https://ajiio.in/dfzf185",
+        "label": "Jackets"
+      },
+      {
+        "url": "https://ajiio.in/Qp7DkAO",
+        "label": "More"
+      },
+      {
+        "url": "https://ajiio.in/XxnkU1g",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.in/UlS7zN6",
+        "label": "Sweaters"
+      },
+      {
+        "url": "https://ajiio.in/NPhFgq2",
+        "label": "Top"
+      },
+      {
+        "url": "https://ajiio.in/nTtUWj2",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.in/l979kmd",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.in/A1Ak6SE",
+        "label": "More"
+      }
+    ],
+    "raw_text": "AJIO : DNMX Clothing Starts @100\n\nMen : https://ajiio.in/HeTuFUw\nJeans : https://ajiio.in/bgEcfvK\nShirts : https://ajiio.in/1z6xPvW\nSweaters : https://ajiio.in/YnoxxM2\nSweatshirt : https://ajiio.in/1TWMum6\nJackets : https://ajiio.in/dfzf185\nMore : https://ajiio.in/Qp7DkAO\n\nWomen : https://ajiio.in/XxnkU1g\nSweaters : https://ajiio.in/UlS7zN6\nTop : https://ajiio.in/NPhFgq2\nShirts : https://ajiio.in/nTtUWj2\nJeans : https://ajiio.in/l979kmd\nMore : https://ajiio.in/A1Ak6SE",
+    "final_url": "https://ajiio.in/HeTuFUw",
+    "local_image": "assets/images/tgmsg_11223.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-08T04:58:36+00:00",
+    "buy_link": "https://ajiio.in/HeTuFUw",
+    "date_iso": "2025-10-08T04:58:36+00:00"
+  },
+  {
+    "id": "msg11224",
+    "title": "Lakme Sunscreens Min. 40% Off",
+    "description": "Myntra | Lakme Sunscreens Min. 40% Off 👉Link : https://myntr.in/y8fqCJ",
+    "shortlink": "https://myntr.in/y8fqCJ",
+    "urls": [
+      {
+        "url": "https://myntr.in/y8fqCJ",
+        "label": "Lakme Sunscreens Min. 40% Off"
+      }
+    ],
+    "raw_text": "Myntra | Lakme Sunscreens Min. 40% Off \n\n👉Link : https://myntr.in/y8fqCJ",
+    "final_url": "https://myntr.in/y8fqCJ",
+    "local_image": "assets/images/tgmsg_11224.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-08T05:01:44+00:00",
+    "buy_link": "https://myntr.in/y8fqCJ",
+    "date_iso": "2025-10-08T05:01:44+00:00"
+  },
+  {
+    "id": "msg11226",
+    "title": "Libas Women Kurta min 70% off",
+    "description": "Myntra : Libas Women Kurta min 70% off https://myntr.in/hY2z1T",
+    "shortlink": "https://myntr.in/hY2z1T",
+    "urls": [
+      {
+        "url": "https://myntr.in/hY2z1T",
+        "label": "Libas Women Kurta min 70% off"
+      }
+    ],
+    "raw_text": "Myntra : Libas Women Kurta min 70% off\n\nhttps://myntr.in/hY2z1T",
+    "final_url": "https://myntr.in/hY2z1T",
+    "local_image": "assets/images/tgmsg_11226.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-08T05:11:52+00:00",
+    "buy_link": "https://myntr.in/hY2z1T",
+    "date_iso": "2025-10-08T05:11:52+00:00"
+  },
+  {
     "id": "msg11222",
     "title": "Under Rs.249\"",
     "description": "Flipkart Fashion Fest 🔥🔥 \"Women Shapewear under Rs.299\" \"Women Trousers  \"Women Jeans Under Rs.499\" \"Kids Ethnic Wear Under Rs.299\" \"KidsComboSets at Rs.199\" \"Women Jeans Under Rs.399\" \"Women Tshirts Under Rs.149\"",
@@ -8366,65 +8478,5 @@
     "date_obj": "2025-10-05T18:01:49+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CG5XTL1R?tag=bestpricezo0f-21",
     "date_iso": "2025-10-05T18:01:49+00:00"
-  },
-  {
-    "id": "msg10811",
-    "title": "Up to 83 % Off Om Riybro Biker Helmets Start AT RS 297",
-    "description": "Flipkart | Up to 83 % Off Om Riybro Biker Helmets | Start AT RS 297 👉https://fkrt.co/HHpnB6",
-    "shortlink": "https://fkrt.co/HHpnB6",
-    "urls": [
-      {
-        "url": "https://fkrt.co/HHpnB6",
-        "label": "Up to 83 % Off Om Riybro Biker Helmets | Start AT RS 297"
-      }
-    ],
-    "raw_text": "Flipkart | Up to 83 % Off Om Riybro Biker Helmets | Start AT RS 297\n\n👉https://fkrt.co/HHpnB6",
-    "final_url": "https://fkrt.co/HHpnB6",
-    "local_image": "assets/images/tgmsg_10811.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-05T18:11:47+00:00",
-    "buy_link": "https://fkrt.co/HHpnB6",
-    "date_iso": "2025-10-05T18:11:47+00:00"
-  },
-  {
-    "id": "msg10809",
-    "title": "Doormats & Curtains Starts @83",
-    "description": "Myntra : Doormats & Curtains Starts @83. 👉https://myntr.in/NYzsRn",
-    "shortlink": "https://myntr.in/NYzsRn",
-    "urls": [
-      {
-        "url": "https://myntr.in/NYzsRn",
-        "label": "Doormats & Curtains Starts @83"
-      }
-    ],
-    "raw_text": "Myntra : Doormats & Curtains Starts @83.\n\n👉https://myntr.in/NYzsRn",
-    "final_url": "https://myntr.in/NYzsRn",
-    "local_image": "assets/images/tgmsg_10809.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-05T17:51:41+00:00",
-    "buy_link": "https://myntr.in/NYzsRn",
-    "date_iso": "2025-10-05T17:51:41+00:00"
-  },
-  {
-    "id": "msg10807",
-    "title": "Up to 60% Off On Head & Shoulder Shampoo",
-    "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos. https://fkrt.co/VWwA6N",
-    "shortlink": "https://fkrt.co/VWwA6N",
-    "urls": [
-      {
-        "url": "https://fkrt.co/VWwA6N",
-        "label": "Upto 60% Off On Head & Shoulder Shampoos"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos.\n\nhttps://fkrt.co/VWwA6N",
-    "final_url": "https://fkrt.co/VWwA6N",
-    "local_image": "assets/images/tgmsg_10807.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-05T17:31:41+00:00",
-    "buy_link": "https://fkrt.co/VWwA6N",
-    "date_iso": "2025-10-05T17:31:41+00:00"
   }
 ]
