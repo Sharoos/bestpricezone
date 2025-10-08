@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg11277",
+    "title": "Up to 85% OFF on Branded Shoes, Trolleys & Clothing 🔥🔥",
+    "description": "Flipkart : Upto 85% OFF on Branded Shoes, Trolleys & Clothing 🔥🔥 🧳 Trolleys: 👟 Shoes: 👔 Men’s Shirts: 👚 Women’s Top Wear: 💥 Hurry! Limited-Time Offers Only",
+    "shortlink": "https://fkrt.co/MH2VlZ",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% OFF on Branded Shoes, Trolleys & Clothing 🔥🔥"
+      },
+      {
+        "url": "https://fkrt.co/MH2VlZ",
+        "label": "🧳 Trolleys"
+      },
+      {
+        "url": "https://fkrt.co/ZHGQtv",
+        "label": "👟 Shoes"
+      },
+      {
+        "url": "https://fkrt.co/OAKduM",
+        "label": "👔 Men’s Shirts"
+      },
+      {
+        "url": "https://fkrt.co/xSq26I",
+        "label": "👚 Women’s Top Wear"
+      },
+      {
+        "url": "",
+        "label": "💥 Hurry! Limited-Time Offers Only"
+      }
+    ],
+    "raw_text": "Flipkart : Upto 85% OFF on Branded Shoes, Trolleys & Clothing 🔥🔥\n\n🧳 Trolleys: https://fkrt.co/MH2VlZ\n👟 Shoes: https://fkrt.co/ZHGQtv\n👔 Men’s Shirts: https://fkrt.co/OAKduM\n👚 Women’s Top Wear: https://fkrt.co/xSq26I\n\n💥 Hurry! Limited-Time Offers Only",
+    "final_url": "https://fkrt.co/MH2VlZ",
+    "local_image": "assets/images/tgmsg_11277.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-08T11:34:05+00:00",
+    "buy_link": "https://fkrt.co/MH2VlZ",
+    "date_iso": "2025-10-08T11:34:05+00:00"
+  },
+  {
     "id": "msg11273",
     "title": "Pigeon Brio+ 2100W Induction Cooktop @ 1890",
     "description": "Flipkart | Pigeon Brio+ 2100W Induction Cooktop @ 1890. https://fkrt.co/W6SVJX",
@@ -8654,37 +8694,5 @@
     "date_obj": "2025-10-06T09:02:23+00:00",
     "buy_link": "https://fkrt.co/SbP80I",
     "date_iso": "2025-10-06T09:02:23+00:00"
-  },
-  {
-    "id": "msg10862",
-    "title": "Up to 89% Off On Bewakoof Clothing",
-    "description": "Myntra : Upto 89% Off On Bewakoof Clothing. Men : Women : Upto 85% Off On The Souled Store Clothing. Men : Women :",
-    "shortlink": "https://myntr.in/QfVU15",
-    "urls": [
-      {
-        "url": "https://myntr.in/QfVU15",
-        "label": "Upto 89% Off On Bewakoof Clothing"
-      },
-      {
-        "url": "https://myntr.in/TULLYm",
-        "label": "Women"
-      },
-      {
-        "url": "https://myntr.in/UhRGvQ",
-        "label": "Upto 85% Off On The Souled Store Clothing"
-      },
-      {
-        "url": "https://myntr.in/s572F2",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Myntra : Upto 89% Off On Bewakoof Clothing.\n\nMen : https://myntr.in/QfVU15\nWomen : https://myntr.in/TULLYm\n\nUpto 85% Off On The Souled Store Clothing.\n\nMen : https://myntr.in/UhRGvQ\nWomen : https://myntr.in/s572F2",
-    "final_url": "https://myntr.in/QfVU15",
-    "local_image": "assets/images/tgmsg_10862.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-06T09:17:39+00:00",
-    "buy_link": "https://myntr.in/QfVU15",
-    "date_iso": "2025-10-06T09:17:39+00:00"
   }
 ]
