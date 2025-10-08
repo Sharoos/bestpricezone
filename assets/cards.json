@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg11425",
+    "title": "FLAT 75% Off 🔥",
+    "description": "AJIO 🔥 GAP Clothing -  🌟 Apply Code: LIMITED75 Men's : Women's : Boys : Girls : Baby :",
+    "shortlink": "https://ajiio.co/bo1Vgq",
+    "urls": [
+      {
+        "url": "",
+        "label": "FLAT 75% Off 🔥"
+      },
+      {
+        "url": "",
+        "label": "🌟 Apply Code: LIMITED75"
+      },
+      {
+        "url": "https://ajiio.co/bo1Vgq",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/I85Aly",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/PH7CPD",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/HcYlXQ",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/L3Nbtz",
+        "label": "Baby"
+      }
+    ],
+    "raw_text": "AJIO  🔥\n\nGAP Clothing - FLAT 75% Off 🔥\n\n🌟 Apply Code: LIMITED75\n\nMen's :  https://ajiio.co/bo1Vgq\nWomen's :  https://ajiio.co/I85Aly\nBoys :  https://ajiio.co/PH7CPD\nGirls :  https://ajiio.co/HcYlXQ\nBaby :  https://ajiio.co/L3Nbtz",
+    "final_url": "https://ajiio.co/bo1Vgq",
+    "local_image": "assets/images/tgmsg_11425.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-08T19:46:26+00:00",
+    "buy_link": "https://ajiio.co/bo1Vgq",
+    "date_iso": "2025-10-08T19:46:26+00:00"
+  },
+  {
     "id": "msg11419",
     "title": "B Criss Cross Deep Clean Medium Bristles Manual Toothbrush Pack of 4 @137",
     "description": "Amazon | Oral-B Criss Cross Deep Clean Medium Bristles Manual Toothbrush  Pack of 4 @137 https://www.amazon.in/dp/B0B594571T?th=1&tag=bestpricezo0f-21",
@@ -9262,25 +9306,5 @@
     "date_obj": "2025-10-07T04:20:44+00:00",
     "buy_link": "https://fkrt.co/EYqavx",
     "date_iso": "2025-10-07T04:20:44+00:00"
-  },
-  {
-    "id": "msg11014",
-    "title": "Lifelong Spin Mop Set @699",
-    "description": "Flipkart | Lifelong Spin Mop Set @699 https://fkrt.co/Jn4TQo",
-    "shortlink": "https://fkrt.co/Jn4TQo",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Jn4TQo",
-        "label": "Lifelong Spin Mop Set @699"
-      }
-    ],
-    "raw_text": "Flipkart | Lifelong Spin Mop Set @699\n\nhttps://fkrt.co/Jn4TQo",
-    "final_url": "https://fkrt.co/Jn4TQo",
-    "local_image": "assets/images/tgmsg_11014.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-07T03:53:57+00:00",
-    "buy_link": "https://fkrt.co/Jn4TQo",
-    "date_iso": "2025-10-07T03:53:57+00:00"
   }
 ]
