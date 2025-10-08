@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg11244",
+    "title": "Up to 80% Off On Oversized T",
+    "description": "AJIO Upto 80% Off On Oversized T-Shirts Start @140 Men’s : Women’s : Polo T-Shirts : Jeans : Branded Innerwears : Men's Blazers & Waistcoat : + 10% AJIO Extra CASH",
+    "shortlink": "https://ajiio.co/2eO4zf",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 80% Off On Oversized T-Shirts Start @140"
+      },
+      {
+        "url": "https://ajiio.co/2eO4zf",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/MpUVYM",
+        "label": "Women’s"
+      },
+      {
+        "url": "https://ajiio.co/AsGjo2",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/yhVcDO",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/nrDu6A",
+        "label": "Branded Innerwears"
+      },
+      {
+        "url": "https://ajiio.co/b7u8xx",
+        "label": "Men's Blazers & Waistcoat"
+      },
+      {
+        "url": "",
+        "label": "+ 10% AJIO Extra CASH"
+      }
+    ],
+    "raw_text": "AJIO  Upto 80% Off On Oversized T-Shirts Start @140\n\nMen’s : https://ajiio.co/2eO4zf\nWomen’s : https://ajiio.co/MpUVYM\n\nPolo T-Shirts : https://ajiio.co/AsGjo2\nJeans : https://ajiio.co/yhVcDO\nBranded Innerwears : https://ajiio.co/nrDu6A\nMen's Blazers & Waistcoat : https://ajiio.co/b7u8xx\n\n+ 10% AJIO Extra CASH",
+    "final_url": "https://ajiio.co/2eO4zf",
+    "local_image": "assets/images/tgmsg_11244.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-08T07:26:13+00:00",
+    "buy_link": "https://ajiio.co/2eO4zf",
+    "date_iso": "2025-10-08T07:26:13+00:00"
+  },
+  {
     "id": "msg11241",
     "title": "Ambrane 20W Dual Port Charger @399",
     "description": "Amazon | Ambrane 20W Dual Port Charger @399. 👉https://www.amazon.in/dp/B09N18X9WN?tag=bestpricezo0f-21",
@@ -8614,25 +8662,5 @@
     "date_obj": "2025-10-06T04:34:45+00:00",
     "buy_link": "https://myntr.in/96x9wt",
     "date_iso": "2025-10-06T04:34:45+00:00"
-  },
-  {
-    "id": "msg10832",
-    "title": "🪑 Laptop Tables – Starting at just ₹383! 💻",
-    "description": "Flipkart | 🪑 Laptop Tables – Starting at just ₹383! 💻 👉 https://fkrt.co/euQdJl",
-    "shortlink": "https://fkrt.co/euQdJl",
-    "urls": [
-      {
-        "url": "https://fkrt.co/euQdJl",
-        "label": "🪑 Laptop Tables – Starting at just ₹383! 💻"
-      }
-    ],
-    "raw_text": "Flipkart | 🪑 Laptop Tables – Starting at just ₹383! 💻\n\n👉 https://fkrt.co/euQdJl",
-    "final_url": "https://fkrt.co/euQdJl",
-    "local_image": "assets/images/tgmsg_10832.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-06T04:35:08+00:00",
-    "buy_link": "https://fkrt.co/euQdJl",
-    "date_iso": "2025-10-06T04:35:08+00:00"
   }
 ]
