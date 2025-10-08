@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11323",
+    "title": "Up to 89% Off On Roadster Sports Shoe",
+    "description": "Myntra : Upto 89% Off On Roadster Sports Shoes https://myntr.in/2sc0LL",
+    "shortlink": "https://myntr.in/2sc0LL",
+    "urls": [
+      {
+        "url": "https://myntr.in/2sc0LL",
+        "label": "Upto 89% Off On Roadster Sports Shoes"
+      }
+    ],
+    "raw_text": "Myntra : Upto 89% Off On Roadster Sports Shoes\n\nhttps://myntr.in/2sc0LL",
+    "final_url": "https://myntr.in/2sc0LL",
+    "local_image": "assets/images/tgmsg_11323.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-08T15:34:14+00:00",
+    "buy_link": "https://myntr.in/2sc0LL",
+    "date_iso": "2025-10-08T15:34:14+00:00"
+  },
+  {
     "id": "msg11319",
     "title": "Up to 70% Off On Off On NETPLAY Clothing",
     "description": "AJIO Upto 70% Off On Off On NETPLAY Clothing. Polo T-shirts : Shirts : Trousers : Sweaters : Jackets : Sweatshirt : *Surf All Links (As Per Your Need) & Fast ❤️‍🔥.",
@@ -8722,37 +8742,5 @@
     "date_obj": "2025-10-06T14:41:32+00:00",
     "buy_link": "https://myntr.in/Mwdfs2",
     "date_iso": "2025-10-06T14:41:32+00:00"
-  },
-  {
-    "id": "msg10918",
-    "title": "🥣 Tableware & Dinnerware – Up to 93% Off",
-    "description": "🍽️ Flipkart Home Deals – Kitchen Essentials 🏠  🔗 🍽️ Dinner Sets – Up to 70% Off 🔗 🍷 Barware – Premium Collection 🔗",
-    "shortlink": "https://fkrt.co/0Bhs6S",
-    "urls": [
-      {
-        "url": "",
-        "label": "🍽️ Flipkart Home Deals – Kitchen Essentials 🏠"
-      },
-      {
-        "url": "https://fkrt.co/0Bhs6S",
-        "label": "🥣 Tableware & Dinnerware – Up to 93% Off"
-      },
-      {
-        "url": "https://fkrt.co/i35czW",
-        "label": "🍽️ Dinner Sets – Up to 70% Off"
-      },
-      {
-        "url": "https://fkrt.co/ztA1Vs",
-        "label": "🍷 Barware – Premium Collection"
-      }
-    ],
-    "raw_text": "🍽️ Flipkart Home Deals – Kitchen Essentials 🏠\n\n🥣 Tableware & Dinnerware – Up to 93% Off\n🔗 https://fkrt.co/0Bhs6S\n\n🍽️ Dinner Sets – Up to 70% Off\n🔗 https://fkrt.co/i35czW\n\n🍷 Barware – Premium Collection\n🔗 https://fkrt.co/ztA1Vs",
-    "final_url": "https://fkrt.co/0Bhs6S",
-    "local_image": "assets/images/tgmsg_10918.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-06T14:23:55+00:00",
-    "buy_link": "https://fkrt.co/0Bhs6S",
-    "date_iso": "2025-10-06T14:23:55+00:00"
   }
 ]
