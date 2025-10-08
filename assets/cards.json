@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11211",
+    "title": "Tide Plus Detergent Powder 5kg @ 498",
+    "description": "Amazon | Tide Plus Detergent Powder 5kg @ 498 👉https://www.amazon.in/dp/B079Q4PCXV?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B079Q4PCXV?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B079Q4PCXV?th=1&tag=bestpricezo0f-21",
+        "label": "Tide Plus Detergent Powder 5kg @ 498"
+      }
+    ],
+    "raw_text": "Amazon | Tide Plus Detergent Powder 5kg @ 498\n\n👉https://www.amazon.in/dp/B079Q4PCXV?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B079Q4PCXV?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_11211.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-08T03:31:48+00:00",
+    "buy_link": "https://www.amazon.in/dp/B079Q4PCXV?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-08T03:31:48+00:00"
+  },
+  {
     "id": "msg11208",
     "title": "Apply ₹2000 Off + ₹5000 Off With Axis Bank Card",
     "description": "Amazon | Samsung Galaxy Tab S10 Lite @23999 Apply ₹2000 Off Coupon + ₹5000 Off With Axis Bank Card",
@@ -8290,25 +8310,5 @@
     "date_obj": "2025-10-05T16:01:38+00:00",
     "buy_link": "https://myntr.in/1l0nNm",
     "date_iso": "2025-10-05T16:01:38+00:00"
-  },
-  {
-    "id": "msg10795",
-    "title": "🔥 Happilo Tyohar Diwali Gift Box with 10 Inclusions at ₹699",
-    "description": "🔥Loot: Happilo Tyohar Diwali Gift Box with 10 Inclusions at ₹699 https://www.amazon.in/dp/B0FK2L2WSQ?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FK2L2WSQ?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FK2L2WSQ?tag=bestpricezo0f-21",
-        "label": "🔥Loot: Happilo Tyohar Diwali Gift Box with 10 Inclusions at ₹699"
-      }
-    ],
-    "raw_text": "🔥Loot: Happilo Tyohar Diwali Gift Box with 10 Inclusions at ₹699\n\nhttps://www.amazon.in/dp/B0FK2L2WSQ?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FK2L2WSQ?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_10795.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-05T16:04:27+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FK2L2WSQ?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-05T16:04:27+00:00"
   }
 ]
