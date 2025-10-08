@@ -1,5 +1,73 @@
 [
   {
+    "id": "msg11222",
+    "title": "Under Rs.249\"",
+    "description": "Flipkart Fashion Fest 🔥🔥 \"Women Shapewear under Rs.299\" \"Women Trousers  \"Women Jeans Under Rs.499\" \"Kids Ethnic Wear Under Rs.299\" \"KidsComboSets at Rs.199\" \"Women Jeans Under Rs.399\" \"Women Tshirts Under Rs.149\"",
+    "shortlink": "https://fkrt.co/HBLtmM",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart Fashion Fest 🔥🔥"
+      },
+      {
+        "url": "",
+        "label": "\"Women Shapewear"
+      },
+      {
+        "url": "https://fkrt.co/HBLtmM",
+        "label": "under Rs.299\""
+      },
+      {
+        "url": "",
+        "label": "\"Women Trousers"
+      },
+      {
+        "url": "https://fkrt.co/nMT54p",
+        "label": "Under Rs.249\""
+      },
+      {
+        "url": "",
+        "label": "\"Women Jeans"
+      },
+      {
+        "url": "https://fkrt.co/llPl1L",
+        "label": "Under Rs.499\""
+      },
+      {
+        "url": "",
+        "label": "\"Kids Ethnic Wear"
+      },
+      {
+        "url": "https://fkrt.co/EyOjdd",
+        "label": "Under Rs.299\""
+      },
+      {
+        "url": "https://fkrt.co/H3syLC",
+        "label": "at Rs.199\""
+      },
+      {
+        "url": "https://fkrt.co/C31OCd",
+        "label": "Under Rs.399\""
+      },
+      {
+        "url": "",
+        "label": "\"Women Tshirts"
+      },
+      {
+        "url": "https://fkrt.co/e8pyt0",
+        "label": "Under Rs.149\""
+      }
+    ],
+    "raw_text": "Flipkart Fashion Fest 🔥🔥\n\n\"Women Shapewear\nunder Rs.299\" https://fkrt.co/HBLtmM\n\"Women Trousers\nUnder Rs.249\" https://fkrt.co/nMT54p\n\"Women Jeans\nUnder Rs.499\" https://fkrt.co/llPl1L\n\"Kids Ethnic Wear\nUnder Rs.299\" https://fkrt.co/EyOjdd\n\"KidsComboSets\nat Rs.199\" https://fkrt.co/H3syLC\n\"Women Jeans\nUnder Rs.399\" https://fkrt.co/C31OCd\n\"Women Tshirts\nUnder Rs.149\" https://fkrt.co/e8pyt0",
+    "final_url": "https://fkrt.co/HBLtmM",
+    "local_image": "assets/images/tgmsg_11222.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-08T04:51:51+00:00",
+    "buy_link": "https://fkrt.co/HBLtmM",
+    "date_iso": "2025-10-08T04:51:51+00:00"
+  },
+  {
     "id": "msg11219",
     "title": "Up to 81% Off On Ecolink Led Bulbs & Light",
     "description": "Amazon | Upto 81% Off On Ecolink Led Bulbs & Lights.…",
@@ -8358,25 +8426,5 @@
     "date_obj": "2025-10-05T17:31:41+00:00",
     "buy_link": "https://fkrt.co/VWwA6N",
     "date_iso": "2025-10-05T17:31:41+00:00"
-  },
-  {
-    "id": "msg10806",
-    "title": "Up to 74% Off on Co",
-    "description": "Ajio | Upto 74% Off on Co-Ord Sets Starting @ just ₹372 Link : https://ajiio.co/88t53b",
-    "shortlink": "https://ajiio.co/88t53b",
-    "urls": [
-      {
-        "url": "https://ajiio.co/88t53b",
-        "label": "Upto 74% Off on Co-Ord Sets Starting @ just ₹372"
-      }
-    ],
-    "raw_text": "Ajio | Upto 74% Off on Co-Ord Sets Starting @ just ₹372\n \nLink : https://ajiio.co/88t53b",
-    "final_url": "https://ajiio.co/88t53b",
-    "local_image": "assets/images/tgmsg_10806.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-05T17:23:54+00:00",
-    "buy_link": "https://ajiio.co/88t53b",
-    "date_iso": "2025-10-05T17:23:54+00:00"
   }
 ]
