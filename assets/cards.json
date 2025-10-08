@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg11230",
+    "title": "Up to 88% Off on Fubar Clothing 🔥🔥",
+    "description": "Flipkart : Upto 88% Off on Fubar Clothing 🔥🔥 → Shirts : →Trousers : → Kurta : → Pack of shirts - 2 @ Rs.349",
+    "shortlink": "https://fkrt.co/YBYnLC",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 88% Off on Fubar Clothing 🔥🔥"
+      },
+      {
+        "url": "https://fkrt.co/YBYnLC",
+        "label": "→ Shirts"
+      },
+      {
+        "url": "https://fkrt.co/WM0AIq",
+        "label": "→Trousers"
+      },
+      {
+        "url": "https://fkrt.co/nuE4DJ",
+        "label": "→ Kurta"
+      },
+      {
+        "url": "https://fkrt.co/6fwowG",
+        "label": "→ Pack of shirts - 2 @ Rs.349"
+      }
+    ],
+    "raw_text": "Flipkart : Upto 88% Off on Fubar Clothing 🔥🔥\n\n→ Shirts : https://fkrt.co/YBYnLC\n→Trousers : https://fkrt.co/WM0AIq\n→ Kurta : https://fkrt.co/nuE4DJ\n→ Pack of shirts - 2 @ Rs.349 https://fkrt.co/6fwowG",
+    "final_url": "https://fkrt.co/YBYnLC",
+    "local_image": "assets/images/tgmsg_11230.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-08T05:56:27+00:00",
+    "buy_link": "https://fkrt.co/YBYnLC",
+    "date_iso": "2025-10-08T05:56:27+00:00"
+  },
+  {
     "id": "msg11229",
     "title": "HIMALAYA Anti Wrinkle Cream(50 g) @145",
     "description": "Flipkart | HIMALAYA Anti Wrinkle Cream(50 g) @145 https://fkrt.co/ZztpSH",
@@ -8534,25 +8570,5 @@
     "date_obj": "2025-10-05T19:06:43+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DRY7S43S?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-05T19:06:43+00:00"
-  },
-  {
-    "id": "msg10815",
-    "title": "Badminton kits starting at 259/",
-    "description": "Flipkart | Pro-Badminton kits starting at 259/- https://fkrt.co/VUY2bD",
-    "shortlink": "https://fkrt.co/VUY2bD",
-    "urls": [
-      {
-        "url": "https://fkrt.co/VUY2bD",
-        "label": "Pro-Badminton kits starting at 259/"
-      }
-    ],
-    "raw_text": "Flipkart | Pro-Badminton kits starting at 259/-\n\n  https://fkrt.co/VUY2bD",
-    "final_url": "https://fkrt.co/VUY2bD",
-    "local_image": "assets/images/tgmsg_10815.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-05T19:11:42+00:00",
-    "buy_link": "https://fkrt.co/VUY2bD",
-    "date_iso": "2025-10-05T19:11:42+00:00"
   }
 ]
