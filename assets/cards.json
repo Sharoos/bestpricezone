@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg11484",
+    "title": "🛒 Deal Price ₹144",
+    "description": "Amazon | 🌿 Skincare Steal! Biotique Multani Clay Anti Ageing Mud Face Pack for All Skin Types 🛒 Deal Price: ₹144 👉",
+    "shortlink": "https://www.amazon.in/dp/B006JH7PT2?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "🌿 Skincare Steal!"
+      },
+      {
+        "url": "",
+        "label": "Biotique Multani Clay Anti Ageing Mud Face Pack for All Skin Types"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B006JH7PT2?psc=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹144"
+      }
+    ],
+    "raw_text": "Amazon | 🌿 Skincare Steal!\n\nBiotique Multani Clay Anti Ageing Mud Face Pack for All Skin Types\n\n🛒 Deal Price: ₹144\n\n👉https://www.amazon.in/dp/B006JH7PT2?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B006JH7PT2?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_11484.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-09T10:15:10+00:00",
+    "buy_link": "https://www.amazon.in/dp/B006JH7PT2?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-09T10:15:10+00:00"
+  },
+  {
+    "id": "msg11486",
+    "title": "Perfect Homes Office Chair @ 2781",
+    "description": "Flipkart Perfect Homes Office Chair @ 2781. 👉 https://fkrt.co/gaQfrB More : https://fkrt.co/8hzUvz",
+    "shortlink": "https://fkrt.co/gaQfrB",
+    "urls": [
+      {
+        "url": "https://fkrt.co/gaQfrB",
+        "label": "Flipkart Perfect Homes Office Chair @ 2781"
+      },
+      {
+        "url": "https://fkrt.co/8hzUvz",
+        "label": "More"
+      }
+    ],
+    "raw_text": "Flipkart Perfect Homes Office Chair @ 2781.\n\n 👉 https://fkrt.co/gaQfrB\n\nMore : https://fkrt.co/8hzUvz",
+    "final_url": "https://fkrt.co/gaQfrB",
+    "local_image": "assets/images/tgmsg_11486.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-09T10:30:08+00:00",
+    "buy_link": "https://fkrt.co/gaQfrB",
+    "date_iso": "2025-10-09T10:30:08+00:00"
+  },
+  {
     "id": "msg11482",
     "title": "T",
     "description": "AJIO Loot : T-shirts Starts @ 99. Women : https://ajiio.in/w6SSF5M Men : https://ajiio.in/1c7bIxi Cargo Pants. Men : https://ajiio.in/s2ne6gV Women : https://ajiio.in/R9QHseH",
@@ -9238,81 +9290,5 @@
     "date_obj": "2025-10-07T13:31:28+00:00",
     "buy_link": "https://bitli.in/19uZqN5",
     "date_iso": "2025-10-07T13:31:28+00:00"
-  },
-  {
-    "id": "msg11086",
-    "title": "🦷 Sensodyne – Min 30% Off on Toothpaste & Toothbrushes (Limited Stock!)",
-    "description": "🔥 Myntra Beauty & Grooming Sale is LIVE! 🔥 💈 Philips – Min 30% Off on Beauty & Grooming Appliances 🔗 💪 Beardo – Min 70% Off on Perfumes & Grooming Kits 🔗 💅 VEGA – Min 40% Off on Beauty & Grooming Appliances 🔗 💨 Denver –…",
-    "shortlink": "https://myntr.in/s2mxLm",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Myntra Beauty & Grooming Sale is LIVE! 🔥"
-      },
-      {
-        "url": "https://myntr.in/s2mxLm",
-        "label": "💈 Philips – Min 30% Off on Beauty & Grooming Appliances"
-      },
-      {
-        "url": "https://myntr.in/SZ8sBp",
-        "label": "💪 Beardo – Min 70% Off on Perfumes & Grooming Kits"
-      },
-      {
-        "url": "https://myntr.in/Ev8Inb",
-        "label": "💅 VEGA – Min 40% Off on Beauty & Grooming Appliances"
-      },
-      {
-        "url": "https://myntr.in/Iojrm4",
-        "label": "💨 Denver – Up to 60% Off on Perfumes & Deodorants"
-      },
-      {
-        "url": "https://myntr.in/4dgAp7",
-        "label": "🔥 Wild Stone – Min 55% Off on Deos & Perfumes"
-      },
-      {
-        "url": "https://myntr.in/cogkFq",
-        "label": "💇‍♀️ Ikonic – Min 40% Off on Hair Styling Appliances"
-      },
-      {
-        "url": "https://myntr.in/d4dsGF",
-        "label": "🦷 Sensodyne – Min 30% Off on Toothpaste & Toothbrushes (Limited Stock!)"
-      }
-    ],
-    "raw_text": "🔥 Myntra Beauty & Grooming Sale is LIVE! 🔥\n\n💈 Philips – Min 30% Off on Beauty & Grooming Appliances\n🔗 https://myntr.in/s2mxLm\n\n💪 Beardo – Min 70% Off on Perfumes & Grooming Kits\n🔗 https://myntr.in/SZ8sBp\n\n💅 VEGA – Min 40% Off on Beauty & Grooming Appliances\n🔗 https://myntr.in/Ev8Inb\n\n💨 Denver – Up to 60% Off on Perfumes & Deodorants\n🔗 https://myntr.in/Iojrm4\n\n🔥 Wild Stone – Min 55% Off on Deos & Perfumes\n🔗 https://myntr.in/4dgAp7\n\n💇‍♀️ Ikonic – Min 40% Off on Hair Styling Appliances\n🔗 https://myntr.in/cogkFq\n\n🦷 Sensodyne – Min 30% Off on Toothpaste & Toothbrushes (Limited Stock!)\n🔗 https://myntr.in/d4dsGF",
-    "final_url": "https://myntr.in/s2mxLm",
-    "local_image": "assets/images/tgmsg_11086.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-07T13:32:06+00:00",
-    "buy_link": "https://myntr.in/s2mxLm",
-    "date_iso": "2025-10-07T13:32:06+00:00"
-  },
-  {
-    "id": "msg11080",
-    "title": "Tiaraa Necklace Deal 💎",
-    "description": "Tiaraa Necklace Loot Deal 💎 Get 2 Necklaces @ ₹119 Use Code: CK2 Link: https://bitli.in/kgNa66v",
-    "shortlink": "https://bitli.in/kgNa66v",
-    "urls": [
-      {
-        "url": "",
-        "label": "Tiaraa Necklace Loot Deal 💎"
-      },
-      {
-        "url": "",
-        "label": "Get 2 Necklaces @ ₹119"
-      },
-      {
-        "url": "https://bitli.in/kgNa66v",
-        "label": "CK2"
-      }
-    ],
-    "raw_text": "Tiaraa Necklace Loot Deal 💎\nGet 2 Necklaces @ ₹119\n\nUse Code: CK2\n\nLink: https://bitli.in/kgNa66v",
-    "final_url": "https://bitli.in/kgNa66v",
-    "local_image": "assets/images/tgmsg_11080.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-10-07T12:38:33+00:00",
-    "buy_link": "https://bitli.in/kgNa66v",
-    "date_iso": "2025-10-07T12:38:33+00:00"
   }
 ]
