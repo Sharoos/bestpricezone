@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11488",
+    "title": "Levis Jeans at just Rs. 840",
+    "description": "Ajio  - Levis Jeans at just Rs. 840 👉https://ajiio.co/JPXYKm",
+    "shortlink": "https://ajiio.co/JPXYKm",
+    "urls": [
+      {
+        "url": "https://ajiio.co/JPXYKm",
+        "label": "Levis Jeans at just Rs. 840"
+      }
+    ],
+    "raw_text": "Ajio  - Levis Jeans at just Rs. 840\n\n👉https://ajiio.co/JPXYKm",
+    "final_url": "https://ajiio.co/JPXYKm",
+    "local_image": "assets/images/tgmsg_11488.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-09T10:45:14+00:00",
+    "buy_link": "https://ajiio.co/JPXYKm",
+    "date_iso": "2025-10-09T10:45:14+00:00"
+  },
+  {
     "id": "msg11484",
     "title": "🛒 Deal Price ₹144",
     "description": "Amazon | 🌿 Skincare Steal! Biotique Multani Clay Anti Ageing Mud Face Pack for All Skin Types 🛒 Deal Price: ₹144 👉",
@@ -9266,29 +9286,5 @@
     "date_obj": "2025-10-07T13:21:49+00:00",
     "buy_link": "https://fkrt.co/OwIwuc",
     "date_iso": "2025-10-07T13:21:49+00:00"
-  },
-  {
-    "id": "msg11085",
-    "title": "FLAT 50% OFF",
-    "description": "Zandu Shilajitprash | Boost Strength & Immunity | Ayurvedic & Natural Coupon Code: ZNSPRASH50",
-    "shortlink": "https://bitli.in/19uZqN5",
-    "urls": [
-      {
-        "url": "https://bitli.in/19uZqN5",
-        "label": "Boost Strength & Immunity | Ayurvedic & Natural"
-      },
-      {
-        "url": "",
-        "label": "FLAT 50% OFF"
-      }
-    ],
-    "raw_text": "Zandu Shilajitprash | Boost Strength & Immunity | Ayurvedic & Natural\n\nCoupon Code: ZNSPRASH50\n\nhttps://bitli.in/19uZqN5\n\nFLAT 50% OFF",
-    "final_url": "https://bitli.in/19uZqN5",
-    "local_image": "assets/images/tgmsg_11085.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-10-07T13:31:28+00:00",
-    "buy_link": "https://bitli.in/19uZqN5",
-    "date_iso": "2025-10-07T13:31:28+00:00"
   }
 ]
