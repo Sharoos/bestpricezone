@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg11435",
+    "title": "Up to 80% Off On Branded Watche",
+    "description": "Flipkart | Upto 80% Off On Branded Watches. Casio : Van Heusen : Allen Solly : Peter England : Maxima : Fastrack : FCUK :",
+    "shortlink": "https://fkrt.co/DAyjFV",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On Branded Watches"
+      },
+      {
+        "url": "https://fkrt.co/DAyjFV",
+        "label": "Casio"
+      },
+      {
+        "url": "https://fkrt.co/DhIHVb",
+        "label": "Van Heusen"
+      },
+      {
+        "url": "https://fkrt.co/6OfVkB",
+        "label": "Allen Solly"
+      },
+      {
+        "url": "https://fkrt.co/2fJJLu",
+        "label": "Peter England"
+      },
+      {
+        "url": "https://fkrt.co/lGHokQ",
+        "label": "Maxima"
+      },
+      {
+        "url": "https://fkrt.co/ZazaHm",
+        "label": "Fastrack"
+      },
+      {
+        "url": "https://fkrt.co/7a3HrM",
+        "label": "FCUK"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 80% Off On Branded Watches.\n\nCasio : https://fkrt.co/DAyjFV\nVan Heusen : https://fkrt.co/DhIHVb\nAllen Solly : https://fkrt.co/6OfVkB\nPeter England : https://fkrt.co/2fJJLu\nMaxima : https://fkrt.co/lGHokQ\nFastrack : https://fkrt.co/ZazaHm\nFCUK : https://fkrt.co/7a3HrM",
+    "final_url": "https://fkrt.co/DAyjFV",
+    "local_image": "assets/images/tgmsg_11435.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-09T04:33:55+00:00",
+    "buy_link": "https://fkrt.co/DAyjFV",
+    "date_iso": "2025-10-09T04:33:55+00:00"
+  },
+  {
     "id": "msg11432",
     "title": "Up to 70% Off on U.S Polo Assn. T",
     "description": "Ajio : Upto 70% Off on U.S Polo Assn. T-Shirts Men's : https://ajiio.co/kbG8Io Women's : https://ajiio.co/btdg1R Boys : https://ajiio.co/fVHExr Girls : https://ajiio.co/YgVjjY",
@@ -9246,33 +9294,5 @@
     "date_obj": "2025-10-07T05:32:35+00:00",
     "buy_link": "https://myntr.in/21eiYE",
     "date_iso": "2025-10-07T05:32:35+00:00"
-  },
-  {
-    "id": "msg11021",
-    "title": "Up to 85% Off On Libas Women Clothing",
-    "description": "Myntra | Upto 85% Off On Libas Women Clothing. https://myntr.in/Zspm0n Kurta : https://myntr.in/rABQCA Kurta Sets : https://myntr.in/N0t2RD",
-    "shortlink": "https://myntr.in/Zspm0n",
-    "urls": [
-      {
-        "url": "https://myntr.in/Zspm0n",
-        "label": "Upto 85% Off On Libas Women Clothing"
-      },
-      {
-        "url": "https://myntr.in/rABQCA",
-        "label": "Kurta"
-      },
-      {
-        "url": "https://myntr.in/N0t2RD",
-        "label": "Kurta Sets"
-      }
-    ],
-    "raw_text": "Myntra | Upto 85% Off On Libas Women Clothing.\n\nhttps://myntr.in/Zspm0n\n\nKurta : https://myntr.in/rABQCA\nKurta Sets : https://myntr.in/N0t2RD",
-    "final_url": "https://myntr.in/Zspm0n",
-    "local_image": "assets/images/tgmsg_11021.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-07T05:01:36+00:00",
-    "buy_link": "https://myntr.in/Zspm0n",
-    "date_iso": "2025-10-07T05:01:36+00:00"
   }
 ]
