@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg11468",
+    "title": "Up to 85% Off On Spykar Clothing",
+    "description": "Ajio Upto 85% Off On Spykar Clothing. Men's : Women's : Upto 80% Off On Puma Clothing Men's : Women's :",
+    "shortlink": "https://ajiio.co/uUKgyN",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Upto 85% Off On Spykar Clothing"
+      },
+      {
+        "url": "https://ajiio.co/uUKgyN",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/7kzFcy",
+        "label": "Women's"
+      },
+      {
+        "url": "",
+        "label": "Upto 80% Off On Puma Clothing"
+      },
+      {
+        "url": "https://ajiio.co/iwFSxz",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/pXOH8N",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Ajio  Upto 85% Off On Spykar Clothing.\n\nMen's : https://ajiio.co/uUKgyN \nWomen's : https://ajiio.co/7kzFcy \n\nUpto 80% Off On Puma Clothing \n\nMen's : https://ajiio.co/iwFSxz \nWomen's : https://ajiio.co/pXOH8N",
+    "final_url": "https://ajiio.co/uUKgyN",
+    "local_image": "assets/images/tgmsg_11468.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-09T08:01:53+00:00",
+    "buy_link": "https://ajiio.co/uUKgyN",
+    "date_iso": "2025-10-09T08:01:53+00:00"
+  },
+  {
+    "id": "msg11469",
+    "title": "Deo Up to 80% off",
+    "description": "Flipkart | Deo upto 80% off 👉https://fkrt.co/vXsD4p",
+    "shortlink": "https://fkrt.co/vXsD4p",
+    "urls": [
+      {
+        "url": "https://fkrt.co/vXsD4p",
+        "label": "Deo upto 80% off"
+      }
+    ],
+    "raw_text": "Flipkart | Deo upto 80% off \n\n👉https://fkrt.co/vXsD4p",
+    "final_url": "https://fkrt.co/vXsD4p",
+    "local_image": "assets/images/tgmsg_11469.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-09T08:12:54+00:00",
+    "buy_link": "https://fkrt.co/vXsD4p",
+    "date_iso": "2025-10-09T08:12:54+00:00"
+  },
+  {
     "id": "msg11465",
     "title": "💳 Extra ₹1,000 OFF with select Bank Card",
     "description": "🎉✨ Dhanteras Special Offer only On AJIO! ✨🎉 Celebrate wealth and prosperity with pure gold coins! 🌟 MRP: ₹76,141/ 🔥 Ajio Offer Price: ₹65,257/gm s 💸 Get ₹1,250 OFF on Prepaid Orders 💰 Extra 2%Up to 2000/- Off with…",
@@ -9150,69 +9210,5 @@
     "date_obj": "2025-10-07T10:32:52+00:00",
     "buy_link": "https://myntr.in/bVASmC",
     "date_iso": "2025-10-07T10:32:52+00:00"
-  },
-  {
-    "id": "msg11064",
-    "title": "Happilo Essentials Californian Popular Almonds 1Kg @ 769",
-    "description": "GRAB: Happilo Essentials Californian Popular Almonds 1Kg @ 769 https://fktr.in/eCNFrGi",
-    "shortlink": "https://fktr.in/eCNFrGi",
-    "urls": [
-      {
-        "url": "https://fktr.in/eCNFrGi",
-        "label": "Happilo Essentials Californian Popular Almonds 1Kg @ 769"
-      }
-    ],
-    "raw_text": "GRAB: Happilo Essentials Californian Popular Almonds 1Kg @ 769\n\nhttps://fktr.in/eCNFrGi",
-    "final_url": "https://fktr.in/eCNFrGi",
-    "local_image": "assets/images/tgmsg_11064.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-07T10:38:26+00:00",
-    "buy_link": "https://fktr.in/eCNFrGi",
-    "date_iso": "2025-10-07T10:38:26+00:00"
-  },
-  {
-    "id": "msg11059",
-    "title": "🛒 Deal Price ₹269",
-    "description": "Amazon | 🖱 Wireless Mouse Deals! Zebronics Wireless Mouse 🛒 Deal Price: ₹269 👉 Logitech Wireless Mouse 🛒 Deal Price: ₹399 👉 Lenovo Wireless Mouse 🛒 Deal Price: ₹399 👉",
-    "shortlink": "https://www.amazon.in/dp/B098JYT4SY?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🖱 Wireless Mouse Deals!"
-      },
-      {
-        "url": "",
-        "label": "Zebronics Wireless Mouse"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B098JYT4SY?th=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹269"
-      },
-      {
-        "url": "",
-        "label": "Logitech Wireless Mouse"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0D18192T2?tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹399"
-      },
-      {
-        "url": "",
-        "label": "Lenovo Wireless Mouse"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0CFG5Q8BB?tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹399"
-      }
-    ],
-    "raw_text": "Amazon | 🖱 Wireless Mouse Deals!\n\nZebronics Wireless Mouse\n🛒 Deal Price: ₹269\n👉https://www.amazon.in/dp/B098JYT4SY?th=1&tag=bestpricezo0f-21\n\nLogitech Wireless Mouse\n🛒 Deal Price: ₹399\n👉https://www.amazon.in/dp/B0D18192T2?tag=bestpricezo0f-21\n\nLenovo Wireless Mouse\n🛒 Deal Price: ₹399\n👉https://www.amazon.in/dp/B0CFG5Q8BB?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B098JYT4SY?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_11059.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-07T10:02:31+00:00",
-    "buy_link": "https://www.amazon.in/dp/B098JYT4SY?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-07T10:02:31+00:00"
   }
 ]
