@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11476",
+    "title": "Min 50% Off on Bata Sandal",
+    "description": "Amazon | Min 50% Off on Bata Sandals. 👉https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
+        "label": "Min 50% Off on Bata Sandals"
+      }
+    ],
+    "raw_text": "Amazon | Min 50% Off on Bata Sandals.\n\n👉https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_11476.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-09T08:51:54+00:00",
+    "buy_link": "https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-09T08:51:54+00:00"
+  },
+  {
     "id": "msg11470",
     "title": "Snitch Men’s Cargo Trousers Starts @ 749",
     "description": "Myntra : . 👉 Trousers from Rs.650 : Jeans : Tshirts : Shirts : Shackets : Sweatshirts : Jackets :",
@@ -9194,65 +9214,5 @@
     "date_obj": "2025-10-07T11:01:34+00:00",
     "buy_link": "https://fkrt.co/Bw8EbB",
     "date_iso": "2025-10-07T11:01:34+00:00"
-  },
-  {
-    "id": "msg11068",
-    "title": "Grocery Deals – Up to 96% OFF! 🔥🔥",
-    "description": "Flipkart Grocery Deals – Upto 96% OFF! 🔥🔥 🛒 Master Links: 💥 Extra ₹250 OFF on orders ₹2,499+ Category Deals: Atta/Rice: Oil/Ghee: Snacks: Oral Care: Tea/Coffee: 🚀 Shop now & grab amazing savings on your grocery…",
-    "shortlink": "https://fkrt.co/SsAy5M",
-    "urls": [
-      {
-        "url": "https://fkrt.co/SsAy5M",
-        "label": "Flipkart Grocery Deals – Upto 96% OFF! 🔥🔥"
-      },
-      {
-        "url": "https://fkrt.co/Eqf7bQ",
-        "label": "Flipkart Grocery Deals – Upto 96% OFF! 🔥🔥"
-      },
-      {
-        "url": "https://fkrt.co/KR4qIQ",
-        "label": "Flipkart Grocery Deals – Upto 96% OFF! 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "💥 Extra ₹250 OFF on orders ₹2,499+"
-      },
-      {
-        "url": "",
-        "label": "Category Deals"
-      },
-      {
-        "url": "https://fkrt.co/CnZjey",
-        "label": "Atta/Rice"
-      },
-      {
-        "url": "https://fkrt.co/MCtsVV",
-        "label": "Oil/Ghee"
-      },
-      {
-        "url": "https://fkrt.co/qjTpev",
-        "label": "Snacks"
-      },
-      {
-        "url": "https://fkrt.co/3SZBLz",
-        "label": "Oral Care"
-      },
-      {
-        "url": "https://fkrt.co/OlgEnM",
-        "label": "Tea/Coffee"
-      },
-      {
-        "url": "",
-        "label": "🚀 Shop now & grab amazing savings on your grocery essentials!"
-      }
-    ],
-    "raw_text": "Flipkart Grocery Deals – Upto 96% OFF! 🔥🔥\n\n🛒 Master Links:\nhttps://fkrt.co/SsAy5M\nhttps://fkrt.co/Eqf7bQ\nhttps://fkrt.co/KR4qIQ\n\n💥 Extra ₹250 OFF on orders ₹2,499+\n\nCategory Deals:\nAtta/Rice: https://fkrt.co/CnZjey\nOil/Ghee: https://fkrt.co/MCtsVV\nSnacks: https://fkrt.co/qjTpev\nOral Care: https://fkrt.co/3SZBLz\nTea/Coffee: https://fkrt.co/OlgEnM\n\n🚀 Shop now & grab amazing savings on your grocery essentials!",
-    "final_url": "https://fkrt.co/SsAy5M",
-    "local_image": "assets/images/tgmsg_11068.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-07T11:08:59+00:00",
-    "buy_link": "https://fkrt.co/SsAy5M",
-    "date_iso": "2025-10-07T11:08:59+00:00"
   }
 ]
