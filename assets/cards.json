@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11802",
+    "title": "83% Off",
+    "description": "Flipkart | 83% Off - PULUZ Handlebar Grip Camera Mount  At Rs.405 https://fkrt.co/Kabb5q",
+    "shortlink": "https://fkrt.co/Kabb5q",
+    "urls": [
+      {
+        "url": "https://fkrt.co/Kabb5q",
+        "label": "83% Off - PULUZ Handlebar Grip Camera Mount At Rs.405"
+      }
+    ],
+    "raw_text": "Flipkart | 83% Off - PULUZ Handlebar Grip Camera Mount  At Rs.405\n\n https://fkrt.co/Kabb5q",
+    "final_url": "https://fkrt.co/Kabb5q",
+    "local_image": "assets/images/tgmsg_11802.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-09T22:01:06+00:00",
+    "buy_link": "https://fkrt.co/Kabb5q",
+    "date_iso": "2025-10-09T22:01:06+00:00"
+  },
+  {
     "id": "msg11801",
     "title": "Deal Price Rs. 96 Only",
     "description": "Flipkart Rexona Shower Fresh Underarm Roll On Deodorant For Women (Pc3) Deal Price: Rs. 96 Only",
@@ -8786,33 +8806,5 @@
     "date_obj": "2025-10-08T12:02:56+00:00",
     "buy_link": "https://fkrt.co/V78vMb",
     "date_iso": "2025-10-08T12:02:56+00:00"
-  },
-  {
-    "id": "msg11281",
-    "title": "🛒 Deal Price From ₹296",
-    "description": "Myntra | 🔥 Stylish Wallets for Men Wildhorn Men's Wallets 🛒 Deal Price: From ₹296 👉",
-    "shortlink": "https://myntr.in/WfTVvg",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Stylish Wallets for Men"
-      },
-      {
-        "url": "",
-        "label": "Wildhorn Men's Wallets"
-      },
-      {
-        "url": "https://myntr.in/WfTVvg",
-        "label": "🛒 Deal Price: From ₹296"
-      }
-    ],
-    "raw_text": "Myntra | 🔥 Stylish Wallets for Men\n\nWildhorn Men's Wallets\n\n🛒 Deal Price: From ₹296\n\n👉https://myntr.in/WfTVvg",
-    "final_url": "https://myntr.in/WfTVvg",
-    "local_image": "assets/images/tgmsg_11281.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-08T12:15:19+00:00",
-    "buy_link": "https://myntr.in/WfTVvg",
-    "date_iso": "2025-10-08T12:15:19+00:00"
   }
 ]
