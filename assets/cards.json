@@ -1,5 +1,97 @@
 [
   {
+    "id": "msg11482",
+    "title": "T",
+    "description": "AJIO Loot : T-shirts Starts @ 99. Women : https://ajiio.in/w6SSF5M Men : https://ajiio.in/1c7bIxi Cargo Pants. Men : https://ajiio.in/s2ne6gV Women : https://ajiio.in/R9QHseH",
+    "shortlink": "https://ajiio.in/w6SSF5M",
+    "urls": [
+      {
+        "url": "",
+        "label": "T-shirts Starts @ 99"
+      },
+      {
+        "url": "https://ajiio.in/w6SSF5M",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.in/1c7bIxi",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Cargo Pants"
+      },
+      {
+        "url": "https://ajiio.in/s2ne6gV",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.in/R9QHseH",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "AJIO Loot : T-shirts Starts @ 99.\n \nWomen : https://ajiio.in/w6SSF5M \nMen : https://ajiio.in/1c7bIxi\n\nCargo Pants. \nMen : https://ajiio.in/s2ne6gV \nWomen : https://ajiio.in/R9QHseH",
+    "final_url": "https://ajiio.in/w6SSF5M",
+    "local_image": "assets/images/tgmsg_11482.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-09T09:51:56+00:00",
+    "buy_link": "https://ajiio.in/w6SSF5M",
+    "date_iso": "2025-10-09T09:51:56+00:00"
+  },
+  {
+    "id": "msg11483",
+    "title": "Up to 88% Off On Top Brands Luggage",
+    "description": "Flipkart | Upto 88% Off On Top Brands Luggage. Safari : Aristocrat : VIP : S Size : M Size : L Size : Pack Of 2 : Pack Of 3 :",
+    "shortlink": "https://fkrt.co/WSRU8d",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 88% Off On Top Brands Luggage"
+      },
+      {
+        "url": "https://fkrt.co/WSRU8d",
+        "label": "Safari"
+      },
+      {
+        "url": "https://fkrt.co/NpZYYh",
+        "label": "Aristocrat"
+      },
+      {
+        "url": "https://fkrt.co/N8NYez",
+        "label": "VIP"
+      },
+      {
+        "url": "https://fkrt.co/QGKm7T",
+        "label": "S Size"
+      },
+      {
+        "url": "https://fkrt.co/JI0QYG",
+        "label": "M Size"
+      },
+      {
+        "url": "https://fkrt.co/Qp2aH2",
+        "label": "L Size"
+      },
+      {
+        "url": "https://fkrt.co/NCeyx7",
+        "label": "Pack Of 2"
+      },
+      {
+        "url": "https://fkrt.co/dcDN42",
+        "label": "Pack Of 3"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 88% Off On Top Brands Luggage. \n \nSafari : https://fkrt.co/WSRU8d \nAristocrat : https://fkrt.co/NpZYYh \nVIP : https://fkrt.co/N8NYez \n \nS Size : https://fkrt.co/QGKm7T \nM Size : https://fkrt.co/JI0QYG \nL Size : https://fkrt.co/Qp2aH2 \n \nPack Of 2 : https://fkrt.co/NCeyx7 \nPack Of 3 : https://fkrt.co/dcDN42",
+    "final_url": "https://fkrt.co/WSRU8d",
+    "local_image": "assets/images/tgmsg_11483.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-09T10:01:53+00:00",
+    "buy_link": "https://fkrt.co/WSRU8d",
+    "date_iso": "2025-10-09T10:01:53+00:00"
+  },
+  {
     "id": "msg11480",
     "title": "Up to 80% Off On USPA Clothing",
     "description": "AJIO Loot : Upto 80% Off On USPA Clothing. Men’s : https://ajiio.in/OwgmRIe Women’s : https://ajiio.in/PddTWAN Boys : https://ajiio.in/cWbVmBk Girls : https://ajiio.in/tDscR3X",
@@ -9222,45 +9314,5 @@
     "date_obj": "2025-10-07T12:38:33+00:00",
     "buy_link": "https://bitli.in/kgNa66v",
     "date_iso": "2025-10-07T12:38:33+00:00"
-  },
-  {
-    "id": "msg11082",
-    "title": "👟 Up to 86% Off On Redtape At ₹452",
-    "description": "Flipkart | 👟 Upto 86% Off On Redtape At ₹452 👉https://fkrt.co/ZRMIgA",
-    "shortlink": "https://fkrt.co/ZRMIgA",
-    "urls": [
-      {
-        "url": "https://fkrt.co/ZRMIgA",
-        "label": "👟 Upto 86% Off On Redtape At ₹452"
-      }
-    ],
-    "raw_text": "Flipkart | 👟 Upto 86% Off On Redtape At ₹452\n\n👉https://fkrt.co/ZRMIgA",
-    "final_url": "https://fkrt.co/ZRMIgA",
-    "local_image": "assets/images/tgmsg_11082.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-07T13:01:07+00:00",
-    "buy_link": "https://fkrt.co/ZRMIgA",
-    "date_iso": "2025-10-07T13:01:07+00:00"
-  },
-  {
-    "id": "msg11074",
-    "title": "71% off Everyuth Naturals Rejuvenating Flora Body Lotion",
-    "description": "71% off : Everyuth Naturals Rejuvenating Flora Body Lotion - 500 ml At 142 🤜 Link:",
-    "shortlink": "https://fkrt.co/HMI6fq",
-    "urls": [
-      {
-        "url": "https://fkrt.co/HMI6fq",
-        "label": "71% off : Everyuth Naturals Rejuvenating Flora Body Lotion - 500 ml At 142"
-      }
-    ],
-    "raw_text": "71% off : Everyuth Naturals Rejuvenating Flora Body Lotion - 500 ml At 142\n\n🤜 Link: https://fkrt.co/HMI6fq",
-    "final_url": "https://fkrt.co/HMI6fq",
-    "local_image": "assets/images/tgmsg_11074.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-07T11:58:33+00:00",
-    "buy_link": "https://fkrt.co/HMI6fq",
-    "date_iso": "2025-10-07T11:58:33+00:00"
   }
 ]
