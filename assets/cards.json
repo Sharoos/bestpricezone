@@ -1,5 +1,85 @@
 [
   {
+    "id": "msg11558",
+    "title": "Beauty Product",
+    "description": "AJIO : Beauty Products. Cetaphil : https://ajiio.co/X2i77J Lakme : https://ajiio.co/xiEo24 More Products : https://ajiio.co/wc7rOk",
+    "shortlink": "https://ajiio.co/X2i77J",
+    "urls": [
+      {
+        "url": "",
+        "label": "Beauty Products"
+      },
+      {
+        "url": "https://ajiio.co/X2i77J",
+        "label": "Cetaphil"
+      },
+      {
+        "url": "https://ajiio.co/xiEo24",
+        "label": "Lakme"
+      },
+      {
+        "url": "https://ajiio.co/wc7rOk",
+        "label": "More Products"
+      }
+    ],
+    "raw_text": "AJIO : Beauty Products. \n\nCetaphil : https://ajiio.co/X2i77J\nLakme : https://ajiio.co/xiEo24\nMore Products : https://ajiio.co/wc7rOk",
+    "final_url": "https://ajiio.co/X2i77J",
+    "local_image": "assets/images/tgmsg_11558.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-09T18:08:49+00:00",
+    "buy_link": "https://ajiio.co/X2i77J",
+    "date_iso": "2025-10-09T18:08:49+00:00"
+  },
+  {
+    "id": "msg11559",
+    "title": "💥Topwear Min 80% OFF",
+    "description": "💥AJIO : Topwear Min 80% OFF Link : https://ajiio.co/0FZUUE",
+    "shortlink": "https://ajiio.co/0FZUUE",
+    "urls": [
+      {
+        "url": "https://ajiio.co/0FZUUE",
+        "label": "💥AJIO : Topwear Min 80% OFF"
+      }
+    ],
+    "raw_text": "💥AJIO : Topwear Min 80% OFF  \n \nLink : https://ajiio.co/0FZUUE",
+    "final_url": "https://ajiio.co/0FZUUE",
+    "local_image": "assets/images/tgmsg_11559.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-09T18:20:54+00:00",
+    "buy_link": "https://ajiio.co/0FZUUE",
+    "date_iso": "2025-10-09T18:20:54+00:00"
+  },
+  {
+    "id": "msg11562",
+    "title": "Swiss Beauty Diwali Sale Any 4 Products at ₹999",
+    "description": "Swiss Beauty Diwali Sale : Buy Any 4 Products at ₹999. 👉Link : Use Code : BUY4 + Extra 5% Off on Prepaid Orders.",
+    "shortlink": "https://extp.in/9RY1fc",
+    "urls": [
+      {
+        "url": "https://extp.in/9RY1fc",
+        "label": ""
+      },
+      {
+        "url": "",
+        "label": "BUY4"
+      },
+      {
+        "url": "",
+        "label": "+ Extra 5% Off on Prepaid Orders"
+      }
+    ],
+    "raw_text": "Swiss Beauty Diwali Sale : Buy Any 4 Products at ₹999.\n \n👉Link : https://extp.in/9RY1fc\n \nUse Code : BUY4\n \n+ Extra 5% Off on Prepaid Orders.",
+    "final_url": "https://extp.in/9RY1fc",
+    "local_image": "assets/images/tgmsg_11562.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-10-09T18:26:12+00:00",
+    "buy_link": "https://extp.in/9RY1fc",
+    "date_iso": "2025-10-09T18:26:12+00:00"
+  },
+  {
     "id": "msg11556",
     "title": "🧴 AXE Intense Body Spray (Pack of 4) – ₹560",
     "description": "Flipkart 🔥🧴 Grooming & Utility Essentials at Best Prices! 👕💈  🔗 👕 Branded Dry Iron – Starting at ₹331 🔗 🧔 OnePlus Trimmers – Starting at ₹451 🔗",
@@ -9326,73 +9406,5 @@
     "date_obj": "2025-10-07T17:59:15+00:00",
     "buy_link": "https://fktr.in/b0TFKaK",
     "date_iso": "2025-10-07T17:59:15+00:00"
-  },
-  {
-    "id": "msg11146",
-    "title": "🔥 Grocery Many Items Available At Price 🚚",
-    "description": "🔥 Flipkart Grocery : Many Items Available At Loot Price 🚚 ✅ Masterlink:- 🔴 Price Can Vary Area Wise.",
-    "shortlink": "https://fktr.in/T52k1mu",
-    "urls": [
-      {
-        "url": "https://fktr.in/T52k1mu",
-        "label": "🔥 Flipkart Grocery : Many Items Available At Loot Price 🚚"
-      },
-      {
-        "url": "https://fktr.in/lmxhT4D",
-        "label": "🔥 Flipkart Grocery : Many Items Available At Loot Price 🚚"
-      },
-      {
-        "url": "",
-        "label": "🔴 Price Can Vary Area Wise"
-      }
-    ],
-    "raw_text": "🔥 Flipkart Grocery : Many Items Available At Loot Price 🚚\n\n✅ Masterlink:-\nhttps://fktr.in/T52k1mu\nhttps://fktr.in/lmxhT4D\n\n🔴 Price Can Vary Area Wise.",
-    "final_url": "https://fktr.in/T52k1mu",
-    "local_image": "assets/images/tgmsg_11146.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-07T18:00:58+00:00",
-    "buy_link": "https://fktr.in/T52k1mu",
-    "date_iso": "2025-10-07T18:00:58+00:00"
-  },
-  {
-    "id": "msg11147",
-    "title": "Up to 80% off Michael Angelo Footwea",
-    "description": "Amazon | Upto 80% off : Michael Angelo Footwear…",
-    "shortlink": "https://www.amazon.in/s?k=Michael%2BAngelo%2BSandals&rh=n%3A1571283031%2Cp_6%3AA1WYWER0W24N8S%7CA3GQ0LB37WRZ3K%2Cp_123%3A864363%2Cp_n_pct-off-with-tax%3A27060457031&i=shoes&xpid=tLWGJOF-TK-yM&tag=bestpricezo0f-21&",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?k=Michael%2BAngelo%2BSandals&rh=n%3A1571283031%2Cp_6%3AA1WYWER0W24N8S%7CA3GQ0LB37WRZ3K%2Cp_123%3A864363%2Cp_n_pct-off-with-tax%3A27060457031&i=shoes&xpid=tLWGJOF-TK-yM&tag=bestpricezo0f-21&",
-        "label": "Upto 80% off : Michael Angelo Footwear"
-      }
-    ],
-    "raw_text": "Amazon | Upto 80% off : Michael Angelo Footwear\n\n👉https://www.amazon.in/s?k=Michael%2BAngelo%2BSandals&rh=n%3A1571283031%2Cp_6%3AA1WYWER0W24N8S%7CA3GQ0LB37WRZ3K%2Cp_123%3A864363%2Cp_n_pct-off-with-tax%3A27060457031&i=shoes&xpid=tLWGJOF-TK-yM&tag=bestpricezo0f-21&",
-    "final_url": "https://www.amazon.in/s?k=Michael%2BAngelo%2BSandals&rh=n%3A1571283031%2Cp_6%3AA1WYWER0W24N8S%7CA3GQ0LB37WRZ3K%2Cp_123%3A864363%2Cp_n_pct-off-with-tax%3A27060457031&i=shoes&xpid=tLWGJOF-TK-yM&tag=bestpricezo0f-21&",
-    "local_image": "assets/images/tgmsg_11147.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-07T18:01:53+00:00",
-    "buy_link": "https://www.amazon.in/s?k=Michael%2BAngelo%2BSandals&rh=n%3A1571283031%2Cp_6%3AA1WYWER0W24N8S%7CA3GQ0LB37WRZ3K%2Cp_123%3A864363%2Cp_n_pct-off-with-tax%3A27060457031&i=shoes&xpid=tLWGJOF-TK-yM&tag=bestpricezo0f-21&",
-    "date_iso": "2025-10-07T18:01:53+00:00"
-  },
-  {
-    "id": "msg11148",
-    "title": "₹4889",
-    "description": "₹4889 https://fkrt.co/rQ6kyH",
-    "shortlink": "https://fkrt.co/rQ6kyH",
-    "urls": [
-      {
-        "url": "https://fkrt.co/rQ6kyH",
-        "label": ""
-      }
-    ],
-    "raw_text": "₹4889\n\nhttps://fkrt.co/rQ6kyH",
-    "final_url": "https://fkrt.co/rQ6kyH",
-    "local_image": "assets/images/tgmsg_11148.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-07T18:10:38+00:00",
-    "buy_link": "https://fkrt.co/rQ6kyH",
-    "date_iso": "2025-10-07T18:10:38+00:00"
   }
 ]
