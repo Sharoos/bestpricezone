@@ -1,5 +1,73 @@
 [
   {
+    "id": "msg11489",
+    "title": "🛒 Deal Price From ₹289",
+    "description": "Flipkart | 🎧 Earbud Deals 🛒 Deal Price: From ₹289 👉https://fkrt.co/5qCP1g",
+    "shortlink": "https://fkrt.co/5qCP1g",
+    "urls": [
+      {
+        "url": "",
+        "label": "🎧 Earbud Deals"
+      },
+      {
+        "url": "https://fkrt.co/5qCP1g",
+        "label": "🛒 Deal Price: From ₹289"
+      }
+    ],
+    "raw_text": "Flipkart | 🎧 Earbud Deals\n\n🛒 Deal Price: From ₹289\n\n👉https://fkrt.co/5qCP1g",
+    "final_url": "https://fkrt.co/5qCP1g",
+    "local_image": "assets/images/tgmsg_11489.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-09T11:01:35+00:00",
+    "buy_link": "https://fkrt.co/5qCP1g",
+    "date_iso": "2025-10-09T11:01:35+00:00"
+  },
+  {
+    "id": "msg11490",
+    "title": "👕 T",
+    "description": "👕 AJIO T-Shirt & Cargo Pants ! T-Shirts 🛒 Starting Price: ₹99 Women: Men: Cargo Pants Men: Women:",
+    "shortlink": "https://ajiio.co/0E1mVK",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 AJIO T-Shirt & Cargo Pants !"
+      },
+      {
+        "url": "",
+        "label": "🛒 Starting Price: ₹99"
+      },
+      {
+        "url": "https://ajiio.co/0E1mVK",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/KC20vk",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Cargo Pants"
+      },
+      {
+        "url": "https://ajiio.co/WtNEUT",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/jVwiyJ",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "👕 AJIO T-Shirt & Cargo Pants !\n\nT-Shirts\n\n🛒 Starting Price: ₹99\n\nWomen: https://ajiio.co/0E1mVK\nMen: https://ajiio.co/KC20vk\n\nCargo Pants\n\nMen: https://ajiio.co/WtNEUT\nWomen: https://ajiio.co/jVwiyJ",
+    "final_url": "https://ajiio.co/0E1mVK",
+    "local_image": "assets/images/tgmsg_11490.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-09T11:17:22+00:00",
+    "buy_link": "https://ajiio.co/0E1mVK",
+    "date_iso": "2025-10-09T11:17:22+00:00"
+  },
+  {
     "id": "msg11488",
     "title": "Levis Jeans at just Rs. 840",
     "description": "Ajio  - Levis Jeans at just Rs. 840 👉https://ajiio.co/JPXYKm",
@@ -9210,81 +9278,5 @@
     "date_obj": "2025-10-07T13:57:56+00:00",
     "buy_link": "https://fkrt.co/mxWvb1",
     "date_iso": "2025-10-07T13:57:56+00:00"
-  },
-  {
-    "id": "msg11088",
-    "title": "💇‍♀️ Schwarzkopf & Schwarzkopf Professional – Up to 45% Off + Coupon",
-    "description": "💆‍♀️ Myntra Beauty & Body Care Sale — Live Now! 💥 ✨ Livon Hair Serum – Min 60% Off 🔗 🧴 Parachute Body Lotion – Min 60% Off 🔗 💇‍♀️ Schwarzkopf & Schwarzkopf Professional – Upto 45% Off + Coupons 🔗 🌿 Lotus Botanicals –…",
-    "shortlink": "https://myntr.in/PJgH5s",
-    "urls": [
-      {
-        "url": "",
-        "label": "💆‍♀️ Myntra Beauty & Body Care Sale — Live Now! 💥"
-      },
-      {
-        "url": "https://myntr.in/PJgH5s",
-        "label": "✨ Livon Hair Serum – Min 60% Off"
-      },
-      {
-        "url": "https://myntr.in/K1nwOW",
-        "label": "🧴 Parachute Body Lotion – Min 60% Off"
-      },
-      {
-        "url": "https://myntr.in/4KsEWR",
-        "label": "💇‍♀️ Schwarzkopf & Schwarzkopf Professional – Upto 45% Off + Coupons"
-      },
-      {
-        "url": "https://myntr.in/e2JxGA",
-        "label": "🌿 Lotus Botanicals – Upto 60% Off"
-      },
-      {
-        "url": "https://myntr.in/gWXCum",
-        "label": "💧 O3+ Skincare – Upto 35% Off"
-      },
-      {
-        "url": "https://myntr.in/zdMEPR",
-        "label": "🌸 Neutrogena – Upto 35% Off!"
-      },
-      {
-        "url": "https://myntr.in/NJfJZt",
-        "label": "🩸 Stayfree Hygiene Essentials – Upto 50% Off"
-      },
-      {
-        "url": "https://myntr.in/Bc6trP",
-        "label": "🍃 Lotus Herbals – Upto 30% Off + Coupons"
-      },
-      {
-        "url": "https://myntr.in/ZVnuVd",
-        "label": "💫 Streax & Streax Professional – Upto 50% Off"
-      }
-    ],
-    "raw_text": "💆‍♀️ Myntra Beauty & Body Care Sale — Live Now! 💥\n\n✨ Livon Hair Serum – Min 60% Off\n🔗 https://myntr.in/PJgH5s\n\n🧴 Parachute Body Lotion – Min 60% Off\n🔗 https://myntr.in/K1nwOW\n\n💇‍♀️ Schwarzkopf & Schwarzkopf Professional – Upto 45% Off + Coupons\n🔗 https://myntr.in/4KsEWR\n\n🌿 Lotus Botanicals – Upto 60% Off\n🔗 https://myntr.in/e2JxGA\n\n💧 O3+ Skincare – Upto 35% Off\n🔗 https://myntr.in/gWXCum\n\n🌸 Neutrogena – Upto 35% Off!\n🔗 https://myntr.in/zdMEPR\n\n🩸 Stayfree Hygiene Essentials – Upto 50% Off\n🔗 https://myntr.in/NJfJZt\n\n🍃 Lotus Herbals – Upto 30% Off + Coupons\n🔗 https://myntr.in/Bc6trP\n\n💫 Streax & Streax Professional – Upto 50% Off\n🔗 https://myntr.in/ZVnuVd",
-    "final_url": "https://myntr.in/PJgH5s",
-    "local_image": "assets/images/tgmsg_11088.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-07T13:46:45+00:00",
-    "buy_link": "https://myntr.in/PJgH5s",
-    "date_iso": "2025-10-07T13:46:45+00:00"
-  },
-  {
-    "id": "msg11084",
-    "title": "Power Banks From ₹300",
-    "description": "Flipkart | Power Banks From ₹300 👉Link : https://fkrt.co/OwIwuc",
-    "shortlink": "https://fkrt.co/OwIwuc",
-    "urls": [
-      {
-        "url": "https://fkrt.co/OwIwuc",
-        "label": "Power Banks From ₹300"
-      }
-    ],
-    "raw_text": "Flipkart | Power Banks From ₹300\n\n👉Link : https://fkrt.co/OwIwuc",
-    "final_url": "https://fkrt.co/OwIwuc",
-    "local_image": "assets/images/tgmsg_11084.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-07T13:21:49+00:00",
-    "buy_link": "https://fkrt.co/OwIwuc",
-    "date_iso": "2025-10-07T13:21:49+00:00"
   }
 ]
