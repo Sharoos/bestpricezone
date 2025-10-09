@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg11801",
+    "title": "Deal Price Rs. 96 Only",
+    "description": "Flipkart Rexona Shower Fresh Underarm Roll On Deodorant For Women (Pc3) Deal Price: Rs. 96 Only",
+    "shortlink": "https://fkrt.co/hlIZEv",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart Rexona Shower Fresh Underarm Roll On Deodorant For Women (Pc3)"
+      },
+      {
+        "url": "https://fkrt.co/hlIZEv",
+        "label": "Rs. 96 Only"
+      }
+    ],
+    "raw_text": "Flipkart Rexona Shower Fresh Underarm Roll On Deodorant For Women (Pc3) \n\nDeal Price: Rs. 96   Only\n\n https://fkrt.co/hlIZEv",
+    "final_url": "https://fkrt.co/hlIZEv",
+    "local_image": "assets/images/tgmsg_11801.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-09T21:32:30+00:00",
+    "buy_link": "https://fkrt.co/hlIZEv",
+    "date_iso": "2025-10-09T21:32:30+00:00"
+  },
+  {
     "id": "msg11799",
     "title": "Campus Shoes at 72% Off",
     "description": "Flipkart  Campus Shoes at 72% Off. Scroll Down : https://fkrt.co/1HIzho",
@@ -8790,45 +8814,5 @@
     "date_obj": "2025-10-08T12:15:19+00:00",
     "buy_link": "https://myntr.in/WfTVvg",
     "date_iso": "2025-10-08T12:15:19+00:00"
-  },
-  {
-    "id": "msg11277",
-    "title": "Up to 85% OFF on Branded Shoes, Trolleys & Clothing 🔥🔥",
-    "description": "Flipkart : Upto 85% OFF on Branded Shoes, Trolleys & Clothing 🔥🔥 🧳 Trolleys: 👟 Shoes: 👔 Men’s Shirts: 👚 Women’s Top Wear: 💥 Hurry! Limited-Time Offers Only",
-    "shortlink": "https://fkrt.co/MH2VlZ",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% OFF on Branded Shoes, Trolleys & Clothing 🔥🔥"
-      },
-      {
-        "url": "https://fkrt.co/MH2VlZ",
-        "label": "🧳 Trolleys"
-      },
-      {
-        "url": "https://fkrt.co/ZHGQtv",
-        "label": "👟 Shoes"
-      },
-      {
-        "url": "https://fkrt.co/OAKduM",
-        "label": "👔 Men’s Shirts"
-      },
-      {
-        "url": "https://fkrt.co/xSq26I",
-        "label": "👚 Women’s Top Wear"
-      },
-      {
-        "url": "",
-        "label": "💥 Hurry! Limited-Time Offers Only"
-      }
-    ],
-    "raw_text": "Flipkart : Upto 85% OFF on Branded Shoes, Trolleys & Clothing 🔥🔥\n\n🧳 Trolleys: https://fkrt.co/MH2VlZ\n👟 Shoes: https://fkrt.co/ZHGQtv\n👔 Men’s Shirts: https://fkrt.co/OAKduM\n👚 Women’s Top Wear: https://fkrt.co/xSq26I\n\n💥 Hurry! Limited-Time Offers Only",
-    "final_url": "https://fkrt.co/MH2VlZ",
-    "local_image": "assets/images/tgmsg_11277.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-08T11:34:05+00:00",
-    "buy_link": "https://fkrt.co/MH2VlZ",
-    "date_iso": "2025-10-08T11:34:05+00:00"
   }
 ]
