@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11440",
+    "title": "Red Tape Shoes at Up to 88% Discount",
+    "description": "Ajio | Red Tape Shoes at Upto 88% Discount https://ajiio.co/sK4QqI",
+    "shortlink": "https://ajiio.co/sK4QqI",
+    "urls": [
+      {
+        "url": "https://ajiio.co/sK4QqI",
+        "label": "Red Tape Shoes at Upto 88% Discount"
+      }
+    ],
+    "raw_text": "Ajio | Red Tape Shoes at Upto 88% Discount\n\nhttps://ajiio.co/sK4QqI",
+    "final_url": "https://ajiio.co/sK4QqI",
+    "local_image": "assets/images/tgmsg_11440.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-09T05:16:49+00:00",
+    "buy_link": "https://ajiio.co/sK4QqI",
+    "date_iso": "2025-10-09T05:16:49+00:00"
+  },
+  {
     "id": "msg11438",
     "title": "Up to 74% Off on Co",
     "description": "Ajio | Upto 74% Off on Co-Ord Sets Starting @ just ₹315 Link : https://ajiio.co/mS0Iqa",
@@ -9218,33 +9238,5 @@
     "date_obj": "2025-10-07T06:25:18+00:00",
     "buy_link": "https://extp.in/KSNiVe",
     "date_iso": "2025-10-07T06:25:18+00:00"
-  },
-  {
-    "id": "msg11035",
-    "title": "Oversized Tshirts Starts @140",
-    "description": "AJIO : Oversized Tshirts Starts @140 Men’s : https://ajiio.in/Aikuc9y Women : https://ajiio.in/6O9hSU1",
-    "shortlink": "https://ajiio.in/Aikuc9y",
-    "urls": [
-      {
-        "url": "",
-        "label": "Oversized Tshirts Starts @140"
-      },
-      {
-        "url": "https://ajiio.in/Aikuc9y",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.in/6O9hSU1",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "AJIO : Oversized Tshirts Starts @140\n\nMen’s : https://ajiio.in/Aikuc9y\n\nWomen : https://ajiio.in/6O9hSU1",
-    "final_url": "https://ajiio.in/Aikuc9y",
-    "local_image": "assets/images/tgmsg_11035.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-07T06:25:51+00:00",
-    "buy_link": "https://ajiio.in/Aikuc9y",
-    "date_iso": "2025-10-07T06:25:51+00:00"
   }
 ]
