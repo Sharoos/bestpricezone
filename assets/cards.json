@@ -1,5 +1,109 @@
 [
   {
+    "id": "msg11788",
+    "title": "Men's Trousers Up to 90% Off",
+    "description": "Flipkart  Men's Trousers Up to 90% Off https://fkrt.co/geAdRJ",
+    "shortlink": "https://fkrt.co/geAdRJ",
+    "urls": [
+      {
+        "url": "https://fkrt.co/geAdRJ",
+        "label": "Flipkart Men's Trousers Up to 90% Off"
+      }
+    ],
+    "raw_text": "Flipkart  Men's Trousers Up to 90% Off  \n\nhttps://fkrt.co/geAdRJ",
+    "final_url": "https://fkrt.co/geAdRJ",
+    "local_image": "assets/images/tgmsg_11788.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-09T20:22:03+00:00",
+    "buy_link": "https://fkrt.co/geAdRJ",
+    "date_iso": "2025-10-09T20:22:03+00:00"
+  },
+  {
+    "id": "msg11790",
+    "title": "Flat ₹1,500 off with SBI Credit Card",
+    "description": "Flipkart : AirPods Pro (2nd gen) for ₹14,499 (Effectively) https://fkrt.co/AQl6mp Flat ₹1,500 off with SBI Credit Card",
+    "shortlink": "https://fkrt.co/AQl6mp",
+    "urls": [
+      {
+        "url": "https://fkrt.co/AQl6mp",
+        "label": "AirPods Pro (2nd gen) for ₹14,499 (Effectively)"
+      },
+      {
+        "url": "",
+        "label": "Flat ₹1,500 off with SBI Credit Card"
+      }
+    ],
+    "raw_text": "Flipkart : AirPods Pro (2nd gen) for ₹14,499 (Effectively) \n\nhttps://fkrt.co/AQl6mp\n\nFlat ₹1,500 off with SBI Credit Card",
+    "final_url": "https://fkrt.co/AQl6mp",
+    "local_image": "assets/images/tgmsg_11790.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-09T20:26:45+00:00",
+    "buy_link": "https://fkrt.co/AQl6mp",
+    "date_iso": "2025-10-09T20:26:45+00:00"
+  },
+  {
+    "id": "msg11793",
+    "title": "Deal Price 49999 Rs. ✅",
+    "description": "Flipkart : iFFALCON by Tcl U75 189 cm (75 inch) Ultra HD (4K) LED Smart Google T.. Deal Price:49999 Rs. ✅",
+    "shortlink": "https://fkrt.co/AQmCGc",
+    "urls": [
+      {
+        "url": "",
+        "label": "iFFALCON by Tcl U75 189 cm (75 inch) Ultra HD (4K) LED Smart Google T"
+      },
+      {
+        "url": "https://fkrt.co/AQmCGc",
+        "label": "49999 Rs. ✅"
+      }
+    ],
+    "raw_text": "Flipkart : iFFALCON by Tcl U75 189 cm (75 inch) Ultra HD (4K) LED Smart Google T.. \n\nDeal Price:49999 Rs. ✅ \n\nhttps://fkrt.co/AQmCGc",
+    "final_url": "https://fkrt.co/AQmCGc",
+    "local_image": "assets/images/tgmsg_11793.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-09T20:29:55+00:00",
+    "buy_link": "https://fkrt.co/AQmCGc",
+    "date_iso": "2025-10-09T20:29:55+00:00"
+  },
+  {
+    "id": "msg11794",
+    "title": "Lotoo Up to 80% Off On Branded Shampoo",
+    "description": "Flipkart Lotoo | Upto 80% Off On Branded Shampoos. DOVE : Tresemme : L'Oreal Paris : More :",
+    "shortlink": "https://fkrt.co/BPAB7R",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On Branded Shampoos"
+      },
+      {
+        "url": "https://fkrt.co/BPAB7R",
+        "label": "DOVE"
+      },
+      {
+        "url": "https://fkrt.co/1bbGMH",
+        "label": "Tresemme"
+      },
+      {
+        "url": "https://fkrt.co/iQzqP2",
+        "label": "L'Oreal Paris"
+      },
+      {
+        "url": "https://fkrt.co/w7tf5K",
+        "label": "More"
+      }
+    ],
+    "raw_text": "Flipkart Lotoo | Upto 80% Off On Branded Shampoos.\n\nDOVE : https://fkrt.co/BPAB7R\nTresemme : https://fkrt.co/1bbGMH\nL'Oreal Paris : https://fkrt.co/iQzqP2\n\nMore : https://fkrt.co/w7tf5K",
+    "final_url": "https://fkrt.co/BPAB7R",
+    "local_image": "assets/images/tgmsg_11794.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-09T20:33:14+00:00",
+    "buy_link": "https://fkrt.co/BPAB7R",
+    "date_iso": "2025-10-09T20:33:14+00:00"
+  },
+  {
     "id": "msg11761",
     "title": "CMF By Nothing Buds 2a, 42 dB ANC Only at Rs. 1529 + Bank offers!!",
     "description": "Myntra | 🔥🔥CMF Buds Limited Time Crazyyy Offer🔥🔥  Use Coupon Code:CMF10 CMF By Nothing Buds 2 Plus Only at Rs. 2339 + Bank offers!! Use Coupon Code:CMF10",
@@ -8750,137 +8854,5 @@
     "date_obj": "2025-10-08T10:26:30+00:00",
     "buy_link": "https://fkrt.co/0B4IbZ",
     "date_iso": "2025-10-08T10:26:30+00:00"
-  },
-  {
-    "id": "msg11269",
-    "title": "71% off Everyuth Naturals Face Wash",
-    "description": "71% off : Everyuth Naturals Face Wash - Pack of 2 At 131 🔥🔥 👉 ✨Walnut Scrub At 55% off :",
-    "shortlink": "https://fkrt.co/kMmkvW",
-    "urls": [
-      {
-        "url": "https://fkrt.co/kMmkvW",
-        "label": "71% off : Everyuth Naturals Face Wash - Pack of 2 At 131 🔥🔥"
-      },
-      {
-        "url": "https://fkrt.co/Y42thh",
-        "label": "✨Walnut Scrub At 55% off"
-      }
-    ],
-    "raw_text": "71% off : Everyuth Naturals Face Wash - Pack of 2 At 131  🔥🔥\n\n👉 https://fkrt.co/kMmkvW \n\n✨Walnut Scrub At 55% off : https://fkrt.co/Y42thh",
-    "final_url": "https://fkrt.co/kMmkvW",
-    "local_image": "assets/images/tgmsg_11269.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-08T10:26:38+00:00",
-    "buy_link": "https://fkrt.co/kMmkvW",
-    "date_iso": "2025-10-08T10:26:38+00:00"
-  },
-  {
-    "id": "msg11270",
-    "title": "🎁 Spend ₹2,000 & Get ₹2,000–₹5,000 Vouche",
-    "description": "🔥 SBM Credilio FD Credit Card – No Credit Score? No Problem! 💳 Lifetime Free | 💰 Instant Credit via FD 🎬 BookMyShow: Buy 1 Get 1 Free! 🔗Apply Here 👉 Benefits: ✅ 5x Rewards on UPI/POS ⛽ 10x Rewards on Fuel rs 💸 90% of FD…",
-    "shortlink": "https://extp.in/YjegN1",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 SBM Credilio FD Credit Card – No Credit Score? No Problem!"
-      },
-      {
-        "url": "",
-        "label": "💳 Lifetime Free | 💰 Instant Credit via FD"
-      },
-      {
-        "url": "https://extp.in/YjegN1",
-        "label": "🔗Apply Here 👉"
-      },
-      {
-        "url": "",
-        "label": "✅ 5x Rewards on UPI/POS"
-      },
-      {
-        "url": "",
-        "label": "⛽ 10x Rewards on Fuel"
-      },
-      {
-        "url": "",
-        "label": "🎁 Spend ₹2,000 & Get ₹2,000–₹5,000 Vouchers"
-      },
-      {
-        "url": "",
-        "label": "💸 90% of FD = Credit Limit"
-      },
-      {
-        "url": "",
-        "label": "Smart. Safe. Rewarding"
-      }
-    ],
-    "raw_text": "🔥 SBM Credilio FD Credit Card – No Credit Score? No Problem!\n\n💳 Lifetime Free | 💰 Instant Credit via FD\n\n🎬 BookMyShow: Buy 1 Get 1 Free!\n\n🔗Apply Here 👉 https://extp.in/YjegN1\n\nBenefits: \n✅ 5x Rewards on UPI/POS\n⛽ 10x Rewards on Fuel\n🎁 Spend ₹2,000 & Get ₹2,000–₹5,000 Vouchers\n💸 90% of FD = Credit Limit\n\nSmart. Safe. Rewarding.",
-    "final_url": "https://extp.in/YjegN1",
-    "local_image": "assets/images/tgmsg_11270.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-10-08T10:26:57+00:00",
-    "buy_link": "https://extp.in/YjegN1",
-    "date_iso": "2025-10-08T10:26:57+00:00"
-  },
-  {
-    "id": "msg11264",
-    "title": "Up to 80% Off on Aristocrat Trolley Luggage + Bank offe",
-    "description": "Flipkart Deal 🔥 Upto 80% Off on Aristocrat Trolley Luggage + Bank offers 🧳 Pack of 1 👉 🧳 Pack of 2 👉 🧳 Pack of 3 👉 Hurry — Limited Stock!",
-    "shortlink": "https://fkrt.co/s6swJQ",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart Deal 🔥"
-      },
-      {
-        "url": "",
-        "label": "Upto 80% Off on Aristocrat Trolley Luggage + Bank offers"
-      },
-      {
-        "url": "https://fkrt.co/s6swJQ",
-        "label": "🧳 Pack of 1 👉"
-      },
-      {
-        "url": "https://fkrt.co/XOrdGQ",
-        "label": "🧳 Pack of 2 👉"
-      },
-      {
-        "url": "https://fkrt.co/DAZeVO",
-        "label": "🧳 Pack of 3 👉"
-      },
-      {
-        "url": "",
-        "label": "Hurry — Limited Stock!"
-      }
-    ],
-    "raw_text": "Flipkart  Deal 🔥\n\nUpto 80% Off on Aristocrat Trolley Luggage + Bank offers \n\n🧳 Pack of 1 👉 https://fkrt.co/s6swJQ\n🧳 Pack of 2 👉 https://fkrt.co/XOrdGQ\n🧳 Pack of 3 👉 https://fkrt.co/DAZeVO\n\nHurry — Limited Stock!",
-    "final_url": "https://fkrt.co/s6swJQ",
-    "local_image": "assets/images/tgmsg_11264.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-08T09:54:21+00:00",
-    "buy_link": "https://fkrt.co/s6swJQ",
-    "date_iso": "2025-10-08T09:54:21+00:00"
-  },
-  {
-    "id": "msg11265",
-    "title": "DABUR Dazzl Disinfectant Floor Cleane",
-    "description": "Amazon | DABUR Dazzl Disinfectant Floor Cleaner - 5L @ 349. 👉https://www.amazon.in/dp/B08263YSF7?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B08263YSF7?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B08263YSF7?psc=1&tag=bestpricezo0f-21",
-        "label": "DABUR Dazzl Disinfectant Floor Cleaner - 5L @ 349"
-      }
-    ],
-    "raw_text": "Amazon | DABUR Dazzl Disinfectant Floor Cleaner - 5L @ 349.\n\n👉https://www.amazon.in/dp/B08263YSF7?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B08263YSF7?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_11265.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-08T10:01:16+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08263YSF7?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-08T10:01:16+00:00"
   }
 ]
