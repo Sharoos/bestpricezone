@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg11494",
+    "title": "Up to 80% Off On USPA Clothing",
+    "description": "AJIO  Upto 80% Off On USPA Clothing. Men’s : https://ajiio.co/axMvbX Women’s : https://ajiio.co/FD5pJq Boys : https://ajiio.co/qnqyrO Girls : https://ajiio.co/7c0kcG",
+    "shortlink": "https://ajiio.co/axMvbX",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 80% Off On USPA Clothing"
+      },
+      {
+        "url": "https://ajiio.co/axMvbX",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/FD5pJq",
+        "label": "Women’s"
+      },
+      {
+        "url": "https://ajiio.co/qnqyrO",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/7c0kcG",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "AJIO  Upto 80% Off On USPA Clothing. \n\nMen’s : https://ajiio.co/axMvbX\nWomen’s : https://ajiio.co/FD5pJq\nBoys : https://ajiio.co/qnqyrO\nGirls : https://ajiio.co/7c0kcG",
+    "final_url": "https://ajiio.co/axMvbX",
+    "local_image": "assets/images/tgmsg_11494.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-09T11:45:15+00:00",
+    "buy_link": "https://ajiio.co/axMvbX",
+    "date_iso": "2025-10-09T11:45:15+00:00"
+  },
+  {
     "id": "msg11492",
     "title": "🛒 Deal Price From ₹269",
     "description": "Myntra | Kook N Keech Trackpants 🔥🔥 🛒 Deal Price: From ₹269 Men: https://myntr.in/YKnMGA Women: https://myntr.in/y50OHG",
@@ -9210,65 +9246,5 @@
     "date_obj": "2025-10-07T14:18:46+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F4DDMZXF?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-07T14:18:46+00:00"
-  },
-  {
-    "id": "msg11096",
-    "title": "💥 Up to 80% OFF on Daily Essentials + Extra ₹250 OFF on ₹2499+ Orders 😱",
-    "description": "🛒 Flipkart Grocery Mega Sale! 🛍 💥 Upto 80% OFF on Daily Essentials + Extra ₹250 OFF on ₹2499+ Orders 😱 🥳 Top Deals👇 🛢 Oil: 🌾 Atta: 🍚 Rice: 🍬 Sugar: 🍵 Tea: ☕️ Coffee: 🔥 Many items at price! 📍 Selected Pincodes Only —…",
-    "shortlink": "https://fkrt.co/cvM85G",
-    "urls": [
-      {
-        "url": "",
-        "label": "🛒 Flipkart Grocery Mega Sale! 🛍"
-      },
-      {
-        "url": "",
-        "label": "💥 Upto 80% OFF on Daily Essentials + Extra ₹250 OFF on ₹2499+ Orders 😱"
-      },
-      {
-        "url": "",
-        "label": "🥳 Top Deals👇"
-      },
-      {
-        "url": "https://fkrt.co/cvM85G",
-        "label": "🛢 Oil"
-      },
-      {
-        "url": "https://fkrt.co/uLenj1",
-        "label": "🌾 Atta"
-      },
-      {
-        "url": "https://fkrt.co/MnYOyQ",
-        "label": "🍚 Rice"
-      },
-      {
-        "url": "https://fkrt.co/JFjYQY",
-        "label": "🍬 Sugar"
-      },
-      {
-        "url": "https://fkrt.co/LeVH6D",
-        "label": "🍵 Tea"
-      },
-      {
-        "url": "https://fkrt.co/lPJHsH",
-        "label": "☕️ Coffee"
-      },
-      {
-        "url": "",
-        "label": "🔥 Many items at price!"
-      },
-      {
-        "url": "",
-        "label": "📍 Selected Pincodes Only — Check Fast!"
-      }
-    ],
-    "raw_text": "🛒 Flipkart Grocery Mega Sale! 🛍\n\n💥 Upto 80% OFF on Daily Essentials + Extra ₹250 OFF on ₹2499+ Orders 😱\n\n🥳 Top  Deals👇\n\n🛢 Oil: https://fkrt.co/cvM85G\n\n🌾 Atta: https://fkrt.co/uLenj1\n\n🍚 Rice: https://fkrt.co/MnYOyQ\n\n🍬 Sugar: https://fkrt.co/JFjYQY\n\n🍵 Tea: https://fkrt.co/LeVH6D\n\n☕️ Coffee: https://fkrt.co/lPJHsH\n\n🔥 Many items at  price!\n\n📍 Selected Pincodes Only — Check Fast!",
-    "final_url": "https://fkrt.co/cvM85G",
-    "local_image": "assets/images/tgmsg_11096.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-07T14:21:52+00:00",
-    "buy_link": "https://fkrt.co/cvM85G",
-    "date_iso": "2025-10-07T14:21:52+00:00"
   }
 ]
