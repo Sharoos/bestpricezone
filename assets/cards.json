@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg11492",
+    "title": "🛒 Deal Price From ₹269",
+    "description": "Myntra | Kook N Keech Trackpants 🔥🔥 🛒 Deal Price: From ₹269 Men: https://myntr.in/YKnMGA Women: https://myntr.in/y50OHG",
+    "shortlink": "https://myntr.in/YKnMGA",
+    "urls": [
+      {
+        "url": "",
+        "label": "Kook N Keech Trackpants 🔥🔥"
+      },
+      {
+        "url": "",
+        "label": "🛒 Deal Price: From ₹269"
+      },
+      {
+        "url": "https://myntr.in/YKnMGA",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/y50OHG",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | Kook N Keech Trackpants 🔥🔥\n\n🛒 Deal Price: From ₹269\n\nMen: https://myntr.in/YKnMGA\nWomen: https://myntr.in/y50OHG",
+    "final_url": "https://myntr.in/YKnMGA",
+    "local_image": "assets/images/tgmsg_11492.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-09T11:32:33+00:00",
+    "buy_link": "https://myntr.in/YKnMGA",
+    "date_iso": "2025-10-09T11:32:33+00:00"
+  },
+  {
     "id": "msg11489",
     "title": "🛒 Deal Price From ₹289",
     "description": "Flipkart | 🎧 Earbud Deals 🛒 Deal Price: From ₹289 👉https://fkrt.co/5qCP1g",
@@ -9238,45 +9270,5 @@
     "date_obj": "2025-10-07T14:21:52+00:00",
     "buy_link": "https://fkrt.co/cvM85G",
     "date_iso": "2025-10-07T14:21:52+00:00"
-  },
-  {
-    "id": "msg11090",
-    "title": "Up to 85% OFF on Branded Shoes, Trolleys & Clothing 🔥🔥",
-    "description": "Flipkart : Upto 85% OFF on Branded Shoes, Trolleys & Clothing 🔥🔥 🧳 Trolleys: 👟 Shoes: 👔 Men’s Shirts: 👚 Women’s Top Wear: 💥 Hurry! Limited-Time Offers Only",
-    "shortlink": "https://fkrt.co/mxWvb1",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% OFF on Branded Shoes, Trolleys & Clothing 🔥🔥"
-      },
-      {
-        "url": "https://fkrt.co/mxWvb1",
-        "label": "🧳 Trolleys"
-      },
-      {
-        "url": "https://fkrt.co/11Nmb4",
-        "label": "👟 Shoes"
-      },
-      {
-        "url": "https://fkrt.co/3lhFkr",
-        "label": "👔 Men’s Shirts"
-      },
-      {
-        "url": "https://fkrt.co/YMNZB8",
-        "label": "👚 Women’s Top Wear"
-      },
-      {
-        "url": "",
-        "label": "💥 Hurry! Limited-Time Offers Only"
-      }
-    ],
-    "raw_text": "Flipkart : Upto 85% OFF on Branded Shoes, Trolleys & Clothing 🔥🔥\n\n🧳 Trolleys: https://fkrt.co/mxWvb1\n👟 Shoes: https://fkrt.co/11Nmb4\n👔 Men’s Shirts: https://fkrt.co/3lhFkr\n👚 Women’s Top Wear: https://fkrt.co/YMNZB8\n\n💥 Hurry! Limited-Time Offers Only",
-    "final_url": "https://fkrt.co/mxWvb1",
-    "local_image": "assets/images/tgmsg_11090.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-07T13:57:56+00:00",
-    "buy_link": "https://fkrt.co/mxWvb1",
-    "date_iso": "2025-10-07T13:57:56+00:00"
   }
 ]
