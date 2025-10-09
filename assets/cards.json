@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg11546",
+    "title": "Woolen Blanket At 349",
+    "description": "Woolen Blanket At 349. https://www.amazon.in/dp/B08R68MDBR?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B08R68MDBR?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B08R68MDBR?th=1&tag=bestpricezo0f-21",
+        "label": "Woolen Blanket At 349"
+      }
+    ],
+    "raw_text": "Woolen Blanket At 349.\n\nhttps://www.amazon.in/dp/B08R68MDBR?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B08R68MDBR?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_11546.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-09T16:44:58+00:00",
+    "buy_link": "https://www.amazon.in/dp/B08R68MDBR?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-09T16:44:58+00:00"
+  },
+  {
+    "id": "msg11548",
+    "title": "Up to 85% Off On Spykar Clothing",
+    "description": "Ajio Upto 85% Off On Spykar Clothing. Men's : Women's : Upto 70% Off On Puma Clothing Men's : Women's :",
+    "shortlink": "https://ajiio.co/mS8cuo",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Upto 85% Off On Spykar Clothing"
+      },
+      {
+        "url": "https://ajiio.co/mS8cuo",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/DsskTf",
+        "label": "Women's"
+      },
+      {
+        "url": "",
+        "label": "Upto 70% Off On Puma Clothing"
+      },
+      {
+        "url": "https://ajiio.co/IwnTyX",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/HvjBfR",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Ajio  Upto 85% Off On Spykar Clothing.\n\nMen's : https://ajiio.co/mS8cuo \nWomen's : https://ajiio.co/DsskTf \n\nUpto 70% Off On Puma Clothing \n\nMen's : https://ajiio.co/IwnTyX \nWomen's : https://ajiio.co/HvjBfR",
+    "final_url": "https://ajiio.co/mS8cuo",
+    "local_image": "assets/images/tgmsg_11548.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-09T16:46:56+00:00",
+    "buy_link": "https://ajiio.co/mS8cuo",
+    "date_iso": "2025-10-09T16:46:56+00:00"
+  },
+  {
     "id": "msg11541",
     "title": "Up to 93% Off On High Star Clothing",
     "description": "Amazon | Upto 93% Off On High Star Clothing…",
@@ -9322,49 +9382,5 @@
     "date_obj": "2025-10-07T17:34:23+00:00",
     "buy_link": "https://extp.in/RiurWd",
     "date_iso": "2025-10-07T17:34:23+00:00"
-  },
-  {
-    "id": "msg11137",
-    "title": "71% off Everyuth Naturals Face Wash",
-    "description": "71% off : Everyuth Naturals Face Wash - Pack of 2 At 131 🔥🔥 👉 ✨Walnut Scrub At 55% off :",
-    "shortlink": "https://fkrt.co/ziyykZ",
-    "urls": [
-      {
-        "url": "https://fkrt.co/ziyykZ",
-        "label": "71% off : Everyuth Naturals Face Wash - Pack of 2 At 131 🔥🔥"
-      },
-      {
-        "url": "https://fkrt.co/25BraQ",
-        "label": "✨Walnut Scrub At 55% off"
-      }
-    ],
-    "raw_text": "71% off : Everyuth Naturals Face Wash - Pack of 2 At 131  🔥🔥\n\n👉 https://fkrt.co/ziyykZ \n\n✨Walnut Scrub At 55% off : https://fkrt.co/25BraQ",
-    "final_url": "https://fkrt.co/ziyykZ",
-    "local_image": "assets/images/tgmsg_11137.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-07T17:35:17+00:00",
-    "buy_link": "https://fkrt.co/ziyykZ",
-    "date_iso": "2025-10-07T17:35:17+00:00"
-  },
-  {
-    "id": "msg11138",
-    "title": "71% off Everyuth Naturals Rejuvenating Flora Body Lotion",
-    "description": "71% off : Everyuth Naturals Rejuvenating Flora Body Lotion - 500 ml At 142 🤜 Link:",
-    "shortlink": "https://fkrt.co/2pg6Mv",
-    "urls": [
-      {
-        "url": "https://fkrt.co/2pg6Mv",
-        "label": "71% off : Everyuth Naturals Rejuvenating Flora Body Lotion - 500 ml At 142"
-      }
-    ],
-    "raw_text": "71% off : Everyuth Naturals Rejuvenating Flora Body Lotion - 500 ml At 142\n\n🤜 Link: https://fkrt.co/2pg6Mv",
-    "final_url": "https://fkrt.co/2pg6Mv",
-    "local_image": "assets/images/tgmsg_11138.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-07T17:35:35+00:00",
-    "buy_link": "https://fkrt.co/2pg6Mv",
-    "date_iso": "2025-10-07T17:35:35+00:00"
   }
 ]
