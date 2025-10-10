@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg12107",
+    "title": "Lifelong 3.3L Cast Iron Kadhai With Glass Lid & Wooden Spatula @959",
+    "description": "Amazon | Lifelong 3.3L Cast Iron Kadhai With Glass Lid & Wooden Spatula @959. https://www.amazon.in/dp/B0DDPCQ48X?th=1&tag=bestpricezo0f-21 Effective Price ₹95/Pc :…",
+    "shortlink": "https://www.amazon.in/dp/B0DDPCQ48X?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DDPCQ48X?th=1&tag=bestpricezo0f-21",
+        "label": "Lifelong 3.3L Cast Iron Kadhai With Glass Lid & Wooden Spatula @959"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0CVTNSC59?th=1&tag=bestpricezo0f-21",
+        "label": "Effective Price ₹95/Pc"
+      }
+    ],
+    "raw_text": "Amazon | Lifelong 3.3L Cast Iron Kadhai With Glass Lid & Wooden Spatula @959. \n\nhttps://www.amazon.in/dp/B0DDPCQ48X?th=1&tag=bestpricezo0f-21\n\nEffective Price ₹95/Pc : https://www.amazon.in/dp/B0CVTNSC59?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DDPCQ48X?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12107.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-10T19:53:08+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DDPCQ48X?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-10T19:53:08+00:00"
+  },
+  {
     "id": "msg12105",
     "title": "Lowest Price On Eveready 9W Emergency Bulb (Pack Of 4) @766",
     "description": "Flipkart : Lowest Price On Eveready 9W Emergency Bulb (Pack Of 4) @766. https://fkrt.co/fS5peg",
@@ -8442,41 +8466,5 @@
     "date_obj": "2025-10-09T04:33:55+00:00",
     "buy_link": "https://fkrt.co/DAyjFV",
     "date_iso": "2025-10-09T04:33:55+00:00"
-  },
-  {
-    "id": "msg11432",
-    "title": "Up to 70% Off on U.S Polo Assn. T",
-    "description": "Ajio : Upto 70% Off on U.S Polo Assn. T-Shirts Men's : https://ajiio.co/kbG8Io Women's : https://ajiio.co/btdg1R Boys : https://ajiio.co/fVHExr Girls : https://ajiio.co/YgVjjY",
-    "shortlink": "https://ajiio.co/kbG8Io",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 70% Off on U.S Polo Assn. T-Shirts"
-      },
-      {
-        "url": "https://ajiio.co/kbG8Io",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/btdg1R",
-        "label": "Women's"
-      },
-      {
-        "url": "https://ajiio.co/fVHExr",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/YgVjjY",
-        "label": "Girls"
-      }
-    ],
-    "raw_text": "Ajio : Upto 70% Off on U.S Polo Assn. T-Shirts\n\nMen's : https://ajiio.co/kbG8Io\nWomen's : https://ajiio.co/btdg1R\nBoys : https://ajiio.co/fVHExr\nGirls : https://ajiio.co/YgVjjY",
-    "final_url": "https://ajiio.co/kbG8Io",
-    "local_image": "assets/images/tgmsg_11432.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-09T04:02:11+00:00",
-    "buy_link": "https://ajiio.co/kbG8Io",
-    "date_iso": "2025-10-09T04:02:11+00:00"
   }
 ]
