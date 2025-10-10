@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12111",
+    "title": "Kids Clogs Starts @226",
+    "description": "Flipkart | Kids Clogs Starts @226. https://fkrt.co/8yioMb",
+    "shortlink": "https://fkrt.co/8yioMb",
+    "urls": [
+      {
+        "url": "https://fkrt.co/8yioMb",
+        "label": "Kids Clogs Starts @226"
+      }
+    ],
+    "raw_text": "Flipkart | Kids Clogs Starts @226.\n\nhttps://fkrt.co/8yioMb",
+    "final_url": "https://fkrt.co/8yioMb",
+    "local_image": "assets/images/tgmsg_12111.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-10T20:31:56+00:00",
+    "buy_link": "https://fkrt.co/8yioMb",
+    "date_iso": "2025-10-10T20:31:56+00:00"
+  },
+  {
     "id": "msg12108",
     "title": "Flat 68% Off on Ponds Set of 3 Bright Beauty Facewash with Niacinamide for Glass Skin",
     "description": "Myntra |  - 200 g each: Flat 68% Off on Ponds Set of 3 Bright Miracle Detox Facewash with 10X Power of Charcoal - 200 g each: Flat 65% Off on TRESemme Set of Keratin Smooth Shampoo - 1000 ml & Conditioner - 340 ml: Flat…",
@@ -8430,25 +8450,5 @@
     "date_obj": "2025-10-09T05:41:55+00:00",
     "buy_link": "https://ajiio.co/lFml4Q",
     "date_iso": "2025-10-09T05:41:55+00:00"
-  },
-  {
-    "id": "msg11440",
-    "title": "Red Tape Shoes at Up to 88% Discount",
-    "description": "Ajio | Red Tape Shoes at Upto 88% Discount https://ajiio.co/sK4QqI",
-    "shortlink": "https://ajiio.co/sK4QqI",
-    "urls": [
-      {
-        "url": "https://ajiio.co/sK4QqI",
-        "label": "Red Tape Shoes at Upto 88% Discount"
-      }
-    ],
-    "raw_text": "Ajio | Red Tape Shoes at Upto 88% Discount\n\nhttps://ajiio.co/sK4QqI",
-    "final_url": "https://ajiio.co/sK4QqI",
-    "local_image": "assets/images/tgmsg_11440.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-09T05:16:49+00:00",
-    "buy_link": "https://ajiio.co/sK4QqI",
-    "date_iso": "2025-10-09T05:16:49+00:00"
   }
 ]
