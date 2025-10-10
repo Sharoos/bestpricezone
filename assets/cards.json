@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11819",
+    "title": "Up to 80% Off on Branded Perfumes Starting @₹259🔥🔥🔥🔥",
+    "description": "Myntra | UPTO 80% Off on Branded Perfumes Starting @₹259🔥🔥🔥🔥 🔗🔗Links : https://myntr.in/fJ6pPT",
+    "shortlink": "https://myntr.in/fJ6pPT",
+    "urls": [
+      {
+        "url": "https://myntr.in/fJ6pPT",
+        "label": "UPTO 80% Off on Branded Perfumes Starting @₹259🔥🔥🔥🔥"
+      }
+    ],
+    "raw_text": "Myntra | UPTO 80% Off on Branded Perfumes Starting @₹259🔥🔥🔥🔥 \n \n🔗🔗Links : https://myntr.in/fJ6pPT",
+    "final_url": "https://myntr.in/fJ6pPT",
+    "local_image": "assets/images/tgmsg_11819.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-10T05:49:09+00:00",
+    "buy_link": "https://myntr.in/fJ6pPT",
+    "date_iso": "2025-10-10T05:49:09+00:00"
+  },
+  {
     "id": "msg11818",
     "title": "Up to 60% Off On Head & Shoulder Shampoo",
     "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos. https://fkrt.co/RGMsn4",
@@ -8654,69 +8674,5 @@
     "date_obj": "2025-10-08T13:10:21+00:00",
     "buy_link": "https://fkrt.co/mzo1w0",
     "date_iso": "2025-10-08T13:10:21+00:00"
-  },
-  {
-    "id": "msg11295",
-    "title": "Grocery Diwali Sale Up to 85% Off On Sweets & Snack",
-    "description": "Flipkart Grocery Diwali Sale : Upto 85% Off On Sweets & Snacks. Sweets : Namkeen & Snacks : Biscuits : More Suggestions👇 Atta, Rice & Daal : Oil & Ghee : Noodles & Pasta: Personal Care : Tea & Coffee: Beauty & Grooming…",
-    "shortlink": "https://fktr.in/30jZ3BD",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On Sweets & Snacks"
-      },
-      {
-        "url": "https://fktr.in/30jZ3BD",
-        "label": "Sweets"
-      },
-      {
-        "url": "https://fktr.in/rnyYIBT",
-        "label": "Namkeen & Snacks"
-      },
-      {
-        "url": "https://fktr.in/0ikc245",
-        "label": "Biscuits"
-      },
-      {
-        "url": "",
-        "label": "More Suggestions👇"
-      },
-      {
-        "url": "https://fktr.in/WcZzw03",
-        "label": "Atta, Rice & Daal"
-      },
-      {
-        "url": "https://fktr.in/crexEz4",
-        "label": "Oil & Ghee"
-      },
-      {
-        "url": "https://fktr.in/pfQJwXT",
-        "label": "Noodles & Pasta"
-      },
-      {
-        "url": "https://fktr.in/WOMAHb2",
-        "label": "Personal Care"
-      },
-      {
-        "url": "https://fktr.in/r3hIae8",
-        "label": "Tea & Coffee"
-      },
-      {
-        "url": "https://fktr.in/nWZr8RL",
-        "label": "Beauty & Grooming"
-      },
-      {
-        "url": "https://fktr.in/Mhu1woe",
-        "label": "Household & Cleaning"
-      }
-    ],
-    "raw_text": "Flipkart Grocery Diwali Sale : Upto 85% Off On Sweets & Snacks.\n\nSweets : https://fktr.in/30jZ3BD\nNamkeen & Snacks : https://fktr.in/rnyYIBT\nBiscuits : https://fktr.in/0ikc245\n\nMore Suggestions👇\n\nAtta, Rice & Daal : https://fktr.in/WcZzw03\nOil & Ghee : https://fktr.in/crexEz4\nNoodles & Pasta:  https://fktr.in/pfQJwXT\nPersonal Care : https://fktr.in/WOMAHb2\nTea & Coffee: https://fktr.in/r3hIae8\nBeauty & Grooming : https://fktr.in/nWZr8RL\nHousehold & Cleaning : https://fktr.in/Mhu1woe\n\nNote : Get Flat 5% Cashback with Flipkart Axis & SBI Cards.",
-    "final_url": "https://fktr.in/30jZ3BD",
-    "local_image": "assets/images/tgmsg_11295.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-08T13:20:12+00:00",
-    "buy_link": "https://fktr.in/30jZ3BD",
-    "date_iso": "2025-10-08T13:20:12+00:00"
   }
 ]
