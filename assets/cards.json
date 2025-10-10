@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg11961",
+    "title": "80% Off",
+    "description": "Flipkart |  -Gear Large 31 L Laptop Backpack At Rs.879 👉 Lavie Sport Backpacks Upto 83% Off 👉 French Connection Handbags Upto  👉",
+    "shortlink": "https://fkrt.co/uhacZb",
+    "urls": [
+      {
+        "url": "https://fkrt.co/uhacZb",
+        "label": "80% Off -Gear Large 31 L Laptop Backpack At Rs.879"
+      },
+      {
+        "url": "https://fkrt.co/NmJNa8",
+        "label": "Lavie Sport Backpacks Upto 83% Off"
+      },
+      {
+        "url": "https://fkrt.co/lILIST",
+        "label": "French Connection Handbags Upto 80% Off"
+      }
+    ],
+    "raw_text": "Flipkart | 80% Off -Gear Large 31 L Laptop Backpack At Rs.879\n 👉https://fkrt.co/uhacZb\n\nLavie Sport Backpacks Upto 83% Off\n👉https://fkrt.co/NmJNa8\n\nFrench Connection Handbags Upto 80% Off\n👉https://fkrt.co/lILIST",
+    "final_url": "https://fkrt.co/uhacZb",
+    "local_image": "assets/images/tgmsg_11961.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-10T17:06:33+00:00",
+    "buy_link": "https://fkrt.co/uhacZb",
+    "date_iso": "2025-10-10T17:06:33+00:00"
+  },
+  {
     "id": "msg11960",
     "title": "🔥 Fashion Sale is Live!! 🔥👔",
     "description": "🔥 Flipkart Fashion Sale is Live!! 🔥👔 👕 Men’s T-Shirts – Starts @ ₹94 👉 👔 Formal Shirts – Starts @ ₹207 👉 👕 Casual Shirts – Starts @ ₹172 👉 👖 Men’s Jeans – Starts @ ₹206 👉 🏃 Men’s Track Pants – Starts @ ₹179 👉 👖 Men’s…",
@@ -8378,25 +8406,5 @@
     "date_obj": "2025-10-08T19:33:53+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CW62435R?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-08T19:33:53+00:00"
-  },
-  {
-    "id": "msg11417",
-    "title": "Ambrane Wired in Ear Earphones @149",
-    "description": "Amazon | Ambrane Wired in Ear Earphones @149 https://www.amazon.in/dp/B0BM3LTJMN?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0BM3LTJMN?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BM3LTJMN?th=1&tag=bestpricezo0f-21",
-        "label": "Ambrane Wired in Ear Earphones @149"
-      }
-    ],
-    "raw_text": "Amazon | Ambrane Wired in Ear Earphones @149\n\nhttps://www.amazon.in/dp/B0BM3LTJMN?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BM3LTJMN?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_11417.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-08T19:34:39+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BM3LTJMN?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-08T19:34:39+00:00"
   }
 ]
