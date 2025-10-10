@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg11814",
+    "title": "67% off Dove Daily Shine Shampoo @569",
+    "description": "Flipkart | 67% off : Dove Daily Shine Shampoo @569 https://fkrt.co/4xLYSu",
+    "shortlink": "https://fkrt.co/4xLYSu",
+    "urls": [
+      {
+        "url": "https://fkrt.co/4xLYSu",
+        "label": "67% off : Dove Daily Shine Shampoo @569"
+      }
+    ],
+    "raw_text": "Flipkart | 67% off : Dove Daily Shine Shampoo @569\n\nhttps://fkrt.co/4xLYSu",
+    "final_url": "https://fkrt.co/4xLYSu",
+    "local_image": "assets/images/tgmsg_11814.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-10T04:55:58+00:00",
+    "buy_link": "https://fkrt.co/4xLYSu",
+    "date_iso": "2025-10-10T04:55:58+00:00"
+  },
+  {
+    "id": "msg11816",
+    "title": "Levis Jeans Flat Rs.1099",
+    "description": "Flipkart | Levis Jeans Flat Rs.1099 - https://fkrt.co/pOuA8A",
+    "shortlink": "https://fkrt.co/pOuA8A",
+    "urls": [
+      {
+        "url": "https://fkrt.co/pOuA8A",
+        "label": "Levis Jeans Flat Rs.1099"
+      }
+    ],
+    "raw_text": "Flipkart | Levis Jeans Flat Rs.1099\n\n- https://fkrt.co/pOuA8A",
+    "final_url": "https://fkrt.co/pOuA8A",
+    "local_image": "assets/images/tgmsg_11816.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-10T05:11:05+00:00",
+    "buy_link": "https://fkrt.co/pOuA8A",
+    "date_iso": "2025-10-10T05:11:05+00:00"
+  },
+  {
     "id": "msg11812",
     "title": "Men's Shoes Up to 85% off Starts From Rs.699",
     "description": "Flipkart | Men's Shoes Upto 85% off Starts From Rs.699 👉Link : https://fkrt.co/Wbn10h",
@@ -8678,49 +8718,5 @@
     "date_obj": "2025-10-08T13:21:51+00:00",
     "buy_link": "https://www.amazon.in/dp/B09N9T3RPY?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
     "date_iso": "2025-10-08T13:21:51+00:00"
-  },
-  {
-    "id": "msg11297",
-    "title": "83% Off Men's Straight Kurta @290",
-    "description": "83% Off : Men's Straight Kurta @290 https://fkrt.co/SHABUG",
-    "shortlink": "https://fkrt.co/SHABUG",
-    "urls": [
-      {
-        "url": "https://fkrt.co/SHABUG",
-        "label": "83% Off : Men's Straight Kurta @290"
-      }
-    ],
-    "raw_text": "83% Off : Men's Straight Kurta @290\n\nhttps://fkrt.co/SHABUG",
-    "final_url": "https://fkrt.co/SHABUG",
-    "local_image": "assets/images/tgmsg_11297.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-08T13:30:18+00:00",
-    "buy_link": "https://fkrt.co/SHABUG",
-    "date_iso": "2025-10-08T13:30:18+00:00"
-  },
-  {
-    "id": "msg11298",
-    "title": "FLAT 50% OFF",
-    "description": "Zandu Shilajitprash | Boost Strength & Immunity | Ayurvedic & Natural Coupon Code: ZNSPRASH50",
-    "shortlink": "https://bitli.in/wNppH6I",
-    "urls": [
-      {
-        "url": "https://bitli.in/wNppH6I",
-        "label": "Boost Strength & Immunity | Ayurvedic & Natural"
-      },
-      {
-        "url": "",
-        "label": "FLAT 50% OFF"
-      }
-    ],
-    "raw_text": "Zandu Shilajitprash | Boost Strength & Immunity | Ayurvedic & Natural\n\nCoupon Code: ZNSPRASH50\n\nhttps://bitli.in/wNppH6I\n\nFLAT 50% OFF",
-    "final_url": "https://bitli.in/wNppH6I",
-    "local_image": "assets/images/tgmsg_11298.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-10-08T13:30:44+00:00",
-    "buy_link": "https://bitli.in/wNppH6I",
-    "date_iso": "2025-10-08T13:30:44+00:00"
   }
 ]
