@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg11948",
+    "title": "Up to 80% Off On Mast & Harbour Men's Clothing",
+    "description": "Myntra : Upto 80% Off On Mast & Harbour Men's Clothing. T-Shirt : Shirt : Jeans :",
+    "shortlink": "https://myntr.in/NK3ehr",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On Mast & Harbour Men's Clothing"
+      },
+      {
+        "url": "https://myntr.in/NK3ehr",
+        "label": "T-Shirt"
+      },
+      {
+        "url": "https://myntr.in/S0FzlS",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://myntr.in/fU2vor",
+        "label": "Jeans"
+      }
+    ],
+    "raw_text": "Myntra : Upto 80% Off On Mast & Harbour Men's Clothing.\n\nT-Shirt : https://myntr.in/NK3ehr\nShirt : https://myntr.in/S0FzlS\nJeans : https://myntr.in/fU2vor",
+    "final_url": "https://myntr.in/NK3ehr",
+    "local_image": "assets/images/tgmsg_11948.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-10T16:07:12+00:00",
+    "buy_link": "https://myntr.in/NK3ehr",
+    "date_iso": "2025-10-10T16:07:12+00:00"
+  },
+  {
+    "id": "msg11949",
+    "title": "🔥 Happilo Premium Natural Cashew",
+    "description": "🔥 Loot: Happilo Premium Natural Cashew. Link: https://fktr.in/HOKl2xI",
+    "shortlink": "https://fktr.in/HOKl2xI",
+    "urls": [
+      {
+        "url": "https://fktr.in/HOKl2xI",
+        "label": "🔥 Loot: Happilo Premium Natural Cashew"
+      }
+    ],
+    "raw_text": "🔥 Loot: Happilo Premium Natural Cashew. \n\nLink: https://fktr.in/HOKl2xI",
+    "final_url": "https://fktr.in/HOKl2xI",
+    "local_image": "assets/images/tgmsg_11949.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-10T16:07:26+00:00",
+    "buy_link": "https://fktr.in/HOKl2xI",
+    "date_iso": "2025-10-10T16:07:26+00:00"
+  },
+  {
     "id": "msg11946",
     "title": "Up to 80% Off On Raymond, Park Avenue & Parx Clothing",
     "description": "AJIO Upto 80% Off On Raymond, Park Avenue & Parx Clothing. Shirts : Trousers : T-shirts : Jeans : Women’s : Upto 80% Off On Louis Philippe Clothing. Under Armour : Clarks : ASOS : Zivame & Clovia :",
@@ -8342,45 +8394,5 @@
     "date_obj": "2025-10-08T19:10:46+00:00",
     "buy_link": "https://ajiio.co/n5p9im",
     "date_iso": "2025-10-08T19:10:46+00:00"
-  },
-  {
-    "id": "msg11401",
-    "title": "Mivi Fort H120 Soundbar, 120 Watts @2999",
-    "description": "Amazon | Mivi Fort H120 Soundbar, 120 Watts @2999. https://www.amazon.in/dp/B0DMT42WXV?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DMT42WXV?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DMT42WXV?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Mivi Fort H120 Soundbar, 120 Watts @2999"
-      }
-    ],
-    "raw_text": "Amazon | Mivi Fort H120 Soundbar, 120 Watts @2999.\n\nhttps://www.amazon.in/dp/B0DMT42WXV?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DMT42WXV?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_11401.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-08T19:12:08+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DMT42WXV?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-08T19:12:08+00:00"
-  },
-  {
-    "id": "msg11402",
-    "title": "87% off Van Heusen Men Mid Rise Regular Fit Pants @359",
-    "description": "Amazon | 87% off : Van Heusen Men Mid Rise Regular Fit Pants @359 https://www.amazon.in/dp/B0CZXJR8K6?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CZXJR8K6?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CZXJR8K6?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "87% off : Van Heusen Men Mid Rise Regular Fit Pants @359"
-      }
-    ],
-    "raw_text": "Amazon | 87% off : Van Heusen Men Mid Rise Regular Fit Pants @359\n\nhttps://www.amazon.in/dp/B0CZXJR8K6?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CZXJR8K6?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_11402.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-08T19:12:35+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CZXJR8K6?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-08T19:12:35+00:00"
   }
 ]
