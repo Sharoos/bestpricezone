@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg11851",
+    "title": "JIOMART Flat ₹50 Off On Min ₹149 Orde",
+    "description": "JIOMART LOOT: Flat ₹50 Off On Min ₹149 Order CODE: DIWALI50 📌Shop Now: https://bitli.in/uoxz46w",
+    "shortlink": "https://bitli.in/uoxz46w",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flat ₹50 Off On Min ₹149 Order"
+      },
+      {
+        "url": "",
+        "label": "DIWALI50"
+      },
+      {
+        "url": "https://bitli.in/uoxz46w",
+        "label": "📌Shop Now"
+      }
+    ],
+    "raw_text": "JIOMART LOOT: Flat ₹50 Off On Min ₹149 Order \n\nCODE: DIWALI50\n\n📌Shop Now: https://bitli.in/uoxz46w",
+    "final_url": "https://bitli.in/uoxz46w",
+    "local_image": "assets/images/tgmsg_11851.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-10-10T08:45:14+00:00",
+    "buy_link": "https://bitli.in/uoxz46w",
+    "date_iso": "2025-10-10T08:45:14+00:00"
+  },
+  {
+    "id": "msg11853",
+    "title": "🛒 Deal Price ₹190 + SC",
+    "description": "Flipkart | 🎧 Magnetic Neckband Deals 🛒 Deal Price: ₹190 + SC 👉https://fkrt.co/emIr4h",
+    "shortlink": "https://fkrt.co/emIr4h",
+    "urls": [
+      {
+        "url": "",
+        "label": "🎧 Magnetic Neckband Deals"
+      },
+      {
+        "url": "https://fkrt.co/emIr4h",
+        "label": "🛒 Deal Price: ₹190 + SC"
+      }
+    ],
+    "raw_text": "Flipkart | 🎧 Magnetic Neckband Deals\n\n🛒 Deal Price: ₹190 + SC\n\n👉https://fkrt.co/emIr4h",
+    "final_url": "https://fkrt.co/emIr4h",
+    "local_image": "assets/images/tgmsg_11853.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-10T08:50:05+00:00",
+    "buy_link": "https://fkrt.co/emIr4h",
+    "date_iso": "2025-10-10T08:50:05+00:00"
+  },
+  {
     "id": "msg11846",
     "title": "Up to 90% Off on Furniture Deal",
     "description": "Flipkart | Upto 90% Off on Furniture Deals 👉 Extra 20% SuperCoins Cashback on Every Purchase",
@@ -8618,113 +8670,5 @@
     "date_obj": "2025-10-08T16:33:47+00:00",
     "buy_link": "https://myntr.in/UncaNj",
     "date_iso": "2025-10-08T16:33:47+00:00"
-  },
-  {
-    "id": "msg11328",
-    "title": "Up to 70% Off On Premium Brands Clothing + Extra 10% Super Cash",
-    "description": "AJIO Upto 70% Off On Premium Brands Clothing + Extra 10% Super Cash. 70% Off On GAS : Men : Women : Upto 68% Off On SUPERDRY : Men : Women : Min. 50% Off On GAP : Women : Men : Boys : Girls : Upto 65% Off On Calvin…",
-    "shortlink": "https://ajiio.co/h3zGvZ",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 70% Off On Premium Brands Clothing + Extra 10% Super Cash"
-      },
-      {
-        "url": "https://ajiio.co/h3zGvZ",
-        "label": "70% Off On GAS"
-      },
-      {
-        "url": "https://ajiio.co/EuG7it",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/KWlRt5",
-        "label": "Upto 68% Off On SUPERDRY"
-      },
-      {
-        "url": "https://ajiio.co/w4JvlN",
-        "label": "Women"
-      },
-      {
-        "url": "",
-        "label": "Min. 50% Off On GAP"
-      },
-      {
-        "url": "https://ajiio.co/0tTCGo",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/cbuZUp",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.co/ouU2zA",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/tU9VD9",
-        "label": "Girls"
-      },
-      {
-        "url": "https://ajiio.co/9FBbOF",
-        "label": "Upto 65% Off On Calvin Klein"
-      },
-      {
-        "url": "https://ajiio.co/bTmrpT",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/ndriAx",
-        "label": "60% Off On Tommy Hilfiger"
-      },
-      {
-        "url": "https://ajiio.co/Si6Vu0",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/gG81WQ",
-        "label": "55% Off On Armani Exchange"
-      },
-      {
-        "url": "https://ajiio.co/vaIXzs",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "AJIO  Upto 70% Off On Premium Brands Clothing + Extra 10% Super Cash.\n\n70% Off On GAS :\nMen : https://ajiio.co/h3zGvZ\nWomen : https://ajiio.co/EuG7it\n\nUpto 68% Off On SUPERDRY :\nMen : https://ajiio.co/KWlRt5\nWomen : https://ajiio.co/w4JvlN\n\nMin. 50% Off On GAP :\nWomen : https://ajiio.co/0tTCGo\nMen : https://ajiio.co/cbuZUp\nBoys : https://ajiio.co/ouU2zA\nGirls : https://ajiio.co/tU9VD9\n\nUpto 65% Off On Calvin Klein : \nMen : https://ajiio.co/9FBbOF\nWomen : https://ajiio.co/bTmrpT\n\n60% Off On Tommy Hilfiger : \nMen : https://ajiio.co/ndriAx\nWomen : https://ajiio.co/Si6Vu0\n\n55% Off On Armani Exchange :\nMen : https://ajiio.co/gG81WQ\nWomen : https://ajiio.co/vaIXzs",
-    "final_url": "https://ajiio.co/h3zGvZ",
-    "local_image": "assets/images/tgmsg_11328.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-08T15:51:37+00:00",
-    "buy_link": "https://ajiio.co/h3zGvZ",
-    "date_iso": "2025-10-08T15:51:37+00:00"
-  },
-  {
-    "id": "msg11329",
-    "title": "Up to 90% Off On Women's Jewellery 💥",
-    "description": "Myntra : Upto 90% Off On Women's Jewellery 💥 Jewellery Set : https://myntr.in/3nf1tq Earrings : https://myntr.in/nyoWPW",
-    "shortlink": "https://myntr.in/3nf1tq",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 90% Off On Women's Jewellery 💥"
-      },
-      {
-        "url": "https://myntr.in/3nf1tq",
-        "label": "Jewellery Set"
-      },
-      {
-        "url": "https://myntr.in/nyoWPW",
-        "label": "Earrings"
-      }
-    ],
-    "raw_text": "Myntra : Upto 90% Off On Women's Jewellery 💥\n\nJewellery Set : https://myntr.in/3nf1tq\n\nEarrings : https://myntr.in/nyoWPW",
-    "final_url": "https://myntr.in/3nf1tq",
-    "local_image": "assets/images/tgmsg_11329.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-08T16:04:04+00:00",
-    "buy_link": "https://myntr.in/3nf1tq",
-    "date_iso": "2025-10-08T16:04:04+00:00"
   }
 ]
