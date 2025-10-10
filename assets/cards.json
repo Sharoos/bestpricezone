@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11809",
+    "title": "boAt 10000 mAh 22.5 W Power Bank Starts @699",
+    "description": "Flipkart | boAt 10000 mAh 22.5 W Power Bank Starts @699. https://fkrt.co/WRE4SA",
+    "shortlink": "https://fkrt.co/WRE4SA",
+    "urls": [
+      {
+        "url": "https://fkrt.co/WRE4SA",
+        "label": "boAt 10000 mAh 22.5 W Power Bank Starts @699"
+      }
+    ],
+    "raw_text": "Flipkart | boAt 10000 mAh 22.5 W Power Bank Starts @699.\n\nhttps://fkrt.co/WRE4SA",
+    "final_url": "https://fkrt.co/WRE4SA",
+    "local_image": "assets/images/tgmsg_11809.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-10T03:45:23+00:00",
+    "buy_link": "https://fkrt.co/WRE4SA",
+    "date_iso": "2025-10-10T03:45:23+00:00"
+  },
+  {
     "id": "msg11803",
     "title": "Women's Topwear Up to 90% Off",
     "description": "Flipkart | Women's Topwear Upto 90% Off Pluss : Tokyo Talkies : Metronaut : Allen Solly : Roadster :",
@@ -8742,41 +8762,5 @@
     "date_obj": "2025-10-08T12:39:32+00:00",
     "buy_link": "https://fktr.in/cJkg2Zc",
     "date_iso": "2025-10-08T12:39:32+00:00"
-  },
-  {
-    "id": "msg11289",
-    "title": "🛒 Deal Price Up to 83% Off",
-    "description": "Flipkart | ⌚️ Lee Cooper Watch Steals! Lee Cooper Watches for Women 🛒 Deal Price: Up to 83% Off 👉 Lee Cooper Watches for Men 🛒 Deal Price: Up to 83% Off 👉",
-    "shortlink": "https://fkrt.co/ZQU6Ky",
-    "urls": [
-      {
-        "url": "",
-        "label": "⌚️ Lee Cooper Watch Steals!"
-      },
-      {
-        "url": "",
-        "label": "Lee Cooper Watches for Women"
-      },
-      {
-        "url": "https://fkrt.co/ZQU6Ky",
-        "label": "🛒 Deal Price: Up to 83% Off"
-      },
-      {
-        "url": "",
-        "label": "Lee Cooper Watches for Men"
-      },
-      {
-        "url": "https://fkrt.co/VfoSlK",
-        "label": "🛒 Deal Price: Up to 83% Off"
-      }
-    ],
-    "raw_text": "Flipkart | ⌚️ Lee Cooper Watch Steals!\n\nLee Cooper Watches for Women\n\n🛒 Deal Price: Up to 83% Off\n\n👉 https://fkrt.co/ZQU6Ky\n\nLee Cooper Watches for Men\n\n🛒 Deal Price: Up to 83% Off\n\n👉 https://fkrt.co/VfoSlK",
-    "final_url": "https://fkrt.co/ZQU6Ky",
-    "local_image": "assets/images/tgmsg_11289.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-08T12:40:15+00:00",
-    "buy_link": "https://fkrt.co/ZQU6Ky",
-    "date_iso": "2025-10-08T12:40:15+00:00"
   }
 ]
