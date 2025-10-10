@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg11830",
+    "title": "TRESemme Up to 65% Off",
+    "description": "Myntra | TRESemme Upto  65% Off https://myntr.in/jJo712",
+    "shortlink": "https://myntr.in/jJo712",
+    "urls": [
+      {
+        "url": "https://myntr.in/jJo712",
+        "label": "TRESemme Upto 65% Off"
+      }
+    ],
+    "raw_text": "Myntra | TRESemme Upto  65% Off\n\nhttps://myntr.in/jJo712",
+    "final_url": "https://myntr.in/jJo712",
+    "local_image": "assets/images/tgmsg_11830.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-10T06:40:35+00:00",
+    "buy_link": "https://myntr.in/jJo712",
+    "date_iso": "2025-10-10T06:40:35+00:00"
+  },
+  {
+    "id": "msg11831",
+    "title": "Up to 75% Off On Engage Deodorant",
+    "description": "Flipkart | Upto 75% Off On Engage Deodorant 👉https://fkrt.co/CbomU1",
+    "shortlink": "https://fkrt.co/CbomU1",
+    "urls": [
+      {
+        "url": "https://fkrt.co/CbomU1",
+        "label": "Upto 75% Off On Engage Deodorant"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 75% Off On Engage Deodorant\n\n👉https://fkrt.co/CbomU1",
+    "final_url": "https://fkrt.co/CbomU1",
+    "local_image": "assets/images/tgmsg_11831.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-10T06:51:09+00:00",
+    "buy_link": "https://fkrt.co/CbomU1",
+    "date_iso": "2025-10-10T06:51:09+00:00"
+  },
+  {
     "id": "msg11821",
     "title": "Bajaj Pure Coconut Oil, 1L at 419",
     "description": "Flipkart  Bajaj Pure Coconut Oil, 1L at 419. https://fkrt.co/yYLt3p",
@@ -8634,57 +8674,5 @@
     "date_obj": "2025-10-08T14:01:54+00:00",
     "buy_link": "https://fkrt.co/3nhNoA",
     "date_iso": "2025-10-08T14:01:54+00:00"
-  },
-  {
-    "id": "msg11306",
-    "title": "Flat 40% Off on orders above ₹357 (Min 3 quantity)",
-    "description": "TIARAA Loot 💰 Deal 🎁 Flat 40% Off on orders above ₹357 (Min 3 quantity) Use Code: CK3 Link: https://bitli.in/2H4T0V1",
-    "shortlink": "https://bitli.in/2H4T0V1",
-    "urls": [
-      {
-        "url": "",
-        "label": "TIARAA Loot 💰 Deal 🎁"
-      },
-      {
-        "url": "",
-        "label": "Flat 40% Off on orders above ₹357 (Min 3 quantity)"
-      },
-      {
-        "url": "https://bitli.in/2H4T0V1",
-        "label": "CK3"
-      }
-    ],
-    "raw_text": "TIARAA Loot 💰 Deal 🎁\n\nFlat 40% Off on orders above ₹357 (Min 3 quantity)\n\nUse Code: CK3\n\nLink: https://bitli.in/2H4T0V1",
-    "final_url": "https://bitli.in/2H4T0V1",
-    "local_image": "assets/images/tgmsg_11306.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-10-08T14:05:49+00:00",
-    "buy_link": "https://bitli.in/2H4T0V1",
-    "date_iso": "2025-10-08T14:05:49+00:00"
-  },
-  {
-    "id": "msg11307",
-    "title": "💥 Just ₹599 (⚡92% OFF)",
-    "description": "Flipkart | 🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar 💥 Just ₹599 (⚡92% OFF) https://fkrt.co/41u8nJ",
-    "shortlink": "https://fkrt.co/41u8nJ",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar"
-      },
-      {
-        "url": "https://fkrt.co/41u8nJ",
-        "label": "💥 Just ₹599 (⚡92% OFF)"
-      }
-    ],
-    "raw_text": "Flipkart | 🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar \n💥 Just ₹599 (⚡92% OFF)\n\nhttps://fkrt.co/41u8nJ",
-    "final_url": "https://fkrt.co/41u8nJ",
-    "local_image": "assets/images/tgmsg_11307.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-08T14:12:01+00:00",
-    "buy_link": "https://fkrt.co/41u8nJ",
-    "date_iso": "2025-10-08T14:12:01+00:00"
   }
 ]
