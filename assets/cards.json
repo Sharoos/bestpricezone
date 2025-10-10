@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg11860",
+    "title": "Use Code RMEXTRA20 to get 20% Off!",
+    "description": "🔥 Realme Buds Lowest Price ever only on Myntra!!🔥 Realme Buds T200x at Rs. 959 Only!! Use Coupon Code : RMEXTRA20 to get 20% Off! 👉 Realme Buds Wireless 5 at Rs. 1161 only! Use Coupon Code : RMEXTRA17 to get 17% Off!! 👉…",
+    "shortlink": "https://myntr.in/XysuT2",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Realme Buds Lowest Price ever only on Myntra!!🔥"
+      },
+      {
+        "url": "https://myntr.in/XysuT2",
+        "label": "Realme Buds T200x at Rs. 959 Only!!"
+      },
+      {
+        "url": "https://myntr.in/pJ7vex",
+        "label": "Realme Buds Wireless 5 at Rs. 1161 only!"
+      },
+      {
+        "url": "https://myntr.in/kSheAk",
+        "label": "Realme T310 Buds at Rs. 1393 only + Bank offers!!"
+      }
+    ],
+    "raw_text": "🔥 Realme Buds Lowest Price ever only on Myntra!!🔥\n\nRealme Buds T200x at Rs. 959 Only!!\nUse Coupon Code : RMEXTRA20 to get 20% Off!\n👉https://myntr.in/XysuT2\n\nRealme Buds Wireless 5 at Rs. 1161 only!\nUse Coupon Code : RMEXTRA17 to get 17% Off!!\n👉https://myntr.in/pJ7vex\n\nRealme T310 Buds at Rs. 1393 only + Bank offers!!\nUse Coupon Code : RMEXTRA18 to get 18% Off!!\n👉https://myntr.in/kSheAk",
+    "final_url": "https://myntr.in/XysuT2",
+    "local_image": "assets/images/tgmsg_11860.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-10T09:52:16+00:00",
+    "buy_link": "https://myntr.in/XysuT2",
+    "date_iso": "2025-10-10T09:52:16+00:00"
+  },
+  {
     "id": "msg11859",
     "title": "Up to 62% Off on Himalaya Baby Care",
     "description": "Flipkart : Upto 62% Off on Himalaya Baby Care 👉https://fkrt.co/LbQj2S",
@@ -8698,25 +8730,5 @@
     "date_obj": "2025-10-08T16:44:30+00:00",
     "buy_link": "https://myntr.in/1FtX6j",
     "date_iso": "2025-10-08T16:44:30+00:00"
-  },
-  {
-    "id": "msg11338",
-    "title": "Carbamide Forte Magnesium Bisglycinate Tablets 1000mg( 40 Tablets )@387 +",
-    "description": "Carbamide Forte Magnesium Bisglycinate Tablets 1000mg( 40 Tablets )@387 + Coupon https://www.amazon.in/dp/B0B8SR54CD?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0B8SR54CD?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0B8SR54CD?psc=1&tag=bestpricezo0f-21",
-        "label": ""
-      }
-    ],
-    "raw_text": "Carbamide Forte Magnesium Bisglycinate Tablets 1000mg( 40 Tablets )@387 + Coupon \n\nhttps://www.amazon.in/dp/B0B8SR54CD?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0B8SR54CD?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_11338.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-08T16:45:52+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0B8SR54CD?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-08T16:45:52+00:00"
   }
 ]
