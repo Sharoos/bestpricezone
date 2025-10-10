@@ -1,5 +1,97 @@
 [
   {
+    "id": "msg11893",
+    "title": "FAST",
+    "description": "FAST. https://www.amazon.in/dp/B092S563QV?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B092S563QV?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B092S563QV?tag=bestpricezo0f-21",
+        "label": ""
+      }
+    ],
+    "raw_text": "FAST. \n\n https://www.amazon.in/dp/B092S563QV?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B092S563QV?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_11893.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-10T13:01:37+00:00",
+    "buy_link": "https://www.amazon.in/dp/B092S563QV?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-10T13:01:37+00:00"
+  },
+  {
+    "id": "msg11895",
+    "title": "Big 999",
+    "description": "Flipkart | Big  999 https://fkrt.co/xvgyWR 3999 https://fkrt.co/5giJDp",
+    "shortlink": "https://fkrt.co/xvgyWR",
+    "urls": [
+      {
+        "url": "https://fkrt.co/xvgyWR",
+        "label": "Big 999"
+      },
+      {
+        "url": "https://fkrt.co/5giJDp",
+        "label": "3999"
+      }
+    ],
+    "raw_text": "Flipkart | Big  999 https://fkrt.co/xvgyWR\n\n3999 https://fkrt.co/5giJDp",
+    "final_url": "https://fkrt.co/xvgyWR",
+    "local_image": "assets/images/tgmsg_11895.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-10T13:05:12+00:00",
+    "buy_link": "https://fkrt.co/xvgyWR",
+    "date_iso": "2025-10-10T13:05:12+00:00"
+  },
+  {
+    "id": "msg11901",
+    "title": "💥690 off with SBI Credit Card",
+    "description": "Flipkart | 🔥🔥Hrx Hard Body Set of 3 Luggage 8 Wheels  @4699 Buy Here :  https://fkrt.co/wJx15E 💥690 off with SBI Credit Cards",
+    "shortlink": "https://fkrt.co/wJx15E",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥🔥Hrx Hard Body Set of 3 Luggage 8 Wheels @4699"
+      },
+      {
+        "url": "https://fkrt.co/wJx15E",
+        "label": "Here"
+      },
+      {
+        "url": "",
+        "label": "💥690 off with SBI Credit Cards"
+      }
+    ],
+    "raw_text": "Flipkart | 🔥🔥Hrx Hard Body Set of 3 Luggage 8 Wheels  @4699\n\nBuy Here :  https://fkrt.co/wJx15E\n\n💥690 off with SBI Credit Cards",
+    "final_url": "https://fkrt.co/wJx15E",
+    "local_image": "assets/images/tgmsg_11901.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-10T13:21:13+00:00",
+    "buy_link": "https://fkrt.co/wJx15E",
+    "date_iso": "2025-10-10T13:21:13+00:00"
+  },
+  {
+    "id": "msg11904",
+    "title": "FAST",
+    "description": "FAST. https://fkrt.co/cSRSPl",
+    "shortlink": "https://fkrt.co/cSRSPl",
+    "urls": [
+      {
+        "url": "https://fkrt.co/cSRSPl",
+        "label": ""
+      }
+    ],
+    "raw_text": "FAST.\n\n https://fkrt.co/cSRSPl",
+    "final_url": "https://fkrt.co/cSRSPl",
+    "local_image": "assets/images/tgmsg_11904.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-10T13:31:29+00:00",
+    "buy_link": "https://fkrt.co/cSRSPl",
+    "date_iso": "2025-10-10T13:31:29+00:00"
+  },
+  {
     "id": "msg11878",
     "title": "Men's Footwear Starts at ₹99",
     "description": "AJIO . 👉 Sports Shoes : Casual Shoes : Sandals : *Buy Maximum To Get Free Shipping",
@@ -8558,113 +8650,5 @@
     "date_obj": "2025-10-08T18:37:14+00:00",
     "buy_link": "https://fkrt.co/bO1hz9",
     "date_iso": "2025-10-08T18:37:14+00:00"
-  },
-  {
-    "id": "msg11359",
-    "title": "Up to 70% Off on Co",
-    "description": "Ajio | Upto 70% Off on Co-Ord Sets Starting @ just ₹297 Link : https://ajiio.co/xQ4veM",
-    "shortlink": "https://ajiio.co/xQ4veM",
-    "urls": [
-      {
-        "url": "https://ajiio.co/xQ4veM",
-        "label": "Upto 70% Off on Co-Ord Sets Starting @ just ₹297"
-      }
-    ],
-    "raw_text": "Ajio | Upto 70% Off on Co-Ord Sets Starting @ just ₹297\n \nLink : https://ajiio.co/xQ4veM",
-    "final_url": "https://ajiio.co/xQ4veM",
-    "local_image": "assets/images/tgmsg_11359.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-08T18:38:20+00:00",
-    "buy_link": "https://ajiio.co/xQ4veM",
-    "date_iso": "2025-10-08T18:38:20+00:00"
-  },
-  {
-    "id": "msg11360",
-    "title": "💥Up to 83% Off On Women's Premium Belts Starting From Rs. 136",
-    "description": "💥AJIO | Upto 83% Off On Women's Premium Belts Starting From Rs. 136 👉Link : https://ajiio.co/XH9hWp",
-    "shortlink": "https://ajiio.co/XH9hWp",
-    "urls": [
-      {
-        "url": "https://ajiio.co/XH9hWp",
-        "label": "💥AJIO | Upto 83% Off On Women's Premium Belts Starting From Rs. 136"
-      }
-    ],
-    "raw_text": "💥AJIO | Upto 83% Off On Women's Premium Belts Starting From Rs. 136\n\n👉Link : https://ajiio.co/XH9hWp",
-    "final_url": "https://ajiio.co/XH9hWp",
-    "local_image": "assets/images/tgmsg_11360.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-08T18:38:25+00:00",
-    "buy_link": "https://ajiio.co/XH9hWp",
-    "date_iso": "2025-10-08T18:38:25+00:00"
-  },
-  {
-    "id": "msg11361",
-    "title": "Shirts Starts @299",
-    "description": "Ajio : U.S Polo Assn. T-Shirts Starts @299. Men's : https://ajiio.in/P7lEiwL Women's : https://ajiio.in/7ZDXWp3 Boys : https://ajiio.in/szO53j5 Girls : https://ajiio.in/7i2k9Lw",
-    "shortlink": "https://ajiio.in/P7lEiwL",
-    "urls": [
-      {
-        "url": "",
-        "label": "U.S Polo Assn. T-Shirts Starts @299"
-      },
-      {
-        "url": "https://ajiio.in/P7lEiwL",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.in/7ZDXWp3",
-        "label": "Women's"
-      },
-      {
-        "url": "https://ajiio.in/szO53j5",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.in/7i2k9Lw",
-        "label": "Girls"
-      }
-    ],
-    "raw_text": "Ajio : U.S Polo Assn. T-Shirts Starts @299.\n\nMen's : https://ajiio.in/P7lEiwL\nWomen's : https://ajiio.in/7ZDXWp3\nBoys : https://ajiio.in/szO53j5\nGirls : https://ajiio.in/7i2k9Lw",
-    "final_url": "https://ajiio.in/P7lEiwL",
-    "local_image": "assets/images/tgmsg_11361.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-08T18:38:33+00:00",
-    "buy_link": "https://ajiio.in/P7lEiwL",
-    "date_iso": "2025-10-08T18:38:33+00:00"
-  },
-  {
-    "id": "msg11363",
-    "title": "Earn Extra 10% Cashback",
-    "description": "AJIO | Men's Sports Shoes Starts @ ₹260 👉Link : Casual Shoes : Women's : Earn Extra 10% Ajio Cashback",
-    "shortlink": "https://ajiio.co/5L4ZbL",
-    "urls": [
-      {
-        "url": "https://ajiio.co/5L4ZbL",
-        "label": "Men's Sports Shoes Starts @ ₹260"
-      },
-      {
-        "url": "https://ajiio.co/hB0pE4",
-        "label": "Casual Shoes"
-      },
-      {
-        "url": "https://ajiio.co/gybwJM",
-        "label": "Women's"
-      },
-      {
-        "url": "",
-        "label": "Earn Extra 10% Ajio Cashback"
-      }
-    ],
-    "raw_text": "AJIO | Men's Sports Shoes Starts @ ₹260\n\n👉Link : https://ajiio.co/5L4ZbL\n\nCasual Shoes : https://ajiio.co/hB0pE4\n\nWomen's : https://ajiio.co/gybwJM\n\nEarn Extra 10% Ajio Cashback",
-    "final_url": "https://ajiio.co/5L4ZbL",
-    "local_image": "assets/images/tgmsg_11363.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-08T18:39:01+00:00",
-    "buy_link": "https://ajiio.co/5L4ZbL",
-    "date_iso": "2025-10-08T18:39:01+00:00"
   }
 ]
