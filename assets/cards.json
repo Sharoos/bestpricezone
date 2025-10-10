@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg11960",
+    "title": "🔥 Fashion Sale is Live!! 🔥👔",
+    "description": "🔥 Flipkart Fashion Sale is Live!! 🔥👔 👕 Men’s T-Shirts – Starts @ ₹94 👉 👔 Formal Shirts – Starts @ ₹207 👉 👕 Casual Shirts – Starts @ ₹172 👉 👖 Men’s Jeans – Starts @ ₹206 👉 🏃 Men’s Track Pants – Starts @ ₹179 👉 👖 Men’s…",
+    "shortlink": "https://fkrt.co/LSjMIW",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Flipkart Fashion Sale is Live!! 🔥👔"
+      },
+      {
+        "url": "https://fkrt.co/LSjMIW",
+        "label": "👕 Men’s T-Shirts – Starts @ ₹94"
+      },
+      {
+        "url": "https://fkrt.co/8u2vQN",
+        "label": "👔 Formal Shirts – Starts @ ₹207"
+      },
+      {
+        "url": "https://fkrt.co/zrwfVx",
+        "label": "👕 Casual Shirts – Starts @ ₹172"
+      },
+      {
+        "url": "https://fkrt.co/bX9v3H",
+        "label": "👖 Men’s Jeans – Starts @ ₹206"
+      },
+      {
+        "url": "https://fkrt.co/9hV8K6",
+        "label": "🏃 Men’s Track Pants – Starts @ ₹179"
+      },
+      {
+        "url": "https://fkrt.co/VyWGlA",
+        "label": "👖 Men’s Formal Trousers – Starts @ ₹312"
+      }
+    ],
+    "raw_text": "🔥 Flipkart Fashion Sale is Live!! 🔥👔\n\n👕 Men’s T-Shirts – Starts @ ₹94\n👉 https://fkrt.co/LSjMIW\n\n👔 Formal Shirts – Starts @ ₹207\n👉 https://fkrt.co/8u2vQN\n\n👕 Casual Shirts – Starts @ ₹172\n👉 https://fkrt.co/zrwfVx\n\n👖 Men’s Jeans – Starts @ ₹206\n👉 https://fkrt.co/bX9v3H\n\n🏃 Men’s Track Pants – Starts @ ₹179\n👉 https://fkrt.co/9hV8K6\n\n👖 Men’s Formal Trousers – Starts @ ₹312\n👉 https://fkrt.co/VyWGlA",
+    "final_url": "https://fkrt.co/LSjMIW",
+    "local_image": "assets/images/tgmsg_11960.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-10T16:51:37+00:00",
+    "buy_link": "https://fkrt.co/LSjMIW",
+    "date_iso": "2025-10-10T16:51:37+00:00"
+  },
+  {
     "id": "msg11951",
     "title": "rank&ds=v1%3ApJDfbydKZmHKEZWAXKKWbRFn85jxD7m2HDhkLKn%25252BEvM&crid=2OL21SCR0ECVP&qid=1730399580&sprefix=solimocover%2Celectronics%2C221&tag",
     "description": "Amazon | Mobile Covers Starts @29.…",
@@ -8354,25 +8398,5 @@
     "date_obj": "2025-10-08T19:34:39+00:00",
     "buy_link": "https://www.amazon.in/dp/B0BM3LTJMN?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-08T19:34:39+00:00"
-  },
-  {
-    "id": "msg11418",
-    "title": "84% off Red Tape Women Slides @346",
-    "description": "Flipkart | 84% off : Red Tape Women Slides @346 https://fkrt.co/NRJnkW",
-    "shortlink": "https://fkrt.co/NRJnkW",
-    "urls": [
-      {
-        "url": "https://fkrt.co/NRJnkW",
-        "label": "84% off : Red Tape Women Slides @346"
-      }
-    ],
-    "raw_text": "Flipkart | 84% off : Red Tape Women Slides @346\n\nhttps://fkrt.co/NRJnkW",
-    "final_url": "https://fkrt.co/NRJnkW",
-    "local_image": "assets/images/tgmsg_11418.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-08T19:35:24+00:00",
-    "buy_link": "https://fkrt.co/NRJnkW",
-    "date_iso": "2025-10-08T19:35:24+00:00"
   }
 ]
