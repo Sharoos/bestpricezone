@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg11818",
+    "title": "Up to 60% Off On Head & Shoulder Shampoo",
+    "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos. https://fkrt.co/RGMsn4",
+    "shortlink": "https://fkrt.co/RGMsn4",
+    "urls": [
+      {
+        "url": "https://fkrt.co/RGMsn4",
+        "label": "Upto 60% Off On Head & Shoulder Shampoos"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos.\n\nhttps://fkrt.co/RGMsn4",
+    "final_url": "https://fkrt.co/RGMsn4",
+    "local_image": "assets/images/tgmsg_11818.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-10T05:29:30+00:00",
+    "buy_link": "https://fkrt.co/RGMsn4",
+    "date_iso": "2025-10-10T05:29:30+00:00"
+  },
+  {
     "id": "msg11814",
     "title": "67% off Dove Daily Shine Shampoo @569",
     "description": "Flipkart | 67% off : Dove Daily Shine Shampoo @569 https://fkrt.co/4xLYSu",
@@ -8698,25 +8718,5 @@
     "date_obj": "2025-10-08T13:20:12+00:00",
     "buy_link": "https://fktr.in/30jZ3BD",
     "date_iso": "2025-10-08T13:20:12+00:00"
-  },
-  {
-    "id": "msg11296",
-    "title": "Bajaj 100% Pure Castor Oil 200ml @164",
-    "description": "Amazon | Bajaj 100% Pure Castor Oil 200ml @164 👉https://www.amazon.in/dp/B09N9T3RPY?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B09N9T3RPY?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B09N9T3RPY?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-        "label": "Bajaj 100% Pure Castor Oil 200ml @164"
-      }
-    ],
-    "raw_text": "Amazon | Bajaj 100% Pure Castor Oil 200ml @164\n \n👉https://www.amazon.in/dp/B09N9T3RPY?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B09N9T3RPY?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_11296.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-08T13:21:51+00:00",
-    "buy_link": "https://www.amazon.in/dp/B09N9T3RPY?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-08T13:21:51+00:00"
   }
 ]
