@@ -1,5 +1,93 @@
 [
   {
+    "id": "msg11909",
+    "title": "675",
+    "description": "675 https://fkrt.co/q8lYFH",
+    "shortlink": "https://fkrt.co/q8lYFH",
+    "urls": [
+      {
+        "url": "https://fkrt.co/q8lYFH",
+        "label": "675"
+      }
+    ],
+    "raw_text": "675 https://fkrt.co/q8lYFH",
+    "final_url": "https://fkrt.co/q8lYFH",
+    "local_image": "assets/images/tgmsg_11909.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-10T13:52:07+00:00",
+    "buy_link": "https://fkrt.co/q8lYFH",
+    "date_iso": "2025-10-10T13:52:07+00:00"
+  },
+  {
+    "id": "msg11910",
+    "title": "Up to 78% Off On Kid’s Clothing",
+    "description": "Myntra : Upto 78% Off On Kid’s Clothing. Boys : https://myntr.in/rTTCwE Girls : https://myntr.in/IZkGXN",
+    "shortlink": "https://myntr.in/rTTCwE",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 78% Off On Kid’s Clothing"
+      },
+      {
+        "url": "https://myntr.in/rTTCwE",
+        "label": "Boys"
+      },
+      {
+        "url": "https://myntr.in/IZkGXN",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "Myntra : Upto 78% Off On Kid’s Clothing. \n\nBoys : https://myntr.in/rTTCwE\nGirls : https://myntr.in/IZkGXN",
+    "final_url": "https://myntr.in/rTTCwE",
+    "local_image": "assets/images/tgmsg_11910.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-10T13:52:08+00:00",
+    "buy_link": "https://myntr.in/rTTCwE",
+    "date_iso": "2025-10-10T13:52:08+00:00"
+  },
+  {
+    "id": "msg11911",
+    "title": "65% Off Men's Straight Kurta @340",
+    "description": "65% Off : Men's Straight Kurta @340 https://fkrt.co/GnJuGP",
+    "shortlink": "https://fkrt.co/GnJuGP",
+    "urls": [
+      {
+        "url": "https://fkrt.co/GnJuGP",
+        "label": "65% Off : Men's Straight Kurta @340"
+      }
+    ],
+    "raw_text": "65% Off : Men's Straight Kurta @340\n\nhttps://fkrt.co/GnJuGP",
+    "final_url": "https://fkrt.co/GnJuGP",
+    "local_image": "assets/images/tgmsg_11911.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-10T13:52:10+00:00",
+    "buy_link": "https://fkrt.co/GnJuGP",
+    "date_iso": "2025-10-10T13:52:10+00:00"
+  },
+  {
+    "id": "msg11912",
+    "title": "Diwali Gifting Bedsheets Up to 85% Off",
+    "description": "Grab : Diwali Gifting Bedsheets Upto 85% Off. https://myntr.in/9LhGWG",
+    "shortlink": "https://myntr.in/9LhGWG",
+    "urls": [
+      {
+        "url": "https://myntr.in/9LhGWG",
+        "label": "Diwali Gifting Bedsheets Upto 85% Off"
+      }
+    ],
+    "raw_text": "Grab : Diwali Gifting Bedsheets Upto 85% Off.\n\nhttps://myntr.in/9LhGWG",
+    "final_url": "https://myntr.in/9LhGWG",
+    "local_image": "assets/images/tgmsg_11912.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-10T13:55:49+00:00",
+    "buy_link": "https://myntr.in/9LhGWG",
+    "date_iso": "2025-10-10T13:55:49+00:00"
+  },
+  {
     "id": "msg11907",
     "title": "More Up to 80% off",
     "description": "Flipkart | Carton London Perfume for Men @355 https://fkrt.co/HKqI0D 352 https://fkrt.co/HEJG8z 379 https://fkrt.co/T7AUMX More upto 80% off : https://fkrt.co/9cKCYF",
@@ -8450,213 +8538,5 @@
     "date_obj": "2025-10-08T19:05:29+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DD45WVCM?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-08T19:05:29+00:00"
-  },
-  {
-    "id": "msg11394",
-    "title": "TRESemme Hair Fall Defence Shampoo 1 L @535",
-    "description": "Amazon | TRESemme Hair Fall Defence Shampoo 1 L @535 https://www.amazon.in/dp/B07L3YNL2V?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07L3YNL2V?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07L3YNL2V?th=1&tag=bestpricezo0f-21",
-        "label": "TRESemme Hair Fall Defence Shampoo 1 L @535"
-      }
-    ],
-    "raw_text": "Amazon | TRESemme Hair Fall Defence Shampoo 1 L @535\n\nhttps://www.amazon.in/dp/B07L3YNL2V?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07L3YNL2V?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_11394.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-08T19:07:36+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07L3YNL2V?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-08T19:07:36+00:00"
-  },
-  {
-    "id": "msg11348",
-    "title": "Up to 92% Off On Just Herbs Beauty Product",
-    "description": "Flipkart | Upto 92% Off On Just Herbs Beauty Products 👉https://fkrt.co/7z1bzE",
-    "shortlink": "https://fkrt.co/7z1bzE",
-    "urls": [
-      {
-        "url": "https://fkrt.co/7z1bzE",
-        "label": "Upto 92% Off On Just Herbs Beauty Products"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 92% Off On Just Herbs Beauty Products\n\n👉https://fkrt.co/7z1bzE",
-    "final_url": "https://fkrt.co/7z1bzE",
-    "local_image": "assets/images/tgmsg_11348.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-08T18:30:26+00:00",
-    "buy_link": "https://fkrt.co/7z1bzE",
-    "date_iso": "2025-10-08T18:30:26+00:00"
-  },
-  {
-    "id": "msg11354",
-    "title": "Up to 90% Off On Clothing",
-    "description": "AJIO : Upto 90% Off On Clothing. Mens Clothing. T-Shirt : Shirt : Jeans : Trouser : SweatShirt : Sweater : Jacket : Kurta : Trackpant : Womens Clothing. T-Shirt : Tops : Shirt : Dresses : Jeans & Jeggings : Trouser &…",
-    "shortlink": "https://ajiio.co/qfHK5F",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 90% Off On Clothing"
-      },
-      {
-        "url": "",
-        "label": "Mens Clothing"
-      },
-      {
-        "url": "https://ajiio.co/qfHK5F",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://ajiio.co/LNjeFf",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://ajiio.co/DQwXch",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/8L7Sy7",
-        "label": "Trouser"
-      },
-      {
-        "url": "https://ajiio.co/1sjIYS",
-        "label": "SweatShirt"
-      },
-      {
-        "url": "https://ajiio.co/LQlTj7",
-        "label": "Sweater"
-      },
-      {
-        "url": "https://ajiio.co/NcaX9C",
-        "label": "Jacket"
-      },
-      {
-        "url": "https://ajiio.co/J5kbM7",
-        "label": "Kurta"
-      },
-      {
-        "url": "https://ajiio.co/SYZUKS",
-        "label": "Trackpant"
-      },
-      {
-        "url": "",
-        "label": "Womens Clothing"
-      },
-      {
-        "url": "https://ajiio.co/h3LbMl",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://ajiio.co/wDzjWV",
-        "label": "Tops"
-      },
-      {
-        "url": "https://ajiio.co/MafJni",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://ajiio.co/uJcGCT",
-        "label": "Dresses"
-      },
-      {
-        "url": "https://ajiio.co/s8ZbNt",
-        "label": "Jeans & Jeggings"
-      },
-      {
-        "url": "https://ajiio.co/DNFlLx",
-        "label": "Trouser & Trackpant"
-      },
-      {
-        "url": "https://ajiio.co/lXzMbq",
-        "label": "SweatShirt"
-      },
-      {
-        "url": "https://ajiio.co/WJsrcm",
-        "label": "Kurta"
-      },
-      {
-        "url": "https://ajiio.co/SVCq15",
-        "label": "Kurta Set"
-      },
-      {
-        "url": "https://ajiio.co/qqRb7N",
-        "label": "Jacket & Shrugs"
-      }
-    ],
-    "raw_text": "AJIO : Upto 90% Off On Clothing. \n\nMens Clothing. \n\nT-Shirt : https://ajiio.co/qfHK5F \nShirt : https://ajiio.co/LNjeFf \nJeans : https://ajiio.co/DQwXch \nTrouser : https://ajiio.co/8L7Sy7 \nSweatShirt : https://ajiio.co/1sjIYS \nSweater : https://ajiio.co/LQlTj7 \nJacket : https://ajiio.co/NcaX9C \nKurta : https://ajiio.co/J5kbM7 \nTrackpant : https://ajiio.co/SYZUKS \n\nWomens Clothing.\n\nT-Shirt : https://ajiio.co/h3LbMl\nTops : https://ajiio.co/wDzjWV\nShirt : https://ajiio.co/MafJni\nDresses : https://ajiio.co/uJcGCT\nJeans & Jeggings : https://ajiio.co/s8ZbNt\nTrouser & Trackpant : https://ajiio.co/DNFlLx\nSweatShirt : https://ajiio.co/lXzMbq\nKurta : https://ajiio.co/WJsrcm\nKurta Set : https://ajiio.co/SVCq15\nJacket & Shrugs : https://ajiio.co/qqRb7N",
-    "final_url": "https://ajiio.co/qfHK5F",
-    "local_image": "assets/images/tgmsg_11354.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-08T18:34:04+00:00",
-    "buy_link": "https://ajiio.co/qfHK5F",
-    "date_iso": "2025-10-08T18:34:04+00:00"
-  },
-  {
-    "id": "msg11355",
-    "title": "Up to 80% Off On Spykar Clothing",
-    "description": "Ajio : Topwear Clothing Under ₹149. Men's : Women's : Boy’s : Girl’s : Baby : Levi’s Jeans Starts @696. Women's : Men's : Upto 80% Off On Spykar Clothing. Men's : Women's :",
-    "shortlink": "https://ajiio.in/39wgf3Q",
-    "urls": [
-      {
-        "url": "",
-        "label": "Topwear Clothing Under ₹149"
-      },
-      {
-        "url": "https://ajiio.in/39wgf3Q",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.in/ZeReUAk",
-        "label": "Women's"
-      },
-      {
-        "url": "https://ajiio.in/0nCyhiA",
-        "label": "Boy’s"
-      },
-      {
-        "url": "https://ajiio.in/25T9puY",
-        "label": "Girl’s"
-      },
-      {
-        "url": "https://ajiio.in/FffagkR",
-        "label": "Baby"
-      },
-      {
-        "url": "",
-        "label": "Levi’s Jeans Starts @696"
-      },
-      {
-        "url": "https://ajiio.in/6rSJ27O",
-        "label": "Women's"
-      },
-      {
-        "url": "https://ajiio.in/Xl3A3EX",
-        "label": "Men's"
-      },
-      {
-        "url": "",
-        "label": "Upto 80% Off On Spykar Clothing"
-      },
-      {
-        "url": "https://ajiio.in/vi5Vzpm",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.in/9a3ejU9",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "Ajio  : Topwear Clothing Under ₹149.\n\nMen's : https://ajiio.in/39wgf3Q\nWomen's : https://ajiio.in/ZeReUAk\nBoy’s : https://ajiio.in/0nCyhiA\nGirl’s : https://ajiio.in/25T9puY\nBaby : https://ajiio.in/FffagkR\n\nLevi’s Jeans Starts @696.\n\nWomen's : https://ajiio.in/6rSJ27O\nMen's : https://ajiio.in/Xl3A3EX\n\nUpto 80% Off On Spykar Clothing.\n\nMen's : https://ajiio.in/vi5Vzpm\nWomen's : https://ajiio.in/9a3ejU9",
-    "final_url": "https://ajiio.in/39wgf3Q",
-    "local_image": "assets/images/tgmsg_11355.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-08T18:34:34+00:00",
-    "buy_link": "https://ajiio.in/39wgf3Q",
-    "date_iso": "2025-10-08T18:34:34+00:00"
   }
 ]
