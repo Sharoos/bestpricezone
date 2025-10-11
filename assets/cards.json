@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg12252",
+    "title": "Happilo Dry Fruit Gift Box (7 Inclusions) at ₹380",
+    "description": "Flipkart | : Happilo Dry Fruit Gift Box (7 Inclusions) at ₹380 https://fkrt.co/KNw3KT",
+    "shortlink": "https://fkrt.co/KNw3KT",
+    "urls": [
+      {
+        "url": "https://fkrt.co/KNw3KT",
+        "label": ": Happilo Dry Fruit Gift Box (7 Inclusions) at ₹380"
+      }
+    ],
+    "raw_text": "Flipkart | : Happilo Dry Fruit Gift Box (7 Inclusions) at ₹380\n\nhttps://fkrt.co/KNw3KT",
+    "final_url": "https://fkrt.co/KNw3KT",
+    "local_image": "assets/images/tgmsg_12252.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-11T14:42:33+00:00",
+    "buy_link": "https://fkrt.co/KNw3KT",
+    "date_iso": "2025-10-11T14:42:33+00:00"
+  },
+  {
+    "id": "msg12255",
+    "title": "Grand Plus Water Dispenser at 2262",
+    "description": "Grand Plus Water Dispenser at 2262. https://www.amazon.in/dp/B0CQR2VVHG?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CQR2VVHG?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CQR2VVHG?tag=bestpricezo0f-21",
+        "label": "Grand Plus Water Dispenser at 2262"
+      }
+    ],
+    "raw_text": "Grand Plus Water Dispenser at 2262.\n\nhttps://www.amazon.in/dp/B0CQR2VVHG?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CQR2VVHG?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12255.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-11T14:48:27+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CQR2VVHG?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-11T14:48:27+00:00"
+  },
+  {
     "id": "msg12242",
     "title": "TIARAA Offer on Bracelet",
     "description": "TIARAA Loot Offer on Bracelets Grab any 3 Bracelets @199 INR (including shipping) Use Code: LOOT3 Link:",
@@ -8146,49 +8186,5 @@
     "date_obj": "2025-10-09T17:31:57+00:00",
     "buy_link": "https://ajiio.co/BCa60u",
     "date_iso": "2025-10-09T17:31:57+00:00"
-  },
-  {
-    "id": "msg11550",
-    "title": "🛍 + Extra 10% Super Cash! 🎉",
-    "description": "Ajio | WOMEN'S Sarees Starting @ just 198 Links : 🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "shortlink": "https://ajiio.co/5HkbsF",
-    "urls": [
-      {
-        "url": "https://ajiio.co/5HkbsF",
-        "label": "WOMEN'S Sarees Starting @ just 198"
-      },
-      {
-        "url": "",
-        "label": "🛍 + Extra 10% AJIO Super Cash! 🎉"
-      }
-    ],
-    "raw_text": "Ajio | WOMEN'S Sarees Starting @ just 198 \n \nLinks :  https://ajiio.co/5HkbsF\n\n🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "final_url": "https://ajiio.co/5HkbsF",
-    "local_image": "assets/images/tgmsg_11550.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-09T17:01:53+00:00",
-    "buy_link": "https://ajiio.co/5HkbsF",
-    "date_iso": "2025-10-09T17:01:53+00:00"
-  },
-  {
-    "id": "msg11551",
-    "title": "Carbamide Forte Micronized Creatine Mono Hydrate At 473",
-    "description": "Carbamide Forte Micronized Creatine Mono Hydrate At 473. https://www.amazon.in/dp/B0CHM882RH?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CHM882RH?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CHM882RH?th=1&tag=bestpricezo0f-21",
-        "label": "Carbamide Forte Micronized Creatine Mono Hydrate At 473"
-      }
-    ],
-    "raw_text": "Carbamide Forte Micronized Creatine Mono Hydrate At 473.\n\nhttps://www.amazon.in/dp/B0CHM882RH?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CHM882RH?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_11551.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-09T17:04:09+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CHM882RH?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-09T17:04:09+00:00"
   }
 ]
