@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg12188",
+    "title": "Sujata Juicer mixer at flat 45% off",
+    "description": "*Myntra Flash Deal* *Only for first 100 Customers* https://myntr.in/aoDeqa Sujata Juicer mixer at flat 45% off",
+    "shortlink": "https://myntr.in/aoDeqa",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Flash Deal*"
+      },
+      {
+        "url": "https://myntr.in/aoDeqa",
+        "label": "Only for first 100 Customers*"
+      },
+      {
+        "url": "",
+        "label": "Sujata Juicer mixer at flat 45% off"
+      }
+    ],
+    "raw_text": "*Myntra Flash Deal* \n\n *Only for first 100 Customers* \n\nhttps://myntr.in/aoDeqa\n\nSujata Juicer mixer at flat 45% off",
+    "final_url": "https://myntr.in/aoDeqa",
+    "local_image": "assets/images/tgmsg_12188.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-11T11:21:04+00:00",
+    "buy_link": "https://myntr.in/aoDeqa",
+    "date_iso": "2025-10-11T11:21:04+00:00"
+  },
+  {
     "id": "msg12184",
     "title": "+ 10% SUPERCASH",
     "description": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 102🔥 🔗🔗Link : + 10% AJIO SUPERCASH",
@@ -8130,45 +8158,5 @@
     "date_obj": "2025-10-09T13:31:53+00:00",
     "buy_link": "https://bitli.in/6kfepg2",
     "date_iso": "2025-10-09T13:31:53+00:00"
-  },
-  {
-    "id": "msg11516",
-    "title": "💳 Extra ₹1,000 OFF with select Bank Card",
-    "description": "🎉 Dhanteras Gold Offer – Save More with Every Gram! 🎉 Buy More Save More! Buy 24k 5 gm gold coin 🌟 Market rate: ₹12,900/gm 🔥 Ajio Offer Price: ₹12,771/gm s 💸 Get ₹1,250 OFF on Prepaid Orders 💰 Extra 2%Up to 2000/- Off…",
-    "shortlink": "https://ajiio.co/wABzC6",
-    "urls": [
-      {
-        "url": "",
-        "label": "🎉 Dhanteras Gold Offer – Save More with Every Gram! 🎉"
-      },
-      {
-        "url": "",
-        "label": "🌟 Market rate: ₹12,900/gm"
-      },
-      {
-        "url": "https://ajiio.co/wABzC6",
-        "label": "🔥 Ajio Offer Price: ₹12,771/gm"
-      },
-      {
-        "url": "",
-        "label": "💳 Extra ₹1,000 OFF with select Bank Cards"
-      },
-      {
-        "url": "",
-        "label": "💸 Get ₹1,250 OFF on Prepaid Orders"
-      },
-      {
-        "url": "",
-        "label": "✨ Pure Gold. Certified Quality. Delivered to Your Doorstep"
-      }
-    ],
-    "raw_text": "🎉 Dhanteras Gold Offer – Save More with Every Gram! 🎉\n\nBuy More Save More!\nBuy 24k 5 gm gold coin\n\n🌟 Market rate: ₹12,900/gm\n🔥 Ajio Offer Price: ₹12,771/gm\n\nhttps://ajiio.co/wABzC6\n\n💳 Extra ₹1,000 OFF with select Bank Cards \n💸 Get ₹1,250 OFF on Prepaid Orders\n\n💰 Extra 2%Up to 2000/- Off with coupon DHANVARSHA2\n✨ Pure Gold. Certified Quality. Delivered to Your Doorstep.",
-    "final_url": "https://ajiio.co/wABzC6",
-    "local_image": "assets/images/tgmsg_11516.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-09T13:41:29+00:00",
-    "buy_link": "https://ajiio.co/wABzC6",
-    "date_iso": "2025-10-09T13:41:29+00:00"
   }
 ]
