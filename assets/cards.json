@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12303",
+    "title": "Carbamide Forte Micronized Creatine MonoHydrate 500g @872 +",
+    "description": "Carbamide Forte Micronized Creatine MonoHydrate 500g @872 + Coupon https://www.amazon.in/dp/B0DV8X3FG2?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DV8X3FG2?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DV8X3FG2?tag=bestpricezo0f-21",
+        "label": ""
+      }
+    ],
+    "raw_text": "Carbamide Forte Micronized Creatine MonoHydrate 500g @872 + Coupon \n\nhttps://www.amazon.in/dp/B0DV8X3FG2?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DV8X3FG2?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12303.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-11T17:50:41+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DV8X3FG2?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-11T17:50:41+00:00"
+  },
+  {
     "id": "msg12301",
     "title": "MarQ Water Dispenser at 4600",
     "description": "MarQ Water Dispenser at 4600. https://fkrt.co/poPtVi",
@@ -8230,25 +8250,5 @@
     "date_obj": "2025-10-09T18:50:37+00:00",
     "buy_link": "https://fkrt.co/MS6xtK",
     "date_iso": "2025-10-09T18:50:37+00:00"
-  },
-  {
-    "id": "msg11652",
-    "title": "Livon Hyaluron Shampoo for Women & Men Hydrates Dry & Dull Hair 2x Soft & Shiny Hair @224",
-    "description": "Flipkart | Livon Hyaluron Shampoo for Women & Men |Hydrates Dry & Dull Hair |2x Soft & Shiny Hair @224",
-    "shortlink": "https://fkrt.co/EPmvOZ",
-    "urls": [
-      {
-        "url": "https://fkrt.co/EPmvOZ",
-        "label": "Livon Hyaluron Shampoo for Women & Men |Hydrates Dry & Dull Hair |2x Soft & Shiny Hair @224"
-      }
-    ],
-    "raw_text": "Flipkart | Livon Hyaluron Shampoo for Women & Men |Hydrates Dry & Dull Hair |2x Soft & Shiny Hair @224\n\nhttps://fkrt.co/EPmvOZ",
-    "final_url": "https://fkrt.co/EPmvOZ",
-    "local_image": "assets/images/tgmsg_11652.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T18:55:00+00:00",
-    "buy_link": "https://fkrt.co/EPmvOZ",
-    "date_iso": "2025-10-09T18:55:00+00:00"
   }
 ]
