@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg12306",
+    "title": "Up to 70% Off On Branded Shampoo",
+    "description": "Flipkart | Upto 70% Off On Branded Shampoos. DOVE : Tresemme : L'Oreal Paris : More :",
+    "shortlink": "https://fkrt.co/7hjoKh",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70% Off On Branded Shampoos"
+      },
+      {
+        "url": "https://fkrt.co/7hjoKh",
+        "label": "DOVE"
+      },
+      {
+        "url": "https://fkrt.co/UTYgL1",
+        "label": "Tresemme"
+      },
+      {
+        "url": "https://fkrt.co/HN46T7",
+        "label": "L'Oreal Paris"
+      },
+      {
+        "url": "https://fkrt.co/0lpPGZ",
+        "label": "More"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 70% Off On Branded Shampoos.\n\nDOVE : https://fkrt.co/7hjoKh\nTresemme : https://fkrt.co/UTYgL1\nL'Oreal Paris : https://fkrt.co/HN46T7\n\nMore : https://fkrt.co/0lpPGZ",
+    "final_url": "https://fkrt.co/7hjoKh",
+    "local_image": "assets/images/tgmsg_12306.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-11T18:23:11+00:00",
+    "buy_link": "https://fkrt.co/7hjoKh",
+    "date_iso": "2025-10-11T18:23:11+00:00"
+  },
+  {
     "id": "msg12304",
     "title": "💥Topwear Min 80% OFF",
     "description": "💥AJIO : Topwear Min 80% OFF Link : https://ajiio.co/SeVhFe",
@@ -8210,41 +8246,5 @@
     "date_obj": "2025-10-09T18:49:42+00:00",
     "buy_link": "https://fkrt.co/71EJw9",
     "date_iso": "2025-10-09T18:49:42+00:00"
-  },
-  {
-    "id": "msg11636",
-    "title": "Up to 70% Off On Nivea Beauty Product",
-    "description": "Flipkart | Upto 70% Off On Nivea Beauty Products. Lakme : Ponds : Set Wet : Puresense :",
-    "shortlink": "https://fkrt.co/UrtxSq",
-    "urls": [
-      {
-        "url": "https://fkrt.co/UrtxSq",
-        "label": "Upto 70% Off On Nivea Beauty Products"
-      },
-      {
-        "url": "https://fkrt.co/lx0OP0",
-        "label": "Lakme"
-      },
-      {
-        "url": "https://fkrt.co/Vg7xyO",
-        "label": "Ponds"
-      },
-      {
-        "url": "https://fkrt.co/KMOBN3",
-        "label": "Set Wet"
-      },
-      {
-        "url": "https://fkrt.co/tfxp0S",
-        "label": "Puresense"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 70% Off On Nivea Beauty Products. \n\n https://fkrt.co/UrtxSq\n\nLakme :  https://fkrt.co/lx0OP0\n\nPonds :  https://fkrt.co/Vg7xyO\n\nSet Wet :  https://fkrt.co/KMOBN3\n\nPuresense :  https://fkrt.co/tfxp0S",
-    "final_url": "https://fkrt.co/UrtxSq",
-    "local_image": "assets/images/tgmsg_11636.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T18:50:00+00:00",
-    "buy_link": "https://fkrt.co/UrtxSq",
-    "date_iso": "2025-10-09T18:50:00+00:00"
   }
 ]
