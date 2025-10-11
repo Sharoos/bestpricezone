@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg12206",
+    "title": "Up to 85% Off On Spykar Clothing",
+    "description": "Ajio Upto 85% Off On Spykar Clothing. Men's : Women's : Upto 80% Off On Puma Clothing Men's : Women's :",
+    "shortlink": "https://ajiio.co/LC2A07",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Upto 85% Off On Spykar Clothing"
+      },
+      {
+        "url": "https://ajiio.co/LC2A07",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/vQv9Vf",
+        "label": "Women's"
+      },
+      {
+        "url": "",
+        "label": "Upto 80% Off On Puma Clothing"
+      },
+      {
+        "url": "https://ajiio.co/nOdet9",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/QmNMVz",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Ajio  Upto 85% Off On Spykar Clothing.\n\nMen's : https://ajiio.co/LC2A07 \nWomen's : https://ajiio.co/vQv9Vf \n\nUpto 80% Off On Puma Clothing \n\nMen's : https://ajiio.co/nOdet9 \nWomen's : https://ajiio.co/QmNMVz",
+    "final_url": "https://ajiio.co/LC2A07",
+    "local_image": "assets/images/tgmsg_12206.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-11T12:05:22+00:00",
+    "buy_link": "https://ajiio.co/LC2A07",
+    "date_iso": "2025-10-11T12:05:22+00:00"
+  },
+  {
     "id": "msg12199",
     "title": "Enjoy Extra 10% OFF when you 5 Shampoos 🧴✨",
     "description": "💆‍♀️ Treat Your Hair to the Best! 🌸 Myntra | Enjoy Extra 10% OFF when you buy 5 Shampoos 🧴✨ Use Code 👉 LATHERMORE at checkout 💰 Shop Now 🔗",
@@ -8158,29 +8198,5 @@
     "date_obj": "2025-10-09T13:26:22+00:00",
     "buy_link": "https://fkrt.co/kQN2Dr",
     "date_iso": "2025-10-09T13:26:22+00:00"
-  },
-  {
-    "id": "msg11511",
-    "title": "Extra Flat 20% Off On Haus & Kinder Luxury Bedsheets, Exclusively On",
-    "description": "Flipkart. Link : Steps to redeem: Open Flipkart App > Account > Coupons > Add coupons > Enter HAKB20 Once the coupon is applied, Prices shown will be inclusive of above extra 20% discount.",
-    "shortlink": "https://fkrt.co/geA0A3",
-    "urls": [
-      {
-        "url": "https://fkrt.co/geA0A3",
-        "label": "Extra Flat 20% Off On Haus & Kinder Luxury Bedsheets, Exclusively On Flipkart"
-      },
-      {
-        "url": "",
-        "label": "Open Flipkart App > Account > Coupons > Add coupons > Enter HAKB20"
-      }
-    ],
-    "raw_text": "Extra Flat 20% Off On Haus & Kinder Luxury Bedsheets, Exclusively On Flipkart.\n\nLink : https://fkrt.co/geA0A3\n\nSteps to redeem: Open Flipkart App > Account > Coupons > Add coupons > Enter HAKB20 \n\nOnce the coupon is applied, Prices shown will be inclusive of above extra 20% discount.",
-    "final_url": "https://fkrt.co/geA0A3",
-    "local_image": "assets/images/tgmsg_11511.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T13:29:14+00:00",
-    "buy_link": "https://fkrt.co/geA0A3",
-    "date_iso": "2025-10-09T13:29:14+00:00"
   }
 ]
