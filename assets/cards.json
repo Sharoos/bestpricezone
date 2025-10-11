@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg12199",
+    "title": "Enjoy Extra 10% OFF when you 5 Shampoos 🧴✨",
+    "description": "💆‍♀️ Treat Your Hair to the Best! 🌸 Myntra | Enjoy Extra 10% OFF when you buy 5 Shampoos 🧴✨ Use Code 👉 LATHERMORE at checkout 💰 Shop Now 🔗",
+    "shortlink": "https://myntr.in/faOiYK",
+    "urls": [
+      {
+        "url": "",
+        "label": "💆‍♀️ Treat Your Hair to the Best! 🌸"
+      },
+      {
+        "url": "",
+        "label": "Use Code 👉 LATHERMORE at checkout 💰"
+      },
+      {
+        "url": "https://myntr.in/faOiYK",
+        "label": "Shop Now"
+      }
+    ],
+    "raw_text": "💆‍♀️ Treat Your Hair to the Best! 🌸\n\nMyntra | Enjoy Extra 10% OFF when you buy 5 Shampoos 🧴✨\n\nUse Code 👉 LATHERMORE at checkout 💰\nShop Now \n🔗 https://myntr.in/faOiYK",
+    "final_url": "https://myntr.in/faOiYK",
+    "local_image": "assets/images/tgmsg_12199.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-11T11:46:54+00:00",
+    "buy_link": "https://myntr.in/faOiYK",
+    "date_iso": "2025-10-11T11:46:54+00:00"
+  },
+  {
     "id": "msg12192",
     "title": "Get Flat ₹200 OFF on top home & kitchen brands! ✨",
     "description": "Myntra HomeFlat20 Sale! 💥  Use Coupon: HOMEFLAT20 🏷️ 🛏️ BSB Home – Bedsheets & Blankets 🔗 🥤 Milton – Lunch Boxes & Water Bottles 🔗 🛏️ My Trident – Bedsheets & Blankets 🔗 🍳 Pigeon – Kitchen Essentials 🔗 ⚡ Bajaj – Kitchen…",
@@ -8154,29 +8182,5 @@
     "date_obj": "2025-10-09T13:29:14+00:00",
     "buy_link": "https://fkrt.co/geA0A3",
     "date_iso": "2025-10-09T13:29:14+00:00"
-  },
-  {
-    "id": "msg11512",
-    "title": "Extra Flat 20% Off On Raymond Home Luxury Bedsheets, Exclusively On",
-    "description": "Flipkart: Link : Steps to redeem: Open Flipkart App > Account > Coupons > Add coupons > Enter * RHB20* > Once the coupon is applied, Prices shown will be inclusive of Above Extra 20% Discount.",
-    "shortlink": "https://fkrt.co/45uG52",
-    "urls": [
-      {
-        "url": "https://fkrt.co/45uG52",
-        "label": "Extra Flat 20% Off On Raymond Home Luxury Bedsheets, Exclusively On Flipkart"
-      },
-      {
-        "url": "",
-        "label": "Open Flipkart App > Account > Coupons > Add coupons > Enter * RHB20* >"
-      }
-    ],
-    "raw_text": "Extra Flat 20% Off On Raymond Home Luxury Bedsheets, Exclusively On Flipkart: \n\nLink : https://fkrt.co/45uG52\n \nSteps to redeem: Open Flipkart App > Account > Coupons > Add coupons > Enter * RHB20* > \n\nOnce the coupon is applied, Prices shown will be inclusive of Above Extra 20% Discount.",
-    "final_url": "https://fkrt.co/45uG52",
-    "local_image": "assets/images/tgmsg_11512.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T13:29:16+00:00",
-    "buy_link": "https://fkrt.co/45uG52",
-    "date_iso": "2025-10-09T13:29:16+00:00"
   }
 ]
