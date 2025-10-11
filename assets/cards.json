@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12304",
+    "title": "💥Topwear Min 80% OFF",
+    "description": "💥AJIO : Topwear Min 80% OFF Link : https://ajiio.co/SeVhFe",
+    "shortlink": "https://ajiio.co/SeVhFe",
+    "urls": [
+      {
+        "url": "https://ajiio.co/SeVhFe",
+        "label": "💥AJIO : Topwear Min 80% OFF"
+      }
+    ],
+    "raw_text": "💥AJIO : Topwear Min 80% OFF  \n \nLink : https://ajiio.co/SeVhFe",
+    "final_url": "https://ajiio.co/SeVhFe",
+    "local_image": "assets/images/tgmsg_12304.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-11T18:10:03+00:00",
+    "buy_link": "https://ajiio.co/SeVhFe",
+    "date_iso": "2025-10-11T18:10:03+00:00"
+  },
+  {
     "id": "msg12303",
     "title": "Carbamide Forte Micronized Creatine MonoHydrate 500g @872 +",
     "description": "Carbamide Forte Micronized Creatine MonoHydrate 500g @872 + Coupon https://www.amazon.in/dp/B0DV8X3FG2?tag=bestpricezo0f-21",
@@ -8226,29 +8246,5 @@
     "date_obj": "2025-10-09T18:50:00+00:00",
     "buy_link": "https://fkrt.co/UrtxSq",
     "date_iso": "2025-10-09T18:50:00+00:00"
-  },
-  {
-    "id": "msg11638",
-    "title": "",
-    "description": "Flipkart Luggage : https://fkrt.co/MS6xtK Backpack : https://fkrt.co/G4BzoJ",
-    "shortlink": "https://fkrt.co/MS6xtK",
-    "urls": [
-      {
-        "url": "https://fkrt.co/MS6xtK",
-        "label": "Luggage"
-      },
-      {
-        "url": "https://fkrt.co/G4BzoJ",
-        "label": "Backpack"
-      }
-    ],
-    "raw_text": "Flipkart  \n\nLuggage : https://fkrt.co/MS6xtK\n\nBackpack : https://fkrt.co/G4BzoJ",
-    "final_url": "https://fkrt.co/MS6xtK",
-    "local_image": "assets/images/tgmsg_11638.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T18:50:37+00:00",
-    "buy_link": "https://fkrt.co/MS6xtK",
-    "date_iso": "2025-10-09T18:50:37+00:00"
   }
 ]
