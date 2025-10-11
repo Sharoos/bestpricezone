@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12429",
+    "title": "Samsung The Frame 108 cm (43 inch) QLED Ultra HD (4K) Smart Tizen TV @34999",
+    "description": "Flipkart | Samsung The Frame 108 cm (43 inch) QLED Ultra HD (4K) Smart Tizen TV @34999 https://fkrt.co/mZlRyg",
+    "shortlink": "https://fkrt.co/mZlRyg",
+    "urls": [
+      {
+        "url": "https://fkrt.co/mZlRyg",
+        "label": "Samsung The Frame 108 cm (43 inch) QLED Ultra HD (4K) Smart Tizen TV @34999"
+      }
+    ],
+    "raw_text": "Flipkart | Samsung The Frame 108 cm (43 inch) QLED Ultra HD (4K) Smart Tizen TV @34999\n\n https://fkrt.co/mZlRyg",
+    "final_url": "https://fkrt.co/mZlRyg",
+    "local_image": "assets/images/tgmsg_12429.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-11T19:36:19+00:00",
+    "buy_link": "https://fkrt.co/mZlRyg",
+    "date_iso": "2025-10-11T19:36:19+00:00"
+  },
+  {
     "id": "msg12426",
     "title": "RR Desert Air Cooler 115L @7499",
     "description": "Amazon | RR Desert Air Cooler 115L @7499 https://www.amazon.in/dp/B0FCY67C7L?th=1&psc=1&tag=bestpricezo0f-21 + Bank Offers Extra",
@@ -8302,25 +8322,5 @@
     "date_obj": "2025-10-09T19:11:36+00:00",
     "buy_link": "https://fkrt.co/XtV72L",
     "date_iso": "2025-10-09T19:11:36+00:00"
-  },
-  {
-    "id": "msg11706",
-    "title": "Apple iPad 2025 + Bank Offe",
-    "description": "Flipkart | Apple iPad 2025 + Bank Offer https://fkrt.co/Rue5Za",
-    "shortlink": "https://fkrt.co/Rue5Za",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Rue5Za",
-        "label": "Apple iPad 2025 + Bank Offer"
-      }
-    ],
-    "raw_text": "Flipkart | Apple iPad 2025 + Bank Offer\n\n https://fkrt.co/Rue5Za",
-    "final_url": "https://fkrt.co/Rue5Za",
-    "local_image": "assets/images/tgmsg_11706.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T19:12:49+00:00",
-    "buy_link": "https://fkrt.co/Rue5Za",
-    "date_iso": "2025-10-09T19:12:49+00:00"
   }
 ]
