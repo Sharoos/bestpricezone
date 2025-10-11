@@ -1,5 +1,101 @@
 [
   {
+    "id": "msg12164",
+    "title": "Tiaraa Necklace Deal",
+    "description": "Tiaraa Necklace Loot Deal Get 2 Necklaces @ ₹119 Only Use Code: CK2 Shop Now: https://bitli.in/5kLDegu",
+    "shortlink": "https://bitli.in/5kLDegu",
+    "urls": [
+      {
+        "url": "",
+        "label": "Tiaraa Necklace Loot Deal"
+      },
+      {
+        "url": "",
+        "label": "Get 2 Necklaces @ ₹119 Only"
+      },
+      {
+        "url": "",
+        "label": "CK2"
+      },
+      {
+        "url": "https://bitli.in/5kLDegu",
+        "label": "Shop Now"
+      }
+    ],
+    "raw_text": "Tiaraa Necklace Loot Deal\n\nGet 2 Necklaces @ ₹119 Only\n\nUse Code: CK2\n\nShop Now: https://bitli.in/5kLDegu",
+    "final_url": "https://bitli.in/5kLDegu",
+    "local_image": "assets/images/tgmsg_12164.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-10-11T09:00:55+00:00",
+    "buy_link": "https://bitli.in/5kLDegu",
+    "date_iso": "2025-10-11T09:00:55+00:00"
+  },
+  {
+    "id": "msg12165",
+    "title": "SKYBAGS 21.65 L Backpack BRAT Starting @ Rs. 349",
+    "description": "Flipkart | SKYBAGS 21.65 L Backpack BRAT Starting @ Rs. 349 👉https://fkrt.co/6zk46x",
+    "shortlink": "https://fkrt.co/6zk46x",
+    "urls": [
+      {
+        "url": "https://fkrt.co/6zk46x",
+        "label": "SKYBAGS 21.65 L Backpack BRAT Starting @ Rs. 349"
+      }
+    ],
+    "raw_text": "Flipkart | SKYBAGS 21.65 L Backpack BRAT Starting @ Rs. 349 \n\n👉https://fkrt.co/6zk46x",
+    "final_url": "https://fkrt.co/6zk46x",
+    "local_image": "assets/images/tgmsg_12165.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-11T09:05:16+00:00",
+    "buy_link": "https://fkrt.co/6zk46x",
+    "date_iso": "2025-10-11T09:05:16+00:00"
+  },
+  {
+    "id": "msg12166",
+    "title": "👕 T",
+    "description": "👕 AJIO T-Shirt & Cargo Pants ! T-Shirts 🛒 Starting Price: ₹99 Women: Men: Cargo Pants Men: Women:",
+    "shortlink": "https://ajiio.co/K9YOS2",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 AJIO T-Shirt & Cargo Pants !"
+      },
+      {
+        "url": "",
+        "label": "🛒 Starting Price: ₹99"
+      },
+      {
+        "url": "https://ajiio.co/K9YOS2",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/G9EAGV",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Cargo Pants"
+      },
+      {
+        "url": "https://ajiio.co/WscM7N",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/dzqYJq",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "👕 AJIO T-Shirt & Cargo Pants !\n\nT-Shirts\n\n🛒 Starting Price: ₹99\n\nWomen: https://ajiio.co/K9YOS2\nMen: https://ajiio.co/G9EAGV\n\nCargo Pants\n\nMen: https://ajiio.co/WscM7N\nWomen: https://ajiio.co/dzqYJq",
+    "final_url": "https://ajiio.co/K9YOS2",
+    "local_image": "assets/images/tgmsg_12166.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-11T09:13:49+00:00",
+    "buy_link": "https://ajiio.co/K9YOS2",
+    "date_iso": "2025-10-11T09:13:49+00:00"
+  },
+  {
     "id": "msg12163",
     "title": "Colorbar Magic Essentials Makeup Diwali Kit at 80% Off (Never Before)",
     "description": "Myntra | Colorbar Magic Essentials Makeup Diwali Kit at 80% Off (Never Before) : https://myntr.in/TOFJut",
@@ -8094,133 +8190,5 @@
     "date_obj": "2025-10-09T10:30:08+00:00",
     "buy_link": "https://fkrt.co/gaQfrB",
     "date_iso": "2025-10-09T10:30:08+00:00"
-  },
-  {
-    "id": "msg11482",
-    "title": "T",
-    "description": "AJIO Loot : T-shirts Starts @ 99. Women : https://ajiio.in/w6SSF5M Men : https://ajiio.in/1c7bIxi Cargo Pants. Men : https://ajiio.in/s2ne6gV Women : https://ajiio.in/R9QHseH",
-    "shortlink": "https://ajiio.in/w6SSF5M",
-    "urls": [
-      {
-        "url": "",
-        "label": "T-shirts Starts @ 99"
-      },
-      {
-        "url": "https://ajiio.in/w6SSF5M",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.in/1c7bIxi",
-        "label": "Men"
-      },
-      {
-        "url": "",
-        "label": "Cargo Pants"
-      },
-      {
-        "url": "https://ajiio.in/s2ne6gV",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.in/R9QHseH",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "AJIO Loot : T-shirts Starts @ 99.\n \nWomen : https://ajiio.in/w6SSF5M \nMen : https://ajiio.in/1c7bIxi\n\nCargo Pants. \nMen : https://ajiio.in/s2ne6gV \nWomen : https://ajiio.in/R9QHseH",
-    "final_url": "https://ajiio.in/w6SSF5M",
-    "local_image": "assets/images/tgmsg_11482.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-09T09:51:56+00:00",
-    "buy_link": "https://ajiio.in/w6SSF5M",
-    "date_iso": "2025-10-09T09:51:56+00:00"
-  },
-  {
-    "id": "msg11483",
-    "title": "Up to 88% Off On Top Brands Luggage",
-    "description": "Flipkart | Upto 88% Off On Top Brands Luggage. Safari : Aristocrat : VIP : S Size : M Size : L Size : Pack Of 2 : Pack Of 3 :",
-    "shortlink": "https://fkrt.co/WSRU8d",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 88% Off On Top Brands Luggage"
-      },
-      {
-        "url": "https://fkrt.co/WSRU8d",
-        "label": "Safari"
-      },
-      {
-        "url": "https://fkrt.co/NpZYYh",
-        "label": "Aristocrat"
-      },
-      {
-        "url": "https://fkrt.co/N8NYez",
-        "label": "VIP"
-      },
-      {
-        "url": "https://fkrt.co/QGKm7T",
-        "label": "S Size"
-      },
-      {
-        "url": "https://fkrt.co/JI0QYG",
-        "label": "M Size"
-      },
-      {
-        "url": "https://fkrt.co/Qp2aH2",
-        "label": "L Size"
-      },
-      {
-        "url": "https://fkrt.co/NCeyx7",
-        "label": "Pack Of 2"
-      },
-      {
-        "url": "https://fkrt.co/dcDN42",
-        "label": "Pack Of 3"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 88% Off On Top Brands Luggage. \n \nSafari : https://fkrt.co/WSRU8d \nAristocrat : https://fkrt.co/NpZYYh \nVIP : https://fkrt.co/N8NYez \n \nS Size : https://fkrt.co/QGKm7T \nM Size : https://fkrt.co/JI0QYG \nL Size : https://fkrt.co/Qp2aH2 \n \nPack Of 2 : https://fkrt.co/NCeyx7 \nPack Of 3 : https://fkrt.co/dcDN42",
-    "final_url": "https://fkrt.co/WSRU8d",
-    "local_image": "assets/images/tgmsg_11483.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T10:01:53+00:00",
-    "buy_link": "https://fkrt.co/WSRU8d",
-    "date_iso": "2025-10-09T10:01:53+00:00"
-  },
-  {
-    "id": "msg11480",
-    "title": "Up to 80% Off On USPA Clothing",
-    "description": "AJIO Loot : Upto 80% Off On USPA Clothing. Men’s : https://ajiio.in/OwgmRIe Women’s : https://ajiio.in/PddTWAN Boys : https://ajiio.in/cWbVmBk Girls : https://ajiio.in/tDscR3X",
-    "shortlink": "https://ajiio.in/OwgmRIe",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On USPA Clothing"
-      },
-      {
-        "url": "https://ajiio.in/OwgmRIe",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.in/PddTWAN",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://ajiio.in/cWbVmBk",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.in/tDscR3X",
-        "label": "Girls"
-      }
-    ],
-    "raw_text": "AJIO Loot : Upto 80% Off On USPA Clothing. \n\nMen’s : https://ajiio.in/OwgmRIe\nWomen’s : https://ajiio.in/PddTWAN\nBoys : https://ajiio.in/cWbVmBk\nGirls : https://ajiio.in/tDscR3X",
-    "final_url": "https://ajiio.in/OwgmRIe",
-    "local_image": "assets/images/tgmsg_11480.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-09T09:40:50+00:00",
-    "buy_link": "https://ajiio.in/OwgmRIe",
-    "date_iso": "2025-10-09T09:40:50+00:00"
   }
 ]
