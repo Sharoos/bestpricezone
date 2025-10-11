@@ -1,5 +1,81 @@
 [
   {
+    "id": "msg12227",
+    "title": "Noise Colorfit Icon 2 1.8'' Display Smartwatch 999",
+    "description": "Flipkart | Noise Colorfit Icon 2 1.8'' Display Smartwatch 999 🛒 https://fkrt.co/utwjAR",
+    "shortlink": "https://fkrt.co/utwjAR",
+    "urls": [
+      {
+        "url": "https://fkrt.co/utwjAR",
+        "label": "Noise Colorfit Icon 2 1.8'' Display Smartwatch 999"
+      }
+    ],
+    "raw_text": "Flipkart | Noise Colorfit Icon 2 1.8'' Display Smartwatch 999\n\n🛒 https://fkrt.co/utwjAR",
+    "final_url": "https://fkrt.co/utwjAR",
+    "local_image": "assets/images/tgmsg_12227.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-11T13:21:58+00:00",
+    "buy_link": "https://fkrt.co/utwjAR",
+    "date_iso": "2025-10-11T13:21:58+00:00"
+  },
+  {
+    "id": "msg12228",
+    "title": "Diwali Lightings Up to 90% Off",
+    "description": "Diwali Lightings Upto 90% Off.…",
+    "shortlink": "https://www.amazon.in/stores/page/preview?isPreview=1&isSlp=1&asins=B08133KHMR%2CB084ZNM4PM%2CB0FQTXYJSF%2CB0FNDJBZYR%2CB0DJ5CSNHW%2CB0CPJG98B4%2CB0FQTYX2M3%2CB0FLK2798Z%2CB0813B7SVH%2CB0CRZDY5QR&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/stores/page/preview?isPreview=1&isSlp=1&asins=B08133KHMR%2CB084ZNM4PM%2CB0FQTXYJSF%2CB0FNDJBZYR%2CB0DJ5CSNHW%2CB0CPJG98B4%2CB0FQTYX2M3%2CB0FLK2798Z%2CB0813B7SVH%2CB0CRZDY5QR&tag=bestpricezo0f-21",
+        "label": "Diwali Lightings Upto 90% Off"
+      },
+      {
+        "url": "",
+        "label": "Items Starting At 149"
+      }
+    ],
+    "raw_text": "Diwali Lightings Upto 90% Off.\n\nhttps://www.amazon.in/stores/page/preview?isPreview=1&isSlp=1&asins=B08133KHMR%2CB084ZNM4PM%2CB0FQTXYJSF%2CB0FNDJBZYR%2CB0DJ5CSNHW%2CB0CPJG98B4%2CB0FQTYX2M3%2CB0FLK2798Z%2CB0813B7SVH%2CB0CRZDY5QR&tag=bestpricezo0f-21\n\nItems Starting At 149",
+    "final_url": "https://www.amazon.in/stores/page/preview?isPreview=1&isSlp=1&asins=B08133KHMR%2CB084ZNM4PM%2CB0FQTXYJSF%2CB0FNDJBZYR%2CB0DJ5CSNHW%2CB0CPJG98B4%2CB0FQTYX2M3%2CB0FLK2798Z%2CB0813B7SVH%2CB0CRZDY5QR&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12228.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-11T13:27:07+00:00",
+    "buy_link": "https://www.amazon.in/stores/page/preview?isPreview=1&isSlp=1&asins=B08133KHMR%2CB084ZNM4PM%2CB0FQTXYJSF%2CB0FNDJBZYR%2CB0DJ5CSNHW%2CB0CPJG98B4%2CB0FQTYX2M3%2CB0FLK2798Z%2CB0813B7SVH%2CB0CRZDY5QR&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-11T13:27:07+00:00"
+  },
+  {
+    "id": "msg12230",
+    "title": "Up to 80% Off On Mast & Harbour Men's Clothing",
+    "description": "Myntra : Upto 80% Off On Mast & Harbour Men's Clothing. T-Shirt : Shirt : Jeans :",
+    "shortlink": "https://myntr.in/q05UG0",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On Mast & Harbour Men's Clothing"
+      },
+      {
+        "url": "https://myntr.in/q05UG0",
+        "label": "T-Shirt"
+      },
+      {
+        "url": "https://myntr.in/lc3Vtq",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://myntr.in/6Hl4gR",
+        "label": "Jeans"
+      }
+    ],
+    "raw_text": "Myntra : Upto 80% Off On Mast & Harbour Men's Clothing.\n\nT-Shirt : https://myntr.in/q05UG0\nShirt : https://myntr.in/lc3Vtq\nJeans : https://myntr.in/6Hl4gR",
+    "final_url": "https://myntr.in/q05UG0",
+    "local_image": "assets/images/tgmsg_12230.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-11T13:31:56+00:00",
+    "buy_link": "https://myntr.in/q05UG0",
+    "date_iso": "2025-10-11T13:31:56+00:00"
+  },
+  {
     "id": "msg12224",
     "title": "Up to 75% Off On CLARKS Footwea",
     "description": "AJIO : Upto 75% Off On CLARKS Footwears. Women : https://ajiio.co/qqvyOY Men : https://ajiio.co/CSkyMF",
@@ -8150,109 +8226,5 @@
     "date_obj": "2025-10-09T14:59:54+00:00",
     "buy_link": "https://fkrt.co/XEpKmW",
     "date_iso": "2025-10-09T14:59:54+00:00"
-  },
-  {
-    "id": "msg11534",
-    "title": "DressBerry Women Flats Starts @ 299",
-    "description": "Myntra | DressBerry Women Flats Starts @ 299. 👉https://myntr.in/fA85LK",
-    "shortlink": "https://myntr.in/fA85LK",
-    "urls": [
-      {
-        "url": "https://myntr.in/fA85LK",
-        "label": "DressBerry Women Flats Starts @ 299"
-      }
-    ],
-    "raw_text": "Myntra | DressBerry Women Flats Starts @ 299.\n\n👉https://myntr.in/fA85LK",
-    "final_url": "https://myntr.in/fA85LK",
-    "local_image": "assets/images/tgmsg_11534.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-09T15:01:54+00:00",
-    "buy_link": "https://myntr.in/fA85LK",
-    "date_iso": "2025-10-09T15:01:54+00:00"
-  },
-  {
-    "id": "msg11536",
-    "title": "🔥Premium time wear up to 30% ⌚️ prepaid offer Citizen, Casio & more⌚️",
-    "description": "🔥Ajio | Premium time wear up to 30% ⌚️ prepaid offer  Citizen, Casio & more⌚️ 🖇️https://ajiio.co/QquZb6",
-    "shortlink": "https://ajiio.co/QquZb6",
-    "urls": [
-      {
-        "url": "https://ajiio.co/QquZb6",
-        "label": "🔥Ajio | Premium time wear up to 30% ⌚️ prepaid offer Citizen, Casio & more⌚️"
-      }
-    ],
-    "raw_text": "🔥Ajio | Premium time wear up to 30% ⌚️ prepaid offer  Citizen, Casio & more⌚️\n\n🖇️https://ajiio.co/QquZb6",
-    "final_url": "https://ajiio.co/QquZb6",
-    "local_image": "assets/images/tgmsg_11536.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-09T15:16:51+00:00",
-    "buy_link": "https://ajiio.co/QquZb6",
-    "date_iso": "2025-10-09T15:16:51+00:00"
-  },
-  {
-    "id": "msg11524",
-    "title": "🔥Up to 80% Off On The Indian Garage Clothing",
-    "description": "🔥AJIO Upto 80% Off On The Indian Garage Clothing. Tshirts : Shirts : Jeans : Sweatshirts & Hoodies : Trousers : Trackpants : Jackets : Sweaters : Blazers & Coats : Kurta : Shorts :",
-    "shortlink": "https://ajiio.co/by0Hhz",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥AJIO Upto 80% Off On The Indian Garage Clothing"
-      },
-      {
-        "url": "https://ajiio.co/by0Hhz",
-        "label": "Tshirts"
-      },
-      {
-        "url": "https://ajiio.co/A3xr7X",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/cfvceE",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/IKaXol",
-        "label": "Sweatshirts & Hoodies"
-      },
-      {
-        "url": "https://ajiio.co/1gyOGC",
-        "label": "Trousers"
-      },
-      {
-        "url": "https://ajiio.co/Ggbjv7",
-        "label": "Trackpants"
-      },
-      {
-        "url": "https://ajiio.co/QbqN5S",
-        "label": "Jackets"
-      },
-      {
-        "url": "https://ajiio.co/ctcDL6",
-        "label": "Sweaters"
-      },
-      {
-        "url": "https://ajiio.co/3ZB9YV",
-        "label": "Blazers & Coats"
-      },
-      {
-        "url": "https://ajiio.co/LEOtpi",
-        "label": "Kurta"
-      },
-      {
-        "url": "https://ajiio.co/81fXS1",
-        "label": "Shorts"
-      }
-    ],
-    "raw_text": "🔥AJIO  Upto 80% Off On The Indian Garage Clothing.\n\nTshirts : https://ajiio.co/by0Hhz\nShirts : https://ajiio.co/A3xr7X\nJeans : https://ajiio.co/cfvceE\nSweatshirts & Hoodies : https://ajiio.co/IKaXol\nTrousers : https://ajiio.co/1gyOGC\nTrackpants : https://ajiio.co/Ggbjv7\nJackets  : https://ajiio.co/QbqN5S\nSweaters : https://ajiio.co/ctcDL6\nBlazers & Coats : https://ajiio.co/3ZB9YV\nKurta : https://ajiio.co/LEOtpi\nShorts : https://ajiio.co/81fXS1",
-    "final_url": "https://ajiio.co/by0Hhz",
-    "local_image": "assets/images/tgmsg_11524.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-09T14:33:58+00:00",
-    "buy_link": "https://ajiio.co/by0Hhz",
-    "date_iso": "2025-10-09T14:33:58+00:00"
   }
 ]
