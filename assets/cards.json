@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg12153",
+    "title": "Face Moisturisers Starting @ just ₹99",
+    "description": "Myntra | Face Moisturisers Starting @ just ₹99 Link : https://myntr.in/YaF3sC",
+    "shortlink": "https://myntr.in/YaF3sC",
+    "urls": [
+      {
+        "url": "https://myntr.in/YaF3sC",
+        "label": "Face Moisturisers Starting @ just ₹99"
+      }
+    ],
+    "raw_text": "Myntra | Face Moisturisers Starting @ just ₹99\n \nLink : https://myntr.in/YaF3sC",
+    "final_url": "https://myntr.in/YaF3sC",
+    "local_image": "assets/images/tgmsg_12153.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-11T07:11:51+00:00",
+    "buy_link": "https://myntr.in/YaF3sC",
+    "date_iso": "2025-10-11T07:11:51+00:00"
+  },
+  {
+    "id": "msg12154",
+    "title": "HRX Cabin Luggage @1249",
+    "description": "Flipkart  HRX Cabin Luggage @1249. https://fkrt.co/5k2I3f Master Link : https://fkrt.co/iDzLt5",
+    "shortlink": "https://fkrt.co/5k2I3f",
+    "urls": [
+      {
+        "url": "https://fkrt.co/5k2I3f",
+        "label": "Flipkart HRX Cabin Luggage @1249"
+      },
+      {
+        "url": "https://fkrt.co/iDzLt5",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Flipkart  HRX Cabin Luggage @1249.\n\nhttps://fkrt.co/5k2I3f\n\nMaster Link : https://fkrt.co/iDzLt5",
+    "final_url": "https://fkrt.co/5k2I3f",
+    "local_image": "assets/images/tgmsg_12154.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-11T07:21:14+00:00",
+    "buy_link": "https://fkrt.co/5k2I3f",
+    "date_iso": "2025-10-11T07:21:14+00:00"
+  },
+  {
     "id": "msg12151",
     "title": "Flat 70% Off On Lee Cooper Clothing.+ 10% Extra Cash",
     "description": "AJIO Flat 70% Off On Lee Cooper Clothing.+ 10% Extra Ajio Cash Men's | T-Shirt : Shirt : Jeans : Shorts : Sweatshirt : Trousers : Women's | T-Shirt : Tops & Shirt : Dresses : Jeans : Shorts :",
@@ -8214,97 +8258,5 @@
     "date_obj": "2025-10-09T08:51:54+00:00",
     "buy_link": "https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
     "date_iso": "2025-10-09T08:51:54+00:00"
-  },
-  {
-    "id": "msg11470",
-    "title": "Snitch Men’s Cargo Trousers Starts @ 749",
-    "description": "Myntra : . 👉 Trousers from Rs.650 : Jeans : Tshirts : Shirts : Shackets : Sweatshirts : Jackets :",
-    "shortlink": "https://myntr.in/Qcfbqb",
-    "urls": [
-      {
-        "url": "https://myntr.in/Qcfbqb",
-        "label": "Snitch Men’s Cargo Trousers Starts @ 749"
-      },
-      {
-        "url": "https://myntr.in/4Vk7fo",
-        "label": "Trousers from Rs.650"
-      },
-      {
-        "url": "https://myntr.in/VoCU9P",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://myntr.in/s1R3ey",
-        "label": "Tshirts"
-      },
-      {
-        "url": "https://myntr.in/l5GZDg",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://myntr.in/2LTvtN",
-        "label": "Shackets"
-      },
-      {
-        "url": "https://myntr.in/rIvzw7",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://myntr.in/SaEMvI",
-        "label": "Jackets"
-      }
-    ],
-    "raw_text": "Myntra : Snitch Men’s Cargo Trousers Starts @ 749.\n\n👉https://myntr.in/Qcfbqb\n\nTrousers from Rs.650 : \nhttps://myntr.in/4Vk7fo\n\nJeans : https://myntr.in/VoCU9P\nTshirts : https://myntr.in/s1R3ey\nShirts : https://myntr.in/l5GZDg\nShackets : https://myntr.in/2LTvtN\nSweatshirts : https://myntr.in/rIvzw7\nJackets : https://myntr.in/SaEMvI",
-    "final_url": "https://myntr.in/Qcfbqb",
-    "local_image": "assets/images/tgmsg_11470.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-09T08:21:49+00:00",
-    "buy_link": "https://myntr.in/Qcfbqb",
-    "date_iso": "2025-10-09T08:21:49+00:00"
-  },
-  {
-    "id": "msg11472",
-    "title": "Ethnic Sets Starts @ 299",
-    "description": "Flipkart 💥💥 Dailywear Kurtis @ 199 👉 Everyday Sarees @ 239 👉 Anarkali Kurtis @ 299 👉  👉 Festive Ethnic Sets @ 399 👉 Kanjivaram, Banarasi Sarees @ 499 👉 Lehenga Cholis @ 599 👉",
-    "shortlink": "https://fkrt.co/dj0KsB",
-    "urls": [
-      {
-        "url": "https://fkrt.co/dj0KsB",
-        "label": "Dailywear Kurtis @ 199"
-      },
-      {
-        "url": "https://fkrt.co/nsZmks",
-        "label": "Everyday Sarees @ 239"
-      },
-      {
-        "url": "https://fkrt.co/OvWrB5",
-        "label": "Anarkali Kurtis @ 299"
-      },
-      {
-        "url": "https://fkrt.co/keOei7",
-        "label": "Ethnic Sets Starts @ 299"
-      },
-      {
-        "url": "https://fkrt.co/VJ5kWE",
-        "label": "Festive Ethnic Sets @ 399"
-      },
-      {
-        "url": "https://fkrt.co/tni7P2",
-        "label": "Kanjivaram, Banarasi Sarees @ 499"
-      },
-      {
-        "url": "https://fkrt.co/jFgKeH",
-        "label": "Lehenga Cholis @ 599"
-      }
-    ],
-    "raw_text": "Flipkart  💥💥\n\nDailywear Kurtis @ 199\n👉https://fkrt.co/dj0KsB\n\nEveryday Sarees @ 239\n👉https://fkrt.co/nsZmks\n\nAnarkali Kurtis @ 299\n👉https://fkrt.co/OvWrB5\n\nEthnic Sets Starts @ 299\n👉https://fkrt.co/keOei7\n\nFestive Ethnic Sets @ 399\n👉https://fkrt.co/VJ5kWE\n\nKanjivaram, Banarasi Sarees @ 499\n👉https://fkrt.co/tni7P2\n\nLehenga Cholis @ 599\n👉https://fkrt.co/jFgKeH",
-    "final_url": "https://fkrt.co/dj0KsB",
-    "local_image": "assets/images/tgmsg_11472.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T08:31:48+00:00",
-    "buy_link": "https://fkrt.co/dj0KsB",
-    "date_iso": "2025-10-09T08:31:48+00:00"
   }
 ]
