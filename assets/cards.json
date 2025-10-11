@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg12180",
+    "title": "Roadster Sweatshirts Starts @ 289",
+    "description": "Myntra : Roadster Sweatshirts Starts @ 289. Men's : https://myntr.in/LNW9Pn Women's : https://myntr.in/uWqu8W",
+    "shortlink": "https://myntr.in/LNW9Pn",
+    "urls": [
+      {
+        "url": "",
+        "label": "Roadster Sweatshirts Starts @ 289"
+      },
+      {
+        "url": "https://myntr.in/LNW9Pn",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/uWqu8W",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Myntra : Roadster Sweatshirts Starts @ 289.\n\nMen's : https://myntr.in/LNW9Pn\nWomen's : https://myntr.in/uWqu8W",
+    "final_url": "https://myntr.in/LNW9Pn",
+    "local_image": "assets/images/tgmsg_12180.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-11T10:43:31+00:00",
+    "buy_link": "https://myntr.in/LNW9Pn",
+    "date_iso": "2025-10-11T10:43:31+00:00"
+  },
+  {
     "id": "msg12177",
     "title": "Dove Serum Bar (125g x 😎 @477",
     "description": "Amazon | Dove Serum Bar (125g x 😎 @477. https://www.amazon.in/dp/B08S58S29R?th=1&psc=1&tag=bestpricezo0f-21 350 https://www.amazon.in/dp/B07BNS25DB?th=1&psc=1&tag=bestpricezo0f-21 More :…",
@@ -8170,25 +8198,5 @@
     "date_obj": "2025-10-09T12:04:27+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DKNM4GPM?tag=bestpricezo0f-21",
     "date_iso": "2025-10-09T12:04:27+00:00"
-  },
-  {
-    "id": "msg11497",
-    "title": "[ All Brand ] Up to 80% Off On Men's Jogge",
-    "description": "Ajio | [ All Brand ] Upto 80% Off On Men's Joggers 👉https://ajiio.co/4w3xi2",
-    "shortlink": "https://ajiio.co/4w3xi2",
-    "urls": [
-      {
-        "url": "https://ajiio.co/4w3xi2",
-        "label": "[ All Brand ] Upto 80% Off On Men's Joggers"
-      }
-    ],
-    "raw_text": "Ajio | [ All Brand ] Upto 80% Off On Men's Joggers\n\n👉https://ajiio.co/4w3xi2",
-    "final_url": "https://ajiio.co/4w3xi2",
-    "local_image": "assets/images/tgmsg_11497.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-09T12:15:01+00:00",
-    "buy_link": "https://ajiio.co/4w3xi2",
-    "date_iso": "2025-10-09T12:15:01+00:00"
   }
 ]
