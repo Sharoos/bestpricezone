@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg12123",
+    "title": "Up to 80% Off on Sunglasses Starts At Rs.419",
+    "description": "Ajio | Upto 80% Off on Sunglasses Starts At Rs.419 👉Link : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/NeWUo8",
+    "urls": [
+      {
+        "url": "https://ajiio.co/NeWUo8",
+        "label": "Upto 80% Off on Sunglasses Starts At Rs.419"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "Ajio | Upto 80% Off on Sunglasses Starts At Rs.419\n \n👉Link : https://ajiio.co/NeWUo8\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/NeWUo8",
+    "local_image": "assets/images/tgmsg_12123.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-11T03:52:03+00:00",
+    "buy_link": "https://ajiio.co/NeWUo8",
+    "date_iso": "2025-10-11T03:52:03+00:00"
+  },
+  {
     "id": "msg12120",
     "title": "Top Smart Wearables Starts @ 799",
     "description": "Flipkart | Top Smart Wearables Starts @ 799. 👉https://fkrt.co/b6Q5U8",
@@ -8290,29 +8314,5 @@
     "date_obj": "2025-10-09T06:51:53+00:00",
     "buy_link": "https://ajiio.co/e9BRzb",
     "date_iso": "2025-10-09T06:51:53+00:00"
-  },
-  {
-    "id": "msg11447",
-    "title": "Up to 90% Off On Kook N Keech Men's T",
-    "description": "Myntra : Upto 90% Off On Kook N Keech Men's T-Shirts 👉https://myntr.in/zgmQYg 👉https://myntr.in/fFeTqu",
-    "shortlink": "https://myntr.in/zgmQYg",
-    "urls": [
-      {
-        "url": "https://myntr.in/zgmQYg",
-        "label": "Upto 90% Off On Kook N Keech Men's T-Shirts"
-      },
-      {
-        "url": "https://myntr.in/fFeTqu",
-        "label": ""
-      }
-    ],
-    "raw_text": "Myntra : Upto 90% Off On Kook N Keech Men's T-Shirts\n\n👉https://myntr.in/zgmQYg\n👉https://myntr.in/fFeTqu",
-    "final_url": "https://myntr.in/zgmQYg",
-    "local_image": "assets/images/tgmsg_11447.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-09T06:01:52+00:00",
-    "buy_link": "https://myntr.in/zgmQYg",
-    "date_iso": "2025-10-09T06:01:52+00:00"
   }
 ]
