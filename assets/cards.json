@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg12301",
+    "title": "MarQ Water Dispenser at 4600",
+    "description": "MarQ Water Dispenser at 4600. https://fkrt.co/poPtVi",
+    "shortlink": "https://fkrt.co/poPtVi",
+    "urls": [
+      {
+        "url": "https://fkrt.co/poPtVi",
+        "label": "MarQ Water Dispenser at 4600"
+      }
+    ],
+    "raw_text": "MarQ Water Dispenser at 4600.\n\nhttps://fkrt.co/poPtVi",
+    "final_url": "https://fkrt.co/poPtVi",
+    "local_image": "assets/images/tgmsg_12301.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-11T17:33:00+00:00",
+    "buy_link": "https://fkrt.co/poPtVi",
+    "date_iso": "2025-10-11T17:33:00+00:00"
+  },
+  {
+    "id": "msg12302",
+    "title": "Happilo Premium Diwali Gift Pack with 8 Inclusions @169",
+    "description": "Loot: Happilo Premium Diwali Gift Pack with 8 Inclusions @169 https://www.amazon.in/dp/B0CF98YNHZ?tag=bestpricezo0f-21 *Buy 2 & Get Extra 10% Off*",
+    "shortlink": "https://www.amazon.in/dp/B0CF98YNHZ?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CF98YNHZ?tag=bestpricezo0f-21",
+        "label": "Happilo Premium Diwali Gift Pack with 8 Inclusions @169"
+      }
+    ],
+    "raw_text": "Loot: Happilo Premium Diwali Gift Pack with 8 Inclusions @169\n\nhttps://www.amazon.in/dp/B0CF98YNHZ?tag=bestpricezo0f-21\n\n*Buy 2 & Get Extra 10% Off*",
+    "final_url": "https://www.amazon.in/dp/B0CF98YNHZ?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12302.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-11T17:35:05+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CF98YNHZ?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-11T17:35:05+00:00"
+  },
+  {
     "id": "msg12299",
     "title": "Up to 80% Off On DNMX Clothing",
     "description": "AJIO Upto 80% Off On DNMX Clothing. Men’s👇. T-Shirts : Jeans : Shirts : Sweaters & Cardigans : Sweatshirt & Hoodies : Shorts : Trousers & Jogger : Women's👇. T-shirts : Shirts & Tops : Jeans & Jeggings : Sweatshirts :…",
@@ -8210,45 +8250,5 @@
     "date_obj": "2025-10-09T18:55:00+00:00",
     "buy_link": "https://fkrt.co/EPmvOZ",
     "date_iso": "2025-10-09T18:55:00+00:00"
-  },
-  {
-    "id": "msg11655",
-    "title": "67% off Lakmé 9 to 5 Eyeconic Kajal Twin Pack, lasts Up to 24hrs PO2 @277",
-    "description": "Flipkart | 67% off : Lakmé 9 to 5 Eyeconic Kajal Twin Pack, lasts upto 24hrs PO2 @277",
-    "shortlink": "https://fkrt.co/P0RYVj",
-    "urls": [
-      {
-        "url": "https://fkrt.co/P0RYVj",
-        "label": "67% off : Lakmé 9 to 5 Eyeconic Kajal Twin Pack, lasts upto 24hrs PO2 @277"
-      }
-    ],
-    "raw_text": "Flipkart | 67% off : Lakmé 9 to 5 Eyeconic Kajal Twin Pack, lasts upto 24hrs PO2 @277\n\nhttps://fkrt.co/P0RYVj",
-    "final_url": "https://fkrt.co/P0RYVj",
-    "local_image": "assets/images/tgmsg_11655.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T18:55:27+00:00",
-    "buy_link": "https://fkrt.co/P0RYVj",
-    "date_iso": "2025-10-09T18:55:27+00:00"
-  },
-  {
-    "id": "msg11658",
-    "title": "realme Buds Wireless 3 @899",
-    "description": "Flipkart | realme Buds Wireless 3 @899. https://fkrt.co/zpWk1H",
-    "shortlink": "https://fkrt.co/zpWk1H",
-    "urls": [
-      {
-        "url": "https://fkrt.co/zpWk1H",
-        "label": "realme Buds Wireless 3 @899"
-      }
-    ],
-    "raw_text": "Flipkart | realme Buds Wireless 3 @899.\n\nhttps://fkrt.co/zpWk1H",
-    "final_url": "https://fkrt.co/zpWk1H",
-    "local_image": "assets/images/tgmsg_11658.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T18:56:04+00:00",
-    "buy_link": "https://fkrt.co/zpWk1H",
-    "date_iso": "2025-10-09T18:56:04+00:00"
   }
 ]
