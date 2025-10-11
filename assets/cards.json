@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg12174",
+    "title": "64% HIMALAYA Total Care Baby Pant",
+    "description": "Flipkart | 64% : HIMALAYA Total Care Baby Pants -   @ 359 https://fkrt.co/H9UzPc",
+    "shortlink": "https://fkrt.co/H9UzPc",
+    "urls": [
+      {
+        "url": "https://fkrt.co/H9UzPc",
+        "label": "64% : HIMALAYA Total Care Baby Pants - @ 359"
+      }
+    ],
+    "raw_text": "Flipkart | 64% : HIMALAYA Total Care Baby Pants -   @ 359\n\n https://fkrt.co/H9UzPc",
+    "final_url": "https://fkrt.co/H9UzPc",
+    "local_image": "assets/images/tgmsg_12174.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-11T10:01:26+00:00",
+    "buy_link": "https://fkrt.co/H9UzPc",
+    "date_iso": "2025-10-11T10:01:26+00:00"
+  },
+  {
+    "id": "msg12175",
+    "title": "Women's Westernwear Under ₹399 (Rio, Fig & More)",
+    "description": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More) Women : https://ajiio.co/CelIR2 Girls : https://ajiio.co/ebgCpn",
+    "shortlink": "https://ajiio.co/CelIR2",
+    "urls": [
+      {
+        "url": "",
+        "label": "Women's Westernwear Under ₹399 (Rio, Fig & More)"
+      },
+      {
+        "url": "https://ajiio.co/CelIR2",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/ebgCpn",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More)\n\nWomen : https://ajiio.co/CelIR2\n\nGirls : https://ajiio.co/ebgCpn",
+    "final_url": "https://ajiio.co/CelIR2",
+    "local_image": "assets/images/tgmsg_12175.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-11T10:11:25+00:00",
+    "buy_link": "https://ajiio.co/CelIR2",
+    "date_iso": "2025-10-11T10:11:25+00:00"
+  },
+  {
     "id": "msg12172",
     "title": "Up to 70% Off On Nivea Beauty Product",
     "description": "Flipkart | Upto 70% Off On Nivea Beauty Products. Lakme : Ponds : Set Wet : Puresense :",
@@ -8194,61 +8242,5 @@
     "date_obj": "2025-10-09T11:45:15+00:00",
     "buy_link": "https://ajiio.co/axMvbX",
     "date_iso": "2025-10-09T11:45:15+00:00"
-  },
-  {
-    "id": "msg11492",
-    "title": "🛒 Deal Price From ₹269",
-    "description": "Myntra | Kook N Keech Trackpants 🔥🔥 🛒 Deal Price: From ₹269 Men: https://myntr.in/YKnMGA Women: https://myntr.in/y50OHG",
-    "shortlink": "https://myntr.in/YKnMGA",
-    "urls": [
-      {
-        "url": "",
-        "label": "Kook N Keech Trackpants 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "🛒 Deal Price: From ₹269"
-      },
-      {
-        "url": "https://myntr.in/YKnMGA",
-        "label": "Men"
-      },
-      {
-        "url": "https://myntr.in/y50OHG",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Myntra | Kook N Keech Trackpants 🔥🔥\n\n🛒 Deal Price: From ₹269\n\nMen: https://myntr.in/YKnMGA\nWomen: https://myntr.in/y50OHG",
-    "final_url": "https://myntr.in/YKnMGA",
-    "local_image": "assets/images/tgmsg_11492.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-09T11:32:33+00:00",
-    "buy_link": "https://myntr.in/YKnMGA",
-    "date_iso": "2025-10-09T11:32:33+00:00"
-  },
-  {
-    "id": "msg11489",
-    "title": "🛒 Deal Price From ₹289",
-    "description": "Flipkart | 🎧 Earbud Deals 🛒 Deal Price: From ₹289 👉https://fkrt.co/5qCP1g",
-    "shortlink": "https://fkrt.co/5qCP1g",
-    "urls": [
-      {
-        "url": "",
-        "label": "🎧 Earbud Deals"
-      },
-      {
-        "url": "https://fkrt.co/5qCP1g",
-        "label": "🛒 Deal Price: From ₹289"
-      }
-    ],
-    "raw_text": "Flipkart | 🎧 Earbud Deals\n\n🛒 Deal Price: From ₹289\n\n👉https://fkrt.co/5qCP1g",
-    "final_url": "https://fkrt.co/5qCP1g",
-    "local_image": "assets/images/tgmsg_11489.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T11:01:35+00:00",
-    "buy_link": "https://fkrt.co/5qCP1g",
-    "date_iso": "2025-10-09T11:01:35+00:00"
   }
 ]
