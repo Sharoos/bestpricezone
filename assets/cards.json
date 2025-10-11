@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12238",
+    "title": "89% Off",
+    "description": "Flipkart | 89% Off -Umbrella At Rs.299 👉https://fkrt.co/E36272",
+    "shortlink": "https://fkrt.co/E36272",
+    "urls": [
+      {
+        "url": "https://fkrt.co/E36272",
+        "label": "89% Off -Umbrella At Rs.299"
+      }
+    ],
+    "raw_text": "Flipkart | 89% Off -Umbrella At Rs.299\n\n👉https://fkrt.co/E36272",
+    "final_url": "https://fkrt.co/E36272",
+    "local_image": "assets/images/tgmsg_12238.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-11T14:01:55+00:00",
+    "buy_link": "https://fkrt.co/E36272",
+    "date_iso": "2025-10-11T14:01:55+00:00"
+  },
+  {
     "id": "msg12234",
     "title": "Metronaut Jeans under 299",
     "description": "Loot: Metronaut Jeans under 299 https://fktr.in/Lsgw8Zi",
@@ -8190,29 +8210,5 @@
     "date_obj": "2025-10-09T16:16:51+00:00",
     "buy_link": "https://ajiio.co/kGre85",
     "date_iso": "2025-10-09T16:16:51+00:00"
-  },
-  {
-    "id": "msg11543",
-    "title": "Min 70% Off On Women T",
-    "description": "Ajio  Min 70% Off On Women T-shirts Starting From @120🔥🔥🔥🔥 🔗Links : https://ajiio.co/BdmMtR + 10% EXTRA AJIO CASH",
-    "shortlink": "https://ajiio.co/BdmMtR",
-    "urls": [
-      {
-        "url": "https://ajiio.co/BdmMtR",
-        "label": "Ajio Min 70% Off On Women T-shirts Starting From @120🔥🔥🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "+ 10% EXTRA AJIO CASH"
-      }
-    ],
-    "raw_text": "Ajio  Min 70% Off On Women T-shirts Starting From @120🔥🔥🔥🔥 \n \n🔗Links : https://ajiio.co/BdmMtR\n\n+ 10% EXTRA AJIO CASH",
-    "final_url": "https://ajiio.co/BdmMtR",
-    "local_image": "assets/images/tgmsg_11543.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-09T16:31:49+00:00",
-    "buy_link": "https://ajiio.co/BdmMtR",
-    "date_iso": "2025-10-09T16:31:49+00:00"
   }
 ]
