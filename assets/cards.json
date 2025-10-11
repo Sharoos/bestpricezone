@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12138",
+    "title": "Redtape Footwear Up to 88% off",
+    "description": "Flipkart | Redtape Footwear upto 88% off 👉https://fkrt.co/aFibkk",
+    "shortlink": "https://fkrt.co/aFibkk",
+    "urls": [
+      {
+        "url": "https://fkrt.co/aFibkk",
+        "label": "Redtape Footwear upto 88% off"
+      }
+    ],
+    "raw_text": "Flipkart | Redtape Footwear upto 88% off\n\n👉https://fkrt.co/aFibkk",
+    "final_url": "https://fkrt.co/aFibkk",
+    "local_image": "assets/images/tgmsg_12138.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-11T06:01:54+00:00",
+    "buy_link": "https://fkrt.co/aFibkk",
+    "date_iso": "2025-10-11T06:01:54+00:00"
+  },
+  {
     "id": "msg12136",
     "title": "Up to 78% Off on Co",
     "description": "Ajio | Upto 78% Off on Co-Ord Sets Starting @ just ₹264 Link : + 10% EXTRA AJIO CASHBACK",
@@ -8250,73 +8270,5 @@
     "date_obj": "2025-10-09T07:45:14+00:00",
     "buy_link": "https://bitli.in/R0fgMuq",
     "date_iso": "2025-10-09T07:45:14+00:00"
-  },
-  {
-    "id": "msg11467",
-    "title": "Up to 80% Off On Allen Cooper Clothing",
-    "description": "Ajio Upto 80% Off On Allen Cooper Clothing. Master Link : T-Shirt : Jeans : Shirts : Jacket : Shoes : Spykar Clothing. Men's : Women's : Puma Clothing. Men’s : Women’s :",
-    "shortlink": "https://ajiio.co/HgBP4m",
-    "urls": [
-      {
-        "url": "",
-        "label": "Ajio Upto 80% Off On Allen Cooper Clothing"
-      },
-      {
-        "url": "https://ajiio.co/HgBP4m",
-        "label": "Master"
-      },
-      {
-        "url": "https://ajiio.co/l1I6T1",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://ajiio.co/XwBFX4",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/XdXmkS",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/9ZuR7L",
-        "label": "Jacket"
-      },
-      {
-        "url": "https://ajiio.co/3uBBZ2",
-        "label": "Shoes"
-      },
-      {
-        "url": "",
-        "label": "Spykar Clothing"
-      },
-      {
-        "url": "https://ajiio.co/xAsL8R",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/wjXeHS",
-        "label": "Women's"
-      },
-      {
-        "url": "",
-        "label": "Puma Clothing"
-      },
-      {
-        "url": "https://ajiio.co/XX6QxG",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.co/s8E4q9",
-        "label": "Women’s"
-      }
-    ],
-    "raw_text": "Ajio  Upto 80% Off On Allen Cooper Clothing.\n\nMaster Link : https://ajiio.co/HgBP4m\n\nT-Shirt : https://ajiio.co/l1I6T1\nJeans : https://ajiio.co/XwBFX4\nShirts : https://ajiio.co/XdXmkS\nJacket : https://ajiio.co/9ZuR7L\nShoes : https://ajiio.co/3uBBZ2\n\nSpykar Clothing.\nMen's : https://ajiio.co/xAsL8R\nWomen's : https://ajiio.co/wjXeHS\n\nPuma Clothing. \nMen’s : https://ajiio.co/XX6QxG\nWomen’s : https://ajiio.co/s8E4q9",
-    "final_url": "https://ajiio.co/HgBP4m",
-    "local_image": "assets/images/tgmsg_11467.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-09T07:51:58+00:00",
-    "buy_link": "https://ajiio.co/HgBP4m",
-    "date_iso": "2025-10-09T07:51:58+00:00"
   }
 ]
