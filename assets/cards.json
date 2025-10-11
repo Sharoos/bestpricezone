@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg12169",
+    "title": "Up to 85% Off On Branded Watche",
+    "description": "Flipkart | Upto 85% Off On Branded Watches. Timex : Casio : Titan : Allen Solly : Fastrack : Emporio Armani : Fossil : |",
+    "shortlink": "https://fkrt.co/KSMmC8",
+    "urls": [
+      {
+        "url": "https://fkrt.co/KSMmC8",
+        "label": "Timex"
+      },
+      {
+        "url": "https://fkrt.co/yvWZPH",
+        "label": "Casio"
+      },
+      {
+        "url": "https://fkrt.co/JKhpIh",
+        "label": "Titan"
+      },
+      {
+        "url": "https://fkrt.co/4HLz5b",
+        "label": "Allen Solly"
+      },
+      {
+        "url": "https://fkrt.co/T42TIB",
+        "label": "Fastrack"
+      },
+      {
+        "url": "https://fkrt.co/9PdWcD",
+        "label": "Emporio Armani"
+      },
+      {
+        "url": "https://fkrt.co/ZyyvS6",
+        "label": "Fossil"
+      },
+      {
+        "url": "https://fkrt.co/I00dAq",
+        "label": "Upto 85% Off On Branded Watches"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 85% Off On Branded Watches.\n\nTimex : https://fkrt.co/KSMmC8\nCasio : https://fkrt.co/yvWZPH\nTitan : https://fkrt.co/JKhpIh\nAllen Solly : https://fkrt.co/4HLz5b\nFastrack : https://fkrt.co/T42TIB\nEmporio Armani : https://fkrt.co/9PdWcD\nFossil : https://fkrt.co/ZyyvS6 | \nhttps://fkrt.co/I00dAq",
+    "final_url": "https://fkrt.co/KSMmC8",
+    "local_image": "assets/images/tgmsg_12169.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-11T09:41:11+00:00",
+    "buy_link": "https://fkrt.co/KSMmC8",
+    "date_iso": "2025-10-11T09:41:11+00:00"
+  },
+  {
     "id": "msg12168",
     "title": "Puma Shuffle Ultra Sneake",
     "description": "Flipkart | Puma Shuffle Ultra Sneaker at Rs.1,418 💥 Link:  https://fkrt.co/1a3o9d",
@@ -8162,33 +8210,5 @@
     "date_obj": "2025-10-09T10:45:14+00:00",
     "buy_link": "https://ajiio.co/JPXYKm",
     "date_iso": "2025-10-09T10:45:14+00:00"
-  },
-  {
-    "id": "msg11484",
-    "title": "🛒 Deal Price ₹144",
-    "description": "Amazon | 🌿 Skincare Steal! Biotique Multani Clay Anti Ageing Mud Face Pack for All Skin Types 🛒 Deal Price: ₹144 👉",
-    "shortlink": "https://www.amazon.in/dp/B006JH7PT2?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🌿 Skincare Steal!"
-      },
-      {
-        "url": "",
-        "label": "Biotique Multani Clay Anti Ageing Mud Face Pack for All Skin Types"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B006JH7PT2?psc=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹144"
-      }
-    ],
-    "raw_text": "Amazon | 🌿 Skincare Steal!\n\nBiotique Multani Clay Anti Ageing Mud Face Pack for All Skin Types\n\n🛒 Deal Price: ₹144\n\n👉https://www.amazon.in/dp/B006JH7PT2?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B006JH7PT2?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_11484.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-09T10:15:10+00:00",
-    "buy_link": "https://www.amazon.in/dp/B006JH7PT2?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-09T10:15:10+00:00"
   }
 ]
