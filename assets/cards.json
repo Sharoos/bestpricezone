@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg12132",
+    "title": "Jack & Jones Min 50% Off",
+    "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/DuIjdO",
+    "urls": [
+      {
+        "url": "https://ajiio.co/DuIjdO",
+        "label": "🔥AJIO | Jeans & Shorts Under ₹499"
+      },
+      {
+        "url": "https://ajiio.co/pgDD76",
+        "label": "Performax Under ₹699"
+      },
+      {
+        "url": "https://ajiio.co/1QYNpl",
+        "label": "Jack & Jones Min 50% Off"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "🔥AJIO | Jeans & Shorts Under ₹499\n👉https://ajiio.co/DuIjdO\n\nPerformax Under ₹699\n👉https://ajiio.co/pgDD76\n\nJack & Jones Min 50% Off\n👉https://ajiio.co/1QYNpl\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/DuIjdO",
+    "local_image": "assets/images/tgmsg_12132.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-11T05:01:53+00:00",
+    "buy_link": "https://ajiio.co/DuIjdO",
+    "date_iso": "2025-10-11T05:01:53+00:00"
+  },
+  {
     "id": "msg12129",
     "title": "💅 VEGA & VEGA Professional – Beauty & Grooming Appliances Min 40% Off",
     "description": "💈 Myntra Beauty & Grooming Mega Sale! ✨🔥 Grab your favorite brands at up to 70% OFF 💥 💇‍♂️ Philips – Beauty & Grooming Appliances Min 30% Off 🔗 🧔 Beardo – Perfumes & Grooming Kits Min 70% Off 🔗  🔗 🕺 Denver – Perfumes &…",
@@ -8294,29 +8326,5 @@
     "date_obj": "2025-10-09T07:24:02+00:00",
     "buy_link": "https://myntr.in/Ca9Hki",
     "date_iso": "2025-10-09T07:24:02+00:00"
-  },
-  {
-    "id": "msg11457",
-    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
-    "description": "Ajio | Chinos Starts @175 👉https://ajiio.co/SwjkcU 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "shortlink": "https://ajiio.co/SwjkcU",
-    "urls": [
-      {
-        "url": "https://ajiio.co/SwjkcU",
-        "label": "Chinos Starts @175"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
-      }
-    ],
-    "raw_text": "Ajio | Chinos Starts @175\n\n👉https://ajiio.co/SwjkcU\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "final_url": "https://ajiio.co/SwjkcU",
-    "local_image": "assets/images/tgmsg_11457.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-09T07:01:54+00:00",
-    "buy_link": "https://ajiio.co/SwjkcU",
-    "date_iso": "2025-10-09T07:01:54+00:00"
   }
 ]
