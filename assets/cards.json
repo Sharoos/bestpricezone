@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg12135",
+    "title": "French Connection Men's Trousers Up to 77% Off From Rs.839",
+    "description": "Flipkart | French Connection Men's Trousers upto 77% Off From Rs.839 - French Connection Men's T Shirts upto 81% Off From Rs.287 -",
+    "shortlink": "https://fkrt.co/wfETIF",
+    "urls": [
+      {
+        "url": "https://fkrt.co/wfETIF",
+        "label": "French Connection Men's Trousers upto 77% Off From Rs.839"
+      },
+      {
+        "url": "https://fkrt.co/kFtXfV",
+        "label": "French Connection Men's T Shirts upto 81% Off From Rs.287"
+      }
+    ],
+    "raw_text": "Flipkart | French Connection Men's Trousers upto 77% Off From Rs.839\n\n-  https://fkrt.co/wfETIF\n\nFrench Connection Men's T Shirts upto 81% Off From Rs.287\n\n-  https://fkrt.co/kFtXfV",
+    "final_url": "https://fkrt.co/wfETIF",
+    "local_image": "assets/images/tgmsg_12135.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-11T05:31:57+00:00",
+    "buy_link": "https://fkrt.co/wfETIF",
+    "date_iso": "2025-10-11T05:31:57+00:00"
+  },
+  {
     "id": "msg12133",
     "title": "Curtain Sets starting @223",
     "description": "Myntra | Curtain Sets starting @223 👉Link : https://myntr.in/P1rinM",
@@ -8282,37 +8306,5 @@
     "date_obj": "2025-10-09T07:41:47+00:00",
     "buy_link": "https://ajiio.co/2cFVdi",
     "date_iso": "2025-10-09T07:41:47+00:00"
-  },
-  {
-    "id": "msg11459",
-    "title": "STEAL DEAL ALERT FLAT 50% OFF on Conscious Chemist Best Selle",
-    "description": "STEAL DEAL ALERT : FLAT 50% OFF on Conscious Chemist Best Sellers Link : Face Serums : Face Moisturiser : Extra 5% Prepaid Off + CashBack",
-    "shortlink": "https://bitli.in/xjKm4HL",
-    "urls": [
-      {
-        "url": "https://bitli.in/xjKm4HL",
-        "label": "FLAT 50% OFF on Conscious Chemist Best Sellers"
-      },
-      {
-        "url": "https://bitli.in/QvWi5bT",
-        "label": "Face Serums"
-      },
-      {
-        "url": "https://bitli.in/ngTr462",
-        "label": "Face Moisturiser"
-      },
-      {
-        "url": "",
-        "label": "Extra 5% Prepaid Off + CashBack"
-      }
-    ],
-    "raw_text": "STEAL DEAL ALERT : FLAT 50% OFF on Conscious Chemist Best Sellers\n\nLink : https://bitli.in/xjKm4HL\n\nFace Serums : https://bitli.in/QvWi5bT\n\nFace Moisturiser : https://bitli.in/ngTr462\n\nExtra 5% Prepaid Off + CashBack",
-    "final_url": "https://bitli.in/xjKm4HL",
-    "local_image": "assets/images/tgmsg_11459.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-10-09T07:16:19+00:00",
-    "buy_link": "https://bitli.in/xjKm4HL",
-    "date_iso": "2025-10-09T07:16:19+00:00"
   }
 ]
