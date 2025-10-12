@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12446",
+    "title": "67% off Dove Daily Shine Shampoo @569",
+    "description": "Flipkart | 67% off : Dove Daily Shine Shampoo @569 https://fkrt.co/VfcfD8",
+    "shortlink": "https://fkrt.co/VfcfD8",
+    "urls": [
+      {
+        "url": "https://fkrt.co/VfcfD8",
+        "label": "67% off : Dove Daily Shine Shampoo @569"
+      }
+    ],
+    "raw_text": "Flipkart | 67% off : Dove Daily Shine Shampoo @569\n\nhttps://fkrt.co/VfcfD8",
+    "final_url": "https://fkrt.co/VfcfD8",
+    "local_image": "assets/images/tgmsg_12446.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-12T04:34:08+00:00",
+    "buy_link": "https://fkrt.co/VfcfD8",
+    "date_iso": "2025-10-12T04:34:08+00:00"
+  },
+  {
     "id": "msg12445",
     "title": "Up to 85% Off On Men’s Jean",
     "description": "Ajio Upto 85% Off On Men’s Jeans. Lee Cooper : Jack & Jones : John Players : DNMX : Buda Jeans Co : Spykar : Allen Cooper : U.S. Polo Assn. : Pepe Jeans :",
@@ -8310,41 +8330,5 @@
     "date_obj": "2025-10-09T18:59:41+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DTHWHK7H?th=1&language=en_IN&tag=bestpricezo0f-21",
     "date_iso": "2025-10-09T18:59:41+00:00"
-  },
-  {
-    "id": "msg11672",
-    "title": "Up to 80% Off On Deodorants Combo",
-    "description": "Flipkart  Upto 80% Off On Deodorants Combo. Engage : https://fkrt.co/ZTbOkT Denver : https://fkrt.co/zFYgkP Set Wet : https://fkrt.co/WJGTQr Axe : https://fkrt.co/p20Bmm",
-    "shortlink": "https://fkrt.co/ZTbOkT",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart Upto 80% Off On Deodorants Combo"
-      },
-      {
-        "url": "https://fkrt.co/ZTbOkT",
-        "label": "Engage"
-      },
-      {
-        "url": "https://fkrt.co/zFYgkP",
-        "label": "Denver"
-      },
-      {
-        "url": "https://fkrt.co/WJGTQr",
-        "label": "Set Wet"
-      },
-      {
-        "url": "https://fkrt.co/p20Bmm",
-        "label": "Axe"
-      }
-    ],
-    "raw_text": "Flipkart  Upto 80% Off On Deodorants Combo.\n\nEngage : https://fkrt.co/ZTbOkT\nDenver : https://fkrt.co/zFYgkP\nSet Wet : https://fkrt.co/WJGTQr\nAxe : https://fkrt.co/p20Bmm",
-    "final_url": "https://fkrt.co/ZTbOkT",
-    "local_image": "assets/images/tgmsg_11672.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T19:01:39+00:00",
-    "buy_link": "https://fkrt.co/ZTbOkT",
-    "date_iso": "2025-10-09T19:01:39+00:00"
   }
 ]
