@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg12479",
+    "title": "70% Off",
+    "description": "Myntra | Dove, Tresemme 1L Shampoos 60 - 70% Off 👉Link : https://myntr.in/ATmC5D",
+    "shortlink": "https://myntr.in/ATmC5D",
+    "urls": [
+      {
+        "url": "https://myntr.in/ATmC5D",
+        "label": "Dove, Tresemme 1L Shampoos 60 - 70% Off"
+      }
+    ],
+    "raw_text": "Myntra | Dove, Tresemme 1L Shampoos 60 - 70% Off\n\n👉Link : https://myntr.in/ATmC5D",
+    "final_url": "https://myntr.in/ATmC5D",
+    "local_image": "assets/images/tgmsg_12479.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-12T08:01:53+00:00",
+    "buy_link": "https://myntr.in/ATmC5D",
+    "date_iso": "2025-10-12T08:01:53+00:00"
+  },
+  {
+    "id": "msg12481",
+    "title": "Kurta & Kurtis Starts ₹199",
+    "description": "Myntra : Kurta & Kurtis Starts ₹199. Women : https://myntr.in/eI0oBS Men : https://myntr.in/qKm0Qh",
+    "shortlink": "https://myntr.in/eI0oBS",
+    "urls": [
+      {
+        "url": "",
+        "label": "Kurta & Kurtis Starts ₹199"
+      },
+      {
+        "url": "https://myntr.in/eI0oBS",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/qKm0Qh",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "Myntra : Kurta & Kurtis Starts ₹199.\n\nWomen : https://myntr.in/eI0oBS\nMen : https://myntr.in/qKm0Qh",
+    "final_url": "https://myntr.in/eI0oBS",
+    "local_image": "assets/images/tgmsg_12481.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-12T08:12:00+00:00",
+    "buy_link": "https://myntr.in/eI0oBS",
+    "date_iso": "2025-10-12T08:12:00+00:00"
+  },
+  {
     "id": "msg12476",
     "title": "GESTOR STORM PLUS 15L Storage Water Geyse",
     "description": "Flipkart | GESTOR STORM PLUS 15L Storage Water Geyser ✅ With Free Pipes ✅ Energy Efficient & Durable 💰 Only ₹3,904 👉 https://fkrt.co/Rfon1z",
@@ -8470,45 +8518,5 @@
     "date_obj": "2025-10-09T19:33:41+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-09T19:33:41+00:00"
-  },
-  {
-    "id": "msg11729",
-    "title": "92% off",
-    "description": "Flipkart | 92% off https://fkrt.co/oOSb4O",
-    "shortlink": "https://fkrt.co/oOSb4O",
-    "urls": [
-      {
-        "url": "https://fkrt.co/oOSb4O",
-        "label": "92% off"
-      }
-    ],
-    "raw_text": "Flipkart | 92% off \n\nhttps://fkrt.co/oOSb4O",
-    "final_url": "https://fkrt.co/oOSb4O",
-    "local_image": "assets/images/tgmsg_11729.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T19:34:17+00:00",
-    "buy_link": "https://fkrt.co/oOSb4O",
-    "date_iso": "2025-10-09T19:34:17+00:00"
-  },
-  {
-    "id": "msg11731",
-    "title": "Ambrane 10000 mAh 22.5 W Wireless With MagSafe Power Bank @899",
-    "description": "Flipkart | Ambrane 10000 mAh 22.5 W Wireless With MagSafe Power Bank  @899 https://fkrt.co/fDNXme",
-    "shortlink": "https://fkrt.co/fDNXme",
-    "urls": [
-      {
-        "url": "https://fkrt.co/fDNXme",
-        "label": "Ambrane 10000 mAh 22.5 W Wireless With MagSafe Power Bank @899"
-      }
-    ],
-    "raw_text": "Flipkart | Ambrane 10000 mAh 22.5 W Wireless With MagSafe Power Bank  @899\n\nhttps://fkrt.co/fDNXme",
-    "final_url": "https://fkrt.co/fDNXme",
-    "local_image": "assets/images/tgmsg_11731.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T19:35:38+00:00",
-    "buy_link": "https://fkrt.co/fDNXme",
-    "date_iso": "2025-10-09T19:35:38+00:00"
   }
 ]
