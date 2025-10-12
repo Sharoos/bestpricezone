@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg12511",
+    "title": "Use Code OPEXTRA15 To Get Extra 15% Off!",
+    "description": "Myntra | 🔥OnePlus Lowest Prices Ever🔥 ONLY FOR FEW Hours OnePlus Nord Buds 2r at Rs. 1231 only! Use Coupon Code: OPEXTRA12 to get 12% Off! 👉 OnePlus Bullets Z2 ANC at Rs. 1410 only! Use Coupon Code: OPEXTRA17 to get 17%…",
+    "shortlink": "https://myntr.in/O5z4MZ",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥OnePlus Lowest Prices Ever🔥 ONLY FOR FEW Hours"
+      },
+      {
+        "url": "https://myntr.in/O5z4MZ",
+        "label": "OnePlus Nord Buds 2r at Rs. 1231 only!"
+      },
+      {
+        "url": "https://myntr.in/6yVgaM",
+        "label": "OnePlus Bullets Z2 ANC at Rs. 1410 only!"
+      },
+      {
+        "url": "https://myntr.in/j5Asx3",
+        "label": "OnePlus Nord Buds 3 Pro Only at Rs. 2124+ Bank offers!!"
+      },
+      {
+        "url": "https://myntr.in/ZnJXUl",
+        "label": "OnePlus Wireless Z3 at Rs. 1143 only!"
+      },
+      {
+        "url": "https://myntr.in/WkxwTg",
+        "label": "OnePlus Nord Buds 3 Only at Rs. 1565 + Bank offers!!"
+      },
+      {
+        "url": "https://myntr.in/ElV8xn",
+        "label": "OnePlus Bullets Z2 at Rs. 1093 only + Bank Offers!"
+      },
+      {
+        "url": "https://myntr.in/l33rvs",
+        "label": "OnePlus Nord Buds 3r Only at Rs. 1439 + Bank offers!!"
+      }
+    ],
+    "raw_text": "Myntra | 🔥OnePlus Lowest Prices Ever🔥  ONLY FOR FEW Hours\n\nOnePlus Nord Buds 2r at Rs. 1231 only!\nUse Coupon Code: OPEXTRA12 to get 12% Off!\n👉https://myntr.in/O5z4MZ\n\nOnePlus Bullets Z2 ANC at Rs. 1410 only!\nUse Coupon Code: OPEXTRA17 to get 17% Off!\n👉https://myntr.in/6yVgaM\n\nOnePlus Nord Buds 3 Pro Only at Rs. 2124+ Bank offers!!\nUse Coupon Code:OPEXTRA15 To Get Extra 15% Off!\n👉https://myntr.in/j5Asx3\n\nOnePlus Wireless Z3 at Rs. 1143 only!\nUse Coupon Code: OPEXTRA12 to get 12% Off!\n👉https://myntr.in/ZnJXUl\n\nOnePlus Nord Buds 3 Only at Rs. 1565 + Bank offers!!\nUse Coupon Code: OPEXTRA13 To Get Extra 13 % Off!\n👉https://myntr.in/WkxwTg\n\nOnePlus Bullets Z2 at Rs. 1093 only + Bank Offers!\nUse Coupon Code: OPEXTRA19 to get 19% Off!\n👉https://myntr.in/ElV8xn\n\nOnePlus Nord Buds 3r Only at Rs. 1439 + Bank offers!!\nUse Coupon Code: OPEXTRA10 To Get Extra 10 % Off!\n👉https://myntr.in/l33rvs",
+    "final_url": "https://myntr.in/O5z4MZ",
+    "local_image": "assets/images/tgmsg_12511.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-12T11:30:27+00:00",
+    "buy_link": "https://myntr.in/O5z4MZ",
+    "date_iso": "2025-10-12T11:30:27+00:00"
+  },
+  {
     "id": "msg12510",
     "title": "Women's Westernwear Under ₹399 (Rio, Fig & More)",
     "description": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More) Women : https://ajiio.co/3PETnD Girls : https://ajiio.co/Rv3Y4Q",
@@ -8718,25 +8766,5 @@
     "date_obj": "2025-10-09T19:59:13+00:00",
     "buy_link": "https://fkrt.co/gZoeRa",
     "date_iso": "2025-10-09T19:59:13+00:00"
-  },
-  {
-    "id": "msg11769",
-    "title": "Giordano Multifunction Watch @1794",
-    "description": "Amazon | Giordano Multifunction Watch @1794 https://www.amazon.in/dp/B0DK3M99TT?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DK3M99TT?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DK3M99TT?psc=1&tag=bestpricezo0f-21",
-        "label": "Giordano Multifunction Watch @1794"
-      }
-    ],
-    "raw_text": "Amazon | Giordano Multifunction Watch @1794\n\nhttps://www.amazon.in/dp/B0DK3M99TT?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DK3M99TT?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_11769.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-09T19:59:58+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DK3M99TT?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-09T19:59:58+00:00"
   }
 ]
