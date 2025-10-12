@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg12550",
+    "title": "Get up to 70% OFF on Swiss Military Premium Trolleys! ✈️",
+    "description": "🔥 Myntra Mega Travel Sale Alert! 🔥  Use coupon + bank offers for extra savings 💰 Master link - Hurry — this limited-time deal won’t last long! ⏰",
+    "shortlink": "https://myntr.in/mBSb04",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Myntra Mega Travel Sale Alert! 🔥"
+      },
+      {
+        "url": "",
+        "label": "Get up to 70% OFF on Swiss Military Premium Trolleys! ✈️"
+      },
+      {
+        "url": "https://myntr.in/mBSb04",
+        "label": "Master"
+      },
+      {
+        "url": "",
+        "label": "Hurry — this limited-time deal won’t last long! ⏰"
+      }
+    ],
+    "raw_text": "🔥 Myntra Mega Travel Sale Alert! 🔥\n\nGet up to 70% OFF on Swiss Military Premium Trolleys! ✈️\n\nUse coupon + bank offers for extra savings 💰\n\nMaster link - https://myntr.in/mBSb04\n\nHurry — this limited-time deal won’t last long! ⏰",
+    "final_url": "https://myntr.in/mBSb04",
+    "local_image": "assets/images/tgmsg_12550.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-12T15:30:11+00:00",
+    "buy_link": "https://myntr.in/mBSb04",
+    "date_iso": "2025-10-12T15:30:11+00:00"
+  },
+  {
+    "id": "msg12553",
+    "title": "550W Mixer Grinder, 3 Jars at 898",
+    "description": "550W Mixer Grinder, 3 Jars at 898. https://fkrt.co/5VgCkc",
+    "shortlink": "https://fkrt.co/5VgCkc",
+    "urls": [
+      {
+        "url": "https://fkrt.co/5VgCkc",
+        "label": "550W Mixer Grinder, 3 Jars at 898"
+      }
+    ],
+    "raw_text": "550W Mixer Grinder, 3 Jars at 898.\n\n https://fkrt.co/5VgCkc",
+    "final_url": "https://fkrt.co/5VgCkc",
+    "local_image": "assets/images/tgmsg_12553.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-12T15:33:30+00:00",
+    "buy_link": "https://fkrt.co/5VgCkc",
+    "date_iso": "2025-10-12T15:33:30+00:00"
+  },
+  {
     "id": "msg12548",
     "title": "Biotique Cucumber Pore Tightening Toner, 120mL @109",
     "description": "Amazon | Biotique Cucumber Pore Tightening Toner, 120mL @109 👉https://www.amazon.in/dp/B00791CS2G?psc=1&tag=bestpricezo0f-21",
@@ -8722,73 +8774,5 @@
     "date_obj": "2025-10-10T03:45:23+00:00",
     "buy_link": "https://fkrt.co/WRE4SA",
     "date_iso": "2025-10-10T03:45:23+00:00"
-  },
-  {
-    "id": "msg11803",
-    "title": "Women's Topwear Up to 90% Off",
-    "description": "Flipkart | Women's Topwear Upto 90% Off Pluss : Tokyo Talkies : Metronaut : Allen Solly : Roadster :",
-    "shortlink": "https://fkrt.co/HgRCsY",
-    "urls": [
-      {
-        "url": "",
-        "label": "Women's Topwear Upto 90% Off"
-      },
-      {
-        "url": "https://fkrt.co/HgRCsY",
-        "label": "Pluss"
-      },
-      {
-        "url": "https://fkrt.co/Dgrg4c",
-        "label": "Tokyo Talkies"
-      },
-      {
-        "url": "https://fkrt.co/XcHbTB",
-        "label": "Metronaut"
-      },
-      {
-        "url": "https://fkrt.co/vA9rHU",
-        "label": "Allen Solly"
-      },
-      {
-        "url": "https://fkrt.co/qCcNrZ",
-        "label": "Roadster"
-      }
-    ],
-    "raw_text": "Flipkart | Women's Topwear Upto 90% Off\n\nPluss :  https://fkrt.co/HgRCsY\nTokyo Talkies :  https://fkrt.co/Dgrg4c\nMetronaut :  https://fkrt.co/XcHbTB\nAllen Solly :  https://fkrt.co/vA9rHU\nRoadster :  https://fkrt.co/qCcNrZ",
-    "final_url": "https://fkrt.co/HgRCsY",
-    "local_image": "assets/images/tgmsg_11803.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T22:15:17+00:00",
-    "buy_link": "https://fkrt.co/HgRCsY",
-    "date_iso": "2025-10-09T22:15:17+00:00"
-  },
-  {
-    "id": "msg11804",
-    "title": "🔥boAt Calling Smartwatch at ₹899",
-    "description": "Flipkart 🔥boAt Calling Smartwatch at ₹899 👉https://fkrt.co/hGXplm Noise : https://fkrt.co/3Y98Tc Fire-Boltt : https://fkrt.co/WUuuo5",
-    "shortlink": "https://fkrt.co/hGXplm",
-    "urls": [
-      {
-        "url": "https://fkrt.co/hGXplm",
-        "label": "Flipkart 🔥boAt Calling Smartwatch at ₹899"
-      },
-      {
-        "url": "https://fkrt.co/3Y98Tc",
-        "label": "Noise"
-      },
-      {
-        "url": "https://fkrt.co/WUuuo5",
-        "label": "Boltt"
-      }
-    ],
-    "raw_text": "Flipkart 🔥boAt Calling Smartwatch at ₹899\n\n👉https://fkrt.co/hGXplm\n\nNoise : https://fkrt.co/3Y98Tc\nFire-Boltt : https://fkrt.co/WUuuo5",
-    "final_url": "https://fkrt.co/hGXplm",
-    "local_image": "assets/images/tgmsg_11804.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T22:32:18+00:00",
-    "buy_link": "https://fkrt.co/hGXplm",
-    "date_iso": "2025-10-09T22:32:18+00:00"
   }
 ]
