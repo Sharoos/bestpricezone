@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12526",
+    "title": "Flat 77% Off!",
+    "description": "Flipkart | 🧥 Killer Blazers - Flat 77% Off! 👉Link : https://fkrt.co/1IPaXn",
+    "shortlink": "https://fkrt.co/1IPaXn",
+    "urls": [
+      {
+        "url": "https://fkrt.co/1IPaXn",
+        "label": "🧥 Killer Blazers - Flat 77% Off!"
+      }
+    ],
+    "raw_text": "Flipkart | 🧥 Killer Blazers - Flat 77% Off!\n\n👉Link : https://fkrt.co/1IPaXn",
+    "final_url": "https://fkrt.co/1IPaXn",
+    "local_image": "assets/images/tgmsg_12526.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-12T13:31:57+00:00",
+    "buy_link": "https://fkrt.co/1IPaXn",
+    "date_iso": "2025-10-12T13:31:57+00:00"
+  },
+  {
     "id": "msg12524",
     "title": "🛒 Deal Price ₹293",
     "description": "Flipkart 👖 Jeans 🛒 Deal Price: ₹293 👉https://fkrt.co/Xe8ceG",
@@ -8754,41 +8774,5 @@
     "date_obj": "2025-10-09T20:42:00+00:00",
     "buy_link": "https://fkrt.co/IMF5Rx",
     "date_iso": "2025-10-09T20:42:00+00:00"
-  },
-  {
-    "id": "msg11798",
-    "title": "Up to 70% Off On Nivea Beauty Product",
-    "description": "Upto 70% Off On Nivea Beauty Products. https://fkrt.co/c2rzgM Lakme :  https://fkrt.co/ZnVb9M Ponds :  https://fkrt.co/oAAaq0 Set Wet :  https://fkrt.co/PcDF56 Puresense :  https://fkrt.co/LLfOb3",
-    "shortlink": "https://fkrt.co/c2rzgM",
-    "urls": [
-      {
-        "url": "https://fkrt.co/c2rzgM",
-        "label": "Upto 70% Off On Nivea Beauty Products"
-      },
-      {
-        "url": "https://fkrt.co/ZnVb9M",
-        "label": "Lakme"
-      },
-      {
-        "url": "https://fkrt.co/oAAaq0",
-        "label": "Ponds"
-      },
-      {
-        "url": "https://fkrt.co/PcDF56",
-        "label": "Set Wet"
-      },
-      {
-        "url": "https://fkrt.co/LLfOb3",
-        "label": "Puresense"
-      }
-    ],
-    "raw_text": "Upto 70% Off On Nivea Beauty Products. \n\nhttps://fkrt.co/c2rzgM\nLakme :  https://fkrt.co/ZnVb9M\nPonds :  https://fkrt.co/oAAaq0\nSet Wet :  https://fkrt.co/PcDF56\nPuresense :  https://fkrt.co/LLfOb3",
-    "final_url": "https://fkrt.co/c2rzgM",
-    "local_image": "assets/images/tgmsg_11798.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T20:45:20+00:00",
-    "buy_link": "https://fkrt.co/c2rzgM",
-    "date_iso": "2025-10-09T20:45:20+00:00"
   }
 ]
