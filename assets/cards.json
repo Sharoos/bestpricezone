@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg12486",
+    "title": "Men Polo Tshirts Starts at 180",
+    "description": "AJIO . Oversized Tshirts Starts at 190. Women : Men : Kids Clothing Boys : Girls : Infants :",
+    "shortlink": "https://ajiio.co/XLqNVO",
+    "urls": [
+      {
+        "url": "https://ajiio.co/XLqNVO",
+        "label": "AJIO Men Polo Tshirts Starts at 180"
+      },
+      {
+        "url": "",
+        "label": "Oversized Tshirts Starts at 190"
+      },
+      {
+        "url": "https://ajiio.co/6C57Np",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/iOecQQ",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Kids Clothing"
+      },
+      {
+        "url": "https://ajiio.co/n5BHqF",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/kKLwCe",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/yXqYQu",
+        "label": "Infants"
+      }
+    ],
+    "raw_text": "AJIO  Men Polo Tshirts Starts at 180.\n\nhttps://ajiio.co/XLqNVO\n\nOversized Tshirts Starts at 190.\n\nWomen : https://ajiio.co/6C57Np\nMen : https://ajiio.co/iOecQQ\n\nKids Clothing \n\nBoys : https://ajiio.co/n5BHqF\nGirls : https://ajiio.co/kKLwCe\nInfants : https://ajiio.co/yXqYQu",
+    "final_url": "https://ajiio.co/XLqNVO",
+    "local_image": "assets/images/tgmsg_12486.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-12T08:41:55+00:00",
+    "buy_link": "https://ajiio.co/XLqNVO",
+    "date_iso": "2025-10-12T08:41:55+00:00"
+  },
+  {
     "id": "msg12482",
     "title": "Aristocrat Hard Trolley at 1149",
     "description": "Myntra |  Safari Trolley starting 1299 Skybags Trolleys at 1699 Wildcraft set of 3 trolleys at 4499 Trolleys at flat 999",
@@ -8502,37 +8550,5 @@
     "date_obj": "2025-10-09T19:51:57+00:00",
     "buy_link": "https://fkrt.co/rLIplc",
     "date_iso": "2025-10-09T19:51:57+00:00"
-  },
-  {
-    "id": "msg11757",
-    "title": "💥 Bank Offer ₹3,500 Instant Discount on SBI Credit Card Txn",
-    "description": "Flipkart | 🔥🔥POCO Pad 5G 8 GB RAM 256 GB ROM 12.1 inch with Wi-Fi+5G Tablet (Cobalt Blue) 🎁 Deal Price : ₹18,499 Buy Here : 💥 Bank Offer : ₹3,500 Instant Discount on SBI Credit Card Txn",
-    "shortlink": "https://fkrt.co/migJAq",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥🔥POCO Pad 5G 8 GB RAM 256 GB ROM 12.1 inch with Wi-Fi+5G Tablet (Cobalt Blue)"
-      },
-      {
-        "url": "",
-        "label": "🎁 Deal Price : ₹18,499"
-      },
-      {
-        "url": "https://fkrt.co/migJAq",
-        "label": "Here"
-      },
-      {
-        "url": "",
-        "label": "💥 Bank Offer : ₹3,500 Instant Discount on SBI Credit Card Txn"
-      }
-    ],
-    "raw_text": "Flipkart | 🔥🔥POCO Pad 5G 8 GB RAM 256 GB ROM 12.1 inch with Wi-Fi+5G Tablet (Cobalt Blue)\n\n🎁 Deal Price : ₹18,499\n\nBuy Here :  https://fkrt.co/migJAq\n\n💥 Bank Offer : ₹3,500 Instant Discount on SBI Credit Card Txn",
-    "final_url": "https://fkrt.co/migJAq",
-    "local_image": "assets/images/tgmsg_11757.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T19:52:34+00:00",
-    "buy_link": "https://fkrt.co/migJAq",
-    "date_iso": "2025-10-09T19:52:34+00:00"
   }
 ]
