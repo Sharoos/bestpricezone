@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg12596",
+    "title": "Up to ₹2000 Off With SBI Bank Credit Card",
+    "description": "Upto 62% Off On Kenstar LED TVs. https://fkrt.co/y4NR4o *Upto ₹2000 Off With SBI Bank Credit Card.",
+    "shortlink": "https://fkrt.co/y4NR4o",
+    "urls": [
+      {
+        "url": "https://fkrt.co/y4NR4o",
+        "label": "Upto 62% Off On Kenstar LED TVs"
+      },
+      {
+        "url": "",
+        "label": "Upto ₹2000 Off With SBI Bank Credit Card"
+      }
+    ],
+    "raw_text": "Upto 62% Off On Kenstar LED TVs.\n\nhttps://fkrt.co/y4NR4o\n\n*Upto ₹2000 Off With SBI Bank Credit Card.",
+    "final_url": "https://fkrt.co/y4NR4o",
+    "local_image": "assets/images/tgmsg_12596.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-12T18:38:35+00:00",
+    "buy_link": "https://fkrt.co/y4NR4o",
+    "date_iso": "2025-10-12T18:38:35+00:00"
+  },
+  {
     "id": "msg12579",
     "title": "MarQ Water Dispenser at 4600",
     "description": "MarQ Water Dispenser at 4600. https://fkrt.co/7hBDf3",
@@ -8830,25 +8854,5 @@
     "date_obj": "2025-10-10T06:40:35+00:00",
     "buy_link": "https://myntr.in/jJo712",
     "date_iso": "2025-10-10T06:40:35+00:00"
-  },
-  {
-    "id": "msg11831",
-    "title": "Up to 75% Off On Engage Deodorant",
-    "description": "Flipkart | Upto 75% Off On Engage Deodorant 👉https://fkrt.co/CbomU1",
-    "shortlink": "https://fkrt.co/CbomU1",
-    "urls": [
-      {
-        "url": "https://fkrt.co/CbomU1",
-        "label": "Upto 75% Off On Engage Deodorant"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 75% Off On Engage Deodorant\n\n👉https://fkrt.co/CbomU1",
-    "final_url": "https://fkrt.co/CbomU1",
-    "local_image": "assets/images/tgmsg_11831.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T06:51:09+00:00",
-    "buy_link": "https://fkrt.co/CbomU1",
-    "date_iso": "2025-10-10T06:51:09+00:00"
   }
 ]
