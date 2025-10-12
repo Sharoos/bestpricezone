@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg12524",
+    "title": "🛒 Deal Price ₹293",
+    "description": "Flipkart 👖 Jeans 🛒 Deal Price: ₹293 👉https://fkrt.co/Xe8ceG",
+    "shortlink": "https://fkrt.co/Xe8ceG",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart 👖 Jeans"
+      },
+      {
+        "url": "https://fkrt.co/Xe8ceG",
+        "label": "🛒 Deal Price: ₹293"
+      }
+    ],
+    "raw_text": "Flipkart 👖 Jeans \n\n🛒 Deal Price: ₹293\n\n👉https://fkrt.co/Xe8ceG",
+    "final_url": "https://fkrt.co/Xe8ceG",
+    "local_image": "assets/images/tgmsg_12524.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-12T13:20:19+00:00",
+    "buy_link": "https://fkrt.co/Xe8ceG",
+    "date_iso": "2025-10-12T13:20:19+00:00"
+  },
+  {
+    "id": "msg12525",
+    "title": "smartbuy,perfect homes & more",
+    "description": "Deals On Furnishing Range https://fkrt.co/Rwr5QG Flipkart smartbuy,Flipkart perfect homes & more",
+    "shortlink": "https://fkrt.co/Rwr5QG",
+    "urls": [
+      {
+        "url": "https://fkrt.co/Rwr5QG",
+        "label": "Deals On Furnishing Range"
+      },
+      {
+        "url": "",
+        "label": "Flipkart smartbuy,Flipkart perfect homes & more"
+      }
+    ],
+    "raw_text": "Deals On Furnishing Range \n\nhttps://fkrt.co/Rwr5QG\n\nFlipkart smartbuy,Flipkart perfect homes & more",
+    "final_url": "https://fkrt.co/Rwr5QG",
+    "local_image": "assets/images/tgmsg_12525.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-12T13:27:16+00:00",
+    "buy_link": "https://fkrt.co/Rwr5QG",
+    "date_iso": "2025-10-12T13:27:16+00:00"
+  },
+  {
     "id": "msg12521",
     "title": "Use Code OPEXTRA15 To Get Extra 15% Off!",
     "description": "Myntra | 🔥OnePlus Lowest Prices Ever🔥 ONLY FOR FEW Hours OnePlus Nord Buds 2r at Rs. 1231 only! Use Coupon Code: OPEXTRA12 to get 12% Off! 👉 OnePlus Bullets Z2 ANC at Rs. 1410 only! Use Coupon Code: OPEXTRA17 to get 17%…",
@@ -8742,49 +8790,5 @@
     "date_obj": "2025-10-09T20:45:20+00:00",
     "buy_link": "https://fkrt.co/c2rzgM",
     "date_iso": "2025-10-09T20:45:20+00:00"
-  },
-  {
-    "id": "msg11788",
-    "title": "Men's Trousers Up to 90% Off",
-    "description": "Flipkart  Men's Trousers Up to 90% Off https://fkrt.co/geAdRJ",
-    "shortlink": "https://fkrt.co/geAdRJ",
-    "urls": [
-      {
-        "url": "https://fkrt.co/geAdRJ",
-        "label": "Flipkart Men's Trousers Up to 90% Off"
-      }
-    ],
-    "raw_text": "Flipkart  Men's Trousers Up to 90% Off  \n\nhttps://fkrt.co/geAdRJ",
-    "final_url": "https://fkrt.co/geAdRJ",
-    "local_image": "assets/images/tgmsg_11788.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T20:22:03+00:00",
-    "buy_link": "https://fkrt.co/geAdRJ",
-    "date_iso": "2025-10-09T20:22:03+00:00"
-  },
-  {
-    "id": "msg11790",
-    "title": "Flat ₹1,500 off with SBI Credit Card",
-    "description": "Flipkart : AirPods Pro (2nd gen) for ₹14,499 (Effectively) https://fkrt.co/AQl6mp Flat ₹1,500 off with SBI Credit Card",
-    "shortlink": "https://fkrt.co/AQl6mp",
-    "urls": [
-      {
-        "url": "https://fkrt.co/AQl6mp",
-        "label": "AirPods Pro (2nd gen) for ₹14,499 (Effectively)"
-      },
-      {
-        "url": "",
-        "label": "Flat ₹1,500 off with SBI Credit Card"
-      }
-    ],
-    "raw_text": "Flipkart : AirPods Pro (2nd gen) for ₹14,499 (Effectively) \n\nhttps://fkrt.co/AQl6mp\n\nFlat ₹1,500 off with SBI Credit Card",
-    "final_url": "https://fkrt.co/AQl6mp",
-    "local_image": "assets/images/tgmsg_11790.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T20:26:45+00:00",
-    "buy_link": "https://fkrt.co/AQl6mp",
-    "date_iso": "2025-10-09T20:26:45+00:00"
   }
 ]
