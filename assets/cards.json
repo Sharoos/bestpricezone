@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12496",
+    "title": "Kenstar Grill Sandwich Maker @ 739",
+    "description": "Flipkart | Kenstar Grill Sandwich Maker @ 739. 👉https://fkrt.co/C1Ew6g",
+    "shortlink": "https://fkrt.co/C1Ew6g",
+    "urls": [
+      {
+        "url": "https://fkrt.co/C1Ew6g",
+        "label": "Kenstar Grill Sandwich Maker @ 739"
+      }
+    ],
+    "raw_text": "Flipkart | Kenstar Grill Sandwich Maker @ 739.\n\n👉https://fkrt.co/C1Ew6g",
+    "final_url": "https://fkrt.co/C1Ew6g",
+    "local_image": "assets/images/tgmsg_12496.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-12T09:51:27+00:00",
+    "buy_link": "https://fkrt.co/C1Ew6g",
+    "date_iso": "2025-10-12T09:51:27+00:00"
+  },
+  {
     "id": "msg12494",
     "title": "Men's Footwear Starts at ₹99",
     "description": "AJIO . 👉 Sports Shoes : Casual Shoes : Sandals : *Buy Maximum To Get Free Shipping",
@@ -8582,25 +8602,5 @@
     "date_obj": "2025-10-09T19:44:51+00:00",
     "buy_link": "https://fkrt.co/NsQNWp",
     "date_iso": "2025-10-09T19:44:51+00:00"
-  },
-  {
-    "id": "msg11749",
-    "title": "1249",
-    "description": "Flipkart | 1249 https://fkrt.co/jY9dho",
-    "shortlink": "https://fkrt.co/jY9dho",
-    "urls": [
-      {
-        "url": "https://fkrt.co/jY9dho",
-        "label": "1249"
-      }
-    ],
-    "raw_text": "Flipkart | 1249 https://fkrt.co/jY9dho",
-    "final_url": "https://fkrt.co/jY9dho",
-    "local_image": "assets/images/tgmsg_11749.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T19:45:27+00:00",
-    "buy_link": "https://fkrt.co/jY9dho",
-    "date_iso": "2025-10-09T19:45:27+00:00"
   }
 ]
