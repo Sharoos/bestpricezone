@@ -1,5 +1,89 @@
 [
   {
+    "id": "msg12504",
+    "title": "☄️☄️ LOOOT Fastt at ₹749",
+    "description": "☄️☄️ LOOOT Fastt at ₹749. 🔗https://www.amazon.in/dp/B0DVLRFN9N?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DVLRFN9N?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DVLRFN9N?tag=bestpricezo0f-21",
+        "label": "☄️☄️ LOOOT Fastt at ₹749"
+      }
+    ],
+    "raw_text": "☄️☄️ LOOOT Fastt at ₹749.\n\n🔗https://www.amazon.in/dp/B0DVLRFN9N?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DVLRFN9N?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12504.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-12T10:59:28+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DVLRFN9N?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-12T10:59:28+00:00"
+  },
+  {
+    "id": "msg12505",
+    "title": "Up to 70% Off On Nivea Beauty Product",
+    "description": "Flipkart | Upto 70% Off On Nivea Beauty Products. Lakme : Ponds : Set Wet : Puresense :",
+    "shortlink": "https://fkrt.co/FYSvRa",
+    "urls": [
+      {
+        "url": "https://fkrt.co/FYSvRa",
+        "label": "Upto 70% Off On Nivea Beauty Products"
+      },
+      {
+        "url": "https://fkrt.co/1opaI9",
+        "label": "Lakme"
+      },
+      {
+        "url": "https://fkrt.co/gVNIqn",
+        "label": "Ponds"
+      },
+      {
+        "url": "https://fkrt.co/04tZDq",
+        "label": "Set Wet"
+      },
+      {
+        "url": "https://fkrt.co/vHFAFO",
+        "label": "Puresense"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 70% Off On Nivea Beauty Products. \n\n https://fkrt.co/FYSvRa\n\nLakme :  https://fkrt.co/1opaI9\n\nPonds :  https://fkrt.co/gVNIqn\n\nSet Wet :  https://fkrt.co/04tZDq\n\nPuresense :  https://fkrt.co/vHFAFO",
+    "final_url": "https://fkrt.co/FYSvRa",
+    "local_image": "assets/images/tgmsg_12505.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-12T11:06:48+00:00",
+    "buy_link": "https://fkrt.co/FYSvRa",
+    "date_iso": "2025-10-12T11:06:48+00:00"
+  },
+  {
+    "id": "msg12506",
+    "title": "Realme T110 Buds Only at Rs. 799 + Bank offers!! To Get Extra 25% Off!",
+    "description": "Myntra | 🔥 Realme Lowest Prices Ever🔥 Only for last few hours  👉 Realme Wireless 3 Neo Flat at Rs. 740 + Bank offers!! 👉",
+    "shortlink": "https://myntr.in/UYVxkO",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Realme Lowest Prices Ever🔥 Only for last few hours"
+      },
+      {
+        "url": "https://myntr.in/UYVxkO",
+        "label": "Realme T110 Buds Only at Rs. 799 + Bank offers!! To Get Extra 25% Off!"
+      },
+      {
+        "url": "https://myntr.in/yTouLX",
+        "label": "Realme Wireless 3 Neo Flat at Rs. 740 + Bank offers!!"
+      }
+    ],
+    "raw_text": "Myntra | 🔥 Realme Lowest Prices Ever🔥 Only for last few hours\n\nRealme T110 Buds Only at Rs. 799 + Bank offers!! To Get Extra 25% Off!\n👉https://myntr.in/UYVxkO\n\nRealme Wireless 3 Neo Flat at Rs. 740 + Bank offers!!\n👉https://myntr.in/yTouLX",
+    "final_url": "https://myntr.in/UYVxkO",
+    "local_image": "assets/images/tgmsg_12506.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-12T11:10:13+00:00",
+    "buy_link": "https://myntr.in/UYVxkO",
+    "date_iso": "2025-10-12T11:10:13+00:00"
+  },
+  {
     "id": "msg12503",
     "title": "Ant Esports Earbuds @599",
     "description": "Flipkart | Ant Esports Earbuds @599 https://fkrt.co/S00RN0",
@@ -8646,65 +8730,5 @@
     "date_obj": "2025-10-09T20:01:33+00:00",
     "buy_link": "https://fkrt.co/dwfGxl",
     "date_iso": "2025-10-09T20:01:33+00:00"
-  },
-  {
-    "id": "msg11772",
-    "title": "Double Size Bedsheet With 2 Pillow Covers @ ₹179/",
-    "description": "Myntra  Double Size Bedsheet With 2 Pillow Covers @ ₹179/- ✅ https://myntr.in/7H7egc",
-    "shortlink": "https://myntr.in/7H7egc",
-    "urls": [
-      {
-        "url": "https://myntr.in/7H7egc",
-        "label": "Myntra Double Size Bedsheet With 2 Pillow Covers @ ₹179/"
-      }
-    ],
-    "raw_text": "Myntra  Double Size Bedsheet With 2 Pillow Covers @ ₹179/-\n\n✅ https://myntr.in/7H7egc",
-    "final_url": "https://myntr.in/7H7egc",
-    "local_image": "assets/images/tgmsg_11772.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-09T20:02:25+00:00",
-    "buy_link": "https://myntr.in/7H7egc",
-    "date_iso": "2025-10-09T20:02:25+00:00"
-  },
-  {
-    "id": "msg11775",
-    "title": "⚡️ Fubar Men's Trousers @ ₹274+8 SC",
-    "description": "Flipkart | ⚡️ Fubar Men's Trousers @ ₹274+8 SC ✅ https://fkrt.co/8RwDGI",
-    "shortlink": "https://fkrt.co/8RwDGI",
-    "urls": [
-      {
-        "url": "https://fkrt.co/8RwDGI",
-        "label": "⚡️ Fubar Men's Trousers @ ₹274+8 SC"
-      }
-    ],
-    "raw_text": "Flipkart | ⚡️ Fubar Men's Trousers @ ₹274+8 SC\n\n✅ https://fkrt.co/8RwDGI",
-    "final_url": "https://fkrt.co/8RwDGI",
-    "local_image": "assets/images/tgmsg_11775.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T20:03:20+00:00",
-    "buy_link": "https://fkrt.co/8RwDGI",
-    "date_iso": "2025-10-09T20:03:20+00:00"
-  },
-  {
-    "id": "msg11776",
-    "title": "CMF by Nothing Watch Pro 2 at ₹3,799",
-    "description": "Flipkart | CMF by Nothing Watch Pro 2 at ₹3,799 https://fkrt.co/UVjsZ1",
-    "shortlink": "https://fkrt.co/UVjsZ1",
-    "urls": [
-      {
-        "url": "https://fkrt.co/UVjsZ1",
-        "label": "CMF by Nothing Watch Pro 2 at ₹3,799"
-      }
-    ],
-    "raw_text": "Flipkart | CMF by Nothing Watch Pro 2 at ₹3,799\n\nhttps://fkrt.co/UVjsZ1",
-    "final_url": "https://fkrt.co/UVjsZ1",
-    "local_image": "assets/images/tgmsg_11776.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T20:04:41+00:00",
-    "buy_link": "https://fkrt.co/UVjsZ1",
-    "date_iso": "2025-10-09T20:04:41+00:00"
   }
 ]
