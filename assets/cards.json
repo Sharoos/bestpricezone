@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12557",
+    "title": "Ear Wireless Earbuds @1899",
+    "description": "Amazon | JBL Vibe Beam in-Ear Wireless Earbuds @1899 Apply Coupon https://www.amazon.in/dp/B0CKHYTT2G?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CKHYTT2G?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CKHYTT2G?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "JBL Vibe Beam in-Ear Wireless Earbuds @1899"
+      }
+    ],
+    "raw_text": "Amazon | JBL Vibe Beam in-Ear Wireless Earbuds @1899\n\nApply Coupon https://www.amazon.in/dp/B0CKHYTT2G?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CKHYTT2G?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12557.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-12T15:50:17+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CKHYTT2G?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-12T15:50:17+00:00"
+  },
+  {
     "id": "msg12555",
     "title": "16 W Bluetooth Soundbar @599",
     "description": "Flipkart | 16 W Bluetooth Soundbar @599 👉  https://fkrt.co/BbEzeO",
@@ -8754,25 +8774,5 @@
     "date_obj": "2025-10-10T03:55:58+00:00",
     "buy_link": "https://fkrt.co/ZCdR7Y",
     "date_iso": "2025-10-10T03:55:58+00:00"
-  },
-  {
-    "id": "msg11811",
-    "title": "Denim Shirts Up to 79% Off",
-    "description": "Flipkart | Denim Shirts Upto 79% Off 👉https://fkrt.co/X48Jst",
-    "shortlink": "https://fkrt.co/X48Jst",
-    "urls": [
-      {
-        "url": "https://fkrt.co/X48Jst",
-        "label": "Denim Shirts Upto 79% Off"
-      }
-    ],
-    "raw_text": "Flipkart | Denim Shirts Upto 79% Off\n\n👉https://fkrt.co/X48Jst",
-    "final_url": "https://fkrt.co/X48Jst",
-    "local_image": "assets/images/tgmsg_11811.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T04:10:57+00:00",
-    "buy_link": "https://fkrt.co/X48Jst",
-    "date_iso": "2025-10-10T04:10:57+00:00"
   }
 ]
