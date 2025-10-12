@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12532",
+    "title": "Philips Beard Trimmer for Men @ 899",
+    "description": "Amazon | Philips Beard Trimmer for Men @ 899. 👉https://www.amazon.in/dp/B0C7VYN5PV?th=1&smid=&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0C7VYN5PV?th=1&smid=&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0C7VYN5PV?th=1&smid=&tag=bestpricezo0f-21",
+        "label": "Philips Beard Trimmer for Men @ 899"
+      }
+    ],
+    "raw_text": "Amazon | Philips Beard Trimmer for Men @ 899.\n\n👉https://www.amazon.in/dp/B0C7VYN5PV?th=1&smid=&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0C7VYN5PV?th=1&smid=&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12532.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-12T14:31:32+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0C7VYN5PV?th=1&smid=&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-12T14:31:32+00:00"
+  },
+  {
     "id": "msg12530",
     "title": "Up to 80% Off On Beauty Item",
     "description": "Myntra : Upto 80% Off On Beauty Items. Lakmé : Pond's : BoroPlus : Livon : Vaseline : Master Link :",
@@ -8774,29 +8794,5 @@
     "date_obj": "2025-10-09T21:32:30+00:00",
     "buy_link": "https://fkrt.co/hlIZEv",
     "date_iso": "2025-10-09T21:32:30+00:00"
-  },
-  {
-    "id": "msg11799",
-    "title": "Campus Shoes at 72% Off",
-    "description": "Flipkart  Campus Shoes at 72% Off. Scroll Down : https://fkrt.co/1HIzho",
-    "shortlink": "https://fkrt.co/1HIzho",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart Campus Shoes at 72% Off"
-      },
-      {
-        "url": "https://fkrt.co/1HIzho",
-        "label": "Scroll Down"
-      }
-    ],
-    "raw_text": "Flipkart  Campus Shoes at 72% Off.\n\nScroll Down : https://fkrt.co/1HIzho",
-    "final_url": "https://fkrt.co/1HIzho",
-    "local_image": "assets/images/tgmsg_11799.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T21:04:34+00:00",
-    "buy_link": "https://fkrt.co/1HIzho",
-    "date_iso": "2025-10-09T21:04:34+00:00"
   }
 ]
