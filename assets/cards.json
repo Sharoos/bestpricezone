@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg12451",
+    "title": "💥 Just ₹599 (⚡92% OFF)",
+    "description": "Flipkart | 🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar 💥 Just ₹599 (⚡92% OFF) https://fkrt.co/sXETVS",
+    "shortlink": "https://fkrt.co/sXETVS",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar"
+      },
+      {
+        "url": "https://fkrt.co/sXETVS",
+        "label": "💥 Just ₹599 (⚡92% OFF)"
+      }
+    ],
+    "raw_text": "Flipkart | 🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar \n💥 Just ₹599 (⚡92% OFF)\n\nhttps://fkrt.co/sXETVS",
+    "final_url": "https://fkrt.co/sXETVS",
+    "local_image": "assets/images/tgmsg_12451.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-12T05:04:56+00:00",
+    "buy_link": "https://fkrt.co/sXETVS",
+    "date_iso": "2025-10-12T05:04:56+00:00"
+  },
+  {
+    "id": "msg12453",
+    "title": "Women Jewellery Up to 92% off",
+    "description": "Flipkart | Women Jewellery Upto 92% off https://fkrt.co/lMtBqI",
+    "shortlink": "https://fkrt.co/lMtBqI",
+    "urls": [
+      {
+        "url": "https://fkrt.co/lMtBqI",
+        "label": "Women Jewellery Upto 92% off"
+      }
+    ],
+    "raw_text": "Flipkart | Women Jewellery Upto 92% off \n\nhttps://fkrt.co/lMtBqI",
+    "final_url": "https://fkrt.co/lMtBqI",
+    "local_image": "assets/images/tgmsg_12453.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-12T05:23:09+00:00",
+    "buy_link": "https://fkrt.co/lMtBqI",
+    "date_iso": "2025-10-12T05:23:09+00:00"
+  },
+  {
     "id": "msg12449",
     "title": "Up to 88% Off On Branded Luggage",
     "description": "Flipkart : Upto 88% Off On Branded Luggage Master Link : Small : Medium : Large : Pack Of 2 : Pack Of 3 :",
@@ -8314,45 +8358,5 @@
     "date_obj": "2025-10-09T19:29:13+00:00",
     "buy_link": "https://fktr.in/JBIf77V",
     "date_iso": "2025-10-09T19:29:13+00:00"
-  },
-  {
-    "id": "msg11726",
-    "title": "Pack of 2 @ ₹99",
-    "description": "Flipkart  Pack of 2 @ ₹99 https://fkrt.co/6nvc4L",
-    "shortlink": "https://fkrt.co/6nvc4L",
-    "urls": [
-      {
-        "url": "https://fkrt.co/6nvc4L",
-        "label": "Flipkart Pack of 2 @ ₹99"
-      }
-    ],
-    "raw_text": "Flipkart  Pack of 2 @ ₹99 \n\nhttps://fkrt.co/6nvc4L",
-    "final_url": "https://fkrt.co/6nvc4L",
-    "local_image": "assets/images/tgmsg_11726.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T19:32:28+00:00",
-    "buy_link": "https://fkrt.co/6nvc4L",
-    "date_iso": "2025-10-09T19:32:28+00:00"
-  },
-  {
-    "id": "msg11727",
-    "title": "Painting @58",
-    "description": "Flipkart  Painting @58 https://fkrt.co/LyBE5E",
-    "shortlink": "https://fkrt.co/LyBE5E",
-    "urls": [
-      {
-        "url": "https://fkrt.co/LyBE5E",
-        "label": "Flipkart Painting @58"
-      }
-    ],
-    "raw_text": "Flipkart  Painting @58\n\nhttps://fkrt.co/LyBE5E",
-    "final_url": "https://fkrt.co/LyBE5E",
-    "local_image": "assets/images/tgmsg_11727.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T19:32:54+00:00",
-    "buy_link": "https://fkrt.co/LyBE5E",
-    "date_iso": "2025-10-09T19:32:54+00:00"
   }
 ]
