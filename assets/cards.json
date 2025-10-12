@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg12510",
+    "title": "Women's Westernwear Under ₹399 (Rio, Fig & More)",
+    "description": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More) Women : https://ajiio.co/3PETnD Girls : https://ajiio.co/Rv3Y4Q",
+    "shortlink": "https://ajiio.co/3PETnD",
+    "urls": [
+      {
+        "url": "",
+        "label": "Women's Westernwear Under ₹399 (Rio, Fig & More)"
+      },
+      {
+        "url": "https://ajiio.co/3PETnD",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/Rv3Y4Q",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More)\n\nWomen : https://ajiio.co/3PETnD\n\nGirls : https://ajiio.co/Rv3Y4Q",
+    "final_url": "https://ajiio.co/3PETnD",
+    "local_image": "assets/images/tgmsg_12510.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-12T11:20:11+00:00",
+    "buy_link": "https://ajiio.co/3PETnD",
+    "date_iso": "2025-10-12T11:20:11+00:00"
+  },
+  {
     "id": "msg12504",
     "title": "☄️☄️ LOOOT Fastt at ₹749",
     "description": "☄️☄️ LOOOT Fastt at ₹749. 🔗https://www.amazon.in/dp/B0DVLRFN9N?tag=bestpricezo0f-21",
@@ -8710,25 +8738,5 @@
     "date_obj": "2025-10-09T19:59:58+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DK3M99TT?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-09T19:59:58+00:00"
-  },
-  {
-    "id": "msg11770",
-    "title": "🔥 ₹169",
-    "description": "Flipkart | 🔥  ₹169 https://fkrt.co/dwfGxl",
-    "shortlink": "https://fkrt.co/dwfGxl",
-    "urls": [
-      {
-        "url": "https://fkrt.co/dwfGxl",
-        "label": "🔥 ₹169"
-      }
-    ],
-    "raw_text": "Flipkart | 🔥  ₹169\n\n https://fkrt.co/dwfGxl",
-    "final_url": "https://fkrt.co/dwfGxl",
-    "local_image": "assets/images/tgmsg_11770.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T20:01:33+00:00",
-    "buy_link": "https://fkrt.co/dwfGxl",
-    "date_iso": "2025-10-09T20:01:33+00:00"
   }
 ]
