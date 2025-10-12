@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12487",
+    "title": "Flat 85% Off on Safari Backpack",
+    "description": "Flipkart : Flat 85% Off on Safari Backpacks. 👉 https://fkrt.co/BwsVL9",
+    "shortlink": "https://fkrt.co/BwsVL9",
+    "urls": [
+      {
+        "url": "https://fkrt.co/BwsVL9",
+        "label": "Flat 85% Off on Safari Backpacks"
+      }
+    ],
+    "raw_text": "Flipkart : Flat 85% Off on Safari Backpacks.\n\n 👉 https://fkrt.co/BwsVL9",
+    "final_url": "https://fkrt.co/BwsVL9",
+    "local_image": "assets/images/tgmsg_12487.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-12T08:51:54+00:00",
+    "buy_link": "https://fkrt.co/BwsVL9",
+    "date_iso": "2025-10-12T08:51:54+00:00"
+  },
+  {
     "id": "msg12486",
     "title": "Men Polo Tshirts Starts at 180",
     "description": "AJIO . Oversized Tshirts Starts at 190. Women : Men : Kids Clothing Boys : Girls : Infants :",
@@ -8522,33 +8542,5 @@
     "date_obj": "2025-10-09T19:48:38+00:00",
     "buy_link": "https://fkrt.co/K6GM5Z",
     "date_iso": "2025-10-09T19:48:38+00:00"
-  },
-  {
-    "id": "msg11756",
-    "title": "💥690 off with SBI Credit Card",
-    "description": "Flipkart | 🔥🔥Hrx Hard Body Set of 3 Luggage 8 Wheels  @4009 Buy Here :  https://fkrt.co/rLIplc 💥690 off with SBI Credit Cards",
-    "shortlink": "https://fkrt.co/rLIplc",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥🔥Hrx Hard Body Set of 3 Luggage 8 Wheels @4009"
-      },
-      {
-        "url": "https://fkrt.co/rLIplc",
-        "label": "Here"
-      },
-      {
-        "url": "",
-        "label": "💥690 off with SBI Credit Cards"
-      }
-    ],
-    "raw_text": "Flipkart | 🔥🔥Hrx Hard Body Set of 3 Luggage 8 Wheels  @4009\n\nBuy Here :  https://fkrt.co/rLIplc\n\n💥690 off with SBI Credit Cards",
-    "final_url": "https://fkrt.co/rLIplc",
-    "local_image": "assets/images/tgmsg_11756.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T19:51:57+00:00",
-    "buy_link": "https://fkrt.co/rLIplc",
-    "date_iso": "2025-10-09T19:51:57+00:00"
   }
 ]
