@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg12454",
+    "title": "Up to 80% Off On Oversized T",
+    "description": "AJIO Upto 80% Off On Oversized T-Shirts Start @140 Men’s : Women’s : Polo T-Shirts : Jeans : Branded Innerwears : Men's Blazers & Waistcoat : + 10% AJIO Extra CASH",
+    "shortlink": "https://ajiio.co/Uvuypo",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 80% Off On Oversized T-Shirts Start @140"
+      },
+      {
+        "url": "https://ajiio.co/Uvuypo",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/V1M9Us",
+        "label": "Women’s"
+      },
+      {
+        "url": "https://ajiio.co/tMJ4Ni",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/rbPiwy",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/SBQoJn",
+        "label": "Branded Innerwears"
+      },
+      {
+        "url": "https://ajiio.co/rsVf97",
+        "label": "Men's Blazers & Waistcoat"
+      },
+      {
+        "url": "",
+        "label": "+ 10% AJIO Extra CASH"
+      }
+    ],
+    "raw_text": "AJIO  Upto 80% Off On Oversized T-Shirts Start @140\n\nMen’s : https://ajiio.co/Uvuypo\nWomen’s : https://ajiio.co/V1M9Us\n\nPolo T-Shirts : https://ajiio.co/tMJ4Ni\nJeans : https://ajiio.co/rbPiwy\nBranded Innerwears : https://ajiio.co/SBQoJn\nMen's Blazers & Waistcoat : https://ajiio.co/rsVf97\n\n+ 10% AJIO Extra CASH",
+    "final_url": "https://ajiio.co/Uvuypo",
+    "local_image": "assets/images/tgmsg_12454.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-12T05:35:59+00:00",
+    "buy_link": "https://ajiio.co/Uvuypo",
+    "date_iso": "2025-10-12T05:35:59+00:00"
+  },
+  {
     "id": "msg12451",
     "title": "💥 Just ₹599 (⚡92% OFF)",
     "description": "Flipkart | 🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar 💥 Just ₹599 (⚡92% OFF) https://fkrt.co/sXETVS",
@@ -8338,25 +8386,5 @@
     "date_obj": "2025-10-09T19:26:07+00:00",
     "buy_link": "https://fkrt.co/njCENz",
     "date_iso": "2025-10-09T19:26:07+00:00"
-  },
-  {
-    "id": "msg11725",
-    "title": "2 Burner Gas Stove @684",
-    "description": "2 Burner Gas Stove @684 https://fktr.in/JBIf77V",
-    "shortlink": "https://fktr.in/JBIf77V",
-    "urls": [
-      {
-        "url": "https://fktr.in/JBIf77V",
-        "label": "2 Burner Gas Stove @684"
-      }
-    ],
-    "raw_text": "2 Burner Gas Stove @684\n\nhttps://fktr.in/JBIf77V",
-    "final_url": "https://fktr.in/JBIf77V",
-    "local_image": "assets/images/tgmsg_11725.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T19:29:13+00:00",
-    "buy_link": "https://fktr.in/JBIf77V",
-    "date_iso": "2025-10-09T19:29:13+00:00"
   }
 ]
