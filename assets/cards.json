@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12673",
+    "title": "Fast ₹399",
+    "description": "Fast ₹399. https://fkrt.co/5ITQzQ",
+    "shortlink": "https://fkrt.co/5ITQzQ",
+    "urls": [
+      {
+        "url": "https://fkrt.co/5ITQzQ",
+        "label": "Fast ₹399"
+      }
+    ],
+    "raw_text": "Fast ₹399.\n\nhttps://fkrt.co/5ITQzQ",
+    "final_url": "https://fkrt.co/5ITQzQ",
+    "local_image": "assets/images/tgmsg_12673.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-12T19:36:09+00:00",
+    "buy_link": "https://fkrt.co/5ITQzQ",
+    "date_iso": "2025-10-12T19:36:09+00:00"
+  },
+  {
     "id": "msg12672",
     "title": "Lakme 1 Get 1 Free",
     "description": "Amazon | Lakme  Buy 1 Get 1 Free. https://www.amazon.in/promotion/psp/A1V9SH2VC3IL3L?redirectAsin=B0BXSX82FK&redirectMerchantId=A15APWRK6P7LBV&tag=bestpricezo0f-21 Add Any 2 Qnty & Check Final Checkout Page.",
@@ -8814,49 +8834,5 @@
     "date_obj": "2025-10-10T07:18:51+00:00",
     "buy_link": "https://fktr.in/vB7VmhO",
     "date_iso": "2025-10-10T07:18:51+00:00"
-  },
-  {
-    "id": "msg11837",
-    "title": "Flat 51% Off on Maybelline New York Colossal Bold Line",
-    "description": "Myntra | r - Black - 3ml: Flat 48% Off on Maybelline New York Super Stay Matte Ink Liquid Lipstick 5 ml - Founder 115: Flat 52% Off on Maybelline New York Super Stay Matte Ink Liquid Lipstick 5 ml - Amazonian 70: Flat…",
-    "shortlink": "https://myntr.in/8dcvpg",
-    "urls": [
-      {
-        "url": "https://myntr.in/8dcvpg",
-        "label": "Flat 51% Off on Maybelline New York Colossal Bold Liner - Black - 3ml"
-      },
-      {
-        "url": "https://myntr.in/YXYoY2",
-        "label": "Flat 48% Off on Maybelline New York Super Stay Matte Ink Liquid Lipstick 5 ml - Founder 115"
-      },
-      {
-        "url": "https://myntr.in/PtbH2n",
-        "label": "Flat 52% Off on Maybelline New York Super Stay Matte Ink Liquid Lipstick 5 ml - Amazonian 70"
-      },
-      {
-        "url": "https://myntr.in/Qod5S2",
-        "label": "Flat 50% Off on Maybelline New York Super Stay Matte Ink Liquid Lipstick 5 ml - Pioneer 20"
-      },
-      {
-        "url": "https://myntr.in/6OKWaI",
-        "label": "Flat 41% Off on Maybelline New York Superstay Vinyl Ink Liquid Lipstick - Irresistible - 4.2ml"
-      },
-      {
-        "url": "https://myntr.in/LNE0zt",
-        "label": "Flat 50% Off on Garnier Men Acno Fight Anti Pimple Face Wash with Salicylic Acid and Herba Repair - 150g"
-      },
-      {
-        "url": "https://myntr.in/kT1UoF",
-        "label": "Flat 67% Off on LOreal Paris Total Repair 5 Repairing Shampoo with Keratin XS Technology - 1 L"
-      }
-    ],
-    "raw_text": "Myntra | Flat 51% Off on Maybelline New York Colossal Bold Liner - Black - 3ml: \nhttps://myntr.in/8dcvpg\n\nFlat 48% Off on Maybelline New York Super Stay Matte Ink Liquid Lipstick 5 ml - Founder 115: \nhttps://myntr.in/YXYoY2\n\nFlat 52% Off on Maybelline New York Super Stay Matte Ink Liquid Lipstick 5 ml - Amazonian 70: \nhttps://myntr.in/PtbH2n\n\nFlat 50% Off on Maybelline New York Super Stay Matte Ink Liquid Lipstick 5 ml - Pioneer 20: \nhttps://myntr.in/Qod5S2\n\nFlat 41% Off on Maybelline New York Superstay Vinyl Ink Liquid Lipstick - Irresistible - 4.2ml:\n https://myntr.in/6OKWaI\n\nFlat 50% Off on Garnier Men Acno Fight Anti Pimple Face Wash with Salicylic Acid and Herba Repair - 150g: \nhttps://myntr.in/LNE0zt\n\nFlat 67% Off on LOreal Paris Total Repair 5 Repairing Shampoo with Keratin XS Technology - 1 L: \nhttps://myntr.in/kT1UoF",
-    "final_url": "https://myntr.in/8dcvpg",
-    "local_image": "assets/images/tgmsg_11837.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-10T07:21:05+00:00",
-    "buy_link": "https://myntr.in/8dcvpg",
-    "date_iso": "2025-10-10T07:21:05+00:00"
   }
 ]
