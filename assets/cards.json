@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg12579",
+    "title": "MarQ Water Dispenser at 4600",
+    "description": "MarQ Water Dispenser at 4600. https://fkrt.co/7hBDf3",
+    "shortlink": "https://fkrt.co/7hBDf3",
+    "urls": [
+      {
+        "url": "https://fkrt.co/7hBDf3",
+        "label": "MarQ Water Dispenser at 4600"
+      }
+    ],
+    "raw_text": "MarQ Water Dispenser at 4600.\n\nhttps://fkrt.co/7hBDf3",
+    "final_url": "https://fkrt.co/7hBDf3",
+    "local_image": "assets/images/tgmsg_12579.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-12T18:21:39+00:00",
+    "buy_link": "https://fkrt.co/7hBDf3",
+    "date_iso": "2025-10-12T18:21:39+00:00"
+  },
+  {
+    "id": "msg12580",
+    "title": "RR Signature Supremo 10L Star Rated Storage Water Heater for Home Glass Line Tank Geyser 8 Bar, Suitable for High Rise",
+    "description": "Amazon | RR Signature Supremo 10L Star Rated Storage Water Heater for Home | Glass Line Tank Geyser | 8 Bar, Suitable for High Rise | @ 4699🔥 🔗",
+    "shortlink": "https://www.amazon.in/dp/B0DP9S55L6?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DP9S55L6?th=1&language=en_IN&tag=bestpricezo0f-21",
+        "label": "RR Signature Supremo 10L Star Rated Storage Water Heater for Home | Glass Line Tank Geyser | 8 Bar, Suitable for High Rise"
+      }
+    ],
+    "raw_text": "Amazon | RR Signature Supremo 10L Star Rated Storage Water Heater for Home | Glass Line Tank Geyser | 8 Bar, Suitable for High Rise |\n\n@ 4699🔥\n\n🔗https://www.amazon.in/dp/B0DP9S55L6?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DP9S55L6?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12580.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-12T18:26:48+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DP9S55L6?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-12T18:26:48+00:00"
+  },
+  {
     "id": "msg12577",
     "title": "Noise Colorfit Icon 2 1.8'' Display Smartwatch 999",
     "description": "Flipkart | Noise Colorfit Icon 2 1.8'' Display Smartwatch 999 🛒  https://fkrt.co/v020Pm",
@@ -8810,45 +8850,5 @@
     "date_obj": "2025-10-10T06:51:09+00:00",
     "buy_link": "https://fkrt.co/CbomU1",
     "date_iso": "2025-10-10T06:51:09+00:00"
-  },
-  {
-    "id": "msg11821",
-    "title": "Bajaj Pure Coconut Oil, 1L at 419",
-    "description": "Flipkart  Bajaj Pure Coconut Oil, 1L at 419. https://fkrt.co/yYLt3p",
-    "shortlink": "https://fkrt.co/yYLt3p",
-    "urls": [
-      {
-        "url": "https://fkrt.co/yYLt3p",
-        "label": "Flipkart Bajaj Pure Coconut Oil, 1L at 419"
-      }
-    ],
-    "raw_text": "Flipkart  Bajaj Pure Coconut Oil, 1L at 419.\n\nhttps://fkrt.co/yYLt3p",
-    "final_url": "https://fkrt.co/yYLt3p",
-    "local_image": "assets/images/tgmsg_11821.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T05:59:08+00:00",
-    "buy_link": "https://fkrt.co/yYLt3p",
-    "date_iso": "2025-10-10T05:59:08+00:00"
-  },
-  {
-    "id": "msg11822",
-    "title": "75% Off On UCB Men's Polo T",
-    "description": "Flipkart  75% Off On UCB Men's Polo T-Shirt. https://fkrt.co/oJbjct",
-    "shortlink": "https://fkrt.co/oJbjct",
-    "urls": [
-      {
-        "url": "https://fkrt.co/oJbjct",
-        "label": "Flipkart 75% Off On UCB Men's Polo T-Shirt"
-      }
-    ],
-    "raw_text": "Flipkart  75% Off On UCB Men's Polo T-Shirt.\n\nhttps://fkrt.co/oJbjct",
-    "final_url": "https://fkrt.co/oJbjct",
-    "local_image": "assets/images/tgmsg_11822.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T06:09:09+00:00",
-    "buy_link": "https://fkrt.co/oJbjct",
-    "date_iso": "2025-10-10T06:09:09+00:00"
   }
 ]
