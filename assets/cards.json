@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg12672",
+    "title": "Lakme 1 Get 1 Free",
+    "description": "Amazon | Lakme  Buy 1 Get 1 Free. https://www.amazon.in/promotion/psp/A1V9SH2VC3IL3L?redirectAsin=B0BXSX82FK&redirectMerchantId=A15APWRK6P7LBV&tag=bestpricezo0f-21 Add Any 2 Qnty & Check Final Checkout Page.",
+    "shortlink": "https://www.amazon.in/promotion/psp/A1V9SH2VC3IL3L?redirectAsin=B0BXSX82FK&redirectMerchantId=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/promotion/psp/A1V9SH2VC3IL3L?redirectAsin=B0BXSX82FK&redirectMerchantId=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+        "label": ""
+      },
+      {
+        "url": "",
+        "label": "Add Any 2 Qnty & Check Final Checkout Page"
+      }
+    ],
+    "raw_text": "Amazon | Lakme  Buy 1 Get 1 Free.\n\nhttps://www.amazon.in/promotion/psp/A1V9SH2VC3IL3L?redirectAsin=B0BXSX82FK&redirectMerchantId=A15APWRK6P7LBV&tag=bestpricezo0f-21\n\nAdd Any 2 Qnty & Check Final Checkout Page.",
+    "final_url": "https://www.amazon.in/promotion/psp/A1V9SH2VC3IL3L?redirectAsin=B0BXSX82FK&redirectMerchantId=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12672.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-12T19:26:11+00:00",
+    "buy_link": "https://www.amazon.in/promotion/psp/A1V9SH2VC3IL3L?redirectAsin=B0BXSX82FK&redirectMerchantId=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-12T19:26:11+00:00"
+  },
+  {
     "id": "msg12671",
     "title": "Fast ₹399",
     "description": "Fast ₹399 https://fkrt.co/qVR0g1",
@@ -8834,25 +8858,5 @@
     "date_obj": "2025-10-10T07:21:05+00:00",
     "buy_link": "https://myntr.in/8dcvpg",
     "date_iso": "2025-10-10T07:21:05+00:00"
-  },
-  {
-    "id": "msg11833",
-    "title": "Up to 80% off Michael Angelo Footwea",
-    "description": "Amazon | Upto 80% off : Michael Angelo Footwear…",
-    "shortlink": "https://www.amazon.in/s?k=Michael%2BAngelo%2BSandals&rh=n%3A1571283031%2Cp_6%3AA1WYWER0W24N8S%7CA3GQ0LB37WRZ3K%2Cp_123%3A864363%2Cp_n_pct-off-with-tax%3A27060457031&i=shoes&xpid=tLWGJOF-TK-yM&tag=bestpricezo0f-21&",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?k=Michael%2BAngelo%2BSandals&rh=n%3A1571283031%2Cp_6%3AA1WYWER0W24N8S%7CA3GQ0LB37WRZ3K%2Cp_123%3A864363%2Cp_n_pct-off-with-tax%3A27060457031&i=shoes&xpid=tLWGJOF-TK-yM&tag=bestpricezo0f-21&",
-        "label": "Upto 80% off : Michael Angelo Footwear"
-      }
-    ],
-    "raw_text": "Amazon | Upto 80% off : Michael Angelo Footwear\n\n👉https://www.amazon.in/s?k=Michael%2BAngelo%2BSandals&rh=n%3A1571283031%2Cp_6%3AA1WYWER0W24N8S%7CA3GQ0LB37WRZ3K%2Cp_123%3A864363%2Cp_n_pct-off-with-tax%3A27060457031&i=shoes&xpid=tLWGJOF-TK-yM&tag=bestpricezo0f-21&",
-    "final_url": "https://www.amazon.in/s?k=Michael%2BAngelo%2BSandals&rh=n%3A1571283031%2Cp_6%3AA1WYWER0W24N8S%7CA3GQ0LB37WRZ3K%2Cp_123%3A864363%2Cp_n_pct-off-with-tax%3A27060457031&i=shoes&xpid=tLWGJOF-TK-yM&tag=bestpricezo0f-21&",
-    "local_image": "assets/images/tgmsg_11833.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-10T07:02:48+00:00",
-    "buy_link": "https://www.amazon.in/s?k=Michael%2BAngelo%2BSandals&rh=n%3A1571283031%2Cp_6%3AA1WYWER0W24N8S%7CA3GQ0LB37WRZ3K%2Cp_123%3A864363%2Cp_n_pct-off-with-tax%3A27060457031&i=shoes&xpid=tLWGJOF-TK-yM&tag=bestpricezo0f-21&",
-    "date_iso": "2025-10-10T07:02:48+00:00"
   }
 ]
