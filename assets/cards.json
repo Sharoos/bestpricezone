@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg12530",
+    "title": "Up to 80% Off On Beauty Item",
+    "description": "Myntra : Upto 80% Off On Beauty Items. Lakmé : Pond's : BoroPlus : Livon : Vaseline : Master Link :",
+    "shortlink": "https://myntr.in/X1P6Nd",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On Beauty Items"
+      },
+      {
+        "url": "https://myntr.in/X1P6Nd",
+        "label": "Lakmé"
+      },
+      {
+        "url": "https://myntr.in/B3HXXU",
+        "label": "Pond's"
+      },
+      {
+        "url": "https://myntr.in/2s6evT",
+        "label": "BoroPlus"
+      },
+      {
+        "url": "https://myntr.in/sU8QyM",
+        "label": "Livon"
+      },
+      {
+        "url": "https://myntr.in/d7o1Pq",
+        "label": "Vaseline"
+      },
+      {
+        "url": "https://myntr.in/GBwnaH",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Myntra : Upto 80% Off On Beauty Items. \n\nLakmé : https://myntr.in/X1P6Nd\nPond's : https://myntr.in/B3HXXU\nBoroPlus : https://myntr.in/2s6evT\nLivon : https://myntr.in/sU8QyM\nVaseline : https://myntr.in/d7o1Pq\n\nMaster Link : https://myntr.in/GBwnaH",
+    "final_url": "https://myntr.in/X1P6Nd",
+    "local_image": "assets/images/tgmsg_12530.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-12T14:15:13+00:00",
+    "buy_link": "https://myntr.in/X1P6Nd",
+    "date_iso": "2025-10-12T14:15:13+00:00"
+  },
+  {
     "id": "msg12528",
     "title": "Halonix 10 Meter Multicolor Rope Light @ 449",
     "description": "Amazon | Halonix 10 Meter Multicolor Rope Light @ 449. 👉https://www.amazon.in/dp/B0DHW5JRTM?smid=&tag=bestpricezo0f-21",
@@ -8754,25 +8798,5 @@
     "date_obj": "2025-10-09T21:04:34+00:00",
     "buy_link": "https://fkrt.co/1HIzho",
     "date_iso": "2025-10-09T21:04:34+00:00"
-  },
-  {
-    "id": "msg11800",
-    "title": "Red Tape Shoes Up to 85% Off",
-    "description": "Flipkart Red Tape Shoes Upto 85% Off https://fkrt.co/KucAAN",
-    "shortlink": "https://fkrt.co/KucAAN",
-    "urls": [
-      {
-        "url": "https://fkrt.co/KucAAN",
-        "label": "Flipkart Red Tape Shoes Upto 85% Off"
-      }
-    ],
-    "raw_text": "Flipkart Red Tape Shoes Upto 85% Off\n\n  https://fkrt.co/KucAAN",
-    "final_url": "https://fkrt.co/KucAAN",
-    "local_image": "assets/images/tgmsg_11800.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T21:16:11+00:00",
-    "buy_link": "https://fkrt.co/KucAAN",
-    "date_iso": "2025-10-09T21:16:11+00:00"
   }
 ]
