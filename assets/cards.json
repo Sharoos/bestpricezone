@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg12492",
+    "title": "💧 Flat 53% Off – Pears Set of Pure & Gentle Body Wash with Glycerin (750ml each)",
+    "description": "MYNTRA | BODYCARE & SIMPLE SKINCARE COMBOS 🌿 Flat 55% Off – Simple Set of 2 Soap-Free Refreshing Facial Washes 👉 🪞 Flat 58% Off – Vaseline Set of 2 Cocoa Glow & Daily Brightening Lotions (400ml each) 👉  👉 🌺 Flat 48% Off…",
+    "shortlink": "https://myntr.in/5c6RB3",
+    "urls": [
+      {
+        "url": "",
+        "label": "BODYCARE & SIMPLE SKINCARE COMBOS"
+      },
+      {
+        "url": "https://myntr.in/5c6RB3",
+        "label": "🌿 Flat 55% Off – Simple Set of 2 Soap-Free Refreshing Facial Washes"
+      },
+      {
+        "url": "https://myntr.in/0tdEec",
+        "label": "🪞 Flat 58% Off – Vaseline Set of 2 Cocoa Glow & Daily Brightening Lotions (400ml each)"
+      },
+      {
+        "url": "https://myntr.in/FDQ31y",
+        "label": "💧 Flat 53% Off – Pears Set of Pure & Gentle Body Wash with Glycerin (750ml each)"
+      },
+      {
+        "url": "https://myntr.in/lxqmQA",
+        "label": "🌺 Flat 48% Off – Love Beauty & Planet Argan Oil Shampoo & Conditioner (200ml each)"
+      },
+      {
+        "url": "https://myntr.in/VQWhxb",
+        "label": "🌸 Flat 47% Off – Vaseline Gluta Hya Serum-in-Lotion Dewy Radiance & Flawless Glow (200ml each)"
+      }
+    ],
+    "raw_text": "MYNTRA | BODYCARE & SIMPLE SKINCARE COMBOS\n\n🌿 Flat 55% Off – Simple Set of 2 Soap-Free Refreshing Facial Washes\n👉 https://myntr.in/5c6RB3\n\n🪞 Flat 58% Off – Vaseline Set of 2 Cocoa Glow & Daily Brightening Lotions (400ml each)\n👉 https://myntr.in/0tdEec\n\n💧 Flat 53% Off – Pears Set of Pure & Gentle Body Wash with Glycerin (750ml each)\n👉 https://myntr.in/FDQ31y\n\n🌺 Flat 48% Off – Love Beauty & Planet Argan Oil Shampoo & Conditioner (200ml each)\n👉 https://myntr.in/lxqmQA\n\n🌸 Flat 47% Off – Vaseline Gluta Hya Serum-in-Lotion Dewy Radiance & Flawless Glow (200ml each)\n👉 https://myntr.in/VQWhxb",
+    "final_url": "https://myntr.in/5c6RB3",
+    "local_image": "assets/images/tgmsg_12492.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-12T09:31:39+00:00",
+    "buy_link": "https://myntr.in/5c6RB3",
+    "date_iso": "2025-10-12T09:31:39+00:00"
+  },
+  {
     "id": "msg12488",
     "title": "🛏 New Launch Double Bed Cotton Bedsheets – ₹599",
     "description": "🏠 Myntra Home Essentials | Starting ₹79 🛏 Double Bed Blankets & Dohars – From ₹499 🔗  🔗 🛏 Fitted Bedsheets – From ₹449 🔗 🪟 Curtain Sets – From ₹249 🔗 🪞 Anti-Skid Carpets – From ₹449 🔗 🚪 Anti-Skid Doormats – From ₹89 🔗",
@@ -8550,37 +8590,5 @@
     "date_obj": "2025-10-09T19:45:54+00:00",
     "buy_link": "https://fkrt.co/QHlCdE",
     "date_iso": "2025-10-09T19:45:54+00:00"
-  },
-  {
-    "id": "msg11751",
-    "title": "💥 Bank Offer ₹4,000 Instant Discount on SBI Credit Card Txn",
-    "description": "Flipkart | 🔥🔥Samsung Galaxy Book4 Metal Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home) 🎁 Deal Price : ₹28,990 Buy Here : 💥 Bank Offer : ₹4,000 Instant Discount on SBI Credit Card Txn",
-    "shortlink": "https://fkrt.co/FDt53M",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥🔥Samsung Galaxy Book4 Metal Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home)"
-      },
-      {
-        "url": "",
-        "label": "🎁 Deal Price : ₹28,990"
-      },
-      {
-        "url": "https://fkrt.co/FDt53M",
-        "label": "Here"
-      },
-      {
-        "url": "",
-        "label": "💥 Bank Offer : ₹4,000 Instant Discount on SBI Credit Card Txn"
-      }
-    ],
-    "raw_text": "Flipkart | 🔥🔥Samsung Galaxy Book4 Metal Intel Core i3 13th Gen 1315U - (8 GB/512 GB SSD/Windows 11 Home)\n\n🎁 Deal Price : ₹28,990\n\nBuy Here :  https://fkrt.co/FDt53M\n\n💥 Bank Offer : ₹4,000 Instant Discount on SBI Credit Card Txn",
-    "final_url": "https://fkrt.co/FDt53M",
-    "local_image": "assets/images/tgmsg_11751.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T19:46:31+00:00",
-    "buy_link": "https://fkrt.co/FDt53M",
-    "date_iso": "2025-10-09T19:46:31+00:00"
   }
 ]
