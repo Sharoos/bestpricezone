@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12455",
+    "title": "Levis Jeans Flat Rs.1099",
+    "description": "Flipkart | Levis Jeans Flat Rs.1099 - https://fkrt.co/c6wUhC",
+    "shortlink": "https://fkrt.co/c6wUhC",
+    "urls": [
+      {
+        "url": "https://fkrt.co/c6wUhC",
+        "label": "Levis Jeans Flat Rs.1099"
+      }
+    ],
+    "raw_text": "Flipkart | Levis Jeans Flat Rs.1099\n\n- https://fkrt.co/c6wUhC",
+    "final_url": "https://fkrt.co/c6wUhC",
+    "local_image": "assets/images/tgmsg_12455.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-12T05:51:24+00:00",
+    "buy_link": "https://fkrt.co/c6wUhC",
+    "date_iso": "2025-10-12T05:51:24+00:00"
+  },
+  {
     "id": "msg12454",
     "title": "Up to 80% Off On Oversized T",
     "description": "AJIO Upto 80% Off On Oversized T-Shirts Start @140 Men’s : Women’s : Polo T-Shirts : Jeans : Branded Innerwears : Men's Blazers & Waistcoat : + 10% AJIO Extra CASH",
@@ -8366,25 +8386,5 @@
     "date_obj": "2025-10-09T19:25:22+00:00",
     "buy_link": "https://fkrt.co/5fN6L5",
     "date_iso": "2025-10-09T19:25:22+00:00"
-  },
-  {
-    "id": "msg11724",
-    "title": "5L Instant Water Geyser @2199",
-    "description": "Flipkart | 5L Instant Water Geyser @2199 https://fkrt.co/njCENz",
-    "shortlink": "https://fkrt.co/njCENz",
-    "urls": [
-      {
-        "url": "https://fkrt.co/njCENz",
-        "label": "5L Instant Water Geyser @2199"
-      }
-    ],
-    "raw_text": "Flipkart | 5L Instant Water Geyser @2199\n\nhttps://fkrt.co/njCENz",
-    "final_url": "https://fkrt.co/njCENz",
-    "local_image": "assets/images/tgmsg_11724.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T19:26:07+00:00",
-    "buy_link": "https://fkrt.co/njCENz",
-    "date_iso": "2025-10-09T19:26:07+00:00"
   }
 ]
