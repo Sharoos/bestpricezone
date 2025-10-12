@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12528",
+    "title": "Halonix 10 Meter Multicolor Rope Light @ 449",
+    "description": "Amazon | Halonix 10 Meter Multicolor Rope Light @ 449. 👉https://www.amazon.in/dp/B0DHW5JRTM?smid=&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DHW5JRTM?smid=&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DHW5JRTM?smid=&tag=bestpricezo0f-21",
+        "label": "Halonix 10 Meter Multicolor Rope Light @ 449"
+      }
+    ],
+    "raw_text": "Amazon | Halonix 10 Meter Multicolor Rope Light @ 449.\n\n👉https://www.amazon.in/dp/B0DHW5JRTM?smid=&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DHW5JRTM?smid=&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12528.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-12T13:47:27+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DHW5JRTM?smid=&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-12T13:47:27+00:00"
+  },
+  {
     "id": "msg12526",
     "title": "Flat 77% Off!",
     "description": "Flipkart | 🧥 Killer Blazers - Flat 77% Off! 👉Link : https://fkrt.co/1IPaXn",
@@ -8754,25 +8774,5 @@
     "date_obj": "2025-10-09T21:16:11+00:00",
     "buy_link": "https://fkrt.co/KucAAN",
     "date_iso": "2025-10-09T21:16:11+00:00"
-  },
-  {
-    "id": "msg11796",
-    "title": "SKYBAGS 21.65 L Backpack BRAT Starting @ Rs. 349",
-    "description": "Flipkart | SKYBAGS 21.65 L Backpack BRAT Starting @ Rs. 349 👉https://fkrt.co/IMF5Rx",
-    "shortlink": "https://fkrt.co/IMF5Rx",
-    "urls": [
-      {
-        "url": "https://fkrt.co/IMF5Rx",
-        "label": "SKYBAGS 21.65 L Backpack BRAT Starting @ Rs. 349"
-      }
-    ],
-    "raw_text": "Flipkart | SKYBAGS 21.65 L Backpack BRAT Starting @ Rs. 349 \n\n👉https://fkrt.co/IMF5Rx",
-    "final_url": "https://fkrt.co/IMF5Rx",
-    "local_image": "assets/images/tgmsg_11796.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T20:42:00+00:00",
-    "buy_link": "https://fkrt.co/IMF5Rx",
-    "date_iso": "2025-10-09T20:42:00+00:00"
   }
 ]
