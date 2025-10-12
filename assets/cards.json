@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg12468",
+    "title": "Tide Matic Liquid Detergent 2L",
+    "description": "Amazon | Tide Matic Liquid Detergent 2L @264: https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21 @232: https://www.amazon.in/dp/B0CF4WQ5D1?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Tide Matic Liquid Detergent 2L"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "@264"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0CF4WQ5D1?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "@232"
+      }
+    ],
+    "raw_text": "Amazon | Tide Matic Liquid Detergent 2L\n\n@264: https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21\n\n@232: https://www.amazon.in/dp/B0CF4WQ5D1?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12468.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-12T06:49:14+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-12T06:49:14+00:00"
+  },
+  {
     "id": "msg12466",
     "title": "🥣 Tableware & Dinnerware – Up to 93% Off",
     "description": "🍽️ Flipkart Home Deals – Kitchen Essentials 🏠  🔗 🍽️ Dinner Sets – Up to 70% Off 🔗 🍷 Barware – Premium Collection 🔗",
@@ -8430,29 +8458,5 @@
     "date_obj": "2025-10-09T19:39:07+00:00",
     "buy_link": "https://www.amazon.in/dp/B0BF65JTSS?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-09T19:39:07+00:00"
-  },
-  {
-    "id": "msg11738",
-    "title": "Himalaya Happy Baby Gift Pack (7 in 1) @317",
-    "description": "Flipkart | Himalaya Happy Baby Gift Pack (7 in 1) @317 https://fkrt.co/1iUXrA More : https://fkrt.co/Hmp8bi",
-    "shortlink": "https://fkrt.co/1iUXrA",
-    "urls": [
-      {
-        "url": "https://fkrt.co/1iUXrA",
-        "label": "Himalaya Happy Baby Gift Pack (7 in 1) @317"
-      },
-      {
-        "url": "https://fkrt.co/Hmp8bi",
-        "label": "More"
-      }
-    ],
-    "raw_text": "Flipkart | Himalaya Happy Baby Gift Pack (7 in 1) @317\n\nhttps://fkrt.co/1iUXrA\n\nMore : https://fkrt.co/Hmp8bi",
-    "final_url": "https://fkrt.co/1iUXrA",
-    "local_image": "assets/images/tgmsg_11738.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T19:39:43+00:00",
-    "buy_link": "https://fkrt.co/1iUXrA",
-    "date_iso": "2025-10-09T19:39:43+00:00"
   }
 ]
