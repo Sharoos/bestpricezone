@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12671",
+    "title": "Fast ₹399",
+    "description": "Fast ₹399 https://fkrt.co/qVR0g1",
+    "shortlink": "https://fkrt.co/qVR0g1",
+    "urls": [
+      {
+        "url": "https://fkrt.co/qVR0g1",
+        "label": "Fast ₹399"
+      }
+    ],
+    "raw_text": "Fast ₹399  \n\nhttps://fkrt.co/qVR0g1",
+    "final_url": "https://fkrt.co/qVR0g1",
+    "local_image": "assets/images/tgmsg_12671.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-12T19:18:28+00:00",
+    "buy_link": "https://fkrt.co/qVR0g1",
+    "date_iso": "2025-10-12T19:18:28+00:00"
+  },
+  {
     "id": "msg12596",
     "title": "Up to ₹2000 Off With SBI Bank Credit Card",
     "description": "Upto 62% Off On Kenstar LED TVs. https://fkrt.co/y4NR4o *Upto ₹2000 Off With SBI Bank Credit Card.",
@@ -8834,25 +8854,5 @@
     "date_obj": "2025-10-10T07:02:48+00:00",
     "buy_link": "https://www.amazon.in/s?k=Michael%2BAngelo%2BSandals&rh=n%3A1571283031%2Cp_6%3AA1WYWER0W24N8S%7CA3GQ0LB37WRZ3K%2Cp_123%3A864363%2Cp_n_pct-off-with-tax%3A27060457031&i=shoes&xpid=tLWGJOF-TK-yM&tag=bestpricezo0f-21&",
     "date_iso": "2025-10-10T07:02:48+00:00"
-  },
-  {
-    "id": "msg11830",
-    "title": "TRESemme Up to 65% Off",
-    "description": "Myntra | TRESemme Upto  65% Off https://myntr.in/jJo712",
-    "shortlink": "https://myntr.in/jJo712",
-    "urls": [
-      {
-        "url": "https://myntr.in/jJo712",
-        "label": "TRESemme Upto 65% Off"
-      }
-    ],
-    "raw_text": "Myntra | TRESemme Upto  65% Off\n\nhttps://myntr.in/jJo712",
-    "final_url": "https://myntr.in/jJo712",
-    "local_image": "assets/images/tgmsg_11830.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-10T06:40:35+00:00",
-    "buy_link": "https://myntr.in/jJo712",
-    "date_iso": "2025-10-10T06:40:35+00:00"
   }
 ]
