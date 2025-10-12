@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg12548",
+    "title": "Biotique Cucumber Pore Tightening Toner, 120mL @109",
+    "description": "Amazon | Biotique Cucumber Pore Tightening Toner, 120mL @109 👉https://www.amazon.in/dp/B00791CS2G?psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B00791CS2G?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B00791CS2G?psc=1&tag=bestpricezo0f-21",
+        "label": "Biotique Cucumber Pore Tightening Toner, 120mL @109"
+      }
+    ],
+    "raw_text": "Amazon | Biotique Cucumber Pore Tightening Toner, 120mL @109\n\n👉https://www.amazon.in/dp/B00791CS2G?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B00791CS2G?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12548.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-12T15:08:44+00:00",
+    "buy_link": "https://www.amazon.in/dp/B00791CS2G?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-12T15:08:44+00:00"
+  },
+  {
+    "id": "msg12549",
+    "title": "Solimo Water Bottle Set of 6 @169",
+    "description": "Amazon | Solimo Water Bottle Set of 6 @169 👉 https://www.amazon.in/dp/B0CGD3S921?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CGD3S921?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CGD3S921?th=1&tag=bestpricezo0f-21",
+        "label": "Solimo Water Bottle Set of 6 @169"
+      }
+    ],
+    "raw_text": "Amazon | Solimo Water Bottle Set of 6 @169\n\n👉 https://www.amazon.in/dp/B0CGD3S921?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CGD3S921?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12549.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-12T15:21:43+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CGD3S921?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-12T15:21:43+00:00"
+  },
+  {
     "id": "msg12532",
     "title": "Philips Beard Trimmer for Men @ 899",
     "description": "Amazon | Philips Beard Trimmer for Men @ 899. 👉https://www.amazon.in/dp/B0C7VYN5PV?th=1&smid=&tag=bestpricezo0f-21",
@@ -8750,49 +8790,5 @@
     "date_obj": "2025-10-09T22:32:18+00:00",
     "buy_link": "https://fkrt.co/hGXplm",
     "date_iso": "2025-10-09T22:32:18+00:00"
-  },
-  {
-    "id": "msg11802",
-    "title": "83% Off",
-    "description": "Flipkart | 83% Off - PULUZ Handlebar Grip Camera Mount  At Rs.405 https://fkrt.co/Kabb5q",
-    "shortlink": "https://fkrt.co/Kabb5q",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Kabb5q",
-        "label": "83% Off - PULUZ Handlebar Grip Camera Mount At Rs.405"
-      }
-    ],
-    "raw_text": "Flipkart | 83% Off - PULUZ Handlebar Grip Camera Mount  At Rs.405\n\n https://fkrt.co/Kabb5q",
-    "final_url": "https://fkrt.co/Kabb5q",
-    "local_image": "assets/images/tgmsg_11802.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T22:01:06+00:00",
-    "buy_link": "https://fkrt.co/Kabb5q",
-    "date_iso": "2025-10-09T22:01:06+00:00"
-  },
-  {
-    "id": "msg11801",
-    "title": "Deal Price Rs. 96 Only",
-    "description": "Flipkart Rexona Shower Fresh Underarm Roll On Deodorant For Women (Pc3) Deal Price: Rs. 96 Only",
-    "shortlink": "https://fkrt.co/hlIZEv",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart Rexona Shower Fresh Underarm Roll On Deodorant For Women (Pc3)"
-      },
-      {
-        "url": "https://fkrt.co/hlIZEv",
-        "label": "Rs. 96 Only"
-      }
-    ],
-    "raw_text": "Flipkart Rexona Shower Fresh Underarm Roll On Deodorant For Women (Pc3) \n\nDeal Price: Rs. 96   Only\n\n https://fkrt.co/hlIZEv",
-    "final_url": "https://fkrt.co/hlIZEv",
-    "local_image": "assets/images/tgmsg_11801.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T21:32:30+00:00",
-    "buy_link": "https://fkrt.co/hlIZEv",
-    "date_iso": "2025-10-09T21:32:30+00:00"
   }
 ]
