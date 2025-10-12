@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg12571",
+    "title": "Lotoo Up to 80% Off On Branded Shampoo",
+    "description": "Flipkart Lotoo | Upto 80% Off On Branded Shampoos. DOVE : Tresemme : L'Oreal Paris : More :",
+    "shortlink": "https://fkrt.co/rUR9Sk",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On Branded Shampoos"
+      },
+      {
+        "url": "https://fkrt.co/rUR9Sk",
+        "label": "DOVE"
+      },
+      {
+        "url": "https://fkrt.co/OvFUio",
+        "label": "Tresemme"
+      },
+      {
+        "url": "https://fkrt.co/0TiOKG",
+        "label": "L'Oreal Paris"
+      },
+      {
+        "url": "https://fkrt.co/pPujI2",
+        "label": "More"
+      }
+    ],
+    "raw_text": "Flipkart Lotoo | Upto 80% Off On Branded Shampoos.\n\nDOVE : https://fkrt.co/rUR9Sk\nTresemme : https://fkrt.co/OvFUio\nL'Oreal Paris : https://fkrt.co/0TiOKG\n\nMore : https://fkrt.co/pPujI2",
+    "final_url": "https://fkrt.co/rUR9Sk",
+    "local_image": "assets/images/tgmsg_12571.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-12T17:06:17+00:00",
+    "buy_link": "https://fkrt.co/rUR9Sk",
+    "date_iso": "2025-10-12T17:06:17+00:00"
+  },
+  {
     "id": "msg12570",
     "title": "SKYBAGS 21.65 L Backpack BRAT Starting @ Rs. 349",
     "description": "Flipkart | SKYBAGS 21.65 L Backpack BRAT Starting @ Rs. 349 👉https://fkrt.co/BNAEao",
@@ -8782,25 +8818,5 @@
     "date_obj": "2025-10-10T05:49:09+00:00",
     "buy_link": "https://myntr.in/fJ6pPT",
     "date_iso": "2025-10-10T05:49:09+00:00"
-  },
-  {
-    "id": "msg11818",
-    "title": "Up to 60% Off On Head & Shoulder Shampoo",
-    "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos. https://fkrt.co/RGMsn4",
-    "shortlink": "https://fkrt.co/RGMsn4",
-    "urls": [
-      {
-        "url": "https://fkrt.co/RGMsn4",
-        "label": "Upto 60% Off On Head & Shoulder Shampoos"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos.\n\nhttps://fkrt.co/RGMsn4",
-    "final_url": "https://fkrt.co/RGMsn4",
-    "local_image": "assets/images/tgmsg_11818.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T05:29:30+00:00",
-    "buy_link": "https://fkrt.co/RGMsn4",
-    "date_iso": "2025-10-10T05:29:30+00:00"
   }
 ]
