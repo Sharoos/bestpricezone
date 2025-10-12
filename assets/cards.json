@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg12494",
+    "title": "Men's Footwear Starts at ₹99",
+    "description": "AJIO . 👉 Sports Shoes : Casual Shoes : Sandals : *Buy Maximum To Get Free Shipping",
+    "shortlink": "https://ajiio.co/J7dtjD",
+    "urls": [
+      {
+        "url": "https://ajiio.co/J7dtjD",
+        "label": "AJIO Men's Footwear Starts at ₹99"
+      },
+      {
+        "url": "https://ajiio.co/bLFkYL",
+        "label": "Sports Shoes"
+      },
+      {
+        "url": "https://ajiio.co/3IHBwQ",
+        "label": "Casual Shoes"
+      },
+      {
+        "url": "https://ajiio.co/dUYhaD",
+        "label": "Sandals"
+      }
+    ],
+    "raw_text": "AJIO  Men's Footwear Starts at ₹99.\n\n👉https://ajiio.co/J7dtjD \n\nSports Shoes : https://ajiio.co/bLFkYL \nCasual Shoes : https://ajiio.co/3IHBwQ \nSandals : https://ajiio.co/dUYhaD\n\n*Buy Maximum To Get Free Shipping",
+    "final_url": "https://ajiio.co/J7dtjD",
+    "local_image": "assets/images/tgmsg_12494.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-12T09:41:28+00:00",
+    "buy_link": "https://ajiio.co/J7dtjD",
+    "date_iso": "2025-10-12T09:41:28+00:00"
+  },
+  {
     "id": "msg12492",
     "title": "💧 Flat 53% Off – Pears Set of Pure & Gentle Body Wash with Glycerin (750ml each)",
     "description": "MYNTRA | BODYCARE & SIMPLE SKINCARE COMBOS 🌿 Flat 55% Off – Simple Set of 2 Soap-Free Refreshing Facial Washes 👉 🪞 Flat 58% Off – Vaseline Set of 2 Cocoa Glow & Daily Brightening Lotions (400ml each) 👉  👉 🌺 Flat 48% Off…",
@@ -8570,25 +8602,5 @@
     "date_obj": "2025-10-09T19:45:27+00:00",
     "buy_link": "https://fkrt.co/jY9dho",
     "date_iso": "2025-10-09T19:45:27+00:00"
-  },
-  {
-    "id": "msg11750",
-    "title": "boAt 20000 mAh 22.5 W Power Bank @1099",
-    "description": "Flipkart | boAt 20000 mAh 22.5 W Power Bank  @1099 https://fkrt.co/QHlCdE",
-    "shortlink": "https://fkrt.co/QHlCdE",
-    "urls": [
-      {
-        "url": "https://fkrt.co/QHlCdE",
-        "label": "boAt 20000 mAh 22.5 W Power Bank @1099"
-      }
-    ],
-    "raw_text": "Flipkart | boAt 20000 mAh 22.5 W Power Bank  @1099\n\n     https://fkrt.co/QHlCdE",
-    "final_url": "https://fkrt.co/QHlCdE",
-    "local_image": "assets/images/tgmsg_11750.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-09T19:45:54+00:00",
-    "buy_link": "https://fkrt.co/QHlCdE",
-    "date_iso": "2025-10-09T19:45:54+00:00"
   }
 ]
