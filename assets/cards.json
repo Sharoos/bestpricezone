@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12738",
+    "title": "Set of 8 cushion Covers @ 574 only!",
+    "description": "Myntra | Set of 8 cushion Covers @ 574 only! 👉https://myntr.in/czfIG9",
+    "shortlink": "https://myntr.in/czfIG9",
+    "urls": [
+      {
+        "url": "https://myntr.in/czfIG9",
+        "label": "Set of 8 cushion Covers @ 574 only!"
+      }
+    ],
+    "raw_text": "Myntra | Set of 8 cushion Covers @ 574 only!\n\n👉https://myntr.in/czfIG9",
+    "final_url": "https://myntr.in/czfIG9",
+    "local_image": "assets/images/tgmsg_12738.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-13T11:50:04+00:00",
+    "buy_link": "https://myntr.in/czfIG9",
+    "date_iso": "2025-10-13T11:50:04+00:00"
+  },
+  {
     "id": "msg12737",
     "title": "Set of 8 Cushion Covers starting @ 539 only!",
     "description": "Myntra | Set of 8 Cushion Covers starting @ 539 only! 👉https://myntr.in/SBpdE1 Set of 5 Cushion Covers starting @ 346 Only! 👉https://myntr.in/YEhjuo",
@@ -8630,33 +8650,5 @@
     "date_obj": "2025-10-10T14:04:45+00:00",
     "buy_link": "https://ajiio.in/iqj6ra9",
     "date_iso": "2025-10-10T14:04:45+00:00"
-  },
-  {
-    "id": "msg11914",
-    "title": "Up to 85% Off On Vero Moda & ONLY Women Clothing",
-    "description": "Ajio | Upto 85% Off On Vero Moda & ONLY Women Clothing. https://ajiio.co/1DDf44 https://ajiio.co/ukLOqv Jeans : https://ajiio.co/4U8aLn",
-    "shortlink": "https://ajiio.co/1DDf44",
-    "urls": [
-      {
-        "url": "https://ajiio.co/1DDf44",
-        "label": "Upto 85% Off On Vero Moda & ONLY Women Clothing"
-      },
-      {
-        "url": "https://ajiio.co/ukLOqv",
-        "label": ""
-      },
-      {
-        "url": "https://ajiio.co/4U8aLn",
-        "label": "Jeans"
-      }
-    ],
-    "raw_text": "Ajio | Upto 85% Off On Vero Moda & ONLY Women Clothing.\n\nhttps://ajiio.co/1DDf44\nhttps://ajiio.co/ukLOqv\n\nJeans : https://ajiio.co/4U8aLn",
-    "final_url": "https://ajiio.co/1DDf44",
-    "local_image": "assets/images/tgmsg_11914.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-10T14:06:09+00:00",
-    "buy_link": "https://ajiio.co/1DDf44",
-    "date_iso": "2025-10-10T14:06:09+00:00"
   }
 ]
