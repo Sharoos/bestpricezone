@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg12724",
+    "title": "Sherpa Blankets starting @ 899 + Discount",
+    "description": "Myntra | Double Bed Fitted Bedsheets starting @ 179 only! 👉 Winter Blankets starting @ 299 only! 👉 Memory foam bath mat @ 169 only! 👉 Set of 2 Anti-skid Doormats @ 199 only 👉 Double Bed Mink Blankets starting 759 only 👉…",
+    "shortlink": "https://myntr.in/MhFlrz",
+    "urls": [
+      {
+        "url": "https://myntr.in/MhFlrz",
+        "label": "Double Bed Fitted Bedsheets starting @ 179 only!"
+      },
+      {
+        "url": "https://myntr.in/u48OYO",
+        "label": "Winter Blankets starting @ 299 only!"
+      },
+      {
+        "url": "https://myntr.in/QbpW2Z",
+        "label": "Memory foam bath mat @ 169 only!"
+      },
+      {
+        "url": "https://myntr.in/DXVcrZ",
+        "label": "skid Doormats @ 199 only"
+      },
+      {
+        "url": "https://myntr.in/aUoMj9",
+        "label": "Double Bed Mink Blankets starting 759 only"
+      },
+      {
+        "url": "https://myntr.in/GFmFor",
+        "label": "Double Bed Mink Blankets starting 759 only"
+      }
+    ],
+    "raw_text": "Myntra | Double Bed Fitted Bedsheets starting @ 179 only!\n👉https://myntr.in/MhFlrz\n\nWinter Blankets starting @ 299 only!\n👉https://myntr.in/u48OYO\n\nMemory foam bath mat @ 169 only!\n👉https://myntr.in/QbpW2Z\n\nSet of 2 Anti-skid Doormats @ 199 only\n👉https://myntr.in/DXVcrZ\n\nDouble Bed Mink Blankets starting 759 only\n👉https://myntr.in/aUoMj9\n\nSherpa Blankets starting @ 899 + Coupon Discounts\n👉https://myntr.in/GFmFor",
+    "final_url": "https://myntr.in/MhFlrz",
+    "local_image": "assets/images/tgmsg_12724.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-13T09:50:13+00:00",
+    "buy_link": "https://myntr.in/MhFlrz",
+    "date_iso": "2025-10-13T09:50:13+00:00"
+  },
+  {
     "id": "msg12719",
     "title": "Kenstar Slender 500W Mixer Grinder (4 Jars) @ 1399",
     "description": "Flipkart | Kenstar Slender 500W Mixer Grinder (4 Jars) @ 1399. 👉https://fkrt.co/VJNhjz",
@@ -8570,29 +8610,5 @@
     "date_obj": "2025-10-10T13:01:37+00:00",
     "buy_link": "https://www.amazon.in/dp/B092S563QV?tag=bestpricezo0f-21",
     "date_iso": "2025-10-10T13:01:37+00:00"
-  },
-  {
-    "id": "msg11895",
-    "title": "Big 999",
-    "description": "Flipkart | Big  999 https://fkrt.co/xvgyWR 3999 https://fkrt.co/5giJDp",
-    "shortlink": "https://fkrt.co/xvgyWR",
-    "urls": [
-      {
-        "url": "https://fkrt.co/xvgyWR",
-        "label": "Big 999"
-      },
-      {
-        "url": "https://fkrt.co/5giJDp",
-        "label": "3999"
-      }
-    ],
-    "raw_text": "Flipkart | Big  999 https://fkrt.co/xvgyWR\n\n3999 https://fkrt.co/5giJDp",
-    "final_url": "https://fkrt.co/xvgyWR",
-    "local_image": "assets/images/tgmsg_11895.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T13:05:12+00:00",
-    "buy_link": "https://fkrt.co/xvgyWR",
-    "date_iso": "2025-10-10T13:05:12+00:00"
   }
 ]
