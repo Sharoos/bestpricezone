@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12690",
+    "title": "💥Topwear Min 80% OFF",
+    "description": "💥AJIO : Topwear Min 80% OFF Link : https://ajiio.co/tLIWEJ",
+    "shortlink": "https://ajiio.co/tLIWEJ",
+    "urls": [
+      {
+        "url": "https://ajiio.co/tLIWEJ",
+        "label": "💥AJIO : Topwear Min 80% OFF"
+      }
+    ],
+    "raw_text": "💥AJIO : Topwear Min 80% OFF  \n \nLink : https://ajiio.co/tLIWEJ",
+    "final_url": "https://ajiio.co/tLIWEJ",
+    "local_image": "assets/images/tgmsg_12690.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-13T05:50:59+00:00",
+    "buy_link": "https://ajiio.co/tLIWEJ",
+    "date_iso": "2025-10-13T05:50:59+00:00"
+  },
+  {
     "id": "msg12689",
     "title": "💥OverSized Tshirts Starts @150",
     "description": "💥Ajio | OverSized Tshirts Starts @150. 👉Link : https://ajiio.co/bdrmkW",
@@ -8698,29 +8718,5 @@
     "date_obj": "2025-10-10T08:50:05+00:00",
     "buy_link": "https://fkrt.co/emIr4h",
     "date_iso": "2025-10-10T08:50:05+00:00"
-  },
-  {
-    "id": "msg11846",
-    "title": "Up to 90% Off on Furniture Deal",
-    "description": "Flipkart | Upto 90% Off on Furniture Deals 👉 Extra 20% SuperCoins Cashback on Every Purchase",
-    "shortlink": "https://fkrt.co/QTGYWp",
-    "urls": [
-      {
-        "url": "https://fkrt.co/QTGYWp",
-        "label": "Upto 90% Off on Furniture Deals"
-      },
-      {
-        "url": "",
-        "label": "Extra 20% SuperCoins Cashback on Every Purchase"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 90% Off on Furniture Deals  \n\n👉https://fkrt.co/QTGYWp\n\nExtra 20% SuperCoins Cashback on Every Purchase",
-    "final_url": "https://fkrt.co/QTGYWp",
-    "local_image": "assets/images/tgmsg_11846.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T08:20:01+00:00",
-    "buy_link": "https://fkrt.co/QTGYWp",
-    "date_iso": "2025-10-10T08:20:01+00:00"
   }
 ]
