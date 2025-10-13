@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg12764",
+    "title": "TIARAA any 3 Bracelets @199 INR (including shipping)",
+    "description": "TIARAA LOOT :Grab any 3 Bracelets @199 INR (including shipping) Use code : LOOT3 Use link :",
+    "shortlink": "https://bitli.in/qxz8sGK",
+    "urls": [
+      {
+        "url": "",
+        "label": "Grab any 3 Bracelets @199 INR (including shipping)"
+      },
+      {
+        "url": "",
+        "label": "LOOT3"
+      },
+      {
+        "url": "https://bitli.in/qxz8sGK",
+        "label": "Use"
+      }
+    ],
+    "raw_text": "TIARAA LOOT :Grab any 3 Bracelets @199 INR (including shipping) \n\nUse code : LOOT3\n\nUse link :  https://bitli.in/qxz8sGK",
+    "final_url": "https://bitli.in/qxz8sGK",
+    "local_image": "assets/images/tgmsg_12764.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-10-13T15:30:47+00:00",
+    "buy_link": "https://bitli.in/qxz8sGK",
+    "date_iso": "2025-10-13T15:30:47+00:00"
+  },
+  {
+    "id": "msg12766",
+    "title": "Pexpo Bottles Under 299/",
+    "description": "Myntra | Pexpo Bottles Under 299/- 👉Link : https://myntr.in/ga5HtG",
+    "shortlink": "https://myntr.in/ga5HtG",
+    "urls": [
+      {
+        "url": "https://myntr.in/ga5HtG",
+        "label": "Pexpo Bottles Under 299/"
+      }
+    ],
+    "raw_text": "Myntra | Pexpo Bottles Under 299/- \n\n👉Link : https://myntr.in/ga5HtG",
+    "final_url": "https://myntr.in/ga5HtG",
+    "local_image": "assets/images/tgmsg_12766.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-13T15:36:39+00:00",
+    "buy_link": "https://myntr.in/ga5HtG",
+    "date_iso": "2025-10-13T15:36:39+00:00"
+  },
+  {
     "id": "msg12761",
     "title": "66% Off",
     "description": "Myntra | Dove, Tresemme 1L Shampoos and Combos 60 - 66% Off 👉Link : https://myntr.in/1sJElN",
@@ -8558,57 +8606,5 @@
     "date_obj": "2025-10-10T16:36:48+00:00",
     "buy_link": "https://myntr.in/jAcWwG",
     "date_iso": "2025-10-10T16:36:48+00:00"
-  },
-  {
-    "id": "msg11959",
-    "title": "Festive Curtains Up to 80% Off",
-    "description": "Myntra : Festive Curtains Upto 80% Off. https://myntr.in/ktGCl9",
-    "shortlink": "https://myntr.in/ktGCl9",
-    "urls": [
-      {
-        "url": "https://myntr.in/ktGCl9",
-        "label": "Festive Curtains Upto 80% Off"
-      }
-    ],
-    "raw_text": "Myntra : Festive Curtains Upto 80% Off.\n\nhttps://myntr.in/ktGCl9",
-    "final_url": "https://myntr.in/ktGCl9",
-    "local_image": "assets/images/tgmsg_11959.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-10T16:38:55+00:00",
-    "buy_link": "https://myntr.in/ktGCl9",
-    "date_iso": "2025-10-10T16:38:55+00:00"
-  },
-  {
-    "id": "msg11948",
-    "title": "Up to 80% Off On Mast & Harbour Men's Clothing",
-    "description": "Myntra : Upto 80% Off On Mast & Harbour Men's Clothing. T-Shirt : Shirt : Jeans :",
-    "shortlink": "https://myntr.in/NK3ehr",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Mast & Harbour Men's Clothing"
-      },
-      {
-        "url": "https://myntr.in/NK3ehr",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://myntr.in/S0FzlS",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://myntr.in/fU2vor",
-        "label": "Jeans"
-      }
-    ],
-    "raw_text": "Myntra : Upto 80% Off On Mast & Harbour Men's Clothing.\n\nT-Shirt : https://myntr.in/NK3ehr\nShirt : https://myntr.in/S0FzlS\nJeans : https://myntr.in/fU2vor",
-    "final_url": "https://myntr.in/NK3ehr",
-    "local_image": "assets/images/tgmsg_11948.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-10T16:07:12+00:00",
-    "buy_link": "https://myntr.in/NK3ehr",
-    "date_iso": "2025-10-10T16:07:12+00:00"
   }
 ]
