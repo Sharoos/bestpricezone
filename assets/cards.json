@@ -1,5 +1,105 @@
 [
   {
+    "id": "msg12692",
+    "title": "Kurta & Kurtis Starts ₹199",
+    "description": "Myntra : Kurta & Kurtis Starts ₹199. Women : https://myntr.in/asOyNy Men : https://myntr.in/JWUn4O",
+    "shortlink": "https://myntr.in/asOyNy",
+    "urls": [
+      {
+        "url": "",
+        "label": "Kurta & Kurtis Starts ₹199"
+      },
+      {
+        "url": "https://myntr.in/asOyNy",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/JWUn4O",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "Myntra : Kurta & Kurtis Starts ₹199.\n\nWomen : https://myntr.in/asOyNy\nMen : https://myntr.in/JWUn4O",
+    "final_url": "https://myntr.in/asOyNy",
+    "local_image": "assets/images/tgmsg_12692.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-13T06:09:03+00:00",
+    "buy_link": "https://myntr.in/asOyNy",
+    "date_iso": "2025-10-13T06:09:03+00:00"
+  },
+  {
+    "id": "msg12693",
+    "title": "✅Deal price RS.179",
+    "description": "Amazon | Lifelong Cotton 30 L Duffle Gym Bag for Men & Women | 🔗https://www.amazon.in/dp/B0BW3QZBQH/ref=cm_sw_r_as_gl_apa_gl_i_dl_NFG19F709HWSN3JJXWW1?tag=bestpricezo0f-21 ✅Deal price RS.179",
+    "shortlink": "https://www.amazon.in/dp/B0BW3QZBQH/ref=cm_sw_r_as_gl_apa_gl_i_dl_NFG19F709HWSN3JJXWW1?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0BW3QZBQH/ref=cm_sw_r_as_gl_apa_gl_i_dl_NFG19F709HWSN3JJXWW1?tag=bestpricezo0f-21",
+        "label": "Lifelong Cotton 30 L Duffle Gym Bag for Men & Women"
+      },
+      {
+        "url": "",
+        "label": "✅Deal price RS.179"
+      }
+    ],
+    "raw_text": "Amazon | Lifelong Cotton 30 L Duffle Gym Bag for Men & Women |\n\n🔗https://www.amazon.in/dp/B0BW3QZBQH/ref=cm_sw_r_as_gl_apa_gl_i_dl_NFG19F709HWSN3JJXWW1?tag=bestpricezo0f-21\n\n✅Deal price RS.179",
+    "final_url": "https://www.amazon.in/dp/B0BW3QZBQH/ref=cm_sw_r_as_gl_apa_gl_i_dl_NFG19F709HWSN3JJXWW1?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12693.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-13T06:16:59+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0BW3QZBQH/ref=cm_sw_r_as_gl_apa_gl_i_dl_NFG19F709HWSN3JJXWW1?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-13T06:16:59+00:00"
+  },
+  {
+    "id": "msg12694",
+    "title": "Women's Westernwear Under ₹399 (Rio, Fig & More)",
+    "description": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More) Women : https://ajiio.co/RJZr6y Girls : https://ajiio.co/ZXawtL",
+    "shortlink": "https://ajiio.co/RJZr6y",
+    "urls": [
+      {
+        "url": "",
+        "label": "Women's Westernwear Under ₹399 (Rio, Fig & More)"
+      },
+      {
+        "url": "https://ajiio.co/RJZr6y",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/ZXawtL",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More)\n\nWomen : https://ajiio.co/RJZr6y\n\nGirls : https://ajiio.co/ZXawtL",
+    "final_url": "https://ajiio.co/RJZr6y",
+    "local_image": "assets/images/tgmsg_12694.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-13T06:23:19+00:00",
+    "buy_link": "https://ajiio.co/RJZr6y",
+    "date_iso": "2025-10-13T06:23:19+00:00"
+  },
+  {
+    "id": "msg12695",
+    "title": "Hyperjet with 2 Year Warranty BLDC Motor with Remote 1200 mm Ceiling Fan @RS.2099",
+    "description": "Flipkart | Hyperjet with 2 Year Warranty BLDC Motor with Remote 1200 mm Ceiling Fan @RS.2099 🔗 https://fkrt.co/oTaHWa",
+    "shortlink": "https://fkrt.co/oTaHWa",
+    "urls": [
+      {
+        "url": "https://fkrt.co/oTaHWa",
+        "label": "Hyperjet with 2 Year Warranty BLDC Motor with Remote 1200 mm Ceiling Fan @RS.2099"
+      }
+    ],
+    "raw_text": "Flipkart | Hyperjet with 2 Year Warranty BLDC Motor with Remote 1200 mm Ceiling Fan @RS.2099\n\n🔗 https://fkrt.co/oTaHWa",
+    "final_url": "https://fkrt.co/oTaHWa",
+    "local_image": "assets/images/tgmsg_12695.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-13T06:36:42+00:00",
+    "buy_link": "https://fkrt.co/oTaHWa",
+    "date_iso": "2025-10-13T06:36:42+00:00"
+  },
+  {
     "id": "msg12690",
     "title": "💥Topwear Min 80% OFF",
     "description": "💥AJIO : Topwear Min 80% OFF Link : https://ajiio.co/tLIWEJ",
@@ -8558,165 +8658,5 @@
     "date_obj": "2025-10-10T09:28:41+00:00",
     "buy_link": "https://fktr.in/9GqqlHn",
     "date_iso": "2025-10-10T09:28:41+00:00"
-  },
-  {
-    "id": "msg11858",
-    "title": "Up to 80% Off On Deodorants Combo",
-    "description": "Flipkart  Upto 80% Off On Deodorants Combo. Engage : https://fkrt.co/ckcUuD Denver : https://fkrt.co/grm0zS Set Wet : https://fkrt.co/HuJtd0 Axe : https://fkrt.co/Q4ITAb",
-    "shortlink": "https://fkrt.co/ckcUuD",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart Upto 80% Off On Deodorants Combo"
-      },
-      {
-        "url": "https://fkrt.co/ckcUuD",
-        "label": "Engage"
-      },
-      {
-        "url": "https://fkrt.co/grm0zS",
-        "label": "Denver"
-      },
-      {
-        "url": "https://fkrt.co/HuJtd0",
-        "label": "Set Wet"
-      },
-      {
-        "url": "https://fkrt.co/Q4ITAb",
-        "label": "Axe"
-      }
-    ],
-    "raw_text": "Flipkart  Upto 80% Off On Deodorants Combo.\n\nEngage : https://fkrt.co/ckcUuD\nDenver : https://fkrt.co/grm0zS\nSet Wet : https://fkrt.co/HuJtd0\nAxe : https://fkrt.co/Q4ITAb",
-    "final_url": "https://fkrt.co/ckcUuD",
-    "local_image": "assets/images/tgmsg_11858.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T09:30:08+00:00",
-    "buy_link": "https://fkrt.co/ckcUuD",
-    "date_iso": "2025-10-10T09:30:08+00:00"
-  },
-  {
-    "id": "msg11855",
-    "title": "💳 Extra ₹250 Off on ₹2499+ Cart Value with HDFC Bank Credit Card",
-    "description": "Flipkart Kilos 🔥🔥 Grocery Upto 80% Off + Extra 5% Off 👉 Master Link: 🍚 Atta, Rice & Daal: 🛢 Oil & Ghee: 🍜 Noodles & Pasta: 🍪 Snacks: 🪥 Oral Care: 🧴 Personal Care: ☕️ Tea & Coffee: 💄 Beauty & Grooming: 🏠 House Hold &…",
-    "shortlink": "https://fkrt.co/bIPVJo",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart Kilos 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "Grocery Upto 80% Off + Extra 5% Off"
-      },
-      {
-        "url": "https://fkrt.co/bIPVJo",
-        "label": "Master"
-      },
-      {
-        "url": "https://fkrt.co/k5afTu",
-        "label": "🍚 Atta, Rice & Daal"
-      },
-      {
-        "url": "https://fkrt.co/drtfI3",
-        "label": "🛢 Oil & Ghee"
-      },
-      {
-        "url": "https://fkrt.co/xJ93oN",
-        "label": "🍜 Noodles & Pasta"
-      },
-      {
-        "url": "https://fkrt.co/x21szb",
-        "label": "🍪 Snacks"
-      },
-      {
-        "url": "https://fkrt.co/LA2hTw",
-        "label": "🪥 Oral Care"
-      },
-      {
-        "url": "https://fkrt.co/vrprpZ",
-        "label": "🧴 Personal Care"
-      },
-      {
-        "url": "https://fkrt.co/rCvveT",
-        "label": "☕️ Tea & Coffee"
-      },
-      {
-        "url": "https://fkrt.co/e2QzS9",
-        "label": "💄 Beauty & Grooming"
-      },
-      {
-        "url": "https://fkrt.co/L52Kec",
-        "label": "🏠 House Hold & Cleaning"
-      },
-      {
-        "url": "",
-        "label": "💳 Extra ₹250 Off on ₹2499+ Cart Value with HDFC Bank Credit Cards"
-      },
-      {
-        "url": "",
-        "label": "Hurry – Limited Time ! ⚡️"
-      }
-    ],
-    "raw_text": "Flipkart Kilos  🔥🔥\n\nGrocery Upto 80% Off + Extra 5% Off \n\n👉 Master Link: https://fkrt.co/bIPVJo\n\n🍚 Atta, Rice & Daal: https://fkrt.co/k5afTu\n🛢 Oil & Ghee: https://fkrt.co/drtfI3\n🍜 Noodles & Pasta: https://fkrt.co/xJ93oN\n🍪 Snacks: https://fkrt.co/x21szb\n🪥 Oral Care: https://fkrt.co/LA2hTw\n🧴 Personal Care: https://fkrt.co/vrprpZ\n☕️ Tea & Coffee: https://fkrt.co/rCvveT\n💄 Beauty & Grooming: https://fkrt.co/e2QzS9\n🏠 House Hold & Cleaning: https://fkrt.co/L52Kec\n\n💳 Extra ₹250 Off on ₹2499+ Cart Value with HDFC Bank Credit Cards \n\nHurry – Limited Time ! ⚡️",
-    "final_url": "https://fkrt.co/bIPVJo",
-    "local_image": "assets/images/tgmsg_11855.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T09:12:27+00:00",
-    "buy_link": "https://fkrt.co/bIPVJo",
-    "date_iso": "2025-10-10T09:12:27+00:00"
-  },
-  {
-    "id": "msg11851",
-    "title": "JIOMART Flat ₹50 Off On Min ₹149 Orde",
-    "description": "JIOMART LOOT: Flat ₹50 Off On Min ₹149 Order CODE: DIWALI50 📌Shop Now: https://bitli.in/uoxz46w",
-    "shortlink": "https://bitli.in/uoxz46w",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flat ₹50 Off On Min ₹149 Order"
-      },
-      {
-        "url": "",
-        "label": "DIWALI50"
-      },
-      {
-        "url": "https://bitli.in/uoxz46w",
-        "label": "📌Shop Now"
-      }
-    ],
-    "raw_text": "JIOMART LOOT: Flat ₹50 Off On Min ₹149 Order \n\nCODE: DIWALI50\n\n📌Shop Now: https://bitli.in/uoxz46w",
-    "final_url": "https://bitli.in/uoxz46w",
-    "local_image": "assets/images/tgmsg_11851.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-10-10T08:45:14+00:00",
-    "buy_link": "https://bitli.in/uoxz46w",
-    "date_iso": "2025-10-10T08:45:14+00:00"
-  },
-  {
-    "id": "msg11853",
-    "title": "🛒 Deal Price ₹190 + SC",
-    "description": "Flipkart | 🎧 Magnetic Neckband Deals 🛒 Deal Price: ₹190 + SC 👉https://fkrt.co/emIr4h",
-    "shortlink": "https://fkrt.co/emIr4h",
-    "urls": [
-      {
-        "url": "",
-        "label": "🎧 Magnetic Neckband Deals"
-      },
-      {
-        "url": "https://fkrt.co/emIr4h",
-        "label": "🛒 Deal Price: ₹190 + SC"
-      }
-    ],
-    "raw_text": "Flipkart | 🎧 Magnetic Neckband Deals\n\n🛒 Deal Price: ₹190 + SC\n\n👉https://fkrt.co/emIr4h",
-    "final_url": "https://fkrt.co/emIr4h",
-    "local_image": "assets/images/tgmsg_11853.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T08:50:05+00:00",
-    "buy_link": "https://fkrt.co/emIr4h",
-    "date_iso": "2025-10-10T08:50:05+00:00"
   }
 ]
