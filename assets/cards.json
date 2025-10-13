@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg12680",
+    "title": "Up to 85% Off On Here & Now Clothing",
+    "description": "Myntra | Upto 85% Off On Here & Now Clothing. Men's : https://myntr.in/Z1eOjm Women's : https://myntr.in/zQng9H",
+    "shortlink": "https://myntr.in/Z1eOjm",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% Off On Here & Now Clothing"
+      },
+      {
+        "url": "https://myntr.in/Z1eOjm",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/zQng9H",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Myntra | Upto 85% Off On Here & Now Clothing.\n\nMen's : https://myntr.in/Z1eOjm\nWomen's : https://myntr.in/zQng9H",
+    "final_url": "https://myntr.in/Z1eOjm",
+    "local_image": "assets/images/tgmsg_12680.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-13T04:04:08+00:00",
+    "buy_link": "https://myntr.in/Z1eOjm",
+    "date_iso": "2025-10-13T04:04:08+00:00"
+  },
+  {
     "id": "msg12678",
     "title": "💥Up to 72% Off On Skin Care Combo Starting @₹ 195⚡️⚡️",
     "description": "💥Myntra | Upto 72% Off On Skin Care Combo Starting @₹ 195⚡️⚡️ Link : https://myntr.in/1LzgzD",
@@ -8774,29 +8802,5 @@
     "date_obj": "2025-10-10T07:50:06+00:00",
     "buy_link": "https://fkrt.co/h6CVbN",
     "date_iso": "2025-10-10T07:50:06+00:00"
-  },
-  {
-    "id": "msg11838",
-    "title": "Croma Up to 95% Off on Tripods & Camera Accessorie",
-    "description": "Croma Upto 95% Off on Tripods & Camera Accessories 👉 Available for Selected Areas Only, Check Yours",
-    "shortlink": "https://extp.in/IwwPla",
-    "urls": [
-      {
-        "url": "https://extp.in/IwwPla",
-        "label": "Croma Upto 95% Off on Tripods & Camera Accessories"
-      },
-      {
-        "url": "",
-        "label": "Available for Selected Areas Only, Check Yours"
-      }
-    ],
-    "raw_text": "Croma  Upto 95% Off on Tripods & Camera Accessories\n\n👉https://extp.in/IwwPla\n\nAvailable for Selected Areas Only, Check Yours",
-    "final_url": "https://extp.in/IwwPla",
-    "local_image": "assets/images/tgmsg_11838.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-10-10T07:29:59+00:00",
-    "buy_link": "https://extp.in/IwwPla",
-    "date_iso": "2025-10-10T07:29:59+00:00"
   }
 ]
