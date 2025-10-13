@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg12737",
+    "title": "Set of 8 Cushion Covers starting @ 539 only!",
+    "description": "Myntra | Set of 8 Cushion Covers starting @ 539 only! 👉https://myntr.in/SBpdE1 Set of 5 Cushion Covers starting @ 346 Only! 👉https://myntr.in/YEhjuo",
+    "shortlink": "https://myntr.in/SBpdE1",
+    "urls": [
+      {
+        "url": "https://myntr.in/SBpdE1",
+        "label": "Set of 8 Cushion Covers starting @ 539 only!"
+      },
+      {
+        "url": "https://myntr.in/YEhjuo",
+        "label": "Set of 5 Cushion Covers starting @ 346 Only!"
+      }
+    ],
+    "raw_text": "Myntra | Set of 8 Cushion Covers starting @ 539 only!\n👉https://myntr.in/SBpdE1\n\nSet of 5 Cushion Covers starting @ 346 Only!\n👉https://myntr.in/YEhjuo",
+    "final_url": "https://myntr.in/SBpdE1",
+    "local_image": "assets/images/tgmsg_12737.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-13T11:49:10+00:00",
+    "buy_link": "https://myntr.in/SBpdE1",
+    "date_iso": "2025-10-13T11:49:10+00:00"
+  },
+  {
     "id": "msg12736",
     "title": "» 5% Cashback on Amazon, , Swiggy, Zomato, Myntra & More",
     "description": "Get Lifetime FREE HDFC Credit Cards 💳 💳HDFC Millennia Credit Card : Apply Now ➡️ » Lifetime Free (Till 31st Oct) » 5% Cashback on Amazon, Flipkart, Swiggy, Zomato, Myntra & More » 1% Cashback on All Other Spends » ₹1000…",
@@ -8634,25 +8658,5 @@
     "date_obj": "2025-10-10T14:06:09+00:00",
     "buy_link": "https://ajiio.co/1DDf44",
     "date_iso": "2025-10-10T14:06:09+00:00"
-  },
-  {
-    "id": "msg11915",
-    "title": "Fast At 267",
-    "description": "Fast At 267. https://www.amazon.in/dp/B0922XQMYD?tag=bestpricezo0f-21 Apply Coupon",
-    "shortlink": "https://www.amazon.in/dp/B0922XQMYD?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0922XQMYD?tag=bestpricezo0f-21",
-        "label": "Fast At 267"
-      }
-    ],
-    "raw_text": "Fast At 267.\n\nhttps://www.amazon.in/dp/B0922XQMYD?tag=bestpricezo0f-21\n\nApply Coupon",
-    "final_url": "https://www.amazon.in/dp/B0922XQMYD?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_11915.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-10T14:07:42+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0922XQMYD?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-10T14:07:42+00:00"
   }
 ]
