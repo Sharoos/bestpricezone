@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg12726",
+    "title": "Hrithik Roshan Men’s Shoes Starts @ 484",
+    "description": "Flipkart  | Hrithik Roshan Men’s Shoes Starts @ 484. 👉https://fkrt.co/AEhAVP",
+    "shortlink": "https://fkrt.co/AEhAVP",
+    "urls": [
+      {
+        "url": "https://fkrt.co/AEhAVP",
+        "label": "Hrithik Roshan Men’s Shoes Starts @ 484"
+      }
+    ],
+    "raw_text": "Flipkart  | Hrithik Roshan Men’s Shoes Starts @ 484.\n\n👉https://fkrt.co/AEhAVP",
+    "final_url": "https://fkrt.co/AEhAVP",
+    "local_image": "assets/images/tgmsg_12726.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-13T10:20:18+00:00",
+    "buy_link": "https://fkrt.co/AEhAVP",
+    "date_iso": "2025-10-13T10:20:18+00:00"
+  },
+  {
+    "id": "msg12728",
+    "title": "Trackpants Starts @ ₹269",
+    "description": "Myntra | Trackpants Starts @ ₹269 Men's : https://myntr.in/In0wna Women's : https://myntr.in/7KLb2e",
+    "shortlink": "https://myntr.in/In0wna",
+    "urls": [
+      {
+        "url": "",
+        "label": "Trackpants Starts @ ₹269"
+      },
+      {
+        "url": "https://myntr.in/In0wna",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/7KLb2e",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Myntra | Trackpants Starts @ ₹269\n\nMen's : https://myntr.in/In0wna\nWomen's : https://myntr.in/7KLb2e",
+    "final_url": "https://myntr.in/In0wna",
+    "local_image": "assets/images/tgmsg_12728.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-13T10:34:21+00:00",
+    "buy_link": "https://myntr.in/In0wna",
+    "date_iso": "2025-10-13T10:34:21+00:00"
+  },
+  {
     "id": "msg12725",
     "title": "Prestige Iris 750W 4 Jar Mixer Grinder @ 2599",
     "description": "Amazon | Prestige Iris 750W 4 Jar Mixer Grinder @ 2599. 👉https://www.amazon.in/dp/B08CFJBZRK?tag=bestpricezo0f-21",
@@ -8558,57 +8606,5 @@
     "date_obj": "2025-10-10T13:52:10+00:00",
     "buy_link": "https://fkrt.co/GnJuGP",
     "date_iso": "2025-10-10T13:52:10+00:00"
-  },
-  {
-    "id": "msg11912",
-    "title": "Diwali Gifting Bedsheets Up to 85% Off",
-    "description": "Grab : Diwali Gifting Bedsheets Upto 85% Off. https://myntr.in/9LhGWG",
-    "shortlink": "https://myntr.in/9LhGWG",
-    "urls": [
-      {
-        "url": "https://myntr.in/9LhGWG",
-        "label": "Diwali Gifting Bedsheets Upto 85% Off"
-      }
-    ],
-    "raw_text": "Grab : Diwali Gifting Bedsheets Upto 85% Off.\n\nhttps://myntr.in/9LhGWG",
-    "final_url": "https://myntr.in/9LhGWG",
-    "local_image": "assets/images/tgmsg_11912.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-10T13:55:49+00:00",
-    "buy_link": "https://myntr.in/9LhGWG",
-    "date_iso": "2025-10-10T13:55:49+00:00"
-  },
-  {
-    "id": "msg11907",
-    "title": "More Up to 80% off",
-    "description": "Flipkart | Carton London Perfume for Men @355 https://fkrt.co/HKqI0D 352 https://fkrt.co/HEJG8z 379 https://fkrt.co/T7AUMX More upto 80% off : https://fkrt.co/9cKCYF",
-    "shortlink": "https://fkrt.co/HKqI0D",
-    "urls": [
-      {
-        "url": "https://fkrt.co/HKqI0D",
-        "label": "Carton London Perfume for Men @355"
-      },
-      {
-        "url": "https://fkrt.co/HEJG8z",
-        "label": "352"
-      },
-      {
-        "url": "https://fkrt.co/T7AUMX",
-        "label": "379"
-      },
-      {
-        "url": "https://fkrt.co/9cKCYF",
-        "label": "More upto 80% off"
-      }
-    ],
-    "raw_text": "Flipkart | Carton London Perfume for Men @355\n\nhttps://fkrt.co/HKqI0D\n\n352 https://fkrt.co/HEJG8z\n\n379 https://fkrt.co/T7AUMX\n\nMore upto 80% off : https://fkrt.co/9cKCYF",
-    "final_url": "https://fkrt.co/HKqI0D",
-    "local_image": "assets/images/tgmsg_11907.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T13:36:29+00:00",
-    "buy_link": "https://fkrt.co/HKqI0D",
-    "date_iso": "2025-10-10T13:36:29+00:00"
   }
 ]
