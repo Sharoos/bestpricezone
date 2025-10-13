@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg12696",
+    "title": "Up to 66% Off On Hair Care",
+    "description": "Myntra : Upto 66% Off On Hair Care. Dove : Tresemme : LOréal Paris : Pantene : Head & Shoulders : Clinic Plus :",
+    "shortlink": "https://myntr.in/FinHmf",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 66% Off On Hair Care"
+      },
+      {
+        "url": "https://myntr.in/FinHmf",
+        "label": "Dove"
+      },
+      {
+        "url": "https://myntr.in/93vvPk",
+        "label": "Tresemme"
+      },
+      {
+        "url": "https://myntr.in/aDCxh9",
+        "label": "LOréal Paris"
+      },
+      {
+        "url": "https://myntr.in/u10NJe",
+        "label": "Pantene"
+      },
+      {
+        "url": "https://myntr.in/R20D7h",
+        "label": "Head & Shoulders"
+      },
+      {
+        "url": "https://myntr.in/fK3VR5",
+        "label": "Clinic Plus"
+      }
+    ],
+    "raw_text": "Myntra : Upto 66% Off On Hair Care.\n\nDove : https://myntr.in/FinHmf\nTresemme : https://myntr.in/93vvPk\nLOréal Paris : https://myntr.in/aDCxh9\nPantene : https://myntr.in/u10NJe\nHead & Shoulders : https://myntr.in/R20D7h\nClinic Plus : https://myntr.in/fK3VR5",
+    "final_url": "https://myntr.in/FinHmf",
+    "local_image": "assets/images/tgmsg_12696.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-13T06:45:17+00:00",
+    "buy_link": "https://myntr.in/FinHmf",
+    "date_iso": "2025-10-13T06:45:17+00:00"
+  },
+  {
     "id": "msg12692",
     "title": "Kurta & Kurtis Starts ₹199",
     "description": "Myntra : Kurta & Kurtis Starts ₹199. Women : https://myntr.in/asOyNy Men : https://myntr.in/JWUn4O",
@@ -8638,25 +8682,5 @@
     "date_obj": "2025-10-10T09:22:10+00:00",
     "buy_link": "https://fkrt.co/nkngEO",
     "date_iso": "2025-10-10T09:22:10+00:00"
-  },
-  {
-    "id": "msg11857",
-    "title": "DEAL REALME C61 @5799",
-    "description": "LOOT DEAL: REALME C61 @5799 https://fktr.in/9GqqlHn ₹500 Coupon Auto Applied at checkout .",
-    "shortlink": "https://fktr.in/9GqqlHn",
-    "urls": [
-      {
-        "url": "https://fktr.in/9GqqlHn",
-        "label": "REALME C61 @5799"
-      }
-    ],
-    "raw_text": "LOOT DEAL: REALME C61 @5799\n\nhttps://fktr.in/9GqqlHn\n\n₹500 Coupon Auto Applied at checkout .",
-    "final_url": "https://fktr.in/9GqqlHn",
-    "local_image": "assets/images/tgmsg_11857.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T09:28:41+00:00",
-    "buy_link": "https://fktr.in/9GqqlHn",
-    "date_iso": "2025-10-10T09:28:41+00:00"
   }
 ]
