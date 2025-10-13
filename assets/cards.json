@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12683",
+    "title": "Story@Home Carpets Up to 73% Off",
+    "description": "Myntra | Story@Home Carpets Upto 73% Off 👉https://myntr.in/uB0qBE",
+    "shortlink": "https://myntr.in/uB0qBE",
+    "urls": [
+      {
+        "url": "https://myntr.in/uB0qBE",
+        "label": "Story@Home Carpets Upto 73% Off"
+      }
+    ],
+    "raw_text": "Myntra | Story@Home Carpets Upto 73% Off\n\n👉https://myntr.in/uB0qBE",
+    "final_url": "https://myntr.in/uB0qBE",
+    "local_image": "assets/images/tgmsg_12683.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-13T04:45:51+00:00",
+    "buy_link": "https://myntr.in/uB0qBE",
+    "date_iso": "2025-10-13T04:45:51+00:00"
+  },
+  {
     "id": "msg12682",
     "title": "BELLAVITA Perfume Starts at Rs.175",
     "description": "Flipkart | BELLAVITA Perfume Starts at Rs.175 👉https://fkrt.co/6osxCU",
@@ -8726,41 +8746,5 @@
     "date_obj": "2025-10-10T08:10:03+00:00",
     "buy_link": "https://fkrt.co/UVCdXl",
     "date_iso": "2025-10-10T08:10:03+00:00"
-  },
-  {
-    "id": "msg11845",
-    "title": "Up to 80% Off Premium Clothing",
-    "description": "AJIO Loot : Upto 80% Off Premium Clothing GAS : NIKE : Calvin Klein : Tommy Hilfiger : Armani Exchange : + Check Coupon Section for Extra Discount.",
-    "shortlink": "https://ajiio.in/qLVTi0e",
-    "urls": [
-      {
-        "url": "https://ajiio.in/qLVTi0e",
-        "label": "Upto 80% Off Premium Clothing"
-      },
-      {
-        "url": "https://ajiio.in/s5ywKtZ",
-        "label": "NIKE"
-      },
-      {
-        "url": "https://ajiio.in/UjOybx8",
-        "label": "Calvin Klein"
-      },
-      {
-        "url": "https://ajiio.in/m79VGw2",
-        "label": "Tommy Hilfiger"
-      },
-      {
-        "url": "https://ajiio.in/Fq22OWh",
-        "label": "Armani Exchange"
-      }
-    ],
-    "raw_text": "AJIO Loot : Upto 80% Off Premium Clothing\n\nGAS : https://ajiio.in/qLVTi0e\nNIKE : https://ajiio.in/s5ywKtZ\nCalvin Klein : https://ajiio.in/UjOybx8\nTommy Hilfiger : https://ajiio.in/m79VGw2\nArmani Exchange : https://ajiio.in/Fq22OWh\n\n+ Check Coupon Section for Extra Discount.",
-    "final_url": "https://ajiio.in/qLVTi0e",
-    "local_image": "assets/images/tgmsg_11845.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-10T08:13:55+00:00",
-    "buy_link": "https://ajiio.in/qLVTi0e",
-    "date_iso": "2025-10-10T08:13:55+00:00"
   }
 ]
