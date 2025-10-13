@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12687",
+    "title": "Up to 78% Off on Co",
+    "description": "Ajio | Upto 78% Off on Co-Ord Sets Starting @ just ₹264 Link : https://ajiio.co/xGTV7S",
+    "shortlink": "https://ajiio.co/xGTV7S",
+    "urls": [
+      {
+        "url": "https://ajiio.co/xGTV7S",
+        "label": "Upto 78% Off on Co-Ord Sets Starting @ just ₹264"
+      }
+    ],
+    "raw_text": "Ajio | Upto 78% Off on Co-Ord Sets Starting @ just ₹264\n \nLink : https://ajiio.co/xGTV7S",
+    "final_url": "https://ajiio.co/xGTV7S",
+    "local_image": "assets/images/tgmsg_12687.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-13T05:33:46+00:00",
+    "buy_link": "https://ajiio.co/xGTV7S",
+    "date_iso": "2025-10-13T05:33:46+00:00"
+  },
+  {
     "id": "msg12684",
     "title": "🔥 Denver Perfumes & Deodorants – Up to 52% OFF 🔥",
     "description": "🔥 Myntra | Denver Perfumes & Deodorants – Up to 52% OFF 🔥 🔗 Shop here: https://myntr.in/Nzg96n",
@@ -8722,25 +8742,5 @@
     "date_obj": "2025-10-10T08:30:08+00:00",
     "buy_link": "https://ajiio.co/50Bb4J",
     "date_iso": "2025-10-10T08:30:08+00:00"
-  },
-  {
-    "id": "msg11849",
-    "title": "FAST",
-    "description": "FAST. https://fkrt.co/SIctXL",
-    "shortlink": "https://fkrt.co/SIctXL",
-    "urls": [
-      {
-        "url": "https://fkrt.co/SIctXL",
-        "label": ""
-      }
-    ],
-    "raw_text": "FAST. \n\n https://fkrt.co/SIctXL",
-    "final_url": "https://fkrt.co/SIctXL",
-    "local_image": "assets/images/tgmsg_11849.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T08:38:18+00:00",
-    "buy_link": "https://fkrt.co/SIctXL",
-    "date_iso": "2025-10-10T08:38:18+00:00"
   }
 ]
