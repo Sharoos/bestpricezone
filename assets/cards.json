@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg12779",
+    "title": "Ducati Sneakers Up to 80% Off",
+    "description": "Myntra | Ducati Sneakers Upto 80% Off https://myntr.in/I8PZck",
+    "shortlink": "https://myntr.in/I8PZck",
+    "urls": [
+      {
+        "url": "https://myntr.in/I8PZck",
+        "label": "Ducati Sneakers Upto 80% Off"
+      }
+    ],
+    "raw_text": "Myntra | Ducati Sneakers Upto 80% Off\n\nhttps://myntr.in/I8PZck",
+    "final_url": "https://myntr.in/I8PZck",
+    "local_image": "assets/images/tgmsg_12779.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-13T17:02:39+00:00",
+    "buy_link": "https://myntr.in/I8PZck",
+    "date_iso": "2025-10-13T17:02:39+00:00"
+  },
+  {
+    "id": "msg12780",
+    "title": "83% Off Crompton Laser Ray Smile 20W LED Battenat 999",
+    "description": "Amazon | 83% Off :Crompton Laser Ray Smile 20W LED Battenat  999 https://www.amazon.in/dp/B0D2R2QXQZ?psc=1&smid=A19ONO82Z19P4O&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0D2R2QXQZ?psc=1&smid=A19ONO82Z19P4O&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0D2R2QXQZ?psc=1&smid=A19ONO82Z19P4O&tag=bestpricezo0f-21",
+        "label": "83% Off :Crompton Laser Ray Smile 20W LED Battenat 999"
+      }
+    ],
+    "raw_text": "Amazon | 83% Off :Crompton Laser Ray Smile 20W LED Battenat  999\n\nhttps://www.amazon.in/dp/B0D2R2QXQZ?psc=1&smid=A19ONO82Z19P4O&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D2R2QXQZ?psc=1&smid=A19ONO82Z19P4O&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12780.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-13T17:16:33+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D2R2QXQZ?psc=1&smid=A19ONO82Z19P4O&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-13T17:16:33+00:00"
+  },
+  {
     "id": "msg12773",
     "title": "Curtains Up to 80% Off",
     "description": "Myntra : Curtains Upto 80% Off. https://myntr.in/N0tRdE",
@@ -8426,53 +8466,5 @@
     "date_obj": "2025-10-10T18:34:23+00:00",
     "buy_link": "https://fkrt.co/3FBof7",
     "date_iso": "2025-10-10T18:34:23+00:00"
-  },
-  {
-    "id": "msg11984",
-    "title": "₹3748",
-    "description": "₹3748 :  https://fkrt.co/QdylYh ₹3874 :  https://fkrt.co/MroAoF",
-    "shortlink": "https://fkrt.co/QdylYh",
-    "urls": [
-      {
-        "url": "https://fkrt.co/QdylYh",
-        "label": "₹3748"
-      },
-      {
-        "url": "https://fkrt.co/MroAoF",
-        "label": "₹3874"
-      }
-    ],
-    "raw_text": "₹3748 :  https://fkrt.co/QdylYh\n\n₹3874 :  https://fkrt.co/MroAoF",
-    "final_url": "https://fkrt.co/QdylYh",
-    "local_image": "assets/images/tgmsg_11984.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T18:34:50+00:00",
-    "buy_link": "https://fkrt.co/QdylYh",
-    "date_iso": "2025-10-10T18:34:50+00:00"
-  },
-  {
-    "id": "msg11988",
-    "title": "₹1500 Off With SBI Bank Credit Card",
-    "description": "Upto 62% Off On Kenstar LED TVs. https://fkrt.co/WhtQ3W *₹1500 Off With SBI Bank Credit Card.",
-    "shortlink": "https://fkrt.co/WhtQ3W",
-    "urls": [
-      {
-        "url": "https://fkrt.co/WhtQ3W",
-        "label": "Upto 62% Off On Kenstar LED TVs"
-      },
-      {
-        "url": "",
-        "label": "₹1500 Off With SBI Bank Credit Card"
-      }
-    ],
-    "raw_text": "Upto 62% Off On Kenstar LED TVs.\n\n https://fkrt.co/WhtQ3W\n\n*₹1500 Off With SBI Bank Credit Card.",
-    "final_url": "https://fkrt.co/WhtQ3W",
-    "local_image": "assets/images/tgmsg_11988.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T18:35:45+00:00",
-    "buy_link": "https://fkrt.co/WhtQ3W",
-    "date_iso": "2025-10-10T18:35:45+00:00"
   }
 ]
