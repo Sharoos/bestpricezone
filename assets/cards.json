@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12703",
+    "title": "Smartwatchs Start ₹799",
+    "description": "Flipkart | Smartwatchs Start ₹799 👉https://fkrt.co/CI3JFY",
+    "shortlink": "https://fkrt.co/CI3JFY",
+    "urls": [
+      {
+        "url": "https://fkrt.co/CI3JFY",
+        "label": "Smartwatchs Start ₹799"
+      }
+    ],
+    "raw_text": "Flipkart | Smartwatchs Start ₹799\n\n👉https://fkrt.co/CI3JFY",
+    "final_url": "https://fkrt.co/CI3JFY",
+    "local_image": "assets/images/tgmsg_12703.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-13T07:40:15+00:00",
+    "buy_link": "https://fkrt.co/CI3JFY",
+    "date_iso": "2025-10-13T07:40:15+00:00"
+  },
+  {
     "id": "msg12702",
     "title": "Up to 90% Off On RedTape Shoe",
     "description": "Flipkart | Upto 90% Off On RedTape Shoes Sports :  https://fkrt.co/2nnCy3 Casual :  https://fkrt.co/kkkEmn Formals :  https://fkrt.co/KTqQQd",
@@ -8634,57 +8654,5 @@
     "date_obj": "2025-10-10T10:10:02+00:00",
     "buy_link": "https://myntr.in/b3ArHO",
     "date_iso": "2025-10-10T10:10:02+00:00"
-  },
-  {
-    "id": "msg11863",
-    "title": "Up to 50% Off + Extra 15% Off + 10% Bank Offe",
-    "description": "Myntra | 👟 Nike Shoe Steal Deals! Upto 50% Off + Extra 15% Off + 10% Bank Offer Add any 3 Shoes : Men: Women: Boys: Girls: Apply Codes : NIKECOMBO | NORETURNNIKE10 + 10% Off With Axis/IDFC/BOB Cards",
-    "shortlink": "https://myntr.in/MgjMbZ",
-    "urls": [
-      {
-        "url": "",
-        "label": "👟 Nike Shoe Steal Deals!"
-      },
-      {
-        "url": "",
-        "label": "Upto 50% Off + Extra 15% Off + 10% Bank Offer"
-      },
-      {
-        "url": "",
-        "label": "Add any 3 Shoes"
-      },
-      {
-        "url": "https://myntr.in/MgjMbZ",
-        "label": "Men"
-      },
-      {
-        "url": "https://myntr.in/7dBxez",
-        "label": "Women"
-      },
-      {
-        "url": "https://myntr.in/jkZIMk",
-        "label": "Boys"
-      },
-      {
-        "url": "https://myntr.in/vIZ3wU",
-        "label": "Girls"
-      },
-      {
-        "url": "",
-        "label": "NIKECOMBO | NORETURNNIKE10"
-      },
-      {
-        "url": "",
-        "label": "+ 10% Off With Axis/IDFC/BOB Cards"
-      }
-    ],
-    "raw_text": "Myntra | 👟 Nike Shoe Steal Deals!\n\nUpto 50% Off + Extra 15% Off + 10% Bank Offer\n\nAdd any 3 Shoes :\nMen: https://myntr.in/MgjMbZ\nWomen: https://myntr.in/7dBxez\nBoys: https://myntr.in/jkZIMk\nGirls: https://myntr.in/vIZ3wU\n\nApply Codes : NIKECOMBO | NORETURNNIKE10\n\n+ 10% Off With Axis/IDFC/BOB Cards",
-    "final_url": "https://myntr.in/MgjMbZ",
-    "local_image": "assets/images/tgmsg_11863.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-10T10:20:01+00:00",
-    "buy_link": "https://myntr.in/MgjMbZ",
-    "date_iso": "2025-10-10T10:20:01+00:00"
   }
 ]
