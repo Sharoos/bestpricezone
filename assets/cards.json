@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12732",
+    "title": "Sofa Cover Starting At 299",
+    "description": "Sofa Cover Starting At 299 https://fkrt.co/oKgneG",
+    "shortlink": "https://fkrt.co/oKgneG",
+    "urls": [
+      {
+        "url": "https://fkrt.co/oKgneG",
+        "label": "Sofa Cover Starting At 299"
+      }
+    ],
+    "raw_text": "Sofa Cover Starting At 299\n\nhttps://fkrt.co/oKgneG",
+    "final_url": "https://fkrt.co/oKgneG",
+    "local_image": "assets/images/tgmsg_12732.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-13T10:58:07+00:00",
+    "buy_link": "https://fkrt.co/oKgneG",
+    "date_iso": "2025-10-13T10:58:07+00:00"
+  },
+  {
     "id": "msg12730",
     "title": "🛒 Deal Price ₹26498",
     "description": "Amazon | 📱 iQOO Neo 10R 5G Deals iQOO Neo 10R 5G (Raging Blue, 12GB RAM, 256GB Storage) 🛒 Deal Price : ₹26498 💥 Coupon discount : ₹2500 🔗",
@@ -8586,33 +8606,5 @@
     "date_obj": "2025-10-10T13:52:07+00:00",
     "buy_link": "https://fkrt.co/q8lYFH",
     "date_iso": "2025-10-10T13:52:07+00:00"
-  },
-  {
-    "id": "msg11910",
-    "title": "Up to 78% Off On Kid’s Clothing",
-    "description": "Myntra : Upto 78% Off On Kid’s Clothing. Boys : https://myntr.in/rTTCwE Girls : https://myntr.in/IZkGXN",
-    "shortlink": "https://myntr.in/rTTCwE",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 78% Off On Kid’s Clothing"
-      },
-      {
-        "url": "https://myntr.in/rTTCwE",
-        "label": "Boys"
-      },
-      {
-        "url": "https://myntr.in/IZkGXN",
-        "label": "Girls"
-      }
-    ],
-    "raw_text": "Myntra : Upto 78% Off On Kid’s Clothing. \n\nBoys : https://myntr.in/rTTCwE\nGirls : https://myntr.in/IZkGXN",
-    "final_url": "https://myntr.in/rTTCwE",
-    "local_image": "assets/images/tgmsg_11910.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-10T13:52:08+00:00",
-    "buy_link": "https://myntr.in/rTTCwE",
-    "date_iso": "2025-10-10T13:52:08+00:00"
   }
 ]
