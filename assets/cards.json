@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12682",
+    "title": "BELLAVITA Perfume Starts at Rs.175",
+    "description": "Flipkart | BELLAVITA Perfume Starts at Rs.175 👉https://fkrt.co/6osxCU",
+    "shortlink": "https://fkrt.co/6osxCU",
+    "urls": [
+      {
+        "url": "https://fkrt.co/6osxCU",
+        "label": "BELLAVITA Perfume Starts at Rs.175"
+      }
+    ],
+    "raw_text": "Flipkart | BELLAVITA Perfume Starts at Rs.175\n\n👉https://fkrt.co/6osxCU",
+    "final_url": "https://fkrt.co/6osxCU",
+    "local_image": "assets/images/tgmsg_12682.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-13T04:34:31+00:00",
+    "buy_link": "https://fkrt.co/6osxCU",
+    "date_iso": "2025-10-13T04:34:31+00:00"
+  },
+  {
     "id": "msg12680",
     "title": "Up to 85% Off On Here & Now Clothing",
     "description": "Myntra | Upto 85% Off On Here & Now Clothing. Men's : https://myntr.in/Z1eOjm Women's : https://myntr.in/zQng9H",
@@ -8742,65 +8762,5 @@
     "date_obj": "2025-10-10T08:13:55+00:00",
     "buy_link": "https://ajiio.in/qLVTi0e",
     "date_iso": "2025-10-10T08:13:55+00:00"
-  },
-  {
-    "id": "msg11841",
-    "title": "Grocery – Up to 96% Off",
-    "description": "Flipkart Grocery – Upto 96% Off Master Link : 👉 👉 👉 Selected Pincodes Only | Many Items at Price More Suggestions👇. Atta/Rice : Oil/Ghee : Snacks : Oral Care : Tea/Coffee : *Extra ₹250 Off On ₹2499+ Orders.",
-    "shortlink": "https://fkrt.co/h6CVbN",
-    "urls": [
-      {
-        "url": "https://fkrt.co/h6CVbN",
-        "label": "Flipkart Grocery – Upto 96% Off"
-      },
-      {
-        "url": "https://fkrt.co/61sQd7",
-        "label": "Flipkart Grocery – Upto 96% Off"
-      },
-      {
-        "url": "https://fkrt.co/FOeiia",
-        "label": "Flipkart Grocery – Upto 96% Off"
-      },
-      {
-        "url": "",
-        "label": "Many Items at Price"
-      },
-      {
-        "url": "",
-        "label": "More Suggestions👇"
-      },
-      {
-        "url": "https://fkrt.co/2X71EK",
-        "label": "Atta/Rice"
-      },
-      {
-        "url": "https://fkrt.co/1EQONq",
-        "label": "Oil/Ghee"
-      },
-      {
-        "url": "https://fkrt.co/TE6Var",
-        "label": "Snacks"
-      },
-      {
-        "url": "https://fkrt.co/TaVTia",
-        "label": "Oral Care"
-      },
-      {
-        "url": "https://fkrt.co/ExwVQ1",
-        "label": "Tea/Coffee"
-      },
-      {
-        "url": "",
-        "label": "Extra ₹250 Off On ₹2499+ Orders"
-      }
-    ],
-    "raw_text": "Flipkart Grocery  – Upto 96% Off\n\nMaster Link : \n 👉https://fkrt.co/h6CVbN\n 👉https://fkrt.co/61sQd7\n 👉https://fkrt.co/FOeiia\n\nSelected Pincodes Only | Many Items at  Price\n\nMore Suggestions👇. \n\nAtta/Rice :  https://fkrt.co/2X71EK\nOil/Ghee :  https://fkrt.co/1EQONq\nSnacks :  https://fkrt.co/TE6Var\nOral Care :  https://fkrt.co/TaVTia\nTea/Coffee :  https://fkrt.co/ExwVQ1\n\n*Extra ₹250 Off On ₹2499+ Orders.",
-    "final_url": "https://fkrt.co/h6CVbN",
-    "local_image": "assets/images/tgmsg_11841.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T07:50:06+00:00",
-    "buy_link": "https://fkrt.co/h6CVbN",
-    "date_iso": "2025-10-10T07:50:06+00:00"
   }
 ]
