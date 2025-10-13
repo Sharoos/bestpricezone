@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12761",
+    "title": "66% Off",
+    "description": "Myntra | Dove, Tresemme 1L Shampoos and Combos 60 - 66% Off 👉Link : https://myntr.in/1sJElN",
+    "shortlink": "https://myntr.in/1sJElN",
+    "urls": [
+      {
+        "url": "https://myntr.in/1sJElN",
+        "label": "Dove, Tresemme 1L Shampoos and Combos 60 - 66% Off"
+      }
+    ],
+    "raw_text": "Myntra | Dove, Tresemme 1L Shampoos and Combos 60 - 66% Off\n\n👉Link : https://myntr.in/1sJElN",
+    "final_url": "https://myntr.in/1sJElN",
+    "local_image": "assets/images/tgmsg_12761.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-13T15:16:33+00:00",
+    "buy_link": "https://myntr.in/1sJElN",
+    "date_iso": "2025-10-13T15:16:33+00:00"
+  },
+  {
     "id": "msg12755",
     "title": "Beardo Perfumes Up to 73% off Starts @173",
     "description": "Amazon | Beardo Perfumes Upto 73% off Starts @173.…",
@@ -8590,25 +8610,5 @@
     "date_obj": "2025-10-10T16:07:12+00:00",
     "buy_link": "https://myntr.in/NK3ehr",
     "date_iso": "2025-10-10T16:07:12+00:00"
-  },
-  {
-    "id": "msg11949",
-    "title": "🔥 Happilo Premium Natural Cashew",
-    "description": "🔥 Loot: Happilo Premium Natural Cashew. Link: https://fktr.in/HOKl2xI",
-    "shortlink": "https://fktr.in/HOKl2xI",
-    "urls": [
-      {
-        "url": "https://fktr.in/HOKl2xI",
-        "label": "🔥 Loot: Happilo Premium Natural Cashew"
-      }
-    ],
-    "raw_text": "🔥 Loot: Happilo Premium Natural Cashew. \n\nLink: https://fktr.in/HOKl2xI",
-    "final_url": "https://fktr.in/HOKl2xI",
-    "local_image": "assets/images/tgmsg_11949.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T16:07:26+00:00",
-    "buy_link": "https://fktr.in/HOKl2xI",
-    "date_iso": "2025-10-10T16:07:26+00:00"
   }
 ]
