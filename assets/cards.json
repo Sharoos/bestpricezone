@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg12730",
+    "title": "🛒 Deal Price ₹26498",
+    "description": "Amazon | 📱 iQOO Neo 10R 5G Deals iQOO Neo 10R 5G (Raging Blue, 12GB RAM, 256GB Storage) 🛒 Deal Price : ₹26498 💥 Coupon discount : ₹2500 🔗",
+    "shortlink": "https://www.amazon.in/dp/B0DW471L9F/ref=cm_sw_r_as_gl_apa_gl_i_dl_6AGMY3RJ4D9DHSAW29Z9?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "📱 iQOO Neo 10R 5G Deals"
+      },
+      {
+        "url": "",
+        "label": "iQOO Neo 10R 5G (Raging Blue, 12GB RAM, 256GB Storage)"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0DW471L9F/ref=cm_sw_r_as_gl_apa_gl_i_dl_6AGMY3RJ4D9DHSAW29Z9?tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price : ₹26498"
+      }
+    ],
+    "raw_text": "Amazon | 📱 iQOO Neo 10R 5G Deals\n\niQOO Neo 10R 5G (Raging Blue, 12GB RAM, 256GB Storage)\n\n🛒 Deal Price : ₹26498\n💥 Coupon discount : ₹2500\n\n🔗https://www.amazon.in/dp/B0DW471L9F/ref=cm_sw_r_as_gl_apa_gl_i_dl_6AGMY3RJ4D9DHSAW29Z9?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DW471L9F/ref=cm_sw_r_as_gl_apa_gl_i_dl_6AGMY3RJ4D9DHSAW29Z9?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12730.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-13T10:45:14+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DW471L9F/ref=cm_sw_r_as_gl_apa_gl_i_dl_6AGMY3RJ4D9DHSAW29Z9?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-13T10:45:14+00:00"
+  },
+  {
     "id": "msg12726",
     "title": "Hrithik Roshan Men’s Shoes Starts @ 484",
     "description": "Flipkart  | Hrithik Roshan Men’s Shoes Starts @ 484. 👉https://fkrt.co/AEhAVP",
@@ -8586,25 +8614,5 @@
     "date_obj": "2025-10-10T13:52:08+00:00",
     "buy_link": "https://myntr.in/rTTCwE",
     "date_iso": "2025-10-10T13:52:08+00:00"
-  },
-  {
-    "id": "msg11911",
-    "title": "65% Off Men's Straight Kurta @340",
-    "description": "65% Off : Men's Straight Kurta @340 https://fkrt.co/GnJuGP",
-    "shortlink": "https://fkrt.co/GnJuGP",
-    "urls": [
-      {
-        "url": "https://fkrt.co/GnJuGP",
-        "label": "65% Off : Men's Straight Kurta @340"
-      }
-    ],
-    "raw_text": "65% Off : Men's Straight Kurta @340\n\nhttps://fkrt.co/GnJuGP",
-    "final_url": "https://fkrt.co/GnJuGP",
-    "local_image": "assets/images/tgmsg_11911.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-10T13:52:10+00:00",
-    "buy_link": "https://fkrt.co/GnJuGP",
-    "date_iso": "2025-10-10T13:52:10+00:00"
   }
 ]
