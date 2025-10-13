@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12725",
+    "title": "Prestige Iris 750W 4 Jar Mixer Grinder @ 2599",
+    "description": "Amazon | Prestige Iris 750W 4 Jar Mixer Grinder @ 2599. 👉https://www.amazon.in/dp/B08CFJBZRK?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B08CFJBZRK?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B08CFJBZRK?tag=bestpricezo0f-21",
+        "label": "Prestige Iris 750W 4 Jar Mixer Grinder @ 2599"
+      }
+    ],
+    "raw_text": "Amazon | Prestige Iris 750W 4 Jar Mixer Grinder @ 2599.\n\n👉https://www.amazon.in/dp/B08CFJBZRK?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B08CFJBZRK?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12725.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-13T10:10:11+00:00",
+    "buy_link": "https://www.amazon.in/dp/B08CFJBZRK?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-13T10:10:11+00:00"
+  },
+  {
     "id": "msg12724",
     "title": "Sherpa Blankets starting @ 899 + Discount",
     "description": "Myntra | Double Bed Fitted Bedsheets starting @ 179 only! 👉 Winter Blankets starting @ 299 only! 👉 Memory foam bath mat @ 169 only! 👉 Set of 2 Anti-skid Doormats @ 199 only 👉 Double Bed Mink Blankets starting 759 only 👉…",
@@ -8590,25 +8610,5 @@
     "date_obj": "2025-10-10T13:36:29+00:00",
     "buy_link": "https://fkrt.co/HKqI0D",
     "date_iso": "2025-10-10T13:36:29+00:00"
-  },
-  {
-    "id": "msg11893",
-    "title": "FAST",
-    "description": "FAST. https://www.amazon.in/dp/B092S563QV?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B092S563QV?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B092S563QV?tag=bestpricezo0f-21",
-        "label": ""
-      }
-    ],
-    "raw_text": "FAST. \n\n https://www.amazon.in/dp/B092S563QV?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B092S563QV?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_11893.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-10T13:01:37+00:00",
-    "buy_link": "https://www.amazon.in/dp/B092S563QV?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-10T13:01:37+00:00"
   }
 ]
