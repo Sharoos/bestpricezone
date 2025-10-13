@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg12702",
+    "title": "Up to 90% Off On RedTape Shoe",
+    "description": "Flipkart | Upto 90% Off On RedTape Shoes Sports :  https://fkrt.co/2nnCy3 Casual :  https://fkrt.co/kkkEmn Formals :  https://fkrt.co/KTqQQd",
+    "shortlink": "https://fkrt.co/2nnCy3",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 90% Off On RedTape Shoes"
+      },
+      {
+        "url": "https://fkrt.co/2nnCy3",
+        "label": "Sports"
+      },
+      {
+        "url": "https://fkrt.co/kkkEmn",
+        "label": "Casual"
+      },
+      {
+        "url": "https://fkrt.co/KTqQQd",
+        "label": "Formals"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 90% Off On RedTape Shoes\n\nSports :  https://fkrt.co/2nnCy3\nCasual :  https://fkrt.co/kkkEmn\nFormals :  https://fkrt.co/KTqQQd",
+    "final_url": "https://fkrt.co/2nnCy3",
+    "local_image": "assets/images/tgmsg_12702.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-13T07:34:03+00:00",
+    "buy_link": "https://fkrt.co/2nnCy3",
+    "date_iso": "2025-10-13T07:34:03+00:00"
+  },
+  {
     "id": "msg12699",
     "title": "Men Jeans Starts @ 324",
     "description": "Myntra | Men Jeans Starts @ 324. 👉https://myntr.in/7k4O48 Women : https://myntr.in/knhswB",
@@ -8654,37 +8686,5 @@
     "date_obj": "2025-10-10T10:20:01+00:00",
     "buy_link": "https://myntr.in/MgjMbZ",
     "date_iso": "2025-10-10T10:20:01+00:00"
-  },
-  {
-    "id": "msg11860",
-    "title": "Use Code RMEXTRA20 to get 20% Off!",
-    "description": "🔥 Realme Buds Lowest Price ever only on Myntra!!🔥 Realme Buds T200x at Rs. 959 Only!! Use Coupon Code : RMEXTRA20 to get 20% Off! 👉 Realme Buds Wireless 5 at Rs. 1161 only! Use Coupon Code : RMEXTRA17 to get 17% Off!! 👉…",
-    "shortlink": "https://myntr.in/XysuT2",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Realme Buds Lowest Price ever only on Myntra!!🔥"
-      },
-      {
-        "url": "https://myntr.in/XysuT2",
-        "label": "Realme Buds T200x at Rs. 959 Only!!"
-      },
-      {
-        "url": "https://myntr.in/pJ7vex",
-        "label": "Realme Buds Wireless 5 at Rs. 1161 only!"
-      },
-      {
-        "url": "https://myntr.in/kSheAk",
-        "label": "Realme T310 Buds at Rs. 1393 only + Bank offers!!"
-      }
-    ],
-    "raw_text": "🔥 Realme Buds Lowest Price ever only on Myntra!!🔥\n\nRealme Buds T200x at Rs. 959 Only!!\nUse Coupon Code : RMEXTRA20 to get 20% Off!\n👉https://myntr.in/XysuT2\n\nRealme Buds Wireless 5 at Rs. 1161 only!\nUse Coupon Code : RMEXTRA17 to get 17% Off!!\n👉https://myntr.in/pJ7vex\n\nRealme T310 Buds at Rs. 1393 only + Bank offers!!\nUse Coupon Code : RMEXTRA18 to get 18% Off!!\n👉https://myntr.in/kSheAk",
-    "final_url": "https://myntr.in/XysuT2",
-    "local_image": "assets/images/tgmsg_11860.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-10T09:52:16+00:00",
-    "buy_link": "https://myntr.in/XysuT2",
-    "date_iso": "2025-10-10T09:52:16+00:00"
   }
 ]
