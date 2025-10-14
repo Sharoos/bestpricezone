@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg12818",
+    "title": "Jewellery Up to 92% off",
+    "description": "Flipkart | Jewellery Upto 92% off https://fkrt.co/5RFNBl",
+    "shortlink": "https://fkrt.co/5RFNBl",
+    "urls": [
+      {
+        "url": "https://fkrt.co/5RFNBl",
+        "label": "Jewellery Upto 92% off"
+      }
+    ],
+    "raw_text": "Flipkart | Jewellery Upto 92% off \n\nhttps://fkrt.co/5RFNBl",
+    "final_url": "https://fkrt.co/5RFNBl",
+    "local_image": "assets/images/tgmsg_12818.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-14T04:05:08+00:00",
+    "buy_link": "https://fkrt.co/5RFNBl",
+    "date_iso": "2025-10-14T04:05:08+00:00"
+  },
+  {
+    "id": "msg12819",
+    "title": "Panasonic 9W LED Bulb, Pack Of 10 @389",
+    "description": "Amazon | Panasonic 9W LED Bulb, Pack Of 10 @389 https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
+        "label": "Panasonic 9W LED Bulb, Pack Of 10 @389"
+      }
+    ],
+    "raw_text": "Amazon | Panasonic 9W LED Bulb, Pack Of 10 @389\n\nhttps://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12819.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-14T04:15:48+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-14T04:15:48+00:00"
+  },
+  {
     "id": "msg12817",
     "title": "⚡️ Talking Cactus @ Rs 215",
     "description": "Flipkart | ⚡️ Talking Cactus @ Rs 215 ✅ https://fkrt.co/dfmaRe",
@@ -8386,57 +8426,5 @@
     "date_obj": "2025-10-11T05:16:59+00:00",
     "buy_link": "https://myntr.in/P1rinM",
     "date_iso": "2025-10-11T05:16:59+00:00"
-  },
-  {
-    "id": "msg12134",
-    "title": "From Rs.739",
-    "description": "From Rs.739 https://fkrt.co/IXUSYa",
-    "shortlink": "https://fkrt.co/IXUSYa",
-    "urls": [
-      {
-        "url": "https://fkrt.co/IXUSYa",
-        "label": "From Rs.739"
-      }
-    ],
-    "raw_text": "From Rs.739\n\nhttps://fkrt.co/IXUSYa",
-    "final_url": "https://fkrt.co/IXUSYa",
-    "local_image": "assets/images/tgmsg_12134.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-11T05:27:52+00:00",
-    "buy_link": "https://fkrt.co/IXUSYa",
-    "date_iso": "2025-10-11T05:27:52+00:00"
-  },
-  {
-    "id": "msg12132",
-    "title": "Jack & Jones Min 50% Off",
-    "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "shortlink": "https://ajiio.co/DuIjdO",
-    "urls": [
-      {
-        "url": "https://ajiio.co/DuIjdO",
-        "label": "🔥AJIO | Jeans & Shorts Under ₹499"
-      },
-      {
-        "url": "https://ajiio.co/pgDD76",
-        "label": "Performax Under ₹699"
-      },
-      {
-        "url": "https://ajiio.co/1QYNpl",
-        "label": "Jack & Jones Min 50% Off"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "🔥AJIO | Jeans & Shorts Under ₹499\n👉https://ajiio.co/DuIjdO\n\nPerformax Under ₹699\n👉https://ajiio.co/pgDD76\n\nJack & Jones Min 50% Off\n👉https://ajiio.co/1QYNpl\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/DuIjdO",
-    "local_image": "assets/images/tgmsg_12132.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-11T05:01:53+00:00",
-    "buy_link": "https://ajiio.co/DuIjdO",
-    "date_iso": "2025-10-11T05:01:53+00:00"
   }
 ]
