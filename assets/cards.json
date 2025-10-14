@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12864",
+    "title": "🔥 Offer Apply ₹750 & Flat ₹1,250 off With HDFC Credit Card",
+    "description": "Amazon | LG 185 L, 4 Star, Smart Inverter, Direct-Cool Single Door Refrigerator @ ₹13,490 🔥 Offer : Apply ₹750 Coupon & Flat ₹1,250 off With HDFC Credit Card 👉",
+    "shortlink": "https://www.amazon.in/LG-Direct-Cool-Inverter-Refrigerator-GL-B199OBEY/dp/B0D1VL4PS8?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/LG-Direct-Cool-Inverter-Refrigerator-GL-B199OBEY/dp/B0D1VL4PS8?th=1&language=en_IN&tag=bestpricezo0f-21",
+        "label": "LG 185 L, 4 Star, Smart Inverter, Direct-Cool Single Door Refrigerator @ ₹13,490"
+      }
+    ],
+    "raw_text": "Amazon | LG 185 L, 4 Star, Smart Inverter, Direct-Cool Single Door Refrigerator @ ₹13,490\n\n🔥 Offer : Apply ₹750 Coupon & Flat ₹1,250 off With HDFC Credit Card\n\n👉https://www.amazon.in/LG-Direct-Cool-Inverter-Refrigerator-GL-B199OBEY/dp/B0D1VL4PS8?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/LG-Direct-Cool-Inverter-Refrigerator-GL-B199OBEY/dp/B0D1VL4PS8?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12864.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-14T09:50:15+00:00",
+    "buy_link": "https://www.amazon.in/LG-Direct-Cool-Inverter-Refrigerator-GL-B199OBEY/dp/B0D1VL4PS8?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-14T09:50:15+00:00"
+  },
+  {
     "id": "msg12863",
     "title": "Min. 70% Off On Branded Luggage",
     "description": "Flipkart | Min. 70% Off On Branded Luggage. Master Link : https://fkrt.co/QUdV0J Small : https://fkrt.co/legU3M Medium : https://fkrt.co/VC30ZN Large : https://fkrt.co/nOFAZI Pack Of 2 : https://fkrt.co/Cmqfcu Pack Of 3…",
@@ -8470,33 +8490,5 @@
     "date_obj": "2025-10-11T11:31:17+00:00",
     "buy_link": "https://myntr.in/ezfuf5",
     "date_iso": "2025-10-11T11:31:17+00:00"
-  },
-  {
-    "id": "msg12188",
-    "title": "Sujata Juicer mixer at flat 45% off",
-    "description": "*Myntra Flash Deal* *Only for first 100 Customers* https://myntr.in/aoDeqa Sujata Juicer mixer at flat 45% off",
-    "shortlink": "https://myntr.in/aoDeqa",
-    "urls": [
-      {
-        "url": "",
-        "label": "Myntra Flash Deal*"
-      },
-      {
-        "url": "https://myntr.in/aoDeqa",
-        "label": "Only for first 100 Customers*"
-      },
-      {
-        "url": "",
-        "label": "Sujata Juicer mixer at flat 45% off"
-      }
-    ],
-    "raw_text": "*Myntra Flash Deal* \n\n *Only for first 100 Customers* \n\nhttps://myntr.in/aoDeqa\n\nSujata Juicer mixer at flat 45% off",
-    "final_url": "https://myntr.in/aoDeqa",
-    "local_image": "assets/images/tgmsg_12188.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-11T11:21:04+00:00",
-    "buy_link": "https://myntr.in/aoDeqa",
-    "date_iso": "2025-10-11T11:21:04+00:00"
   }
 ]
