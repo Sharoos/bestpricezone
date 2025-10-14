@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12839",
+    "title": "Single Bedsheets starting @ 159 only!",
+    "description": "Myntra | Single Bedsheets starting @ 159 only! 👉https://myntr.in/U0VL7s",
+    "shortlink": "https://myntr.in/U0VL7s",
+    "urls": [
+      {
+        "url": "https://myntr.in/U0VL7s",
+        "label": "Single Bedsheets starting @ 159 only!"
+      }
+    ],
+    "raw_text": "Myntra | Single Bedsheets starting @ 159 only!\n\n👉https://myntr.in/U0VL7s",
+    "final_url": "https://myntr.in/U0VL7s",
+    "local_image": "assets/images/tgmsg_12839.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-14T06:50:05+00:00",
+    "buy_link": "https://myntr.in/U0VL7s",
+    "date_iso": "2025-10-14T06:50:05+00:00"
+  },
+  {
     "id": "msg12833",
     "title": "Set of 8 Cushion Covers starting @ 539 only!",
     "description": "Myntra | Set of 8 Cushion Covers starting @ 539 only! 👉https://myntr.in/9C3PKO Set of 5 Cushion Covers starting @ 346 Only! 👉https://myntr.in/Duyxy7",
@@ -8470,53 +8490,5 @@
     "date_obj": "2025-10-11T08:09:45+00:00",
     "buy_link": "https://extp.in/txQDtu",
     "date_iso": "2025-10-11T08:09:45+00:00"
-  },
-  {
-    "id": "msg12159",
-    "title": "Snitch Men’s Cargo Trousers Starts @ 749",
-    "description": "Myntra : . 👉 Trousers from Rs.650 : Jeans : Tshirts : Shirts : Shackets : Sweatshirts : Jackets :",
-    "shortlink": "https://myntr.in/rDnQqL",
-    "urls": [
-      {
-        "url": "https://myntr.in/rDnQqL",
-        "label": "Snitch Men’s Cargo Trousers Starts @ 749"
-      },
-      {
-        "url": "https://myntr.in/8ZEJIQ",
-        "label": "Trousers from Rs.650"
-      },
-      {
-        "url": "https://myntr.in/mS9rWk",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://myntr.in/pZLmfu",
-        "label": "Tshirts"
-      },
-      {
-        "url": "https://myntr.in/sr6cpb",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://myntr.in/fhHguw",
-        "label": "Shackets"
-      },
-      {
-        "url": "https://myntr.in/Lv3eMO",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://myntr.in/jizZjz",
-        "label": "Jackets"
-      }
-    ],
-    "raw_text": "Myntra : Snitch Men’s Cargo Trousers Starts @ 749.\n\n👉https://myntr.in/rDnQqL\n\nTrousers from Rs.650 : \nhttps://myntr.in/8ZEJIQ\n\nJeans : https://myntr.in/mS9rWk\nTshirts : https://myntr.in/pZLmfu\nShirts : https://myntr.in/sr6cpb\nShackets : https://myntr.in/fhHguw\nSweatshirts : https://myntr.in/Lv3eMO\nJackets : https://myntr.in/jizZjz",
-    "final_url": "https://myntr.in/rDnQqL",
-    "local_image": "assets/images/tgmsg_12159.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-11T08:21:05+00:00",
-    "buy_link": "https://myntr.in/rDnQqL",
-    "date_iso": "2025-10-11T08:21:05+00:00"
   }
 ]
