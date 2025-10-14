@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12816",
+    "title": "Biotique Fruit Brightening Face Wash 200mlx2 @239",
+    "description": "Amazon | Biotique Fruit Brightening Face Wash 200mlx2 @239 https://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Biotique Fruit Brightening Face Wash 200mlx2 @239"
+      }
+    ],
+    "raw_text": "Amazon | Biotique Fruit Brightening Face Wash 200mlx2 @239 \n\nhttps://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12816.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-14T03:31:12+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-14T03:31:12+00:00"
+  },
+  {
     "id": "msg12814",
     "title": "Stayfree Sanitary Pads (Pack Of 120) @522",
     "description": "Amazon | Stayfree Sanitary Pads (Pack Of 120) @522 https://www.amazon.in/dp/B08645RXJ6?th=1&psc=1&tag=bestpricezo0f-21",
@@ -8446,25 +8466,5 @@
     "date_obj": "2025-10-11T04:45:51+00:00",
     "buy_link": "https://myntr.in/DWDHy1",
     "date_iso": "2025-10-11T04:45:51+00:00"
-  },
-  {
-    "id": "msg12128",
-    "title": "METRONAUT Laptop Backpack at RS.301",
-    "description": "Flipkart | METRONAUT Laptop Backpack at RS.301 https://fkrt.co/FRImXw",
-    "shortlink": "https://fkrt.co/FRImXw",
-    "urls": [
-      {
-        "url": "https://fkrt.co/FRImXw",
-        "label": "METRONAUT Laptop Backpack at RS.301"
-      }
-    ],
-    "raw_text": "Flipkart | METRONAUT Laptop Backpack at RS.301\n\nhttps://fkrt.co/FRImXw",
-    "final_url": "https://fkrt.co/FRImXw",
-    "local_image": "assets/images/tgmsg_12128.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-11T04:31:56+00:00",
-    "buy_link": "https://fkrt.co/FRImXw",
-    "date_iso": "2025-10-11T04:31:56+00:00"
   }
 ]
