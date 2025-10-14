@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg12859",
+    "title": "Apply ₹750 + ₹1299 Off With HDFC Credit Card",
+    "description": "Amazon | Godrej 7 Kg 5 Star Top Load Washing Machine @ 11,692. 👉 Apply ₹750 Coupon + ₹1299 Off With HDFC Credit Card.",
+    "shortlink": "https://www.amazon.in/dp/B0F3DBMCBQ?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0F3DBMCBQ?th=1&tag=bestpricezo0f-21",
+        "label": "Godrej 7 Kg 5 Star Top Load Washing Machine @ 11,692"
+      }
+    ],
+    "raw_text": "Amazon | Godrej 7 Kg 5 Star Top Load Washing Machine @ 11,692.\n\n👉https://www.amazon.in/dp/B0F3DBMCBQ?th=1&tag=bestpricezo0f-21\n\nApply ₹750 Coupon + ₹1299 Off With HDFC Credit Card.",
+    "final_url": "https://www.amazon.in/dp/B0F3DBMCBQ?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_12859.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-14T09:15:21+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F3DBMCBQ?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-14T09:15:21+00:00"
+  },
+  {
+    "id": "msg12861",
+    "title": "Jensons Inner SS Grocery Containers (Pack Of 3) From ₹268",
+    "description": "Flipkart | Jensons Inner SS Grocery Containers (Pack Of 3) From ₹268 👉https://fkrt.co/SDLPW6",
+    "shortlink": "https://fkrt.co/SDLPW6",
+    "urls": [
+      {
+        "url": "https://fkrt.co/SDLPW6",
+        "label": "Jensons Inner SS Grocery Containers (Pack Of 3) From ₹268"
+      }
+    ],
+    "raw_text": "Flipkart | Jensons Inner SS Grocery Containers (Pack Of 3) From ₹268\n\n👉https://fkrt.co/SDLPW6",
+    "final_url": "https://fkrt.co/SDLPW6",
+    "local_image": "assets/images/tgmsg_12861.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-14T09:32:52+00:00",
+    "buy_link": "https://fkrt.co/SDLPW6",
+    "date_iso": "2025-10-14T09:32:52+00:00"
+  },
+  {
     "id": "msg12858",
     "title": "Up to 80% Off On Aeropostale Men Clothing",
     "description": "Flipkart | Upto 80% Off On Aeropostale Men Clothing. Tshirts : Shirts : Winterwears : Jeans & Trousers :",
@@ -8438,57 +8478,5 @@
     "date_obj": "2025-10-11T11:05:21+00:00",
     "buy_link": "https://ajiio.co/fYFyRw",
     "date_iso": "2025-10-11T11:05:21+00:00"
-  },
-  {
-    "id": "msg12185",
-    "title": "🔥Mobile Accessories Start @₹119",
-    "description": "Flipkart |  Mobile Charger Start @199 👉 Data Cables Start @₹119 👉 Mobile Stand Start @₹149 👉",
-    "shortlink": "https://fkrt.co/usyEF7",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Mobile Accessories Start @₹119"
-      },
-      {
-        "url": "https://fkrt.co/usyEF7",
-        "label": "Mobile Charger Start @199"
-      },
-      {
-        "url": "https://fkrt.co/DiLIOM",
-        "label": "Data Cables Start @₹119"
-      },
-      {
-        "url": "https://fkrt.co/GI49Kz",
-        "label": "Mobile Stand Start @₹149"
-      }
-    ],
-    "raw_text": "Flipkart | 🔥Mobile Accessories Start @₹119\n\nMobile Charger Start @199\n👉https://fkrt.co/usyEF7\n\nData Cables Start @₹119\n👉https://fkrt.co/DiLIOM\n\nMobile Stand Start @₹149\n👉https://fkrt.co/GI49Kz",
-    "final_url": "https://fkrt.co/usyEF7",
-    "local_image": "assets/images/tgmsg_12185.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-11T11:11:06+00:00",
-    "buy_link": "https://fkrt.co/usyEF7",
-    "date_iso": "2025-10-11T11:11:06+00:00"
-  },
-  {
-    "id": "msg12183",
-    "title": "Beardo Perfume Starting from Rs.87",
-    "description": "Myntra | Beardo Perfume Starting from Rs.87 👉https://myntr.in/LR9IBV",
-    "shortlink": "https://myntr.in/LR9IBV",
-    "urls": [
-      {
-        "url": "https://myntr.in/LR9IBV",
-        "label": "Beardo Perfume Starting from Rs.87"
-      }
-    ],
-    "raw_text": "Myntra | Beardo Perfume Starting from Rs.87\n\n👉https://myntr.in/LR9IBV",
-    "final_url": "https://myntr.in/LR9IBV",
-    "local_image": "assets/images/tgmsg_12183.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-11T10:51:27+00:00",
-    "buy_link": "https://myntr.in/LR9IBV",
-    "date_iso": "2025-10-11T10:51:27+00:00"
   }
 ]
