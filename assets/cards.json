@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg12827",
+    "title": "Wow Grt 4 Pay For 2 Only 🎉🎉",
+    "description": "Wow: Grt 4 Pay For 2 Only 🎉🎉 USE CODE: CKG4P2 https://bitli.in/k8KtWZh",
+    "shortlink": "https://bitli.in/k8KtWZh",
+    "urls": [
+      {
+        "url": "",
+        "label": "Grt 4 Pay For 2 Only 🎉🎉"
+      },
+      {
+        "url": "https://bitli.in/k8KtWZh",
+        "label": "CKG4P2"
+      }
+    ],
+    "raw_text": "Wow: Grt 4 Pay For 2 Only 🎉🎉\n\nUSE CODE: CKG4P2\n\nhttps://bitli.in/k8KtWZh",
+    "final_url": "https://bitli.in/k8KtWZh",
+    "local_image": "assets/images/tgmsg_12827.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-10-14T05:35:25+00:00",
+    "buy_link": "https://bitli.in/k8KtWZh",
+    "date_iso": "2025-10-14T05:35:25+00:00"
+  },
+  {
     "id": "msg12824",
     "title": "64% off HAVELLS Trimme",
     "description": "Amazon | 64% off : HAVELLS Trimmer https://fkrt.co/S5GVzM",
@@ -8426,25 +8450,5 @@
     "date_obj": "2025-10-11T06:16:50+00:00",
     "buy_link": "https://ajiio.co/JIfZZI",
     "date_iso": "2025-10-11T06:16:50+00:00"
-  },
-  {
-    "id": "msg12145",
-    "title": "🔥Up to 75% Off On Renee Product",
-    "description": "🔥Myntra | Upto 75% Off On Renee Products. 👉https://myntr.in/fmWO2J",
-    "shortlink": "https://myntr.in/fmWO2J",
-    "urls": [
-      {
-        "url": "https://myntr.in/fmWO2J",
-        "label": "🔥Myntra | Upto 75% Off On Renee Products"
-      }
-    ],
-    "raw_text": "🔥Myntra | Upto 75% Off On Renee Products. \n\n👉https://myntr.in/fmWO2J",
-    "final_url": "https://myntr.in/fmWO2J",
-    "local_image": "assets/images/tgmsg_12145.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-11T06:31:57+00:00",
-    "buy_link": "https://myntr.in/fmWO2J",
-    "date_iso": "2025-10-11T06:31:57+00:00"
   }
 ]
