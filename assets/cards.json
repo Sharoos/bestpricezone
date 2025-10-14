@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg12821",
+    "title": "Doormats & Curtains Starts @99",
+    "description": "Myntra : Doormats & Curtains Starts @99. 👉https://myntr.in/SUrb4E",
+    "shortlink": "https://myntr.in/SUrb4E",
+    "urls": [
+      {
+        "url": "https://myntr.in/SUrb4E",
+        "label": "Doormats & Curtains Starts @99"
+      }
+    ],
+    "raw_text": "Myntra : Doormats & Curtains Starts @99.\n\n👉https://myntr.in/SUrb4E",
+    "final_url": "https://myntr.in/SUrb4E",
+    "local_image": "assets/images/tgmsg_12821.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-14T04:46:00+00:00",
+    "buy_link": "https://myntr.in/SUrb4E",
+    "date_iso": "2025-10-14T04:46:00+00:00"
+  },
+  {
     "id": "msg12820",
     "title": "John Players Clothing Up to 80% Off",
     "description": "AJIO : John Players Clothing Upto 80% Off Jeans – Shirts – T-Shirts – Trousers – Sweatshirts – Sweaters – Jackets – Waistcoats & Blazers –",
@@ -8434,29 +8454,5 @@
     "date_obj": "2025-10-11T05:50:14+00:00",
     "buy_link": "https://myntr.in/zvTjoq",
     "date_iso": "2025-10-11T05:50:14+00:00"
-  },
-  {
-    "id": "msg12135",
-    "title": "French Connection Men's Trousers Up to 77% Off From Rs.839",
-    "description": "Flipkart | French Connection Men's Trousers upto 77% Off From Rs.839 - French Connection Men's T Shirts upto 81% Off From Rs.287 -",
-    "shortlink": "https://fkrt.co/wfETIF",
-    "urls": [
-      {
-        "url": "https://fkrt.co/wfETIF",
-        "label": "French Connection Men's Trousers upto 77% Off From Rs.839"
-      },
-      {
-        "url": "https://fkrt.co/kFtXfV",
-        "label": "French Connection Men's T Shirts upto 81% Off From Rs.287"
-      }
-    ],
-    "raw_text": "Flipkart | French Connection Men's Trousers upto 77% Off From Rs.839\n\n-  https://fkrt.co/wfETIF\n\nFrench Connection Men's T Shirts upto 81% Off From Rs.287\n\n-  https://fkrt.co/kFtXfV",
-    "final_url": "https://fkrt.co/wfETIF",
-    "local_image": "assets/images/tgmsg_12135.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-11T05:31:57+00:00",
-    "buy_link": "https://fkrt.co/wfETIF",
-    "date_iso": "2025-10-11T05:31:57+00:00"
   }
 ]
