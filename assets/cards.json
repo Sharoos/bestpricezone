@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg12951",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
+    "description": "Ajio | 👟 Reebok Men's Shoes – Starts at ₹900 👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/2q7Yc2",
+    "urls": [
+      {
+        "url": "https://ajiio.co/2q7Yc2",
+        "label": "👟 Reebok Men's Shoes – Starts at ₹900"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "Ajio | 👟 Reebok Men's Shoes – Starts at ₹900\n\n👉 https://ajiio.co/2q7Yc2\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/2q7Yc2",
+    "local_image": "assets/images/tgmsg_12951.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-14T17:45:33+00:00",
+    "buy_link": "https://ajiio.co/2q7Yc2",
+    "date_iso": "2025-10-14T17:45:33+00:00"
+  },
+  {
     "id": "msg12947",
     "title": "Carbamide Forte Multivitamin Tablets ( 120 Tablets ) @748",
     "description": "Carbamide Forte Multivitamin Tablets ( 120 Tablets ) @748 https://www.amazon.in/dp/B08H2G218F?tag=bestpricezo0f-21",
@@ -8566,29 +8590,5 @@
     "date_obj": "2025-10-11T16:52:56+00:00",
     "buy_link": "https://www.amazon.in/s?k=perfume+for+man&rh=p_78%3AB0CMQMBNBC%257CB096XV4HR4%257CB08NX1V7MC%257CB0DHVRFN8V%257CB0CWTLT42P%257CB0F6KFKSNJ%257CB0DR32JSJB%257CB0CS6QTK3X%257CB0F5GRJ4FW%257CB0F6KDYQMH%257CB0C7H654GN%257CB0DSFR17V8&tag=bestpricezo0f-21",
     "date_iso": "2025-10-11T16:52:56+00:00"
-  },
-  {
-    "id": "msg12294",
-    "title": "Up to 70% Off on Women Kurta Suit Sets Starting @ Just ₹270",
-    "description": "Ajio | Upto 70% Off on Women Kurta Suit Sets Starting @ Just ₹270 👉 Link : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "shortlink": "https://ajiio.co/kBMEgI",
-    "urls": [
-      {
-        "url": "https://ajiio.co/kBMEgI",
-        "label": "Upto 70% Off on Women Kurta Suit Sets Starting @ Just ₹270"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "Ajio | Upto 70% Off on Women Kurta Suit Sets Starting @ Just ₹270\n  \n👉 Link : https://ajiio.co/kBMEgI\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/kBMEgI",
-    "local_image": "assets/images/tgmsg_12294.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-11T16:54:06+00:00",
-    "buy_link": "https://ajiio.co/kBMEgI",
-    "date_iso": "2025-10-11T16:54:06+00:00"
   }
 ]
