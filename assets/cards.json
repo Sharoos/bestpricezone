@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg12824",
+    "title": "64% off HAVELLS Trimme",
+    "description": "Amazon | 64% off : HAVELLS Trimmer https://fkrt.co/S5GVzM",
+    "shortlink": "https://fkrt.co/S5GVzM",
+    "urls": [
+      {
+        "url": "https://fkrt.co/S5GVzM",
+        "label": "64% off : HAVELLS Trimmer"
+      }
+    ],
+    "raw_text": "Amazon | 64% off : HAVELLS Trimmer \n\n https://fkrt.co/S5GVzM",
+    "final_url": "https://fkrt.co/S5GVzM",
+    "local_image": "assets/images/tgmsg_12824.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-14T05:23:01+00:00",
+    "buy_link": "https://fkrt.co/S5GVzM",
+    "date_iso": "2025-10-14T05:23:01+00:00"
+  },
+  {
+    "id": "msg12826",
+    "title": "Kenstar Grill Sandwich Maker @ 739",
+    "description": "Flipkart | Kenstar Grill Sandwich Maker @ 739. 👉https://fkrt.co/fdmZE0",
+    "shortlink": "https://fkrt.co/fdmZE0",
+    "urls": [
+      {
+        "url": "https://fkrt.co/fdmZE0",
+        "label": "Kenstar Grill Sandwich Maker @ 739"
+      }
+    ],
+    "raw_text": "Flipkart | Kenstar Grill Sandwich Maker @ 739.\n\n👉https://fkrt.co/fdmZE0",
+    "final_url": "https://fkrt.co/fdmZE0",
+    "local_image": "assets/images/tgmsg_12826.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-14T05:29:03+00:00",
+    "buy_link": "https://fkrt.co/fdmZE0",
+    "date_iso": "2025-10-14T05:29:03+00:00"
+  },
+  {
     "id": "msg12822",
     "title": "Peter England Mens Tshirt @439",
     "description": "Amazon | Peter England Mens Tshirt @439 https://www.amazon.in/dp/B09XMTLR2K?th=1&psc=1&tag=bestpricezo0f-21 Van Heusen Mens Tshirt @599 https://www.amazon.in/dp/B0F6YQBDYT?tag=bestpricezo0f-21",
@@ -8406,49 +8446,5 @@
     "date_obj": "2025-10-11T06:31:57+00:00",
     "buy_link": "https://myntr.in/fmWO2J",
     "date_iso": "2025-10-11T06:31:57+00:00"
-  },
-  {
-    "id": "msg12138",
-    "title": "Redtape Footwear Up to 88% off",
-    "description": "Flipkart | Redtape Footwear upto 88% off 👉https://fkrt.co/aFibkk",
-    "shortlink": "https://fkrt.co/aFibkk",
-    "urls": [
-      {
-        "url": "https://fkrt.co/aFibkk",
-        "label": "Redtape Footwear upto 88% off"
-      }
-    ],
-    "raw_text": "Flipkart | Redtape Footwear upto 88% off\n\n👉https://fkrt.co/aFibkk",
-    "final_url": "https://fkrt.co/aFibkk",
-    "local_image": "assets/images/tgmsg_12138.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-11T06:01:54+00:00",
-    "buy_link": "https://fkrt.co/aFibkk",
-    "date_iso": "2025-10-11T06:01:54+00:00"
-  },
-  {
-    "id": "msg12136",
-    "title": "Up to 78% Off on Co",
-    "description": "Ajio | Upto 78% Off on Co-Ord Sets Starting @ just ₹264 Link : + 10% EXTRA AJIO CASHBACK",
-    "shortlink": "https://ajiio.co/9vg5KM",
-    "urls": [
-      {
-        "url": "https://ajiio.co/9vg5KM",
-        "label": "Upto 78% Off on Co-Ord Sets Starting @ just ₹264"
-      },
-      {
-        "url": "",
-        "label": "+ 10% EXTRA AJIO CASHBACK"
-      }
-    ],
-    "raw_text": "Ajio | Upto 78% Off on Co-Ord Sets Starting @ just ₹264\n \nLink : https://ajiio.co/9vg5KM\n\n+ 10% EXTRA AJIO CASHBACK",
-    "final_url": "https://ajiio.co/9vg5KM",
-    "local_image": "assets/images/tgmsg_12136.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-11T05:46:55+00:00",
-    "buy_link": "https://ajiio.co/9vg5KM",
-    "date_iso": "2025-10-11T05:46:55+00:00"
   }
 ]
