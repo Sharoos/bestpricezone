@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg12820",
+    "title": "John Players Clothing Up to 80% Off",
+    "description": "AJIO : John Players Clothing Upto 80% Off Jeans – Shirts – T-Shirts – Trousers – Sweatshirts – Sweaters – Jackets – Waistcoats & Blazers –",
+    "shortlink": "https://ajiio.co/igMxdj",
+    "urls": [
+      {
+        "url": "",
+        "label": "John Players Clothing Upto 80% Off"
+      },
+      {
+        "url": "https://ajiio.co/igMxdj",
+        "label": "Jeans –"
+      },
+      {
+        "url": "https://ajiio.co/8PeCwZ",
+        "label": "Shirts –"
+      },
+      {
+        "url": "https://ajiio.co/ndVtHx",
+        "label": "T-Shirts –"
+      },
+      {
+        "url": "https://ajiio.co/viwl4E",
+        "label": "Trousers –"
+      },
+      {
+        "url": "https://ajiio.co/iffr1e",
+        "label": "Sweatshirts –"
+      },
+      {
+        "url": "https://ajiio.co/SJWsV8",
+        "label": "Sweaters –"
+      },
+      {
+        "url": "https://ajiio.co/hHzUZr",
+        "label": "Jackets –"
+      },
+      {
+        "url": "https://ajiio.co/B0vPzj",
+        "label": "Waistcoats & Blazers –"
+      }
+    ],
+    "raw_text": "AJIO : John Players Clothing Upto 80% Off\n\nJeans – https://ajiio.co/igMxdj\nShirts – https://ajiio.co/8PeCwZ\nT-Shirts – https://ajiio.co/ndVtHx\nTrousers – https://ajiio.co/viwl4E\nSweatshirts – https://ajiio.co/iffr1e\nSweaters – https://ajiio.co/SJWsV8\nJackets – https://ajiio.co/hHzUZr\nWaistcoats & Blazers – https://ajiio.co/B0vPzj",
+    "final_url": "https://ajiio.co/igMxdj",
+    "local_image": "assets/images/tgmsg_12820.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-14T04:34:40+00:00",
+    "buy_link": "https://ajiio.co/igMxdj",
+    "date_iso": "2025-10-14T04:34:40+00:00"
+  },
+  {
     "id": "msg12818",
     "title": "Jewellery Up to 92% off",
     "description": "Flipkart | Jewellery Upto 92% off https://fkrt.co/5RFNBl",
@@ -8406,25 +8458,5 @@
     "date_obj": "2025-10-11T05:31:57+00:00",
     "buy_link": "https://fkrt.co/wfETIF",
     "date_iso": "2025-10-11T05:31:57+00:00"
-  },
-  {
-    "id": "msg12133",
-    "title": "Curtain Sets starting @223",
-    "description": "Myntra | Curtain Sets starting @223 👉Link : https://myntr.in/P1rinM",
-    "shortlink": "https://myntr.in/P1rinM",
-    "urls": [
-      {
-        "url": "https://myntr.in/P1rinM",
-        "label": "Curtain Sets starting @223"
-      }
-    ],
-    "raw_text": "Myntra | Curtain Sets starting @223\n\n👉Link : https://myntr.in/P1rinM",
-    "final_url": "https://myntr.in/P1rinM",
-    "local_image": "assets/images/tgmsg_12133.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-11T05:16:59+00:00",
-    "buy_link": "https://myntr.in/P1rinM",
-    "date_iso": "2025-10-11T05:16:59+00:00"
   }
 ]
