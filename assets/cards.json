@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg12863",
+    "title": "Min. 70% Off On Branded Luggage",
+    "description": "Flipkart | Min. 70% Off On Branded Luggage. Master Link : https://fkrt.co/QUdV0J Small : https://fkrt.co/legU3M Medium : https://fkrt.co/VC30ZN Large : https://fkrt.co/nOFAZI Pack Of 2 : https://fkrt.co/Cmqfcu Pack Of 3…",
+    "shortlink": "https://fkrt.co/QUdV0J",
+    "urls": [
+      {
+        "url": "",
+        "label": "Min. 70% Off On Branded Luggage"
+      },
+      {
+        "url": "https://fkrt.co/QUdV0J",
+        "label": "Master"
+      },
+      {
+        "url": "https://fkrt.co/legU3M",
+        "label": "Small"
+      },
+      {
+        "url": "https://fkrt.co/VC30ZN",
+        "label": "Medium"
+      },
+      {
+        "url": "https://fkrt.co/nOFAZI",
+        "label": "Large"
+      },
+      {
+        "url": "https://fkrt.co/Cmqfcu",
+        "label": "Pack Of 2"
+      },
+      {
+        "url": "https://fkrt.co/SkMzn5",
+        "label": "Pack Of 3"
+      }
+    ],
+    "raw_text": "Flipkart | Min. 70% Off On Branded Luggage.\n\nMaster Link : https://fkrt.co/QUdV0J\n\nSmall : https://fkrt.co/legU3M\nMedium : https://fkrt.co/VC30ZN\nLarge : https://fkrt.co/nOFAZI\n\nPack Of 2 : https://fkrt.co/Cmqfcu\nPack Of 3 : https://fkrt.co/SkMzn5",
+    "final_url": "https://fkrt.co/QUdV0J",
+    "local_image": "assets/images/tgmsg_12863.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-14T09:40:16+00:00",
+    "buy_link": "https://fkrt.co/QUdV0J",
+    "date_iso": "2025-10-14T09:40:16+00:00"
+  },
+  {
     "id": "msg12859",
     "title": "Apply ₹750 + ₹1299 Off With HDFC Credit Card",
     "description": "Amazon | Godrej 7 Kg 5 Star Top Load Washing Machine @ 11,692. 👉 Apply ₹750 Coupon + ₹1299 Off With HDFC Credit Card.",
@@ -8454,29 +8498,5 @@
     "date_obj": "2025-10-11T11:21:04+00:00",
     "buy_link": "https://myntr.in/aoDeqa",
     "date_iso": "2025-10-11T11:21:04+00:00"
-  },
-  {
-    "id": "msg12184",
-    "title": "+ 10% SUPERCASH",
-    "description": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 102🔥 🔗🔗Link : + 10% AJIO SUPERCASH",
-    "shortlink": "https://ajiio.co/fYFyRw",
-    "urls": [
-      {
-        "url": "https://ajiio.co/fYFyRw",
-        "label": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 102🔥"
-      },
-      {
-        "url": "",
-        "label": "+ 10% AJIO SUPERCASH"
-      }
-    ],
-    "raw_text": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 102🔥 \n \n🔗🔗Link : https://ajiio.co/fYFyRw\n\n+ 10% AJIO SUPERCASH",
-    "final_url": "https://ajiio.co/fYFyRw",
-    "local_image": "assets/images/tgmsg_12184.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-11T11:05:21+00:00",
-    "buy_link": "https://ajiio.co/fYFyRw",
-    "date_iso": "2025-10-11T11:05:21+00:00"
   }
 ]
