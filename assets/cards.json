@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg13166",
+    "title": "Allen solly Min 40% + Extra 20%",
+    "description": "Ajio | Allen solly  Min 40% + Extra 20% https://ajiio.co/KVtOXE Jack & Jones Min 60% https://ajiio.co/ruzXLf",
+    "shortlink": "https://ajiio.co/KVtOXE",
+    "urls": [
+      {
+        "url": "https://ajiio.co/KVtOXE",
+        "label": "Allen solly Min 40% + Extra 20%"
+      },
+      {
+        "url": "https://ajiio.co/ruzXLf",
+        "label": "Jack & Jones Min 60%"
+      }
+    ],
+    "raw_text": "Ajio | Allen solly  Min 40% + Extra 20%\nhttps://ajiio.co/KVtOXE\n\nJack & Jones Min 60%\nhttps://ajiio.co/ruzXLf",
+    "final_url": "https://ajiio.co/KVtOXE",
+    "local_image": "assets/images/tgmsg_13166.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-15T17:21:39+00:00",
+    "buy_link": "https://ajiio.co/KVtOXE",
+    "date_iso": "2025-10-15T17:21:39+00:00"
+  },
+  {
+    "id": "msg13167",
+    "title": "Apply 11% Off",
+    "description": "90% off: Fire-Boltt Phoenix Ultra Smart Watch @ 1143 https://www.amazon.in/dp/B0BY2PWDFQ?tag=bestpricezo0f-21 Apply 11% Off Coupon",
+    "shortlink": "https://www.amazon.in/dp/B0BY2PWDFQ?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0BY2PWDFQ?tag=bestpricezo0f-21",
+        "label": "90% off: Fire-Boltt Phoenix Ultra Smart Watch @ 1143"
+      }
+    ],
+    "raw_text": "90% off: Fire-Boltt Phoenix Ultra Smart Watch @ 1143\n\nhttps://www.amazon.in/dp/B0BY2PWDFQ?tag=bestpricezo0f-21\n\nApply 11% Off Coupon",
+    "final_url": "https://www.amazon.in/dp/B0BY2PWDFQ?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13167.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-15T17:30:28+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0BY2PWDFQ?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-15T17:30:28+00:00"
+  },
+  {
     "id": "msg13164",
     "title": "Peter England Min 40% + Extra 10%",
     "description": "Ajio | Peter England Min 40% + Extra 10% https://ajiio.co/b0xQSK LP Min 40% + extra 20% https://ajiio.co/kz5jx0",
@@ -8886,77 +8930,5 @@
     "date_obj": "2025-10-13T07:15:20+00:00",
     "buy_link": "https://www.amazon.in/s?k=boat&i=electronics&rh=n%253A5605728031%252Cp_89%253AboAt%252Cp_n_condition-type%253A8609960031%252Cp_n_pct-off-with-tax%253A27060457031&s=price-asc-rank&tag=bestpricezo0f-21",
     "date_iso": "2025-10-13T07:15:20+00:00"
-  },
-  {
-    "id": "msg12696",
-    "title": "Up to 66% Off On Hair Care",
-    "description": "Myntra : Upto 66% Off On Hair Care. Dove : Tresemme : LOréal Paris : Pantene : Head & Shoulders : Clinic Plus :",
-    "shortlink": "https://myntr.in/FinHmf",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 66% Off On Hair Care"
-      },
-      {
-        "url": "https://myntr.in/FinHmf",
-        "label": "Dove"
-      },
-      {
-        "url": "https://myntr.in/93vvPk",
-        "label": "Tresemme"
-      },
-      {
-        "url": "https://myntr.in/aDCxh9",
-        "label": "LOréal Paris"
-      },
-      {
-        "url": "https://myntr.in/u10NJe",
-        "label": "Pantene"
-      },
-      {
-        "url": "https://myntr.in/R20D7h",
-        "label": "Head & Shoulders"
-      },
-      {
-        "url": "https://myntr.in/fK3VR5",
-        "label": "Clinic Plus"
-      }
-    ],
-    "raw_text": "Myntra : Upto 66% Off On Hair Care.\n\nDove : https://myntr.in/FinHmf\nTresemme : https://myntr.in/93vvPk\nLOréal Paris : https://myntr.in/aDCxh9\nPantene : https://myntr.in/u10NJe\nHead & Shoulders : https://myntr.in/R20D7h\nClinic Plus : https://myntr.in/fK3VR5",
-    "final_url": "https://myntr.in/FinHmf",
-    "local_image": "assets/images/tgmsg_12696.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-13T06:45:17+00:00",
-    "buy_link": "https://myntr.in/FinHmf",
-    "date_iso": "2025-10-13T06:45:17+00:00"
-  },
-  {
-    "id": "msg12692",
-    "title": "Kurta & Kurtis Starts ₹199",
-    "description": "Myntra : Kurta & Kurtis Starts ₹199. Women : https://myntr.in/asOyNy Men : https://myntr.in/JWUn4O",
-    "shortlink": "https://myntr.in/asOyNy",
-    "urls": [
-      {
-        "url": "",
-        "label": "Kurta & Kurtis Starts ₹199"
-      },
-      {
-        "url": "https://myntr.in/asOyNy",
-        "label": "Women"
-      },
-      {
-        "url": "https://myntr.in/JWUn4O",
-        "label": "Men"
-      }
-    ],
-    "raw_text": "Myntra : Kurta & Kurtis Starts ₹199.\n\nWomen : https://myntr.in/asOyNy\nMen : https://myntr.in/JWUn4O",
-    "final_url": "https://myntr.in/asOyNy",
-    "local_image": "assets/images/tgmsg_12692.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-13T06:09:03+00:00",
-    "buy_link": "https://myntr.in/asOyNy",
-    "date_iso": "2025-10-13T06:09:03+00:00"
   }
 ]
