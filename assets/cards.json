@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg13087",
+    "title": "+ 10% EXTRA CASH",
+    "description": "AJIO  Cargo Pants Starts at 240. Men : https://ajiio.co/u3rBOU Women : https://ajiio.co/Zghwb2 + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/u3rBOU",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Cargo Pants Starts at 240"
+      },
+      {
+        "url": "https://ajiio.co/u3rBOU",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/Zghwb2",
+        "label": "Women"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO  Cargo Pants Starts at 240. \n \nMen : https://ajiio.co/u3rBOU \nWomen : https://ajiio.co/Zghwb2\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/u3rBOU",
+    "local_image": "assets/images/tgmsg_13087.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-15T10:50:05+00:00",
+    "buy_link": "https://ajiio.co/u3rBOU",
+    "date_iso": "2025-10-15T10:50:05+00:00"
+  },
+  {
     "id": "msg13085",
     "title": "Up to 75% Off On Wildcraft Clothing",
     "description": "Flipkart | Upto 75% Off On Wildcraft Clothing https://fkrt.co/NeVsfP FILA Clothing : https://fkrt.co/ZCVVAc Numero Uno : https://fkrt.co/sEO74v",
@@ -8702,29 +8734,5 @@
     "date_obj": "2025-10-12T13:20:19+00:00",
     "buy_link": "https://fkrt.co/Xe8ceG",
     "date_iso": "2025-10-12T13:20:19+00:00"
-  },
-  {
-    "id": "msg12525",
-    "title": "smartbuy,perfect homes & more",
-    "description": "Deals On Furnishing Range https://fkrt.co/Rwr5QG Flipkart smartbuy,Flipkart perfect homes & more",
-    "shortlink": "https://fkrt.co/Rwr5QG",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Rwr5QG",
-        "label": "Deals On Furnishing Range"
-      },
-      {
-        "url": "",
-        "label": "Flipkart smartbuy,Flipkart perfect homes & more"
-      }
-    ],
-    "raw_text": "Deals On Furnishing Range \n\nhttps://fkrt.co/Rwr5QG\n\nFlipkart smartbuy,Flipkart perfect homes & more",
-    "final_url": "https://fkrt.co/Rwr5QG",
-    "local_image": "assets/images/tgmsg_12525.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-12T13:27:16+00:00",
-    "buy_link": "https://fkrt.co/Rwr5QG",
-    "date_iso": "2025-10-12T13:27:16+00:00"
   }
 ]
