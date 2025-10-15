@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13135",
+    "title": "Rare rabbit & Rareism min 50% + Extra 10%",
+    "description": "Ajio | Trends Footwear Min 70% https://ajiio.co/n0wUL2 Rare rabbit & Rareism min 50% + Extra 10% https://ajiio.co/dVe7lL",
+    "shortlink": "https://ajiio.co/n0wUL2",
+    "urls": [
+      {
+        "url": "https://ajiio.co/n0wUL2",
+        "label": "Trends Footwear Min 70%"
+      },
+      {
+        "url": "https://ajiio.co/dVe7lL",
+        "label": "Rare rabbit & Rareism min 50% + Extra 10%"
+      }
+    ],
+    "raw_text": "Ajio | Trends Footwear Min 70%\nhttps://ajiio.co/n0wUL2\n\nRare rabbit & Rareism min 50% + Extra 10%\nhttps://ajiio.co/dVe7lL",
+    "final_url": "https://ajiio.co/n0wUL2",
+    "local_image": "assets/images/tgmsg_13135.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-15T15:22:15+00:00",
+    "buy_link": "https://ajiio.co/n0wUL2",
+    "date_iso": "2025-10-15T15:22:15+00:00"
+  },
+  {
     "id": "msg13129",
     "title": "Eye boggler, Bullmer, Jump cuts Min 75%",
     "description": "Ajio | Eye boggler, Bullmer, Jump cuts Min 75% https://ajiio.co/vFJFYy Cantabil, Urbano, Bene kleed Min 70% https://ajiio.co/guhdBZ",
@@ -8854,49 +8878,5 @@
     "date_obj": "2025-10-13T03:31:09+00:00",
     "buy_link": "https://myntr.in/1LzgzD",
     "date_iso": "2025-10-13T03:31:09+00:00"
-  },
-  {
-    "id": "msg12679",
-    "title": "Up to 85% Off On Branded Backpacks Starting @ ₹ 329",
-    "description": "Flipkart | Upto 85% Off On Branded Backpacks Starting @ ₹ 329 Skybags : Safari : Wildcraft : Gear : Lavie : American Tourister :",
-    "shortlink": "https://fkrt.co/HajhnU",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On Branded Backpacks Starting @ ₹ 329"
-      },
-      {
-        "url": "https://fkrt.co/HajhnU",
-        "label": "Skybags"
-      },
-      {
-        "url": "https://fkrt.co/E04AJj",
-        "label": "Safari"
-      },
-      {
-        "url": "https://fkrt.co/xz4H1O",
-        "label": "Wildcraft"
-      },
-      {
-        "url": "https://fkrt.co/vIJPBI",
-        "label": "Gear"
-      },
-      {
-        "url": "https://fkrt.co/1ix1J4",
-        "label": "Lavie"
-      },
-      {
-        "url": "https://fkrt.co/CgYhQj",
-        "label": "American Tourister"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 85% Off On Branded Backpacks Starting @ ₹ 329\n\nSkybags :https://fkrt.co/HajhnU\nSafari :https://fkrt.co/E04AJj \nWildcraft :https://fkrt.co/xz4H1O\nGear :https://fkrt.co/vIJPBI\nLavie :https://fkrt.co/1ix1J4\nAmerican Tourister :https://fkrt.co/CgYhQj",
-    "final_url": "https://fkrt.co/HajhnU",
-    "local_image": "assets/images/tgmsg_12679.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-13T03:45:40+00:00",
-    "buy_link": "https://fkrt.co/HajhnU",
-    "date_iso": "2025-10-13T03:45:40+00:00"
   }
 ]
