@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg13077",
+    "title": "Cargo Pants Starts at 240",
+    "description": "AJIO Loot : Cargo Pants Starts at 240. Men : https://ajiio.in/lhJQhTK Women : https://ajiio.in/g6jcb36 + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.in/lhJQhTK",
+    "urls": [
+      {
+        "url": "",
+        "label": "Cargo Pants Starts at 240"
+      },
+      {
+        "url": "https://ajiio.in/lhJQhTK",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.in/g6jcb36",
+        "label": "Women"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO Loot : Cargo Pants Starts at 240. \n \nMen : https://ajiio.in/lhJQhTK \nWomen : https://ajiio.in/g6jcb36\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.in/lhJQhTK",
+    "local_image": "assets/images/tgmsg_13077.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-15T09:40:34+00:00",
+    "buy_link": "https://ajiio.in/lhJQhTK",
+    "date_iso": "2025-10-15T09:40:34+00:00"
+  },
+  {
     "id": "msg13076",
     "title": "Swiss Beauty Diwali Sale Any 4 Products at ₹999",
     "description": "Swiss Beauty Diwali Sale : Buy Any 4 Products at ₹999. 👉Link : ✅ Use Code : BUY4 Extra 5% Off on Prepaid Orders.",
@@ -8642,25 +8674,5 @@
     "date_obj": "2025-10-12T12:33:53+00:00",
     "buy_link": "https://extp.in/0zFbQJ",
     "date_iso": "2025-10-12T12:33:53+00:00"
-  },
-  {
-    "id": "msg12519",
-    "title": "KUHL BLDC Fans Up to 70% Off",
-    "description": "Flipkart | KUHL BLDC Fans Upto 70% Off 👉https://fkrt.co/7tuLGt Lowest 👌",
-    "shortlink": "https://fkrt.co/7tuLGt",
-    "urls": [
-      {
-        "url": "https://fkrt.co/7tuLGt",
-        "label": "KUHL BLDC Fans Upto 70% Off"
-      }
-    ],
-    "raw_text": "Flipkart | KUHL BLDC Fans Upto 70% Off\n\n👉https://fkrt.co/7tuLGt\n\nLowest 👌",
-    "final_url": "https://fkrt.co/7tuLGt",
-    "local_image": "assets/images/tgmsg_12519.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-12T12:43:20+00:00",
-    "buy_link": "https://fkrt.co/7tuLGt",
-    "date_iso": "2025-10-12T12:43:20+00:00"
   }
 ]
