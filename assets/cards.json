@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13127",
+    "title": "Buda jenas Flat 70%",
+    "description": "Ajio | Buda jenas Flat 70% https://ajiio.co/ltkl3G Ethnic Collection Min 70% Indie picks, nyrika & more https://ajiio.co/Zl3ZJh",
+    "shortlink": "https://ajiio.co/ltkl3G",
+    "urls": [
+      {
+        "url": "https://ajiio.co/ltkl3G",
+        "label": "Buda jenas Flat 70%"
+      },
+      {
+        "url": "https://ajiio.co/Zl3ZJh",
+        "label": "Ethnic Collection Min 70% Indie picks, nyrika & more"
+      }
+    ],
+    "raw_text": "Ajio | Buda jenas Flat 70%\nhttps://ajiio.co/ltkl3G\n\nEthnic Collection Min 70% Indie picks, nyrika & more\nhttps://ajiio.co/Zl3ZJh",
+    "final_url": "https://ajiio.co/ltkl3G",
+    "local_image": "assets/images/tgmsg_13127.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-15T14:51:35+00:00",
+    "buy_link": "https://ajiio.co/ltkl3G",
+    "date_iso": "2025-10-15T14:51:35+00:00"
+  },
+  {
     "id": "msg13125",
     "title": "Trends Under 399 ( Teamspirit, DNMX & More)",
     "description": "Ajio | Trends Under 399 ( Teamspirit, DNMX & More) https://ajiio.co/iqz2la Azorte Flat 70% https://ajiio.co/ak0TuJ",
@@ -8870,25 +8894,5 @@
     "date_obj": "2025-10-12T19:47:11+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F3JHNGJ4?smid=A2GTG1HPYW8M2P&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-12T19:47:11+00:00"
-  },
-  {
-    "id": "msg12673",
-    "title": "Fast ₹399",
-    "description": "Fast ₹399. https://fkrt.co/5ITQzQ",
-    "shortlink": "https://fkrt.co/5ITQzQ",
-    "urls": [
-      {
-        "url": "https://fkrt.co/5ITQzQ",
-        "label": "Fast ₹399"
-      }
-    ],
-    "raw_text": "Fast ₹399.\n\nhttps://fkrt.co/5ITQzQ",
-    "final_url": "https://fkrt.co/5ITQzQ",
-    "local_image": "assets/images/tgmsg_12673.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-12T19:36:09+00:00",
-    "buy_link": "https://fkrt.co/5ITQzQ",
-    "date_iso": "2025-10-12T19:36:09+00:00"
   }
 ]
