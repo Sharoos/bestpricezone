@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13068",
+    "title": "boAt Calling Smartwatch From ₹949",
+    "description": "Flipkart | boAt Calling Smartwatch From ₹949 👉https://fkrt.co/9JkcDb Fire-Boltt : https://fkrt.co/wfsvEv",
+    "shortlink": "https://fkrt.co/9JkcDb",
+    "urls": [
+      {
+        "url": "https://fkrt.co/9JkcDb",
+        "label": "boAt Calling Smartwatch From ₹949"
+      },
+      {
+        "url": "https://fkrt.co/wfsvEv",
+        "label": "Boltt"
+      }
+    ],
+    "raw_text": "Flipkart | boAt Calling Smartwatch From ₹949\n\n👉https://fkrt.co/9JkcDb\n\nFire-Boltt : https://fkrt.co/wfsvEv",
+    "final_url": "https://fkrt.co/9JkcDb",
+    "local_image": "assets/images/tgmsg_13068.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-15T08:40:58+00:00",
+    "buy_link": "https://fkrt.co/9JkcDb",
+    "date_iso": "2025-10-15T08:40:58+00:00"
+  },
+  {
     "id": "msg13063",
     "title": "Vdtrend Women's Trousers Up to 85% off starting From Rs.181",
     "description": "Flipkart | Vdtrend Women's Trousers upto 85% off starting From Rs.181 👉https://fkrt.co/Ud1g7s",
@@ -8590,25 +8614,5 @@
     "date_obj": "2025-10-12T11:20:11+00:00",
     "buy_link": "https://ajiio.co/3PETnD",
     "date_iso": "2025-10-12T11:20:11+00:00"
-  },
-  {
-    "id": "msg12504",
-    "title": "☄️☄️ LOOOT Fastt at ₹749",
-    "description": "☄️☄️ LOOOT Fastt at ₹749. 🔗https://www.amazon.in/dp/B0DVLRFN9N?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DVLRFN9N?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DVLRFN9N?tag=bestpricezo0f-21",
-        "label": "☄️☄️ LOOOT Fastt at ₹749"
-      }
-    ],
-    "raw_text": "☄️☄️ LOOOT Fastt at ₹749.\n\n🔗https://www.amazon.in/dp/B0DVLRFN9N?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DVLRFN9N?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_12504.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-12T10:59:28+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DVLRFN9N?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-12T10:59:28+00:00"
   }
 ]
