@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg13054",
+    "title": "Up to 80% Off On Branded Clothing",
+    "description": "AJIO Upto 80% Off On Branded Clothing. Men's : Shirts : Jeans : T-shirts : Jackets : Sweatshirts : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/sRkdE3",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 80% Off On Branded Clothing"
+      },
+      {
+        "url": "https://ajiio.co/sRkdE3",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/UF46gv",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/hofAAf",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/1cIhII",
+        "label": "T-shirts"
+      },
+      {
+        "url": "https://ajiio.co/N1iaT7",
+        "label": "Jackets"
+      },
+      {
+        "url": "https://ajiio.co/3tW5nN",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "AJIO  Upto 80% Off On Branded Clothing.\n\nMen's : https://ajiio.co/sRkdE3\n\nShirts : https://ajiio.co/UF46gv\nJeans : https://ajiio.co/hofAAf\nT-shirts : https://ajiio.co/1cIhII\nJackets : https://ajiio.co/N1iaT7\nSweatshirts : https://ajiio.co/3tW5nN\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/sRkdE3",
+    "local_image": "assets/images/tgmsg_13054.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-15T06:50:13+00:00",
+    "buy_link": "https://ajiio.co/sRkdE3",
+    "date_iso": "2025-10-15T06:50:13+00:00"
+  },
+  {
     "id": "msg13049",
     "title": "Levis Jeans Flat Rs.1099",
     "description": "Flipkart | Levis Jeans Flat Rs.1099 - https://fkrt.co/9hVVXJ",
@@ -8554,45 +8602,5 @@
     "date_obj": "2025-10-12T09:41:28+00:00",
     "buy_link": "https://ajiio.co/J7dtjD",
     "date_iso": "2025-10-12T09:41:28+00:00"
-  },
-  {
-    "id": "msg12492",
-    "title": "💧 Flat 53% Off – Pears Set of Pure & Gentle Body Wash with Glycerin (750ml each)",
-    "description": "MYNTRA | BODYCARE & SIMPLE SKINCARE COMBOS 🌿 Flat 55% Off – Simple Set of 2 Soap-Free Refreshing Facial Washes 👉 🪞 Flat 58% Off – Vaseline Set of 2 Cocoa Glow & Daily Brightening Lotions (400ml each) 👉  👉 🌺 Flat 48% Off…",
-    "shortlink": "https://myntr.in/5c6RB3",
-    "urls": [
-      {
-        "url": "",
-        "label": "BODYCARE & SIMPLE SKINCARE COMBOS"
-      },
-      {
-        "url": "https://myntr.in/5c6RB3",
-        "label": "🌿 Flat 55% Off – Simple Set of 2 Soap-Free Refreshing Facial Washes"
-      },
-      {
-        "url": "https://myntr.in/0tdEec",
-        "label": "🪞 Flat 58% Off – Vaseline Set of 2 Cocoa Glow & Daily Brightening Lotions (400ml each)"
-      },
-      {
-        "url": "https://myntr.in/FDQ31y",
-        "label": "💧 Flat 53% Off – Pears Set of Pure & Gentle Body Wash with Glycerin (750ml each)"
-      },
-      {
-        "url": "https://myntr.in/lxqmQA",
-        "label": "🌺 Flat 48% Off – Love Beauty & Planet Argan Oil Shampoo & Conditioner (200ml each)"
-      },
-      {
-        "url": "https://myntr.in/VQWhxb",
-        "label": "🌸 Flat 47% Off – Vaseline Gluta Hya Serum-in-Lotion Dewy Radiance & Flawless Glow (200ml each)"
-      }
-    ],
-    "raw_text": "MYNTRA | BODYCARE & SIMPLE SKINCARE COMBOS\n\n🌿 Flat 55% Off – Simple Set of 2 Soap-Free Refreshing Facial Washes\n👉 https://myntr.in/5c6RB3\n\n🪞 Flat 58% Off – Vaseline Set of 2 Cocoa Glow & Daily Brightening Lotions (400ml each)\n👉 https://myntr.in/0tdEec\n\n💧 Flat 53% Off – Pears Set of Pure & Gentle Body Wash with Glycerin (750ml each)\n👉 https://myntr.in/FDQ31y\n\n🌺 Flat 48% Off – Love Beauty & Planet Argan Oil Shampoo & Conditioner (200ml each)\n👉 https://myntr.in/lxqmQA\n\n🌸 Flat 47% Off – Vaseline Gluta Hya Serum-in-Lotion Dewy Radiance & Flawless Glow (200ml each)\n👉 https://myntr.in/VQWhxb",
-    "final_url": "https://myntr.in/5c6RB3",
-    "local_image": "assets/images/tgmsg_12492.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-12T09:31:39+00:00",
-    "buy_link": "https://myntr.in/5c6RB3",
-    "date_iso": "2025-10-12T09:31:39+00:00"
   }
 ]
