@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13171",
+    "title": "Yousta Under 399",
+    "description": "Ajio | Yousta Under 399 https://ajiio.co/DBwyHa JP & LC Min 70% https://ajiio.co/a5F2jE",
+    "shortlink": "https://ajiio.co/DBwyHa",
+    "urls": [
+      {
+        "url": "https://ajiio.co/DBwyHa",
+        "label": "Yousta Under 399"
+      },
+      {
+        "url": "https://ajiio.co/a5F2jE",
+        "label": "JP & LC Min 70%"
+      }
+    ],
+    "raw_text": "Ajio | Yousta Under 399\nhttps://ajiio.co/DBwyHa\n\nJP & LC Min 70%\nhttps://ajiio.co/a5F2jE",
+    "final_url": "https://ajiio.co/DBwyHa",
+    "local_image": "assets/images/tgmsg_13171.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-15T17:51:08+00:00",
+    "buy_link": "https://ajiio.co/DBwyHa",
+    "date_iso": "2025-10-15T17:51:08+00:00"
+  },
+  {
     "id": "msg13169",
     "title": "Arctic Fox Wireless Mouse at 299",
     "description": "Amazon | Arctic Fox Wireless Mouse at 299. 👉https://www.amazon.in/dp/B0DFYS7JCR?tag=bestpricezo0f-21",
@@ -8898,37 +8922,5 @@
     "date_obj": "2025-10-13T07:40:15+00:00",
     "buy_link": "https://fkrt.co/CI3JFY",
     "date_iso": "2025-10-13T07:40:15+00:00"
-  },
-  {
-    "id": "msg12702",
-    "title": "Up to 90% Off On RedTape Shoe",
-    "description": "Flipkart | Upto 90% Off On RedTape Shoes Sports :  https://fkrt.co/2nnCy3 Casual :  https://fkrt.co/kkkEmn Formals :  https://fkrt.co/KTqQQd",
-    "shortlink": "https://fkrt.co/2nnCy3",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 90% Off On RedTape Shoes"
-      },
-      {
-        "url": "https://fkrt.co/2nnCy3",
-        "label": "Sports"
-      },
-      {
-        "url": "https://fkrt.co/kkkEmn",
-        "label": "Casual"
-      },
-      {
-        "url": "https://fkrt.co/KTqQQd",
-        "label": "Formals"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 90% Off On RedTape Shoes\n\nSports :  https://fkrt.co/2nnCy3\nCasual :  https://fkrt.co/kkkEmn\nFormals :  https://fkrt.co/KTqQQd",
-    "final_url": "https://fkrt.co/2nnCy3",
-    "local_image": "assets/images/tgmsg_12702.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-13T07:34:03+00:00",
-    "buy_link": "https://fkrt.co/2nnCy3",
-    "date_iso": "2025-10-13T07:34:03+00:00"
   }
 ]
