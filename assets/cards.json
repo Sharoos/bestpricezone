@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg13048",
+    "title": "🥣 Tableware & Dinnerware – Up to 93% Off",
+    "description": "🍽️ Flipkart Home Deals – Kitchen Essentials 🏠  🔗 🍽️ Dinner Sets – Up to 70% Off 🔗 🍷 Barware – Premium Collection 🔗",
+    "shortlink": "https://fkrt.co/nwzuze",
+    "urls": [
+      {
+        "url": "",
+        "label": "🍽️ Flipkart Home Deals – Kitchen Essentials 🏠"
+      },
+      {
+        "url": "https://fkrt.co/nwzuze",
+        "label": "🥣 Tableware & Dinnerware – Up to 93% Off"
+      },
+      {
+        "url": "https://fkrt.co/8QIbl8",
+        "label": "🍽️ Dinner Sets – Up to 70% Off"
+      },
+      {
+        "url": "https://fkrt.co/cmK6yd",
+        "label": "🍷 Barware – Premium Collection"
+      }
+    ],
+    "raw_text": "🍽️ Flipkart Home Deals – Kitchen Essentials 🏠\n\n🥣 Tableware & Dinnerware – Up to 93% Off\n🔗 https://fkrt.co/nwzuze\n\n🍽️ Dinner Sets – Up to 70% Off\n🔗 https://fkrt.co/8QIbl8\n\n🍷 Barware – Premium Collection\n🔗 https://fkrt.co/cmK6yd",
+    "final_url": "https://fkrt.co/nwzuze",
+    "local_image": "assets/images/tgmsg_13048.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-15T06:02:52+00:00",
+    "buy_link": "https://fkrt.co/nwzuze",
+    "date_iso": "2025-10-15T06:02:52+00:00"
+  },
+  {
     "id": "msg13047",
     "title": "🔥Up to 70% Off On John Players Brand Clothing",
     "description": "🔥AJIO : Upto 70% Off On John Players Brand Clothing T-Shirts : Jeans : Shirts : + 10% EXTRA AJIO CASH",
@@ -8546,25 +8578,5 @@
     "date_obj": "2025-10-12T09:21:32+00:00",
     "buy_link": "https://myntr.in/Ht5NDr",
     "date_iso": "2025-10-12T09:21:32+00:00"
-  },
-  {
-    "id": "msg12487",
-    "title": "Flat 85% Off on Safari Backpack",
-    "description": "Flipkart : Flat 85% Off on Safari Backpacks. 👉 https://fkrt.co/BwsVL9",
-    "shortlink": "https://fkrt.co/BwsVL9",
-    "urls": [
-      {
-        "url": "https://fkrt.co/BwsVL9",
-        "label": "Flat 85% Off on Safari Backpacks"
-      }
-    ],
-    "raw_text": "Flipkart : Flat 85% Off on Safari Backpacks.\n\n 👉 https://fkrt.co/BwsVL9",
-    "final_url": "https://fkrt.co/BwsVL9",
-    "local_image": "assets/images/tgmsg_12487.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-12T08:51:54+00:00",
-    "buy_link": "https://fkrt.co/BwsVL9",
-    "date_iso": "2025-10-12T08:51:54+00:00"
   }
 ]
