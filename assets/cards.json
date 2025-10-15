@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg13095",
+    "title": "Crazy Deals Min 50% Off On Top Brand",
+    "description": "Ajio s • GAS : • Gap : • Superdry : • Tommy Hilfiger : • Steve Madden : • Gant : Extra 10% Ajio Cashback On Every Order (100% Usable)",
+    "shortlink": "https://ajiio.co/VQ0Ybg",
+    "urls": [
+      {
+        "url": "https://ajiio.co/VQ0Ybg",
+        "label": "Ajio Crazy Deals Min 50% Off On Top Brands"
+      },
+      {
+        "url": "https://ajiio.co/ycf6WL",
+        "label": "Gap"
+      },
+      {
+        "url": "https://ajiio.co/3FBPo4",
+        "label": "Superdry"
+      },
+      {
+        "url": "https://ajiio.co/znQE8S",
+        "label": "Tommy Hilfiger"
+      },
+      {
+        "url": "https://ajiio.co/sYWSK7",
+        "label": "Steve Madden"
+      },
+      {
+        "url": "https://ajiio.co/yvL0zn",
+        "label": "Gant"
+      },
+      {
+        "url": "",
+        "label": "Extra 10% Ajio Cashback On Every Order (100% Usable)"
+      }
+    ],
+    "raw_text": "Ajio Crazy Deals Min 50% Off On Top Brands\n\n• GAS : https://ajiio.co/VQ0Ybg\n• Gap : https://ajiio.co/ycf6WL    \n• Superdry : https://ajiio.co/3FBPo4\n• Tommy Hilfiger : https://ajiio.co/znQE8S  \n• Steve Madden : https://ajiio.co/sYWSK7\n• Gant : https://ajiio.co/yvL0zn\n\nExtra 10% Ajio Cashback On Every Order (100% Usable)",
+    "final_url": "https://ajiio.co/VQ0Ybg",
+    "local_image": "assets/images/tgmsg_13095.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-15T11:45:05+00:00",
+    "buy_link": "https://ajiio.co/VQ0Ybg",
+    "date_iso": "2025-10-15T11:45:05+00:00"
+  },
+  {
     "id": "msg13094",
     "title": "🏦 Open Kotak 811 Zero Balance Savings Account in Minutes!",
     "description": "✅ Open your account online in just a few minutes ✅ Get a Classic Debit Card ✅ Includes chequebook & more ✅ No promo code needed – offer valid for all users ✅ Hassle-free process – 100% digital! 👉 Open Now : 🎯 Don't miss…",
@@ -8806,25 +8850,5 @@
     "date_obj": "2025-10-12T15:21:43+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CGD3S921?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-12T15:21:43+00:00"
-  },
-  {
-    "id": "msg12532",
-    "title": "Philips Beard Trimmer for Men @ 899",
-    "description": "Amazon | Philips Beard Trimmer for Men @ 899. 👉https://www.amazon.in/dp/B0C7VYN5PV?th=1&smid=&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0C7VYN5PV?th=1&smid=&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0C7VYN5PV?th=1&smid=&tag=bestpricezo0f-21",
-        "label": "Philips Beard Trimmer for Men @ 899"
-      }
-    ],
-    "raw_text": "Amazon | Philips Beard Trimmer for Men @ 899.\n\n👉https://www.amazon.in/dp/B0C7VYN5PV?th=1&smid=&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0C7VYN5PV?th=1&smid=&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_12532.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-12T14:31:32+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0C7VYN5PV?th=1&smid=&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-12T14:31:32+00:00"
   }
 ]
