@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg13242",
+    "title": "Up to 80% Off On Raymond, Park Avenue & Parx Clothing",
+    "description": "AJIO Upto 80% Off On Raymond, Park Avenue & Parx Clothing. Shirts : Trousers : T-shirts : Jeans : Womens : Upto 80% Off On Louis Philippe Clothing. Under Armour : Clarks : ASOS : Zivame & Clovia :",
+    "shortlink": "https://ajiio.co/m6UeEr",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 80% Off On Raymond, Park Avenue & Parx Clothing"
+      },
+      {
+        "url": "https://ajiio.co/m6UeEr",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/lMDdB0",
+        "label": "Trousers"
+      },
+      {
+        "url": "https://ajiio.co/Re9Xob",
+        "label": "T-shirts"
+      },
+      {
+        "url": "https://ajiio.co/21WaqH",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/yZQkJM",
+        "label": "Womens"
+      },
+      {
+        "url": "https://ajiio.co/pOhPQK",
+        "label": "Upto 80% Off On Louis Philippe Clothing"
+      },
+      {
+        "url": "https://ajiio.co/ZCl7PW",
+        "label": "Under Armour"
+      },
+      {
+        "url": "https://ajiio.co/a9YQ9R",
+        "label": "Clarks"
+      },
+      {
+        "url": "https://ajiio.co/Bzc5kr",
+        "label": "ASOS"
+      },
+      {
+        "url": "https://ajiio.co/YBK6Ex",
+        "label": "Zivame & Clovia"
+      }
+    ],
+    "raw_text": "AJIO  Upto 80% Off On Raymond, Park Avenue & Parx Clothing.\n\nShirts : https://ajiio.co/m6UeEr\nTrousers : https://ajiio.co/lMDdB0\nT-shirts : https://ajiio.co/Re9Xob\nJeans : https://ajiio.co/21WaqH\n\nWomens : https://ajiio.co/yZQkJM\n\n Upto 80% Off On Louis Philippe Clothing.\n\nhttps://ajiio.co/pOhPQK\n\nUnder Armour : https://ajiio.co/ZCl7PW\nClarks : https://ajiio.co/a9YQ9R\nASOS : https://ajiio.co/Bzc5kr\nZivame & Clovia : https://ajiio.co/YBK6Ex",
+    "final_url": "https://ajiio.co/m6UeEr",
+    "local_image": "assets/images/tgmsg_13242.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-15T21:02:49+00:00",
+    "buy_link": "https://ajiio.co/m6UeEr",
+    "date_iso": "2025-10-15T21:02:49+00:00"
+  },
+  {
     "id": "msg13239",
     "title": "Yousta Under 399",
     "description": "Ajio | Yousta Under 399 https://ajiio.co/laexw2 JP & LC Min 70% https://ajiio.co/R8Kc4y",
@@ -8838,29 +8898,5 @@
     "date_obj": "2025-10-13T18:45:55+00:00",
     "buy_link": "https://fkrt.co/UYfUfN",
     "date_iso": "2025-10-13T18:45:55+00:00"
-  },
-  {
-    "id": "msg12788",
-    "title": "Flat ₹3000 off with All Bank Card",
-    "description": "Flipkart | OPPO K13 5G (8GB RAM/128 G😎 @14,999 https://fkrt.co/l0VsWY Flat ₹3000 off with All Bank Cards",
-    "shortlink": "https://fkrt.co/l0VsWY",
-    "urls": [
-      {
-        "url": "https://fkrt.co/l0VsWY",
-        "label": "OPPO K13 5G (8GB RAM/128 G😎 @14,999"
-      },
-      {
-        "url": "",
-        "label": "Flat ₹3000 off with All Bank Cards"
-      }
-    ],
-    "raw_text": "Flipkart | OPPO K13 5G (8GB RAM/128 G😎 @14,999\n\nhttps://fkrt.co/l0VsWY\n\nFlat ₹3000 off with All Bank Cards",
-    "final_url": "https://fkrt.co/l0VsWY",
-    "local_image": "assets/images/tgmsg_12788.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-13T18:46:41+00:00",
-    "buy_link": "https://fkrt.co/l0VsWY",
-    "date_iso": "2025-10-13T18:46:41+00:00"
   }
 ]
