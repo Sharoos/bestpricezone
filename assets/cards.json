@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13118",
+    "title": "Adidas Originals Min 45% + Extra 5%",
+    "description": "Ajio | Adidas Originals Min 45% + Extra 5% https://ajiio.co/NRALPl Skechers Min 45% + Extra 5% https://ajiio.co/wWBAOG",
+    "shortlink": "https://ajiio.co/NRALPl",
+    "urls": [
+      {
+        "url": "https://ajiio.co/NRALPl",
+        "label": "Adidas Originals Min 45% + Extra 5%"
+      },
+      {
+        "url": "https://ajiio.co/wWBAOG",
+        "label": "Skechers Min 45% + Extra 5%"
+      }
+    ],
+    "raw_text": "Ajio | Adidas Originals Min 45% + Extra 5%\nhttps://ajiio.co/NRALPl\n\nSkechers Min 45% + Extra 5%\nhttps://ajiio.co/wWBAOG",
+    "final_url": "https://ajiio.co/NRALPl",
+    "local_image": "assets/images/tgmsg_13118.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-15T13:54:00+00:00",
+    "buy_link": "https://ajiio.co/NRALPl",
+    "date_iso": "2025-10-15T13:54:00+00:00"
+  },
+  {
     "id": "msg13109",
     "title": "smartbuy,perfect homes & more",
     "description": "Deals On Furnishing Range https://fkrt.co/n6964U Flipkart smartbuy,Flipkart perfect homes & more",
@@ -8854,53 +8878,5 @@
     "date_obj": "2025-10-12T18:04:08+00:00",
     "buy_link": "https://fkrt.co/v020Pm",
     "date_iso": "2025-10-12T18:04:08+00:00"
-  },
-  {
-    "id": "msg12573",
-    "title": "Up to 89% Off On Tokyo Talkies Women Clothing",
-    "description": "Upto 89% Off On Tokyo Talkies Women Clothing. Tops. : Sweatshirts : Dresses : Jeans : Trousers : Blazers : Jumpsuits :",
-    "shortlink": "https://fkrt.co/CvmrQD",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 89% Off On Tokyo Talkies Women Clothing"
-      },
-      {
-        "url": "https://fkrt.co/CvmrQD",
-        "label": "Tops"
-      },
-      {
-        "url": "https://fkrt.co/58NgOb",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://fkrt.co/wyMTp2",
-        "label": "Dresses"
-      },
-      {
-        "url": "https://fkrt.co/jImzui",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://fkrt.co/p7BkYb",
-        "label": "Trousers"
-      },
-      {
-        "url": "https://fkrt.co/TcMSaW",
-        "label": "Blazers"
-      },
-      {
-        "url": "https://fkrt.co/oeio2W",
-        "label": "Jumpsuits"
-      }
-    ],
-    "raw_text": "Upto 89% Off On Tokyo Talkies Women Clothing. \n\nTops. :https://fkrt.co/CvmrQD \nSweatshirts : https://fkrt.co/58NgOb \nDresses : https://fkrt.co/wyMTp2 \nJeans : https://fkrt.co/jImzui \nTrousers :https://fkrt.co/p7BkYb \nBlazers :https://fkrt.co/TcMSaW \nJumpsuits : https://fkrt.co/oeio2W",
-    "final_url": "https://fkrt.co/CvmrQD",
-    "local_image": "assets/images/tgmsg_12573.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-12T17:33:01+00:00",
-    "buy_link": "https://fkrt.co/CvmrQD",
-    "date_iso": "2025-10-12T17:33:01+00:00"
   }
 ]
