@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg13047",
+    "title": "🔥Up to 70% Off On John Players Brand Clothing",
+    "description": "🔥AJIO : Upto 70% Off On John Players Brand Clothing T-Shirts : Jeans : Shirts : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/hP7lPR",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥AJIO : Upto 70% Off On John Players Brand Clothing"
+      },
+      {
+        "url": "https://ajiio.co/hP7lPR",
+        "label": "T-Shirts"
+      },
+      {
+        "url": "https://ajiio.co/nKdPyb",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/u9iDmQ",
+        "label": "Shirts"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "🔥AJIO : Upto 70% Off On John Players Brand Clothing  \n \nT-Shirts : https://ajiio.co/hP7lPR \nJeans : https://ajiio.co/nKdPyb \nShirts : https://ajiio.co/u9iDmQ\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/hP7lPR",
+    "local_image": "assets/images/tgmsg_13047.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-15T05:46:00+00:00",
+    "buy_link": "https://ajiio.co/hP7lPR",
+    "date_iso": "2025-10-15T05:46:00+00:00"
+  },
+  {
     "id": "msg13044",
     "title": "Jaipuri Bedsheets At 249",
     "description": "Grab : Jaipuri Bedsheets At 249 https://fkrt.co/9BiFqc Never Before Prices.",
@@ -8530,53 +8566,5 @@
     "date_obj": "2025-10-12T08:51:54+00:00",
     "buy_link": "https://fkrt.co/BwsVL9",
     "date_iso": "2025-10-12T08:51:54+00:00"
-  },
-  {
-    "id": "msg12486",
-    "title": "Men Polo Tshirts Starts at 180",
-    "description": "AJIO . Oversized Tshirts Starts at 190. Women : Men : Kids Clothing Boys : Girls : Infants :",
-    "shortlink": "https://ajiio.co/XLqNVO",
-    "urls": [
-      {
-        "url": "https://ajiio.co/XLqNVO",
-        "label": "AJIO Men Polo Tshirts Starts at 180"
-      },
-      {
-        "url": "",
-        "label": "Oversized Tshirts Starts at 190"
-      },
-      {
-        "url": "https://ajiio.co/6C57Np",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/iOecQQ",
-        "label": "Men"
-      },
-      {
-        "url": "",
-        "label": "Kids Clothing"
-      },
-      {
-        "url": "https://ajiio.co/n5BHqF",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/kKLwCe",
-        "label": "Girls"
-      },
-      {
-        "url": "https://ajiio.co/yXqYQu",
-        "label": "Infants"
-      }
-    ],
-    "raw_text": "AJIO  Men Polo Tshirts Starts at 180.\n\nhttps://ajiio.co/XLqNVO\n\nOversized Tshirts Starts at 190.\n\nWomen : https://ajiio.co/6C57Np\nMen : https://ajiio.co/iOecQQ\n\nKids Clothing \n\nBoys : https://ajiio.co/n5BHqF\nGirls : https://ajiio.co/kKLwCe\nInfants : https://ajiio.co/yXqYQu",
-    "final_url": "https://ajiio.co/XLqNVO",
-    "local_image": "assets/images/tgmsg_12486.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-12T08:41:55+00:00",
-    "buy_link": "https://ajiio.co/XLqNVO",
-    "date_iso": "2025-10-12T08:41:55+00:00"
   }
 ]
