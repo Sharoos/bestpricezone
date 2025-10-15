@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg13060",
+    "title": "Jack & Jones Min 50% Off",
+    "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/XxgsBk",
+    "urls": [
+      {
+        "url": "https://ajiio.co/XxgsBk",
+        "label": "🔥AJIO | Jeans & Shorts Under ₹499"
+      },
+      {
+        "url": "https://ajiio.co/9jGldt",
+        "label": "Performax Under ₹699"
+      },
+      {
+        "url": "https://ajiio.co/UAEdP6",
+        "label": "Jack & Jones Min 50% Off"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "🔥AJIO | Jeans & Shorts Under ₹499\n👉https://ajiio.co/XxgsBk\n\nPerformax Under ₹699\n👉https://ajiio.co/9jGldt\n\nJack & Jones Min 50% Off\n👉https://ajiio.co/UAEdP6\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/XxgsBk",
+    "local_image": "assets/images/tgmsg_13060.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-15T07:34:27+00:00",
+    "buy_link": "https://ajiio.co/XxgsBk",
+    "date_iso": "2025-10-15T07:34:27+00:00"
+  },
+  {
     "id": "msg13055",
     "title": "Up to 75% Off on Women Kurta Suit Sets Starting @ Just ₹315",
     "description": "Ajio | Upto 75% Off on Women Kurta Suit Sets Starting @ Just ₹315 👉 Link : 🛍 + Extra 10% AJIO Super Cash! 🎉",
@@ -8602,53 +8634,5 @@
     "date_obj": "2025-10-12T10:21:15+00:00",
     "buy_link": "https://fkrt.co/yUFYQQ",
     "date_iso": "2025-10-12T10:21:15+00:00"
-  },
-  {
-    "id": "msg12501",
-    "title": "🎁 Spend ₹2,000 & Get ₹2,000–₹5,000 Vouche",
-    "description": "🔥 SBM Credilio FD Credit Card – No Credit Score? No Problem! 💳 Lifetime Free | 💰 Instant Credit via FD 🎬 BookMyShow: Buy 1 Get 1 Free! 🔗Apply Here 👉 Benefits: ✅ 5x Rewards on UPI/POS ⛽ 10x Rewards on Fuel rs 💸 90% of FD…",
-    "shortlink": "https://extp.in/naipXS",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 SBM Credilio FD Credit Card – No Credit Score? No Problem!"
-      },
-      {
-        "url": "",
-        "label": "💳 Lifetime Free | 💰 Instant Credit via FD"
-      },
-      {
-        "url": "https://extp.in/naipXS",
-        "label": "🔗Apply Here 👉"
-      },
-      {
-        "url": "",
-        "label": "✅ 5x Rewards on UPI/POS"
-      },
-      {
-        "url": "",
-        "label": "⛽ 10x Rewards on Fuel"
-      },
-      {
-        "url": "",
-        "label": "🎁 Spend ₹2,000 & Get ₹2,000–₹5,000 Vouchers"
-      },
-      {
-        "url": "",
-        "label": "💸 90% of FD = Credit Limit"
-      },
-      {
-        "url": "",
-        "label": "Smart. Safe. Rewarding"
-      }
-    ],
-    "raw_text": "🔥 SBM Credilio FD Credit Card – No Credit Score? No Problem!\n\n💳 Lifetime Free | 💰 Instant Credit via FD\n\n🎬 BookMyShow: Buy 1 Get 1 Free!\n\n🔗Apply Here 👉 https://extp.in/naipXS\n\nBenefits: \n✅ 5x Rewards on UPI/POS\n⛽ 10x Rewards on Fuel\n🎁 Spend ₹2,000 & Get ₹2,000–₹5,000 Vouchers\n💸 90% of FD = Credit Limit\n\nSmart. Safe. Rewarding.",
-    "final_url": "https://extp.in/naipXS",
-    "local_image": "assets/images/tgmsg_12501.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-10-12T10:28:13+00:00",
-    "buy_link": "https://extp.in/naipXS",
-    "date_iso": "2025-10-12T10:28:13+00:00"
   }
 ]
