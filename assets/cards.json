@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg13041",
+    "title": "GESTOR STORM PLUS 15L Storage Water Geyse",
+    "description": "Flipkart | GESTOR STORM PLUS 15L Storage Water Geyser ✅ With Free Pipes ✅ Energy Efficient & Durable 💰 Only ₹3,904 👉 https://fkrt.co/Eyn3am",
+    "shortlink": "https://fkrt.co/Eyn3am",
+    "urls": [
+      {
+        "url": "",
+        "label": "GESTOR STORM PLUS 15L Storage Water Geyser"
+      },
+      {
+        "url": "",
+        "label": "✅ With Free Pipes"
+      },
+      {
+        "url": "",
+        "label": "✅ Energy Efficient & Durable"
+      },
+      {
+        "url": "https://fkrt.co/Eyn3am",
+        "label": "💰 Only ₹3,904"
+      }
+    ],
+    "raw_text": "Flipkart | GESTOR STORM PLUS 15L Storage Water Geyser\n✅ With Free Pipes\n✅ Energy Efficient & Durable\n💰 Only ₹3,904\n\n👉 https://fkrt.co/Eyn3am",
+    "final_url": "https://fkrt.co/Eyn3am",
+    "local_image": "assets/images/tgmsg_13041.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-15T05:01:07+00:00",
+    "buy_link": "https://fkrt.co/Eyn3am",
+    "date_iso": "2025-10-15T05:01:07+00:00"
+  },
+  {
+    "id": "msg13042",
+    "title": "Sticky Wall Hook for Hangers At Rs.123",
+    "description": "Flipkart | Sticky Wall Hook for Hangers At Rs.123 👉https://fkrt.co/rLdadk",
+    "shortlink": "https://fkrt.co/rLdadk",
+    "urls": [
+      {
+        "url": "https://fkrt.co/rLdadk",
+        "label": "Sticky Wall Hook for Hangers At Rs.123"
+      }
+    ],
+    "raw_text": "Flipkart | Sticky Wall Hook for Hangers At Rs.123\n\n👉https://fkrt.co/rLdadk",
+    "final_url": "https://fkrt.co/rLdadk",
+    "local_image": "assets/images/tgmsg_13042.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-15T05:16:05+00:00",
+    "buy_link": "https://fkrt.co/rLdadk",
+    "date_iso": "2025-10-15T05:16:05+00:00"
+  },
+  {
     "id": "msg13039",
     "title": "Up to 85% Off On Men’s Jean",
     "description": "AJIO LOOT : Upto 85% Off On Men’s Jeans. Master Link : Lee Cooper : Jack & Jones : John Players : DNMX : Buda Jeans Co : Spykar : Allen Cooper : U.S. Polo Assn. : Pepe Jeans : *Surf All Pages (Filter All Link As Per…",
@@ -8534,53 +8586,5 @@
     "date_obj": "2025-10-12T08:31:57+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F3DBMCBQ?tag=bestpricezo0f-21",
     "date_iso": "2025-10-12T08:31:57+00:00"
-  },
-  {
-    "id": "msg12479",
-    "title": "70% Off",
-    "description": "Myntra | Dove, Tresemme 1L Shampoos 60 - 70% Off 👉Link : https://myntr.in/ATmC5D",
-    "shortlink": "https://myntr.in/ATmC5D",
-    "urls": [
-      {
-        "url": "https://myntr.in/ATmC5D",
-        "label": "Dove, Tresemme 1L Shampoos 60 - 70% Off"
-      }
-    ],
-    "raw_text": "Myntra | Dove, Tresemme 1L Shampoos 60 - 70% Off\n\n👉Link : https://myntr.in/ATmC5D",
-    "final_url": "https://myntr.in/ATmC5D",
-    "local_image": "assets/images/tgmsg_12479.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-12T08:01:53+00:00",
-    "buy_link": "https://myntr.in/ATmC5D",
-    "date_iso": "2025-10-12T08:01:53+00:00"
-  },
-  {
-    "id": "msg12481",
-    "title": "Kurta & Kurtis Starts ₹199",
-    "description": "Myntra : Kurta & Kurtis Starts ₹199. Women : https://myntr.in/eI0oBS Men : https://myntr.in/qKm0Qh",
-    "shortlink": "https://myntr.in/eI0oBS",
-    "urls": [
-      {
-        "url": "",
-        "label": "Kurta & Kurtis Starts ₹199"
-      },
-      {
-        "url": "https://myntr.in/eI0oBS",
-        "label": "Women"
-      },
-      {
-        "url": "https://myntr.in/qKm0Qh",
-        "label": "Men"
-      }
-    ],
-    "raw_text": "Myntra : Kurta & Kurtis Starts ₹199.\n\nWomen : https://myntr.in/eI0oBS\nMen : https://myntr.in/qKm0Qh",
-    "final_url": "https://myntr.in/eI0oBS",
-    "local_image": "assets/images/tgmsg_12481.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-12T08:12:00+00:00",
-    "buy_link": "https://myntr.in/eI0oBS",
-    "date_iso": "2025-10-12T08:12:00+00:00"
   }
 ]
