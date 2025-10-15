@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13144",
+    "title": "Under armour Min 45% + Extra 5%",
+    "description": "Ajio | Raymond , Park Avenue & Parx Min 60% https://ajiio.co/siv4jt Under armour Min 45% + Extra 5% https://ajiio.co/c6OjhC",
+    "shortlink": "https://ajiio.co/siv4jt",
+    "urls": [
+      {
+        "url": "https://ajiio.co/siv4jt",
+        "label": "Raymond , Park Avenue & Parx Min 60%"
+      },
+      {
+        "url": "https://ajiio.co/c6OjhC",
+        "label": "Under armour Min 45% + Extra 5%"
+      }
+    ],
+    "raw_text": "Ajio | Raymond , Park Avenue & Parx Min 60%\nhttps://ajiio.co/siv4jt\n\nUnder armour Min 45% + Extra 5%\nhttps://ajiio.co/c6OjhC",
+    "final_url": "https://ajiio.co/siv4jt",
+    "local_image": "assets/images/tgmsg_13144.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-15T15:51:35+00:00",
+    "buy_link": "https://ajiio.co/siv4jt",
+    "date_iso": "2025-10-15T15:51:35+00:00"
+  },
+  {
     "id": "msg13140",
     "title": "85% Off On Branded Luggage",
     "description": "Flipkart . Master Link : Small : Medium : Large : Pack Of 2 : Pack Of 3 : Suggestions . American Tourister & Safari : Aristocrat : VIP : Killer : Wrogn : Metronaut : Upto 85% Off On Branded Backpacks. Masterlink :…",
@@ -8926,25 +8950,5 @@
     "date_obj": "2025-10-13T04:45:51+00:00",
     "buy_link": "https://myntr.in/uB0qBE",
     "date_iso": "2025-10-13T04:45:51+00:00"
-  },
-  {
-    "id": "msg12682",
-    "title": "BELLAVITA Perfume Starts at Rs.175",
-    "description": "Flipkart | BELLAVITA Perfume Starts at Rs.175 👉https://fkrt.co/6osxCU",
-    "shortlink": "https://fkrt.co/6osxCU",
-    "urls": [
-      {
-        "url": "https://fkrt.co/6osxCU",
-        "label": "BELLAVITA Perfume Starts at Rs.175"
-      }
-    ],
-    "raw_text": "Flipkart | BELLAVITA Perfume Starts at Rs.175\n\n👉https://fkrt.co/6osxCU",
-    "final_url": "https://fkrt.co/6osxCU",
-    "local_image": "assets/images/tgmsg_12682.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-13T04:34:31+00:00",
-    "buy_link": "https://fkrt.co/6osxCU",
-    "date_iso": "2025-10-13T04:34:31+00:00"
   }
 ]
