@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg13085",
+    "title": "Up to 75% Off On Wildcraft Clothing",
+    "description": "Flipkart | Upto 75% Off On Wildcraft Clothing https://fkrt.co/NeVsfP FILA Clothing : https://fkrt.co/ZCVVAc Numero Uno : https://fkrt.co/sEO74v",
+    "shortlink": "https://fkrt.co/NeVsfP",
+    "urls": [
+      {
+        "url": "https://fkrt.co/NeVsfP",
+        "label": "Upto 75% Off On Wildcraft Clothing"
+      },
+      {
+        "url": "https://fkrt.co/ZCVVAc",
+        "label": "FILA Clothing"
+      },
+      {
+        "url": "https://fkrt.co/sEO74v",
+        "label": "Numero Uno"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 75% Off On Wildcraft Clothing\nhttps://fkrt.co/NeVsfP\n\nFILA Clothing : \nhttps://fkrt.co/ZCVVAc\n\nNumero Uno :  \nhttps://fkrt.co/sEO74v",
+    "final_url": "https://fkrt.co/NeVsfP",
+    "local_image": "assets/images/tgmsg_13085.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-15T10:40:06+00:00",
+    "buy_link": "https://fkrt.co/NeVsfP",
+    "date_iso": "2025-10-15T10:40:06+00:00"
+  },
+  {
     "id": "msg13083",
     "title": "Up to 80% Off On USPA Clothing",
     "description": "AJIO Upto 80% Off On USPA Clothing. Men’s : Women’s : Boys : Girls : Marks & Spencer. Women’s : Men’s : Girls : Boys : Upto 80% Off On Allen Cooper Clothing. Master Link : T-Shirt : Jeans : Shirts : Jacket : Shoes :…",
@@ -8698,53 +8726,5 @@
     "date_obj": "2025-10-12T13:27:16+00:00",
     "buy_link": "https://fkrt.co/Rwr5QG",
     "date_iso": "2025-10-12T13:27:16+00:00"
-  },
-  {
-    "id": "msg12521",
-    "title": "Use Code OPEXTRA15 To Get Extra 15% Off!",
-    "description": "Myntra | 🔥OnePlus Lowest Prices Ever🔥 ONLY FOR FEW Hours OnePlus Nord Buds 2r at Rs. 1231 only! Use Coupon Code: OPEXTRA12 to get 12% Off! 👉 OnePlus Bullets Z2 ANC at Rs. 1410 only! Use Coupon Code: OPEXTRA17 to get 17%…",
-    "shortlink": "https://myntr.in/gtBcqp",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥OnePlus Lowest Prices Ever🔥 ONLY FOR FEW Hours"
-      },
-      {
-        "url": "https://myntr.in/gtBcqp",
-        "label": "OnePlus Nord Buds 2r at Rs. 1231 only!"
-      },
-      {
-        "url": "https://myntr.in/4JTPqn",
-        "label": "OnePlus Bullets Z2 ANC at Rs. 1410 only!"
-      },
-      {
-        "url": "https://myntr.in/27pXKA",
-        "label": "OnePlus Nord Buds 3 Pro Only at Rs. 2124+ Bank offers!!"
-      },
-      {
-        "url": "https://myntr.in/lzbB0W",
-        "label": "OnePlus Wireless Z3 at Rs. 1143 only!"
-      },
-      {
-        "url": "https://myntr.in/DMK3o1",
-        "label": "OnePlus Nord Buds 3 Only at Rs. 1565 + Bank offers!!"
-      },
-      {
-        "url": "https://myntr.in/2117O3",
-        "label": "OnePlus Bullets Z2 at Rs. 1093 only + Bank Offers!"
-      },
-      {
-        "url": "https://myntr.in/UellYv",
-        "label": "OnePlus Nord Buds 3r Only at Rs. 1439 + Bank offers!!"
-      }
-    ],
-    "raw_text": "Myntra | 🔥OnePlus Lowest Prices Ever🔥  ONLY FOR FEW Hours\n\nOnePlus Nord Buds 2r at Rs. 1231 only!\nUse Coupon Code: OPEXTRA12 to get 12% Off!\n👉https://myntr.in/gtBcqp\n\nOnePlus Bullets Z2 ANC at Rs. 1410 only!\nUse Coupon Code: OPEXTRA17 to get 17% Off!\n👉https://myntr.in/4JTPqn\n\nOnePlus Nord Buds 3 Pro Only at Rs. 2124+ Bank offers!!\nUse Coupon Code:OPEXTRA15 To Get Extra 15% Off!\n👉https://myntr.in/27pXKA\n\nOnePlus Wireless Z3 at Rs. 1143 only!\nUse Coupon Code: OPEXTRA12 to get 12% Off!\n👉https://myntr.in/lzbB0W\n\nOnePlus Nord Buds 3 Only at Rs. 1565 + Bank offers!!\nUse Coupon Code: OPEXTRA13 To Get Extra 13 % Off!\n👉https://myntr.in/DMK3o1\n\nOnePlus Bullets Z2 at Rs. 1093 only + Bank Offers!\nUse Coupon Code: OPEXTRA19 to get 19% Off!\n👉https://myntr.in/2117O3\n\nOnePlus Nord Buds 3r Only at Rs. 1439 + Bank offers!!\nUse Coupon Code: OPEXTRA10 To Get Extra 10 % Off!\n👉https://myntr.in/UellYv",
-    "final_url": "https://myntr.in/gtBcqp",
-    "local_image": "assets/images/tgmsg_12521.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-12T12:50:12+00:00",
-    "buy_link": "https://myntr.in/gtBcqp",
-    "date_iso": "2025-10-12T12:50:12+00:00"
   }
 ]
