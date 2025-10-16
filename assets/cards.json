@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13255",
+    "title": "Bruton Men's Shoes Starting at Just ₹209",
+    "description": "Flipkart | Bruton Men's Shoes Starting at Just ₹209 https://fkrt.co/D5gOcW",
+    "shortlink": "https://fkrt.co/D5gOcW",
+    "urls": [
+      {
+        "url": "https://fkrt.co/D5gOcW",
+        "label": "Bruton Men's Shoes Starting at Just ₹209"
+      }
+    ],
+    "raw_text": "Flipkart | Bruton Men's Shoes Starting at Just ₹209\n\nhttps://fkrt.co/D5gOcW",
+    "final_url": "https://fkrt.co/D5gOcW",
+    "local_image": "assets/images/tgmsg_13255.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-16T04:53:14+00:00",
+    "buy_link": "https://fkrt.co/D5gOcW",
+    "date_iso": "2025-10-16T04:53:14+00:00"
+  },
+  {
     "id": "msg13253",
     "title": "Up to 75% Off On John Players Brand Clothing",
     "description": "AJIO : Upto 75% Off On John Players Brand Clothing T-Shirts : Jeans : Shirts : + 10% EXTRA AJIO CASH",
@@ -8906,33 +8926,5 @@
     "date_obj": "2025-10-13T19:19:44+00:00",
     "buy_link": "https://myntr.in/C0NsL5",
     "date_iso": "2025-10-13T19:19:44+00:00"
-  },
-  {
-    "id": "msg12800",
-    "title": "Lenskart Blu, Lenskart Hustlr & more at Min 70% Off",
-    "description": "Myntra |  Chilli Beans, Intellilens & more at 70% Off Sunglasses & Frames Under 499",
-    "shortlink": "https://myntr.in/zX1HhC",
-    "urls": [
-      {
-        "url": "https://myntr.in/zX1HhC",
-        "label": "Lenskart Blu, Lenskart Hustlr & more at Min 70% Off"
-      },
-      {
-        "url": "https://myntr.in/Ey9z4z",
-        "label": "Chilli Beans, Intellilens & more at 70% Off"
-      },
-      {
-        "url": "https://myntr.in/vmLqA5",
-        "label": "Sunglasses & Frames Under 499"
-      }
-    ],
-    "raw_text": "Myntra | Lenskart Blu, Lenskart Hustlr & more at Min 70% Off\nhttps://myntr.in/zX1HhC\n\nChilli Beans, Intellilens & more at 70% Off\nhttps://myntr.in/Ey9z4z\n\nSunglasses & Frames Under 499\nhttps://myntr.in/vmLqA5",
-    "final_url": "https://myntr.in/zX1HhC",
-    "local_image": "assets/images/tgmsg_12800.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-13T19:21:42+00:00",
-    "buy_link": "https://myntr.in/zX1HhC",
-    "date_iso": "2025-10-13T19:21:42+00:00"
   }
 ]
