@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg13280",
+    "title": "Grocery Up to 92% Off",
+    "description": "Flipkart Grocery  Upto 92% Off Link 1 :   https://fkrt.co/jUUO6M Link 2 :   https://fkrt.co/vhLHby Link 3 :   https://fkrt.co/tJfYp6 Check All Locations",
+    "shortlink": "https://fkrt.co/jUUO6M",
+    "urls": [
+      {
+        "url": "https://fkrt.co/jUUO6M",
+        "label": "Flipkart Grocery Upto 92% Off"
+      },
+      {
+        "url": "https://fkrt.co/vhLHby",
+        "label": "Flipkart Grocery Upto 92% Off"
+      },
+      {
+        "url": "https://fkrt.co/tJfYp6",
+        "label": "Flipkart Grocery Upto 92% Off"
+      },
+      {
+        "url": "",
+        "label": "Check All Locations"
+      }
+    ],
+    "raw_text": "Flipkart Grocery  Upto 92% Off\n\nLink 1 :   https://fkrt.co/jUUO6M\nLink 2 :   https://fkrt.co/vhLHby\nLink 3 :   https://fkrt.co/tJfYp6\n\nCheck All Locations",
+    "final_url": "https://fkrt.co/jUUO6M",
+    "local_image": "assets/images/tgmsg_13280.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-16T08:33:44+00:00",
+    "buy_link": "https://fkrt.co/jUUO6M",
+    "date_iso": "2025-10-16T08:33:44+00:00"
+  },
+  {
     "id": "msg13277",
     "title": "Vega & Studds Helmets @ ₹646",
     "description": "Flipkart GRAB : Vega & Studds Helmets @ ₹646. 👉 https://fkrt.co/TyKa28",
@@ -8846,25 +8878,5 @@
     "date_obj": "2025-10-14T04:15:48+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-14T04:15:48+00:00"
-  },
-  {
-    "id": "msg12817",
-    "title": "⚡️ Talking Cactus @ Rs 215",
-    "description": "Flipkart | ⚡️ Talking Cactus @ Rs 215 ✅ https://fkrt.co/dfmaRe",
-    "shortlink": "https://fkrt.co/dfmaRe",
-    "urls": [
-      {
-        "url": "https://fkrt.co/dfmaRe",
-        "label": "⚡️ Talking Cactus @ Rs 215"
-      }
-    ],
-    "raw_text": "Flipkart | ⚡️ Talking Cactus @ Rs 215 \n\n✅ https://fkrt.co/dfmaRe",
-    "final_url": "https://fkrt.co/dfmaRe",
-    "local_image": "assets/images/tgmsg_12817.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-14T03:46:00+00:00",
-    "buy_link": "https://fkrt.co/dfmaRe",
-    "date_iso": "2025-10-14T03:46:00+00:00"
   }
 ]
