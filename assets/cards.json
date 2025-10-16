@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13335",
+    "title": "Up to 84% Off On Handbags Starting From Rs.112",
+    "description": "Flipkart | Upto 84% Off On Handbags Starting From Rs.112 👉Link : https://fkrt.co/qj5etH",
+    "shortlink": "https://fkrt.co/qj5etH",
+    "urls": [
+      {
+        "url": "https://fkrt.co/qj5etH",
+        "label": "Upto 84% Off On Handbags Starting From Rs.112"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 84% Off On Handbags Starting From Rs.112\n\n👉Link : https://fkrt.co/qj5etH",
+    "final_url": "https://fkrt.co/qj5etH",
+    "local_image": "assets/images/tgmsg_13335.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-16T17:04:54+00:00",
+    "buy_link": "https://fkrt.co/qj5etH",
+    "date_iso": "2025-10-16T17:04:54+00:00"
+  },
+  {
     "id": "msg13332",
     "title": "Samsung Galaxy M05 (4GB RAM, 64 GB Storage) @6299",
     "description": "Amazon | Samsung Galaxy M05 (4GB RAM, 64 GB Storage) @6299. https://www.amazon.in/dp/B0DFY3XCB6?tag=bestpricezo0f-21",
@@ -8786,25 +8806,5 @@
     "date_obj": "2025-10-14T09:40:16+00:00",
     "buy_link": "https://fkrt.co/QUdV0J",
     "date_iso": "2025-10-14T09:40:16+00:00"
-  },
-  {
-    "id": "msg12859",
-    "title": "Apply ₹750 + ₹1299 Off With HDFC Credit Card",
-    "description": "Amazon | Godrej 7 Kg 5 Star Top Load Washing Machine @ 11,692. 👉 Apply ₹750 Coupon + ₹1299 Off With HDFC Credit Card.",
-    "shortlink": "https://www.amazon.in/dp/B0F3DBMCBQ?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F3DBMCBQ?th=1&tag=bestpricezo0f-21",
-        "label": "Godrej 7 Kg 5 Star Top Load Washing Machine @ 11,692"
-      }
-    ],
-    "raw_text": "Amazon | Godrej 7 Kg 5 Star Top Load Washing Machine @ 11,692.\n\n👉https://www.amazon.in/dp/B0F3DBMCBQ?th=1&tag=bestpricezo0f-21\n\nApply ₹750 Coupon + ₹1299 Off With HDFC Credit Card.",
-    "final_url": "https://www.amazon.in/dp/B0F3DBMCBQ?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_12859.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-14T09:15:21+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F3DBMCBQ?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-14T09:15:21+00:00"
   }
 ]
