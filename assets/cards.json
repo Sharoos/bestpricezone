@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13276",
+    "title": "USPA & Hellcat and More Up to 80% Off",
+    "description": "AJIO: USPA & Hellcat and More Upto 80% Off 👉Link : https://ajiio.co/s4tTLe + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/s4tTLe",
+    "urls": [
+      {
+        "url": "https://ajiio.co/s4tTLe",
+        "label": "USPA & Hellcat and More Upto 80% Off"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO: USPA & Hellcat and More Upto 80% Off\n\n👉Link : https://ajiio.co/s4tTLe\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/s4tTLe",
+    "local_image": "assets/images/tgmsg_13276.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-16T07:43:33+00:00",
+    "buy_link": "https://ajiio.co/s4tTLe",
+    "date_iso": "2025-10-16T07:43:33+00:00"
+  },
+  {
     "id": "msg13275",
     "title": "Carbamide Forte Ayurvedic Cholesterol Care Juice 1L @484 +",
     "description": "Carbamide Forte Ayurvedic Cholesterol Care Juice 1L @484 + Coupon https://www.amazon.in/dp/B0FKH8V8L1?tag=bestpricezo0f-21",
@@ -8842,33 +8866,5 @@
     "date_obj": "2025-10-13T19:58:52+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F4KF2PBZ?tag=bestpricezo0f-21",
     "date_iso": "2025-10-13T19:58:52+00:00"
-  },
-  {
-    "id": "msg12811",
-    "title": "Wild Stone Perfume for Men, 100ml",
-    "description": "Amazon | Wild Stone Perfume for Men, 100ml 279 : https://www.amazon.in/dp/B08TGSRW1S?tag=bestpricezo0f-21 339 (2 Variants) : https://www.amazon.in/dp/B0DGQCRHMP?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B08TGSRW1S?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Wild Stone Perfume for Men, 100ml"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B08TGSRW1S?tag=bestpricezo0f-21",
-        "label": "279"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0DGQCRHMP?tag=bestpricezo0f-21",
-        "label": "339 (2 Variants)"
-      }
-    ],
-    "raw_text": "Amazon | Wild Stone Perfume for Men, 100ml\n\n279 : https://www.amazon.in/dp/B08TGSRW1S?tag=bestpricezo0f-21\n\n339 (2 Variants) : https://www.amazon.in/dp/B0DGQCRHMP?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B08TGSRW1S?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_12811.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-13T19:46:56+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08TGSRW1S?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-13T19:46:56+00:00"
   }
 ]
