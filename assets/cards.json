@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg13286",
+    "title": "🛒 Deal Price RS.15340",
+    "description": "Flipkart | 🧊 Refrigerator Deals 189 L Direct Cool Single Door 5 Star Refrigerator with Base Drawer with Digital Inverter 🛒 Deal Price: RS.15340 💳 CC Offer Available 🔗",
+    "shortlink": "https://fkrt.co/w4nzzD",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧊 Refrigerator Deals"
+      },
+      {
+        "url": "",
+        "label": "189 L Direct Cool Single Door 5 Star Refrigerator with Base Drawer with Digital Inverter"
+      },
+      {
+        "url": "",
+        "label": "🛒 Deal Price: RS.15340"
+      },
+      {
+        "url": "https://fkrt.co/w4nzzD",
+        "label": "💳 CC Offer Available"
+      }
+    ],
+    "raw_text": "Flipkart | 🧊 Refrigerator Deals\n\n189 L Direct Cool Single Door 5 Star Refrigerator with Base Drawer with Digital Inverter\n\n🛒 Deal Price: RS.15340\n\n💳 CC Offer Available\n\n🔗 https://fkrt.co/w4nzzD",
+    "final_url": "https://fkrt.co/w4nzzD",
+    "local_image": "assets/images/tgmsg_13286.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-16T09:33:36+00:00",
+    "buy_link": "https://fkrt.co/w4nzzD",
+    "date_iso": "2025-10-16T09:33:36+00:00"
+  },
+  {
     "id": "msg13283",
     "title": "🛒 Deal Price ₹899",
     "description": "Amazon | ⭐️ LED Pendant Light Deals Desidiya Modern Dimmable Minimalist LED Pendant Light (3-Color Adjustable) 🛒 Deal Price: ₹899 👉",
@@ -8870,57 +8902,5 @@
     "date_obj": "2025-10-14T04:46:00+00:00",
     "buy_link": "https://myntr.in/SUrb4E",
     "date_iso": "2025-10-14T04:46:00+00:00"
-  },
-  {
-    "id": "msg12820",
-    "title": "John Players Clothing Up to 80% Off",
-    "description": "AJIO : John Players Clothing Upto 80% Off Jeans – Shirts – T-Shirts – Trousers – Sweatshirts – Sweaters – Jackets – Waistcoats & Blazers –",
-    "shortlink": "https://ajiio.co/igMxdj",
-    "urls": [
-      {
-        "url": "",
-        "label": "John Players Clothing Upto 80% Off"
-      },
-      {
-        "url": "https://ajiio.co/igMxdj",
-        "label": "Jeans –"
-      },
-      {
-        "url": "https://ajiio.co/8PeCwZ",
-        "label": "Shirts –"
-      },
-      {
-        "url": "https://ajiio.co/ndVtHx",
-        "label": "T-Shirts –"
-      },
-      {
-        "url": "https://ajiio.co/viwl4E",
-        "label": "Trousers –"
-      },
-      {
-        "url": "https://ajiio.co/iffr1e",
-        "label": "Sweatshirts –"
-      },
-      {
-        "url": "https://ajiio.co/SJWsV8",
-        "label": "Sweaters –"
-      },
-      {
-        "url": "https://ajiio.co/hHzUZr",
-        "label": "Jackets –"
-      },
-      {
-        "url": "https://ajiio.co/B0vPzj",
-        "label": "Waistcoats & Blazers –"
-      }
-    ],
-    "raw_text": "AJIO : John Players Clothing Upto 80% Off\n\nJeans – https://ajiio.co/igMxdj\nShirts – https://ajiio.co/8PeCwZ\nT-Shirts – https://ajiio.co/ndVtHx\nTrousers – https://ajiio.co/viwl4E\nSweatshirts – https://ajiio.co/iffr1e\nSweaters – https://ajiio.co/SJWsV8\nJackets – https://ajiio.co/hHzUZr\nWaistcoats & Blazers – https://ajiio.co/B0vPzj",
-    "final_url": "https://ajiio.co/igMxdj",
-    "local_image": "assets/images/tgmsg_12820.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-14T04:34:40+00:00",
-    "buy_link": "https://ajiio.co/igMxdj",
-    "date_iso": "2025-10-14T04:34:40+00:00"
   }
 ]
