@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg13298",
+    "title": "Zebronics Gaming Headphone",
+    "description": "Amazon | Zebronics Gaming Headphone ₹689 : https://www.amazon.in/dp/B0B5RL2G3S?th=1&tag=bestpricezo0f-21 ₹799 : https://www.amazon.in/dp/B0B5RMKMJL?th=1&tag=bestpricezo0f-21 Best Seller || Lowest Price📉",
+    "shortlink": "https://www.amazon.in/dp/B0B5RL2G3S?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Zebronics Gaming Headphone"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0B5RL2G3S?th=1&tag=bestpricezo0f-21",
+        "label": "₹689"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0B5RMKMJL?th=1&tag=bestpricezo0f-21",
+        "label": "₹799"
+      },
+      {
+        "url": "",
+        "label": "Lowest Price📉"
+      }
+    ],
+    "raw_text": "Amazon | Zebronics Gaming Headphone\n\n₹689 : https://www.amazon.in/dp/B0B5RL2G3S?th=1&tag=bestpricezo0f-21\n\n₹799 : https://www.amazon.in/dp/B0B5RMKMJL?th=1&tag=bestpricezo0f-21\n\nBest Seller || Lowest Price📉",
+    "final_url": "https://www.amazon.in/dp/B0B5RL2G3S?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13298.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-16T11:45:33+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0B5RL2G3S?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-16T11:45:33+00:00"
+  },
+  {
     "id": "msg13297",
     "title": "Flat ₹7,250 Off With HDFC Credit Card",
     "description": "Amazon | Acer NITRO V 15, AMD Ryzen 5 (16GB + 512GB) Gaming Laptop @55,740*. 👉 *. Acer NITRO V 15, AMD Ryzen 7 (16GB + 512GB) Gaming Laptop @64,740*. 👉 *Flat ₹7750 Off With HDFC Credit Card.",
@@ -8854,45 +8886,5 @@
     "date_obj": "2025-10-14T05:57:44+00:00",
     "buy_link": "https://fktr.in/aEXPF1c",
     "date_iso": "2025-10-14T05:57:44+00:00"
-  },
-  {
-    "id": "msg12829",
-    "title": "Levi’s Jeans Starts at ₹624",
-    "description": "AJIO  Levi’s Jeans Starts at ₹624. https://ajiio.co/GgkkpS Men’s : https://ajiio.co/yTvvFl Women’s : https://ajiio.co/TEQWVs More  Levi's Clothing. Men's : https://ajiio.co/YSb4Rq Women's : https://ajiio.co/JEntqu",
-    "shortlink": "https://ajiio.co/GgkkpS",
-    "urls": [
-      {
-        "url": "https://ajiio.co/GgkkpS",
-        "label": "AJIO Levi’s Jeans Starts at ₹624"
-      },
-      {
-        "url": "https://ajiio.co/yTvvFl",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.co/TEQWVs",
-        "label": "Women’s"
-      },
-      {
-        "url": "",
-        "label": "More Levi's Clothing"
-      },
-      {
-        "url": "https://ajiio.co/YSb4Rq",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/JEntqu",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "AJIO  Levi’s Jeans Starts at ₹624.\n\nhttps://ajiio.co/GgkkpS\n\nMen’s : https://ajiio.co/yTvvFl\nWomen’s : https://ajiio.co/TEQWVs\n\nMore  Levi's Clothing.\n\nMen's : https://ajiio.co/YSb4Rq\nWomen's : https://ajiio.co/JEntqu",
-    "final_url": "https://ajiio.co/GgkkpS",
-    "local_image": "assets/images/tgmsg_12829.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-14T06:11:15+00:00",
-    "buy_link": "https://ajiio.co/GgkkpS",
-    "date_iso": "2025-10-14T06:11:15+00:00"
   }
 ]
