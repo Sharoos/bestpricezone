@@ -1,5 +1,89 @@
 [
   {
+    "id": "msg13283",
+    "title": "🛒 Deal Price ₹899",
+    "description": "Amazon | ⭐️ LED Pendant Light Deals Desidiya Modern Dimmable Minimalist LED Pendant Light (3-Color Adjustable) 🛒 Deal Price: ₹899 👉",
+    "shortlink": "https://www.amazon.in/dp/B0FHDVY9S4/ref=cm_sw_r_as_gl_api_gl_i_YRWZ9FQAYMCBJK231QAQ?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "⭐️ LED Pendant Light Deals"
+      },
+      {
+        "url": "",
+        "label": "Desidiya Modern Dimmable Minimalist LED Pendant Light (3-Color Adjustable)"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0FHDVY9S4/ref=cm_sw_r_as_gl_api_gl_i_YRWZ9FQAYMCBJK231QAQ?tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹899"
+      }
+    ],
+    "raw_text": "Amazon | ⭐️ LED Pendant Light Deals\n\nDesidiya Modern Dimmable Minimalist LED Pendant Light (3-Color Adjustable)\n\n🛒 Deal Price: ₹899\n\n👉https://www.amazon.in/dp/B0FHDVY9S4/ref=cm_sw_r_as_gl_api_gl_i_YRWZ9FQAYMCBJK231QAQ?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FHDVY9S4/ref=cm_sw_r_as_gl_api_gl_i_YRWZ9FQAYMCBJK231QAQ?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13283.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-16T09:01:11+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FHDVY9S4/ref=cm_sw_r_as_gl_api_gl_i_YRWZ9FQAYMCBJK231QAQ?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-16T09:01:11+00:00"
+  },
+  {
+    "id": "msg13285",
+    "title": "Up to 85% Off",
+    "description": "AJIO 🔥 Mens Jeans - Upto 85% Off Spykar : DNMX : Buda Jeans Co : Allen Cooper : U.S. Polo Assn. : John Players : Jack & Jones : Lee Cooper : Pepe Jeans :",
+    "shortlink": "https://ajiio.co/OEG2tE",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO 🔥 Mens Jeans - Upto 85% Off"
+      },
+      {
+        "url": "https://ajiio.co/OEG2tE",
+        "label": "Spykar"
+      },
+      {
+        "url": "https://ajiio.co/Fli0J0",
+        "label": "DNMX"
+      },
+      {
+        "url": "https://ajiio.co/iUL8Ub",
+        "label": "Buda Jeans Co"
+      },
+      {
+        "url": "https://ajiio.co/hctn7P",
+        "label": "Allen Cooper"
+      },
+      {
+        "url": "https://ajiio.co/iYewww",
+        "label": "U.S. Polo Assn"
+      },
+      {
+        "url": "https://ajiio.co/KZCfAw",
+        "label": "John Players"
+      },
+      {
+        "url": "https://ajiio.co/NE4XDA",
+        "label": "Jack & Jones"
+      },
+      {
+        "url": "https://ajiio.co/aPdTb8",
+        "label": "Lee Cooper"
+      },
+      {
+        "url": "https://ajiio.co/I8k2SZ",
+        "label": "Pepe Jeans"
+      }
+    ],
+    "raw_text": "AJIO  🔥 Mens Jeans - Upto 85% Off \n\nSpykar :   https://ajiio.co/OEG2tE\nDNMX :   https://ajiio.co/Fli0J0\nBuda Jeans Co :   https://ajiio.co/iUL8Ub\nAllen Cooper :   https://ajiio.co/hctn7P\nU.S. Polo Assn. :   https://ajiio.co/iYewww\nJohn Players :   https://ajiio.co/KZCfAw\nJack & Jones :   https://ajiio.co/NE4XDA\nLee Cooper :   https://ajiio.co/aPdTb8\nPepe Jeans :   https://ajiio.co/I8k2SZ",
+    "final_url": "https://ajiio.co/OEG2tE",
+    "local_image": "assets/images/tgmsg_13285.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-16T09:15:10+00:00",
+    "buy_link": "https://ajiio.co/OEG2tE",
+    "date_iso": "2025-10-16T09:15:10+00:00"
+  },
+  {
     "id": "msg13280",
     "title": "Grocery Up to 92% Off",
     "description": "Flipkart Grocery  Upto 92% Off Link 1 :   https://fkrt.co/jUUO6M Link 2 :   https://fkrt.co/vhLHby Link 3 :   https://fkrt.co/tJfYp6 Check All Locations",
@@ -8838,45 +8922,5 @@
     "date_obj": "2025-10-14T04:34:40+00:00",
     "buy_link": "https://ajiio.co/igMxdj",
     "date_iso": "2025-10-14T04:34:40+00:00"
-  },
-  {
-    "id": "msg12818",
-    "title": "Jewellery Up to 92% off",
-    "description": "Flipkart | Jewellery Upto 92% off https://fkrt.co/5RFNBl",
-    "shortlink": "https://fkrt.co/5RFNBl",
-    "urls": [
-      {
-        "url": "https://fkrt.co/5RFNBl",
-        "label": "Jewellery Upto 92% off"
-      }
-    ],
-    "raw_text": "Flipkart | Jewellery Upto 92% off \n\nhttps://fkrt.co/5RFNBl",
-    "final_url": "https://fkrt.co/5RFNBl",
-    "local_image": "assets/images/tgmsg_12818.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-14T04:05:08+00:00",
-    "buy_link": "https://fkrt.co/5RFNBl",
-    "date_iso": "2025-10-14T04:05:08+00:00"
-  },
-  {
-    "id": "msg12819",
-    "title": "Panasonic 9W LED Bulb, Pack Of 10 @389",
-    "description": "Amazon | Panasonic 9W LED Bulb, Pack Of 10 @389 https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
-        "label": "Panasonic 9W LED Bulb, Pack Of 10 @389"
-      }
-    ],
-    "raw_text": "Amazon | Panasonic 9W LED Bulb, Pack Of 10 @389\n\nhttps://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_12819.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-14T04:15:48+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-14T04:15:48+00:00"
   }
 ]
