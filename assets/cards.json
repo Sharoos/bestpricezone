@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg13314",
+    "title": "🌟Up to 70% Off On John Players Brand Clothing🔥🔥",
+    "description": "🌟AJIO : Upto 70% Off On John Players Brand Clothing🔥🔥 T-Shirts : Jeans : Shirts : + 10% EXTRA AJIO CASH🎉🎉",
+    "shortlink": "https://ajiio.co/5HOHds",
+    "urls": [
+      {
+        "url": "",
+        "label": "🌟AJIO : Upto 70% Off On John Players Brand Clothing🔥🔥"
+      },
+      {
+        "url": "https://ajiio.co/5HOHds",
+        "label": "T-Shirts"
+      },
+      {
+        "url": "https://ajiio.co/2KWWy0",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/3jUWGY",
+        "label": "Shirts"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH🎉🎉"
+      }
+    ],
+    "raw_text": "🌟AJIO : Upto 70% Off On John Players Brand Clothing🔥🔥\n \nT-Shirts : https://ajiio.co/5HOHds \nJeans : https://ajiio.co/2KWWy0 \nShirts : https://ajiio.co/3jUWGY\n\n+ 10% EXTRA AJIO CASH🎉🎉",
+    "final_url": "https://ajiio.co/5HOHds",
+    "local_image": "assets/images/tgmsg_13314.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-16T14:04:21+00:00",
+    "buy_link": "https://ajiio.co/5HOHds",
+    "date_iso": "2025-10-16T14:04:21+00:00"
+  },
+  {
     "id": "msg13312",
     "title": "Up to 73% Off on Women Kurta Suit Sets Starting @ Just ₹297",
     "description": "Ajio | Upto 73% Off on Women Kurta Suit Sets Starting @ Just ₹297 👉 Link : 🛍 + Extra 10% AJIO Super Cash! 🎉",
@@ -8746,53 +8782,5 @@
     "date_obj": "2025-10-14T07:32:44+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CRTJH57W?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-14T07:32:44+00:00"
-  },
-  {
-    "id": "msg12841",
-    "title": "Up to 80% Off On Oversized T",
-    "description": "AJIO Loot : Upto 80% Off On Oversized T-Shirts Start @140 Men’s : Women’s : Polo T-Shirts : Jeans : Branded Innerwears : Men's Blazers & Waistcoat : + 10% AJIO Extra CASH",
-    "shortlink": "https://ajiio.in/waP58Gd",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Oversized T-Shirts Start @140"
-      },
-      {
-        "url": "https://ajiio.in/waP58Gd",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.in/oz0HtfP",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://ajiio.in/8qP8rUs",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.in/wKx3iwq",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.in/6SKx5Ke",
-        "label": "Branded Innerwears"
-      },
-      {
-        "url": "https://ajiio.in/kq31F1D",
-        "label": "Men's Blazers & Waistcoat"
-      },
-      {
-        "url": "",
-        "label": "+ 10% AJIO Extra CASH"
-      }
-    ],
-    "raw_text": "AJIO Loot : Upto 80% Off On Oversized T-Shirts Start @140\n\nMen’s : https://ajiio.in/waP58Gd\nWomen’s : https://ajiio.in/oz0HtfP\n\nPolo T-Shirts : https://ajiio.in/8qP8rUs\nJeans : https://ajiio.in/wKx3iwq\nBranded Innerwears : https://ajiio.in/6SKx5Ke\nMen's Blazers & Waistcoat : https://ajiio.in/kq31F1D\n\n+ 10% AJIO Extra CASH",
-    "final_url": "https://ajiio.in/waP58Gd",
-    "local_image": "assets/images/tgmsg_12841.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-14T07:05:32+00:00",
-    "buy_link": "https://ajiio.in/waP58Gd",
-    "date_iso": "2025-10-14T07:05:32+00:00"
   }
 ]
