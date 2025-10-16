@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg13292",
+    "title": "🤯🤯🤯 from Rs 157",
+    "description": "Flipkart | 🤯🤯🤯 from Rs 157 ✅ https://fkrt.co/NAX5UN",
+    "shortlink": "https://fkrt.co/NAX5UN",
+    "urls": [
+      {
+        "url": "https://fkrt.co/NAX5UN",
+        "label": "🤯🤯🤯 from Rs 157"
+      }
+    ],
+    "raw_text": "Flipkart | 🤯🤯🤯 from Rs 157\n\n✅ https://fkrt.co/NAX5UN",
+    "final_url": "https://fkrt.co/NAX5UN",
+    "local_image": "assets/images/tgmsg_13292.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-16T11:15:11+00:00",
+    "buy_link": "https://fkrt.co/NAX5UN",
+    "date_iso": "2025-10-16T11:15:11+00:00"
+  },
+  {
+    "id": "msg13293",
+    "title": "21% off Stahl Artisan Hybrid Triply Dosa Tawa @ 2679",
+    "description": "21% off: Stahl Artisan Hybrid Triply Dosa Tawa @ 2679 https://www.amazon.in/dp/B09BD26M9C?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B09BD26M9C?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B09BD26M9C?th=1&tag=bestpricezo0f-21",
+        "label": "21% off: Stahl Artisan Hybrid Triply Dosa Tawa @ 2679"
+      }
+    ],
+    "raw_text": "21% off: Stahl Artisan Hybrid Triply Dosa Tawa @ 2679\n\nhttps://www.amazon.in/dp/B09BD26M9C?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B09BD26M9C?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13293.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-16T11:25:46+00:00",
+    "buy_link": "https://www.amazon.in/dp/B09BD26M9C?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-16T11:25:46+00:00"
+  },
+  {
     "id": "msg13291",
     "title": "Branded Shoes and Sneaker at Price",
     "description": "Flipkart | Branded Shoes and Sneaker at  Prices Asian: https://fkrt.co/5Sazn3 Campus: https://fkrt.co/rfIhYq",
@@ -8870,49 +8910,5 @@
     "date_obj": "2025-10-14T06:11:34+00:00",
     "buy_link": "https://extp.in/TA47Q1",
     "date_iso": "2025-10-14T06:11:34+00:00"
-  },
-  {
-    "id": "msg12827",
-    "title": "Wow Grt 4 Pay For 2 Only 🎉🎉",
-    "description": "Wow: Grt 4 Pay For 2 Only 🎉🎉 USE CODE: CKG4P2 https://bitli.in/k8KtWZh",
-    "shortlink": "https://bitli.in/k8KtWZh",
-    "urls": [
-      {
-        "url": "",
-        "label": "Grt 4 Pay For 2 Only 🎉🎉"
-      },
-      {
-        "url": "https://bitli.in/k8KtWZh",
-        "label": "CKG4P2"
-      }
-    ],
-    "raw_text": "Wow: Grt 4 Pay For 2 Only 🎉🎉\n\nUSE CODE: CKG4P2\n\nhttps://bitli.in/k8KtWZh",
-    "final_url": "https://bitli.in/k8KtWZh",
-    "local_image": "assets/images/tgmsg_12827.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-10-14T05:35:25+00:00",
-    "buy_link": "https://bitli.in/k8KtWZh",
-    "date_iso": "2025-10-14T05:35:25+00:00"
-  },
-  {
-    "id": "msg12824",
-    "title": "64% off HAVELLS Trimme",
-    "description": "Amazon | 64% off : HAVELLS Trimmer https://fkrt.co/S5GVzM",
-    "shortlink": "https://fkrt.co/S5GVzM",
-    "urls": [
-      {
-        "url": "https://fkrt.co/S5GVzM",
-        "label": "64% off : HAVELLS Trimmer"
-      }
-    ],
-    "raw_text": "Amazon | 64% off : HAVELLS Trimmer \n\n https://fkrt.co/S5GVzM",
-    "final_url": "https://fkrt.co/S5GVzM",
-    "local_image": "assets/images/tgmsg_12824.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-14T05:23:01+00:00",
-    "buy_link": "https://fkrt.co/S5GVzM",
-    "date_iso": "2025-10-14T05:23:01+00:00"
   }
 ]
