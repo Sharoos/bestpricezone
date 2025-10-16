@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13340",
+    "title": "Up to 80% Off on Men’s Casual Shoes Starting @₹220🔥🔥🔥🔥",
+    "description": "Flipkart | UPTO 80% Off on Men’s Casual Shoes Starting @₹220🔥🔥🔥🔥 🔗🔗Links : https://fkrt.co/gR55cn",
+    "shortlink": "https://fkrt.co/gR55cn",
+    "urls": [
+      {
+        "url": "https://fkrt.co/gR55cn",
+        "label": "UPTO 80% Off on Men’s Casual Shoes Starting @₹220🔥🔥🔥🔥"
+      }
+    ],
+    "raw_text": "Flipkart | UPTO 80% Off on Men’s Casual Shoes Starting @₹220🔥🔥🔥🔥 \n \n🔗🔗Links : https://fkrt.co/gR55cn",
+    "final_url": "https://fkrt.co/gR55cn",
+    "local_image": "assets/images/tgmsg_13340.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-16T18:05:03+00:00",
+    "buy_link": "https://fkrt.co/gR55cn",
+    "date_iso": "2025-10-16T18:05:03+00:00"
+  },
+  {
     "id": "msg13339",
     "title": "Up to 60% Off on Kitchen Tools Starting @ just 119",
     "description": "Ajio | Upto 60% Off on Kitchen Tools Starting @ just 119 Link : https://ajiio.co/SrqR3k",
@@ -8710,33 +8730,5 @@
     "date_obj": "2025-10-14T10:07:46+00:00",
     "buy_link": "https://fktr.in/Yxlptg1",
     "date_iso": "2025-10-14T10:07:46+00:00"
-  },
-  {
-    "id": "msg12867",
-    "title": "Realme T110 Buds Only at Rs. 779 + Bank offers!!",
-    "description": "Myntra | 🔥 Realme Lowest Prices Ever🔥 Only for last few hours  👉 Realme Wireless 3 Neo Flat at Rs. 710 + Bank offers!! 👉",
-    "shortlink": "https://myntr.in/RbB3wn",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Realme Lowest Prices Ever🔥 Only for last few hours"
-      },
-      {
-        "url": "https://myntr.in/RbB3wn",
-        "label": "Realme T110 Buds Only at Rs. 779 + Bank offers!!"
-      },
-      {
-        "url": "https://myntr.in/Z2JHMQ",
-        "label": "Realme Wireless 3 Neo Flat at Rs. 710 + Bank offers!!"
-      }
-    ],
-    "raw_text": "Myntra | 🔥 Realme Lowest Prices Ever🔥 Only for last few hours\n\nRealme T110 Buds Only at Rs. 779 + Bank offers!! \n👉https://myntr.in/RbB3wn\n\nRealme Wireless 3 Neo Flat at Rs. 710 + Bank offers!!\n👉https://myntr.in/Z2JHMQ",
-    "final_url": "https://myntr.in/RbB3wn",
-    "local_image": "assets/images/tgmsg_12867.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-14T10:10:11+00:00",
-    "buy_link": "https://myntr.in/RbB3wn",
-    "date_iso": "2025-10-14T10:10:11+00:00"
   }
 ]
