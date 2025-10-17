@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13394",
+    "title": "Branded Men's Shirts from Rs.180",
+    "description": "Ajio | Branded Men's T-Shirts from Rs.100 👉https://ajiio.co/KPKzAs Branded Men's Shirts from Rs.180 👉https://ajiio.co/JlaZlK",
+    "shortlink": "https://ajiio.co/KPKzAs",
+    "urls": [
+      {
+        "url": "https://ajiio.co/KPKzAs",
+        "label": "Branded Men's T-Shirts from Rs.100"
+      },
+      {
+        "url": "https://ajiio.co/JlaZlK",
+        "label": "Branded Men's Shirts from Rs.180"
+      }
+    ],
+    "raw_text": "Ajio | Branded Men's T-Shirts from Rs.100\n\n👉https://ajiio.co/KPKzAs \n\n Branded Men's Shirts from Rs.180\n\n👉https://ajiio.co/JlaZlK",
+    "final_url": "https://ajiio.co/KPKzAs",
+    "local_image": "assets/images/tgmsg_13394.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-17T06:46:03+00:00",
+    "buy_link": "https://ajiio.co/KPKzAs",
+    "date_iso": "2025-10-17T06:46:03+00:00"
+  },
+  {
     "id": "msg13392",
     "title": "Grocery Nutraj Arabian Premium Dates (Khajur) (1 x 500 g) @101",
     "description": "Flipkart Grocery | Nutraj Arabian Premium Dates (Khajur) (1 x 500 g) @101 👉Link :",
@@ -8382,25 +8406,5 @@
     "date_obj": "2025-10-14T17:11:43+00:00",
     "buy_link": "https://ajiio.co/yXYk9m",
     "date_iso": "2025-10-14T17:11:43+00:00"
-  },
-  {
-    "id": "msg12946",
-    "title": "RR Signature 150 mm Exhaust Fan @799",
-    "description": "Amazon | RR Signature 150 mm Exhaust Fan @799. 👉https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
-        "label": "RR Signature 150 mm Exhaust Fan @799"
-      }
-    ],
-    "raw_text": "Amazon | RR Signature 150 mm Exhaust Fan @799.\n\n👉https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_12946.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-14T16:52:02+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-14T16:52:02+00:00"
   }
 ]
