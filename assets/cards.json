@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13392",
+    "title": "Grocery Nutraj Arabian Premium Dates (Khajur) (1 x 500 g) @101",
+    "description": "Flipkart Grocery | Nutraj Arabian Premium Dates (Khajur) (1 x 500 g) @101 👉Link :",
+    "shortlink": "https://fkrt.co/PonPKl",
+    "urls": [
+      {
+        "url": "https://fkrt.co/PonPKl",
+        "label": "Nutraj Arabian Premium Dates (Khajur) (1 x 500 g) @101"
+      }
+    ],
+    "raw_text": "Flipkart Grocery | Nutraj Arabian Premium Dates (Khajur)  (1 x 500 g) @101\n\n👉Link : https://fkrt.co/PonPKl",
+    "final_url": "https://fkrt.co/PonPKl",
+    "local_image": "assets/images/tgmsg_13392.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-17T06:36:08+00:00",
+    "buy_link": "https://fkrt.co/PonPKl",
+    "date_iso": "2025-10-17T06:36:08+00:00"
+  },
+  {
     "id": "msg13390",
     "title": "65% Off On Palmolive Body Wash",
     "description": "Flipkart | 60-65% Off On Palmolive Body Wash. https://fkrt.co/ziAvxP",
@@ -8382,61 +8402,5 @@
     "date_obj": "2025-10-14T16:52:02+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-14T16:52:02+00:00"
-  },
-  {
-    "id": "msg12943",
-    "title": "Up to 85% Off On Branded Women’sFootwear (Inc 5.,Buda Jeans Co, Etc)",
-    "description": "AJIO Upto 85% Off On Branded Women’sFootwear (Inc 5.,Buda Jeans Co, Etc). Master Link : Heels : Flats : Sandals : Casual Shoes : Sneakers & Sports Shoes : Sliders & Flipflops : INC.5 : + Extra 10% AJIO CASHBACK",
-    "shortlink": "https://ajiio.co/kgiVkj",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 85% Off On Branded Women’sFootwear (Inc 5.,Buda Jeans Co, Etc)"
-      },
-      {
-        "url": "https://ajiio.co/kgiVkj",
-        "label": "Master"
-      },
-      {
-        "url": "https://ajiio.co/yW4aoa",
-        "label": "Heels"
-      },
-      {
-        "url": "https://ajiio.co/PlIP9R",
-        "label": "Flats"
-      },
-      {
-        "url": "https://ajiio.co/Zq9RdX",
-        "label": "Sandals"
-      },
-      {
-        "url": "https://ajiio.co/po15QN",
-        "label": "Casual Shoes"
-      },
-      {
-        "url": "https://ajiio.co/N6N2Vc",
-        "label": "Sneakers & Sports Shoes"
-      },
-      {
-        "url": "https://ajiio.co/v4fZgO",
-        "label": "Sliders & Flipflops"
-      },
-      {
-        "url": "https://ajiio.co/9USduR",
-        "label": "INC.5"
-      },
-      {
-        "url": "",
-        "label": "+ Extra 10% AJIO CASHBACK"
-      }
-    ],
-    "raw_text": "AJIO  Upto 85% Off On Branded Women’sFootwear (Inc 5.,Buda Jeans Co, Etc).\n\nMaster Link : https://ajiio.co/kgiVkj\n\nHeels : https://ajiio.co/yW4aoa\nFlats : https://ajiio.co/PlIP9R\nSandals : https://ajiio.co/Zq9RdX\nCasual Shoes : https://ajiio.co/po15QN\nSneakers & Sports Shoes : https://ajiio.co/N6N2Vc\nSliders & Flipflops : https://ajiio.co/v4fZgO\n\nINC.5 : https://ajiio.co/9USduR\n\n+ Extra 10% AJIO CASHBACK",
-    "final_url": "https://ajiio.co/kgiVkj",
-    "local_image": "assets/images/tgmsg_12943.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-14T16:34:32+00:00",
-    "buy_link": "https://ajiio.co/kgiVkj",
-    "date_iso": "2025-10-14T16:34:32+00:00"
   }
 ]
