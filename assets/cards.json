@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13459",
+    "title": "Up to 75% Off on Branded Belts @ 150💥💥💥💥",
+    "description": "Ajio | Upto 75% Off on Branded Belts @ 150💥💥💥💥 🔗🔗Link : 👉Earn 10% AJIO Super Cash on Every Order",
+    "shortlink": "https://ajiio.co/0BldCp",
+    "urls": [
+      {
+        "url": "https://ajiio.co/0BldCp",
+        "label": "Upto 75% Off on Branded Belts @ 150💥💥💥💥"
+      },
+      {
+        "url": "",
+        "label": "Earn 10% AJIO Super Cash on Every Order"
+      }
+    ],
+    "raw_text": "Ajio | Upto 75% Off on Branded Belts @ 150💥💥💥💥 \n \n🔗🔗Link : https://ajiio.co/0BldCp\n\n👉Earn 10% AJIO Super Cash on Every Order",
+    "final_url": "https://ajiio.co/0BldCp",
+    "local_image": "assets/images/tgmsg_13459.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-17T16:46:36+00:00",
+    "buy_link": "https://ajiio.co/0BldCp",
+    "date_iso": "2025-10-17T16:46:36+00:00"
+  },
+  {
     "id": "msg13456",
     "title": "Up to 80% Off On Premium Brand Clothing",
     "description": "AJIO Upto 80% Off On Premium Brand Clothing. GAS Clothing. Men : Women : G Star Raw Clothing. Men : Women : GAP. Men : Women : Boys : Girls : Infants : SUPERDRY. Men : Women : Calvin Klein : Tommy Hilfiger : Armani…",
@@ -8274,25 +8298,5 @@
     "date_obj": "2025-10-14T19:43:19+00:00",
     "buy_link": "https://www.amazon.in/dp/B0D7QBCR4M?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-14T19:43:19+00:00"
-  },
-  {
-    "id": "msg13016",
-    "title": "Savlon Moisturizing Glycerin Soap (125g x Pack Of 5) @151",
-    "description": "Amazon | Savlon Moisturizing Glycerin Soap (125g x Pack Of 5) @151 https://www.amazon.in/dp/B086H6LMBM?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B086H6LMBM?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B086H6LMBM?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Savlon Moisturizing Glycerin Soap (125g x Pack Of 5) @151"
-      }
-    ],
-    "raw_text": "Amazon | Savlon Moisturizing Glycerin Soap (125g x Pack Of 5) @151\n\nhttps://www.amazon.in/dp/B086H6LMBM?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B086H6LMBM?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13016.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-14T19:43:55+00:00",
-    "buy_link": "https://www.amazon.in/dp/B086H6LMBM?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-14T19:43:55+00:00"
   }
 ]
