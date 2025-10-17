@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13438",
+    "title": "Up to 75% Off On Puma",
+    "description": "AJIO : Upto 75% Off On Puma. https://ajiio.co/aTuMb3 https://ajiio.co/eWqEvz",
+    "shortlink": "https://ajiio.co/aTuMb3",
+    "urls": [
+      {
+        "url": "https://ajiio.co/aTuMb3",
+        "label": "Upto 75% Off On Puma"
+      },
+      {
+        "url": "https://ajiio.co/eWqEvz",
+        "label": ""
+      }
+    ],
+    "raw_text": "AJIO : Upto 75% Off On Puma.\n\nhttps://ajiio.co/aTuMb3\nhttps://ajiio.co/eWqEvz",
+    "final_url": "https://ajiio.co/aTuMb3",
+    "local_image": "assets/images/tgmsg_13438.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-17T15:17:07+00:00",
+    "buy_link": "https://ajiio.co/aTuMb3",
+    "date_iso": "2025-10-17T15:17:07+00:00"
+  },
+  {
     "id": "msg13435",
     "title": "Shirts Starts @348",
     "description": "Ajio : U.S Polo Assn. T-Shirts Starts @348. Men's : https://ajiio.co/SKwuRS Women's : https://ajiio.co/A3R0zG Boys : https://ajiio.co/ytyDoK Girls : https://ajiio.co/MKQFyi",
@@ -8286,29 +8310,5 @@
     "date_obj": "2025-10-14T19:01:31+00:00",
     "buy_link": "https://ajiio.co/sjtJ9a",
     "date_iso": "2025-10-14T19:01:31+00:00"
-  },
-  {
-    "id": "msg12990",
-    "title": "Up to 78% Off On Puma",
-    "description": "AJIO : Upto 78% Off On Puma. https://ajiio.co/VrxknT https://ajiio.co/MGWHiN",
-    "shortlink": "https://ajiio.co/VrxknT",
-    "urls": [
-      {
-        "url": "https://ajiio.co/VrxknT",
-        "label": "Upto 78% Off On Puma"
-      },
-      {
-        "url": "https://ajiio.co/MGWHiN",
-        "label": ""
-      }
-    ],
-    "raw_text": "AJIO : Upto 78% Off On Puma.\n\nhttps://ajiio.co/VrxknT\nhttps://ajiio.co/MGWHiN",
-    "final_url": "https://ajiio.co/VrxknT",
-    "local_image": "assets/images/tgmsg_12990.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-14T19:01:46+00:00",
-    "buy_link": "https://ajiio.co/VrxknT",
-    "date_iso": "2025-10-14T19:01:46+00:00"
   }
 ]
