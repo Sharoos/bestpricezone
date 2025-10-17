@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg13435",
+    "title": "Shirts Starts @348",
+    "description": "Ajio : U.S Polo Assn. T-Shirts Starts @348. Men's : https://ajiio.co/SKwuRS Women's : https://ajiio.co/A3R0zG Boys : https://ajiio.co/ytyDoK Girls : https://ajiio.co/MKQFyi",
+    "shortlink": "https://ajiio.co/SKwuRS",
+    "urls": [
+      {
+        "url": "",
+        "label": "U.S Polo Assn. T-Shirts Starts @348"
+      },
+      {
+        "url": "https://ajiio.co/SKwuRS",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/A3R0zG",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/ytyDoK",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/MKQFyi",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "Ajio : U.S Polo Assn. T-Shirts Starts @348.\n\nMen's : https://ajiio.co/SKwuRS\nWomen's : https://ajiio.co/A3R0zG\nBoys : https://ajiio.co/ytyDoK\nGirls : https://ajiio.co/MKQFyi",
+    "final_url": "https://ajiio.co/SKwuRS",
+    "local_image": "assets/images/tgmsg_13435.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-17T15:03:13+00:00",
+    "buy_link": "https://ajiio.co/SKwuRS",
+    "date_iso": "2025-10-17T15:03:13+00:00"
+  },
+  {
     "id": "msg13432",
     "title": "Topwear Clothing Under ₹199",
     "description": "Ajio | Topwear Clothing Under ₹199 Men's : https://ajiio.co/4nZ67i Women's : https://ajiio.co/7GuJ5H Boys : https://ajiio.co/M6Iizp Girls : https://ajiio.co/nonvCO Baby : https://ajiio.co/VA821p",
@@ -8274,29 +8310,5 @@
     "date_obj": "2025-10-14T19:01:46+00:00",
     "buy_link": "https://ajiio.co/VrxknT",
     "date_iso": "2025-10-14T19:01:46+00:00"
-  },
-  {
-    "id": "msg12992",
-    "title": "Offer Valid For Today Use Supercoin for Extra Off",
-    "description": "Flipkart | Realme C71 (6GB 128G😎 @7499. Offer Valid For Today | Use Supercoin for Extra Off",
-    "shortlink": "https://fkrt.co/RB0v3G",
-    "urls": [
-      {
-        "url": "https://fkrt.co/RB0v3G",
-        "label": "Realme C71 (6GB 128G😎 @7499"
-      },
-      {
-        "url": "",
-        "label": "Use Supercoin for Extra Off"
-      }
-    ],
-    "raw_text": "Flipkart | Realme C71 (6GB 128G😎 @7499.\n\nhttps://fkrt.co/RB0v3G\n\nOffer Valid For Today | Use Supercoin for Extra Off",
-    "final_url": "https://fkrt.co/RB0v3G",
-    "local_image": "assets/images/tgmsg_12992.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-14T19:02:31+00:00",
-    "buy_link": "https://fkrt.co/RB0v3G",
-    "date_iso": "2025-10-14T19:02:31+00:00"
   }
 ]
