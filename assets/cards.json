@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg13395",
+    "title": "Use HDFC Card Or Pay Using Pay ICICI Card for cashback",
+    "description": "Amazon | In Stock : iPhone 17 Pro Max 1 TB 👉 iPhone 17 Pro : 👉 More : Use HDFC Card Or Pay Using Amazon Pay ICICI Card for cashback",
+    "shortlink": "https://www.amazon.in/dp/B0FQFJKBVY?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FQFJKBVY?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "In Stock : iPhone 17 Pro Max 1 TB"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0FQFBHQMJ?tag=bestpricezo0f-21",
+        "label": "iPhone 17 Pro"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0FQF5DG3P?tag=bestpricezo0f-21",
+        "label": "In Stock : iPhone 17 Pro Max 1 TB"
+      },
+      {
+        "url": "https://www.amazon.in/s?k=iPhone%2017%20pro&crid=3INUTA0NAV3WZ&sprefix=iphone%2017%20p%2Caps%2C244&tag=bestpricezo0f-21",
+        "label": "More"
+      },
+      {
+        "url": "",
+        "label": "Use HDFC Card Or Pay Using Amazon Pay ICICI Card for cashback"
+      }
+    ],
+    "raw_text": "Amazon | In Stock : iPhone 17 Pro Max 1 TB\n\n👉https://www.amazon.in/dp/B0FQFJKBVY?th=1&psc=1&tag=bestpricezo0f-21\n\niPhone 17 Pro : https://www.amazon.in/dp/B0FQFBHQMJ?tag=bestpricezo0f-21\n\n👉https://www.amazon.in/dp/B0FQF5DG3P?tag=bestpricezo0f-21\n\nMore : https://www.amazon.in/s?k=iPhone%2017%20pro&crid=3INUTA0NAV3WZ&sprefix=iphone%2017%20p%2Caps%2C244&tag=bestpricezo0f-21\n\nUse HDFC Card Or Pay Using Amazon Pay ICICI Card for cashback",
+    "final_url": "https://www.amazon.in/dp/B0FQFJKBVY?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13395.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-17T07:03:49+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FQFJKBVY?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-17T07:03:49+00:00"
+  },
+  {
+    "id": "msg13396",
+    "title": "GOBOULT W60 True Wireless in Ear Earbuds 60H Playtime @899",
+    "description": "Amazon | GOBOULT W60 True Wireless in Ear Earbuds 60H Playtime @899 👉https://www.amazon.in/dp/B0FDWW81WV?th=1&tag=bestpricezo0f-21 Pond's Men Oil Control Face Crème, 55 g @111…",
+    "shortlink": "https://www.amazon.in/dp/B0FDWW81WV?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FDWW81WV?th=1&tag=bestpricezo0f-21",
+        "label": "GOBOULT W60 True Wireless in Ear Earbuds 60H Playtime @899"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B07TG38JN4?th=1&tag=bestpricezo0f-21",
+        "label": "Pond's Men Oil Control Face Crème, 55 g @111"
+      }
+    ],
+    "raw_text": "Amazon | GOBOULT W60 True Wireless in Ear Earbuds 60H Playtime @899\n\n👉https://www.amazon.in/dp/B0FDWW81WV?th=1&tag=bestpricezo0f-21\n\nPond's Men Oil Control Face Crème, 55 g @111\n\n👉https://www.amazon.in/dp/B07TG38JN4?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FDWW81WV?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13396.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-17T07:15:14+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FDWW81WV?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-17T07:15:14+00:00"
+  },
+  {
     "id": "msg13394",
     "title": "Branded Men's Shirts from Rs.180",
     "description": "Ajio | Branded Men's T-Shirts from Rs.100 👉https://ajiio.co/KPKzAs Branded Men's Shirts from Rs.180 👉https://ajiio.co/JlaZlK",
@@ -8362,49 +8422,5 @@
     "date_obj": "2025-10-14T17:45:33+00:00",
     "buy_link": "https://ajiio.co/2q7Yc2",
     "date_iso": "2025-10-14T17:45:33+00:00"
-  },
-  {
-    "id": "msg12947",
-    "title": "Carbamide Forte Multivitamin Tablets ( 120 Tablets ) @748",
-    "description": "Carbamide Forte Multivitamin Tablets ( 120 Tablets ) @748 https://www.amazon.in/dp/B08H2G218F?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B08H2G218F?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B08H2G218F?tag=bestpricezo0f-21",
-        "label": "Carbamide Forte Multivitamin Tablets ( 120 Tablets ) @748"
-      }
-    ],
-    "raw_text": "Carbamide Forte Multivitamin Tablets ( 120 Tablets ) @748\n\nhttps://www.amazon.in/dp/B08H2G218F?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B08H2G218F?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_12947.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-14T17:07:57+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08H2G218F?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-14T17:07:57+00:00"
-  },
-  {
-    "id": "msg12948",
-    "title": "Min. 80% Off On Lee Cooper Watche",
-    "description": "AJIO  Min. 80% Off On Lee Cooper Watches. Link : https://ajiio.co/yXYk9m + Extra 10% AJIO Super Cash.",
-    "shortlink": "https://ajiio.co/yXYk9m",
-    "urls": [
-      {
-        "url": "https://ajiio.co/yXYk9m",
-        "label": "AJIO Min. 80% Off On Lee Cooper Watches"
-      },
-      {
-        "url": "",
-        "label": "+ Extra 10% AJIO Super Cash"
-      }
-    ],
-    "raw_text": "AJIO  Min. 80% Off On Lee Cooper Watches. \n\nLink : https://ajiio.co/yXYk9m\n\n+ Extra 10% AJIO Super Cash.",
-    "final_url": "https://ajiio.co/yXYk9m",
-    "local_image": "assets/images/tgmsg_12948.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-14T17:11:43+00:00",
-    "buy_link": "https://ajiio.co/yXYk9m",
-    "date_iso": "2025-10-14T17:11:43+00:00"
   }
 ]
