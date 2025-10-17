@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg13398",
+    "title": "Shirts Starts @299",
+    "description": "Ajio : U.S Polo Assn. T-Shirts Starts @299. Men's : https://ajiio.co/5HZSgQ Women's : https://ajiio.co/lWdI4w Boys : https://ajiio.co/73rb7Z Girls : https://ajiio.co/akwjE3",
+    "shortlink": "https://ajiio.co/5HZSgQ",
+    "urls": [
+      {
+        "url": "",
+        "label": "U.S Polo Assn. T-Shirts Starts @299"
+      },
+      {
+        "url": "https://ajiio.co/5HZSgQ",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/lWdI4w",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/73rb7Z",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/akwjE3",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "Ajio : U.S Polo Assn. T-Shirts Starts @299.\n\nMen's : https://ajiio.co/5HZSgQ\nWomen's : https://ajiio.co/lWdI4w\nBoys : https://ajiio.co/73rb7Z\nGirls : https://ajiio.co/akwjE3",
+    "final_url": "https://ajiio.co/5HZSgQ",
+    "local_image": "assets/images/tgmsg_13398.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-17T07:45:17+00:00",
+    "buy_link": "https://ajiio.co/5HZSgQ",
+    "date_iso": "2025-10-17T07:45:17+00:00"
+  },
+  {
     "id": "msg13397",
     "title": "EvoFox Deathray v2 Pro Gaming Keyboard @ ₹898",
     "description": "Amazon | 🔥Lowest Price 🔥 👉 EvoFox Deathray v2 Pro Gaming Keyboard @ ₹898 👉https://www.amazon.in/dp/B0DYVFZ7LR/ref=cm_sw_r_as_gl_apa_gl_i_Q3NZ5BV8XTVEDXWHAQ3H?tag=bestpricezo0f-21 👉 V2 Gaming Keyboard and Mouse Combo @…",
@@ -8406,25 +8442,5 @@
     "date_obj": "2025-10-14T18:27:07+00:00",
     "buy_link": "https://fkrt.co/0Xm26n",
     "date_iso": "2025-10-14T18:27:07+00:00"
-  },
-  {
-    "id": "msg12957",
-    "title": "Dabur Lal Tail (500ml x 3) @ 690",
-    "description": "Flipkart : Dabur Lal Tail (500ml x 3) @ 690. https://fkrt.co/yoKKgP *Buy Max, Real MRP ₹1540",
-    "shortlink": "https://fkrt.co/yoKKgP",
-    "urls": [
-      {
-        "url": "https://fkrt.co/yoKKgP",
-        "label": "Dabur Lal Tail (500ml x 3) @ 690"
-      }
-    ],
-    "raw_text": "Flipkart : Dabur Lal Tail (500ml x 3) @ 690.\n\n https://fkrt.co/yoKKgP\n\n*Buy Max, Real MRP ₹1540",
-    "final_url": "https://fkrt.co/yoKKgP",
-    "local_image": "assets/images/tgmsg_12957.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-14T18:31:40+00:00",
-    "buy_link": "https://fkrt.co/yoKKgP",
-    "date_iso": "2025-10-14T18:31:40+00:00"
   }
 ]
