@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13413",
+    "title": "Up to 75% Off on Co",
+    "description": "Ajio | Upto 75% Off on Co-Ord Sets Starting @ just ₹297 👉Link : https://ajiio.co/tfhQVo",
+    "shortlink": "https://ajiio.co/tfhQVo",
+    "urls": [
+      {
+        "url": "https://ajiio.co/tfhQVo",
+        "label": "Upto 75% Off on Co-Ord Sets Starting @ just ₹297"
+      }
+    ],
+    "raw_text": "Ajio | Upto 75% Off on Co-Ord Sets Starting @ just ₹297\n \n👉Link : https://ajiio.co/tfhQVo",
+    "final_url": "https://ajiio.co/tfhQVo",
+    "local_image": "assets/images/tgmsg_13413.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-17T11:34:22+00:00",
+    "buy_link": "https://ajiio.co/tfhQVo",
+    "date_iso": "2025-10-17T11:34:22+00:00"
+  },
+  {
     "id": "msg13411",
     "title": "Women's Westernwear Under ₹399 (Rio, Fig & More)",
     "description": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More) Women : https://ajiio.co/QOfJcj Girls : https://ajiio.co/AVM521",
@@ -8370,25 +8390,5 @@
     "date_obj": "2025-10-14T18:54:01+00:00",
     "buy_link": "https://ajiio.co/ujoomD",
     "date_iso": "2025-10-14T18:54:01+00:00"
-  },
-  {
-    "id": "msg12984",
-    "title": "Yonex Badminton Raquets at 50% off",
-    "description": "Flipkart | Yonex Badminton Raquets at 50% off https://fkrt.co/kvhbT4",
-    "shortlink": "https://fkrt.co/kvhbT4",
-    "urls": [
-      {
-        "url": "https://fkrt.co/kvhbT4",
-        "label": "Yonex Badminton Raquets at 50% off"
-      }
-    ],
-    "raw_text": "Flipkart | Yonex Badminton Raquets at 50% off\n\nhttps://fkrt.co/kvhbT4",
-    "final_url": "https://fkrt.co/kvhbT4",
-    "local_image": "assets/images/tgmsg_12984.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-14T18:55:41+00:00",
-    "buy_link": "https://fkrt.co/kvhbT4",
-    "date_iso": "2025-10-14T18:55:41+00:00"
   }
 ]
