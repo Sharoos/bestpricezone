@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg13410",
+    "title": "🛒 Deal Price ₹99",
+    "description": "Amazon | 🔌 Cable Protector Pack of 30 🛒 Deal Price: ₹99 👉https://www.amazon.in/dp/B0D7SS7QDW?th=1&tag=bestpricezo0f-21 👉https://www.amazon.in/dp/B0D7SNZZVX?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0D7SS7QDW?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔌 Cable Protector Pack of 30"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0D7SS7QDW?th=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹99"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0D7SNZZVX?th=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹99"
+      }
+    ],
+    "raw_text": "Amazon | 🔌 Cable Protector Pack of 30\n\n🛒 Deal Price: ₹99\n\n👉https://www.amazon.in/dp/B0D7SS7QDW?th=1&tag=bestpricezo0f-21\n👉https://www.amazon.in/dp/B0D7SNZZVX?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D7SS7QDW?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13410.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-17T10:45:29+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D7SS7QDW?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-17T10:45:29+00:00"
+  },
+  {
     "id": "msg13403",
     "title": "🛒 Deal Price ₹440",
     "description": "Amazon | ☕️ Electric Kettle Deals! Pigeon Electric Kettle 1.5 Ltr 🛒 Deal Price: ₹440 👉 Wonderchef Electric Kettle, 1.5 Ltr 🛒 Deal Price: ₹431 👉",
@@ -8354,41 +8382,5 @@
     "date_obj": "2025-10-14T18:35:53+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FBM3L9PH?tag=bestpricezo0f-21",
     "date_iso": "2025-10-14T18:35:53+00:00"
-  },
-  {
-    "id": "msg12974",
-    "title": "Shirts Starts @ 300",
-    "description": "Ajio : U.S Polo Assn. T-Shirts Starts @ 300. Men's : https://ajiio.co/KEHxrG Women's : https://ajiio.co/TrSR71 Boys : https://ajiio.co/kVRuWm Girls : https://ajiio.co/ZnQOxP",
-    "shortlink": "https://ajiio.co/KEHxrG",
-    "urls": [
-      {
-        "url": "",
-        "label": "U.S Polo Assn. T-Shirts Starts @ 300"
-      },
-      {
-        "url": "https://ajiio.co/KEHxrG",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/TrSR71",
-        "label": "Women's"
-      },
-      {
-        "url": "https://ajiio.co/kVRuWm",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/ZnQOxP",
-        "label": "Girls"
-      }
-    ],
-    "raw_text": "Ajio : U.S Polo Assn. T-Shirts Starts @ 300.\n\nMen's : https://ajiio.co/KEHxrG\nWomen's : https://ajiio.co/TrSR71\nBoys : https://ajiio.co/kVRuWm\nGirls : https://ajiio.co/ZnQOxP",
-    "final_url": "https://ajiio.co/KEHxrG",
-    "local_image": "assets/images/tgmsg_12974.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-14T18:40:58+00:00",
-    "buy_link": "https://ajiio.co/KEHxrG",
-    "date_iso": "2025-10-14T18:40:58+00:00"
   }
 ]
