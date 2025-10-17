@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg13403",
+    "title": "🛒 Deal Price ₹440",
+    "description": "Amazon | ☕️ Electric Kettle Deals! Pigeon Electric Kettle 1.5 Ltr 🛒 Deal Price: ₹440 👉 Wonderchef Electric Kettle, 1.5 Ltr 🛒 Deal Price: ₹431 👉",
+    "shortlink": "https://www.amazon.in/dp/B0CTKHV7PT?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "☕️ Electric Kettle Deals!"
+      },
+      {
+        "url": "",
+        "label": "Pigeon Electric Kettle 1.5 Ltr"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0CTKHV7PT?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹440"
+      },
+      {
+        "url": "",
+        "label": "Wonderchef Electric Kettle, 1.5 Ltr"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0DRVZBH4S?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹431"
+      }
+    ],
+    "raw_text": "Amazon | ☕️ Electric Kettle Deals!\n\nPigeon Electric Kettle 1.5 Ltr\n🛒 Deal Price: ₹440\n👉https://www.amazon.in/dp/B0CTKHV7PT?th=1&psc=1&tag=bestpricezo0f-21\n\nWonderchef Electric Kettle, 1.5 Ltr\n🛒 Deal Price: ₹431\n👉https://www.amazon.in/dp/B0DRVZBH4S?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CTKHV7PT?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13403.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-17T09:03:32+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CTKHV7PT?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-17T09:03:32+00:00"
+  },
+  {
+    "id": "msg13404",
+    "title": "5 Qty, Extra 5% Off + Freebie",
+    "description": "Amazon | Parachute Body Lotion, 600ml @ 152. Apply 5% Coupon : Buy s. Master Link :",
+    "shortlink": "https://www.amazon.in/dp/B0CG17DT8T?psc=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Parachute Body Lotion, 600ml @ 152"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0CG17DT8T?psc=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+        "label": "Apply 5%"
+      },
+      {
+        "url": "https://www.amazon.in/s?k=Parachute&i=beauty&rh=n%253A1355016031%252Cp_6%253AA15APWRK6P7LBV%252Cp_85%253A10440599031%252Cp_123%253A464181&dc=&crid=1XIG7VUP8ZV0&qid=1760676839&sprefix=parachute%2520%252Cbeauty%252C211&ds=v1%253AvSq6o%252Bxb9BFWuJFbcpabB57B8i7DElbT1kWhvHLlmzA&tag=bestpricezo0f-21",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Amazon | Parachute Body Lotion, 600ml @ 152.\n\nApply 5% Coupon : https://www.amazon.in/dp/B0CG17DT8T?psc=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21\n\nBuy 5 Qty, Extra 5% Off + Freebies.\n\nMaster Link : https://www.amazon.in/s?k=Parachute&i=beauty&rh=n%253A1355016031%252Cp_6%253AA15APWRK6P7LBV%252Cp_85%253A10440599031%252Cp_123%253A464181&dc=&crid=1XIG7VUP8ZV0&qid=1760676839&sprefix=parachute%2520%252Cbeauty%252C211&ds=v1%253AvSq6o%252Bxb9BFWuJFbcpabB57B8i7DElbT1kWhvHLlmzA&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CG17DT8T?psc=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13404.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-17T09:17:34+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CG17DT8T?psc=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-17T09:17:34+00:00"
+  },
+  {
     "id": "msg13402",
     "title": "Meesho Kurta Sharara Set ₹235",
     "description": "Meesho | Kurta Sharara Set ₹235 👉https://msho.in/KMSMyf 👉https://msho.in/ik2aDb 👉https://msho.in/Vlyin3 👉https://msho.in/D5HmPp 👉https://msho.in/BBwFlA",
@@ -8326,65 +8390,5 @@
     "date_obj": "2025-10-14T18:40:58+00:00",
     "buy_link": "https://ajiio.co/KEHxrG",
     "date_iso": "2025-10-14T18:40:58+00:00"
-  },
-  {
-    "id": "msg12975",
-    "title": "Skullcandy InkD True Wireless Earbuds @1999",
-    "description": "Flipkart | Skullcandy InkD True Wireless Earbuds @1999 https://fkrt.co/wLlLea",
-    "shortlink": "https://fkrt.co/wLlLea",
-    "urls": [
-      {
-        "url": "https://fkrt.co/wLlLea",
-        "label": "Skullcandy InkD True Wireless Earbuds @1999"
-      }
-    ],
-    "raw_text": "Flipkart | Skullcandy InkD True Wireless Earbuds @1999\n\nhttps://fkrt.co/wLlLea",
-    "final_url": "https://fkrt.co/wLlLea",
-    "local_image": "assets/images/tgmsg_12975.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-14T18:45:44+00:00",
-    "buy_link": "https://fkrt.co/wLlLea",
-    "date_iso": "2025-10-14T18:45:44+00:00"
-  },
-  {
-    "id": "msg12977",
-    "title": "Topwear Clothing Under @199",
-    "description": "Ajio | Topwear Clothing Under @199 Men's : https://ajiio.co/Z3IWr4 Women's : https://ajiio.co/Us1Wit Boy’s : https://ajiio.co/HMFDbc Girl’s : https://ajiio.co/4lIo47 Baby : https://ajiio.co/5k0sBv",
-    "shortlink": "https://ajiio.co/Z3IWr4",
-    "urls": [
-      {
-        "url": "",
-        "label": "Topwear Clothing Under @199"
-      },
-      {
-        "url": "https://ajiio.co/Z3IWr4",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/Us1Wit",
-        "label": "Women's"
-      },
-      {
-        "url": "https://ajiio.co/HMFDbc",
-        "label": "Boy’s"
-      },
-      {
-        "url": "https://ajiio.co/4lIo47",
-        "label": "Girl’s"
-      },
-      {
-        "url": "https://ajiio.co/5k0sBv",
-        "label": "Baby"
-      }
-    ],
-    "raw_text": "Ajio | Topwear Clothing Under @199\n\nMen's : https://ajiio.co/Z3IWr4\nWomen's : https://ajiio.co/Us1Wit\nBoy’s : https://ajiio.co/HMFDbc\nGirl’s : https://ajiio.co/4lIo47\nBaby : https://ajiio.co/5k0sBv",
-    "final_url": "https://ajiio.co/Z3IWr4",
-    "local_image": "assets/images/tgmsg_12977.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-14T18:46:46+00:00",
-    "buy_link": "https://ajiio.co/Z3IWr4",
-    "date_iso": "2025-10-14T18:46:46+00:00"
   }
 ]
