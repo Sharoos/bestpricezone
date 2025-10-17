@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13383",
+    "title": "Puma Trousers min 60% off",
+    "description": "Flipkart | Puma Trousers min 60% off Men  :  https://fkrt.co/i3UoJ1 Women  :  https://fkrt.co/rSTKKL",
+    "shortlink": "https://fkrt.co/i3UoJ1",
+    "urls": [
+      {
+        "url": "https://fkrt.co/i3UoJ1",
+        "label": "Puma Trousers min 60% off"
+      },
+      {
+        "url": "https://fkrt.co/rSTKKL",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Flipkart | Puma Trousers min 60% off\n\nMen  :  https://fkrt.co/i3UoJ1\n\nWomen  :  https://fkrt.co/rSTKKL",
+    "final_url": "https://fkrt.co/i3UoJ1",
+    "local_image": "assets/images/tgmsg_13383.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-17T04:04:58+00:00",
+    "buy_link": "https://fkrt.co/i3UoJ1",
+    "date_iso": "2025-10-17T04:04:58+00:00"
+  },
+  {
     "id": "msg13382",
     "title": "Up to 80% Off on Perfumes Starting @ 133",
     "description": "Ajio | Upto 80% Off on Perfumes Starting @ 133 Link : https://ajiio.co/4gvO4k",
@@ -8394,25 +8418,5 @@
     "date_obj": "2025-10-14T15:21:43+00:00",
     "buy_link": "https://fkrt.co/KrNF6u",
     "date_iso": "2025-10-14T15:21:43+00:00"
-  },
-  {
-    "id": "msg12927",
-    "title": "Comforter Starts @486",
-    "description": "Flipkart | Comforter Starts @486. 👉https://fkrt.co/2R6cBd",
-    "shortlink": "https://fkrt.co/2R6cBd",
-    "urls": [
-      {
-        "url": "https://fkrt.co/2R6cBd",
-        "label": "Comforter Starts @486"
-      }
-    ],
-    "raw_text": "Flipkart | Comforter Starts @486.\n\n👉https://fkrt.co/2R6cBd",
-    "final_url": "https://fkrt.co/2R6cBd",
-    "local_image": "assets/images/tgmsg_12927.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-14T15:33:11+00:00",
-    "buy_link": "https://fkrt.co/2R6cBd",
-    "date_iso": "2025-10-14T15:33:11+00:00"
   }
 ]
