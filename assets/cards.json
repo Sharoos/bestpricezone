@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13464",
+    "title": "Fem Handwash, 1.5 Ltr @ 119",
+    "description": "Amazon | Fem Handwash, 1.5 Ltr @ 119. 👉https://www.amazon.in/dp/B0D314FYDY?psc=1&th=1&tag=bestpricezo0f-21 👉https://www.amazon.in/dp/B0D31473BC?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0D314FYDY?psc=1&th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0D314FYDY?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "Fem Handwash, 1.5 Ltr @ 119"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0D31473BC?tag=bestpricezo0f-21",
+        "label": "Fem Handwash, 1.5 Ltr @ 119"
+      }
+    ],
+    "raw_text": "Amazon | Fem Handwash, 1.5 Ltr @ 119.\n\n👉https://www.amazon.in/dp/B0D314FYDY?psc=1&th=1&tag=bestpricezo0f-21\n👉https://www.amazon.in/dp/B0D31473BC?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D314FYDY?psc=1&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13464.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-17T17:46:21+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D314FYDY?psc=1&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-17T17:46:21+00:00"
+  },
+  {
     "id": "msg13462",
     "title": "Up to 80% Off On Levi's Clothing",
     "description": "Amazon | Upto 80% Off On Levi's Clothing. Men :…",
@@ -8294,25 +8318,5 @@
     "date_obj": "2025-10-14T19:39:23+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F67HZ381?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-14T19:39:23+00:00"
-  },
-  {
-    "id": "msg13012",
-    "title": "Up to 77% OFF",
-    "description": "Flipkart | Upto 77% OFF - Engage Deodorant & Perfumes https://fkrt.co/VG2vk1",
-    "shortlink": "https://fkrt.co/VG2vk1",
-    "urls": [
-      {
-        "url": "https://fkrt.co/VG2vk1",
-        "label": "Upto 77% OFF - Engage Deodorant & Perfumes"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 77% OFF - Engage Deodorant & Perfumes\n\nhttps://fkrt.co/VG2vk1",
-    "final_url": "https://fkrt.co/VG2vk1",
-    "local_image": "assets/images/tgmsg_13012.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-14T19:40:18+00:00",
-    "buy_link": "https://fkrt.co/VG2vk1",
-    "date_iso": "2025-10-14T19:40:18+00:00"
   }
 ]
