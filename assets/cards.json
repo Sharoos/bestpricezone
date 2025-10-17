@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg13470",
+    "title": "Shirts Starts @299",
+    "description": "Ajio : U.S Polo Assn. T-Shirts Starts @299. Men's : https://ajiio.co/NGdBF2 Women's : https://ajiio.co/7Inv1L Boys : https://ajiio.co/dKHPHj Girls : https://ajiio.co/jagjfG",
+    "shortlink": "https://ajiio.co/NGdBF2",
+    "urls": [
+      {
+        "url": "",
+        "label": "U.S Polo Assn. T-Shirts Starts @299"
+      },
+      {
+        "url": "https://ajiio.co/NGdBF2",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/7Inv1L",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/dKHPHj",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/jagjfG",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "Ajio : U.S Polo Assn. T-Shirts Starts @299.\n\nMen's : https://ajiio.co/NGdBF2\nWomen's : https://ajiio.co/7Inv1L\nBoys : https://ajiio.co/dKHPHj\nGirls : https://ajiio.co/jagjfG",
+    "final_url": "https://ajiio.co/NGdBF2",
+    "local_image": "assets/images/tgmsg_13470.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-17T18:29:08+00:00",
+    "buy_link": "https://ajiio.co/NGdBF2",
+    "date_iso": "2025-10-17T18:29:08+00:00"
+  },
+  {
     "id": "msg13464",
     "title": "Fem Handwash, 1.5 Ltr @ 119",
     "description": "Amazon | Fem Handwash, 1.5 Ltr @ 119. 👉https://www.amazon.in/dp/B0D314FYDY?psc=1&th=1&tag=bestpricezo0f-21 👉https://www.amazon.in/dp/B0D31473BC?tag=bestpricezo0f-21",
@@ -8298,25 +8334,5 @@
     "date_obj": "2025-10-14T19:38:48+00:00",
     "buy_link": "https://www.amazon.in/s?k=Van%20Heusen&i=apparel&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_123%3A232761%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A27060457031&dc=&ds=v1%3AyeIhdND5Jt8dWeQowr0P7yc4TN6gVwt2VsEtYBLgQXg&qid=1760156851&tag=bestpricezo0f-21",
     "date_iso": "2025-10-14T19:38:48+00:00"
-  },
-  {
-    "id": "msg13011",
-    "title": "82% off Safari Genius Fortis Set of 2 (Cabin + Medium) Trolley Bags @2850",
-    "description": "Amazon | Apply 5% off Coupon 82% off : Safari Genius Fortis Set of 2 (Cabin + Medium) Trolley Bags @2850",
-    "shortlink": "https://www.amazon.in/dp/B0F67HZ381?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F67HZ381?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "82% off : Safari Genius Fortis Set of 2 (Cabin + Medium) Trolley Bags @2850"
-      }
-    ],
-    "raw_text": "Amazon | Apply 5% off Coupon\n\n82% off : Safari Genius Fortis Set of 2 (Cabin + Medium) Trolley Bags @2850\n\nhttps://www.amazon.in/dp/B0F67HZ381?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F67HZ381?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13011.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-14T19:39:23+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F67HZ381?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-14T19:39:23+00:00"
   }
 ]
