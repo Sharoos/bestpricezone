@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13418",
+    "title": "Min. 80% Off On Lee Cooper Watche",
+    "description": "AJIO  Min. 80% Off On Lee Cooper Watches. 👉Link : https://ajiio.co/0Qex3M + Extra 10% AJIO Super Cash.",
+    "shortlink": "https://ajiio.co/0Qex3M",
+    "urls": [
+      {
+        "url": "https://ajiio.co/0Qex3M",
+        "label": "AJIO Min. 80% Off On Lee Cooper Watches"
+      },
+      {
+        "url": "",
+        "label": "+ Extra 10% AJIO Super Cash"
+      }
+    ],
+    "raw_text": "AJIO  Min. 80% Off On Lee Cooper Watches. \n\n👉Link : https://ajiio.co/0Qex3M\n\n+ Extra 10% AJIO Super Cash.",
+    "final_url": "https://ajiio.co/0Qex3M",
+    "local_image": "assets/images/tgmsg_13418.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-17T12:34:24+00:00",
+    "buy_link": "https://ajiio.co/0Qex3M",
+    "date_iso": "2025-10-17T12:34:24+00:00"
+  },
+  {
     "id": "msg13416",
     "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
     "description": "Ajio | 👟 Reebok Men's Shoes – Starts at ₹900 👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
@@ -8314,25 +8338,5 @@
     "date_obj": "2025-10-14T19:14:00+00:00",
     "buy_link": "https://fkrt.co/khMbnY",
     "date_iso": "2025-10-14T19:14:00+00:00"
-  },
-  {
-    "id": "msg13001",
-    "title": "Apply ₹2000",
-    "description": "Amazon | Apply ₹2000 Coupon iQOO Z10R 5G (Moonstone, 8GB RAM, 128GB Storage) @17498 https://www.amazon.in/dp/B0FHB5982P?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FHB5982P?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FHB5982P?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "iQOO Z10R 5G (Moonstone, 8GB RAM, 128GB Storage) @17498"
-      }
-    ],
-    "raw_text": "Amazon | Apply ₹2000 Coupon\n\niQOO Z10R 5G (Moonstone, 8GB RAM, 128GB Storage) @17498\n\nhttps://www.amazon.in/dp/B0FHB5982P?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FHB5982P?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13001.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-14T19:14:45+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FHB5982P?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-14T19:14:45+00:00"
   }
 ]
