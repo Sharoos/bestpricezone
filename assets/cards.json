@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13591",
+    "title": "Park Avenue Conquer – Eau De Parfum Men, 100ml @ 479",
+    "description": "Amazon | Park Avenue Conquer – Eau De Parfum Men, 100ml @ 479 https://www.amazon.in/dp/B077P7K9VR?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B077P7K9VR?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B077P7K9VR?tag=bestpricezo0f-21",
+        "label": "Park Avenue Conquer – Eau De Parfum Men, 100ml @ 479"
+      }
+    ],
+    "raw_text": "Amazon | Park Avenue Conquer – Eau De Parfum Men, 100ml @ 479\n\nhttps://www.amazon.in/dp/B077P7K9VR?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B077P7K9VR?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13591.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-18T15:26:37+00:00",
+    "buy_link": "https://www.amazon.in/dp/B077P7K9VR?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-18T15:26:37+00:00"
+  },
+  {
     "id": "msg13586",
     "title": "Savlon Moisturizing Glycerin Soap (125g x Pack Of 5) @130",
     "description": "Amazon | Savlon Moisturizing Glycerin Soap (125g x Pack Of 5) @130 https://www.amazon.in/dp/B086H6LMBM?th=1&psc=1&tag=bestpricezo0f-21",
@@ -8194,33 +8214,5 @@
     "date_obj": "2025-10-15T10:50:05+00:00",
     "buy_link": "https://ajiio.co/u3rBOU",
     "date_iso": "2025-10-15T10:50:05+00:00"
-  },
-  {
-    "id": "msg13085",
-    "title": "Up to 75% Off On Wildcraft Clothing",
-    "description": "Flipkart | Upto 75% Off On Wildcraft Clothing https://fkrt.co/NeVsfP FILA Clothing : https://fkrt.co/ZCVVAc Numero Uno : https://fkrt.co/sEO74v",
-    "shortlink": "https://fkrt.co/NeVsfP",
-    "urls": [
-      {
-        "url": "https://fkrt.co/NeVsfP",
-        "label": "Upto 75% Off On Wildcraft Clothing"
-      },
-      {
-        "url": "https://fkrt.co/ZCVVAc",
-        "label": "FILA Clothing"
-      },
-      {
-        "url": "https://fkrt.co/sEO74v",
-        "label": "Numero Uno"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 75% Off On Wildcraft Clothing\nhttps://fkrt.co/NeVsfP\n\nFILA Clothing : \nhttps://fkrt.co/ZCVVAc\n\nNumero Uno :  \nhttps://fkrt.co/sEO74v",
-    "final_url": "https://fkrt.co/NeVsfP",
-    "local_image": "assets/images/tgmsg_13085.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-15T10:40:06+00:00",
-    "buy_link": "https://fkrt.co/NeVsfP",
-    "date_iso": "2025-10-15T10:40:06+00:00"
   }
 ]
