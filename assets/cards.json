@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13611",
+    "title": "tax%3A2665401031%2Cp_89%3ALAKM%25C3%2589&s=price",
+    "description": "Amazon | Lakme Beauty Products Starts @111.…",
+    "shortlink": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ALAKM%25C3%2589&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ALAKM%25C3%2589&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+        "label": "Lakme Beauty Products Starts @111"
+      },
+      {
+        "url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_89%3APOND%27S%2Cp_85%3A10440599031%2Cp_n_pct-off-with-tax%3A2665402031&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+        "label": "Pond's"
+      }
+    ],
+    "raw_text": "Amazon | Lakme Beauty Products Starts @111.\n\n👉https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ALAKM%25C3%2589&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21\n\nPond's : https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_89%3APOND%27S%2Cp_85%3A10440599031%2Cp_n_pct-off-with-tax%3A2665402031&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ALAKM%25C3%2589&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13611.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-18T17:41:29+00:00",
+    "buy_link": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ALAKM%25C3%2589&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-18T17:41:29+00:00"
+  },
+  {
     "id": "msg13609",
     "title": "Carbamide Forte Women Car Juice 1L @484 +",
     "description": "Carbamide Forte Women Car Juice 1L @484 + Coupon https://www.amazon.in/dp/B0FKH96QQJ?tag=bestpricezo0f-21",
@@ -8130,25 +8154,5 @@
     "date_obj": "2025-10-15T12:30:08+00:00",
     "buy_link": "https://extp.in/IgucNn",
     "date_iso": "2025-10-15T12:30:08+00:00"
-  },
-  {
-    "id": "msg13101",
-    "title": "Open Secret 9 Product Premium Diwali Gift Hamper at ₹375",
-    "description": "Loot: Open Secret 9 Product Premium Diwali Gift Hamper at ₹375 https://www.amazon.in/dp/B08MB17XNF?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B08MB17XNF?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B08MB17XNF?tag=bestpricezo0f-21",
-        "label": "Open Secret 9 Product Premium Diwali Gift Hamper at ₹375"
-      }
-    ],
-    "raw_text": "Loot: Open Secret 9 Product Premium Diwali Gift Hamper at ₹375\n\nhttps://www.amazon.in/dp/B08MB17XNF?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B08MB17XNF?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13101.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-15T12:35:17+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08MB17XNF?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-15T12:35:17+00:00"
   }
 ]
