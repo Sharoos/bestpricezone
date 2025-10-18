@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13499",
+    "title": "RR Signature 150 mm Exhaust Fan @799",
+    "description": "Amazon | RR Signature 150 mm Exhaust Fan @799. 👉https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
+        "label": "RR Signature 150 mm Exhaust Fan @799"
+      }
+    ],
+    "raw_text": "Amazon | RR Signature 150 mm Exhaust Fan @799.\n\n👉https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13499.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-18T03:29:34+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-18T03:29:34+00:00"
+  },
+  {
     "id": "msg13485",
     "title": "Apply ₹1500 Off + Flat ₹6250 Off",
     "description": "Amazon | Candy 1.5 Ton 3 Star Split AC @20,100. Apply ₹1500 Off Coupon + Flat ₹6250 Off With HDFC Bank Credit Card.",
@@ -8334,25 +8354,5 @@
     "date_obj": "2025-10-14T19:44:40+00:00",
     "buy_link": "https://www.amazon.in/dp/B0D53LM2CX?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-14T19:44:40+00:00"
-  },
-  {
-    "id": "msg13018",
-    "title": "Havells 1000 Watt Hair Dryer @599",
-    "description": "Amazon | Havells 1000 Watt Hair Dryer @599. https://www.amazon.in/dp/B0D3LT61KQ?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D3LT61KQ?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0D3LT61KQ?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Havells 1000 Watt Hair Dryer @599"
-      }
-    ],
-    "raw_text": "Amazon | Havells 1000 Watt Hair Dryer @599.\n\nhttps://www.amazon.in/dp/B0D3LT61KQ?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D3LT61KQ?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13018.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-14T19:45:26+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D3LT61KQ?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-14T19:45:26+00:00"
   }
 ]
