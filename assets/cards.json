@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg13520",
+    "title": "Up to 80% Off On Branded Clothing",
+    "description": "AJIO Upto 80% Off On Branded Clothing. Men's : Shirts : Jeans : T-shirts : Jackets : Sweatshirts : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/G0wGrW",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 80% Off On Branded Clothing"
+      },
+      {
+        "url": "https://ajiio.co/G0wGrW",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/1gXCM5",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/NYnc7I",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/m750xi",
+        "label": "T-shirts"
+      },
+      {
+        "url": "https://ajiio.co/WoevlD",
+        "label": "Jackets"
+      },
+      {
+        "url": "https://ajiio.co/UqE4ML",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "AJIO  Upto 80% Off On Branded Clothing.\n\nMen's : https://ajiio.co/G0wGrW\n\nShirts : https://ajiio.co/1gXCM5\nJeans : https://ajiio.co/NYnc7I\nT-shirts : https://ajiio.co/m750xi\nJackets : https://ajiio.co/WoevlD\nSweatshirts : https://ajiio.co/UqE4ML\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/G0wGrW",
+    "local_image": "assets/images/tgmsg_13520.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-18T05:32:41+00:00",
+    "buy_link": "https://ajiio.co/G0wGrW",
+    "date_iso": "2025-10-18T05:32:41+00:00"
+  },
+  {
     "id": "msg13517",
     "title": "Mosquito Racquet at ₹253",
     "description": "Amazon | Anti-Mosquito Racquet at ₹253 https://www.amazon.in/dp/B0CM9YKF35?tag=bestpricezo0f-21",
@@ -8374,25 +8422,5 @@
     "date_obj": "2025-10-15T05:01:07+00:00",
     "buy_link": "https://fkrt.co/Eyn3am",
     "date_iso": "2025-10-15T05:01:07+00:00"
-  },
-  {
-    "id": "msg13042",
-    "title": "Sticky Wall Hook for Hangers At Rs.123",
-    "description": "Flipkart | Sticky Wall Hook for Hangers At Rs.123 👉https://fkrt.co/rLdadk",
-    "shortlink": "https://fkrt.co/rLdadk",
-    "urls": [
-      {
-        "url": "https://fkrt.co/rLdadk",
-        "label": "Sticky Wall Hook for Hangers At Rs.123"
-      }
-    ],
-    "raw_text": "Flipkart | Sticky Wall Hook for Hangers At Rs.123\n\n👉https://fkrt.co/rLdadk",
-    "final_url": "https://fkrt.co/rLdadk",
-    "local_image": "assets/images/tgmsg_13042.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-15T05:16:05+00:00",
-    "buy_link": "https://fkrt.co/rLdadk",
-    "date_iso": "2025-10-15T05:16:05+00:00"
   }
 ]
