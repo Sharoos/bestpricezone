@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13539",
+    "title": "boAt Bassheads 900 Pro Wired Headphone @ 799",
+    "description": "Amazon | boAt Bassheads 900 Pro Wired Headphone @ 799. 👉https://www.amazon.in/dp/B0DHDDF5J2?th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DHDDF5J2?th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DHDDF5J2?th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+        "label": "boAt Bassheads 900 Pro Wired Headphone @ 799"
+      }
+    ],
+    "raw_text": "Amazon | boAt Bassheads 900 Pro Wired Headphone @ 799.\n\n👉https://www.amazon.in/dp/B0DHDDF5J2?th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DHDDF5J2?th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13539.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-18T08:46:14+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DHDDF5J2?th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-18T08:46:14+00:00"
+  },
+  {
     "id": "msg13538",
     "title": "Boroplus Bathing Soap, 125g (Pack Of 6) @175",
     "description": "Amazon | Boroplus Bathing Soap, 125g (Pack Of 6) @175. 👉https://www.amazon.in/dp/B08K47RPCN?psc=1&th=1&tag=bestpricezo0f-21",
@@ -8270,53 +8290,5 @@
     "date_obj": "2025-10-15T07:20:10+00:00",
     "buy_link": "https://ajiio.co/KwQFG9",
     "date_iso": "2025-10-15T07:20:10+00:00"
-  },
-  {
-    "id": "msg13054",
-    "title": "Up to 80% Off On Branded Clothing",
-    "description": "AJIO Upto 80% Off On Branded Clothing. Men's : Shirts : Jeans : T-shirts : Jackets : Sweatshirts : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "shortlink": "https://ajiio.co/sRkdE3",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 80% Off On Branded Clothing"
-      },
-      {
-        "url": "https://ajiio.co/sRkdE3",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/UF46gv",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/hofAAf",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/1cIhII",
-        "label": "T-shirts"
-      },
-      {
-        "url": "https://ajiio.co/N1iaT7",
-        "label": "Jackets"
-      },
-      {
-        "url": "https://ajiio.co/3tW5nN",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On Branded Clothing.\n\nMen's : https://ajiio.co/sRkdE3\n\nShirts : https://ajiio.co/UF46gv\nJeans : https://ajiio.co/hofAAf\nT-shirts : https://ajiio.co/1cIhII\nJackets : https://ajiio.co/N1iaT7\nSweatshirts : https://ajiio.co/3tW5nN\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "final_url": "https://ajiio.co/sRkdE3",
-    "local_image": "assets/images/tgmsg_13054.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-15T06:50:13+00:00",
-    "buy_link": "https://ajiio.co/sRkdE3",
-    "date_iso": "2025-10-15T06:50:13+00:00"
   }
 ]
