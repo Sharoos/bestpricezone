@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg13572",
+    "title": "Men's Footwear Starts @112",
+    "description": "Ajio | Men's Footwear Starts @112 https://ajiio.co/SrxJ06 Sports Shoes : https://ajiio.co/7BDLcG Casual Shoes : https://ajiio.co/FNzGdK Sandals : https://ajiio.co/7ZHFeI",
+    "shortlink": "https://ajiio.co/SrxJ06",
+    "urls": [
+      {
+        "url": "https://ajiio.co/SrxJ06",
+        "label": "Men's Footwear Starts @112"
+      },
+      {
+        "url": "https://ajiio.co/7BDLcG",
+        "label": "Sports Shoes"
+      },
+      {
+        "url": "https://ajiio.co/FNzGdK",
+        "label": "Casual Shoes"
+      },
+      {
+        "url": "https://ajiio.co/7ZHFeI",
+        "label": "Sandals"
+      }
+    ],
+    "raw_text": "Ajio | Men's Footwear Starts @112\n\nhttps://ajiio.co/SrxJ06 \n\nSports Shoes : https://ajiio.co/7BDLcG \nCasual Shoes : https://ajiio.co/FNzGdK \nSandals : https://ajiio.co/7ZHFeI",
+    "final_url": "https://ajiio.co/SrxJ06",
+    "local_image": "assets/images/tgmsg_13572.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-18T14:26:21+00:00",
+    "buy_link": "https://ajiio.co/SrxJ06",
+    "date_iso": "2025-10-18T14:26:21+00:00"
+  },
+  {
     "id": "msg13568",
     "title": "Up to 75% Off on Women Kurta Suit Sets Starting @ Just ₹315",
     "description": "Ajio | Upto 75% Off on Women Kurta Suit Sets Starting @ Just ₹315 👉 Link : 🛍 + Extra 10% AJIO Super Cash! 🎉",
@@ -8286,33 +8318,5 @@
     "date_obj": "2025-10-15T09:40:34+00:00",
     "buy_link": "https://ajiio.in/lhJQhTK",
     "date_iso": "2025-10-15T09:40:34+00:00"
-  },
-  {
-    "id": "msg13076",
-    "title": "Swiss Beauty Diwali Sale Any 4 Products at ₹999",
-    "description": "Swiss Beauty Diwali Sale : Buy Any 4 Products at ₹999. 👉Link : ✅ Use Code : BUY4 Extra 5% Off on Prepaid Orders.",
-    "shortlink": "https://extp.in/nQWwN3",
-    "urls": [
-      {
-        "url": "https://extp.in/nQWwN3",
-        "label": ""
-      },
-      {
-        "url": "",
-        "label": "✅ Use Code : BUY4"
-      },
-      {
-        "url": "",
-        "label": "Extra 5% Off on Prepaid Orders"
-      }
-    ],
-    "raw_text": "Swiss Beauty Diwali Sale : Buy Any 4 Products at ₹999. \n\n👉Link : https://extp.in/nQWwN3 \n\n✅ Use Code : BUY4 \n\nExtra 5% Off on Prepaid Orders.",
-    "final_url": "https://extp.in/nQWwN3",
-    "local_image": "assets/images/tgmsg_13076.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-10-15T09:30:06+00:00",
-    "buy_link": "https://extp.in/nQWwN3",
-    "date_iso": "2025-10-15T09:30:06+00:00"
   }
 ]
