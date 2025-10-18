@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13535",
+    "title": "rank&dc=&ds=v1%3A%2B7kiLViHoZr5ZWbcrZi8euFOWjudxsHia7pHHpoLHUE&qid=1700805583&tag=bestpricezo0f",
+    "description": "Amazon | POND's Bright Beauty Facewash, 200Gm at ₹151. https://www.amazon.in/dp/B08NYD1GGK?tag=bestpricezo0f-21 Master link :…",
+    "shortlink": "https://www.amazon.in/dp/B08NYD1GGK?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B08NYD1GGK?tag=bestpricezo0f-21",
+        "label": "POND's Bright Beauty Facewash, 200Gm at ₹151"
+      },
+      {
+        "url": "https://www.amazon.in/s?i=beauty&bbn=1355016031&rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_89%3APOND%27S%2Cp_85%3A10440599031%2Cp_n_pct-off-with-tax%3A2665402031&s=price-asc-rank&dc=&ds=v1%3A%2B7kiLViHoZr5ZWbcrZi8euFOWjudxsHia7pHHpoLHUE&qid=1700805583&tag=bestpricezo0f-21",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Amazon | POND's Bright Beauty Facewash, 200Gm at ₹151.\n\nhttps://www.amazon.in/dp/B08NYD1GGK?tag=bestpricezo0f-21\n\nMaster link : https://www.amazon.in/s?i=beauty&bbn=1355016031&rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_89%3APOND%27S%2Cp_85%3A10440599031%2Cp_n_pct-off-with-tax%3A2665402031&s=price-asc-rank&dc=&ds=v1%3A%2B7kiLViHoZr5ZWbcrZi8euFOWjudxsHia7pHHpoLHUE&qid=1700805583&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B08NYD1GGK?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13535.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-18T07:47:06+00:00",
+    "buy_link": "https://www.amazon.in/dp/B08NYD1GGK?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-18T07:47:06+00:00"
+  },
+  {
     "id": "msg13533",
     "title": "Min. 50% Off On Wild Stone Product",
     "description": "Amazon | Min. 50% Off On Wild Stone Products.…",
@@ -8294,25 +8318,5 @@
     "date_obj": "2025-10-15T06:15:56+00:00",
     "buy_link": "https://fkrt.co/9hVVXJ",
     "date_iso": "2025-10-15T06:15:56+00:00"
-  },
-  {
-    "id": "msg13052",
-    "title": "MILTON Stainless Steel Bottle, 885 ml @307",
-    "description": "Amazon | MILTON Stainless Steel Bottle, 885 ml @307. https://www.amazon.in/dp/B0C5DVHPT9?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0C5DVHPT9?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0C5DVHPT9?tag=bestpricezo0f-21",
-        "label": "MILTON Stainless Steel Bottle, 885 ml @307"
-      }
-    ],
-    "raw_text": "Amazon | MILTON Stainless Steel Bottle, 885 ml @307.\n\nhttps://www.amazon.in/dp/B0C5DVHPT9?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0C5DVHPT9?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13052.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-15T06:33:02+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0C5DVHPT9?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-15T06:33:02+00:00"
   }
 ]
