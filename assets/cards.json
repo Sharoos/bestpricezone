@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13549",
+    "title": "Fold Travel Umbrella at 479",
+    "description": "Amazon Basics 3-Fold Travel Umbrella at 479. https://www.amazon.in/dp/B0DYN9FHS7?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DYN9FHS7?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DYN9FHS7?tag=bestpricezo0f-21",
+        "label": "Fold Travel Umbrella at 479"
+      }
+    ],
+    "raw_text": "Amazon Basics 3-Fold Travel Umbrella at 479.\n\nhttps://www.amazon.in/dp/B0DYN9FHS7?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DYN9FHS7?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13549.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-18T11:41:31+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DYN9FHS7?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-18T11:41:31+00:00"
+  },
+  {
     "id": "msg13548",
     "title": "EcoLink 9W Led Bulb (Pack of 2) @ 79",
     "description": "Amazon | EcoLink 9W Led Bulb (Pack of 2) @ 79. 👉https://www.amazon.in/dp/B09GPK49SX?tag=bestpricezo0f-21 Min Buy 2 Qty",
@@ -8234,25 +8254,5 @@
     "date_obj": "2025-10-15T08:33:55+00:00",
     "buy_link": "https://ajiio.co/rUxprg",
     "date_iso": "2025-10-15T08:33:55+00:00"
-  },
-  {
-    "id": "msg13062",
-    "title": "carnitine Liquid 300mg @949 +",
-    "description": "Carbamide Forte L-carnitine Liquid 300mg @949 + Coupon https://www.amazon.in/dp/B0BF5CXW9B?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0BF5CXW9B?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BF5CXW9B?th=1&tag=bestpricezo0f-21",
-        "label": ""
-      }
-    ],
-    "raw_text": "Carbamide Forte L-carnitine Liquid 300mg @949 + Coupon \n\nhttps://www.amazon.in/dp/B0BF5CXW9B?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BF5CXW9B?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13062.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-15T07:50:44+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BF5CXW9B?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-15T07:50:44+00:00"
   }
 ]
