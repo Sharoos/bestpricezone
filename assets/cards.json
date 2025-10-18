@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13544",
+    "title": "Being human Min 65%",
+    "description": "Ajio | Monte Carlo- Min 30% https://ajiio.co/typE2P Being human Min 65% https://ajiio.co/QKCj2S",
+    "shortlink": "https://ajiio.co/typE2P",
+    "urls": [
+      {
+        "url": "https://ajiio.co/typE2P",
+        "label": "Monte Carlo- Min 30%"
+      },
+      {
+        "url": "https://ajiio.co/QKCj2S",
+        "label": "Being human Min 65%"
+      }
+    ],
+    "raw_text": "Ajio | Monte Carlo- Min 30%\nhttps://ajiio.co/typE2P\n\nBeing human Min 65%\nhttps://ajiio.co/QKCj2S",
+    "final_url": "https://ajiio.co/typE2P",
+    "local_image": "assets/images/tgmsg_13544.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-18T09:42:11+00:00",
+    "buy_link": "https://ajiio.co/typE2P",
+    "date_iso": "2025-10-18T09:42:11+00:00"
+  },
+  {
     "id": "msg13543",
     "title": "🛒 Deal Price Up to 89% Off",
     "description": "Amazon | ⏱️ Wall Clock Deals - Up to 80% Off! Premium Wall Clocks 🛒 Deal Price: Up to 89% Off 👉",
@@ -8166,53 +8190,5 @@
     "date_obj": "2025-10-15T07:00:58+00:00",
     "buy_link": "https://ajiio.co/nIzoIW",
     "date_iso": "2025-10-15T07:00:58+00:00"
-  },
-  {
-    "id": "msg13056",
-    "title": "🎁 Spend ₹2,000 & Get ₹2,000–₹5,000 Vouche",
-    "description": "🔥 SBM Credilio FD Credit Card – No Credit Score? No Problem! 💳 Lifetime Free | 💰 Instant Credit via FD 🎬 BookMyShow: Buy 1 Get 1 Free! 🔗Apply Here 👉 Benefits: ✅ 5x Rewards on UPI/POS ⛽ 10x Rewards on Fuel rs 💸 90% of FD…",
-    "shortlink": "https://extp.in/7ekHTK",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 SBM Credilio FD Credit Card – No Credit Score? No Problem!"
-      },
-      {
-        "url": "",
-        "label": "💳 Lifetime Free | 💰 Instant Credit via FD"
-      },
-      {
-        "url": "https://extp.in/7ekHTK",
-        "label": "🔗Apply Here 👉"
-      },
-      {
-        "url": "",
-        "label": "✅ 5x Rewards on UPI/POS"
-      },
-      {
-        "url": "",
-        "label": "⛽ 10x Rewards on Fuel"
-      },
-      {
-        "url": "",
-        "label": "🎁 Spend ₹2,000 & Get ₹2,000–₹5,000 Vouchers"
-      },
-      {
-        "url": "",
-        "label": "💸 90% of FD = Credit Limit"
-      },
-      {
-        "url": "",
-        "label": "Smart. Safe. Rewarding"
-      }
-    ],
-    "raw_text": "🔥 SBM Credilio FD Credit Card – No Credit Score? No Problem!\n\n💳 Lifetime Free | 💰 Instant Credit via FD\n\n🎬 BookMyShow: Buy 1 Get 1 Free!\n\n🔗Apply Here 👉 https://extp.in/7ekHTK\n\nBenefits: \n✅ 5x Rewards on UPI/POS\n⛽ 10x Rewards on Fuel\n🎁 Spend ₹2,000 & Get ₹2,000–₹5,000 Vouchers\n💸 90% of FD = Credit Limit\n\nSmart. Safe. Rewarding.",
-    "final_url": "https://extp.in/7ekHTK",
-    "local_image": "assets/images/tgmsg_13056.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-10-15T07:04:55+00:00",
-    "buy_link": "https://extp.in/7ekHTK",
-    "date_iso": "2025-10-15T07:04:55+00:00"
   }
 ]
