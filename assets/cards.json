@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg13543",
+    "title": "🛒 Deal Price Up to 89% Off",
+    "description": "Amazon | ⏱️ Wall Clock Deals - Up to 80% Off! Premium Wall Clocks 🛒 Deal Price: Up to 89% Off 👉",
+    "shortlink": "https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "⏱️ Wall Clock Deals - Up to 80% Off!"
+      },
+      {
+        "url": "",
+        "label": "Premium Wall Clocks"
+      },
+      {
+        "url": "https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: Up to 89% Off"
+      }
+    ],
+    "raw_text": "Amazon | ⏱️ Wall Clock Deals - Up to 80% Off!\n\nPremium Wall Clocks\n\n🛒 Deal Price: Up to 89% Off\n\n👉https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13543.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-18T09:36:32+00:00",
+    "buy_link": "https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-18T09:36:32+00:00"
+  },
+  {
     "id": "msg13540",
     "title": "Pigeon 4 Pcs Kitchen Knife Set @ 94",
     "description": "Amazon | Pigeon 4 Pcs Kitchen Knife Set @ 94. 👉https://www.amazon.in/dp/B0CYZ48MDL?th=1&tag=bestpricezo0f-21",
@@ -8186,57 +8214,5 @@
     "date_obj": "2025-10-15T07:04:55+00:00",
     "buy_link": "https://extp.in/7ekHTK",
     "date_iso": "2025-10-15T07:04:55+00:00"
-  },
-  {
-    "id": "msg13057",
-    "title": "Up to 3% Rio Coins back on UPI & Card Spends 💰",
-    "description": "Apply for the Lifetime FREE RIO Credit Card & Earn assured cashback on EVERY Scan & Swipe 🔥🔥 👉 Apply Now: Benefits: • 1+1 Movie Tickets on District & BookMyShow 🎬 • Flat ₹150 Off on Zomato 🍕 • 40% Off on Swiggy Food &…",
-    "shortlink": "https://extp.in/RxPwLt",
-    "urls": [
-      {
-        "url": "",
-        "label": "Apply for the Lifetime FREE RIO Credit Card & Earn assured cashback on EVERY Scan & Swipe 🔥🔥"
-      },
-      {
-        "url": "https://extp.in/RxPwLt",
-        "label": "Apply Now"
-      },
-      {
-        "url": "",
-        "label": "1+1 Movie Tickets on District & BookMyShow 🎬"
-      },
-      {
-        "url": "",
-        "label": "Flat ₹150 Off on Zomato 🍕"
-      },
-      {
-        "url": "",
-        "label": "40% Off on Swiggy Food & Instamart 🍔"
-      },
-      {
-        "url": "",
-        "label": "Up to 3% Rio Coins back on UPI & Card Spends 💰"
-      },
-      {
-        "url": "",
-        "label": "8 FREE Airport Lounge Visits per Year ✈️"
-      },
-      {
-        "url": "",
-        "label": "Lifetime FREE – No Joining / Annual Fee"
-      },
-      {
-        "url": "",
-        "label": "Existing YES Bank Cardholders not eligible"
-      }
-    ],
-    "raw_text": "Apply for the Lifetime FREE RIO Credit Card & Earn assured cashback on EVERY Scan & Swipe 🔥🔥\n\n👉 Apply Now: https://extp.in/RxPwLt\n\nBenefits:\n• 1+1 Movie Tickets on District & BookMyShow 🎬\n• Flat ₹150 Off on Zomato 🍕\n• 40% Off on Swiggy Food & Instamart 🍔\n• Up to 3% Rio Coins back on UPI & Card Spends 💰\n• 8 FREE Airport Lounge Visits per Year ✈️\n\nEligibility:\n• Lifetime FREE – No Joining / Annual Fee\n• Existing YES Bank Cardholders not eligible\n\n✅Note : This is one of the most trending cards in the market right now. If eligible — apply immediately! 💥",
-    "final_url": "https://extp.in/RxPwLt",
-    "local_image": "assets/images/tgmsg_13057.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-10-15T07:05:12+00:00",
-    "buy_link": "https://extp.in/RxPwLt",
-    "date_iso": "2025-10-15T07:05:12+00:00"
   }
 ]
