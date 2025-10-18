@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13561",
+    "title": "Trends Under 399 ( Teamspirit, DNMX & More)",
+    "description": "Ajio | Trends Under 399 ( Teamspirit, DNMX & More) https://ajiio.co/1Pq5vz Azorte Flat 70% https://ajiio.co/j0aCSb",
+    "shortlink": "https://ajiio.co/1Pq5vz",
+    "urls": [
+      {
+        "url": "https://ajiio.co/1Pq5vz",
+        "label": "Trends Under 399 ( Teamspirit, DNMX & More)"
+      },
+      {
+        "url": "https://ajiio.co/j0aCSb",
+        "label": "Azorte Flat 70%"
+      }
+    ],
+    "raw_text": "Ajio | Trends Under 399 ( Teamspirit, DNMX & More)\nhttps://ajiio.co/1Pq5vz\n\nAzorte Flat 70%\nhttps://ajiio.co/j0aCSb",
+    "final_url": "https://ajiio.co/1Pq5vz",
+    "local_image": "assets/images/tgmsg_13561.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-18T13:24:22+00:00",
+    "buy_link": "https://ajiio.co/1Pq5vz",
+    "date_iso": "2025-10-18T13:24:22+00:00"
+  },
+  {
     "id": "msg13558",
     "title": "Grocery Up to 92% Off",
     "description": "Flipkart Grocery Loot : Upto 92% Off Link 1 : Link 2 : Link 3 : Check All Locations",
@@ -8250,49 +8274,5 @@
     "date_obj": "2025-10-15T09:00:56+00:00",
     "buy_link": "https://ajiio.co/98aRQ4",
     "date_iso": "2025-10-15T09:00:56+00:00"
-  },
-  {
-    "id": "msg13075",
-    "title": "🛒 Deal Price From ₹51",
-    "description": "Meesho | 👖 Trendy Women's Denim Jeans - Starting at ₹51! 🛒 Deal Price: From ₹51 https://msho.in/AU6Qqi https://msho.in/776ETL https://msho.in/jvsuhK https://msho.in/SJKXEc https://msho.in/HuEZRe https://msho.in/vaqWcm",
-    "shortlink": "https://msho.in/AU6Qqi",
-    "urls": [
-      {
-        "url": "",
-        "label": "👖 Trendy Women's Denim Jeans - Starting at ₹51!"
-      },
-      {
-        "url": "https://msho.in/AU6Qqi",
-        "label": "🛒 Deal Price: From ₹51"
-      },
-      {
-        "url": "https://msho.in/776ETL",
-        "label": "🛒 Deal Price: From ₹51"
-      },
-      {
-        "url": "https://msho.in/jvsuhK",
-        "label": "🛒 Deal Price: From ₹51"
-      },
-      {
-        "url": "https://msho.in/SJKXEc",
-        "label": "🛒 Deal Price: From ₹51"
-      },
-      {
-        "url": "https://msho.in/HuEZRe",
-        "label": "🛒 Deal Price: From ₹51"
-      },
-      {
-        "url": "https://msho.in/vaqWcm",
-        "label": "🛒 Deal Price: From ₹51"
-      }
-    ],
-    "raw_text": "Meesho | 👖 Trendy Women's Denim Jeans - Starting at ₹51!\n\n🛒 Deal Price: From ₹51\n\nhttps://msho.in/AU6Qqi\nhttps://msho.in/776ETL\nhttps://msho.in/jvsuhK\nhttps://msho.in/SJKXEc\nhttps://msho.in/HuEZRe\nhttps://msho.in/vaqWcm",
-    "final_url": "https://msho.in/AU6Qqi",
-    "local_image": "assets/images/tgmsg_13075.jpg",
-    "source_host": "msho.in",
-    "merchant_label": "Msho",
-    "date_obj": "2025-10-15T09:20:07+00:00",
-    "buy_link": "https://msho.in/AU6Qqi",
-    "date_iso": "2025-10-15T09:20:07+00:00"
   }
 ]
