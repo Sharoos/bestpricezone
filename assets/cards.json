@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13538",
+    "title": "Boroplus Bathing Soap, 125g (Pack Of 6) @175",
+    "description": "Amazon | Boroplus Bathing Soap, 125g (Pack Of 6) @175. 👉https://www.amazon.in/dp/B08K47RPCN?psc=1&th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B08K47RPCN?psc=1&th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B08K47RPCN?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "Boroplus Bathing Soap, 125g (Pack Of 6) @175"
+      }
+    ],
+    "raw_text": "Amazon | Boroplus Bathing Soap, 125g (Pack Of 6) @175.\n\n👉https://www.amazon.in/dp/B08K47RPCN?psc=1&th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B08K47RPCN?psc=1&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13538.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-18T08:32:42+00:00",
+    "buy_link": "https://www.amazon.in/dp/B08K47RPCN?psc=1&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-18T08:32:42+00:00"
+  },
+  {
     "id": "msg13535",
     "title": "rank&dc=&ds=v1%3A%2B7kiLViHoZr5ZWbcrZi8euFOWjudxsHia7pHHpoLHUE&qid=1700805583&tag=bestpricezo0f",
     "description": "Amazon | POND's Bright Beauty Facewash, 200Gm at ₹151. https://www.amazon.in/dp/B08NYD1GGK?tag=bestpricezo0f-21 Master link :…",
@@ -8298,25 +8318,5 @@
     "date_obj": "2025-10-15T06:50:13+00:00",
     "buy_link": "https://ajiio.co/sRkdE3",
     "date_iso": "2025-10-15T06:50:13+00:00"
-  },
-  {
-    "id": "msg13049",
-    "title": "Levis Jeans Flat Rs.1099",
-    "description": "Flipkart | Levis Jeans Flat Rs.1099 - https://fkrt.co/9hVVXJ",
-    "shortlink": "https://fkrt.co/9hVVXJ",
-    "urls": [
-      {
-        "url": "https://fkrt.co/9hVVXJ",
-        "label": "Levis Jeans Flat Rs.1099"
-      }
-    ],
-    "raw_text": "Flipkart | Levis Jeans Flat Rs.1099\n\n- https://fkrt.co/9hVVXJ",
-    "final_url": "https://fkrt.co/9hVVXJ",
-    "local_image": "assets/images/tgmsg_13049.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-15T06:15:56+00:00",
-    "buy_link": "https://fkrt.co/9hVVXJ",
-    "date_iso": "2025-10-15T06:15:56+00:00"
   }
 ]
