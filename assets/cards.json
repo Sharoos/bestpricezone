@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg13516",
+    "title": "Up to 70% Off Vero Moda & ONLY Women's Clothing",
+    "description": "Ajio | Upto 70% Off Vero Moda & ONLY Women's Clothing. Dresses : T-shirts : Sweatshirts : Jeans : Trackpants : Shorts : Trousers : Earn Extra 10% AJIO SUPERCASH",
+    "shortlink": "https://ajiio.co/6zXDFk",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70% Off Vero Moda & ONLY Women's Clothing"
+      },
+      {
+        "url": "https://ajiio.co/6zXDFk",
+        "label": "Dresses"
+      },
+      {
+        "url": "https://ajiio.co/O22Ik4",
+        "label": "T-shirts"
+      },
+      {
+        "url": "https://ajiio.co/300H6h",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "https://ajiio.co/gSOnOZ",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/xg6OJb",
+        "label": "Trackpants"
+      },
+      {
+        "url": "https://ajiio.co/QoZFod",
+        "label": "Shorts"
+      },
+      {
+        "url": "https://ajiio.co/SlcqbD",
+        "label": "Trousers"
+      },
+      {
+        "url": "",
+        "label": "Earn Extra 10% AJIO SUPERCASH"
+      }
+    ],
+    "raw_text": "Ajio | Upto 70% Off Vero Moda & ONLY Women's Clothing.\n\nDresses : https://ajiio.co/6zXDFk\nT-shirts : https://ajiio.co/O22Ik4\nSweatshirts : https://ajiio.co/300H6h\nJeans : https://ajiio.co/gSOnOZ\nTrackpants : https://ajiio.co/xg6OJb\nShorts : https://ajiio.co/QoZFod\nTrousers : https://ajiio.co/SlcqbD\n\nEarn Extra 10% AJIO SUPERCASH",
+    "final_url": "https://ajiio.co/6zXDFk",
+    "local_image": "assets/images/tgmsg_13516.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-18T04:48:25+00:00",
+    "buy_link": "https://ajiio.co/6zXDFk",
+    "date_iso": "2025-10-18T04:48:25+00:00"
+  },
+  {
     "id": "msg13506",
     "title": "Up to 80% Off On Allen Cooper Clothing",
     "description": "Ajio Upto 80% Off On Allen Cooper Clothing. Master Link : T-Shirt : Jeans : Shirts : Jacket : Shoes : Spykar Clothing. Men's : Women's : Puma Clothing. Men’s : Women’s :",
@@ -8406,25 +8458,5 @@
     "date_obj": "2025-10-15T04:15:57+00:00",
     "buy_link": "https://fkrt.co/uSzJ6o",
     "date_iso": "2025-10-15T04:15:57+00:00"
-  },
-  {
-    "id": "msg13035",
-    "title": "Campus Men’s Casual Shoes Starts @ 532",
-    "description": "Flipkart | Campus Men’s Casual Shoes Starts @ 532. 👉https://fkrt.co/bogGCi",
-    "shortlink": "https://fkrt.co/bogGCi",
-    "urls": [
-      {
-        "url": "https://fkrt.co/bogGCi",
-        "label": "Campus Men’s Casual Shoes Starts @ 532"
-      }
-    ],
-    "raw_text": "Flipkart | Campus Men’s Casual Shoes Starts @ 532.\n\n👉https://fkrt.co/bogGCi",
-    "final_url": "https://fkrt.co/bogGCi",
-    "local_image": "assets/images/tgmsg_13035.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-15T04:01:07+00:00",
-    "buy_link": "https://fkrt.co/bogGCi",
-    "date_iso": "2025-10-15T04:01:07+00:00"
   }
 ]
