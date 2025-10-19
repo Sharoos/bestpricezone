@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13658",
+    "title": "💥Topwear Min 80% OFF",
+    "description": "💥AJIO : Topwear Min 80% OFF Link : https://ajiio.co/JmLuag",
+    "shortlink": "https://ajiio.co/JmLuag",
+    "urls": [
+      {
+        "url": "https://ajiio.co/JmLuag",
+        "label": "💥AJIO : Topwear Min 80% OFF"
+      }
+    ],
+    "raw_text": "💥AJIO : Topwear Min 80% OFF  \n \nLink : https://ajiio.co/JmLuag",
+    "final_url": "https://ajiio.co/JmLuag",
+    "local_image": "assets/images/tgmsg_13658.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-19T11:21:03+00:00",
+    "buy_link": "https://ajiio.co/JmLuag",
+    "date_iso": "2025-10-19T11:21:03+00:00"
+  },
+  {
     "id": "msg13657",
     "title": "Women's Westernwear Under ₹399 (Rio, Fig & More)",
     "description": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More) Women : https://ajiio.co/f2nDMg Girls : https://ajiio.co/DyeXuR",
@@ -8126,29 +8146,5 @@
     "date_obj": "2025-10-15T16:21:40+00:00",
     "buy_link": "https://ajiio.co/lT5xB5",
     "date_iso": "2025-10-15T16:21:40+00:00"
-  },
-  {
-    "id": "msg13144",
-    "title": "Under armour Min 45% + Extra 5%",
-    "description": "Ajio | Raymond , Park Avenue & Parx Min 60% https://ajiio.co/siv4jt Under armour Min 45% + Extra 5% https://ajiio.co/c6OjhC",
-    "shortlink": "https://ajiio.co/siv4jt",
-    "urls": [
-      {
-        "url": "https://ajiio.co/siv4jt",
-        "label": "Raymond , Park Avenue & Parx Min 60%"
-      },
-      {
-        "url": "https://ajiio.co/c6OjhC",
-        "label": "Under armour Min 45% + Extra 5%"
-      }
-    ],
-    "raw_text": "Ajio | Raymond , Park Avenue & Parx Min 60%\nhttps://ajiio.co/siv4jt\n\nUnder armour Min 45% + Extra 5%\nhttps://ajiio.co/c6OjhC",
-    "final_url": "https://ajiio.co/siv4jt",
-    "local_image": "assets/images/tgmsg_13144.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-15T15:51:35+00:00",
-    "buy_link": "https://ajiio.co/siv4jt",
-    "date_iso": "2025-10-15T15:51:35+00:00"
   }
 ]
