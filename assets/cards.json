@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg13679",
+    "title": "Min. 60% Off On USPA Clothing",
+    "description": "Ajio : Min. 60% Off On USPA Clothing. Men's : https://ajiio.co/XdDad3 Womens : https://ajiio.co/NIJWbM= Boys : https://ajiio.co/6VY2Zf= Girls : https://ajiio.co/z8Ycq0=",
+    "shortlink": "https://ajiio.co/XdDad3",
+    "urls": [
+      {
+        "url": "",
+        "label": "Min. 60% Off On USPA Clothing"
+      },
+      {
+        "url": "https://ajiio.co/XdDad3",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/NIJWbM=",
+        "label": "Womens"
+      },
+      {
+        "url": "https://ajiio.co/6VY2Zf=",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/z8Ycq0=",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "Ajio : Min. 60% Off On USPA Clothing.\n\nMen's : https://ajiio.co/XdDad3\nWomens : https://ajiio.co/NIJWbM=\nBoys : https://ajiio.co/6VY2Zf=\nGirls : https://ajiio.co/z8Ycq0=",
+    "final_url": "https://ajiio.co/XdDad3",
+    "local_image": "assets/images/tgmsg_13679.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-19T14:36:19+00:00",
+    "buy_link": "https://ajiio.co/XdDad3",
+    "date_iso": "2025-10-19T14:36:19+00:00"
+  },
+  {
     "id": "msg13676",
     "title": "Campus Shoes Starts at 663🔥🔥",
     "description": "Ajio | Campus Shoes Starts at 663🔥🔥 👉Link : https://ajiio.co/vqZE8z",
@@ -8150,29 +8186,5 @@
     "date_obj": "2025-10-15T18:10:58+00:00",
     "buy_link": "https://ajiio.co/nU8lGK",
     "date_iso": "2025-10-15T18:10:58+00:00"
-  },
-  {
-    "id": "msg13175",
-    "title": "Steve Madden, Dune London min 50%",
-    "description": "Ajio | Steve Madden, Dune London min 50% https://ajiio.co/vaa5Ai Guess Min 40% https://ajiio.co/vk2aTp",
-    "shortlink": "https://ajiio.co/vaa5Ai",
-    "urls": [
-      {
-        "url": "https://ajiio.co/vaa5Ai",
-        "label": "Steve Madden, Dune London min 50%"
-      },
-      {
-        "url": "https://ajiio.co/vk2aTp",
-        "label": "Guess Min 40%"
-      }
-    ],
-    "raw_text": "Ajio | Steve Madden, Dune London min 50%\nhttps://ajiio.co/vaa5Ai\n\nGuess Min 40%\nhttps://ajiio.co/vk2aTp",
-    "final_url": "https://ajiio.co/vaa5Ai",
-    "local_image": "assets/images/tgmsg_13175.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-15T18:21:13+00:00",
-    "buy_link": "https://ajiio.co/vaa5Ai",
-    "date_iso": "2025-10-15T18:21:13+00:00"
   }
 ]
