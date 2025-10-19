@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13656",
+    "title": "type%253A8609960031%252Cp_n_pct",
+    "description": "Amazon | boAt Calling Smartwatch Starts @ 999.…",
+    "shortlink": "https://www.amazon.in/s?k=boat&i=electronics&rh=n%253A5605728031%252Cp_89%253AboAt%252Cp_n_condition-type%253A8609960031%252Cp_n_pct-off-with-tax%253A27060457031&s=price-asc-rank&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/s?k=boat&i=electronics&rh=n%253A5605728031%252Cp_89%253AboAt%252Cp_n_condition-type%253A8609960031%252Cp_n_pct-off-with-tax%253A27060457031&s=price-asc-rank&tag=bestpricezo0f-21",
+        "label": "boAt Calling Smartwatch Starts @ 999"
+      }
+    ],
+    "raw_text": "Amazon | boAt Calling Smartwatch Starts @ 999.\n\n👉https://www.amazon.in/s?k=boat&i=electronics&rh=n%253A5605728031%252Cp_89%253AboAt%252Cp_n_condition-type%253A8609960031%252Cp_n_pct-off-with-tax%253A27060457031&s=price-asc-rank&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?k=boat&i=electronics&rh=n%253A5605728031%252Cp_89%253AboAt%252Cp_n_condition-type%253A8609960031%252Cp_n_pct-off-with-tax%253A27060457031&s=price-asc-rank&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13656.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-19T10:51:51+00:00",
+    "buy_link": "https://www.amazon.in/s?k=boat&i=electronics&rh=n%253A5605728031%252Cp_89%253AboAt%252Cp_n_condition-type%253A8609960031%252Cp_n_pct-off-with-tax%253A27060457031&s=price-asc-rank&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-19T10:51:51+00:00"
+  },
+  {
     "id": "msg13655",
     "title": "MILTON Pro Lunch Box @737",
     "description": "Amazon | MILTON Pro Lunch Box @737 👉https://www.amazon.in/dp/B0C85PX1P5?th=1&psc=1&tag=bestpricezo0f-21",
@@ -8194,29 +8214,5 @@
     "date_obj": "2025-10-15T15:35:15+00:00",
     "buy_link": "https://fkrt.co/CPh2kA",
     "date_iso": "2025-10-15T15:35:15+00:00"
-  },
-  {
-    "id": "msg13141",
-    "title": "🛍 + Extra 10% Super Cash! 🎉",
-    "description": "Ajio | WOMEN'S Sarees Starting @ just 198 Links : 🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "shortlink": "https://ajiio.co/mDo0XW",
-    "urls": [
-      {
-        "url": "https://ajiio.co/mDo0XW",
-        "label": "WOMEN'S Sarees Starting @ just 198"
-      },
-      {
-        "url": "",
-        "label": "🛍 + Extra 10% AJIO Super Cash! 🎉"
-      }
-    ],
-    "raw_text": "Ajio | WOMEN'S Sarees Starting @ just 198 \n \nLinks :  https://ajiio.co/mDo0XW\n\n🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "final_url": "https://ajiio.co/mDo0XW",
-    "local_image": "assets/images/tgmsg_13141.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-15T15:41:45+00:00",
-    "buy_link": "https://ajiio.co/mDo0XW",
-    "date_iso": "2025-10-15T15:41:45+00:00"
   }
 ]
