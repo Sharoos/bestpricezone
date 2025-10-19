@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg13646",
+    "title": "(+₹7,034 CB With Pay ICICI Credit Card)",
+    "description": "Amazon | Muthoot 24K (999) 10gm Gold Pendant @ ₹1,32,159* Collect ₹1500 Cashback 👉 Buy (+₹7,034 CB With Amazon Pay ICICI Credit Card) 👉 Total ₹8534 Cashback",
+    "shortlink": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.OCIXBZC562HVI?rdpf=en&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Muthoot 24K (999) 10gm Gold Pendant @ ₹1,32,159*"
+      },
+      {
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.OCIXBZC562HVI?rdpf=en&tag=bestpricezo0f-21",
+        "label": "Collect ₹1500 Cashback"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0D2JG2CFY?tag=bestpricezo0f-21",
+        "label": "Collect ₹1500 Cashback"
+      },
+      {
+        "url": "",
+        "label": "Total ₹8534 Cashback"
+      }
+    ],
+    "raw_text": "Amazon | Muthoot 24K (999) 10gm Gold Pendant @ ₹1,32,159*\n\nCollect ₹1500 Cashback \n👉https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.OCIXBZC562HVI?rdpf=en&tag=bestpricezo0f-21\n\nBuy (+₹7,034 CB With Amazon Pay ICICI Credit Card) \n👉https://www.amazon.in/dp/B0D2JG2CFY?tag=bestpricezo0f-21\n\nTotal ₹8534 Cashback",
+    "final_url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.OCIXBZC562HVI?rdpf=en&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13646.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-19T07:45:25+00:00",
+    "buy_link": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.OCIXBZC562HVI?rdpf=en&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-19T07:45:25+00:00"
+  },
+  {
     "id": "msg13642",
     "title": "Reebok min 60%",
     "description": "Ajio | Reebok min 60% https://ajiio.co/0VXrXe Biba Min 65% https://ajiio.co/xwlW3Z",
@@ -8194,29 +8226,5 @@
     "date_obj": "2025-10-15T15:11:32+00:00",
     "buy_link": "https://ajiio.co/keEPuS",
     "date_iso": "2025-10-15T15:11:32+00:00"
-  },
-  {
-    "id": "msg13127",
-    "title": "Buda jenas Flat 70%",
-    "description": "Ajio | Buda jenas Flat 70% https://ajiio.co/ltkl3G Ethnic Collection Min 70% Indie picks, nyrika & more https://ajiio.co/Zl3ZJh",
-    "shortlink": "https://ajiio.co/ltkl3G",
-    "urls": [
-      {
-        "url": "https://ajiio.co/ltkl3G",
-        "label": "Buda jenas Flat 70%"
-      },
-      {
-        "url": "https://ajiio.co/Zl3ZJh",
-        "label": "Ethnic Collection Min 70% Indie picks, nyrika & more"
-      }
-    ],
-    "raw_text": "Ajio | Buda jenas Flat 70%\nhttps://ajiio.co/ltkl3G\n\nEthnic Collection Min 70% Indie picks, nyrika & more\nhttps://ajiio.co/Zl3ZJh",
-    "final_url": "https://ajiio.co/ltkl3G",
-    "local_image": "assets/images/tgmsg_13127.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-15T14:51:35+00:00",
-    "buy_link": "https://ajiio.co/ltkl3G",
-    "date_iso": "2025-10-15T14:51:35+00:00"
   }
 ]
