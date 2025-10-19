@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13688",
+    "title": "Men's T",
+    "description": "Ajio | Men's T-Shirt Starts at Rs.99 https://ajiio.co/xSdvEt",
+    "shortlink": "https://ajiio.co/xSdvEt",
+    "urls": [
+      {
+        "url": "https://ajiio.co/xSdvEt",
+        "label": "Men's T-Shirt Starts at Rs.99"
+      }
+    ],
+    "raw_text": "Ajio | Men's T-Shirt Starts at Rs.99\n\nhttps://ajiio.co/xSdvEt",
+    "final_url": "https://ajiio.co/xSdvEt",
+    "local_image": "assets/images/tgmsg_13688.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-19T15:36:37+00:00",
+    "buy_link": "https://ajiio.co/xSdvEt",
+    "date_iso": "2025-10-19T15:36:37+00:00"
+  },
+  {
     "id": "msg13686",
     "title": "Up to 70% Off On Nirlon Kitchenware",
     "description": "Amazon | Upto 70% Off On Nirlon Kitchenware.…",
@@ -8250,25 +8270,5 @@
     "date_obj": "2025-10-15T18:46:54+00:00",
     "buy_link": "https://fkrt.co/h793pj",
     "date_iso": "2025-10-15T18:46:54+00:00"
-  },
-  {
-    "id": "msg13194",
-    "title": "Pigeon By Stovekraft Pressure Cooker, 3Liters @562",
-    "description": "Amazon | Pigeon By Stovekraft Pressure Cooker, 3Liters @562 https://www.amazon.in/dp/B08RWT5ZPB?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B08RWT5ZPB?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B08RWT5ZPB?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Pigeon By Stovekraft Pressure Cooker, 3Liters @562"
-      }
-    ],
-    "raw_text": "Amazon | Pigeon By Stovekraft Pressure Cooker, 3Liters @562\n \nhttps://www.amazon.in/dp/B08RWT5ZPB?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B08RWT5ZPB?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13194.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-15T18:47:31+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08RWT5ZPB?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-15T18:47:31+00:00"
   }
 ]
