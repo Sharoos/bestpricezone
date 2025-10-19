@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13662",
+    "title": "💥OverSized Tshirts Starts @150",
+    "description": "💥Ajio | OverSized Tshirts Starts @150. 👉Link : https://ajiio.co/urAwW5",
+    "shortlink": "https://ajiio.co/urAwW5",
+    "urls": [
+      {
+        "url": "https://ajiio.co/urAwW5",
+        "label": "💥Ajio | OverSized Tshirts Starts @150"
+      }
+    ],
+    "raw_text": "💥Ajio | OverSized Tshirts Starts @150.\n\n👉Link : https://ajiio.co/urAwW5",
+    "final_url": "https://ajiio.co/urAwW5",
+    "local_image": "assets/images/tgmsg_13662.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-19T11:51:11+00:00",
+    "buy_link": "https://ajiio.co/urAwW5",
+    "date_iso": "2025-10-19T11:51:11+00:00"
+  },
+  {
     "id": "msg13661",
     "title": "Bath Rugs From 101",
     "description": "Bath Rugs From 101. https://myntr.in/LTwu9w",
@@ -8114,29 +8134,5 @@
     "date_obj": "2025-10-15T16:01:27+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FK2L2WSQ?tag=bestpricezo0f-21",
     "date_iso": "2025-10-15T16:01:27+00:00"
-  },
-  {
-    "id": "msg13150",
-    "title": "American Eagle Min 50%",
-    "description": "Ajio | American Eagle Min 50% https://ajiio.co/dM37bo CLARKS Min 60% https://ajiio.co/9TvmBZ",
-    "shortlink": "https://ajiio.co/dM37bo",
-    "urls": [
-      {
-        "url": "https://ajiio.co/dM37bo",
-        "label": "American Eagle Min 50%"
-      },
-      {
-        "url": "https://ajiio.co/9TvmBZ",
-        "label": "CLARKS Min 60%"
-      }
-    ],
-    "raw_text": "Ajio | American Eagle Min 50%\nhttps://ajiio.co/dM37bo\n\nCLARKS Min 60%\nhttps://ajiio.co/9TvmBZ",
-    "final_url": "https://ajiio.co/dM37bo",
-    "local_image": "assets/images/tgmsg_13150.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-15T16:03:50+00:00",
-    "buy_link": "https://ajiio.co/dM37bo",
-    "date_iso": "2025-10-15T16:03:50+00:00"
   }
 ]
