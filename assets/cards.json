@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13649",
+    "title": "Ear Wireless Earbuds @1999",
+    "description": "Amazon | JBL Vibe Beam in-Ear Wireless Earbuds @1999 https://www.amazon.in/dp/B0CKHYTT2G?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CKHYTT2G?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CKHYTT2G?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "JBL Vibe Beam in-Ear Wireless Earbuds @1999"
+      }
+    ],
+    "raw_text": "Amazon | JBL Vibe Beam in-Ear Wireless Earbuds @1999\n\n https://www.amazon.in/dp/B0CKHYTT2G?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CKHYTT2G?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13649.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-19T08:54:21+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CKHYTT2G?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-19T08:54:21+00:00"
+  },
+  {
     "id": "msg13646",
     "title": "(+₹7,034 CB With Pay ICICI Credit Card)",
     "description": "Amazon | Muthoot 24K (999) 10gm Gold Pendant @ ₹1,32,159* Collect ₹1500 Cashback 👉 Buy (+₹7,034 CB With Amazon Pay ICICI Credit Card) 👉 Total ₹8534 Cashback",
@@ -8202,29 +8222,5 @@
     "date_obj": "2025-10-15T15:02:09+00:00",
     "buy_link": "https://ajiio.co/vFJFYy",
     "date_iso": "2025-10-15T15:02:09+00:00"
-  },
-  {
-    "id": "msg13131",
-    "title": "Carlton London & ELLE Min 55% off",
-    "description": "Ajio | Carlton London & ELLE Min 55% off https://ajiio.co/keEPuS Max Under 299 https://ajiio.co/aq08Kr",
-    "shortlink": "https://ajiio.co/keEPuS",
-    "urls": [
-      {
-        "url": "https://ajiio.co/keEPuS",
-        "label": "Carlton London & ELLE Min 55% off"
-      },
-      {
-        "url": "https://ajiio.co/aq08Kr",
-        "label": "Max Under 299"
-      }
-    ],
-    "raw_text": "Ajio | Carlton London & ELLE Min 55% off\nhttps://ajiio.co/keEPuS\n\nMax Under 299\nhttps://ajiio.co/aq08Kr",
-    "final_url": "https://ajiio.co/keEPuS",
-    "local_image": "assets/images/tgmsg_13131.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-15T15:11:32+00:00",
-    "buy_link": "https://ajiio.co/keEPuS",
-    "date_iso": "2025-10-15T15:11:32+00:00"
   }
 ]
