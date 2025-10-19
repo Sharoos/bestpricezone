@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13659",
+    "title": "Prestige Iris 750W 4 Jar Mixer Grinder @ 2699",
+    "description": "Amazon | Prestige Iris 750W 4 Jar Mixer Grinder @ 2699. 👉https://www.amazon.in/dp/B08CFJBZRK?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B08CFJBZRK?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B08CFJBZRK?tag=bestpricezo0f-21",
+        "label": "Prestige Iris 750W 4 Jar Mixer Grinder @ 2699"
+      }
+    ],
+    "raw_text": "Amazon | Prestige Iris 750W 4 Jar Mixer Grinder @ 2699.\n\n👉https://www.amazon.in/dp/B08CFJBZRK?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B08CFJBZRK?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13659.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-19T11:36:18+00:00",
+    "buy_link": "https://www.amazon.in/dp/B08CFJBZRK?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-19T11:36:18+00:00"
+  },
+  {
     "id": "msg13658",
     "title": "💥Topwear Min 80% OFF",
     "description": "💥AJIO : Topwear Min 80% OFF Link : https://ajiio.co/JmLuag",
@@ -8122,29 +8142,5 @@
     "date_obj": "2025-10-15T16:11:42+00:00",
     "buy_link": "https://ajiio.co/t9QRQD",
     "date_iso": "2025-10-15T16:11:42+00:00"
-  },
-  {
-    "id": "msg13154",
-    "title": "Gap & Gap kids Flat 60%",
-    "description": "Ajio | Gap & Gap kids Flat 60% https://ajiio.co/lT5xB5 Gas & Gant Flat 50 https://ajiio.co/6LTzwD",
-    "shortlink": "https://ajiio.co/lT5xB5",
-    "urls": [
-      {
-        "url": "https://ajiio.co/lT5xB5",
-        "label": "Gap & Gap kids Flat 60%"
-      },
-      {
-        "url": "https://ajiio.co/6LTzwD",
-        "label": "Gas & Gant Flat 50"
-      }
-    ],
-    "raw_text": "Ajio | Gap & Gap kids Flat 60%\nhttps://ajiio.co/lT5xB5\n\nGas & Gant Flat 50\nhttps://ajiio.co/6LTzwD",
-    "final_url": "https://ajiio.co/lT5xB5",
-    "local_image": "assets/images/tgmsg_13154.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-15T16:21:40+00:00",
-    "buy_link": "https://ajiio.co/lT5xB5",
-    "date_iso": "2025-10-15T16:21:40+00:00"
   }
 ]
