@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg13666",
+    "title": "60% Off Dove Body Wash, 1L @339",
+    "description": "Amazon | 60% Off : Dove Body Wash, 1L @339 https://www.amazon.in/dp/B0BHTQPTRK?th=1&psc=1&tag=bestpricezo0f-21 Buy 5 Qty, Extra ₹120 Cashback.",
+    "shortlink": "https://www.amazon.in/dp/B0BHTQPTRK?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0BHTQPTRK?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "60% Off : Dove Body Wash, 1L @339"
+      }
+    ],
+    "raw_text": "Amazon | 60% Off : Dove Body Wash, 1L @339\n\nhttps://www.amazon.in/dp/B0BHTQPTRK?th=1&psc=1&tag=bestpricezo0f-21\n\nBuy 5 Qty, Extra ₹120 Cashback.",
+    "final_url": "https://www.amazon.in/dp/B0BHTQPTRK?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13666.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-19T12:51:42+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0BHTQPTRK?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-19T12:51:42+00:00"
+  },
+  {
+    "id": "msg13668",
+    "title": "Pack Of 2 The Sleep Company Plush Pillow at 998",
+    "description": "Amazon | Pack Of 2 The Sleep Company Plush Pillow at 998. https://www.amazon.in/dp/B0DWH5BXZ9?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DWH5BXZ9?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DWH5BXZ9?th=1&tag=bestpricezo0f-21",
+        "label": "Pack Of 2 The Sleep Company Plush Pillow at 998"
+      }
+    ],
+    "raw_text": "Amazon | Pack Of 2 The Sleep Company Plush Pillow at 998.\n\nhttps://www.amazon.in/dp/B0DWH5BXZ9?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DWH5BXZ9?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13668.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-19T13:06:36+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DWH5BXZ9?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-19T13:06:36+00:00"
+  },
+  {
     "id": "msg13664",
     "title": "Up to 75% Off On New Balance Shoe",
     "description": "Amazon | Upto 75% Off On New Balance Shoes. Women's : …",
@@ -8106,45 +8146,5 @@
     "date_obj": "2025-10-15T17:11:41+00:00",
     "buy_link": "https://ajiio.co/LLRCH6",
     "date_iso": "2025-10-15T17:11:41+00:00"
-  },
-  {
-    "id": "msg13157",
-    "title": "Up to 70% Off On Engage Deodorant",
-    "description": "Flipkart | Upto 70% Off On Engage Deodorants. https://fkrt.co/NAbhAd",
-    "shortlink": "https://fkrt.co/NAbhAd",
-    "urls": [
-      {
-        "url": "https://fkrt.co/NAbhAd",
-        "label": "Upto 70% Off On Engage Deodorants"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 70% Off On Engage Deodorants.\n\nhttps://fkrt.co/NAbhAd",
-    "final_url": "https://fkrt.co/NAbhAd",
-    "local_image": "assets/images/tgmsg_13157.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-15T16:32:32+00:00",
-    "buy_link": "https://fkrt.co/NAbhAd",
-    "date_iso": "2025-10-15T16:32:32+00:00"
-  },
-  {
-    "id": "msg13160",
-    "title": "80% Off Men's Kurta Pyjama Set @399",
-    "description": "80% Off : Men's Kurta Pyjama Set @399 https://fkrt.co/48qU2e",
-    "shortlink": "https://fkrt.co/48qU2e",
-    "urls": [
-      {
-        "url": "https://fkrt.co/48qU2e",
-        "label": "80% Off : Men's Kurta Pyjama Set @399"
-      }
-    ],
-    "raw_text": "80% Off : Men's Kurta Pyjama Set @399\n\nhttps://fkrt.co/48qU2e",
-    "final_url": "https://fkrt.co/48qU2e",
-    "local_image": "assets/images/tgmsg_13160.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-15T16:34:47+00:00",
-    "buy_link": "https://fkrt.co/48qU2e",
-    "date_iso": "2025-10-15T16:34:47+00:00"
   }
 ]
