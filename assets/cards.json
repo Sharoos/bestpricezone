@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13642",
+    "title": "Reebok min 60%",
+    "description": "Ajio | Reebok min 60% https://ajiio.co/0VXrXe Biba Min 65% https://ajiio.co/xwlW3Z",
+    "shortlink": "https://ajiio.co/0VXrXe",
+    "urls": [
+      {
+        "url": "https://ajiio.co/0VXrXe",
+        "label": "Reebok min 60%"
+      },
+      {
+        "url": "https://ajiio.co/xwlW3Z",
+        "label": "Biba Min 65%"
+      }
+    ],
+    "raw_text": "Ajio | Reebok min 60%\nhttps://ajiio.co/0VXrXe\n\nBiba Min 65%\nhttps://ajiio.co/xwlW3Z",
+    "final_url": "https://ajiio.co/0VXrXe",
+    "local_image": "assets/images/tgmsg_13642.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-19T06:43:11+00:00",
+    "buy_link": "https://ajiio.co/0VXrXe",
+    "date_iso": "2025-10-19T06:43:11+00:00"
+  },
+  {
     "id": "msg13639",
     "title": "🔥 BSC 18 Hours Sale Live",
     "description": "🔥 BSC: 18 Hours Sale Live ▶️ 💥 Buy Anything Starting at Just ₹18 📌Buy Now: • Free Shipping on orders above ₹299.",
@@ -8194,29 +8218,5 @@
     "date_obj": "2025-10-15T14:51:35+00:00",
     "buy_link": "https://ajiio.co/ltkl3G",
     "date_iso": "2025-10-15T14:51:35+00:00"
-  },
-  {
-    "id": "msg13125",
-    "title": "Trends Under 399 ( Teamspirit, DNMX & More)",
-    "description": "Ajio | Trends Under 399 ( Teamspirit, DNMX & More) https://ajiio.co/iqz2la Azorte Flat 70% https://ajiio.co/ak0TuJ",
-    "shortlink": "https://ajiio.co/iqz2la",
-    "urls": [
-      {
-        "url": "https://ajiio.co/iqz2la",
-        "label": "Trends Under 399 ( Teamspirit, DNMX & More)"
-      },
-      {
-        "url": "https://ajiio.co/ak0TuJ",
-        "label": "Azorte Flat 70%"
-      }
-    ],
-    "raw_text": "Ajio | Trends Under 399 ( Teamspirit, DNMX & More)\nhttps://ajiio.co/iqz2la\n\nAzorte Flat 70%\nhttps://ajiio.co/ak0TuJ",
-    "final_url": "https://ajiio.co/iqz2la",
-    "local_image": "assets/images/tgmsg_13125.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-15T14:33:36+00:00",
-    "buy_link": "https://ajiio.co/iqz2la",
-    "date_iso": "2025-10-15T14:33:36+00:00"
   }
 ]
