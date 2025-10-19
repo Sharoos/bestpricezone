@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13661",
+    "title": "Bath Rugs From 101",
+    "description": "Bath Rugs From 101. https://myntr.in/LTwu9w",
+    "shortlink": "https://myntr.in/LTwu9w",
+    "urls": [
+      {
+        "url": "https://myntr.in/LTwu9w",
+        "label": "Bath Rugs From 101"
+      }
+    ],
+    "raw_text": "Bath Rugs From 101.\n\nhttps://myntr.in/LTwu9w",
+    "final_url": "https://myntr.in/LTwu9w",
+    "local_image": "assets/images/tgmsg_13661.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-19T11:40:45+00:00",
+    "buy_link": "https://myntr.in/LTwu9w",
+    "date_iso": "2025-10-19T11:40:45+00:00"
+  },
+  {
     "id": "msg13659",
     "title": "Prestige Iris 750W 4 Jar Mixer Grinder @ 2699",
     "description": "Amazon | Prestige Iris 750W 4 Jar Mixer Grinder @ 2699. 👉https://www.amazon.in/dp/B08CFJBZRK?tag=bestpricezo0f-21",
@@ -8118,29 +8138,5 @@
     "date_obj": "2025-10-15T16:03:50+00:00",
     "buy_link": "https://ajiio.co/dM37bo",
     "date_iso": "2025-10-15T16:03:50+00:00"
-  },
-  {
-    "id": "msg13152",
-    "title": "M&S Min 65%",
-    "description": "Ajio | M&S Min 65% https://ajiio.co/t9QRQD PS Peaches Bitiya By Bhama Min 65 https://ajiio.co/cFuAPM",
-    "shortlink": "https://ajiio.co/t9QRQD",
-    "urls": [
-      {
-        "url": "https://ajiio.co/t9QRQD",
-        "label": "M&S Min 65%"
-      },
-      {
-        "url": "https://ajiio.co/cFuAPM",
-        "label": "PS Peaches Bitiya By Bhama Min 65"
-      }
-    ],
-    "raw_text": "Ajio | M&S Min 65%\nhttps://ajiio.co/t9QRQD\n\nPS Peaches Bitiya By Bhama Min 65\nhttps://ajiio.co/cFuAPM",
-    "final_url": "https://ajiio.co/t9QRQD",
-    "local_image": "assets/images/tgmsg_13152.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-15T16:11:42+00:00",
-    "buy_link": "https://ajiio.co/t9QRQD",
-    "date_iso": "2025-10-15T16:11:42+00:00"
   }
 ]
