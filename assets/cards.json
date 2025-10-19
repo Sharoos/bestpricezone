@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg13627",
+    "title": "Levi’s Jeans Starts at ₹624",
+    "description": "AJIO  Levi’s Jeans Starts at ₹624. https://ajiio.co/nKzbcp Men’s : https://ajiio.co/I1IynB Women’s : https://ajiio.co/7L8SPU More  Levi's Clothing. Men's : https://ajiio.co/q92A1J Women's : https://ajiio.co/VNhCrl",
+    "shortlink": "https://ajiio.co/nKzbcp",
+    "urls": [
+      {
+        "url": "https://ajiio.co/nKzbcp",
+        "label": "AJIO Levi’s Jeans Starts at ₹624"
+      },
+      {
+        "url": "https://ajiio.co/I1IynB",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/7L8SPU",
+        "label": "Women’s"
+      },
+      {
+        "url": "",
+        "label": "More Levi's Clothing"
+      },
+      {
+        "url": "https://ajiio.co/q92A1J",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/VNhCrl",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "AJIO  Levi’s Jeans Starts at ₹624.\n\nhttps://ajiio.co/nKzbcp\n\nMen’s : https://ajiio.co/I1IynB\nWomen’s : https://ajiio.co/7L8SPU\n\nMore  Levi's Clothing.\n\nMen's : https://ajiio.co/q92A1J\nWomen's : https://ajiio.co/VNhCrl",
+    "final_url": "https://ajiio.co/nKzbcp",
+    "local_image": "assets/images/tgmsg_13627.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-19T03:49:53+00:00",
+    "buy_link": "https://ajiio.co/nKzbcp",
+    "date_iso": "2025-10-19T03:49:53+00:00"
+  },
+  {
     "id": "msg13622",
     "title": "Garnier Vitamin C + Booster Face Serum 30ml @297",
     "description": "Garnier Vitamin C + Booster Face Serum 30ml @297. https://www.amazon.in/dp/B08FTQXWC7?th=1&psc=1&tag=bestpricezo0f-21",
@@ -8054,41 +8094,5 @@
     "date_obj": "2025-10-15T13:39:30+00:00",
     "buy_link": "https://myntr.in/VDnj9Y",
     "date_iso": "2025-10-15T13:39:30+00:00"
-  },
-  {
-    "id": "msg13115",
-    "title": "Lotoo Up to 80% Off On Branded Shampoo",
-    "description": "Flipkart Lotoo | Upto 80% Off On Branded Shampoos. DOVE : Tresemme : L'Oreal Paris : More :",
-    "shortlink": "https://fkrt.co/BzC6Xq",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Branded Shampoos"
-      },
-      {
-        "url": "https://fkrt.co/BzC6Xq",
-        "label": "DOVE"
-      },
-      {
-        "url": "https://fkrt.co/nD87Fa",
-        "label": "Tresemme"
-      },
-      {
-        "url": "https://fkrt.co/hFMSQT",
-        "label": "L'Oreal Paris"
-      },
-      {
-        "url": "https://fkrt.co/5LLhgt",
-        "label": "More"
-      }
-    ],
-    "raw_text": "Flipkart Lotoo | Upto 80% Off On Branded Shampoos.\n\nDOVE : https://fkrt.co/BzC6Xq\nTresemme : https://fkrt.co/nD87Fa\nL'Oreal Paris : https://fkrt.co/hFMSQT\n\nMore : https://fkrt.co/5LLhgt",
-    "final_url": "https://fkrt.co/BzC6Xq",
-    "local_image": "assets/images/tgmsg_13115.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-15T13:40:06+00:00",
-    "buy_link": "https://fkrt.co/BzC6Xq",
-    "date_iso": "2025-10-15T13:40:06+00:00"
   }
 ]
