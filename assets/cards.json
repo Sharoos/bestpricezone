@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13745",
+    "title": "Orient Electric 500W Mixer Grinder @1599",
+    "description": "Amazon | Orient Electric 500W Mixer Grinder @1599 https://www.amazon.in/dp/B01M3SYQ7P?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B01M3SYQ7P?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B01M3SYQ7P?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Orient Electric 500W Mixer Grinder @1599"
+      }
+    ],
+    "raw_text": "Amazon | Orient Electric 500W Mixer Grinder @1599\n \nhttps://www.amazon.in/dp/B01M3SYQ7P?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B01M3SYQ7P?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13745.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-19T19:25:04+00:00",
+    "buy_link": "https://www.amazon.in/dp/B01M3SYQ7P?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-19T19:25:04+00:00"
+  },
+  {
     "id": "msg13741",
     "title": "₹999 Off With HDFC Credit Card",
     "description": "Amazon | JBL Cinema SB510, Dolby Audio Soundbar @8999. https://www.amazon.in/dp/B0D45Y8313?tag=bestpricezo0f-21 ₹999 Off With HDFC Credit Card",
@@ -8186,25 +8206,5 @@
     "date_obj": "2025-10-15T19:42:14+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DH4M1MJ3?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-15T19:42:14+00:00"
-  },
-  {
-    "id": "msg13229",
-    "title": "TCL 115 INCH TV at 70% Discount !! @2989990",
-    "description": "Flipkart | TCL 115 INCH TV at 70% Discount !! @2989990 https://fkrt.co/3Fm2J6",
-    "shortlink": "https://fkrt.co/3Fm2J6",
-    "urls": [
-      {
-        "url": "https://fkrt.co/3Fm2J6",
-        "label": "TCL 115 INCH TV at 70% Discount !! @2989990"
-      }
-    ],
-    "raw_text": "Flipkart | TCL 115 INCH TV at 70% Discount !! @2989990\n\nhttps://fkrt.co/3Fm2J6",
-    "final_url": "https://fkrt.co/3Fm2J6",
-    "local_image": "assets/images/tgmsg_13229.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-15T19:42:59+00:00",
-    "buy_link": "https://fkrt.co/3Fm2J6",
-    "date_iso": "2025-10-15T19:42:59+00:00"
   }
 ]
