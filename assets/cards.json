@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg13674",
+    "title": "Diwali Gifting Bedsheets Up to 85% Off",
+    "description": "Diwali Gifting Bedsheets Upto 85% Off. https://myntr.in/eryEg4",
+    "shortlink": "https://myntr.in/eryEg4",
+    "urls": [
+      {
+        "url": "https://myntr.in/eryEg4",
+        "label": "Diwali Gifting Bedsheets Upto 85% Off"
+      }
+    ],
+    "raw_text": "Diwali Gifting Bedsheets Upto 85% Off.\n\nhttps://myntr.in/eryEg4",
+    "final_url": "https://myntr.in/eryEg4",
+    "local_image": "assets/images/tgmsg_13674.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-19T14:07:25+00:00",
+    "buy_link": "https://myntr.in/eryEg4",
+    "date_iso": "2025-10-19T14:07:25+00:00"
+  },
+  {
+    "id": "msg13675",
+    "title": "GULMOHAR JAIPUR Min 75 Percent Off",
+    "description": "Ajio | GULMOHAR JAIPUR Min 75 Percent Off https://ajiio.co/ZTrGbD",
+    "shortlink": "https://ajiio.co/ZTrGbD",
+    "urls": [
+      {
+        "url": "https://ajiio.co/ZTrGbD",
+        "label": "GULMOHAR JAIPUR Min 75 Percent Off"
+      }
+    ],
+    "raw_text": "Ajio | GULMOHAR JAIPUR Min 75 Percent Off\n\nhttps://ajiio.co/ZTrGbD",
+    "final_url": "https://ajiio.co/ZTrGbD",
+    "local_image": "assets/images/tgmsg_13675.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-19T14:07:31+00:00",
+    "buy_link": "https://ajiio.co/ZTrGbD",
+    "date_iso": "2025-10-19T14:07:31+00:00"
+  },
+  {
     "id": "msg13672",
     "title": "Min 50% Off on Bata Sandal",
     "description": "Amazon | Min 50% Off on Bata Sandals. 👉https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
@@ -8138,49 +8178,5 @@
     "date_obj": "2025-10-15T17:51:08+00:00",
     "buy_link": "https://ajiio.co/DBwyHa",
     "date_iso": "2025-10-15T17:51:08+00:00"
-  },
-  {
-    "id": "msg13169",
-    "title": "Arctic Fox Wireless Mouse at 299",
-    "description": "Amazon | Arctic Fox Wireless Mouse at 299. 👉https://www.amazon.in/dp/B0DFYS7JCR?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DFYS7JCR?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DFYS7JCR?tag=bestpricezo0f-21",
-        "label": "Arctic Fox Wireless Mouse at 299"
-      }
-    ],
-    "raw_text": "Amazon | Arctic Fox Wireless Mouse at 299.\n\n👉https://www.amazon.in/dp/B0DFYS7JCR?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DFYS7JCR?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13169.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-15T17:35:25+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DFYS7JCR?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-15T17:35:25+00:00"
-  },
-  {
-    "id": "msg13170",
-    "title": "Pantaloons under 599",
-    "description": "Ajio | Pantaloons under 599 https://ajiio.co/KV584d Poshax Min 87% https://ajiio.co/VZtZ6J",
-    "shortlink": "https://ajiio.co/KV584d",
-    "urls": [
-      {
-        "url": "https://ajiio.co/KV584d",
-        "label": "Pantaloons under 599"
-      },
-      {
-        "url": "https://ajiio.co/VZtZ6J",
-        "label": "Poshax Min 87%"
-      }
-    ],
-    "raw_text": "Ajio | Pantaloons under 599\nhttps://ajiio.co/KV584d\n\nPoshax Min 87%\nhttps://ajiio.co/VZtZ6J",
-    "final_url": "https://ajiio.co/KV584d",
-    "local_image": "assets/images/tgmsg_13170.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-15T17:41:27+00:00",
-    "buy_link": "https://ajiio.co/KV584d",
-    "date_iso": "2025-10-15T17:41:27+00:00"
   }
 ]
