@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13796",
+    "title": "Up to 86% Off On Redtape Shoe",
+    "description": "AJIO  Upto 86% Off On Redtape Shoes. Men : https://ajiio.co/fciJhV Women : https://ajiio.co/CK9wDf",
+    "shortlink": "https://ajiio.co/fciJhV",
+    "urls": [
+      {
+        "url": "https://ajiio.co/fciJhV",
+        "label": "AJIO Upto 86% Off On Redtape Shoes"
+      },
+      {
+        "url": "https://ajiio.co/CK9wDf",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "AJIO  Upto 86% Off On Redtape Shoes. \n \nMen : https://ajiio.co/fciJhV\nWomen : https://ajiio.co/CK9wDf",
+    "final_url": "https://ajiio.co/fciJhV",
+    "local_image": "assets/images/tgmsg_13796.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-20T14:36:53+00:00",
+    "buy_link": "https://ajiio.co/fciJhV",
+    "date_iso": "2025-10-20T14:36:53+00:00"
+  },
+  {
     "id": "msg13795",
     "title": "pTron Zenbuds 1 V2 ANC Earbuds @ 599",
     "description": "Amazon | pTron Zenbuds 1 V2 ANC Earbuds @ 599. 👉https://www.amazon.in/dp/B0D5YRM8P3?th=1&smid=&tag=bestpricezo0f-21",
@@ -8406,25 +8430,5 @@
     "date_obj": "2025-10-16T06:41:18+00:00",
     "buy_link": "https://ajiio.co/mv4MJt",
     "date_iso": "2025-10-16T06:41:18+00:00"
-  },
-  {
-    "id": "msg13265",
-    "title": "Wall Clock From Rs.136",
-    "description": "Amazon | Wall Clock From Rs.136 👉https://www.amazon.in/s?rh=n%3A1380395031%2Cp_89%3AAmazon_Brand_-_Solimo&s=price-asc-rank&i=kitchen&srs=1380395031&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/s?rh=n%3A1380395031%2Cp_89%3AAmazon_Brand_-_Solimo&s=price-asc-rank&i=kitchen&srs=1380395031&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?rh=n%3A1380395031%2Cp_89%3AAmazon_Brand_-_Solimo&s=price-asc-rank&i=kitchen&srs=1380395031&tag=bestpricezo0f-21",
-        "label": "Wall Clock From Rs.136"
-      }
-    ],
-    "raw_text": "Amazon | Wall Clock From Rs.136\n\n👉https://www.amazon.in/s?rh=n%3A1380395031%2Cp_89%3AAmazon_Brand_-_Solimo&s=price-asc-rank&i=kitchen&srs=1380395031&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/s?rh=n%3A1380395031%2Cp_89%3AAmazon_Brand_-_Solimo&s=price-asc-rank&i=kitchen&srs=1380395031&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13265.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-16T06:01:34+00:00",
-    "buy_link": "https://www.amazon.in/s?rh=n%3A1380395031%2Cp_89%3AAmazon_Brand_-_Solimo&s=price-asc-rank&i=kitchen&srs=1380395031&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-16T06:01:34+00:00"
   }
 ]
