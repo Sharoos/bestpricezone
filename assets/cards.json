@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13757",
+    "title": "Flat ₹2000 Off Using Axis Bank Credit Card",
+    "description": "Amazon | Voltas 1.4 Ton 3 Star, Split AC @27990. https://www.amazon.in/dp/B0D5BN76MK?tag=bestpricezo0f-21 Flat ₹2000 Off Using Axis Bank Credit Card.",
+    "shortlink": "https://www.amazon.in/dp/B0D5BN76MK?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0D5BN76MK?tag=bestpricezo0f-21",
+        "label": "Voltas 1.4 Ton 3 Star, Split AC @27990"
+      },
+      {
+        "url": "",
+        "label": "Flat ₹2000 Off Using Axis Bank Credit Card"
+      }
+    ],
+    "raw_text": "Amazon | Voltas 1.4 Ton 3 Star, Split AC @27990.\n\nhttps://www.amazon.in/dp/B0D5BN76MK?tag=bestpricezo0f-21\n\nFlat ₹2000 Off Using Axis Bank Credit Card.",
+    "final_url": "https://www.amazon.in/dp/B0D5BN76MK?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13757.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-20T06:07:06+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D5BN76MK?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-20T06:07:06+00:00"
+  },
+  {
     "id": "msg13755",
     "title": "Wall Shelves For Home Starting @ 209",
     "description": "Ajio | Wall Shelves For Home Starting @ 209 Link : https://ajiio.co/9KKtq2",
@@ -8206,29 +8230,5 @@
     "date_obj": "2025-10-15T19:38:17+00:00",
     "buy_link": "https://ajiio.co/xDLWFp",
     "date_iso": "2025-10-15T19:38:17+00:00"
-  },
-  {
-    "id": "msg13223",
-    "title": "The bear house , Campus sutra & British club Min 75%",
-    "description": "Ajio | The bear house , Campus sutra & British club Min 75% https://ajiio.co/4RbFe4 The Indian garage Flat 80% (opening hour) https://ajiio.co/C0CXbr",
-    "shortlink": "https://ajiio.co/4RbFe4",
-    "urls": [
-      {
-        "url": "https://ajiio.co/4RbFe4",
-        "label": "The bear house , Campus sutra & British club Min 75%"
-      },
-      {
-        "url": "https://ajiio.co/C0CXbr",
-        "label": "The Indian garage Flat 80% (opening hour)"
-      }
-    ],
-    "raw_text": "Ajio | The bear house , Campus sutra & British club Min 75%\nhttps://ajiio.co/4RbFe4\n\nThe Indian garage Flat 80% (opening hour)\nhttps://ajiio.co/C0CXbr",
-    "final_url": "https://ajiio.co/4RbFe4",
-    "local_image": "assets/images/tgmsg_13223.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-15T19:38:19+00:00",
-    "buy_link": "https://ajiio.co/4RbFe4",
-    "date_iso": "2025-10-15T19:38:19+00:00"
   }
 ]
