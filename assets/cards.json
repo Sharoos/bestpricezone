@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13801",
+    "title": "Good knight Flash Liquid Vaporiser Machine + Refill at 105",
+    "description": "Amazon | Good knight Flash Liquid Vaporiser Machine + Refill at 105. Min 2 : https://www.amazon.in/dp/B07VPB4ZLV?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B07VPB4ZLV?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Good knight Flash Liquid Vaporiser Machine + Refill at 105"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B07VPB4ZLV?tag=bestpricezo0f-21",
+        "label": "Min 2"
+      }
+    ],
+    "raw_text": "Amazon | Good knight Flash Liquid Vaporiser Machine + Refill at 105.\n\nMin 2 : https://www.amazon.in/dp/B07VPB4ZLV?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B07VPB4ZLV?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13801.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-20T15:36:41+00:00",
+    "buy_link": "https://www.amazon.in/dp/B07VPB4ZLV?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-20T15:36:41+00:00"
+  },
+  {
     "id": "msg13798",
     "title": "10 Kg @299",
     "description": "Amazon | Dhobighat Detergent Powder - 10 Kg @299 👉https://www.amazon.in/dp/B0CX18GD2Z?tag=bestpricezo0f-21",
@@ -8394,25 +8418,5 @@
     "date_obj": "2025-10-16T06:56:25+00:00",
     "buy_link": "https://fkrt.co/HQi608",
     "date_iso": "2025-10-16T06:56:25+00:00"
-  },
-  {
-    "id": "msg13272",
-    "title": "Fast At 59",
-    "description": "Fast At 59. https://www.amazon.in/stores/page/preview?isPreview=1&isSlp=1&asins=B0FKZLD3YQ%2CB0FP989J97%2CB0FP9CG7W7%2CB0FP992156%2CB0FL7ZNH2Y&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/stores/page/preview?isPreview=1&isSlp=1&asins=B0FKZLD3YQ%2CB0FP989J97%2CB0FP9CG7W7%2CB0FP992156%2CB0FL7ZNH2Y&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/stores/page/preview?isPreview=1&isSlp=1&asins=B0FKZLD3YQ%2CB0FP989J97%2CB0FP9CG7W7%2CB0FP992156%2CB0FL7ZNH2Y&tag=bestpricezo0f-21",
-        "label": "Fast At 59"
-      }
-    ],
-    "raw_text": "Fast At 59.\n\nhttps://www.amazon.in/stores/page/preview?isPreview=1&isSlp=1&asins=B0FKZLD3YQ%2CB0FP989J97%2CB0FP9CG7W7%2CB0FP992156%2CB0FL7ZNH2Y&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/stores/page/preview?isPreview=1&isSlp=1&asins=B0FKZLD3YQ%2CB0FP989J97%2CB0FP9CG7W7%2CB0FP992156%2CB0FL7ZNH2Y&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13272.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-16T06:58:50+00:00",
-    "buy_link": "https://www.amazon.in/stores/page/preview?isPreview=1&isSlp=1&asins=B0FKZLD3YQ%2CB0FP989J97%2CB0FP9CG7W7%2CB0FP992156%2CB0FL7ZNH2Y&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-16T06:58:50+00:00"
   }
 ]
