@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13758",
+    "title": "rank&fs=true&qid=1752066854&ds=v1%3AunD3EbtLn0M3Fs9U7UPAw4bm1dtbPIcGQghVYJy%2BldU&tag=bestpricezo0f",
+    "description": "Amazon | Lenskart Blu Eyeglass Starts @479.…",
+    "shortlink": "https://www.amazon.in/s?i=fashion&srs=206851554031&rh=n%3A206851554031&s=price-asc-rank&fs=true&qid=1752066854&ds=v1%3AunD3EbtLn0M3Fs9U7UPAw4bm1dtbPIcGQghVYJy%2BldU&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/s?i=fashion&srs=206851554031&rh=n%3A206851554031&s=price-asc-rank&fs=true&qid=1752066854&ds=v1%3AunD3EbtLn0M3Fs9U7UPAw4bm1dtbPIcGQghVYJy%2BldU&tag=bestpricezo0f-21",
+        "label": "Lenskart Blu Eyeglass Starts @479"
+      }
+    ],
+    "raw_text": "Amazon | Lenskart Blu Eyeglass Starts @479.\n\n👉https://www.amazon.in/s?i=fashion&srs=206851554031&rh=n%3A206851554031&s=price-asc-rank&fs=true&qid=1752066854&ds=v1%3AunD3EbtLn0M3Fs9U7UPAw4bm1dtbPIcGQghVYJy%2BldU&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?i=fashion&srs=206851554031&rh=n%3A206851554031&s=price-asc-rank&fs=true&qid=1752066854&ds=v1%3AunD3EbtLn0M3Fs9U7UPAw4bm1dtbPIcGQghVYJy%2BldU&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13758.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-20T06:51:47+00:00",
+    "buy_link": "https://www.amazon.in/s?i=fashion&srs=206851554031&rh=n%3A206851554031&s=price-asc-rank&fs=true&qid=1752066854&ds=v1%3AunD3EbtLn0M3Fs9U7UPAw4bm1dtbPIcGQghVYJy%2BldU&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-20T06:51:47+00:00"
+  },
+  {
     "id": "msg13757",
     "title": "Flat ₹2000 Off Using Axis Bank Credit Card",
     "description": "Amazon | Voltas 1.4 Ton 3 Star, Split AC @27990. https://www.amazon.in/dp/B0D5BN76MK?tag=bestpricezo0f-21 Flat ₹2000 Off Using Axis Bank Credit Card.",
@@ -8206,29 +8226,5 @@
     "date_obj": "2025-10-15T19:51:28+00:00",
     "buy_link": "https://www.amazon.in/dp/B0D3X966VS?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-15T19:51:28+00:00"
-  },
-  {
-    "id": "msg13222",
-    "title": "Peter England Min 40% + Extra 10%",
-    "description": "Ajio | Peter England Min 40% + Extra 10% https://ajiio.co/xDLWFp LP Min 40% + extra 20% https://ajiio.co/p6zJem",
-    "shortlink": "https://ajiio.co/xDLWFp",
-    "urls": [
-      {
-        "url": "https://ajiio.co/xDLWFp",
-        "label": "Peter England Min 40% + Extra 10%"
-      },
-      {
-        "url": "https://ajiio.co/p6zJem",
-        "label": "LP Min 40% + extra 20%"
-      }
-    ],
-    "raw_text": "Ajio | Peter England Min 40% + Extra 10%\nhttps://ajiio.co/xDLWFp\n\nLP Min 40% + extra 20%\nhttps://ajiio.co/p6zJem",
-    "final_url": "https://ajiio.co/xDLWFp",
-    "local_image": "assets/images/tgmsg_13222.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-15T19:38:17+00:00",
-    "buy_link": "https://ajiio.co/xDLWFp",
-    "date_iso": "2025-10-15T19:38:17+00:00"
   }
 ]
