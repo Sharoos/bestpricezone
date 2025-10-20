@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg13824",
+    "title": "🛒 Deal Price ₹229",
+    "description": "Amazon | 💡 Lighting Deals Orient Electric 12W Inverter Bulb 🛒 Deal Price: ₹229 https://www.amazon.in/dp/B09X75ZYS5?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B09X75ZYS5?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "💡 Lighting Deals"
+      },
+      {
+        "url": "",
+        "label": "Orient Electric 12W Inverter Bulb"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B09X75ZYS5?th=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹229"
+      }
+    ],
+    "raw_text": "Amazon | 💡 Lighting Deals\n\nOrient Electric 12W Inverter Bulb\n🛒 Deal Price: ₹229\nhttps://www.amazon.in/dp/B09X75ZYS5?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B09X75ZYS5?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13824.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-20T19:23:56+00:00",
+    "buy_link": "https://www.amazon.in/dp/B09X75ZYS5?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-20T19:23:56+00:00"
+  },
+  {
     "id": "msg13811",
     "title": "Up to 85% Off Vero Moda & ONLY Women's Clothing",
     "description": "AJIO : Upto 86% Off On Levi's Clothing. Men's : Women's : Upto 86% Off On UCB Clothing. Men's : Womens : Boy's : Girl's : AJIO Upto 85% Off Vero Moda & ONLY Women's Clothing. Dresses : Tops : T-shirts : Sweatshirts :…",
@@ -8558,33 +8586,5 @@
     "date_obj": "2025-10-16T09:33:36+00:00",
     "buy_link": "https://fkrt.co/w4nzzD",
     "date_iso": "2025-10-16T09:33:36+00:00"
-  },
-  {
-    "id": "msg13283",
-    "title": "🛒 Deal Price ₹899",
-    "description": "Amazon | ⭐️ LED Pendant Light Deals Desidiya Modern Dimmable Minimalist LED Pendant Light (3-Color Adjustable) 🛒 Deal Price: ₹899 👉",
-    "shortlink": "https://www.amazon.in/dp/B0FHDVY9S4/ref=cm_sw_r_as_gl_api_gl_i_YRWZ9FQAYMCBJK231QAQ?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "⭐️ LED Pendant Light Deals"
-      },
-      {
-        "url": "",
-        "label": "Desidiya Modern Dimmable Minimalist LED Pendant Light (3-Color Adjustable)"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0FHDVY9S4/ref=cm_sw_r_as_gl_api_gl_i_YRWZ9FQAYMCBJK231QAQ?tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹899"
-      }
-    ],
-    "raw_text": "Amazon | ⭐️ LED Pendant Light Deals\n\nDesidiya Modern Dimmable Minimalist LED Pendant Light (3-Color Adjustable)\n\n🛒 Deal Price: ₹899\n\n👉https://www.amazon.in/dp/B0FHDVY9S4/ref=cm_sw_r_as_gl_api_gl_i_YRWZ9FQAYMCBJK231QAQ?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FHDVY9S4/ref=cm_sw_r_as_gl_api_gl_i_YRWZ9FQAYMCBJK231QAQ?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13283.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-16T09:01:11+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FHDVY9S4/ref=cm_sw_r_as_gl_api_gl_i_YRWZ9FQAYMCBJK231QAQ?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-16T09:01:11+00:00"
   }
 ]
