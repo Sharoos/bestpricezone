@@ -1,5 +1,73 @@
 [
   {
+    "id": "msg13802",
+    "title": "type%3A8609960031%2Cp_n_pct",
+    "description": "Amazon | boAt Smartwatch Starts @999.…",
+    "shortlink": "https://www.amazon.in/s?k=boat&rh=n%3A5605728031%2Cp_89%3AboAt%2Cp_n_condition-type%3A8609960031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=electronics&refresh=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/s?k=boat&rh=n%3A5605728031%2Cp_89%3AboAt%2Cp_n_condition-type%3A8609960031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=electronics&refresh=1&tag=bestpricezo0f-21",
+        "label": "boAt Smartwatch Starts @999"
+      }
+    ],
+    "raw_text": "Amazon | boAt Smartwatch Starts @999.\n\nhttps://www.amazon.in/s?k=boat&rh=n%3A5605728031%2Cp_89%3AboAt%2Cp_n_condition-type%3A8609960031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=electronics&refresh=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?k=boat&rh=n%3A5605728031%2Cp_89%3AboAt%2Cp_n_condition-type%3A8609960031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=electronics&refresh=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13802.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-20T15:52:32+00:00",
+    "buy_link": "https://www.amazon.in/s?k=boat&rh=n%3A5605728031%2Cp_89%3AboAt%2Cp_n_condition-type%3A8609960031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=electronics&refresh=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-20T15:52:32+00:00"
+  },
+  {
+    "id": "msg13803",
+    "title": "Up to 80% Off on Buda Jeans Men’s Clothing",
+    "description": "Ajio Upto 80% Off on Buda Jeans Men’s Clothing. T-Shirt : Shirt : Jeans : Trackpant : Shorts : Winterwear : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/f8Mzwz",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Upto 80% Off on Buda Jeans Men’s Clothing"
+      },
+      {
+        "url": "https://ajiio.co/f8Mzwz",
+        "label": "T-Shirt"
+      },
+      {
+        "url": "https://ajiio.co/ebr6ie",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://ajiio.co/qnxoL7",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/54ilMC",
+        "label": "Trackpant"
+      },
+      {
+        "url": "https://ajiio.co/Of5jPe",
+        "label": "Shorts"
+      },
+      {
+        "url": "https://ajiio.co/HYCwQs",
+        "label": "Winterwear"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "Ajio  Upto 80% Off on Buda Jeans Men’s Clothing.\n\nT-Shirt : https://ajiio.co/f8Mzwz\nShirt : https://ajiio.co/ebr6ie\nJeans : https://ajiio.co/qnxoL7\nTrackpant : https://ajiio.co/54ilMC\nShorts : https://ajiio.co/Of5jPe\nWinterwear : https://ajiio.co/HYCwQs\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/f8Mzwz",
+    "local_image": "assets/images/tgmsg_13803.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-20T16:06:50+00:00",
+    "buy_link": "https://ajiio.co/f8Mzwz",
+    "date_iso": "2025-10-20T16:06:50+00:00"
+  },
+  {
     "id": "msg13801",
     "title": "Good knight Flash Liquid Vaporiser Machine + Refill at 105",
     "description": "Amazon | Good knight Flash Liquid Vaporiser Machine + Refill at 105. Min 2 : https://www.amazon.in/dp/B07VPB4ZLV?tag=bestpricezo0f-21",
@@ -8378,45 +8446,5 @@
     "date_obj": "2025-10-16T07:11:35+00:00",
     "buy_link": "https://fkrt.co/wT85dF",
     "date_iso": "2025-10-16T07:11:35+00:00"
-  },
-  {
-    "id": "msg13274",
-    "title": "Max Needy Diwali Lights Starts @ 27",
-    "description": "Flipkart  Max Needy | Diwali Lights Starts @ 27. 👉https://fkrt.co/ZrSj6V",
-    "shortlink": "https://fkrt.co/ZrSj6V",
-    "urls": [
-      {
-        "url": "https://fkrt.co/ZrSj6V",
-        "label": "Diwali Lights Starts @ 27"
-      }
-    ],
-    "raw_text": "Flipkart  Max Needy | Diwali Lights Starts @ 27.\n\n👉https://fkrt.co/ZrSj6V",
-    "final_url": "https://fkrt.co/ZrSj6V",
-    "local_image": "assets/images/tgmsg_13274.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-16T07:26:20+00:00",
-    "buy_link": "https://fkrt.co/ZrSj6V",
-    "date_iso": "2025-10-16T07:26:20+00:00"
-  },
-  {
-    "id": "msg13271",
-    "title": "Up to 77% OFF",
-    "description": "Flipkart | Upto 77% OFF - Engage Deodorant & Perfumes https://fkrt.co/HQi608",
-    "shortlink": "https://fkrt.co/HQi608",
-    "urls": [
-      {
-        "url": "https://fkrt.co/HQi608",
-        "label": "Upto 77% OFF - Engage Deodorant & Perfumes"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 77% OFF - Engage Deodorant & Perfumes\n\nhttps://fkrt.co/HQi608",
-    "final_url": "https://fkrt.co/HQi608",
-    "local_image": "assets/images/tgmsg_13271.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-16T06:56:25+00:00",
-    "buy_link": "https://fkrt.co/HQi608",
-    "date_iso": "2025-10-16T06:56:25+00:00"
   }
 ]
