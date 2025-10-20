@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13762",
+    "title": "Up to ₹200 Off With HDFC Bank Card",
+    "description": "Amazon | OnePlus Nord Buds 3 @ 1799. 👉https://www.amazon.in/dp/B0DFQ1R3W4?psc=1&th=1&tag=bestpricezo0f-21 Upto ₹200 Off With HDFC Bank Cards.",
+    "shortlink": "https://www.amazon.in/dp/B0DFQ1R3W4?psc=1&th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DFQ1R3W4?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "OnePlus Nord Buds 3 @ 1799"
+      },
+      {
+        "url": "",
+        "label": "Upto ₹200 Off With HDFC Bank Cards"
+      }
+    ],
+    "raw_text": "Amazon | OnePlus Nord Buds 3 @ 1799.\n\n👉https://www.amazon.in/dp/B0DFQ1R3W4?psc=1&th=1&tag=bestpricezo0f-21\n\n\n Upto ₹200 Off With HDFC Bank Cards.",
+    "final_url": "https://www.amazon.in/dp/B0DFQ1R3W4?psc=1&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13762.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-20T07:36:44+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DFQ1R3W4?psc=1&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-20T07:36:44+00:00"
+  },
+  {
     "id": "msg13759",
     "title": "HP K270 Wireless Keyboard @499",
     "description": "Amazon | HP K270 Wireless Keyboard @499 https://www.amazon.in/dp/B0DXPHFMLX?th=1&psc=1&tag=bestpricezo0f-21",
@@ -8202,29 +8226,5 @@
     "date_obj": "2025-10-15T19:49:49+00:00",
     "buy_link": "https://www.amazon.in/s?k=Dettol&i=beauty&rh=n%3A1355016031%2Cn%3A1374276031%2Cn%3A1374415031%2Cn%3A1374295031%2Cp_123%3A254825%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031&dc=&dv=B0DGLHVLVQ&nsdOptOutParam=true&qid=1741409465&tag=bestpricezo0f-21",
     "date_iso": "2025-10-15T19:49:49+00:00"
-  },
-  {
-    "id": "msg13237",
-    "title": "Samsung Galaxy Budd 3 Pro @10249 Using HDFC CC",
-    "description": "Amazon | Samsung Galaxy Budd 3 Pro @10249 Using HDFC CC* https://www.amazon.in/dp/B0D7M4G3NP?th=1&tag=bestpricezo0f-21 https://www.amazon.in/dp/B0D7M3QQQM?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D7M4G3NP?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0D7M4G3NP?th=1&tag=bestpricezo0f-21",
-        "label": "Samsung Galaxy Budd 3 Pro @10249 Using HDFC CC*"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0D7M3QQQM?th=1&tag=bestpricezo0f-21",
-        "label": "Samsung Galaxy Budd 3 Pro @10249 Using HDFC CC*"
-      }
-    ],
-    "raw_text": "Amazon | Samsung Galaxy Budd 3 Pro @10249 Using HDFC CC*\n\nhttps://www.amazon.in/dp/B0D7M4G3NP?th=1&tag=bestpricezo0f-21\nhttps://www.amazon.in/dp/B0D7M3QQQM?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D7M4G3NP?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13237.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-15T19:50:34+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D7M4G3NP?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-15T19:50:34+00:00"
   }
 ]
