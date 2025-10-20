@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13747",
+    "title": "Pantaloons under 599",
+    "description": "Ajio | Pantaloons under 599 https://ajiio.co/5qDO8V Poshax Min 87% https://ajiio.co/GdL0og",
+    "shortlink": "https://ajiio.co/5qDO8V",
+    "urls": [
+      {
+        "url": "https://ajiio.co/5qDO8V",
+        "label": "Pantaloons under 599"
+      },
+      {
+        "url": "https://ajiio.co/GdL0og",
+        "label": "Poshax Min 87%"
+      }
+    ],
+    "raw_text": "Ajio | Pantaloons under 599\nhttps://ajiio.co/5qDO8V\n\nPoshax Min 87%\nhttps://ajiio.co/GdL0og",
+    "final_url": "https://ajiio.co/5qDO8V",
+    "local_image": "assets/images/tgmsg_13747.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-20T03:47:38+00:00",
+    "buy_link": "https://ajiio.co/5qDO8V",
+    "date_iso": "2025-10-20T03:47:38+00:00"
+  },
+  {
     "id": "msg13745",
     "title": "Orient Electric 500W Mixer Grinder @1599",
     "description": "Amazon | Orient Electric 500W Mixer Grinder @1599 https://www.amazon.in/dp/B01M3SYQ7P?th=1&psc=1&tag=bestpricezo0f-21",
@@ -8186,25 +8210,5 @@
     "date_obj": "2025-10-15T19:41:11+00:00",
     "buy_link": "https://fkrt.co/OkL4L0",
     "date_iso": "2025-10-15T19:41:11+00:00"
-  },
-  {
-    "id": "msg13228",
-    "title": "Acer Chromebook, Intel Celeron Laptop @18,740",
-    "description": "Amazon | Acer Chromebook, Intel Celeron Laptop @18,740* https://www.amazon.in/dp/B0DH4M1MJ3?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DH4M1MJ3?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DH4M1MJ3?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Acer Chromebook, Intel Celeron Laptop @18,740*"
-      }
-    ],
-    "raw_text": "Amazon | Acer Chromebook, Intel Celeron Laptop @18,740*\n \nhttps://www.amazon.in/dp/B0DH4M1MJ3?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DH4M1MJ3?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13228.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-15T19:42:14+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DH4M1MJ3?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-15T19:42:14+00:00"
   }
 ]
