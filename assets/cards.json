@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13766",
+    "title": "Meesho kurta set @173",
+    "description": "Meesho  | kurta set @173 👉https://msho.in/udeVly",
+    "shortlink": "https://msho.in/udeVly",
+    "urls": [
+      {
+        "url": "https://msho.in/udeVly",
+        "label": "kurta set @173"
+      }
+    ],
+    "raw_text": "Meesho  | kurta set @173\n\n👉https://msho.in/udeVly",
+    "final_url": "https://msho.in/udeVly",
+    "local_image": "assets/images/tgmsg_13766.jpg",
+    "source_host": "msho.in",
+    "merchant_label": "Msho",
+    "date_obj": "2025-10-20T08:46:02+00:00",
+    "buy_link": "https://msho.in/udeVly",
+    "date_iso": "2025-10-20T08:46:02+00:00"
+  },
+  {
     "id": "msg13764",
     "title": "Halonix 10 Meter Multicolor Rope Light @ 449",
     "description": "Amazon | Halonix 10 Meter Multicolor Rope Light @ 449. 👉https://www.amazon.in/dp/B0DHW5JRTM?smid=&tag=bestpricezo0f-21",
@@ -8206,25 +8226,5 @@
     "date_obj": "2025-10-15T20:40:35+00:00",
     "buy_link": "https://ajiio.co/f6Hd5S",
     "date_iso": "2025-10-15T20:40:35+00:00"
-  },
-  {
-    "id": "msg13235",
-    "title": "GIZMORE BAR6000 60W RMS Wired Soundba",
-    "description": "Amazon | GIZMORE BAR6000 60W RMS Wired Soundbar @2379 https://www.amazon.in/dp/B0CQ2KHH54?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CQ2KHH54?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CQ2KHH54?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "GIZMORE BAR6000 60W RMS Wired Soundbar"
-      }
-    ],
-    "raw_text": "Amazon | GIZMORE BAR6000 60W RMS Wired Soundbar\n@2379\n\nhttps://www.amazon.in/dp/B0CQ2KHH54?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CQ2KHH54?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13235.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-15T19:48:35+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CQ2KHH54?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-15T19:48:35+00:00"
   }
 ]
