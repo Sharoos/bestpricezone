@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13773",
+    "title": "Set Wet Fire Perfume for Men, 100ml@ 179",
+    "description": "Amazon | Set Wet Fire Perfume for Men, 100ml@ 179 👉https://www.amazon.in/dp/B0CM3DWYBT?psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CM3DWYBT?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CM3DWYBT?psc=1&tag=bestpricezo0f-21",
+        "label": "Set Wet Fire Perfume for Men, 100ml@ 179"
+      }
+    ],
+    "raw_text": "Amazon | Set Wet Fire Perfume for Men, 100ml@ 179\n\n👉https://www.amazon.in/dp/B0CM3DWYBT?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CM3DWYBT?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13773.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-20T09:41:31+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CM3DWYBT?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-20T09:41:31+00:00"
+  },
+  {
     "id": "msg13769",
     "title": "HP K280 Gaming Keyboard USB @ 599",
     "description": "Amazon | HP K280 Gaming Keyboard USB @ 599. 👉 https://www.amazon.in/dp/B0F4KF2PBZ?tag=bestpricezo0f-21",
@@ -8182,65 +8202,5 @@
     "date_obj": "2025-10-16T03:44:17+00:00",
     "buy_link": "https://fkrt.co/caYy70",
     "date_iso": "2025-10-16T03:44:17+00:00"
-  },
-  {
-    "id": "msg13242",
-    "title": "Up to 80% Off On Raymond, Park Avenue & Parx Clothing",
-    "description": "AJIO Upto 80% Off On Raymond, Park Avenue & Parx Clothing. Shirts : Trousers : T-shirts : Jeans : Womens : Upto 80% Off On Louis Philippe Clothing. Under Armour : Clarks : ASOS : Zivame & Clovia :",
-    "shortlink": "https://ajiio.co/m6UeEr",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 80% Off On Raymond, Park Avenue & Parx Clothing"
-      },
-      {
-        "url": "https://ajiio.co/m6UeEr",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/lMDdB0",
-        "label": "Trousers"
-      },
-      {
-        "url": "https://ajiio.co/Re9Xob",
-        "label": "T-shirts"
-      },
-      {
-        "url": "https://ajiio.co/21WaqH",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/yZQkJM",
-        "label": "Womens"
-      },
-      {
-        "url": "https://ajiio.co/pOhPQK",
-        "label": "Upto 80% Off On Louis Philippe Clothing"
-      },
-      {
-        "url": "https://ajiio.co/ZCl7PW",
-        "label": "Under Armour"
-      },
-      {
-        "url": "https://ajiio.co/a9YQ9R",
-        "label": "Clarks"
-      },
-      {
-        "url": "https://ajiio.co/Bzc5kr",
-        "label": "ASOS"
-      },
-      {
-        "url": "https://ajiio.co/YBK6Ex",
-        "label": "Zivame & Clovia"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On Raymond, Park Avenue & Parx Clothing.\n\nShirts : https://ajiio.co/m6UeEr\nTrousers : https://ajiio.co/lMDdB0\nT-shirts : https://ajiio.co/Re9Xob\nJeans : https://ajiio.co/21WaqH\n\nWomens : https://ajiio.co/yZQkJM\n\n Upto 80% Off On Louis Philippe Clothing.\n\nhttps://ajiio.co/pOhPQK\n\nUnder Armour : https://ajiio.co/ZCl7PW\nClarks : https://ajiio.co/a9YQ9R\nASOS : https://ajiio.co/Bzc5kr\nZivame & Clovia : https://ajiio.co/YBK6Ex",
-    "final_url": "https://ajiio.co/m6UeEr",
-    "local_image": "assets/images/tgmsg_13242.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-15T21:02:49+00:00",
-    "buy_link": "https://ajiio.co/m6UeEr",
-    "date_iso": "2025-10-15T21:02:49+00:00"
   }
 ]
