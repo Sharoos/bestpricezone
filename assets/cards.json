@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13835",
+    "title": "Mivi Fort H120 Soundbar, 120W @2999",
+    "description": "Amazon | Mivi Fort H120 Soundbar, 120W @2999. https://www.amazon.in/dp/B0DMT42WXV?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DMT42WXV?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DMT42WXV?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Mivi Fort H120 Soundbar, 120W @2999"
+      }
+    ],
+    "raw_text": "Amazon | Mivi Fort H120 Soundbar, 120W @2999.\n\nhttps://www.amazon.in/dp/B0DMT42WXV?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DMT42WXV?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13835.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-21T04:47:05+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DMT42WXV?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-21T04:47:05+00:00"
+  },
+  {
     "id": "msg13833",
     "title": "💥Topwear Min 80% OFF",
     "description": "💥AJIO : Topwear Min 80% OFF 👉Link : https://ajiio.co/HJ5n4s",
@@ -8558,37 +8578,5 @@
     "date_obj": "2025-10-16T12:15:29+00:00",
     "buy_link": "https://fkrt.co/D97Rvj",
     "date_iso": "2025-10-16T12:15:29+00:00"
-  },
-  {
-    "id": "msg13298",
-    "title": "Zebronics Gaming Headphone",
-    "description": "Amazon | Zebronics Gaming Headphone ₹689 : https://www.amazon.in/dp/B0B5RL2G3S?th=1&tag=bestpricezo0f-21 ₹799 : https://www.amazon.in/dp/B0B5RMKMJL?th=1&tag=bestpricezo0f-21 Best Seller || Lowest Price📉",
-    "shortlink": "https://www.amazon.in/dp/B0B5RL2G3S?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Zebronics Gaming Headphone"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0B5RL2G3S?th=1&tag=bestpricezo0f-21",
-        "label": "₹689"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0B5RMKMJL?th=1&tag=bestpricezo0f-21",
-        "label": "₹799"
-      },
-      {
-        "url": "",
-        "label": "Lowest Price📉"
-      }
-    ],
-    "raw_text": "Amazon | Zebronics Gaming Headphone\n\n₹689 : https://www.amazon.in/dp/B0B5RL2G3S?th=1&tag=bestpricezo0f-21\n\n₹799 : https://www.amazon.in/dp/B0B5RMKMJL?th=1&tag=bestpricezo0f-21\n\nBest Seller || Lowest Price📉",
-    "final_url": "https://www.amazon.in/dp/B0B5RL2G3S?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13298.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-16T11:45:33+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0B5RL2G3S?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-16T11:45:33+00:00"
   }
 ]
