@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg13836",
+    "title": "Up to 78% Off On Puma",
+    "description": "AJIO : Upto 78% Off On Puma. https://ajiio.co/bNxJK7 https://ajiio.co/lgkUBf",
+    "shortlink": "https://ajiio.co/bNxJK7",
+    "urls": [
+      {
+        "url": "https://ajiio.co/bNxJK7",
+        "label": "Upto 78% Off On Puma"
+      },
+      {
+        "url": "https://ajiio.co/lgkUBf",
+        "label": ""
+      }
+    ],
+    "raw_text": "AJIO : Upto 78% Off On Puma.\n\nhttps://ajiio.co/bNxJK7\nhttps://ajiio.co/lgkUBf",
+    "final_url": "https://ajiio.co/bNxJK7",
+    "local_image": "assets/images/tgmsg_13836.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-21T05:01:39+00:00",
+    "buy_link": "https://ajiio.co/bNxJK7",
+    "date_iso": "2025-10-21T05:01:39+00:00"
+  },
+  {
+    "id": "msg13837",
+    "title": "Shirts Starts @ 300",
+    "description": "Ajio : U.S Polo Assn. T-Shirts Starts @ 300. Men's : https://ajiio.co/qhO3f4 Women's : https://ajiio.co/shPWRF Boys : https://ajiio.co/dyjdDM Girls : https://ajiio.co/Z5JJKG",
+    "shortlink": "https://ajiio.co/qhO3f4",
+    "urls": [
+      {
+        "url": "",
+        "label": "U.S Polo Assn. T-Shirts Starts @ 300"
+      },
+      {
+        "url": "https://ajiio.co/qhO3f4",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/shPWRF",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/dyjdDM",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/Z5JJKG",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "Ajio : U.S Polo Assn. T-Shirts Starts @ 300.\n\nMen's : https://ajiio.co/qhO3f4\nWomen's : https://ajiio.co/shPWRF\nBoys : https://ajiio.co/dyjdDM\nGirls : https://ajiio.co/Z5JJKG",
+    "final_url": "https://ajiio.co/qhO3f4",
+    "local_image": "assets/images/tgmsg_13837.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-21T05:16:29+00:00",
+    "buy_link": "https://ajiio.co/qhO3f4",
+    "date_iso": "2025-10-21T05:16:29+00:00"
+  },
+  {
     "id": "msg13835",
     "title": "Mivi Fort H120 Soundbar, 120W @2999",
     "description": "Amazon | Mivi Fort H120 Soundbar, 120W @2999. https://www.amazon.in/dp/B0DMT42WXV?th=1&psc=1&tag=bestpricezo0f-21",
@@ -8522,61 +8582,5 @@
     "date_obj": "2025-10-16T13:00:55+00:00",
     "buy_link": "https://fkrt.co/mnu1Ri",
     "date_iso": "2025-10-16T13:00:55+00:00"
-  },
-  {
-    "id": "msg13299",
-    "title": "🛒 Deal Price ₹212 (72% Off)",
-    "description": "Flipkart | 🎉 Deodorant Steal Deal! Buzz Wild Deo Spray (165 ml, Pack Of 3) 🛒 Deal Price: ₹212 (72% Off) 👉",
-    "shortlink": "https://fkrt.co/ALnhHw",
-    "urls": [
-      {
-        "url": "",
-        "label": "🎉 Deodorant Steal Deal!"
-      },
-      {
-        "url": "",
-        "label": "Buzz Wild Deo Spray (165 ml, Pack Of 3)"
-      },
-      {
-        "url": "https://fkrt.co/ALnhHw",
-        "label": "🛒 Deal Price: ₹212 (72% Off)"
-      }
-    ],
-    "raw_text": "Flipkart | 🎉 Deodorant Steal Deal!\n\nBuzz Wild Deo Spray (165 ml, Pack Of 3)\n\n🛒 Deal Price: ₹212 (72% Off)\n\n👉https://fkrt.co/ALnhHw",
-    "final_url": "https://fkrt.co/ALnhHw",
-    "local_image": "assets/images/tgmsg_13299.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-16T12:02:57+00:00",
-    "buy_link": "https://fkrt.co/ALnhHw",
-    "date_iso": "2025-10-16T12:02:57+00:00"
-  },
-  {
-    "id": "msg13300",
-    "title": "🛒 Deal Price ₹699",
-    "description": "Flipkart | Mixer Grinder Deals Lifelong Regalia 450 W Mixer Grinder 🛒 Deal Price: ₹699 👉",
-    "shortlink": "https://fkrt.co/D97Rvj",
-    "urls": [
-      {
-        "url": "",
-        "label": "Mixer Grinder Deals"
-      },
-      {
-        "url": "",
-        "label": "Lifelong Regalia 450 W Mixer Grinder"
-      },
-      {
-        "url": "https://fkrt.co/D97Rvj",
-        "label": "🛒 Deal Price: ₹699"
-      }
-    ],
-    "raw_text": "Flipkart  | Mixer Grinder Deals\n\nLifelong Regalia 450 W Mixer Grinder\n\n🛒 Deal Price: ₹699\n\n👉https://fkrt.co/D97Rvj",
-    "final_url": "https://fkrt.co/D97Rvj",
-    "local_image": "assets/images/tgmsg_13300.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-16T12:15:29+00:00",
-    "buy_link": "https://fkrt.co/D97Rvj",
-    "date_iso": "2025-10-16T12:15:29+00:00"
   }
 ]
