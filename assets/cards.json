@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg13868",
+    "title": "🛒 Deal Price ₹913",
+    "description": "Amazon | 🥪 Sandwich Maker Deals iBELL SM410N Sandwich Maker with Non Stick Sandwich Plates Grill 🛒 Deal Price: ₹913 👉",
+    "shortlink": "https://www.amazon.in/dp/B0DRPFG5FR?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "🥪 Sandwich Maker Deals"
+      },
+      {
+        "url": "",
+        "label": "iBELL SM410N Sandwich Maker with Non Stick Sandwich Plates Grill"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0DRPFG5FR?tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹913"
+      }
+    ],
+    "raw_text": "Amazon | 🥪 Sandwich Maker Deals\n\niBELL SM410N Sandwich Maker with Non Stick Sandwich Plates Grill\n\n🛒 Deal Price: ₹913\n\n👉https://www.amazon.in/dp/B0DRPFG5FR?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DRPFG5FR?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13868.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-21T11:45:26+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DRPFG5FR?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-21T11:45:26+00:00"
+  },
+  {
     "id": "msg13867",
     "title": "Jockey Under 699",
     "description": "Ajio | Jockey Under 699 👉https://ajiio.co/23jEEN",
@@ -8526,25 +8554,5 @@
     "date_obj": "2025-10-16T17:46:27+00:00",
     "buy_link": "https://ajiio.co/SrqR3k",
     "date_iso": "2025-10-16T17:46:27+00:00"
-  },
-  {
-    "id": "msg13338",
-    "title": "Pack Of 72 Wipes @ Rs.89 😱😱",
-    "description": "Flipkart  Pack Of 72 Wipes @ Rs.89 😱😱 👉 https://fkrt.co/owMY3t",
-    "shortlink": "https://fkrt.co/owMY3t",
-    "urls": [
-      {
-        "url": "https://fkrt.co/owMY3t",
-        "label": "Flipkart Pack Of 72 Wipes @ Rs.89 😱😱"
-      }
-    ],
-    "raw_text": "Flipkart  Pack Of 72 Wipes @ Rs.89 😱😱\n\n👉 https://fkrt.co/owMY3t",
-    "final_url": "https://fkrt.co/owMY3t",
-    "local_image": "assets/images/tgmsg_13338.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-16T17:35:17+00:00",
-    "buy_link": "https://fkrt.co/owMY3t",
-    "date_iso": "2025-10-16T17:35:17+00:00"
   }
 ]
