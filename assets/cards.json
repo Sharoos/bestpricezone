@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13867",
+    "title": "Jockey Under 699",
+    "description": "Ajio | Jockey Under 699 👉https://ajiio.co/23jEEN",
+    "shortlink": "https://ajiio.co/23jEEN",
+    "urls": [
+      {
+        "url": "https://ajiio.co/23jEEN",
+        "label": "Jockey Under 699"
+      }
+    ],
+    "raw_text": "Ajio | Jockey Under 699\n\n👉https://ajiio.co/23jEEN",
+    "final_url": "https://ajiio.co/23jEEN",
+    "local_image": "assets/images/tgmsg_13867.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-21T11:32:04+00:00",
+    "buy_link": "https://ajiio.co/23jEEN",
+    "date_iso": "2025-10-21T11:32:04+00:00"
+  },
+  {
     "id": "msg13865",
     "title": "Lavie Sport 29L Laptop Backpack @ 449",
     "description": "Amazon | Lavie Sport 29L Laptop Backpack @ 449. 👉https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21 👉https://www.amazon.in/dp/B0FNNB768S?th=1&tag=bestpricezo0f-21",
@@ -8526,25 +8546,5 @@
     "date_obj": "2025-10-16T17:35:17+00:00",
     "buy_link": "https://fkrt.co/owMY3t",
     "date_iso": "2025-10-16T17:35:17+00:00"
-  },
-  {
-    "id": "msg13337",
-    "title": "Up to 82% Off on Women's Kurtas Sets Starting @ just ₹288",
-    "description": "Flipkart | UPTO 82% Off on Women's Kurtas Sets Starting @ just ₹288 Link : https://fkrt.co/hzkBC5",
-    "shortlink": "https://fkrt.co/hzkBC5",
-    "urls": [
-      {
-        "url": "https://fkrt.co/hzkBC5",
-        "label": "UPTO 82% Off on Women's Kurtas Sets Starting @ just ₹288"
-      }
-    ],
-    "raw_text": "Flipkart | UPTO 82% Off on Women's Kurtas Sets Starting @ just ₹288\n \nLink : https://fkrt.co/hzkBC5",
-    "final_url": "https://fkrt.co/hzkBC5",
-    "local_image": "assets/images/tgmsg_13337.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-16T17:16:33+00:00",
-    "buy_link": "https://fkrt.co/hzkBC5",
-    "date_iso": "2025-10-16T17:16:33+00:00"
   }
 ]
