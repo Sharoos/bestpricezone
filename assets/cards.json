@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13857",
+    "title": "🛒 Deal Price From ₹199",
+    "description": "Amazon | 👗 Girls' Dresses - Starting at a Steal! 🛒 Deal Price : From ₹199 ✅ https://www.amazon.in/s?k=Jam&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/s?k=Jam&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "👗 Girls' Dresses - Starting at a Steal!"
+      },
+      {
+        "url": "https://www.amazon.in/s?k=Jam&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price : From ₹199"
+      }
+    ],
+    "raw_text": "Amazon | 👗 Girls' Dresses - Starting at a Steal!\n\n🛒 Deal Price : From ₹199\n\n✅ https://www.amazon.in/s?k=Jam&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?k=Jam&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13857.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-21T08:45:18+00:00",
+    "buy_link": "https://www.amazon.in/s?k=Jam&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-21T08:45:18+00:00"
+  },
+  {
     "id": "msg13854",
     "title": "Pigeon 5L IB Pressure Cooker @ 809",
     "description": "Amazon | Pigeon 5L IB Pressure Cooker @ 809. 👉Link : https://www.amazon.in/dp/B00TK5AYLG?th=1&tag=bestpricezo0f-21",
@@ -8590,25 +8614,5 @@
     "date_obj": "2025-10-16T14:58:20+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CC5666P7?social_share=cm_sw_r_cso_wa_apin_dp_7RZ3XSPQA5VJTP3021H5&titleSource=true&tag=bestpricezo0f-21",
     "date_iso": "2025-10-16T14:58:20+00:00"
-  },
-  {
-    "id": "msg13322",
-    "title": "Noise Bluetooth Calling Smartwatch Starts @999",
-    "description": "Amazon | Noise Bluetooth Calling Smartwatch Starts @999. 👉https://www.amazon.in/s?k=noise%20bluetooth%20calling&rh=n%3A5605728031%2Cp_89%3ANoise&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/s?k=noise%20bluetooth%20calling&rh=n%3A5605728031%2Cp_89%3ANoise&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?k=noise%20bluetooth%20calling&rh=n%3A5605728031%2Cp_89%3ANoise&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21",
-        "label": "Noise Bluetooth Calling Smartwatch Starts @999"
-      }
-    ],
-    "raw_text": "Amazon | Noise Bluetooth Calling Smartwatch Starts @999.\n\n👉https://www.amazon.in/s?k=noise%20bluetooth%20calling&rh=n%3A5605728031%2Cp_89%3ANoise&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/s?k=noise%20bluetooth%20calling&rh=n%3A5605728031%2Cp_89%3ANoise&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13322.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-16T15:03:07+00:00",
-    "buy_link": "https://www.amazon.in/s?k=noise%20bluetooth%20calling&rh=n%3A5605728031%2Cp_89%3ANoise&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-16T15:03:07+00:00"
   }
 ]
