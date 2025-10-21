@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg13921",
+    "title": "✔️ Apply 5% off",
+    "description": "Amazon | Santoor Shower Gel 250ml @ ₹85 👉 Refreshing 👉 Moisturizing 👉 Brightening  Coupon",
+    "shortlink": "https://www.amazon.in/Refreshing-Frangipani-Extracts-Suitable-Silicones/dp/B0CP5YCPMF?language=en_IN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/Refreshing-Frangipani-Extracts-Suitable-Silicones/dp/B0CP5YCPMF?language=en_IN&tag=bestpricezo0f-21",
+        "label": "Santoor Shower Gel 250ml @ ₹85"
+      },
+      {
+        "url": "https://www.amazon.in/Moisturizing-Sandalwood-Gardenia-Extracts-Silicones/dp/B0CP5YCJQ3?language=en_IN&tag=bestpricezo0f-21",
+        "label": "Santoor Shower Gel 250ml @ ₹85"
+      },
+      {
+        "url": "https://www.amazon.in/Brightening-Marigold-Extracts-Suitable-Silicones/dp/B0CP5YY2Q2?language=en_IN&tag=bestpricezo0f-21",
+        "label": "Santoor Shower Gel 250ml @ ₹85"
+      }
+    ],
+    "raw_text": "Amazon | Santoor Shower Gel 250ml  @ ₹85\n\n👉 Refreshing \nhttps://www.amazon.in/Refreshing-Frangipani-Extracts-Suitable-Silicones/dp/B0CP5YCPMF?language=en_IN&tag=bestpricezo0f-21\n\n👉 Moisturizing \nhttps://www.amazon.in/Moisturizing-Sandalwood-Gardenia-Extracts-Silicones/dp/B0CP5YCJQ3?language=en_IN&tag=bestpricezo0f-21\n\n👉 Brightening \nhttps://www.amazon.in/Brightening-Marigold-Extracts-Suitable-Silicones/dp/B0CP5YY2Q2?language=en_IN&tag=bestpricezo0f-21\n\n✔️ Apply 5% off Coupon",
+    "final_url": "https://www.amazon.in/Refreshing-Frangipani-Extracts-Suitable-Silicones/dp/B0CP5YCPMF?language=en_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13921.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-21T23:51:57+00:00",
+    "buy_link": "https://www.amazon.in/Refreshing-Frangipani-Extracts-Suitable-Silicones/dp/B0CP5YCPMF?language=en_IN&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-21T23:51:57+00:00"
+  },
+  {
     "id": "msg13912",
     "title": "tax%3A2665402031%2Cp_123%3A450757&tag=bestpricezo0f",
     "description": "Amazon | 🪥 Dabur Toothpaste Deal - Up to 65% Off ✨ Odonil Room Freshener Deal - Up to 50% Off",
@@ -8802,25 +8830,5 @@
     "date_obj": "2025-10-17T03:45:56+00:00",
     "buy_link": "https://ajiio.co/4gvO4k",
     "date_iso": "2025-10-17T03:45:56+00:00"
-  },
-  {
-    "id": "msg13381",
-    "title": "Campus Shoes Starts at 640🔥🔥",
-    "description": "Ajio | Campus Shoes Starts at 640🔥🔥 👉Link : https://ajiio.co/VePlc8",
-    "shortlink": "https://ajiio.co/VePlc8",
-    "urls": [
-      {
-        "url": "https://ajiio.co/VePlc8",
-        "label": "Campus Shoes Starts at 640🔥🔥"
-      }
-    ],
-    "raw_text": "Ajio | Campus Shoes Starts at 640🔥🔥\n\n👉Link : https://ajiio.co/VePlc8",
-    "final_url": "https://ajiio.co/VePlc8",
-    "local_image": "assets/images/tgmsg_13381.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-17T03:35:48+00:00",
-    "buy_link": "https://ajiio.co/VePlc8",
-    "date_iso": "2025-10-17T03:35:48+00:00"
   }
 ]
