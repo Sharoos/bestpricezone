@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg13848",
+    "title": "+ 10% EXTRA CASH",
+    "description": "AJIO  Cargo Pants Starts at 590. Men : https://ajiio.co/3YzWNz Women : https://ajiio.co/l4tiP1 + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/3YzWNz",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Cargo Pants Starts at 590"
+      },
+      {
+        "url": "https://ajiio.co/3YzWNz",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/l4tiP1",
+        "label": "Women"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO  Cargo Pants Starts at 590. \n \nMen : https://ajiio.co/3YzWNz \nWomen : https://ajiio.co/l4tiP1\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/3YzWNz",
+    "local_image": "assets/images/tgmsg_13848.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-21T07:16:13+00:00",
+    "buy_link": "https://ajiio.co/3YzWNz",
+    "date_iso": "2025-10-21T07:16:13+00:00"
+  },
+  {
     "id": "msg13845",
     "title": "Up to 85% Off On Vero Moda & ONLY Women Clothing.🔥🔥",
     "description": "Ajio | Upto 85% Off On Vero Moda & ONLY Women Clothing.🔥🔥 🖇️https://ajiio.co/QKfoIE 🖇️https://ajiio.co/1pDNOg Jeans🔥 : 🖇️https://ajiio.co/lnLHs2",
@@ -8598,25 +8630,5 @@
     "date_obj": "2025-10-16T13:46:37+00:00",
     "buy_link": "https://ajiio.co/7JB5wK",
     "date_iso": "2025-10-16T13:46:37+00:00"
-  },
-  {
-    "id": "msg13307",
-    "title": "High Quality Bag with Strong Belt 4 in 1 Position Baby Carrier @ just 333",
-    "description": "Flipkart  | High Quality Bag with Strong Belt 4 in 1 Position Baby Carrier @ just 333. 👉https://fkrt.co/4CDLfK",
-    "shortlink": "https://fkrt.co/4CDLfK",
-    "urls": [
-      {
-        "url": "https://fkrt.co/4CDLfK",
-        "label": "High Quality Bag with Strong Belt 4 in 1 Position Baby Carrier @ just 333"
-      }
-    ],
-    "raw_text": "Flipkart  | High Quality Bag with Strong Belt 4 in 1 Position Baby Carrier @ just 333.\n\n👉https://fkrt.co/4CDLfK",
-    "final_url": "https://fkrt.co/4CDLfK",
-    "local_image": "assets/images/tgmsg_13307.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-16T13:15:52+00:00",
-    "buy_link": "https://fkrt.co/4CDLfK",
-    "date_iso": "2025-10-16T13:15:52+00:00"
   }
 ]
