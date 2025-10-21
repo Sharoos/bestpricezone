@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg13830",
+    "title": "💥Men's Shirt Starts @150",
+    "description": "💥Ajio | Men's Shirt Starts @150 https://ajiio.co/hp911A",
+    "shortlink": "https://ajiio.co/hp911A",
+    "urls": [
+      {
+        "url": "https://ajiio.co/hp911A",
+        "label": "💥Ajio | Men's Shirt Starts @150"
+      }
+    ],
+    "raw_text": "💥Ajio | Men's Shirt Starts @150\n\nhttps://ajiio.co/hp911A",
+    "final_url": "https://ajiio.co/hp911A",
+    "local_image": "assets/images/tgmsg_13830.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-21T03:34:11+00:00",
+    "buy_link": "https://ajiio.co/hp911A",
+    "date_iso": "2025-10-21T03:34:11+00:00"
+  },
+  {
+    "id": "msg13831",
+    "title": "+ 10% Cashback",
+    "description": "Ajio | Branded Men's T-Shirts from Rs.100 👉 Branded Men's Shirts from Rs.180 👉 + 10% Ajio Cashback",
+    "shortlink": "https://ajiio.co/HG8bPM",
+    "urls": [
+      {
+        "url": "https://ajiio.co/HG8bPM",
+        "label": "Branded Men's T-Shirts from Rs.100"
+      },
+      {
+        "url": "https://ajiio.co/SPI9O8",
+        "label": "Branded Men's Shirts from Rs.180"
+      },
+      {
+        "url": "",
+        "label": "+ 10% Ajio Cashback"
+      }
+    ],
+    "raw_text": "Ajio | Branded Men's T-Shirts from Rs.100\n\n👉https://ajiio.co/HG8bPM \n\n Branded Men's Shirts from Rs.180\n\n👉https://ajiio.co/SPI9O8\n\n+ 10% Ajio Cashback",
+    "final_url": "https://ajiio.co/HG8bPM",
+    "local_image": "assets/images/tgmsg_13831.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-21T03:45:48+00:00",
+    "buy_link": "https://ajiio.co/HG8bPM",
+    "date_iso": "2025-10-21T03:45:48+00:00"
+  },
+  {
     "id": "msg13829",
     "title": "🛒 Deal Price ₹237",
     "description": "Amazon | 🧔 Grooming Kit Deals Bombay Shaving Company 9in1 Grooming Kit for Men 🛒 Deal Price: ₹237",
@@ -8550,53 +8598,5 @@
     "date_obj": "2025-10-16T11:15:11+00:00",
     "buy_link": "https://fkrt.co/NAX5UN",
     "date_iso": "2025-10-16T11:15:11+00:00"
-  },
-  {
-    "id": "msg13293",
-    "title": "21% off Stahl Artisan Hybrid Triply Dosa Tawa @ 2679",
-    "description": "21% off: Stahl Artisan Hybrid Triply Dosa Tawa @ 2679 https://www.amazon.in/dp/B09BD26M9C?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B09BD26M9C?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B09BD26M9C?th=1&tag=bestpricezo0f-21",
-        "label": "21% off: Stahl Artisan Hybrid Triply Dosa Tawa @ 2679"
-      }
-    ],
-    "raw_text": "21% off: Stahl Artisan Hybrid Triply Dosa Tawa @ 2679\n\nhttps://www.amazon.in/dp/B09BD26M9C?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B09BD26M9C?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13293.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-16T11:25:46+00:00",
-    "buy_link": "https://www.amazon.in/dp/B09BD26M9C?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-16T11:25:46+00:00"
-  },
-  {
-    "id": "msg13291",
-    "title": "Branded Shoes and Sneaker at Price",
-    "description": "Flipkart | Branded Shoes and Sneaker at  Prices Asian: https://fkrt.co/5Sazn3 Campus: https://fkrt.co/rfIhYq",
-    "shortlink": "https://fkrt.co/5Sazn3",
-    "urls": [
-      {
-        "url": "",
-        "label": "Branded Shoes and Sneaker at Prices"
-      },
-      {
-        "url": "https://fkrt.co/5Sazn3",
-        "label": "Asian"
-      },
-      {
-        "url": "https://fkrt.co/rfIhYq",
-        "label": "Campus"
-      }
-    ],
-    "raw_text": "Flipkart | Branded Shoes and Sneaker at  Prices\n\nAsian: https://fkrt.co/5Sazn3\n\nCampus: https://fkrt.co/rfIhYq",
-    "final_url": "https://fkrt.co/5Sazn3",
-    "local_image": "assets/images/tgmsg_13291.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-16T10:52:58+00:00",
-    "buy_link": "https://fkrt.co/5Sazn3",
-    "date_iso": "2025-10-16T10:52:58+00:00"
   }
 ]
