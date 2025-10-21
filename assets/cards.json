@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13863",
+    "title": "🛒 Deal Price ₹238",
+    "description": "Amazon | Odomos Liquid (Pack of 6) 🛒 Deal Price: ₹238 👉https://www.amazon.in/dp/B0982DRKF9?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0982DRKF9?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Odomos Liquid (Pack of 6)"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0982DRKF9?th=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹238"
+      }
+    ],
+    "raw_text": "Amazon | Odomos Liquid (Pack of 6)\n\n🛒 Deal Price: ₹238\n\n👉https://www.amazon.in/dp/B0982DRKF9?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0982DRKF9?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13863.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-21T10:45:28+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0982DRKF9?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-21T10:45:28+00:00"
+  },
+  {
     "id": "msg13862",
     "title": "Up to 65% Off On NETPLAY Men's Clothing",
     "description": "AJIO : Upto 65% Off On NETPLAY Men's Clothing. Polo Tshirts : Shirts : Trousers : Sweaters : Jackets : Sweatshirt :",
@@ -8518,37 +8542,5 @@
     "date_obj": "2025-10-16T16:34:51+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DFY3XCB6?tag=bestpricezo0f-21",
     "date_iso": "2025-10-16T16:34:51+00:00"
-  },
-  {
-    "id": "msg13333",
-    "title": "76% Off On Performax Clothing",
-    "description": "AJIO  Flat 70-76% Off On Performax Clothing. Men : https://ajiio.co/z2dxnJ Shoes : https://ajiio.co/2yeJOI Women : https://ajiio.co/dRMyOI Shoes : https://ajiio.co/pqkUiB",
-    "shortlink": "https://ajiio.co/z2dxnJ",
-    "urls": [
-      {
-        "url": "https://ajiio.co/z2dxnJ",
-        "label": "76% Off On Performax Clothing"
-      },
-      {
-        "url": "https://ajiio.co/2yeJOI",
-        "label": "Shoes"
-      },
-      {
-        "url": "https://ajiio.co/dRMyOI",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/pqkUiB",
-        "label": "Shoes"
-      }
-    ],
-    "raw_text": "AJIO  Flat 70-76% Off On Performax Clothing.\n\nMen : https://ajiio.co/z2dxnJ\nShoes : https://ajiio.co/2yeJOI\n\nWomen : https://ajiio.co/dRMyOI\nShoes : https://ajiio.co/pqkUiB",
-    "final_url": "https://ajiio.co/z2dxnJ",
-    "local_image": "assets/images/tgmsg_13333.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-16T16:46:46+00:00",
-    "buy_link": "https://ajiio.co/z2dxnJ",
-    "date_iso": "2025-10-16T16:46:46+00:00"
   }
 ]
