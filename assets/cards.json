@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg13879",
+    "title": "Up to 75% Off On John Players Brand Clothing",
+    "description": "AJIO : Upto 75% Off On John Players Brand Clothing T-Shirts : Jeans : Shirts : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/JKoSh1",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On John Players Brand Clothing"
+      },
+      {
+        "url": "https://ajiio.co/JKoSh1",
+        "label": "T-Shirts"
+      },
+      {
+        "url": "https://ajiio.co/Km4gKR",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/p48ID0",
+        "label": "Shirts"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO : Upto 75% Off On John Players Brand Clothing  \n \nT-Shirts : https://ajiio.co/JKoSh1 \nJeans : https://ajiio.co/Km4gKR \nShirts : https://ajiio.co/p48ID0\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/JKoSh1",
+    "local_image": "assets/images/tgmsg_13879.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-21T14:32:26+00:00",
+    "buy_link": "https://ajiio.co/JKoSh1",
+    "date_iso": "2025-10-21T14:32:26+00:00"
+  },
+  {
     "id": "msg13876",
     "title": "Lakme Liquid Eyeconic Eye Regime Kit @ 379",
     "description": "Amazon | Lakme Liquid Eyeconic Eye Regime Kit @ 379. https://www.amazon.in/dp/B0CHW3BNXF?psc=1&th=1&tag=bestpricezo0f-21",
@@ -8562,29 +8598,5 @@
     "date_obj": "2025-10-16T18:41:58+00:00",
     "buy_link": "https://www.amazon.in/dp/B0D3LT61KQ?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-16T18:41:58+00:00"
-  },
-  {
-    "id": "msg13353",
-    "title": "₹3,514 Flat ₹380 off With SBI Card",
-    "description": "Flipkart | Safari Magnum Fury Hard Body Set of 3 Luggage 4 Wheels Trolley 🔗 ₹3,514 | Flat ₹380 off With SBI Cards",
-    "shortlink": "https://fkrt.co/9UGcX9",
-    "urls": [
-      {
-        "url": "https://fkrt.co/9UGcX9",
-        "label": "Safari Magnum Fury Hard Body Set of 3 Luggage 4 Wheels Trolley"
-      },
-      {
-        "url": "",
-        "label": "₹3,514 | Flat ₹380 off With SBI Cards"
-      }
-    ],
-    "raw_text": "Flipkart | Safari Magnum Fury Hard Body Set of 3 Luggage 4 Wheels Trolley \n\n🔗 https://fkrt.co/9UGcX9\n\n₹3,514 | Flat ₹380 off With SBI Cards",
-    "final_url": "https://fkrt.co/9UGcX9",
-    "local_image": "assets/images/tgmsg_13353.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-16T18:42:53+00:00",
-    "buy_link": "https://fkrt.co/9UGcX9",
-    "date_iso": "2025-10-16T18:42:53+00:00"
   }
 ]
