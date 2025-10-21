@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13888",
+    "title": "C Superfast Cable @ 299",
+    "description": "Amazon | pTron 80W Type-C to Type-C Superfast Cable @ 299. 👉https://www.amazon.in/dp/B0D7S5NB19?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0D7S5NB19?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0D7S5NB19?th=1&tag=bestpricezo0f-21",
+        "label": "pTron 80W Type-C to Type-C Superfast Cable @ 299"
+      }
+    ],
+    "raw_text": "Amazon | pTron 80W Type-C to Type-C Superfast Cable @ 299.\n\n👉https://www.amazon.in/dp/B0D7S5NB19?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D7S5NB19?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13888.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-21T15:33:50+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D7S5NB19?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-21T15:33:50+00:00"
+  },
+  {
     "id": "msg13884",
     "title": "Electric Egg Boiler at 699",
     "description": "Amazon | Electric Egg Boiler at 699 https://www.amazon.in/dp/B09VK244N7?psc=1&th=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
@@ -8578,25 +8598,5 @@
     "date_obj": "2025-10-16T18:38:38+00:00",
     "buy_link": "https://www.amazon.in/dp/B07BS782XJ?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-16T18:38:38+00:00"
-  },
-  {
-    "id": "msg13349",
-    "title": "ASUS Vivobook i5 13th Gen,Intel (16GB RAM/512GB SSD) @43240 Using Card",
-    "description": "Amazon | ASUS Vivobook i5 13th Gen,Intel (16GB RAM/512GB SSD) @43240 Using Card https://www.amazon.in/dp/B0DTYKLHYC?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DTYKLHYC?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DTYKLHYC?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "ASUS Vivobook i5 13th Gen,Intel (16GB RAM/512GB SSD) @43240 Using Card"
-      }
-    ],
-    "raw_text": "Amazon | ASUS Vivobook i5 13th Gen,Intel (16GB RAM/512GB SSD) @43240 Using Card\n\nhttps://www.amazon.in/dp/B0DTYKLHYC?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DTYKLHYC?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13349.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-16T18:39:42+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DTYKLHYC?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-16T18:39:42+00:00"
   }
 ]
