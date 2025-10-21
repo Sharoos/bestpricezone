@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg13872",
+    "title": "Women's Westernwear Under ₹399 (Rio, Fig & More)",
+    "description": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More) Women : https://ajiio.co/ysFQFW Girls : https://ajiio.co/wxA35I",
+    "shortlink": "https://ajiio.co/ysFQFW",
+    "urls": [
+      {
+        "url": "",
+        "label": "Women's Westernwear Under ₹399 (Rio, Fig & More)"
+      },
+      {
+        "url": "https://ajiio.co/ysFQFW",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/wxA35I",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More)\n\nWomen : https://ajiio.co/ysFQFW\n\nGirls : https://ajiio.co/wxA35I",
+    "final_url": "https://ajiio.co/ysFQFW",
+    "local_image": "assets/images/tgmsg_13872.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-21T13:16:27+00:00",
+    "buy_link": "https://ajiio.co/ysFQFW",
+    "date_iso": "2025-10-21T13:16:27+00:00"
+  },
+  {
     "id": "msg13870",
     "title": "Topwear Clothing Under ₹199",
     "description": "AJIO  Topwear Clothing Under ₹199 Men's : https://ajiio.co/RnTtMg Women's : https://ajiio.co/dLaY7a Boy’s : https://ajiio.co/B0u5QP Girl’s : https://ajiio.co/WK5rDs Baby : https://ajiio.co/lROK6B",
@@ -8554,25 +8582,5 @@
     "date_obj": "2025-10-16T18:46:04+00:00",
     "buy_link": "https://www.amazon.in/dp/B0B6RJSH2S?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-16T18:46:04+00:00"
-  },
-  {
-    "id": "msg13359",
-    "title": "Fastrack Women Black Shoulder Bag @331",
-    "description": "Flipkart | Fastrack Women Black Shoulder Bag @331 https://fkrt.co/ZN6QEB",
-    "shortlink": "https://fkrt.co/ZN6QEB",
-    "urls": [
-      {
-        "url": "https://fkrt.co/ZN6QEB",
-        "label": "Fastrack Women Black Shoulder Bag @331"
-      }
-    ],
-    "raw_text": "Flipkart | Fastrack Women Black Shoulder Bag @331\n\nhttps://fkrt.co/ZN6QEB",
-    "final_url": "https://fkrt.co/ZN6QEB",
-    "local_image": "assets/images/tgmsg_13359.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-16T18:46:48+00:00",
-    "buy_link": "https://fkrt.co/ZN6QEB",
-    "date_iso": "2025-10-16T18:46:48+00:00"
   }
 ]
