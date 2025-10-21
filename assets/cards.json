@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13865",
+    "title": "Lavie Sport 29L Laptop Backpack @ 449",
+    "description": "Amazon | Lavie Sport 29L Laptop Backpack @ 449. 👉https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21 👉https://www.amazon.in/dp/B0FNNB768S?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21",
+        "label": "Lavie Sport 29L Laptop Backpack @ 449"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0FNNB768S?th=1&tag=bestpricezo0f-21",
+        "label": "Lavie Sport 29L Laptop Backpack @ 449"
+      }
+    ],
+    "raw_text": "Amazon | Lavie Sport 29L Laptop Backpack @ 449.\n\n👉https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21\n👉https://www.amazon.in/dp/B0FNNB768S?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13865.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-21T11:15:16+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-21T11:15:16+00:00"
+  },
+  {
     "id": "msg13864",
     "title": "Min 78% Off On Svaraa",
     "description": "Ajio | Min 78% Off On Svaraa 👉https://ajiio.co/fh73Ve",
@@ -8522,25 +8546,5 @@
     "date_obj": "2025-10-16T17:16:33+00:00",
     "buy_link": "https://fkrt.co/hzkBC5",
     "date_iso": "2025-10-16T17:16:33+00:00"
-  },
-  {
-    "id": "msg13335",
-    "title": "Up to 84% Off On Handbags Starting From Rs.112",
-    "description": "Flipkart | Upto 84% Off On Handbags Starting From Rs.112 👉Link : https://fkrt.co/qj5etH",
-    "shortlink": "https://fkrt.co/qj5etH",
-    "urls": [
-      {
-        "url": "https://fkrt.co/qj5etH",
-        "label": "Upto 84% Off On Handbags Starting From Rs.112"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 84% Off On Handbags Starting From Rs.112\n\n👉Link : https://fkrt.co/qj5etH",
-    "final_url": "https://fkrt.co/qj5etH",
-    "local_image": "assets/images/tgmsg_13335.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-16T17:04:54+00:00",
-    "buy_link": "https://fkrt.co/qj5etH",
-    "date_iso": "2025-10-16T17:04:54+00:00"
   }
 ]
