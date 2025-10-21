@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13832",
+    "title": "Min. 80% Off On Lee Cooper Watche",
+    "description": "AJIO  Min. 80% Off On Lee Cooper Watches. 👉Link : https://ajiio.co/Yo8RjG + Extra 10% AJIO Super Cash.",
+    "shortlink": "https://ajiio.co/Yo8RjG",
+    "urls": [
+      {
+        "url": "https://ajiio.co/Yo8RjG",
+        "label": "AJIO Min. 80% Off On Lee Cooper Watches"
+      },
+      {
+        "url": "",
+        "label": "+ Extra 10% AJIO Super Cash"
+      }
+    ],
+    "raw_text": "AJIO  Min. 80% Off On Lee Cooper Watches. \n\n👉Link : https://ajiio.co/Yo8RjG\n\n+ Extra 10% AJIO Super Cash.",
+    "final_url": "https://ajiio.co/Yo8RjG",
+    "local_image": "assets/images/tgmsg_13832.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-21T04:02:27+00:00",
+    "buy_link": "https://ajiio.co/Yo8RjG",
+    "date_iso": "2025-10-21T04:02:27+00:00"
+  },
+  {
     "id": "msg13830",
     "title": "💥Men's Shirt Starts @150",
     "description": "💥Ajio | Men's Shirt Starts @150 https://ajiio.co/hp911A",
@@ -8578,25 +8602,5 @@
     "date_obj": "2025-10-16T11:32:40+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FPQ7YC8D?psc=1&th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-16T11:32:40+00:00"
-  },
-  {
-    "id": "msg13292",
-    "title": "🤯🤯🤯 from Rs 157",
-    "description": "Flipkart | 🤯🤯🤯 from Rs 157 ✅ https://fkrt.co/NAX5UN",
-    "shortlink": "https://fkrt.co/NAX5UN",
-    "urls": [
-      {
-        "url": "https://fkrt.co/NAX5UN",
-        "label": "🤯🤯🤯 from Rs 157"
-      }
-    ],
-    "raw_text": "Flipkart | 🤯🤯🤯 from Rs 157\n\n✅ https://fkrt.co/NAX5UN",
-    "final_url": "https://fkrt.co/NAX5UN",
-    "local_image": "assets/images/tgmsg_13292.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-16T11:15:11+00:00",
-    "buy_link": "https://fkrt.co/NAX5UN",
-    "date_iso": "2025-10-16T11:15:11+00:00"
   }
 ]
