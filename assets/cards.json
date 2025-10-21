@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13864",
+    "title": "Min 78% Off On Svaraa",
+    "description": "Ajio | Min 78% Off On Svaraa 👉https://ajiio.co/fh73Ve",
+    "shortlink": "https://ajiio.co/fh73Ve",
+    "urls": [
+      {
+        "url": "https://ajiio.co/fh73Ve",
+        "label": "Min 78% Off On Svaraa"
+      }
+    ],
+    "raw_text": "Ajio | Min 78% Off On Svaraa\n\n👉https://ajiio.co/fh73Ve",
+    "final_url": "https://ajiio.co/fh73Ve",
+    "local_image": "assets/images/tgmsg_13864.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-21T11:03:27+00:00",
+    "buy_link": "https://ajiio.co/fh73Ve",
+    "date_iso": "2025-10-21T11:03:27+00:00"
+  },
+  {
     "id": "msg13863",
     "title": "🛒 Deal Price ₹238",
     "description": "Amazon | Odomos Liquid (Pack of 6) 🛒 Deal Price: ₹238 👉https://www.amazon.in/dp/B0982DRKF9?th=1&tag=bestpricezo0f-21",
@@ -8522,25 +8542,5 @@
     "date_obj": "2025-10-16T17:04:54+00:00",
     "buy_link": "https://fkrt.co/qj5etH",
     "date_iso": "2025-10-16T17:04:54+00:00"
-  },
-  {
-    "id": "msg13332",
-    "title": "Samsung Galaxy M05 (4GB RAM, 64 GB Storage) @6299",
-    "description": "Amazon | Samsung Galaxy M05 (4GB RAM, 64 GB Storage) @6299. https://www.amazon.in/dp/B0DFY3XCB6?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DFY3XCB6?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DFY3XCB6?tag=bestpricezo0f-21",
-        "label": "Samsung Galaxy M05 (4GB RAM, 64 GB Storage) @6299"
-      }
-    ],
-    "raw_text": "Amazon | Samsung Galaxy M05 (4GB RAM, 64 GB Storage) @6299.\n\nhttps://www.amazon.in/dp/B0DFY3XCB6?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DFY3XCB6?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13332.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-16T16:34:51+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DFY3XCB6?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-16T16:34:51+00:00"
   }
 ]
