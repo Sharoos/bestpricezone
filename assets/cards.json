@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13849",
+    "title": "THE BEAR HOUSE Slim Fit Tie & Dye Crew",
+    "description": "AJIO : THE BEAR HOUSE Slim Fit Tie & Dye Crew-Neck T-Shirt starting at ₹520 🔗 https://ajiio.co/ZZuCvA",
+    "shortlink": "https://ajiio.co/ZZuCvA",
+    "urls": [
+      {
+        "url": "https://ajiio.co/ZZuCvA",
+        "label": "THE BEAR HOUSE Slim Fit Tie & Dye Crew-Neck T-Shirt starting at ₹520"
+      }
+    ],
+    "raw_text": "AJIO : THE BEAR HOUSE Slim Fit Tie & Dye Crew-Neck T-Shirt starting at ₹520\n\n🔗 https://ajiio.co/ZZuCvA",
+    "final_url": "https://ajiio.co/ZZuCvA",
+    "local_image": "assets/images/tgmsg_13849.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-21T07:33:25+00:00",
+    "buy_link": "https://ajiio.co/ZZuCvA",
+    "date_iso": "2025-10-21T07:33:25+00:00"
+  },
+  {
     "id": "msg13848",
     "title": "+ 10% EXTRA CASH",
     "description": "AJIO  Cargo Pants Starts at 590. Men : https://ajiio.co/3YzWNz Women : https://ajiio.co/l4tiP1 + 10% EXTRA AJIO CASH",
@@ -8606,29 +8626,5 @@
     "date_obj": "2025-10-16T14:04:21+00:00",
     "buy_link": "https://ajiio.co/5HOHds",
     "date_iso": "2025-10-16T14:04:21+00:00"
-  },
-  {
-    "id": "msg13312",
-    "title": "Up to 73% Off on Women Kurta Suit Sets Starting @ Just ₹297",
-    "description": "Ajio | Upto 73% Off on Women Kurta Suit Sets Starting @ Just ₹297 👉 Link : 🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "shortlink": "https://ajiio.co/7JB5wK",
-    "urls": [
-      {
-        "url": "https://ajiio.co/7JB5wK",
-        "label": "Upto 73% Off on Women Kurta Suit Sets Starting @ Just ₹297"
-      },
-      {
-        "url": "",
-        "label": "🛍 + Extra 10% AJIO Super Cash! 🎉"
-      }
-    ],
-    "raw_text": "Ajio | Upto 73% Off on Women Kurta Suit Sets Starting @ Just ₹297\n \n👉 Link : https://ajiio.co/7JB5wK\n\n🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "final_url": "https://ajiio.co/7JB5wK",
-    "local_image": "assets/images/tgmsg_13312.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-16T13:46:37+00:00",
-    "buy_link": "https://ajiio.co/7JB5wK",
-    "date_iso": "2025-10-16T13:46:37+00:00"
   }
 ]
