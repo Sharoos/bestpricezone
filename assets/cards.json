@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13843",
+    "title": "Everyuth Naturals Body Lotion 500ml @150",
+    "description": "Amazon | Everyuth Naturals Body Lotion 500ml @150. 👉https://www.amazon.in/dp/B09DD4WD7W?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B09DD4WD7W?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B09DD4WD7W?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+        "label": "Everyuth Naturals Body Lotion 500ml @150"
+      }
+    ],
+    "raw_text": "Amazon | Everyuth Naturals Body Lotion 500ml @150.\n \n👉https://www.amazon.in/dp/B09DD4WD7W?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B09DD4WD7W?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13843.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-21T05:46:01+00:00",
+    "buy_link": "https://www.amazon.in/dp/B09DD4WD7W?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-21T05:46:01+00:00"
+  },
+  {
     "id": "msg13839",
     "title": "Wild Stone Perfume for Men, 100ml",
     "description": "Amazon | Wild Stone Perfume for Men, 100ml 335 : https://www.amazon.in/dp/B08TGSRW1S?tag=bestpricezo0f-21 382 (2 Variants) : https://www.amazon.in/dp/B0DGQCRHMP?tag=bestpricezo0f-21",
@@ -8610,25 +8630,5 @@
     "date_obj": "2025-10-16T12:28:02+00:00",
     "buy_link": "https://fkrt.co/n1p8Sc",
     "date_iso": "2025-10-16T12:28:02+00:00"
-  },
-  {
-    "id": "msg13302",
-    "title": "@149 + 2%",
-    "description": "Scotch-Brite Aloe Vera Gloves *@149 + 2% Coupon* https://www.amazon.in/dp/B0CYTFJYPB?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CYTFJYPB?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CYTFJYPB?tag=bestpricezo0f-21",
-        "label": ""
-      }
-    ],
-    "raw_text": "Scotch-Brite Aloe Vera Gloves *@149 + 2% Coupon*\n\nhttps://www.amazon.in/dp/B0CYTFJYPB?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CYTFJYPB?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13302.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-16T12:29:17+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CYTFJYPB?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-16T12:29:17+00:00"
   }
 ]
