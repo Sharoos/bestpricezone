@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13883",
+    "title": "+ 10% EXTRA CASH",
+    "description": "💥AJIO  Men's POLO T-shirts from ₹182. https://ajiio.co/MdRTZZ + 10% AJIO EXTRA CASH",
+    "shortlink": "https://ajiio.co/MdRTZZ",
+    "urls": [
+      {
+        "url": "https://ajiio.co/MdRTZZ",
+        "label": "💥AJIO Men's POLO T-shirts from ₹182"
+      },
+      {
+        "url": "",
+        "label": "+ 10% AJIO EXTRA CASH"
+      }
+    ],
+    "raw_text": "💥AJIO  Men's POLO T-shirts from ₹182.\n\nhttps://ajiio.co/MdRTZZ\n\n+ 10% AJIO EXTRA CASH",
+    "final_url": "https://ajiio.co/MdRTZZ",
+    "local_image": "assets/images/tgmsg_13883.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-21T15:03:54+00:00",
+    "buy_link": "https://ajiio.co/MdRTZZ",
+    "date_iso": "2025-10-21T15:03:54+00:00"
+  },
+  {
     "id": "msg13882",
     "title": "Bella Vitta Beauty Products Starts @159",
     "description": "Amazon  Bella Vitta Beauty Products Starts @159 👉https://www.amazon.in/s?s=price&hidden-keywords=B07GSGJCVT%7CB0DYV1XH6V%7CB0CC2XFD87%7CB0D7MPMWJH%7C&tag=bestpricezo0f-21&",
@@ -8574,29 +8598,5 @@
     "date_obj": "2025-10-16T18:40:27+00:00",
     "buy_link": "https://www.amazon.in/s?k=under%20armour&i=shoes&rh=n%3A1571283031%2Cn%3A1983396031%2Cn%3A1983578031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A6832&s=price-asc-rank&dc=&qid=1758488496&ds=v1%3AxUtZRxLJAXEZ4ELOsmBaJqP9SRcW9mk2JOfa5Blcd%252B8&tag=bestpricezo0f-21",
     "date_iso": "2025-10-16T18:40:27+00:00"
-  },
-  {
-    "id": "msg13351",
-    "title": "Flat ₹5250 off with HDFC Credit Card",
-    "description": "Amazon | Apple 2025 MacBook Air, M4 (16GB/256G😎 @79,740 https://www.amazon.in/dp/B0DZDDV7GC?th=1&psc=1&tag=bestpricezo0f-21 Flat ₹5250 off with HDFC Credit Card",
-    "shortlink": "https://www.amazon.in/dp/B0DZDDV7GC?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DZDDV7GC?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Apple 2025 MacBook Air, M4 (16GB/256G😎 @79,740"
-      },
-      {
-        "url": "",
-        "label": "Flat ₹5250 off with HDFC Credit Card"
-      }
-    ],
-    "raw_text": "Amazon | Apple 2025 MacBook Air, M4 (16GB/256G😎 @79,740\n\nhttps://www.amazon.in/dp/B0DZDDV7GC?th=1&psc=1&tag=bestpricezo0f-21\n\nFlat ₹5250 off with HDFC Credit Card",
-    "final_url": "https://www.amazon.in/dp/B0DZDDV7GC?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13351.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-16T18:41:13+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DZDDV7GC?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-16T18:41:13+00:00"
   }
 ]
