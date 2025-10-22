@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13970",
+    "title": "🛒 Deal Price ₹1052",
+    "description": "Amazon | Amazon Basics RGB Wired Gaming On-Ear Headphone 🛒 Deal Price: ₹1052 👉https://www.amazon.in/dp/B0DG2ZND2L?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DG2ZND2L?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Amazon Basics RGB Wired Gaming On-Ear Headphone"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0DG2ZND2L?tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹1052"
+      }
+    ],
+    "raw_text": "Amazon | Amazon Basics RGB Wired Gaming On-Ear Headphone\n\n🛒 Deal Price: ₹1052\n\n👉https://www.amazon.in/dp/B0DG2ZND2L?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DG2ZND2L?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13970.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-22T11:33:31+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DG2ZND2L?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-22T11:33:31+00:00"
+  },
+  {
     "id": "msg13967",
     "title": "🛒 Deal Price ₹725",
     "description": "Amazon | Vega Crux ISI Certified Flip-Up Helmet Unisex 🛒 Deal Price: ₹725 👉https://www.amazon.in/dp/B07M9TWJMR/ref=cm_sw_r_as_gl_apa_gl_i_3X6KX9AY6GF91FCXS1YH?tag=bestpricezo0f-21",
@@ -9010,25 +9034,5 @@
     "date_obj": "2025-10-17T14:34:10+00:00",
     "buy_link": "https://ajiio.co/4nZ67i",
     "date_iso": "2025-10-17T14:34:10+00:00"
-  },
-  {
-    "id": "msg13427",
-    "title": "Pigeon Amaze Plus Electric Kettle @439",
-    "description": "Amazon | Pigeon Amaze Plus Electric Kettle @439. https://www.amazon.in/dp/B07WMS7TWB?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07WMS7TWB?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07WMS7TWB?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Pigeon Amaze Plus Electric Kettle @439"
-      }
-    ],
-    "raw_text": "Amazon | Pigeon Amaze Plus Electric Kettle @439.\n\nhttps://www.amazon.in/dp/B07WMS7TWB?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07WMS7TWB?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13427.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-17T14:07:18+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07WMS7TWB?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-17T14:07:18+00:00"
   }
 ]
