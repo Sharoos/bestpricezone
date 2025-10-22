@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13961",
+    "title": "🛒 Deal Price ₹790",
+    "description": "Amazon | Logitech M196 Bluetooth Wireless Mouse, Compact and Portable Mouse 🛒 Deal Price : ₹790 👉",
+    "shortlink": "https://www.amazon.in/dp/B0DBPCSWX5/ref=cm_sw_r_as_gl_apa_gl_i_dl_08CWXFFS71EHPXWHG815?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Logitech M196 Bluetooth Wireless Mouse, Compact and Portable Mouse"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0DBPCSWX5/ref=cm_sw_r_as_gl_apa_gl_i_dl_08CWXFFS71EHPXWHG815?tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price : ₹790"
+      }
+    ],
+    "raw_text": "Amazon | Logitech M196 Bluetooth Wireless Mouse, Compact and Portable Mouse\n\n🛒 Deal Price : ₹790\n\n👉https://www.amazon.in/dp/B0DBPCSWX5/ref=cm_sw_r_as_gl_apa_gl_i_dl_08CWXFFS71EHPXWHG815?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DBPCSWX5/ref=cm_sw_r_as_gl_apa_gl_i_dl_08CWXFFS71EHPXWHG815?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13961.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-22T09:45:34+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DBPCSWX5/ref=cm_sw_r_as_gl_apa_gl_i_dl_08CWXFFS71EHPXWHG815?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-22T09:45:34+00:00"
+  },
+  {
     "id": "msg13957",
     "title": "» 5% Cashback on Amazon, , Swiggy, Zomato, Myntra & More",
     "description": "Get Lifetime FREE HDFC Credit Cards 💳 💳HDFC Millennia Credit Card : Apply Now ➡️ » Lifetime Free (Till 31st Oct) » 5% Cashback on Amazon, Flipkart, Swiggy, Zomato, Myntra & More » 1% Cashback on All Other Spends » ₹1000…",
@@ -8950,33 +8974,5 @@
     "date_obj": "2025-10-17T12:04:17+00:00",
     "buy_link": "https://ajiio.co/8UkJPU",
     "date_iso": "2025-10-17T12:04:17+00:00"
-  },
-  {
-    "id": "msg13417",
-    "title": "🛒 Deal Price ₹1,588",
-    "description": "Amazon | 🎛 Juicer Mixer Grinder Deals Nutri-Pro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (3 Jars & 2 Blades, Silver) - 2 Year Warranty 🛒 Deal Price: ₹1,588 👉",
-    "shortlink": "https://www.amazon.in/NutriPro-Bullet-Juicer-Grinder-Blades/dp/B09J2SCVQT?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🎛 Juicer Mixer Grinder Deals"
-      },
-      {
-        "url": "",
-        "label": "Pro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (3 Jars & 2 Blades, Silver) - 2 Year Warranty"
-      },
-      {
-        "url": "https://www.amazon.in/NutriPro-Bullet-Juicer-Grinder-Blades/dp/B09J2SCVQT?th=1&language=en_IN&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹1,588"
-      }
-    ],
-    "raw_text": "Amazon | 🎛 Juicer Mixer Grinder Deals\n\nNutri-Pro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (3 Jars & 2 Blades, Silver) - 2 Year Warranty\n\n🛒 Deal Price: ₹1,588\n\n👉https://www.amazon.in/NutriPro-Bullet-Juicer-Grinder-Blades/dp/B09J2SCVQT?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/NutriPro-Bullet-Juicer-Grinder-Blades/dp/B09J2SCVQT?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13417.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-17T12:15:21+00:00",
-    "buy_link": "https://www.amazon.in/NutriPro-Bullet-Juicer-Grinder-Blades/dp/B09J2SCVQT?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-17T12:15:21+00:00"
   }
 ]
