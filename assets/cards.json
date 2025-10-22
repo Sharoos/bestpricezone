@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14037",
+    "title": "Zebronics 200W Soundbar, 6.5’’ Subwoofer @4769 ( Effectively)",
+    "description": "Amazon | Zebronics 200W Soundbar, 6.5’’ Subwoofer @4769 ( Effectively) https://www.amazon.in/dp/B0DM2JGWFT?tag=bestpricezo0f-21 Pay Via HDFC CARD",
+    "shortlink": "https://www.amazon.in/dp/B0DM2JGWFT?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DM2JGWFT?tag=bestpricezo0f-21",
+        "label": "Zebronics 200W Soundbar, 6.5’’ Subwoofer @4769 ( Effectively)"
+      },
+      {
+        "url": "",
+        "label": "Pay Via HDFC CARD"
+      }
+    ],
+    "raw_text": "Amazon | Zebronics 200W Soundbar, 6.5’’ Subwoofer @4769 ( Effectively)\n\nhttps://www.amazon.in/dp/B0DM2JGWFT?tag=bestpricezo0f-21\n\nPay Via HDFC CARD",
+    "final_url": "https://www.amazon.in/dp/B0DM2JGWFT?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14037.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-22T19:44:23+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DM2JGWFT?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-22T19:44:23+00:00"
+  },
+  {
     "id": "msg14032",
     "title": "Branded Calling Smartwatch Starts @999",
     "description": "Amazon | Branded Calling Smartwatch Starts @999. boAt : https://www.amazon.in/s?rh=n%3A5605728031%2Cp_123%3A214020%2Cp_6%3AAJ6SIZC8YQDZX&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21 Fire-Boltt :…",
@@ -8806,33 +8830,5 @@
     "date_obj": "2025-10-18T09:42:11+00:00",
     "buy_link": "https://ajiio.co/typE2P",
     "date_iso": "2025-10-18T09:42:11+00:00"
-  },
-  {
-    "id": "msg13543",
-    "title": "🛒 Deal Price Up to 89% Off",
-    "description": "Amazon | ⏱️ Wall Clock Deals - Up to 80% Off! Premium Wall Clocks 🛒 Deal Price: Up to 89% Off 👉",
-    "shortlink": "https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "⏱️ Wall Clock Deals - Up to 80% Off!"
-      },
-      {
-        "url": "",
-        "label": "Premium Wall Clocks"
-      },
-      {
-        "url": "https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: Up to 89% Off"
-      }
-    ],
-    "raw_text": "Amazon | ⏱️ Wall Clock Deals - Up to 80% Off!\n\nPremium Wall Clocks\n\n🛒 Deal Price: Up to 89% Off\n\n👉https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13543.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-18T09:36:32+00:00",
-    "buy_link": "https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-18T09:36:32+00:00"
   }
 ]
