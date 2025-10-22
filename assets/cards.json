@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14003",
+    "title": "+ 10% SUPERCASH",
+    "description": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 140🔥 🔗🔗Link : + 10% AJIO SUPERCASH",
+    "shortlink": "https://ajiio.co/7Nr9OB",
+    "urls": [
+      {
+        "url": "https://ajiio.co/7Nr9OB",
+        "label": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 140🔥"
+      },
+      {
+        "url": "",
+        "label": "+ 10% AJIO SUPERCASH"
+      }
+    ],
+    "raw_text": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 140🔥 \n \n🔗🔗Link : https://ajiio.co/7Nr9OB\n\n+ 10% AJIO SUPERCASH",
+    "final_url": "https://ajiio.co/7Nr9OB",
+    "local_image": "assets/images/tgmsg_14003.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-22T17:41:45+00:00",
+    "buy_link": "https://ajiio.co/7Nr9OB",
+    "date_iso": "2025-10-22T17:41:45+00:00"
+  },
+  {
     "id": "msg14000",
     "title": "Adofys Travel Pillow Premium Memory Foam @₹729",
     "description": "Amazon | Adofys Travel Pillow Premium Memory Foam @₹729 👉Link : https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
@@ -8974,25 +8998,5 @@
     "date_obj": "2025-10-17T19:01:53+00:00",
     "buy_link": "https://www.amazon.in/dp/B0D7M4G3NP?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-17T19:01:53+00:00"
-  },
-  {
-    "id": "msg13491",
-    "title": "Orient Electric’s 1200 mm Celling Fan @1499",
-    "description": "Amazon | Orient Electric’s 1200 mm Celling Fan @1499 https://www.amazon.in/dp/B0BMVFDLXH?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0BMVFDLXH?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BMVFDLXH?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Orient Electric’s 1200 mm Celling Fan @1499"
-      }
-    ],
-    "raw_text": "Amazon | Orient Electric’s 1200 mm Celling Fan @1499\n\nhttps://www.amazon.in/dp/B0BMVFDLXH?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BMVFDLXH?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13491.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-17T19:03:24+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BMVFDLXH?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-17T19:03:24+00:00"
   }
 ]
