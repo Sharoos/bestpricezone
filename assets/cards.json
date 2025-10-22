@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg13972",
+    "title": "🛒 Deal Price ₹25,740",
+    "description": "Amazon | 👕 Washing Machine Deals Godrej 9 Kg 5 Star AI Powered, Steam Wash, Fully Automatic Front Load Washing Machine 🛒 Deal Price: ₹25,740",
+    "shortlink": "https://www.amazon.in/dp/B0F6MVY5TH?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 Washing Machine Deals"
+      },
+      {
+        "url": "",
+        "label": "Godrej 9 Kg 5 Star AI Powered, Steam Wash, Fully Automatic Front Load Washing Machine"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0F6MVY5TH?th=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹25,740"
+      }
+    ],
+    "raw_text": "Amazon | 👕 Washing Machine Deals\n\nGodrej 9 Kg 5 Star AI Powered, Steam Wash, Fully Automatic Front Load Washing Machine\n\n🛒 Deal Price: ₹25,740\n\nhttps://www.amazon.in/dp/B0F6MVY5TH?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F6MVY5TH?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13972.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-22T12:04:36+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F6MVY5TH?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-22T12:04:36+00:00"
+  },
+  {
     "id": "msg13971",
     "title": "Men Polo Tshirts Starts at 140",
     "description": "AJIO . Oversized Tshirts Starts at 190. Women : Men : Kids Clothing Boys : Girls : Infants :",
@@ -9006,41 +9034,5 @@
     "date_obj": "2025-10-17T15:17:07+00:00",
     "buy_link": "https://ajiio.co/aTuMb3",
     "date_iso": "2025-10-17T15:17:07+00:00"
-  },
-  {
-    "id": "msg13435",
-    "title": "Shirts Starts @348",
-    "description": "Ajio : U.S Polo Assn. T-Shirts Starts @348. Men's : https://ajiio.co/SKwuRS Women's : https://ajiio.co/A3R0zG Boys : https://ajiio.co/ytyDoK Girls : https://ajiio.co/MKQFyi",
-    "shortlink": "https://ajiio.co/SKwuRS",
-    "urls": [
-      {
-        "url": "",
-        "label": "U.S Polo Assn. T-Shirts Starts @348"
-      },
-      {
-        "url": "https://ajiio.co/SKwuRS",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/A3R0zG",
-        "label": "Women's"
-      },
-      {
-        "url": "https://ajiio.co/ytyDoK",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/MKQFyi",
-        "label": "Girls"
-      }
-    ],
-    "raw_text": "Ajio : U.S Polo Assn. T-Shirts Starts @348.\n\nMen's : https://ajiio.co/SKwuRS\nWomen's : https://ajiio.co/A3R0zG\nBoys : https://ajiio.co/ytyDoK\nGirls : https://ajiio.co/MKQFyi",
-    "final_url": "https://ajiio.co/SKwuRS",
-    "local_image": "assets/images/tgmsg_13435.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-17T15:03:13+00:00",
-    "buy_link": "https://ajiio.co/SKwuRS",
-    "date_iso": "2025-10-17T15:03:13+00:00"
   }
 ]
