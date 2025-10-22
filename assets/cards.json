@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg13925",
+    "title": "Prime Exclusive 57% Off Kwality Muesli 900g Jar at ₹284",
+    "description": "Amazon Prime Exclusive : 57% Off Kwality Muesli 900g Jar at ₹284. 👉 Almond & Raisins 👉",
+    "shortlink": "https://www.amazon.in/dp/B0DP4XY158?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DP4XY158?tag=bestpricezo0f-21",
+        "label": "57% Off Kwality Muesli 900g Jar at ₹284"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0DPFRDNND?tag=bestpricezo0f-21",
+        "label": "Almond & Raisins"
+      }
+    ],
+    "raw_text": "Amazon Prime Exclusive : 57% Off Kwality Muesli 900g Jar at ₹284.\n👉https://www.amazon.in/dp/B0DP4XY158?tag=bestpricezo0f-21 \n\nAlmond & Raisins \n👉https://www.amazon.in/dp/B0DPFRDNND?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DP4XY158?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13925.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-22T03:46:07+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DP4XY158?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-22T03:46:07+00:00"
+  },
+  {
     "id": "msg13924",
     "title": "Up to 75% Off On John Players Brand Clothing",
     "description": "AJIO : Upto 75% Off On John Players Brand Clothing T-Shirts : Jeans : Shirts : + 10% EXTRA AJIO CASH",
@@ -8822,29 +8846,5 @@
     "date_obj": "2025-10-17T04:34:28+00:00",
     "buy_link": "https://ajiio.co/RapKDw",
     "date_iso": "2025-10-17T04:34:28+00:00"
-  },
-  {
-    "id": "msg13383",
-    "title": "Puma Trousers min 60% off",
-    "description": "Flipkart | Puma Trousers min 60% off Men  :  https://fkrt.co/i3UoJ1 Women  :  https://fkrt.co/rSTKKL",
-    "shortlink": "https://fkrt.co/i3UoJ1",
-    "urls": [
-      {
-        "url": "https://fkrt.co/i3UoJ1",
-        "label": "Puma Trousers min 60% off"
-      },
-      {
-        "url": "https://fkrt.co/rSTKKL",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Flipkart | Puma Trousers min 60% off\n\nMen  :  https://fkrt.co/i3UoJ1\n\nWomen  :  https://fkrt.co/rSTKKL",
-    "final_url": "https://fkrt.co/i3UoJ1",
-    "local_image": "assets/images/tgmsg_13383.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-17T04:04:58+00:00",
-    "buy_link": "https://fkrt.co/i3UoJ1",
-    "date_iso": "2025-10-17T04:04:58+00:00"
   }
 ]
