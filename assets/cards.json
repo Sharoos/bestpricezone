@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg13983",
+    "title": "Topwear Clothing Under ₹199",
+    "description": "AJIO  Topwear Clothing Under ₹199 Men's : https://ajiio.co/UklgKq Women's : https://ajiio.co/bpfHlR Boy’s : https://ajiio.co/W2t5NB Girl’s : https://ajiio.co/tX1NN6 Baby : https://ajiio.co/7tc7Sq",
+    "shortlink": "https://ajiio.co/UklgKq",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Topwear Clothing Under ₹199"
+      },
+      {
+        "url": "https://ajiio.co/UklgKq",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/bpfHlR",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/W2t5NB",
+        "label": "Boy’s"
+      },
+      {
+        "url": "https://ajiio.co/tX1NN6",
+        "label": "Girl’s"
+      },
+      {
+        "url": "https://ajiio.co/7tc7Sq",
+        "label": "Baby"
+      }
+    ],
+    "raw_text": "AJIO  Topwear Clothing Under ₹199\n\nMen's : https://ajiio.co/UklgKq\nWomen's : https://ajiio.co/bpfHlR\nBoy’s : https://ajiio.co/W2t5NB\nGirl’s : https://ajiio.co/tX1NN6\nBaby : https://ajiio.co/7tc7Sq",
+    "final_url": "https://ajiio.co/UklgKq",
+    "local_image": "assets/images/tgmsg_13983.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-22T13:51:44+00:00",
+    "buy_link": "https://ajiio.co/UklgKq",
+    "date_iso": "2025-10-22T13:51:44+00:00"
+  },
+  {
     "id": "msg13974",
     "title": "🛒 Deal Price ₹360",
     "description": "Amazon | 🧺 Laundry Deals Godrej Fab Liquid Detergent Refill Pouch for Machine - 4 L 🛒 Deal Price: ₹360",
@@ -8958,89 +8998,5 @@
     "date_obj": "2025-10-17T16:46:36+00:00",
     "buy_link": "https://ajiio.co/0BldCp",
     "date_iso": "2025-10-17T16:46:36+00:00"
-  },
-  {
-    "id": "msg13456",
-    "title": "Up to 80% Off On Premium Brand Clothing",
-    "description": "AJIO Upto 80% Off On Premium Brand Clothing. GAS Clothing. Men : Women : G Star Raw Clothing. Men : Women : GAP. Men : Women : Boys : Girls : Infants : SUPERDRY. Men : Women : Calvin Klein : Tommy Hilfiger : Armani…",
-    "shortlink": "https://ajiio.co/dUsvxM",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 80% Off On Premium Brand Clothing"
-      },
-      {
-        "url": "",
-        "label": "GAS Clothing"
-      },
-      {
-        "url": "https://ajiio.co/dUsvxM",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.co/PPg2VF",
-        "label": "Women"
-      },
-      {
-        "url": "",
-        "label": "G Star Raw Clothing"
-      },
-      {
-        "url": "https://ajiio.co/JNQXFj",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.co/IwNWtQ",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/jfjAVZ",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.co/26Sb7g",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/YclnfC",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/ozRNlW",
-        "label": "Girls"
-      },
-      {
-        "url": "https://ajiio.co/CGqqWJ",
-        "label": "Infants"
-      },
-      {
-        "url": "https://ajiio.co/mC2QuB",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.co/TWB0rx",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/O99Wji",
-        "label": "Calvin Klein"
-      },
-      {
-        "url": "https://ajiio.co/St54wf",
-        "label": "Tommy Hilfiger"
-      },
-      {
-        "url": "https://ajiio.co/FZQg4k",
-        "label": "Armani Exchange"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On Premium Brand Clothing. \n\nGAS Clothing. \nMen : https://ajiio.co/dUsvxM\nWomen : https://ajiio.co/PPg2VF\n\nG Star Raw Clothing. \nMen : https://ajiio.co/JNQXFj\nWomen : https://ajiio.co/IwNWtQ\n\nGAP. \nMen : https://ajiio.co/jfjAVZ\nWomen : https://ajiio.co/26Sb7g\nBoys : https://ajiio.co/YclnfC\nGirls : https://ajiio.co/ozRNlW\nInfants : https://ajiio.co/CGqqWJ\n\nSUPERDRY. \nMen : https://ajiio.co/mC2QuB\nWomen : https://ajiio.co/TWB0rx\n\nCalvin Klein : https://ajiio.co/O99Wji\nTommy Hilfiger : https://ajiio.co/St54wf\nArmani Exchange : https://ajiio.co/FZQg4k",
-    "final_url": "https://ajiio.co/dUsvxM",
-    "local_image": "assets/images/tgmsg_13456.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-17T16:32:52+00:00",
-    "buy_link": "https://ajiio.co/dUsvxM",
-    "date_iso": "2025-10-17T16:32:52+00:00"
   }
 ]
