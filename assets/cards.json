@@ -1,5 +1,81 @@
 [
   {
+    "id": "msg13974",
+    "title": "🛒 Deal Price ₹360",
+    "description": "Amazon | 🧺 Laundry Deals Godrej Fab Liquid Detergent Refill Pouch for Machine - 4 L 🛒 Deal Price: ₹360",
+    "shortlink": "https://www.amazon.in/dp/B0DW43GXSH/ref=cm_sw_r_as_gl_apa_gl_i_KHG02SBDBSQDZZMVRTDV?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧺 Laundry Deals"
+      },
+      {
+        "url": "",
+        "label": "Godrej Fab Liquid Detergent Refill Pouch for Machine - 4 L"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0DW43GXSH/ref=cm_sw_r_as_gl_apa_gl_i_KHG02SBDBSQDZZMVRTDV?tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹360"
+      }
+    ],
+    "raw_text": "Amazon | 🧺 Laundry Deals\n\nGodrej Fab Liquid Detergent Refill Pouch for Machine - 4 L\n\n🛒 Deal Price: ₹360\n\nhttps://www.amazon.in/dp/B0DW43GXSH/ref=cm_sw_r_as_gl_apa_gl_i_KHG02SBDBSQDZZMVRTDV?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DW43GXSH/ref=cm_sw_r_as_gl_apa_gl_i_KHG02SBDBSQDZZMVRTDV?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13974.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-22T12:48:37+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DW43GXSH/ref=cm_sw_r_as_gl_apa_gl_i_KHG02SBDBSQDZZMVRTDV?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-22T12:48:37+00:00"
+  },
+  {
+    "id": "msg13975",
+    "title": "🛒 Deal Price ₹14841 (Using Card)",
+    "description": "Amazon | 🧊 Refrigerator Deal! IFB Smart Choice 197L 5 Star Direct-Cool Single Door Refrigerator 🛒 Deal Price: ₹14841 (Using Card) 👉",
+    "shortlink": "https://www.amazon.in/dp/B0DFC6N1CS?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧊 Refrigerator Deal!"
+      },
+      {
+        "url": "",
+        "label": "Cool Single Door Refrigerator"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0DFC6N1CS?th=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹14841 (Using Card)"
+      }
+    ],
+    "raw_text": "Amazon | 🧊 Refrigerator Deal!\n\nIFB Smart Choice 197L 5 Star Direct-Cool Single Door Refrigerator\n\n🛒 Deal Price: ₹14841 (Using Card)\n\n👉https://www.amazon.in/dp/B0DFC6N1CS?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DFC6N1CS?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13975.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-22T13:03:07+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DFC6N1CS?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-22T13:03:07+00:00"
+  },
+  {
+    "id": "msg13978",
+    "title": "Tizum Mouse Pad @ 89",
+    "description": "Amazon | Tizum Mouse Pad @ 89. 👉https://www.amazon.in/dp/B08QJHYHH9?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B08QJHYHH9?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B08QJHYHH9?tag=bestpricezo0f-21",
+        "label": "Tizum Mouse Pad @ 89"
+      }
+    ],
+    "raw_text": "Amazon | Tizum Mouse Pad @ 89.\n\n👉https://www.amazon.in/dp/B08QJHYHH9?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B08QJHYHH9?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13978.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-22T13:15:18+00:00",
+    "buy_link": "https://www.amazon.in/dp/B08QJHYHH9?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-22T13:15:18+00:00"
+  },
+  {
     "id": "msg13972",
     "title": "🛒 Deal Price ₹25,740",
     "description": "Amazon | 👕 Washing Machine Deals Godrej 9 Kg 5 Star AI Powered, Steam Wash, Fully Automatic Front Load Washing Machine 🛒 Deal Price: ₹25,740",
@@ -8966,73 +9042,5 @@
     "date_obj": "2025-10-17T16:32:52+00:00",
     "buy_link": "https://ajiio.co/dUsvxM",
     "date_iso": "2025-10-17T16:32:52+00:00"
-  },
-  {
-    "id": "msg13449",
-    "title": "Branded Men's Shirts from Rs.180",
-    "description": "Ajio | Branded Men's T-Shirts from Rs.100 👉https://ajiio.co/H0RzJa Branded Men's Shirts from Rs.180 👉https://ajiio.co/JiR0Yh",
-    "shortlink": "https://ajiio.co/H0RzJa",
-    "urls": [
-      {
-        "url": "https://ajiio.co/H0RzJa",
-        "label": "Branded Men's T-Shirts from Rs.100"
-      },
-      {
-        "url": "https://ajiio.co/JiR0Yh",
-        "label": "Branded Men's Shirts from Rs.180"
-      }
-    ],
-    "raw_text": "Ajio | Branded Men's T-Shirts from Rs.100\n\n👉https://ajiio.co/H0RzJa \n\n Branded Men's Shirts from Rs.180\n\n👉https://ajiio.co/JiR0Yh",
-    "final_url": "https://ajiio.co/H0RzJa",
-    "local_image": "assets/images/tgmsg_13449.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-17T15:46:27+00:00",
-    "buy_link": "https://ajiio.co/H0RzJa",
-    "date_iso": "2025-10-17T15:46:27+00:00"
-  },
-  {
-    "id": "msg13451",
-    "title": "1 Get 1 Free Kcofoil Aluminium Foil At 155",
-    "description": "Buy 1 Get 1 Free : Kcofoil Aluminium Foil At 155. https://www.amazon.in/dp/B08BTPGPY8?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B08BTPGPY8?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B08BTPGPY8?th=1&tag=bestpricezo0f-21",
-        "label": ""
-      }
-    ],
-    "raw_text": "Buy 1 Get 1 Free : Kcofoil Aluminium Foil At 155.\n\nhttps://www.amazon.in/dp/B08BTPGPY8?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B08BTPGPY8?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13451.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-17T15:50:32+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08BTPGPY8?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-17T15:50:32+00:00"
-  },
-  {
-    "id": "msg13438",
-    "title": "Up to 75% Off On Puma",
-    "description": "AJIO : Upto 75% Off On Puma. https://ajiio.co/aTuMb3 https://ajiio.co/eWqEvz",
-    "shortlink": "https://ajiio.co/aTuMb3",
-    "urls": [
-      {
-        "url": "https://ajiio.co/aTuMb3",
-        "label": "Upto 75% Off On Puma"
-      },
-      {
-        "url": "https://ajiio.co/eWqEvz",
-        "label": ""
-      }
-    ],
-    "raw_text": "AJIO : Upto 75% Off On Puma.\n\nhttps://ajiio.co/aTuMb3\nhttps://ajiio.co/eWqEvz",
-    "final_url": "https://ajiio.co/aTuMb3",
-    "local_image": "assets/images/tgmsg_13438.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-17T15:17:07+00:00",
-    "buy_link": "https://ajiio.co/aTuMb3",
-    "date_iso": "2025-10-17T15:17:07+00:00"
   }
 ]
