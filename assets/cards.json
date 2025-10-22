@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg13966",
+    "title": "Up to 85% Off On Vero Moda & ONLY Women Clothing",
+    "description": "Ajio | Upto 85% Off On Vero Moda & ONLY Women Clothing. 👉https://ajiio.co/PFR9jn 👉https://ajiio.co/f75EVT Jeans : https://ajiio.co/EtI0nl",
+    "shortlink": "https://ajiio.co/PFR9jn",
+    "urls": [
+      {
+        "url": "https://ajiio.co/PFR9jn",
+        "label": "Upto 85% Off On Vero Moda & ONLY Women Clothing"
+      },
+      {
+        "url": "https://ajiio.co/f75EVT",
+        "label": ""
+      },
+      {
+        "url": "https://ajiio.co/EtI0nl",
+        "label": "Jeans"
+      }
+    ],
+    "raw_text": "Ajio | Upto 85% Off On Vero Moda & ONLY Women Clothing.\n\n👉https://ajiio.co/PFR9jn\n👉https://ajiio.co/f75EVT\n\nJeans : https://ajiio.co/EtI0nl",
+    "final_url": "https://ajiio.co/PFR9jn",
+    "local_image": "assets/images/tgmsg_13966.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-22T10:34:12+00:00",
+    "buy_link": "https://ajiio.co/PFR9jn",
+    "date_iso": "2025-10-22T10:34:12+00:00"
+  },
+  {
     "id": "msg13962",
     "title": "Up to 82% Off On Red Tape Shoe",
     "description": "AJIO : Upto 82% Off On Red Tape Shoes Men's : Women's : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
@@ -8962,25 +8990,5 @@
     "date_obj": "2025-10-17T13:16:17+00:00",
     "buy_link": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3AAXE&s=popularity-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
     "date_iso": "2025-10-17T13:16:17+00:00"
-  },
-  {
-    "id": "msg13423",
-    "title": "boAt Airdopes Plus 311 @ 799",
-    "description": "Amazon | boAt Airdopes Plus 311 @ 799. 👉https://www.amazon.in/dp/B0DZXTVL6V?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DZXTVL6V?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DZXTVL6V?th=1&tag=bestpricezo0f-21",
-        "label": "boAt Airdopes Plus 311 @ 799"
-      }
-    ],
-    "raw_text": "Amazon | boAt Airdopes Plus 311 @ 799.\n\n👉https://www.amazon.in/dp/B0DZXTVL6V?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DZXTVL6V?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13423.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-17T13:30:52+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DZXTVL6V?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-17T13:30:52+00:00"
   }
 ]
