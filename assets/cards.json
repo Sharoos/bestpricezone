@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg13924",
+    "title": "Up to 75% Off On John Players Brand Clothing",
+    "description": "AJIO : Upto 75% Off On John Players Brand Clothing T-Shirts : Jeans : Shirts : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/fkl3hO",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On John Players Brand Clothing"
+      },
+      {
+        "url": "https://ajiio.co/fkl3hO",
+        "label": "T-Shirts"
+      },
+      {
+        "url": "https://ajiio.co/nUejlq",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/UnYScc",
+        "label": "Shirts"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO : Upto 75% Off On John Players Brand Clothing  \n \nT-Shirts : https://ajiio.co/fkl3hO \nJeans : https://ajiio.co/nUejlq \nShirts : https://ajiio.co/UnYScc\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/fkl3hO",
+    "local_image": "assets/images/tgmsg_13924.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-22T03:35:26+00:00",
+    "buy_link": "https://ajiio.co/fkl3hO",
+    "date_iso": "2025-10-22T03:35:26+00:00"
+  },
+  {
     "id": "msg13921",
     "title": "✔️ Apply 5% off",
     "description": "Amazon | Santoor Shower Gel 250ml @ ₹85 👉 Refreshing 👉 Moisturizing 👉 Brightening  Coupon",
@@ -8810,25 +8846,5 @@
     "date_obj": "2025-10-17T04:04:58+00:00",
     "buy_link": "https://fkrt.co/i3UoJ1",
     "date_iso": "2025-10-17T04:04:58+00:00"
-  },
-  {
-    "id": "msg13382",
-    "title": "Up to 80% Off on Perfumes Starting @ 133",
-    "description": "Ajio | Upto 80% Off on Perfumes Starting @ 133 Link : https://ajiio.co/4gvO4k",
-    "shortlink": "https://ajiio.co/4gvO4k",
-    "urls": [
-      {
-        "url": "https://ajiio.co/4gvO4k",
-        "label": "Upto 80% Off on Perfumes Starting @ 133"
-      }
-    ],
-    "raw_text": "Ajio | Upto 80% Off on Perfumes Starting @ 133\n\nLink : https://ajiio.co/4gvO4k",
-    "final_url": "https://ajiio.co/4gvO4k",
-    "local_image": "assets/images/tgmsg_13382.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-17T03:45:56+00:00",
-    "buy_link": "https://ajiio.co/4gvO4k",
-    "date_iso": "2025-10-17T03:45:56+00:00"
   }
 ]
