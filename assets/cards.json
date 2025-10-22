@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg13971",
+    "title": "Men Polo Tshirts Starts at 140",
+    "description": "AJIO . Oversized Tshirts Starts at 190. Women : Men : Kids Clothing Boys : Girls : Infants :",
+    "shortlink": "https://ajiio.co/pl60Te",
+    "urls": [
+      {
+        "url": "https://ajiio.co/pl60Te",
+        "label": "AJIO Men Polo Tshirts Starts at 140"
+      },
+      {
+        "url": "",
+        "label": "Oversized Tshirts Starts at 190"
+      },
+      {
+        "url": "https://ajiio.co/rd11DS",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/UvYrkV",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Kids Clothing"
+      },
+      {
+        "url": "https://ajiio.co/0054jb",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/ETLRLn",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/G80X6a",
+        "label": "Infants"
+      }
+    ],
+    "raw_text": "AJIO  Men Polo Tshirts Starts at 140.\n\nhttps://ajiio.co/pl60Te\n\nOversized Tshirts Starts at 190.\n\nWomen : https://ajiio.co/rd11DS\nMen : https://ajiio.co/UvYrkV\n\nKids Clothing \n\nBoys : https://ajiio.co/0054jb\nGirls : https://ajiio.co/ETLRLn\nInfants : https://ajiio.co/G80X6a",
+    "final_url": "https://ajiio.co/pl60Te",
+    "local_image": "assets/images/tgmsg_13971.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-22T11:45:17+00:00",
+    "buy_link": "https://ajiio.co/pl60Te",
+    "date_iso": "2025-10-22T11:45:17+00:00"
+  },
+  {
     "id": "msg13970",
     "title": "🛒 Deal Price ₹1052",
     "description": "Amazon | Amazon Basics RGB Wired Gaming On-Ear Headphone 🛒 Deal Price: ₹1052 👉https://www.amazon.in/dp/B0DG2ZND2L?tag=bestpricezo0f-21",
@@ -8994,45 +9042,5 @@
     "date_obj": "2025-10-17T15:03:13+00:00",
     "buy_link": "https://ajiio.co/SKwuRS",
     "date_iso": "2025-10-17T15:03:13+00:00"
-  },
-  {
-    "id": "msg13432",
-    "title": "Topwear Clothing Under ₹199",
-    "description": "Ajio | Topwear Clothing Under ₹199 Men's : https://ajiio.co/4nZ67i Women's : https://ajiio.co/7GuJ5H Boys : https://ajiio.co/M6Iizp Girls : https://ajiio.co/nonvCO Baby : https://ajiio.co/VA821p",
-    "shortlink": "https://ajiio.co/4nZ67i",
-    "urls": [
-      {
-        "url": "",
-        "label": "Topwear Clothing Under ₹199"
-      },
-      {
-        "url": "https://ajiio.co/4nZ67i",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/7GuJ5H",
-        "label": "Women's"
-      },
-      {
-        "url": "https://ajiio.co/M6Iizp",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/nonvCO",
-        "label": "Girls"
-      },
-      {
-        "url": "https://ajiio.co/VA821p",
-        "label": "Baby"
-      }
-    ],
-    "raw_text": "Ajio | Topwear Clothing Under ₹199\n\nMen's : https://ajiio.co/4nZ67i\nWomen's : https://ajiio.co/7GuJ5H\nBoys : https://ajiio.co/M6Iizp\nGirls : https://ajiio.co/nonvCO\nBaby : https://ajiio.co/VA821p",
-    "final_url": "https://ajiio.co/4nZ67i",
-    "local_image": "assets/images/tgmsg_13432.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-17T14:34:10+00:00",
-    "buy_link": "https://ajiio.co/4nZ67i",
-    "date_iso": "2025-10-17T14:34:10+00:00"
   }
 ]
