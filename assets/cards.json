@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg13994",
+    "title": "Ambrane Wired in Ear Earphones @149",
+    "description": "Amazon | Ambrane Wired in Ear Earphones @149. https://www.amazon.in/dp/B0BM3LTJMN?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0BM3LTJMN?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0BM3LTJMN?th=1&tag=bestpricezo0f-21",
+        "label": "Ambrane Wired in Ear Earphones @149"
+      }
+    ],
+    "raw_text": "Amazon | Ambrane Wired in Ear Earphones @149.\n\nhttps://www.amazon.in/dp/B0BM3LTJMN?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0BM3LTJMN?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_13994.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-22T15:57:18+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0BM3LTJMN?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-22T15:57:18+00:00"
+  },
+  {
     "id": "msg13989",
     "title": "Up to 79% Off on Sunglasses Starts At Rs.419",
     "description": "Ajio | Upto 79% Off on Sunglasses Starts At Rs.419 👉Link : + 10% EXTRA AJIO CASH",
@@ -8970,29 +8990,5 @@
     "date_obj": "2025-10-17T18:29:08+00:00",
     "buy_link": "https://ajiio.co/NGdBF2",
     "date_iso": "2025-10-17T18:29:08+00:00"
-  },
-  {
-    "id": "msg13464",
-    "title": "Fem Handwash, 1.5 Ltr @ 119",
-    "description": "Amazon | Fem Handwash, 1.5 Ltr @ 119. 👉https://www.amazon.in/dp/B0D314FYDY?psc=1&th=1&tag=bestpricezo0f-21 👉https://www.amazon.in/dp/B0D31473BC?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D314FYDY?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0D314FYDY?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "Fem Handwash, 1.5 Ltr @ 119"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0D31473BC?tag=bestpricezo0f-21",
-        "label": "Fem Handwash, 1.5 Ltr @ 119"
-      }
-    ],
-    "raw_text": "Amazon | Fem Handwash, 1.5 Ltr @ 119.\n\n👉https://www.amazon.in/dp/B0D314FYDY?psc=1&th=1&tag=bestpricezo0f-21\n👉https://www.amazon.in/dp/B0D31473BC?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D314FYDY?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13464.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-17T17:46:21+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D314FYDY?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-17T17:46:21+00:00"
   }
 ]
