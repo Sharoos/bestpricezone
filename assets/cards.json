@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg14042",
+    "title": "Min. 60% Off On USPA Clothing",
+    "description": "Ajio : Min. 60% Off On USPA Clothing. Men's : https://ajiio.co/xNPIrE Womens : https://ajiio.co/LlXvMx= Boys : https://ajiio.co/OftoLu= Girls : https://ajiio.co/Izm1QT=",
+    "shortlink": "https://ajiio.co/xNPIrE",
+    "urls": [
+      {
+        "url": "",
+        "label": "Min. 60% Off On USPA Clothing"
+      },
+      {
+        "url": "https://ajiio.co/xNPIrE",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/LlXvMx=",
+        "label": "Womens"
+      },
+      {
+        "url": "https://ajiio.co/OftoLu=",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/Izm1QT=",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "Ajio : Min. 60% Off On USPA Clothing.\n\nMen's : https://ajiio.co/xNPIrE\nWomens : https://ajiio.co/LlXvMx=\nBoys : https://ajiio.co/OftoLu=\nGirls : https://ajiio.co/Izm1QT=",
+    "final_url": "https://ajiio.co/xNPIrE",
+    "local_image": "assets/images/tgmsg_14042.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T04:07:09+00:00",
+    "buy_link": "https://ajiio.co/xNPIrE",
+    "date_iso": "2025-10-23T04:07:09+00:00"
+  },
+  {
     "id": "msg14041",
     "title": "Up to 79% Off on Sunglasses Starts At Rs.419",
     "description": "Ajio | Upto 79% Off on Sunglasses Starts At Rs.419 👉Link : + 10% EXTRA AJIO CASH",
@@ -8778,57 +8814,5 @@
     "date_obj": "2025-10-18T10:00:58+00:00",
     "buy_link": "https://ajiio.co/B3VX98",
     "date_iso": "2025-10-18T10:00:58+00:00"
-  },
-  {
-    "id": "msg13547",
-    "title": "Up to 80% Off On Spykar Clothing",
-    "description": "AJIO : Levi’s Jeans Starts @696. Women's : Men's : Min. 70% Off On USPA Clothing. Men's : Women’s : Upto 80% Off On Spykar Clothing. Men's : Women's :",
-    "shortlink": "https://ajiio.co/Ro42mE",
-    "urls": [
-      {
-        "url": "",
-        "label": "Levi’s Jeans Starts @696"
-      },
-      {
-        "url": "https://ajiio.co/Ro42mE",
-        "label": "Women's"
-      },
-      {
-        "url": "https://ajiio.co/ibW6Aj",
-        "label": "Men's"
-      },
-      {
-        "url": "",
-        "label": "Min. 70% Off On USPA Clothing"
-      },
-      {
-        "url": "https://ajiio.co/BX3CNg",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/hpXAIF",
-        "label": "Women’s"
-      },
-      {
-        "url": "",
-        "label": "Upto 80% Off On Spykar Clothing"
-      },
-      {
-        "url": "https://ajiio.co/4Z4oU4",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/rlft2F",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "AJIO : Levi’s Jeans Starts @696.\n\nWomen's : https://ajiio.co/Ro42mE\nMen's : https://ajiio.co/ibW6Aj\n\nMin. 70% Off On USPA Clothing.\n\nMen's : https://ajiio.co/BX3CNg\nWomen’s : https://ajiio.co/hpXAIF\n\nUpto 80% Off On Spykar Clothing.\n\nMen's : https://ajiio.co/4Z4oU4\nWomen's : https://ajiio.co/rlft2F",
-    "final_url": "https://ajiio.co/Ro42mE",
-    "local_image": "assets/images/tgmsg_13547.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-18T10:10:09+00:00",
-    "buy_link": "https://ajiio.co/Ro42mE",
-    "date_iso": "2025-10-18T10:10:09+00:00"
   }
 ]
