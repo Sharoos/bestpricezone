@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14101",
+    "title": "shirt at 287",
+    "description": "Amazon | Technosport Men’s T-shirt at 287 https://www.amazon.in/dp/B0C7WHCS8V?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0C7WHCS8V?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0C7WHCS8V?tag=bestpricezo0f-21",
+        "label": "Technosport Men’s T-shirt at 287"
+      }
+    ],
+    "raw_text": "Amazon | Technosport Men’s T-shirt at 287\n\nhttps://www.amazon.in/dp/B0C7WHCS8V?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0C7WHCS8V?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14101.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-23T14:34:51+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0C7WHCS8V?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-23T14:34:51+00:00"
+  },
+  {
     "id": "msg14096",
     "title": "Up to 80% Off On Impulse Backpack, Rucksacks & Luggage Starts at ₹494",
     "description": "Amazon | Upto 80% Off On Impulse Backpack, Rucksacks & Luggage Starts at ₹494…",
@@ -8966,53 +8986,5 @@
     "date_obj": "2025-10-19T05:21:31+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F3DBMCBQ?tag=bestpricezo0f-21",
     "date_iso": "2025-10-19T05:21:31+00:00"
-  },
-  {
-    "id": "msg13637",
-    "title": "Men Polo Tshirts Starts at 180",
-    "description": "AJIO . Oversized Tshirts Starts at 190. Women : Men : Kids Clothing Boys : Girls : Infants :",
-    "shortlink": "https://ajiio.co/F84HOx",
-    "urls": [
-      {
-        "url": "https://ajiio.co/F84HOx",
-        "label": "AJIO Men Polo Tshirts Starts at 180"
-      },
-      {
-        "url": "",
-        "label": "Oversized Tshirts Starts at 190"
-      },
-      {
-        "url": "https://ajiio.co/GMZmxD",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/fXDmST",
-        "label": "Men"
-      },
-      {
-        "url": "",
-        "label": "Kids Clothing"
-      },
-      {
-        "url": "https://ajiio.co/t5mSu2",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/90q8FM",
-        "label": "Girls"
-      },
-      {
-        "url": "https://ajiio.co/vtKu5Q",
-        "label": "Infants"
-      }
-    ],
-    "raw_text": "AJIO  Men Polo Tshirts Starts at 180.\n\nhttps://ajiio.co/F84HOx\n\nOversized Tshirts Starts at 190.\n\nWomen : https://ajiio.co/GMZmxD\nMen : https://ajiio.co/fXDmST\n\nKids Clothing \n\nBoys : https://ajiio.co/t5mSu2\nGirls : https://ajiio.co/90q8FM\nInfants : https://ajiio.co/vtKu5Q",
-    "final_url": "https://ajiio.co/F84HOx",
-    "local_image": "assets/images/tgmsg_13637.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-19T05:37:04+00:00",
-    "buy_link": "https://ajiio.co/F84HOx",
-    "date_iso": "2025-10-19T05:37:04+00:00"
   }
 ]
