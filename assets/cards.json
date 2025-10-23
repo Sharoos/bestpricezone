@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14108",
+    "title": "Puma Track Pants up to 75% off",
+    "description": "Amazon | Puma Track Pants up to 75% off 👉https://www.amazon.in/Mens-Track-Pants-Puma-Sportswear/s?rh=n%3A1968071031%2Cp_89%3APuma%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/Mens-Track-Pants-Puma-Sportswear/s?rh=n%3A1968071031%2Cp_89%3APuma%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/Mens-Track-Pants-Puma-Sportswear/s?rh=n%3A1968071031%2Cp_89%3APuma%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&tag=bestpricezo0f-21",
+        "label": "Puma Track Pants up to 75% off"
+      }
+    ],
+    "raw_text": "Amazon | Puma Track Pants up to 75% off\n\n👉https://www.amazon.in/Mens-Track-Pants-Puma-Sportswear/s?rh=n%3A1968071031%2Cp_89%3APuma%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/Mens-Track-Pants-Puma-Sportswear/s?rh=n%3A1968071031%2Cp_89%3APuma%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14108.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-23T15:42:25+00:00",
+    "buy_link": "https://www.amazon.in/Mens-Track-Pants-Puma-Sportswear/s?rh=n%3A1968071031%2Cp_89%3APuma%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-23T15:42:25+00:00"
+  },
+  {
     "id": "msg14107",
     "title": "Himalaya Oil Clear Lemon Face Wash, 150ml @130",
     "description": "Amazon | Himalaya Oil Clear Lemon Face Wash, 150ml @130 👉https://www.amazon.in/dp/B00791FR2E?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
@@ -8994,37 +9014,5 @@
     "date_obj": "2025-10-19T08:54:21+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CKHYTT2G?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-19T08:54:21+00:00"
-  },
-  {
-    "id": "msg13646",
-    "title": "(+₹7,034 CB With Pay ICICI Credit Card)",
-    "description": "Amazon | Muthoot 24K (999) 10gm Gold Pendant @ ₹1,32,159* Collect ₹1500 Cashback 👉 Buy (+₹7,034 CB With Amazon Pay ICICI Credit Card) 👉 Total ₹8534 Cashback",
-    "shortlink": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.OCIXBZC562HVI?rdpf=en&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Muthoot 24K (999) 10gm Gold Pendant @ ₹1,32,159*"
-      },
-      {
-        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.OCIXBZC562HVI?rdpf=en&tag=bestpricezo0f-21",
-        "label": "Collect ₹1500 Cashback"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0D2JG2CFY?tag=bestpricezo0f-21",
-        "label": "Collect ₹1500 Cashback"
-      },
-      {
-        "url": "",
-        "label": "Total ₹8534 Cashback"
-      }
-    ],
-    "raw_text": "Amazon | Muthoot 24K (999) 10gm Gold Pendant @ ₹1,32,159*\n\nCollect ₹1500 Cashback \n👉https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.OCIXBZC562HVI?rdpf=en&tag=bestpricezo0f-21\n\nBuy (+₹7,034 CB With Amazon Pay ICICI Credit Card) \n👉https://www.amazon.in/dp/B0D2JG2CFY?tag=bestpricezo0f-21\n\nTotal ₹8534 Cashback",
-    "final_url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.OCIXBZC562HVI?rdpf=en&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13646.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-19T07:45:25+00:00",
-    "buy_link": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.OCIXBZC562HVI?rdpf=en&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-19T07:45:25+00:00"
   }
 ]
