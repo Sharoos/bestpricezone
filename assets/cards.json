@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg14114",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
+    "description": "🔥AJIO Men's Footwear Starts @₹110 👉 Sports Shoes : Casual Shoes : Sandals : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/KFNEvY",
+    "urls": [
+      {
+        "url": "https://ajiio.co/KFNEvY",
+        "label": "🔥AJIO Men's Footwear Starts @₹110"
+      },
+      {
+        "url": "https://ajiio.co/Vs183j",
+        "label": "Sports Shoes"
+      },
+      {
+        "url": "https://ajiio.co/pFOPqV",
+        "label": "Casual Shoes"
+      },
+      {
+        "url": "https://ajiio.co/o5clVf",
+        "label": "Sandals"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "🔥AJIO  Men's Footwear Starts @₹110\n\n👉https://ajiio.co/KFNEvY\n\nSports Shoes : https://ajiio.co/Vs183j\nCasual Shoes : https://ajiio.co/pFOPqV\nSandals : https://ajiio.co/o5clVf\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/KFNEvY",
+    "local_image": "assets/images/tgmsg_14114.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T17:06:33+00:00",
+    "buy_link": "https://ajiio.co/KFNEvY",
+    "date_iso": "2025-10-23T17:06:33+00:00"
+  },
+  {
     "id": "msg14111",
     "title": "Garnier Men, Face Wash, TurboBright 100g @193",
     "description": "Amazon | Garnier Men, Face Wash, TurboBright 100g @193 👉https://www.amazon.in/dp/B00V4L6JC2?th=1&psc=1&tag=bestpricezo0f-21 More : https://www.amazon.in/dp/B007921JYI?th=1&psc=1&tag=bestpricezo0f-21",
@@ -9002,33 +9038,5 @@
     "date_obj": "2025-10-19T11:21:03+00:00",
     "buy_link": "https://ajiio.co/JmLuag",
     "date_iso": "2025-10-19T11:21:03+00:00"
-  },
-  {
-    "id": "msg13657",
-    "title": "Women's Westernwear Under ₹399 (Rio, Fig & More)",
-    "description": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More) Women : https://ajiio.co/f2nDMg Girls : https://ajiio.co/DyeXuR",
-    "shortlink": "https://ajiio.co/f2nDMg",
-    "urls": [
-      {
-        "url": "",
-        "label": "Women's Westernwear Under ₹399 (Rio, Fig & More)"
-      },
-      {
-        "url": "https://ajiio.co/f2nDMg",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/DyeXuR",
-        "label": "Girls"
-      }
-    ],
-    "raw_text": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More)\n\nWomen : https://ajiio.co/f2nDMg\n\nGirls : https://ajiio.co/DyeXuR",
-    "final_url": "https://ajiio.co/f2nDMg",
-    "local_image": "assets/images/tgmsg_13657.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-19T11:06:18+00:00",
-    "buy_link": "https://ajiio.co/f2nDMg",
-    "date_iso": "2025-10-19T11:06:18+00:00"
   }
 ]
