@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14041",
+    "title": "Up to 79% Off on Sunglasses Starts At Rs.419",
+    "description": "Ajio | Upto 79% Off on Sunglasses Starts At Rs.419 👉Link : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/KQURPb=",
+    "urls": [
+      {
+        "url": "https://ajiio.co/KQURPb=",
+        "label": "Upto 79% Off on Sunglasses Starts At Rs.419"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "Ajio | Upto 79% Off on Sunglasses Starts At Rs.419\n \n👉Link : https://ajiio.co/KQURPb=\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/KQURPb=",
+    "local_image": "assets/images/tgmsg_14041.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T03:52:11+00:00",
+    "buy_link": "https://ajiio.co/KQURPb=",
+    "date_iso": "2025-10-23T03:52:11+00:00"
+  },
+  {
     "id": "msg14037",
     "title": "Zebronics 200W Soundbar, 6.5’’ Subwoofer @4769 ( Effectively)",
     "description": "Amazon | Zebronics 200W Soundbar, 6.5’’ Subwoofer @4769 ( Effectively) https://www.amazon.in/dp/B0DM2JGWFT?tag=bestpricezo0f-21 Pay Via HDFC CARD",
@@ -8806,29 +8830,5 @@
     "date_obj": "2025-10-18T10:10:09+00:00",
     "buy_link": "https://ajiio.co/Ro42mE",
     "date_iso": "2025-10-18T10:10:09+00:00"
-  },
-  {
-    "id": "msg13544",
-    "title": "Being human Min 65%",
-    "description": "Ajio | Monte Carlo- Min 30% https://ajiio.co/typE2P Being human Min 65% https://ajiio.co/QKCj2S",
-    "shortlink": "https://ajiio.co/typE2P",
-    "urls": [
-      {
-        "url": "https://ajiio.co/typE2P",
-        "label": "Monte Carlo- Min 30%"
-      },
-      {
-        "url": "https://ajiio.co/QKCj2S",
-        "label": "Being human Min 65%"
-      }
-    ],
-    "raw_text": "Ajio | Monte Carlo- Min 30%\nhttps://ajiio.co/typE2P\n\nBeing human Min 65%\nhttps://ajiio.co/QKCj2S",
-    "final_url": "https://ajiio.co/typE2P",
-    "local_image": "assets/images/tgmsg_13544.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-18T09:42:11+00:00",
-    "buy_link": "https://ajiio.co/typE2P",
-    "date_iso": "2025-10-18T09:42:11+00:00"
   }
 ]
