@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg14057",
+    "title": "80% Off Spykar Clothing",
+    "description": "Amazon | Upto 70-80% Off Spykar Clothing Men's :…",
+    "shortlink": "https://www.amazon.in/s?k=spykar&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A472933%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&xpid=QzZB7tVWxX_kE&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70-80% Off Spykar Clothing"
+      },
+      {
+        "url": "https://www.amazon.in/s?k=spykar&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A472933%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&xpid=QzZB7tVWxX_kE&tag=bestpricezo0f-21",
+        "label": "Men's"
+      },
+      {
+        "url": "https://www.amazon.in/s?k=spykar&rh=n%3A1571271031%2Cn%3A1953602031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A472933%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&tag=bestpricezo0f-21",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Amazon | Upto 70-80% Off Spykar Clothing \n\nMen's : https://www.amazon.in/s?k=spykar&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A472933%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&xpid=QzZB7tVWxX_kE&tag=bestpricezo0f-21\nWomen : https://www.amazon.in/s?k=spykar&rh=n%3A1571271031%2Cn%3A1953602031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A472933%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?k=spykar&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A472933%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&xpid=QzZB7tVWxX_kE&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14057.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-23T06:41:44+00:00",
+    "buy_link": "https://www.amazon.in/s?k=spykar&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A472933%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&xpid=QzZB7tVWxX_kE&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-23T06:41:44+00:00"
+  },
+  {
     "id": "msg14054",
     "title": "💖 Feel like a Guess girl (or guy)? Get ready to slay with Up to 50% Off!",
     "description": "🚨 Psst! Got an iconic craving? 🛍️✨ Tired of the ordinary? Say Hello to Flipkart Select—your new one-stop destination for all things luxury and premium! We're talking the big leagues, the top shelf, the stuff that makes…",
@@ -8726,37 +8754,5 @@
     "date_obj": "2025-10-18T14:41:49+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CGPZTC8C?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-18T14:41:49+00:00"
-  },
-  {
-    "id": "msg13572",
-    "title": "Men's Footwear Starts @112",
-    "description": "Ajio | Men's Footwear Starts @112 https://ajiio.co/SrxJ06 Sports Shoes : https://ajiio.co/7BDLcG Casual Shoes : https://ajiio.co/FNzGdK Sandals : https://ajiio.co/7ZHFeI",
-    "shortlink": "https://ajiio.co/SrxJ06",
-    "urls": [
-      {
-        "url": "https://ajiio.co/SrxJ06",
-        "label": "Men's Footwear Starts @112"
-      },
-      {
-        "url": "https://ajiio.co/7BDLcG",
-        "label": "Sports Shoes"
-      },
-      {
-        "url": "https://ajiio.co/FNzGdK",
-        "label": "Casual Shoes"
-      },
-      {
-        "url": "https://ajiio.co/7ZHFeI",
-        "label": "Sandals"
-      }
-    ],
-    "raw_text": "Ajio | Men's Footwear Starts @112\n\nhttps://ajiio.co/SrxJ06 \n\nSports Shoes : https://ajiio.co/7BDLcG \nCasual Shoes : https://ajiio.co/FNzGdK \nSandals : https://ajiio.co/7ZHFeI",
-    "final_url": "https://ajiio.co/SrxJ06",
-    "local_image": "assets/images/tgmsg_13572.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-18T14:26:21+00:00",
-    "buy_link": "https://ajiio.co/SrxJ06",
-    "date_iso": "2025-10-18T14:26:21+00:00"
   }
 ]
