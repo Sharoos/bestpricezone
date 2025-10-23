@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14051",
+    "title": "💥OverSized Tshirts Starts @180",
+    "description": "💥Ajio | OverSized Tshirts Starts @180. 👉Link : https://ajiio.co/0dnizr",
+    "shortlink": "https://ajiio.co/0dnizr",
+    "urls": [
+      {
+        "url": "https://ajiio.co/0dnizr",
+        "label": "💥Ajio | OverSized Tshirts Starts @180"
+      }
+    ],
+    "raw_text": "💥Ajio | OverSized Tshirts Starts @180.\n\n👉Link : https://ajiio.co/0dnizr",
+    "final_url": "https://ajiio.co/0dnizr",
+    "local_image": "assets/images/tgmsg_14051.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T05:56:02+00:00",
+    "buy_link": "https://ajiio.co/0dnizr",
+    "date_iso": "2025-10-23T05:56:02+00:00"
+  },
+  {
     "id": "msg14050",
     "title": "Min. 50% Off On Wild Stone Product",
     "description": "Amazon | Min. 50% Off On Wild Stone Products.…",
@@ -8810,37 +8830,5 @@
     "date_obj": "2025-10-18T13:24:22+00:00",
     "buy_link": "https://ajiio.co/1Pq5vz",
     "date_iso": "2025-10-18T13:24:22+00:00"
-  },
-  {
-    "id": "msg13558",
-    "title": "Grocery Up to 92% Off",
-    "description": "Flipkart Grocery Loot : Upto 92% Off Link 1 : Link 2 : Link 3 : Check All Locations",
-    "shortlink": "https://fktr.in/sesGj34",
-    "urls": [
-      {
-        "url": "https://fktr.in/sesGj34",
-        "label": "Upto 92% Off"
-      },
-      {
-        "url": "https://fktr.in/xh5OSEJ",
-        "label": "Upto 92% Off"
-      },
-      {
-        "url": "https://fktr.in/2Hg4S6O",
-        "label": "Upto 92% Off"
-      },
-      {
-        "url": "",
-        "label": "Check All Locations"
-      }
-    ],
-    "raw_text": "Flipkart Grocery Loot : Upto 92% Off\n\nLink 1 :   https://fktr.in/sesGj34\nLink 2 :   https://fktr.in/xh5OSEJ\nLink 3 :   https://fktr.in/2Hg4S6O\n\nCheck All Locations",
-    "final_url": "https://fktr.in/sesGj34",
-    "local_image": "assets/images/tgmsg_13558.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-18T13:04:27+00:00",
-    "buy_link": "https://fktr.in/sesGj34",
-    "date_iso": "2025-10-18T13:04:27+00:00"
   }
 ]
