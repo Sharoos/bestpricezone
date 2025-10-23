@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg14077",
+    "title": "🛍 + Extra 10% Super Cash! 🎉",
+    "description": "AJIO Min 60% Off On PUMA. Shoes : Men : Women : Kids : 🛍 + Extra 10% AJIO Super Cash! 🎉",
+    "shortlink": "https://ajiio.co/kPw5xS",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Min 60% Off On PUMA"
+      },
+      {
+        "url": "https://ajiio.co/kPw5xS",
+        "label": "Shoes"
+      },
+      {
+        "url": "https://ajiio.co/dV0XWL",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/CPE0rs",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/q4D0OY",
+        "label": "Kids"
+      },
+      {
+        "url": "",
+        "label": "🛍 + Extra 10% AJIO Super Cash! 🎉"
+      }
+    ],
+    "raw_text": "AJIO  Min 60% Off On PUMA. \n\nShoes : https://ajiio.co/kPw5xS\n\nMen : https://ajiio.co/dV0XWL\nWomen : https://ajiio.co/CPE0rs\nKids : https://ajiio.co/q4D0OY\n\n🛍 + Extra 10% AJIO Super Cash! 🎉",
+    "final_url": "https://ajiio.co/kPw5xS",
+    "local_image": "assets/images/tgmsg_14077.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T09:45:12+00:00",
+    "buy_link": "https://ajiio.co/kPw5xS",
+    "date_iso": "2025-10-23T09:45:12+00:00"
+  },
+  {
     "id": "msg14071",
     "title": "TIARAA Offer – Bracelets Edition 💎",
     "description": "TIARAA Loot Offer – Bracelets Edition 💎 Grab Any 3 Bracelets @ ₹199 (Including Shipping) ✅Use Code: LOOT3 Shop Now →",
@@ -8822,25 +8862,5 @@
     "date_obj": "2025-10-18T17:41:29+00:00",
     "buy_link": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ALAKM%25C3%2589&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
     "date_iso": "2025-10-18T17:41:29+00:00"
-  },
-  {
-    "id": "msg13609",
-    "title": "Carbamide Forte Women Car Juice 1L @484 +",
-    "description": "Carbamide Forte Women Car Juice 1L @484 + Coupon https://www.amazon.in/dp/B0FKH96QQJ?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FKH96QQJ?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FKH96QQJ?tag=bestpricezo0f-21",
-        "label": ""
-      }
-    ],
-    "raw_text": "Carbamide Forte Women Car Juice 1L @484 + Coupon \n\nhttps://www.amazon.in/dp/B0FKH96QQJ?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FKH96QQJ?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13609.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-18T17:22:35+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FKH96QQJ?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-18T17:22:35+00:00"
   }
 ]
