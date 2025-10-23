@@ -1,5 +1,621 @@
 [
   {
+    "id": "msg14160",
+    "title": "🛒 Deal Up to 85% Off",
+    "description": "👕 Clothing Blowout - Up to 85% Off! Jack & Jones Clothing 🛒 Deal: Up to 85% Off Spykar Clothing 🛒 Deal: Up to 82% Off Men: Women: GAS Clothing (Premium Brand) 🛒 Deal: 70% Off Men: Women:",
+    "shortlink": "https://ajiio.co/jyfcd8",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 Clothing Blowout - Up to 85% Off!"
+      },
+      {
+        "url": "",
+        "label": "Jack & Jones Clothing"
+      },
+      {
+        "url": "https://ajiio.co/jyfcd8",
+        "label": "🛒 Deal: Up to 85% Off"
+      },
+      {
+        "url": "",
+        "label": "Spykar Clothing"
+      },
+      {
+        "url": "https://ajiio.co/nM6ubT",
+        "label": "🛒 Deal: Up to 82% Off"
+      },
+      {
+        "url": "https://ajiio.co/eHDgyy",
+        "label": "Women"
+      },
+      {
+        "url": "",
+        "label": "GAS Clothing (Premium Brand)"
+      },
+      {
+        "url": "https://ajiio.co/OQ0vlS",
+        "label": "🛒 Deal: 70% Off"
+      },
+      {
+        "url": "https://ajiio.co/1XXRqE",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "👕 Clothing Blowout - Up to 85% Off!\n\nJack & Jones Clothing\n\n🛒 Deal: Up to 85% Off\n\nhttps://ajiio.co/jyfcd8\n\nSpykar Clothing\n\n🛒 Deal: Up to 82% Off\n\nMen: https://ajiio.co/nM6ubT\nWomen: https://ajiio.co/eHDgyy\n\nGAS Clothing (Premium Brand)\n\n🛒 Deal: 70% Off\n\nMen: https://ajiio.co/OQ0vlS\nWomen: https://ajiio.co/1XXRqE",
+    "final_url": "https://ajiio.co/jyfcd8",
+    "local_image": "assets/images/tgmsg_14160.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T19:01:48+00:00",
+    "buy_link": "https://ajiio.co/jyfcd8",
+    "date_iso": "2025-10-23T19:01:48+00:00"
+  },
+  {
+    "id": "msg14161",
+    "title": "+ 10% EXTRA CASH",
+    "description": "AJIO Cargo Pants , Shorts And Many more Starts at 590. Women : Men : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/2L89KU",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Cargo Pants , Shorts And Many more Starts at 590"
+      },
+      {
+        "url": "https://ajiio.co/2L89KU",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/teNdOr",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO  Cargo Pants , Shorts And Many more  Starts at 590. \n \nWomen : https://ajiio.co/2L89KU\n\nMen : https://ajiio.co/teNdOr\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/2L89KU",
+    "local_image": "assets/images/tgmsg_14161.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T19:02:32+00:00",
+    "buy_link": "https://ajiio.co/2L89KU",
+    "date_iso": "2025-10-23T19:02:32+00:00"
+  },
+  {
+    "id": "msg14162",
+    "title": "+ 10% SUPERCASH",
+    "description": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 102🔥 🔗🔗Link : + 10% AJIO SUPERCASH",
+    "shortlink": "https://ajiio.co/aq57hQ",
+    "urls": [
+      {
+        "url": "https://ajiio.co/aq57hQ",
+        "label": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 102🔥"
+      },
+      {
+        "url": "",
+        "label": "+ 10% AJIO SUPERCASH"
+      }
+    ],
+    "raw_text": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 102🔥 \n \n🔗🔗Link : https://ajiio.co/aq57hQ\n\n+ 10% AJIO SUPERCASH",
+    "final_url": "https://ajiio.co/aq57hQ",
+    "local_image": "assets/images/tgmsg_14162.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T19:03:18+00:00",
+    "buy_link": "https://ajiio.co/aq57hQ",
+    "date_iso": "2025-10-23T19:03:18+00:00"
+  },
+  {
+    "id": "msg14163",
+    "title": "GOBOULT Made in India Q Over Ear Bluetooth Headphones @ ₹1699",
+    "description": "Amazon | GOBOULT Made in India Q Over Ear Bluetooth Headphones @ ₹1699 https://www.amazon.in/dp/B0DFHFH16K?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DFHFH16K?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DFHFH16K?th=1&tag=bestpricezo0f-21",
+        "label": "GOBOULT Made in India Q Over Ear Bluetooth Headphones @ ₹1699"
+      }
+    ],
+    "raw_text": "Amazon | GOBOULT Made in India Q Over Ear Bluetooth Headphones @ ₹1699\n\nhttps://www.amazon.in/dp/B0DFHFH16K?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DFHFH16K?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14163.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-23T19:03:27+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DFHFH16K?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-23T19:03:27+00:00"
+  },
+  {
+    "id": "msg14164",
+    "title": "Tide Plus Detergent Washing Powder 10kg @₹765",
+    "description": "Amazon | Tide Plus Detergent Washing Powder 10kg @₹765 https://www.amazon.in/dp/B07ZQDFG9R?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B07ZQDFG9R?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B07ZQDFG9R?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Tide Plus Detergent Washing Powder 10kg @₹765"
+      }
+    ],
+    "raw_text": "Amazon | Tide Plus Detergent Washing Powder 10kg @₹765\n\nhttps://www.amazon.in/dp/B07ZQDFG9R?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B07ZQDFG9R?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14164.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-23T19:06:02+00:00",
+    "buy_link": "https://www.amazon.in/dp/B07ZQDFG9R?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-23T19:06:02+00:00"
+  },
+  {
+    "id": "msg14165",
+    "title": "Branded Men's Shirts from Rs.180",
+    "description": "Ajio | Branded Men's T-Shirts from Rs.100 👉https://ajiio.co/A2GXbr Branded Men's Shirts from Rs.180 👉https://ajiio.co/AZLmFr",
+    "shortlink": "https://ajiio.co/A2GXbr",
+    "urls": [
+      {
+        "url": "https://ajiio.co/A2GXbr",
+        "label": "Branded Men's T-Shirts from Rs.100"
+      },
+      {
+        "url": "https://ajiio.co/AZLmFr",
+        "label": "Branded Men's Shirts from Rs.180"
+      }
+    ],
+    "raw_text": "Ajio | Branded Men's T-Shirts from Rs.100\n\n👉https://ajiio.co/A2GXbr \n\n Branded Men's Shirts from Rs.180\n\n👉https://ajiio.co/AZLmFr",
+    "final_url": "https://ajiio.co/A2GXbr",
+    "local_image": "assets/images/tgmsg_14165.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T19:06:45+00:00",
+    "buy_link": "https://ajiio.co/A2GXbr",
+    "date_iso": "2025-10-23T19:06:45+00:00"
+  },
+  {
+    "id": "msg14166",
+    "title": "Topwear Clothing Under ₹199",
+    "description": "AJIO  Topwear Clothing Under ₹199 Men's : https://ajiio.co/EjHDmm Women's : https://ajiio.co/27kYP7 Boy’s : https://ajiio.co/XvEd6j Girl’s : https://ajiio.co/Bxt9Kn Baby : https://ajiio.co/DnW3s8",
+    "shortlink": "https://ajiio.co/EjHDmm",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Topwear Clothing Under ₹199"
+      },
+      {
+        "url": "https://ajiio.co/EjHDmm",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/27kYP7",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/XvEd6j",
+        "label": "Boy’s"
+      },
+      {
+        "url": "https://ajiio.co/Bxt9Kn",
+        "label": "Girl’s"
+      },
+      {
+        "url": "https://ajiio.co/DnW3s8",
+        "label": "Baby"
+      }
+    ],
+    "raw_text": "AJIO  Topwear Clothing Under ₹199\n\nMen's : https://ajiio.co/EjHDmm\nWomen's : https://ajiio.co/27kYP7\nBoy’s : https://ajiio.co/XvEd6j\nGirl’s : https://ajiio.co/Bxt9Kn\nBaby : https://ajiio.co/DnW3s8",
+    "final_url": "https://ajiio.co/EjHDmm",
+    "local_image": "assets/images/tgmsg_14166.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T19:06:47+00:00",
+    "buy_link": "https://ajiio.co/EjHDmm",
+    "date_iso": "2025-10-23T19:06:47+00:00"
+  },
+  {
+    "id": "msg14167",
+    "title": "Up to 86% Off!",
+    "description": "🥿Ajio Women's Footwear -  Deals on Branded Footwear (Inc 5, Buda Jeans Co, etc.) 🛒 Master Link: Browse All Styles! 👠 Heels: Find Your Perfect Pair! 🩰 Flats: Comfortable and Stylish! 🩴 Sandals: Step into Summer! 👟 Casual…",
+    "shortlink": "https://ajiio.co/jGK3uC",
+    "urls": [
+      {
+        "url": "",
+        "label": "🥿Ajio Women's Footwear - Up to 86% Off!"
+      },
+      {
+        "url": "https://ajiio.co/jGK3uC",
+        "label": "Deals on Branded Footwear (Inc 5, Buda Jeans Co, etc.)"
+      },
+      {
+        "url": "https://ajiio.co/99eS2G",
+        "label": "👠 Heels: Find Your Perfect Pair!"
+      },
+      {
+        "url": "https://ajiio.co/VPuimV",
+        "label": "🩰 Flats: Comfortable and Stylish!"
+      },
+      {
+        "url": "https://ajiio.co/iGCteD",
+        "label": "🩴 Sandals: Step into Summer!"
+      },
+      {
+        "url": "https://ajiio.co/G4ZqzH",
+        "label": "👟 Casual Shoes: Everyday Essentials!"
+      },
+      {
+        "url": "https://ajiio.co/kvelIo",
+        "label": "🏃‍♀️ Sneakers & Sports Shoes: Gear Up for Action!"
+      },
+      {
+        "url": "https://ajiio.co/m8h61z",
+        "label": "🩴 Sliders & Flipflops: Relaxed Vibes!"
+      },
+      {
+        "url": "https://ajiio.co/lV30me",
+        "label": "✨ INC.5 Collection"
+      },
+      {
+        "url": "https://ajiio.co/OFLXSd",
+        "label": "👠 CATWALK Collection"
+      }
+    ],
+    "raw_text": "🥿Ajio Women's Footwear - Up to 86% Off!\n\nDeals on Branded Footwear (Inc 5, Buda Jeans Co, etc.)\n\n🛒 Master Link: Browse All Styles!\nhttps://ajiio.co/jGK3uC\n\n👠 Heels: Find Your Perfect Pair!\nhttps://ajiio.co/99eS2G\n\n🩰 Flats: Comfortable and Stylish!\nhttps://ajiio.co/VPuimV\n\n🩴 Sandals: Step into Summer!\nhttps://ajiio.co/iGCteD\n\n👟 Casual Shoes: Everyday Essentials!\nhttps://ajiio.co/G4ZqzH\n\n🏃‍♀️ Sneakers & Sports Shoes: Gear Up for Action!\nhttps://ajiio.co/kvelIo\n\n🩴 Sliders & Flipflops: Relaxed Vibes!\nhttps://ajiio.co/m8h61z\n\n✨ INC.5 Collection:\nhttps://ajiio.co/lV30me\n\n👠 CATWALK Collection:\nhttps://ajiio.co/OFLXSd",
+    "final_url": "https://ajiio.co/jGK3uC",
+    "local_image": "assets/images/tgmsg_14167.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T19:06:49+00:00",
+    "buy_link": "https://ajiio.co/jGK3uC",
+    "date_iso": "2025-10-23T19:06:49+00:00"
+  },
+  {
+    "id": "msg14168",
+    "title": "Up to 82% Off On Red Tape Shoe",
+    "description": "AJIO : Upto 82% Off On Red Tape Shoes Men's : Women's : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/ec0QLs",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 82% Off On Red Tape Shoes"
+      },
+      {
+        "url": "https://ajiio.co/ec0QLs",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/Zb2GlS",
+        "label": "Women's"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "AJIO : Upto 82% Off On Red Tape Shoes\n\nMen's : https://ajiio.co/ec0QLs\n\nWomen's : https://ajiio.co/Zb2GlS\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/ec0QLs",
+    "local_image": "assets/images/tgmsg_14168.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T19:10:51+00:00",
+    "buy_link": "https://ajiio.co/ec0QLs",
+    "date_iso": "2025-10-23T19:10:51+00:00"
+  },
+  {
+    "id": "msg14169",
+    "title": "Men Polo Tshirts Starts at 140",
+    "description": "AJIO . Oversized Tshirts Starts at 190. Women : Men : Kids Clothing Boys : Girls : Infants :",
+    "shortlink": "https://ajiio.co/cp20NS",
+    "urls": [
+      {
+        "url": "https://ajiio.co/cp20NS",
+        "label": "AJIO Men Polo Tshirts Starts at 140"
+      },
+      {
+        "url": "",
+        "label": "Oversized Tshirts Starts at 190"
+      },
+      {
+        "url": "https://ajiio.co/pORFhm",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/GXgp2F",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Kids Clothing"
+      },
+      {
+        "url": "https://ajiio.co/uAC9Ie",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/ke6Zmu",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/96goGL",
+        "label": "Infants"
+      }
+    ],
+    "raw_text": "AJIO  Men Polo Tshirts Starts at 140.\n\nhttps://ajiio.co/cp20NS\n\nOversized Tshirts Starts at 190.\n\nWomen : https://ajiio.co/pORFhm\nMen : https://ajiio.co/GXgp2F\n\nKids Clothing \n\nBoys : https://ajiio.co/uAC9Ie\nGirls : https://ajiio.co/ke6Zmu\nInfants : https://ajiio.co/96goGL",
+    "final_url": "https://ajiio.co/cp20NS",
+    "local_image": "assets/images/tgmsg_14169.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T19:10:52+00:00",
+    "buy_link": "https://ajiio.co/cp20NS",
+    "date_iso": "2025-10-23T19:10:52+00:00"
+  },
+  {
+    "id": "msg14170",
+    "title": "Up to 80% Off On Raymond, Park Avenue & Parx Clothing",
+    "description": "AJIO Upto 80% Off On Raymond, Park Avenue & Parx Clothing. Shirts : Trousers : T-shirts : Jeans : Womens : Upto 80% Off On Louis Philippe Clothing. Under Armour : Clarks : ASOS : Zivame & Clovia :",
+    "shortlink": "https://ajiio.co/JUcxwi",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 80% Off On Raymond, Park Avenue & Parx Clothing"
+      },
+      {
+        "url": "https://ajiio.co/JUcxwi",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/Xdqtvw",
+        "label": "Trousers"
+      },
+      {
+        "url": "https://ajiio.co/Lbld3k",
+        "label": "T-shirts"
+      },
+      {
+        "url": "https://ajiio.co/w8EhWq",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/jes4A0",
+        "label": "Womens"
+      },
+      {
+        "url": "https://ajiio.co/BwvBVk",
+        "label": "Upto 80% Off On Louis Philippe Clothing"
+      },
+      {
+        "url": "https://ajiio.co/QlOH4O",
+        "label": "Under Armour"
+      },
+      {
+        "url": "https://ajiio.co/1LCdeA",
+        "label": "Clarks"
+      },
+      {
+        "url": "https://ajiio.co/NvuVK9",
+        "label": "ASOS"
+      },
+      {
+        "url": "https://ajiio.co/YGTDvG",
+        "label": "Zivame & Clovia"
+      }
+    ],
+    "raw_text": "AJIO  Upto 80% Off On Raymond, Park Avenue & Parx Clothing.\n\nShirts : https://ajiio.co/JUcxwi\nTrousers : https://ajiio.co/Xdqtvw\nT-shirts : https://ajiio.co/Lbld3k\nJeans : https://ajiio.co/w8EhWq\n\nWomens : https://ajiio.co/jes4A0\n\n Upto 80% Off On Louis Philippe Clothing.\n\nhttps://ajiio.co/BwvBVk\n\nUnder Armour : https://ajiio.co/QlOH4O\nClarks : https://ajiio.co/1LCdeA\nASOS : https://ajiio.co/NvuVK9\nZivame & Clovia : https://ajiio.co/YGTDvG",
+    "final_url": "https://ajiio.co/JUcxwi",
+    "local_image": "assets/images/tgmsg_14170.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T19:12:31+00:00",
+    "buy_link": "https://ajiio.co/JUcxwi",
+    "date_iso": "2025-10-23T19:12:31+00:00"
+  },
+  {
+    "id": "msg14171",
+    "title": "Up to 80% Off On PUMA",
+    "description": "Ajio : Upto 80% Off On PUMA. Shoes : Men's : Women's : Kids : H&M Clothing. Men's : Women's : Girls : Boys :",
+    "shortlink": "https://ajiio.co/soPlkH",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On PUMA"
+      },
+      {
+        "url": "https://ajiio.co/soPlkH",
+        "label": "Shoes"
+      },
+      {
+        "url": "https://ajiio.co/fXqjAI",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/l0K4fp",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/aJyUiF",
+        "label": "Kids"
+      },
+      {
+        "url": "",
+        "label": "H&M Clothing"
+      },
+      {
+        "url": "https://ajiio.co/bnpAYb",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/ZKCktP",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/K0yJwO",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/VEEWZP",
+        "label": "Boys"
+      }
+    ],
+    "raw_text": "Ajio : Upto 80% Off On PUMA. \n\nShoes : https://ajiio.co/soPlkH\n\nMen's : https://ajiio.co/fXqjAI\nWomen's : https://ajiio.co/l0K4fp\nKids : https://ajiio.co/aJyUiF\n\nH&M Clothing.\n\nMen's : https://ajiio.co/bnpAYb\nWomen's : https://ajiio.co/ZKCktP\nGirls : https://ajiio.co/K0yJwO\nBoys : https://ajiio.co/VEEWZP",
+    "final_url": "https://ajiio.co/soPlkH",
+    "local_image": "assets/images/tgmsg_14171.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T19:16:00+00:00",
+    "buy_link": "https://ajiio.co/soPlkH",
+    "date_iso": "2025-10-23T19:16:00+00:00"
+  },
+  {
+    "id": "msg14172",
+    "title": "Flat 75% Off On GAP Clothing",
+    "description": "Ajio : . Apply Code : LIMITED75 Men's : Women's : Boy’s : Girl’s : Baby : Upto 70% Off On GAS (Premium Brand) Clothing. Men's : Women's :",
+    "shortlink": "https://ajiio.co/UhUK1d",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flat 75% Off On GAP Clothing"
+      },
+      {
+        "url": "",
+        "label": "LIMITED75"
+      },
+      {
+        "url": "https://ajiio.co/UhUK1d",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/dayCvT",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/Yjv0Gt",
+        "label": "Boy’s"
+      },
+      {
+        "url": "https://ajiio.co/pbHNAJ",
+        "label": "Girl’s"
+      },
+      {
+        "url": "https://ajiio.co/7Wsuk9",
+        "label": "Baby"
+      },
+      {
+        "url": "",
+        "label": "Upto 70% Off On GAS (Premium Brand) Clothing"
+      },
+      {
+        "url": "https://ajiio.co/SCUxQE",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/z3G0x6",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Ajio : Flat 75% Off On GAP Clothing. \n\nApply Code : LIMITED75\n\nMen's : https://ajiio.co/UhUK1d\nWomen's : https://ajiio.co/dayCvT\nBoy’s : https://ajiio.co/Yjv0Gt\nGirl’s : https://ajiio.co/pbHNAJ\nBaby : https://ajiio.co/7Wsuk9\n\n Upto 70% Off On GAS (Premium Brand) Clothing. \n\nMen's : https://ajiio.co/SCUxQE\nWomen's : https://ajiio.co/z3G0x6",
+    "final_url": "https://ajiio.co/UhUK1d",
+    "local_image": "assets/images/tgmsg_14172.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T19:16:47+00:00",
+    "buy_link": "https://ajiio.co/UhUK1d",
+    "date_iso": "2025-10-23T19:16:47+00:00"
+  },
+  {
+    "id": "msg14173",
+    "title": "Up to 80% Off On Raymond, Park Avenue & Parx Clothing",
+    "description": "AJIO : Upto 80% Off On Raymond, Park Avenue & Parx Clothing. Shirts : Trousers : T-shirts : Jeans : Womens : Upto 80% Off On Louis Philippe Clothing. Under Armour : Clarks : ASOS : Zivame & Clovia :",
+    "shortlink": "https://ajiio.co/urzfcm",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On Raymond, Park Avenue & Parx Clothing"
+      },
+      {
+        "url": "https://ajiio.co/urzfcm",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/4jCXm0",
+        "label": "Trousers"
+      },
+      {
+        "url": "https://ajiio.co/VVls13",
+        "label": "T-shirts"
+      },
+      {
+        "url": "https://ajiio.co/HgMxt8",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/OYnPgq",
+        "label": "Womens"
+      },
+      {
+        "url": "https://ajiio.co/E2GS3V",
+        "label": "Upto 80% Off On Louis Philippe Clothing"
+      },
+      {
+        "url": "https://ajiio.co/pQNQIg",
+        "label": "Under Armour"
+      },
+      {
+        "url": "https://ajiio.co/f7VaeF",
+        "label": "Clarks"
+      },
+      {
+        "url": "https://ajiio.co/q9DYt1",
+        "label": "ASOS"
+      },
+      {
+        "url": "https://ajiio.co/qypE0X",
+        "label": "Zivame & Clovia"
+      }
+    ],
+    "raw_text": "AJIO : Upto 80% Off On Raymond, Park Avenue & Parx Clothing.\n\nShirts : https://ajiio.co/urzfcm\nTrousers : https://ajiio.co/4jCXm0\nT-shirts : https://ajiio.co/VVls13\nJeans : https://ajiio.co/HgMxt8\n\nWomens : https://ajiio.co/OYnPgq\n\nUpto 80% Off On Louis Philippe Clothing.\n\nhttps://ajiio.co/E2GS3V\n\nUnder Armour : https://ajiio.co/pQNQIg\nClarks : https://ajiio.co/f7VaeF\nASOS : https://ajiio.co/q9DYt1\nZivame & Clovia : https://ajiio.co/qypE0X",
+    "final_url": "https://ajiio.co/urzfcm",
+    "local_image": "assets/images/tgmsg_14173.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T19:18:16+00:00",
+    "buy_link": "https://ajiio.co/urzfcm",
+    "date_iso": "2025-10-23T19:18:16+00:00"
+  },
+  {
+    "id": "msg14174",
+    "title": "10% Super Cash on Every Orde",
+    "description": "🔥AJIO : Men's Footwear Starts @112 👉 Sports : Casual : Sandals : 10% AJIO Super Cash on Every Order.",
+    "shortlink": "https://ajiio.co/tc7QiX",
+    "urls": [
+      {
+        "url": "https://ajiio.co/tc7QiX",
+        "label": "🔥AJIO : Men's Footwear Starts @112"
+      },
+      {
+        "url": "https://ajiio.co/sWcX3W",
+        "label": "Sports"
+      },
+      {
+        "url": "https://ajiio.co/lvh7lc",
+        "label": "Casual"
+      },
+      {
+        "url": "https://ajiio.co/7Ij3Lx",
+        "label": "Sandals"
+      },
+      {
+        "url": "",
+        "label": "10% AJIO Super Cash on Every Order"
+      }
+    ],
+    "raw_text": "🔥AJIO : Men's Footwear Starts @112\n\n👉https://ajiio.co/tc7QiX\n\nSports : https://ajiio.co/sWcX3W\nCasual : https://ajiio.co/lvh7lc\nSandals : https://ajiio.co/7Ij3Lx\n\n10% AJIO Super Cash on Every Order.",
+    "final_url": "https://ajiio.co/tc7QiX",
+    "local_image": "assets/images/tgmsg_14174.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-23T19:18:33+00:00",
+    "buy_link": "https://ajiio.co/tc7QiX",
+    "date_iso": "2025-10-23T19:18:33+00:00"
+  },
+  {
     "id": "msg14154",
     "title": "Up to 75% Off on Women Kurta Suit Sets Starting @ Just ₹315",
     "description": "Ajio | Upto 75% Off on Women Kurta Suit Sets Starting @ Just ₹315 👉 Link : 🛍 + Extra 10% AJIO Super Cash! 🎉",
@@ -9046,425 +9662,5 @@
     "date_obj": "2025-10-19T18:47:09+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CXM7FCHC?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-19T18:47:09+00:00"
-  },
-  {
-    "id": "msg13728",
-    "title": "Boltt Ninja Call Pro Plus Smart Watch 1.83” HD Display @999",
-    "description": "Amazon | Fire-Boltt Ninja Call Pro Plus Smart Watch 1.83” HD Display @999 https://www.amazon.in/dp/B0BF563HB4?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0BF563HB4?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BF563HB4?th=1&tag=bestpricezo0f-21",
-        "label": "Fire-Boltt Ninja Call Pro Plus Smart Watch 1.83” HD Display @999"
-      }
-    ],
-    "raw_text": "Amazon | Fire-Boltt Ninja Call Pro Plus Smart Watch 1.83” HD Display @999\n\nhttps://www.amazon.in/dp/B0BF563HB4?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BF563HB4?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13728.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-19T18:48:12+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BF563HB4?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-19T18:48:12+00:00"
-  },
-  {
-    "id": "msg13729",
-    "title": "HP Wired Keyboard @299",
-    "description": "Amazon | HP Wired Keyboard @299 https://www.amazon.in/dp/B0DXPHG886?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DXPHG886?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DXPHG886?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "HP Wired Keyboard @299"
-      }
-    ],
-    "raw_text": "Amazon | HP Wired Keyboard @299\n\nhttps://www.amazon.in/dp/B0DXPHG886?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DXPHG886?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13729.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-19T18:48:48+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DXPHG886?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-19T18:48:48+00:00"
-  },
-  {
-    "id": "msg13713",
-    "title": "Nike Deo’s (Pack Of 3) @ 299",
-    "description": "Amazon | Nike Deo’s (Pack Of 3) @ 299. 👉https://www.amazon.in/dp/B07S34X3Y7?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07S34X3Y7?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07S34X3Y7?tag=bestpricezo0f-21",
-        "label": "Nike Deo’s (Pack Of 3) @ 299"
-      }
-    ],
-    "raw_text": "Amazon | Nike Deo’s (Pack Of 3) @ 299.\n\n👉https://www.amazon.in/dp/B07S34X3Y7?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07S34X3Y7?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13713.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-19T18:26:05+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07S34X3Y7?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-19T18:26:05+00:00"
-  },
-  {
-    "id": "msg13715",
-    "title": "Apis Mixed Fruit Jam (1Kg) Jar at @149",
-    "description": "Amazon | Apis Mixed Fruit Jam (1Kg) Jar at @149. 👉Link : https://www.amazon.in/dp/B099FS5XGV?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B099FS5XGV?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B099FS5XGV?tag=bestpricezo0f-21",
-        "label": "Apis Mixed Fruit Jam (1Kg) Jar at @149"
-      }
-    ],
-    "raw_text": "Amazon | Apis Mixed Fruit Jam (1Kg) Jar at @149.\n\n👉Link : https://www.amazon.in/dp/B099FS5XGV?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B099FS5XGV?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13715.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-19T18:31:21+00:00",
-    "buy_link": "https://www.amazon.in/dp/B099FS5XGV?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-19T18:31:21+00:00"
-  },
-  {
-    "id": "msg13716",
-    "title": "Wired Earphones with Mic @99",
-    "description": "Amazon | Wired Earphones with Mic @99 https://www.amazon.in/dp/B07T5DKR5D?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07T5DKR5D?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07T5DKR5D?th=1&tag=bestpricezo0f-21",
-        "label": "Wired Earphones with Mic @99"
-      }
-    ],
-    "raw_text": "Amazon | Wired Earphones with Mic @99\n\nhttps://www.amazon.in/dp/B07T5DKR5D?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07T5DKR5D?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13716.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-19T18:36:24+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07T5DKR5D?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-19T18:36:24+00:00"
-  },
-  {
-    "id": "msg13717",
-    "title": "Apply ₹1250 off + ₹2249 off with HDFC Bank Debit Card",
-    "description": "Amazon | Haier 190L 5 Star Direct Cool Single Door Refrigerator @11491 Apply ₹1250 off Coupon + ₹2249 off with HDFC Bank Debit Card - EMI",
-    "shortlink": "https://www.amazon.in/dp/B08KH7VF4Q?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B08KH7VF4Q?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Haier 190L 5 Star Direct Cool Single Door Refrigerator @11491"
-      }
-    ],
-    "raw_text": "Amazon | Haier 190L 5 Star Direct Cool Single Door Refrigerator @11491\n\nhttps://www.amazon.in/dp/B08KH7VF4Q?th=1&psc=1&tag=bestpricezo0f-21\n\nApply ₹1250 off Coupon + ₹2249 off with HDFC Bank Debit Card - EMI",
-    "final_url": "https://www.amazon.in/dp/B08KH7VF4Q?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13717.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-19T18:37:00+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08KH7VF4Q?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-19T18:37:00+00:00"
-  },
-  {
-    "id": "msg13719",
-    "title": "Get ₹10,750 Off on HDFC Credit Card",
-    "description": "Amazon | Samsung | Refrigerator | Digital Inverter, Frost Free, Convertible | 550 L @54,240. Apply ₹3000 Coupon s.",
-    "shortlink": "https://www.amazon.in/dp/B093Q1SLL4?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B093Q1SLL4?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Samsung | Refrigerator | Digital Inverter, Frost Free, Convertible | 550 L @54,240"
-      },
-      {
-        "url": "",
-        "label": "Get ₹10,750 Off on HDFC Credit Cards"
-      }
-    ],
-    "raw_text": "Amazon | Samsung | Refrigerator | Digital Inverter, Frost Free, Convertible | 550 L @54,240.\n\nhttps://www.amazon.in/dp/B093Q1SLL4?th=1&psc=1&tag=bestpricezo0f-21\n\nApply ₹3000 Coupon \nGet ₹10,750 Off on HDFC Credit Cards.",
-    "final_url": "https://www.amazon.in/dp/B093Q1SLL4?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13719.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-19T18:38:32+00:00",
-    "buy_link": "https://www.amazon.in/dp/B093Q1SLL4?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-19T18:38:32+00:00"
-  },
-  {
-    "id": "msg13721",
-    "title": "₹1,250 Off with HDFC Credit Card",
-    "description": "Amazon | GoPro HERO9 Black @21,108 (effective) https://www.amazon.in/dp/B0BCKHCZQW?tag=bestpricezo0f-21 ₹1,250 Off with HDFC Credit Cards",
-    "shortlink": "https://www.amazon.in/dp/B0BCKHCZQW?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BCKHCZQW?tag=bestpricezo0f-21",
-        "label": "GoPro HERO9 Black @21,108 (effective)"
-      },
-      {
-        "url": "",
-        "label": "₹1,250 Off with HDFC Credit Cards"
-      }
-    ],
-    "raw_text": "Amazon | GoPro HERO9 Black @21,108 (effective)\n\nhttps://www.amazon.in/dp/B0BCKHCZQW?tag=bestpricezo0f-21\n\n₹1,250 Off with HDFC Credit Cards",
-    "final_url": "https://www.amazon.in/dp/B0BCKHCZQW?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13721.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-19T18:39:43+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BCKHCZQW?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-19T18:39:43+00:00"
-  },
-  {
-    "id": "msg13722",
-    "title": "Wonderchef Electric Kettle 1.5 Ltr @431",
-    "description": "Amazon | Wonderchef Electric Kettle | 1.5 Ltr @431 https://www.amazon.in/dp/B0DRVZBH4S?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DRVZBH4S?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DRVZBH4S?tag=bestpricezo0f-21",
-        "label": "Wonderchef Electric Kettle | 1.5 Ltr @431"
-      }
-    ],
-    "raw_text": "Amazon | Wonderchef Electric Kettle | 1.5 Ltr @431\n\nhttps://www.amazon.in/dp/B0DRVZBH4S?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DRVZBH4S?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13722.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-19T18:41:32+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DRVZBH4S?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-19T18:41:32+00:00"
-  },
-  {
-    "id": "msg13711",
-    "title": "Up to 85% Off On Clothing",
-    "description": "Ajio Upto 85% Off On Clothing. *Men’s Clothing 👇👇 T-Shirt : Shirt : Jeans : Trouser : SweatShirt : Sweater : Jacket : Kurta : Trackpant : *Women’s Clothing 👇👇 T-Shirt : Tops : Shirt : Dresses : Jeans & Jeggings :…",
-    "shortlink": "https://ajiio.co/HcLsAu",
-    "urls": [
-      {
-        "url": "",
-        "label": "Ajio Upto 85% Off On Clothing"
-      },
-      {
-        "url": "",
-        "label": "Men’s Clothing 👇👇"
-      },
-      {
-        "url": "https://ajiio.co/HcLsAu",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://ajiio.co/P5JU9h",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://ajiio.co/V80gGY",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/2g5LjW",
-        "label": "Trouser"
-      },
-      {
-        "url": "https://ajiio.co/TMxnFZ",
-        "label": "SweatShirt"
-      },
-      {
-        "url": "https://ajiio.co/avcARI",
-        "label": "Sweater"
-      },
-      {
-        "url": "https://ajiio.co/vwK1WQ",
-        "label": "Jacket"
-      },
-      {
-        "url": "https://ajiio.co/AAbboM",
-        "label": "Kurta"
-      },
-      {
-        "url": "https://ajiio.co/OdDWin",
-        "label": "Trackpant"
-      },
-      {
-        "url": "",
-        "label": "Women’s Clothing 👇👇"
-      },
-      {
-        "url": "https://ajiio.co/55YQAt",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://ajiio.co/9O9MSH",
-        "label": "Tops"
-      },
-      {
-        "url": "https://ajiio.co/s4eRe0",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://ajiio.co/AICHku",
-        "label": "Dresses"
-      },
-      {
-        "url": "https://ajiio.co/hzERmb",
-        "label": "Jeans & Jeggings"
-      },
-      {
-        "url": "https://ajiio.co/1SvZsI",
-        "label": "Trouser & Trackpant"
-      },
-      {
-        "url": "https://ajiio.co/7zFt3x",
-        "label": "SweatShirt"
-      },
-      {
-        "url": "https://ajiio.co/ZgPh5v",
-        "label": "Kurta"
-      },
-      {
-        "url": "https://ajiio.co/ES281r",
-        "label": "Kurta Set"
-      },
-      {
-        "url": "https://ajiio.co/nfqbJ7",
-        "label": "Jacket & Shrugs"
-      }
-    ],
-    "raw_text": "Ajio  Upto 85% Off On Clothing.\n\n*Men’s Clothing 👇👇 \n\nT-Shirt : https://ajiio.co/HcLsAu \nShirt : https://ajiio.co/P5JU9h \nJeans : https://ajiio.co/V80gGY \nTrouser : https://ajiio.co/2g5LjW \nSweatShirt : https://ajiio.co/TMxnFZ \nSweater : https://ajiio.co/avcARI \nJacket : https://ajiio.co/vwK1WQ \nKurta : https://ajiio.co/AAbboM \nTrackpant : https://ajiio.co/OdDWin \n\n*Women’s Clothing 👇👇\n\nT-Shirt : https://ajiio.co/55YQAt\nTops : https://ajiio.co/9O9MSH\nShirt : https://ajiio.co/s4eRe0\nDresses : https://ajiio.co/AICHku\nJeans & Jeggings : https://ajiio.co/hzERmb\nTrouser & Trackpant : https://ajiio.co/1SvZsI\nSweatShirt : https://ajiio.co/7zFt3x\nKurta : https://ajiio.co/ZgPh5v\nKurta Set : https://ajiio.co/ES281r\nJacket & Shrugs : https://ajiio.co/nfqbJ7",
-    "final_url": "https://ajiio.co/HcLsAu",
-    "local_image": "assets/images/tgmsg_13711.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-19T17:56:27+00:00",
-    "buy_link": "https://ajiio.co/HcLsAu",
-    "date_iso": "2025-10-19T17:56:27+00:00"
-  },
-  {
-    "id": "msg13712",
-    "title": "Up to 70% Off On Crocs 💥💥",
-    "description": "Ajio | Upto 70% Off On Crocs  💥💥 👉Link : https://ajiio.co/W71lhb",
-    "shortlink": "https://ajiio.co/W71lhb",
-    "urls": [
-      {
-        "url": "https://ajiio.co/W71lhb",
-        "label": "Upto 70% Off On Crocs 💥💥"
-      }
-    ],
-    "raw_text": "Ajio | Upto 70% Off On Crocs  💥💥\n\n👉Link : https://ajiio.co/W71lhb",
-    "final_url": "https://ajiio.co/W71lhb",
-    "local_image": "assets/images/tgmsg_13712.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-19T18:11:06+00:00",
-    "buy_link": "https://ajiio.co/W71lhb",
-    "date_iso": "2025-10-19T18:11:06+00:00"
-  },
-  {
-    "id": "msg13710",
-    "title": "ASUS Vivobook Go 14, AMD Ryzen 3 7320U, 8GB RAM, 512GB SSD, FHD 14\", Windows 11, Office Home 2024, Mixed Black, 1.38 kg, E1404FA",
-    "description": "Amazon | -NK3325WS, AMD Radeon iGPU, M365 Basic (1Year)*, Thin & Light Laptop ✅ Deal Price: ₹ 28,990/- 😱 ❌ Regular Price: ₹ 43,990/- 🙅 🛒Shop Now:",
-    "shortlink": "https://www.amazon.in/dp/B0DTYNRVRX?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "ASUS Vivobook Go 14, AMD Ryzen 3 7320U, 8GB RAM, 512GB SSD, FHD 14\", Windows 11, Office Home 2024, Mixed Black, 1.38 kg, E1404FA-NK3325WS, AMD Radeon iGPU, M365 Basic (1Year)*, Thin & Light Laptop"
-      },
-      {
-        "url": "",
-        "label": "✅ Deal Price: ₹ 28,990/- 😱"
-      },
-      {
-        "url": "",
-        "label": "❌ Regular Price: ₹ 43,990/- 🙅"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0DTYNRVRX?th=1&tag=bestpricezo0f-21",
-        "label": "🛒Shop Now"
-      }
-    ],
-    "raw_text": "Amazon | ASUS Vivobook Go 14, AMD Ryzen 3 7320U, 8GB RAM, 512GB SSD, FHD 14\", Windows 11, Office Home 2024, Mixed Black, 1.38 kg, E1404FA-NK3325WS, AMD Radeon iGPU, M365 Basic (1Year)*, Thin & Light Laptop\n\n✅ Deal Price: ₹ 28,990/- 😱\n\n❌ Regular Price: ₹ 43,990/- 🙅\n\n🛒Shop Now:\nhttps://www.amazon.in/dp/B0DTYNRVRX?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DTYNRVRX?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13710.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-19T17:41:38+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DTYNRVRX?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-19T17:41:38+00:00"
-  },
-  {
-    "id": "msg13708",
-    "title": "88% ACEPACK Backpack 20L @ 308",
-    "description": "Amazon | 88% : ACEPACK Backpack 20L  @ 308 https://www.amazon.in/dp/B0DY1RMMWP?smid=AXOGFIT0PZZ7G&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DY1RMMWP?smid=AXOGFIT0PZZ7G&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DY1RMMWP?smid=AXOGFIT0PZZ7G&psc=1&tag=bestpricezo0f-21",
-        "label": "88% : ACEPACK Backpack 20L @ 308"
-      }
-    ],
-    "raw_text": "Amazon | 88% : ACEPACK Backpack 20L  @ 308\n\n https://www.amazon.in/dp/B0DY1RMMWP?smid=AXOGFIT0PZZ7G&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DY1RMMWP?smid=AXOGFIT0PZZ7G&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13708.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-19T17:26:31+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DY1RMMWP?smid=AXOGFIT0PZZ7G&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-19T17:26:31+00:00"
-  },
-  {
-    "id": "msg13706",
-    "title": "💥Men's Shirt Starts @169",
-    "description": "💥Ajio | Men's Shirt Starts @169 https://ajiio.co/j15Soz",
-    "shortlink": "https://ajiio.co/j15Soz",
-    "urls": [
-      {
-        "url": "https://ajiio.co/j15Soz",
-        "label": "💥Ajio | Men's Shirt Starts @169"
-      }
-    ],
-    "raw_text": "💥Ajio | Men's Shirt Starts @169\n\nhttps://ajiio.co/j15Soz",
-    "final_url": "https://ajiio.co/j15Soz",
-    "local_image": "assets/images/tgmsg_13706.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-19T16:56:43+00:00",
-    "buy_link": "https://ajiio.co/j15Soz",
-    "date_iso": "2025-10-19T16:56:43+00:00"
-  },
-  {
-    "id": "msg13704",
-    "title": "Up to 60% Off On Lakme Beauty Product",
-    "description": "Amazon | Upto 60% Off On Lakme Beauty Products. Ponds: Biotique: Fiama Bodywash : Dettol Bodywash :",
-    "shortlink": "https://www.amazon.in/s?k=lakme&rh=n%3A1355016031%2Cp_123%3A456549%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A45-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?k=lakme&rh=n%3A1355016031%2Cp_123%3A456549%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A45-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-        "label": "Upto 60% Off On Lakme Beauty Products"
-      },
-      {
-        "url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_89%3APOND%27S%2Cp_85%3A10440599031%2Cp_n_pct-off-with-tax%3A2665402031&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
-        "label": "Ponds"
-      },
-      {
-        "url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_6%3AA15APWRK6P7LBV%2Cp_72%3A1318476031%2Cp_89%3ABiotique%2Cp_n_pct-off-with-tax%3A45-&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
-        "label": "Biotique"
-      },
-      {
-        "url": "https://www.amazon.in/s?k=fiama&rh=n%3A1355016031%2Cp_123%3A796926%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-        "label": "Fiama Bodywash"
-      },
-      {
-        "url": "https://www.amazon.in/s?k=Dettol%20Body%20Wash&rh=n%3A1355016031%2Cp_123%3A254825%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A50-&i=beauty&tag=bestpricezo0f-21",
-        "label": "Dettol Bodywash"
-      }
-    ],
-    "raw_text": "Amazon | Upto 60% Off On Lakme Beauty Products.\n\nhttps://www.amazon.in/s?k=lakme&rh=n%3A1355016031%2Cp_123%3A456549%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A45-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21\n\nPonds: https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_89%3APOND%27S%2Cp_85%3A10440599031%2Cp_n_pct-off-with-tax%3A2665402031&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21\nBiotique: https://www.amazon.in/s?rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_6%3AA15APWRK6P7LBV%2Cp_72%3A1318476031%2Cp_89%3ABiotique%2Cp_n_pct-off-with-tax%3A45-&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21\nFiama Bodywash : https://www.amazon.in/s?k=fiama&rh=n%3A1355016031%2Cp_123%3A796926%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21\nDettol Bodywash : https://www.amazon.in/s?k=Dettol%20Body%20Wash&rh=n%3A1355016031%2Cp_123%3A254825%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A50-&i=beauty&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/s?k=lakme&rh=n%3A1355016031%2Cp_123%3A456549%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A45-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13704.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-19T16:42:29+00:00",
-    "buy_link": "https://www.amazon.in/s?k=lakme&rh=n%3A1355016031%2Cp_123%3A456549%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A45-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-19T16:42:29+00:00"
   }
 ]
