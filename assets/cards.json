@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14226",
+    "title": "Shirt Starts @150",
+    "description": "Ajio : Lee Cooper T-Shirt Starts @150. 👉https://ajiio.co/S8s9gT",
+    "shortlink": "https://ajiio.co/S8s9gT",
+    "urls": [
+      {
+        "url": "https://ajiio.co/S8s9gT",
+        "label": "Lee Cooper T-Shirt Starts @150"
+      }
+    ],
+    "raw_text": "Ajio : Lee Cooper T-Shirt Starts @150. \n\n👉https://ajiio.co/S8s9gT",
+    "final_url": "https://ajiio.co/S8s9gT",
+    "local_image": "assets/images/tgmsg_14226.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-24T07:34:56+00:00",
+    "buy_link": "https://ajiio.co/S8s9gT",
+    "date_iso": "2025-10-24T07:34:56+00:00"
+  },
+  {
     "id": "msg14222",
     "title": "💥Up to 81% Off On Women's Premium Belts Starting From Rs. 152",
     "description": "💥AJIO | Upto 81% Off On Women's Premium Belts Starting From Rs. 152 👉Link : https://ajiio.co/lwcgdO",
@@ -10102,45 +10122,5 @@
     "date_obj": "2025-10-20T13:36:21+00:00",
     "buy_link": "https://ajiio.co/BzWK7X",
     "date_iso": "2025-10-20T13:36:21+00:00"
-  },
-  {
-    "id": "msg13783",
-    "title": "Levis Min 60% Extra 10%",
-    "description": "Ajio Sale is Live !!! AX Min 40%: Superdry Min 50%: Tommy Hilfiger Calvin Klein Min 40%: USPA Min 55% Extra 10%: :",
-    "shortlink": "https://ajiio.co/6oLjGH",
-    "urls": [
-      {
-        "url": "",
-        "label": "Ajio Sale is Live !!!"
-      },
-      {
-        "url": "https://ajiio.co/6oLjGH",
-        "label": "AX Min 40%"
-      },
-      {
-        "url": "https://ajiio.co/fnV98r",
-        "label": "Superdry Min 50%"
-      },
-      {
-        "url": "https://ajiio.co/V1j68c",
-        "label": "Tommy Hilfiger Calvin Klein Min 40%"
-      },
-      {
-        "url": "https://ajiio.co/6QqgwF",
-        "label": "USPA Min 55% Extra 10%"
-      },
-      {
-        "url": "https://ajiio.co/HIXrFJ",
-        "label": "Levis Min 60% Extra 10%"
-      }
-    ],
-    "raw_text": "Ajio Sale is Live !!!\nAX Min 40%: \nhttps://ajiio.co/6oLjGH\n\nSuperdry Min 50%: \nhttps://ajiio.co/fnV98r\n\nTommy Hilfiger Calvin Klein Min 40%: \nhttps://ajiio.co/V1j68c\n\nUSPA Min 55% Extra 10%: \nhttps://ajiio.co/6QqgwF\n\nLevis Min 60% Extra 10%: \nhttps://ajiio.co/HIXrFJ",
-    "final_url": "https://ajiio.co/6oLjGH",
-    "local_image": "assets/images/tgmsg_13783.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-20T12:21:38+00:00",
-    "buy_link": "https://ajiio.co/6oLjGH",
-    "date_iso": "2025-10-20T12:21:38+00:00"
   }
 ]
