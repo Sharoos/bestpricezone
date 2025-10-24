@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14277",
+    "title": "Min. 50% Off On Wild Stone Product",
+    "description": "Amazon | Min. 50% Off On Wild Stone Products.…",
+    "shortlink": "https://www.amazon.in/s?k=Wild%20Stone&i=beauty&rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_123%3A264380%25257C2692206%2Cp_n_pct-off-with-tax%3A48-&s=price-asc-rank&dc=&crid=2K7026SC9TODV&qid=1753781907&sprefix=wild%20stone%2Cbeauty%2C251&ds=v1%3AJUQ%252Bin4%252Bdp9IC9a7lK7i05Mr%2F89Ioq2Xf0JBgfNQj8g&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/s?k=Wild%20Stone&i=beauty&rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_123%3A264380%25257C2692206%2Cp_n_pct-off-with-tax%3A48-&s=price-asc-rank&dc=&crid=2K7026SC9TODV&qid=1753781907&sprefix=wild%20stone%2Cbeauty%2C251&ds=v1%3AJUQ%252Bin4%252Bdp9IC9a7lK7i05Mr%2F89Ioq2Xf0JBgfNQj8g&tag=bestpricezo0f-21",
+        "label": "Min. 50% Off On Wild Stone Products"
+      }
+    ],
+    "raw_text": "Amazon | Min. 50% Off On Wild Stone Products.\n\nhttps://www.amazon.in/s?k=Wild%20Stone&i=beauty&rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_123%3A264380%25257C2692206%2Cp_n_pct-off-with-tax%3A48-&s=price-asc-rank&dc=&crid=2K7026SC9TODV&qid=1753781907&sprefix=wild%20stone%2Cbeauty%2C251&ds=v1%3AJUQ%252Bin4%252Bdp9IC9a7lK7i05Mr%2F89Ioq2Xf0JBgfNQj8g&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?k=Wild%20Stone&i=beauty&rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_123%3A264380%25257C2692206%2Cp_n_pct-off-with-tax%3A48-&s=price-asc-rank&dc=&crid=2K7026SC9TODV&qid=1753781907&sprefix=wild%20stone%2Cbeauty%2C251&ds=v1%3AJUQ%252Bin4%252Bdp9IC9a7lK7i05Mr%2F89Ioq2Xf0JBgfNQj8g&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14277.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-24T15:03:32+00:00",
+    "buy_link": "https://www.amazon.in/s?k=Wild%20Stone&i=beauty&rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_123%3A264380%25257C2692206%2Cp_n_pct-off-with-tax%3A48-&s=price-asc-rank&dc=&crid=2K7026SC9TODV&qid=1753781907&sprefix=wild%20stone%2Cbeauty%2C251&ds=v1%3AJUQ%252Bin4%252Bdp9IC9a7lK7i05Mr%2F89Ioq2Xf0JBgfNQj8g&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-24T15:03:32+00:00"
+  },
+  {
     "id": "msg14275",
     "title": "Topwear Clothing Under ₹199",
     "description": "Ajio | Topwear Clothing Under ₹199 Men's : https://ajiio.co/aUV7fd Women's : https://ajiio.co/i6b5gZ Boys : https://ajiio.co/3iFLzG Girls : https://ajiio.co/P3Fg3e Baby : https://ajiio.co/fDa1LV",
@@ -10106,29 +10126,5 @@
     "date_obj": "2025-10-21T05:39:57+00:00",
     "buy_link": "https://extp.in/U3MYMm",
     "date_iso": "2025-10-21T05:39:57+00:00"
-  },
-  {
-    "id": "msg13836",
-    "title": "Up to 78% Off On Puma",
-    "description": "AJIO : Upto 78% Off On Puma. https://ajiio.co/bNxJK7 https://ajiio.co/lgkUBf",
-    "shortlink": "https://ajiio.co/bNxJK7",
-    "urls": [
-      {
-        "url": "https://ajiio.co/bNxJK7",
-        "label": "Upto 78% Off On Puma"
-      },
-      {
-        "url": "https://ajiio.co/lgkUBf",
-        "label": ""
-      }
-    ],
-    "raw_text": "AJIO : Upto 78% Off On Puma.\n\nhttps://ajiio.co/bNxJK7\nhttps://ajiio.co/lgkUBf",
-    "final_url": "https://ajiio.co/bNxJK7",
-    "local_image": "assets/images/tgmsg_13836.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-21T05:01:39+00:00",
-    "buy_link": "https://ajiio.co/bNxJK7",
-    "date_iso": "2025-10-21T05:01:39+00:00"
   }
 ]
