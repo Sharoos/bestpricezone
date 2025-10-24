@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg14280",
+    "title": "🛒 Deal Price Up to 89% Off",
+    "description": "Amazon | ⏱️ Wall Clock Deals - Up to 80% Off! Premium Wall Clocks 🛒 Deal Price: Up to 89% Off 👉",
+    "shortlink": "https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "⏱️ Wall Clock Deals - Up to 80% Off!"
+      },
+      {
+        "url": "",
+        "label": "Premium Wall Clocks"
+      },
+      {
+        "url": "https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: Up to 89% Off"
+      }
+    ],
+    "raw_text": "Amazon | ⏱️ Wall Clock Deals - Up to 80% Off!\n\nPremium Wall Clocks\n\n🛒 Deal Price: Up to 89% Off\n\n👉https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14280.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-24T15:17:12+00:00",
+    "buy_link": "https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-24T15:17:12+00:00"
+  },
+  {
     "id": "msg14277",
     "title": "Min. 50% Off On Wild Stone Product",
     "description": "Amazon | Min. 50% Off On Wild Stone Products.…",
@@ -10054,77 +10082,5 @@
     "date_obj": "2025-10-21T05:32:31+00:00",
     "buy_link": "https://www.amazon.in/dp/B08TGSRW1S?tag=bestpricezo0f-21",
     "date_iso": "2025-10-21T05:32:31+00:00"
-  },
-  {
-    "id": "msg13841",
-    "title": "0% Forex Markup on International Spend",
-    "description": "Apply for the Lifetime FREE Scapia Federal Credit Card & Get Unlimited Airport Lounge Access🔥🔥 🔗 Apply Now: 🤜 Why Apply? • Lifetime FREE – No Joining/Annual Fee • s • Dual Network: VISA + RuPay • Instant Virtual Card 🤜…",
-    "shortlink": "https://extp.in/U3MYMm",
-    "urls": [
-      {
-        "url": "",
-        "label": "Apply for the Lifetime FREE Scapia Federal Credit Card & Get Unlimited Airport Lounge Access🔥🔥"
-      },
-      {
-        "url": "https://extp.in/U3MYMm",
-        "label": "🔗 Apply Now"
-      },
-      {
-        "url": "",
-        "label": "🤜 Why Apply?"
-      },
-      {
-        "url": "",
-        "label": "Lifetime FREE – No Joining/Annual Fee"
-      },
-      {
-        "url": "",
-        "label": "0% Forex Markup on International Spends"
-      },
-      {
-        "url": "",
-        "label": "VISA + RuPay"
-      },
-      {
-        "url": "",
-        "label": "Instant Virtual Card"
-      },
-      {
-        "url": "",
-        "label": "🤜 Top Benefits"
-      },
-      {
-        "url": "",
-        "label": "4% back on Flights/Hotels via Scapia"
-      },
-      {
-        "url": "",
-        "label": "2% back on Daily Spends"
-      },
-      {
-        "url": "",
-        "label": "1% back on ₹500+ UPI via RuPay"
-      },
-      {
-        "url": "",
-        "label": "Unlimited Lounge Access on ₹10K monthly spend"
-      },
-      {
-        "url": "",
-        "label": "Even existing Federal Bank cardholders are getting approved"
-      },
-      {
-        "url": "",
-        "label": "✅✅ Perfect for Lounge Access + Zero Forex Fees"
-      }
-    ],
-    "raw_text": "Apply for the Lifetime FREE Scapia Federal Credit Card & Get Unlimited Airport Lounge Access🔥🔥\n\n🔗 Apply Now: https://extp.in/U3MYMm\n\n🤜 Why Apply?\n• Lifetime FREE – No Joining/Annual Fee\n• 0% Forex Markup on International Spends\n• Dual Network: VISA + RuPay\n• Instant Virtual Card\n\n🤜 Top Benefits\n• 4% back on Flights/Hotels via Scapia\n• 2% back on Daily Spends\n• 1% back on ₹500+ UPI via RuPay\n• Unlimited Lounge Access on ₹10K monthly spend\n• Even existing Federal Bank cardholders are getting approved\n\n✅✅ Perfect for Lounge Access + Zero Forex Fees",
-    "final_url": "https://extp.in/U3MYMm",
-    "local_image": "assets/images/tgmsg_13841.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-10-21T05:39:57+00:00",
-    "buy_link": "https://extp.in/U3MYMm",
-    "date_iso": "2025-10-21T05:39:57+00:00"
   }
 ]
