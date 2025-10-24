@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg14201",
+    "title": "Up to 80% Off John Players Clothing",
+    "description": "AJIO : Upto 80% Off : John Players Clothing Jeans – Shirts – T-Shirts – Trousers – Sweatshirts – Sweaters – Jackets – Waistcoats & Blazers –",
+    "shortlink": "https://ajiio.co/7tmB35",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off : John Players Clothing"
+      },
+      {
+        "url": "https://ajiio.co/7tmB35",
+        "label": "Jeans –"
+      },
+      {
+        "url": "https://ajiio.co/NKqn3f",
+        "label": "Shirts –"
+      },
+      {
+        "url": "https://ajiio.co/gdKqPD",
+        "label": "T-Shirts –"
+      },
+      {
+        "url": "https://ajiio.co/GMwule",
+        "label": "Trousers –"
+      },
+      {
+        "url": "https://ajiio.co/4IBxFn",
+        "label": "Sweatshirts –"
+      },
+      {
+        "url": "https://ajiio.co/JLOUmk",
+        "label": "Sweaters –"
+      },
+      {
+        "url": "https://ajiio.co/vrdNl3",
+        "label": "Jackets –"
+      },
+      {
+        "url": "https://ajiio.co/Fl4BPE",
+        "label": "Waistcoats & Blazers –"
+      }
+    ],
+    "raw_text": "AJIO : Upto 80% Off : John Players Clothing \n\nJeans – https://ajiio.co/7tmB35\nShirts – https://ajiio.co/NKqn3f\nT-Shirts – https://ajiio.co/gdKqPD\nTrousers – https://ajiio.co/GMwule\nSweatshirts – https://ajiio.co/4IBxFn\nSweaters – https://ajiio.co/JLOUmk\nJackets – https://ajiio.co/vrdNl3\nWaistcoats & Blazers – https://ajiio.co/Fl4BPE",
+    "final_url": "https://ajiio.co/7tmB35",
+    "local_image": "assets/images/tgmsg_14201.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-24T04:46:01+00:00",
+    "buy_link": "https://ajiio.co/7tmB35",
+    "date_iso": "2025-10-24T04:46:01+00:00"
+  },
+  {
     "id": "msg14199",
     "title": "+ 10% SUPERCASH",
     "description": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 102🔥 🔗🔗Link : + 10% AJIO SUPERCASH",
@@ -9882,29 +9934,5 @@
     "date_obj": "2025-10-20T06:51:47+00:00",
     "buy_link": "https://www.amazon.in/s?i=fashion&srs=206851554031&rh=n%3A206851554031&s=price-asc-rank&fs=true&qid=1752066854&ds=v1%3AunD3EbtLn0M3Fs9U7UPAw4bm1dtbPIcGQghVYJy%2BldU&tag=bestpricezo0f-21",
     "date_iso": "2025-10-20T06:51:47+00:00"
-  },
-  {
-    "id": "msg13757",
-    "title": "Flat ₹2000 Off Using Axis Bank Credit Card",
-    "description": "Amazon | Voltas 1.4 Ton 3 Star, Split AC @27990. https://www.amazon.in/dp/B0D5BN76MK?tag=bestpricezo0f-21 Flat ₹2000 Off Using Axis Bank Credit Card.",
-    "shortlink": "https://www.amazon.in/dp/B0D5BN76MK?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0D5BN76MK?tag=bestpricezo0f-21",
-        "label": "Voltas 1.4 Ton 3 Star, Split AC @27990"
-      },
-      {
-        "url": "",
-        "label": "Flat ₹2000 Off Using Axis Bank Credit Card"
-      }
-    ],
-    "raw_text": "Amazon | Voltas 1.4 Ton 3 Star, Split AC @27990.\n\nhttps://www.amazon.in/dp/B0D5BN76MK?tag=bestpricezo0f-21\n\nFlat ₹2000 Off Using Axis Bank Credit Card.",
-    "final_url": "https://www.amazon.in/dp/B0D5BN76MK?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13757.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-20T06:07:06+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D5BN76MK?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-20T06:07:06+00:00"
   }
 ]
