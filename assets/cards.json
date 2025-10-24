@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg14207",
+    "title": "Flat 75% Off on GAP Clothing (Premium Brand)",
+    "description": "AJIO Loot : Flat 75% Off on GAP Clothing (Premium Brand) Apply Coupon : LIMITED75 Men : https://ajiio.in/3SA9UVq Women : https://ajiio.in/7VlfQwl Boys : https://ajiio.in/DetPhgt Girls : https://ajiio.in/d038Nue Infants…",
+    "shortlink": "https://ajiio.in/3SA9UVq",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flat 75% Off on GAP Clothing (Premium Brand)"
+      },
+      {
+        "url": "https://ajiio.in/3SA9UVq",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.in/7VlfQwl",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.in/DetPhgt",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.in/d038Nue",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.in/XPZzz6L",
+        "label": "Infants"
+      }
+    ],
+    "raw_text": "AJIO Loot : Flat 75% Off on GAP Clothing (Premium Brand)\n\nApply Coupon : LIMITED75\n\nMen : https://ajiio.in/3SA9UVq\nWomen : https://ajiio.in/7VlfQwl\nBoys : https://ajiio.in/DetPhgt\nGirls : https://ajiio.in/d038Nue\nInfants : https://ajiio.in/XPZzz6L",
+    "final_url": "https://ajiio.in/3SA9UVq",
+    "local_image": "assets/images/tgmsg_14207.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-24T05:40:06+00:00",
+    "buy_link": "https://ajiio.in/3SA9UVq",
+    "date_iso": "2025-10-24T05:40:06+00:00"
+  },
+  {
     "id": "msg14205",
     "title": "🛒 Discount Up to 80% Off",
     "description": "👕 Ajio | Buda Jeans Co Clothing - Up to 80% Off! 👖 T-Shirts 🛒 Discount: Up to 80% Off 👔 Trousers 🛒 Discount: Up to 80% Off 👕 Shirts 🛒 Discount: Up to 80% Off 👖 Jeans 🛒 Discount: Up to 80% Off 🧥 Sweatshirts & Sweaters 🛒…",
@@ -10042,25 +10082,5 @@
     "date_obj": "2025-10-20T09:16:00+00:00",
     "buy_link": "https://www.amazon.in/s?k=Karachi%2520Bakery&i=grocery&rh=n%253A2454178031%252Cp_123%253A691779%252Cp_6%253AARENK22K2PQRH%252Cp_n_pct-off-with-tax%253A2665400031&s=price-asc-rank&dc=&ds=v1%253AzqRqBu2yEs6xcMZfb2ERxD3sOLaW4P%252BtiHY1qQRsMOE&crid=257QQDYZCIKCT&qid=1731262310&sprefix=karachi%2520bakery%252Cgrocery%252C233&tag=bestpricezo0f-21",
     "date_iso": "2025-10-20T09:16:00+00:00"
-  },
-  {
-    "id": "msg13766",
-    "title": "Meesho kurta set @173",
-    "description": "Meesho  | kurta set @173 👉https://msho.in/udeVly",
-    "shortlink": "https://msho.in/udeVly",
-    "urls": [
-      {
-        "url": "https://msho.in/udeVly",
-        "label": "kurta set @173"
-      }
-    ],
-    "raw_text": "Meesho  | kurta set @173\n\n👉https://msho.in/udeVly",
-    "final_url": "https://msho.in/udeVly",
-    "local_image": "assets/images/tgmsg_13766.jpg",
-    "source_host": "msho.in",
-    "merchant_label": "Msho",
-    "date_obj": "2025-10-20T08:46:02+00:00",
-    "buy_link": "https://msho.in/udeVly",
-    "date_iso": "2025-10-20T08:46:02+00:00"
   }
 ]
