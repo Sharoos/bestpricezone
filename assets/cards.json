@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg14286",
+    "title": "Shirts Starts @299",
+    "description": "Ajio : U.S Polo Assn. T-Shirts Starts @299. Men's : https://ajiio.co/6VJU8L Women's : https://ajiio.co/4jM210 Boys : https://ajiio.co/kM2f7f Girls : https://ajiio.co/PObokf",
+    "shortlink": "https://ajiio.co/6VJU8L",
+    "urls": [
+      {
+        "url": "",
+        "label": "U.S Polo Assn. T-Shirts Starts @299"
+      },
+      {
+        "url": "https://ajiio.co/6VJU8L",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/4jM210",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/kM2f7f",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/PObokf",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "Ajio : U.S Polo Assn. T-Shirts Starts @299.\n\nMen's : https://ajiio.co/6VJU8L\nWomen's : https://ajiio.co/4jM210\nBoys : https://ajiio.co/kM2f7f\nGirls : https://ajiio.co/PObokf",
+    "final_url": "https://ajiio.co/6VJU8L",
+    "local_image": "assets/images/tgmsg_14286.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-24T16:33:54+00:00",
+    "buy_link": "https://ajiio.co/6VJU8L",
+    "date_iso": "2025-10-24T16:33:54+00:00"
+  },
+  {
     "id": "msg14284",
     "title": "Up to 80% Off John Players Clothing",
     "description": "AJIO : Upto 80% Off : John Players Clothing Jeans – Shirts – T-Shirts – Trousers – Sweatshirts – Sweaters – Jackets – Waistcoats & Blazers –",
@@ -10074,41 +10110,5 @@
     "date_obj": "2025-10-21T06:33:19+00:00",
     "buy_link": "https://ajiio.co/QKfoIE",
     "date_iso": "2025-10-21T06:33:19+00:00"
-  },
-  {
-    "id": "msg13846",
-    "title": "🌟Up to 75% Off On John Players Brand Clothing🔥🔥",
-    "description": "🌟AJIO : Upto 75% Off On John Players Brand Clothing🔥🔥 T-Shirts : Jeans : Shirts : + 10% EXTRA AJIO CASH🎉🎉",
-    "shortlink": "https://ajiio.co/vJYvMh",
-    "urls": [
-      {
-        "url": "",
-        "label": "🌟AJIO : Upto 75% Off On John Players Brand Clothing🔥🔥"
-      },
-      {
-        "url": "https://ajiio.co/vJYvMh",
-        "label": "T-Shirts"
-      },
-      {
-        "url": "https://ajiio.co/fN07SS",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/le2ktX",
-        "label": "Shirts"
-      },
-      {
-        "url": "",
-        "label": "+ 10% EXTRA AJIO CASH🎉🎉"
-      }
-    ],
-    "raw_text": "🌟AJIO : Upto 75% Off On John Players Brand Clothing🔥🔥\n \nT-Shirts : https://ajiio.co/vJYvMh \nJeans : https://ajiio.co/fN07SS \nShirts : https://ajiio.co/le2ktX\n\n+ 10% EXTRA AJIO CASH🎉🎉",
-    "final_url": "https://ajiio.co/vJYvMh",
-    "local_image": "assets/images/tgmsg_13846.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-21T06:46:25+00:00",
-    "buy_link": "https://ajiio.co/vJYvMh",
-    "date_iso": "2025-10-21T06:46:25+00:00"
   }
 ]
