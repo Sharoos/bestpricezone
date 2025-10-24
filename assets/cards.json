@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14263",
+    "title": "Wooden Money Piggy Bank At 129",
+    "description": "Wooden Money Piggy Bank At 129. https://www.amazon.in/dp/B0FDWRSC7P?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FDWRSC7P?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FDWRSC7P?tag=bestpricezo0f-21",
+        "label": "Wooden Money Piggy Bank At 129"
+      }
+    ],
+    "raw_text": "Wooden Money Piggy Bank At 129.\n\nhttps://www.amazon.in/dp/B0FDWRSC7P?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FDWRSC7P?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14263.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-24T13:22:58+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FDWRSC7P?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-24T13:22:58+00:00"
+  },
+  {
     "id": "msg14261",
     "title": "Flat ₹400 Off on ₹2790+ Cart Value!",
     "description": "AJIO :  Huge Footwear & Clothing Range – Cash on Delivery, Easy Returns & Exchange Available. Shop here → Use Code : FLASHSALE",
@@ -10078,25 +10098,5 @@
     "date_obj": "2025-10-21T04:02:27+00:00",
     "buy_link": "https://ajiio.co/Yo8RjG",
     "date_iso": "2025-10-21T04:02:27+00:00"
-  },
-  {
-    "id": "msg13830",
-    "title": "💥Men's Shirt Starts @150",
-    "description": "💥Ajio | Men's Shirt Starts @150 https://ajiio.co/hp911A",
-    "shortlink": "https://ajiio.co/hp911A",
-    "urls": [
-      {
-        "url": "https://ajiio.co/hp911A",
-        "label": "💥Ajio | Men's Shirt Starts @150"
-      }
-    ],
-    "raw_text": "💥Ajio | Men's Shirt Starts @150\n\nhttps://ajiio.co/hp911A",
-    "final_url": "https://ajiio.co/hp911A",
-    "local_image": "assets/images/tgmsg_13830.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-21T03:34:11+00:00",
-    "buy_link": "https://ajiio.co/hp911A",
-    "date_iso": "2025-10-21T03:34:11+00:00"
   }
 ]
