@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg14250",
+    "title": "🧴 Brightening Boost Face Wash Deal!",
+    "description": "Amazon | 🧴 Brightening Boost Face Wash Deal! Chemist at Play Brightening Boost Face Wash 100 ml 🛒 Deal Price: ₹199 https://www.amazon.in/dp/B0CCDR6Q7K/ref=cm_sw_r_as_gl_apa_gl_i_8TT0Q3M3B1WTJR168FY5?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CCDR6Q7K/ref=cm_sw_r_as_gl_apa_gl_i_8TT0Q3M3B1WTJR168FY5?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧴 Brightening Boost Face Wash Deal!"
+      },
+      {
+        "url": "",
+        "label": "Chemist at Play Brightening Boost Face Wash 100 ml"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0CCDR6Q7K/ref=cm_sw_r_as_gl_apa_gl_i_8TT0Q3M3B1WTJR168FY5?tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹199"
+      }
+    ],
+    "raw_text": "Amazon | 🧴 Brightening Boost Face Wash Deal!\n\nChemist at Play Brightening Boost Face Wash 100 ml\n\n🛒 Deal Price: ₹199\n\nhttps://www.amazon.in/dp/B0CCDR6Q7K/ref=cm_sw_r_as_gl_apa_gl_i_8TT0Q3M3B1WTJR168FY5?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CCDR6Q7K/ref=cm_sw_r_as_gl_apa_gl_i_8TT0Q3M3B1WTJR168FY5?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14250.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-24T11:07:03+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CCDR6Q7K/ref=cm_sw_r_as_gl_apa_gl_i_8TT0Q3M3B1WTJR168FY5?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-24T11:07:03+00:00"
+  },
+  {
     "id": "msg14245",
     "title": "Up to 80% Off On Raymond, Park Avenue & Parx Clothing",
     "description": "Ajio Upto 80% Off On Raymond, Park Avenue & Parx Clothing. Shirt : Trousers : T-shirt : Jeans : Womens :",
@@ -10098,29 +10126,5 @@
     "date_obj": "2025-10-20T18:41:18+00:00",
     "buy_link": "https://www.amazon.in/dp/B088FKDVL2?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-20T18:41:18+00:00"
-  },
-  {
-    "id": "msg13816",
-    "title": "Lifebuoy Bodywash, 300ml @98",
-    "description": "Amazon | Lifebuoy Bodywash, 300ml @98. Buy Max Qnty : https://www.amazon.in/dp/B0D3D7QZFJ?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D3D7QZFJ?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Lifebuoy Bodywash, 300ml @98"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0D3D7QZFJ?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Max Qnty"
-      }
-    ],
-    "raw_text": "Amazon | Lifebuoy Bodywash, 300ml @98.\n\nBuy Max Qnty : https://www.amazon.in/dp/B0D3D7QZFJ?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D3D7QZFJ?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13816.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-20T18:42:48+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D3D7QZFJ?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-20T18:42:48+00:00"
   }
 ]
