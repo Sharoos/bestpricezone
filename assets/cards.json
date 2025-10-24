@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg14290",
+    "title": "Up to 75% Off on Buda Jeans Mens Clothing",
+    "description": "Ajio : Upto 75% Off on Buda Jeans Mens Clothing. T-Shirt : Shirt : Jeans : Trackpant : Shorts : Earn Extra 10% AJIO SUPERCASH",
+    "shortlink": "https://ajiio.co/RLp4N5",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off on Buda Jeans Mens Clothing"
+      },
+      {
+        "url": "https://ajiio.co/RLp4N5",
+        "label": "T-Shirt"
+      },
+      {
+        "url": "https://ajiio.co/yV9zbl",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://ajiio.co/hpuC0Y",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/56BlK8",
+        "label": "Trackpant"
+      },
+      {
+        "url": "https://ajiio.co/5U8X3D",
+        "label": "Shorts"
+      },
+      {
+        "url": "",
+        "label": "Earn Extra 10% AJIO SUPERCASH"
+      }
+    ],
+    "raw_text": "Ajio : Upto 75% Off on Buda Jeans Mens Clothing.\n\nT-Shirt :   https://ajiio.co/RLp4N5\nShirt :   https://ajiio.co/yV9zbl\nJeans :   https://ajiio.co/hpuC0Y\nTrackpant :   https://ajiio.co/56BlK8\nShorts :   https://ajiio.co/5U8X3D\n\n Earn Extra 10% AJIO SUPERCASH",
+    "final_url": "https://ajiio.co/RLp4N5",
+    "local_image": "assets/images/tgmsg_14290.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-24T17:32:15+00:00",
+    "buy_link": "https://ajiio.co/RLp4N5",
+    "date_iso": "2025-10-24T17:32:15+00:00"
+  },
+  {
     "id": "msg14288",
     "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
     "description": "Ajio | 👟 Reebok Men's Shoes – Starts at ₹855 👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
@@ -10078,25 +10122,5 @@
     "date_obj": "2025-10-21T07:46:09+00:00",
     "buy_link": "https://www.amazon.in/dp/B0C8Z9QBQZ?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-21T07:46:09+00:00"
-  },
-  {
-    "id": "msg13849",
-    "title": "THE BEAR HOUSE Slim Fit Tie & Dye Crew",
-    "description": "AJIO : THE BEAR HOUSE Slim Fit Tie & Dye Crew-Neck T-Shirt starting at ₹520 🔗 https://ajiio.co/ZZuCvA",
-    "shortlink": "https://ajiio.co/ZZuCvA",
-    "urls": [
-      {
-        "url": "https://ajiio.co/ZZuCvA",
-        "label": "THE BEAR HOUSE Slim Fit Tie & Dye Crew-Neck T-Shirt starting at ₹520"
-      }
-    ],
-    "raw_text": "AJIO : THE BEAR HOUSE Slim Fit Tie & Dye Crew-Neck T-Shirt starting at ₹520\n\n🔗 https://ajiio.co/ZZuCvA",
-    "final_url": "https://ajiio.co/ZZuCvA",
-    "local_image": "assets/images/tgmsg_13849.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-21T07:33:25+00:00",
-    "buy_link": "https://ajiio.co/ZZuCvA",
-    "date_iso": "2025-10-21T07:33:25+00:00"
   }
 ]
