@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg14237",
+    "title": "✨ your deal, spin to win rewards, and save big this festive season!",
+    "description": "🎉 OPPO Diwali Carnival Kickoff! 🎆 💥 Win FREE Phones & Prizes Worth ₹300+ Crore! 💸 Plus, enjoy special Diwali discounts on OPPO smartphones — limited time only! 👉 Shop Now : ✨ Grab your deal, spin to win rewards, and…",
+    "shortlink": "https://extp.in/XEWta2",
+    "urls": [
+      {
+        "url": "",
+        "label": "🎉 OPPO Diwali Carnival Kickoff! 🎆"
+      },
+      {
+        "url": "",
+        "label": "💥 Win FREE Phones & Prizes Worth ₹300+ Crore!"
+      },
+      {
+        "url": "",
+        "label": "💸 Plus, enjoy special Diwali discounts on OPPO smartphones — limited time only!"
+      },
+      {
+        "url": "https://extp.in/XEWta2",
+        "label": "Shop Now"
+      },
+      {
+        "url": "",
+        "label": "✨ Grab your deal, spin to win rewards, and save big this festive season!"
+      }
+    ],
+    "raw_text": "🎉 OPPO Diwali Carnival Kickoff! 🎆\n\n💥 Win FREE Phones & Prizes Worth ₹300+ Crore!\n💸 Plus, enjoy special Diwali discounts on OPPO smartphones — limited time only!\n\n👉 Shop Now : https://extp.in/XEWta2\n\n✨ Grab your deal, spin to win rewards, and save big this festive season!",
+    "final_url": "https://extp.in/XEWta2",
+    "local_image": "assets/images/tgmsg_14237.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-10-24T08:45:24+00:00",
+    "buy_link": "https://extp.in/XEWta2",
+    "date_iso": "2025-10-24T08:45:24+00:00"
+  },
+  {
     "id": "msg14231",
     "title": "HMD 105 Keypad Phone with UPI @974",
     "description": "Amazon | HMD 105 Keypad Phone with UPI @974. 👉https://www.amazon.in/dp/B0D5M88QS8?tag=bestpricezo0f-21",
@@ -10090,25 +10126,5 @@
     "date_obj": "2025-10-20T15:07:15+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CX18GD2Z?tag=bestpricezo0f-21",
     "date_iso": "2025-10-20T15:07:15+00:00"
-  },
-  {
-    "id": "msg13799",
-    "title": "boAt Bassheads Wired Earphones with Mic @339",
-    "description": "Amazon | boAt Bassheads Wired Earphones with Mic @339. https://www.amazon.in/dp/B071Z8M4KX?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B071Z8M4KX?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B071Z8M4KX?tag=bestpricezo0f-21",
-        "label": "boAt Bassheads Wired Earphones with Mic @339"
-      }
-    ],
-    "raw_text": "Amazon | boAt Bassheads Wired Earphones with Mic @339.\n\nhttps://www.amazon.in/dp/B071Z8M4KX?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B071Z8M4KX?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13799.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-20T15:22:16+00:00",
-    "buy_link": "https://www.amazon.in/dp/B071Z8M4KX?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-20T15:22:16+00:00"
   }
 ]
