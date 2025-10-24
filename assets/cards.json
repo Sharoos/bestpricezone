@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg14275",
+    "title": "Topwear Clothing Under ₹199",
+    "description": "Ajio | Topwear Clothing Under ₹199 Men's : https://ajiio.co/aUV7fd Women's : https://ajiio.co/i6b5gZ Boys : https://ajiio.co/3iFLzG Girls : https://ajiio.co/P3Fg3e Baby : https://ajiio.co/fDa1LV",
+    "shortlink": "https://ajiio.co/aUV7fd",
+    "urls": [
+      {
+        "url": "",
+        "label": "Topwear Clothing Under ₹199"
+      },
+      {
+        "url": "https://ajiio.co/aUV7fd",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/i6b5gZ",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/3iFLzG",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/P3Fg3e",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/fDa1LV",
+        "label": "Baby"
+      }
+    ],
+    "raw_text": "Ajio | Topwear Clothing Under ₹199\n\nMen's : https://ajiio.co/aUV7fd\nWomen's : https://ajiio.co/i6b5gZ\nBoys : https://ajiio.co/3iFLzG\nGirls : https://ajiio.co/P3Fg3e\nBaby : https://ajiio.co/fDa1LV",
+    "final_url": "https://ajiio.co/aUV7fd",
+    "local_image": "assets/images/tgmsg_14275.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-24T14:47:11+00:00",
+    "buy_link": "https://ajiio.co/aUV7fd",
+    "date_iso": "2025-10-24T14:47:11+00:00"
+  },
+  {
     "id": "msg14273",
     "title": "Jack & Jones Min 50% Off",
     "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
@@ -10090,41 +10130,5 @@
     "date_obj": "2025-10-21T05:01:39+00:00",
     "buy_link": "https://ajiio.co/bNxJK7",
     "date_iso": "2025-10-21T05:01:39+00:00"
-  },
-  {
-    "id": "msg13837",
-    "title": "Shirts Starts @ 300",
-    "description": "Ajio : U.S Polo Assn. T-Shirts Starts @ 300. Men's : https://ajiio.co/qhO3f4 Women's : https://ajiio.co/shPWRF Boys : https://ajiio.co/dyjdDM Girls : https://ajiio.co/Z5JJKG",
-    "shortlink": "https://ajiio.co/qhO3f4",
-    "urls": [
-      {
-        "url": "",
-        "label": "U.S Polo Assn. T-Shirts Starts @ 300"
-      },
-      {
-        "url": "https://ajiio.co/qhO3f4",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/shPWRF",
-        "label": "Women's"
-      },
-      {
-        "url": "https://ajiio.co/dyjdDM",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/Z5JJKG",
-        "label": "Girls"
-      }
-    ],
-    "raw_text": "Ajio : U.S Polo Assn. T-Shirts Starts @ 300.\n\nMen's : https://ajiio.co/qhO3f4\nWomen's : https://ajiio.co/shPWRF\nBoys : https://ajiio.co/dyjdDM\nGirls : https://ajiio.co/Z5JJKG",
-    "final_url": "https://ajiio.co/qhO3f4",
-    "local_image": "assets/images/tgmsg_13837.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-21T05:16:29+00:00",
-    "buy_link": "https://ajiio.co/qhO3f4",
-    "date_iso": "2025-10-21T05:16:29+00:00"
   }
 ]
