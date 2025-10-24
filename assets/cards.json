@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14288",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
+    "description": "Ajio | 👟 Reebok Men's Shoes – Starts at ₹855 👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/3dKcwj",
+    "urls": [
+      {
+        "url": "https://ajiio.co/3dKcwj",
+        "label": "👟 Reebok Men's Shoes – Starts at ₹855"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "Ajio | 👟 Reebok Men's Shoes – Starts at ₹855\n\n👉 https://ajiio.co/3dKcwj\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/3dKcwj",
+    "local_image": "assets/images/tgmsg_14288.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-24T17:16:40+00:00",
+    "buy_link": "https://ajiio.co/3dKcwj",
+    "date_iso": "2025-10-24T17:16:40+00:00"
+  },
+  {
     "id": "msg14287",
     "title": "Min. 80% Off On Lee Cooper Watche",
     "description": "AJIO  Min. 80% Off On Lee Cooper Watches. Link : https://ajiio.co/2WIlaT + Extra 10% AJIO Super Cash.",
@@ -10074,37 +10098,5 @@
     "date_obj": "2025-10-21T07:33:25+00:00",
     "buy_link": "https://ajiio.co/ZZuCvA",
     "date_iso": "2025-10-21T07:33:25+00:00"
-  },
-  {
-    "id": "msg13848",
-    "title": "+ 10% EXTRA CASH",
-    "description": "AJIO  Cargo Pants Starts at 590. Men : https://ajiio.co/3YzWNz Women : https://ajiio.co/l4tiP1 + 10% EXTRA AJIO CASH",
-    "shortlink": "https://ajiio.co/3YzWNz",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Cargo Pants Starts at 590"
-      },
-      {
-        "url": "https://ajiio.co/3YzWNz",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.co/l4tiP1",
-        "label": "Women"
-      },
-      {
-        "url": "",
-        "label": "+ 10% EXTRA AJIO CASH"
-      }
-    ],
-    "raw_text": "AJIO  Cargo Pants Starts at 590. \n \nMen : https://ajiio.co/3YzWNz \nWomen : https://ajiio.co/l4tiP1\n\n+ 10% EXTRA AJIO CASH",
-    "final_url": "https://ajiio.co/3YzWNz",
-    "local_image": "assets/images/tgmsg_13848.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-21T07:16:13+00:00",
-    "buy_link": "https://ajiio.co/3YzWNz",
-    "date_iso": "2025-10-21T07:16:13+00:00"
   }
 ]
