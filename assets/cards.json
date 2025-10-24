@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14287",
+    "title": "Min. 80% Off On Lee Cooper Watche",
+    "description": "AJIO  Min. 80% Off On Lee Cooper Watches. Link : https://ajiio.co/2WIlaT + Extra 10% AJIO Super Cash.",
+    "shortlink": "https://ajiio.co/2WIlaT",
+    "urls": [
+      {
+        "url": "https://ajiio.co/2WIlaT",
+        "label": "AJIO Min. 80% Off On Lee Cooper Watches"
+      },
+      {
+        "url": "",
+        "label": "+ Extra 10% AJIO Super Cash"
+      }
+    ],
+    "raw_text": "AJIO  Min. 80% Off On Lee Cooper Watches. \n\nLink : https://ajiio.co/2WIlaT\n\n+ Extra 10% AJIO Super Cash.",
+    "final_url": "https://ajiio.co/2WIlaT",
+    "local_image": "assets/images/tgmsg_14287.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-24T17:02:01+00:00",
+    "buy_link": "https://ajiio.co/2WIlaT",
+    "date_iso": "2025-10-24T17:02:01+00:00"
+  },
+  {
     "id": "msg14286",
     "title": "Shirts Starts @299",
     "description": "Ajio : U.S Polo Assn. T-Shirts Starts @299. Men's : https://ajiio.co/6VJU8L Women's : https://ajiio.co/4jM210 Boys : https://ajiio.co/kM2f7f Girls : https://ajiio.co/PObokf",
@@ -10082,33 +10106,5 @@
     "date_obj": "2025-10-21T07:16:13+00:00",
     "buy_link": "https://ajiio.co/3YzWNz",
     "date_iso": "2025-10-21T07:16:13+00:00"
-  },
-  {
-    "id": "msg13845",
-    "title": "Up to 85% Off On Vero Moda & ONLY Women Clothing.🔥🔥",
-    "description": "Ajio | Upto 85% Off On Vero Moda & ONLY Women Clothing.🔥🔥 🖇️https://ajiio.co/QKfoIE 🖇️https://ajiio.co/1pDNOg Jeans🔥 : 🖇️https://ajiio.co/lnLHs2",
-    "shortlink": "https://ajiio.co/QKfoIE",
-    "urls": [
-      {
-        "url": "https://ajiio.co/QKfoIE",
-        "label": "Upto 85% Off On Vero Moda & ONLY Women Clothing.🔥🔥"
-      },
-      {
-        "url": "https://ajiio.co/1pDNOg",
-        "label": ""
-      },
-      {
-        "url": "https://ajiio.co/lnLHs2",
-        "label": ""
-      }
-    ],
-    "raw_text": "Ajio | Upto 85% Off On Vero Moda & ONLY Women Clothing.🔥🔥\n\n🖇️https://ajiio.co/QKfoIE\n🖇️https://ajiio.co/1pDNOg\n\nJeans🔥 : \n🖇️https://ajiio.co/lnLHs2",
-    "final_url": "https://ajiio.co/QKfoIE",
-    "local_image": "assets/images/tgmsg_13845.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-21T06:33:19+00:00",
-    "buy_link": "https://ajiio.co/QKfoIE",
-    "date_iso": "2025-10-21T06:33:19+00:00"
   }
 ]
