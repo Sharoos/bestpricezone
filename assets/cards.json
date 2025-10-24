@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg14270",
+    "title": "Levi’s Jeans Starts at ₹624",
+    "description": "AJIO  Levi’s Jeans Starts at ₹624. https://ajiio.co/HAHzGE Men’s : https://ajiio.co/94NsfG Women’s : https://ajiio.co/x75sdE More  Levi's Clothing. Men's : https://ajiio.co/0gTWEk Women's : https://ajiio.co/NsKLKf",
+    "shortlink": "https://ajiio.co/HAHzGE",
+    "urls": [
+      {
+        "url": "https://ajiio.co/HAHzGE",
+        "label": "AJIO Levi’s Jeans Starts at ₹624"
+      },
+      {
+        "url": "https://ajiio.co/94NsfG",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/x75sdE",
+        "label": "Women’s"
+      },
+      {
+        "url": "",
+        "label": "More Levi's Clothing"
+      },
+      {
+        "url": "https://ajiio.co/0gTWEk",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/NsKLKf",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "AJIO  Levi’s Jeans Starts at ₹624.\n\nhttps://ajiio.co/HAHzGE\n\nMen’s : https://ajiio.co/94NsfG\nWomen’s : https://ajiio.co/x75sdE\n\nMore  Levi's Clothing.\n\nMen's : https://ajiio.co/0gTWEk\nWomen's : https://ajiio.co/NsKLKf",
+    "final_url": "https://ajiio.co/HAHzGE",
+    "local_image": "assets/images/tgmsg_14270.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-24T14:16:49+00:00",
+    "buy_link": "https://ajiio.co/HAHzGE",
+    "date_iso": "2025-10-24T14:16:49+00:00"
+  },
+  {
     "id": "msg14265",
     "title": "rank&fs=true&qid=1752066854&ds=v1%3AunD3EbtLn0M3Fs9U7UPAw4bm1dtbPIcGQghVYJy%2BldU&tag=bestpricezo0f",
     "description": "Amazon | Lenskart Blu Eyeglass Starts @443.…",
@@ -10074,25 +10114,5 @@
     "date_obj": "2025-10-21T04:47:05+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DMT42WXV?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-21T04:47:05+00:00"
-  },
-  {
-    "id": "msg13833",
-    "title": "💥Topwear Min 80% OFF",
-    "description": "💥AJIO : Topwear Min 80% OFF 👉Link : https://ajiio.co/HJ5n4s",
-    "shortlink": "https://ajiio.co/HJ5n4s",
-    "urls": [
-      {
-        "url": "https://ajiio.co/HJ5n4s",
-        "label": "💥AJIO : Topwear Min 80% OFF"
-      }
-    ],
-    "raw_text": "💥AJIO : Topwear Min 80% OFF  \n \n👉Link : https://ajiio.co/HJ5n4s",
-    "final_url": "https://ajiio.co/HJ5n4s",
-    "local_image": "assets/images/tgmsg_13833.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-21T04:15:46+00:00",
-    "buy_link": "https://ajiio.co/HJ5n4s",
-    "date_iso": "2025-10-21T04:15:46+00:00"
   }
 ]
