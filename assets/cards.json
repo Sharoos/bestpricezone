@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14404",
+    "title": "Up to 84% Off on Women Saree Starts @478",
+    "description": "Myntra | Upto 84% Off on Women Saree Starts @478 👉Link: https://myntr.in/xoeWGa",
+    "shortlink": "https://myntr.in/xoeWGa",
+    "urls": [
+      {
+        "url": "https://myntr.in/xoeWGa",
+        "label": "Upto 84% Off on Women Saree Starts @478"
+      }
+    ],
+    "raw_text": "Myntra | Upto 84% Off on Women Saree Starts @478\n\n👉Link: https://myntr.in/xoeWGa",
+    "final_url": "https://myntr.in/xoeWGa",
+    "local_image": "assets/images/tgmsg_14404.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-25T15:26:38+00:00",
+    "buy_link": "https://myntr.in/xoeWGa",
+    "date_iso": "2025-10-25T15:26:38+00:00"
+  },
+  {
     "id": "msg14402",
     "title": "Min 80% Off On Branded Women's Kurtis 🔥",
     "description": "Myntra : Min 80% Off On Branded Women's Kurtis 🔥 Anouk : https://myntr.in/G0OrDH Sangria : https://myntr.in/acvXX1 Varanga : https://myntr.in/sHnQ1B KALINI : https://myntr.in/xGsOcq IndoEra : https://myntr.in/laRLMH…",
@@ -10194,33 +10214,5 @@
     "date_obj": "2025-10-22T13:51:44+00:00",
     "buy_link": "https://ajiio.co/UklgKq",
     "date_iso": "2025-10-22T13:51:44+00:00"
-  },
-  {
-    "id": "msg13974",
-    "title": "🛒 Deal Price ₹360",
-    "description": "Amazon | 🧺 Laundry Deals Godrej Fab Liquid Detergent Refill Pouch for Machine - 4 L 🛒 Deal Price: ₹360",
-    "shortlink": "https://www.amazon.in/dp/B0DW43GXSH/ref=cm_sw_r_as_gl_apa_gl_i_KHG02SBDBSQDZZMVRTDV?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🧺 Laundry Deals"
-      },
-      {
-        "url": "",
-        "label": "Godrej Fab Liquid Detergent Refill Pouch for Machine - 4 L"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0DW43GXSH/ref=cm_sw_r_as_gl_apa_gl_i_KHG02SBDBSQDZZMVRTDV?tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹360"
-      }
-    ],
-    "raw_text": "Amazon | 🧺 Laundry Deals\n\nGodrej Fab Liquid Detergent Refill Pouch for Machine - 4 L\n\n🛒 Deal Price: ₹360\n\nhttps://www.amazon.in/dp/B0DW43GXSH/ref=cm_sw_r_as_gl_apa_gl_i_KHG02SBDBSQDZZMVRTDV?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DW43GXSH/ref=cm_sw_r_as_gl_apa_gl_i_KHG02SBDBSQDZZMVRTDV?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13974.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-22T12:48:37+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DW43GXSH/ref=cm_sw_r_as_gl_apa_gl_i_KHG02SBDBSQDZZMVRTDV?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-22T12:48:37+00:00"
   }
 ]
