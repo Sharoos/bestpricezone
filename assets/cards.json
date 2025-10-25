@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg14399",
+    "title": "Up to 60% Off On Premium Brand Watch",
+    "description": "Myntra | Upto 60% Off On Premium Brand Watch. Men's : https://myntr.in/HkRNjb Women's : https://myntr.in/flIzfH",
+    "shortlink": "https://myntr.in/HkRNjb",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 60% Off On Premium Brand Watch"
+      },
+      {
+        "url": "https://myntr.in/HkRNjb",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/flIzfH",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Myntra | Upto 60% Off On Premium Brand Watch.\n\nMen's : https://myntr.in/HkRNjb\nWomen's : https://myntr.in/flIzfH",
+    "final_url": "https://myntr.in/HkRNjb",
+    "local_image": "assets/images/tgmsg_14399.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-25T14:28:54+00:00",
+    "buy_link": "https://myntr.in/HkRNjb",
+    "date_iso": "2025-10-25T14:28:54+00:00"
+  },
+  {
     "id": "msg14396",
     "title": "Up to 87% Off On HRX Shoe",
     "description": "Myntra : Upto 87% Off On HRX Shoes. Men : https://myntr.in/JP6BLH Women : https://myntr.in/ue02tm",
@@ -10154,53 +10182,5 @@
     "date_obj": "2025-10-22T12:04:36+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F6MVY5TH?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-22T12:04:36+00:00"
-  },
-  {
-    "id": "msg13971",
-    "title": "Men Polo Tshirts Starts at 140",
-    "description": "AJIO . Oversized Tshirts Starts at 190. Women : Men : Kids Clothing Boys : Girls : Infants :",
-    "shortlink": "https://ajiio.co/pl60Te",
-    "urls": [
-      {
-        "url": "https://ajiio.co/pl60Te",
-        "label": "AJIO Men Polo Tshirts Starts at 140"
-      },
-      {
-        "url": "",
-        "label": "Oversized Tshirts Starts at 190"
-      },
-      {
-        "url": "https://ajiio.co/rd11DS",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/UvYrkV",
-        "label": "Men"
-      },
-      {
-        "url": "",
-        "label": "Kids Clothing"
-      },
-      {
-        "url": "https://ajiio.co/0054jb",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/ETLRLn",
-        "label": "Girls"
-      },
-      {
-        "url": "https://ajiio.co/G80X6a",
-        "label": "Infants"
-      }
-    ],
-    "raw_text": "AJIO  Men Polo Tshirts Starts at 140.\n\nhttps://ajiio.co/pl60Te\n\nOversized Tshirts Starts at 190.\n\nWomen : https://ajiio.co/rd11DS\nMen : https://ajiio.co/UvYrkV\n\nKids Clothing \n\nBoys : https://ajiio.co/0054jb\nGirls : https://ajiio.co/ETLRLn\nInfants : https://ajiio.co/G80X6a",
-    "final_url": "https://ajiio.co/pl60Te",
-    "local_image": "assets/images/tgmsg_13971.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-22T11:45:17+00:00",
-    "buy_link": "https://ajiio.co/pl60Te",
-    "date_iso": "2025-10-22T11:45:17+00:00"
   }
 ]
