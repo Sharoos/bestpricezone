@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14419",
+    "title": "+ 10% SUPERCASH",
+    "description": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 140🔥 🔗🔗Link : + 10% AJIO SUPERCASH",
+    "shortlink": "https://ajiio.co/EBEGKw",
+    "urls": [
+      {
+        "url": "https://ajiio.co/EBEGKw",
+        "label": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 140🔥"
+      },
+      {
+        "url": "",
+        "label": "+ 10% AJIO SUPERCASH"
+      }
+    ],
+    "raw_text": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 140🔥 \n \n🔗🔗Link : https://ajiio.co/EBEGKw\n\n+ 10% AJIO SUPERCASH",
+    "final_url": "https://ajiio.co/EBEGKw",
+    "local_image": "assets/images/tgmsg_14419.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-25T17:16:30+00:00",
+    "buy_link": "https://ajiio.co/EBEGKw",
+    "date_iso": "2025-10-25T17:16:30+00:00"
+  },
+  {
     "id": "msg14417",
     "title": "Up to 85% Off On Men’s Jean",
     "description": "AJIO Upto 85% Off On Men’s Jeans. Master Link : Lee Cooper : Jack & Jones : John Players : DNMX : Buda Jeans Co : Spykar : Allen Cooper : U.S. Polo Assn. : Pepe Jeans : *Surf All Pages (Filter All Link As Per Your Need)…",
@@ -10306,57 +10330,5 @@
     "date_obj": "2025-10-22T17:13:54+00:00",
     "buy_link": "https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
     "date_iso": "2025-10-22T17:13:54+00:00"
-  },
-  {
-    "id": "msg14002",
-    "title": "Up to 80% Off John Players Clothing",
-    "description": "AJIO : Upto 80% Off : John Players Clothing Jeans – Shirts – T-Shirts – Trousers – Sweatshirts – Sweaters – Jackets – Waistcoats & Blazers –",
-    "shortlink": "https://ajiio.co/emoWdE",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off : John Players Clothing"
-      },
-      {
-        "url": "https://ajiio.co/emoWdE",
-        "label": "Jeans –"
-      },
-      {
-        "url": "https://ajiio.co/w7haE5",
-        "label": "Shirts –"
-      },
-      {
-        "url": "https://ajiio.co/uJ10JI",
-        "label": "T-Shirts –"
-      },
-      {
-        "url": "https://ajiio.co/ebMVSo",
-        "label": "Trousers –"
-      },
-      {
-        "url": "https://ajiio.co/kymF0b",
-        "label": "Sweatshirts –"
-      },
-      {
-        "url": "https://ajiio.co/852ACu",
-        "label": "Sweaters –"
-      },
-      {
-        "url": "https://ajiio.co/Em4YtI",
-        "label": "Jackets –"
-      },
-      {
-        "url": "https://ajiio.co/eSljDR",
-        "label": "Waistcoats & Blazers –"
-      }
-    ],
-    "raw_text": "AJIO : Upto 80% Off : John Players Clothing \n\nJeans – https://ajiio.co/emoWdE\nShirts – https://ajiio.co/w7haE5\nT-Shirts – https://ajiio.co/uJ10JI\nTrousers – https://ajiio.co/ebMVSo\nSweatshirts – https://ajiio.co/kymF0b\nSweaters – https://ajiio.co/852ACu\nJackets – https://ajiio.co/Em4YtI\nWaistcoats & Blazers – https://ajiio.co/eSljDR",
-    "final_url": "https://ajiio.co/emoWdE",
-    "local_image": "assets/images/tgmsg_14002.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-22T17:26:46+00:00",
-    "buy_link": "https://ajiio.co/emoWdE",
-    "date_iso": "2025-10-22T17:26:46+00:00"
   }
 ]
