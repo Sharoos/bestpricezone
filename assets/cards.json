@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg14330",
+    "title": "Up to 50% Off On Nike Shoes + Extra 15% Off + 10% Bank Offe",
+    "description": "Myntra Upto 50% Off On Nike Shoes + Extra 15% Off + 10% Bank Offer. Add Any 3 Shoes Men : Women : Boys : Girls : Apply Both Codes : NIKECOMBO | NORETURNNIKE10 + 10% Off With Bank Offer",
+    "shortlink": "https://myntr.in/7iPJQe",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Upto 50% Off On Nike Shoes + Extra 15% Off + 10% Bank Offer"
+      },
+      {
+        "url": "",
+        "label": "Add Any 3 Shoes"
+      },
+      {
+        "url": "https://myntr.in/7iPJQe",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/170e77",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/U15jhT",
+        "label": "Boys"
+      },
+      {
+        "url": "https://myntr.in/HF0E3I",
+        "label": "Girls"
+      },
+      {
+        "url": "",
+        "label": "NIKECOMBO | NORETURNNIKE10"
+      },
+      {
+        "url": "",
+        "label": "+ 10% Off With Bank Offer"
+      }
+    ],
+    "raw_text": "Myntra  Upto 50% Off On Nike Shoes + Extra 15% Off + 10% Bank Offer.\n\nAdd Any 3 Shoes \n\nMen : https://myntr.in/7iPJQe\nWomen : https://myntr.in/170e77\nBoys : https://myntr.in/U15jhT\nGirls : https://myntr.in/HF0E3I\n\nApply Both Codes : NIKECOMBO | NORETURNNIKE10\n\n+ 10% Off With Bank Offer",
+    "final_url": "https://myntr.in/7iPJQe",
+    "local_image": "assets/images/tgmsg_14330.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-25T03:48:16+00:00",
+    "buy_link": "https://myntr.in/7iPJQe",
+    "date_iso": "2025-10-25T03:48:16+00:00"
+  },
+  {
     "id": "msg14320",
     "title": "Up to 86% Off On Red Tape Shoe",
     "description": "AJIO Upto 86% Off On Red Tape Shoes. Men‘s : Women’s : New Balance : Adidas Shoes. Men’s : Women’s : Adidas Originals. Men’s : Women’s : More :",
@@ -10126,25 +10174,5 @@
     "date_obj": "2025-10-21T17:16:30+00:00",
     "buy_link": "https://ajiio.co/ZVYRqO",
     "date_iso": "2025-10-21T17:16:30+00:00"
-  },
-  {
-    "id": "msg13894",
-    "title": "Pigeon Hot & Cold Bottle, 1 Ltr @449",
-    "description": "Amazon | Pigeon Hot & Cold Bottle, 1 Ltr @449. https://www.amazon.in/dp/B07L3XC1YM?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07L3XC1YM?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07L3XC1YM?th=1&tag=bestpricezo0f-21",
-        "label": "Pigeon Hot & Cold Bottle, 1 Ltr @449"
-      }
-    ],
-    "raw_text": "Amazon | Pigeon Hot & Cold Bottle, 1 Ltr @449.\n\nhttps://www.amazon.in/dp/B07L3XC1YM?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07L3XC1YM?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13894.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-21T16:36:11+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07L3XC1YM?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-21T16:36:11+00:00"
   }
 ]
