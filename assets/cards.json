@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14360",
+    "title": "68% Off Parachute Body Lotion 600ml @199",
+    "description": "Amazon | 68% Off : Parachute Body Lotion 600ml @199. https://www.amazon.in/dp/B0CG16N3P4?psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CG16N3P4?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CG16N3P4?psc=1&tag=bestpricezo0f-21",
+        "label": "68% Off : Parachute Body Lotion 600ml @199"
+      }
+    ],
+    "raw_text": "Amazon | 68% Off : Parachute Body Lotion 600ml @199.\n\nhttps://www.amazon.in/dp/B0CG16N3P4?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CG16N3P4?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14360.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-25T07:51:23+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CG16N3P4?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-25T07:51:23+00:00"
+  },
+  {
     "id": "msg14359",
     "title": "» 5% Cashback on Amazon, , Swiggy, Zomato, Myntra & More",
     "description": "Get Lifetime FREE HDFC Credit Cards 💳 💳HDFC Millennia Credit Card : Apply Now ➡️ » Lifetime Free (Till 31st Oct) » 5% Cashback on Amazon, Flipkart, Swiggy, Zomato, Myntra & More » 1% Cashback on All Other Spends » ₹1000…",
@@ -10286,53 +10306,5 @@
     "date_obj": "2025-10-22T04:46:28+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DPWQ5S7D?tag=bestpricezo0f-21",
     "date_iso": "2025-10-22T04:46:28+00:00"
-  },
-  {
-    "id": "msg13928",
-    "title": "Up to 80% Off On Oversized T",
-    "description": "AJIO Upto 80% Off On Oversized T-Shirts Start @140 Men’s : Women’s : Polo T-Shirts : Jeans : Branded Innerwears : Men's Blazers & Waistcoat : + 10% AJIO Extra CASH",
-    "shortlink": "https://ajiio.co/PYOKk3",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 80% Off On Oversized T-Shirts Start @140"
-      },
-      {
-        "url": "https://ajiio.co/PYOKk3",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.co/YwAOk0",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://ajiio.co/hmB8nI",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/hwS3q1",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/TBu7Jk",
-        "label": "Branded Innerwears"
-      },
-      {
-        "url": "https://ajiio.co/jBSRht",
-        "label": "Men's Blazers & Waistcoat"
-      },
-      {
-        "url": "",
-        "label": "+ 10% AJIO Extra CASH"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On Oversized T-Shirts Start @140\n\nMen’s : https://ajiio.co/PYOKk3\nWomen’s : https://ajiio.co/YwAOk0\n\nPolo T-Shirts : https://ajiio.co/hmB8nI\nJeans : https://ajiio.co/hwS3q1\nBranded Innerwears : https://ajiio.co/TBu7Jk\nMen's Blazers & Waistcoat : https://ajiio.co/jBSRht\n\n+ 10% AJIO Extra CASH",
-    "final_url": "https://ajiio.co/PYOKk3",
-    "local_image": "assets/images/tgmsg_13928.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-22T04:02:20+00:00",
-    "buy_link": "https://ajiio.co/PYOKk3",
-    "date_iso": "2025-10-22T04:02:20+00:00"
   }
 ]
