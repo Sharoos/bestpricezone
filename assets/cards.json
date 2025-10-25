@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg14341",
+    "title": "+ 10% EXTRA CASH",
+    "description": "AJIO  Cargo Pants Starts at 590. Men : https://ajiio.co/l4gM9c Women : https://ajiio.co/ferq0T + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/l4gM9c",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Cargo Pants Starts at 590"
+      },
+      {
+        "url": "https://ajiio.co/l4gM9c",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/ferq0T",
+        "label": "Women"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO  Cargo Pants Starts at 590. \n \nMen : https://ajiio.co/l4gM9c \nWomen : https://ajiio.co/ferq0T\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/l4gM9c",
+    "local_image": "assets/images/tgmsg_14341.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-25T05:26:01+00:00",
+    "buy_link": "https://ajiio.co/l4gM9c",
+    "date_iso": "2025-10-25T05:26:01+00:00"
+  },
+  {
     "id": "msg14338",
     "title": "Jockey Under 699",
     "description": "Ajio | Jockey Under 699 👉https://ajiio.co/ow3UYV",
@@ -10086,65 +10118,5 @@
     "date_obj": "2025-10-21T18:48:26+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DHKJ5HWL?tag=bestpricezo0f-21",
     "date_iso": "2025-10-21T18:48:26+00:00"
-  },
-  {
-    "id": "msg13901",
-    "title": "Up to 80% Off On Jack & Jones Clothing.🔥🔥",
-    "description": "AJIO Upto 80% Off On Jack & Jones Clothing.🔥🔥 MasterLink : 🖇️ 🖇️ T-Shirts : Shirts : Jeans : Sweatshirts & Sweaters : Jackets : Shorts : Trackpants : Trousers : + 10% EXTRA AJIO SUPER CASH",
-    "shortlink": "https://ajiio.co/zRgLb7",
-    "urls": [
-      {
-        "url": "https://ajiio.co/zRgLb7",
-        "label": "AJIO Upto 80% Off On Jack & Jones Clothing.🔥🔥"
-      },
-      {
-        "url": "https://ajiio.co/wcXF1Q",
-        "label": "AJIO Upto 80% Off On Jack & Jones Clothing.🔥🔥"
-      },
-      {
-        "url": "https://ajiio.co/ScVvI6",
-        "label": "T-Shirts"
-      },
-      {
-        "url": "https://ajiio.co/xK3YYn",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/oOWtvD",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/DIqx4H",
-        "label": "Sweatshirts & Sweaters"
-      },
-      {
-        "url": "https://ajiio.co/9SGS1P",
-        "label": "Jackets"
-      },
-      {
-        "url": "https://ajiio.co/ayJV39",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.co/vTCt5U",
-        "label": "Trackpants"
-      },
-      {
-        "url": "https://ajiio.co/L1w5r6",
-        "label": "Trousers"
-      },
-      {
-        "url": "",
-        "label": "+ 10% EXTRA AJIO SUPER CASH"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On Jack & Jones Clothing.🔥🔥\nMasterLink : \n🖇️https://ajiio.co/zRgLb7 \n🖇️https://ajiio.co/wcXF1Q\n\nT-Shirts : https://ajiio.co/ScVvI6\nShirts : https://ajiio.co/xK3YYn\nJeans : https://ajiio.co/oOWtvD\nSweatshirts & Sweaters : https://ajiio.co/DIqx4H\nJackets : https://ajiio.co/9SGS1P\nShorts : https://ajiio.co/ayJV39\nTrackpants : https://ajiio.co/vTCt5U\nTrousers : https://ajiio.co/L1w5r6\n\n+ 10% EXTRA AJIO SUPER CASH",
-    "final_url": "https://ajiio.co/zRgLb7",
-    "local_image": "assets/images/tgmsg_13901.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-21T18:01:25+00:00",
-    "buy_link": "https://ajiio.co/zRgLb7",
-    "date_iso": "2025-10-21T18:01:25+00:00"
   }
 ]
