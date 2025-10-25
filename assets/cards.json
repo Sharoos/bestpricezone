@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg14352",
+    "title": "Men Polo Tshirts Starts at 105",
+    "description": "AJIO . Oversized Tshirts Starts at 190. Women : Men : Kids Clothing Boys : Girls : Infants :",
+    "shortlink": "https://ajiio.co/gOR8Yy",
+    "urls": [
+      {
+        "url": "https://ajiio.co/gOR8Yy",
+        "label": "AJIO Men Polo Tshirts Starts at 105"
+      },
+      {
+        "url": "",
+        "label": "Oversized Tshirts Starts at 190"
+      },
+      {
+        "url": "https://ajiio.co/UGpYjE",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/ihsGEp",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Kids Clothing"
+      },
+      {
+        "url": "https://ajiio.co/9tmj9O",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/B9my1k",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/moiS9c",
+        "label": "Infants"
+      }
+    ],
+    "raw_text": "AJIO  Men Polo Tshirts Starts at 105.\n\nhttps://ajiio.co/gOR8Yy\n\nOversized Tshirts Starts at 190.\n\nWomen : https://ajiio.co/UGpYjE\nMen : https://ajiio.co/ihsGEp\n\nKids Clothing \n\nBoys : https://ajiio.co/9tmj9O\nGirls : https://ajiio.co/B9my1k\nInfants : https://ajiio.co/moiS9c",
+    "final_url": "https://ajiio.co/gOR8Yy",
+    "local_image": "assets/images/tgmsg_14352.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-25T06:51:07+00:00",
+    "buy_link": "https://ajiio.co/gOR8Yy",
+    "date_iso": "2025-10-25T06:51:07+00:00"
+  },
+  {
     "id": "msg14351",
     "title": "Up to 79% Off On Bajaj LED Downlight",
     "description": "Amazon | Upto 79% Off On Bajaj LED Downlights…",
@@ -10242,29 +10290,5 @@
     "date_obj": "2025-10-21T23:51:57+00:00",
     "buy_link": "https://www.amazon.in/Refreshing-Frangipani-Extracts-Suitable-Silicones/dp/B0CP5YCPMF?language=en_IN&tag=bestpricezo0f-21",
     "date_iso": "2025-10-21T23:51:57+00:00"
-  },
-  {
-    "id": "msg13912",
-    "title": "tax%3A2665402031%2Cp_123%3A450757&tag=bestpricezo0f",
-    "description": "Amazon | 🪥 Dabur Toothpaste Deal - Up to 65% Off ✨ Odonil Room Freshener Deal - Up to 50% Off",
-    "shortlink": "https://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21&",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21&",
-        "label": "🪥 Dabur Toothpaste Deal - Up to 65% Off"
-      },
-      {
-        "url": "https://www.amazon.in/s?k=odonil&i=hpc&rh=n%3A1350384031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665402031%2Cp_123%3A450757&tag=bestpricezo0f-21",
-        "label": "✨ Odonil Room Freshener Deal - Up to 50% Off"
-      }
-    ],
-    "raw_text": "Amazon | 🪥 Dabur Toothpaste Deal - Up to 65% Off\n\nhttps://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21&\n\n✨ Odonil Room Freshener Deal - Up to 50% Off\n\nhttps://www.amazon.in/s?k=odonil&i=hpc&rh=n%3A1350384031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665402031%2Cp_123%3A450757&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21&",
-    "local_image": "assets/images/tgmsg_13912.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-21T18:39:33+00:00",
-    "buy_link": "https://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21&",
-    "date_iso": "2025-10-21T18:39:33+00:00"
   }
 ]
