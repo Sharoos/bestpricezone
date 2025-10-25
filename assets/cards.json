@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14374",
+    "title": "Wrinkle Cream, 50g @162",
+    "description": "Amazon | Himalaya Herbals Anti-Wrinkle Cream, 50g @162. 👉https://www.amazon.in/dp/B003OPTXW4?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B003OPTXW4?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B003OPTXW4?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Himalaya Herbals Anti-Wrinkle Cream, 50g @162"
+      }
+    ],
+    "raw_text": "Amazon | Himalaya Herbals Anti-Wrinkle Cream, 50g @162.\n \n👉https://www.amazon.in/dp/B003OPTXW4?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B003OPTXW4?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14374.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-25T09:51:36+00:00",
+    "buy_link": "https://www.amazon.in/dp/B003OPTXW4?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-25T09:51:36+00:00"
+  },
+  {
     "id": "msg14372",
     "title": "✅Deal price Rs. 634",
     "description": "Amazon | LONGWAY Gusto 6 Inch 150 mm Energy Efficient Exhaust Fan | 🔗https://www.amazon.in/dp/B0FDQV7R2D/ref=cm_sw_r_as_gl_apa_gl_i_dl_A2RNKZNZYPDAS67MCDB9?tag=bestpricezo0f-21 ✅Deal price Rs. 634",
@@ -10206,37 +10226,5 @@
     "date_obj": "2025-10-22T07:33:45+00:00",
     "buy_link": "https://bitli.in/ef9bn43",
     "date_iso": "2025-10-22T07:33:45+00:00"
-  },
-  {
-    "id": "msg13951",
-    "title": "Flat 70% Off On Performax Clothing",
-    "description": "AJIO : Flat 70% Off On Performax Clothing Men : https://ajiio.co/zepN9z Shoes : https://ajiio.co/85tyWC Women : https://ajiio.co/rWxFAS Shoes : https://ajiio.co/Mj9V1n",
-    "shortlink": "https://ajiio.co/zepN9z",
-    "urls": [
-      {
-        "url": "https://ajiio.co/zepN9z",
-        "label": "Flat 70% Off On Performax Clothing"
-      },
-      {
-        "url": "https://ajiio.co/85tyWC",
-        "label": "Shoes"
-      },
-      {
-        "url": "https://ajiio.co/rWxFAS",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/Mj9V1n",
-        "label": "Shoes"
-      }
-    ],
-    "raw_text": "AJIO : Flat 70% Off On Performax Clothing \n\nMen : https://ajiio.co/zepN9z\nShoes : https://ajiio.co/85tyWC\n\nWomen : https://ajiio.co/rWxFAS\nShoes : https://ajiio.co/Mj9V1n",
-    "final_url": "https://ajiio.co/zepN9z",
-    "local_image": "assets/images/tgmsg_13951.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-22T07:34:03+00:00",
-    "buy_link": "https://ajiio.co/zepN9z",
-    "date_iso": "2025-10-22T07:34:03+00:00"
   }
 ]
