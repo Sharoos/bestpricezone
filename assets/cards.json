@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg14401",
+    "title": "Up to 74% Off On Being Human Men's Clothing",
+    "description": "Myntra : Upto 74% Off On Being Human Men's Clothing. T-Shirts : Shirts : Sweat-Shirts : Jackets : Jeans : Shorts & Trackpants :",
+    "shortlink": "https://myntr.in/kZtVL0",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 74% Off On Being Human Men's Clothing"
+      },
+      {
+        "url": "https://myntr.in/kZtVL0",
+        "label": "T-Shirts"
+      },
+      {
+        "url": "https://myntr.in/mhPKXl",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://myntr.in/teSjLh",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://myntr.in/mznaXc",
+        "label": "Jackets"
+      },
+      {
+        "url": "https://myntr.in/BgsN4r",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://myntr.in/ki6Oxv",
+        "label": "Shorts & Trackpants"
+      }
+    ],
+    "raw_text": "Myntra : Upto 74% Off On Being Human Men's Clothing.\n\nT-Shirts : https://myntr.in/kZtVL0\nShirts : https://myntr.in/mhPKXl\nSweat-Shirts : https://myntr.in/teSjLh\nJackets : https://myntr.in/mznaXc\nJeans : https://myntr.in/BgsN4r\nShorts & Trackpants : https://myntr.in/ki6Oxv",
+    "final_url": "https://myntr.in/kZtVL0",
+    "local_image": "assets/images/tgmsg_14401.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-25T14:41:27+00:00",
+    "buy_link": "https://myntr.in/kZtVL0",
+    "date_iso": "2025-10-25T14:41:27+00:00"
+  },
+  {
     "id": "msg14399",
     "title": "Up to 60% Off On Premium Brand Watch",
     "description": "Myntra | Upto 60% Off On Premium Brand Watch. Men's : https://myntr.in/HkRNjb Women's : https://myntr.in/flIzfH",
@@ -10154,33 +10198,5 @@
     "date_obj": "2025-10-22T13:15:18+00:00",
     "buy_link": "https://www.amazon.in/dp/B08QJHYHH9?tag=bestpricezo0f-21",
     "date_iso": "2025-10-22T13:15:18+00:00"
-  },
-  {
-    "id": "msg13972",
-    "title": "🛒 Deal Price ₹25,740",
-    "description": "Amazon | 👕 Washing Machine Deals Godrej 9 Kg 5 Star AI Powered, Steam Wash, Fully Automatic Front Load Washing Machine 🛒 Deal Price: ₹25,740",
-    "shortlink": "https://www.amazon.in/dp/B0F6MVY5TH?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "👕 Washing Machine Deals"
-      },
-      {
-        "url": "",
-        "label": "Godrej 9 Kg 5 Star AI Powered, Steam Wash, Fully Automatic Front Load Washing Machine"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0F6MVY5TH?th=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹25,740"
-      }
-    ],
-    "raw_text": "Amazon | 👕 Washing Machine Deals\n\nGodrej 9 Kg 5 Star AI Powered, Steam Wash, Fully Automatic Front Load Washing Machine\n\n🛒 Deal Price: ₹25,740\n\nhttps://www.amazon.in/dp/B0F6MVY5TH?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F6MVY5TH?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13972.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-22T12:04:36+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F6MVY5TH?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-22T12:04:36+00:00"
   }
 ]
