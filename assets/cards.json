@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14381",
+    "title": "Surf Excel Easy Wash Detergent Powder, 7 Kg @744",
+    "description": "Amazon | Surf Excel Easy Wash Detergent Powder, 7 Kg @744. https://www.amazon.in/dp/B0D7GQNL6B?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0D7GQNL6B?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0D7GQNL6B?tag=bestpricezo0f-21",
+        "label": "Surf Excel Easy Wash Detergent Powder, 7 Kg @744"
+      }
+    ],
+    "raw_text": "Amazon | Surf Excel Easy Wash Detergent Powder, 7 Kg @744.\n\nhttps://www.amazon.in/dp/B0D7GQNL6B?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D7GQNL6B?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14381.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-25T10:56:19+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D7GQNL6B?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-25T10:56:19+00:00"
+  },
+  {
     "id": "msg14380",
     "title": "Up to 75% Off on Buda Jeans Co Clothing",
     "description": "AJIO -  T-Shirts : Trousers : Shirts : Jeans : Sweatshirts : Jackets : Trackpants : *10% Ajio Super Cash On Every Order.",
@@ -10214,29 +10234,5 @@
     "date_obj": "2025-10-22T09:15:55+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DFYKMR8T?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-22T09:15:55+00:00"
-  },
-  {
-    "id": "msg13960",
-    "title": "Up to 70% Off on Women Kurta Suit Sets Starting @ Just ₹315",
-    "description": "Ajio | Upto 70% Off on Women Kurta Suit Sets Starting @ Just ₹315 👉 Link : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "shortlink": "https://ajiio.co/s4ObCW",
-    "urls": [
-      {
-        "url": "https://ajiio.co/s4ObCW",
-        "label": "Upto 70% Off on Women Kurta Suit Sets Starting @ Just ₹315"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "Ajio | Upto 70% Off on Women Kurta Suit Sets Starting @ Just ₹315 \n  \n👉 Link : https://ajiio.co/s4ObCW\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/s4ObCW",
-    "local_image": "assets/images/tgmsg_13960.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-22T09:30:53+00:00",
-    "buy_link": "https://ajiio.co/s4ObCW",
-    "date_iso": "2025-10-22T09:30:53+00:00"
   }
 ]
