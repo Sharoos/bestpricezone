@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg14408",
+    "title": "Killer Watches Starting From At Rs.299",
+    "description": "Myntra | Killer Watches Starting From At Rs.299 Men : https://myntr.in/GxsqYI Women : https://myntr.in/OmJsCj",
+    "shortlink": "https://myntr.in/GxsqYI",
+    "urls": [
+      {
+        "url": "",
+        "label": "Killer Watches Starting From At Rs.299"
+      },
+      {
+        "url": "https://myntr.in/GxsqYI",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/OmJsCj",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | Killer Watches Starting From At Rs.299\n\nMen : https://myntr.in/GxsqYI\n\nWomen : https://myntr.in/OmJsCj",
+    "final_url": "https://myntr.in/GxsqYI",
+    "local_image": "assets/images/tgmsg_14408.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-25T15:41:36+00:00",
+    "buy_link": "https://myntr.in/GxsqYI",
+    "date_iso": "2025-10-25T15:41:36+00:00"
+  },
+  {
     "id": "msg14405",
     "title": "Zandu Shilajit Gold Plus Resin (20g) @506",
     "description": "Zandu : Shilajit Gold Plus Resin (20g) @506 Coupon Code : CKSGPR70 https://bitli.in/7Domv1C",
@@ -10174,25 +10202,5 @@
     "date_obj": "2025-10-22T14:06:31+00:00",
     "buy_link": "https://ajiio.co/VixPKP",
     "date_iso": "2025-10-22T14:06:31+00:00"
-  },
-  {
-    "id": "msg13986",
-    "title": "Pigeon Amaze Plus Electric Kettle @439",
-    "description": "Amazon | Pigeon Amaze Plus Electric Kettle @439. https://www.amazon.in/dp/B07WMS7TWB?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07WMS7TWB?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07WMS7TWB?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Pigeon Amaze Plus Electric Kettle @439"
-      }
-    ],
-    "raw_text": "Amazon | Pigeon Amaze Plus Electric Kettle @439.\n\nhttps://www.amazon.in/dp/B07WMS7TWB?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07WMS7TWB?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_13986.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-22T14:21:32+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07WMS7TWB?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-22T14:21:32+00:00"
   }
 ]
