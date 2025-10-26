@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14471",
+    "title": "Branded Men's Shirts from Rs.180",
+    "description": "Ajio | Branded Men's T-Shirts from Rs.100 👉https://ajiio.co/vZzCty Branded Men's Shirts from Rs.180 👉https://ajiio.co/4OzEIh",
+    "shortlink": "https://ajiio.co/vZzCty",
+    "urls": [
+      {
+        "url": "https://ajiio.co/vZzCty",
+        "label": "Branded Men's T-Shirts from Rs.100"
+      },
+      {
+        "url": "https://ajiio.co/4OzEIh",
+        "label": "Branded Men's Shirts from Rs.180"
+      }
+    ],
+    "raw_text": "Ajio | Branded Men's T-Shirts from Rs.100\n\n👉https://ajiio.co/vZzCty \n\n Branded Men's Shirts from Rs.180\n\n👉https://ajiio.co/4OzEIh",
+    "final_url": "https://ajiio.co/vZzCty",
+    "local_image": "assets/images/tgmsg_14471.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-26T06:51:26+00:00",
+    "buy_link": "https://ajiio.co/vZzCty",
+    "date_iso": "2025-10-26T06:51:26+00:00"
+  },
+  {
     "id": "msg14468",
     "title": "TRESemme Up to 65% Off",
     "description": "Myntra | TRESemme Upto  65% Off https://myntr.in/camAUx",
@@ -10454,25 +10478,5 @@
     "date_obj": "2025-10-23T06:38:13+00:00",
     "buy_link": "https://fktr.in/Eyv3lc9",
     "date_iso": "2025-10-23T06:38:13+00:00"
-  },
-  {
-    "id": "msg14051",
-    "title": "💥OverSized Tshirts Starts @180",
-    "description": "💥Ajio | OverSized Tshirts Starts @180. 👉Link : https://ajiio.co/0dnizr",
-    "shortlink": "https://ajiio.co/0dnizr",
-    "urls": [
-      {
-        "url": "https://ajiio.co/0dnizr",
-        "label": "💥Ajio | OverSized Tshirts Starts @180"
-      }
-    ],
-    "raw_text": "💥Ajio | OverSized Tshirts Starts @180.\n\n👉Link : https://ajiio.co/0dnizr",
-    "final_url": "https://ajiio.co/0dnizr",
-    "local_image": "assets/images/tgmsg_14051.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-23T05:56:02+00:00",
-    "buy_link": "https://ajiio.co/0dnizr",
-    "date_iso": "2025-10-23T05:56:02+00:00"
   }
 ]
