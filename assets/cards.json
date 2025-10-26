@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg14488",
+    "title": "Up to 75% Off On Kid’s Clothing",
+    "description": "Myntra : Upto 75% Off On Kid’s Clothing. Boys : https://myntr.in/bvFlRo Girls : https://myntr.in/J2wndk",
+    "shortlink": "https://myntr.in/bvFlRo",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On Kid’s Clothing"
+      },
+      {
+        "url": "https://myntr.in/bvFlRo",
+        "label": "Boys"
+      },
+      {
+        "url": "https://myntr.in/J2wndk",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "Myntra : Upto 75% Off On Kid’s Clothing. \n\nBoys : https://myntr.in/bvFlRo\nGirls : https://myntr.in/J2wndk",
+    "final_url": "https://myntr.in/bvFlRo",
+    "local_image": "assets/images/tgmsg_14488.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-26T11:16:13+00:00",
+    "buy_link": "https://myntr.in/bvFlRo",
+    "date_iso": "2025-10-26T11:16:13+00:00"
+  },
+  {
     "id": "msg14487",
     "title": "💫 Veet Creams & Hair Removal Kits — 45% Off (Today Only!)",
     "description": "🧴 Myntra | Personal Care Mega Sale! 💥 ✨ Boroplus Soaps & Creams — 60–70% Off! 🔗 🌿 Dabur Amla & Dabur Vatika — Min. 55% Off!! 🔗  🔗 🧴 Kesh King Shampoo — Upto 70% Off! 🔗",
@@ -10390,25 +10418,5 @@
     "date_obj": "2025-10-23T08:04:35+00:00",
     "buy_link": "https://www.amazon.in/dp/B0BBQK41CV?tag=bestpricezo0f-21",
     "date_iso": "2025-10-23T08:04:35+00:00"
-  },
-  {
-    "id": "msg14063",
-    "title": "Shimmer Toilet Cleaner, 5L @ 199",
-    "description": "Amazon | Shimmer Toilet Cleaner, 5L @ 199. 👉https://www.amazon.in/dp/B0FPXLD6QK?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FPXLD6QK?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FPXLD6QK?tag=bestpricezo0f-21",
-        "label": "Shimmer Toilet Cleaner, 5L @ 199"
-      }
-    ],
-    "raw_text": "Amazon | Shimmer Toilet Cleaner, 5L @ 199.\n\n👉https://www.amazon.in/dp/B0FPXLD6QK?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FPXLD6QK?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14063.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-23T07:45:09+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FPXLD6QK?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-23T07:45:09+00:00"
   }
 ]
