@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg14457",
+    "title": "Up to 85% Off On Branded Backpack",
+    "description": "Myntra | Upto 85% Off On Branded Backpacks. Master Link: Skybags: Safari: Wildcraft: Aristocrat:",
+    "shortlink": "https://myntr.in/9agISM",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% Off On Branded Backpacks"
+      },
+      {
+        "url": "https://myntr.in/9agISM",
+        "label": "Master"
+      },
+      {
+        "url": "https://myntr.in/1ohuxl",
+        "label": "Skybags"
+      },
+      {
+        "url": "https://myntr.in/NtcBle",
+        "label": "Safari"
+      },
+      {
+        "url": "https://myntr.in/CVjuYa",
+        "label": "Wildcraft"
+      },
+      {
+        "url": "https://myntr.in/dyOZ0Y",
+        "label": "Aristocrat"
+      }
+    ],
+    "raw_text": "Myntra | Upto 85% Off On Branded Backpacks.\n\nMaster Link: https://myntr.in/9agISM\n\nSkybags: https://myntr.in/1ohuxl \nSafari: https://myntr.in/NtcBle \nWildcraft: https://myntr.in/CVjuYa \nAristocrat: https://myntr.in/dyOZ0Y",
+    "final_url": "https://myntr.in/9agISM",
+    "local_image": "assets/images/tgmsg_14457.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-26T04:21:11+00:00",
+    "buy_link": "https://myntr.in/9agISM",
+    "date_iso": "2025-10-26T04:21:11+00:00"
+  },
+  {
     "id": "msg14453",
     "title": "Up to 80% Off On Oversized T",
     "description": "AJIO Upto 80% Off On Oversized T-Shirts Start @140 Men’s : Women’s : Polo T-Shirts : Jeans : Branded Innerwears : Men's Blazers & Waistcoat : + 10% AJIO Extra CASH",
@@ -10522,37 +10562,5 @@
     "date_obj": "2025-10-22T19:44:23+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DM2JGWFT?tag=bestpricezo0f-21",
     "date_iso": "2025-10-22T19:44:23+00:00"
-  },
-  {
-    "id": "msg14032",
-    "title": "Branded Calling Smartwatch Starts @999",
-    "description": "Amazon | Branded Calling Smartwatch Starts @999. boAt : https://www.amazon.in/s?rh=n%3A5605728031%2Cp_123%3A214020%2Cp_6%3AAJ6SIZC8YQDZX&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21 Fire-Boltt :…",
-    "shortlink": "https://www.amazon.in/s?rh=n%3A5605728031%2Cp_123%3A214020%2Cp_6%3AAJ6SIZC8YQDZX&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Branded Calling Smartwatch Starts @999"
-      },
-      {
-        "url": "https://www.amazon.in/s?rh=n%3A5605728031%2Cp_123%3A214020%2Cp_6%3AAJ6SIZC8YQDZX&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21",
-        "label": "boAt"
-      },
-      {
-        "url": "https://www.amazon.in/s?k=Noise&rh=n%3A976419031%2Cp_6%3AAJ6SIZC8YQDZX%2Cp_123%3A851753&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21",
-        "label": "Boltt"
-      },
-      {
-        "url": "https://www.amazon.in/s?rh=n%3A976419031%2Cn%3A11599648031%2Cp_6%3AAJ6SIZC8YQDZX%2Cp_123%3A42717&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21",
-        "label": "Noise"
-      }
-    ],
-    "raw_text": "Amazon | Branded Calling Smartwatch Starts @999.\n\nboAt : https://www.amazon.in/s?rh=n%3A5605728031%2Cp_123%3A214020%2Cp_6%3AAJ6SIZC8YQDZX&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21\nFire-Boltt : https://www.amazon.in/s?k=Noise&rh=n%3A976419031%2Cp_6%3AAJ6SIZC8YQDZX%2Cp_123%3A851753&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21\nNoise : https://www.amazon.in/s?rh=n%3A976419031%2Cn%3A11599648031%2Cp_6%3AAJ6SIZC8YQDZX%2Cp_123%3A42717&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/s?rh=n%3A5605728031%2Cp_123%3A214020%2Cp_6%3AAJ6SIZC8YQDZX&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14032.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-22T19:22:34+00:00",
-    "buy_link": "https://www.amazon.in/s?rh=n%3A5605728031%2Cp_123%3A214020%2Cp_6%3AAJ6SIZC8YQDZX&s=price-asc-rank&i=electronics&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-22T19:22:34+00:00"
   }
 ]
