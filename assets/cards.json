@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg14487",
+    "title": "💫 Veet Creams & Hair Removal Kits — 45% Off (Today Only!)",
+    "description": "🧴 Myntra | Personal Care Mega Sale! 💥 ✨ Boroplus Soaps & Creams — 60–70% Off! 🔗 🌿 Dabur Amla & Dabur Vatika — Min. 55% Off!! 🔗  🔗 🧴 Kesh King Shampoo — Upto 70% Off! 🔗",
+    "shortlink": "https://myntr.in/6XQJpT",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧴 Myntra | Personal Care Mega Sale! 💥"
+      },
+      {
+        "url": "https://myntr.in/6XQJpT",
+        "label": "✨ Boroplus Soaps & Creams — 60–70% Off!"
+      },
+      {
+        "url": "https://myntr.in/WkhcdK",
+        "label": "🌿 Dabur Amla & Dabur Vatika — Min. 55% Off!!"
+      },
+      {
+        "url": "https://myntr.in/ZuQ7ae",
+        "label": "💫 Veet Creams & Hair Removal Kits — 45% Off (Today Only!)"
+      },
+      {
+        "url": "https://myntr.in/Y6PmAr",
+        "label": "🧴 Kesh King Shampoo — Upto 70% Off!"
+      }
+    ],
+    "raw_text": "🧴 Myntra | Personal Care Mega Sale! 💥\n\n✨ Boroplus Soaps & Creams — 60–70% Off!\n🔗 https://myntr.in/6XQJpT\n\n🌿 Dabur Amla & Dabur Vatika — Min. 55% Off!!\n🔗 https://myntr.in/WkhcdK\n\n💫 Veet Creams & Hair Removal Kits — 45% Off (Today Only!)\n🔗 https://myntr.in/ZuQ7ae\n\n🧴 Kesh King Shampoo — Upto 70% Off!\n🔗 https://myntr.in/Y6PmAr",
+    "final_url": "https://myntr.in/6XQJpT",
+    "local_image": "assets/images/tgmsg_14487.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-26T11:04:33+00:00",
+    "buy_link": "https://myntr.in/6XQJpT",
+    "date_iso": "2025-10-26T11:04:33+00:00"
+  },
+  {
     "id": "msg14485",
     "title": "💥Topwear Min 80% OFF",
     "description": "💥AJIO : Topwear Min 80% OFF Link : https://ajiio.co/tp044S",
@@ -10374,61 +10410,5 @@
     "date_obj": "2025-10-23T07:45:09+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FPXLD6QK?tag=bestpricezo0f-21",
     "date_iso": "2025-10-23T07:45:09+00:00"
-  },
-  {
-    "id": "msg14064",
-    "title": "✅ Extra 5% Off on Prepaid Orders!",
-    "description": "Dot & Key – High On Glow Sale is LIVE! ✨ 💛 Buy 2 @ ₹699 💖 Buy 3 @ ₹999 + Get 1 Gift FREE 💫 Buy 4 @ ₹1295 + Get 2 Gifts FREE Top Picks: • Sunscreen → • Moisturizer → • Serum → • Combo → • Face Wash → • Body Care → 📌 Shop…",
-    "shortlink": "https://bitli.in/aNRgKxj",
-    "urls": [
-      {
-        "url": "",
-        "label": "Dot & Key – High On Glow Sale is LIVE! ✨"
-      },
-      {
-        "url": "",
-        "label": "Top Picks"
-      },
-      {
-        "url": "https://bitli.in/aNRgKxj",
-        "label": "Sunscreen →"
-      },
-      {
-        "url": "https://bitli.in/48xLjEX",
-        "label": "Moisturizer →"
-      },
-      {
-        "url": "https://bitli.in/nASIMfD",
-        "label": "Serum →"
-      },
-      {
-        "url": "https://bitli.in/A6Cwd7Y",
-        "label": "Combo →"
-      },
-      {
-        "url": "https://bitli.in/8V17WSv",
-        "label": "Face Wash →"
-      },
-      {
-        "url": "https://bitli.in/agef8p2",
-        "label": "Body Care →"
-      },
-      {
-        "url": "https://bitli.in/4Fy45N5",
-        "label": "📌 Shop All"
-      },
-      {
-        "url": "",
-        "label": "✅ Extra 5% Off on Prepaid Orders!"
-      }
-    ],
-    "raw_text": "Dot & Key – High On Glow Sale is LIVE! ✨\n\n💛 Buy 2 @ ₹699\n💖 Buy 3 @ ₹999 + Get 1 Gift FREE\n💫 Buy 4 @ ₹1295 + Get 2 Gifts FREE\n\nTop Picks:\n• Sunscreen → https://bitli.in/aNRgKxj\n• Moisturizer → https://bitli.in/48xLjEX\n• Serum → https://bitli.in/nASIMfD\n• Combo → https://bitli.in/A6Cwd7Y\n• Face Wash → https://bitli.in/8V17WSv\n• Body Care → https://bitli.in/agef8p2\n\n📌 Shop All: https://bitli.in/4Fy45N5\n✅ Extra 5% Off on Prepaid Orders!",
-    "final_url": "https://bitli.in/aNRgKxj",
-    "local_image": "assets/images/tgmsg_14064.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-10-23T07:53:47+00:00",
-    "buy_link": "https://bitli.in/aNRgKxj",
-    "date_iso": "2025-10-23T07:53:47+00:00"
   }
 ]
