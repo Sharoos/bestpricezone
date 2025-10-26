@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg14490",
+    "title": "Shirts Starts @299",
+    "description": "Ajio : U.S Polo Assn. T-Shirts Starts @299. Men's : https://ajiio.in/fXDR4DC Women's : https://ajiio.in/X3HQH1W Boys : https://ajiio.in/PuPwMAB Girls : https://ajiio.in/hWp6pr2",
+    "shortlink": "https://ajiio.in/fXDR4DC",
+    "urls": [
+      {
+        "url": "",
+        "label": "U.S Polo Assn. T-Shirts Starts @299"
+      },
+      {
+        "url": "https://ajiio.in/fXDR4DC",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.in/X3HQH1W",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.in/PuPwMAB",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.in/hWp6pr2",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "Ajio : U.S Polo Assn. T-Shirts Starts @299.\n\nMen's : https://ajiio.in/fXDR4DC\nWomen's : https://ajiio.in/X3HQH1W\nBoys : https://ajiio.in/PuPwMAB\nGirls : https://ajiio.in/hWp6pr2",
+    "final_url": "https://ajiio.in/fXDR4DC",
+    "local_image": "assets/images/tgmsg_14490.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-26T11:50:49+00:00",
+    "buy_link": "https://ajiio.in/fXDR4DC",
+    "date_iso": "2025-10-26T11:50:49+00:00"
+  },
+  {
     "id": "msg14489",
     "title": "Up to 80% Off on Sunglasses Starts At Rs.420",
     "description": "Ajio | Upto 80% Off on Sunglasses Starts At Rs.420 👉Link : + 10% EXTRA AJIO CASH",
@@ -10394,33 +10430,5 @@
     "date_obj": "2025-10-23T09:31:18+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CJ7Y3TJG?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-23T09:31:18+00:00"
-  },
-  {
-    "id": "msg14069",
-    "title": "🛒 Deal Price ₹295",
-    "description": "Amazon | 🛏️ Solimo Bedsheet Deals Amazon Brand - Solimo Bedsheet (Pack Of 2) 🛒 Deal Price: ₹295 👉",
-    "shortlink": "https://www.amazon.in/dp/B0DHGJ7MB9?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🛏️ Solimo Bedsheet Deals"
-      },
-      {
-        "url": "",
-        "label": "Solimo Bedsheet (Pack Of 2)"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0DHGJ7MB9?th=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹295"
-      }
-    ],
-    "raw_text": "Amazon | 🛏️ Solimo Bedsheet Deals\n\nAmazon Brand - Solimo Bedsheet (Pack Of 2)\n\n🛒 Deal Price: ₹295\n\n👉https://www.amazon.in/dp/B0DHGJ7MB9?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DHGJ7MB9?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14069.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-23T08:45:32+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DHGJ7MB9?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-23T08:45:32+00:00"
   }
 ]
