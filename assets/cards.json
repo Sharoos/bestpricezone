@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg14516",
+    "title": "+ 10% EXTRA CASH",
+    "description": "AJIO  Cargo Pants Starts at 590. Men : https://ajiio.co/3ZoIsF Women : https://ajiio.co/paWQrR + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/3ZoIsF",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Cargo Pants Starts at 590"
+      },
+      {
+        "url": "https://ajiio.co/3ZoIsF",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/paWQrR",
+        "label": "Women"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO  Cargo Pants Starts at 590. \n \nMen : https://ajiio.co/3ZoIsF \nWomen : https://ajiio.co/paWQrR\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/3ZoIsF",
+    "local_image": "assets/images/tgmsg_14516.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-26T15:46:44+00:00",
+    "buy_link": "https://ajiio.co/3ZoIsF",
+    "date_iso": "2025-10-26T15:46:44+00:00"
+  },
+  {
     "id": "msg14511",
     "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
     "description": "🔥AJIO Men's Footwear Starts @₹110 👉 Sports Shoes : Casual Shoes : Sandals : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
@@ -10330,41 +10362,5 @@
     "date_obj": "2025-10-23T12:02:40+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F3JM1YP5?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-23T12:02:40+00:00"
-  },
-  {
-    "id": "msg14090",
-    "title": "tax%253A2665402031&i=beauty&tag=bestpricezo0f",
-    "description": "Amazon | Branded Body Wash Starts @ 97. Fiama : https://www.amazon.in/s?k=Fiama%2520Shower%2520Gel&rh=n%253A1355016031%252Cp_89%253AFiama%252Cp_n_pct-off-with-tax%253A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21…",
-    "shortlink": "https://www.amazon.in/s?k=Fiama%2520Shower%2520Gel&rh=n%253A1355016031%252Cp_89%253AFiama%252Cp_n_pct-off-with-tax%253A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Branded Body Wash Starts @ 97"
-      },
-      {
-        "url": "https://www.amazon.in/s?k=Fiama%2520Shower%2520Gel&rh=n%253A1355016031%252Cp_89%253AFiama%252Cp_n_pct-off-with-tax%253A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-        "label": "Fiama"
-      },
-      {
-        "url": "https://www.amazon.in/s?rh=n%253A1374293031%252Cp_85%253A10440599031%252Cp_89%253APalmolive%252Cp_n_pct-off-with-tax%253A2665401031&s=price-asc-rank&i=beauty&srs=1374293031&tag=bestpricezo0f-21",
-        "label": "Palmolive"
-      },
-      {
-        "url": "https://www.amazon.in/s?rh=n%253A1374293031%252Cp_89%253ADettol%252Cp_6%253AA15APWRK6P7LBV%252Cp_n_pct-off-with-tax%253A2665401031&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-        "label": "Dettol"
-      },
-      {
-        "url": "https://www.amazon.in/s?k=Lux&rh=n%253A1355016031%252Cp_6%253AA15APWRK6P7LBV%252Cp_n_pct-off-with-tax%253A2665402031&i=beauty&tag=bestpricezo0f-21",
-        "label": "More"
-      }
-    ],
-    "raw_text": "Amazon | Branded Body Wash Starts @ 97.\n\nFiama : https://www.amazon.in/s?k=Fiama%2520Shower%2520Gel&rh=n%253A1355016031%252Cp_89%253AFiama%252Cp_n_pct-off-with-tax%253A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21\nPalmolive : https://www.amazon.in/s?rh=n%253A1374293031%252Cp_85%253A10440599031%252Cp_89%253APalmolive%252Cp_n_pct-off-with-tax%253A2665401031&s=price-asc-rank&i=beauty&srs=1374293031&tag=bestpricezo0f-21\nDettol : https://www.amazon.in/s?rh=n%253A1374293031%252Cp_89%253ADettol%252Cp_6%253AA15APWRK6P7LBV%252Cp_n_pct-off-with-tax%253A2665401031&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21\n\nMore : https://www.amazon.in/s?k=Lux&rh=n%253A1355016031%252Cp_6%253AA15APWRK6P7LBV%252Cp_n_pct-off-with-tax%253A2665402031&i=beauty&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/s?k=Fiama%2520Shower%2520Gel&rh=n%253A1355016031%252Cp_89%253AFiama%252Cp_n_pct-off-with-tax%253A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14090.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-23T12:15:52+00:00",
-    "buy_link": "https://www.amazon.in/s?k=Fiama%2520Shower%2520Gel&rh=n%253A1355016031%252Cp_89%253AFiama%252Cp_n_pct-off-with-tax%253A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-23T12:15:52+00:00"
   }
 ]
