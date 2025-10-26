@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14466",
+    "title": "Kodak 32inch Smart TV @7999",
+    "description": "Amazon | Kodak 32inch Smart TV @7999 https://www.amazon.in/dp/B0BWYSYFQS?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0BWYSYFQS?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0BWYSYFQS?th=1&tag=bestpricezo0f-21",
+        "label": "Kodak 32inch Smart TV @7999"
+      }
+    ],
+    "raw_text": "Amazon | Kodak 32inch Smart TV @7999\n\nhttps://www.amazon.in/dp/B0BWYSYFQS?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0BWYSYFQS?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14466.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-26T05:51:15+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0BWYSYFQS?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-26T05:51:15+00:00"
+  },
+  {
     "id": "msg14464",
     "title": "Curtains Starts at Rs.124",
     "description": "Myntra | Curtains Starts at Rs.124 https://myntr.in/7nPZi8",
@@ -10482,61 +10502,5 @@
     "date_obj": "2025-10-23T05:26:19+00:00",
     "buy_link": "https://ajiio.co/7UQEEx",
     "date_iso": "2025-10-23T05:26:19+00:00"
-  },
-  {
-    "id": "msg14049",
-    "title": "🍿 25% Off on Movies (Max ₹100)",
-    "description": "IDFC FIRST Lifetime Free Credit Card Apply Now 👉 ✅ Lifetime FREE – No Joining/Annual Fee 🎁 ₹500 Gift Voucher (spend ₹15,000 in 90 days) 🏆 Reward Points that never expire  🛍️ Discounts on 300+ Brands (Flipkart, Myntra,…",
-    "shortlink": "https://bitli.in/Es02lr9",
-    "urls": [
-      {
-        "url": "",
-        "label": "IDFC FIRST Lifetime Free Credit Card"
-      },
-      {
-        "url": "https://bitli.in/Es02lr9",
-        "label": "Apply Now 👉"
-      },
-      {
-        "url": "",
-        "label": "✅ Lifetime FREE – No Joining/Annual Fee"
-      },
-      {
-        "url": "",
-        "label": "🎁 ₹500 Gift Voucher (spend ₹15,000 in 90 days)"
-      },
-      {
-        "url": "",
-        "label": "🏆 Reward Points that never expire"
-      },
-      {
-        "url": "",
-        "label": "🍿 25% Off on Movies (Max ₹100)"
-      },
-      {
-        "url": "",
-        "label": "🛍️ Discounts on 300+ Brands (Flipkart, Myntra, AJIO, Zomato & more)"
-      },
-      {
-        "url": "",
-        "label": "⛽ 1% Fuel Surcharge Waiver"
-      },
-      {
-        "url": "",
-        "label": "✈️ Lounge & Travel Perks (on select variants)"
-      },
-      {
-        "url": "",
-        "label": "📌 Activate with minimum spend in 30 days"
-      }
-    ],
-    "raw_text": "IDFC FIRST Lifetime Free Credit Card\n\nApply Now 👉 https://bitli.in/Es02lr9\n\n✅ Lifetime FREE – No Joining/Annual Fee\n🎁 ₹500 Gift Voucher (spend ₹15,000 in 90 days)\n🏆 Reward Points that never expire\n🍿 25% Off on Movies (Max ₹100)\n🛍️ Discounts on 300+ Brands (Flipkart, Myntra, AJIO, Zomato & more)\n⛽ 1% Fuel Surcharge Waiver\n✈️ Lounge & Travel Perks (on select variants)\n\n📌 Activate with minimum spend in 30 days.",
-    "final_url": "https://bitli.in/Es02lr9",
-    "local_image": "assets/images/tgmsg_14049.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-10-23T05:28:10+00:00",
-    "buy_link": "https://bitli.in/Es02lr9",
-    "date_iso": "2025-10-23T05:28:10+00:00"
   }
 ]
