@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg14517",
+    "title": "🌟Up to 75% Off On John Players Brand Clothing🔥🔥",
+    "description": "🌟AJIO : Upto 75% Off On John Players Brand Clothing🔥🔥 T-Shirts : Jeans : Shirts : + 10% EXTRA AJIO CASH🎉🎉",
+    "shortlink": "https://ajiio.co/Psg4Vt",
+    "urls": [
+      {
+        "url": "",
+        "label": "🌟AJIO : Upto 75% Off On John Players Brand Clothing🔥🔥"
+      },
+      {
+        "url": "https://ajiio.co/Psg4Vt",
+        "label": "T-Shirts"
+      },
+      {
+        "url": "https://ajiio.co/CYdgVj",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/oHpL0h",
+        "label": "Shirts"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH🎉🎉"
+      }
+    ],
+    "raw_text": "🌟AJIO : Upto 75% Off On John Players Brand Clothing🔥🔥\n \nT-Shirts : https://ajiio.co/Psg4Vt \nJeans : https://ajiio.co/CYdgVj \nShirts : https://ajiio.co/oHpL0h\n\n+ 10% EXTRA AJIO CASH🎉🎉",
+    "final_url": "https://ajiio.co/Psg4Vt",
+    "local_image": "assets/images/tgmsg_14517.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-26T16:04:43+00:00",
+    "buy_link": "https://ajiio.co/Psg4Vt",
+    "date_iso": "2025-10-26T16:04:43+00:00"
+  },
+  {
     "id": "msg14516",
     "title": "+ 10% EXTRA CASH",
     "description": "AJIO  Cargo Pants Starts at 590. Men : https://ajiio.co/3ZoIsF Women : https://ajiio.co/paWQrR + 10% EXTRA AJIO CASH",
@@ -10334,33 +10370,5 @@
     "date_obj": "2025-10-23T13:00:36+00:00",
     "buy_link": "https://www.amazon.in/dp/B07VC8S33B?th=1&language=en_IN&tag=bestpricezo0f-21",
     "date_iso": "2025-10-23T13:00:36+00:00"
-  },
-  {
-    "id": "msg14089",
-    "title": "🛒 Deal Price ₹8999",
-    "description": "Amazon | 📺 Smart LED Fire TV Deals Xiaomi 80 cm (32 inch) F Series HD Ready Smart LED Fire TV 🛒 Deal Price: ₹8999 ✅ Offers: Apply ₹1000 Coupon",
-    "shortlink": "https://www.amazon.in/dp/B0F3JM1YP5?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "📺 Smart LED Fire TV Deals"
-      },
-      {
-        "url": "",
-        "label": "Xiaomi 80 cm (32 inch) F Series HD Ready Smart LED Fire TV"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0F3JM1YP5?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹8999"
-      }
-    ],
-    "raw_text": "Amazon | 📺 Smart LED Fire TV Deals\n\nXiaomi 80 cm (32 inch) F Series HD Ready Smart LED Fire TV\n\n🛒 Deal Price: ₹8999\n\n✅ Offers: Apply ₹1000 Coupon\n\nhttps://www.amazon.in/dp/B0F3JM1YP5?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F3JM1YP5?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14089.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-23T12:02:40+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F3JM1YP5?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-23T12:02:40+00:00"
   }
 ]
