@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14489",
+    "title": "Up to 80% Off on Sunglasses Starts At Rs.420",
+    "description": "Ajio | Upto 80% Off on Sunglasses Starts At Rs.420 👉Link : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/G8TB5D",
+    "urls": [
+      {
+        "url": "https://ajiio.co/G8TB5D",
+        "label": "Upto 80% Off on Sunglasses Starts At Rs.420"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "Ajio | Upto 80% Off on Sunglasses Starts At Rs.420\n \n👉Link : https://ajiio.co/G8TB5D\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/G8TB5D",
+    "local_image": "assets/images/tgmsg_14489.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-26T11:46:08+00:00",
+    "buy_link": "https://ajiio.co/G8TB5D",
+    "date_iso": "2025-10-26T11:46:08+00:00"
+  },
+  {
     "id": "msg14488",
     "title": "Up to 75% Off On Kid’s Clothing",
     "description": "Myntra : Upto 75% Off On Kid’s Clothing. Boys : https://myntr.in/bvFlRo Girls : https://myntr.in/J2wndk",
@@ -10398,25 +10422,5 @@
     "date_obj": "2025-10-23T08:45:32+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DHGJ7MB9?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-23T08:45:32+00:00"
-  },
-  {
-    "id": "msg14066",
-    "title": "Zebronics USB 3.0 (4 Port) Hub @ 199",
-    "description": "Amazon | Zebronics USB 3.0 (4 Port) Hub @ 199. 👉https://www.amazon.in/dp/B0BBQK41CV?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0BBQK41CV?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BBQK41CV?tag=bestpricezo0f-21",
-        "label": "Zebronics USB 3.0 (4 Port) Hub @ 199"
-      }
-    ],
-    "raw_text": "Amazon | Zebronics USB 3.0 (4 Port) Hub @ 199.\n\n👉https://www.amazon.in/dp/B0BBQK41CV?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BBQK41CV?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14066.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-23T08:04:35+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BBQK41CV?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-23T08:04:35+00:00"
   }
 ]
