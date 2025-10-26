@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14464",
+    "title": "Curtains Starts at Rs.124",
+    "description": "Myntra | Curtains Starts at Rs.124 https://myntr.in/7nPZi8",
+    "shortlink": "https://myntr.in/7nPZi8",
+    "urls": [
+      {
+        "url": "https://myntr.in/7nPZi8",
+        "label": "Curtains Starts at Rs.124"
+      }
+    ],
+    "raw_text": "Myntra | Curtains Starts at Rs.124\n\nhttps://myntr.in/7nPZi8",
+    "final_url": "https://myntr.in/7nPZi8",
+    "local_image": "assets/images/tgmsg_14464.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-26T05:36:19+00:00",
+    "buy_link": "https://myntr.in/7nPZi8",
+    "date_iso": "2025-10-26T05:36:19+00:00"
+  },
+  {
     "id": "msg14461",
     "title": "Pigeon 1800 W Induction Cooktop @1169",
     "description": "Amazon | Pigeon 1800 W Induction Cooktop @1169. https://www.amazon.in/dp/B01GFTEV5Y?th=1&psc=1&tag=bestpricezo0f-21",
@@ -10518,77 +10538,5 @@
     "date_obj": "2025-10-23T05:28:10+00:00",
     "buy_link": "https://bitli.in/Es02lr9",
     "date_iso": "2025-10-23T05:28:10+00:00"
-  },
-  {
-    "id": "msg14045",
-    "title": "DNMX Clothing Starts @ Rs.101 + Bank offe",
-    "description": "AJIO rs Men’s : T-Shirts : Jeans : Shirts : Sweaters & Cardigans : Sweatshirt & Hoodies : Shorts : Trousers & Jogger : Women's : T-shirts : Shirts & Tops : Jeans & Jeggings : Sweatshirts : Shirts : Jackets :",
-    "shortlink": "https://ajiio.co/XGx96F",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO DNMX Clothing Starts @ Rs.101 + Bank offers"
-      },
-      {
-        "url": "https://ajiio.co/XGx96F",
-        "label": "T-Shirts"
-      },
-      {
-        "url": "https://ajiio.co/8eH6Sp",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/zmRDqd",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/leL6UB",
-        "label": "Sweaters & Cardigans"
-      },
-      {
-        "url": "https://ajiio.co/CQfYyO",
-        "label": "Sweatshirt & Hoodies"
-      },
-      {
-        "url": "https://ajiio.co/fi1bU3",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.co/aPtpYJ",
-        "label": "Trousers & Jogger"
-      },
-      {
-        "url": "https://ajiio.co/z4LWJl",
-        "label": "T-shirts"
-      },
-      {
-        "url": "https://ajiio.co/aljmhg",
-        "label": "Shirts & Tops"
-      },
-      {
-        "url": "https://ajiio.co/2DqQa7",
-        "label": "Jeans & Jeggings"
-      },
-      {
-        "url": "https://ajiio.co/6dy0wJ",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://ajiio.co/dwV6SJ",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/t4vAqZ",
-        "label": "Jackets"
-      }
-    ],
-    "raw_text": "AJIO  DNMX Clothing Starts @ Rs.101 + Bank offers \n\nMen’s : \nT-Shirts : https://ajiio.co/XGx96F \nJeans : https://ajiio.co/8eH6Sp \nShirts : https://ajiio.co/zmRDqd \nSweaters & Cardigans : https://ajiio.co/leL6UB \nSweatshirt & Hoodies : https://ajiio.co/CQfYyO \nShorts : https://ajiio.co/fi1bU3 \nTrousers & Jogger : https://ajiio.co/aPtpYJ \n\nWomen's : \nT-shirts : https://ajiio.co/z4LWJl \nShirts & Tops : https://ajiio.co/aljmhg \nJeans & Jeggings : https://ajiio.co/2DqQa7 \nSweatshirts : https://ajiio.co/6dy0wJ \nShirts : https://ajiio.co/dwV6SJ \nJackets : https://ajiio.co/t4vAqZ",
-    "final_url": "https://ajiio.co/XGx96F",
-    "local_image": "assets/images/tgmsg_14045.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-23T04:56:23+00:00",
-    "buy_link": "https://ajiio.co/XGx96F",
-    "date_iso": "2025-10-23T04:56:23+00:00"
   }
 ]
