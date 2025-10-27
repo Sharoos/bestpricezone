@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14601",
+    "title": "Bikano Bombay Mixture 800g at ₹149",
+    "description": "Amazon | Bikano Bombay Mixture 800g at ₹149 👉 https://www.amazon.in/dp/B0F9T81MSB?tag=bestpricezo0f-21 Bikano Teekha Mixture 800g at ₹149 👉 https://www.amazon.in/dp/B0F9FQJ92P?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0F9T81MSB?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0F9T81MSB?tag=bestpricezo0f-21",
+        "label": "Bikano Bombay Mixture 800g at ₹149"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0F9FQJ92P?tag=bestpricezo0f-21",
+        "label": "Bikano Teekha Mixture 800g at ₹149"
+      }
+    ],
+    "raw_text": "Amazon | Bikano Bombay Mixture 800g at ₹149\n👉 https://www.amazon.in/dp/B0F9T81MSB?tag=bestpricezo0f-21\n\nBikano Teekha Mixture 800g at ₹149\n👉 https://www.amazon.in/dp/B0F9FQJ92P?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F9T81MSB?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14601.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-27T10:48:43+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F9T81MSB?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-27T10:48:43+00:00"
+  },
+  {
     "id": "msg14598",
     "title": "rank&dc=&psc=1&qid=1761551700&ds=v1%253A%252F9WM%252BCKvUx1YBQy7jmUajNeIycV0aid%252BfFbUq6%252B3x7Q&tag=bestpricezo0f",
     "description": "Amazon | F Gear Backpack Starts @ 149.…",
@@ -10074,25 +10098,5 @@
     "date_obj": "2025-10-23T19:28:53+00:00",
     "buy_link": "https://ajiio.co/vJJoY4",
     "date_iso": "2025-10-23T19:28:53+00:00"
-  },
-  {
-    "id": "msg14180",
-    "title": "Nike Shoes Up to 54% Off",
-    "description": "AJIO : Nike Shoes Upto 54% Off https://ajiio.co/SQcab1",
-    "shortlink": "https://ajiio.co/SQcab1",
-    "urls": [
-      {
-        "url": "https://ajiio.co/SQcab1",
-        "label": "Nike Shoes Upto 54% Off"
-      }
-    ],
-    "raw_text": "AJIO : Nike Shoes Upto 54% Off\n\nhttps://ajiio.co/SQcab1",
-    "final_url": "https://ajiio.co/SQcab1",
-    "local_image": "assets/images/tgmsg_14180.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-23T19:29:45+00:00",
-    "buy_link": "https://ajiio.co/SQcab1",
-    "date_iso": "2025-10-23T19:29:45+00:00"
   }
 ]
