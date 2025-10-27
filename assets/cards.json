@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14564",
+    "title": "Up to 36% off on Ddecor bedsheets and curtain",
+    "description": "Myntra | Upto 36% off on Ddecor bedsheets and curtains. Link : https://myntr.in/B5VRhV",
+    "shortlink": "https://myntr.in/B5VRhV",
+    "urls": [
+      {
+        "url": "https://myntr.in/B5VRhV",
+        "label": "Upto 36% off on Ddecor bedsheets and curtains"
+      }
+    ],
+    "raw_text": "Myntra | Upto 36% off on Ddecor bedsheets and curtains.\n\nLink : https://myntr.in/B5VRhV",
+    "final_url": "https://myntr.in/B5VRhV",
+    "local_image": "assets/images/tgmsg_14564.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-27T05:35:23+00:00",
+    "buy_link": "https://myntr.in/B5VRhV",
+    "date_iso": "2025-10-27T05:35:23+00:00"
+  },
+  {
     "id": "msg14562",
     "title": "Shirts Starts @140",
     "description": "AJIO : Men Polo T- Oversized. Women's : Men's : Kids Clothing Boys : Girls : Infants :",
@@ -10126,77 +10146,5 @@
     "date_obj": "2025-10-23T18:32:08+00:00",
     "buy_link": "https://fkrt.co/bU0OIu",
     "date_iso": "2025-10-23T18:32:08+00:00"
-  },
-  {
-    "id": "msg14126",
-    "title": "Must Check & Surf All Pages (Filter All As Per Your Need) & Fast",
-    "description": "AJIO : DNMX Clothing Starts @105 Men’s : Jeans : Shirts : Sweaters : Sweatshirt : Jackets : More : Women’s : Sweaters : Top : Shirts : Jeans : More : Must Check & Surf All Pages (Filter All Link As Per Your Need) & Loot…",
-    "shortlink": "https://ajiio.in/9VbVoS7",
-    "urls": [
-      {
-        "url": "",
-        "label": "DNMX Clothing Starts @105"
-      },
-      {
-        "url": "https://ajiio.in/9VbVoS7",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.in/7YxQmbv",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.in/DW595dC",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.in/U4UBfxa",
-        "label": "Sweaters"
-      },
-      {
-        "url": "https://ajiio.in/z749iqG",
-        "label": "Sweatshirt"
-      },
-      {
-        "url": "https://ajiio.in/E7motD8",
-        "label": "Jackets"
-      },
-      {
-        "url": "https://ajiio.in/G309sgb",
-        "label": "More"
-      },
-      {
-        "url": "https://ajiio.in/SF9227P",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://ajiio.in/jbs8m45",
-        "label": "Sweaters"
-      },
-      {
-        "url": "https://ajiio.in/ovomZHL",
-        "label": "Top"
-      },
-      {
-        "url": "https://ajiio.in/CE0wJWn",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.in/9bwilIA",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.in/vc2SGs6",
-        "label": "More"
-      }
-    ],
-    "raw_text": "AJIO : DNMX Clothing Starts @105\n\nMen’s : https://ajiio.in/9VbVoS7\nJeans : https://ajiio.in/7YxQmbv\nShirts : https://ajiio.in/DW595dC\nSweaters : https://ajiio.in/U4UBfxa\nSweatshirt : https://ajiio.in/z749iqG\nJackets : https://ajiio.in/E7motD8\nMore : https://ajiio.in/G309sgb\n\nWomen’s : https://ajiio.in/SF9227P\nSweaters : https://ajiio.in/jbs8m45\nTop : https://ajiio.in/ovomZHL\nShirts : https://ajiio.in/CE0wJWn\nJeans : https://ajiio.in/9bwilIA\nMore : https://ajiio.in/vc2SGs6\n\nMust Check & Surf All Pages (Filter All Link As Per Your Need) & Loot Fast",
-    "final_url": "https://ajiio.in/9VbVoS7",
-    "local_image": "assets/images/tgmsg_14126.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-23T18:32:15+00:00",
-    "buy_link": "https://ajiio.in/9VbVoS7",
-    "date_iso": "2025-10-23T18:32:15+00:00"
   }
 ]
