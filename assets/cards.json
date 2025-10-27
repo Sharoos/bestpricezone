@@ -1,5 +1,73 @@
 [
   {
+    "id": "msg14617",
+    "title": "🛒 Discount Up to 60% Off",
+    "description": "Myntra : 👕 Jack And Jones Clothing - Up to 60% Off 🛒 Discount : Up to 60% Off 👉https://myntr.in/UQ5P2t",
+    "shortlink": "https://myntr.in/UQ5P2t",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 Jack And Jones Clothing - Up to 60% Off"
+      },
+      {
+        "url": "https://myntr.in/UQ5P2t",
+        "label": "🛒 Discount : Up to 60% Off"
+      }
+    ],
+    "raw_text": "Myntra : 👕 Jack And Jones Clothing - Up to 60% Off\n\n🛒 Discount : Up to 60% Off\n\n👉https://myntr.in/UQ5P2t",
+    "final_url": "https://myntr.in/UQ5P2t",
+    "local_image": "assets/images/tgmsg_14617.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-27T13:34:58+00:00",
+    "buy_link": "https://myntr.in/UQ5P2t",
+    "date_iso": "2025-10-27T13:34:58+00:00"
+  },
+  {
+    "id": "msg14619",
+    "title": "👖 Cargo Pants Deal",
+    "description": "👕 AJIO T-Shirt Deals Starting at ₹80 🛒 Deal Price: Starting from ₹80 Women : Men : 👖 AJIO Cargo Pants Deals Men : Women :",
+    "shortlink": "https://ajiio.co/6sDMd6",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 AJIO T-Shirt Deals Starting at ₹80"
+      },
+      {
+        "url": "",
+        "label": "🛒 Deal Price: Starting from ₹80"
+      },
+      {
+        "url": "https://ajiio.co/6sDMd6",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/dFqo9f",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "👖 AJIO Cargo Pants Deals"
+      },
+      {
+        "url": "https://ajiio.co/TT94Iu",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/CBDyjS",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "👕 AJIO T-Shirt Deals Starting at ₹80\n\n🛒 Deal Price: Starting from ₹80\n\nWomen : https://ajiio.co/6sDMd6\nMen : https://ajiio.co/dFqo9f\n\n👖 AJIO Cargo Pants Deals\n\nMen : https://ajiio.co/TT94Iu\nWomen : https://ajiio.co/CBDyjS",
+    "final_url": "https://ajiio.co/6sDMd6",
+    "local_image": "assets/images/tgmsg_14619.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-27T13:45:15+00:00",
+    "buy_link": "https://ajiio.co/6sDMd6",
+    "date_iso": "2025-10-27T13:45:15+00:00"
+  },
+  {
     "id": "msg14614",
     "title": "Min 70% Off on HRX",
     "description": "Myntra :  👉 Track Pants, starts @ 311 : Sports Shoes : Tshirts starts @ 188 : Sweat Shirts starts @ 327 : Bags : Jackets starts @ 519 :",
@@ -10158,45 +10226,5 @@
     "date_obj": "2025-10-23T20:05:08+00:00",
     "buy_link": "https://myntr.in/22Jh8F",
     "date_iso": "2025-10-23T20:05:08+00:00"
-  },
-  {
-    "id": "msg14192",
-    "title": "Up to 70% Off on Laundry",
-    "description": "Ajio | Upto 70% Off on Laundry-Baskets-and-Dryers Starting @ just 407 👉Link : https://ajiio.co/DskL6P",
-    "shortlink": "https://ajiio.co/DskL6P",
-    "urls": [
-      {
-        "url": "https://ajiio.co/DskL6P",
-        "label": "Upto 70% Off on Laundry-Baskets-and-Dryers Starting @ just 407"
-      }
-    ],
-    "raw_text": "Ajio | Upto 70% Off on Laundry-Baskets-and-Dryers Starting @ just 407\n \n👉Link : https://ajiio.co/DskL6P",
-    "final_url": "https://ajiio.co/DskL6P",
-    "local_image": "assets/images/tgmsg_14192.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-23T20:10:07+00:00",
-    "buy_link": "https://ajiio.co/DskL6P",
-    "date_iso": "2025-10-23T20:10:07+00:00"
-  },
-  {
-    "id": "msg14188",
-    "title": "Tide Plus Detergent Washing Powde",
-    "description": "Amazon | Tide Plus Detergent Washing Powder - 10kg @ 765. https://www.amazon.in/dp/B07ZQDFG9R?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07ZQDFG9R?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07ZQDFG9R?psc=1&tag=bestpricezo0f-21",
-        "label": "Tide Plus Detergent Washing Powder - 10kg @ 765"
-      }
-    ],
-    "raw_text": "Amazon | Tide Plus Detergent Washing Powder - 10kg @ 765.\n\nhttps://www.amazon.in/dp/B07ZQDFG9R?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07ZQDFG9R?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14188.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-23T19:46:24+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07ZQDFG9R?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-23T19:46:24+00:00"
   }
 ]
