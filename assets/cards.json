@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg14562",
+    "title": "Shirts Starts @140",
+    "description": "AJIO : Men Polo T- Oversized. Women's : Men's : Kids Clothing Boys : Girls : Infants :",
+    "shortlink": "https://ajiio.co/mEyMCn",
+    "urls": [
+      {
+        "url": "https://ajiio.co/mEyMCn",
+        "label": "Men Polo T-Shirts Starts @140"
+      },
+      {
+        "url": "https://ajiio.co/Iq9Cdw",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/DGxuLL",
+        "label": "Men's"
+      },
+      {
+        "url": "",
+        "label": "Kids Clothing"
+      },
+      {
+        "url": "https://ajiio.co/eEKCyp",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/VP6fud",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/MM22iL",
+        "label": "Infants"
+      }
+    ],
+    "raw_text": "AJIO : Men Polo T-Shirts Starts @140\n\nhttps://ajiio.co/mEyMCn\n\nOversized. \nWomen's : https://ajiio.co/Iq9Cdw\nMen's : https://ajiio.co/DGxuLL\n\nKids Clothing \n\nBoys : https://ajiio.co/eEKCyp\nGirls : https://ajiio.co/VP6fud\nInfants : https://ajiio.co/MM22iL",
+    "final_url": "https://ajiio.co/mEyMCn",
+    "local_image": "assets/images/tgmsg_14562.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-27T05:16:03+00:00",
+    "buy_link": "https://ajiio.co/mEyMCn",
+    "date_iso": "2025-10-27T05:16:03+00:00"
+  },
+  {
     "id": "msg14560",
     "title": "Up to 70% Off On John Players Clothing",
     "description": "Ajio | Upto 70% Off On John Players Clothing. T-Shirt : Shirt : Trouser : Jeans : Sweatshirt : Jacket : + 10% Extra Ajio Cash",
@@ -10154,25 +10198,5 @@
     "date_obj": "2025-10-23T18:32:15+00:00",
     "buy_link": "https://ajiio.in/9VbVoS7",
     "date_iso": "2025-10-23T18:32:15+00:00"
-  },
-  {
-    "id": "msg14127",
-    "title": "GOVO 16W Bluetooth Soundbar @ 699",
-    "description": "Amazon | GOVO 16W Bluetooth Soundbar @ 699. 👉https://www.amazon.in/dp/B0CC9RR41T?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CC9RR41T?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CC9RR41T?th=1&tag=bestpricezo0f-21",
-        "label": "GOVO 16W Bluetooth Soundbar @ 699"
-      }
-    ],
-    "raw_text": "Amazon | GOVO 16W Bluetooth Soundbar @ 699.\n\n👉https://www.amazon.in/dp/B0CC9RR41T?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CC9RR41T?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14127.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-23T18:32:19+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CC9RR41T?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-23T18:32:19+00:00"
   }
 ]
