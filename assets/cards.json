@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg14560",
+    "title": "Up to 70% Off On John Players Clothing",
+    "description": "Ajio | Upto 70% Off On John Players Clothing. T-Shirt : Shirt : Trouser : Jeans : Sweatshirt : Jacket : + 10% Extra Ajio Cash",
+    "shortlink": "https://ajiio.co/05WsZw",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70% Off On John Players Clothing"
+      },
+      {
+        "url": "https://ajiio.co/05WsZw",
+        "label": "T-Shirt"
+      },
+      {
+        "url": "https://ajiio.co/uKWgv9",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://ajiio.co/LLdPDc",
+        "label": "Trouser"
+      },
+      {
+        "url": "https://ajiio.co/k4hm0b",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/al0CWq",
+        "label": "Sweatshirt"
+      },
+      {
+        "url": "https://ajiio.co/fELcVX",
+        "label": "Jacket"
+      },
+      {
+        "url": "",
+        "label": "+ 10% Extra Ajio Cash"
+      }
+    ],
+    "raw_text": "Ajio | Upto 70% Off On John Players Clothing.\n\nT-Shirt : https://ajiio.co/05WsZw\nShirt : https://ajiio.co/uKWgv9\nTrouser : https://ajiio.co/LLdPDc\nJeans : https://ajiio.co/k4hm0b\nSweatshirt : https://ajiio.co/al0CWq\nJacket : https://ajiio.co/fELcVX\n\n+ 10% Extra Ajio Cash",
+    "final_url": "https://ajiio.co/05WsZw",
+    "local_image": "assets/images/tgmsg_14560.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-27T05:03:14+00:00",
+    "buy_link": "https://ajiio.co/05WsZw",
+    "date_iso": "2025-10-27T05:03:14+00:00"
+  },
+  {
     "id": "msg14556",
     "title": "DNMX Clothing Starts @ Rs.101 + Bank offe",
     "description": "AJIO rs Men’s : T-Shirts : Jeans : Shirts : Sweaters & Cardigans : Sweatshirt & Hoodies : Shorts : Trousers & Jogger : Women's : T-shirts : Shirts & Tops : Jeans & Jeggings : Sweatshirts : Shirts : Jackets :",
@@ -10126,25 +10174,5 @@
     "date_obj": "2025-10-23T18:32:19+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CC9RR41T?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-23T18:32:19+00:00"
-  },
-  {
-    "id": "msg14128",
-    "title": "Min 78% Off On Svaraa",
-    "description": "Ajio | Min 78% Off On Svaraa 👉https://ajiio.co/t3f5pf",
-    "shortlink": "https://ajiio.co/t3f5pf",
-    "urls": [
-      {
-        "url": "https://ajiio.co/t3f5pf",
-        "label": "Min 78% Off On Svaraa"
-      }
-    ],
-    "raw_text": "Ajio | Min 78% Off On Svaraa\n\n👉https://ajiio.co/t3f5pf",
-    "final_url": "https://ajiio.co/t3f5pf",
-    "local_image": "assets/images/tgmsg_14128.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-23T18:32:38+00:00",
-    "buy_link": "https://ajiio.co/t3f5pf",
-    "date_iso": "2025-10-23T18:32:38+00:00"
   }
 ]
