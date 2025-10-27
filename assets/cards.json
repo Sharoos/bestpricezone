@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg14631",
+    "title": "Up to 80% Off On Aeropostale Clothing",
+    "description": "Myntra : Upto 80% Off On Aeropostale Clothing. Tshirt : Shirt : Trackpants : Jeans : Cargo Trousers : Backpacks : Casual Shoes :",
+    "shortlink": "https://myntr.in/qOijnA",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On Aeropostale Clothing"
+      },
+      {
+        "url": "https://myntr.in/qOijnA",
+        "label": "Tshirt"
+      },
+      {
+        "url": "https://myntr.in/XHoEcH",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://myntr.in/bFdK5t",
+        "label": "Trackpants"
+      },
+      {
+        "url": "https://myntr.in/SdPcJM",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://myntr.in/yaRxcH",
+        "label": "Cargo Trousers"
+      },
+      {
+        "url": "https://myntr.in/RmDCCS",
+        "label": "Backpacks"
+      },
+      {
+        "url": "https://myntr.in/q4rtne",
+        "label": "Casual Shoes"
+      }
+    ],
+    "raw_text": "Myntra : Upto 80% Off On Aeropostale Clothing.\n\nTshirt : https://myntr.in/qOijnA\nShirt : https://myntr.in/XHoEcH\nTrackpants : https://myntr.in/bFdK5t\nJeans : https://myntr.in/SdPcJM\nCargo Trousers : https://myntr.in/yaRxcH\nBackpacks : https://myntr.in/RmDCCS\nCasual Shoes : https://myntr.in/q4rtne",
+    "final_url": "https://myntr.in/qOijnA",
+    "local_image": "assets/images/tgmsg_14631.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-27T15:36:02+00:00",
+    "buy_link": "https://myntr.in/qOijnA",
+    "date_iso": "2025-10-27T15:36:02+00:00"
+  },
+  {
     "id": "msg14629",
     "title": "Up to 80% Off on Libas Clothing",
     "description": "Myntra : Upto 80% Off on Libas Clothing. https://myntr.in/qASW4l Kurta Sets : https://myntr.in/3jnEoq",
@@ -10094,29 +10142,5 @@
     "date_obj": "2025-10-24T05:03:42+00:00",
     "buy_link": "https://ajiio.co/ssPE32",
     "date_iso": "2025-10-24T05:03:42+00:00"
-  },
-  {
-    "id": "msg14203",
-    "title": "Up to 82% Off on Spykar Clothing & More",
-    "description": "Upto 82% Off on Spykar Clothing & More Men : https://ajiio.in/B7v9XLM Women : https://ajiio.in/aofLyVq",
-    "shortlink": "https://ajiio.in/B7v9XLM",
-    "urls": [
-      {
-        "url": "https://ajiio.in/B7v9XLM",
-        "label": "Upto 82% Off on Spykar Clothing & More"
-      },
-      {
-        "url": "https://ajiio.in/aofLyVq",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Upto 82% Off on Spykar Clothing & More\n\nMen : https://ajiio.in/B7v9XLM\nWomen : https://ajiio.in/aofLyVq",
-    "final_url": "https://ajiio.in/B7v9XLM",
-    "local_image": "assets/images/tgmsg_14203.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-24T05:09:28+00:00",
-    "buy_link": "https://ajiio.in/B7v9XLM",
-    "date_iso": "2025-10-24T05:09:28+00:00"
   }
 ]
