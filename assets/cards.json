@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14629",
+    "title": "Up to 80% Off on Libas Clothing",
+    "description": "Myntra : Upto 80% Off on Libas Clothing. https://myntr.in/qASW4l Kurta Sets : https://myntr.in/3jnEoq",
+    "shortlink": "https://myntr.in/qASW4l",
+    "urls": [
+      {
+        "url": "https://myntr.in/qASW4l",
+        "label": "Upto 80% Off on Libas Clothing"
+      },
+      {
+        "url": "https://myntr.in/3jnEoq",
+        "label": "Kurta Sets"
+      }
+    ],
+    "raw_text": "Myntra : Upto 80% Off on Libas Clothing.\n\nhttps://myntr.in/qASW4l\n\nKurta Sets : https://myntr.in/3jnEoq",
+    "final_url": "https://myntr.in/qASW4l",
+    "local_image": "assets/images/tgmsg_14629.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-27T15:16:26+00:00",
+    "buy_link": "https://myntr.in/qASW4l",
+    "date_iso": "2025-10-27T15:16:26+00:00"
+  },
+  {
     "id": "msg14627",
     "title": "Up to 60% Off On Pond's Beauty Product",
     "description": "Myntra : Up to 60% Off On Pond's Beauty Products. https://myntr.in/I1BwqZ",
@@ -10094,57 +10118,5 @@
     "date_obj": "2025-10-24T05:09:28+00:00",
     "buy_link": "https://ajiio.in/B7v9XLM",
     "date_iso": "2025-10-24T05:09:28+00:00"
-  },
-  {
-    "id": "msg14201",
-    "title": "Up to 80% Off John Players Clothing",
-    "description": "AJIO : Upto 80% Off : John Players Clothing Jeans – Shirts – T-Shirts – Trousers – Sweatshirts – Sweaters – Jackets – Waistcoats & Blazers –",
-    "shortlink": "https://ajiio.co/7tmB35",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off : John Players Clothing"
-      },
-      {
-        "url": "https://ajiio.co/7tmB35",
-        "label": "Jeans –"
-      },
-      {
-        "url": "https://ajiio.co/NKqn3f",
-        "label": "Shirts –"
-      },
-      {
-        "url": "https://ajiio.co/gdKqPD",
-        "label": "T-Shirts –"
-      },
-      {
-        "url": "https://ajiio.co/GMwule",
-        "label": "Trousers –"
-      },
-      {
-        "url": "https://ajiio.co/4IBxFn",
-        "label": "Sweatshirts –"
-      },
-      {
-        "url": "https://ajiio.co/JLOUmk",
-        "label": "Sweaters –"
-      },
-      {
-        "url": "https://ajiio.co/vrdNl3",
-        "label": "Jackets –"
-      },
-      {
-        "url": "https://ajiio.co/Fl4BPE",
-        "label": "Waistcoats & Blazers –"
-      }
-    ],
-    "raw_text": "AJIO : Upto 80% Off : John Players Clothing \n\nJeans – https://ajiio.co/7tmB35\nShirts – https://ajiio.co/NKqn3f\nT-Shirts – https://ajiio.co/gdKqPD\nTrousers – https://ajiio.co/GMwule\nSweatshirts – https://ajiio.co/4IBxFn\nSweaters – https://ajiio.co/JLOUmk\nJackets – https://ajiio.co/vrdNl3\nWaistcoats & Blazers – https://ajiio.co/Fl4BPE",
-    "final_url": "https://ajiio.co/7tmB35",
-    "local_image": "assets/images/tgmsg_14201.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-24T04:46:01+00:00",
-    "buy_link": "https://ajiio.co/7tmB35",
-    "date_iso": "2025-10-24T04:46:01+00:00"
   }
 ]
