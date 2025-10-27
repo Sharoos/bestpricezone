@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14635",
+    "title": "Home Decoration Items Starts From ₹99",
+    "description": "Myntra : Home Decoration Items Starts From ₹99. 👉https://myntr.in/vlFgp4",
+    "shortlink": "https://myntr.in/vlFgp4",
+    "urls": [
+      {
+        "url": "https://myntr.in/vlFgp4",
+        "label": "Home Decoration Items Starts From ₹99"
+      }
+    ],
+    "raw_text": "Myntra : Home Decoration Items Starts From ₹99.\n\n👉https://myntr.in/vlFgp4",
+    "final_url": "https://myntr.in/vlFgp4",
+    "local_image": "assets/images/tgmsg_14635.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-27T16:46:46+00:00",
+    "buy_link": "https://myntr.in/vlFgp4",
+    "date_iso": "2025-10-27T16:46:46+00:00"
+  },
+  {
     "id": "msg14632",
     "title": "All about You Min 50% off",
     "description": "AJIO | AAYU-All about You Min 50% off 👉Link- https://ajiio.co/nO1LT4 Tops And Tees under @₹399 (Teampsirit DNMX and more) 👉Link- https://ajiio.co/rqCcg0",
@@ -10002,45 +10022,5 @@
     "date_obj": "2025-10-24T05:46:10+00:00",
     "buy_link": "https://ajiio.co/vnDjeC",
     "date_iso": "2025-10-24T05:46:10+00:00"
-  },
-  {
-    "id": "msg14207",
-    "title": "Flat 75% Off on GAP Clothing (Premium Brand)",
-    "description": "AJIO Loot : Flat 75% Off on GAP Clothing (Premium Brand) Apply Coupon : LIMITED75 Men : https://ajiio.in/3SA9UVq Women : https://ajiio.in/7VlfQwl Boys : https://ajiio.in/DetPhgt Girls : https://ajiio.in/d038Nue Infants…",
-    "shortlink": "https://ajiio.in/3SA9UVq",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flat 75% Off on GAP Clothing (Premium Brand)"
-      },
-      {
-        "url": "https://ajiio.in/3SA9UVq",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.in/7VlfQwl",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.in/DetPhgt",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.in/d038Nue",
-        "label": "Girls"
-      },
-      {
-        "url": "https://ajiio.in/XPZzz6L",
-        "label": "Infants"
-      }
-    ],
-    "raw_text": "AJIO Loot : Flat 75% Off on GAP Clothing (Premium Brand)\n\nApply Coupon : LIMITED75\n\nMen : https://ajiio.in/3SA9UVq\nWomen : https://ajiio.in/7VlfQwl\nBoys : https://ajiio.in/DetPhgt\nGirls : https://ajiio.in/d038Nue\nInfants : https://ajiio.in/XPZzz6L",
-    "final_url": "https://ajiio.in/3SA9UVq",
-    "local_image": "assets/images/tgmsg_14207.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-24T05:40:06+00:00",
-    "buy_link": "https://ajiio.in/3SA9UVq",
-    "date_iso": "2025-10-24T05:40:06+00:00"
   }
 ]
