@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14602",
+    "title": "BSC Everything at ₹99",
+    "description": "BSC LOOT: Everything at ₹99 Link: https://bitli.in/nnS51vh • Free Shipping on orders above ₹299.",
+    "shortlink": "https://bitli.in/nnS51vh",
+    "urls": [
+      {
+        "url": "https://bitli.in/nnS51vh",
+        "label": "Everything at ₹99"
+      },
+      {
+        "url": "",
+        "label": "Free Shipping on orders above ₹299"
+      }
+    ],
+    "raw_text": "BSC LOOT: Everything at ₹99\n\nLink: https://bitli.in/nnS51vh\n\n• Free Shipping on orders above ₹299.",
+    "final_url": "https://bitli.in/nnS51vh",
+    "local_image": "assets/images/tgmsg_14602.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-10-27T11:09:20+00:00",
+    "buy_link": "https://bitli.in/nnS51vh",
+    "date_iso": "2025-10-27T11:09:20+00:00"
+  },
+  {
     "id": "msg14601",
     "title": "Bikano Bombay Mixture 800g at ₹149",
     "description": "Amazon | Bikano Bombay Mixture 800g at ₹149 👉 https://www.amazon.in/dp/B0F9T81MSB?tag=bestpricezo0f-21 Bikano Teekha Mixture 800g at ₹149 👉 https://www.amazon.in/dp/B0F9FQJ92P?tag=bestpricezo0f-21",
@@ -10054,49 +10078,5 @@
     "date_obj": "2025-10-23T19:28:32+00:00",
     "buy_link": "https://ajiio.co/RM9fxi",
     "date_iso": "2025-10-23T19:28:32+00:00"
-  },
-  {
-    "id": "msg14179",
-    "title": "Shirts Starts @140",
-    "description": "AJIO : Men Polo T- Oversized. Women's : Men's : Kids Clothing Boys : Girls : Infants :",
-    "shortlink": "https://ajiio.co/vJJoY4",
-    "urls": [
-      {
-        "url": "https://ajiio.co/vJJoY4",
-        "label": "Men Polo T-Shirts Starts @140"
-      },
-      {
-        "url": "https://ajiio.co/587HON",
-        "label": "Women's"
-      },
-      {
-        "url": "https://ajiio.co/zTw5OB",
-        "label": "Men's"
-      },
-      {
-        "url": "",
-        "label": "Kids Clothing"
-      },
-      {
-        "url": "https://ajiio.co/Vja4tr",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/QrlTru",
-        "label": "Girls"
-      },
-      {
-        "url": "https://ajiio.co/3nr8m9",
-        "label": "Infants"
-      }
-    ],
-    "raw_text": "AJIO : Men Polo T-Shirts Starts @140\n\nhttps://ajiio.co/vJJoY4\n\nOversized. \nWomen's : https://ajiio.co/587HON\nMen's : https://ajiio.co/zTw5OB\n\nKids Clothing \n\nBoys : https://ajiio.co/Vja4tr\nGirls : https://ajiio.co/QrlTru\nInfants : https://ajiio.co/3nr8m9",
-    "final_url": "https://ajiio.co/vJJoY4",
-    "local_image": "assets/images/tgmsg_14179.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-23T19:28:53+00:00",
-    "buy_link": "https://ajiio.co/vJJoY4",
-    "date_iso": "2025-10-23T19:28:53+00:00"
   }
 ]
