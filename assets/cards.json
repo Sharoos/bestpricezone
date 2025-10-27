@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg14637",
+    "title": "Up to 86% Off On Women Footwear 💥💥",
+    "description": "Myntra : Upto 86% Off On Women Footwear 💥💥 👉Flip Flops : 👉 Flats : 👉 Heels : 👉Shoes :",
+    "shortlink": "https://myntr.in/me0O2B",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 86% Off On Women Footwear 💥💥"
+      },
+      {
+        "url": "https://myntr.in/me0O2B",
+        "label": "Flip Flops"
+      },
+      {
+        "url": "https://myntr.in/Ay9yul",
+        "label": "Flats"
+      },
+      {
+        "url": "https://myntr.in/4VSVFT",
+        "label": "Heels"
+      },
+      {
+        "url": "https://myntr.in/rk0NJ7",
+        "label": "Shoes"
+      }
+    ],
+    "raw_text": "Myntra : Upto 86% Off On Women Footwear 💥💥\n\n👉Flip Flops : https://myntr.in/me0O2B\n👉 Flats : https://myntr.in/Ay9yul\n👉 Heels : https://myntr.in/4VSVFT\n👉Shoes : https://myntr.in/rk0NJ7",
+    "final_url": "https://myntr.in/me0O2B",
+    "local_image": "assets/images/tgmsg_14637.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-27T17:04:17+00:00",
+    "buy_link": "https://myntr.in/me0O2B",
+    "date_iso": "2025-10-27T17:04:17+00:00"
+  },
+  {
     "id": "msg14635",
     "title": "Home Decoration Items Starts From ₹99",
     "description": "Myntra : Home Decoration Items Starts From ₹99. 👉https://myntr.in/vlFgp4",
@@ -9974,53 +10010,5 @@
     "date_obj": "2025-10-24T06:16:21+00:00",
     "buy_link": "https://ajiio.co/50BsoX",
     "date_iso": "2025-10-24T06:16:21+00:00"
-  },
-  {
-    "id": "msg14208",
-    "title": "Up to 80% Off On Branded Clothing",
-    "description": "AJIO Upto 80% Off On Branded Clothing. Men's : Shirts : Jeans : T-shirts : Jackets : Sweatshirts : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "shortlink": "https://ajiio.co/vnDjeC",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 80% Off On Branded Clothing"
-      },
-      {
-        "url": "https://ajiio.co/vnDjeC",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/7LgIQY",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/YD1tUj",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/MMpE3U",
-        "label": "T-shirts"
-      },
-      {
-        "url": "https://ajiio.co/sZHQps",
-        "label": "Jackets"
-      },
-      {
-        "url": "https://ajiio.co/D34RjM",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On Branded Clothing.\n\nMen's : https://ajiio.co/vnDjeC\n\nShirts : https://ajiio.co/7LgIQY\nJeans : https://ajiio.co/YD1tUj\nT-shirts : https://ajiio.co/MMpE3U\nJackets : https://ajiio.co/sZHQps\nSweatshirts : https://ajiio.co/D34RjM\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "final_url": "https://ajiio.co/vnDjeC",
-    "local_image": "assets/images/tgmsg_14208.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-24T05:46:10+00:00",
-    "buy_link": "https://ajiio.co/vnDjeC",
-    "date_iso": "2025-10-24T05:46:10+00:00"
   }
 ]
