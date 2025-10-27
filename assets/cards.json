@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14673",
+    "title": "Boult Audio K40 True Wireless in Ear Earbuds @₹899",
+    "description": "Amazon | Boult Audio K40 True Wireless in Ear Earbuds @₹899 👉https://www.amazon.in/dp/B0CTCX6CHW?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CTCX6CHW?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CTCX6CHW?th=1&tag=bestpricezo0f-21",
+        "label": "Boult Audio K40 True Wireless in Ear Earbuds @₹899"
+      }
+    ],
+    "raw_text": "Amazon | Boult Audio K40 True Wireless in Ear Earbuds @₹899\n\n👉https://www.amazon.in/dp/B0CTCX6CHW?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CTCX6CHW?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14673.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-27T19:30:06+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CTCX6CHW?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-27T19:30:06+00:00"
+  },
+  {
     "id": "msg14667",
     "title": "🛒 Deal Price From ₹249",
     "description": "Amazon | 👖 Women's Jeans - Up to 92% Off! 🛒 Deal Price: From ₹249…",
@@ -9790,33 +9810,5 @@
     "date_obj": "2025-10-24T10:10:03+00:00",
     "buy_link": "https://extp.in/4r6uOO",
     "date_iso": "2025-10-24T10:10:03+00:00"
-  },
-  {
-    "id": "msg14247",
-    "title": "⚡️Belkin Qi2 10000mAH Magsafe Wireless Power Bank at Rs. 5999 + Bank Offers!!",
-    "description": "Myntra |  👉 ⚡️Belkin 20,000 mAh 15W USB-C 12W USB-A Power Bank at Rs. 2499 + Bank Offers!! 👉 ⚡️Belkin 5000 mAH Magsafe Wireless Power Bank at Rs. 2999 👉",
-    "shortlink": "https://myntr.in/XpAXd5",
-    "urls": [
-      {
-        "url": "https://myntr.in/XpAXd5",
-        "label": "⚡️Belkin Qi2 10000mAH Magsafe Wireless Power Bank at Rs. 5999 + Bank Offers!!"
-      },
-      {
-        "url": "https://myntr.in/dv66Xv",
-        "label": "⚡️Belkin 20,000 mAh 15W USB-C 12W USB-A Power Bank at Rs. 2499 + Bank Offers!!"
-      },
-      {
-        "url": "https://myntr.in/Oenzjh",
-        "label": "⚡️Belkin 5000 mAH Magsafe Wireless Power Bank at Rs. 2999"
-      }
-    ],
-    "raw_text": "Myntra | ⚡️Belkin Qi2 10000mAH Magsafe Wireless Power Bank at Rs. 5999 + Bank Offers!!\n👉https://myntr.in/XpAXd5\n\n⚡️Belkin 20,000 mAh 15W USB-C 12W USB-A Power Bank at Rs. 2499 + Bank Offers!!\n👉https://myntr.in/dv66Xv\n\n⚡️Belkin 5000 mAH Magsafe Wireless Power Bank at Rs. 2999\n👉https://myntr.in/Oenzjh",
-    "final_url": "https://myntr.in/XpAXd5",
-    "local_image": "assets/images/tgmsg_14247.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-24T10:15:20+00:00",
-    "buy_link": "https://myntr.in/XpAXd5",
-    "date_iso": "2025-10-24T10:15:20+00:00"
   }
 ]
