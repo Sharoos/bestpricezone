@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg14603",
+    "title": "Up to 85% Off On Jack & Jones Clothing",
+    "description": "Ajio | Upto 85% Off On Jack & Jones Clothing T-Shirt : Shirt : Jeans : Sweatshirt : Jacket : Shorts : Trackpant : Trouser :",
+    "shortlink": "https://ajiio.co/qap9rA",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% Off On Jack & Jones Clothing"
+      },
+      {
+        "url": "https://ajiio.co/qap9rA",
+        "label": "T-Shirt"
+      },
+      {
+        "url": "https://ajiio.co/0X7EBd",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://ajiio.co/iA4Hy7",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/oUuiaz",
+        "label": "Sweatshirt"
+      },
+      {
+        "url": "https://ajiio.co/5bj0Ic",
+        "label": "Jacket"
+      },
+      {
+        "url": "https://ajiio.co/gJKqXO",
+        "label": "Shorts"
+      },
+      {
+        "url": "https://ajiio.co/RLD7NK",
+        "label": "Trackpant"
+      },
+      {
+        "url": "https://ajiio.co/Acesl9",
+        "label": "Trouser"
+      }
+    ],
+    "raw_text": "Ajio | Upto 85% Off On Jack & Jones Clothing\n\nT-Shirt : https://ajiio.co/qap9rA\nShirt : https://ajiio.co/0X7EBd\nJeans : https://ajiio.co/iA4Hy7\nSweatshirt : https://ajiio.co/oUuiaz\nJacket : https://ajiio.co/5bj0Ic\nShorts : https://ajiio.co/gJKqXO\nTrackpant : https://ajiio.co/RLD7NK\nTrouser : https://ajiio.co/Acesl9",
+    "final_url": "https://ajiio.co/qap9rA",
+    "local_image": "assets/images/tgmsg_14603.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-27T11:31:29+00:00",
+    "buy_link": "https://ajiio.co/qap9rA",
+    "date_iso": "2025-10-27T11:31:29+00:00"
+  },
+  {
     "id": "msg14602",
     "title": "BSC Everything at ₹99",
     "description": "BSC LOOT: Everything at ₹99 Link: https://bitli.in/nnS51vh • Free Shipping on orders above ₹299.",
@@ -10054,29 +10106,5 @@
     "date_obj": "2025-10-23T19:26:34+00:00",
     "buy_link": "https://ajiio.co/VQCfEO",
     "date_iso": "2025-10-23T19:26:34+00:00"
-  },
-  {
-    "id": "msg14178",
-    "title": "Being human Min 65%",
-    "description": "Ajio | Monte Carlo- Min 30% https://ajiio.co/RM9fxi Being human Min 65% https://ajiio.co/kBG3Q5",
-    "shortlink": "https://ajiio.co/RM9fxi",
-    "urls": [
-      {
-        "url": "https://ajiio.co/RM9fxi",
-        "label": "Monte Carlo- Min 30%"
-      },
-      {
-        "url": "https://ajiio.co/kBG3Q5",
-        "label": "Being human Min 65%"
-      }
-    ],
-    "raw_text": "Ajio | Monte Carlo- Min 30%\nhttps://ajiio.co/RM9fxi\n\nBeing human Min 65%\nhttps://ajiio.co/kBG3Q5",
-    "final_url": "https://ajiio.co/RM9fxi",
-    "local_image": "assets/images/tgmsg_14178.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-23T19:28:32+00:00",
-    "buy_link": "https://ajiio.co/RM9fxi",
-    "date_iso": "2025-10-23T19:28:32+00:00"
   }
 ]
