@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg14574",
+    "title": "Up to 77% Off On USPA Clothing",
+    "description": "Ajio | Upto 77% Off On USPA Clothing. Men's https://ajiio.co/DhcXim Womens https://ajiio.co/tYQsBr Boys https://ajiio.co/ZPWGNJ Girls https://ajiio.co/XZoq3R",
+    "shortlink": "https://ajiio.co/DhcXim",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 77% Off On USPA Clothing"
+      },
+      {
+        "url": "https://ajiio.co/DhcXim",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/tYQsBr",
+        "label": "Womens"
+      },
+      {
+        "url": "https://ajiio.co/ZPWGNJ",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/XZoq3R",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "Ajio | Upto 77% Off On USPA Clothing.\n\nMen's https://ajiio.co/DhcXim\nWomens https://ajiio.co/tYQsBr\nBoys https://ajiio.co/ZPWGNJ\nGirls https://ajiio.co/XZoq3R",
+    "final_url": "https://ajiio.co/DhcXim",
+    "local_image": "assets/images/tgmsg_14574.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-27T06:53:06+00:00",
+    "buy_link": "https://ajiio.co/DhcXim",
+    "date_iso": "2025-10-27T06:53:06+00:00"
+  },
+  {
     "id": "msg14569",
     "title": "Up to 85% Off On Jack & Jones Clothing",
     "description": "Upto 85% Off On Jack & Jones Clothing T-Shirt : Shirt : Jeans : Sweatshirt : Jacket : Shorts : Trackpant : Trouser :",
@@ -10082,77 +10118,5 @@
     "date_obj": "2025-10-23T18:51:31+00:00",
     "buy_link": "https://ajiio.co/adRuV8",
     "date_iso": "2025-10-23T18:51:31+00:00"
-  },
-  {
-    "id": "msg14156",
-    "title": "DNMX Clothing Starts @ Rs.101 + Bank offe",
-    "description": "AJIO rs Men’s : T-Shirts : Jeans : Shirts : Sweaters & Cardigans : Sweatshirt & Hoodies : Shorts : Trousers & Jogger : Women's : T-shirts : Shirts & Tops : Jeans & Jeggings : Sweatshirts : Shirts : Jackets :",
-    "shortlink": "https://ajiio.co/3TjFUC",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO DNMX Clothing Starts @ Rs.101 + Bank offers"
-      },
-      {
-        "url": "https://ajiio.co/3TjFUC",
-        "label": "T-Shirts"
-      },
-      {
-        "url": "https://ajiio.co/eC8WnA",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/edvCax",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/H8N5iy",
-        "label": "Sweaters & Cardigans"
-      },
-      {
-        "url": "https://ajiio.co/9b8nr2",
-        "label": "Sweatshirt & Hoodies"
-      },
-      {
-        "url": "https://ajiio.co/gftKdZ",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.co/4hLsCW",
-        "label": "Trousers & Jogger"
-      },
-      {
-        "url": "https://ajiio.co/RpOc5n",
-        "label": "T-shirts"
-      },
-      {
-        "url": "https://ajiio.co/Pp7lEe",
-        "label": "Shirts & Tops"
-      },
-      {
-        "url": "https://ajiio.co/ZtZJRI",
-        "label": "Jeans & Jeggings"
-      },
-      {
-        "url": "https://ajiio.co/I8zczc",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://ajiio.co/fvBZcZ",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/NeANwH",
-        "label": "Jackets"
-      }
-    ],
-    "raw_text": "AJIO  DNMX Clothing Starts @ Rs.101 + Bank offers \n\nMen’s : \nT-Shirts : https://ajiio.co/3TjFUC \nJeans : https://ajiio.co/eC8WnA \nShirts : https://ajiio.co/edvCax \nSweaters & Cardigans : https://ajiio.co/H8N5iy \nSweatshirt & Hoodies : https://ajiio.co/9b8nr2 \nShorts : https://ajiio.co/gftKdZ \nTrousers & Jogger : https://ajiio.co/4hLsCW \n\nWomen's : \nT-shirts : https://ajiio.co/RpOc5n \nShirts & Tops : https://ajiio.co/Pp7lEe \nJeans & Jeggings : https://ajiio.co/ZtZJRI \nSweatshirts : https://ajiio.co/I8zczc \nShirts : https://ajiio.co/fvBZcZ \nJackets : https://ajiio.co/NeANwH",
-    "final_url": "https://ajiio.co/3TjFUC",
-    "local_image": "assets/images/tgmsg_14156.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-23T18:52:48+00:00",
-    "buy_link": "https://ajiio.co/3TjFUC",
-    "date_iso": "2025-10-23T18:52:48+00:00"
   }
 ]
