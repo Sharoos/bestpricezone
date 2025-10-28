@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg14754",
+    "title": "Up to 85% OFF On Red Tape Shoe",
+    "description": "Myntra | Upto 85% OFF On Red Tape Shoes 👉https://myntr.in/eQ08xV",
+    "shortlink": "https://myntr.in/eQ08xV",
+    "urls": [
+      {
+        "url": "https://myntr.in/eQ08xV",
+        "label": "Upto 85% OFF On Red Tape Shoes"
+      }
+    ],
+    "raw_text": "Myntra | Upto 85% OFF On Red Tape Shoes\n\n👉https://myntr.in/eQ08xV",
+    "final_url": "https://myntr.in/eQ08xV",
+    "local_image": "assets/images/tgmsg_14754.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-28T16:06:12+00:00",
+    "buy_link": "https://myntr.in/eQ08xV",
+    "date_iso": "2025-10-28T16:06:12+00:00"
+  },
+  {
+    "id": "msg14756",
+    "title": "URBN 100W 4 in 1 Quad Cable @ 499",
+    "description": "Amazon | URBN 100W 4 in 1 Quad Cable @ 499. 👉https://www.amazon.in/dp/B0CBKFPRPK?psc=1&tag=bestpricezo0f-21 Suitable for Laptops, Mobiles, Tablets",
+    "shortlink": "https://www.amazon.in/dp/B0CBKFPRPK?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CBKFPRPK?psc=1&tag=bestpricezo0f-21",
+        "label": "URBN 100W 4 in 1 Quad Cable @ 499"
+      },
+      {
+        "url": "",
+        "label": "Suitable for Laptops, Mobiles, Tablets"
+      }
+    ],
+    "raw_text": "Amazon | URBN 100W 4 in 1 Quad Cable @ 499.\n\n👉https://www.amazon.in/dp/B0CBKFPRPK?psc=1&tag=bestpricezo0f-21\n\nSuitable for Laptops, Mobiles, Tablets",
+    "final_url": "https://www.amazon.in/dp/B0CBKFPRPK?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14756.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-28T16:17:08+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CBKFPRPK?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-28T16:17:08+00:00"
+  },
+  {
     "id": "msg14753",
     "title": "Synthetic Leather Shoes for Men – Starts At Rs.298",
     "description": "Flipkart | Synthetic Leather Shoes for Men – Starts At Rs.298 👉Link : https://fkrt.co/YozX7n",
@@ -9982,61 +10026,5 @@
     "date_obj": "2025-10-24T19:32:16+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DFQ1R3W4?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-24T19:32:16+00:00"
-  },
-  {
-    "id": "msg14322",
-    "title": "Up to 70% Off On USPA Clothing",
-    "description": "Ajio | Upto 70% Off On USPA Clothing. Men's https://ajiio.co/Ezjh4m Womens https://ajiio.co/PP5tZg Boys https://ajiio.co/5ZoVJd Girls https://ajiio.co/m1Cwr5",
-    "shortlink": "https://ajiio.co/Ezjh4m",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 70% Off On USPA Clothing"
-      },
-      {
-        "url": "https://ajiio.co/Ezjh4m",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/PP5tZg",
-        "label": "Womens"
-      },
-      {
-        "url": "https://ajiio.co/5ZoVJd",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/m1Cwr5",
-        "label": "Girls"
-      }
-    ],
-    "raw_text": "Ajio | Upto 70% Off On USPA Clothing.\n\nMen's https://ajiio.co/Ezjh4m\nWomens https://ajiio.co/PP5tZg\nBoys https://ajiio.co/5ZoVJd\nGirls https://ajiio.co/m1Cwr5",
-    "final_url": "https://ajiio.co/Ezjh4m",
-    "local_image": "assets/images/tgmsg_14322.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-24T19:33:47+00:00",
-    "buy_link": "https://ajiio.co/Ezjh4m",
-    "date_iso": "2025-10-24T19:33:47+00:00"
-  },
-  {
-    "id": "msg14323",
-    "title": "U.S. POLO ASSN. Men Denim Jacket @1200",
-    "description": "Ajio | U.S. POLO ASSN. Men Denim Jacket @1200. https://ajiio.co/UFrMoT",
-    "shortlink": "https://ajiio.co/UFrMoT",
-    "urls": [
-      {
-        "url": "https://ajiio.co/UFrMoT",
-        "label": "U.S. POLO ASSN. Men Denim Jacket @1200"
-      }
-    ],
-    "raw_text": "Ajio | U.S. POLO ASSN. Men Denim Jacket @1200.\n\nhttps://ajiio.co/UFrMoT",
-    "final_url": "https://ajiio.co/UFrMoT",
-    "local_image": "assets/images/tgmsg_14323.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-24T19:36:30+00:00",
-    "buy_link": "https://ajiio.co/UFrMoT",
-    "date_iso": "2025-10-24T19:36:30+00:00"
   }
 ]
