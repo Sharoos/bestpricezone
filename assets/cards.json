@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14709",
+    "title": "Rowan Toys Starting from 599",
+    "description": "Myntra | Rowan Toys Starting from 599. 👉https://myntr.in/jjlBgD",
+    "shortlink": "https://myntr.in/jjlBgD",
+    "urls": [
+      {
+        "url": "https://myntr.in/jjlBgD",
+        "label": "Rowan Toys Starting from 599"
+      }
+    ],
+    "raw_text": "Myntra | Rowan Toys Starting from 599.\n\n👉https://myntr.in/jjlBgD",
+    "final_url": "https://myntr.in/jjlBgD",
+    "local_image": "assets/images/tgmsg_14709.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-28T08:50:00+00:00",
+    "buy_link": "https://myntr.in/jjlBgD",
+    "date_iso": "2025-10-28T08:50:00+00:00"
+  },
+  {
     "id": "msg14707",
     "title": "➤ 5% Off on Paytm Utility Bill Payment",
     "description": "[ Limited Time ] : Lifetime Free Axis Neo Credit Card 📌 Apply here : Top Benefits: ➤ Up to 40% Off on Zomato (twice a month) ➤ 10% Off on Blinkit & BookMyShow s ➤ 100% Cashback up to ₹300 on first utility bill (within…",
@@ -9762,49 +9782,5 @@
     "date_obj": "2025-10-24T17:46:28+00:00",
     "buy_link": "https://www.amazon.in/dp/B0C27SZCW3?tag=bestpricezo0f-21",
     "date_iso": "2025-10-24T17:46:28+00:00"
-  },
-  {
-    "id": "msg14290",
-    "title": "Up to 75% Off on Buda Jeans Mens Clothing",
-    "description": "Ajio : Upto 75% Off on Buda Jeans Mens Clothing. T-Shirt : Shirt : Jeans : Trackpant : Shorts : Earn Extra 10% AJIO SUPERCASH",
-    "shortlink": "https://ajiio.co/RLp4N5",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 75% Off on Buda Jeans Mens Clothing"
-      },
-      {
-        "url": "https://ajiio.co/RLp4N5",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://ajiio.co/yV9zbl",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://ajiio.co/hpuC0Y",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/56BlK8",
-        "label": "Trackpant"
-      },
-      {
-        "url": "https://ajiio.co/5U8X3D",
-        "label": "Shorts"
-      },
-      {
-        "url": "",
-        "label": "Earn Extra 10% AJIO SUPERCASH"
-      }
-    ],
-    "raw_text": "Ajio : Upto 75% Off on Buda Jeans Mens Clothing.\n\nT-Shirt :   https://ajiio.co/RLp4N5\nShirt :   https://ajiio.co/yV9zbl\nJeans :   https://ajiio.co/hpuC0Y\nTrackpant :   https://ajiio.co/56BlK8\nShorts :   https://ajiio.co/5U8X3D\n\n Earn Extra 10% AJIO SUPERCASH",
-    "final_url": "https://ajiio.co/RLp4N5",
-    "local_image": "assets/images/tgmsg_14290.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-24T17:32:15+00:00",
-    "buy_link": "https://ajiio.co/RLp4N5",
-    "date_iso": "2025-10-24T17:32:15+00:00"
   }
 ]
