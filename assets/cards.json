@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg14763",
+    "title": "\"Trendy Trolley Bags Min 80% off\"",
+    "description": "Flipkart | Sale Is Live!!! \"Sling Bags From Rs. 234\"  \"Backpacks, Laptop bags Under Rs. 399\" \"Handbags Under Rs. 199\" \"Provogue, Killer & more From Rs. 499\"",
+    "shortlink": "https://fkrt.co/z6FyEK",
+    "urls": [
+      {
+        "url": "",
+        "label": "Sale Is Live!!!"
+      },
+      {
+        "url": "https://fkrt.co/z6FyEK",
+        "label": "\"Sling Bags From Rs. 234\""
+      },
+      {
+        "url": "https://fkrt.co/qxUatp",
+        "label": "\"Trendy Trolley Bags Min 80% off\""
+      },
+      {
+        "url": "https://fkrt.co/dTLypA",
+        "label": "\"Backpacks, Laptop bags Under Rs. 399\""
+      },
+      {
+        "url": "https://fkrt.co/pJJ15I",
+        "label": "\"Handbags Under Rs. 199\""
+      },
+      {
+        "url": "https://fkrt.co/tUyJsk",
+        "label": "\"Provogue, Killer & more From Rs. 499\""
+      }
+    ],
+    "raw_text": "Flipkart | Sale Is Live!!!\n\n\"Sling Bags From Rs. 234\"\nhttps://fkrt.co/z6FyEK\n\n\"Trendy Trolley Bags Min 80% off\"\nhttps://fkrt.co/qxUatp\n\n\"Backpacks, Laptop bags Under Rs. 399\"\nhttps://fkrt.co/dTLypA\n\n\"Handbags Under Rs. 199\"\nhttps://fkrt.co/pJJ15I\n\n\"Provogue, Killer & more From Rs. 499\"\nhttps://fkrt.co/tUyJsk",
+    "final_url": "https://fkrt.co/z6FyEK",
+    "local_image": "assets/images/tgmsg_14763.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-28T17:46:46+00:00",
+    "buy_link": "https://fkrt.co/z6FyEK",
+    "date_iso": "2025-10-28T17:46:46+00:00"
+  },
+  {
     "id": "msg14761",
     "title": "🛏️ Min. 85% Off on Bedsheet",
     "description": "🔥 Bedsheets Mega Sale on Myntra! 🔥 s 🔗 🛏️ Double Bedsheets Under ₹299 (MRP ₹1799) 🔗 🛍️ Hurry! Limited-time deals, grab yours now! 🚀",
@@ -9954,41 +9994,5 @@
     "date_obj": "2025-10-25T04:10:47+00:00",
     "buy_link": "https://ajiio.co/fCleAc",
     "date_iso": "2025-10-25T04:10:47+00:00"
-  },
-  {
-    "id": "msg14336",
-    "title": "Up to 75% Off On John Players Brand Clothing",
-    "description": "AJIO : Upto 75% Off On John Players Brand Clothing T-Shirts : Jeans : Shirts : + 10% EXTRA AJIO CASH",
-    "shortlink": "https://ajiio.co/0rJ8rF",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 75% Off On John Players Brand Clothing"
-      },
-      {
-        "url": "https://ajiio.co/0rJ8rF",
-        "label": "T-Shirts"
-      },
-      {
-        "url": "https://ajiio.co/j3tkPL",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/SBAXWg",
-        "label": "Shirts"
-      },
-      {
-        "url": "",
-        "label": "+ 10% EXTRA AJIO CASH"
-      }
-    ],
-    "raw_text": "AJIO : Upto 75% Off On John Players Brand Clothing  \n \nT-Shirts : https://ajiio.co/0rJ8rF \nJeans : https://ajiio.co/j3tkPL \nShirts : https://ajiio.co/SBAXWg\n\n+ 10% EXTRA AJIO CASH",
-    "final_url": "https://ajiio.co/0rJ8rF",
-    "local_image": "assets/images/tgmsg_14336.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-25T04:25:45+00:00",
-    "buy_link": "https://ajiio.co/0rJ8rF",
-    "date_iso": "2025-10-25T04:25:45+00:00"
   }
 ]
