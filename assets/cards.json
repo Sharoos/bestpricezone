@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg14683",
+    "title": "+ 10% EXTRA CASH",
+    "description": "AJIO  Cargo Pants Starts at 590. Men : https://ajiio.co/Zs1qeP Women : https://ajiio.co/JhX4kI + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/Zs1qeP",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Cargo Pants Starts at 590"
+      },
+      {
+        "url": "https://ajiio.co/Zs1qeP",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/JhX4kI",
+        "label": "Women"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO  Cargo Pants Starts at 590. \n \nMen : https://ajiio.co/Zs1qeP \nWomen : https://ajiio.co/JhX4kI\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/Zs1qeP",
+    "local_image": "assets/images/tgmsg_14683.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-28T05:16:17+00:00",
+    "buy_link": "https://ajiio.co/Zs1qeP",
+    "date_iso": "2025-10-28T05:16:17+00:00"
+  },
+  {
     "id": "msg14680",
     "title": "Up to 75% Off On Puma Clothing & Footwea",
     "description": "Myntra : Upto 75% Off On Puma Clothing & Footwears. Men's : Women's : Boys : Girls :",
@@ -9762,29 +9794,5 @@
     "date_obj": "2025-10-24T12:15:20+00:00",
     "buy_link": "https://ajiio.co/wXjccW",
     "date_iso": "2025-10-24T12:15:20+00:00"
-  },
-  {
-    "id": "msg14260",
-    "title": "🛒 Deal Price ₹193",
-    "description": "Amazon | BLUE TEA - Hibiscus Tea - 50 gm 🛒 Deal Price : ₹193 👉https://www.amazon.in/gp/product/B07KWY1BMZ?smid=APJKHTNMIV2MP&th=1&language=en_IN&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/gp/product/B07KWY1BMZ?smid=APJKHTNMIV2MP&th=1&language=en_IN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "BLUE TEA - Hibiscus Tea - 50 gm"
-      },
-      {
-        "url": "https://www.amazon.in/gp/product/B07KWY1BMZ?smid=APJKHTNMIV2MP&th=1&language=en_IN&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price : ₹193"
-      }
-    ],
-    "raw_text": "Amazon | BLUE TEA - Hibiscus Tea - 50 gm\n\n🛒 Deal Price : ₹193\n\n👉https://www.amazon.in/gp/product/B07KWY1BMZ?smid=APJKHTNMIV2MP&th=1&language=en_IN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/gp/product/B07KWY1BMZ?smid=APJKHTNMIV2MP&th=1&language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14260.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-24T12:34:53+00:00",
-    "buy_link": "https://www.amazon.in/gp/product/B07KWY1BMZ?smid=APJKHTNMIV2MP&th=1&language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-24T12:34:53+00:00"
   }
 ]
