@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14724",
+    "title": "Wrogn Caps Up to 67% off starting From @280",
+    "description": "Myntra | Wrogn Caps upto 67% off starting From @280 👉https://myntr.in/0aodjX",
+    "shortlink": "https://myntr.in/0aodjX",
+    "urls": [
+      {
+        "url": "https://myntr.in/0aodjX",
+        "label": "Wrogn Caps upto 67% off starting From @280"
+      }
+    ],
+    "raw_text": "Myntra | Wrogn Caps upto 67% off starting From @280\n\n👉https://myntr.in/0aodjX",
+    "final_url": "https://myntr.in/0aodjX",
+    "local_image": "assets/images/tgmsg_14724.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-28T11:30:01+00:00",
+    "buy_link": "https://myntr.in/0aodjX",
+    "date_iso": "2025-10-28T11:30:01+00:00"
+  },
+  {
     "id": "msg14721",
     "title": "» 5% Cashback on Amazon, , Swiggy, Zomato, Myntra & More",
     "description": "Get Lifetime FREE HDFC Credit Cards 💳 💳HDFC Millennia Credit Card : Apply Now ➡️ » Lifetime Free (Till 31st Oct) » 5% Cashback on Amazon, Flipkart, Swiggy, Zomato, Myntra & More » 1% Cashback on All Other Spends » ₹1000…",
@@ -9762,25 +9782,5 @@
     "date_obj": "2025-10-24T18:31:20+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-24T18:31:20+00:00"
-  },
-  {
-    "id": "msg14295",
-    "title": "₹286",
-    "description": "₹286 https://fkrt.co/f1ZZxh",
-    "shortlink": "https://fkrt.co/f1ZZxh",
-    "urls": [
-      {
-        "url": "https://fkrt.co/f1ZZxh",
-        "label": ""
-      }
-    ],
-    "raw_text": "₹286\n\n https://fkrt.co/f1ZZxh",
-    "final_url": "https://fkrt.co/f1ZZxh",
-    "local_image": "assets/images/tgmsg_14295.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-24T18:31:47+00:00",
-    "buy_link": "https://fkrt.co/f1ZZxh",
-    "date_iso": "2025-10-24T18:31:47+00:00"
   }
 ]
