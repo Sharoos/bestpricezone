@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14714",
+    "title": "Cleaner Combo (7 Items) @416",
+    "description": "Flipkart | Cleaner Combo (7 Items) @416. 👉https://fkrt.co/jx8gtd",
+    "shortlink": "https://fkrt.co/jx8gtd",
+    "urls": [
+      {
+        "url": "https://fkrt.co/jx8gtd",
+        "label": "Cleaner Combo (7 Items) @416"
+      }
+    ],
+    "raw_text": "Flipkart | Cleaner Combo (7 Items) @416.\n\n👉https://fkrt.co/jx8gtd",
+    "final_url": "https://fkrt.co/jx8gtd",
+    "local_image": "assets/images/tgmsg_14714.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-28T09:32:19+00:00",
+    "buy_link": "https://fkrt.co/jx8gtd",
+    "date_iso": "2025-10-28T09:32:19+00:00"
+  },
+  {
     "id": "msg14710",
     "title": "🛒 Deal Price ₹189",
     "description": "Myntra | Double Size Bedsheet With 2 Pillow Covers 🛒 Deal Price : ₹189 👉https://myntr.in/rgKzcD",
@@ -9746,25 +9766,5 @@
     "date_obj": "2025-10-24T18:41:11+00:00",
     "buy_link": "https://ajiio.co/HIVgSs",
     "date_iso": "2025-10-24T18:41:11+00:00"
-  },
-  {
-    "id": "msg14300",
-    "title": "1 USB Hub @179",
-    "description": "Amazon | Zebronics 4-in-1 USB Hub @179 https://www.amazon.in/dp/B0F8J84FGQ?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F8J84FGQ?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F8J84FGQ?th=1&tag=bestpricezo0f-21",
-        "label": "Zebronics 4-in-1 USB Hub @179"
-      }
-    ],
-    "raw_text": "Amazon | Zebronics 4-in-1 USB Hub @179\n\nhttps://www.amazon.in/dp/B0F8J84FGQ?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F8J84FGQ?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14300.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-24T18:41:56+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F8J84FGQ?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-24T18:41:56+00:00"
   }
 ]
