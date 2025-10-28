@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg14761",
+    "title": "🛏️ Min. 85% Off on Bedsheet",
+    "description": "🔥 Bedsheets Mega Sale on Myntra! 🔥 s 🔗 🛏️ Double Bedsheets Under ₹299 (MRP ₹1799) 🔗 🛍️ Hurry! Limited-time deals, grab yours now! 🚀",
+    "shortlink": "https://myntr.in/XjvxrD",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Bedsheets Mega Sale on Myntra! 🔥"
+      },
+      {
+        "url": "https://myntr.in/XjvxrD",
+        "label": "🛏️ Min. 85% Off on Bedsheets"
+      },
+      {
+        "url": "https://myntr.in/0Fx52L",
+        "label": "🛏️ Double Bedsheets Under ₹299 (MRP ₹1799)"
+      },
+      {
+        "url": "",
+        "label": "🛍️ Hurry! Limited-time deals, grab yours now! 🚀"
+      }
+    ],
+    "raw_text": "🔥 Bedsheets Mega Sale on Myntra! 🔥\n\n🛏️ Min. 85% Off on Bedsheets\n🔗 https://myntr.in/XjvxrD\n\n🛏️ Double Bedsheets Under ₹299 (MRP ₹1799)\n🔗 https://myntr.in/0Fx52L\n\n🛍️ Hurry! Limited-time deals, grab yours now! 🚀",
+    "final_url": "https://myntr.in/XjvxrD",
+    "local_image": "assets/images/tgmsg_14761.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-28T17:34:18+00:00",
+    "buy_link": "https://myntr.in/XjvxrD",
+    "date_iso": "2025-10-28T17:34:18+00:00"
+  },
+  {
     "id": "msg14759",
     "title": "80% OFF on Top Brands 🔥🔥",
     "description": "Flipkart Fashion Mega Sale 📢📢 60- USPA, Jack & Jones – T-Shirts UCB, WROGN – Shirts Levi’s, Killer – Jeans Arrow, Raymond – Shirts & Trousers PUMA, Adidas – Sports Tees, Shorts, Trackpants",
@@ -9958,37 +9990,5 @@
     "date_obj": "2025-10-25T04:25:45+00:00",
     "buy_link": "https://ajiio.co/0rJ8rF",
     "date_iso": "2025-10-25T04:25:45+00:00"
-  },
-  {
-    "id": "msg14332",
-    "title": "TIARAA Offer on Bracelet",
-    "description": "TIARAA LOOT Offer on Bracelets Grab Any 3 Bracelets @199 INR (Including Shipping) ✅ Use Code: LOOT3 🛒 Add Any 3:",
-    "shortlink": "https://bitli.in/TWWrDzs",
-    "urls": [
-      {
-        "url": "",
-        "label": "TIARAA LOOT Offer on Bracelets"
-      },
-      {
-        "url": "",
-        "label": "Grab Any 3 Bracelets @199 INR (Including Shipping)"
-      },
-      {
-        "url": "",
-        "label": "✅ Use Code: LOOT3"
-      },
-      {
-        "url": "https://bitli.in/TWWrDzs",
-        "label": "🛒 Add Any 3"
-      }
-    ],
-    "raw_text": "TIARAA LOOT Offer on Bracelets\nGrab Any 3 Bracelets @199 INR (Including Shipping)\n\n✅ Use Code: LOOT3\n\n🛒 Add Any 3: https://bitli.in/TWWrDzs",
-    "final_url": "https://bitli.in/TWWrDzs",
-    "local_image": "assets/images/tgmsg_14332.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-10-25T03:51:49+00:00",
-    "buy_link": "https://bitli.in/TWWrDzs",
-    "date_iso": "2025-10-25T03:51:49+00:00"
   }
 ]
