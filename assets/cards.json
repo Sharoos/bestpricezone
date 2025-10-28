@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg14738",
+    "title": "Up to 81% Off On Branded Backpack",
+    "description": "Flipkart | Upto 81% Off On Branded Backpacks. Master Link : Skybags : Safari : Aristocrat :",
+    "shortlink": "https://fkrt.co/Hyt5eT",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 81% Off On Branded Backpacks"
+      },
+      {
+        "url": "https://fkrt.co/Hyt5eT",
+        "label": "Master"
+      },
+      {
+        "url": "https://fkrt.co/Fis23L",
+        "label": "Skybags"
+      },
+      {
+        "url": "https://fkrt.co/q90Udz",
+        "label": "Safari"
+      },
+      {
+        "url": "https://fkrt.co/UkKrhC",
+        "label": "Aristocrat"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 81% Off On Branded Backpacks. \n\nMaster Link : https://fkrt.co/Hyt5eT\n\nSkybags : https://fkrt.co/Fis23L\nSafari : https://fkrt.co/q90Udz\nAristocrat : https://fkrt.co/UkKrhC",
+    "final_url": "https://fkrt.co/Hyt5eT",
+    "local_image": "assets/images/tgmsg_14738.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-28T13:46:47+00:00",
+    "buy_link": "https://fkrt.co/Hyt5eT",
+    "date_iso": "2025-10-28T13:46:47+00:00"
+  },
+  {
     "id": "msg14735",
     "title": "Men's Casual Shirts Starts @179",
     "description": "Myntra . MasterLink : Highlander : Here & Now : Mast & Harbour : Roadster : The Indian Garage : Snitch : Campus Sutra :",
@@ -9902,25 +9938,5 @@
     "date_obj": "2025-10-24T19:28:12+00:00",
     "buy_link": "https://myntr.in/DPCvz0",
     "date_iso": "2025-10-24T19:28:12+00:00"
-  },
-  {
-    "id": "msg14319",
-    "title": "URBN 20000 mAh Premium Edition Nano Power Bank @1299",
-    "description": "Amazon | URBN 20000 mAh Premium Edition Nano Power Bank  @1299 https://www.amazon.in/dp/B0BXSR4ZBD?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0BXSR4ZBD?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BXSR4ZBD?th=1&tag=bestpricezo0f-21",
-        "label": "URBN 20000 mAh Premium Edition Nano Power Bank @1299"
-      }
-    ],
-    "raw_text": "Amazon | URBN 20000 mAh Premium Edition Nano Power Bank  @1299\n\nhttps://www.amazon.in/dp/B0BXSR4ZBD?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BXSR4ZBD?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14319.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-24T19:29:06+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BXSR4ZBD?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-24T19:29:06+00:00"
   }
 ]
