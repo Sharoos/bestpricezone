@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg14690",
+    "title": "Jack & Jones Min 50% Off",
+    "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/Itq2Wd",
+    "urls": [
+      {
+        "url": "https://ajiio.co/Itq2Wd",
+        "label": "🔥AJIO | Jeans & Shorts Under ₹499"
+      },
+      {
+        "url": "https://ajiio.co/fmhi1Y",
+        "label": "Performax Under ₹699"
+      },
+      {
+        "url": "https://ajiio.co/9rn56S",
+        "label": "Jack & Jones Min 50% Off"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "🔥AJIO | Jeans & Shorts Under ₹499\n👉https://ajiio.co/Itq2Wd\n\nPerformax Under ₹699\n👉https://ajiio.co/fmhi1Y\n\nJack & Jones Min 50% Off\n👉https://ajiio.co/9rn56S\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/Itq2Wd",
+    "local_image": "assets/images/tgmsg_14690.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-28T05:50:10+00:00",
+    "buy_link": "https://ajiio.co/Itq2Wd",
+    "date_iso": "2025-10-28T05:50:10+00:00"
+  },
+  {
     "id": "msg14683",
     "title": "+ 10% EXTRA CASH",
     "description": "AJIO  Cargo Pants Starts at 590. Men : https://ajiio.co/Zs1qeP Women : https://ajiio.co/JhX4kI + 10% EXTRA AJIO CASH",
@@ -9742,57 +9774,5 @@
     "date_obj": "2025-10-24T12:00:12+00:00",
     "buy_link": "https://myntr.in/FLHuYx",
     "date_iso": "2025-10-24T12:00:12+00:00"
-  },
-  {
-    "id": "msg14257",
-    "title": "👕 Topwear Clothing Under ₹199 & Up to 90% Off on Western Wea",
-    "description": "👕 Ajio: Topwear Clothing Under ₹199 & Up to 90% Off on Western Wear Men's: 🛒 Deal Price: Under ₹199 & Up to 90% Off Women's: 🛒 Deal Price: Under ₹199 & Up to 90% Off Boys: 🛒 Deal Price: Under ₹199 & Up to 90% Off Girls:…",
-    "shortlink": "https://ajiio.co/wXjccW",
-    "urls": [
-      {
-        "url": "https://ajiio.co/wXjccW",
-        "label": "🛒 Deal Price: Under ₹199 & Up to 90% Off"
-      },
-      {
-        "url": "https://ajiio.co/l0KlP0",
-        "label": "👕 Ajio: Topwear Clothing Under ₹199 & Up to 90% Off on Western Wear"
-      },
-      {
-        "url": "https://ajiio.co/ym6e0m",
-        "label": "🛒 Deal Price: Under ₹199 & Up to 90% Off"
-      },
-      {
-        "url": "https://ajiio.co/uYBNmF",
-        "label": "👕 Ajio: Topwear Clothing Under ₹199 & Up to 90% Off on Western Wear"
-      },
-      {
-        "url": "https://ajiio.co/q1c2za",
-        "label": "🛒 Deal Price: Under ₹199 & Up to 90% Off"
-      },
-      {
-        "url": "https://ajiio.co/YYEGj3",
-        "label": "👕 Ajio: Topwear Clothing Under ₹199 & Up to 90% Off on Western Wear"
-      },
-      {
-        "url": "https://ajiio.co/fzt2EK",
-        "label": "🛒 Deal Price: Under ₹199 & Up to 90% Off"
-      },
-      {
-        "url": "https://ajiio.co/3IHFa3",
-        "label": "👕 Ajio: Topwear Clothing Under ₹199 & Up to 90% Off on Western Wear"
-      },
-      {
-        "url": "https://ajiio.co/3d4X30",
-        "label": "🛒 Deal Price: Under ₹199"
-      }
-    ],
-    "raw_text": "👕 Ajio: Topwear Clothing Under ₹199 & Up to 90% Off on Western Wear\n\nMen's:\n\n🛒 Deal Price: Under ₹199 & Up to 90% Off\nhttps://ajiio.co/wXjccW\nhttps://ajiio.co/l0KlP0\n\nWomen's:\n\n🛒 Deal Price: Under ₹199 & Up to 90% Off\nhttps://ajiio.co/ym6e0m\nhttps://ajiio.co/uYBNmF\n\nBoys:\n\n🛒 Deal Price: Under ₹199 & Up to 90% Off\nhttps://ajiio.co/q1c2za\nhttps://ajiio.co/YYEGj3\n\nGirls:\n\n🛒 Deal Price: Under ₹199 & Up to 90% Off\nhttps://ajiio.co/fzt2EK\nhttps://ajiio.co/3IHFa3\n\nBaby:\n\n🛒 Deal Price: Under ₹199\nhttps://ajiio.co/3d4X30",
-    "final_url": "https://ajiio.co/wXjccW",
-    "local_image": "assets/images/tgmsg_14257.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-24T12:15:20+00:00",
-    "buy_link": "https://ajiio.co/wXjccW",
-    "date_iso": "2025-10-24T12:15:20+00:00"
   }
 ]
