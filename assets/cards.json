@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14758",
+    "title": "Beardo perfumes at Min 71% off",
+    "description": "Myntra | Beardo perfumes at Min 71% off Link : https://myntr.in/F5Das8",
+    "shortlink": "https://myntr.in/F5Das8",
+    "urls": [
+      {
+        "url": "https://myntr.in/F5Das8",
+        "label": "Beardo perfumes at Min 71% off"
+      }
+    ],
+    "raw_text": "Myntra | Beardo perfumes at Min 71% off\n\nLink : https://myntr.in/F5Das8",
+    "final_url": "https://myntr.in/F5Das8",
+    "local_image": "assets/images/tgmsg_14758.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-28T16:46:37+00:00",
+    "buy_link": "https://myntr.in/F5Das8",
+    "date_iso": "2025-10-28T16:46:37+00:00"
+  },
+  {
     "id": "msg14757",
     "title": "Extra 10% Cashback On Every Orde",
     "description": "Ajio | Vero Moda Twist-Front Top Starting @ Rs.690 👉 Extra 10% Ajio Cashback On Every Order",
@@ -9966,65 +9986,5 @@
     "date_obj": "2025-10-25T03:48:16+00:00",
     "buy_link": "https://myntr.in/7iPJQe",
     "date_iso": "2025-10-25T03:48:16+00:00"
-  },
-  {
-    "id": "msg14320",
-    "title": "Up to 86% Off On Red Tape Shoe",
-    "description": "AJIO Upto 86% Off On Red Tape Shoes. Men‘s : Women’s : New Balance : Adidas Shoes. Men’s : Women’s : Adidas Originals. Men’s : Women’s : More :",
-    "shortlink": "https://ajiio.co/skJKTm",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 86% Off On Red Tape Shoes"
-      },
-      {
-        "url": "https://ajiio.co/skJKTm",
-        "label": "Men‘s"
-      },
-      {
-        "url": "https://ajiio.co/rsDy86",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://ajiio.co/dVDxyX",
-        "label": "New Balance"
-      },
-      {
-        "url": "",
-        "label": "Adidas Shoes"
-      },
-      {
-        "url": "https://ajiio.co/9xBFAk",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.co/ynV2ZJ",
-        "label": "Women’s"
-      },
-      {
-        "url": "",
-        "label": "Adidas Originals"
-      },
-      {
-        "url": "https://ajiio.co/jhpJbg",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.co/cREEcC",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://ajiio.co/um9n8k",
-        "label": "More"
-      }
-    ],
-    "raw_text": "AJIO  Upto 86% Off On Red Tape Shoes.\n\nMen‘s : https://ajiio.co/skJKTm\nWomen’s : https://ajiio.co/rsDy86\n\nNew Balance : https://ajiio.co/dVDxyX\n\nAdidas Shoes. \nMen’s : https://ajiio.co/9xBFAk\nWomen’s : https://ajiio.co/ynV2ZJ\n\nAdidas Originals. \nMen’s : https://ajiio.co/jhpJbg\nWomen’s : https://ajiio.co/cREEcC\n\nMore : https://ajiio.co/um9n8k",
-    "final_url": "https://ajiio.co/skJKTm",
-    "local_image": "assets/images/tgmsg_14320.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-24T19:30:27+00:00",
-    "buy_link": "https://ajiio.co/skJKTm",
-    "date_iso": "2025-10-24T19:30:27+00:00"
   }
 ]
