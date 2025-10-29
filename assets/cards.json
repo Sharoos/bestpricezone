@@ -1,5 +1,101 @@
 [
   {
+    "id": "msg14875",
+    "title": "🛒 Discount Up to 90% Off",
+    "description": "Myntra | 👕 Kook N Keech - Up to 90% Off! Men's Clothing: 🛒 Discount: Up to 90% Off Women's Clothing: 🛒 Discount: Up to 90% Off Shoes: 🛒 Discount: Up to 90% Off ⌚ Watches: 🛒 Discount: Up to 90% Off",
+    "shortlink": "https://myntr.in/nU2MdD",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 Kook N Keech - Up to 90% Off!"
+      },
+      {
+        "url": "",
+        "label": "Men's Clothing"
+      },
+      {
+        "url": "https://myntr.in/nU2MdD",
+        "label": "🛒 Discount: Up to 90% Off"
+      },
+      {
+        "url": "",
+        "label": "Women's Clothing"
+      },
+      {
+        "url": "https://myntr.in/0OJGzV",
+        "label": "🛒 Discount: Up to 90% Off"
+      },
+      {
+        "url": "https://myntr.in/6zzENa",
+        "label": "🛒 Discount: Up to 90% Off"
+      },
+      {
+        "url": "https://myntr.in/tQhvgl",
+        "label": "🛒 Discount: Up to 90% Off"
+      }
+    ],
+    "raw_text": "Myntra | 👕 Kook N Keech - Up to 90% Off!\n\nMen's Clothing:\n\n🛒 Discount: Up to 90% Off\n\nhttps://myntr.in/nU2MdD\n\nWomen's Clothing:\n\n🛒 Discount: Up to 90% Off\n\nhttps://myntr.in/0OJGzV\n\nShoes:\n\n🛒 Discount: Up to 90% Off\n\nhttps://myntr.in/6zzENa\n\n⌚ Watches:\n\n🛒 Discount: Up to 90% Off\n\nhttps://myntr.in/tQhvgl",
+    "final_url": "https://myntr.in/nU2MdD",
+    "local_image": "assets/images/tgmsg_14875.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-29T18:50:59+00:00",
+    "buy_link": "https://myntr.in/nU2MdD",
+    "date_iso": "2025-10-29T18:50:59+00:00"
+  },
+  {
+    "id": "msg14876",
+    "title": "🛒 Deal Price ₹112",
+    "description": "Amazon | 🧼 Body Wash Bonanza! Palmolive Feel The Massage Body Wash, 250ml 🛒 Deal Price: ₹112",
+    "shortlink": "https://www.amazon.in/dp/B00791CPRY?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧼 Body Wash Bonanza!"
+      },
+      {
+        "url": "",
+        "label": "Palmolive Feel The Massage Body Wash, 250ml"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B00791CPRY?tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹112"
+      }
+    ],
+    "raw_text": "Amazon | 🧼 Body Wash Bonanza!\n\nPalmolive Feel The Massage Body Wash, 250ml\n\n🛒 Deal Price: ₹112\n\nhttps://www.amazon.in/dp/B00791CPRY?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B00791CPRY?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14876.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-29T18:52:40+00:00",
+    "buy_link": "https://www.amazon.in/dp/B00791CPRY?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-29T18:52:40+00:00"
+  },
+  {
+    "id": "msg14877",
+    "title": "🛒 Deal Price ₹266",
+    "description": "Flipkart | Wipro 10 W Basic Standard B22 LED Bulb 🛒 Deal Price: ₹266 https://fkrt.co/M48BMb",
+    "shortlink": "https://fkrt.co/M48BMb",
+    "urls": [
+      {
+        "url": "",
+        "label": "Wipro 10 W Basic Standard B22 LED Bulb"
+      },
+      {
+        "url": "https://fkrt.co/M48BMb",
+        "label": "🛒 Deal Price: ₹266"
+      }
+    ],
+    "raw_text": "Flipkart | Wipro 10 W Basic Standard B22 LED Bulb\n\n🛒 Deal Price: ₹266\n\nhttps://fkrt.co/M48BMb",
+    "final_url": "https://fkrt.co/M48BMb",
+    "local_image": "assets/images/tgmsg_14877.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-29T18:54:37+00:00",
+    "buy_link": "https://fkrt.co/M48BMb",
+    "date_iso": "2025-10-29T18:54:37+00:00"
+  },
+  {
     "id": "msg14866",
     "title": "Discount 40% Off",
     "description": "Flipkart | LOTUS HERBALS Whiteglow Skin Whitening and Brightening Gel Cream SPF .. Deal Price👨408Rs. ✅ Discount: 40% Off",
@@ -9906,69 +10002,5 @@
     "date_obj": "2025-10-25T18:47:06+00:00",
     "buy_link": "https://www.amazon.in/dp/B0C8NTDY55?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-25T18:47:06+00:00"
-  },
-  {
-    "id": "msg14445",
-    "title": "Flat ₹1000 Off With ICICI Bank Credit Card",
-    "description": "Amazon | OnePlus Buds Pro 3 Earbuds @7,999 https://www.amazon.in/dp/B0DQNTKTVF?th=1&psc=1&tag=bestpricezo0f-21 Flat ₹1000 Off With ICICI Bank Credit Card.",
-    "shortlink": "https://www.amazon.in/dp/B0DQNTKTVF?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DQNTKTVF?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "OnePlus Buds Pro 3 Earbuds @7,999"
-      },
-      {
-        "url": "",
-        "label": "Flat ₹1000 Off With ICICI Bank Credit Card"
-      }
-    ],
-    "raw_text": "Amazon | OnePlus Buds Pro 3 Earbuds @7,999\n\nhttps://www.amazon.in/dp/B0DQNTKTVF?th=1&psc=1&tag=bestpricezo0f-21\n\nFlat ₹1000 Off With ICICI Bank Credit Card.",
-    "final_url": "https://www.amazon.in/dp/B0DQNTKTVF?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14445.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-25T18:52:15+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DQNTKTVF?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-25T18:52:15+00:00"
-  },
-  {
-    "id": "msg14446",
-    "title": "V19Hd 18.5 Inch (46.99 Cm) Led Monitor @2699",
-    "description": "Amazon | ZEBRONICS Zeb-V19Hd 18.5 Inch (46.99 Cm) Led Monitor @2699 https://www.amazon.in/dp/B09GG4FT99?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B09GG4FT99?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B09GG4FT99?th=1&tag=bestpricezo0f-21",
-        "label": "ZEBRONICS Zeb-V19Hd 18.5 Inch (46.99 Cm) Led Monitor @2699"
-      }
-    ],
-    "raw_text": "Amazon | ZEBRONICS Zeb-V19Hd 18.5 Inch (46.99 Cm) Led Monitor @2699\n\nhttps://www.amazon.in/dp/B09GG4FT99?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B09GG4FT99?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14446.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-25T18:54:39+00:00",
-    "buy_link": "https://www.amazon.in/dp/B09GG4FT99?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-25T18:54:39+00:00"
-  },
-  {
-    "id": "msg14429",
-    "title": "Up to 36% off on Ddecor bedsheets and curtain",
-    "description": "Myntra | Upto 36% off on Ddecor bedsheets and curtains. Link : https://myntr.in/MG5rx3",
-    "shortlink": "https://myntr.in/MG5rx3",
-    "urls": [
-      {
-        "url": "https://myntr.in/MG5rx3",
-        "label": "Upto 36% off on Ddecor bedsheets and curtains"
-      }
-    ],
-    "raw_text": "Myntra | Upto 36% off on Ddecor bedsheets and curtains.\n\nLink : https://myntr.in/MG5rx3",
-    "final_url": "https://myntr.in/MG5rx3",
-    "local_image": "assets/images/tgmsg_14429.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-25T18:29:05+00:00",
-    "buy_link": "https://myntr.in/MG5rx3",
-    "date_iso": "2025-10-25T18:29:05+00:00"
   }
 ]
