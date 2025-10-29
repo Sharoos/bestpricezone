@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14885",
+    "title": "🛒 Deal Price ₹321",
+    "description": "Flipkart | Dabur Vedic Black Tea Pouch 🛒 Deal Price: ₹321 https://fkrt.co/RROUU5",
+    "shortlink": "https://fkrt.co/RROUU5",
+    "urls": [
+      {
+        "url": "",
+        "label": "Dabur Vedic Black Tea Pouch"
+      },
+      {
+        "url": "https://fkrt.co/RROUU5",
+        "label": "🛒 Deal Price: ₹321"
+      }
+    ],
+    "raw_text": "Flipkart | Dabur Vedic Black Tea Pouch\n\n🛒 Deal Price: ₹321\n\nhttps://fkrt.co/RROUU5",
+    "final_url": "https://fkrt.co/RROUU5",
+    "local_image": "assets/images/tgmsg_14885.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-29T19:39:56+00:00",
+    "buy_link": "https://fkrt.co/RROUU5",
+    "date_iso": "2025-10-29T19:39:56+00:00"
+  },
+  {
     "id": "msg14884",
     "title": "Ant Value ECO400 Non Modular Gaming Power Supply/PSU @₹899",
     "description": "Amazon | Ant Value ECO400 Non Modular Gaming Power Supply/PSU @₹899 https://www.amazon.in/dp/B0CZXNXQKH?th=1&tag=bestpricezo0f-21",
@@ -9990,53 +10014,5 @@
     "date_obj": "2025-10-26T04:21:11+00:00",
     "buy_link": "https://myntr.in/9agISM",
     "date_iso": "2025-10-26T04:21:11+00:00"
-  },
-  {
-    "id": "msg14453",
-    "title": "Up to 80% Off On Oversized T",
-    "description": "AJIO Upto 80% Off On Oversized T-Shirts Start @140 Men’s : Women’s : Polo T-Shirts : Jeans : Branded Innerwears : Men's Blazers & Waistcoat : + 10% AJIO Extra CASH",
-    "shortlink": "https://ajiio.co/3GR0Al",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 80% Off On Oversized T-Shirts Start @140"
-      },
-      {
-        "url": "https://ajiio.co/3GR0Al",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.co/NU8bk0",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://ajiio.co/76zkRT",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/zm2V60",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/K3JdXA",
-        "label": "Branded Innerwears"
-      },
-      {
-        "url": "https://ajiio.co/vMocZw",
-        "label": "Men's Blazers & Waistcoat"
-      },
-      {
-        "url": "",
-        "label": "+ 10% AJIO Extra CASH"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On Oversized T-Shirts Start @140\n\nMen’s : https://ajiio.co/3GR0Al\nWomen’s : https://ajiio.co/NU8bk0\n\nPolo T-Shirts : https://ajiio.co/76zkRT\nJeans : https://ajiio.co/zm2V60\nBranded Innerwears : https://ajiio.co/K3JdXA\nMen's Blazers & Waistcoat : https://ajiio.co/vMocZw\n\n+ 10% AJIO Extra CASH",
-    "final_url": "https://ajiio.co/3GR0Al",
-    "local_image": "assets/images/tgmsg_14453.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-26T03:36:17+00:00",
-    "buy_link": "https://ajiio.co/3GR0Al",
-    "date_iso": "2025-10-26T03:36:17+00:00"
   }
 ]
