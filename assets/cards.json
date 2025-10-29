@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg14791",
+    "title": "🧥 Winterwear Deals on Roadster!",
+    "description": "Myntra |  Sweatshirts: Men's Sweatshirts: Women's Sweatshirts: Sweaters: Men's Sweaters: Women's Sweaters:",
+    "shortlink": "https://myntr.in/UKJnpS",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧥 Winterwear Deals on Roadster!"
+      },
+      {
+        "url": "https://myntr.in/UKJnpS",
+        "label": "Men's Sweatshirts"
+      },
+      {
+        "url": "https://myntr.in/EaCZvy",
+        "label": "Women's Sweatshirts"
+      },
+      {
+        "url": "https://myntr.in/jlJCcw",
+        "label": "Men's Sweaters"
+      },
+      {
+        "url": "https://myntr.in/Ctvi2h",
+        "label": "Women's Sweaters"
+      }
+    ],
+    "raw_text": "Myntra | 🧥 Winterwear Deals on Roadster!\n\nSweatshirts:\n\nMen's Sweatshirts:\nhttps://myntr.in/UKJnpS\n\nWomen's Sweatshirts:\nhttps://myntr.in/EaCZvy\n\nSweaters:\n\nMen's Sweaters:\nhttps://myntr.in/jlJCcw\n\nWomen's Sweaters:\nhttps://myntr.in/Ctvi2h",
+    "final_url": "https://myntr.in/UKJnpS",
+    "local_image": "assets/images/tgmsg_14791.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-29T06:45:15+00:00",
+    "buy_link": "https://myntr.in/UKJnpS",
+    "date_iso": "2025-10-29T06:45:15+00:00"
+  },
+  {
     "id": "msg14784",
     "title": "Up to 3% Rio Coins back on UPI & Card Spends 💰",
     "description": "Apply for the Lifetime FREE RIO Credit Card & Earn assured cashback on EVERY Scan & Swipe 🔥🔥 👉 Apply Now: Benefits: • 1+1 Movie Tickets on District & BookMyShow 🎬 • Flat ₹150 Off on Zomato 🍕 • 40% Off on Swiggy Food &…",
@@ -10030,25 +10066,5 @@
     "date_obj": "2025-10-25T07:40:39+00:00",
     "buy_link": "https://bitli.in/ql5nxAw",
     "date_iso": "2025-10-25T07:40:39+00:00"
-  },
-  {
-    "id": "msg14357",
-    "title": "92% Off IZI Smart Pro with a 1.92\" Retina Display @709",
-    "description": "Amazon | 92% Off :IZI Smart Pro with a 1.92\" Retina Display @709 https://www.amazon.in/dp/B0BHNRTRJN?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0BHNRTRJN?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BHNRTRJN?psc=1&tag=bestpricezo0f-21",
-        "label": "92% Off :IZI Smart Pro with a 1.92\" Retina Display @709"
-      }
-    ],
-    "raw_text": "Amazon | 92% Off :IZI Smart Pro with a 1.92\" Retina Display @709\n\nhttps://www.amazon.in/dp/B0BHNRTRJN?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BHNRTRJN?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14357.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-25T07:36:14+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BHNRTRJN?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-25T07:36:14+00:00"
   }
 ]
