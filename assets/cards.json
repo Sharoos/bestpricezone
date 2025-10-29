@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg14819",
+    "title": "💥 Get UP TO 80% OFF on your favorite fashion & festive styles 👗👠",
+    "description": "🎉 Savana Holiday Season Sale is LIVE! 🎁  ✨ Trendy Outfits | Festive Wear | Accessories & More! 🛍 Perfect time to upgrade your wardrobe! 🔥 Shop Now Before the Best Deals Run Out! 👉 Shop Now :",
+    "shortlink": "https://extp.in/UyuV4c",
+    "urls": [
+      {
+        "url": "",
+        "label": "🎉 Savana Holiday Season Sale is LIVE! 🎁"
+      },
+      {
+        "url": "",
+        "label": "💥 Get UP TO 80% OFF on your favorite fashion & festive styles 👗👠"
+      },
+      {
+        "url": "",
+        "label": "✨ Trendy Outfits | Festive Wear | Accessories & More!"
+      },
+      {
+        "url": "",
+        "label": "🛍 Perfect time to upgrade your wardrobe!"
+      },
+      {
+        "url": "",
+        "label": "🔥 Shop Now Before the Best Deals Run Out!"
+      },
+      {
+        "url": "https://extp.in/UyuV4c",
+        "label": "Shop Now"
+      }
+    ],
+    "raw_text": "🎉 Savana Holiday Season Sale is LIVE! 🎁\n\n💥 Get UP TO 80% OFF on your favorite fashion & festive styles 👗👠\n\n✨ Trendy Outfits | Festive Wear | Accessories & More!\n🛍 Perfect time to upgrade your wardrobe!\n\n🔥 Shop Now Before the Best Deals Run Out!\n\n👉 Shop Now : https://extp.in/UyuV4c",
+    "final_url": "https://extp.in/UyuV4c",
+    "local_image": "assets/images/tgmsg_14819.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-10-29T10:45:05+00:00",
+    "buy_link": "https://extp.in/UyuV4c",
+    "date_iso": "2025-10-29T10:45:05+00:00"
+  },
+  {
     "id": "msg14816",
     "title": "Use Code DHAMAKA5 (Extra 5% Off)",
     "description": "Hyugalife : Avvatar Whey Protein - 1Kg @ ₹2214 👉Link : Use Code : DHAMAKA5 (Extra 5% Off)",
@@ -10046,29 +10086,5 @@
     "date_obj": "2025-10-25T10:41:17+00:00",
     "buy_link": "https://ajiio.co/JY8b4c",
     "date_iso": "2025-10-25T10:41:17+00:00"
-  },
-  {
-    "id": "msg14377",
-    "title": "🔥Branded Jeans Up to 80% Off Starts From ₹287",
-    "description": "🔥Myntra : Branded Jeans Upto 80% Off Starts From ₹287 Men : https://myntr.in/oNx2O4 Women : https://myntr.in/4y4BMV",
-    "shortlink": "https://myntr.in/oNx2O4",
-    "urls": [
-      {
-        "url": "https://myntr.in/oNx2O4",
-        "label": "🔥Myntra : Branded Jeans Upto 80% Off Starts From ₹287"
-      },
-      {
-        "url": "https://myntr.in/4y4BMV",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "🔥Myntra : Branded Jeans Upto 80% Off Starts From ₹287\n\nMen : https://myntr.in/oNx2O4\nWomen : https://myntr.in/4y4BMV",
-    "final_url": "https://myntr.in/oNx2O4",
-    "local_image": "assets/images/tgmsg_14377.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-25T10:21:04+00:00",
-    "buy_link": "https://myntr.in/oNx2O4",
-    "date_iso": "2025-10-25T10:21:04+00:00"
   }
 ]
