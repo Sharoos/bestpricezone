@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg14820",
+    "title": "Free Delivery+ Up to 300 Cashback Using Amazonpay",
+    "description": "BSC: Veleno EDP, 100 ml @399 ✅USE CODE: VELAFF • Free Delivery+ Upto 300 Cashback Using Amazonpay.",
+    "shortlink": "https://bitli.in/d5UPpjm",
+    "urls": [
+      {
+        "url": "",
+        "label": "Veleno EDP, 100 ml @399"
+      },
+      {
+        "url": "https://bitli.in/d5UPpjm",
+        "label": "✅USE CODE: VELAFF"
+      },
+      {
+        "url": "",
+        "label": "Free Delivery+ Upto 300 Cashback Using Amazonpay"
+      }
+    ],
+    "raw_text": "BSC: Veleno EDP, 100 ml @399\n\n✅USE CODE: VELAFF\n\nhttps://bitli.in/d5UPpjm\n\n• Free Delivery+ Upto 300 Cashback Using Amazonpay.",
+    "final_url": "https://bitli.in/d5UPpjm",
+    "local_image": "assets/images/tgmsg_14820.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-29T10:51:52+00:00",
+    "buy_link": "https://bitli.in/d5UPpjm",
+    "date_iso": "2025-10-29T10:51:52+00:00"
+  },
+  {
     "id": "msg14819",
     "title": "💥 Get UP TO 80% OFF on your favorite fashion & festive styles 👗👠",
     "description": "🎉 Savana Holiday Season Sale is LIVE! 🎁  ✨ Trendy Outfits | Festive Wear | Accessories & More! 🛍 Perfect time to upgrade your wardrobe! 🔥 Shop Now Before the Best Deals Run Out! 👉 Shop Now :",
@@ -10034,57 +10062,5 @@
     "date_obj": "2025-10-25T10:56:19+00:00",
     "buy_link": "https://www.amazon.in/dp/B0D7GQNL6B?tag=bestpricezo0f-21",
     "date_iso": "2025-10-25T10:56:19+00:00"
-  },
-  {
-    "id": "msg14380",
-    "title": "Up to 75% Off on Buda Jeans Co Clothing",
-    "description": "AJIO -  T-Shirts : Trousers : Shirts : Jeans : Sweatshirts : Jackets : Trackpants : *10% Ajio Super Cash On Every Order.",
-    "shortlink": "https://ajiio.co/JY8b4c",
-    "urls": [
-      {
-        "url": "",
-        "label": "Up to 75% Off on Buda Jeans Co Clothing"
-      },
-      {
-        "url": "https://ajiio.co/JY8b4c",
-        "label": "T-Shirts"
-      },
-      {
-        "url": "https://ajiio.co/zEOWC5",
-        "label": "Trousers"
-      },
-      {
-        "url": "https://ajiio.co/Mn9AN6",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/WPMFju",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/jkZnUF",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://ajiio.co/dx7MuZ",
-        "label": "Jackets"
-      },
-      {
-        "url": "https://ajiio.co/5o8xok",
-        "label": "Trackpants"
-      },
-      {
-        "url": "",
-        "label": "10% Ajio Super Cash On Every Order"
-      }
-    ],
-    "raw_text": "AJIO - Up to 75% Off on Buda Jeans Co Clothing \n\n T-Shirts : https://ajiio.co/JY8b4c\n Trousers : https://ajiio.co/zEOWC5\n Shirts : https://ajiio.co/Mn9AN6\n Jeans : https://ajiio.co/WPMFju\n Sweatshirts : https://ajiio.co/jkZnUF\n Jackets : https://ajiio.co/dx7MuZ\n Trackpants : https://ajiio.co/5o8xok\n\n*10% Ajio Super Cash On Every Order.",
-    "final_url": "https://ajiio.co/JY8b4c",
-    "local_image": "assets/images/tgmsg_14380.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-25T10:41:17+00:00",
-    "buy_link": "https://ajiio.co/JY8b4c",
-    "date_iso": "2025-10-25T10:41:17+00:00"
   }
 ]
