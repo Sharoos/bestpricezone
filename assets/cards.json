@@ -1,5 +1,85 @@
 [
   {
+    "id": "msg14806",
+    "title": "Fashion Sale is LIVE 🔥🔥",
+    "description": "Flipkart  Top fashion brands 👇 HIGHLANDER: Roadster: The Indian Garage Co: METRONAUT: Red Tape: Bewakoof: INVICTUS: Mast & Harbour: Snitch:",
+    "shortlink": "https://fkrt.co/cySJG3",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart Fashion Sale is LIVE 🔥🔥"
+      },
+      {
+        "url": "",
+        "label": "Top fashion brands 👇"
+      },
+      {
+        "url": "https://fkrt.co/cySJG3",
+        "label": "HIGHLANDER"
+      },
+      {
+        "url": "https://fkrt.co/VVReHL",
+        "label": "Roadster"
+      },
+      {
+        "url": "https://fkrt.co/NZoFJM",
+        "label": "The Indian Garage Co"
+      },
+      {
+        "url": "https://fkrt.co/8ycg8n",
+        "label": "METRONAUT"
+      },
+      {
+        "url": "https://fkrt.co/Pgxrv7",
+        "label": "Red Tape"
+      },
+      {
+        "url": "https://fkrt.co/R0bBWc",
+        "label": "Bewakoof"
+      },
+      {
+        "url": "https://fkrt.co/TQtgOJ",
+        "label": "INVICTUS"
+      },
+      {
+        "url": "https://fkrt.co/kpLKYA",
+        "label": "Mast & Harbour"
+      },
+      {
+        "url": "https://fkrt.co/allZdb",
+        "label": "Snitch"
+      }
+    ],
+    "raw_text": "Flipkart Fashion Sale is LIVE 🔥🔥\n\nTop fashion brands 👇\nHIGHLANDER: https://fkrt.co/cySJG3\nRoadster: https://fkrt.co/VVReHL\nThe Indian Garage Co: https://fkrt.co/NZoFJM\nMETRONAUT: https://fkrt.co/8ycg8n\nRed Tape: https://fkrt.co/Pgxrv7\nBewakoof: https://fkrt.co/R0bBWc\nINVICTUS: https://fkrt.co/TQtgOJ\nMast & Harbour: https://fkrt.co/kpLKYA\nSnitch: https://fkrt.co/allZdb",
+    "final_url": "https://fkrt.co/cySJG3",
+    "local_image": "assets/images/tgmsg_14806.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-29T08:56:47+00:00",
+    "buy_link": "https://fkrt.co/cySJG3",
+    "date_iso": "2025-10-29T08:56:47+00:00"
+  },
+  {
+    "id": "msg14807",
+    "title": "Up to 72% off on Superdry & GAP Premium Clothing",
+    "description": "Ajio | Upto 72% off on Superdry & GAP Premium Clothing 👉https://ajiio.co/t9ydJu",
+    "shortlink": "https://ajiio.co/t9ydJu",
+    "urls": [
+      {
+        "url": "https://ajiio.co/t9ydJu",
+        "label": "Upto 72% off on Superdry & GAP Premium Clothing"
+      }
+    ],
+    "raw_text": "Ajio | Upto 72% off on Superdry & GAP Premium Clothing\n\n👉https://ajiio.co/t9ydJu",
+    "final_url": "https://ajiio.co/t9ydJu",
+    "local_image": "assets/images/tgmsg_14807.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-29T09:00:06+00:00",
+    "buy_link": "https://ajiio.co/t9ydJu",
+    "date_iso": "2025-10-29T09:00:06+00:00"
+  },
+  {
     "id": "msg14805",
     "title": "Minimum 70% Off!",
     "description": "Myntra | Branded Men's Jeans -  Pepe Jeans 👉 Roadster 👉 The Indian Garage 👉 Highlander 👉 Campus Sutra 👉 Ketch 👉",
@@ -10006,45 +10086,5 @@
     "date_obj": "2025-10-25T09:42:03+00:00",
     "buy_link": "https://myntr.in/pjgtSn",
     "date_iso": "2025-10-25T09:42:03+00:00"
-  },
-  {
-    "id": "msg14367",
-    "title": "8 pcs Diwan Set starting @ 521",
-    "description": "Myntra | 8 pcs Diwan Set starting @ 521 👉https://myntr.in/6UvIDe",
-    "shortlink": "https://myntr.in/6UvIDe",
-    "urls": [
-      {
-        "url": "https://myntr.in/6UvIDe",
-        "label": "8 pcs Diwan Set starting @ 521"
-      }
-    ],
-    "raw_text": "Myntra | 8 pcs Diwan Set starting @ 521\n\n👉https://myntr.in/6UvIDe",
-    "final_url": "https://myntr.in/6UvIDe",
-    "local_image": "assets/images/tgmsg_14367.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-25T09:01:41+00:00",
-    "buy_link": "https://myntr.in/6UvIDe",
-    "date_iso": "2025-10-25T09:01:41+00:00"
-  },
-  {
-    "id": "msg14368",
-    "title": "Up to 80% Off On Lee Cooper Footwea",
-    "description": "Amazon | Upto 80% Off On Lee Cooper Footwear. https://www.amazon.in/s?k=Lee+Cooper+Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21&",
-    "shortlink": "https://www.amazon.in/s?k=Lee+Cooper+Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21&",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?k=Lee+Cooper+Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21&",
-        "label": "Upto 80% Off On Lee Cooper Footwear"
-      }
-    ],
-    "raw_text": "Amazon | Upto 80% Off On Lee Cooper Footwear.\n\nhttps://www.amazon.in/s?k=Lee+Cooper+Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21&",
-    "final_url": "https://www.amazon.in/s?k=Lee+Cooper+Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21&",
-    "local_image": "assets/images/tgmsg_14368.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-25T09:06:23+00:00",
-    "buy_link": "https://www.amazon.in/s?k=Lee+Cooper+Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21&",
-    "date_iso": "2025-10-25T09:06:23+00:00"
   }
 ]
