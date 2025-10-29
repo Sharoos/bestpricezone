@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg14860",
+    "title": "Men Polo Tshirts Starts at 180",
+    "description": "AJIO . Oversized Tshirts Starts at 120. Women : Men : Kids Clothing Boys : Girls : Infants :",
+    "shortlink": "https://ajiio.co/ubUnDz",
+    "urls": [
+      {
+        "url": "https://ajiio.co/ubUnDz",
+        "label": "AJIO Men Polo Tshirts Starts at 180"
+      },
+      {
+        "url": "",
+        "label": "Oversized Tshirts Starts at 120"
+      },
+      {
+        "url": "https://ajiio.co/jbHwmh",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/hZ7PEN",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Kids Clothing"
+      },
+      {
+        "url": "https://ajiio.co/I7v5mb",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/bLh8c2",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/aQQXAF",
+        "label": "Infants"
+      }
+    ],
+    "raw_text": "AJIO  Men Polo Tshirts Starts at 180.\n\nhttps://ajiio.co/ubUnDz\n\nOversized Tshirts Starts at 120.\n\nWomen : https://ajiio.co/jbHwmh\nMen : https://ajiio.co/hZ7PEN\n\nKids Clothing \n\nBoys : https://ajiio.co/I7v5mb\nGirls : https://ajiio.co/bLh8c2\nInfants : https://ajiio.co/aQQXAF",
+    "final_url": "https://ajiio.co/ubUnDz",
+    "local_image": "assets/images/tgmsg_14860.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-29T16:46:39+00:00",
+    "buy_link": "https://ajiio.co/ubUnDz",
+    "date_iso": "2025-10-29T16:46:39+00:00"
+  },
+  {
     "id": "msg14855",
     "title": "Up to 87% Off On Campus Sutra Clothing",
     "description": "Myntra  | Upto 87% Off On Campus Sutra Clothing. Men : https://myntr.in/XY6T5O Women : https://myntr.in/1aOWW3",
@@ -9914,33 +9962,5 @@
     "date_obj": "2025-10-25T18:09:16+00:00",
     "buy_link": "https://ajiio.in/uwR9fAF",
     "date_iso": "2025-10-25T18:09:16+00:00"
-  },
-  {
-    "id": "msg14427",
-    "title": "Tide Matic Liquid Detergent 2L",
-    "description": "Amazon | Tide Matic Liquid Detergent 2L @254: https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21 @232: https://www.amazon.in/dp/B0CF4WQ5D1?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Tide Matic Liquid Detergent 2L"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "@254"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0CF4WQ5D1?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "@232"
-      }
-    ],
-    "raw_text": "Amazon | Tide Matic Liquid Detergent 2L\n\n@254: https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21\n\n@232: https://www.amazon.in/dp/B0CF4WQ5D1?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14427.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-25T18:16:07+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CF4VX3YB?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-25T18:16:07+00:00"
   }
 ]
