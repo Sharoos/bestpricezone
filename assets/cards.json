@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg14783",
+    "title": "Ready to wear Sarees min 70% Off",
+    "description": "Flipkart Fashion Fest 💥💥 Ethnic Sets Flat Rs.299 Festive Ethnic Sets Flat Rs.399 Kanjivaram, Banarasi sarees Flat Rs.499 Lehenga Cholis Flat Rs.599 Anarkali Kurtis Flat Rs.299",
+    "shortlink": "https://fkrt.co/JXVQgW",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart Fashion Fest 💥💥"
+      },
+      {
+        "url": "https://fkrt.co/JXVQgW",
+        "label": "Ethnic Sets Flat Rs.299"
+      },
+      {
+        "url": "https://fkrt.co/rHdOT4",
+        "label": "Festive Ethnic Sets Flat Rs.399"
+      },
+      {
+        "url": "https://fkrt.co/TYsS8i",
+        "label": "Kanjivaram, Banarasi sarees Flat Rs.499"
+      },
+      {
+        "url": "https://fkrt.co/WT00Vf",
+        "label": "Lehenga Cholis Flat Rs.599"
+      },
+      {
+        "url": "https://fkrt.co/MLLJU1",
+        "label": "Anarkali Kurtis Flat Rs.299"
+      },
+      {
+        "url": "https://fkrt.co/WUkVgL",
+        "label": "Ready to wear Sarees min 70% Off"
+      }
+    ],
+    "raw_text": "Flipkart Fashion Fest 💥💥\n\nEthnic Sets Flat Rs.299 \nhttps://fkrt.co/JXVQgW\n\nFestive Ethnic Sets Flat Rs.399 \nhttps://fkrt.co/rHdOT4\n\nKanjivaram, Banarasi sarees Flat Rs.499 \nhttps://fkrt.co/TYsS8i\n\nLehenga Cholis Flat Rs.599 \nhttps://fkrt.co/WT00Vf\n\nAnarkali Kurtis Flat Rs.299 \nhttps://fkrt.co/MLLJU1\n\nReady to wear Sarees min 70% Off https://fkrt.co/WUkVgL",
+    "final_url": "https://fkrt.co/JXVQgW",
+    "local_image": "assets/images/tgmsg_14783.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-29T05:46:01+00:00",
+    "buy_link": "https://fkrt.co/JXVQgW",
+    "date_iso": "2025-10-29T05:46:01+00:00"
+  },
+  {
     "id": "msg14779",
     "title": "Up to 36% off on Ddecor bedsheets and curtain",
     "description": "Myntra | Upto 36% off on Ddecor bedsheets and curtains. Link : https://myntr.in/VJGoVM",
@@ -9910,25 +9954,5 @@
     "date_obj": "2025-10-25T06:06:10+00:00",
     "buy_link": "https://ajiio.co/9X7Ei7",
     "date_iso": "2025-10-25T06:06:10+00:00"
-  },
-  {
-    "id": "msg14350",
-    "title": "Voltas 1.5 Ton 5 Star, Inverter Split AC @ 38,490[ Effective ]",
-    "description": "Amazon | Voltas 1.5 Ton 5 Star, Inverter Split AC @ 38,490[ Effective ] 👉https://www.amazon.in/dp/B0BQR2T346?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0BQR2T346?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BQR2T346?psc=1&tag=bestpricezo0f-21",
-        "label": "Voltas 1.5 Ton 5 Star, Inverter Split AC @ 38,490[ Effective ]"
-      }
-    ],
-    "raw_text": "Amazon | Voltas 1.5 Ton 5 Star, Inverter Split AC @ 38,490[ Effective ] \n\n👉https://www.amazon.in/dp/B0BQR2T346?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BQR2T346?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14350.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-25T06:21:17+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BQR2T346?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-25T06:21:17+00:00"
   }
 ]
