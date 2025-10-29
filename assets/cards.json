@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg14797",
+    "title": "Samsung TV for ₹3,831",
+    "description": "Samsung TV for ₹3,831 https://fkrt.co/cZ7mTL Available On Selected Pincodes",
+    "shortlink": "https://fkrt.co/cZ7mTL",
+    "urls": [
+      {
+        "url": "https://fkrt.co/cZ7mTL",
+        "label": "Samsung TV for ₹3,831"
+      },
+      {
+        "url": "",
+        "label": "Available On Selected Pincodes"
+      }
+    ],
+    "raw_text": "Samsung TV for ₹3,831 \n\nhttps://fkrt.co/cZ7mTL\n\nAvailable On Selected Pincodes",
+    "final_url": "https://fkrt.co/cZ7mTL",
+    "local_image": "assets/images/tgmsg_14797.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-29T07:21:50+00:00",
+    "buy_link": "https://fkrt.co/cZ7mTL",
+    "date_iso": "2025-10-29T07:21:50+00:00"
+  },
+  {
+    "id": "msg14798",
+    "title": "HAVELLS Ambrose BLDC (Pack of 1) @3210",
+    "description": "Flipkart | HAVELLS Ambrose BLDC (Pack of 1) @3210 👉 https://fkrt.co/qMgv8n",
+    "shortlink": "https://fkrt.co/qMgv8n",
+    "urls": [
+      {
+        "url": "https://fkrt.co/qMgv8n",
+        "label": "HAVELLS Ambrose BLDC (Pack of 1) @3210"
+      }
+    ],
+    "raw_text": "Flipkart | HAVELLS Ambrose BLDC (Pack of 1) @3210\n\n👉 https://fkrt.co/qMgv8n",
+    "final_url": "https://fkrt.co/qMgv8n",
+    "local_image": "assets/images/tgmsg_14798.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-29T07:30:06+00:00",
+    "buy_link": "https://fkrt.co/qMgv8n",
+    "date_iso": "2025-10-29T07:30:06+00:00"
+  },
+  {
     "id": "msg14792",
     "title": "Up to 75% off on Men's Grooming Combo Kits 🔥🔥",
     "description": "Flipkart : Upto 75% off on Men's Grooming Combo Kits  🔥🔥 Master Link: https://fkrt.co/CHNeQE",
@@ -9942,45 +9986,5 @@
     "date_obj": "2025-10-25T09:21:31+00:00",
     "buy_link": "https://www.amazon.in/dp/B09J1BMZ7W?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-25T09:21:31+00:00"
-  },
-  {
-    "id": "msg14364",
-    "title": "Up to 89% Off",
-    "description": "Myntra | 👖 Biba Trousers - Up to 89% Off 🔗 https://myntr.in/0U3P6m",
-    "shortlink": "https://myntr.in/0U3P6m",
-    "urls": [
-      {
-        "url": "https://myntr.in/0U3P6m",
-        "label": "👖 Biba Trousers - Up to 89% Off"
-      }
-    ],
-    "raw_text": "Myntra | 👖 Biba Trousers - Up to 89% Off\n\n🔗 https://myntr.in/0U3P6m",
-    "final_url": "https://myntr.in/0U3P6m",
-    "local_image": "assets/images/tgmsg_14364.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-25T08:49:18+00:00",
-    "buy_link": "https://myntr.in/0U3P6m",
-    "date_iso": "2025-10-25T08:49:18+00:00"
-  },
-  {
-    "id": "msg14365",
-    "title": "Flat 53% Off on Dettol Icy Cool Body Wash, 500ml at Rs.220",
-    "description": "Amazon | Flat 53% Off on Dettol Icy Cool Body Wash, 500ml at Rs.220. https://www.amazon.in/dp/B0CRR82SVB?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CRR82SVB?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CRR82SVB?tag=bestpricezo0f-21",
-        "label": "Flat 53% Off on Dettol Icy Cool Body Wash, 500ml at Rs.220"
-      }
-    ],
-    "raw_text": "Amazon | Flat 53% Off on Dettol Icy Cool Body Wash, 500ml at Rs.220.\n\nhttps://www.amazon.in/dp/B0CRR82SVB?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CRR82SVB?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14365.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-25T08:51:25+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CRR82SVB?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-25T08:51:25+00:00"
   }
 ]
