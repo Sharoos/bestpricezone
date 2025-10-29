@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg14838",
+    "title": "💥Topwear Min 80% OFF",
+    "description": "💥AJIO : Topwear Min 80% OFF Link : https://ajiio.co/PxASDb",
+    "shortlink": "https://ajiio.co/PxASDb",
+    "urls": [
+      {
+        "url": "https://ajiio.co/PxASDb",
+        "label": "💥AJIO : Topwear Min 80% OFF"
+      }
+    ],
+    "raw_text": "💥AJIO : Topwear Min 80% OFF  \n \nLink : https://ajiio.co/PxASDb",
+    "final_url": "https://ajiio.co/PxASDb",
+    "local_image": "assets/images/tgmsg_14838.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-29T13:36:14+00:00",
+    "buy_link": "https://ajiio.co/PxASDb",
+    "date_iso": "2025-10-29T13:36:14+00:00"
+  },
+  {
+    "id": "msg14840",
+    "title": "Up to 85% Off On Branded Backpacks Starting @ ₹ 329",
+    "description": "Flipkart | Upto 85% Off On Branded Backpacks Starting @ ₹ 329 Skybags : Safari : Wildcraft : Gear : Lavie : American Tourister :",
+    "shortlink": "https://fkrt.co/0PkRfu",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% Off On Branded Backpacks Starting @ ₹ 329"
+      },
+      {
+        "url": "https://fkrt.co/0PkRfu",
+        "label": "Skybags"
+      },
+      {
+        "url": "https://fkrt.co/tdUM9l",
+        "label": "Safari"
+      },
+      {
+        "url": "https://fkrt.co/48Yv5x",
+        "label": "Wildcraft"
+      },
+      {
+        "url": "https://fkrt.co/sxkewQ",
+        "label": "Gear"
+      },
+      {
+        "url": "https://fkrt.co/h0EB1q",
+        "label": "Lavie"
+      },
+      {
+        "url": "https://fkrt.co/A4lJv4",
+        "label": "American Tourister"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 85% Off On Branded Backpacks Starting @ ₹ 329\n\nSkybags :https://fkrt.co/0PkRfu\nSafari :https://fkrt.co/tdUM9l \nWildcraft :https://fkrt.co/48Yv5x\nGear :https://fkrt.co/sxkewQ\nLavie :https://fkrt.co/h0EB1q\nAmerican Tourister :https://fkrt.co/A4lJv4",
+    "final_url": "https://fkrt.co/0PkRfu",
+    "local_image": "assets/images/tgmsg_14840.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-29T13:46:21+00:00",
+    "buy_link": "https://fkrt.co/0PkRfu",
+    "date_iso": "2025-10-29T13:46:21+00:00"
+  },
+  {
     "id": "msg14832",
     "title": "Iconic designs from across the world — now at UP TO 50% OFF 💥",
     "description": "🕰 TITAN INTERNATIONAL SALE 🌍  ✨ Featuring Premium Global Brands : 🔹 Anne Klein 🔹 Police 🔹 Coach 🔹 Tommy Hilfiger 🔹 Kenneth Cole 👉 Shop Here : ⏳ Limited Time Offer! Shop Now & Elevate Your Style.",
@@ -10034,77 +10098,5 @@
     "date_obj": "2025-10-25T14:56:33+00:00",
     "buy_link": "https://myntr.in/G0OrDH",
     "date_iso": "2025-10-25T14:56:33+00:00"
-  },
-  {
-    "id": "msg14403",
-    "title": "Up to 85% Off On Bewakoof Clothing",
-    "description": "Myntra | Upto 85% Off On Bewakoof Clothing Mens :  https://myntr.in/Ylkbqd Women :  https://myntr.in/6ozcDs",
-    "shortlink": "https://myntr.in/Ylkbqd",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On Bewakoof Clothing"
-      },
-      {
-        "url": "https://myntr.in/Ylkbqd",
-        "label": "Mens"
-      },
-      {
-        "url": "https://myntr.in/6ozcDs",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Myntra | Upto 85% Off On Bewakoof Clothing\n\nMens :  https://myntr.in/Ylkbqd\nWomen :  https://myntr.in/6ozcDs",
-    "final_url": "https://myntr.in/Ylkbqd",
-    "local_image": "assets/images/tgmsg_14403.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-25T15:11:40+00:00",
-    "buy_link": "https://myntr.in/Ylkbqd",
-    "date_iso": "2025-10-25T15:11:40+00:00"
-  },
-  {
-    "id": "msg14401",
-    "title": "Up to 74% Off On Being Human Men's Clothing",
-    "description": "Myntra : Upto 74% Off On Being Human Men's Clothing. T-Shirts : Shirts : Sweat-Shirts : Jackets : Jeans : Shorts & Trackpants :",
-    "shortlink": "https://myntr.in/kZtVL0",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 74% Off On Being Human Men's Clothing"
-      },
-      {
-        "url": "https://myntr.in/kZtVL0",
-        "label": "T-Shirts"
-      },
-      {
-        "url": "https://myntr.in/mhPKXl",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://myntr.in/teSjLh",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://myntr.in/mznaXc",
-        "label": "Jackets"
-      },
-      {
-        "url": "https://myntr.in/BgsN4r",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://myntr.in/ki6Oxv",
-        "label": "Shorts & Trackpants"
-      }
-    ],
-    "raw_text": "Myntra : Upto 74% Off On Being Human Men's Clothing.\n\nT-Shirts : https://myntr.in/kZtVL0\nShirts : https://myntr.in/mhPKXl\nSweat-Shirts : https://myntr.in/teSjLh\nJackets : https://myntr.in/mznaXc\nJeans : https://myntr.in/BgsN4r\nShorts & Trackpants : https://myntr.in/ki6Oxv",
-    "final_url": "https://myntr.in/kZtVL0",
-    "local_image": "assets/images/tgmsg_14401.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-25T14:41:27+00:00",
-    "buy_link": "https://myntr.in/kZtVL0",
-    "date_iso": "2025-10-25T14:41:27+00:00"
   }
 ]
