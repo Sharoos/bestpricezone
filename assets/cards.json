@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14816",
+    "title": "Use Code DHAMAKA5 (Extra 5% Off)",
+    "description": "Hyugalife : Avvatar Whey Protein - 1Kg @ ₹2214 👉Link : Use Code : DHAMAKA5 (Extra 5% Off)",
+    "shortlink": "https://extp.in/Si3Fbm",
+    "urls": [
+      {
+        "url": "https://extp.in/Si3Fbm",
+        "label": "Avvatar Whey Protein - 1Kg @ ₹2214"
+      },
+      {
+        "url": "",
+        "label": "DHAMAKA5 (Extra 5% Off)"
+      }
+    ],
+    "raw_text": "Hyugalife : Avvatar Whey Protein - 1Kg @ ₹2214\n\n👉Link : https://extp.in/Si3Fbm\n\nUse Code : DHAMAKA5 (Extra 5% Off)",
+    "final_url": "https://extp.in/Si3Fbm",
+    "local_image": "assets/images/tgmsg_14816.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-10-29T10:02:41+00:00",
+    "buy_link": "https://extp.in/Si3Fbm",
+    "date_iso": "2025-10-29T10:02:41+00:00"
+  },
+  {
     "id": "msg14813",
     "title": "Up to 85% Off on Tokyo Talkies Women's Clothing 🔥🔥",
     "description": "Flipkart: Upto 85% Off on Tokyo Talkies Women's Clothing 🔥🔥 Sweatshirts: Jackets: Dresses: Jeans: Trousers: Blazers: Jumpsuits: ✅ Buy more & Save more",
@@ -10046,49 +10070,5 @@
     "date_obj": "2025-10-25T10:21:04+00:00",
     "buy_link": "https://myntr.in/oNx2O4",
     "date_iso": "2025-10-25T10:21:04+00:00"
-  },
-  {
-    "id": "msg14379",
-    "title": "Up to 80% Off On Beauty Item",
-    "description": "Myntra : Upto 80% Off On Beauty Items. Lakmé : Pond's : BoroPlus : Livon : Vaseline : Master Link :",
-    "shortlink": "https://myntr.in/Mv8evC",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Beauty Items"
-      },
-      {
-        "url": "https://myntr.in/Mv8evC",
-        "label": "Lakmé"
-      },
-      {
-        "url": "https://myntr.in/B5Gnic",
-        "label": "Pond's"
-      },
-      {
-        "url": "https://myntr.in/lhg98s",
-        "label": "BoroPlus"
-      },
-      {
-        "url": "https://myntr.in/vz6qJh",
-        "label": "Livon"
-      },
-      {
-        "url": "https://myntr.in/Li4Pya",
-        "label": "Vaseline"
-      },
-      {
-        "url": "https://myntr.in/AGMqLO",
-        "label": "Master"
-      }
-    ],
-    "raw_text": "Myntra : Upto 80% Off On Beauty Items. \n\nLakmé : https://myntr.in/Mv8evC\nPond's : https://myntr.in/B5Gnic\nBoroPlus : https://myntr.in/lhg98s\nLivon : https://myntr.in/vz6qJh\nVaseline : https://myntr.in/Li4Pya\n\nMaster Link : https://myntr.in/AGMqLO",
-    "final_url": "https://myntr.in/Mv8evC",
-    "local_image": "assets/images/tgmsg_14379.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-25T10:27:07+00:00",
-    "buy_link": "https://myntr.in/Mv8evC",
-    "date_iso": "2025-10-25T10:27:07+00:00"
   }
 ]
