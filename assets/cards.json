@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14862",
+    "title": "Denim Shirts Up to 81% Off",
+    "description": "Flipkart | Denim Shirts Upto 81% Off 👉https://fkrt.co/PcHHip",
+    "shortlink": "https://fkrt.co/PcHHip",
+    "urls": [
+      {
+        "url": "https://fkrt.co/PcHHip",
+        "label": "Denim Shirts Upto 81% Off"
+      }
+    ],
+    "raw_text": "Flipkart | Denim Shirts Upto 81% Off\n\n👉https://fkrt.co/PcHHip",
+    "final_url": "https://fkrt.co/PcHHip",
+    "local_image": "assets/images/tgmsg_14862.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-29T17:33:15+00:00",
+    "buy_link": "https://fkrt.co/PcHHip",
+    "date_iso": "2025-10-29T17:33:15+00:00"
+  },
+  {
     "id": "msg14861",
     "title": "DNMX Clothing Starts @ Rs.101 + Bank offe",
     "description": "AJIO rs Men’s : T-Shirts : Jeans : Shirts : Sweaters & Cardigans : Sweatshirt & Hoodies : Shorts : Trousers & Jogger : Women's : T-shirts : Shirts & Tops : Jeans & Jeggings : Sweatshirts : Shirts : Jackets :",
@@ -9962,25 +9982,5 @@
     "date_obj": "2025-10-25T17:56:52+00:00",
     "buy_link": "https://extp.in/gqNo98",
     "date_iso": "2025-10-25T17:56:52+00:00"
-  },
-  {
-    "id": "msg14425",
-    "title": "Dove, Tresemme 1L Shampoo Combos at 70% Off",
-    "description": "Myntra | Dove, Tresemme 1L Shampoo Combos at 70% Off 👉Link : https://myntr.in/fq7QJY",
-    "shortlink": "https://myntr.in/fq7QJY",
-    "urls": [
-      {
-        "url": "https://myntr.in/fq7QJY",
-        "label": "Dove, Tresemme 1L Shampoo Combos at 70% Off"
-      }
-    ],
-    "raw_text": "Myntra | Dove, Tresemme 1L Shampoo Combos at 70% Off \n\n👉Link : https://myntr.in/fq7QJY",
-    "final_url": "https://myntr.in/fq7QJY",
-    "local_image": "assets/images/tgmsg_14425.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-25T18:04:44+00:00",
-    "buy_link": "https://myntr.in/fq7QJY",
-    "date_iso": "2025-10-25T18:04:44+00:00"
   }
 ]
