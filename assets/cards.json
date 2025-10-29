@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg14805",
+    "title": "Minimum 70% Off!",
+    "description": "Myntra | Branded Men's Jeans -  Pepe Jeans 👉 Roadster 👉 The Indian Garage 👉 Highlander 👉 Campus Sutra 👉 Ketch 👉",
+    "shortlink": "https://myntr.in/xtcKod",
+    "urls": [
+      {
+        "url": "",
+        "label": "Branded Men's Jeans - Minimum 70% Off!"
+      },
+      {
+        "url": "https://myntr.in/xtcKod",
+        "label": "Pepe Jeans"
+      },
+      {
+        "url": "https://myntr.in/lkIK45",
+        "label": "Pepe Jeans"
+      },
+      {
+        "url": "https://myntr.in/Qii6eV",
+        "label": "The Indian Garage"
+      },
+      {
+        "url": "https://myntr.in/mcpkDq",
+        "label": "The Indian Garage"
+      },
+      {
+        "url": "https://myntr.in/ex5SXK",
+        "label": "Campus Sutra"
+      },
+      {
+        "url": "https://myntr.in/G9QoxW",
+        "label": "Campus Sutra"
+      }
+    ],
+    "raw_text": "Myntra | Branded Men's Jeans - Minimum 70% Off!\n\nPepe Jeans\n👉https://myntr.in/xtcKod\n\nRoadster\n👉https://myntr.in/lkIK45\n\nThe Indian Garage\n👉https://myntr.in/Qii6eV\n\nHighlander\n👉https://myntr.in/mcpkDq\n\nCampus Sutra\n👉https://myntr.in/ex5SXK\n\nKetch\n👉https://myntr.in/G9QoxW",
+    "final_url": "https://myntr.in/xtcKod",
+    "local_image": "assets/images/tgmsg_14805.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-29T08:45:00+00:00",
+    "buy_link": "https://myntr.in/xtcKod",
+    "date_iso": "2025-10-29T08:45:00+00:00"
+  },
+  {
     "id": "msg14800",
     "title": "Men's Trousers From ₹186",
     "description": "Flipkart | Men's Trousers From ₹186 👉https://fkrt.co/OQYwHl",
@@ -10002,25 +10046,5 @@
     "date_obj": "2025-10-25T09:06:23+00:00",
     "buy_link": "https://www.amazon.in/s?k=Lee+Cooper+Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21&",
     "date_iso": "2025-10-25T09:06:23+00:00"
-  },
-  {
-    "id": "msg14369",
-    "title": "Dove, Tresemme 1L Shampoo Combos at 65% Off",
-    "description": "Myntra | Dove, Tresemme 1L Shampoo Combos at 65% Off 👉Link : https://myntr.in/k0kqw7",
-    "shortlink": "https://myntr.in/k0kqw7",
-    "urls": [
-      {
-        "url": "https://myntr.in/k0kqw7",
-        "label": "Dove, Tresemme 1L Shampoo Combos at 65% Off"
-      }
-    ],
-    "raw_text": "Myntra | Dove, Tresemme 1L Shampoo Combos at 65% Off \n\n👉Link : https://myntr.in/k0kqw7",
-    "final_url": "https://myntr.in/k0kqw7",
-    "local_image": "assets/images/tgmsg_14369.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-25T09:12:08+00:00",
-    "buy_link": "https://myntr.in/k0kqw7",
-    "date_iso": "2025-10-25T09:12:08+00:00"
   }
 ]
