@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14891",
+    "title": "Pigeon Electric Kettle, 1.5L @ 579",
+    "description": "Flipkart | Pigeon Electric Kettle, 1.5L @ 579. https://fkrt.co/gp63gS",
+    "shortlink": "https://fkrt.co/gp63gS",
+    "urls": [
+      {
+        "url": "https://fkrt.co/gp63gS",
+        "label": "Pigeon Electric Kettle, 1.5L @ 579"
+      }
+    ],
+    "raw_text": "Flipkart | Pigeon Electric Kettle, 1.5L @ 579.\n\nhttps://fkrt.co/gp63gS",
+    "final_url": "https://fkrt.co/gp63gS",
+    "local_image": "assets/images/tgmsg_14891.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-30T04:45:45+00:00",
+    "buy_link": "https://fkrt.co/gp63gS",
+    "date_iso": "2025-10-30T04:45:45+00:00"
+  },
+  {
     "id": "msg14889",
     "title": "EcoLink 9W Led Bulb (Pack of 2) @ 69",
     "description": "Amazon | EcoLink 9W Led Bulb (Pack of 2) @ 69. 👉https://www.amazon.in/dp/B09GPK49SX?tag=bestpricezo0f-21 Min Buy 2 Qty",
@@ -9946,25 +9966,5 @@
     "date_obj": "2025-10-26T05:06:27+00:00",
     "buy_link": "https://www.amazon.in/dp/B01GFTEV5Y?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-26T05:06:27+00:00"
-  },
-  {
-    "id": "msg14462",
-    "title": "KENT Digital Air Fryer 6.5L @3349",
-    "description": "Amazon | KENT Digital Air Fryer 6.5L @3349 https://www.amazon.in/dp/B0FH6CHP7K?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FH6CHP7K?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FH6CHP7K?tag=bestpricezo0f-21",
-        "label": "KENT Digital Air Fryer 6.5L @3349"
-      }
-    ],
-    "raw_text": "Amazon | KENT Digital Air Fryer 6.5L @3349\n\nhttps://www.amazon.in/dp/B0FH6CHP7K?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FH6CHP7K?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14462.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-26T05:21:12+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FH6CHP7K?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-26T05:21:12+00:00"
   }
 ]
