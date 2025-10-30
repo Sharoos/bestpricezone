@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg14935",
+    "title": "Reliance Digital Earphones Start @199",
+    "description": "Reliance Digital: Earphones Start @199 👉 https://extp.in/ws662c Headphones: https://extp.in/XuPz0d Earbuds: https://extp.in/GMqNhU Wired Earphone: https://extp.in/3pusbq",
+    "shortlink": "https://extp.in/ws662c",
+    "urls": [
+      {
+        "url": "https://extp.in/ws662c",
+        "label": "Earphones Start @199"
+      },
+      {
+        "url": "https://extp.in/XuPz0d",
+        "label": "Headphones"
+      },
+      {
+        "url": "https://extp.in/GMqNhU",
+        "label": "Earbuds"
+      },
+      {
+        "url": "https://extp.in/3pusbq",
+        "label": "Wired Earphone"
+      }
+    ],
+    "raw_text": "Reliance Digital: Earphones Start @199\n\n👉 https://extp.in/ws662c\n\nHeadphones: https://extp.in/XuPz0d\nEarbuds: https://extp.in/GMqNhU\nWired Earphone: https://extp.in/3pusbq",
+    "final_url": "https://extp.in/ws662c",
+    "local_image": "assets/images/tgmsg_14935.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-10-30T10:45:16+00:00",
+    "buy_link": "https://extp.in/ws662c",
+    "date_iso": "2025-10-30T10:45:16+00:00"
+  },
+  {
     "id": "msg14930",
     "title": "Highlander Men's Jacket From @528",
     "description": "Highlander Men's Jacket From @528 https://myntr.in/UhArp1",
@@ -9978,33 +10010,5 @@
     "date_obj": "2025-10-26T14:04:02+00:00",
     "buy_link": "https://ajiio.co/cIxMqx",
     "date_iso": "2025-10-26T14:04:02+00:00"
-  },
-  {
-    "id": "msg14503",
-    "title": "🔥RedTape Min 82% Off",
-    "description": "🔥Myntra | RedTape Min 82% Off : 🖇️ Adidas Asics Min 50% Off : 🖇️ Campus Asian Min 40% Off : 🖇️",
-    "shortlink": "https://myntr.in/rDY8HF",
-    "urls": [
-      {
-        "url": "https://myntr.in/rDY8HF",
-        "label": "🔥Myntra | RedTape Min 82% Off"
-      },
-      {
-        "url": "https://myntr.in/lnxwOe",
-        "label": "Adidas Asics Min 50% Off"
-      },
-      {
-        "url": "https://myntr.in/Ch0N50",
-        "label": "Campus Asian Min 40% Off"
-      }
-    ],
-    "raw_text": "🔥Myntra | RedTape Min 82% Off : \n🖇️https://myntr.in/rDY8HF\n\nAdidas Asics Min 50% Off : \n🖇️https://myntr.in/lnxwOe\n\nCampus Asian Min 40% Off : \n🖇️https://myntr.in/Ch0N50",
-    "final_url": "https://myntr.in/rDY8HF",
-    "local_image": "assets/images/tgmsg_14503.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-26T13:46:34+00:00",
-    "buy_link": "https://myntr.in/rDY8HF",
-    "date_iso": "2025-10-26T13:46:34+00:00"
   }
 ]
