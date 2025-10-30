@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14969",
+    "title": "+ 10% EXTRA CASH",
+    "description": "Ajio | Rugs, Carpets & Dhurries Starting @ just ₹120 Link : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/BJmVRM",
+    "urls": [
+      {
+        "url": "https://ajiio.co/BJmVRM",
+        "label": "Rugs, Carpets & Dhurries Starting @ just ₹120"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "Ajio | Rugs, Carpets & Dhurries Starting @ just ₹120\n \nLink : https://ajiio.co/BJmVRM\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/BJmVRM",
+    "local_image": "assets/images/tgmsg_14969.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-30T14:48:54+00:00",
+    "buy_link": "https://ajiio.co/BJmVRM",
+    "date_iso": "2025-10-30T14:48:54+00:00"
+  },
+  {
     "id": "msg14966",
     "title": "🌟Up to 80% Off On Mast & Harbour Men's Clothing.🔥🔥",
     "description": "🌟Myntra : Upto 80% Off On Mast & Harbour Men's Clothing.🔥🔥 🖇️T-Shirt : 🖇️Shirt : 🖇️Jeans :",
@@ -9918,29 +9942,5 @@
     "date_obj": "2025-10-26T18:36:04+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DRVZBH4S?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-26T18:36:04+00:00"
-  },
-  {
-    "id": "msg14534",
-    "title": "C 400g @ 135",
-    "description": "Amazon | Dabur GlucoPlus-C 400g @ 135. https://www.amazon.in/dp/B017IOXZF2?psc=1&th=1&tag=bestpricezo0f-21 https://www.amazon.in/dp/B017IOY90W?psc=1&th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B017IOXZF2?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B017IOXZF2?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "Dabur GlucoPlus-C 400g @ 135"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B017IOY90W?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "Dabur GlucoPlus-C 400g @ 135"
-      }
-    ],
-    "raw_text": "Amazon | Dabur GlucoPlus-C 400g @ 135.\n\nhttps://www.amazon.in/dp/B017IOXZF2?psc=1&th=1&tag=bestpricezo0f-21\nhttps://www.amazon.in/dp/B017IOY90W?psc=1&th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B017IOXZF2?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14534.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-26T18:41:27+00:00",
-    "buy_link": "https://www.amazon.in/dp/B017IOXZF2?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-26T18:41:27+00:00"
   }
 ]
