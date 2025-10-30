@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14937",
+    "title": "🛒 Deal Price From ₹528",
+    "description": "Myntra | Highlander Men's Jacket 🛒 Deal Price : From ₹528 👉https://myntr.in/jo5WFF",
+    "shortlink": "https://myntr.in/jo5WFF",
+    "urls": [
+      {
+        "url": "",
+        "label": "Highlander Men's Jacket"
+      },
+      {
+        "url": "https://myntr.in/jo5WFF",
+        "label": "🛒 Deal Price : From ₹528"
+      }
+    ],
+    "raw_text": "Myntra | Highlander Men's Jacket\n\n🛒 Deal Price : From ₹528\n\n👉https://myntr.in/jo5WFF",
+    "final_url": "https://myntr.in/jo5WFF",
+    "local_image": "assets/images/tgmsg_14937.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-30T11:00:04+00:00",
+    "buy_link": "https://myntr.in/jo5WFF",
+    "date_iso": "2025-10-30T11:00:04+00:00"
+  },
+  {
     "id": "msg14935",
     "title": "Reliance Digital Earphones Start @199",
     "description": "Reliance Digital: Earphones Start @199 👉 https://extp.in/ws662c Headphones: https://extp.in/XuPz0d Earbuds: https://extp.in/GMqNhU Wired Earphone: https://extp.in/3pusbq",
@@ -9934,81 +9958,5 @@
     "date_obj": "2025-10-26T14:31:46+00:00",
     "buy_link": "https://ajiio.co/6oXTp8",
     "date_iso": "2025-10-26T14:31:46+00:00"
-  },
-  {
-    "id": "msg14505",
-    "title": "80% Off On Lee Cooper Men’s Clothing🔥",
-    "description": "AJIO . Master Link : T-Shirt : Shirts : Jeans : Shorts : Sweatshirts & Hoodies : Women’s Clothing👇. Master Link : T-Shirt : Top & Shirt : Jeans : Shorts : Sweatshirt & Hoodies : + Extra 10% AJIO Super Cash.",
-    "shortlink": "https://ajiio.co/cIxMqx",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO 80% Off On Lee Cooper Men’s Clothing🔥"
-      },
-      {
-        "url": "https://ajiio.co/cIxMqx",
-        "label": "Master"
-      },
-      {
-        "url": "https://ajiio.co/UvdERi",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://ajiio.co/mdBk7R",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/hvNsOL",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/aSCojs",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.co/toGn7S",
-        "label": "Sweatshirts & Hoodies"
-      },
-      {
-        "url": "",
-        "label": "Women’s Clothing👇"
-      },
-      {
-        "url": "https://ajiio.co/sxDDgu",
-        "label": "Master"
-      },
-      {
-        "url": "https://ajiio.co/ZKP9kk",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://ajiio.co/c1dTLV",
-        "label": "Top & Shirt"
-      },
-      {
-        "url": "https://ajiio.co/PfHdmN",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/SvjMWm",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.co/Z8Lp2w",
-        "label": "Sweatshirt & Hoodies"
-      },
-      {
-        "url": "",
-        "label": "+ Extra 10% AJIO Super Cash"
-      }
-    ],
-    "raw_text": "AJIO  80% Off On Lee Cooper Men’s Clothing🔥. \n\nMaster Link : https://ajiio.co/cIxMqx\n\nT-Shirt : https://ajiio.co/UvdERi\nShirts : https://ajiio.co/mdBk7R\nJeans : https://ajiio.co/hvNsOL\nShorts : https://ajiio.co/aSCojs\nSweatshirts & Hoodies : https://ajiio.co/toGn7S\n\n Women’s Clothing👇.\n\nMaster Link : https://ajiio.co/sxDDgu\n\nT-Shirt : https://ajiio.co/ZKP9kk\nTop & Shirt : https://ajiio.co/c1dTLV\nJeans : https://ajiio.co/PfHdmN\nShorts : https://ajiio.co/SvjMWm\nSweatshirt & Hoodies : https://ajiio.co/Z8Lp2w\n\n+ Extra 10% AJIO Super Cash.",
-    "final_url": "https://ajiio.co/cIxMqx",
-    "local_image": "assets/images/tgmsg_14505.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-26T14:04:02+00:00",
-    "buy_link": "https://ajiio.co/cIxMqx",
-    "date_iso": "2025-10-26T14:04:02+00:00"
   }
 ]
