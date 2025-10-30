@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg14978",
+    "title": "Up to 80% Off on Buda Jeans Mens Clothing",
+    "description": "Ajio : Upto 80% Off on Buda Jeans Mens Clothing. T-Shirt : Shirt : Jeans : Trackpant : Shorts : Earn Extra 10% AJIO SUPERCASH",
+    "shortlink": "https://ajiio.co/SxW0UC",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off on Buda Jeans Mens Clothing"
+      },
+      {
+        "url": "https://ajiio.co/SxW0UC",
+        "label": "T-Shirt"
+      },
+      {
+        "url": "https://ajiio.co/qf1vjo",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://ajiio.co/0hVLv1",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/lvsn0o",
+        "label": "Trackpant"
+      },
+      {
+        "url": "https://ajiio.co/0pjLb3",
+        "label": "Shorts"
+      },
+      {
+        "url": "",
+        "label": "Earn Extra 10% AJIO SUPERCASH"
+      }
+    ],
+    "raw_text": "Ajio : Upto 80% Off on Buda Jeans Mens Clothing.\n\nT-Shirt :   https://ajiio.co/SxW0UC\nShirt :   https://ajiio.co/qf1vjo\nJeans :   https://ajiio.co/0hVLv1\nTrackpant :   https://ajiio.co/lvsn0o\nShorts :   https://ajiio.co/0pjLb3\n\n Earn Extra 10% AJIO SUPERCASH",
+    "final_url": "https://ajiio.co/SxW0UC",
+    "local_image": "assets/images/tgmsg_14978.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-30T15:46:19+00:00",
+    "buy_link": "https://ajiio.co/SxW0UC",
+    "date_iso": "2025-10-30T15:46:19+00:00"
+  },
+  {
     "id": "msg14975",
     "title": "Bajaj 3L Water heater at 2699! + Extra discount",
     "description": "Myntra | Bajaj 3L Water heater at 2699! + Extra coupon discounts. Lowest across!",
@@ -9894,33 +9938,5 @@
     "date_obj": "2025-10-26T18:53:25+00:00",
     "buy_link": "https://www.amazon.in/dp/B0842QB8B7?tag=bestpricezo0f-21",
     "date_iso": "2025-10-26T18:53:25+00:00"
-  },
-  {
-    "id": "msg14540",
-    "title": "🛒 Deal Price ₹224",
-    "description": "Amazon | 🧴 Clean & Clear Facewash Deal Clean & Clear Foaming Facewash for Oily Skin, Brown, 240ml 🛒 Deal Price: ₹224",
-    "shortlink": "https://www.amazon.in/dp/B08QF21VD9?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🧴 Clean & Clear Facewash Deal"
-      },
-      {
-        "url": "",
-        "label": "Clean & Clear Foaming Facewash for Oily Skin, Brown, 240ml"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B08QF21VD9?th=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹224"
-      }
-    ],
-    "raw_text": "Amazon | 🧴 Clean & Clear Facewash Deal\n\nClean & Clear Foaming Facewash for Oily Skin, Brown, 240ml\n\n🛒 Deal Price: ₹224\n\nhttps://www.amazon.in/dp/B08QF21VD9?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B08QF21VD9?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14540.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-26T18:53:44+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08QF21VD9?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-26T18:53:44+00:00"
   }
 ]
