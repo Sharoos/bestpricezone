@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg14913",
+    "title": "🔥 Get UP TO 50% OFF on all your favorite looks!",
+    "description": "🧥 SAVANA WINTER STYLE SALE! ❄️ Soft knits, warm sweatshirts & timeless fits 🧶  Extra ₹100 Coupon 💰 🛒 Shop Now :",
+    "shortlink": "https://extp.in/T0dwrg",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧥 SAVANA WINTER STYLE SALE! ❄️"
+      },
+      {
+        "url": "",
+        "label": "Soft knits, warm sweatshirts & timeless fits 🧶"
+      },
+      {
+        "url": "",
+        "label": "🔥 Get UP TO 50% OFF on all your favorite looks!"
+      },
+      {
+        "url": "https://extp.in/T0dwrg",
+        "label": "🛒 Shop Now"
+      }
+    ],
+    "raw_text": "🧥 SAVANA WINTER STYLE SALE! ❄️\n\nSoft knits, warm sweatshirts & timeless fits 🧶\n\n🔥 Get UP TO 50% OFF on all your favorite looks!\n\nExtra ₹100 Coupon 💰\n\n🛒 Shop Now : https://extp.in/T0dwrg",
+    "final_url": "https://extp.in/T0dwrg",
+    "local_image": "assets/images/tgmsg_14913.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-10-30T08:00:07+00:00",
+    "buy_link": "https://extp.in/T0dwrg",
+    "date_iso": "2025-10-30T08:00:07+00:00"
+  },
+  {
+    "id": "msg14914",
+    "title": "C Wired Earphone @ 299",
+    "description": "Amazon | HAMMER Type-C Wired Earphone @ 299. 👉https://www.amazon.in/dp/B0F4KNHBTS?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0F4KNHBTS?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0F4KNHBTS?tag=bestpricezo0f-21",
+        "label": "HAMMER Type-C Wired Earphone @ 299"
+      }
+    ],
+    "raw_text": "Amazon | HAMMER Type-C Wired Earphone @ 299.\n\n👉https://www.amazon.in/dp/B0F4KNHBTS?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F4KNHBTS?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_14914.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-30T08:15:06+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F4KNHBTS?tag=bestpricezo0f-21",
+    "date_iso": "2025-10-30T08:15:06+00:00"
+  },
+  {
     "id": "msg14910",
     "title": "Sansui Quartz Room Heater @899",
     "description": "Flipkart | Sansui Quartz Room Heater @899 👉https://fkrt.co/TKfKD3",
@@ -9938,45 +9990,5 @@
     "date_obj": "2025-10-26T11:04:33+00:00",
     "buy_link": "https://myntr.in/6XQJpT",
     "date_iso": "2025-10-26T11:04:33+00:00"
-  },
-  {
-    "id": "msg14485",
-    "title": "💥Topwear Min 80% OFF",
-    "description": "💥AJIO : Topwear Min 80% OFF Link : https://ajiio.co/tp044S",
-    "shortlink": "https://ajiio.co/tp044S",
-    "urls": [
-      {
-        "url": "https://ajiio.co/tp044S",
-        "label": "💥AJIO : Topwear Min 80% OFF"
-      }
-    ],
-    "raw_text": "💥AJIO : Topwear Min 80% OFF  \n \nLink : https://ajiio.co/tp044S",
-    "final_url": "https://ajiio.co/tp044S",
-    "local_image": "assets/images/tgmsg_14485.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-26T09:35:24+00:00",
-    "buy_link": "https://ajiio.co/tp044S",
-    "date_iso": "2025-10-26T09:35:24+00:00"
-  },
-  {
-    "id": "msg14481",
-    "title": "shirt From ₹119",
-    "description": "Myntra | Ketch Men's T-shirt From ₹119 👉https://myntr.in/sCn2EE",
-    "shortlink": "https://myntr.in/sCn2EE",
-    "urls": [
-      {
-        "url": "https://myntr.in/sCn2EE",
-        "label": "Ketch Men's T-shirt From ₹119"
-      }
-    ],
-    "raw_text": "Myntra | Ketch Men's T-shirt From ₹119\n\n👉https://myntr.in/sCn2EE",
-    "final_url": "https://myntr.in/sCn2EE",
-    "local_image": "assets/images/tgmsg_14481.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-26T09:01:52+00:00",
-    "buy_link": "https://myntr.in/sCn2EE",
-    "date_iso": "2025-10-26T09:01:52+00:00"
   }
 ]
