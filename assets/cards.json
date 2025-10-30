@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg14961",
+    "title": "Up to 60% Off On Head & Shoulder Shampoo",
+    "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos. https://fkrt.co/Z9bbPk",
+    "shortlink": "https://fkrt.co/Z9bbPk",
+    "urls": [
+      {
+        "url": "https://fkrt.co/Z9bbPk",
+        "label": "Upto 60% Off On Head & Shoulder Shampoos"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos.\n\nhttps://fkrt.co/Z9bbPk",
+    "final_url": "https://fkrt.co/Z9bbPk",
+    "local_image": "assets/images/tgmsg_14961.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-30T14:05:48+00:00",
+    "buy_link": "https://fkrt.co/Z9bbPk",
+    "date_iso": "2025-10-30T14:05:48+00:00"
+  },
+  {
+    "id": "msg14963",
+    "title": "Red Tape Shoes at Up to 85% Discount",
+    "description": "Ajio | Red Tape Shoes at Upto 85% Discount https://ajiio.co/8rKupW",
+    "shortlink": "https://ajiio.co/8rKupW",
+    "urls": [
+      {
+        "url": "https://ajiio.co/8rKupW",
+        "label": "Red Tape Shoes at Upto 85% Discount"
+      }
+    ],
+    "raw_text": "Ajio | Red Tape Shoes at Upto 85% Discount\n\nhttps://ajiio.co/8rKupW",
+    "final_url": "https://ajiio.co/8rKupW",
+    "local_image": "assets/images/tgmsg_14963.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-30T14:16:33+00:00",
+    "buy_link": "https://ajiio.co/8rKupW",
+    "date_iso": "2025-10-30T14:16:33+00:00"
+  },
+  {
     "id": "msg14959",
     "title": "GOVO GOSURROUND Bluetooth Soundbar at RS.699",
     "description": "Flipkart | GOVO GOSURROUND  Bluetooth Soundbar at RS.699 https://fkrt.co/AB1N2d",
@@ -9890,49 +9930,5 @@
     "date_obj": "2025-10-26T18:44:13+00:00",
     "buy_link": "https://www.amazon.in/dp/B00N2WRE52?th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
     "date_iso": "2025-10-26T18:44:13+00:00"
-  },
-  {
-    "id": "msg14537",
-    "title": "ACTION Pilo Slippers for Men @ 357/339",
-    "description": "Amazon | ACTION Pilo Slippers for Men @ 357/339. https://www.amazon.in/dp/B0FB9CZ8LW?psc=1&th=1&tag=bestpricezo0f-21 Size - 7-8-9",
-    "shortlink": "https://www.amazon.in/dp/B0FB9CZ8LW?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FB9CZ8LW?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "ACTION Pilo Slippers for Men @ 357/339"
-      },
-      {
-        "url": "",
-        "label": "7-8-9"
-      }
-    ],
-    "raw_text": "Amazon | ACTION Pilo Slippers for Men @ 357/339.\n\nhttps://www.amazon.in/dp/B0FB9CZ8LW?psc=1&th=1&tag=bestpricezo0f-21\n\nSize - 7-8-9",
-    "final_url": "https://www.amazon.in/dp/B0FB9CZ8LW?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14537.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-26T18:46:12+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FB9CZ8LW?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-26T18:46:12+00:00"
-  },
-  {
-    "id": "msg14527",
-    "title": "🔥HRX Men's Dry Jogger Pants @279🔥",
-    "description": "Myntra |🔥HRX Men's Dry Jogger Pants  @279🔥 👉Link : https://myntr.in/HH7rYM",
-    "shortlink": "https://myntr.in/HH7rYM",
-    "urls": [
-      {
-        "url": "https://myntr.in/HH7rYM",
-        "label": "🔥HRX Men's Dry Jogger Pants @279🔥"
-      }
-    ],
-    "raw_text": "Myntra |🔥HRX Men's Dry Jogger Pants  @279🔥\n\n👉Link : https://myntr.in/HH7rYM",
-    "final_url": "https://myntr.in/HH7rYM",
-    "local_image": "assets/images/tgmsg_14527.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-26T18:10:22+00:00",
-    "buy_link": "https://myntr.in/HH7rYM",
-    "date_iso": "2025-10-26T18:10:22+00:00"
   }
 ]
