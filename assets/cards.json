@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15026",
+    "title": "Ganesh Spin Mop Set @ 599",
+    "description": "Amazon | Ganesh Spin Mop Set @ 599. https://www.amazon.in/dp/B0BFN9MK4B?psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0BFN9MK4B?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0BFN9MK4B?psc=1&tag=bestpricezo0f-21",
+        "label": "Ganesh Spin Mop Set @ 599"
+      }
+    ],
+    "raw_text": "Amazon | Ganesh Spin Mop Set @ 599.\n\nhttps://www.amazon.in/dp/B0BFN9MK4B?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0BFN9MK4B?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15026.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-10-30T19:43:34+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0BFN9MK4B?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-10-30T19:43:34+00:00"
+  },
+  {
     "id": "msg15021",
     "title": "Up to 69% Off On Dabur Shampoo",
     "description": "Amazon | Upto 69% Off On Dabur Shampoos.…",
@@ -9870,25 +9890,5 @@
     "date_obj": "2025-10-27T08:45:14+00:00",
     "buy_link": "https://myntr.in/ywn6lp",
     "date_iso": "2025-10-27T08:45:14+00:00"
-  },
-  {
-    "id": "msg14582",
-    "title": "Minimum 80% Off!",
-    "description": "Ajio | ⌚ Lee Cooper Watches - Minimum 80% Off! https://ajiio.co/3oQNmZ",
-    "shortlink": "https://ajiio.co/3oQNmZ",
-    "urls": [
-      {
-        "url": "https://ajiio.co/3oQNmZ",
-        "label": "⌚ Lee Cooper Watches - Minimum 80% Off!"
-      }
-    ],
-    "raw_text": "Ajio | ⌚ Lee Cooper Watches - Minimum 80% Off!\n\nhttps://ajiio.co/3oQNmZ",
-    "final_url": "https://ajiio.co/3oQNmZ",
-    "local_image": "assets/images/tgmsg_14582.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-27T08:17:27+00:00",
-    "buy_link": "https://ajiio.co/3oQNmZ",
-    "date_iso": "2025-10-27T08:17:27+00:00"
   }
 ]
