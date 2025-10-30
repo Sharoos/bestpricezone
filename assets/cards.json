@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg14966",
+    "title": "🌟Up to 80% Off On Mast & Harbour Men's Clothing.🔥🔥",
+    "description": "🌟Myntra : Upto 80% Off On Mast & Harbour Men's Clothing.🔥🔥 🖇️T-Shirt : 🖇️Shirt : 🖇️Jeans :",
+    "shortlink": "https://myntr.in/zXIiGq",
+    "urls": [
+      {
+        "url": "",
+        "label": "🌟Myntra : Upto 80% Off On Mast & Harbour Men's Clothing.🔥🔥"
+      },
+      {
+        "url": "https://myntr.in/zXIiGq",
+        "label": "🖇️T-Shirt"
+      },
+      {
+        "url": "https://myntr.in/Q99p4k",
+        "label": "🖇️Shirt"
+      },
+      {
+        "url": "https://myntr.in/bjaNoz",
+        "label": "🖇️Jeans"
+      }
+    ],
+    "raw_text": "🌟Myntra : Upto 80% Off On Mast & Harbour Men's Clothing.🔥🔥\n\n🖇️T-Shirt : https://myntr.in/zXIiGq\n🖇️Shirt : https://myntr.in/Q99p4k\n🖇️Jeans : https://myntr.in/bjaNoz",
+    "final_url": "https://myntr.in/zXIiGq",
+    "local_image": "assets/images/tgmsg_14966.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-30T14:35:27+00:00",
+    "buy_link": "https://myntr.in/zXIiGq",
+    "date_iso": "2025-10-30T14:35:27+00:00"
+  },
+  {
     "id": "msg14961",
     "title": "Up to 60% Off On Head & Shoulder Shampoo",
     "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos. https://fkrt.co/Z9bbPk",
@@ -9910,25 +9942,5 @@
     "date_obj": "2025-10-26T18:41:27+00:00",
     "buy_link": "https://www.amazon.in/dp/B017IOXZF2?psc=1&th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-26T18:41:27+00:00"
-  },
-  {
-    "id": "msg14536",
-    "title": "Kissan Mixed Fruit Jam, With Fruit Ingredients, 700g @ 200",
-    "description": "Amazon | Kissan Mixed Fruit Jam, With Fruit Ingredients, 700g @ 200. https://www.amazon.in/dp/B00N2WRE52?th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B00N2WRE52?th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B00N2WRE52?th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-        "label": "Kissan Mixed Fruit Jam, With Fruit Ingredients, 700g @ 200"
-      }
-    ],
-    "raw_text": "Amazon | Kissan Mixed Fruit Jam, With Fruit Ingredients, 700g @ 200.\n\nhttps://www.amazon.in/dp/B00N2WRE52?th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B00N2WRE52?th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14536.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-26T18:44:13+00:00",
-    "buy_link": "https://www.amazon.in/dp/B00N2WRE52?th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-26T18:44:13+00:00"
   }
 ]
