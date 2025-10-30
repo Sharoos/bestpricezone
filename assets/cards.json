@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg14989",
+    "title": "Up to 83% Off On Ducati Men's Shoe",
+    "description": "Flipkart | Upto 83% Off On Ducati Men's Shoe. Upto 86% Off On HRX Shoes. Men's : Women's :",
+    "shortlink": "https://fkrt.co/2dAt2u",
+    "urls": [
+      {
+        "url": "https://fkrt.co/2dAt2u",
+        "label": "Upto 83% Off On Ducati Men's Shoe"
+      },
+      {
+        "url": "",
+        "label": "Upto 86% Off On HRX Shoes"
+      },
+      {
+        "url": "https://fkrt.co/h7sKFI",
+        "label": "Men's"
+      },
+      {
+        "url": "https://fkrt.co/SssjU6",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 83% Off On Ducati Men's Shoe.\n\nhttps://fkrt.co/2dAt2u\n\nUpto 86% Off On HRX Shoes. \n\nMen's : https://fkrt.co/h7sKFI\nWomen's : https://fkrt.co/SssjU6",
+    "final_url": "https://fkrt.co/2dAt2u",
+    "local_image": "assets/images/tgmsg_14989.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-30T17:46:23+00:00",
+    "buy_link": "https://fkrt.co/2dAt2u",
+    "date_iso": "2025-10-30T17:46:23+00:00"
+  },
+  {
     "id": "msg14987",
     "title": "👕 THE BEAR HOUSE Slim Fit Tie & Dye Crew",
     "description": "👕 AJIO : THE BEAR HOUSE Slim Fit Tie & Dye Crew-Neck T-Shirt starting at ₹424 🔗 https://ajiio.co/ql82iK",
@@ -9918,41 +9950,5 @@
     "date_obj": "2025-10-26T19:36:21+00:00",
     "buy_link": "https://www.amazon.in/dp/B08K95SV28?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-26T19:36:21+00:00"
-  },
-  {
-    "id": "msg14542",
-    "title": "Up to 75% Off On Puma Shoes & Accessorie",
-    "description": "Myntra : Upto 75% Off On Puma Shoes & Accessories. Men's : Women's : Boy’s : Girl’s :",
-    "shortlink": "https://myntr.in/ESRipF",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 75% Off On Puma Shoes & Accessories"
-      },
-      {
-        "url": "https://myntr.in/ESRipF",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/6cwsMb",
-        "label": "Women's"
-      },
-      {
-        "url": "https://myntr.in/RIIZ5v",
-        "label": "Boy’s"
-      },
-      {
-        "url": "https://myntr.in/If1s42",
-        "label": "Girl’s"
-      }
-    ],
-    "raw_text": "Myntra : Upto 75% Off On Puma Shoes & Accessories.\n\nMen's : https://myntr.in/ESRipF\nWomen's : https://myntr.in/6cwsMb\nBoy’s : https://myntr.in/RIIZ5v\nGirl’s : https://myntr.in/If1s42",
-    "final_url": "https://myntr.in/ESRipF",
-    "local_image": "assets/images/tgmsg_14542.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-26T19:02:20+00:00",
-    "buy_link": "https://myntr.in/ESRipF",
-    "date_iso": "2025-10-26T19:02:20+00:00"
   }
 ]
