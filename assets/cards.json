@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14940",
+    "title": "550W Mixer Grinder, 3 Jars at 898",
+    "description": "Flipkart  550W Mixer Grinder, 3 Jars at 898. 👉https://fkrt.co/5rdyNM",
+    "shortlink": "https://fkrt.co/5rdyNM",
+    "urls": [
+      {
+        "url": "https://fkrt.co/5rdyNM",
+        "label": "Flipkart 550W Mixer Grinder, 3 Jars at 898"
+      }
+    ],
+    "raw_text": "Flipkart  550W Mixer Grinder, 3 Jars at 898.\n\n👉https://fkrt.co/5rdyNM",
+    "final_url": "https://fkrt.co/5rdyNM",
+    "local_image": "assets/images/tgmsg_14940.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-30T11:30:08+00:00",
+    "buy_link": "https://fkrt.co/5rdyNM",
+    "date_iso": "2025-10-30T11:30:08+00:00"
+  },
+  {
     "id": "msg14939",
     "title": "🛒 Deal Price ₹200",
     "description": "Meesho | 👗 Elegant Kurta Palazzo Sets 🛒 Deal Price: ₹200 👉 https://msho.in/GPt3iX 👉 https://msho.in/vBqzpp",
@@ -9938,25 +9958,5 @@
     "date_obj": "2025-10-26T14:36:36+00:00",
     "buy_link": "https://bitli.in/6lSkqd0",
     "date_iso": "2025-10-26T14:36:36+00:00"
-  },
-  {
-    "id": "msg14507",
-    "title": "53% Off Santoor Shower Gel 500ml @165",
-    "description": "Amazon | 53% Off  Santoor Shower Gel 500ml @165. 👉https://www.amazon.in/dp/B0CQYG22TN?psc=1&th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CQYG22TN?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CQYG22TN?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "53% Off Santoor Shower Gel 500ml @165"
-      }
-    ],
-    "raw_text": "Amazon | 53% Off  Santoor Shower Gel 500ml @165.\n \n👉https://www.amazon.in/dp/B0CQYG22TN?psc=1&th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CQYG22TN?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14507.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-26T14:16:43+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CQYG22TN?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-26T14:16:43+00:00"
   }
 ]
