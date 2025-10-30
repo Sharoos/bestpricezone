@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg14928",
+    "title": "Get Up to 80% Off",
+    "description": "Flipkart : Get Upto 80% Off 👉 Link : Grocery : Mobiles : Food& Health : Home : Fashion :",
+    "shortlink": "https://fkrt.co/HVzyIY",
+    "urls": [
+      {
+        "url": "https://fkrt.co/HVzyIY",
+        "label": "Get Upto 80% Off"
+      },
+      {
+        "url": "https://fkrt.co/DDnMJw",
+        "label": "Grocery"
+      },
+      {
+        "url": "https://fkrt.co/EXQK9W",
+        "label": "Mobiles"
+      },
+      {
+        "url": "https://fkrt.co/amo6kA",
+        "label": "Food& Health"
+      },
+      {
+        "url": "https://fkrt.co/Y9qtFZ",
+        "label": "Home"
+      },
+      {
+        "url": "https://fkrt.co/1eLTpq",
+        "label": "Fashion"
+      }
+    ],
+    "raw_text": "Flipkart : Get Upto 80% Off \n\n👉 Link : https://fkrt.co/HVzyIY\n\nGrocery : https://fkrt.co/DDnMJw\nMobiles : https://fkrt.co/EXQK9W\nFood& Health : https://fkrt.co/amo6kA\nHome : https://fkrt.co/Y9qtFZ\nFashion : https://fkrt.co/1eLTpq",
+    "final_url": "https://fkrt.co/HVzyIY",
+    "local_image": "assets/images/tgmsg_14928.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-30T09:45:07+00:00",
+    "buy_link": "https://fkrt.co/HVzyIY",
+    "date_iso": "2025-10-30T09:45:07+00:00"
+  },
+  {
     "id": "msg14924",
     "title": "truke Thunder Bar 16W Bluetooth Speaker @ 569",
     "description": "Amazon | truke Thunder Bar 16W Bluetooth Speaker @ 569. 👉https://www.amazon.in/dp/B0CH1FLT2H?psc=1&tag=bestpricezo0f-21",
@@ -9990,29 +10030,5 @@
     "date_obj": "2025-10-26T13:05:49+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CC5666P7?smid=&tag=bestpricezo0f-21",
     "date_iso": "2025-10-26T13:05:49+00:00"
-  },
-  {
-    "id": "msg14491",
-    "title": "Min 50% off on Popular Organise",
-    "description": "Myntra | Festive Cushion Cover Sets starting at just 279 👉https://myntr.in/YGt2vL Min 50% off on Popular Organisers 👉https://myntr.in/2pgoPQ",
-    "shortlink": "https://myntr.in/YGt2vL",
-    "urls": [
-      {
-        "url": "https://myntr.in/YGt2vL",
-        "label": "Festive Cushion Cover Sets starting at just 279"
-      },
-      {
-        "url": "https://myntr.in/2pgoPQ",
-        "label": "Min 50% off on Popular Organisers"
-      }
-    ],
-    "raw_text": "Myntra | Festive Cushion Cover Sets starting at just 279\n👉https://myntr.in/YGt2vL\n\nMin 50% off on Popular Organisers\n👉https://myntr.in/2pgoPQ",
-    "final_url": "https://myntr.in/YGt2vL",
-    "local_image": "assets/images/tgmsg_14491.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-26T12:01:43+00:00",
-    "buy_link": "https://myntr.in/YGt2vL",
-    "date_iso": "2025-10-26T12:01:43+00:00"
   }
 ]
