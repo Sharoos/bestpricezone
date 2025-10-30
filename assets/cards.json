@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14910",
+    "title": "Sansui Quartz Room Heater @899",
+    "description": "Flipkart | Sansui Quartz Room Heater @899 👉https://fkrt.co/TKfKD3",
+    "shortlink": "https://fkrt.co/TKfKD3",
+    "urls": [
+      {
+        "url": "https://fkrt.co/TKfKD3",
+        "label": "Sansui Quartz Room Heater @899"
+      }
+    ],
+    "raw_text": "Flipkart | Sansui Quartz Room Heater @899\n\n👉https://fkrt.co/TKfKD3",
+    "final_url": "https://fkrt.co/TKfKD3",
+    "local_image": "assets/images/tgmsg_14910.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-30T07:45:17+00:00",
+    "buy_link": "https://fkrt.co/TKfKD3",
+    "date_iso": "2025-10-30T07:45:17+00:00"
+  },
+  {
     "id": "msg14909",
     "title": "🔥 Under ₹99 Store",
     "description": "🔥 Myntra Under ₹99 Store 👉https://myntr.in/U4SYav",
@@ -9958,25 +9978,5 @@
     "date_obj": "2025-10-26T09:01:52+00:00",
     "buy_link": "https://myntr.in/sCn2EE",
     "date_iso": "2025-10-26T09:01:52+00:00"
-  },
-  {
-    "id": "msg14483",
-    "title": "Parachute Coconut Hair Oil 300ml @ 159",
-    "description": "Amazon | Parachute Coconut Hair Oil 300ml @ 159. 👉https://www.amazon.in/dp/B0CGM6PQBP?psc=1&th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CGM6PQBP?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CGM6PQBP?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "Parachute Coconut Hair Oil 300ml @ 159"
-      }
-    ],
-    "raw_text": "Amazon | Parachute Coconut Hair Oil 300ml @ 159.\n\n👉https://www.amazon.in/dp/B0CGM6PQBP?psc=1&th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CGM6PQBP?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14483.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-26T09:15:20+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CGM6PQBP?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-26T09:15:20+00:00"
   }
 ]
