@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg14939",
+    "title": "🛒 Deal Price ₹200",
+    "description": "Meesho | 👗 Elegant Kurta Palazzo Sets 🛒 Deal Price: ₹200 👉 https://msho.in/GPt3iX 👉 https://msho.in/vBqzpp",
+    "shortlink": "https://msho.in/GPt3iX",
+    "urls": [
+      {
+        "url": "",
+        "label": "👗 Elegant Kurta Palazzo Sets"
+      },
+      {
+        "url": "https://msho.in/GPt3iX",
+        "label": "🛒 Deal Price: ₹200"
+      },
+      {
+        "url": "https://msho.in/vBqzpp",
+        "label": "🛒 Deal Price: ₹200"
+      }
+    ],
+    "raw_text": "Meesho | 👗 Elegant Kurta Palazzo Sets\n\n🛒 Deal Price: ₹200\n\n👉 https://msho.in/GPt3iX\n👉 https://msho.in/vBqzpp",
+    "final_url": "https://msho.in/GPt3iX",
+    "local_image": "assets/images/tgmsg_14939.jpg",
+    "source_host": "msho.in",
+    "merchant_label": "Msho",
+    "date_obj": "2025-10-30T11:21:41+00:00",
+    "buy_link": "https://msho.in/GPt3iX",
+    "date_iso": "2025-10-30T11:21:41+00:00"
+  },
+  {
     "id": "msg14937",
     "title": "🛒 Deal Price From ₹528",
     "description": "Myntra | Highlander Men's Jacket 🛒 Deal Price : From ₹528 👉https://myntr.in/jo5WFF",
@@ -9930,33 +9958,5 @@
     "date_obj": "2025-10-26T14:16:43+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CQYG22TN?psc=1&th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-26T14:16:43+00:00"
-  },
-  {
-    "id": "msg14508",
-    "title": "Up to 85% Off On Vero Moda & ONLY Women Clothing",
-    "description": "Ajio | Upto 85% Off On Vero Moda & ONLY Women Clothing. 👉https://ajiio.co/6oXTp8 👉https://ajiio.co/6HF1rZ Jeans : https://ajiio.co/S6ugsn",
-    "shortlink": "https://ajiio.co/6oXTp8",
-    "urls": [
-      {
-        "url": "https://ajiio.co/6oXTp8",
-        "label": "Upto 85% Off On Vero Moda & ONLY Women Clothing"
-      },
-      {
-        "url": "https://ajiio.co/6HF1rZ",
-        "label": ""
-      },
-      {
-        "url": "https://ajiio.co/S6ugsn",
-        "label": "Jeans"
-      }
-    ],
-    "raw_text": "Ajio | Upto 85% Off On Vero Moda & ONLY Women Clothing.\n\n👉https://ajiio.co/6oXTp8\n👉https://ajiio.co/6HF1rZ\n\nJeans : https://ajiio.co/S6ugsn",
-    "final_url": "https://ajiio.co/6oXTp8",
-    "local_image": "assets/images/tgmsg_14508.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-26T14:31:46+00:00",
-    "buy_link": "https://ajiio.co/6oXTp8",
-    "date_iso": "2025-10-26T14:31:46+00:00"
   }
 ]
