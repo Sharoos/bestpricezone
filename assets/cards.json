@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg14920",
+    "title": "🛒 Deal Price ₹149 (Up to 80% Off)",
+    "description": "Myntra | 👕 Oversized T-Shirt Deals 🛒 Deal Price: ₹149 (Upto 80% Off) 👉https://myntr.in/ofXwzI",
+    "shortlink": "https://myntr.in/ofXwzI",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 Oversized T-Shirt Deals"
+      },
+      {
+        "url": "https://myntr.in/ofXwzI",
+        "label": "🛒 Deal Price: ₹149 (Upto 80% Off)"
+      }
+    ],
+    "raw_text": "Myntra | 👕 Oversized T-Shirt Deals\n\n🛒 Deal Price: ₹149 (Upto 80% Off)\n\n👉https://myntr.in/ofXwzI",
+    "final_url": "https://myntr.in/ofXwzI",
+    "local_image": "assets/images/tgmsg_14920.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-30T09:00:05+00:00",
+    "buy_link": "https://myntr.in/ofXwzI",
+    "date_iso": "2025-10-30T09:00:05+00:00"
+  },
+  {
+    "id": "msg14923",
+    "title": "Adhesive Wall Hooks (50 Pcs) @ 142",
+    "description": "Flipkart | Adhesive Wall Hooks (50 Pcs) @ 142. 👉https://fkrt.co/UeamvS",
+    "shortlink": "https://fkrt.co/UeamvS",
+    "urls": [
+      {
+        "url": "https://fkrt.co/UeamvS",
+        "label": "Adhesive Wall Hooks (50 Pcs) @ 142"
+      }
+    ],
+    "raw_text": "Flipkart | Adhesive Wall Hooks (50 Pcs) @ 142.\n\n👉https://fkrt.co/UeamvS",
+    "final_url": "https://fkrt.co/UeamvS",
+    "local_image": "assets/images/tgmsg_14923.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-30T09:15:03+00:00",
+    "buy_link": "https://fkrt.co/UeamvS",
+    "date_iso": "2025-10-30T09:15:03+00:00"
+  },
+  {
     "id": "msg14918",
     "title": "🛒 Deal Price ₹89",
     "description": "Flipkart | BRUT Original All-In-One Liquid Body Wash 500ml 🛒 Deal Price: ₹89 👉 https://fkrt.co/e0bGFa",
@@ -9922,65 +9966,5 @@
     "date_obj": "2025-10-26T12:46:15+00:00",
     "buy_link": "https://myntr.in/9ykZL5",
     "date_iso": "2025-10-26T12:46:15+00:00"
-  },
-  {
-    "id": "msg14490",
-    "title": "Shirts Starts @299",
-    "description": "Ajio : U.S Polo Assn. T-Shirts Starts @299. Men's : https://ajiio.in/fXDR4DC Women's : https://ajiio.in/X3HQH1W Boys : https://ajiio.in/PuPwMAB Girls : https://ajiio.in/hWp6pr2",
-    "shortlink": "https://ajiio.in/fXDR4DC",
-    "urls": [
-      {
-        "url": "",
-        "label": "U.S Polo Assn. T-Shirts Starts @299"
-      },
-      {
-        "url": "https://ajiio.in/fXDR4DC",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.in/X3HQH1W",
-        "label": "Women's"
-      },
-      {
-        "url": "https://ajiio.in/PuPwMAB",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.in/hWp6pr2",
-        "label": "Girls"
-      }
-    ],
-    "raw_text": "Ajio : U.S Polo Assn. T-Shirts Starts @299.\n\nMen's : https://ajiio.in/fXDR4DC\nWomen's : https://ajiio.in/X3HQH1W\nBoys : https://ajiio.in/PuPwMAB\nGirls : https://ajiio.in/hWp6pr2",
-    "final_url": "https://ajiio.in/fXDR4DC",
-    "local_image": "assets/images/tgmsg_14490.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-26T11:50:49+00:00",
-    "buy_link": "https://ajiio.in/fXDR4DC",
-    "date_iso": "2025-10-26T11:50:49+00:00"
-  },
-  {
-    "id": "msg14489",
-    "title": "Up to 80% Off on Sunglasses Starts At Rs.420",
-    "description": "Ajio | Upto 80% Off on Sunglasses Starts At Rs.420 👉Link : + 10% EXTRA AJIO CASH",
-    "shortlink": "https://ajiio.co/G8TB5D",
-    "urls": [
-      {
-        "url": "https://ajiio.co/G8TB5D",
-        "label": "Upto 80% Off on Sunglasses Starts At Rs.420"
-      },
-      {
-        "url": "",
-        "label": "+ 10% EXTRA AJIO CASH"
-      }
-    ],
-    "raw_text": "Ajio | Upto 80% Off on Sunglasses Starts At Rs.420\n \n👉Link : https://ajiio.co/G8TB5D\n\n+ 10% EXTRA AJIO CASH",
-    "final_url": "https://ajiio.co/G8TB5D",
-    "local_image": "assets/images/tgmsg_14489.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-26T11:46:08+00:00",
-    "buy_link": "https://ajiio.co/G8TB5D",
-    "date_iso": "2025-10-26T11:46:08+00:00"
   }
 ]
