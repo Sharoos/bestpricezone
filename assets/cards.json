@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14959",
+    "title": "GOVO GOSURROUND Bluetooth Soundbar at RS.699",
+    "description": "Flipkart | GOVO GOSURROUND  Bluetooth Soundbar at RS.699 https://fkrt.co/AB1N2d",
+    "shortlink": "https://fkrt.co/AB1N2d",
+    "urls": [
+      {
+        "url": "https://fkrt.co/AB1N2d",
+        "label": "GOVO GOSURROUND Bluetooth Soundbar at RS.699"
+      }
+    ],
+    "raw_text": "Flipkart | GOVO GOSURROUND  Bluetooth Soundbar at RS.699\n\nhttps://fkrt.co/AB1N2d",
+    "final_url": "https://fkrt.co/AB1N2d",
+    "local_image": "assets/images/tgmsg_14959.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-30T13:46:11+00:00",
+    "buy_link": "https://fkrt.co/AB1N2d",
+    "date_iso": "2025-10-30T13:46:11+00:00"
+  },
+  {
     "id": "msg14955",
     "title": "Women's Topwear Up to 90% Off",
     "description": "Flipkart | Women's Topwear Upto 90% Off Pluss : Tokyo Talkies : Metronaut : Allen Solly : Roadster :",
@@ -9914,65 +9934,5 @@
     "date_obj": "2025-10-26T18:10:22+00:00",
     "buy_link": "https://myntr.in/HH7rYM",
     "date_iso": "2025-10-26T18:10:22+00:00"
-  },
-  {
-    "id": "msg14524",
-    "title": "Up to 85% Off On Men's Branded Shirt",
-    "description": "Myntra : Upto 85% Off On Men's Branded Shirts. Master Link : Roadster : Here & Now : Mast & Harbour : Moda Rapido : Campus Sutra : Ketch : Highlander : INVICTUS : Locomotive :",
-    "shortlink": "https://myntr.in/H2MRir",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On Men's Branded Shirts"
-      },
-      {
-        "url": "https://myntr.in/H2MRir",
-        "label": "Master"
-      },
-      {
-        "url": "https://myntr.in/Z1TmeS",
-        "label": "Roadster"
-      },
-      {
-        "url": "https://myntr.in/rQmZMj",
-        "label": "Here & Now"
-      },
-      {
-        "url": "https://myntr.in/b335kN",
-        "label": "Mast & Harbour"
-      },
-      {
-        "url": "https://myntr.in/JFWD9R",
-        "label": "Moda Rapido"
-      },
-      {
-        "url": "https://myntr.in/YvE061",
-        "label": "Campus Sutra"
-      },
-      {
-        "url": "https://myntr.in/bE2oxE",
-        "label": "Ketch"
-      },
-      {
-        "url": "https://myntr.in/YD5z7c",
-        "label": "Highlander"
-      },
-      {
-        "url": "https://myntr.in/WJjk8r",
-        "label": "INVICTUS"
-      },
-      {
-        "url": "https://myntr.in/6N25wg",
-        "label": "Locomotive"
-      }
-    ],
-    "raw_text": "Myntra : Upto 85% Off On Men's Branded Shirts. \n\nMaster Link : https://myntr.in/H2MRir \n \nRoadster : https://myntr.in/Z1TmeS \nHere & Now : https://myntr.in/rQmZMj\nMast & Harbour : https://myntr.in/b335kN\nModa Rapido : https://myntr.in/JFWD9R \nCampus Sutra : https://myntr.in/YvE061 \nKetch : https://myntr.in/bE2oxE \nHighlander : https://myntr.in/YD5z7c \nINVICTUS : https://myntr.in/WJjk8r\nLocomotive : https://myntr.in/6N25wg",
-    "final_url": "https://myntr.in/H2MRir",
-    "local_image": "assets/images/tgmsg_14524.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-26T17:06:40+00:00",
-    "buy_link": "https://myntr.in/H2MRir",
-    "date_iso": "2025-10-26T17:06:40+00:00"
   }
 ]
