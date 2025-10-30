@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14918",
+    "title": "🛒 Deal Price ₹89",
+    "description": "Flipkart | BRUT Original All-In-One Liquid Body Wash 500ml 🛒 Deal Price: ₹89 👉 https://fkrt.co/e0bGFa",
+    "shortlink": "https://fkrt.co/e0bGFa",
+    "urls": [
+      {
+        "url": "",
+        "label": "BRUT Original All-In-One Liquid Body Wash 500ml"
+      },
+      {
+        "url": "https://fkrt.co/e0bGFa",
+        "label": "🛒 Deal Price: ₹89"
+      }
+    ],
+    "raw_text": "Flipkart | BRUT Original All-In-One Liquid Body Wash 500ml\n\n🛒 Deal Price: ₹89\n\n👉 https://fkrt.co/e0bGFa",
+    "final_url": "https://fkrt.co/e0bGFa",
+    "local_image": "assets/images/tgmsg_14918.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-30T08:45:07+00:00",
+    "buy_link": "https://fkrt.co/e0bGFa",
+    "date_iso": "2025-10-30T08:45:07+00:00"
+  },
+  {
     "id": "msg14917",
     "title": "💰 Use Code GETCASH10 — Get ₹100 Cashback in Bewakoof Wallet After Delivery",
     "description": "Bewakoof: Buy Any 3 T-shirts @ ₹999 Only ✅ No Code Required Men’s: Women’s: 💰 Use Code: GETCASH10 — Get ₹100 Cashback in Bewakoof Wallet After Delivery",
@@ -9958,33 +9982,5 @@
     "date_obj": "2025-10-26T11:46:08+00:00",
     "buy_link": "https://ajiio.co/G8TB5D",
     "date_iso": "2025-10-26T11:46:08+00:00"
-  },
-  {
-    "id": "msg14488",
-    "title": "Up to 75% Off On Kid’s Clothing",
-    "description": "Myntra : Upto 75% Off On Kid’s Clothing. Boys : https://myntr.in/bvFlRo Girls : https://myntr.in/J2wndk",
-    "shortlink": "https://myntr.in/bvFlRo",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 75% Off On Kid’s Clothing"
-      },
-      {
-        "url": "https://myntr.in/bvFlRo",
-        "label": "Boys"
-      },
-      {
-        "url": "https://myntr.in/J2wndk",
-        "label": "Girls"
-      }
-    ],
-    "raw_text": "Myntra : Upto 75% Off On Kid’s Clothing. \n\nBoys : https://myntr.in/bvFlRo\nGirls : https://myntr.in/J2wndk",
-    "final_url": "https://myntr.in/bvFlRo",
-    "local_image": "assets/images/tgmsg_14488.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-26T11:16:13+00:00",
-    "buy_link": "https://myntr.in/bvFlRo",
-    "date_iso": "2025-10-26T11:16:13+00:00"
   }
 ]
