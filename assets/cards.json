@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg14909",
+    "title": "🔥 Under ₹99 Store",
+    "description": "🔥 Myntra Under ₹99 Store 👉https://myntr.in/U4SYav",
+    "shortlink": "https://myntr.in/U4SYav",
+    "urls": [
+      {
+        "url": "https://myntr.in/U4SYav",
+        "label": "🔥 Myntra Under ₹99 Store"
+      }
+    ],
+    "raw_text": "🔥 Myntra Under ₹99 Store \n\n👉https://myntr.in/U4SYav",
+    "final_url": "https://myntr.in/U4SYav",
+    "local_image": "assets/images/tgmsg_14909.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-30T07:33:11+00:00",
+    "buy_link": "https://myntr.in/U4SYav",
+    "date_iso": "2025-10-30T07:33:11+00:00"
+  },
+  {
     "id": "msg14903",
     "title": "🎁 Spend ₹2,000 & Get ₹2,000–₹5,000 Vouche",
     "description": "🔥 SBM Credilio FD Credit Card – No Credit Score? No Problem! 💳 Lifetime Free | 💰 Instant Credit via FD 🎬 BookMyShow: Buy 1 Get 1 Free! 🔗Apply Here 👉 Benefits: ✅ 5x Rewards on UPI/POS ⛽ 10x Rewards on Fuel rs 💸 90% of FD…",
@@ -9958,25 +9978,5 @@
     "date_obj": "2025-10-26T09:15:20+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CGM6PQBP?psc=1&th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-26T09:15:20+00:00"
-  },
-  {
-    "id": "msg14479",
-    "title": "Havells Zeta 1500W Immersion Heater @ 625",
-    "description": "Amazon | Havells Zeta 1500W Immersion Heater @ 625. 👉https://www.amazon.in/dp/B0BLJ3FJRJ?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0BLJ3FJRJ?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BLJ3FJRJ?th=1&tag=bestpricezo0f-21",
-        "label": "Havells Zeta 1500W Immersion Heater @ 625"
-      }
-    ],
-    "raw_text": "Amazon | Havells Zeta 1500W Immersion Heater @ 625.\n\n👉https://www.amazon.in/dp/B0BLJ3FJRJ?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BLJ3FJRJ?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14479.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-26T08:45:14+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BLJ3FJRJ?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-26T08:45:14+00:00"
   }
 ]
