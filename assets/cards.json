@@ -1,5 +1,97 @@
 [
   {
+    "id": "msg14930",
+    "title": "Highlander Men's Jacket From @528",
+    "description": "Highlander Men's Jacket From @528 https://myntr.in/UhArp1",
+    "shortlink": "https://myntr.in/UhArp1",
+    "urls": [
+      {
+        "url": "https://myntr.in/UhArp1",
+        "label": "Highlander Men's Jacket From @528"
+      }
+    ],
+    "raw_text": "Highlander Men's Jacket From @528\n\nhttps://myntr.in/UhArp1",
+    "final_url": "https://myntr.in/UhArp1",
+    "local_image": "assets/images/tgmsg_14930.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-30T09:56:54+00:00",
+    "buy_link": "https://myntr.in/UhArp1",
+    "date_iso": "2025-10-30T09:56:54+00:00"
+  },
+  {
+    "id": "msg14931",
+    "title": "🛒 Deal Price Starts @ ₹252",
+    "description": "Myntra | 🧥 Winterwear Deals from Roadster! Sweatshirts : 🛒 Deal Price : Starts @ ₹252 Men : Women : Sweaters : 🛒 Deal Price : Starts @ ₹252 Men : Women :",
+    "shortlink": "https://myntr.in/YUYh3N",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧥 Winterwear Deals from Roadster!"
+      },
+      {
+        "url": "",
+        "label": "🛒 Deal Price : Starts @ ₹252"
+      },
+      {
+        "url": "https://myntr.in/YUYh3N",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/0pGysO",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/dDTedo",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/MuB6WA",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | 🧥 Winterwear Deals from Roadster!\n\nSweatshirts :\n\n🛒 Deal Price : Starts @ ₹252\n\nMen : https://myntr.in/YUYh3N\nWomen : https://myntr.in/0pGysO\n\nSweaters :\n\n🛒 Deal Price : Starts @ ₹252\n\nMen : https://myntr.in/dDTedo\nWomen : https://myntr.in/MuB6WA",
+    "final_url": "https://myntr.in/YUYh3N",
+    "local_image": "assets/images/tgmsg_14931.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-30T10:00:05+00:00",
+    "buy_link": "https://myntr.in/YUYh3N",
+    "date_iso": "2025-10-30T10:00:05+00:00"
+  },
+  {
+    "id": "msg14933",
+    "title": "🎟 Extra ₹100 available 💸",
+    "description": "🔥 SAVANA PRICE CRASH SALE 🔥 👚 Outerwear & Tops starting from just ₹390! 🎟 Extra ₹100 Coupon available 💸 🛍 Shop Now : 💥 Limited-Time Steals – Hurry, offer ends soon!",
+    "shortlink": "https://extp.in/OW6lJr",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 SAVANA PRICE CRASH SALE 🔥"
+      },
+      {
+        "url": "",
+        "label": "👚 Outerwear & Tops starting from just ₹390!"
+      },
+      {
+        "url": "https://extp.in/OW6lJr",
+        "label": "🛍 Shop Now"
+      },
+      {
+        "url": "",
+        "label": "💥 Limited-Time Steals – Hurry, offer ends soon!"
+      }
+    ],
+    "raw_text": "🔥 SAVANA PRICE CRASH SALE 🔥\n\n👚 Outerwear & Tops starting from just ₹390!\n🎟 Extra ₹100 Coupon available 💸\n\n🛍 Shop Now : https://extp.in/OW6lJr\n\n💥 Limited-Time Steals – Hurry, offer ends soon!",
+    "final_url": "https://extp.in/OW6lJr",
+    "local_image": "assets/images/tgmsg_14933.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-10-30T10:16:16+00:00",
+    "buy_link": "https://extp.in/OW6lJr",
+    "date_iso": "2025-10-30T10:16:16+00:00"
+  },
+  {
     "id": "msg14928",
     "title": "Get Up to 80% Off",
     "description": "Flipkart : Get Upto 80% Off 👉 Link : Grocery : Mobiles : Food& Health : Home : Fashion :",
@@ -9914,121 +10006,5 @@
     "date_obj": "2025-10-26T13:46:34+00:00",
     "buy_link": "https://myntr.in/rDY8HF",
     "date_iso": "2025-10-26T13:46:34+00:00"
-  },
-  {
-    "id": "msg14499",
-    "title": "Up to 75% OFF on UCB Clothing",
-    "description": "Ajio | Up to 75% OFF on UCB Clothing Men’s: https://ajiio.co/PedgxB Women’s: https://ajiio.co/FsxDPl Boy’s: https://ajiio.co/88nbmx Girl’s: https://ajiio.co/IDY81y *10% Ajio Super Cash On Every Order.",
-    "shortlink": "https://ajiio.co/PedgxB",
-    "urls": [
-      {
-        "url": "",
-        "label": "Up to 75% OFF on UCB Clothing"
-      },
-      {
-        "url": "https://ajiio.co/PedgxB",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.co/FsxDPl",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://ajiio.co/88nbmx",
-        "label": "Boy’s"
-      },
-      {
-        "url": "https://ajiio.co/IDY81y",
-        "label": "Girl’s"
-      },
-      {
-        "url": "",
-        "label": "10% Ajio Super Cash On Every Order"
-      }
-    ],
-    "raw_text": "Ajio | Up to 75% OFF on UCB Clothing\n\nMen’s: https://ajiio.co/PedgxB\nWomen’s: https://ajiio.co/FsxDPl\nBoy’s: https://ajiio.co/88nbmx\nGirl’s: https://ajiio.co/IDY81y\n\n*10% Ajio Super Cash On Every Order.",
-    "final_url": "https://ajiio.co/PedgxB",
-    "local_image": "assets/images/tgmsg_14499.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-26T13:16:29+00:00",
-    "buy_link": "https://ajiio.co/PedgxB",
-    "date_iso": "2025-10-26T13:16:29+00:00"
-  },
-  {
-    "id": "msg14501",
-    "title": "Up to 85% Off On Men's Branded Shirt",
-    "description": "Myntra Upto 85% Off On Men's Branded Shirts Masterlink ; HERE&NOW : KETCH : The Indian Garage : Mast & Harbour : Roadster : Snitch : INVICTUS : Campus Sutra :",
-    "shortlink": "https://myntr.in/e1o8UV",
-    "urls": [
-      {
-        "url": "",
-        "label": "Myntra Upto 85% Off On Men's Branded Shirts"
-      },
-      {
-        "url": "https://myntr.in/e1o8UV",
-        "label": "Masterlink ;"
-      },
-      {
-        "url": "https://myntr.in/ExMgYH",
-        "label": "HERE&NOW"
-      },
-      {
-        "url": "https://myntr.in/lLdBWp",
-        "label": "KETCH"
-      },
-      {
-        "url": "https://myntr.in/mgRMZS",
-        "label": "The Indian Garage"
-      },
-      {
-        "url": "https://myntr.in/n8Iq06",
-        "label": "Mast & Harbour"
-      },
-      {
-        "url": "https://myntr.in/MFa0qH",
-        "label": "Roadster"
-      },
-      {
-        "url": "https://myntr.in/xxq6VE",
-        "label": "Snitch"
-      },
-      {
-        "url": "https://myntr.in/xmoyH9",
-        "label": "INVICTUS"
-      },
-      {
-        "url": "https://myntr.in/BAtvdG",
-        "label": "Campus Sutra"
-      }
-    ],
-    "raw_text": "Myntra  Upto 85% Off On Men's Branded Shirts \n\nMasterlink ; https://myntr.in/e1o8UV\n\nHERE&NOW : https://myntr.in/ExMgYH\nKETCH : https://myntr.in/lLdBWp\nThe Indian Garage : https://myntr.in/mgRMZS\nMast & Harbour : https://myntr.in/n8Iq06\nRoadster : https://myntr.in/MFa0qH\nSnitch : https://myntr.in/xxq6VE\nINVICTUS : https://myntr.in/xmoyH9\nCampus Sutra : https://myntr.in/BAtvdG",
-    "final_url": "https://myntr.in/e1o8UV",
-    "local_image": "assets/images/tgmsg_14501.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-26T13:33:43+00:00",
-    "buy_link": "https://myntr.in/e1o8UV",
-    "date_iso": "2025-10-26T13:33:43+00:00"
-  },
-  {
-    "id": "msg14497",
-    "title": "Beardo I Blade Trimmer for Men @794",
-    "description": "Amazon | Beardo I Blade Trimmer for Men @794. 👉https://www.amazon.in/dp/B0CC5666P7?smid=&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CC5666P7?smid=&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CC5666P7?smid=&tag=bestpricezo0f-21",
-        "label": "Beardo I Blade Trimmer for Men @794"
-      }
-    ],
-    "raw_text": "Amazon | Beardo I Blade Trimmer for Men @794.\n\n👉https://www.amazon.in/dp/B0CC5666P7?smid=&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CC5666P7?smid=&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14497.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-26T13:05:49+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CC5666P7?smid=&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-26T13:05:49+00:00"
   }
 ]
