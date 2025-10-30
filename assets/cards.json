@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg14896",
+    "title": "Up to 75% Off On Styli Clothing",
+    "description": "Myntra | Upto 75% Off On Styli Clothing Men : https://myntr.in/c0eu3i Women : https://myntr.in/1vc627",
+    "shortlink": "https://myntr.in/c0eu3i",
+    "urls": [
+      {
+        "url": "https://myntr.in/c0eu3i",
+        "label": "Upto 75% Off On Styli Clothing"
+      },
+      {
+        "url": "https://myntr.in/1vc627",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | Upto 75% Off On Styli Clothing\n\nMen : https://myntr.in/c0eu3i\nWomen : https://myntr.in/1vc627",
+    "final_url": "https://myntr.in/c0eu3i",
+    "local_image": "assets/images/tgmsg_14896.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-30T05:46:29+00:00",
+    "buy_link": "https://myntr.in/c0eu3i",
+    "date_iso": "2025-10-30T05:46:29+00:00"
+  },
+  {
     "id": "msg14895",
     "title": "Up to 81% Off On Window Curtains (Pack Of 2) from Rs.249",
     "description": "Myntra | Upto 81% Off On Window Curtains (Pack Of 2) from Rs.249 👉Link : https://myntr.in/6oDPqa",
@@ -10014,25 +10038,5 @@
     "date_obj": "2025-10-26T06:21:23+00:00",
     "buy_link": "https://myntr.in/camAUx",
     "date_iso": "2025-10-26T06:21:23+00:00"
-  },
-  {
-    "id": "msg14470",
-    "title": "Home Centre Products at Min 40%",
-    "description": "MYNTRA | Home Centre Products at Min 40% https://myntr.in/GzzWpF",
-    "shortlink": "https://myntr.in/GzzWpF",
-    "urls": [
-      {
-        "url": "https://myntr.in/GzzWpF",
-        "label": "Home Centre Products at Min 40%"
-      }
-    ],
-    "raw_text": "MYNTRA | Home Centre Products at Min 40% \n\nhttps://myntr.in/GzzWpF",
-    "final_url": "https://myntr.in/GzzWpF",
-    "local_image": "assets/images/tgmsg_14470.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-26T06:36:43+00:00",
-    "buy_link": "https://myntr.in/GzzWpF",
-    "date_iso": "2025-10-26T06:36:43+00:00"
   }
 ]
