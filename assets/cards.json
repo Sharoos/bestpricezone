@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg15092",
+    "title": "Up to 83% Off On Ducati Men's Shoe",
+    "description": "Flipkart | Upto 83% Off On Ducati Men's Shoe. Upto 86% Off On HRX Shoes. Men's : Women's :",
+    "shortlink": "https://fkrt.co/kJk7es",
+    "urls": [
+      {
+        "url": "https://fkrt.co/kJk7es",
+        "label": "Upto 83% Off On Ducati Men's Shoe"
+      },
+      {
+        "url": "",
+        "label": "Upto 86% Off On HRX Shoes"
+      },
+      {
+        "url": "https://fkrt.co/7ywl6n",
+        "label": "Men's"
+      },
+      {
+        "url": "https://fkrt.co/EssRlT",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 83% Off On Ducati Men's Shoe.\n\nhttps://fkrt.co/kJk7es\n\nUpto 86% Off On HRX Shoes. \n\nMen's : https://fkrt.co/7ywl6n\nWomen's : https://fkrt.co/EssRlT",
+    "final_url": "https://fkrt.co/kJk7es",
+    "local_image": "assets/images/tgmsg_15092.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-31T14:46:20+00:00",
+    "buy_link": "https://fkrt.co/kJk7es",
+    "date_iso": "2025-10-31T14:46:20+00:00"
+  },
+  {
     "id": "msg15085",
     "title": "🎁 Spend ₹2,000 & Get ₹2,000–₹5,000 Vouche",
     "description": "🔥 SBM Credilio FD Credit Card – No Credit Score? No Problem! 💳 Lifetime Free | 💰 Instant Credit via FD 🎬 BookMyShow: Buy 1 Get 1 Free! 🔗Apply Here 👉 Benefits: ✅ 5x Rewards on UPI/POS ⛽ 10x Rewards on Fuel rs 💸 90% of FD…",
@@ -9554,37 +9586,5 @@
     "date_obj": "2025-10-27T18:04:21+00:00",
     "buy_link": "https://myntr.in/WAvlvO",
     "date_iso": "2025-10-27T18:04:21+00:00"
-  },
-  {
-    "id": "msg14642",
-    "title": "Jack & Jones Min 50% Off",
-    "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "shortlink": "https://ajiio.co/QnxGZe",
-    "urls": [
-      {
-        "url": "https://ajiio.co/QnxGZe",
-        "label": "🔥AJIO | Jeans & Shorts Under ₹499"
-      },
-      {
-        "url": "https://ajiio.co/nJml9o",
-        "label": "Performax Under ₹699"
-      },
-      {
-        "url": "https://ajiio.co/50MZnE",
-        "label": "Jack & Jones Min 50% Off"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "🔥AJIO | Jeans & Shorts Under ₹499\n👉https://ajiio.co/QnxGZe\n\nPerformax Under ₹699\n👉https://ajiio.co/nJml9o\n\nJack & Jones Min 50% Off\n👉https://ajiio.co/50MZnE\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/QnxGZe",
-    "local_image": "assets/images/tgmsg_14642.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-27T18:15:58+00:00",
-    "buy_link": "https://ajiio.co/QnxGZe",
-    "date_iso": "2025-10-27T18:15:58+00:00"
   }
 ]
