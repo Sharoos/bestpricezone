@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg15032",
+    "title": "Up to 80% Off On Raymond, Park Avenue & Parx Clothing",
+    "description": "Ajio Upto 80% Off On Raymond, Park Avenue & Parx Clothing. Shirt : Trousers : T-shirt : Jeans : Womens :",
+    "shortlink": "https://ajiio.co/bEfvjF",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Upto 80% Off On Raymond, Park Avenue & Parx Clothing"
+      },
+      {
+        "url": "https://ajiio.co/bEfvjF",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://ajiio.co/zHY1LE",
+        "label": "Trousers"
+      },
+      {
+        "url": "https://ajiio.co/fEKgKU",
+        "label": "T-shirt"
+      },
+      {
+        "url": "https://ajiio.co/RAQ7tq",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/evT58T",
+        "label": "Womens"
+      }
+    ],
+    "raw_text": "Ajio  Upto 80% Off On Raymond, Park Avenue & Parx Clothing.\n\nShirt : https://ajiio.co/bEfvjF\nTrousers : https://ajiio.co/zHY1LE\nT-shirt : https://ajiio.co/fEKgKU\nJeans : https://ajiio.co/RAQ7tq\n\nWomens : https://ajiio.co/evT58T",
+    "final_url": "https://ajiio.co/bEfvjF",
+    "local_image": "assets/images/tgmsg_15032.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-10-31T04:04:10+00:00",
+    "buy_link": "https://ajiio.co/bEfvjF",
+    "date_iso": "2025-10-31T04:04:10+00:00"
+  },
+  {
     "id": "msg15029",
     "title": "Minimum 80% Off!",
     "description": "Ajio | ⌚ Lee Cooper Watches - Minimum 80% Off! https://ajiio.co/m0givK",
@@ -9814,45 +9854,5 @@
     "date_obj": "2025-10-27T09:45:33+00:00",
     "buy_link": "https://myntr.in/3MRkvT",
     "date_iso": "2025-10-27T09:45:33+00:00"
-  },
-  {
-    "id": "msg14586",
-    "title": "shirts Starts @100",
-    "description": "AJIO : T-shirts Starts @100. Women : https://ajiio.co/QUpOpe Men : https://ajiio.co/PRtdE6 Cargo Pants. Men : https://ajiio.co/vb6kYm Women : https://ajiio.co/BagGRC",
-    "shortlink": "https://ajiio.co/QUpOpe",
-    "urls": [
-      {
-        "url": "",
-        "label": "T-shirts Starts @100"
-      },
-      {
-        "url": "https://ajiio.co/QUpOpe",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/PRtdE6",
-        "label": "Men"
-      },
-      {
-        "url": "",
-        "label": "Cargo Pants"
-      },
-      {
-        "url": "https://ajiio.co/vb6kYm",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.co/BagGRC",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "AJIO : T-shirts Starts @100.\n \nWomen : https://ajiio.co/QUpOpe \nMen : https://ajiio.co/PRtdE6\n\nCargo Pants. \nMen : https://ajiio.co/vb6kYm \nWomen : https://ajiio.co/BagGRC",
-    "final_url": "https://ajiio.co/QUpOpe",
-    "local_image": "assets/images/tgmsg_14586.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-27T09:02:00+00:00",
-    "buy_link": "https://ajiio.co/QUpOpe",
-    "date_iso": "2025-10-27T09:02:00+00:00"
   }
 ]
