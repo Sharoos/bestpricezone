@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15109",
+    "title": "Up to 80% Off on Personal Care Products starting @ just ₹ 79",
+    "description": "Myntra | UPTO 80% Off on Personal Care Products starting @ just ₹ 79 Link : https://myntr.in/NBLpms",
+    "shortlink": "https://myntr.in/NBLpms",
+    "urls": [
+      {
+        "url": "https://myntr.in/NBLpms",
+        "label": "UPTO 80% Off on Personal Care Products starting @ just ₹ 79"
+      }
+    ],
+    "raw_text": "Myntra | UPTO 80% Off on Personal Care Products starting @ just ₹ 79\n\nLink : https://myntr.in/NBLpms",
+    "final_url": "https://myntr.in/NBLpms",
+    "local_image": "assets/images/tgmsg_15109.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-31T16:46:39+00:00",
+    "buy_link": "https://myntr.in/NBLpms",
+    "date_iso": "2025-10-31T16:46:39+00:00"
+  },
+  {
     "id": "msg15103",
     "title": "🔥Clothing Starts ₹159",
     "description": "🔥AJIO  Clothing Starts ₹159 Tshirt : https://ajiio.co/SSqlCp Shirt : https://ajiio.co/YwXzc5 Jeans : https://ajiio.co/aSBN30",
@@ -9558,29 +9578,5 @@
     "date_obj": "2025-10-27T19:01:42+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F3JL33DW?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-27T19:01:42+00:00"
-  },
-  {
-    "id": "msg14644",
-    "title": "Tea Cup Set Of 6 Start @213",
-    "description": "Myntra | Tea Cup Set Of 6 Start @213 👉https://myntr.in/EYL1KX Coffee Mug Start @99 👉https://myntr.in/Nhevzx",
-    "shortlink": "https://myntr.in/EYL1KX",
-    "urls": [
-      {
-        "url": "https://myntr.in/EYL1KX",
-        "label": "Tea Cup Set Of 6 Start @213"
-      },
-      {
-        "url": "https://myntr.in/Nhevzx",
-        "label": "Coffee Mug Start @99"
-      }
-    ],
-    "raw_text": "Myntra | Tea Cup Set Of 6 Start @213\n\n👉https://myntr.in/EYL1KX\n\nCoffee Mug Start @99\n\n👉https://myntr.in/Nhevzx",
-    "final_url": "https://myntr.in/EYL1KX",
-    "local_image": "assets/images/tgmsg_14644.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-27T18:31:22+00:00",
-    "buy_link": "https://myntr.in/EYL1KX",
-    "date_iso": "2025-10-27T18:31:22+00:00"
   }
 ]
