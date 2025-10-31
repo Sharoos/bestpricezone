@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg15065",
+    "title": "👕 Up to 80% OFF on Clothing & Accessories + Extra 25% OFF",
+    "description": "SAVANA Flash Sale is LIVE 🔥🔥 👕 Upto 80% OFF on Clothing & Accessories + Extra 25% OFF Coupon 👉 Shop Now : 🛍 Register & Get 25% OFF Coupon",
+    "shortlink": "https://extp.in/3v2epu",
+    "urls": [
+      {
+        "url": "",
+        "label": "SAVANA Flash Sale is LIVE 🔥🔥"
+      },
+      {
+        "url": "https://extp.in/3v2epu",
+        "label": "Shop Now"
+      }
+    ],
+    "raw_text": "SAVANA Flash Sale is LIVE 🔥🔥\n\n👕 Upto 80% OFF on Clothing & Accessories + Extra 25% OFF Coupon\n\n👉 Shop Now : https://extp.in/3v2epu\n\n🛍 Register & Get 25% OFF Coupon",
+    "final_url": "https://extp.in/3v2epu",
+    "local_image": "assets/images/tgmsg_15065.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-10-31T09:30:02+00:00",
+    "buy_link": "https://extp.in/3v2epu",
+    "date_iso": "2025-10-31T09:30:02+00:00"
+  },
+  {
     "id": "msg15061",
     "title": "Jiggle Wireless Bluetooth @₹898",
     "description": "Flipkart | ZEBRONICS Zeb-Jiggle Wireless Bluetooth @₹898 👉https://fkrt.co/tFpFCj",
@@ -9650,25 +9674,5 @@
     "date_obj": "2025-10-27T14:04:56+00:00",
     "buy_link": "https://bitli.in/wou8Ks4",
     "date_iso": "2025-10-27T14:04:56+00:00"
-  },
-  {
-    "id": "msg14622",
-    "title": "💥OverSized Tshirts Starts @180",
-    "description": "💥Ajio | OverSized Tshirts Starts @180. 👉Link : https://ajiio.co/jJJcr2",
-    "shortlink": "https://ajiio.co/jJJcr2",
-    "urls": [
-      {
-        "url": "https://ajiio.co/jJJcr2",
-        "label": "💥Ajio | OverSized Tshirts Starts @180"
-      }
-    ],
-    "raw_text": "💥Ajio | OverSized Tshirts Starts @180.\n\n👉Link : https://ajiio.co/jJJcr2",
-    "final_url": "https://ajiio.co/jJJcr2",
-    "local_image": "assets/images/tgmsg_14622.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-27T14:06:16+00:00",
-    "buy_link": "https://ajiio.co/jJJcr2",
-    "date_iso": "2025-10-27T14:06:16+00:00"
   }
 ]
