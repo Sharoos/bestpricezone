@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg15100",
+    "title": "Up to 83% Off On Here & Now Clothing",
+    "description": "Myntra | Upto 83% Off On Here & Now Clothing. Men's : https://myntr.in/WJauLQ Women's : https://myntr.in/DcsRV7",
+    "shortlink": "https://myntr.in/WJauLQ",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 83% Off On Here & Now Clothing"
+      },
+      {
+        "url": "https://myntr.in/WJauLQ",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/DcsRV7",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Myntra | Upto 83% Off On Here & Now Clothing.\n\nMen's : https://myntr.in/WJauLQ\nWomen's : https://myntr.in/DcsRV7",
+    "final_url": "https://myntr.in/WJauLQ",
+    "local_image": "assets/images/tgmsg_15100.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-31T15:46:29+00:00",
+    "buy_link": "https://myntr.in/WJauLQ",
+    "date_iso": "2025-10-31T15:46:29+00:00"
+  },
+  {
     "id": "msg15097",
     "title": "Up to 80% Off On Aeropostale Clothing",
     "description": "Myntra : Upto 80% Off On Aeropostale Clothing. Tshirt : Shirt : Trackpants : Jeans : Cargo Trousers : Backpacks : Casual Shoes :",
@@ -9550,33 +9578,5 @@
     "date_obj": "2025-10-27T18:41:27+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CHRKX49F?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-27T18:41:27+00:00"
-  },
-  {
-    "id": "msg14654",
-    "title": "💰 Offer Apply ₹1,000 off",
-    "description": "Amazon | 🎧 Wireless Earbud Deal! Samsung Galaxy Buds Core 🛒 Deal Price: ₹2,999 💰 Offer: Apply ₹1,000 off Coupon",
-    "shortlink": "https://www.amazon.in/dp/B0FDGSYR17?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🎧 Wireless Earbud Deal!"
-      },
-      {
-        "url": "",
-        "label": "Samsung Galaxy Buds Core"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0FDGSYR17?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹2,999"
-      }
-    ],
-    "raw_text": "Amazon | 🎧 Wireless Earbud Deal!\n\nSamsung Galaxy Buds Core\n\n🛒 Deal Price: ₹2,999\n💰 Offer: Apply ₹1,000 off Coupon\n\nhttps://www.amazon.in/dp/B0FDGSYR17?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FDGSYR17?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14654.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-27T18:42:11+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FDGSYR17?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-27T18:42:11+00:00"
   }
 ]
