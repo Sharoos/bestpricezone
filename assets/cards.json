@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg15051",
+    "title": "Up to 70% Off on Branded Toothpaste",
+    "description": "Flipkart | Upto 70% Off on Branded Toothpastes Colgate: Dabur : Closeup: Pepsodent: Sensodyne:",
+    "shortlink": "https://fkrt.co/wjPZm0",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70% Off on Branded Toothpastes"
+      },
+      {
+        "url": "https://fkrt.co/wjPZm0",
+        "label": "Colgate"
+      },
+      {
+        "url": "https://fkrt.co/YDtFaK",
+        "label": "Dabur"
+      },
+      {
+        "url": "https://fkrt.co/ZeNXbG",
+        "label": "Closeup"
+      },
+      {
+        "url": "https://fkrt.co/l0kZub",
+        "label": "Pepsodent"
+      },
+      {
+        "url": "https://fkrt.co/u6Fk9X",
+        "label": "Sensodyne"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 70% Off on Branded Toothpastes\n\nColgate: https://fkrt.co/wjPZm0\nDabur : https://fkrt.co/YDtFaK\nCloseup: https://fkrt.co/ZeNXbG\nPepsodent: https://fkrt.co/l0kZub\nSensodyne: https://fkrt.co/u6Fk9X",
+    "final_url": "https://fkrt.co/wjPZm0",
+    "local_image": "assets/images/tgmsg_15051.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-31T07:24:07+00:00",
+    "buy_link": "https://fkrt.co/wjPZm0",
+    "date_iso": "2025-10-31T07:24:07+00:00"
+  },
+  {
     "id": "msg15049",
     "title": "💰 Use Code GETCASH10 — Get ₹100 Cashback in Bewakoof Wallet After Delivery",
     "description": "Bewakoof: Buy Any 3 T-shirts @ ₹999 Only ✅ No Code Required Men’s: Women’s: 💰 Use Code: GETCASH10 — Get ₹100 Cashback in Bewakoof Wallet After Delivery",
@@ -9714,25 +9754,5 @@
     "date_obj": "2025-10-27T12:36:25+00:00",
     "buy_link": "https://myntr.in/R7Sr9D",
     "date_iso": "2025-10-27T12:36:25+00:00"
-  },
-  {
-    "id": "msg14612",
-    "title": "700g (175g x 4) @206",
-    "description": "Amazon | Dabur Dant Toothpaste - 700g (175g x 4) @206 👉https://www.amazon.in/dp/B0F8Q5GVPK?psc=1&th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F8Q5GVPK?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F8Q5GVPK?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "Dabur Dant Toothpaste - 700g (175g x 4) @206"
-      }
-    ],
-    "raw_text": "Amazon | Dabur Dant Toothpaste - 700g (175g x 4) @206\n\n👉https://www.amazon.in/dp/B0F8Q5GVPK?psc=1&th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F8Q5GVPK?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14612.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-27T12:45:13+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F8Q5GVPK?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-27T12:45:13+00:00"
   }
 ]
