@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15077",
+    "title": "Baby Nail Grooming Kit One Box With 6 Items @₹122 + ₹6 Shipping",
+    "description": "Flipkart | Baby Nail Grooming Kit One Box With 6 Items @₹122 + ₹6 Shipping 👉Link : https://fkrt.co/7SNqSb",
+    "shortlink": "https://fkrt.co/7SNqSb",
+    "urls": [
+      {
+        "url": "https://fkrt.co/7SNqSb",
+        "label": "Baby Nail Grooming Kit One Box With 6 Items @₹122 + ₹6 Shipping"
+      }
+    ],
+    "raw_text": "Flipkart | Baby Nail Grooming Kit One Box With 6 Items @₹122 + ₹6 Shipping\n\n👉Link : https://fkrt.co/7SNqSb",
+    "final_url": "https://fkrt.co/7SNqSb",
+    "local_image": "assets/images/tgmsg_15077.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-31T11:45:08+00:00",
+    "buy_link": "https://fkrt.co/7SNqSb",
+    "date_iso": "2025-10-31T11:45:08+00:00"
+  },
+  {
     "id": "msg15076",
     "title": "Puma Mens Shoes from ₹869",
     "description": "Flipkart | Puma Mens Shoes from ₹869 👉https://fkrt.co/tcF5ya",
@@ -9582,53 +9602,5 @@
     "date_obj": "2025-10-27T16:35:34+00:00",
     "buy_link": "https://myntr.in/fV0Fvp",
     "date_iso": "2025-10-27T16:35:34+00:00"
-  },
-  {
-    "id": "msg14631",
-    "title": "Up to 80% Off On Aeropostale Clothing",
-    "description": "Myntra : Upto 80% Off On Aeropostale Clothing. Tshirt : Shirt : Trackpants : Jeans : Cargo Trousers : Backpacks : Casual Shoes :",
-    "shortlink": "https://myntr.in/qOijnA",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Aeropostale Clothing"
-      },
-      {
-        "url": "https://myntr.in/qOijnA",
-        "label": "Tshirt"
-      },
-      {
-        "url": "https://myntr.in/XHoEcH",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://myntr.in/bFdK5t",
-        "label": "Trackpants"
-      },
-      {
-        "url": "https://myntr.in/SdPcJM",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://myntr.in/yaRxcH",
-        "label": "Cargo Trousers"
-      },
-      {
-        "url": "https://myntr.in/RmDCCS",
-        "label": "Backpacks"
-      },
-      {
-        "url": "https://myntr.in/q4rtne",
-        "label": "Casual Shoes"
-      }
-    ],
-    "raw_text": "Myntra : Upto 80% Off On Aeropostale Clothing.\n\nTshirt : https://myntr.in/qOijnA\nShirt : https://myntr.in/XHoEcH\nTrackpants : https://myntr.in/bFdK5t\nJeans : https://myntr.in/SdPcJM\nCargo Trousers : https://myntr.in/yaRxcH\nBackpacks : https://myntr.in/RmDCCS\nCasual Shoes : https://myntr.in/q4rtne",
-    "final_url": "https://myntr.in/qOijnA",
-    "local_image": "assets/images/tgmsg_14631.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-27T15:36:02+00:00",
-    "buy_link": "https://myntr.in/qOijnA",
-    "date_iso": "2025-10-27T15:36:02+00:00"
   }
 ]
