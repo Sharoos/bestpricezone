@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15102",
+    "title": "AXE Intense & Pulse Body Spray Rs.367",
+    "description": "Flipkart | AXE Intense & Pulse Body Spray Rs.367 https://fkrt.co/3BIG1l",
+    "shortlink": "https://fkrt.co/3BIG1l",
+    "urls": [
+      {
+        "url": "https://fkrt.co/3BIG1l",
+        "label": "AXE Intense & Pulse Body Spray Rs.367"
+      }
+    ],
+    "raw_text": "Flipkart | AXE Intense & Pulse Body Spray Rs.367\n\nhttps://fkrt.co/3BIG1l",
+    "final_url": "https://fkrt.co/3BIG1l",
+    "local_image": "assets/images/tgmsg_15102.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-31T16:05:42+00:00",
+    "buy_link": "https://fkrt.co/3BIG1l",
+    "date_iso": "2025-10-31T16:05:42+00:00"
+  },
+  {
     "id": "msg15100",
     "title": "Up to 83% Off On Here & Now Clothing",
     "description": "Myntra | Upto 83% Off On Here & Now Clothing. Men's : https://myntr.in/WJauLQ Women's : https://myntr.in/DcsRV7",
@@ -9558,25 +9578,5 @@
     "date_obj": "2025-10-27T18:40:56+00:00",
     "buy_link": "https://myntr.in/vBko1O",
     "date_iso": "2025-10-27T18:40:56+00:00"
-  },
-  {
-    "id": "msg14652",
-    "title": "Orient Electric 1200 mm Zeno BLDC BLDC energy saving ceiling fan @₹2899",
-    "description": "Amazon | Orient Electric 1200 mm Zeno BLDC | BLDC energy saving ceiling fan @₹2899",
-    "shortlink": "https://www.amazon.in/dp/B0CHRKX49F?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CHRKX49F?th=1&tag=bestpricezo0f-21",
-        "label": "Orient Electric 1200 mm Zeno BLDC | BLDC energy saving ceiling fan @₹2899"
-      }
-    ],
-    "raw_text": "Amazon | Orient Electric 1200 mm Zeno BLDC | BLDC energy saving ceiling fan @₹2899\n\nhttps://www.amazon.in/dp/B0CHRKX49F?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CHRKX49F?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14652.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-27T18:41:27+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CHRKX49F?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-27T18:41:27+00:00"
   }
 ]
