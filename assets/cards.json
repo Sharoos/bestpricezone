@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15114",
+    "title": "Up to 80% Off on Women",
+    "description": "Myntra | Upto 80% Off on Women-Sunglasses Starting @ just ₹439 Link : https://myntr.in/1kzKqg",
+    "shortlink": "https://myntr.in/1kzKqg",
+    "urls": [
+      {
+        "url": "https://myntr.in/1kzKqg",
+        "label": "Upto 80% Off on Women-Sunglasses Starting @ just ₹439"
+      }
+    ],
+    "raw_text": "Myntra | Upto 80% Off on Women-Sunglasses Starting @ just ₹439\n \nLink : https://myntr.in/1kzKqg",
+    "final_url": "https://myntr.in/1kzKqg",
+    "local_image": "assets/images/tgmsg_15114.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-31T17:46:01+00:00",
+    "buy_link": "https://myntr.in/1kzKqg",
+    "date_iso": "2025-10-31T17:46:01+00:00"
+  },
+  {
     "id": "msg15113",
     "title": "🔥Men's Casual Shirt Starts Rs.179",
     "description": "🔥Myntra Men's Casual Shirt Starts Rs.179 MasterLink : Here & Now : Mast & Harbour : Roadster : The Indian Garage : Snitch : Campus Sutra :",
@@ -9574,25 +9594,5 @@
     "date_obj": "2025-10-27T18:52:10+00:00",
     "buy_link": "https://myntr.in/GGvofb",
     "date_iso": "2025-10-27T18:52:10+00:00"
-  },
-  {
-    "id": "msg14663",
-    "title": "Roadster Jeans up to 88% off",
-    "description": "Myntra | Roadster Jeans up to 88% off https://myntr.in/AFkiRo",
-    "shortlink": "https://myntr.in/AFkiRo",
-    "urls": [
-      {
-        "url": "https://myntr.in/AFkiRo",
-        "label": "Roadster Jeans up to 88% off"
-      }
-    ],
-    "raw_text": "Myntra | Roadster Jeans up to 88% off\n\nhttps://myntr.in/AFkiRo",
-    "final_url": "https://myntr.in/AFkiRo",
-    "local_image": "assets/images/tgmsg_14663.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-27T18:53:49+00:00",
-    "buy_link": "https://myntr.in/AFkiRo",
-    "date_iso": "2025-10-27T18:53:49+00:00"
   }
 ]
