@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg15095",
+    "title": "Oversized T",
+    "description": "Myntra | Oversized T-shirts From Rs.97 Men's : https://myntr.in/jx5i3d Women : https://myntr.in/kxaRo6",
+    "shortlink": "https://myntr.in/jx5i3d",
+    "urls": [
+      {
+        "url": "",
+        "label": "Oversized T-shirts From Rs.97"
+      },
+      {
+        "url": "https://myntr.in/jx5i3d",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/kxaRo6",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | Oversized T-shirts From Rs.97\n\nMen's : https://myntr.in/jx5i3d \nWomen : https://myntr.in/kxaRo6",
+    "final_url": "https://myntr.in/jx5i3d",
+    "local_image": "assets/images/tgmsg_15095.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-31T15:07:13+00:00",
+    "buy_link": "https://myntr.in/jx5i3d",
+    "date_iso": "2025-10-31T15:07:13+00:00"
+  },
+  {
+    "id": "msg15096",
+    "title": "PTron Studio Evo Bluetooth Headhphone @ 799",
+    "description": "Flipkart | PTron Studio Evo Bluetooth Headhphone @ 799. 👉https://fkrt.co/8YHaVW",
+    "shortlink": "https://fkrt.co/8YHaVW",
+    "urls": [
+      {
+        "url": "https://fkrt.co/8YHaVW",
+        "label": "PTron Studio Evo Bluetooth Headhphone @ 799"
+      }
+    ],
+    "raw_text": "Flipkart | PTron Studio Evo Bluetooth Headhphone @ 799.\n\n👉https://fkrt.co/8YHaVW",
+    "final_url": "https://fkrt.co/8YHaVW",
+    "local_image": "assets/images/tgmsg_15096.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-10-31T15:16:25+00:00",
+    "buy_link": "https://fkrt.co/8YHaVW",
+    "date_iso": "2025-10-31T15:16:25+00:00"
+  },
+  {
     "id": "msg15092",
     "title": "Up to 83% Off On Ducati Men's Shoe",
     "description": "Flipkart | Upto 83% Off On Ducati Men's Shoe. Upto 86% Off On HRX Shoes. Men's : Women's :",
@@ -9526,65 +9574,5 @@
     "date_obj": "2025-10-27T18:45:03+00:00",
     "buy_link": "https://myntr.in/BkV9dC",
     "date_iso": "2025-10-27T18:45:03+00:00"
-  },
-  {
-    "id": "msg14659",
-    "title": "🛒 Deal Price ₹400",
-    "description": "Amazon | 👶 Baby Shampoo Offers Baby Dove Shampoo, 400 ml (Pack of 2) Unscented 🛒 Deal Price: ₹400",
-    "shortlink": "https://www.amazon.in/dp/B0DZ67GG3N?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "👶 Baby Shampoo Offers"
-      },
-      {
-        "url": "",
-        "label": "Baby Dove Shampoo, 400 ml (Pack of 2) Unscented"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0DZ67GG3N?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹400"
-      }
-    ],
-    "raw_text": "Amazon | 👶 Baby Shampoo Offers\n\nBaby Dove Shampoo, 400 ml (Pack of 2) Unscented\n\n🛒 Deal Price: ₹400\n\nhttps://www.amazon.in/dp/B0DZ67GG3N?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DZ67GG3N?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14659.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-27T18:45:58+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DZ67GG3N?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-27T18:45:58+00:00"
-  },
-  {
-    "id": "msg14641",
-    "title": "🌟Up to 80% Off On Mast & Harbour Men's Clothing.🔥🔥",
-    "description": "🌟Myntra : Upto 80% Off On Mast & Harbour Men's Clothing.🔥🔥 🖇️T-Shirt : 🖇️Shirt : 🖇️Jeans :",
-    "shortlink": "https://myntr.in/WAvlvO",
-    "urls": [
-      {
-        "url": "",
-        "label": "🌟Myntra : Upto 80% Off On Mast & Harbour Men's Clothing.🔥🔥"
-      },
-      {
-        "url": "https://myntr.in/WAvlvO",
-        "label": "🖇️T-Shirt"
-      },
-      {
-        "url": "https://myntr.in/bCxEDK",
-        "label": "🖇️Shirt"
-      },
-      {
-        "url": "https://myntr.in/CsHPjz",
-        "label": "🖇️Jeans"
-      }
-    ],
-    "raw_text": "🌟Myntra : Upto 80% Off On Mast & Harbour Men's Clothing.🔥🔥\n\n🖇️T-Shirt : https://myntr.in/WAvlvO\n🖇️Shirt : https://myntr.in/bCxEDK\n🖇️Jeans : https://myntr.in/CsHPjz",
-    "final_url": "https://myntr.in/WAvlvO",
-    "local_image": "assets/images/tgmsg_14641.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-27T18:04:21+00:00",
-    "buy_link": "https://myntr.in/WAvlvO",
-    "date_iso": "2025-10-27T18:04:21+00:00"
   }
 ]
