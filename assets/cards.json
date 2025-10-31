@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15073",
+    "title": "75rs eyeshadow plate",
+    "description": "Myntra  75rs eyeshadow plate 👉https://myntr.in/cRgIDg",
+    "shortlink": "https://myntr.in/cRgIDg",
+    "urls": [
+      {
+        "url": "https://myntr.in/cRgIDg",
+        "label": "Myntra 75rs eyeshadow plate"
+      }
+    ],
+    "raw_text": "Myntra  75rs eyeshadow plate \n\n👉https://myntr.in/cRgIDg",
+    "final_url": "https://myntr.in/cRgIDg",
+    "local_image": "assets/images/tgmsg_15073.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-10-31T11:00:05+00:00",
+    "buy_link": "https://myntr.in/cRgIDg",
+    "date_iso": "2025-10-31T11:00:05+00:00"
+  },
+  {
     "id": "msg15072",
     "title": "Tokyo Talkies Topwear From ₹126",
     "description": "Flipkart | Tokyo Talkies Topwear From ₹126 👉Link : https://fkrt.co/wH9sJW",
@@ -9582,37 +9602,5 @@
     "date_obj": "2025-10-27T14:46:35+00:00",
     "buy_link": "https://myntr.in/I1BwqZ",
     "date_iso": "2025-10-27T14:46:35+00:00"
-  },
-  {
-    "id": "msg14628",
-    "title": "Tiaraa Offer on Bracelet",
-    "description": "Tiaraa Loot Offer on Bracelets Grab Any 3 Bracelets @ ₹199 (Including Shipping) ✅ Use Code: LOOT3 🔗 Shop Now:",
-    "shortlink": "https://bitli.in/us8Tlkt",
-    "urls": [
-      {
-        "url": "",
-        "label": "Tiaraa Loot Offer on Bracelets"
-      },
-      {
-        "url": "",
-        "label": "Grab Any 3 Bracelets @ ₹199 (Including Shipping)"
-      },
-      {
-        "url": "",
-        "label": "✅ Use Code: LOOT3"
-      },
-      {
-        "url": "https://bitli.in/us8Tlkt",
-        "label": "🔗 Shop Now"
-      }
-    ],
-    "raw_text": "Tiaraa Loot Offer on Bracelets\n\nGrab Any 3 Bracelets @ ₹199 (Including Shipping)\n\n✅ Use Code: LOOT3\n🔗 Shop Now: https://bitli.in/us8Tlkt",
-    "final_url": "https://bitli.in/us8Tlkt",
-    "local_image": "assets/images/tgmsg_14628.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-10-27T14:46:51+00:00",
-    "buy_link": "https://bitli.in/us8Tlkt",
-    "date_iso": "2025-10-27T14:46:51+00:00"
   }
 ]
