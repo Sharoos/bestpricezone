@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg15256",
+    "title": "Up to 65% Off On Dabur Toothpaste",
+    "description": "Amazon | Upto 65% Off On Dabur Toothpaste. https://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21& Upto 50% Off On Odonil Room Freshne₹…",
+    "shortlink": "https://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21&",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21&",
+        "label": "Upto 65% Off On Dabur Toothpaste"
+      },
+      {
+        "url": "https://www.amazon.in/s?k=odonil&i=hpc&rh=n%3A1350384031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665402031%2Cp_123%3A450757&tag=bestpricezo0f-21",
+        "label": "Upto 50% Off On Odonil Room Freshne₹"
+      }
+    ],
+    "raw_text": "Amazon | Upto 65% Off On Dabur Toothpaste.\n\nhttps://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21&\n\nUpto 50% Off On Odonil Room Freshne₹\n\nhttps://www.amazon.in/s?k=odonil&i=hpc&rh=n%3A1350384031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665402031%2Cp_123%3A450757&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21&",
+    "local_image": "assets/images/tgmsg_15256.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-01T22:13:58+00:00",
+    "buy_link": "https://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21&",
+    "date_iso": "2025-11-01T22:13:58+00:00"
+  },
+  {
     "id": "msg15245",
     "title": "🛒 Deal Price ₹699",
     "description": "Flipkart | 🔥 Keep Warm This Winter Sansui Quartz Room Heater 🛒 Deal Price: ₹699 https://fkrt.co/npaTgh",
@@ -9206,25 +9230,5 @@
     "date_obj": "2025-10-29T08:56:47+00:00",
     "buy_link": "https://fkrt.co/cySJG3",
     "date_iso": "2025-10-29T08:56:47+00:00"
-  },
-  {
-    "id": "msg14807",
-    "title": "Up to 72% off on Superdry & GAP Premium Clothing",
-    "description": "Ajio | Upto 72% off on Superdry & GAP Premium Clothing 👉https://ajiio.co/t9ydJu",
-    "shortlink": "https://ajiio.co/t9ydJu",
-    "urls": [
-      {
-        "url": "https://ajiio.co/t9ydJu",
-        "label": "Upto 72% off on Superdry & GAP Premium Clothing"
-      }
-    ],
-    "raw_text": "Ajio | Upto 72% off on Superdry & GAP Premium Clothing\n\n👉https://ajiio.co/t9ydJu",
-    "final_url": "https://ajiio.co/t9ydJu",
-    "local_image": "assets/images/tgmsg_14807.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-29T09:00:06+00:00",
-    "buy_link": "https://ajiio.co/t9ydJu",
-    "date_iso": "2025-10-29T09:00:06+00:00"
   }
 ]
