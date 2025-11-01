@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg15199",
+    "title": "Men's Trousers From ₹186",
+    "description": "Flipkart | Men's Trousers From ₹186 👉https://fkrt.co/MHST5b",
+    "shortlink": "https://fkrt.co/MHST5b",
+    "urls": [
+      {
+        "url": "https://fkrt.co/MHST5b",
+        "label": "Men's Trousers From ₹186"
+      }
+    ],
+    "raw_text": "Flipkart | Men's Trousers From ₹186\n\n👉https://fkrt.co/MHST5b",
+    "final_url": "https://fkrt.co/MHST5b",
+    "local_image": "assets/images/tgmsg_15199.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-01T13:26:05+00:00",
+    "buy_link": "https://fkrt.co/MHST5b",
+    "date_iso": "2025-11-01T13:26:05+00:00"
+  },
+  {
+    "id": "msg15200",
+    "title": "Shopsy Extra 40% Off on Men’s Sweatshirts & Jacket",
+    "description": "Shopsy : Extra 40% Off on Men’s Sweatshirts & Jackets https://bitli.in/9W3bM0f",
+    "shortlink": "https://bitli.in/9W3bM0f",
+    "urls": [
+      {
+        "url": "https://bitli.in/9W3bM0f",
+        "label": "Extra 40% Off on Men’s Sweatshirts & Jackets"
+      }
+    ],
+    "raw_text": "Shopsy : Extra 40% Off on Men’s Sweatshirts & Jackets\n\nhttps://bitli.in/9W3bM0f",
+    "final_url": "https://bitli.in/9W3bM0f",
+    "local_image": "assets/images/tgmsg_15200.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-11-01T13:30:50+00:00",
+    "buy_link": "https://bitli.in/9W3bM0f",
+    "date_iso": "2025-11-01T13:30:50+00:00"
+  },
+  {
     "id": "msg15196",
     "title": "🛒 Up to 87% Off",
     "description": "Myntra | 👟 HRX Shoe Savings! 🛒 Up to 87% Off https://myntr.in/IWwi2A",
@@ -9322,65 +9362,5 @@
     "date_obj": "2025-10-28T17:05:48+00:00",
     "buy_link": "https://fkrt.co/1jUU3H",
     "date_iso": "2025-10-28T17:05:48+00:00"
-  },
-  {
-    "id": "msg14760",
-    "title": "L'Oreal Paris at 57% off",
-    "description": "Flipkart | 🔥Mega Sale is live!!!  👉 Parachute Advansed at 68% off 👉 Parachute at 15% off 👉 Clean & Clear at 50% off TRESemme at 67% off",
-    "shortlink": "https://fkrt.co/ZJgpHe",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Mega Sale is live!!!"
-      },
-      {
-        "url": "https://fkrt.co/ZJgpHe",
-        "label": "L'Oreal Paris at 57% off"
-      },
-      {
-        "url": "https://fkrt.co/AWT1gA",
-        "label": "Parachute Advansed at 68% off"
-      },
-      {
-        "url": "https://fkrt.co/kQn2SD",
-        "label": "Parachute at 15% off"
-      },
-      {
-        "url": "https://fkrt.co/TAZiVq",
-        "label": "Clean & Clear at 50% off"
-      },
-      {
-        "url": "https://fkrt.co/kfvfWt",
-        "label": "TRESemme at 67% off"
-      }
-    ],
-    "raw_text": "Flipkart | 🔥Mega Sale is live!!!\n\nL'Oreal Paris at 57% off\n👉https://fkrt.co/ZJgpHe\n\nParachute Advansed at 68% off\n👉https://fkrt.co/AWT1gA\n\nParachute at 15% off\n👉https://fkrt.co/kQn2SD\n\nClean & Clear at 50% off\nhttps://fkrt.co/TAZiVq\n\nTRESemme at 67% off\nhttps://fkrt.co/kfvfWt",
-    "final_url": "https://fkrt.co/ZJgpHe",
-    "local_image": "assets/images/tgmsg_14760.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-28T17:16:42+00:00",
-    "buy_link": "https://fkrt.co/ZJgpHe",
-    "date_iso": "2025-10-28T17:16:42+00:00"
-  },
-  {
-    "id": "msg14758",
-    "title": "Beardo perfumes at Min 71% off",
-    "description": "Myntra | Beardo perfumes at Min 71% off Link : https://myntr.in/F5Das8",
-    "shortlink": "https://myntr.in/F5Das8",
-    "urls": [
-      {
-        "url": "https://myntr.in/F5Das8",
-        "label": "Beardo perfumes at Min 71% off"
-      }
-    ],
-    "raw_text": "Myntra | Beardo perfumes at Min 71% off\n\nLink : https://myntr.in/F5Das8",
-    "final_url": "https://myntr.in/F5Das8",
-    "local_image": "assets/images/tgmsg_14758.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-28T16:46:37+00:00",
-    "buy_link": "https://myntr.in/F5Das8",
-    "date_iso": "2025-10-28T16:46:37+00:00"
   }
 ]
