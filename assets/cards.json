@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg15203",
+    "title": "Up to 75% off on Men's Grooming Combo Kits 🔥🔥",
+    "description": "Flipkart : Upto 75% off on Men's Grooming Combo Kits  🔥🔥 Master Link: https://fkrt.co/3qxvd8",
+    "shortlink": "https://fkrt.co/3qxvd8",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% off on Men's Grooming Combo Kits 🔥🔥"
+      },
+      {
+        "url": "https://fkrt.co/3qxvd8",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Flipkart : Upto 75% off on Men's Grooming Combo Kits  🔥🔥\n\nMaster Link: https://fkrt.co/3qxvd8",
+    "final_url": "https://fkrt.co/3qxvd8",
+    "local_image": "assets/images/tgmsg_15203.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-01T13:41:30+00:00",
+    "buy_link": "https://fkrt.co/3qxvd8",
+    "date_iso": "2025-11-01T13:41:30+00:00"
+  },
+  {
     "id": "msg15199",
     "title": "Men's Trousers From ₹186",
     "description": "Flipkart | Men's Trousers From ₹186 👉https://fkrt.co/MHST5b",
@@ -9318,49 +9342,5 @@
     "date_obj": "2025-10-28T17:34:18+00:00",
     "buy_link": "https://myntr.in/XjvxrD",
     "date_iso": "2025-10-28T17:34:18+00:00"
-  },
-  {
-    "id": "msg14759",
-    "title": "80% OFF on Top Brands 🔥🔥",
-    "description": "Flipkart Fashion Mega Sale 📢📢 60- USPA, Jack & Jones – T-Shirts UCB, WROGN – Shirts Levi’s, Killer – Jeans Arrow, Raymond – Shirts & Trousers PUMA, Adidas – Sports Tees, Shorts, Trackpants",
-    "shortlink": "https://fkrt.co/1jUU3H",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart Fashion Mega Sale"
-      },
-      {
-        "url": "",
-        "label": "📢📢 60-80% OFF on Top Brands 🔥🔥"
-      },
-      {
-        "url": "https://fkrt.co/1jUU3H",
-        "label": "USPA, Jack & Jones – T-Shirts"
-      },
-      {
-        "url": "https://fkrt.co/Nf06I0",
-        "label": "UCB, WROGN – Shirts"
-      },
-      {
-        "url": "https://fkrt.co/zTzq0e",
-        "label": "Levi’s, Killer – Jeans"
-      },
-      {
-        "url": "https://fkrt.co/w0mjk2",
-        "label": "Arrow, Raymond – Shirts & Trousers"
-      },
-      {
-        "url": "https://fkrt.co/EUzMft",
-        "label": "PUMA, Adidas – Sports Tees, Shorts, Trackpants"
-      }
-    ],
-    "raw_text": "Flipkart Fashion Mega Sale \n\n📢📢 60-80% OFF on Top Brands 🔥🔥\n\nUSPA, Jack & Jones – T-Shirts\nhttps://fkrt.co/1jUU3H\n\nUCB, WROGN – Shirts\nhttps://fkrt.co/Nf06I0\n\nLevi’s, Killer – Jeans\nhttps://fkrt.co/zTzq0e\n\nArrow, Raymond – Shirts & Trousers\nhttps://fkrt.co/w0mjk2\n\nPUMA, Adidas – Sports Tees, Shorts, Trackpants\nhttps://fkrt.co/EUzMft",
-    "final_url": "https://fkrt.co/1jUU3H",
-    "local_image": "assets/images/tgmsg_14759.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-28T17:05:48+00:00",
-    "buy_link": "https://fkrt.co/1jUU3H",
-    "date_iso": "2025-10-28T17:05:48+00:00"
   }
 ]
