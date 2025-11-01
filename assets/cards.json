@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15177",
+    "title": "Pexpo Bottles Starts 284/",
+    "description": "Myntra | Pexpo Bottles Starts 284/- 👉Link : https://myntr.in/Te0SmE",
+    "shortlink": "https://myntr.in/Te0SmE",
+    "urls": [
+      {
+        "url": "https://myntr.in/Te0SmE",
+        "label": "Pexpo Bottles Starts 284/"
+      }
+    ],
+    "raw_text": "Myntra | Pexpo Bottles Starts 284/- \n\n👉Link : https://myntr.in/Te0SmE",
+    "final_url": "https://myntr.in/Te0SmE",
+    "local_image": "assets/images/tgmsg_15177.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-01T09:16:35+00:00",
+    "buy_link": "https://myntr.in/Te0SmE",
+    "date_iso": "2025-11-01T09:16:35+00:00"
+  },
+  {
     "id": "msg15176",
     "title": "✨ 5% Cashback on UPI Payment",
     "description": "Apply for Lifetime FREE KIWI Credit Card & Earn Cashback on Every Transaction 🔥🔥 👉 Apply Now: 🔰 Eligibility Criteria: ✅ Joining Fee: ₹0 (Lifetime Free) ✅ Annual Renewal: Free Forever ✅ Age Limit: 21–60 Years ✅…",
@@ -9434,37 +9454,5 @@
     "date_obj": "2025-10-28T12:34:33+00:00",
     "buy_link": "https://extp.in/nj7Gzy",
     "date_iso": "2025-10-28T12:34:33+00:00"
-  },
-  {
-    "id": "msg14731",
-    "title": "Grocery Up to 92% Off",
-    "description": "Flipkart Grocery  Upto 92% Off Link 1 :    https://fkrt.co/LQTUov Link 2 :    https://fkrt.co/Dyl5tJ Link 3 :    https://fkrt.co/8lNqQZ Check All Locations",
-    "shortlink": "https://fkrt.co/LQTUov",
-    "urls": [
-      {
-        "url": "https://fkrt.co/LQTUov",
-        "label": "Flipkart Grocery Upto 92% Off"
-      },
-      {
-        "url": "https://fkrt.co/Dyl5tJ",
-        "label": "Flipkart Grocery Upto 92% Off"
-      },
-      {
-        "url": "https://fkrt.co/8lNqQZ",
-        "label": "Flipkart Grocery Upto 92% Off"
-      },
-      {
-        "url": "",
-        "label": "Check All Locations"
-      }
-    ],
-    "raw_text": "Flipkart Grocery  Upto 92% Off\n\nLink 1 :    https://fkrt.co/LQTUov\nLink 2 :    https://fkrt.co/Dyl5tJ\nLink 3 :    https://fkrt.co/8lNqQZ\n\nCheck All Locations",
-    "final_url": "https://fkrt.co/LQTUov",
-    "local_image": "assets/images/tgmsg_14731.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-28T12:40:09+00:00",
-    "buy_link": "https://fkrt.co/LQTUov",
-    "date_iso": "2025-10-28T12:40:09+00:00"
   }
 ]
