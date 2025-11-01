@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15216",
+    "title": "Shimmer Floor & Surface Cleaner, 5L @ 161",
+    "description": "Amazon | Shimmer Floor & Surface Cleaner, 5L @ 161. 👉https://www.amazon.in/dp/B0F9WP8YXW?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0F9WP8YXW?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0F9WP8YXW?tag=bestpricezo0f-21",
+        "label": "Shimmer Floor & Surface Cleaner, 5L @ 161"
+      }
+    ],
+    "raw_text": "Amazon | Shimmer Floor & Surface Cleaner, 5L @ 161.\n\n👉https://www.amazon.in/dp/B0F9WP8YXW?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F9WP8YXW?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15216.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-01T15:24:33+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F9WP8YXW?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-01T15:24:33+00:00"
+  },
+  {
     "id": "msg15214",
     "title": "Fashion Sale is LIVE 🔥🔥",
     "description": "Flipkart  Top fashion brands 👇 HIGHLANDER: Roadster: The Indian Garage Co: METRONAUT: Red Tape: Bewakoof: INVICTUS: Mast & Harbour: Snitch:",
@@ -9314,33 +9334,5 @@
     "date_obj": "2025-10-28T19:13:53+00:00",
     "buy_link": "https://www.amazon.in/dp/B07V82W5CN?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-28T19:13:53+00:00"
-  },
-  {
-    "id": "msg14771",
-    "title": "🛒 Deal Price ₹329",
-    "description": "Flipkart | 🧴 Shampoo Savings! Dabur Vatika Health Shampoo (1L) 🛒 Deal Price: ₹329",
-    "shortlink": "https://fkrt.co/WBU5Xr",
-    "urls": [
-      {
-        "url": "",
-        "label": "🧴 Shampoo Savings!"
-      },
-      {
-        "url": "",
-        "label": "Dabur Vatika Health Shampoo (1L)"
-      },
-      {
-        "url": "https://fkrt.co/WBU5Xr",
-        "label": "🛒 Deal Price: ₹329"
-      }
-    ],
-    "raw_text": "Flipkart | 🧴 Shampoo Savings!\n\nDabur Vatika Health Shampoo (1L)\n\n🛒 Deal Price: ₹329\n\nhttps://fkrt.co/WBU5Xr",
-    "final_url": "https://fkrt.co/WBU5Xr",
-    "local_image": "assets/images/tgmsg_14771.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-28T18:51:29+00:00",
-    "buy_link": "https://fkrt.co/WBU5Xr",
-    "date_iso": "2025-10-28T18:51:29+00:00"
   }
 ]
