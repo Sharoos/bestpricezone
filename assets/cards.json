@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg15221",
+    "title": "Jack & Jones Min 50% Off",
+    "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/2WSRNM",
+    "urls": [
+      {
+        "url": "https://ajiio.co/2WSRNM",
+        "label": "🔥AJIO | Jeans & Shorts Under ₹499"
+      },
+      {
+        "url": "https://ajiio.co/buredW",
+        "label": "Performax Under ₹699"
+      },
+      {
+        "url": "https://ajiio.co/2IdhqA",
+        "label": "Jack & Jones Min 50% Off"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "🔥AJIO | Jeans & Shorts Under ₹499\n👉https://ajiio.co/2WSRNM\n\nPerformax Under ₹699\n👉https://ajiio.co/buredW\n\nJack & Jones Min 50% Off\n👉https://ajiio.co/2IdhqA\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/2WSRNM",
+    "local_image": "assets/images/tgmsg_15221.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-01T16:11:51+00:00",
+    "buy_link": "https://ajiio.co/2WSRNM",
+    "date_iso": "2025-11-01T16:11:51+00:00"
+  },
+  {
     "id": "msg15220",
     "title": "Winter Blankets starting @ 299",
     "description": "Myntra | Winter Blankets starting @ 299 https://myntr.in/byK1fu",
@@ -9278,25 +9310,5 @@
     "date_obj": "2025-10-29T05:46:01+00:00",
     "buy_link": "https://fkrt.co/JXVQgW",
     "date_iso": "2025-10-29T05:46:01+00:00"
-  },
-  {
-    "id": "msg14779",
-    "title": "Up to 36% off on Ddecor bedsheets and curtain",
-    "description": "Myntra | Upto 36% off on Ddecor bedsheets and curtains. Link : https://myntr.in/VJGoVM",
-    "shortlink": "https://myntr.in/VJGoVM",
-    "urls": [
-      {
-        "url": "https://myntr.in/VJGoVM",
-        "label": "Upto 36% off on Ddecor bedsheets and curtains"
-      }
-    ],
-    "raw_text": "Myntra | Upto 36% off on Ddecor bedsheets and curtains.\n\nLink : https://myntr.in/VJGoVM",
-    "final_url": "https://myntr.in/VJGoVM",
-    "local_image": "assets/images/tgmsg_14779.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-29T04:10:51+00:00",
-    "buy_link": "https://myntr.in/VJGoVM",
-    "date_iso": "2025-10-29T04:10:51+00:00"
   }
 ]
