@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg15191",
+    "title": "Up to 70% Off On The Bear House Clothing",
+    "description": "Flipkart | Upto 70% Off On The Bear House Clothing. Shirts https://fkrt.co/JsblJo Tshirts https://fkrt.co/WYGEpv Jeans https://fkrt.co/3cR439",
+    "shortlink": "https://fkrt.co/JsblJo",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70% Off On The Bear House Clothing"
+      },
+      {
+        "url": "https://fkrt.co/JsblJo",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://fkrt.co/WYGEpv",
+        "label": "Tshirts"
+      },
+      {
+        "url": "https://fkrt.co/3cR439",
+        "label": "Jeans"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 70% Off On The Bear House Clothing.\n\nShirts https://fkrt.co/JsblJo\nTshirts https://fkrt.co/WYGEpv\nJeans https://fkrt.co/3cR439",
+    "final_url": "https://fkrt.co/JsblJo",
+    "local_image": "assets/images/tgmsg_15191.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-01T11:31:25+00:00",
+    "buy_link": "https://fkrt.co/JsblJo",
+    "date_iso": "2025-11-01T11:31:25+00:00"
+  },
+  {
     "id": "msg15190",
     "title": "Up to 85% Off On Branded Backpack",
     "description": "Myntra | Upto 85% Off On Branded Backpacks. Master Link: Skybags: Safari: Wildcraft: Aristocrat:",
@@ -9290,81 +9322,5 @@
     "date_obj": "2025-10-28T15:46:50+00:00",
     "buy_link": "https://fkrt.co/YozX7n",
     "date_iso": "2025-10-28T15:46:50+00:00"
-  },
-  {
-    "id": "msg14751",
-    "title": "Up to 80% Off On DNMX Clothing",
-    "description": "AJIO Upto 80% Off On DNMX Clothing. Men’s👇. T-Shirts : Jeans : Shirts : Sweaters & Cardigans : Sweatshirt & Hoodies : Shorts : Trousers & Jogger : Women's👇. T-shirts : Shirts & Tops : Jeans & Jeggings : Sweatshirts :…",
-    "shortlink": "https://ajiio.co/j93WDD",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 80% Off On DNMX Clothing"
-      },
-      {
-        "url": "https://ajiio.co/j93WDD",
-        "label": "T-Shirts"
-      },
-      {
-        "url": "https://ajiio.co/dKeJo6",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/WsUqJf",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/hmAinB",
-        "label": "Sweaters & Cardigans"
-      },
-      {
-        "url": "https://ajiio.co/W7setM",
-        "label": "Sweatshirt & Hoodies"
-      },
-      {
-        "url": "https://ajiio.co/MD1eUS",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.co/WJeRXZ",
-        "label": "Trousers & Jogger"
-      },
-      {
-        "url": "https://ajiio.co/L1kvJU",
-        "label": "T-shirts"
-      },
-      {
-        "url": "https://ajiio.co/92hHxw",
-        "label": "Shirts & Tops"
-      },
-      {
-        "url": "https://ajiio.co/VfRtZH",
-        "label": "Jeans & Jeggings"
-      },
-      {
-        "url": "https://ajiio.co/cs7PK9",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://ajiio.co/tOFvuz",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/IyPwS7",
-        "label": "Jackets"
-      },
-      {
-        "url": "",
-        "label": "+ Extra 10% AJIO Super Cash"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On DNMX Clothing. \n\nMen’s👇.\n\nT-Shirts : https://ajiio.co/j93WDD \nJeans : https://ajiio.co/dKeJo6 \nShirts : https://ajiio.co/WsUqJf \nSweaters & Cardigans : https://ajiio.co/hmAinB \nSweatshirt & Hoodies : https://ajiio.co/W7setM \nShorts : https://ajiio.co/MD1eUS \nTrousers & Jogger : https://ajiio.co/WJeRXZ \n\nWomen's👇.\n\nT-shirts : https://ajiio.co/L1kvJU \nShirts & Tops : https://ajiio.co/92hHxw \nJeans & Jeggings : https://ajiio.co/VfRtZH \nSweatshirts : https://ajiio.co/cs7PK9 \nShirts : https://ajiio.co/tOFvuz \nJackets : https://ajiio.co/IyPwS7\n\n+ Extra 10% AJIO Super Cash.",
-    "final_url": "https://ajiio.co/j93WDD",
-    "local_image": "assets/images/tgmsg_14751.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-28T15:05:24+00:00",
-    "buy_link": "https://ajiio.co/j93WDD",
-    "date_iso": "2025-10-28T15:05:24+00:00"
   }
 ]
