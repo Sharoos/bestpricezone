@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg15243",
+    "title": "🛒 Deal Price ₹949",
+    "description": "Amazon | 📶 WiFi Router Deals TP-link N300 WiFi Wireless Router 🛒 Deal Price: ₹949",
+    "shortlink": "https://www.amazon.in/dp/B01HGCLUH6?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "📶 WiFi Router Deals"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B01HGCLUH6?tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹949"
+      }
+    ],
+    "raw_text": "Amazon | 📶 WiFi Router Deals\n\nTP-link N300 WiFi Wireless Router\n\n🛒 Deal Price: ₹949\n\nhttps://www.amazon.in/dp/B01HGCLUH6?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B01HGCLUH6?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15243.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-01T18:53:42+00:00",
+    "buy_link": "https://www.amazon.in/dp/B01HGCLUH6?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-01T18:53:42+00:00"
+  },
+  {
     "id": "msg15236",
     "title": "🛒 Deal Price ₹242",
     "description": "Flipkart | 👟 Shoe  Deal - Pack of 2! 🛒 Deal Price: ₹242 👉 https://fkrt.co/GRMZTy",
@@ -9238,29 +9262,5 @@
     "date_obj": "2025-10-29T07:30:06+00:00",
     "buy_link": "https://fkrt.co/qMgv8n",
     "date_iso": "2025-10-29T07:30:06+00:00"
-  },
-  {
-    "id": "msg14792",
-    "title": "Up to 75% off on Men's Grooming Combo Kits 🔥🔥",
-    "description": "Flipkart : Upto 75% off on Men's Grooming Combo Kits  🔥🔥 Master Link: https://fkrt.co/CHNeQE",
-    "shortlink": "https://fkrt.co/CHNeQE",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 75% off on Men's Grooming Combo Kits 🔥🔥"
-      },
-      {
-        "url": "https://fkrt.co/CHNeQE",
-        "label": "Master"
-      }
-    ],
-    "raw_text": "Flipkart : Upto 75% off on Men's Grooming Combo Kits  🔥🔥\n\nMaster Link: https://fkrt.co/CHNeQE",
-    "final_url": "https://fkrt.co/CHNeQE",
-    "local_image": "assets/images/tgmsg_14792.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-29T07:02:44+00:00",
-    "buy_link": "https://fkrt.co/CHNeQE",
-    "date_iso": "2025-10-29T07:02:44+00:00"
   }
 ]
