@@ -1,5 +1,141 @@
 [
   {
+    "id": "msg15245",
+    "title": "🛒 Deal Price ₹699",
+    "description": "Flipkart | 🔥 Keep Warm This Winter Sansui Quartz Room Heater 🛒 Deal Price: ₹699 https://fkrt.co/npaTgh",
+    "shortlink": "https://fkrt.co/npaTgh",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Keep Warm This Winter"
+      },
+      {
+        "url": "",
+        "label": "Sansui Quartz Room Heater"
+      },
+      {
+        "url": "https://fkrt.co/npaTgh",
+        "label": "🛒 Deal Price: ₹699"
+      }
+    ],
+    "raw_text": "Flipkart | 🔥 Keep Warm This Winter\n\nSansui Quartz Room Heater\n\n🛒 Deal Price: ₹699\n\nhttps://fkrt.co/npaTgh",
+    "final_url": "https://fkrt.co/npaTgh",
+    "local_image": "assets/images/tgmsg_15245.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-01T18:58:49+00:00",
+    "buy_link": "https://fkrt.co/npaTgh",
+    "date_iso": "2025-11-01T18:58:49+00:00"
+  },
+  {
+    "id": "msg15246",
+    "title": "🛒 Deal Price Up to 92% Off",
+    "description": "Flipkart | 🍎 Grocery Deals - Up to 92% Off! 🛒 Deal Price: Up to 92% Off (Location Specific)",
+    "shortlink": "https://fkrt.co/CYZ6fU",
+    "urls": [
+      {
+        "url": "https://fkrt.co/CYZ6fU",
+        "label": "🛒 Deal Price: Up to 92% Off"
+      },
+      {
+        "url": "https://fkrt.co/aK4JOE",
+        "label": "🍎 Grocery Deals - Up to 92% Off!"
+      },
+      {
+        "url": "https://fkrt.co/7jh0IT",
+        "label": "🍎 Grocery Deals - Up to 92% Off!"
+      },
+      {
+        "url": "",
+        "label": "(Location Specific)"
+      }
+    ],
+    "raw_text": "Flipkart | 🍎 Grocery Deals - Up to 92% Off!\n\n🛒 Deal Price: Up to 92% Off\n\nhttps://fkrt.co/CYZ6fU\nhttps://fkrt.co/aK4JOE\nhttps://fkrt.co/7jh0IT\n(Location Specific)",
+    "final_url": "https://fkrt.co/CYZ6fU",
+    "local_image": "assets/images/tgmsg_15246.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-01T18:59:35+00:00",
+    "buy_link": "https://fkrt.co/CYZ6fU",
+    "date_iso": "2025-11-01T18:59:35+00:00"
+  },
+  {
+    "id": "msg15247",
+    "title": "🛒 Deal Price ₹799",
+    "description": "Amazon | 🎧 Truly Wireless Earbud Deals GOBOULT W20 Truly Wireless in Ear Earbuds 🛒 Deal Price: ₹799",
+    "shortlink": "https://www.amazon.in/dp/B0D3R1JQ7D?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "🎧 Truly Wireless Earbud Deals"
+      },
+      {
+        "url": "",
+        "label": "GOBOULT W20 Truly Wireless in Ear Earbuds"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0D3R1JQ7D?th=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹799"
+      }
+    ],
+    "raw_text": "Amazon | 🎧 Truly Wireless Earbud Deals\n\nGOBOULT W20 Truly Wireless in Ear Earbuds\n\n🛒 Deal Price: ₹799\n\nhttps://www.amazon.in/dp/B0D3R1JQ7D?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D3R1JQ7D?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15247.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-01T19:00:20+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D3R1JQ7D?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-01T19:00:20+00:00"
+  },
+  {
+    "id": "msg15248",
+    "title": "🛒 Deal Price ₹1099",
+    "description": "Amazon | 🔋 Power Bank Deals URBN Power Bank 20000mAh Fast Charging 🛒 Deal Price: ₹1099",
+    "shortlink": "https://www.amazon.in/dp/B0DQ4NYQZQ?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔋 Power Bank Deals"
+      },
+      {
+        "url": "",
+        "label": "URBN Power Bank 20000mAh Fast Charging"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0DQ4NYQZQ?th=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹1099"
+      }
+    ],
+    "raw_text": "Amazon | 🔋 Power Bank Deals\n\nURBN Power Bank 20000mAh Fast Charging\n\n🛒 Deal Price: ₹1099\n\nhttps://www.amazon.in/dp/B0DQ4NYQZQ?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DQ4NYQZQ?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15248.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-01T19:01:06+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DQ4NYQZQ?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-01T19:01:06+00:00"
+  },
+  {
+    "id": "msg15250",
+    "title": "Wild Stone CODE Beard Growth Oil for Men, 30 ml @200",
+    "description": "Amazon | Wild Stone CODE Beard Growth Oil for Men, 30 ml @200 https://www.amazon.in/dp/B0B3RX9QGN?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0B3RX9QGN?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0B3RX9QGN?th=1&tag=bestpricezo0f-21",
+        "label": "Wild Stone CODE Beard Growth Oil for Men, 30 ml @200"
+      }
+    ],
+    "raw_text": "Amazon | Wild Stone CODE Beard Growth Oil for Men, 30 ml @200\n\nhttps://www.amazon.in/dp/B0B3RX9QGN?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0B3RX9QGN?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15250.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-01T19:07:17+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0B3RX9QGN?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-01T19:07:17+00:00"
+  },
+  {
     "id": "msg15243",
     "title": "🛒 Deal Price ₹949",
     "description": "Amazon | 📶 WiFi Router Deals TP-link N300 WiFi Wireless Router 🛒 Deal Price: ₹949",
@@ -9090,177 +9226,5 @@
     "date_obj": "2025-10-29T09:00:06+00:00",
     "buy_link": "https://ajiio.co/t9ydJu",
     "date_iso": "2025-10-29T09:00:06+00:00"
-  },
-  {
-    "id": "msg14805",
-    "title": "Minimum 70% Off!",
-    "description": "Myntra | Branded Men's Jeans -  Pepe Jeans 👉 Roadster 👉 The Indian Garage 👉 Highlander 👉 Campus Sutra 👉 Ketch 👉",
-    "shortlink": "https://myntr.in/xtcKod",
-    "urls": [
-      {
-        "url": "",
-        "label": "Branded Men's Jeans - Minimum 70% Off!"
-      },
-      {
-        "url": "https://myntr.in/xtcKod",
-        "label": "Pepe Jeans"
-      },
-      {
-        "url": "https://myntr.in/lkIK45",
-        "label": "Pepe Jeans"
-      },
-      {
-        "url": "https://myntr.in/Qii6eV",
-        "label": "The Indian Garage"
-      },
-      {
-        "url": "https://myntr.in/mcpkDq",
-        "label": "The Indian Garage"
-      },
-      {
-        "url": "https://myntr.in/ex5SXK",
-        "label": "Campus Sutra"
-      },
-      {
-        "url": "https://myntr.in/G9QoxW",
-        "label": "Campus Sutra"
-      }
-    ],
-    "raw_text": "Myntra | Branded Men's Jeans - Minimum 70% Off!\n\nPepe Jeans\n👉https://myntr.in/xtcKod\n\nRoadster\n👉https://myntr.in/lkIK45\n\nThe Indian Garage\n👉https://myntr.in/Qii6eV\n\nHighlander\n👉https://myntr.in/mcpkDq\n\nCampus Sutra\n👉https://myntr.in/ex5SXK\n\nKetch\n👉https://myntr.in/G9QoxW",
-    "final_url": "https://myntr.in/xtcKod",
-    "local_image": "assets/images/tgmsg_14805.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-29T08:45:00+00:00",
-    "buy_link": "https://myntr.in/xtcKod",
-    "date_iso": "2025-10-29T08:45:00+00:00"
-  },
-  {
-    "id": "msg14800",
-    "title": "Men's Trousers From ₹186",
-    "description": "Flipkart | Men's Trousers From ₹186 👉https://fkrt.co/OQYwHl",
-    "shortlink": "https://fkrt.co/OQYwHl",
-    "urls": [
-      {
-        "url": "https://fkrt.co/OQYwHl",
-        "label": "Men's Trousers From ₹186"
-      }
-    ],
-    "raw_text": "Flipkart | Men's Trousers From ₹186\n\n👉https://fkrt.co/OQYwHl",
-    "final_url": "https://fkrt.co/OQYwHl",
-    "local_image": "assets/images/tgmsg_14800.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-29T08:02:17+00:00",
-    "buy_link": "https://fkrt.co/OQYwHl",
-    "date_iso": "2025-10-29T08:02:17+00:00"
-  },
-  {
-    "id": "msg14804",
-    "title": "✅ 5% Cashback on UPI Payment",
-    "description": "🔰 Apply for Lifetime FREE KIWI Credit Card & Earn Cashback on Every Transaction 😱😱 👉 Apply Now : 🔴 Eligibility Criteria: ✅Joining Fee: NIL ✅Annual Renewal: LIFETIME FREE ✅Age Limit: 21 to 60 years ✅Employment: Salaried…",
-    "shortlink": "https://extp.in/m8Fpe1",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔰 Apply for Lifetime FREE KIWI Credit Card & Earn Cashback on Every Transaction 😱😱"
-      },
-      {
-        "url": "https://extp.in/m8Fpe1",
-        "label": "Apply Now"
-      },
-      {
-        "url": "",
-        "label": "🔴 Eligibility Criteria"
-      },
-      {
-        "url": "",
-        "label": "✅Joining Fee: NIL"
-      },
-      {
-        "url": "",
-        "label": "✅Annual Renewal: LIFETIME FREE"
-      },
-      {
-        "url": "",
-        "label": "✅Age Limit: 21 to 60 years"
-      },
-      {
-        "url": "",
-        "label": "✅Employment: Salaried individuals"
-      },
-      {
-        "url": "",
-        "label": "✅Credit Score: 650+"
-      },
-      {
-        "url": "",
-        "label": "✅ 5% Cashback on UPI Payments"
-      },
-      {
-        "url": "",
-        "label": "✅ Instant Virtual Card"
-      },
-      {
-        "url": "",
-        "label": "✅ Free Airport Lounge Access (on reaching milestones)"
-      },
-      {
-        "url": "",
-        "label": "✅ No Joining or Annual Fees – Ever!"
-      }
-    ],
-    "raw_text": "🔰 Apply for Lifetime FREE KIWI Credit Card & Earn Cashback on Every Transaction 😱😱\n\n👉 Apply Now : https://extp.in/m8Fpe1\n\n🔴 Eligibility Criteria:\n✅Joining Fee: NIL\n✅Annual Renewal: LIFETIME FREE\n✅Age Limit: 21 to 60 years\n✅Employment: Salaried individuals\n✅Credit Score: 650+\n\n🔰 Benefits:\n✅ 5% Cashback on UPI Payments\n✅ Instant Virtual Card\n✅ Free Airport Lounge Access (on reaching milestones)\n✅ No Joining or Annual Fees – Ever!\n\n🔴 Note : One of the BEST CREDIT CARDS available right now 😀",
-    "final_url": "https://extp.in/m8Fpe1",
-    "local_image": "assets/images/tgmsg_14804.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-10-29T08:27:15+00:00",
-    "buy_link": "https://extp.in/m8Fpe1",
-    "date_iso": "2025-10-29T08:27:15+00:00"
-  },
-  {
-    "id": "msg14797",
-    "title": "Samsung TV for ₹3,831",
-    "description": "Samsung TV for ₹3,831 https://fkrt.co/cZ7mTL Available On Selected Pincodes",
-    "shortlink": "https://fkrt.co/cZ7mTL",
-    "urls": [
-      {
-        "url": "https://fkrt.co/cZ7mTL",
-        "label": "Samsung TV for ₹3,831"
-      },
-      {
-        "url": "",
-        "label": "Available On Selected Pincodes"
-      }
-    ],
-    "raw_text": "Samsung TV for ₹3,831 \n\nhttps://fkrt.co/cZ7mTL\n\nAvailable On Selected Pincodes",
-    "final_url": "https://fkrt.co/cZ7mTL",
-    "local_image": "assets/images/tgmsg_14797.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-29T07:21:50+00:00",
-    "buy_link": "https://fkrt.co/cZ7mTL",
-    "date_iso": "2025-10-29T07:21:50+00:00"
-  },
-  {
-    "id": "msg14798",
-    "title": "HAVELLS Ambrose BLDC (Pack of 1) @3210",
-    "description": "Flipkart | HAVELLS Ambrose BLDC (Pack of 1) @3210 👉 https://fkrt.co/qMgv8n",
-    "shortlink": "https://fkrt.co/qMgv8n",
-    "urls": [
-      {
-        "url": "https://fkrt.co/qMgv8n",
-        "label": "HAVELLS Ambrose BLDC (Pack of 1) @3210"
-      }
-    ],
-    "raw_text": "Flipkart | HAVELLS Ambrose BLDC (Pack of 1) @3210\n\n👉 https://fkrt.co/qMgv8n",
-    "final_url": "https://fkrt.co/qMgv8n",
-    "local_image": "assets/images/tgmsg_14798.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-29T07:30:06+00:00",
-    "buy_link": "https://fkrt.co/qMgv8n",
-    "date_iso": "2025-10-29T07:30:06+00:00"
   }
 ]
