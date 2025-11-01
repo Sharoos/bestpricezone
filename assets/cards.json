@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg15227",
+    "title": "🧥 HRX By Hrithik Roshan Jacket Deal",
+    "description": "Myntra | 🧥 HRX By Hrithik Roshan Jacket Deals 🛒 Starting Price: ₹450 Women's Jackets: https://myntr.in/mnRYvR Men's Jackets: https://myntr.in/pipkVm",
+    "shortlink": "https://myntr.in/mnRYvR",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧥 HRX By Hrithik Roshan Jacket Deals"
+      },
+      {
+        "url": "",
+        "label": "🛒 Starting Price: ₹450"
+      },
+      {
+        "url": "https://myntr.in/mnRYvR",
+        "label": "Women's Jackets"
+      },
+      {
+        "url": "https://myntr.in/pipkVm",
+        "label": "Men's Jackets"
+      }
+    ],
+    "raw_text": "Myntra | 🧥 HRX By Hrithik Roshan Jacket Deals\n\n🛒 Starting Price: ₹450\n\nWomen's Jackets: https://myntr.in/mnRYvR\nMen's Jackets: https://myntr.in/pipkVm",
+    "final_url": "https://myntr.in/mnRYvR",
+    "local_image": "assets/images/tgmsg_15227.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-01T16:46:47+00:00",
+    "buy_link": "https://myntr.in/mnRYvR",
+    "date_iso": "2025-11-01T16:46:47+00:00"
+  },
+  {
     "id": "msg15223",
     "title": "Reliance Digital Midnight Sale Up to 60% Off",
     "description": "Reliance Digital: Midnight Sale Upto 60% Off. iPhone: Wireless Earbuds: TV: AC: Valid 10:00PM TO 8:00AM.",
@@ -9262,81 +9294,5 @@
     "date_obj": "2025-10-29T06:05:41+00:00",
     "buy_link": "https://myntr.in/BTS6Zl",
     "date_iso": "2025-10-29T06:05:41+00:00"
-  },
-  {
-    "id": "msg14788",
-    "title": "Up to 80% Off On DNMX Clothing",
-    "description": "AJIO Upto 80% Off On DNMX Clothing. Men’s👇. T-Shirts : Jeans : Shirts : Sweaters & Cardigans : Sweatshirt & Hoodies : Shorts : Trousers & Jogger : Women's👇. T-shirts : Shirts & Tops : Jeans & Jeggings : Sweatshirts :…",
-    "shortlink": "https://ajiio.co/p1I0cm",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 80% Off On DNMX Clothing"
-      },
-      {
-        "url": "https://ajiio.co/p1I0cm",
-        "label": "T-Shirts"
-      },
-      {
-        "url": "https://ajiio.co/ZnfYfe",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/JfrOkQ",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/39YShy",
-        "label": "Sweaters & Cardigans"
-      },
-      {
-        "url": "https://ajiio.co/TLQ0bP",
-        "label": "Sweatshirt & Hoodies"
-      },
-      {
-        "url": "https://ajiio.co/giO8U6",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.co/yh0fiC",
-        "label": "Trousers & Jogger"
-      },
-      {
-        "url": "https://ajiio.co/VsKATK",
-        "label": "T-shirts"
-      },
-      {
-        "url": "https://ajiio.co/okzKpA",
-        "label": "Shirts & Tops"
-      },
-      {
-        "url": "https://ajiio.co/yB12Vq",
-        "label": "Jeans & Jeggings"
-      },
-      {
-        "url": "https://ajiio.co/6ZLBXf",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://ajiio.co/lZhh8H",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/BQzT1V",
-        "label": "Jackets"
-      },
-      {
-        "url": "",
-        "label": "+ Extra 10% AJIO Super Cash"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On DNMX Clothing. \n\nMen’s👇.\n\nT-Shirts : https://ajiio.co/p1I0cm \nJeans : https://ajiio.co/ZnfYfe \nShirts : https://ajiio.co/JfrOkQ \nSweaters & Cardigans : https://ajiio.co/39YShy \nSweatshirt & Hoodies : https://ajiio.co/TLQ0bP \nShorts : https://ajiio.co/giO8U6 \nTrousers & Jogger : https://ajiio.co/yh0fiC \n\nWomen's👇.\n\nT-shirts : https://ajiio.co/VsKATK \nShirts & Tops : https://ajiio.co/okzKpA \nJeans & Jeggings : https://ajiio.co/yB12Vq \nSweatshirts : https://ajiio.co/6ZLBXf \nShirts : https://ajiio.co/lZhh8H \nJackets : https://ajiio.co/BQzT1V\n\n+ Extra 10% AJIO Super Cash.",
-    "final_url": "https://ajiio.co/p1I0cm",
-    "local_image": "assets/images/tgmsg_14788.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-29T06:15:18+00:00",
-    "buy_link": "https://ajiio.co/p1I0cm",
-    "date_iso": "2025-10-29T06:15:18+00:00"
   }
 ]
