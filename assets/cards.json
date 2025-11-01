@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg15190",
+    "title": "Up to 85% Off On Branded Backpack",
+    "description": "Myntra | Upto 85% Off On Branded Backpacks. Master Link: Skybags: Safari: Wildcraft: Aristocrat:",
+    "shortlink": "https://myntr.in/9U6rlm",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% Off On Branded Backpacks"
+      },
+      {
+        "url": "https://myntr.in/9U6rlm",
+        "label": "Master"
+      },
+      {
+        "url": "https://myntr.in/vHFdzf",
+        "label": "Skybags"
+      },
+      {
+        "url": "https://myntr.in/G1M5GW",
+        "label": "Safari"
+      },
+      {
+        "url": "https://myntr.in/aqGQ7k",
+        "label": "Wildcraft"
+      },
+      {
+        "url": "https://myntr.in/9F9fJr",
+        "label": "Aristocrat"
+      }
+    ],
+    "raw_text": "Myntra | Upto 85% Off On Branded Backpacks.\n\nMaster Link: https://myntr.in/9U6rlm\n\nSkybags: https://myntr.in/vHFdzf \nSafari: https://myntr.in/G1M5GW \nWildcraft: https://myntr.in/aqGQ7k \nAristocrat: https://myntr.in/9F9fJr",
+    "final_url": "https://myntr.in/9U6rlm",
+    "local_image": "assets/images/tgmsg_15190.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-01T11:16:25+00:00",
+    "buy_link": "https://myntr.in/9U6rlm",
+    "date_iso": "2025-11-01T11:16:25+00:00"
+  },
+  {
     "id": "msg15187",
     "title": "Men's Casual Shirts Starts @159",
     "description": "Myntra Loot : . MasterLink : Highlander : Here & Now : Mast & Harbour : Roadster : The Indian Garage : Snitch : Campus Sutra :",
@@ -9326,29 +9366,5 @@
     "date_obj": "2025-10-28T15:05:24+00:00",
     "buy_link": "https://ajiio.co/j93WDD",
     "date_iso": "2025-10-28T15:05:24+00:00"
-  },
-  {
-    "id": "msg14752",
-    "title": "82",
-    "description": "Loot 82 : https://fktr.in/EKzbe2U Banglore & Chennai Available.",
-    "shortlink": "https://fktr.in/EKzbe2U",
-    "urls": [
-      {
-        "url": "https://fktr.in/EKzbe2U",
-        "label": "Loot 82"
-      },
-      {
-        "url": "",
-        "label": "Banglore & Chennai Available"
-      }
-    ],
-    "raw_text": "Loot 82 : https://fktr.in/EKzbe2U\n\nBanglore & Chennai Available.",
-    "final_url": "https://fktr.in/EKzbe2U",
-    "local_image": "assets/images/tgmsg_14752.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-28T15:14:21+00:00",
-    "buy_link": "https://fktr.in/EKzbe2U",
-    "date_iso": "2025-10-28T15:14:21+00:00"
   }
 ]
