@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg15231",
+    "title": "🛒 Deal Price 563",
+    "description": "Flipkart | Wipro 10 W Basic Standard B22 LED Bulb 🛒 Deal Price: 563 https://fkrt.co/QFjGn7",
+    "shortlink": "https://fkrt.co/QFjGn7",
+    "urls": [
+      {
+        "url": "",
+        "label": "Wipro 10 W Basic Standard B22 LED Bulb"
+      },
+      {
+        "url": "https://fkrt.co/QFjGn7",
+        "label": "🛒 Deal Price: 563"
+      }
+    ],
+    "raw_text": "Flipkart | Wipro 10 W Basic Standard B22 LED Bulb\n\n🛒 Deal Price: 563\n\nhttps://fkrt.co/QFjGn7",
+    "final_url": "https://fkrt.co/QFjGn7",
+    "local_image": "assets/images/tgmsg_15231.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-01T17:34:16+00:00",
+    "buy_link": "https://fkrt.co/QFjGn7",
+    "date_iso": "2025-11-01T17:34:16+00:00"
+  },
+  {
     "id": "msg15228",
     "title": "Ketch Clothing Starts at 75",
     "description": "AJIO : Ketch Clothing Starts at 75. https://ajiio.in/7nTgXYO",
@@ -9246,57 +9270,5 @@
     "date_obj": "2025-10-29T06:45:15+00:00",
     "buy_link": "https://myntr.in/UKJnpS",
     "date_iso": "2025-10-29T06:45:15+00:00"
-  },
-  {
-    "id": "msg14784",
-    "title": "Up to 3% Rio Coins back on UPI & Card Spends 💰",
-    "description": "Apply for the Lifetime FREE RIO Credit Card & Earn assured cashback on EVERY Scan & Swipe 🔥🔥 👉 Apply Now: Benefits: • 1+1 Movie Tickets on District & BookMyShow 🎬 • Flat ₹150 Off on Zomato 🍕 • 40% Off on Swiggy Food &…",
-    "shortlink": "https://extp.in/T2lkxL",
-    "urls": [
-      {
-        "url": "",
-        "label": "Apply for the Lifetime FREE RIO Credit Card & Earn assured cashback on EVERY Scan & Swipe 🔥🔥"
-      },
-      {
-        "url": "https://extp.in/T2lkxL",
-        "label": "Apply Now"
-      },
-      {
-        "url": "",
-        "label": "1+1 Movie Tickets on District & BookMyShow 🎬"
-      },
-      {
-        "url": "",
-        "label": "Flat ₹150 Off on Zomato 🍕"
-      },
-      {
-        "url": "",
-        "label": "40% Off on Swiggy Food & Instamart 🍔"
-      },
-      {
-        "url": "",
-        "label": "Up to 3% Rio Coins back on UPI & Card Spends 💰"
-      },
-      {
-        "url": "",
-        "label": "8 FREE Airport Lounge Visits per Year ✈️"
-      },
-      {
-        "url": "",
-        "label": "Lifetime FREE – No Joining / Annual Fee"
-      },
-      {
-        "url": "",
-        "label": "Existing YES Bank Cardholders not eligible"
-      }
-    ],
-    "raw_text": "Apply for the Lifetime FREE RIO Credit Card & Earn assured cashback on EVERY Scan & Swipe 🔥🔥\n\n👉 Apply Now: https://extp.in/T2lkxL\n\nBenefits:\n• 1+1 Movie Tickets on District & BookMyShow 🎬\n• Flat ₹150 Off on Zomato 🍕\n• 40% Off on Swiggy Food & Instamart 🍔\n• Up to 3% Rio Coins back on UPI & Card Spends 💰\n• 8 FREE Airport Lounge Visits per Year ✈️\n\nEligibility:\n• Lifetime FREE – No Joining / Annual Fee\n• Existing YES Bank Cardholders not eligible\n\n✅Note : This is one of the most trending cards in the market right now. If eligible — apply immediately! 💥",
-    "final_url": "https://extp.in/T2lkxL",
-    "local_image": "assets/images/tgmsg_14784.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-10-29T06:00:04+00:00",
-    "buy_link": "https://extp.in/T2lkxL",
-    "date_iso": "2025-10-29T06:00:04+00:00"
   }
 ]
