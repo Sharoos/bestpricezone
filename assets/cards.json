@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg15151",
+    "title": "Ready to wear Sarees min 70% Off",
+    "description": "Flipkart Fashion Fest 💥💥 Ethnic Sets Flat Rs.299 Festive Ethnic Sets Flat Rs.399 Kanjivaram, Banarasi sarees Flat Rs.499 Lehenga Cholis Flat Rs.599 Anarkali Kurtis Flat Rs.299",
+    "shortlink": "https://fkrt.co/EjPAvV",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart Fashion Fest 💥💥"
+      },
+      {
+        "url": "https://fkrt.co/EjPAvV",
+        "label": "Ethnic Sets Flat Rs.299"
+      },
+      {
+        "url": "https://fkrt.co/f1TDcN",
+        "label": "Festive Ethnic Sets Flat Rs.399"
+      },
+      {
+        "url": "https://fkrt.co/YRdthp",
+        "label": "Kanjivaram, Banarasi sarees Flat Rs.499"
+      },
+      {
+        "url": "https://fkrt.co/Q3L82g",
+        "label": "Lehenga Cholis Flat Rs.599"
+      },
+      {
+        "url": "https://fkrt.co/Bh6dDW",
+        "label": "Anarkali Kurtis Flat Rs.299"
+      },
+      {
+        "url": "https://fkrt.co/m6rdGJ",
+        "label": "Ready to wear Sarees min 70% Off"
+      }
+    ],
+    "raw_text": "Flipkart Fashion Fest 💥💥\n\nEthnic Sets Flat Rs.299 https://fkrt.co/EjPAvV\n\nFestive Ethnic Sets Flat Rs.399 https://fkrt.co/f1TDcN\n\nKanjivaram, Banarasi sarees Flat Rs.499 https://fkrt.co/YRdthp\n\nLehenga Cholis Flat Rs.599 https://fkrt.co/Q3L82g\n\nAnarkali Kurtis Flat Rs.299 https://fkrt.co/Bh6dDW\n\nReady to wear Sarees min 70% Off https://fkrt.co/m6rdGJ",
+    "final_url": "https://fkrt.co/EjPAvV",
+    "local_image": "assets/images/tgmsg_15151.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-01T04:45:56+00:00",
+    "buy_link": "https://fkrt.co/EjPAvV",
+    "date_iso": "2025-11-01T04:45:56+00:00"
+  },
+  {
     "id": "msg15146",
     "title": "rank&dc=&crid=23H1VVJK847K4&qid=1758554340&sprefix=bat%2Cshoes%2C268&ds=v1%3A8sHi5YZ%2FISt8KBRrpm1%2BxPj1scKd5nNrnCLGe62PW2w&tag=bestpricezo",
     "description": "Upto 86% Off On Bata Footwears…",
@@ -9438,41 +9482,5 @@
     "date_obj": "2025-10-28T08:20:00+00:00",
     "buy_link": "https://myntr.in/s3idMA",
     "date_iso": "2025-10-28T08:20:00+00:00"
-  },
-  {
-    "id": "msg14701",
-    "title": "Up to 75% Off!",
-    "description": "Myntra | 👟 Puma Clothing & Footwear - Up to 75% Off! Men's: https://myntr.in/FpUqjo Women's: https://myntr.in/N5mMDe Boys: https://myntr.in/pMtApr Girls: https://myntr.in/xqRlvj",
-    "shortlink": "https://myntr.in/FpUqjo",
-    "urls": [
-      {
-        "url": "",
-        "label": "👟 Puma Clothing & Footwear - Up to 75% Off!"
-      },
-      {
-        "url": "https://myntr.in/FpUqjo",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/N5mMDe",
-        "label": "Women's"
-      },
-      {
-        "url": "https://myntr.in/pMtApr",
-        "label": "Boys"
-      },
-      {
-        "url": "https://myntr.in/xqRlvj",
-        "label": "Girls"
-      }
-    ],
-    "raw_text": "Myntra | 👟 Puma Clothing & Footwear - Up to 75% Off!\n\nMen's: https://myntr.in/FpUqjo\nWomen's: https://myntr.in/N5mMDe\nBoys: https://myntr.in/pMtApr\nGirls: https://myntr.in/xqRlvj",
-    "final_url": "https://myntr.in/FpUqjo",
-    "local_image": "assets/images/tgmsg_14701.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-28T07:45:15+00:00",
-    "buy_link": "https://myntr.in/FpUqjo",
-    "date_iso": "2025-10-28T07:45:15+00:00"
   }
 ]
