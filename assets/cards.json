@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg15179",
+    "title": "Cello Mop set at min 40% + additiona 20%",
+    "description": "Myntra |  Coupon - HOMEFLAT20 Buy Cello and Borosil Cups and Mugs under - 399 + Additional 20% Coupon - HOMEFLAT20 Borosil, Cello and Home Centre Bottle starting at 99/- + Additional Coupon - HOMEBUYMORE Borosil, Cello…",
+    "shortlink": "https://myntr.in/D7F7sK",
+    "urls": [
+      {
+        "url": "https://myntr.in/D7F7sK",
+        "label": ""
+      },
+      {
+        "url": "https://myntr.in/fadWct",
+        "label": ""
+      },
+      {
+        "url": "https://myntr.in/bFIfVd",
+        "label": ""
+      },
+      {
+        "url": "https://myntr.in/R5iGtK",
+        "label": ""
+      },
+      {
+        "url": "https://myntr.in/06Znbh",
+        "label": ""
+      }
+    ],
+    "raw_text": "Myntra | Cello Mop set at min 40% + additiona 20% Coupon -  HOMEFLAT20 \n\nhttps://myntr.in/D7F7sK\n\nBuy Cello and Borosil Cups and Mugs under - 399 + Additional  20% Coupon -  HOMEFLAT20\n \nhttps://myntr.in/fadWct\n\nBorosil, Cello and Home Centre Bottle starting at 99/- +  Additional Coupon -  HOMEBUYMORE\n\nhttps://myntr.in/bFIfVd\n\nBorosil, Cello and Home Centre container starting at 199/- + Additional 20% Coupon -  HOMEBIGOFF\n\nhttps://myntr.in/R5iGtK\n\nWater Bottles starting at 120/- + additional 15% coupon  HOMEBUYMORE\n\nhttps://myntr.in/06Znbh",
+    "final_url": "https://myntr.in/D7F7sK",
+    "local_image": "assets/images/tgmsg_15179.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-01T09:46:29+00:00",
+    "buy_link": "https://myntr.in/D7F7sK",
+    "date_iso": "2025-11-01T09:46:29+00:00"
+  },
+  {
     "id": "msg15178",
     "title": "Up to 70% Off On Chemistry Women's Top",
     "description": "Flipkart | Upto 70% Off On Chemistry Women's Tops. 👉Link : https://fkrt.co/sJLOQV",
@@ -9374,29 +9410,5 @@
     "date_obj": "2025-10-28T13:30:01+00:00",
     "buy_link": "https://www.amazon.in/dp/B09LLT4MSS?psc=1&th=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
     "date_iso": "2025-10-28T13:30:01+00:00"
-  },
-  {
-    "id": "msg14729",
-    "title": "Croma 10000 mAh 22.5W Fast Charging Power Bank @649",
-    "description": "Croma 10000 mAh 22.5W Fast Charging Power Bank @649 https://bitli.in/5He9NUI • Add To Cart Price Change.",
-    "shortlink": "https://bitli.in/5He9NUI",
-    "urls": [
-      {
-        "url": "https://bitli.in/5He9NUI",
-        "label": "Croma 10000 mAh 22.5W Fast Charging Power Bank @649"
-      },
-      {
-        "url": "",
-        "label": "Add To Cart Price Change"
-      }
-    ],
-    "raw_text": "Croma 10000 mAh 22.5W Fast Charging Power Bank @649\n\nhttps://bitli.in/5He9NUI\n\n• Add To Cart Price Change.",
-    "final_url": "https://bitli.in/5He9NUI",
-    "local_image": "assets/images/tgmsg_14729.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-10-28T12:28:26+00:00",
-    "buy_link": "https://bitli.in/5He9NUI",
-    "date_iso": "2025-10-28T12:28:26+00:00"
   }
 ]
