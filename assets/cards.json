@@ -1,5 +1,105 @@
 [
   {
+    "id": "msg15196",
+    "title": "🛒 Up to 87% Off",
+    "description": "Myntra | 👟 HRX Shoe Savings! 🛒 Up to 87% Off https://myntr.in/IWwi2A",
+    "shortlink": "https://myntr.in/IWwi2A",
+    "urls": [
+      {
+        "url": "",
+        "label": "👟 HRX Shoe Savings!"
+      },
+      {
+        "url": "https://myntr.in/IWwi2A",
+        "label": "🛒 Up to 87% Off"
+      }
+    ],
+    "raw_text": "Myntra | 👟 HRX Shoe Savings!\n\n🛒 Up to 87% Off\n\nhttps://myntr.in/IWwi2A",
+    "final_url": "https://myntr.in/IWwi2A",
+    "local_image": "assets/images/tgmsg_15196.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-01T12:54:12+00:00",
+    "buy_link": "https://myntr.in/IWwi2A",
+    "date_iso": "2025-11-01T12:54:12+00:00"
+  },
+  {
+    "id": "msg15198",
+    "title": "Up to 80% Off On DNMX Clothing",
+    "description": "Ajio Upto 80% Off On DNMX Clothing. Men’s👇. T-Shirts : Jeans : Shirts : Sweaters & Cardigans : Sweatshirt & Hoodies : Shorts : Trousers & Jogger : Women's👇. T-shirts : Shirts & Tops : Jeans & Jeggings : Sweatshirts :…",
+    "shortlink": "https://ajiio.co/onFHOM",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Upto 80% Off On DNMX Clothing"
+      },
+      {
+        "url": "https://ajiio.co/onFHOM",
+        "label": "T-Shirts"
+      },
+      {
+        "url": "https://ajiio.co/FZUV5u",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/XbImg0",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/OZg1Hr",
+        "label": "Sweaters & Cardigans"
+      },
+      {
+        "url": "https://ajiio.co/qGGrnK",
+        "label": "Sweatshirt & Hoodies"
+      },
+      {
+        "url": "https://ajiio.co/ZrPkAW",
+        "label": "Shorts"
+      },
+      {
+        "url": "https://ajiio.co/x7FDCR",
+        "label": "Trousers & Jogger"
+      },
+      {
+        "url": "https://ajiio.co/F1JHho",
+        "label": "T-shirts"
+      },
+      {
+        "url": "https://ajiio.co/z4Ds3d",
+        "label": "Shirts & Tops"
+      },
+      {
+        "url": "https://ajiio.co/D3w1qV",
+        "label": "Jeans & Jeggings"
+      },
+      {
+        "url": "https://ajiio.co/rcNyd0",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "https://ajiio.co/Kur4Ca",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/HsR83e",
+        "label": "Jackets"
+      },
+      {
+        "url": "",
+        "label": "+ Extra 10% AJIO Super Cash"
+      }
+    ],
+    "raw_text": "Ajio  Upto 80% Off On DNMX Clothing. \n\nMen’s👇.\n\nT-Shirts : https://ajiio.co/onFHOM \nJeans : https://ajiio.co/FZUV5u \nShirts : https://ajiio.co/XbImg0 \nSweaters & Cardigans : https://ajiio.co/OZg1Hr \nSweatshirt & Hoodies : https://ajiio.co/qGGrnK \nShorts : https://ajiio.co/ZrPkAW \nTrousers & Jogger : https://ajiio.co/x7FDCR \n\nWomen's👇.\n\nT-shirts : https://ajiio.co/F1JHho \nShirts & Tops : https://ajiio.co/z4Ds3d \nJeans & Jeggings : https://ajiio.co/D3w1qV \nSweatshirts : https://ajiio.co/rcNyd0 \nShirts : https://ajiio.co/Kur4Ca \nJackets : https://ajiio.co/HsR83e\n\n+ Extra 10% AJIO Super Cash.",
+    "final_url": "https://ajiio.co/onFHOM",
+    "local_image": "assets/images/tgmsg_15198.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-01T13:12:07+00:00",
+    "buy_link": "https://ajiio.co/onFHOM",
+    "date_iso": "2025-11-01T13:12:07+00:00"
+  },
+  {
     "id": "msg15194",
     "title": "Up to 83% Off On Here & Now Clothing",
     "description": "Myntra | Upto 83% Off On Here & Now Clothing. Men's : https://myntr.in/f61nGu Women's : https://myntr.in/EEG1Cz",
@@ -9282,49 +9382,5 @@
     "date_obj": "2025-10-28T16:46:37+00:00",
     "buy_link": "https://myntr.in/F5Das8",
     "date_iso": "2025-10-28T16:46:37+00:00"
-  },
-  {
-    "id": "msg14757",
-    "title": "Extra 10% Cashback On Every Orde",
-    "description": "Ajio | Vero Moda Twist-Front Top Starting @ Rs.690 👉 Extra 10% Ajio Cashback On Every Order",
-    "shortlink": "https://ajiio.co/5w6FO2",
-    "urls": [
-      {
-        "url": "https://ajiio.co/5w6FO2",
-        "label": "Vero Moda Twist-Front Top Starting @ Rs.690"
-      },
-      {
-        "url": "",
-        "label": "Extra 10% Ajio Cashback On Every Order"
-      }
-    ],
-    "raw_text": "Ajio | Vero Moda Twist-Front Top Starting @ Rs.690\n \n👉https://ajiio.co/5w6FO2\n\nExtra 10% Ajio Cashback On Every Order",
-    "final_url": "https://ajiio.co/5w6FO2",
-    "local_image": "assets/images/tgmsg_14757.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-28T16:35:27+00:00",
-    "buy_link": "https://ajiio.co/5w6FO2",
-    "date_iso": "2025-10-28T16:35:27+00:00"
-  },
-  {
-    "id": "msg14754",
-    "title": "Up to 85% OFF On Red Tape Shoe",
-    "description": "Myntra | Upto 85% OFF On Red Tape Shoes 👉https://myntr.in/eQ08xV",
-    "shortlink": "https://myntr.in/eQ08xV",
-    "urls": [
-      {
-        "url": "https://myntr.in/eQ08xV",
-        "label": "Upto 85% OFF On Red Tape Shoes"
-      }
-    ],
-    "raw_text": "Myntra | Upto 85% OFF On Red Tape Shoes\n\n👉https://myntr.in/eQ08xV",
-    "final_url": "https://myntr.in/eQ08xV",
-    "local_image": "assets/images/tgmsg_14754.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-28T16:06:12+00:00",
-    "buy_link": "https://myntr.in/eQ08xV",
-    "date_iso": "2025-10-28T16:06:12+00:00"
   }
 ]
