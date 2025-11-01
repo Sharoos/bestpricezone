@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg15154",
+    "title": "80% Off Spykar Clothing",
+    "description": "Amazon | Upto 70-80% Off Spykar Clothing Men's :…",
+    "shortlink": "https://www.amazon.in/s?k=spykar&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A472933%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&xpid=QzZB7tVWxX_kE&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70-80% Off Spykar Clothing"
+      },
+      {
+        "url": "https://www.amazon.in/s?k=spykar&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A472933%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&xpid=QzZB7tVWxX_kE&tag=bestpricezo0f-21",
+        "label": "Men's"
+      },
+      {
+        "url": "https://www.amazon.in/s?k=spykar&rh=n%3A1571271031%2Cn%3A1953602031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A472933%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&tag=bestpricezo0f-21",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Amazon | Upto 70-80% Off Spykar Clothing \n\nMen's : https://www.amazon.in/s?k=spykar&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A472933%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&xpid=QzZB7tVWxX_kE&tag=bestpricezo0f-21\nWomen : https://www.amazon.in/s?k=spykar&rh=n%3A1571271031%2Cn%3A1953602031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A472933%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?k=spykar&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A472933%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&xpid=QzZB7tVWxX_kE&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15154.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-01T05:35:38+00:00",
+    "buy_link": "https://www.amazon.in/s?k=spykar&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_6%3AA1WYWER0W24N8S%2Cp_123%3A472933%2Cp_n_pct-off-with-tax%3A27060457031&i=apparel&xpid=QzZB7tVWxX_kE&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-01T05:35:38+00:00"
+  },
+  {
     "id": "msg15152",
     "title": "Min. 50% Off On Wild Stone Product",
     "description": "Amazon | Min. 50% Off On Wild Stone Products.…",
@@ -9470,25 +9498,5 @@
     "date_obj": "2025-10-28T08:40:03+00:00",
     "buy_link": "https://myntr.in/inUsCM",
     "date_iso": "2025-10-28T08:40:03+00:00"
-  },
-  {
-    "id": "msg14703",
-    "title": "Bedding Sets starting @ 459",
-    "description": "Myntra | Bedding Sets starting @ 459 👉https://myntr.in/FVCvQ3",
-    "shortlink": "https://myntr.in/FVCvQ3",
-    "urls": [
-      {
-        "url": "https://myntr.in/FVCvQ3",
-        "label": "Bedding Sets starting @ 459"
-      }
-    ],
-    "raw_text": "Myntra | Bedding Sets starting @ 459\n\n👉https://myntr.in/FVCvQ3",
-    "final_url": "https://myntr.in/FVCvQ3",
-    "local_image": "assets/images/tgmsg_14703.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-28T08:00:03+00:00",
-    "buy_link": "https://myntr.in/FVCvQ3",
-    "date_iso": "2025-10-28T08:00:03+00:00"
   }
 ]
