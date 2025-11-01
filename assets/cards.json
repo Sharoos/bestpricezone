@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg15214",
+    "title": "Fashion Sale is LIVE 🔥🔥",
+    "description": "Flipkart  Top fashion brands 👇 HIGHLANDER: Roadster: The Indian Garage Co: METRONAUT: Red Tape: Bewakoof: INVICTUS: Mast & Harbour: Snitch:",
+    "shortlink": "https://fkrt.co/NieRIS",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart Fashion Sale is LIVE 🔥🔥"
+      },
+      {
+        "url": "",
+        "label": "Top fashion brands 👇"
+      },
+      {
+        "url": "https://fkrt.co/NieRIS",
+        "label": "HIGHLANDER"
+      },
+      {
+        "url": "https://fkrt.co/KkfuPh",
+        "label": "Roadster"
+      },
+      {
+        "url": "https://fkrt.co/psbkRQ",
+        "label": "The Indian Garage Co"
+      },
+      {
+        "url": "https://fkrt.co/k3Rg9f",
+        "label": "METRONAUT"
+      },
+      {
+        "url": "https://fkrt.co/EnOLM6",
+        "label": "Red Tape"
+      },
+      {
+        "url": "https://fkrt.co/tsRHWW",
+        "label": "Bewakoof"
+      },
+      {
+        "url": "https://fkrt.co/ARuWyO",
+        "label": "INVICTUS"
+      },
+      {
+        "url": "https://fkrt.co/Ydp4NW",
+        "label": "Mast & Harbour"
+      },
+      {
+        "url": "https://fkrt.co/kr6pll",
+        "label": "Snitch"
+      }
+    ],
+    "raw_text": "Flipkart Fashion Sale is LIVE 🔥🔥\n\nTop fashion brands 👇\nHIGHLANDER: https://fkrt.co/NieRIS\nRoadster: https://fkrt.co/KkfuPh\nThe Indian Garage Co: https://fkrt.co/psbkRQ\nMETRONAUT: https://fkrt.co/k3Rg9f\nRed Tape: https://fkrt.co/EnOLM6\nBewakoof: https://fkrt.co/tsRHWW\nINVICTUS: https://fkrt.co/ARuWyO\nMast & Harbour: https://fkrt.co/Ydp4NW\nSnitch: https://fkrt.co/kr6pll",
+    "final_url": "https://fkrt.co/NieRIS",
+    "local_image": "assets/images/tgmsg_15214.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-01T14:56:50+00:00",
+    "buy_link": "https://fkrt.co/NieRIS",
+    "date_iso": "2025-11-01T14:56:50+00:00"
+  },
+  {
     "id": "msg15212",
     "title": "Pack Of 2) At 159",
     "description": "Aluminium Foil (9M *Pack Of 2) At 159 https://www.amazon.in/dp/B08BTPGPY8?tag=bestpricezo0f-21",
@@ -9282,25 +9342,5 @@
     "date_obj": "2025-10-28T18:51:29+00:00",
     "buy_link": "https://fkrt.co/WBU5Xr",
     "date_iso": "2025-10-28T18:51:29+00:00"
-  },
-  {
-    "id": "msg14772",
-    "title": "Boult XO Black Wired Earphones @₹299",
-    "description": "Amazon | Boult XO Black Wired Earphones @₹299 https://www.amazon.in/dp/B0DY7HYKH6?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DY7HYKH6?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DY7HYKH6?th=1&tag=bestpricezo0f-21",
-        "label": "Boult XO Black Wired Earphones @₹299"
-      }
-    ],
-    "raw_text": "Amazon | Boult XO Black Wired Earphones @₹299\n\nhttps://www.amazon.in/dp/B0DY7HYKH6?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DY7HYKH6?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14772.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-28T19:07:03+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DY7HYKH6?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-28T19:07:03+00:00"
   }
 ]
