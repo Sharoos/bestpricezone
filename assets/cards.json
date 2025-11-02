@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15324",
+    "title": "Steve & Anderson fitted bedsheet. Starts 209",
+    "description": "Myntra | Steve & Anderson fitted bedsheet. Starts  209 👉Link- https://myntr.in/QTscMa",
+    "shortlink": "https://myntr.in/QTscMa",
+    "urls": [
+      {
+        "url": "https://myntr.in/QTscMa",
+        "label": "Steve & Anderson fitted bedsheet. Starts 209"
+      }
+    ],
+    "raw_text": "Myntra | Steve & Anderson fitted bedsheet. Starts  209 \n\n👉Link- https://myntr.in/QTscMa",
+    "final_url": "https://myntr.in/QTscMa",
+    "local_image": "assets/images/tgmsg_15324.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-02T14:46:25+00:00",
+    "buy_link": "https://myntr.in/QTscMa",
+    "date_iso": "2025-11-02T14:46:25+00:00"
+  },
+  {
     "id": "msg15322",
     "title": "Pack Of 2 Double Layer Soap Dispenser @ ₹249💥💥🔥🔥",
     "description": "Amazon | Pack Of 2 Double Layer Soap Dispenser @ ₹249💥💥🔥🔥 🔗🔗Link : https://www.amazon.in/dp/B0DJW7KD82?th=1&tag=bestpricezo0f-21",
@@ -9450,33 +9470,5 @@
     "date_obj": "2025-10-29T18:54:37+00:00",
     "buy_link": "https://fkrt.co/M48BMb",
     "date_iso": "2025-10-29T18:54:37+00:00"
-  },
-  {
-    "id": "msg14866",
-    "title": "Discount 40% Off",
-    "description": "Flipkart | LOTUS HERBALS Whiteglow Skin Whitening and Brightening Gel Cream SPF .. Deal Price👨408Rs. ✅ Discount: 40% Off",
-    "shortlink": "https://fkrt.co/O7Wv2D",
-    "urls": [
-      {
-        "url": "",
-        "label": "LOTUS HERBALS Whiteglow Skin Whitening and Brightening Gel Cream SPF"
-      },
-      {
-        "url": "",
-        "label": "Deal Price👨408Rs. ✅"
-      },
-      {
-        "url": "https://fkrt.co/O7Wv2D",
-        "label": "40% Off"
-      }
-    ],
-    "raw_text": "Flipkart | LOTUS HERBALS Whiteglow Skin Whitening and Brightening Gel Cream SPF .. \n\nDeal Price👨408Rs. ✅ \nDiscount: 40% Off\n\nhttps://fkrt.co/O7Wv2D",
-    "final_url": "https://fkrt.co/O7Wv2D",
-    "local_image": "assets/images/tgmsg_14866.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-29T18:01:30+00:00",
-    "buy_link": "https://fkrt.co/O7Wv2D",
-    "date_iso": "2025-10-29T18:01:30+00:00"
   }
 ]
