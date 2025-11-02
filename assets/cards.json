@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg15333",
+    "title": "Up to 70% Off on Top Beauty Products 🔥🔥",
+    "description": "Flipkart : Upto 70% Off on Top Beauty Products 🔥🔥 Nivea: Ponds: Vaseline: Lakme: Park Avenue: Clean & Clear: Everyuth: Yardley London: Denver:",
+    "shortlink": "https://fkrt.co/Ln6RgC",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70% Off on Top Beauty Products 🔥🔥"
+      },
+      {
+        "url": "https://fkrt.co/Ln6RgC",
+        "label": "Nivea"
+      },
+      {
+        "url": "https://fkrt.co/KEuDJc",
+        "label": "Ponds"
+      },
+      {
+        "url": "https://fkrt.co/gvE2Mo",
+        "label": "Vaseline"
+      },
+      {
+        "url": "https://fkrt.co/kxPdr4",
+        "label": "Lakme"
+      },
+      {
+        "url": "https://fkrt.co/1w9Rle",
+        "label": "Park Avenue"
+      },
+      {
+        "url": "https://fkrt.co/Zolf3r",
+        "label": "Clean & Clear"
+      },
+      {
+        "url": "https://fkrt.co/GonxmC",
+        "label": "Everyuth"
+      },
+      {
+        "url": "https://fkrt.co/XrMIYM",
+        "label": "Yardley London"
+      },
+      {
+        "url": "https://fkrt.co/pqAjOA",
+        "label": "Denver"
+      }
+    ],
+    "raw_text": "Flipkart : Upto 70% Off on Top Beauty Products 🔥🔥\n\nNivea: https://fkrt.co/Ln6RgC\nPonds: https://fkrt.co/KEuDJc\nVaseline: https://fkrt.co/gvE2Mo\nLakme: https://fkrt.co/kxPdr4\nPark Avenue: https://fkrt.co/1w9Rle\nClean & Clear: https://fkrt.co/Zolf3r\nEveryuth: https://fkrt.co/GonxmC\nYardley London: https://fkrt.co/XrMIYM\nDenver: https://fkrt.co/pqAjOA",
+    "final_url": "https://fkrt.co/Ln6RgC",
+    "local_image": "assets/images/tgmsg_15333.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-02T16:46:43+00:00",
+    "buy_link": "https://fkrt.co/Ln6RgC",
+    "date_iso": "2025-11-02T16:46:43+00:00"
+  },
+  {
     "id": "msg15332",
     "title": "Up to 87% Off On Campus Sutra Clothing",
     "description": "Myntra  | Upto 87% Off On Campus Sutra Clothing. Men : https://myntr.in/lIhGKi Women : https://myntr.in/r0LkMo",
@@ -9490,29 +9546,5 @@
     "date_obj": "2025-10-29T19:07:27+00:00",
     "buy_link": "https://www.amazon.in/dp/B07B4ZNMRC?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-29T19:07:27+00:00"
-  },
-  {
-    "id": "msg14880",
-    "title": "🛒 Deal Price ₹5999",
-    "description": "Amazon | Havells AQUAS Water Purifier 🛒 Deal Price: ₹5999 https://www.amazon.in/dp/B0B4981KGD?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0B4981KGD?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Havells AQUAS Water Purifier"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0B4981KGD?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹5999"
-      }
-    ],
-    "raw_text": "Amazon | Havells AQUAS Water Purifier\n\n🛒 Deal Price: ₹5999\n\nhttps://www.amazon.in/dp/B0B4981KGD?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0B4981KGD?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14880.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-29T19:08:22+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0B4981KGD?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-29T19:08:22+00:00"
   }
 ]
