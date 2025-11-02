@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg15330",
+    "title": "🛒 Deal Price ₹149 (Up to 80% Off)",
+    "description": "Myntra | 👕 Oversized T-Shirt Deals 🛒 Deal Price: ₹149 (Upto 80% Off) 👉https://myntr.in/mIrfmn",
+    "shortlink": "https://myntr.in/mIrfmn",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 Oversized T-Shirt Deals"
+      },
+      {
+        "url": "https://myntr.in/mIrfmn",
+        "label": "🛒 Deal Price: ₹149 (Upto 80% Off)"
+      }
+    ],
+    "raw_text": "Myntra | 👕 Oversized T-Shirt Deals\n\n🛒 Deal Price: ₹149 (Upto 80% Off)\n\n👉https://myntr.in/mIrfmn",
+    "final_url": "https://myntr.in/mIrfmn",
+    "local_image": "assets/images/tgmsg_15330.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-02T15:46:35+00:00",
+    "buy_link": "https://myntr.in/mIrfmn",
+    "date_iso": "2025-11-02T15:46:35+00:00"
+  },
+  {
     "id": "msg15327",
     "title": "Up to 90% Off On Tokyo Talkies Women Clothing",
     "description": "Myntra Upto 90% Off On Tokyo Talkies Women Clothing. Dresses : Jeans : Tops : Sweatshirts : Sweaters : Shirt : Co-Ords & Jumpsuit Trousers :",
@@ -9490,29 +9514,5 @@
     "date_obj": "2025-10-29T19:09:34+00:00",
     "buy_link": "https://www.amazon.in/dp/B08BLQ49SX?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-29T19:09:34+00:00"
-  },
-  {
-    "id": "msg14882",
-    "title": "🛒 Deal Price ₹120",
-    "description": "Amazon | LAKMÉ 9 To 5 Primer + Gloss Glossy Finish Nail Colour, Blush Punch, 6 Ml 🛒 Deal Price: ₹120",
-    "shortlink": "https://www.amazon.in/dp/B07QCC837P?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "LAKMÉ 9 To 5 Primer + Gloss Glossy Finish Nail Colour, Blush Punch, 6 Ml"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B07QCC837P?th=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹120"
-      }
-    ],
-    "raw_text": "Amazon | LAKMÉ 9 To 5 Primer + Gloss Glossy Finish Nail Colour, Blush Punch, 6 Ml\n\n🛒 Deal Price: ₹120\n\nhttps://www.amazon.in/dp/B07QCC837P?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07QCC837P?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14882.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-29T19:11:06+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07QCC837P?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-29T19:11:06+00:00"
   }
 ]
