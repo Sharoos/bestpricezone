@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg15271",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
+    "description": "🔥AJIO Men's Footwear Starts @₹110 👉 Sports Shoes : Casual Shoes : Sandals : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/bwK1in",
+    "urls": [
+      {
+        "url": "https://ajiio.co/bwK1in",
+        "label": "🔥AJIO Men's Footwear Starts @₹110"
+      },
+      {
+        "url": "https://ajiio.co/13SjyS",
+        "label": "Sports Shoes"
+      },
+      {
+        "url": "https://ajiio.co/qLPKDg",
+        "label": "Casual Shoes"
+      },
+      {
+        "url": "https://ajiio.co/7msnYp",
+        "label": "Sandals"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "🔥AJIO  Men's Footwear Starts @₹110\n\n👉https://ajiio.co/bwK1in\n\nSports Shoes : https://ajiio.co/13SjyS\nCasual Shoes : https://ajiio.co/qLPKDg\nSandals : https://ajiio.co/7msnYp\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/bwK1in",
+    "local_image": "assets/images/tgmsg_15271.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-02T06:46:23+00:00",
+    "buy_link": "https://ajiio.co/bwK1in",
+    "date_iso": "2025-11-02T06:46:23+00:00"
+  },
+  {
     "id": "msg15268",
     "title": "Up to 70% Off On Woodland Footwea",
     "description": "Amazon | Upto 70% Off On Woodland Footwears.…",
@@ -9310,45 +9346,5 @@
     "date_obj": "2025-10-29T11:30:08+00:00",
     "buy_link": "https://fkrt.co/RFH7q2",
     "date_iso": "2025-10-29T11:30:08+00:00"
-  },
-  {
-    "id": "msg14821",
-    "title": "Up to 70% Off on Branded Toothpaste",
-    "description": "Flipkart | Upto 70% Off on Branded Toothpastes Colgate: Dabur : Closeup: Pepsodent: Sensodyne:",
-    "shortlink": "https://fkrt.co/0ESoHA",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 70% Off on Branded Toothpastes"
-      },
-      {
-        "url": "https://fkrt.co/0ESoHA",
-        "label": "Colgate"
-      },
-      {
-        "url": "https://fkrt.co/oXkDca",
-        "label": "Dabur"
-      },
-      {
-        "url": "https://fkrt.co/L3s3dt",
-        "label": "Closeup"
-      },
-      {
-        "url": "https://fkrt.co/1VqJ9l",
-        "label": "Pepsodent"
-      },
-      {
-        "url": "https://fkrt.co/dNuENQ",
-        "label": "Sensodyne"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 70% Off on Branded Toothpastes\n\nColgate: https://fkrt.co/0ESoHA\nDabur : https://fkrt.co/oXkDca\nCloseup: https://fkrt.co/L3s3dt\nPepsodent: https://fkrt.co/1VqJ9l\nSensodyne: https://fkrt.co/dNuENQ",
-    "final_url": "https://fkrt.co/0ESoHA",
-    "local_image": "assets/images/tgmsg_14821.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-29T11:00:04+00:00",
-    "buy_link": "https://fkrt.co/0ESoHA",
-    "date_iso": "2025-10-29T11:00:04+00:00"
   }
 ]
