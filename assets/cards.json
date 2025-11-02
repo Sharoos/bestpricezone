@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg15275",
+    "title": "Use Code OPNOV15 To Get Extra 15% Off!",
+    "description": "🔥Myntra | OnePlus Same As BFF🔥 OnePlus Wireless Z3 at Rs. 1143 only! Use Coupon Code: OPNOV12 to get 12% Off! OnePlus Nord Buds 3r Only at Rs. 1444 + Bank offers!! Use Coupon Code: OPNOV15 To Get Extra 15% Off!",
+    "shortlink": "https://myntr.in/9gUHwh",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥Myntra | OnePlus Same As BFF🔥"
+      },
+      {
+        "url": "https://myntr.in/9gUHwh",
+        "label": "OnePlus Wireless Z3 at Rs. 1143 only!"
+      },
+      {
+        "url": "https://myntr.in/abCRIj",
+        "label": "OnePlus Nord Buds 3r Only at Rs. 1444 + Bank offers!!"
+      }
+    ],
+    "raw_text": "🔥Myntra | OnePlus Same As BFF🔥\n\nOnePlus Wireless Z3 at Rs. 1143 only!\nUse Coupon Code: OPNOV12 to get 12% Off!\nhttps://myntr.in/9gUHwh\n\nOnePlus Nord Buds 3r Only at Rs. 1444 + Bank offers!!\nUse Coupon Code: OPNOV15 To Get Extra 15% Off!\nhttps://myntr.in/abCRIj",
+    "final_url": "https://myntr.in/9gUHwh",
+    "local_image": "assets/images/tgmsg_15275.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-02T07:28:18+00:00",
+    "buy_link": "https://myntr.in/9gUHwh",
+    "date_iso": "2025-11-02T07:28:18+00:00"
+  },
+  {
     "id": "msg15274",
     "title": "💰 Bonus Earn 10% Super Cash on Every Order!!!",
     "description": "Ajio SHEIN Clothing Starting @ 99💥💥 Men : Women : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
@@ -9290,41 +9318,5 @@
     "date_obj": "2025-10-29T12:15:02+00:00",
     "buy_link": "https://myntr.in/5YK5FS",
     "date_iso": "2025-10-29T12:15:02+00:00"
-  },
-  {
-    "id": "msg14826",
-    "title": "👗🧥 Flat 40% OFF on the latest collection!",
-    "description": "🔥 Marks and Spencer Style Seekers, It’s Your Time!  ✨ Explore the best of : 👠 Womenswear 👕 Menswear 💃 Lingerie 💥 Upgrade your wardrobe & save big! 👉 Shop Now :",
-    "shortlink": "https://extp.in/M7l1ol/",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Marks and Spencer Style Seekers, It’s Your Time!"
-      },
-      {
-        "url": "",
-        "label": "👗🧥 Flat 40% OFF on the latest collection!"
-      },
-      {
-        "url": "",
-        "label": "✨ Explore the best of"
-      },
-      {
-        "url": "",
-        "label": "💥 Upgrade your wardrobe & save big!"
-      },
-      {
-        "url": "https://extp.in/M7l1ol/",
-        "label": "Shop Now"
-      }
-    ],
-    "raw_text": "🔥 Marks and Spencer Style Seekers, It’s Your Time!\n\n👗🧥 Flat 40% OFF on the latest collection!\n\n✨ Explore the best of :\n👠 Womenswear\n👕 Menswear\n💃 Lingerie\n\n💥 Upgrade your wardrobe & save big!\n\n👉 Shop Now : https://extp.in/M7l1ol/",
-    "final_url": "https://extp.in/M7l1ol/",
-    "local_image": "assets/images/tgmsg_14826.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-10-29T11:45:07+00:00",
-    "buy_link": "https://extp.in/M7l1ol/",
-    "date_iso": "2025-10-29T11:45:07+00:00"
   }
 ]
