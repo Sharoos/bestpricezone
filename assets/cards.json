@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg15288",
+    "title": "HRX Trackpant Up to 70% Off",
+    "description": "Myntra | HRX Trackpant Upto 70% Off Starts @ Rs.615🔥 Men's :   https://myntr.in/nbIG1o Women's :   https://myntr.in/WkrB04",
+    "shortlink": "https://myntr.in/nbIG1o",
+    "urls": [
+      {
+        "url": "",
+        "label": "HRX Trackpant Upto 70% Off"
+      },
+      {
+        "url": "",
+        "label": "Starts @ Rs.615🔥"
+      },
+      {
+        "url": "https://myntr.in/nbIG1o",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/WkrB04",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Myntra | HRX Trackpant Upto 70% Off \n\nStarts @ Rs.615🔥\n\nMen's :   https://myntr.in/nbIG1o\nWomen's :   https://myntr.in/WkrB04",
+    "final_url": "https://myntr.in/nbIG1o",
+    "local_image": "assets/images/tgmsg_15288.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-02T09:33:48+00:00",
+    "buy_link": "https://myntr.in/nbIG1o",
+    "date_iso": "2025-11-02T09:33:48+00:00"
+  },
+  {
     "id": "msg15284",
     "title": "Up to 60% Off on Towels & Bath Robes Starting @ just ₹123",
     "description": "AJIO | UPTO 60% Off on Towels & Bath Robes Starting @ just ₹123 Link : + 10% EXTRA AJIO CASH",
@@ -9290,33 +9322,5 @@
     "date_obj": "2025-10-29T14:06:27+00:00",
     "buy_link": "https://fkrt.co/9mUTZm",
     "date_iso": "2025-10-29T14:06:27+00:00"
-  },
-  {
-    "id": "msg14843",
-    "title": "Up to 90% Off On Here & Now Clothing",
-    "description": "Myntra | Upto 90% Off On Here & Now Clothing. Men's : https://myntr.in/CwQ0nT Women's : https://myntr.in/9scSyq",
-    "shortlink": "https://myntr.in/CwQ0nT",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 90% Off On Here & Now Clothing"
-      },
-      {
-        "url": "https://myntr.in/CwQ0nT",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/9scSyq",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "Myntra | Upto 90% Off On Here & Now Clothing.\n\nMen's : https://myntr.in/CwQ0nT\nWomen's : https://myntr.in/9scSyq",
-    "final_url": "https://myntr.in/CwQ0nT",
-    "local_image": "assets/images/tgmsg_14843.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-29T14:16:16+00:00",
-    "buy_link": "https://myntr.in/CwQ0nT",
-    "date_iso": "2025-10-29T14:16:16+00:00"
   }
 ]
