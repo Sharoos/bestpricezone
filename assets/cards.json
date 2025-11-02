@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg15300",
+    "title": "Flat 75% Off On Jack & Jones Clothing",
+    "description": "AJIO . Upto 75% Off On USPA Clothing. Men : Women : Boys : Girls : Upto 80% Off On Spykar Clothing. Men : Women : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/jZcubp",
+    "urls": [
+      {
+        "url": "https://ajiio.co/jZcubp",
+        "label": "AJIO Flat 75% Off On Jack & Jones Clothing"
+      },
+      {
+        "url": "https://ajiio.co/oyivmu",
+        "label": "Upto 75% Off On USPA Clothing"
+      },
+      {
+        "url": "https://ajiio.co/xc87JK",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/2TcP0V",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/Q8b9iw",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/1vyBh7",
+        "label": "Upto 80% Off On Spykar Clothing"
+      },
+      {
+        "url": "https://ajiio.co/7OGDF7",
+        "label": "Women"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "AJIO  Flat 75% Off On Jack & Jones Clothing.\n\nhttps://ajiio.co/jZcubp\n\nUpto 75% Off On USPA Clothing.\n\nMen : https://ajiio.co/oyivmu\nWomen : https://ajiio.co/xc87JK\nBoys : https://ajiio.co/2TcP0V\nGirls : https://ajiio.co/Q8b9iw\n\nUpto 80% Off On Spykar Clothing.\n\nMen : https://ajiio.co/1vyBh7\nWomen : https://ajiio.co/7OGDF7\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/jZcubp",
+    "local_image": "assets/images/tgmsg_15300.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-02T11:16:18+00:00",
+    "buy_link": "https://ajiio.co/jZcubp",
+    "date_iso": "2025-11-02T11:16:18+00:00"
+  },
+  {
     "id": "msg15299",
     "title": "Up to 85% Off On Roadster Clothing",
     "description": "Myntra : Upto 85% Off On Roadster Clothing Men's : Jeans : Winterwear : Women's : Jeans : Winterwear :",
@@ -9326,25 +9374,5 @@
     "date_obj": "2025-10-29T15:46:40+00:00",
     "buy_link": "https://myntr.in/nuSgCd",
     "date_iso": "2025-10-29T15:46:40+00:00"
-  },
-  {
-    "id": "msg14850",
-    "title": "70% Off",
-    "description": "Myntra | Dove, Tresemme 1L Shampoos 60 - 70% Off 👉Link : https://myntr.in/Zv7oAV",
-    "shortlink": "https://myntr.in/Zv7oAV",
-    "urls": [
-      {
-        "url": "https://myntr.in/Zv7oAV",
-        "label": "Dove, Tresemme 1L Shampoos 60 - 70% Off"
-      }
-    ],
-    "raw_text": "Myntra | Dove, Tresemme 1L Shampoos 60 - 70% Off\n\n👉Link : https://myntr.in/Zv7oAV",
-    "final_url": "https://myntr.in/Zv7oAV",
-    "local_image": "assets/images/tgmsg_14850.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-29T15:05:25+00:00",
-    "buy_link": "https://myntr.in/Zv7oAV",
-    "date_iso": "2025-10-29T15:05:25+00:00"
   }
 ]
