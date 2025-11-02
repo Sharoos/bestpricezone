@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15301",
+    "title": "Women Clothing Starts @ 99",
+    "description": "Myntra | Women Clothing Starts @ 99. 👉https://myntr.in/IPuFZN",
+    "shortlink": "https://myntr.in/IPuFZN",
+    "urls": [
+      {
+        "url": "https://myntr.in/IPuFZN",
+        "label": "Women Clothing Starts @ 99"
+      }
+    ],
+    "raw_text": "Myntra | Women Clothing Starts @ 99.\n\n👉https://myntr.in/IPuFZN",
+    "final_url": "https://myntr.in/IPuFZN",
+    "local_image": "assets/images/tgmsg_15301.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-02T11:32:23+00:00",
+    "buy_link": "https://myntr.in/IPuFZN",
+    "date_iso": "2025-11-02T11:32:23+00:00"
+  },
+  {
     "id": "msg15300",
     "title": "Flat 75% Off On Jack & Jones Clothing",
     "description": "AJIO . Upto 75% Off On USPA Clothing. Men : Women : Boys : Girls : Upto 80% Off On Spykar Clothing. Men : Women : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
@@ -9354,25 +9374,5 @@
     "date_obj": "2025-10-29T15:34:09+00:00",
     "buy_link": "https://www.amazon.in/dp/B0B7P23NH7?tag=bestpricezo0f-21",
     "date_iso": "2025-10-29T15:34:09+00:00"
-  },
-  {
-    "id": "msg14853",
-    "title": "Carlton London Up to 67% off",
-    "description": "Myntra | Carlton London upto 67% off 👉Link : https://myntr.in/nuSgCd",
-    "shortlink": "https://myntr.in/nuSgCd",
-    "urls": [
-      {
-        "url": "https://myntr.in/nuSgCd",
-        "label": "Carlton London upto 67% off"
-      }
-    ],
-    "raw_text": "Myntra | Carlton London upto 67% off\n\n👉Link : https://myntr.in/nuSgCd",
-    "final_url": "https://myntr.in/nuSgCd",
-    "local_image": "assets/images/tgmsg_14853.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-29T15:46:40+00:00",
-    "buy_link": "https://myntr.in/nuSgCd",
-    "date_iso": "2025-10-29T15:46:40+00:00"
   }
 ]
