@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg15299",
+    "title": "Up to 85% Off On Roadster Clothing",
+    "description": "Myntra : Upto 85% Off On Roadster Clothing Men's : Jeans : Winterwear : Women's : Jeans : Winterwear :",
+    "shortlink": "https://myntr.in/I7UAwK",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% Off On Roadster Clothing"
+      },
+      {
+        "url": "https://myntr.in/I7UAwK",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/eRA7Lk",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://myntr.in/oCTxqR",
+        "label": "Winterwear"
+      },
+      {
+        "url": "https://myntr.in/wqk3K9",
+        "label": "Women's"
+      },
+      {
+        "url": "https://myntr.in/Dw1RVD",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://myntr.in/0xzVPt",
+        "label": "Winterwear"
+      }
+    ],
+    "raw_text": "Myntra : Upto 85% Off On Roadster Clothing\n\nMen's : https://myntr.in/I7UAwK\nJeans : https://myntr.in/eRA7Lk\nWinterwear : https://myntr.in/oCTxqR\n\nWomen's : https://myntr.in/wqk3K9\nJeans : https://myntr.in/Dw1RVD\nWinterwear : https://myntr.in/0xzVPt",
+    "final_url": "https://myntr.in/I7UAwK",
+    "local_image": "assets/images/tgmsg_15299.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-02T11:00:01+00:00",
+    "buy_link": "https://myntr.in/I7UAwK",
+    "date_iso": "2025-11-02T11:00:01+00:00"
+  },
+  {
     "id": "msg15294",
     "title": "Reliance Digital Midnight Sale Up to 60% Off",
     "description": "Reliance Digital : Midnight Sale Upto 60% Off. 👉 iPhone : Wireless Earbuds : TV : AC : Valid 10:00PM TO 8:00AM.",
@@ -9302,37 +9346,5 @@
     "date_obj": "2025-10-29T15:05:25+00:00",
     "buy_link": "https://myntr.in/Zv7oAV",
     "date_iso": "2025-10-29T15:05:25+00:00"
-  },
-  {
-    "id": "msg14851",
-    "title": "💥Min. 60% off on USPA Clothing",
-    "description": "💥Ajio : Min. 60% off on USPA Clothing. Men's : https://ajiio.co/bhtrlW Women’s : https://ajiio.co/zMv7y1 Boy’s : https://ajiio.co/YsGXAd",
-    "shortlink": "https://ajiio.co/bhtrlW",
-    "urls": [
-      {
-        "url": "",
-        "label": "💥Ajio : Min. 60% off on USPA Clothing"
-      },
-      {
-        "url": "https://ajiio.co/bhtrlW",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/zMv7y1",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://ajiio.co/YsGXAd",
-        "label": "Boy’s"
-      }
-    ],
-    "raw_text": "💥Ajio : Min. 60% off on USPA Clothing.\n\nMen's : https://ajiio.co/bhtrlW\nWomen’s : https://ajiio.co/zMv7y1\nBoy’s : https://ajiio.co/YsGXAd",
-    "final_url": "https://ajiio.co/bhtrlW",
-    "local_image": "assets/images/tgmsg_14851.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-29T15:16:51+00:00",
-    "buy_link": "https://ajiio.co/bhtrlW",
-    "date_iso": "2025-10-29T15:16:51+00:00"
   }
 ]
