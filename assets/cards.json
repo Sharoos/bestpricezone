@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15337",
+    "title": "Up to 36% off on Ddecor bedsheets and curtain",
+    "description": "Myntra | Upto 36% off on Ddecor bedsheets and curtains. Link : https://myntr.in/H1GCXs",
+    "shortlink": "https://myntr.in/H1GCXs",
+    "urls": [
+      {
+        "url": "https://myntr.in/H1GCXs",
+        "label": "Upto 36% off on Ddecor bedsheets and curtains"
+      }
+    ],
+    "raw_text": "Myntra | Upto 36% off on Ddecor bedsheets and curtains.\n\nLink : https://myntr.in/H1GCXs",
+    "final_url": "https://myntr.in/H1GCXs",
+    "local_image": "assets/images/tgmsg_15337.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-02T17:46:16+00:00",
+    "buy_link": "https://myntr.in/H1GCXs",
+    "date_iso": "2025-11-02T17:46:16+00:00"
+  },
+  {
     "id": "msg15336",
     "title": "Up to 80% Off On DNMX Clothing",
     "description": "AJIO Upto 80% Off On DNMX Clothing. Men’s👇. T-Shirts : Jeans : Shirts : Sweaters & Cardigans : Sweatshirt & Hoodies : Shorts : Trousers & Jogger : Women's👇. T-shirts : Shirts & Tops : Jeans & Jeggings : Sweatshirts :…",
@@ -9566,29 +9586,5 @@
     "date_obj": "2025-10-30T03:36:11+00:00",
     "buy_link": "https://ajiio.co/cNRheO",
     "date_iso": "2025-10-30T03:36:11+00:00"
-  },
-  {
-    "id": "msg14885",
-    "title": "🛒 Deal Price ₹321",
-    "description": "Flipkart | Dabur Vedic Black Tea Pouch 🛒 Deal Price: ₹321 https://fkrt.co/RROUU5",
-    "shortlink": "https://fkrt.co/RROUU5",
-    "urls": [
-      {
-        "url": "",
-        "label": "Dabur Vedic Black Tea Pouch"
-      },
-      {
-        "url": "https://fkrt.co/RROUU5",
-        "label": "🛒 Deal Price: ₹321"
-      }
-    ],
-    "raw_text": "Flipkart | Dabur Vedic Black Tea Pouch\n\n🛒 Deal Price: ₹321\n\nhttps://fkrt.co/RROUU5",
-    "final_url": "https://fkrt.co/RROUU5",
-    "local_image": "assets/images/tgmsg_14885.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-29T19:39:56+00:00",
-    "buy_link": "https://fkrt.co/RROUU5",
-    "date_iso": "2025-10-29T19:39:56+00:00"
   }
 ]
