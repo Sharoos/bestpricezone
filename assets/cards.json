@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg15261",
+    "title": "Synthetic Leather Shoes for Men – Starts At Rs.342",
+    "description": "Flipkart | Synthetic Leather Shoes for Men – Starts At Rs.342 👉Link : https://fkrt.co/KlizRB",
+    "shortlink": "https://fkrt.co/KlizRB",
+    "urls": [
+      {
+        "url": "https://fkrt.co/KlizRB",
+        "label": "Synthetic Leather Shoes for Men – Starts At Rs.342"
+      }
+    ],
+    "raw_text": "Flipkart | Synthetic Leather Shoes for Men – Starts At Rs.342\n\n👉Link : https://fkrt.co/KlizRB",
+    "final_url": "https://fkrt.co/KlizRB",
+    "local_image": "assets/images/tgmsg_15261.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-02T04:03:35+00:00",
+    "buy_link": "https://fkrt.co/KlizRB",
+    "date_iso": "2025-11-02T04:03:35+00:00"
+  },
+  {
+    "id": "msg15262",
+    "title": "Up to 85% OFF On Red Tape Shoe",
+    "description": "Myntra | Upto 85% OFF On Red Tape Shoes 👉https://myntr.in/ZZ3vaq",
+    "shortlink": "https://myntr.in/ZZ3vaq",
+    "urls": [
+      {
+        "url": "https://myntr.in/ZZ3vaq",
+        "label": "Upto 85% OFF On Red Tape Shoes"
+      }
+    ],
+    "raw_text": "Myntra | Upto 85% OFF On Red Tape Shoes\n\n👉https://myntr.in/ZZ3vaq",
+    "final_url": "https://myntr.in/ZZ3vaq",
+    "local_image": "assets/images/tgmsg_15262.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-02T04:16:06+00:00",
+    "buy_link": "https://myntr.in/ZZ3vaq",
+    "date_iso": "2025-11-02T04:16:06+00:00"
+  },
+  {
     "id": "msg15260",
     "title": "80% OFF on Top Brands 🔥🔥",
     "description": "Flipkart Fashion Mega Sale 📢📢 60- USPA, Jack & Jones – T-Shirts UCB, WROGN – Shirts Levi’s, Killer – Jeans Arrow, Raymond – Shirts & Trousers PUMA, Adidas – Sports Tees, Shorts, Trackpants",
@@ -9166,45 +9206,5 @@
     "date_obj": "2025-10-29T09:45:00+00:00",
     "buy_link": "https://myntr.in/icoJKv",
     "date_iso": "2025-10-29T09:45:00+00:00"
-  },
-  {
-    "id": "msg14808",
-    "title": "Bichauna Cotton 350 GSM Bath Towel From 99",
-    "description": "Bichauna Cotton 350 GSM Bath Towel From 99 https://fkrt.co/KvCMr4",
-    "shortlink": "https://fkrt.co/KvCMr4",
-    "urls": [
-      {
-        "url": "https://fkrt.co/KvCMr4",
-        "label": "Bichauna Cotton 350 GSM Bath Towel From 99"
-      }
-    ],
-    "raw_text": "Bichauna Cotton 350 GSM Bath Towel From 99\n\nhttps://fkrt.co/KvCMr4",
-    "final_url": "https://fkrt.co/KvCMr4",
-    "local_image": "assets/images/tgmsg_14808.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-29T09:14:02+00:00",
-    "buy_link": "https://fkrt.co/KvCMr4",
-    "date_iso": "2025-10-29T09:14:02+00:00"
-  },
-  {
-    "id": "msg14809",
-    "title": "HAMMER Splendor Neckband @ 499",
-    "description": "Amazon | HAMMER Splendor Neckband @ 499. 👉https://www.amazon.in/dp/B0D17H5WSM?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D17H5WSM?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0D17H5WSM?tag=bestpricezo0f-21",
-        "label": "HAMMER Splendor Neckband @ 499"
-      }
-    ],
-    "raw_text": "Amazon | HAMMER Splendor Neckband @ 499.\n\n👉https://www.amazon.in/dp/B0D17H5WSM?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D17H5WSM?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14809.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-29T09:15:04+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D17H5WSM?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-29T09:15:04+00:00"
   }
 ]
