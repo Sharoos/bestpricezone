@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg15332",
+    "title": "Up to 87% Off On Campus Sutra Clothing",
+    "description": "Myntra  | Upto 87% Off On Campus Sutra Clothing. Men : https://myntr.in/lIhGKi Women : https://myntr.in/r0LkMo",
+    "shortlink": "https://myntr.in/lIhGKi",
+    "urls": [
+      {
+        "url": "https://myntr.in/lIhGKi",
+        "label": "Upto 87% Off On Campus Sutra Clothing"
+      },
+      {
+        "url": "https://myntr.in/r0LkMo",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra  | Upto 87% Off On Campus Sutra Clothing.\n\nMen : https://myntr.in/lIhGKi\nWomen : https://myntr.in/r0LkMo",
+    "final_url": "https://myntr.in/lIhGKi",
+    "local_image": "assets/images/tgmsg_15332.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-02T16:33:52+00:00",
+    "buy_link": "https://myntr.in/lIhGKi",
+    "date_iso": "2025-11-02T16:33:52+00:00"
+  },
+  {
     "id": "msg15330",
     "title": "🛒 Deal Price ₹149 (Up to 80% Off)",
     "description": "Myntra | 👕 Oversized T-Shirt Deals 🛒 Deal Price: ₹149 (Upto 80% Off) 👉https://myntr.in/mIrfmn",
@@ -9490,29 +9514,5 @@
     "date_obj": "2025-10-29T19:08:22+00:00",
     "buy_link": "https://www.amazon.in/dp/B0B4981KGD?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-29T19:08:22+00:00"
-  },
-  {
-    "id": "msg14881",
-    "title": "🛒 Deal Price ₹6081",
-    "description": "Amazon | Cello Metallo Cafeteria Set of 6 Chairs 🛒 Deal Price: ₹6081 https://www.amazon.in/dp/B08BLQ49SX?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B08BLQ49SX?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Cello Metallo Cafeteria Set of 6 Chairs"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B08BLQ49SX?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹6081"
-      }
-    ],
-    "raw_text": "Amazon | Cello Metallo Cafeteria Set of 6 Chairs\n\n🛒 Deal Price: ₹6081\n\nhttps://www.amazon.in/dp/B08BLQ49SX?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B08BLQ49SX?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14881.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-29T19:09:34+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08BLQ49SX?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-29T19:09:34+00:00"
   }
 ]
