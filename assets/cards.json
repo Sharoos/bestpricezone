@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15312",
+    "title": "C Wired Earphones @339",
+    "description": "Amazon | boAt Type-C Wired Earphones @339. 👉https://www.amazon.in/dp/B071Z8M4KX?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B071Z8M4KX?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B071Z8M4KX?th=1&tag=bestpricezo0f-21",
+        "label": "boAt Type-C Wired Earphones @339"
+      }
+    ],
+    "raw_text": "Amazon | boAt Type-C Wired Earphones @339.\n\n👉https://www.amazon.in/dp/B071Z8M4KX?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B071Z8M4KX?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15312.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-02T13:05:25+00:00",
+    "buy_link": "https://www.amazon.in/dp/B071Z8M4KX?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-02T13:05:25+00:00"
+  },
+  {
     "id": "msg15304",
     "title": "Up to 80% Off on Branded Perfumes Starting @₹99🔥🔥🔥🔥",
     "description": "Myntra | UPTO 80% Off on Branded Perfumes Starting @₹99🔥🔥🔥🔥 🔗🔗Links : https://myntr.in/S2gtSI",
@@ -9346,41 +9366,5 @@
     "date_obj": "2025-10-29T18:39:19+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DGL7V1PC?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-29T18:39:19+00:00"
-  },
-  {
-    "id": "msg14864",
-    "title": "10% Super Cash on Every Orde",
-    "description": "🔥AJIO : Men's Footwear Starts @90 👉 Sports : Casual : Sandals : 10% AJIO Super Cash on Every Order.",
-    "shortlink": "https://ajiio.co/KMa4Kb",
-    "urls": [
-      {
-        "url": "https://ajiio.co/KMa4Kb",
-        "label": "🔥AJIO : Men's Footwear Starts @90"
-      },
-      {
-        "url": "https://ajiio.co/KzsdtJ",
-        "label": "Sports"
-      },
-      {
-        "url": "https://ajiio.co/MjP3GB",
-        "label": "Casual"
-      },
-      {
-        "url": "https://ajiio.co/bX30Kg",
-        "label": "Sandals"
-      },
-      {
-        "url": "",
-        "label": "10% AJIO Super Cash on Every Order"
-      }
-    ],
-    "raw_text": "🔥AJIO : Men's Footwear Starts @90\n\n👉https://ajiio.co/KMa4Kb\n\nSports : https://ajiio.co/KzsdtJ\nCasual : https://ajiio.co/MjP3GB\nSandals : https://ajiio.co/bX30Kg\n\n10% AJIO Super Cash on Every Order.",
-    "final_url": "https://ajiio.co/KMa4Kb",
-    "local_image": "assets/images/tgmsg_14864.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-29T17:46:42+00:00",
-    "buy_link": "https://ajiio.co/KMa4Kb",
-    "date_iso": "2025-10-29T17:46:42+00:00"
   }
 ]
