@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg15316",
+    "title": "USPA & Hellcat and More Up to 82% Off",
+    "description": "AJIO: USPA & Hellcat and More Upto 82% Off 👉Link : https://ajiio.co/YgoqLq + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/YgoqLq",
+    "urls": [
+      {
+        "url": "https://ajiio.co/YgoqLq",
+        "label": "USPA & Hellcat and More Upto 82% Off"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO: USPA & Hellcat and More Upto 82% Off\n\n👉Link : https://ajiio.co/YgoqLq\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/YgoqLq",
+    "local_image": "assets/images/tgmsg_15316.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-02T13:46:10+00:00",
+    "buy_link": "https://ajiio.co/YgoqLq",
+    "date_iso": "2025-11-02T13:46:10+00:00"
+  },
+  {
     "id": "msg15313",
     "title": "Up to 80% Off on Formal Shoes For men Starts At Rs.899",
     "description": "Myntra | Upto 80% Off on Formal Shoes For men Starts At Rs.899 👉Link : https://myntr.in/PoibC5",
@@ -9342,25 +9366,5 @@
     "date_obj": "2025-10-29T18:34:49+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CWZB82BH?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-29T18:34:49+00:00"
-  },
-  {
-    "id": "msg14872",
-    "title": "Bajaj Frore 1200 mm (48\") Ceiling Fan @1299",
-    "description": "Amazon | Bajaj Frore 1200 mm (48\") Ceiling Fan @1299 https://www.amazon.in/dp/B0BW4KJ6D1?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0BW4KJ6D1?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BW4KJ6D1?psc=1&tag=bestpricezo0f-21",
-        "label": "Bajaj Frore 1200 mm (48\") Ceiling Fan @1299"
-      }
-    ],
-    "raw_text": "Amazon | Bajaj Frore 1200 mm (48\") Ceiling Fan @1299\n\nhttps://www.amazon.in/dp/B0BW4KJ6D1?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BW4KJ6D1?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14872.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-29T18:37:31+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BW4KJ6D1?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-29T18:37:31+00:00"
   }
 ]
