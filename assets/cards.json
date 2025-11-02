@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15259",
+    "title": "Beardo perfumes at Min 71% off",
+    "description": "Myntra | Beardo perfumes at Min 71% off Link : https://myntr.in/rafNMC",
+    "shortlink": "https://myntr.in/rafNMC",
+    "urls": [
+      {
+        "url": "https://myntr.in/rafNMC",
+        "label": "Beardo perfumes at Min 71% off"
+      }
+    ],
+    "raw_text": "Myntra | Beardo perfumes at Min 71% off\n\nLink : https://myntr.in/rafNMC",
+    "final_url": "https://myntr.in/rafNMC",
+    "local_image": "assets/images/tgmsg_15259.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-02T03:32:21+00:00",
+    "buy_link": "https://myntr.in/rafNMC",
+    "date_iso": "2025-11-02T03:32:21+00:00"
+  },
+  {
     "id": "msg15256",
     "title": "Up to 65% Off On Dabur Toothpaste",
     "description": "Amazon | Upto 65% Off On Dabur Toothpaste. https://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21& Upto 50% Off On Odonil Room Freshne₹…",
@@ -9170,65 +9190,5 @@
     "date_obj": "2025-10-29T09:30:01+00:00",
     "buy_link": "https://fkrt.co/LKUrss",
     "date_iso": "2025-10-29T09:30:01+00:00"
-  },
-  {
-    "id": "msg14806",
-    "title": "Fashion Sale is LIVE 🔥🔥",
-    "description": "Flipkart  Top fashion brands 👇 HIGHLANDER: Roadster: The Indian Garage Co: METRONAUT: Red Tape: Bewakoof: INVICTUS: Mast & Harbour: Snitch:",
-    "shortlink": "https://fkrt.co/cySJG3",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart Fashion Sale is LIVE 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "Top fashion brands 👇"
-      },
-      {
-        "url": "https://fkrt.co/cySJG3",
-        "label": "HIGHLANDER"
-      },
-      {
-        "url": "https://fkrt.co/VVReHL",
-        "label": "Roadster"
-      },
-      {
-        "url": "https://fkrt.co/NZoFJM",
-        "label": "The Indian Garage Co"
-      },
-      {
-        "url": "https://fkrt.co/8ycg8n",
-        "label": "METRONAUT"
-      },
-      {
-        "url": "https://fkrt.co/Pgxrv7",
-        "label": "Red Tape"
-      },
-      {
-        "url": "https://fkrt.co/R0bBWc",
-        "label": "Bewakoof"
-      },
-      {
-        "url": "https://fkrt.co/TQtgOJ",
-        "label": "INVICTUS"
-      },
-      {
-        "url": "https://fkrt.co/kpLKYA",
-        "label": "Mast & Harbour"
-      },
-      {
-        "url": "https://fkrt.co/allZdb",
-        "label": "Snitch"
-      }
-    ],
-    "raw_text": "Flipkart Fashion Sale is LIVE 🔥🔥\n\nTop fashion brands 👇\nHIGHLANDER: https://fkrt.co/cySJG3\nRoadster: https://fkrt.co/VVReHL\nThe Indian Garage Co: https://fkrt.co/NZoFJM\nMETRONAUT: https://fkrt.co/8ycg8n\nRed Tape: https://fkrt.co/Pgxrv7\nBewakoof: https://fkrt.co/R0bBWc\nINVICTUS: https://fkrt.co/TQtgOJ\nMast & Harbour: https://fkrt.co/kpLKYA\nSnitch: https://fkrt.co/allZdb",
-    "final_url": "https://fkrt.co/cySJG3",
-    "local_image": "assets/images/tgmsg_14806.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-29T08:56:47+00:00",
-    "buy_link": "https://fkrt.co/cySJG3",
-    "date_iso": "2025-10-29T08:56:47+00:00"
   }
 ]
