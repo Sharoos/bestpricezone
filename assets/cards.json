@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg15334",
+    "title": "💥Topwear Min 80% OFF",
+    "description": "💥AJIO : Topwear Min 80% OFF Link : https://ajiio.co/UrvrI1",
+    "shortlink": "https://ajiio.co/UrvrI1",
+    "urls": [
+      {
+        "url": "https://ajiio.co/UrvrI1",
+        "label": "💥AJIO : Topwear Min 80% OFF"
+      }
+    ],
+    "raw_text": "💥AJIO : Topwear Min 80% OFF  \n \nLink : https://ajiio.co/UrvrI1",
+    "final_url": "https://ajiio.co/UrvrI1",
+    "local_image": "assets/images/tgmsg_15334.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-02T17:03:40+00:00",
+    "buy_link": "https://ajiio.co/UrvrI1",
+    "date_iso": "2025-11-02T17:03:40+00:00"
+  },
+  {
+    "id": "msg15335",
+    "title": "Mens Shoes Under @ 599",
+    "description": "Flipkart | Mens Shoes Under @ 599₹ 👉https://fkrt.co/AaMa4V",
+    "shortlink": "https://fkrt.co/AaMa4V",
+    "urls": [
+      {
+        "url": "https://fkrt.co/AaMa4V",
+        "label": "Mens Shoes Under @ 599₹"
+      }
+    ],
+    "raw_text": "Flipkart | Mens Shoes Under @ 599₹\n\n👉https://fkrt.co/AaMa4V",
+    "final_url": "https://fkrt.co/AaMa4V",
+    "local_image": "assets/images/tgmsg_15335.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-02T17:16:39+00:00",
+    "buy_link": "https://fkrt.co/AaMa4V",
+    "date_iso": "2025-11-02T17:16:39+00:00"
+  },
+  {
     "id": "msg15333",
     "title": "Up to 70% Off on Top Beauty Products 🔥🔥",
     "description": "Flipkart : Upto 70% Off on Top Beauty Products 🔥🔥 Nivea: Ponds: Vaseline: Lakme: Park Avenue: Clean & Clear: Everyuth: Yardley London: Denver:",
@@ -9494,57 +9534,5 @@
     "date_obj": "2025-10-29T19:20:00+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CZXNXQKH?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-29T19:20:00+00:00"
-  },
-  {
-    "id": "msg14878",
-    "title": "🛒 Deal Price ₹9501",
-    "description": "Amazon | 💡 Lighting Deals PHILIPS 30-watt LED Batten Pack of 20 LED 🛒 Deal Price: ₹9501",
-    "shortlink": "https://www.amazon.in/dp/B0CR6GPGXV?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "💡 Lighting Deals"
-      },
-      {
-        "url": "",
-        "label": "watt LED Batten Pack of 20 LED"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0CR6GPGXV?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹9501"
-      }
-    ],
-    "raw_text": "Amazon | 💡 Lighting Deals\n\nPHILIPS 30-watt LED Batten Pack of 20 LED\n\n🛒 Deal Price: ₹9501\n\nhttps://www.amazon.in/dp/B0CR6GPGXV?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CR6GPGXV?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14878.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-29T18:58:05+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CR6GPGXV?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-29T18:58:05+00:00"
-  },
-  {
-    "id": "msg14879",
-    "title": "🛒 Deal Price ₹5999",
-    "description": "Amazon | Preethi Zion Mixer Grinder for Kitchen - 4 Jars 750 Watt Mixie 🛒 Deal Price: ₹5999",
-    "shortlink": "https://www.amazon.in/dp/B07B4ZNMRC?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Preethi Zion Mixer Grinder for Kitchen - 4 Jars 750 Watt Mixie"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B07B4ZNMRC?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹5999"
-      }
-    ],
-    "raw_text": "Amazon | Preethi Zion Mixer Grinder for Kitchen - 4 Jars 750 Watt Mixie\n\n🛒 Deal Price: ₹5999\n\nhttps://www.amazon.in/dp/B07B4ZNMRC?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07B4ZNMRC?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_14879.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-29T19:07:27+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07B4ZNMRC?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-29T19:07:27+00:00"
   }
 ]
