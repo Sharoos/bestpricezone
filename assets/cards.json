@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15414",
+    "title": "Stainless Steel Water Bottle, 900ml @165",
+    "description": "Amazon | Stainless Steel Water Bottle, 900ml @165 👉https://www.amazon.in/dp/B0CTMSJBWC?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CTMSJBWC?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CTMSJBWC?tag=bestpricezo0f-21",
+        "label": "Stainless Steel Water Bottle, 900ml @165"
+      }
+    ],
+    "raw_text": "Amazon | Stainless Steel Water Bottle, 900ml @165\n\n👉https://www.amazon.in/dp/B0CTMSJBWC?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CTMSJBWC?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15414.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-03T07:50:08+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CTMSJBWC?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-03T07:50:08+00:00"
+  },
+  {
     "id": "msg15411",
     "title": "Up to 73% Off Levi's Men Clothing",
     "description": "Myntra | Upto 73% Off : Levi's Men Clothing Jeans : T-Shirt : Shirt : Trouser : Shorts : Winterwear :",
@@ -9666,45 +9686,5 @@
     "date_obj": "2025-10-30T16:17:14+00:00",
     "buy_link": "https://bitli.in/24Jen9M",
     "date_iso": "2025-10-30T16:17:14+00:00"
-  },
-  {
-    "id": "msg14985",
-    "title": "Reliance Digital Midnight Sale Up to 60% Off",
-    "description": "Reliance Digital: Midnight Sale Upto 60% Off iPhone: Wireless Earbuds: TV: AC: Valid 10:00PM TO 8:00AM.",
-    "shortlink": "https://bitli.in/DDDkIGn",
-    "urls": [
-      {
-        "url": "https://bitli.in/DDDkIGn",
-        "label": "Midnight Sale Upto 60% Off"
-      },
-      {
-        "url": "https://bitli.in/OwT9iag",
-        "label": "iPhone"
-      },
-      {
-        "url": "https://bitli.in/jNLkwhV",
-        "label": "Wireless Earbuds"
-      },
-      {
-        "url": "https://bitli.in/DZupxx5",
-        "label": "TV"
-      },
-      {
-        "url": "https://bitli.in/s07awz5",
-        "label": "AC"
-      },
-      {
-        "url": "",
-        "label": "00PM TO 8:00AM"
-      }
-    ],
-    "raw_text": "Reliance Digital: Midnight Sale Upto 60% Off\n\nhttps://bitli.in/DDDkIGn\n\niPhone: https://bitli.in/OwT9iag\nWireless Earbuds: https://bitli.in/jNLkwhV\n\nTV: https://bitli.in/DZupxx5\nAC: https://bitli.in/s07awz5\n\nValid 10:00PM TO 8:00AM.",
-    "final_url": "https://bitli.in/DDDkIGn",
-    "local_image": "assets/images/tgmsg_14985.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-10-30T16:30:47+00:00",
-    "buy_link": "https://bitli.in/DDDkIGn",
-    "date_iso": "2025-10-30T16:30:47+00:00"
   }
 ]
