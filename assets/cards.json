@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15437",
+    "title": "Bath mats at flat 299/",
+    "description": "Myntra | Bath mats at flat 299/- 👉 Link : https://myntr.in/Ru3uI3",
+    "shortlink": "https://myntr.in/Ru3uI3",
+    "urls": [
+      {
+        "url": "https://myntr.in/Ru3uI3",
+        "label": "Bath mats at flat 299/"
+      }
+    ],
+    "raw_text": "Myntra | Bath mats at flat 299/-\n\n👉 Link : https://myntr.in/Ru3uI3",
+    "final_url": "https://myntr.in/Ru3uI3",
+    "local_image": "assets/images/tgmsg_15437.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-03T10:50:03+00:00",
+    "buy_link": "https://myntr.in/Ru3uI3",
+    "date_iso": "2025-11-03T10:50:03+00:00"
+  },
+  {
     "id": "msg15434",
     "title": "Apply 5% Off",
     "description": "Amazon | Foldable Ludo Table for Kids @370. Apply 5% Off Coupon : https://www.amazon.in/dp/B0FCYKJF14?th=1&aod=1&tag=bestpricezo0f-21",
@@ -9730,37 +9750,5 @@
     "date_obj": "2025-10-30T18:48:43+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FTTG2BTH?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-10-30T18:48:43+00:00"
-  },
-  {
-    "id": "msg15005",
-    "title": "🧥 HRX By Hrithik Roshan Jacket Deal",
-    "description": "Myntra | 🧥 HRX By Hrithik Roshan Jacket Deals 🛒 Starting Price: ₹450 Women's Jackets: https://myntr.in/RUHqJ5 Men's Jackets: https://myntr.in/bR52Dg",
-    "shortlink": "https://myntr.in/RUHqJ5",
-    "urls": [
-      {
-        "url": "",
-        "label": "🧥 HRX By Hrithik Roshan Jacket Deals"
-      },
-      {
-        "url": "",
-        "label": "🛒 Starting Price: ₹450"
-      },
-      {
-        "url": "https://myntr.in/RUHqJ5",
-        "label": "Women's Jackets"
-      },
-      {
-        "url": "https://myntr.in/bR52Dg",
-        "label": "Men's Jackets"
-      }
-    ],
-    "raw_text": "Myntra | 🧥 HRX By Hrithik Roshan Jacket Deals\n\n🛒 Starting Price: ₹450\n\nWomen's Jackets: https://myntr.in/RUHqJ5\nMen's Jackets: https://myntr.in/bR52Dg",
-    "final_url": "https://myntr.in/RUHqJ5",
-    "local_image": "assets/images/tgmsg_15005.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-30T18:49:37+00:00",
-    "buy_link": "https://myntr.in/RUHqJ5",
-    "date_iso": "2025-10-30T18:49:37+00:00"
   }
 ]
