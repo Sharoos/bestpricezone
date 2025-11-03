@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg15470",
+    "title": "BELLAVITA Perfume Starts at Rs.149",
+    "description": "Flipkart | BELLAVITA Perfume Starts at Rs.149 👉https://fkrt.co/ZJrK4J",
+    "shortlink": "https://fkrt.co/ZJrK4J",
+    "urls": [
+      {
+        "url": "https://fkrt.co/ZJrK4J",
+        "label": "BELLAVITA Perfume Starts at Rs.149"
+      }
+    ],
+    "raw_text": "Flipkart | BELLAVITA Perfume Starts at Rs.149\n\n👉https://fkrt.co/ZJrK4J",
+    "final_url": "https://fkrt.co/ZJrK4J",
+    "local_image": "assets/images/tgmsg_15470.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-03T14:35:31+00:00",
+    "buy_link": "https://fkrt.co/ZJrK4J",
+    "date_iso": "2025-11-03T14:35:31+00:00"
+  },
+  {
+    "id": "msg15472",
+    "title": "Story@Home Carpets Up to 80% Off",
+    "description": "Myntra | Story@Home Carpets Upto 80% Off 👉https://myntr.in/gncqbS",
+    "shortlink": "https://myntr.in/gncqbS",
+    "urls": [
+      {
+        "url": "https://myntr.in/gncqbS",
+        "label": "Story@Home Carpets Upto 80% Off"
+      }
+    ],
+    "raw_text": "Myntra | Story@Home Carpets Upto 80% Off\n\n👉https://myntr.in/gncqbS",
+    "final_url": "https://myntr.in/gncqbS",
+    "local_image": "assets/images/tgmsg_15472.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-03T14:46:26+00:00",
+    "buy_link": "https://myntr.in/gncqbS",
+    "date_iso": "2025-11-03T14:46:26+00:00"
+  },
+  {
     "id": "msg15468",
     "title": "Up to 89% Off On Here & Now Clothing",
     "description": "Myntra | Upto 89% Off On Here & Now Clothing. Men's : https://myntr.in/0Qi2Zi Women's : https://myntr.in/a9BBXT",
@@ -9786,49 +9826,5 @@
     "date_obj": "2025-10-31T07:13:15+00:00",
     "buy_link": "https://fkrt.co/nyL7We",
     "date_iso": "2025-10-31T07:13:15+00:00"
-  },
-  {
-    "id": "msg15040",
-    "title": "Noise VS104 TWS Earbuds at 1099",
-    "description": "Amazon | Noise VS104 TWS Earbuds at 1099. 👉https://www.amazon.in/dp/B09Y5N4M7Z?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B09Y5N4M7Z?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B09Y5N4M7Z?tag=bestpricezo0f-21",
-        "label": "Noise VS104 TWS Earbuds at 1099"
-      }
-    ],
-    "raw_text": "Amazon | Noise VS104 TWS Earbuds at 1099.\n\n👉https://www.amazon.in/dp/B09Y5N4M7Z?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B09Y5N4M7Z?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15040.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-31T06:06:00+00:00",
-    "buy_link": "https://www.amazon.in/dp/B09Y5N4M7Z?tag=bestpricezo0f-21",
-    "date_iso": "2025-10-31T06:06:00+00:00"
-  },
-  {
-    "id": "msg15042",
-    "title": "BSC Everything at ₹99",
-    "description": "BSC LOOT: Everything at ₹99 Link: https://bitli.in/6MJGyzO • Free Shipping on orders above ₹299.",
-    "shortlink": "https://bitli.in/6MJGyzO",
-    "urls": [
-      {
-        "url": "https://bitli.in/6MJGyzO",
-        "label": "Everything at ₹99"
-      },
-      {
-        "url": "",
-        "label": "Free Shipping on orders above ₹299"
-      }
-    ],
-    "raw_text": "BSC LOOT: Everything at ₹99\n\nLink: https://bitli.in/6MJGyzO\n\n• Free Shipping on orders above ₹299.",
-    "final_url": "https://bitli.in/6MJGyzO",
-    "local_image": "assets/images/tgmsg_15042.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-10-31T06:13:16+00:00",
-    "buy_link": "https://bitli.in/6MJGyzO",
-    "date_iso": "2025-10-31T06:13:16+00:00"
   }
 ]
