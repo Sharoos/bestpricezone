@@ -1,5 +1,77 @@
 [
   {
+    "id": "msg15518",
+    "title": "🛒 Deal Price ₹168",
+    "description": "Amazon | Emami 7 Oils in One Hair Oil 🛒 Deal Price: ₹168 https://www.amazon.in/dp/B082CXT58C?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B082CXT58C?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Emami 7 Oils in One Hair Oil"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B082CXT58C?th=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹168"
+      }
+    ],
+    "raw_text": "Amazon | Emami 7 Oils in One Hair Oil\n\n🛒 Deal Price: ₹168\n\nhttps://www.amazon.in/dp/B082CXT58C?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B082CXT58C?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15518.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-03T19:25:48+00:00",
+    "buy_link": "https://www.amazon.in/dp/B082CXT58C?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-03T19:25:48+00:00"
+  },
+  {
+    "id": "msg15519",
+    "title": "BT Party Speaker G 926",
+    "description": "Amazon | BT Party Speaker G 926 https://www.amazon.in/dp/B0B4STMDTG?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0B4STMDTG?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0B4STMDTG?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "BT Party Speaker G 926"
+      }
+    ],
+    "raw_text": "Amazon | BT Party Speaker G 926 \n\nhttps://www.amazon.in/dp/B0B4STMDTG?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0B4STMDTG?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15519.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-03T19:26:34+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0B4STMDTG?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-03T19:26:34+00:00"
+  },
+  {
+    "id": "msg15520",
+    "title": "🛒 Deal Price Up to 64% Off",
+    "description": "Myntra | 👟 Adidas Originals Shoe Deals Adidas Gazelle Series 🛒 Deal Price: Up to 64% Off Men: Women:",
+    "shortlink": "https://myntr.in/7JUHXn",
+    "urls": [
+      {
+        "url": "",
+        "label": "👟 Adidas Originals Shoe Deals"
+      },
+      {
+        "url": "https://myntr.in/7JUHXn",
+        "label": "🛒 Deal Price: Up to 64% Off"
+      },
+      {
+        "url": "https://myntr.in/FM4rFH",
+        "label": "Adidas Gazelle Series"
+      }
+    ],
+    "raw_text": "Myntra | 👟 Adidas Originals Shoe Deals\n\nAdidas Gazelle Series\n🛒 Deal Price: Up to 64% Off\nhttps://myntr.in/7JUHXn\n\nMen:\nhttps://myntr.in/FM4rFH\nWomen:",
+    "final_url": "https://myntr.in/7JUHXn",
+    "local_image": "assets/images/tgmsg_15520.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-03T19:31:24+00:00",
+    "buy_link": "https://myntr.in/7JUHXn",
+    "date_iso": "2025-11-03T19:31:24+00:00"
+  },
+  {
     "id": "msg15511",
     "title": "Godrej Ezee Aer Spray, 200ml @₹77",
     "description": "Amazon | Godrej Ezee Aer Spray, 200ml @₹77 https://www.amazon.in/dp/B00OHNGG40?th=1&tag=bestpricezo0f-21",
@@ -9790,73 +9862,5 @@
     "date_obj": "2025-10-31T15:29:06+00:00",
     "buy_link": "https://myntr.in/E8SvyH",
     "date_iso": "2025-10-31T15:29:06+00:00"
-  },
-  {
-    "id": "msg15099",
-    "title": "Zandu Shilajit Gold Plus Resin (20g) @506",
-    "description": "Zandu : Shilajit Gold Plus Resin (20g) @506 Coupon Code : CKSGPR70 https://bitli.in/yxeX1Hg",
-    "shortlink": "https://bitli.in/yxeX1Hg",
-    "urls": [
-      {
-        "url": "https://bitli.in/yxeX1Hg",
-        "label": "Shilajit Gold Plus Resin (20g) @506"
-      }
-    ],
-    "raw_text": "Zandu : Shilajit Gold Plus Resin (20g) @506\n\nCoupon Code : CKSGPR70\n\nhttps://bitli.in/yxeX1Hg",
-    "final_url": "https://bitli.in/yxeX1Hg",
-    "local_image": "assets/images/tgmsg_15099.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-10-31T15:36:27+00:00",
-    "buy_link": "https://bitli.in/yxeX1Hg",
-    "date_iso": "2025-10-31T15:36:27+00:00"
-  },
-  {
-    "id": "msg15095",
-    "title": "Oversized T",
-    "description": "Myntra | Oversized T-shirts From Rs.97 Men's : https://myntr.in/jx5i3d Women : https://myntr.in/kxaRo6",
-    "shortlink": "https://myntr.in/jx5i3d",
-    "urls": [
-      {
-        "url": "",
-        "label": "Oversized T-shirts From Rs.97"
-      },
-      {
-        "url": "https://myntr.in/jx5i3d",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/kxaRo6",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Myntra | Oversized T-shirts From Rs.97\n\nMen's : https://myntr.in/jx5i3d \nWomen : https://myntr.in/kxaRo6",
-    "final_url": "https://myntr.in/jx5i3d",
-    "local_image": "assets/images/tgmsg_15095.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-31T15:07:13+00:00",
-    "buy_link": "https://myntr.in/jx5i3d",
-    "date_iso": "2025-10-31T15:07:13+00:00"
-  },
-  {
-    "id": "msg15096",
-    "title": "PTron Studio Evo Bluetooth Headhphone @ 799",
-    "description": "Flipkart | PTron Studio Evo Bluetooth Headhphone @ 799. 👉https://fkrt.co/8YHaVW",
-    "shortlink": "https://fkrt.co/8YHaVW",
-    "urls": [
-      {
-        "url": "https://fkrt.co/8YHaVW",
-        "label": "PTron Studio Evo Bluetooth Headhphone @ 799"
-      }
-    ],
-    "raw_text": "Flipkart | PTron Studio Evo Bluetooth Headhphone @ 799.\n\n👉https://fkrt.co/8YHaVW",
-    "final_url": "https://fkrt.co/8YHaVW",
-    "local_image": "assets/images/tgmsg_15096.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-31T15:16:25+00:00",
-    "buy_link": "https://fkrt.co/8YHaVW",
-    "date_iso": "2025-10-31T15:16:25+00:00"
   }
 ]
