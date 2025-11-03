@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg15386",
+    "title": "+ 10% EXTRA CASH",
+    "description": "AJIO Flat 70-76% Off On Performax Clothing. Men : Shoes : Women : Shoes : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/qjO68S",
+    "urls": [
+      {
+        "url": "https://ajiio.co/qjO68S",
+        "label": "76% Off On Performax Clothing"
+      },
+      {
+        "url": "https://ajiio.co/7MgnTz",
+        "label": "Shoes"
+      },
+      {
+        "url": "https://ajiio.co/A21Nta",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/3t0aXL",
+        "label": "Shoes"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO  Flat 70-76% Off On Performax Clothing.\n\nMen : https://ajiio.co/qjO68S\nShoes : https://ajiio.co/7MgnTz\n\nWomen : https://ajiio.co/A21Nta\nShoes : https://ajiio.co/3t0aXL\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/qjO68S",
+    "local_image": "assets/images/tgmsg_15386.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-03T04:06:04+00:00",
+    "buy_link": "https://ajiio.co/qjO68S",
+    "date_iso": "2025-11-03T04:06:04+00:00"
+  },
+  {
     "id": "msg15383",
     "title": "Up to 70% Off on Buda Jeans Men’s Clothing",
     "description": "Ajio Upto 70% Off on Buda Jeans Men’s Clothing. T-Shirt : Shirt : Jeans : Trackpant : Shorts : Winterwear : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
@@ -9434,25 +9470,5 @@
     "date_obj": "2025-10-30T12:00:11+00:00",
     "buy_link": "https://www.amazon.in/Amazon-Basics-Tripod-Camera-Operating/dp/B0BRMTW547?dib=eyJ2IjoiMSJ9.MMXFgqXNKtAful4qn_DruIhI4Hic-X-APBjVEI1FUXzxPl2v6Ylzjujuc47I0oSAyO9dUWmmm6WDn3uNdYmq7rnOeE3Y5VrovSrokcC8q3qwOnkpBuhp2guyqIpic6cAwFURk-RAM7k1aEuNdPsnuQ.QI0DUinoFp0XQJj_rm6GYGEU4z0qs7oTX9Wrh3JiEO4&dib_tag=se&pf_rd_i=976419031&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_s=merchandised-search-22&qid=1758100748&sr=8-5&th=1&language=en_IN&tag=bestpricezo0f-21",
     "date_iso": "2025-10-30T12:00:11+00:00"
-  },
-  {
-    "id": "msg14948",
-    "title": "Up to 80% Off on Mens Casual Shoes Starting @₹200🔥🔥🔥🔥",
-    "description": "Flipkart | UPTO 80% Off on Mens Casual Shoes Starting @₹200🔥🔥🔥🔥 🔗🔗Link : https://fkrt.co/hjzPtq",
-    "shortlink": "https://fkrt.co/hjzPtq",
-    "urls": [
-      {
-        "url": "https://fkrt.co/hjzPtq",
-        "label": "UPTO 80% Off on Mens Casual Shoes Starting @₹200🔥🔥🔥🔥"
-      }
-    ],
-    "raw_text": "Flipkart | UPTO 80% Off on Mens Casual Shoes Starting @₹200🔥🔥🔥🔥 \n \n🔗🔗Link : https://fkrt.co/hjzPtq",
-    "final_url": "https://fkrt.co/hjzPtq",
-    "local_image": "assets/images/tgmsg_14948.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-30T12:15:03+00:00",
-    "buy_link": "https://fkrt.co/hjzPtq",
-    "date_iso": "2025-10-30T12:15:03+00:00"
   }
 ]
