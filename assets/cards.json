@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15477",
+    "title": "Up to 74% Off on Co",
+    "description": "Ajio | Upto 74% Off on Co-Ord Sets Starting @ just ₹319 Link : https://ajiio.co/Y0O47y",
+    "shortlink": "https://ajiio.co/Y0O47y",
+    "urls": [
+      {
+        "url": "https://ajiio.co/Y0O47y",
+        "label": "Upto 74% Off on Co-Ord Sets Starting @ just ₹319"
+      }
+    ],
+    "raw_text": "Ajio | Upto 74% Off on Co-Ord Sets Starting @ just ₹319\n \nLink : https://ajiio.co/Y0O47y",
+    "final_url": "https://ajiio.co/Y0O47y",
+    "local_image": "assets/images/tgmsg_15477.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-03T15:29:50+00:00",
+    "buy_link": "https://ajiio.co/Y0O47y",
+    "date_iso": "2025-11-03T15:29:50+00:00"
+  },
+  {
     "id": "msg15475",
     "title": "Men's Jeans Starting From 299",
     "description": "Flipkart On Men's Fashion 🔥🔥 Trackpants, Shorts Under 499 👉 Casual Shirts Under 499 👉  👉",
@@ -9786,45 +9806,5 @@
     "date_obj": "2025-10-31T07:36:48+00:00",
     "buy_link": "https://bitli.in/244CEk6",
     "date_iso": "2025-10-31T07:36:48+00:00"
-  },
-  {
-    "id": "msg15051",
-    "title": "Up to 70% Off on Branded Toothpaste",
-    "description": "Flipkart | Upto 70% Off on Branded Toothpastes Colgate: Dabur : Closeup: Pepsodent: Sensodyne:",
-    "shortlink": "https://fkrt.co/wjPZm0",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 70% Off on Branded Toothpastes"
-      },
-      {
-        "url": "https://fkrt.co/wjPZm0",
-        "label": "Colgate"
-      },
-      {
-        "url": "https://fkrt.co/YDtFaK",
-        "label": "Dabur"
-      },
-      {
-        "url": "https://fkrt.co/ZeNXbG",
-        "label": "Closeup"
-      },
-      {
-        "url": "https://fkrt.co/l0kZub",
-        "label": "Pepsodent"
-      },
-      {
-        "url": "https://fkrt.co/u6Fk9X",
-        "label": "Sensodyne"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 70% Off on Branded Toothpastes\n\nColgate: https://fkrt.co/wjPZm0\nDabur : https://fkrt.co/YDtFaK\nCloseup: https://fkrt.co/ZeNXbG\nPepsodent: https://fkrt.co/l0kZub\nSensodyne: https://fkrt.co/u6Fk9X",
-    "final_url": "https://fkrt.co/wjPZm0",
-    "local_image": "assets/images/tgmsg_15051.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-31T07:24:07+00:00",
-    "buy_link": "https://fkrt.co/wjPZm0",
-    "date_iso": "2025-10-31T07:24:07+00:00"
   }
 ]
