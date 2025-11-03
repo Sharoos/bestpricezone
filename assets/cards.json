@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg15465",
+    "title": "Use Code OPNOV15 To Get Extra 15% Off!",
+    "description": "🔥Myntra | OnePlus Same As BFF🔥 OnePlus Wireless Z3 at Rs. 1143 only! Use Coupon Code: OPNOV12 to get 12% Off! OnePlus Nord Buds 3r Only at Rs. 1444 + Bank offers!! Use Coupon Code: OPNOV15 To Get Extra 15% Off!",
+    "shortlink": "https://myntr.in/3OrGoD",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥Myntra | OnePlus Same As BFF🔥"
+      },
+      {
+        "url": "https://myntr.in/3OrGoD",
+        "label": "OnePlus Wireless Z3 at Rs. 1143 only!"
+      },
+      {
+        "url": "https://myntr.in/HnPTZL",
+        "label": "OnePlus Nord Buds 3r Only at Rs. 1444 + Bank offers!!"
+      }
+    ],
+    "raw_text": "🔥Myntra | OnePlus Same As BFF🔥\n\nOnePlus Wireless Z3 at Rs. 1143 only!\nUse Coupon Code: OPNOV12 to get 12% Off!\nhttps://myntr.in/3OrGoD\n\nOnePlus Nord Buds 3r Only at Rs. 1444 + Bank offers!!\nUse Coupon Code: OPNOV15 To Get Extra 15% Off!\nhttps://myntr.in/HnPTZL",
+    "final_url": "https://myntr.in/3OrGoD",
+    "local_image": "assets/images/tgmsg_15465.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-03T13:51:46+00:00",
+    "buy_link": "https://myntr.in/3OrGoD",
+    "date_iso": "2025-11-03T13:51:46+00:00"
+  },
+  {
     "id": "msg15462",
     "title": "💥Up to 70% Off On Skin Care Combo Starting @₹ 241⚡️⚡️",
     "description": "💥Myntra | Upto 70% Off On Skin Care Combo Starting @₹ 241⚡️⚡️ Link : https://myntr.in/oIkkOS",
@@ -9854,53 +9882,5 @@
     "date_obj": "2025-10-31T06:21:17+00:00",
     "buy_link": "https://ajiio.co/QJY81a",
     "date_iso": "2025-10-31T06:21:17+00:00"
-  },
-  {
-    "id": "msg15046",
-    "title": "Up to 80% Off On John Players Clothing",
-    "description": "AJIO : Upto 80% Off On John Players Clothing. Tshirts : Shirts : Trousers : Jeans : Sweatshirts : Sweaters : Jackets :",
-    "shortlink": "https://ajiio.co/W6P8gA",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On John Players Clothing"
-      },
-      {
-        "url": "https://ajiio.co/W6P8gA",
-        "label": "Tshirts"
-      },
-      {
-        "url": "https://ajiio.co/gMlLBn",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/410KGR",
-        "label": "Trousers"
-      },
-      {
-        "url": "https://ajiio.co/oGJHSe",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/Kiyl9P",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://ajiio.co/F0JFHH",
-        "label": "Sweaters"
-      },
-      {
-        "url": "https://ajiio.co/PrY5Bn",
-        "label": "Jackets"
-      }
-    ],
-    "raw_text": "AJIO : Upto 80% Off On John Players Clothing.\n\nTshirts : https://ajiio.co/W6P8gA\nShirts  :  https://ajiio.co/gMlLBn\nTrousers  :  https://ajiio.co/410KGR\nJeans  :  https://ajiio.co/oGJHSe\nSweatshirts :  https://ajiio.co/Kiyl9P\nSweaters : https://ajiio.co/F0JFHH\nJackets : https://ajiio.co/PrY5Bn",
-    "final_url": "https://ajiio.co/W6P8gA",
-    "local_image": "assets/images/tgmsg_15046.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-10-31T06:36:26+00:00",
-    "buy_link": "https://ajiio.co/W6P8gA",
-    "date_iso": "2025-10-31T06:36:26+00:00"
   }
 ]
