@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg15585",
+    "title": "Use Code OPNOV19 To Get Extra 19 % Off!",
+    "description": "Myntra | 🔥Hidden Coupons found on OnePlus🔥 ONLY FOR FEW Hours APPLY THE COUPON CODE BELOW OnePlus Nord Buds 2r at Rs. 1311 only! Use Coupon Code: OPNOV18 to get 18% Off! OnePlus Bullets Z2 ANC at Rs. 1519 only! Use…",
+    "shortlink": "https://myntr.in/eliH5s",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥Hidden Coupons found on OnePlus🔥 ONLY FOR FEW Hours"
+      },
+      {
+        "url": "https://myntr.in/eliH5s",
+        "label": "OnePlus Nord Buds 2r at Rs. 1311 only!"
+      },
+      {
+        "url": "https://myntr.in/xMkhnr",
+        "label": "OnePlus Bullets Z2 ANC at Rs. 1519 only!"
+      },
+      {
+        "url": "https://myntr.in/7fwh4J",
+        "label": "OnePlus Nord Buds 3 Pro Only at Rs. 2186 + Bank offers!!"
+      },
+      {
+        "url": "",
+        "label": "OnePlus Bullets Z2 at Rs. 1199 only + Bank Offers!"
+      },
+      {
+        "url": "https://myntr.in/fR6odN",
+        "label": "OPNOV20 to get 20% Off!"
+      }
+    ],
+    "raw_text": "Myntra | 🔥Hidden Coupons found on OnePlus🔥  ONLY FOR FEW Hours\n\nAPPLY THE COUPON CODE BELOW \n\nOnePlus Nord Buds 2r at Rs. 1311 only!\nUse Coupon Code: OPNOV18 to get 18% Off!\nhttps://myntr.in/eliH5s\n\nOnePlus Bullets Z2 ANC at Rs. 1519 only!\nUse Coupon Code: OPNOV20 to get 20% Off!\n👉 https://myntr.in/xMkhnr\n\nOnePlus Nord Buds 3 Pro Only at Rs. 2186 + Bank offers!!\nUse Coupon Code : OPNOV19 To Get Extra 19 % Off!\n👉https://myntr.in/7fwh4J\n\nOnePlus Bullets Z2 at Rs. 1199 only + Bank Offers!\nUseCouponCode : OPNOV20 to get 20% Off!\n👉 https://myntr.in/fR6odN",
+    "final_url": "https://myntr.in/eliH5s",
+    "local_image": "assets/images/tgmsg_15585.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-04T11:45:04+00:00",
+    "buy_link": "https://myntr.in/eliH5s",
+    "date_iso": "2025-11-04T11:45:04+00:00"
+  },
+  {
     "id": "msg15584",
     "title": "🛒 Deal Price ₹242",
     "description": "Amazon | Portronics Mobot Clip Mobile Holder with 360° Adjustable Angles 🛒 Deal Price: ₹242 👉",
@@ -9946,25 +9986,5 @@
     "date_obj": "2025-11-01T06:35:58+00:00",
     "buy_link": "https://myntr.in/BnBWYL",
     "date_iso": "2025-11-01T06:35:58+00:00"
-  },
-  {
-    "id": "msg15162",
-    "title": "tax%3A27060456031&s=price",
-    "description": "Amazon | boAt USB Cable Starts @ 199. https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
-    "shortlink": "https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
-        "label": "boAt USB Cable Starts @ 199"
-      }
-    ],
-    "raw_text": "Amazon | boAt USB Cable Starts @ 199.\n\nhttps://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
-    "final_url": "https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
-    "local_image": "assets/images/tgmsg_15162.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-01T06:46:11+00:00",
-    "buy_link": "https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
-    "date_iso": "2025-11-01T06:46:11+00:00"
   }
 ]
