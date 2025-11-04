@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg15617",
+    "title": "Up to 62% Off On Lakme Beauty Product",
+    "description": "Amazon | Upto 62% Off On Lakme Beauty Products Upto 50% Off On Biotique Beauty Products",
+    "shortlink": "https://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_89%3ALAKM%C3%89%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_89%3ALAKM%C3%89%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
+        "label": "Upto 62% Off On Lakme Beauty Products"
+      },
+      {
+        "url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_6%3AA15APWRK6P7LBV%2Cp_72%3A1318476031%2Cp_89%3ABiotique%2Cp_n_pct-off-with-tax%3A45-&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+        "label": "Upto 50% Off On Biotique Beauty Products"
+      }
+    ],
+    "raw_text": "Amazon | Upto 62% Off On Lakme Beauty Products \n\nhttps://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_89%3ALAKM%C3%89%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21\n\nUpto 50% Off On Biotique Beauty Products \n\nhttps://www.amazon.in/s?rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_6%3AA15APWRK6P7LBV%2Cp_72%3A1318476031%2Cp_89%3ABiotique%2Cp_n_pct-off-with-tax%3A45-&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_89%3ALAKM%C3%89%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15617.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-04T15:46:59+00:00",
+    "buy_link": "https://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_89%3ALAKM%C3%89%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-04T15:46:59+00:00"
+  },
+  {
     "id": "msg15614",
     "title": "Ultrahuman Smart Rings at Rs. 24,224 + Bank Offers!!🎉",
     "description": "Myntra | Ultrahuman  Smart Rings at Rs. 24,224 + Bank Offers!!🎉 Use Coupon Code - UH15 Limited time offer!!⏰ https://myntr.in/wRANHD",
@@ -10014,29 +10038,5 @@
     "date_obj": "2025-11-01T10:49:12+00:00",
     "buy_link": "https://fktr.in/pa8yb4F",
     "date_iso": "2025-11-01T10:49:12+00:00"
-  },
-  {
-    "id": "msg15183",
-    "title": "Up to 61% Off on Bata Formal Shoes Starting @₹585🔥🔥🔥🔥",
-    "description": "Ajio | UPTO 61% Off on Bata Formal Shoes Starting @₹585🔥🔥🔥🔥 🔗🔗Links : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "shortlink": "https://ajiio.co/iDnIJ3",
-    "urls": [
-      {
-        "url": "https://ajiio.co/iDnIJ3",
-        "label": "UPTO 61% Off on Bata Formal Shoes Starting @₹585🔥🔥🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
-      }
-    ],
-    "raw_text": "Ajio | UPTO 61% Off on Bata Formal Shoes Starting @₹585🔥🔥🔥🔥 \n \n🔗🔗Links : https://ajiio.co/iDnIJ3\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "final_url": "https://ajiio.co/iDnIJ3",
-    "local_image": "assets/images/tgmsg_15183.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-01T10:33:04+00:00",
-    "buy_link": "https://ajiio.co/iDnIJ3",
-    "date_iso": "2025-11-01T10:33:04+00:00"
   }
 ]
