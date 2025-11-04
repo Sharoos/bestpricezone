@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg15569",
+    "title": "72% off",
+    "description": "Myntra | L’Oréal Total Repair 5 - 72% off. 👉 https://myntr.in/MeD9Gc",
+    "shortlink": "https://myntr.in/MeD9Gc",
+    "urls": [
+      {
+        "url": "https://myntr.in/MeD9Gc",
+        "label": "L’Oréal Total Repair 5 - 72% off"
+      }
+    ],
+    "raw_text": "Myntra | L’Oréal Total Repair 5 - 72% off.   \n\n👉 https://myntr.in/MeD9Gc",
+    "final_url": "https://myntr.in/MeD9Gc",
+    "local_image": "assets/images/tgmsg_15569.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-04T09:15:08+00:00",
+    "buy_link": "https://myntr.in/MeD9Gc",
+    "date_iso": "2025-11-04T09:15:08+00:00"
+  },
+  {
+    "id": "msg15572",
+    "title": "TRESemme Hairfall Defense+ Shampoo 580ml @445",
+    "description": "Amazon | TRESemme Hairfall Defense+ Shampoo 580ml @445 👉 https://www.amazon.in/dp/B07F2QCLP2?th=1&tag=bestpricezo0f-21 Nivea Whitening Smooth Skin Deodorant For Women, 150ml @165 👉…",
+    "shortlink": "https://www.amazon.in/dp/B07F2QCLP2?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B07F2QCLP2?th=1&tag=bestpricezo0f-21",
+        "label": "TRESemme Hairfall Defense+ Shampoo 580ml @445"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B00HT03TDO?th=1&tag=bestpricezo0f-21",
+        "label": "Nivea Whitening Smooth Skin Deodorant For Women, 150ml @165"
+      }
+    ],
+    "raw_text": "Amazon | TRESemme Hairfall Defense+ Shampoo 580ml @445\n\n👉 https://www.amazon.in/dp/B07F2QCLP2?th=1&tag=bestpricezo0f-21\n\nNivea Whitening Smooth Skin Deodorant For Women, 150ml @165\n\n👉 https://www.amazon.in/dp/B00HT03TDO?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B07F2QCLP2?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15572.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-04T09:30:17+00:00",
+    "buy_link": "https://www.amazon.in/dp/B07F2QCLP2?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-04T09:30:17+00:00"
+  },
+  {
     "id": "msg15568",
     "title": "80% Off On Being Human Clothing",
     "description": "Myntra | 70-. Men | Tshirts : Shirts : Sweatshirts : Jackets : Shorts & Trackpants : Women :",
@@ -9942,73 +9986,5 @@
     "date_obj": "2025-11-01T04:12:47+00:00",
     "buy_link": "https://www.amazon.in/s?k=bata&i=shoes&rh=n%3A1571283031%2Cn%3A1983396031%2Cn%3A1983518031%2Cp_123%3A627141%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A27060456031&s=exact-aware-popularity-rank&dc=&crid=23H1VVJK847K4&qid=1758554340&sprefix=bat%2Cshoes%2C268&ds=v1%3A8sHi5YZ%2FISt8KBRrpm1%2BxPj1scKd5nNrnCLGe62PW2w&tag=bestpricezo0f-21",
     "date_iso": "2025-11-01T04:12:47+00:00"
-  },
-  {
-    "id": "msg15147",
-    "title": "Men Polo Tshirts Starts at 140",
-    "description": "AJIO . Oversized Tshirts Starts at 190. Women : Men : Kids Clothing Boys : Girls : Infants :",
-    "shortlink": "https://ajiio.co/aomLeT",
-    "urls": [
-      {
-        "url": "https://ajiio.co/aomLeT",
-        "label": "AJIO Men Polo Tshirts Starts at 140"
-      },
-      {
-        "url": "",
-        "label": "Oversized Tshirts Starts at 190"
-      },
-      {
-        "url": "https://ajiio.co/ftuS2s",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/EBbYNE",
-        "label": "Men"
-      },
-      {
-        "url": "",
-        "label": "Kids Clothing"
-      },
-      {
-        "url": "https://ajiio.co/Ol9kFS",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/AOfvkf",
-        "label": "Girls"
-      },
-      {
-        "url": "https://ajiio.co/KYE6Oy",
-        "label": "Infants"
-      }
-    ],
-    "raw_text": "AJIO  Men Polo Tshirts Starts at 140.\n\nhttps://ajiio.co/aomLeT\n\nOversized Tshirts Starts at 190.\n\nWomen : https://ajiio.co/ftuS2s\nMen : https://ajiio.co/EBbYNE\n\nKids Clothing \n\nBoys : https://ajiio.co/Ol9kFS\nGirls : https://ajiio.co/AOfvkf\nInfants : https://ajiio.co/KYE6Oy",
-    "final_url": "https://ajiio.co/aomLeT",
-    "local_image": "assets/images/tgmsg_15147.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-01T04:16:07+00:00",
-    "buy_link": "https://ajiio.co/aomLeT",
-    "date_iso": "2025-11-01T04:16:07+00:00"
-  },
-  {
-    "id": "msg15148",
-    "title": "Philips 9 Watt LED Bulb (Cool Day Light) Pack of 2 @117",
-    "description": "Amazon | Philips 9 Watt LED Bulb (Cool Day Light) Pack of 2 @117. https://www.amazon.in/dp/B09RQK81B9?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B09RQK81B9?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B09RQK81B9?tag=bestpricezo0f-21",
-        "label": "Philips 9 Watt LED Bulb (Cool Day Light) Pack of 2 @117"
-      }
-    ],
-    "raw_text": "Amazon | Philips 9 Watt LED Bulb (Cool Day Light) Pack of 2 @117.\n\nhttps://www.amazon.in/dp/B09RQK81B9?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B09RQK81B9?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15148.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-01T04:26:07+00:00",
-    "buy_link": "https://www.amazon.in/dp/B09RQK81B9?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-01T04:26:07+00:00"
   }
 ]
