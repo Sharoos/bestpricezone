@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15532",
+    "title": "Up to 90% Off On High Star Clothing",
+    "description": "Amazon | Upto 90% Off On High Star Clothing…",
+    "shortlink": "https://www.amazon.in/s?k=High%20Star&rh=p_n_pct-off-with-tax%3A80-100&s=price-asc-rank&d_f_save=80-100&filter-by=0&primestatus=yes&search-term=High%20Star&shortby=2&topbrands=yes&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/s?k=High%20Star&rh=p_n_pct-off-with-tax%3A80-100&s=price-asc-rank&d_f_save=80-100&filter-by=0&primestatus=yes&search-term=High%20Star&shortby=2&topbrands=yes&tag=bestpricezo0f-21",
+        "label": "Upto 90% Off On High Star Clothing"
+      }
+    ],
+    "raw_text": "Amazon | Upto 90% Off On High Star Clothing\n\n👉https://www.amazon.in/s?k=High%20Star&rh=p_n_pct-off-with-tax%3A80-100&s=price-asc-rank&d_f_save=80-100&filter-by=0&primestatus=yes&search-term=High%20Star&shortby=2&topbrands=yes&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?k=High%20Star&rh=p_n_pct-off-with-tax%3A80-100&s=price-asc-rank&d_f_save=80-100&filter-by=0&primestatus=yes&search-term=High%20Star&shortby=2&topbrands=yes&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15532.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-04T04:36:02+00:00",
+    "buy_link": "https://www.amazon.in/s?k=High%20Star&rh=p_n_pct-off-with-tax%3A80-100&s=price-asc-rank&d_f_save=80-100&filter-by=0&primestatus=yes&search-term=High%20Star&shortby=2&topbrands=yes&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-04T04:36:02+00:00"
+  },
+  {
     "id": "msg15530",
     "title": "Up to 75% Off On John Players Brand Clothing",
     "description": "AJIO : Upto 75% Off On John Players Brand Clothing T-Shirts : Jeans : Shirts : + 10% EXTRA AJIO CASH",
@@ -9842,25 +9862,5 @@
     "date_obj": "2025-10-31T17:01:44+00:00",
     "buy_link": "https://fkrt.co/CiXekj",
     "date_iso": "2025-10-31T17:01:44+00:00"
-  },
-  {
-    "id": "msg15111",
-    "title": "Up to 84% Off on Gym Fitness Kits Starting @₹119🔥🔥🔥🔥",
-    "description": "Flipkart | UPTO 84% Off on Gym Fitness Kits Starting @₹119🔥🔥🔥🔥 🔗🔗Links : https://fkrt.co/fPwvG4",
-    "shortlink": "https://fkrt.co/fPwvG4",
-    "urls": [
-      {
-        "url": "https://fkrt.co/fPwvG4",
-        "label": "UPTO 84% Off on Gym Fitness Kits Starting @₹119🔥🔥🔥🔥"
-      }
-    ],
-    "raw_text": "Flipkart | UPTO 84% Off on Gym Fitness Kits Starting @₹119🔥🔥🔥🔥 \n \n🔗🔗Links : https://fkrt.co/fPwvG4",
-    "final_url": "https://fkrt.co/fPwvG4",
-    "local_image": "assets/images/tgmsg_15111.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-31T17:16:15+00:00",
-    "buy_link": "https://fkrt.co/fPwvG4",
-    "date_iso": "2025-10-31T17:16:15+00:00"
   }
 ]
