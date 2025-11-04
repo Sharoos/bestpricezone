@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg15543",
+    "title": "🔥HRX Men's Dry Jogger Pants @335🔥",
+    "description": "Myntra |🔥HRX Men's Dry Jogger Pants  @335🔥 👉Link : https://myntr.in/lYoALW",
+    "shortlink": "https://myntr.in/lYoALW",
+    "urls": [
+      {
+        "url": "https://myntr.in/lYoALW",
+        "label": "🔥HRX Men's Dry Jogger Pants @335🔥"
+      }
+    ],
+    "raw_text": "Myntra |🔥HRX Men's Dry Jogger Pants  @335🔥\n\n👉Link : https://myntr.in/lYoALW",
+    "final_url": "https://myntr.in/lYoALW",
+    "local_image": "assets/images/tgmsg_15543.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-04T06:06:04+00:00",
+    "buy_link": "https://myntr.in/lYoALW",
+    "date_iso": "2025-11-04T06:06:04+00:00"
+  },
+  {
+    "id": "msg15545",
+    "title": "🔥 Denver Perfumes & Deodorants – Up to 52% OFF 🔥",
+    "description": "🔥 Myntra | Denver Perfumes & Deodorants – Up to 52% OFF 🔥 🔗 Shop here: https://myntr.in/Ivkt3A",
+    "shortlink": "https://myntr.in/Ivkt3A",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Myntra | Denver Perfumes & Deodorants – Up to 52% OFF 🔥"
+      },
+      {
+        "url": "https://myntr.in/Ivkt3A",
+        "label": "🔗 Shop here"
+      }
+    ],
+    "raw_text": "🔥 Myntra | Denver Perfumes & Deodorants – Up to 52% OFF 🔥\n\n🔗 Shop here: https://myntr.in/Ivkt3A",
+    "final_url": "https://myntr.in/Ivkt3A",
+    "local_image": "assets/images/tgmsg_15545.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-04T06:21:02+00:00",
+    "buy_link": "https://myntr.in/Ivkt3A",
+    "date_iso": "2025-11-04T06:21:02+00:00"
+  },
+  {
     "id": "msg15540",
     "title": "145",
     "description": "145 :  https://www.amazon.in/dp/B0FNRFX449?social_share=cm_sw_r_apin_dp_020X9QATYF2HY81P3WYM_2&badgeInsights=insights&tag=bestpricezo0f-21",
@@ -9842,53 +9886,5 @@
     "date_obj": "2025-10-31T18:29:05+00:00",
     "buy_link": "https://myntr.it/t3j5yPO",
     "date_iso": "2025-10-31T18:29:05+00:00"
-  },
-  {
-    "id": "msg15121",
-    "title": "Deal Moda Rapido Women Clothing @ ₹99",
-    "description": "Deal | Moda Rapido Women Clothing @ ₹99. https://myntr.in/rbn72F",
-    "shortlink": "https://myntr.in/rbn72F",
-    "urls": [
-      {
-        "url": "https://myntr.in/rbn72F",
-        "label": "Moda Rapido Women Clothing @ ₹99"
-      }
-    ],
-    "raw_text": "Deal | Moda Rapido Women Clothing @ ₹99.\n\n https://myntr.in/rbn72F",
-    "final_url": "https://myntr.in/rbn72F",
-    "local_image": "assets/images/tgmsg_15121.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-31T18:34:06+00:00",
-    "buy_link": "https://myntr.in/rbn72F",
-    "date_iso": "2025-10-31T18:34:06+00:00"
-  },
-  {
-    "id": "msg15123",
-    "title": "🛒 Deal Price ₹11999",
-    "description": "Amazon | 💻 Gaming Monitor Deals Zebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate 🛒 Deal Price: ₹11999",
-    "shortlink": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "💻 Gaming Monitor Deals"
-      },
-      {
-        "url": "",
-        "label": "Zebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹11999"
-      }
-    ],
-    "raw_text": "Amazon | 💻 Gaming Monitor Deals\n\nZebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate\n🛒 Deal Price: ₹11999\n\nhttps://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15123.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-10-31T18:35:16+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-10-31T18:35:16+00:00"
   }
 ]
