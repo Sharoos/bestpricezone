@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg15533",
+    "title": "Additional Coupons + Card Discount",
+    "description": "AJIO Price Drop On Premium Brands. Armani Exchange : Replay : La Martina : G Star Raw : Clarks : GAS, G-Star Raw & GANT Clothing. Men’s : Women’s : *s.",
+    "shortlink": "https://ajiio.co/ioo52h",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Price Drop On Premium Brands"
+      },
+      {
+        "url": "https://ajiio.co/ioo52h",
+        "label": "Armani Exchange"
+      },
+      {
+        "url": "https://ajiio.co/NzEg9Q",
+        "label": "Replay"
+      },
+      {
+        "url": "https://ajiio.co/4wPocU",
+        "label": "La Martina"
+      },
+      {
+        "url": "https://ajiio.co/y9RatE",
+        "label": "G Star Raw"
+      },
+      {
+        "url": "https://ajiio.co/7EzDk7",
+        "label": "Clarks"
+      },
+      {
+        "url": "",
+        "label": "GAS, G-Star Raw & GANT Clothing"
+      },
+      {
+        "url": "https://ajiio.co/qD4bn6",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/pAU52a",
+        "label": "Women’s"
+      },
+      {
+        "url": "",
+        "label": "Additional Coupons + Card Discounts"
+      }
+    ],
+    "raw_text": "AJIO  Price Drop On Premium Brands. \n\nArmani Exchange : https://ajiio.co/ioo52h\nReplay : https://ajiio.co/NzEg9Q\nLa Martina : https://ajiio.co/4wPocU\nG Star Raw : https://ajiio.co/y9RatE\nClarks : https://ajiio.co/7EzDk7\n\nGAS, G-Star Raw & GANT Clothing.\n\nMen’s : https://ajiio.co/qD4bn6\nWomen’s : https://ajiio.co/pAU52a\n\n*Additional Coupons + Card Discounts.",
+    "final_url": "https://ajiio.co/ioo52h",
+    "local_image": "assets/images/tgmsg_15533.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-04T04:51:01+00:00",
+    "buy_link": "https://ajiio.co/ioo52h",
+    "date_iso": "2025-11-04T04:51:01+00:00"
+  },
+  {
     "id": "msg15532",
     "title": "Up to 90% Off On High Star Clothing",
     "description": "Amazon | Upto 90% Off On High Star Clothing…",
@@ -9822,45 +9878,5 @@
     "date_obj": "2025-10-31T17:34:41+00:00",
     "buy_link": "https://myntr.in/cuEEau",
     "date_iso": "2025-10-31T17:34:41+00:00"
-  },
-  {
-    "id": "msg15110",
-    "title": "New Balance Min 50% Off",
-    "description": "Flipkart Branded Footwear 🔥🔥 PUMA Min 60% Off 👉Link : ASICS Min 55% Off 👉Link : Skechers Min 55% Off 👉Link : ADIDAS Min 55% Off 👉Link :  👉Link :",
-    "shortlink": "https://fkrt.co/CiXekj",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart Branded Footwear 🔥🔥"
-      },
-      {
-        "url": "https://fkrt.co/CiXekj",
-        "label": "PUMA Min 60% Off"
-      },
-      {
-        "url": "https://fkrt.co/0mFe2S",
-        "label": "ASICS Min 55% Off"
-      },
-      {
-        "url": "https://fkrt.co/YUm1yn",
-        "label": "Skechers Min 55% Off"
-      },
-      {
-        "url": "https://fkrt.co/1kqRPU",
-        "label": "ADIDAS Min 55% Off"
-      },
-      {
-        "url": "https://fkrt.co/nUnHY2",
-        "label": "New Balance Min 50% Off"
-      }
-    ],
-    "raw_text": "Flipkart Branded Footwear  🔥🔥\n\nPUMA Min 60% Off\n👉Link : https://fkrt.co/CiXekj\n\nASICS Min 55% Off\n👉Link : https://fkrt.co/0mFe2S\n  \nSkechers Min 55% Off\n👉Link : https://fkrt.co/YUm1yn\n\nADIDAS Min 55% Off\n👉Link : https://fkrt.co/1kqRPU\n\nNew Balance Min 50% Off\n👉Link : https://fkrt.co/nUnHY2",
-    "final_url": "https://fkrt.co/CiXekj",
-    "local_image": "assets/images/tgmsg_15110.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-10-31T17:01:44+00:00",
-    "buy_link": "https://fkrt.co/CiXekj",
-    "date_iso": "2025-10-31T17:01:44+00:00"
   }
 ]
