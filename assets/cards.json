@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg15568",
+    "title": "80% Off On Being Human Clothing",
+    "description": "Myntra | 70-. Men | Tshirts : Shirts : Sweatshirts : Jackets : Shorts & Trackpants : Women :",
+    "shortlink": "https://myntr.in/Si0r0j",
+    "urls": [
+      {
+        "url": "",
+        "label": "70-80% Off On Being Human Clothing"
+      },
+      {
+        "url": "https://myntr.in/Si0r0j",
+        "label": "Tshirts"
+      },
+      {
+        "url": "https://myntr.in/hjUttO",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://myntr.in/lUrEjt",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "https://myntr.in/Ip2yXP",
+        "label": "Jackets"
+      },
+      {
+        "url": "https://myntr.in/N0Or2F",
+        "label": "Shorts & Trackpants"
+      },
+      {
+        "url": "https://myntr.in/L0bnKE",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | 70-80% Off On Being Human Clothing.\n\nMen | Tshirts : https://myntr.in/Si0r0j\nShirts : https://myntr.in/hjUttO\nSweatshirts : https://myntr.in/lUrEjt\nJackets : https://myntr.in/Ip2yXP\nShorts & Trackpants : https://myntr.in/N0Or2F\n\nWomen : https://myntr.in/L0bnKE",
+    "final_url": "https://myntr.in/Si0r0j",
+    "local_image": "assets/images/tgmsg_15568.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-04T09:00:01+00:00",
+    "buy_link": "https://myntr.in/Si0r0j",
+    "date_iso": "2025-11-04T09:00:01+00:00"
+  },
+  {
     "id": "msg15563",
     "title": "Noise Icon 2 2025 only at Rs. 849 + Use Code NOISESW23+ Bank offers!!",
     "description": "Myntra | Noise Icon 2 2025 only at Rs. 849 + Use coupon Code NOISESW23+ Bank offers!! 👉 Noise Icon 2 2025 Only at Rs. 859 + Use coupon Code NOISESW22+ Bank offers!! 👉 Noise ColorFit Icon Buzz Only at Rs. 899 + Use…",
@@ -9966,29 +10010,5 @@
     "date_obj": "2025-11-01T04:26:07+00:00",
     "buy_link": "https://www.amazon.in/dp/B09RQK81B9?tag=bestpricezo0f-21",
     "date_iso": "2025-11-01T04:26:07+00:00"
-  },
-  {
-    "id": "msg15145",
-    "title": "Up to 75% Off on Women Kurta Suit Sets Starting @ Just ₹341",
-    "description": "Ajio | Upto 75% Off on Women Kurta Suit Sets Starting @ Just ₹341 👉 Link : 🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "shortlink": "https://ajiio.co/ZueR5l",
-    "urls": [
-      {
-        "url": "https://ajiio.co/ZueR5l",
-        "label": "Upto 75% Off on Women Kurta Suit Sets Starting @ Just ₹341"
-      },
-      {
-        "url": "",
-        "label": "🛍 + Extra 10% AJIO Super Cash! 🎉"
-      }
-    ],
-    "raw_text": "Ajio | Upto 75% Off on Women Kurta Suit Sets Starting @ Just ₹341\n \n👉 Link : https://ajiio.co/ZueR5l\n\n🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "final_url": "https://ajiio.co/ZueR5l",
-    "local_image": "assets/images/tgmsg_15145.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-01T04:05:13+00:00",
-    "buy_link": "https://ajiio.co/ZueR5l",
-    "date_iso": "2025-11-01T04:05:13+00:00"
   }
 ]
