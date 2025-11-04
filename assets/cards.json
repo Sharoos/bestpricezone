@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg15547",
+    "title": "Grocery – Up to 90% Off + Extra Saving",
+    "description": "Flipkart s 🛒 Main Link: Category Picks: • Atta/Rice → • Oil/Ghee → • Snacks → • Oral Care → • Tea/Coffee → 💥 Extra Offers: ₹100 Off ₹2999+ | ₹200 Off ₹3999+ | ₹200 Off (SBI ₹2499+) | 5% Off (FK Axis)",
+    "shortlink": "https://fkrt.co/D4V4jm",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart Grocery – Up to 90% Off + Extra Savings"
+      },
+      {
+        "url": "https://fkrt.co/D4V4jm",
+        "label": "🛒 Main"
+      },
+      {
+        "url": "",
+        "label": "Category Picks"
+      },
+      {
+        "url": "https://fkrt.co/Y6JDpb",
+        "label": "Atta/Rice →"
+      },
+      {
+        "url": "https://fkrt.co/3vME9n",
+        "label": "Oil/Ghee →"
+      },
+      {
+        "url": "https://fkrt.co/o77Fkb",
+        "label": "Snacks →"
+      },
+      {
+        "url": "https://fkrt.co/bbCaDO",
+        "label": "Oral Care →"
+      },
+      {
+        "url": "https://fkrt.co/lDyrt9",
+        "label": "Tea/Coffee →"
+      },
+      {
+        "url": "",
+        "label": "💥 Extra Offers: ₹100 Off ₹2999+ | ₹200 Off ₹3999+ | ₹200 Off (SBI ₹2499+) | 5% Off (FK Axis)"
+      }
+    ],
+    "raw_text": "Flipkart Grocery  – Up to 90% Off + Extra Savings\n\n🛒 Main Link: https://fkrt.co/D4V4jm\n\nCategory Picks:\n• Atta/Rice → https://fkrt.co/Y6JDpb\n• Oil/Ghee → https://fkrt.co/3vME9n\n• Snacks → https://fkrt.co/o77Fkb\n• Oral Care → https://fkrt.co/bbCaDO\n• Tea/Coffee → https://fkrt.co/lDyrt9\n\n💥 Extra Offers: ₹100 Off ₹2999+ | ₹200 Off ₹3999+ | ₹200 Off (SBI ₹2499+) | 5% Off (FK Axis)",
+    "final_url": "https://fkrt.co/D4V4jm",
+    "local_image": "assets/images/tgmsg_15547.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-04T06:51:06+00:00",
+    "buy_link": "https://fkrt.co/D4V4jm",
+    "date_iso": "2025-11-04T06:51:06+00:00"
+  },
+  {
     "id": "msg15543",
     "title": "🔥HRX Men's Dry Jogger Pants @335🔥",
     "description": "Myntra |🔥HRX Men's Dry Jogger Pants  @335🔥 👉Link : https://myntr.in/lYoALW",
@@ -9866,25 +9918,5 @@
     "date_obj": "2025-10-31T18:27:29+00:00",
     "buy_link": "https://myntr.it/eFgVQ8U",
     "date_iso": "2025-10-31T18:27:29+00:00"
-  },
-  {
-    "id": "msg15119",
-    "title": "99",
-    "description": "Loot 99 https://myntr.it/t3j5yPO",
-    "shortlink": "https://myntr.it/t3j5yPO",
-    "urls": [
-      {
-        "url": "https://myntr.it/t3j5yPO",
-        "label": "Loot 99"
-      }
-    ],
-    "raw_text": "Loot 99 \n\nhttps://myntr.it/t3j5yPO",
-    "final_url": "https://myntr.it/t3j5yPO",
-    "local_image": "assets/images/tgmsg_15119.jpg",
-    "source_host": "myntr.it",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-31T18:29:05+00:00",
-    "buy_link": "https://myntr.it/t3j5yPO",
-    "date_iso": "2025-10-31T18:29:05+00:00"
   }
 ]
