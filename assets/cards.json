@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15528",
+    "title": "Up to 80% Off On Levi's Sneake",
+    "description": "Amazon | Upto 80% Off On Levi's Sneakers.…",
+    "shortlink": "https://www.amazon.in/s?k=Levi%27s&i=shoes&rh=n%3A1571283031%2Cp_123%3A200356%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&dc=&crid=3NV26R0CFMBAB&qid=1759344075&sprefix=levi%27s%20%2Cshoes%2C248&ds=v1%3AOg8x24u0LJdrnxgxh8KOXSnxhhaISK7mUUMVuJtbHgc&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/s?k=Levi%27s&i=shoes&rh=n%3A1571283031%2Cp_123%3A200356%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&dc=&crid=3NV26R0CFMBAB&qid=1759344075&sprefix=levi%27s%20%2Cshoes%2C248&ds=v1%3AOg8x24u0LJdrnxgxh8KOXSnxhhaISK7mUUMVuJtbHgc&tag=bestpricezo0f-21",
+        "label": "Upto 80% Off On Levi's Sneakers"
+      }
+    ],
+    "raw_text": "Amazon | Upto 80% Off On Levi's Sneakers.\n\nhttps://www.amazon.in/s?k=Levi%27s&i=shoes&rh=n%3A1571283031%2Cp_123%3A200356%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&dc=&crid=3NV26R0CFMBAB&qid=1759344075&sprefix=levi%27s%20%2Cshoes%2C248&ds=v1%3AOg8x24u0LJdrnxgxh8KOXSnxhhaISK7mUUMVuJtbHgc&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?k=Levi%27s&i=shoes&rh=n%3A1571283031%2Cp_123%3A200356%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&dc=&crid=3NV26R0CFMBAB&qid=1759344075&sprefix=levi%27s%20%2Cshoes%2C248&ds=v1%3AOg8x24u0LJdrnxgxh8KOXSnxhhaISK7mUUMVuJtbHgc&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15528.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-04T03:36:47+00:00",
+    "buy_link": "https://www.amazon.in/s?k=Levi%27s&i=shoes&rh=n%3A1571283031%2Cp_123%3A200356%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&dc=&crid=3NV26R0CFMBAB&qid=1759344075&sprefix=levi%27s%20%2Cshoes%2C248&ds=v1%3AOg8x24u0LJdrnxgxh8KOXSnxhhaISK7mUUMVuJtbHgc&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-04T03:36:47+00:00"
+  },
+  {
     "id": "msg15521",
     "title": "Cetaphil Cleansing & Moisturizing Syndet Bar 4x100gm @₹360",
     "description": "Amazon | Cetaphil Cleansing & Moisturizing Syndet Bar 4x100gm @₹360 https://www.amazon.in/dp/B0DFMG2ZDC?tag=bestpricezo0f-21",
@@ -9814,25 +9834,5 @@
     "date_obj": "2025-10-31T16:16:52+00:00",
     "buy_link": "https://myntr.in/tle9tY",
     "date_iso": "2025-10-31T16:16:52+00:00"
-  },
-  {
-    "id": "msg15107",
-    "title": "Up to 75% Off On Premium Winter Blanket",
-    "description": "Myntra : Upto 75% Off On Premium Winter Blankets. https://myntr.in/1JVyqq",
-    "shortlink": "https://myntr.in/1JVyqq",
-    "urls": [
-      {
-        "url": "https://myntr.in/1JVyqq",
-        "label": "Upto 75% Off On Premium Winter Blankets"
-      }
-    ],
-    "raw_text": "Myntra : Upto 75% Off On Premium Winter Blankets.\n\nhttps://myntr.in/1JVyqq",
-    "final_url": "https://myntr.in/1JVyqq",
-    "local_image": "assets/images/tgmsg_15107.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-31T16:26:44+00:00",
-    "buy_link": "https://myntr.in/1JVyqq",
-    "date_iso": "2025-10-31T16:26:44+00:00"
   }
 ]
