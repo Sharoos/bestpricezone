@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg15584",
+    "title": "🛒 Deal Price ₹242",
+    "description": "Amazon | Portronics Mobot Clip Mobile Holder with 360° Adjustable Angles 🛒 Deal Price: ₹242 👉",
+    "shortlink": "https://www.amazon.in/Portronics-Adjustable-Friendly-Compatible-Smartphones/dp/B0CW9WYR7Q?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Portronics Mobot Clip Mobile Holder with 360° Adjustable Angles"
+      },
+      {
+        "url": "https://www.amazon.in/Portronics-Adjustable-Friendly-Compatible-Smartphones/dp/B0CW9WYR7Q?th=1&language=en_IN&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹242"
+      }
+    ],
+    "raw_text": "Amazon | Portronics Mobot Clip Mobile Holder with 360° Adjustable Angles\n\n🛒 Deal Price: ₹242\n\n👉 https://www.amazon.in/Portronics-Adjustable-Friendly-Compatible-Smartphones/dp/B0CW9WYR7Q?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/Portronics-Adjustable-Friendly-Compatible-Smartphones/dp/B0CW9WYR7Q?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15584.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-04T11:31:31+00:00",
+    "buy_link": "https://www.amazon.in/Portronics-Adjustable-Friendly-Compatible-Smartphones/dp/B0CW9WYR7Q?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-04T11:31:31+00:00"
+  },
+  {
     "id": "msg15581",
     "title": "🛒 Deal Price ₹45",
     "description": "Myntra | Colors Queen Matte Lip Liner 🛒 Deal Price: ₹45 👉 https://myntr.in/TMLK6D",
@@ -9942,25 +9966,5 @@
     "date_obj": "2025-11-01T06:46:11+00:00",
     "buy_link": "https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
     "date_iso": "2025-11-01T06:46:11+00:00"
-  },
-  {
-    "id": "msg15156",
-    "title": "91% Off Table Lamp At 276",
-    "description": "91% Off : Table Lamp At 276. https://www.amazon.in/dp/B0CLZQNJSC?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CLZQNJSC?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CLZQNJSC?tag=bestpricezo0f-21",
-        "label": "91% Off : Table Lamp At 276"
-      }
-    ],
-    "raw_text": "91% Off : Table Lamp At 276.\n\nhttps://www.amazon.in/dp/B0CLZQNJSC?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CLZQNJSC?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15156.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-01T05:57:18+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CLZQNJSC?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-01T05:57:18+00:00"
   }
 ]
