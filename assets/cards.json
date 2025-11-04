@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15627",
+    "title": "Up to 82% Off On Handbags Starting From Rs.125",
+    "description": "Flipkart | Upto 82% Off On Handbags Starting From Rs.125 👉Link : https://fkrt.co/xtHzBE",
+    "shortlink": "https://fkrt.co/xtHzBE",
+    "urls": [
+      {
+        "url": "https://fkrt.co/xtHzBE",
+        "label": "Upto 82% Off On Handbags Starting From Rs.125"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 82% Off On Handbags Starting From Rs.125\n\n👉Link : https://fkrt.co/xtHzBE",
+    "final_url": "https://fkrt.co/xtHzBE",
+    "local_image": "assets/images/tgmsg_15627.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-04T17:34:40+00:00",
+    "buy_link": "https://fkrt.co/xtHzBE",
+    "date_iso": "2025-11-04T17:34:40+00:00"
+  },
+  {
     "id": "msg15624",
     "title": "OLAY AT 60% OFF , NEVER BEFORE😱😱😱😱",
     "description": "Myntra | OLAY AT 60% OFF , NEVER BEFORE😱😱😱😱 - https://myntr.in/tCoMM0",
@@ -9974,33 +9994,5 @@
     "date_obj": "2025-11-01T13:12:07+00:00",
     "buy_link": "https://ajiio.co/onFHOM",
     "date_iso": "2025-11-01T13:12:07+00:00"
-  },
-  {
-    "id": "msg15194",
-    "title": "Up to 83% Off On Here & Now Clothing",
-    "description": "Myntra | Upto 83% Off On Here & Now Clothing. Men's : https://myntr.in/f61nGu Women's : https://myntr.in/EEG1Cz",
-    "shortlink": "https://myntr.in/f61nGu",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 83% Off On Here & Now Clothing"
-      },
-      {
-        "url": "https://myntr.in/f61nGu",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/EEG1Cz",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "Myntra | Upto 83% Off On Here & Now Clothing.\n\nMen's : https://myntr.in/f61nGu\nWomen's : https://myntr.in/EEG1Cz",
-    "final_url": "https://myntr.in/f61nGu",
-    "local_image": "assets/images/tgmsg_15194.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-01T12:22:02+00:00",
-    "buy_link": "https://myntr.in/f61nGu",
-    "date_iso": "2025-11-01T12:22:02+00:00"
   }
 ]
