@@ -1,5 +1,77 @@
 [
   {
+    "id": "msg15619",
+    "title": "DNMX Clothing Starts @ Rs.101 + Bank offe",
+    "description": "AJIO rs Men’s : T-Shirts : Jeans : Shirts : Sweaters & Cardigans : Sweatshirt & Hoodies : Shorts : Trousers & Jogger : Women's : T-shirts : Shirts & Tops : Jeans & Jeggings : Sweatshirts : Shirts : Jackets :",
+    "shortlink": "https://ajiio.co/Eb9CAq",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO DNMX Clothing Starts @ Rs.101 + Bank offers"
+      },
+      {
+        "url": "https://ajiio.co/Eb9CAq",
+        "label": "T-Shirts"
+      },
+      {
+        "url": "https://ajiio.co/Hbr0no",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/xSiyXu",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/ny9hlL",
+        "label": "Sweaters & Cardigans"
+      },
+      {
+        "url": "https://ajiio.co/3TEf1a",
+        "label": "Sweatshirt & Hoodies"
+      },
+      {
+        "url": "https://ajiio.co/gSJGCS",
+        "label": "Shorts"
+      },
+      {
+        "url": "https://ajiio.co/LnM4Vh",
+        "label": "Trousers & Jogger"
+      },
+      {
+        "url": "https://ajiio.co/dNiXU7",
+        "label": "T-shirts"
+      },
+      {
+        "url": "https://ajiio.co/BkKV67",
+        "label": "Shirts & Tops"
+      },
+      {
+        "url": "https://ajiio.co/PI3Dfn",
+        "label": "Jeans & Jeggings"
+      },
+      {
+        "url": "https://ajiio.co/SmHaT4",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "https://ajiio.co/2ncuAQ",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/DsxmRN",
+        "label": "Jackets"
+      }
+    ],
+    "raw_text": "AJIO  DNMX Clothing Starts @ Rs.101 + Bank offers \n\nMen’s : \nT-Shirts : https://ajiio.co/Eb9CAq \nJeans : https://ajiio.co/Hbr0no \nShirts : https://ajiio.co/xSiyXu \nSweaters & Cardigans : https://ajiio.co/ny9hlL \nSweatshirt & Hoodies : https://ajiio.co/3TEf1a \nShorts : https://ajiio.co/gSJGCS \nTrousers & Jogger : https://ajiio.co/LnM4Vh \n\nWomen's : \nT-shirts : https://ajiio.co/dNiXU7 \nShirts & Tops : https://ajiio.co/BkKV67 \nJeans & Jeggings : https://ajiio.co/PI3Dfn \nSweatshirts : https://ajiio.co/SmHaT4 \nShirts : https://ajiio.co/2ncuAQ \nJackets : https://ajiio.co/DsxmRN",
+    "final_url": "https://ajiio.co/Eb9CAq",
+    "local_image": "assets/images/tgmsg_15619.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-04T16:06:33+00:00",
+    "buy_link": "https://ajiio.co/Eb9CAq",
+    "date_iso": "2025-11-04T16:06:33+00:00"
+  },
+  {
     "id": "msg15617",
     "title": "Up to 62% Off On Lakme Beauty Product",
     "description": "Amazon | Upto 62% Off On Lakme Beauty Products Upto 50% Off On Biotique Beauty Products",
@@ -10006,37 +10078,5 @@
     "date_obj": "2025-11-01T10:46:14+00:00",
     "buy_link": "https://ajiio.co/Sd610S",
     "date_iso": "2025-11-01T10:46:14+00:00"
-  },
-  {
-    "id": "msg15186",
-    "title": "Grocery Up to 92% Off",
-    "description": "Flipkart Grocery Loot : Upto 92% Off Link 1 : Link 2 : Link 3 : Location Specific",
-    "shortlink": "https://fktr.in/pa8yb4F",
-    "urls": [
-      {
-        "url": "https://fktr.in/pa8yb4F",
-        "label": "Upto 92% Off"
-      },
-      {
-        "url": "https://fktr.in/FK4B799",
-        "label": "Upto 92% Off"
-      },
-      {
-        "url": "https://fktr.in/8KzL4an",
-        "label": "Upto 92% Off"
-      },
-      {
-        "url": "",
-        "label": "Location Specific"
-      }
-    ],
-    "raw_text": "Flipkart Grocery Loot : Upto 92% Off\n\nLink 1 :   https://fktr.in/pa8yb4F\nLink 2 :   https://fktr.in/FK4B799\nLink 3 :   https://fktr.in/8KzL4an\n\nLocation Specific",
-    "final_url": "https://fktr.in/pa8yb4F",
-    "local_image": "assets/images/tgmsg_15186.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-01T10:49:12+00:00",
-    "buy_link": "https://fktr.in/pa8yb4F",
-    "date_iso": "2025-11-01T10:49:12+00:00"
   }
 ]
