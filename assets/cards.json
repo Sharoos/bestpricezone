@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg15529",
+    "title": "Bellavita Perfume Combo (Pack of 2) @ 219",
+    "description": "Flipkart  Bellavita Perfume Combo (Pack of 2) @  219 https://fkrt.co/Hd3xff https://fkrt.co/ai6I2R",
+    "shortlink": "https://fkrt.co/Hd3xff",
+    "urls": [
+      {
+        "url": "https://fkrt.co/Hd3xff",
+        "label": "Flipkart Bellavita Perfume Combo (Pack of 2) @ 219"
+      },
+      {
+        "url": "https://fkrt.co/ai6I2R",
+        "label": "Flipkart Bellavita Perfume Combo (Pack of 2) @ 219"
+      }
+    ],
+    "raw_text": "Flipkart  Bellavita Perfume Combo (Pack of 2) @  219\n\nhttps://fkrt.co/Hd3xff\nhttps://fkrt.co/ai6I2R",
+    "final_url": "https://fkrt.co/Hd3xff",
+    "local_image": "assets/images/tgmsg_15529.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-04T03:50:50+00:00",
+    "buy_link": "https://fkrt.co/Hd3xff",
+    "date_iso": "2025-11-04T03:50:50+00:00"
+  },
+  {
     "id": "msg15528",
     "title": "Up to 80% Off On Levi's Sneake",
     "description": "Amazon | Upto 80% Off On Levi's Sneakers.…",
@@ -9814,25 +9838,5 @@
     "date_obj": "2025-10-31T16:16:44+00:00",
     "buy_link": "https://ajiio.co/SSqlCp",
     "date_iso": "2025-10-31T16:16:44+00:00"
-  },
-  {
-    "id": "msg15104",
-    "title": "Min 80% off On HAUTE SAUCE Womens handbag",
-    "description": "Myntra | Min 80% off On HAUTE SAUCE Womens handbags * https://myntr.in/tle9tY",
-    "shortlink": "https://myntr.in/tle9tY",
-    "urls": [
-      {
-        "url": "https://myntr.in/tle9tY",
-        "label": "Min 80% off On HAUTE SAUCE Womens handbags"
-      }
-    ],
-    "raw_text": "Myntra | Min 80% off On HAUTE SAUCE Womens handbags\n* \nhttps://myntr.in/tle9tY",
-    "final_url": "https://myntr.in/tle9tY",
-    "local_image": "assets/images/tgmsg_15104.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-10-31T16:16:52+00:00",
-    "buy_link": "https://myntr.in/tle9tY",
-    "date_iso": "2025-10-31T16:16:52+00:00"
   }
 ]
