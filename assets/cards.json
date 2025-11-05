@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg15722",
+    "title": "🛒 Deal Price ₹150",
+    "description": "Amazon | 🎒 Backpack Bonanza - Combo Set of 2! 🛒 Deal Price: ₹150 👉 https://www.amazon.in/dp/B0FNKHH7FV?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FNKHH7FV?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "🎒 Backpack Bonanza - Combo Set of 2!"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0FNKHH7FV?tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹150"
+      }
+    ],
+    "raw_text": "Amazon | 🎒 Backpack Bonanza - Combo Set of 2!\n\n🛒 Deal Price: ₹150\n\n👉 https://www.amazon.in/dp/B0FNKHH7FV?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FNKHH7FV?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15722.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-05T10:15:28+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FNKHH7FV?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-05T10:15:28+00:00"
+  },
+  {
     "id": "msg15721",
     "title": "Winter Blankets starting @ 299",
     "description": "Myntra | Winter Blankets starting @ 299 👉 https://myntr.in/LNr13q",
@@ -9406,25 +9430,5 @@
     "date_obj": "2025-11-02T13:05:25+00:00",
     "buy_link": "https://www.amazon.in/dp/B071Z8M4KX?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-02T13:05:25+00:00"
-  },
-  {
-    "id": "msg15304",
-    "title": "Up to 80% Off on Branded Perfumes Starting @₹99🔥🔥🔥🔥",
-    "description": "Myntra | UPTO 80% Off on Branded Perfumes Starting @₹99🔥🔥🔥🔥 🔗🔗Links : https://myntr.in/S2gtSI",
-    "shortlink": "https://myntr.in/S2gtSI",
-    "urls": [
-      {
-        "url": "https://myntr.in/S2gtSI",
-        "label": "UPTO 80% Off on Branded Perfumes Starting @₹99🔥🔥🔥🔥"
-      }
-    ],
-    "raw_text": "Myntra | UPTO 80% Off on Branded Perfumes Starting @₹99🔥🔥🔥🔥 \n \n🔗🔗Links : https://myntr.in/S2gtSI",
-    "final_url": "https://myntr.in/S2gtSI",
-    "local_image": "assets/images/tgmsg_15304.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-02T12:02:54+00:00",
-    "buy_link": "https://myntr.in/S2gtSI",
-    "date_iso": "2025-11-02T12:02:54+00:00"
   }
 ]
