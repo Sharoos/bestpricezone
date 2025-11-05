@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg15792",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
+    "description": "Ajio | Beauty and Personal Care Under 399 👉Link : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/ACz0TO",
+    "urls": [
+      {
+        "url": "https://ajiio.co/ACz0TO",
+        "label": "Beauty and Personal Care Under 399"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "Ajio | Beauty and Personal Care Under 399\n\n👉Link : https://ajiio.co/ACz0TO\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/ACz0TO",
+    "local_image": "assets/images/tgmsg_15792.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-05T17:51:29+00:00",
+    "buy_link": "https://ajiio.co/ACz0TO",
+    "date_iso": "2025-11-05T17:51:29+00:00"
+  },
+  {
     "id": "msg15790",
     "title": "Beauty Product",
     "description": "AJIO : Beauty Products. Cetaphil : https://ajiio.co/cJLpEg Lakme : https://ajiio.co/1Vj7V5 More Products : https://ajiio.co/8nQjSJ",
@@ -9534,53 +9558,5 @@
     "date_obj": "2025-11-03T03:31:19+00:00",
     "buy_link": "https://ajiio.co/3setUy",
     "date_iso": "2025-11-03T03:31:19+00:00"
-  },
-  {
-    "id": "msg15378",
-    "title": "Flat 60% Off on Lakme Set of Perfect Radiance Day Creme 50 g + Night Creme 50 g + Face Wash 50 g",
-    "description": "Myntra | : Flat 65% Off on TRESemme Set of Keratin Smooth Shampoo 1 L & Anti-Frizz Hair Serum 50 ml: Flat 66% Off on TRESemme Set of Keratin Smooth Shampoo - 1000 ml & Conditioner - 340 ml: Flat 65% Off on TRESemme…",
-    "shortlink": "https://myntr.in/aAAYsm",
-    "urls": [
-      {
-        "url": "https://myntr.in/aAAYsm",
-        "label": "Flat 60% Off on Lakme Set of Perfect Radiance Day Creme 50 g + Night Creme 50 g + Face Wash 50 g"
-      },
-      {
-        "url": "https://myntr.in/JLtwN0",
-        "label": "Flat 65% Off on TRESemme Set of Keratin Smooth Shampoo 1 L & Anti-Frizz Hair Serum 50 ml"
-      },
-      {
-        "url": "https://myntr.in/m1FYh0",
-        "label": "Flat 66% Off on TRESemme Set of Keratin Smooth Shampoo - 1000 ml & Conditioner - 340 ml"
-      },
-      {
-        "url": "https://myntr.in/YySXOL",
-        "label": "Flat 65% Off on TRESemme Keratin Smooth Shampoo 1L & Mask 300ml"
-      },
-      {
-        "url": "https://myntr.in/J2DSzS",
-        "label": "Flat 43% Off on Love Beauty & Planet Smooth & Serene Argan Oil Shampoo with Conditioner - 200ml each"
-      },
-      {
-        "url": "https://myntr.in/mRzsFV",
-        "label": "Flat 65% Off on TRESemme Set of Hair Fall Defense Pro Collection Shampoo & Conditioner"
-      },
-      {
-        "url": "https://myntr.in/5uf4iM",
-        "label": "Flat 63% Off on Lakme Set of 4 Eyeconic Kajal 0.35g Each - Deep Black"
-      },
-      {
-        "url": "https://myntr.in/niW0jy",
-        "label": "Flat 65% Off on Dove Hair Fall Rescue Shampoo 1L & Intense Repair Hair Conditioner 175ml"
-      }
-    ],
-    "raw_text": "Myntra | Flat 60% Off on Lakme Set of Perfect Radiance Day Creme 50 g + Night Creme 50 g + Face Wash 50 g: https://myntr.in/aAAYsm\n\nFlat 65% Off on TRESemme Set of Keratin Smooth Shampoo 1 L & Anti-Frizz Hair Serum 50 ml: https://myntr.in/JLtwN0\n\nFlat 66% Off on TRESemme Set of Keratin Smooth Shampoo - 1000 ml & Conditioner - 340 ml: https://myntr.in/m1FYh0\n\nFlat 65% Off on TRESemme Keratin Smooth Shampoo 1L & Mask 300ml: https://myntr.in/YySXOL\n\nFlat 43% Off on Love Beauty & Planet Smooth & Serene Argan Oil Shampoo with Conditioner - 200ml each: https://myntr.in/J2DSzS\n\nFlat 65% Off on TRESemme Set of Hair Fall Defense Pro Collection Shampoo & Conditioner: https://myntr.in/mRzsFV\n\nFlat 63% Off on Lakme Set of 4 Eyeconic Kajal 0.35g Each - Deep Black: https://myntr.in/5uf4iM\n\nFlat 65% Off on Dove Hair Fall Rescue Shampoo 1L & Intense Repair Hair Conditioner 175ml: https://myntr.in/niW0jy",
-    "final_url": "https://myntr.in/aAAYsm",
-    "local_image": "assets/images/tgmsg_15378.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-02T19:20:20+00:00",
-    "buy_link": "https://myntr.in/aAAYsm",
-    "date_iso": "2025-11-02T19:20:20+00:00"
   }
 ]
