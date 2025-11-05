@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15689",
+    "title": "70% off",
+    "description": "Myntra | L’Oréal Total Repair 5 - 70% off. 👉 https://myntr.in/XdYPP8",
+    "shortlink": "https://myntr.in/XdYPP8",
+    "urls": [
+      {
+        "url": "https://myntr.in/XdYPP8",
+        "label": "L’Oréal Total Repair 5 - 70% off"
+      }
+    ],
+    "raw_text": "Myntra | L’Oréal Total Repair 5 - 70% off.   \n\n👉 https://myntr.in/XdYPP8",
+    "final_url": "https://myntr.in/XdYPP8",
+    "local_image": "assets/images/tgmsg_15689.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-05T04:18:16+00:00",
+    "buy_link": "https://myntr.in/XdYPP8",
+    "date_iso": "2025-11-05T04:18:16+00:00"
+  },
+  {
     "id": "msg15686",
     "title": "Crompton 9W LED Bulb (Pack of 2) @ ₹87",
     "description": "Flipkart | Crompton 9W LED Bulb (Pack of 2) @ ₹87. https://fkrt.co/H8oQvc",
@@ -9462,45 +9482,5 @@
     "date_obj": "2025-11-02T08:36:01+00:00",
     "buy_link": "https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
     "date_iso": "2025-11-02T08:36:01+00:00"
-  },
-  {
-    "id": "msg15279",
-    "title": "Up to 80% Off On Raymond, Park Avenue & Parx Clothing",
-    "description": "Ajio Upto 80% Off On Raymond, Park Avenue & Parx Clothing. Shirt : Trousers : T-shirt : Jeans : Womens :",
-    "shortlink": "https://ajiio.co/Fdnbeh",
-    "urls": [
-      {
-        "url": "",
-        "label": "Ajio Upto 80% Off On Raymond, Park Avenue & Parx Clothing"
-      },
-      {
-        "url": "https://ajiio.co/Fdnbeh",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://ajiio.co/hgiAFD",
-        "label": "Trousers"
-      },
-      {
-        "url": "https://ajiio.co/sUtJZ5",
-        "label": "T-shirt"
-      },
-      {
-        "url": "https://ajiio.co/OAmWjf",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/ukJzGA",
-        "label": "Womens"
-      }
-    ],
-    "raw_text": "Ajio  Upto 80% Off On Raymond, Park Avenue & Parx Clothing.\n\nShirt : https://ajiio.co/Fdnbeh\nTrousers : https://ajiio.co/hgiAFD\nT-shirt : https://ajiio.co/sUtJZ5\nJeans : https://ajiio.co/OAmWjf\n\nWomens : https://ajiio.co/ukJzGA",
-    "final_url": "https://ajiio.co/Fdnbeh",
-    "local_image": "assets/images/tgmsg_15279.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-02T08:03:49+00:00",
-    "buy_link": "https://ajiio.co/Fdnbeh",
-    "date_iso": "2025-11-02T08:03:49+00:00"
   }
 ]
