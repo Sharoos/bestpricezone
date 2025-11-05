@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg15694",
+    "title": "Up to 80% Off On Spykar Clothing",
+    "description": "Ajio : Topwear Clothing Under ₹149. Men's : Women's : Boy’s : Girl’s : Baby : Levi’s Jeans Starts @696. Women's : Men's : Upto 80% Off On Spykar Clothing. Men's : Women's :",
+    "shortlink": "https://ajiio.co/QhUCJl",
+    "urls": [
+      {
+        "url": "",
+        "label": "Topwear Clothing Under ₹149"
+      },
+      {
+        "url": "https://ajiio.co/QhUCJl",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/Od5F62",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/WTHRRh",
+        "label": "Boy’s"
+      },
+      {
+        "url": "https://ajiio.co/O8iZpS",
+        "label": "Girl’s"
+      },
+      {
+        "url": "https://ajiio.co/k6ADHp",
+        "label": "Baby"
+      },
+      {
+        "url": "",
+        "label": "Levi’s Jeans Starts @696"
+      },
+      {
+        "url": "https://ajiio.co/Z4VPBT",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/q9MdLj",
+        "label": "Men's"
+      },
+      {
+        "url": "",
+        "label": "Upto 80% Off On Spykar Clothing"
+      },
+      {
+        "url": "https://ajiio.co/zOck1J",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/tBAM4w",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Ajio  : Topwear Clothing Under ₹149.\n\nMen's : https://ajiio.co/QhUCJl\nWomen's : https://ajiio.co/Od5F62\nBoy’s : https://ajiio.co/WTHRRh\nGirl’s : https://ajiio.co/O8iZpS\nBaby : https://ajiio.co/k6ADHp\n\nLevi’s Jeans Starts @696.\n\nWomen's : https://ajiio.co/Z4VPBT\nMen's : https://ajiio.co/q9MdLj\n\nUpto 80% Off On Spykar Clothing.\n\nMen's : https://ajiio.co/zOck1J\nWomen's : https://ajiio.co/tBAM4w",
+    "final_url": "https://ajiio.co/QhUCJl",
+    "local_image": "assets/images/tgmsg_15694.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-05T05:11:30+00:00",
+    "buy_link": "https://ajiio.co/QhUCJl",
+    "date_iso": "2025-11-05T05:11:30+00:00"
+  },
+  {
     "id": "msg15692",
     "title": "🔥 Denver Perfumes & Deodorants – Up to 52% OFF 🔥",
     "description": "🔥 Myntra | Denver Perfumes & Deodorants – Up to 52% OFF 🔥 🔗 Shop here: https://myntr.in/FgG13J",
@@ -9474,33 +9538,5 @@
     "date_obj": "2025-11-02T09:02:28+00:00",
     "buy_link": "https://ajiio.co/kekBx4",
     "date_iso": "2025-11-02T09:02:28+00:00"
-  },
-  {
-    "id": "msg15287",
-    "title": "🔥Clogs Start ₹140",
-    "description": "🔥AJIO  Clogs Start ₹140 Men's : https://ajiio.co/iB4tTV Women's : https://ajiio.co/gjXvMs",
-    "shortlink": "https://ajiio.co/iB4tTV",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥AJIO Clogs Start ₹140"
-      },
-      {
-        "url": "https://ajiio.co/iB4tTV",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/gjXvMs",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "🔥AJIO  Clogs Start ₹140\n\nMen's : https://ajiio.co/iB4tTV\nWomen's : https://ajiio.co/gjXvMs",
-    "final_url": "https://ajiio.co/iB4tTV",
-    "local_image": "assets/images/tgmsg_15287.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-02T09:15:57+00:00",
-    "buy_link": "https://ajiio.co/iB4tTV",
-    "date_iso": "2025-11-02T09:15:57+00:00"
   }
 ]
