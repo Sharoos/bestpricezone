@@ -1,5 +1,105 @@
 [
   {
+    "id": "msg15779",
+    "title": "🛒 Deal Price From ₹782",
+    "description": "Myntra | 👕 Levi's Men's Clothing - Flat 73% Off 👖 Levi's Jeans 🛒 Deal Price: From ₹782 👕 Levi's T-Shirts 👔 Levi's Shirts 👖 Levi's Trousers 🧥 Levi's Winterwear",
+    "shortlink": "https://myntr.in/G1opeh",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 Levi's Men's Clothing - Flat 73% Off"
+      },
+      {
+        "url": "",
+        "label": "👖 Levi's Jeans"
+      },
+      {
+        "url": "https://myntr.in/G1opeh",
+        "label": "🛒 Deal Price: From ₹782"
+      },
+      {
+        "url": "https://myntr.in/uEWEcG",
+        "label": "👕 Levi's T-Shirts"
+      },
+      {
+        "url": "https://myntr.in/aRNFwJ",
+        "label": "👔 Levi's Shirts"
+      },
+      {
+        "url": "https://myntr.in/Sb47KG",
+        "label": "👖 Levi's Trousers"
+      },
+      {
+        "url": "https://myntr.in/pPT9RK",
+        "label": "🧥 Levi's Winterwear"
+      }
+    ],
+    "raw_text": "Myntra | 👕 Levi's Men's Clothing - Flat 73% Off\n\n👖 Levi's Jeans\n🛒 Deal Price: From ₹782\nhttps://myntr.in/G1opeh\n\n👕 Levi's T-Shirts\nhttps://myntr.in/uEWEcG\n\n👔 Levi's Shirts\nhttps://myntr.in/aRNFwJ\n\n👖 Levi's Trousers\nhttps://myntr.in/Sb47KG\n\n🧥 Levi's Winterwear\nhttps://myntr.in/pPT9RK",
+    "final_url": "https://myntr.in/G1opeh",
+    "local_image": "assets/images/tgmsg_15779.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-05T16:41:39+00:00",
+    "buy_link": "https://myntr.in/G1opeh",
+    "date_iso": "2025-11-05T16:41:39+00:00"
+  },
+  {
+    "id": "msg15780",
+    "title": "Up to 70% Off on Top Beauty Products 🔥🔥",
+    "description": "Flipkart : Upto 70% Off on Top Beauty Products 🔥🔥 Nivea: Ponds: Vaseline: Lakme: Park Avenue: Clean & Clear: Everyuth: Yardley London: Denver:",
+    "shortlink": "https://fkrt.co/EGwTUS",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70% Off on Top Beauty Products 🔥🔥"
+      },
+      {
+        "url": "https://fkrt.co/EGwTUS",
+        "label": "Nivea"
+      },
+      {
+        "url": "https://fkrt.co/8dtfW4",
+        "label": "Ponds"
+      },
+      {
+        "url": "https://fkrt.co/XtM8Yc",
+        "label": "Vaseline"
+      },
+      {
+        "url": "https://fkrt.co/bvM7aL",
+        "label": "Lakme"
+      },
+      {
+        "url": "https://fkrt.co/vZKAta",
+        "label": "Park Avenue"
+      },
+      {
+        "url": "https://fkrt.co/y96H3x",
+        "label": "Clean & Clear"
+      },
+      {
+        "url": "https://fkrt.co/yP9S8U",
+        "label": "Everyuth"
+      },
+      {
+        "url": "https://fkrt.co/GnOOtR",
+        "label": "Yardley London"
+      },
+      {
+        "url": "https://fkrt.co/Ttt7C0",
+        "label": "Denver"
+      }
+    ],
+    "raw_text": "Flipkart : Upto 70% Off on Top Beauty Products 🔥🔥\n\nNivea: https://fkrt.co/EGwTUS\nPonds: https://fkrt.co/8dtfW4\nVaseline: https://fkrt.co/XtM8Yc\nLakme: https://fkrt.co/bvM7aL\nPark Avenue: https://fkrt.co/vZKAta\nClean & Clear: https://fkrt.co/y96H3x\nEveryuth: https://fkrt.co/yP9S8U\nYardley London: https://fkrt.co/GnOOtR\nDenver: https://fkrt.co/Ttt7C0",
+    "final_url": "https://fkrt.co/EGwTUS",
+    "local_image": "assets/images/tgmsg_15780.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-05T16:51:38+00:00",
+    "buy_link": "https://fkrt.co/EGwTUS",
+    "date_iso": "2025-11-05T16:51:38+00:00"
+  },
+  {
     "id": "msg15776",
     "title": "Story@Home Carpets Up to 80% Off",
     "description": "Myntra | Story@Home Carpets Upto 80% Off 👉https://myntr.in/UFBq3M",
@@ -9262,69 +9362,5 @@
     "date_obj": "2025-11-02T19:07:55+00:00",
     "buy_link": "https://www.amazon.in/dp/B071DGPRM3?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-02T19:07:55+00:00"
-  },
-  {
-    "id": "msg15371",
-    "title": "🛒 Deal Price Up to 69% Off",
-    "description": "Flipkart | Smart And Handsome Mens Grooming Combo Kit 🛒 Deal Price: Up to 69% Off",
-    "shortlink": "https://fkrt.co/dWONLT",
-    "urls": [
-      {
-        "url": "",
-        "label": "Smart And Handsome Mens Grooming Combo Kit"
-      },
-      {
-        "url": "https://fkrt.co/dWONLT",
-        "label": "🛒 Deal Price: Up to 69% Off"
-      }
-    ],
-    "raw_text": "Flipkart | Smart And Handsome Mens Grooming Combo Kit\n\n🛒 Deal Price: Up to 69% Off\n\nhttps://fkrt.co/dWONLT",
-    "final_url": "https://fkrt.co/dWONLT",
-    "local_image": "assets/images/tgmsg_15371.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-02T19:09:53+00:00",
-    "buy_link": "https://fkrt.co/dWONLT",
-    "date_iso": "2025-11-02T19:09:53+00:00"
-  },
-  {
-    "id": "msg15372",
-    "title": "Up to 91% Off!",
-    "description": "Myntra | 👚 Tokyo Talkies Women's Clothing -  Dresses: Jeans: Tops: Sweaters: Co-Ords & Jumpsuits:",
-    "shortlink": "https://myntr.in/3nlAWL",
-    "urls": [
-      {
-        "url": "",
-        "label": "👚 Tokyo Talkies Women's Clothing - Up to 91% Off!"
-      },
-      {
-        "url": "https://myntr.in/3nlAWL",
-        "label": "Dresses"
-      },
-      {
-        "url": "https://myntr.in/cMlWgO",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://myntr.in/GjM47y",
-        "label": "Tops"
-      },
-      {
-        "url": "https://myntr.in/dtwf7g",
-        "label": "Sweaters"
-      },
-      {
-        "url": "https://myntr.in/5gv8OZ",
-        "label": "Ords & Jumpsuits"
-      }
-    ],
-    "raw_text": "Myntra | 👚 Tokyo Talkies Women's Clothing - Up to 91% Off!\n\nDresses: https://myntr.in/3nlAWL\nJeans: https://myntr.in/cMlWgO\nTops: https://myntr.in/GjM47y\nSweaters: https://myntr.in/dtwf7g\nCo-Ords & Jumpsuits: https://myntr.in/5gv8OZ",
-    "final_url": "https://myntr.in/3nlAWL",
-    "local_image": "assets/images/tgmsg_15372.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-02T19:11:24+00:00",
-    "buy_link": "https://myntr.in/3nlAWL",
-    "date_iso": "2025-11-02T19:11:24+00:00"
   }
 ]
