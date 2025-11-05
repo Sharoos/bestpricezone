@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15709",
+    "title": "Wow Skin Science Facewash (150ml) @ ₹64/",
+    "description": "Myntra | Wow Skin Science Facewash (150ml) @ ₹64/- ✅ https://myntr.in/hn4ViW",
+    "shortlink": "https://myntr.in/hn4ViW",
+    "urls": [
+      {
+        "url": "https://myntr.in/hn4ViW",
+        "label": "Wow Skin Science Facewash (150ml) @ ₹64/"
+      }
+    ],
+    "raw_text": "Myntra | Wow Skin Science Facewash (150ml) @ ₹64/-\n\n✅ https://myntr.in/hn4ViW",
+    "final_url": "https://myntr.in/hn4ViW",
+    "local_image": "assets/images/tgmsg_15709.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-05T07:48:46+00:00",
+    "buy_link": "https://myntr.in/hn4ViW",
+    "date_iso": "2025-11-05T07:48:46+00:00"
+  },
+  {
     "id": "msg15707",
     "title": "HIMALAYA Happy Baby Gift Pack @ ₹210/",
     "description": "Flipkart | HIMALAYA Happy Baby Gift Pack @ ₹210/- 👉https://fkrt.co/uvMslm",
@@ -9474,49 +9494,5 @@
     "date_obj": "2025-11-02T11:16:18+00:00",
     "buy_link": "https://ajiio.co/jZcubp",
     "date_iso": "2025-11-02T11:16:18+00:00"
-  },
-  {
-    "id": "msg15299",
-    "title": "Up to 85% Off On Roadster Clothing",
-    "description": "Myntra : Upto 85% Off On Roadster Clothing Men's : Jeans : Winterwear : Women's : Jeans : Winterwear :",
-    "shortlink": "https://myntr.in/I7UAwK",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On Roadster Clothing"
-      },
-      {
-        "url": "https://myntr.in/I7UAwK",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/eRA7Lk",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://myntr.in/oCTxqR",
-        "label": "Winterwear"
-      },
-      {
-        "url": "https://myntr.in/wqk3K9",
-        "label": "Women's"
-      },
-      {
-        "url": "https://myntr.in/Dw1RVD",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://myntr.in/0xzVPt",
-        "label": "Winterwear"
-      }
-    ],
-    "raw_text": "Myntra : Upto 85% Off On Roadster Clothing\n\nMen's : https://myntr.in/I7UAwK\nJeans : https://myntr.in/eRA7Lk\nWinterwear : https://myntr.in/oCTxqR\n\nWomen's : https://myntr.in/wqk3K9\nJeans : https://myntr.in/Dw1RVD\nWinterwear : https://myntr.in/0xzVPt",
-    "final_url": "https://myntr.in/I7UAwK",
-    "local_image": "assets/images/tgmsg_15299.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-02T11:00:01+00:00",
-    "buy_link": "https://myntr.in/I7UAwK",
-    "date_iso": "2025-11-02T11:00:01+00:00"
   }
 ]
