@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg15894",
+    "title": "Get Extra Up to 10% Discount Using Bank Offe",
+    "description": "Reliance Digital | Poco Smartphone Start @5,999 👉 • Get Extra Upto 10% Discount Using Bank Offers.",
+    "shortlink": "https://extp.in/8GhZdY",
+    "urls": [
+      {
+        "url": "https://extp.in/8GhZdY",
+        "label": "Poco Smartphone Start @5,999"
+      },
+      {
+        "url": "",
+        "label": "Get Extra Upto 10% Discount Using Bank Offers"
+      }
+    ],
+    "raw_text": "Reliance Digital  | Poco Smartphone Start @5,999\n\n👉 https://extp.in/8GhZdY\n\n• Get Extra Upto 10% Discount Using Bank Offers.",
+    "final_url": "https://extp.in/8GhZdY",
+    "local_image": "assets/images/tgmsg_15894.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-11-06T09:32:24+00:00",
+    "buy_link": "https://extp.in/8GhZdY",
+    "date_iso": "2025-11-06T09:32:24+00:00"
+  },
+  {
     "id": "msg15887",
     "title": "Wearables10 to get Flat 10% Off on Realme product",
     "description": "Myntra | Use Coupon Code - Wearables10 to get Flat 10% Off on Realme products 👉 Link : https://myntr.in/8wPpyS",
@@ -9030,61 +9054,5 @@
     "date_obj": "2025-11-03T17:06:16+00:00",
     "buy_link": "https://www.amazon.in/dp/B0BMFDYX7Y?tag=bestpricezo0f-21",
     "date_iso": "2025-11-03T17:06:16+00:00"
-  },
-  {
-    "id": "msg15492",
-    "title": "Highlander Men Clothing Starts @119",
-    "description": "Myntra . Jeans from ₹279: Trousers from ₹289 : Co-Ords : Shorts : Shirts from ₹199: Sweatshirts : Sweaters : Jackets : Shackets :",
-    "shortlink": "https://myntr.in/fyk9MT",
-    "urls": [
-      {
-        "url": "https://myntr.in/fyk9MT",
-        "label": "Myntra Highlander Men Clothing Starts @119"
-      },
-      {
-        "url": "https://myntr.in/5LkfJ5",
-        "label": "Jeans from ₹279"
-      },
-      {
-        "url": "https://myntr.in/sya3VU",
-        "label": "Trousers from ₹289"
-      },
-      {
-        "url": "https://myntr.in/KdHsRJ",
-        "label": "Ords"
-      },
-      {
-        "url": "https://myntr.in/BgVxMs",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://myntr.in/YSwe7y",
-        "label": "Shirts from ₹199"
-      },
-      {
-        "url": "https://myntr.in/mRZngb",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://myntr.in/XaIDQl",
-        "label": "Sweaters"
-      },
-      {
-        "url": "https://myntr.in/1iEr8Q",
-        "label": "Jackets"
-      },
-      {
-        "url": "https://myntr.in/fJVJpd",
-        "label": "Shackets"
-      }
-    ],
-    "raw_text": "Myntra  Highlander Men Clothing Starts @119.\n\nhttps://myntr.in/fyk9MT\n\nJeans from ₹279:  https://myntr.in/5LkfJ5\nTrousers from ₹289 : https://myntr.in/sya3VU\nCo-Ords : https://myntr.in/KdHsRJ\nShorts : https://myntr.in/BgVxMs\n\nShirts from ₹199: https://myntr.in/YSwe7y\nSweatshirts : https://myntr.in/mRZngb\nSweaters : https://myntr.in/XaIDQl\nJackets : https://myntr.in/1iEr8Q\nShackets : https://myntr.in/fJVJpd",
-    "final_url": "https://myntr.in/fyk9MT",
-    "local_image": "assets/images/tgmsg_15492.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-03T17:16:51+00:00",
-    "buy_link": "https://myntr.in/fyk9MT",
-    "date_iso": "2025-11-03T17:16:51+00:00"
   }
 ]
