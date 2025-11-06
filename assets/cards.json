@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg15846",
+    "title": "Bedsheet and summer blankets. Min 45% off",
+    "description": "Myntra | Monte Carlo - Bedsheet and summer blankets. Min 45% off. https://myntr.in/hNzTnq",
+    "shortlink": "https://myntr.in/hNzTnq",
+    "urls": [
+      {
+        "url": "https://myntr.in/hNzTnq",
+        "label": "Monte Carlo - Bedsheet and summer blankets. Min 45% off"
+      }
+    ],
+    "raw_text": "Myntra | Monte Carlo - Bedsheet and summer blankets. Min 45% off.\n\nhttps://myntr.in/hNzTnq",
+    "final_url": "https://myntr.in/hNzTnq",
+    "local_image": "assets/images/tgmsg_15846.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-06T03:37:58+00:00",
+    "buy_link": "https://myntr.in/hNzTnq",
+    "date_iso": "2025-11-06T03:37:58+00:00"
+  },
+  {
     "id": "msg15839",
     "title": "Up to 60% Off On Beauty Product",
     "description": "AJIO : Upto 60% Off On Beauty Products. Cetaphil : https://ajiio.co/4pud6L Lakme : https://ajiio.co/0eQv7H More Products : https://ajiio.co/uG4YKN",
@@ -9066,29 +9086,5 @@
     "date_obj": "2025-11-03T11:11:13+00:00",
     "buy_link": "https://extp.in/4Hh9AT",
     "date_iso": "2025-11-03T11:11:13+00:00"
-  },
-  {
-    "id": "msg15439",
-    "title": "🛒 Deal Price ₹677",
-    "description": "Amazon | Jam&Honey Toddlers Ride-On 🛒 Deal Price: ₹677 ✅ Apply 5% Off Coupon 👉https://www.amazon.in/dp/B0F222B6N6?social_share=cm_sw_r_apan_dp_WM4HF28XMJE78JRNMNBP&th=1&language=en_IN&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F222B6N6?social_share=cm_sw_r_apan_dp_WM4HF28XMJE78JRNMNBP&th=1&language=en_IN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Jam&Honey Toddlers Ride-On"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0F222B6N6?social_share=cm_sw_r_apan_dp_WM4HF28XMJE78JRNMNBP&th=1&language=en_IN&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹677"
-      }
-    ],
-    "raw_text": "Amazon | Jam&Honey Toddlers Ride-On\n\n🛒 Deal Price: ₹677\n\n✅ Apply 5% Off Coupon\n\n👉https://www.amazon.in/dp/B0F222B6N6?social_share=cm_sw_r_apan_dp_WM4HF28XMJE78JRNMNBP&th=1&language=en_IN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F222B6N6?social_share=cm_sw_r_apan_dp_WM4HF28XMJE78JRNMNBP&th=1&language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15439.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-03T11:16:55+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F222B6N6?social_share=cm_sw_r_apan_dp_WM4HF28XMJE78JRNMNBP&th=1&language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-03T11:16:55+00:00"
   }
 ]
