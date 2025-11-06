@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg15848",
+    "title": "Up to 85% Off On Vero Moda & ONLY Women Clothing",
+    "description": "Ajio | Upto 85% Off On Vero Moda & ONLY Women Clothing. https://ajiio.co/E4GOQz https://ajiio.co/OKaczs Jeans : https://ajiio.co/IFI4Uq",
+    "shortlink": "https://ajiio.co/E4GOQz",
+    "urls": [
+      {
+        "url": "https://ajiio.co/E4GOQz",
+        "label": "Upto 85% Off On Vero Moda & ONLY Women Clothing"
+      },
+      {
+        "url": "https://ajiio.co/OKaczs",
+        "label": ""
+      },
+      {
+        "url": "https://ajiio.co/IFI4Uq",
+        "label": "Jeans"
+      }
+    ],
+    "raw_text": "Ajio | Upto 85% Off On Vero Moda & ONLY Women Clothing.\n\nhttps://ajiio.co/E4GOQz\nhttps://ajiio.co/OKaczs\n\nJeans : https://ajiio.co/IFI4Uq",
+    "final_url": "https://ajiio.co/E4GOQz",
+    "local_image": "assets/images/tgmsg_15848.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-06T04:25:45+00:00",
+    "buy_link": "https://ajiio.co/E4GOQz",
+    "date_iso": "2025-11-06T04:25:45+00:00"
+  },
+  {
     "id": "msg15847",
     "title": "Up to 85% Off On Branded Watche",
     "description": "Flipkart : Upto 85% Off On Branded Watches Lee Cooper. Women's : Men's : Killer : Timex : Casio : Maxima : Van Heusen : Allen Solly : Peter England : U.S Polo Assn : Fcuk : Emporio Armani : Citizen : Fossil : |",
@@ -9082,37 +9110,5 @@
     "date_obj": "2025-11-03T11:30:07+00:00",
     "buy_link": "https://myntr.in/sULCiE",
     "date_iso": "2025-11-03T11:30:07+00:00"
-  },
-  {
-    "id": "msg15442",
-    "title": "💥 USE CODE DENIM100 (Get ₹100 Off on ₹1299+)",
-    "description": "Bewakoof: Men's Denim Jeans Starts @799 👖 Hot New Styles Added — Denim Verse Collection 💥 USE CODE: DENIM100 (Get ₹100 Off on ₹1299+) Shop Now:",
-    "shortlink": "https://bitli.in/pw5luOK",
-    "urls": [
-      {
-        "url": "",
-        "label": "Men's Denim Jeans Starts @799"
-      },
-      {
-        "url": "",
-        "label": "👖 Hot New Styles Added — Denim Verse Collection"
-      },
-      {
-        "url": "",
-        "label": "💥 USE CODE: DENIM100 (Get ₹100 Off on ₹1299+)"
-      },
-      {
-        "url": "https://bitli.in/pw5luOK",
-        "label": "Shop Now"
-      }
-    ],
-    "raw_text": "Bewakoof: Men's Denim Jeans Starts @799\n\n👖 Hot New Styles Added — Denim Verse Collection\n\n💥 USE CODE: DENIM100 (Get ₹100 Off on ₹1299+)\n\nShop Now: https://bitli.in/pw5luOK",
-    "final_url": "https://bitli.in/pw5luOK",
-    "local_image": "assets/images/tgmsg_15442.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-11-03T11:30:57+00:00",
-    "buy_link": "https://bitli.in/pw5luOK",
-    "date_iso": "2025-11-03T11:30:57+00:00"
   }
 ]
