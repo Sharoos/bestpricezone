@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg15882",
+    "title": "Colgate MaxFresh Rainbow Fresh Gel Toothpaste,100g",
+    "description": "Amazon | Colgate MaxFresh Rainbow Fresh Gel Toothpaste,100g ₹114 🔗 https://www.amazon.in/dp/B0DMWFLP9R/ref=cm_sw_r_as_gl_apa_gl_i_V5P5ZM698C7VFVERH2QK?tag=bestpricezo0f-21 Minimum Order Qty 3",
+    "shortlink": "https://www.amazon.in/dp/B0DMWFLP9R/ref=cm_sw_r_as_gl_apa_gl_i_V5P5ZM698C7VFVERH2QK?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Colgate MaxFresh Rainbow Fresh Gel Toothpaste,100g"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0DMWFLP9R/ref=cm_sw_r_as_gl_apa_gl_i_V5P5ZM698C7VFVERH2QK?tag=bestpricezo0f-21",
+        "label": "₹114 🔗"
+      },
+      {
+        "url": "",
+        "label": "Minimum Order Qty 3"
+      }
+    ],
+    "raw_text": "Amazon | Colgate MaxFresh Rainbow Fresh Gel Toothpaste,100g\n\n₹114 🔗 https://www.amazon.in/dp/B0DMWFLP9R/ref=cm_sw_r_as_gl_apa_gl_i_V5P5ZM698C7VFVERH2QK?tag=bestpricezo0f-21\n\nMinimum Order Qty 3",
+    "final_url": "https://www.amazon.in/dp/B0DMWFLP9R/ref=cm_sw_r_as_gl_apa_gl_i_V5P5ZM698C7VFVERH2QK?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_15882.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-06T07:54:22+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DMWFLP9R/ref=cm_sw_r_as_gl_apa_gl_i_V5P5ZM698C7VFVERH2QK?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-06T07:54:22+00:00"
+  },
+  {
     "id": "msg15879",
     "title": "💥 FLAT 60% OFF on Premium Styles + Bank Offe",
     "description": "AJIO : Armani Exchange Luxe Sale 🔥🔥 rs 🛍 SHOP NOW: 👔 Men’s • T-Shirts → • Shirts → • Jeans → • Jackets → • Sweatshirts → 👗 Women’s • T-Shirts → • Shirts → • Sweaters → • Trackpants → • Jackets →",
@@ -9106,25 +9134,5 @@
     "date_obj": "2025-11-03T15:17:22+00:00",
     "buy_link": "https://www.amazon.in/s?k=engage&i=beauty&rh=n%3A1355016031%2Cp_89%3AEngage%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665402031&s=price-asc-rank&crid=1KWV1NMBN3OK9&qid=1677399735&sprefix=engage%2Cbeauty%2C216&ds=v1%3AWDZ%2BXy%2FhmltL9%2FWqWqmHpzu%2F5XhKLA6V0zIoY1zWSew&tag=bestpricezo0f-21",
     "date_iso": "2025-11-03T15:17:22+00:00"
-  },
-  {
-    "id": "msg15470",
-    "title": "BELLAVITA Perfume Starts at Rs.149",
-    "description": "Flipkart | BELLAVITA Perfume Starts at Rs.149 👉https://fkrt.co/ZJrK4J",
-    "shortlink": "https://fkrt.co/ZJrK4J",
-    "urls": [
-      {
-        "url": "https://fkrt.co/ZJrK4J",
-        "label": "BELLAVITA Perfume Starts at Rs.149"
-      }
-    ],
-    "raw_text": "Flipkart | BELLAVITA Perfume Starts at Rs.149\n\n👉https://fkrt.co/ZJrK4J",
-    "final_url": "https://fkrt.co/ZJrK4J",
-    "local_image": "assets/images/tgmsg_15470.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-03T14:35:31+00:00",
-    "buy_link": "https://fkrt.co/ZJrK4J",
-    "date_iso": "2025-11-03T14:35:31+00:00"
   }
 ]
