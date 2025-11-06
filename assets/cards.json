@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg15904",
+    "title": "🛒 Deal Price ₹179",
+    "description": "Myntra | 👕 Shirts Under ₹179 🛒 Deal Price: ₹179 👉 https://myntr.in/Q0mFT9",
+    "shortlink": "https://myntr.in/Q0mFT9",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 Shirts Under ₹179"
+      },
+      {
+        "url": "https://myntr.in/Q0mFT9",
+        "label": "🛒 Deal Price: ₹179"
+      }
+    ],
+    "raw_text": "Myntra | 👕 Shirts Under ₹179\n\n🛒 Deal Price: ₹179\n\n👉 https://myntr.in/Q0mFT9",
+    "final_url": "https://myntr.in/Q0mFT9",
+    "local_image": "assets/images/tgmsg_15904.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-06T10:45:05+00:00",
+    "buy_link": "https://myntr.in/Q0mFT9",
+    "date_iso": "2025-11-06T10:45:05+00:00"
+  },
+  {
     "id": "msg15901",
     "title": "Veeba Chef's Special Veg Mayonnaise Smart (750g) @110",
     "description": "Amazon | Veeba Chef's Special Veg Mayonnaise Smart (750g) @110. 👉 https://www.amazon.in/dp/B0C9MKTLNK?psc=1&th=1&tag=bestpricezo0f-21",
@@ -9102,25 +9126,5 @@
     "date_obj": "2025-11-03T18:37:19+00:00",
     "buy_link": "https://myntr.in/ljEcBj",
     "date_iso": "2025-11-03T18:37:19+00:00"
-  },
-  {
-    "id": "msg15498",
-    "title": "Titan Wall Clock at min. 30% Discount Plus Discount",
-    "description": "Myntra | Titan Wall Clock at min. 30% Discount Plus Coupon Discount https://myntr.in/zyLLQY",
-    "shortlink": "https://myntr.in/zyLLQY",
-    "urls": [
-      {
-        "url": "https://myntr.in/zyLLQY",
-        "label": ""
-      }
-    ],
-    "raw_text": "Myntra | Titan Wall Clock at min. 30% Discount Plus Coupon Discount\n\nhttps://myntr.in/zyLLQY",
-    "final_url": "https://myntr.in/zyLLQY",
-    "local_image": "assets/images/tgmsg_15498.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-03T18:39:24+00:00",
-    "buy_link": "https://myntr.in/zyLLQY",
-    "date_iso": "2025-11-03T18:39:24+00:00"
   }
 ]
