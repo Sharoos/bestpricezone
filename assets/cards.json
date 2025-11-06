@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16004",
+    "title": "Crystal Aluminium Classic Taper Fry Pan, Multicolor Aluminium @413",
+    "description": "Amazon | Crystal Aluminium Classic Taper Fry Pan, Multicolor Aluminium @413 https://www.amazon.in/dp/B01N4D6M5E?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B01N4D6M5E?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B01N4D6M5E?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Crystal Aluminium Classic Taper Fry Pan, Multicolor Aluminium @413"
+      }
+    ],
+    "raw_text": "Amazon | Crystal Aluminium Classic Taper Fry Pan, Multicolor Aluminium @413\n\nhttps://www.amazon.in/dp/B01N4D6M5E?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B01N4D6M5E?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16004.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-06T20:41:14+00:00",
+    "buy_link": "https://www.amazon.in/dp/B01N4D6M5E?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-06T20:41:14+00:00"
+  },
+  {
     "id": "msg16002",
     "title": "Everyuth Naturals Body Lotion Sun Care Berries 200ml @119",
     "description": "Amazon | Everyuth Naturals Body Lotion Sun Care Berries 200ml @119 https://www.amazon.in/dp/B09DD4MX6W?tag=bestpricezo0f-21",
@@ -9102,29 +9122,5 @@
     "date_obj": "2025-11-04T15:46:59+00:00",
     "buy_link": "https://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_89%3ALAKM%C3%89%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
     "date_iso": "2025-11-04T15:46:59+00:00"
-  },
-  {
-    "id": "msg15614",
-    "title": "Ultrahuman Smart Rings at Rs. 24,224 + Bank Offers!!🎉",
-    "description": "Myntra | Ultrahuman  Smart Rings at Rs. 24,224 + Bank Offers!!🎉 Use Coupon Code - UH15 Limited time offer!!⏰ https://myntr.in/wRANHD",
-    "shortlink": "https://myntr.in/wRANHD",
-    "urls": [
-      {
-        "url": "",
-        "label": "Ultrahuman Smart Rings at Rs. 24,224 + Bank Offers!!🎉"
-      },
-      {
-        "url": "https://myntr.in/wRANHD",
-        "label": "Limited time offer!!⏰"
-      }
-    ],
-    "raw_text": "Myntra | Ultrahuman  Smart Rings at Rs. 24,224 + Bank Offers!!🎉\nUse Coupon Code - UH15\nLimited time offer!!⏰\n\nhttps://myntr.in/wRANHD",
-    "final_url": "https://myntr.in/wRANHD",
-    "local_image": "assets/images/tgmsg_15614.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-04T15:30:44+00:00",
-    "buy_link": "https://myntr.in/wRANHD",
-    "date_iso": "2025-11-04T15:30:44+00:00"
   }
 ]
