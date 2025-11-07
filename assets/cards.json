@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg16076",
+    "title": "Branded Cargo Trousers Starts @298",
+    "description": "Myntra : Branded Cargo Trousers Starts @298 Men : https://myntr.in/PCMMJ1 Women : https://myntr.in/Z258PU",
+    "shortlink": "https://myntr.in/PCMMJ1",
+    "urls": [
+      {
+        "url": "",
+        "label": "Branded Cargo Trousers Starts @298"
+      },
+      {
+        "url": "https://myntr.in/PCMMJ1",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/Z258PU",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra : Branded Cargo Trousers Starts @298\n\nMen : https://myntr.in/PCMMJ1\nWomen : https://myntr.in/Z258PU",
+    "final_url": "https://myntr.in/PCMMJ1",
+    "local_image": "assets/images/tgmsg_16076.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-07T13:51:50+00:00",
+    "buy_link": "https://myntr.in/PCMMJ1",
+    "date_iso": "2025-11-07T13:51:50+00:00"
+  },
+  {
     "id": "msg16071",
     "title": "Highlander Men’s Jeans from @396",
     "description": "Flipkart | Highlander Men’s Jeans from @396 👉https://fkrt.co/A7HZGf",
@@ -9602,25 +9630,5 @@
     "date_obj": "2025-11-04T19:16:11+00:00",
     "buy_link": "https://www.amazon.in/dp/B01CZ00NSG?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-04T19:16:11+00:00"
-  },
-  {
-    "id": "msg15670",
-    "title": "Basmati Rice 1 KG @₹99 (Min. 2 Qty)",
-    "description": "Amazon | Basmati Rice | 1 KG @₹99 (Min. 2 Qty) https://www.amazon.in/dp/B0CVGZMBB9?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CVGZMBB9?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CVGZMBB9?tag=bestpricezo0f-21",
-        "label": "Basmati Rice | 1 KG @₹99 (Min. 2 Qty)"
-      }
-    ],
-    "raw_text": "Amazon | Basmati Rice | 1 KG @₹99 (Min. 2 Qty)\n\nhttps://www.amazon.in/dp/B0CVGZMBB9?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CVGZMBB9?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15670.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-04T19:18:18+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CVGZMBB9?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-04T19:18:18+00:00"
   }
 ]
