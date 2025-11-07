@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg16132",
+    "title": "Boltt Bluetooth Calling Smartwatch @₹999",
+    "description": "Flipkart | Fire-Boltt Bluetooth Calling Smartwatch @₹999 ✅ https://fkrt.co/zcCC5u",
+    "shortlink": "https://fkrt.co/zcCC5u",
+    "urls": [
+      {
+        "url": "https://fkrt.co/zcCC5u",
+        "label": "Fire-Boltt Bluetooth Calling Smartwatch @₹999"
+      }
+    ],
+    "raw_text": "Flipkart | Fire-Boltt Bluetooth Calling Smartwatch @₹999\n\n✅ https://fkrt.co/zcCC5u",
+    "final_url": "https://fkrt.co/zcCC5u",
+    "local_image": "assets/images/tgmsg_16132.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-07T19:55:43+00:00",
+    "buy_link": "https://fkrt.co/zcCC5u",
+    "date_iso": "2025-11-07T19:55:43+00:00"
+  },
+  {
+    "id": "msg16133",
+    "title": "🛒 Deal Price Starts at ₹395",
+    "description": "Flipkart | 🔥 Branded Dry Iron Deals - Up to 77% Off 🛒 Deal Price: Starts at ₹395",
+    "shortlink": "https://fkrt.co/inA1lZ",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Branded Dry Iron Deals - Up to 77% Off"
+      },
+      {
+        "url": "https://fkrt.co/inA1lZ",
+        "label": "🛒 Deal Price: Starts at ₹395"
+      }
+    ],
+    "raw_text": "Flipkart | 🔥 Branded Dry Iron Deals - Up to 77% Off\n\n🛒 Deal Price: Starts at ₹395\n\nhttps://fkrt.co/inA1lZ",
+    "final_url": "https://fkrt.co/inA1lZ",
+    "local_image": "assets/images/tgmsg_16133.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-07T19:59:20+00:00",
+    "buy_link": "https://fkrt.co/inA1lZ",
+    "date_iso": "2025-11-07T19:59:20+00:00"
+  },
+  {
     "id": "msg16129",
     "title": "👟 Puma Shoe Steal Deal",
     "description": "Myntra | 👟 Puma Shoe Steal Deals Flat 70-75% Off Men's: https://myntr.in/3q44fw",
@@ -9366,45 +9410,5 @@
     "date_obj": "2025-11-05T12:50:05+00:00",
     "buy_link": "https://fkrt.co/bURViI",
     "date_iso": "2025-11-05T12:50:05+00:00"
-  },
-  {
-    "id": "msg15732",
-    "title": "boAt Airdopes 101v2 @ 699",
-    "description": "Flipkart | boAt Airdopes 101v2 @ 699. 👉 https://fkrt.co/688AKi",
-    "shortlink": "https://fkrt.co/688AKi",
-    "urls": [
-      {
-        "url": "https://fkrt.co/688AKi",
-        "label": "boAt Airdopes 101v2 @ 699"
-      }
-    ],
-    "raw_text": "Flipkart | boAt Airdopes 101v2 @ 699.\n\n👉 https://fkrt.co/688AKi",
-    "final_url": "https://fkrt.co/688AKi",
-    "local_image": "assets/images/tgmsg_15732.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-05T11:52:23+00:00",
-    "buy_link": "https://fkrt.co/688AKi",
-    "date_iso": "2025-11-05T11:52:23+00:00"
-  },
-  {
-    "id": "msg15733",
-    "title": "Voroxy Casual Shirts Starts at 260",
-    "description": "Flipkart | Voroxy Casual Shirts Starts at 260 👉https://fkrt.co/Ff6TFd",
-    "shortlink": "https://fkrt.co/Ff6TFd",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Ff6TFd",
-        "label": "Voroxy Casual Shirts Starts at 260"
-      }
-    ],
-    "raw_text": "Flipkart | Voroxy Casual Shirts Starts at 260\n\n👉https://fkrt.co/Ff6TFd",
-    "final_url": "https://fkrt.co/Ff6TFd",
-    "local_image": "assets/images/tgmsg_15733.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-05T11:56:25+00:00",
-    "buy_link": "https://fkrt.co/Ff6TFd",
-    "date_iso": "2025-11-05T11:56:25+00:00"
   }
 ]
