@@ -1,5 +1,113 @@
 [
   {
+    "id": "msg16020",
+    "title": "Up to 73% Off Levi's Men Clothing",
+    "description": "Myntra | Upto 73% Off : Levi's Men Clothing Jeans : T-Shirt : Shirt : Trouser : Shorts : Winterwear :",
+    "shortlink": "https://myntr.in/DO9VSl",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 73% Off : Levi's Men Clothing"
+      },
+      {
+        "url": "https://myntr.in/DO9VSl",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://myntr.in/gR2P8l",
+        "label": "T-Shirt"
+      },
+      {
+        "url": "https://myntr.in/fIytcN",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://myntr.in/kD7YIC",
+        "label": "Trouser"
+      },
+      {
+        "url": "https://myntr.in/tVp6OO",
+        "label": "Shorts"
+      },
+      {
+        "url": "https://myntr.in/eD3SEL",
+        "label": "Winterwear"
+      }
+    ],
+    "raw_text": "Myntra | Upto 73% Off : Levi's Men Clothing\n\nJeans : https://myntr.in/DO9VSl\nT-Shirt : https://myntr.in/gR2P8l\nShirt : https://myntr.in/fIytcN\nTrouser : https://myntr.in/kD7YIC\nShorts : https://myntr.in/tVp6OO\nWinterwear : https://myntr.in/eD3SEL",
+    "final_url": "https://myntr.in/DO9VSl",
+    "local_image": "assets/images/tgmsg_16020.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-07T06:21:57+00:00",
+    "buy_link": "https://myntr.in/DO9VSl",
+    "date_iso": "2025-11-07T06:21:57+00:00"
+  },
+  {
+    "id": "msg16021",
+    "title": "Up to 80% Off On Spykar Clothing",
+    "description": "Ajio : Topwear Clothing Under ₹149. Men's : Women's : Boy’s : Girl’s : Baby : Levi’s Jeans Starts @696. Women's : Men's : Upto 80% Off On Spykar Clothing. Men's : Women's :",
+    "shortlink": "https://ajiio.co/XfxFgl",
+    "urls": [
+      {
+        "url": "",
+        "label": "Topwear Clothing Under ₹149"
+      },
+      {
+        "url": "https://ajiio.co/XfxFgl",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/BFitsS",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/Qxg6IQ",
+        "label": "Boy’s"
+      },
+      {
+        "url": "https://ajiio.co/QD3Co9",
+        "label": "Girl’s"
+      },
+      {
+        "url": "https://ajiio.co/BUdMTk",
+        "label": "Baby"
+      },
+      {
+        "url": "",
+        "label": "Levi’s Jeans Starts @696"
+      },
+      {
+        "url": "https://ajiio.co/VfFdmo",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/YXbH7P",
+        "label": "Men's"
+      },
+      {
+        "url": "",
+        "label": "Upto 80% Off On Spykar Clothing"
+      },
+      {
+        "url": "https://ajiio.co/hMmfmE",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/XLPj63",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Ajio  : Topwear Clothing Under ₹149.\n\nMen's : https://ajiio.co/XfxFgl\nWomen's : https://ajiio.co/BFitsS\nBoy’s : https://ajiio.co/Qxg6IQ\nGirl’s : https://ajiio.co/QD3Co9\nBaby : https://ajiio.co/BUdMTk\n\nLevi’s Jeans Starts @696.\n\nWomen's : https://ajiio.co/VfFdmo\nMen's : https://ajiio.co/YXbH7P\n\nUpto 80% Off On Spykar Clothing.\n\nMen's : https://ajiio.co/hMmfmE\nWomen's : https://ajiio.co/XLPj63",
+    "final_url": "https://ajiio.co/XfxFgl",
+    "local_image": "assets/images/tgmsg_16021.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-07T06:42:09+00:00",
+    "buy_link": "https://ajiio.co/XfxFgl",
+    "date_iso": "2025-11-07T06:42:09+00:00"
+  },
+  {
     "id": "msg16017",
     "title": "PTron 20000 mAh 22.5 W Power Bank @ 898",
     "description": "Flipkart | PTron 20000 mAh 22.5 W Power Bank @ 898. 👉 https://fkrt.co/1ayvpZ",
@@ -9162,45 +9270,5 @@
     "date_obj": "2025-11-04T17:46:37+00:00",
     "buy_link": "https://fkrt.co/XnVEzN",
     "date_iso": "2025-11-04T17:46:37+00:00"
-  },
-  {
-    "id": "msg15627",
-    "title": "Up to 82% Off On Handbags Starting From Rs.125",
-    "description": "Flipkart | Upto 82% Off On Handbags Starting From Rs.125 👉Link : https://fkrt.co/xtHzBE",
-    "shortlink": "https://fkrt.co/xtHzBE",
-    "urls": [
-      {
-        "url": "https://fkrt.co/xtHzBE",
-        "label": "Upto 82% Off On Handbags Starting From Rs.125"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 82% Off On Handbags Starting From Rs.125\n\n👉Link : https://fkrt.co/xtHzBE",
-    "final_url": "https://fkrt.co/xtHzBE",
-    "local_image": "assets/images/tgmsg_15627.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-04T17:34:40+00:00",
-    "buy_link": "https://fkrt.co/xtHzBE",
-    "date_iso": "2025-11-04T17:34:40+00:00"
-  },
-  {
-    "id": "msg15624",
-    "title": "OLAY AT 60% OFF , NEVER BEFORE😱😱😱😱",
-    "description": "Myntra | OLAY AT 60% OFF , NEVER BEFORE😱😱😱😱 - https://myntr.in/tCoMM0",
-    "shortlink": "https://myntr.in/tCoMM0",
-    "urls": [
-      {
-        "url": "https://myntr.in/tCoMM0",
-        "label": "OLAY AT 60% OFF , NEVER BEFORE😱😱😱😱"
-      }
-    ],
-    "raw_text": "Myntra | OLAY AT 60% OFF , NEVER BEFORE😱😱😱😱 - \n\nhttps://myntr.in/tCoMM0",
-    "final_url": "https://myntr.in/tCoMM0",
-    "local_image": "assets/images/tgmsg_15624.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-04T17:04:17+00:00",
-    "buy_link": "https://myntr.in/tCoMM0",
-    "date_iso": "2025-11-04T17:04:17+00:00"
   }
 ]
