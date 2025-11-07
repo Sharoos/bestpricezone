@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16041",
+    "title": "Syska Son Bluetooth Headset @₹399",
+    "description": "Flipkart | Syska Son Bluetooth Headset @₹399 👉 https://fkrt.co/zEb6zA 👉 https://fkrt.co/9J2K4W",
+    "shortlink": "https://fkrt.co/zEb6zA",
+    "urls": [
+      {
+        "url": "https://fkrt.co/zEb6zA",
+        "label": "Syska Son Bluetooth Headset @₹399"
+      },
+      {
+        "url": "https://fkrt.co/9J2K4W",
+        "label": "Syska Son Bluetooth Headset @₹399"
+      }
+    ],
+    "raw_text": "Flipkart | Syska Son Bluetooth Headset @₹399\n\n👉 https://fkrt.co/zEb6zA\n👉 https://fkrt.co/9J2K4W",
+    "final_url": "https://fkrt.co/zEb6zA",
+    "local_image": "assets/images/tgmsg_16041.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-07T08:50:04+00:00",
+    "buy_link": "https://fkrt.co/zEb6zA",
+    "date_iso": "2025-11-07T08:50:04+00:00"
+  },
+  {
     "id": "msg16035",
     "title": "👖 Men’s Trousers starting from ₹279",
     "description": "Myntra Mega Fashion Deals 🔥🔥 👕 Shirts starting from ₹199 👉  👉 🕺 Kurtas starting from ₹299 👉 🧥 Blazers starting from ₹1199 👉",
@@ -9230,37 +9254,5 @@
     "date_obj": "2025-11-04T18:43:23+00:00",
     "buy_link": "https://www.amazon.in/dp/B07WV4HSR3?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-04T18:43:23+00:00"
-  },
-  {
-    "id": "msg15646",
-    "title": "🎉 Noise Buds Nero Truly Wireless Earbuds with Rubberised Finish, Quad Mic ENC & 45H Playtime at Rs. 750 + Bank Offers!!",
-    "description": "Myntra |  🎉 NOISE Buds Aero With 45hrs Playtime, Instacharge and 13mm Driver Truly Wireless Earbuds at Rs.689 + Bank Offers!! 🎉 NOISE Buds F1 Truly Wireless 50 hrs Playtime Headphones at Rs. 699 only!! Limited time…",
-    "shortlink": "https://myntr.in/R91oGa",
-    "urls": [
-      {
-        "url": "https://myntr.in/R91oGa",
-        "label": "🎉 Noise Buds Nero Truly Wireless Earbuds with Rubberised Finish, Quad Mic ENC & 45H Playtime at Rs. 750 + Bank Offers!!"
-      },
-      {
-        "url": "https://myntr.in/eUBzni",
-        "label": "🎉 NOISE Buds Aero With 45hrs Playtime, Instacharge and 13mm Driver Truly Wireless Earbuds at Rs.689 + Bank Offers!!"
-      },
-      {
-        "url": "https://myntr.in/Aq0Z5L",
-        "label": "🎉 NOISE Buds F1 Truly Wireless 50 hrs Playtime Headphones at Rs. 699 only!!"
-      },
-      {
-        "url": "",
-        "label": "Limited time deal!!⏰"
-      }
-    ],
-    "raw_text": "Myntra | 🎉 Noise Buds Nero Truly Wireless Earbuds with Rubberised Finish, Quad Mic ENC & 45H Playtime at Rs. 750 + Bank Offers!!\nhttps://myntr.in/R91oGa\n\n🎉 NOISE Buds Aero With 45hrs Playtime, Instacharge and 13mm Driver Truly Wireless Earbuds at Rs.689 + Bank Offers!!\nhttps://myntr.in/eUBzni\n\n🎉 NOISE Buds F1 Truly Wireless 50 hrs Playtime Headphones at Rs. 699 only!!\n\nhttps://myntr.in/Aq0Z5L\n\nLimited time deal!!⏰",
-    "final_url": "https://myntr.in/R91oGa",
-    "local_image": "assets/images/tgmsg_15646.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-04T18:45:30+00:00",
-    "buy_link": "https://myntr.in/R91oGa",
-    "date_iso": "2025-11-04T18:45:30+00:00"
   }
 ]
