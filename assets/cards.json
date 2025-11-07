@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg16007",
+    "title": "Up to 89% Off On Kook N Keech Clothing",
+    "description": "Myntra : Upto 89% Off On Kook N Keech Clothing. Men's : https://myntr.it/0Odb97S Women's : https://myntr.it/6lAimY6",
+    "shortlink": "https://myntr.it/0Odb97S",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 89% Off On Kook N Keech Clothing"
+      },
+      {
+        "url": "https://myntr.it/0Odb97S",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.it/6lAimY6",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Myntra : Upto 89% Off On Kook N Keech Clothing.\n\nMen's : https://myntr.it/0Odb97S\nWomen's : https://myntr.it/6lAimY6",
+    "final_url": "https://myntr.it/0Odb97S",
+    "local_image": "assets/images/tgmsg_16007.jpg",
+    "source_host": "myntr.it",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-07T04:38:57+00:00",
+    "buy_link": "https://myntr.it/0Odb97S",
+    "date_iso": "2025-11-07T04:38:57+00:00"
+  },
+  {
     "id": "msg16004",
     "title": "Crystal Aluminium Classic Taper Fry Pan, Multicolor Aluminium @413",
     "description": "Amazon | Crystal Aluminium Classic Taper Fry Pan, Multicolor Aluminium @413 https://www.amazon.in/dp/B01N4D6M5E?th=1&psc=1&tag=bestpricezo0f-21",
@@ -9098,29 +9126,5 @@
     "date_obj": "2025-11-04T16:06:33+00:00",
     "buy_link": "https://ajiio.co/Eb9CAq",
     "date_iso": "2025-11-04T16:06:33+00:00"
-  },
-  {
-    "id": "msg15617",
-    "title": "Up to 62% Off On Lakme Beauty Product",
-    "description": "Amazon | Upto 62% Off On Lakme Beauty Products Upto 50% Off On Biotique Beauty Products",
-    "shortlink": "https://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_89%3ALAKM%C3%89%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_89%3ALAKM%C3%89%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-        "label": "Upto 62% Off On Lakme Beauty Products"
-      },
-      {
-        "url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_6%3AA15APWRK6P7LBV%2Cp_72%3A1318476031%2Cp_89%3ABiotique%2Cp_n_pct-off-with-tax%3A45-&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
-        "label": "Upto 50% Off On Biotique Beauty Products"
-      }
-    ],
-    "raw_text": "Amazon | Upto 62% Off On Lakme Beauty Products \n\nhttps://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_89%3ALAKM%C3%89%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21\n\nUpto 50% Off On Biotique Beauty Products \n\nhttps://www.amazon.in/s?rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_6%3AA15APWRK6P7LBV%2Cp_72%3A1318476031%2Cp_89%3ABiotique%2Cp_n_pct-off-with-tax%3A45-&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_89%3ALAKM%C3%89%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15617.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-04T15:46:59+00:00",
-    "buy_link": "https://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_89%3ALAKM%C3%89%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-04T15:46:59+00:00"
   }
 ]
