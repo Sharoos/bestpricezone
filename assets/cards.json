@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg16100",
+    "title": "Highlander Min 75% Off",
+    "description": "Myntra | Vishudh Ethnic Wear Under 399 👉 Tokyo Talkies Under 199 👉 Tokyo Talkies Under 299 👉  👉 Highlander Min 80% Off 👉",
+    "shortlink": "https://myntr.in/SL8DtH",
+    "urls": [
+      {
+        "url": "https://myntr.in/SL8DtH",
+        "label": "Vishudh Ethnic Wear Under 399"
+      },
+      {
+        "url": "https://myntr.in/ugz6bb",
+        "label": "Tokyo Talkies Under 199"
+      },
+      {
+        "url": "https://myntr.in/zUE3A6",
+        "label": "Tokyo Talkies Under 299"
+      },
+      {
+        "url": "https://myntr.in/DYQxQy",
+        "label": "Highlander Min 75% Off"
+      },
+      {
+        "url": "https://myntr.in/QJkltr",
+        "label": "Highlander Min 80% Off"
+      }
+    ],
+    "raw_text": "Myntra | Vishudh Ethnic Wear Under 399\n👉https://myntr.in/SL8DtH\n\nTokyo Talkies Under 199\n👉https://myntr.in/ugz6bb\n\nTokyo Talkies Under 299 \n👉https://myntr.in/zUE3A6\n\nHighlander Min 75% Off\n👉https://myntr.in/DYQxQy\n\nHighlander Min 80% Off\n👉https://myntr.in/QJkltr",
+    "final_url": "https://myntr.in/SL8DtH",
+    "local_image": "assets/images/tgmsg_16100.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-07T16:49:19+00:00",
+    "buy_link": "https://myntr.in/SL8DtH",
+    "date_iso": "2025-11-07T16:49:19+00:00"
+  },
+  {
     "id": "msg16098",
     "title": "🧴 AXE Intense Body Spray (Pack of 4) – ₹490",
     "description": "Flipkart 🔥🧴 Grooming & Utility Essentials at Best Prices! 👕💈  🔗 👕 Branded Dry Iron – Starting at ₹331 🔗 🧔 OnePlus Trimmers – Starting at ₹498 🔗",
@@ -9526,25 +9562,5 @@
     "date_obj": "2025-11-05T05:28:18+00:00",
     "buy_link": "https://myntr.in/i9nYr9",
     "date_iso": "2025-11-05T05:28:18+00:00"
-  },
-  {
-    "id": "msg15696",
-    "title": "Hrx By Hrithik Roshan Caps FROM Rs.271",
-    "description": "Hrx By Hrithik Roshan Caps FROM Rs.271 https://myntr.in/jYYk31",
-    "shortlink": "https://myntr.in/jYYk31",
-    "urls": [
-      {
-        "url": "https://myntr.in/jYYk31",
-        "label": "Hrx By Hrithik Roshan Caps FROM Rs.271"
-      }
-    ],
-    "raw_text": "Hrx By Hrithik Roshan Caps FROM Rs.271\n\nhttps://myntr.in/jYYk31",
-    "final_url": "https://myntr.in/jYYk31",
-    "local_image": "assets/images/tgmsg_15696.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-05T05:31:30+00:00",
-    "buy_link": "https://myntr.in/jYYk31",
-    "date_iso": "2025-11-05T05:31:30+00:00"
   }
 ]
