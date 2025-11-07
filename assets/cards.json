@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16057",
+    "title": "Real Fruit Power Real Masala Mixed Fruit 1L",
+    "description": "Amazon | Real Fruit Power Real Masala Mixed Fruit 1L ₹60 🔗 https://www.amazon.in/dp/B07QQ71X3Q/ref=cm_sw_r_as_gl_apa_gl_i_RGPDDZ5G469EWDZ47KTA?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B07QQ71X3Q/ref=cm_sw_r_as_gl_apa_gl_i_RGPDDZ5G469EWDZ47KTA?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Real Fruit Power Real Masala Mixed Fruit 1L"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B07QQ71X3Q/ref=cm_sw_r_as_gl_apa_gl_i_RGPDDZ5G469EWDZ47KTA?tag=bestpricezo0f-21",
+        "label": "₹60 🔗"
+      }
+    ],
+    "raw_text": "Amazon | Real Fruit Power Real Masala Mixed Fruit 1L\n\n₹60 🔗 https://www.amazon.in/dp/B07QQ71X3Q/ref=cm_sw_r_as_gl_apa_gl_i_RGPDDZ5G469EWDZ47KTA?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B07QQ71X3Q/ref=cm_sw_r_as_gl_apa_gl_i_RGPDDZ5G469EWDZ47KTA?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16057.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-07T11:31:32+00:00",
+    "buy_link": "https://www.amazon.in/dp/B07QQ71X3Q/ref=cm_sw_r_as_gl_apa_gl_i_RGPDDZ5G469EWDZ47KTA?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-07T11:31:32+00:00"
+  },
+  {
     "id": "msg16056",
     "title": "Popular Winter blankets under 1019",
     "description": "Myntra | Popular Winter blankets under 1019 👉 Link : https://myntr.in/J6Hfln",
@@ -9510,25 +9534,5 @@
     "date_obj": "2025-11-04T19:00:55+00:00",
     "buy_link": "https://myntr.in/fGqbZ1",
     "date_iso": "2025-11-04T19:00:55+00:00"
-  },
-  {
-    "id": "msg15654",
-    "title": "GOVO GOSURROUND 945 120W Sound bar, 5.1 Channel Home Theatre @₹5999",
-    "description": "Amazon | GOVO GOSURROUND 945 | 120W Sound bar, 5.1 Channel Home Theatre @₹5999 https://www.amazon.in/dp/B0CF9NVXW5?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CF9NVXW5?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CF9NVXW5?tag=bestpricezo0f-21",
-        "label": "GOVO GOSURROUND 945 | 120W Sound bar, 5.1 Channel Home Theatre @₹5999"
-      }
-    ],
-    "raw_text": "Amazon | GOVO GOSURROUND 945 | 120W Sound bar, 5.1 Channel Home Theatre @₹5999\n\nhttps://www.amazon.in/dp/B0CF9NVXW5?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CF9NVXW5?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15654.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-04T19:02:17+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CF9NVXW5?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-04T19:02:17+00:00"
   }
 ]
