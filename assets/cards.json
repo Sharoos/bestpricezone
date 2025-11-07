@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg16090",
+    "title": "Fashion SALE 🙈🙈",
+    "description": "Flipkart  Dailywear Kurtis @ 199 Everyday Sarees @ 199 Anarkali Kurtis @ 269 Ethnic Sets @ 269 Festive Ethnic Sets @ 389 Kanjivaram, Banarasi Sarees @ 489 Lehenga Cholis @ 368",
+    "shortlink": "https://fkrt.co/wQJJd8",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart Fashion SALE 🙈🙈"
+      },
+      {
+        "url": "https://fkrt.co/wQJJd8",
+        "label": "Dailywear Kurtis @ 199"
+      },
+      {
+        "url": "https://fkrt.co/uoCydE",
+        "label": "Everyday Sarees @ 199"
+      },
+      {
+        "url": "https://fkrt.co/kibUow",
+        "label": "Anarkali Kurtis @ 269"
+      },
+      {
+        "url": "https://fkrt.co/ydqpXI",
+        "label": "Ethnic Sets @ 269"
+      },
+      {
+        "url": "https://fkrt.co/bNxHfz",
+        "label": "Festive Ethnic Sets @ 389"
+      },
+      {
+        "url": "https://fkrt.co/iVls76",
+        "label": "Kanjivaram, Banarasi Sarees @ 489"
+      },
+      {
+        "url": "https://fkrt.co/mY6irT",
+        "label": "Lehenga Cholis @ 368"
+      }
+    ],
+    "raw_text": "Flipkart Fashion SALE 🙈🙈\n\nDailywear Kurtis @ 199\nhttps://fkrt.co/wQJJd8\n\nEveryday Sarees @ 199\nhttps://fkrt.co/uoCydE\n\nAnarkali Kurtis @ 269\nhttps://fkrt.co/kibUow\n\nEthnic Sets @ 269\nhttps://fkrt.co/ydqpXI\n\nFestive Ethnic Sets @ 389\nhttps://fkrt.co/bNxHfz\n\nKanjivaram, Banarasi Sarees @ 489\nhttps://fkrt.co/iVls76\n\nLehenga Cholis @ 368\nhttps://fkrt.co/mY6irT",
+    "final_url": "https://fkrt.co/wQJJd8",
+    "local_image": "assets/images/tgmsg_16090.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-07T15:32:06+00:00",
+    "buy_link": "https://fkrt.co/wQJJd8",
+    "date_iso": "2025-11-07T15:32:06+00:00"
+  },
+  {
     "id": "msg16087",
     "title": "Pack Of 2) At 159",
     "description": "Aluminium Foil (9M *Pack Of 2) At 159 https://fkrt.co/mr7mDt",
@@ -9610,25 +9658,5 @@
     "date_obj": "2025-11-05T04:18:16+00:00",
     "buy_link": "https://myntr.in/XdYPP8",
     "date_iso": "2025-11-05T04:18:16+00:00"
-  },
-  {
-    "id": "msg15686",
-    "title": "Crompton 9W LED Bulb (Pack of 2) @ ₹87",
-    "description": "Flipkart | Crompton 9W LED Bulb (Pack of 2) @ ₹87. https://fkrt.co/H8oQvc",
-    "shortlink": "https://fkrt.co/H8oQvc",
-    "urls": [
-      {
-        "url": "https://fkrt.co/H8oQvc",
-        "label": "Crompton 9W LED Bulb (Pack of 2) @ ₹87"
-      }
-    ],
-    "raw_text": "Flipkart | Crompton 9W LED Bulb (Pack of 2) @ ₹87.\n\nhttps://fkrt.co/H8oQvc",
-    "final_url": "https://fkrt.co/H8oQvc",
-    "local_image": "assets/images/tgmsg_15686.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-04T20:32:45+00:00",
-    "buy_link": "https://fkrt.co/H8oQvc",
-    "date_iso": "2025-11-04T20:32:45+00:00"
   }
 ]
