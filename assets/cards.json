@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg16128",
+    "title": "🛒 Price Up to 50% Off + Extra + Bank Offe",
+    "description": "Myntra | 👟 Nike Shoes - Up to 50% Off! Apply Codes: COMBOOFNIKE | NORETURNNIKE10 Deals on Men's Nike Shoes 🛒 Price: Up to 50% Off + Extra Coupon + Bank Offer https://myntr.in/VJoPjw Deals on Women's Nike Shoes…",
+    "shortlink": "https://myntr.in/VJoPjw",
+    "urls": [
+      {
+        "url": "",
+        "label": "👟 Nike Shoes - Up to 50% Off!"
+      },
+      {
+        "url": "",
+        "label": "COMBOOFNIKE | NORETURNNIKE10"
+      },
+      {
+        "url": "https://myntr.in/VJoPjw",
+        "label": "Deals on Men's Nike Shoes"
+      },
+      {
+        "url": "https://myntr.in/WWG16p",
+        "label": "Deals on Women's Nike Shoes"
+      },
+      {
+        "url": "https://myntr.in/VjslCt",
+        "label": "Deals on Boys' Nike Shoes"
+      },
+      {
+        "url": "https://myntr.in/PRxPxi",
+        "label": "Deals on Girls' Nike Shoes"
+      }
+    ],
+    "raw_text": "Myntra | 👟 Nike Shoes - Up to 50% Off!\n\nApply Codes: COMBOOFNIKE | NORETURNNIKE10\n\nDeals on Men's Nike Shoes\n🛒 Price: Up to 50% Off + Extra Coupon + Bank Offer\nhttps://myntr.in/VJoPjw\n\nDeals on Women's Nike Shoes\n🛒 Price: Up to 50% Off + Extra Coupon + Bank Offer\nhttps://myntr.in/WWG16p\n\nDeals on Boys' Nike Shoes\n🛒 Price: Up to 50% Off + Extra Coupon + Bank Offer\nhttps://myntr.in/VjslCt\n\nDeals on Girls' Nike Shoes\n🛒 Price: Up to 50% Off + Extra Coupon + Bank Offer\nhttps://myntr.in/PRxPxi\n\nNote: After Applying Code, Products will be Non-Returnable (Exchange Available)",
+    "final_url": "https://myntr.in/VJoPjw",
+    "local_image": "assets/images/tgmsg_16128.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-07T19:33:22+00:00",
+    "buy_link": "https://myntr.in/VJoPjw",
+    "date_iso": "2025-11-07T19:33:22+00:00"
+  },
+  {
     "id": "msg16127",
     "title": "Zebronics 60W C to C Super Fast Charging Silicon Cables @₹169",
     "description": "Amazon | Zebronics 60W C to C Super Fast Charging Silicon Cables @₹169 https://www.amazon.in/dp/B0FJ2B8H19?th=1&tag=bestpricezo0f-21",
@@ -9382,25 +9422,5 @@
     "date_obj": "2025-11-05T11:06:52+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FVX4TVMR?tag=bestpricezo0f-21",
     "date_iso": "2025-11-05T11:06:52+00:00"
-  },
-  {
-    "id": "msg15728",
-    "title": "RR Signature 3 Ltr Water Heater @ 1999",
-    "description": "Amazon | RR Signature 3 Ltr Water Heater @ 1999. 👉https://www.amazon.in/dp/B0DP9NQ221?psc=1&th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DP9NQ221?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DP9NQ221?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "RR Signature 3 Ltr Water Heater @ 1999"
-      }
-    ],
-    "raw_text": "Amazon | RR Signature 3 Ltr Water Heater @ 1999.\n\n👉https://www.amazon.in/dp/B0DP9NQ221?psc=1&th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DP9NQ221?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15728.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-05T11:20:21+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DP9NQ221?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-05T11:20:21+00:00"
   }
 ]
