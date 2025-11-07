@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg16098",
+    "title": "🧴 AXE Intense Body Spray (Pack of 4) – ₹490",
+    "description": "Flipkart 🔥🧴 Grooming & Utility Essentials at Best Prices! 👕💈  🔗 👕 Branded Dry Iron – Starting at ₹331 🔗 🧔 OnePlus Trimmers – Starting at ₹498 🔗",
+    "shortlink": "https://fkrt.co/RYeL9O",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart 🔥🧴 Grooming & Utility Essentials at Best Prices! 👕💈"
+      },
+      {
+        "url": "https://fkrt.co/RYeL9O",
+        "label": "🧴 AXE Intense Body Spray (Pack of 4) – ₹490"
+      },
+      {
+        "url": "https://fkrt.co/C8JZwu",
+        "label": "👕 Branded Dry Iron – Starting at ₹331"
+      },
+      {
+        "url": "https://fkrt.co/8EtMTl",
+        "label": "🧔 OnePlus Trimmers – Starting at ₹498"
+      }
+    ],
+    "raw_text": "Flipkart 🔥🧴 Grooming & Utility Essentials at Best Prices! 👕💈\n\n🧴 AXE Intense Body Spray (Pack of 4) – ₹490\n🔗 https://fkrt.co/RYeL9O\n\n👕 Branded Dry Iron – Starting at ₹331\n🔗 https://fkrt.co/C8JZwu\n\n🧔 OnePlus Trimmers – Starting at ₹498\n🔗 https://fkrt.co/8EtMTl",
+    "final_url": "https://fkrt.co/RYeL9O",
+    "local_image": "assets/images/tgmsg_16098.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-07T16:36:02+00:00",
+    "buy_link": "https://fkrt.co/RYeL9O",
+    "date_iso": "2025-11-07T16:36:02+00:00"
+  },
+  {
     "id": "msg16094",
     "title": "Ducati Sneakers Up to 80% Off",
     "description": "Myntra | Ducati Sneakers Upto 80% Off https://myntr.in/QQyEeN",
@@ -9514,57 +9546,5 @@
     "date_obj": "2025-11-05T05:31:30+00:00",
     "buy_link": "https://myntr.in/jYYk31",
     "date_iso": "2025-11-05T05:31:30+00:00"
-  },
-  {
-    "id": "msg15697",
-    "title": "Up to 90% Off On Tokyo Talkies Women Clothing",
-    "description": "Myntra Upto 90% Off On Tokyo Talkies Women Clothing. Dresses : Jeans : Tops : Sweatshirts : Sweaters : Shirt : Co-Ords & Jumpsuit Trousers :",
-    "shortlink": "https://myntr.in/7JTa4y",
-    "urls": [
-      {
-        "url": "",
-        "label": "Myntra Upto 90% Off On Tokyo Talkies Women Clothing"
-      },
-      {
-        "url": "https://myntr.in/7JTa4y",
-        "label": "Dresses"
-      },
-      {
-        "url": "https://myntr.in/lIclcR",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://myntr.in/MnnBk8",
-        "label": "Tops"
-      },
-      {
-        "url": "https://myntr.in/0g4Ozb",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://myntr.in/aADlzM",
-        "label": "Sweaters"
-      },
-      {
-        "url": "https://myntr.in/wTu1hs",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://myntr.in/RI6LwD",
-        "label": "Ords & Jumpsuit"
-      },
-      {
-        "url": "https://myntr.in/HbnrMb",
-        "label": "Trousers"
-      }
-    ],
-    "raw_text": "Myntra  Upto 90% Off On Tokyo Talkies Women Clothing.\n\nDresses : https://myntr.in/7JTa4y\nJeans : https://myntr.in/lIclcR\nTops : https://myntr.in/MnnBk8\nSweatshirts : https://myntr.in/0g4Ozb\nSweaters : https://myntr.in/aADlzM\nShirt : https://myntr.in/wTu1hs\nCo-Ords & Jumpsuit https://myntr.in/RI6LwD\nTrousers : https://myntr.in/HbnrMb",
-    "final_url": "https://myntr.in/7JTa4y",
-    "local_image": "assets/images/tgmsg_15697.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-05T05:41:28+00:00",
-    "buy_link": "https://myntr.in/7JTa4y",
-    "date_iso": "2025-11-05T05:41:28+00:00"
   }
 ]
