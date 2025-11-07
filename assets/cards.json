@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg16134",
+    "title": "Aristocrat Duffel Bags @₹557",
+    "description": "Flipkart | Aristocrat Duffel Bags @₹557 https://fkrt.co/4DgvaQ",
+    "shortlink": "https://fkrt.co/4DgvaQ",
+    "urls": [
+      {
+        "url": "https://fkrt.co/4DgvaQ",
+        "label": "Aristocrat Duffel Bags @₹557"
+      }
+    ],
+    "raw_text": "Flipkart | Aristocrat Duffel Bags @₹557\n\nhttps://fkrt.co/4DgvaQ",
+    "final_url": "https://fkrt.co/4DgvaQ",
+    "local_image": "assets/images/tgmsg_16134.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-07T20:05:23+00:00",
+    "buy_link": "https://fkrt.co/4DgvaQ",
+    "date_iso": "2025-11-07T20:05:23+00:00"
+  },
+  {
+    "id": "msg16135",
+    "title": "Zebronics 10000mah super fast charging metallic powerbank @641",
+    "description": "Amazon | Zebronics 10000mah super fast charging metallic powerbank @641. https://www.amazon.in/dp/B0DVC3DDYJ?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DVC3DDYJ?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DVC3DDYJ?tag=bestpricezo0f-21",
+        "label": "Zebronics 10000mah super fast charging metallic powerbank @641"
+      }
+    ],
+    "raw_text": "Amazon | Zebronics 10000mah super fast charging metallic powerbank @641.\n\nhttps://www.amazon.in/dp/B0DVC3DDYJ?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DVC3DDYJ?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16135.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-07T20:22:10+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DVC3DDYJ?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-07T20:22:10+00:00"
+  },
+  {
     "id": "msg16132",
     "title": "Boltt Bluetooth Calling Smartwatch @₹999",
     "description": "Flipkart | Fire-Boltt Bluetooth Calling Smartwatch @₹999 ✅ https://fkrt.co/zcCC5u",
@@ -9354,61 +9394,5 @@
     "date_obj": "2025-11-05T12:36:47+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DF5JSYS4?tag=bestpricezo0f-21",
     "date_iso": "2025-11-05T12:36:47+00:00"
-  },
-  {
-    "id": "msg15740",
-    "title": "Hair Towel @ ₹99",
-    "description": "Myntra | Hair Towel @ ₹99 👉 https://myntr.in/S0IykI Sort Low To High",
-    "shortlink": "https://myntr.in/S0IykI",
-    "urls": [
-      {
-        "url": "https://myntr.in/S0IykI",
-        "label": "Hair Towel @ ₹99"
-      },
-      {
-        "url": "",
-        "label": "Sort Low To High"
-      }
-    ],
-    "raw_text": "Myntra | Hair Towel @ ₹99\n\n👉 https://myntr.in/S0IykI\n\nSort Low To High",
-    "final_url": "https://myntr.in/S0IykI",
-    "local_image": "assets/images/tgmsg_15740.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-05T12:40:06+00:00",
-    "buy_link": "https://myntr.in/S0IykI",
-    "date_iso": "2025-11-05T12:40:06+00:00"
-  },
-  {
-    "id": "msg15741",
-    "title": "🧥 Winterwear Deals Starting at ₹189",
-    "description": "Flipkart | 🧥 Winterwear Deals Starting at ₹189 Extra Discount Using Supercoins Women : https://fkrt.co/bURViI Men : https://fkrt.co/eoO65X",
-    "shortlink": "https://fkrt.co/bURViI",
-    "urls": [
-      {
-        "url": "",
-        "label": "🧥 Winterwear Deals Starting at ₹189"
-      },
-      {
-        "url": "",
-        "label": "Extra Discount Using Supercoins"
-      },
-      {
-        "url": "https://fkrt.co/bURViI",
-        "label": "Women"
-      },
-      {
-        "url": "https://fkrt.co/eoO65X",
-        "label": "Men"
-      }
-    ],
-    "raw_text": "Flipkart | 🧥 Winterwear Deals Starting at ₹189\n\nExtra Discount Using Supercoins\n\nWomen : https://fkrt.co/bURViI\nMen : https://fkrt.co/eoO65X",
-    "final_url": "https://fkrt.co/bURViI",
-    "local_image": "assets/images/tgmsg_15741.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-05T12:50:05+00:00",
-    "buy_link": "https://fkrt.co/bURViI",
-    "date_iso": "2025-11-05T12:50:05+00:00"
   }
 ]
