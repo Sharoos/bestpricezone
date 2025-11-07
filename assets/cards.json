@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg16124",
+    "title": "🛒 Deal Price ₹315",
+    "description": "Myntra | Head & Shoulders Shampoo 650ml 🛒 Deal Price: ₹315 https://myntr.in/a9eg0E",
+    "shortlink": "https://myntr.in/a9eg0E",
+    "urls": [
+      {
+        "url": "",
+        "label": "Head & Shoulders Shampoo 650ml"
+      },
+      {
+        "url": "https://myntr.in/a9eg0E",
+        "label": "🛒 Deal Price: ₹315"
+      }
+    ],
+    "raw_text": "Myntra | Head & Shoulders Shampoo 650ml\n\n🛒 Deal Price: ₹315\n\nhttps://myntr.in/a9eg0E",
+    "final_url": "https://myntr.in/a9eg0E",
+    "local_image": "assets/images/tgmsg_16124.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-07T19:01:27+00:00",
+    "buy_link": "https://myntr.in/a9eg0E",
+    "date_iso": "2025-11-07T19:01:27+00:00"
+  },
+  {
+    "id": "msg16125",
+    "title": "Boroplus Antiseptic And Moisturising Bathing Soap Pack of 6 @₹192",
+    "description": "Amazon | Boroplus Antiseptic And Moisturising Bathing Soap Pack of 6 @₹192 https://www.amazon.in/dp/B08K47RPCN?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B08K47RPCN?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B08K47RPCN?th=1&tag=bestpricezo0f-21",
+        "label": "Boroplus Antiseptic And Moisturising Bathing Soap Pack of 6 @₹192"
+      }
+    ],
+    "raw_text": "Amazon | Boroplus Antiseptic And Moisturising Bathing Soap Pack of 6 @₹192\n\nhttps://www.amazon.in/dp/B08K47RPCN?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B08K47RPCN?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16125.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-07T19:02:23+00:00",
+    "buy_link": "https://www.amazon.in/dp/B08K47RPCN?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-07T19:02:23+00:00"
+  },
+  {
+    "id": "msg16126",
+    "title": "Engage Man Deodorant Urge, 150ml @₹97",
+    "description": "Amazon | Engage Man Deodorant Urge, 150ml @₹97 https://www.amazon.in/dp/B00JKHNLNM?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B00JKHNLNM?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B00JKHNLNM?th=1&tag=bestpricezo0f-21",
+        "label": "Engage Man Deodorant Urge, 150ml @₹97"
+      }
+    ],
+    "raw_text": "Amazon | Engage Man Deodorant Urge, 150ml @₹97\n\nhttps://www.amazon.in/dp/B00JKHNLNM?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B00JKHNLNM?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16126.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-07T19:11:02+00:00",
+    "buy_link": "https://www.amazon.in/dp/B00JKHNLNM?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-07T19:11:02+00:00"
+  },
+  {
     "id": "msg16115",
     "title": "Up to 73% Off On Head & Shoulders Shampoo’",
     "description": "Myntra  Upto 73% Off On Head & Shoulders Shampoo’s. https://myntr.in/NeLqkx",
@@ -9382,97 +9446,5 @@
     "date_obj": "2025-11-05T10:39:01+00:00",
     "buy_link": "https://extp.in/d4QSsR",
     "date_iso": "2025-11-05T10:39:01+00:00"
-  },
-  {
-    "id": "msg15724",
-    "title": "boAt Stone 350 Type C Speaker With Up to 12 Hours Playback Only at Rs. 1379",
-    "description": "Myntra | boAt Stone 352 Type C Bluetooth Speaker With 12 Hrs Playtime Only at Rs. 1100 👉 boAt Stone 190 Pro Wired & Wireless Speaker Only at Rs. 829 👉 boAt Airdopes Joy True Wireless Earbuds Only at Rs. 699 👉 boAt…",
-    "shortlink": "https://myntr.in/Qm52Pk",
-    "urls": [
-      {
-        "url": "https://myntr.in/Qm52Pk",
-        "label": "boAt Stone 352 Type C Bluetooth Speaker With 12 Hrs Playtime Only at Rs. 1100"
-      },
-      {
-        "url": "https://myntr.in/OFnVpe",
-        "label": "boAt Stone 190 Pro Wired & Wireless Speaker Only at Rs. 829"
-      },
-      {
-        "url": "https://myntr.in/bVm3y0",
-        "label": "boAt Airdopes Joy True Wireless Earbuds Only at Rs. 699"
-      },
-      {
-        "url": "https://myntr.in/k3q22T",
-        "label": "boAt Airdopes 121 Pro Plus TWS EarBuds w/ 100H Playtime, 4 Mics w/ ENx & BEAST Mode Only at Rs. 1049"
-      },
-      {
-        "url": "https://myntr.in/pdHsLM",
-        "label": "Ear Wired Earphones - Raging Black Only at Rs. 209"
-      },
-      {
-        "url": "https://myntr.in/aj6joR",
-        "label": "boAt Rockerz 413 Wireless Headphones with 40mm Drivers & 60H Playback Only at Rs. 1149"
-      },
-      {
-        "url": "https://myntr.in/t3Mvzz",
-        "label": "boAt Nirvana X TWS Earbuds with 10mm Dual Drivers Only at Rs. 2299"
-      },
-      {
-        "url": "https://myntr.in/zDlD4d",
-        "label": "boAt Stone 350 Type C Speaker With Upto 12 Hours Playback Only at Rs. 1379"
-      }
-    ],
-    "raw_text": "Myntra | boAt Stone 352 Type C Bluetooth Speaker With 12 Hrs Playtime Only at Rs. 1100       \n👉https://myntr.in/Qm52Pk \n\nboAt Stone 190 Pro Wired & Wireless Speaker Only at Rs. 829        \n👉https://myntr.in/OFnVpe\n\nboAt Airdopes Joy True Wireless Earbuds Only at Rs. 699        \n👉https://myntr.in/bVm3y0\n\nboAt Airdopes 121 Pro Plus TWS EarBuds w/ 100H Playtime, 4 Mics w/ ENx & BEAST Mode Only at Rs. 1049       \n👉https://myntr.in/k3q22T\n\nboAt Bassheads 211 In-Ear Wired Earphones - Raging Black Only at Rs. 209       \n👉https://myntr.in/pdHsLM\n\nboAt Rockerz 413 Wireless Headphones with 40mm Drivers & 60H Playback Only at Rs. 1149       \n👉https://myntr.in/aj6joR\n\nboAt Nirvana X TWS Earbuds with 10mm Dual Drivers Only at Rs. 2299        \n👉https://myntr.in/t3Mvzz\n \nboAt Stone 350 Type C Speaker With Upto 12 Hours Playback Only at Rs. 1379       \n👉https://myntr.in/zDlD4d",
-    "final_url": "https://myntr.in/Qm52Pk",
-    "local_image": "assets/images/tgmsg_15724.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-05T10:47:20+00:00",
-    "buy_link": "https://myntr.in/Qm52Pk",
-    "date_iso": "2025-11-05T10:47:20+00:00"
-  },
-  {
-    "id": "msg15722",
-    "title": "🛒 Deal Price ₹150",
-    "description": "Amazon | 🎒 Backpack Bonanza - Combo Set of 2! 🛒 Deal Price: ₹150 👉 https://www.amazon.in/dp/B0FNKHH7FV?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FNKHH7FV?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🎒 Backpack Bonanza - Combo Set of 2!"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0FNKHH7FV?tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹150"
-      }
-    ],
-    "raw_text": "Amazon | 🎒 Backpack Bonanza - Combo Set of 2!\n\n🛒 Deal Price: ₹150\n\n👉 https://www.amazon.in/dp/B0FNKHH7FV?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FNKHH7FV?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15722.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-05T10:15:28+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FNKHH7FV?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-05T10:15:28+00:00"
-  },
-  {
-    "id": "msg15721",
-    "title": "Winter Blankets starting @ 299",
-    "description": "Myntra | Winter Blankets starting @ 299 👉 https://myntr.in/LNr13q",
-    "shortlink": "https://myntr.in/LNr13q",
-    "urls": [
-      {
-        "url": "https://myntr.in/LNr13q",
-        "label": "Winter Blankets starting @ 299"
-      }
-    ],
-    "raw_text": "Myntra | Winter Blankets starting @ 299\n\n👉 https://myntr.in/LNr13q",
-    "final_url": "https://myntr.in/LNr13q",
-    "local_image": "assets/images/tgmsg_15721.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-05T10:00:06+00:00",
-    "buy_link": "https://myntr.in/LNr13q",
-    "date_iso": "2025-11-05T10:00:06+00:00"
   }
 ]
