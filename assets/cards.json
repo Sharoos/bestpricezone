@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg16051",
+    "title": "Grocery Up to 90% Off + Extra Savings 🔥🔥",
+    "description": "Flipkart Grocery : Upto 90% Off + Extra Savings 🔥🔥 🛒 Main Link: • Atta/Rice → • Oil/Ghee → • Snacks → • Oral Care → • Tea/Coffee → 💥 Extra: ₹125 Off ₹2999+ | ₹225 Off ₹3999+ | ₹200 Off (SBI ₹2499+) | 5% Off (FK Axis)",
+    "shortlink": "https://fkrt.co/w0B9IP",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 90% Off + Extra Savings 🔥🔥"
+      },
+      {
+        "url": "https://fkrt.co/w0B9IP",
+        "label": "🛒 Main"
+      },
+      {
+        "url": "https://fkrt.co/kpZKj3",
+        "label": "Atta/Rice →"
+      },
+      {
+        "url": "https://fkrt.co/k5Yx8J",
+        "label": "Oil/Ghee →"
+      },
+      {
+        "url": "https://fkrt.co/S2kAfO",
+        "label": "Snacks →"
+      },
+      {
+        "url": "https://fkrt.co/05Ad48",
+        "label": "Oral Care →"
+      },
+      {
+        "url": "https://fkrt.co/rCEYVi",
+        "label": "Tea/Coffee →"
+      },
+      {
+        "url": "",
+        "label": "💥 Extra: ₹125 Off ₹2999+ | ₹225 Off ₹3999+ | ₹200 Off (SBI ₹2499+) | 5% Off (FK Axis)"
+      }
+    ],
+    "raw_text": "Flipkart Grocery   : Upto 90% Off + Extra Savings 🔥🔥\n\n🛒 Main Link: https://fkrt.co/w0B9IP\n\n• Atta/Rice → https://fkrt.co/kpZKj3\n• Oil/Ghee → https://fkrt.co/k5Yx8J\n• Snacks → https://fkrt.co/S2kAfO\n• Oral Care → https://fkrt.co/05Ad48\n• Tea/Coffee → https://fkrt.co/rCEYVi\n\n💥 Extra: ₹125 Off ₹2999+ | ₹225 Off ₹3999+ | ₹200 Off (SBI ₹2499+) | 5% Off (FK Axis)",
+    "final_url": "https://fkrt.co/w0B9IP",
+    "local_image": "assets/images/tgmsg_16051.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-07T10:33:19+00:00",
+    "buy_link": "https://fkrt.co/w0B9IP",
+    "date_iso": "2025-11-07T10:33:19+00:00"
+  },
+  {
     "id": "msg16048",
     "title": "Get Flat 40–60% OFF on premium Superdry styles 💯",
     "description": "🧥 Superdry Collection LIVE on AJIO! 🔥  👕 T-Shirts | 🧢 Jackets | 👖 Jeans | 🎒 Bags & More ⭐️ Top picks : Logo Tees, Windbreaker Jackets, and Tailored Shirts 💳 Extra bank offers available – no promo code needed! 🛍 Shop Now…",
@@ -9390,25 +9438,5 @@
     "date_obj": "2025-11-04T19:06:48+00:00",
     "buy_link": "https://www.amazon.in/dp/B0BQRNHR48?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-04T19:06:48+00:00"
-  },
-  {
-    "id": "msg15660",
-    "title": "Louis Philippe Men's Durable & All Day Comfort Smart fit Denim @₹773",
-    "description": "Amazon | Louis Philippe Men's Durable & All Day Comfort Smart fit Denim @₹773 https://www.amazon.in/dp/B0F1NDNVBZ?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F1NDNVBZ?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F1NDNVBZ?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Louis Philippe Men's Durable & All Day Comfort Smart fit Denim @₹773"
-      }
-    ],
-    "raw_text": "Amazon | Louis Philippe Men's Durable & All Day Comfort Smart fit Denim @₹773\n\nhttps://www.amazon.in/dp/B0F1NDNVBZ?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F1NDNVBZ?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15660.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-04T19:07:43+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F1NDNVBZ?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-04T19:07:43+00:00"
   }
 ]
