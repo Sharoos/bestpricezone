@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16056",
+    "title": "Popular Winter blankets under 1019",
+    "description": "Myntra | Popular Winter blankets under 1019 👉 Link : https://myntr.in/J6Hfln",
+    "shortlink": "https://myntr.in/J6Hfln",
+    "urls": [
+      {
+        "url": "https://myntr.in/J6Hfln",
+        "label": "Popular Winter blankets under 1019"
+      }
+    ],
+    "raw_text": "Myntra | Popular Winter blankets under 1019\n\n👉 Link : https://myntr.in/J6Hfln",
+    "final_url": "https://myntr.in/J6Hfln",
+    "local_image": "assets/images/tgmsg_16056.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-07T11:20:02+00:00",
+    "buy_link": "https://myntr.in/J6Hfln",
+    "date_iso": "2025-11-07T11:20:02+00:00"
+  },
+  {
     "id": "msg16054",
     "title": "Up to 90% Off On Women Handbag",
     "description": "Myntra : Upto 90% Off On Women Handbags. Master Link : Lavie : Caprese : Bagsy Malone : DressBerry : French Connection : Lino Perros :",
@@ -9510,25 +9530,5 @@
     "date_obj": "2025-11-04T19:02:17+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CF9NVXW5?tag=bestpricezo0f-21",
     "date_iso": "2025-11-04T19:02:17+00:00"
-  },
-  {
-    "id": "msg15655",
-    "title": "Vivel Moisturizing Body Wash, 1500ml @₹240",
-    "description": "Amazon | Vivel Moisturizing Body Wash, 1500ml @₹240 https://www.amazon.in/dp/B0CMTQBNQT?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CMTQBNQT?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CMTQBNQT?tag=bestpricezo0f-21",
-        "label": "Vivel Moisturizing Body Wash, 1500ml @₹240"
-      }
-    ],
-    "raw_text": "Amazon | Vivel Moisturizing Body Wash, 1500ml @₹240\n\nhttps://www.amazon.in/dp/B0CMTQBNQT?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CMTQBNQT?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15655.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-04T19:03:11+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CMTQBNQT?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-04T19:03:11+00:00"
   }
 ]
