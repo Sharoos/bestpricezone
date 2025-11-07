@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg16104",
+    "title": "Min 60% off on Rashki luxury handbag",
+    "description": "Myntra | s 👉 Min 60% off on Kazo Women's handbags 👉 Min 60% on Exotic Women's handbags 👉",
+    "shortlink": "https://myntr.in/QGyOwA",
+    "urls": [
+      {
+        "url": "https://myntr.in/QGyOwA",
+        "label": "Min 60% off on Rashki luxury handbags"
+      },
+      {
+        "url": "https://myntr.in/IVmj10",
+        "label": "Min 60% off on Kazo Women's handbags"
+      },
+      {
+        "url": "https://myntr.in/c6JKz5",
+        "label": "Min 60% on Exotic Women's handbags"
+      }
+    ],
+    "raw_text": "Myntra | Min 60% off on Rashki luxury handbags\n👉https://myntr.in/QGyOwA\n\nMin 60% off on Kazo Women's handbags\n👉https://myntr.in/IVmj10\n\nMin 60% on Exotic Women's handbags\n👉https://myntr.in/c6JKz5",
+    "final_url": "https://myntr.in/QGyOwA",
+    "local_image": "assets/images/tgmsg_16104.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-07T17:36:20+00:00",
+    "buy_link": "https://myntr.in/QGyOwA",
+    "date_iso": "2025-11-07T17:36:20+00:00"
+  },
+  {
     "id": "msg16101",
     "title": "Kuber makeup organiser at just Rs.299",
     "description": "Myntra | Kuber makeup organiser at just Rs.299. 👉https://myntr.in/bdFEjI",
@@ -9518,25 +9546,5 @@
     "date_obj": "2025-11-05T06:40:16+00:00",
     "buy_link": "https://extp.in/VyW6vA",
     "date_iso": "2025-11-05T06:40:16+00:00"
-  },
-  {
-    "id": "msg15698",
-    "title": "Up to 60% Off On Head & Shoulder Shampoo",
-    "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos. https://fkrt.co/ZQDuDh",
-    "shortlink": "https://fkrt.co/ZQDuDh",
-    "urls": [
-      {
-        "url": "https://fkrt.co/ZQDuDh",
-        "label": "Upto 60% Off On Head & Shoulder Shampoos"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos.\n\nhttps://fkrt.co/ZQDuDh",
-    "final_url": "https://fkrt.co/ZQDuDh",
-    "local_image": "assets/images/tgmsg_15698.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-05T05:56:17+00:00",
-    "buy_link": "https://fkrt.co/ZQDuDh",
-    "date_iso": "2025-11-05T05:56:17+00:00"
   }
 ]
