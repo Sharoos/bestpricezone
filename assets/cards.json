@@ -1,5 +1,117 @@
 [
   {
+    "id": "msg16187",
+    "title": "Up to 87% Off On HRX Shoe",
+    "description": "Myntra : Upto 87% Off On HRX Shoes. Men : https://myntr.in/Mqkzvm Women : https://myntr.in/dbSXpQ Clogs : Men : https://myntr.in/IX5vmv Women : https://myntr.in/B9lpej",
+    "shortlink": "https://myntr.in/Mqkzvm",
+    "urls": [
+      {
+        "url": "https://myntr.in/Mqkzvm",
+        "label": "Upto 87% Off On HRX Shoes"
+      },
+      {
+        "url": "https://myntr.in/dbSXpQ",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/IX5vmv",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/B9lpej",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra : Upto 87% Off On HRX Shoes.\n\nMen : https://myntr.in/Mqkzvm\nWomen : https://myntr.in/dbSXpQ\n\nClogs : \nMen : https://myntr.in/IX5vmv\nWomen : https://myntr.in/B9lpej",
+    "final_url": "https://myntr.in/Mqkzvm",
+    "local_image": "assets/images/tgmsg_16187.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-08T10:01:00+00:00",
+    "buy_link": "https://myntr.in/Mqkzvm",
+    "date_iso": "2025-11-08T10:01:00+00:00"
+  },
+  {
+    "id": "msg16188",
+    "title": "Men Polo Tshirts Starts at 180",
+    "description": "AJIO . Oversized Tshirts Starts at 190. Women : Men : Kids Clothing Boys : Girls : Infants :",
+    "shortlink": "https://ajiio.co/lfItOE",
+    "urls": [
+      {
+        "url": "https://ajiio.co/lfItOE",
+        "label": "AJIO Men Polo Tshirts Starts at 180"
+      },
+      {
+        "url": "",
+        "label": "Oversized Tshirts Starts at 190"
+      },
+      {
+        "url": "https://ajiio.co/i4QPb6",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/IHHQAG",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Kids Clothing"
+      },
+      {
+        "url": "https://ajiio.co/WwAIRs",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/VjX2mv",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/zQpUDg",
+        "label": "Infants"
+      }
+    ],
+    "raw_text": "AJIO  Men Polo Tshirts Starts at 180.\n\nhttps://ajiio.co/lfItOE\n\nOversized Tshirts Starts at 190.\n\nWomen : https://ajiio.co/i4QPb6\nMen : https://ajiio.co/IHHQAG\n\nKids Clothing \n\nBoys : https://ajiio.co/WwAIRs\nGirls : https://ajiio.co/VjX2mv\nInfants : https://ajiio.co/zQpUDg",
+    "final_url": "https://ajiio.co/lfItOE",
+    "local_image": "assets/images/tgmsg_16188.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-08T10:04:52+00:00",
+    "buy_link": "https://ajiio.co/lfItOE",
+    "date_iso": "2025-11-08T10:04:52+00:00"
+  },
+  {
+    "id": "msg16189",
+    "title": "Men's Footwear Starts at ₹99",
+    "description": "AJIO  Men's Footwear Starts at ₹99. 👉https://ajiio.co/uGLrCE Sports Shoes : https://ajiio.co/68S7qC Casual Shoes : https://ajiio.co/Ke9Lvk Sandals : https://ajiio.co/6WLnCp",
+    "shortlink": "https://ajiio.co/uGLrCE",
+    "urls": [
+      {
+        "url": "https://ajiio.co/uGLrCE",
+        "label": "AJIO Men's Footwear Starts at ₹99"
+      },
+      {
+        "url": "https://ajiio.co/68S7qC",
+        "label": "Sports Shoes"
+      },
+      {
+        "url": "https://ajiio.co/Ke9Lvk",
+        "label": "Casual Shoes"
+      },
+      {
+        "url": "https://ajiio.co/6WLnCp",
+        "label": "Sandals"
+      }
+    ],
+    "raw_text": "AJIO  Men's Footwear Starts at ₹99.\n\n👉https://ajiio.co/uGLrCE \n\nSports Shoes : https://ajiio.co/68S7qC \nCasual Shoes : https://ajiio.co/Ke9Lvk \nSandals : https://ajiio.co/6WLnCp",
+    "final_url": "https://ajiio.co/uGLrCE",
+    "local_image": "assets/images/tgmsg_16189.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-08T10:16:30+00:00",
+    "buy_link": "https://ajiio.co/uGLrCE",
+    "date_iso": "2025-11-08T10:16:30+00:00"
+  },
+  {
     "id": "msg16186",
     "title": "Kenstar Grill Sandwich Maker @ 899",
     "description": "Flipkart | Kenstar Grill Sandwich Maker @ 899. 👉https://fkrt.co/3bA9eN",
@@ -9310,181 +9422,5 @@
     "date_obj": "2025-11-05T17:24:27+00:00",
     "buy_link": "https://ajiio.co/5fQV0g",
     "date_iso": "2025-11-05T17:24:27+00:00"
-  },
-  {
-    "id": "msg15787",
-    "title": "✅ 5% Cashback on 2 selected brands (Zomato, , Nykaa, Blinkit, etc.)",
-    "description": "🔥🔥 HDFC Pixel Play Credit Card – Now Lifetime FREE [Limited Time] 📲Apply Now: 🔹 Eligibility : ✔️ Age: 21–60 ✔️ Credit Score: 650+ ✔️ ₹500 Joining Fee → Now Waived! 🔹 Benefits : ✅ 5% Cashback on 2 selected brands…",
-    "shortlink": "https://extp.in/0ZhRW9",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥🔥 HDFC Pixel Play Credit Card – Now Lifetime FREE [Limited Time]"
-      },
-      {
-        "url": "https://extp.in/0ZhRW9",
-        "label": "📲Apply Now"
-      },
-      {
-        "url": "",
-        "label": "✔️ Age: 21–60"
-      },
-      {
-        "url": "",
-        "label": "✔️ Credit Score: 650+"
-      },
-      {
-        "url": "",
-        "label": "✔️ ₹500 Joining Fee → Now Waived!"
-      },
-      {
-        "url": "",
-        "label": "✅ 5% Cashback on 2 selected brands (Zomato, Myntra, Nykaa, Blinkit, etc.)"
-      },
-      {
-        "url": "",
-        "label": "✅ 5% on HDFC SmartBuy"
-      },
-      {
-        "url": "",
-        "label": "✅ 3% on Amazon or Flipkart"
-      },
-      {
-        "url": "",
-        "label": "✅ 1% on all other spends & UPI [Rupay]"
-      },
-      {
-        "url": "",
-        "label": "🎯 Custom billing cycle | Instant rewards | No joining fee"
-      }
-    ],
-    "raw_text": "🔥🔥 HDFC Pixel Play Credit Card – Now Lifetime FREE [Limited Time] \n\n📲Apply Now: https://extp.in/0ZhRW9\n\n🔹 Eligibility :\n✔️ Age: 21–60\n✔️ Credit Score: 650+\n✔️ ₹500 Joining Fee → Now Waived!\n\n🔹 Benefits :\n✅ 5% Cashback on 2 selected brands (Zomato, Myntra, Nykaa, Blinkit, etc.)\n✅ 5% on HDFC SmartBuy\n✅ 3% on Amazon or Flipkart\n✅ 1% on all other spends & UPI [Rupay]\n\n🎯 Custom billing cycle | Instant rewards | No joining fee",
-    "final_url": "https://extp.in/0ZhRW9",
-    "local_image": "assets/images/tgmsg_15787.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-05T17:29:52+00:00",
-    "buy_link": "https://extp.in/0ZhRW9",
-    "date_iso": "2025-11-05T17:29:52+00:00"
-  },
-  {
-    "id": "msg15788",
-    "title": "Up to 70% Off On Premium Brands Clothing + Extra 10% Super Cash",
-    "description": "AJIO Upto 70% Off On Premium Brands Clothing + Extra 10% Super Cash. 70% Off On GAS : Men : Women : Upto 68% Off On SUPERDRY : Men : Women : Min. 50% Off On GAP : Women : Men : Boys : Girls : Upto 65% Off On Calvin…",
-    "shortlink": "https://ajiio.co/W0gP4d",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 70% Off On Premium Brands Clothing + Extra 10% Super Cash"
-      },
-      {
-        "url": "https://ajiio.co/W0gP4d",
-        "label": "70% Off On GAS"
-      },
-      {
-        "url": "https://ajiio.co/xAGEYE",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/cskRVk",
-        "label": "Upto 68% Off On SUPERDRY"
-      },
-      {
-        "url": "https://ajiio.co/Do7OYq",
-        "label": "Women"
-      },
-      {
-        "url": "",
-        "label": "Min. 50% Off On GAP"
-      },
-      {
-        "url": "https://ajiio.co/GS3eLl",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/WOmPTs",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.co/sgHYLL",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/B2sJUn",
-        "label": "Girls"
-      },
-      {
-        "url": "https://ajiio.co/4UTNeW",
-        "label": "Upto 65% Off On Calvin Klein"
-      },
-      {
-        "url": "https://ajiio.co/RLV4nX",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/Kg2n0m",
-        "label": "60% Off On Tommy Hilfiger"
-      },
-      {
-        "url": "https://ajiio.co/eIFCzJ",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/KWUWpG",
-        "label": "55% Off On Armani Exchange"
-      },
-      {
-        "url": "https://ajiio.co/dFraPd",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "AJIO  Upto 70% Off On Premium Brands Clothing + Extra 10% Super Cash.\n\n70% Off On GAS :\nMen : https://ajiio.co/W0gP4d\nWomen : https://ajiio.co/xAGEYE\n\nUpto 68% Off On SUPERDRY :\nMen : https://ajiio.co/cskRVk\nWomen : https://ajiio.co/Do7OYq\n\nMin. 50% Off On GAP :\nWomen : https://ajiio.co/GS3eLl\nMen : https://ajiio.co/WOmPTs\nBoys : https://ajiio.co/sgHYLL\nGirls : https://ajiio.co/B2sJUn\n\nUpto 65% Off On Calvin Klein : \nMen : https://ajiio.co/4UTNeW\nWomen : https://ajiio.co/RLV4nX\n\n60% Off On Tommy Hilfiger : \nMen : https://ajiio.co/Kg2n0m\nWomen : https://ajiio.co/eIFCzJ\n\n55% Off On Armani Exchange :\nMen : https://ajiio.co/KWUWpG\nWomen : https://ajiio.co/dFraPd",
-    "final_url": "https://ajiio.co/W0gP4d",
-    "local_image": "assets/images/tgmsg_15788.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-05T17:30:12+00:00",
-    "buy_link": "https://ajiio.co/W0gP4d",
-    "date_iso": "2025-11-05T17:30:12+00:00"
-  },
-  {
-    "id": "msg15789",
-    "title": "Reliance Digital Midnight Sale Up to 60% Off",
-    "description": "Reliance Digital: Midnight Sale Upto 60% Off. iPhone: Wireless Earbuds: TV: AC: Valid 10:00PM TO 8:00AM.",
-    "shortlink": "https://bitli.in/dWL2y2g",
-    "urls": [
-      {
-        "url": "https://bitli.in/dWL2y2g",
-        "label": "Midnight Sale Upto 60% Off"
-      },
-      {
-        "url": "https://bitli.in/9j00ht0",
-        "label": "iPhone"
-      },
-      {
-        "url": "https://bitli.in/VuuZl69",
-        "label": "Wireless Earbuds"
-      },
-      {
-        "url": "https://bitli.in/ds9o3EF",
-        "label": "TV"
-      },
-      {
-        "url": "https://bitli.in/llkKmX9",
-        "label": "AC"
-      },
-      {
-        "url": "",
-        "label": "00PM TO 8:00AM"
-      }
-    ],
-    "raw_text": "Reliance Digital: Midnight Sale Upto 60% Off.\n\nhttps://bitli.in/dWL2y2g\n\niPhone: https://bitli.in/9j00ht0\nWireless Earbuds: https://bitli.in/VuuZl69\n\nTV: https://bitli.in/ds9o3EF\nAC: https://bitli.in/llkKmX9\n\nValid 10:00PM TO 8:00AM.",
-    "final_url": "https://bitli.in/dWL2y2g",
-    "local_image": "assets/images/tgmsg_15789.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-11-05T17:30:31+00:00",
-    "buy_link": "https://bitli.in/dWL2y2g",
-    "date_iso": "2025-11-05T17:30:31+00:00"
   }
 ]
