@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16214",
+    "title": "Adofys Travel Pillow Premium Memory Foam @₹699",
+    "description": "Amazon | Adofys Travel Pillow Premium Memory Foam @₹699 👉Link : https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
+        "label": "Adofys Travel Pillow Premium Memory Foam @₹699"
+      }
+    ],
+    "raw_text": "Amazon | Adofys Travel Pillow Premium Memory Foam @₹699\n\n👉Link : https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16214.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-08T13:46:28+00:00",
+    "buy_link": "https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-08T13:46:28+00:00"
+  },
+  {
     "id": "msg16212",
     "title": "🛒 Deal Price ₹1359",
     "description": "Flipkart | BAJAJ New Shakti 3HD HA Handi With IB 3 L Inner Lid Induction Bottom Pressure Cooker 🛒 Deal Price : ₹1359 👉",
@@ -9366,25 +9386,5 @@
     "date_obj": "2025-11-05T18:41:41+00:00",
     "buy_link": "https://myntr.in/EfJLOg",
     "date_iso": "2025-11-05T18:41:41+00:00"
-  },
-  {
-    "id": "msg15815",
-    "title": "line Mic @₹149",
-    "description": "Amazon | Wired Earphones with in-line Mic @₹149 https://www.amazon.in/dp/B0BM3LTJMN?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0BM3LTJMN?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BM3LTJMN?tag=bestpricezo0f-21",
-        "label": "Wired Earphones with in-line Mic @₹149"
-      }
-    ],
-    "raw_text": "Amazon | Wired Earphones with in-line Mic @₹149\n\nhttps://www.amazon.in/dp/B0BM3LTJMN?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BM3LTJMN?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15815.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-05T18:43:04+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BM3LTJMN?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-05T18:43:04+00:00"
   }
 ]
