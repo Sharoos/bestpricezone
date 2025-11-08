@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16221",
+    "title": "+ 10% SUPERCASH",
+    "description": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 105🔥 🔗🔗Link : + 10% AJIO SUPERCASH",
+    "shortlink": "https://ajiio.co/V5QIhp",
+    "urls": [
+      {
+        "url": "https://ajiio.co/V5QIhp",
+        "label": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 105🔥"
+      },
+      {
+        "url": "",
+        "label": "+ 10% AJIO SUPERCASH"
+      }
+    ],
+    "raw_text": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 105🔥 \n \n🔗🔗Link : https://ajiio.co/V5QIhp\n\n+ 10% AJIO SUPERCASH",
+    "final_url": "https://ajiio.co/V5QIhp",
+    "local_image": "assets/images/tgmsg_16221.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-08T14:36:12+00:00",
+    "buy_link": "https://ajiio.co/V5QIhp",
+    "date_iso": "2025-11-08T14:36:12+00:00"
+  },
+  {
     "id": "msg16219",
     "title": "Beardo Perfume Starting from Rs.87",
     "description": "Myntra | Beardo Perfume Starting from Rs.87 👉https://myntr.in/BklHUR",
@@ -9322,29 +9346,5 @@
     "date_obj": "2025-11-05T19:13:07+00:00",
     "buy_link": "https://fkrt.co/4sWyQq",
     "date_iso": "2025-11-05T19:13:07+00:00"
-  },
-  {
-    "id": "msg15836",
-    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
-    "description": "Ajio | Beauty and Personal Care Under 399 👉Link : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "shortlink": "https://ajiio.co/yaLCXg",
-    "urls": [
-      {
-        "url": "https://ajiio.co/yaLCXg",
-        "label": "Beauty and Personal Care Under 399"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
-      }
-    ],
-    "raw_text": "Ajio | Beauty and Personal Care Under 399\n\n👉Link : https://ajiio.co/yaLCXg\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "final_url": "https://ajiio.co/yaLCXg",
-    "local_image": "assets/images/tgmsg_15836.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-05T19:14:39+00:00",
-    "buy_link": "https://ajiio.co/yaLCXg",
-    "date_iso": "2025-11-05T19:14:39+00:00"
   }
 ]
