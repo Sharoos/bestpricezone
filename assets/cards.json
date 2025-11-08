@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16212",
+    "title": "🛒 Deal Price ₹1359",
+    "description": "Flipkart | BAJAJ New Shakti 3HD HA Handi With IB 3 L Inner Lid Induction Bottom Pressure Cooker 🛒 Deal Price : ₹1359 👉",
+    "shortlink": "https://fkrt.co/JDRek6",
+    "urls": [
+      {
+        "url": "",
+        "label": "BAJAJ New Shakti 3HD HA Handi With IB 3 L Inner Lid Induction Bottom Pressure Cooker"
+      },
+      {
+        "url": "https://fkrt.co/JDRek6",
+        "label": "🛒 Deal Price : ₹1359"
+      }
+    ],
+    "raw_text": "Flipkart | BAJAJ New Shakti 3HD HA Handi With IB 3 L Inner Lid Induction Bottom Pressure Cooker\n\n🛒 Deal Price : ₹1359\n\n👉https://fkrt.co/JDRek6",
+    "final_url": "https://fkrt.co/JDRek6",
+    "local_image": "assets/images/tgmsg_16212.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-08T13:35:43+00:00",
+    "buy_link": "https://fkrt.co/JDRek6",
+    "date_iso": "2025-11-08T13:35:43+00:00"
+  },
+  {
     "id": "msg16208",
     "title": "Up to 60% Off On Skechers Shoe",
     "description": "Myntra Upto 60% Off On Skechers Shoes Women : Men : More Skechers Shoes : Men : Women : Girls : Boys :",
@@ -9362,29 +9386,5 @@
     "date_obj": "2025-11-05T18:43:04+00:00",
     "buy_link": "https://www.amazon.in/dp/B0BM3LTJMN?tag=bestpricezo0f-21",
     "date_iso": "2025-11-05T18:43:04+00:00"
-  },
-  {
-    "id": "msg15817",
-    "title": "💥Brands at High Off Mood!!",
-    "description": "💥Ajio | Brands at High Off Mood!! 🔥Superdry : https://ajiio.co/vEYT4X 🔥Armani Exchange : https://ajiio.co/paXhix",
-    "shortlink": "https://ajiio.co/vEYT4X",
-    "urls": [
-      {
-        "url": "https://ajiio.co/vEYT4X",
-        "label": "💥Ajio | Brands at High Off Mood!!"
-      },
-      {
-        "url": "https://ajiio.co/paXhix",
-        "label": "🔥Armani Exchange"
-      }
-    ],
-    "raw_text": "💥Ajio | Brands at High Off Mood!!\n\n🔥Superdry : \nhttps://ajiio.co/vEYT4X\n\n🔥Armani Exchange : \nhttps://ajiio.co/paXhix",
-    "final_url": "https://ajiio.co/vEYT4X",
-    "local_image": "assets/images/tgmsg_15817.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-05T18:51:40+00:00",
-    "buy_link": "https://ajiio.co/vEYT4X",
-    "date_iso": "2025-11-05T18:51:40+00:00"
   }
 ]
