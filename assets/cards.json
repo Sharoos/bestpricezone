@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16197",
+    "title": "Home Centre Products at Min 40%",
+    "description": "MYNTRA | Home Centre Products at Min 40% https://myntr.in/CzuqvW",
+    "shortlink": "https://myntr.in/CzuqvW",
+    "urls": [
+      {
+        "url": "https://myntr.in/CzuqvW",
+        "label": "Home Centre Products at Min 40%"
+      }
+    ],
+    "raw_text": "MYNTRA | Home Centre Products at Min 40% \n\nhttps://myntr.in/CzuqvW",
+    "final_url": "https://myntr.in/CzuqvW",
+    "local_image": "assets/images/tgmsg_16197.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-08T11:36:10+00:00",
+    "buy_link": "https://myntr.in/CzuqvW",
+    "date_iso": "2025-11-08T11:36:10+00:00"
+  },
+  {
     "id": "msg16194",
     "title": "`Up to 80% off Michael Angelo Footwea",
     "description": "`Amazon | Upto 80% off : Michael Angelo Footwear…",
@@ -9342,25 +9362,5 @@
     "date_obj": "2025-11-05T18:33:41+00:00",
     "buy_link": "https://fkrt.co/OcLceb",
     "date_iso": "2025-11-05T18:33:41+00:00"
-  },
-  {
-    "id": "msg15805",
-    "title": "🧳 SAKSHI FASHION 70L Strolley Duffel Bag – Just ₹196",
-    "description": "Flipkart | 🧳 SAKSHI FASHION 70L Strolley Duffel Bag – Just ₹196 👉   https://fkrt.co/ph5tvk",
-    "shortlink": "https://fkrt.co/ph5tvk",
-    "urls": [
-      {
-        "url": "https://fkrt.co/ph5tvk",
-        "label": "🧳 SAKSHI FASHION 70L Strolley Duffel Bag – Just ₹196"
-      }
-    ],
-    "raw_text": "Flipkart | 🧳 SAKSHI FASHION 70L Strolley Duffel Bag – Just ₹196\n\n👉   https://fkrt.co/ph5tvk",
-    "final_url": "https://fkrt.co/ph5tvk",
-    "local_image": "assets/images/tgmsg_15805.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-05T18:34:54+00:00",
-    "buy_link": "https://fkrt.co/ph5tvk",
-    "date_iso": "2025-11-05T18:34:54+00:00"
   }
 ]
