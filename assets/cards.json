@@ -1,5 +1,85 @@
 [
   {
+    "id": "msg16239",
+    "title": "₹286",
+    "description": "₹286 https://fkrt.co/cB2IYq",
+    "shortlink": "https://fkrt.co/cB2IYq",
+    "urls": [
+      {
+        "url": "https://fkrt.co/cB2IYq",
+        "label": ""
+      }
+    ],
+    "raw_text": "₹286\n\n https://fkrt.co/cB2IYq",
+    "final_url": "https://fkrt.co/cB2IYq",
+    "local_image": "assets/images/tgmsg_16239.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-08T18:32:13+00:00",
+    "buy_link": "https://fkrt.co/cB2IYq",
+    "date_iso": "2025-11-08T18:32:13+00:00"
+  },
+  {
+    "id": "msg16240",
+    "title": "Vim Dishwash Liquid 3.2L @₹362",
+    "description": "Amazon | Vim Dishwash Liquid 3.2L @₹362 https://www.amazon.in/dp/B0D8HW8SZ7?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0D8HW8SZ7?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0D8HW8SZ7?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Vim Dishwash Liquid 3.2L @₹362"
+      }
+    ],
+    "raw_text": "Amazon | Vim Dishwash Liquid 3.2L @₹362\n\nhttps://www.amazon.in/dp/B0D8HW8SZ7?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D8HW8SZ7?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16240.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-08T18:33:28+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D8HW8SZ7?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-08T18:33:28+00:00"
+  },
+  {
+    "id": "msg16241",
+    "title": "Wooden Piggy Bank @99",
+    "description": "Amazon | Wooden Piggy Bank @99. https://www.amazon.in/dp/B0FL2TR88K?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FL2TR88K?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FL2TR88K?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Wooden Piggy Bank @99"
+      }
+    ],
+    "raw_text": "Amazon | Wooden Piggy Bank @99.\n\nhttps://www.amazon.in/dp/B0FL2TR88K?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FL2TR88K?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16241.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-08T18:35:12+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FL2TR88K?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-08T18:35:12+00:00"
+  },
+  {
+    "id": "msg16244",
+    "title": "Lee Cooper Men's Sandal @460",
+    "description": "Amazon | Lee Cooper Men's Sandal @460 https://www.amazon.in/dp/B0CSK9875T?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CSK9875T?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CSK9875T?tag=bestpricezo0f-21",
+        "label": "Lee Cooper Men's Sandal @460"
+      }
+    ],
+    "raw_text": "Amazon | Lee Cooper Men's Sandal @460\n \nhttps://www.amazon.in/dp/B0CSK9875T?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CSK9875T?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16244.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-08T18:45:02+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CSK9875T?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-08T18:45:02+00:00"
+  },
+  {
     "id": "msg16236",
     "title": "Ketch, Locomotive, Highlander Clothing Starts @ 119",
     "description": "Myntra | . Tshirts : Shirts : Jeans : Trousers : Winterwears : Trackpants : Shorts :",
@@ -9414,109 +9494,5 @@
     "date_obj": "2025-11-05T19:18:54+00:00",
     "buy_link": "https://myntr.in/cnh65j",
     "date_iso": "2025-11-05T19:18:54+00:00"
-  },
-  {
-    "id": "msg15841",
-    "title": "🛒 Deal Price Up to 81% Off",
-    "description": "Myntra | 👗 Libas Women's Clothing - Up to 81% Off Kurta 🛒 Deal Price: Up to 81% Off Kurta Sets 🛒 Deal Price: Up to 81% Off",
-    "shortlink": "https://myntr.in/C7jn2u",
-    "urls": [
-      {
-        "url": "",
-        "label": "👗 Libas Women's Clothing - Up to 81% Off"
-      },
-      {
-        "url": "https://myntr.in/C7jn2u",
-        "label": "🛒 Deal Price: Up to 81% Off"
-      },
-      {
-        "url": "",
-        "label": "Kurta Sets"
-      },
-      {
-        "url": "https://myntr.in/qTiZoI",
-        "label": "🛒 Deal Price: Up to 81% Off"
-      }
-    ],
-    "raw_text": "Myntra | 👗 Libas Women's Clothing - Up to 81% Off\n\nKurta\n🛒 Deal Price: Up to 81% Off\nhttps://myntr.in/C7jn2u\n\nKurta Sets\n🛒 Deal Price: Up to 81% Off\nhttps://myntr.in/qTiZoI",
-    "final_url": "https://myntr.in/C7jn2u",
-    "local_image": "assets/images/tgmsg_15841.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-05T19:19:38+00:00",
-    "buy_link": "https://myntr.in/C7jn2u",
-    "date_iso": "2025-11-05T19:19:38+00:00"
-  },
-  {
-    "id": "msg15842",
-    "title": "🛒 Deal Price Up to 41% OFF",
-    "description": "Amazon | 🛁 Wash Away Bad Hair Days! 🛒 Deal Price: Up to 41% OFF https://www.amazon.in/dp/B09J2JW22M?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B09J2JW22M?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🛁 Wash Away Bad Hair Days!"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B09J2JW22M?tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: Up to 41% OFF"
-      }
-    ],
-    "raw_text": "Amazon | 🛁 Wash Away Bad Hair Days!\n\n🛒 Deal Price: Up to 41% OFF\n\nhttps://www.amazon.in/dp/B09J2JW22M?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B09J2JW22M?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15842.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-05T19:20:33+00:00",
-    "buy_link": "https://www.amazon.in/dp/B09J2JW22M?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-05T19:20:33+00:00"
-  },
-  {
-    "id": "msg15843",
-    "title": "🛒 Deal Price ₹499",
-    "description": "Amazon | Zebronics 5 Watts Mini BT Speaker 🛒 Deal Price: ₹499 https://www.amazon.in/dp/B0CXTK7845?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CXTK7845?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Zebronics 5 Watts Mini BT Speaker"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0CXTK7845?tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹499"
-      }
-    ],
-    "raw_text": "Amazon | Zebronics 5 Watts Mini BT Speaker\n\n🛒 Deal Price: ₹499\n\nhttps://www.amazon.in/dp/B0CXTK7845?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CXTK7845?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15843.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-05T19:22:40+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CXTK7845?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-05T19:22:40+00:00"
-  },
-  {
-    "id": "msg15844",
-    "title": "🛒 Deal Price ₹378 (FLAT 42% OFF)",
-    "description": "Flipkart | Yuthika Aloe Vera Lotion 🛒 Deal Price : ₹378 (FLAT 42% OFF) https://fkrt.co/qGCges",
-    "shortlink": "https://fkrt.co/qGCges",
-    "urls": [
-      {
-        "url": "",
-        "label": "Yuthika Aloe Vera Lotion"
-      },
-      {
-        "url": "https://fkrt.co/qGCges",
-        "label": "🛒 Deal Price : ₹378 (FLAT 42% OFF)"
-      }
-    ],
-    "raw_text": "Flipkart | Yuthika Aloe Vera Lotion\n\n🛒 Deal Price : ₹378 (FLAT 42% OFF)\n\nhttps://fkrt.co/qGCges",
-    "final_url": "https://fkrt.co/qGCges",
-    "local_image": "assets/images/tgmsg_15844.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-05T19:25:14+00:00",
-    "buy_link": "https://fkrt.co/qGCges",
-    "date_iso": "2025-11-05T19:25:14+00:00"
   }
 ]
