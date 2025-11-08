@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16168",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
+    "description": "Ajio | Beauty and Personal Care Under 399 👉Link : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/qtkaEP",
+    "urls": [
+      {
+        "url": "https://ajiio.co/qtkaEP",
+        "label": "Beauty and Personal Care Under 399"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "Ajio | Beauty and Personal Care Under 399\n\n👉Link : https://ajiio.co/qtkaEP\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/qtkaEP",
+    "local_image": "assets/images/tgmsg_16168.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-08T07:45:23+00:00",
+    "buy_link": "https://ajiio.co/qtkaEP",
+    "date_iso": "2025-11-08T07:45:23+00:00"
+  },
+  {
     "id": "msg16167",
     "title": "Crompton 20W LED Batten (Pack of 10) @ 998",
     "description": "Flipkart | Crompton 20W LED Batten (Pack of 10) @ 998. https://fkrt.co/Mma9WM",
@@ -9442,25 +9466,5 @@
     "date_obj": "2025-11-05T15:04:36+00:00",
     "buy_link": "https://fkrt.co/EFNtDQ",
     "date_iso": "2025-11-05T15:04:36+00:00"
-  },
-  {
-    "id": "msg15763",
-    "title": "Voroxy Casual Shirts Starts at 260",
-    "description": "Flipkart | Voroxy Casual Shirts Starts at 260 👉https://fkrt.co/rdbsXc",
-    "shortlink": "https://fkrt.co/rdbsXc",
-    "urls": [
-      {
-        "url": "https://fkrt.co/rdbsXc",
-        "label": "Voroxy Casual Shirts Starts at 260"
-      }
-    ],
-    "raw_text": "Flipkart | Voroxy Casual Shirts Starts at 260\n\n👉https://fkrt.co/rdbsXc",
-    "final_url": "https://fkrt.co/rdbsXc",
-    "local_image": "assets/images/tgmsg_15763.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-05T14:20:02+00:00",
-    "buy_link": "https://fkrt.co/rdbsXc",
-    "date_iso": "2025-11-05T14:20:02+00:00"
   }
 ]
