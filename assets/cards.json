@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16142",
+    "title": "Denim Shirts Up to 81% Off",
+    "description": "Flipkart | Denim Shirts Upto 81% Off 👉https://fkrt.co/9c3NaQ",
+    "shortlink": "https://fkrt.co/9c3NaQ",
+    "urls": [
+      {
+        "url": "https://fkrt.co/9c3NaQ",
+        "label": "Denim Shirts Upto 81% Off"
+      }
+    ],
+    "raw_text": "Flipkart | Denim Shirts Upto 81% Off\n\n👉https://fkrt.co/9c3NaQ",
+    "final_url": "https://fkrt.co/9c3NaQ",
+    "local_image": "assets/images/tgmsg_16142.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-08T04:45:51+00:00",
+    "buy_link": "https://fkrt.co/9c3NaQ",
+    "date_iso": "2025-11-08T04:45:51+00:00"
+  },
+  {
     "id": "msg16141",
     "title": "Roadster Jeans Starts @ 324",
     "description": "Myntra : Roadster Jeans Starts @ 324. Men's : https://myntr.in/nkaFoi Women's : https://myntr.in/Wml3Rw",
@@ -9434,25 +9454,5 @@
     "date_obj": "2025-11-05T13:35:00+00:00",
     "buy_link": "https://ajiio.co/lDlZPh",
     "date_iso": "2025-11-05T13:35:00+00:00"
-  },
-  {
-    "id": "msg15734",
-    "title": "Up to 70% Off!",
-    "description": "Myntra | 🚿 Axe Body Wash & Shower Gel - Up to 70% Off! 👉https://myntr.in/Aqbpb2",
-    "shortlink": "https://myntr.in/Aqbpb2",
-    "urls": [
-      {
-        "url": "https://myntr.in/Aqbpb2",
-        "label": "🚿 Axe Body Wash & Shower Gel - Up to 70% Off!"
-      }
-    ],
-    "raw_text": "Myntra | 🚿 Axe Body Wash & Shower Gel - Up to 70% Off!\n\n👉https://myntr.in/Aqbpb2",
-    "final_url": "https://myntr.in/Aqbpb2",
-    "local_image": "assets/images/tgmsg_15734.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-05T12:00:07+00:00",
-    "buy_link": "https://myntr.in/Aqbpb2",
-    "date_iso": "2025-11-05T12:00:07+00:00"
   }
 ]
