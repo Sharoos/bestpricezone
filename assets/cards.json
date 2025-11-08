@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg16150",
+    "title": "💥Min. 60% off on USPA Clothing",
+    "description": "💥Ajio : Min. 60% off on USPA Clothing. Men's : https://ajiio.co/rzUhL1 Women’s : https://ajiio.co/GM7Mau Boy’s : https://ajiio.co/XX7Jj6",
+    "shortlink": "https://ajiio.co/rzUhL1",
+    "urls": [
+      {
+        "url": "",
+        "label": "💥Ajio : Min. 60% off on USPA Clothing"
+      },
+      {
+        "url": "https://ajiio.co/rzUhL1",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/GM7Mau",
+        "label": "Women’s"
+      },
+      {
+        "url": "https://ajiio.co/XX7Jj6",
+        "label": "Boy’s"
+      }
+    ],
+    "raw_text": "💥Ajio : Min. 60% off on USPA Clothing.\n\nMen's : https://ajiio.co/rzUhL1\nWomen’s : https://ajiio.co/GM7Mau\nBoy’s : https://ajiio.co/XX7Jj6",
+    "final_url": "https://ajiio.co/rzUhL1",
+    "local_image": "assets/images/tgmsg_16150.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-08T05:36:55+00:00",
+    "buy_link": "https://ajiio.co/rzUhL1",
+    "date_iso": "2025-11-08T05:36:55+00:00"
+  },
+  {
     "id": "msg16146",
     "title": "❇️ Aristocrat Duffle Bag Starts @478",
     "description": "❇️ Aristocrat Duffle Bag Starts @478 https://www.amazon.in/s?k=Aristocrat&rh=n%3A2917432031%2Cp_123%3A484241%2Cp_6%3AA6ULDMYWQBMT0%7CAXOGFIT0PZZ7G&s=price-asc-rank&i=luggage&tag=bestpricezo0f-21&",
@@ -9502,37 +9534,5 @@
     "date_obj": "2025-11-05T13:43:29+00:00",
     "buy_link": "https://extp.in/pGMRNL",
     "date_iso": "2025-11-05T13:43:29+00:00"
-  },
-  {
-    "id": "msg15756",
-    "title": "Limited time deal",
-    "description": "🔥Myntra | UNITED COLORS OF BENETTON perfumes BUY 1 GET 2 FREE EXLCUSIVE Limited time deal https://myntr.in/32OA9T https://myntr.in/HykbeS https://myntr.in/FDiGk6",
-    "shortlink": "https://myntr.in/32OA9T",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Myntra | UNITED COLORS OF BENETTON perfumes"
-      },
-      {
-        "url": "https://myntr.in/32OA9T",
-        "label": "Limited time deal"
-      },
-      {
-        "url": "https://myntr.in/HykbeS",
-        "label": "Limited time deal"
-      },
-      {
-        "url": "https://myntr.in/FDiGk6",
-        "label": "Limited time deal"
-      }
-    ],
-    "raw_text": "🔥Myntra | UNITED COLORS OF BENETTON perfumes\n\nBUY 1 GET 2 FREE EXLCUSIVE \n\nLimited time deal \n \nhttps://myntr.in/32OA9T\nhttps://myntr.in/HykbeS\nhttps://myntr.in/FDiGk6",
-    "final_url": "https://myntr.in/32OA9T",
-    "local_image": "assets/images/tgmsg_15756.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-05T13:51:46+00:00",
-    "buy_link": "https://myntr.in/32OA9T",
-    "date_iso": "2025-11-05T13:51:46+00:00"
   }
 ]
