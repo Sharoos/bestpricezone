@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16198",
+    "title": "Grocery Nutraj Arabian Premium Dates (Khajur) (1 x 500 g) @103",
+    "description": "Flipkart Grocery | Nutraj Arabian Premium Dates (Khajur) (1 x 500 g) @103 👉Link :",
+    "shortlink": "https://fkrt.co/3W0lTV",
+    "urls": [
+      {
+        "url": "https://fkrt.co/3W0lTV",
+        "label": "Nutraj Arabian Premium Dates (Khajur) (1 x 500 g) @103"
+      }
+    ],
+    "raw_text": "Flipkart Grocery | Nutraj Arabian Premium Dates (Khajur)  (1 x 500 g) @103\n\n👉Link : https://fkrt.co/3W0lTV",
+    "final_url": "https://fkrt.co/3W0lTV",
+    "local_image": "assets/images/tgmsg_16198.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-08T11:46:23+00:00",
+    "buy_link": "https://fkrt.co/3W0lTV",
+    "date_iso": "2025-11-08T11:46:23+00:00"
+  },
+  {
     "id": "msg16197",
     "title": "Home Centre Products at Min 40%",
     "description": "MYNTRA | Home Centre Products at Min 40% https://myntr.in/CzuqvW",
@@ -9342,25 +9362,5 @@
     "date_obj": "2025-11-05T18:33:40+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CKBVK23V/ref=cm_sw_r_as_gl_apa_gl_i_P5W268FH0VF083KGPQD5?tag=bestpricezo0f-21",
     "date_iso": "2025-11-05T18:33:40+00:00"
-  },
-  {
-    "id": "msg15803",
-    "title": "Crompton 20W LED Batten (Pack of 10) @ 998",
-    "description": "Flipkart | Crompton 20W LED Batten (Pack of 10) @ 998. https://fkrt.co/OcLceb",
-    "shortlink": "https://fkrt.co/OcLceb",
-    "urls": [
-      {
-        "url": "https://fkrt.co/OcLceb",
-        "label": "Crompton 20W LED Batten (Pack of 10) @ 998"
-      }
-    ],
-    "raw_text": "Flipkart | Crompton 20W LED Batten (Pack of 10) @ 998.\n\n  https://fkrt.co/OcLceb",
-    "final_url": "https://fkrt.co/OcLceb",
-    "local_image": "assets/images/tgmsg_15803.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-05T18:33:41+00:00",
-    "buy_link": "https://fkrt.co/OcLceb",
-    "date_iso": "2025-11-05T18:33:41+00:00"
   }
 ]
