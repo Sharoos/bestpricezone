@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16186",
+    "title": "Kenstar Grill Sandwich Maker @ 899",
+    "description": "Flipkart | Kenstar Grill Sandwich Maker @ 899. 👉https://fkrt.co/3bA9eN",
+    "shortlink": "https://fkrt.co/3bA9eN",
+    "urls": [
+      {
+        "url": "https://fkrt.co/3bA9eN",
+        "label": "Kenstar Grill Sandwich Maker @ 899"
+      }
+    ],
+    "raw_text": "Flipkart | Kenstar Grill Sandwich Maker @ 899.\n\n👉https://fkrt.co/3bA9eN",
+    "final_url": "https://fkrt.co/3bA9eN",
+    "local_image": "assets/images/tgmsg_16186.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-08T09:51:16+00:00",
+    "buy_link": "https://fkrt.co/3bA9eN",
+    "date_iso": "2025-11-08T09:51:16+00:00"
+  },
+  {
     "id": "msg16185",
     "title": "Wembley Toys Starting From 411",
     "description": "Myntra | Wembley Toys Starting From 411. 👉https://myntr.in/0dWCer",
@@ -9466,57 +9486,5 @@
     "date_obj": "2025-11-05T17:30:31+00:00",
     "buy_link": "https://bitli.in/dWL2y2g",
     "date_iso": "2025-11-05T17:30:31+00:00"
-  },
-  {
-    "id": "msg15781",
-    "title": "🔥Min 75% Off On Branded Trolleys/Suitcases + Bank Offe",
-    "description": "🔥Myntra : Min 75% Off On Branded Trolleys/Suitcases + Bank Offers Brandwise 🔽🔽 •Verage : •Aristocrat : •Teakwood Leathers : •Safari : •Skybags : •VIP : •Nasher Miles : •Wildcraft :",
-    "shortlink": "https://myntr.in/ztJoFR",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Myntra : Min 75% Off On Branded Trolleys/Suitcases + Bank Offers"
-      },
-      {
-        "url": "https://myntr.in/ztJoFR",
-        "label": "Verage"
-      },
-      {
-        "url": "https://myntr.in/Ch4lja",
-        "label": "Aristocrat"
-      },
-      {
-        "url": "https://myntr.in/d8yfNs",
-        "label": "Teakwood Leathers"
-      },
-      {
-        "url": "https://myntr.in/9vZZKc",
-        "label": "Safari"
-      },
-      {
-        "url": "https://myntr.in/abGA7O",
-        "label": "Skybags"
-      },
-      {
-        "url": "https://myntr.in/GgmGKg",
-        "label": "VIP"
-      },
-      {
-        "url": "https://myntr.in/r9LBPL",
-        "label": "Nasher Miles"
-      },
-      {
-        "url": "https://myntr.in/w4qPXZ",
-        "label": "Wildcraft"
-      }
-    ],
-    "raw_text": "🔥Myntra   : Min 75% Off On Branded Trolleys/Suitcases + Bank Offers \n\nBrandwise 🔽🔽\n•Verage : https://myntr.in/ztJoFR\n•Aristocrat : https://myntr.in/Ch4lja\n•Teakwood Leathers : https://myntr.in/d8yfNs\n•Safari : https://myntr.in/9vZZKc\n•Skybags : https://myntr.in/abGA7O\n•VIP : https://myntr.in/GgmGKg\n•Nasher Miles : https://myntr.in/r9LBPL\n•Wildcraft : https://myntr.in/w4qPXZ",
-    "final_url": "https://myntr.in/ztJoFR",
-    "local_image": "assets/images/tgmsg_15781.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-05T17:03:28+00:00",
-    "buy_link": "https://myntr.in/ztJoFR",
-    "date_iso": "2025-11-05T17:03:28+00:00"
   }
 ]
