@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16193",
+    "title": "70% Off",
+    "description": "Myntra | Dove, Tresemme 1L Shampoos 60 - 70% Off 👉Link : https://myntr.in/YEy6h2",
+    "shortlink": "https://myntr.in/YEy6h2",
+    "urls": [
+      {
+        "url": "https://myntr.in/YEy6h2",
+        "label": "Dove, Tresemme 1L Shampoos 60 - 70% Off"
+      }
+    ],
+    "raw_text": "Myntra | Dove, Tresemme 1L Shampoos 60 - 70% Off\n\n👉Link : https://myntr.in/YEy6h2",
+    "final_url": "https://myntr.in/YEy6h2",
+    "local_image": "assets/images/tgmsg_16193.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-08T10:51:03+00:00",
+    "buy_link": "https://myntr.in/YEy6h2",
+    "date_iso": "2025-11-08T10:51:03+00:00"
+  },
+  {
     "id": "msg16191",
     "title": "NIVEA Shea Smooth 600ml Body Lotion @ 359",
     "description": "Amazon | NIVEA Shea Smooth 600ml Body Lotion @ 359. https://www.amazon.in/dp/B099NNW9LL?th=1&smid=&tag=bestpricezo0f-21",
@@ -9342,29 +9362,5 @@
     "date_obj": "2025-11-05T18:38:12+00:00",
     "buy_link": "https://fkrt.co/oEyCXc",
     "date_iso": "2025-11-05T18:38:12+00:00"
-  },
-  {
-    "id": "msg15792",
-    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
-    "description": "Ajio | Beauty and Personal Care Under 399 👉Link : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "shortlink": "https://ajiio.co/ACz0TO",
-    "urls": [
-      {
-        "url": "https://ajiio.co/ACz0TO",
-        "label": "Beauty and Personal Care Under 399"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
-      }
-    ],
-    "raw_text": "Ajio | Beauty and Personal Care Under 399\n\n👉Link : https://ajiio.co/ACz0TO\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "final_url": "https://ajiio.co/ACz0TO",
-    "local_image": "assets/images/tgmsg_15792.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-05T17:51:29+00:00",
-    "buy_link": "https://ajiio.co/ACz0TO",
-    "date_iso": "2025-11-05T17:51:29+00:00"
   }
 ]
