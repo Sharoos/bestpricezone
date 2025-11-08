@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg16235",
+    "title": "Reliance Digital Midnight Sale Up to 60% Off",
+    "description": "Reliance Digital: Midnight Sale Upto 60% Off 👉 iPhone: Wireless Earbuds: TV: AC: Valid 10:00PM TO 6:00AM.",
+    "shortlink": "https://extp.in/T6r4zv",
+    "urls": [
+      {
+        "url": "https://extp.in/T6r4zv",
+        "label": "Midnight Sale Upto 60% Off"
+      },
+      {
+        "url": "https://extp.in/ZQUwzm",
+        "label": "iPhone"
+      },
+      {
+        "url": "https://extp.in/InBOUS",
+        "label": "Wireless Earbuds"
+      },
+      {
+        "url": "https://extp.in/MGCBEs",
+        "label": "TV"
+      },
+      {
+        "url": "https://extp.in/aMZw61",
+        "label": "AC"
+      },
+      {
+        "url": "",
+        "label": "00PM TO 6:00AM"
+      }
+    ],
+    "raw_text": "Reliance Digital: Midnight Sale Upto 60% Off\n\n👉 https://extp.in/T6r4zv\n\niPhone: https://extp.in/ZQUwzm\nWireless Earbuds: https://extp.in/InBOUS\n\nTV: https://extp.in/MGCBEs\nAC: https://extp.in/aMZw61\n\nValid 10:00PM TO 6:00AM.",
+    "final_url": "https://extp.in/T6r4zv",
+    "local_image": "assets/images/tgmsg_16235.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-11-08T17:45:45+00:00",
+    "buy_link": "https://extp.in/T6r4zv",
+    "date_iso": "2025-11-08T17:45:45+00:00"
+  },
+  {
     "id": "msg16234",
     "title": "💥Up to 90% Off On Branded Clothing",
     "description": "💥Myntra Upto 90% Off On Branded Clothing. ➤ Men’s Clothing 👇👇 T-Shirt : Jeans : Shirt : Trouser : Co-Ords Set : Trackpant : Sweatshirt : Jacket : ➤ Women’s Clothing 👇👇 T-Shirt : Top : Jeans : Dress : Sweatshirt : Ethnic…",
@@ -9454,29 +9494,5 @@
     "date_obj": "2025-11-05T18:57:17+00:00",
     "buy_link": "https://myntr.in/aylgRQ",
     "date_iso": "2025-11-05T18:57:17+00:00"
-  },
-  {
-    "id": "msg15825",
-    "title": "🛒 Discount Up to 70% Off",
-    "description": "Flipkart | 👕 Puma Sweatshirt Deals 🛒 Discount: Up to 70% Off https://fkrt.co/yAW8Jk",
-    "shortlink": "https://fkrt.co/yAW8Jk",
-    "urls": [
-      {
-        "url": "",
-        "label": "👕 Puma Sweatshirt Deals"
-      },
-      {
-        "url": "https://fkrt.co/yAW8Jk",
-        "label": "🛒 Discount: Up to 70% Off"
-      }
-    ],
-    "raw_text": "Flipkart | 👕 Puma Sweatshirt Deals\n\n🛒 Discount: Up to 70% Off\n\nhttps://fkrt.co/yAW8Jk",
-    "final_url": "https://fkrt.co/yAW8Jk",
-    "local_image": "assets/images/tgmsg_15825.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-05T18:58:19+00:00",
-    "buy_link": "https://fkrt.co/yAW8Jk",
-    "date_iso": "2025-11-05T18:58:19+00:00"
   }
 ]
