@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16138",
+    "title": "tax%3A2665401031%2Cp_89%3ALAKM%25C3%2589&s=price",
+    "description": "Amazon | Lakme Beauty Products Starts @41…",
+    "shortlink": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ALAKM%25C3%2589&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ALAKM%25C3%2589&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+        "label": "Lakme Beauty Products Starts @41"
+      }
+    ],
+    "raw_text": "Amazon | Lakme Beauty Products Starts @41\n\nhttps://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ALAKM%25C3%2589&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ALAKM%25C3%2589&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16138.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-08T03:46:09+00:00",
+    "buy_link": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ALAKM%25C3%2589&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-08T03:46:09+00:00"
+  },
+  {
     "id": "msg16136",
     "title": "Up to 85% Off On Bewakoof Clothing",
     "description": "Myntra : Upto 85% Off On Bewakoof Clothing. Men's : Women's : Upto 82% Off On The Souled Store Clothing. Women's :",
@@ -9426,25 +9446,5 @@
     "date_obj": "2025-11-05T12:10:04+00:00",
     "buy_link": "https://myntr.in/HulGTz",
     "date_iso": "2025-11-05T12:10:04+00:00"
-  },
-  {
-    "id": "msg15737",
-    "title": "Real Diamond, Gold Jewellery and Silver coins at flat 15% off",
-    "description": "Myntra |  Use coupon : JWLOFF15 👉 Link : Hurry up, Coupon live for limited time only!!",
-    "shortlink": "https://myntr.in/7d1UZk",
-    "urls": [
-      {
-        "url": "https://myntr.in/7d1UZk",
-        "label": "Real Diamond, Gold Jewellery and Silver coins at flat 15% off"
-      }
-    ],
-    "raw_text": "Myntra | Real Diamond, Gold Jewellery and Silver coins at flat 15% off\n\nUse coupon : JWLOFF15\n\n👉 Link : https://myntr.in/7d1UZk\n\nHurry up, Coupon live for limited time only!!",
-    "final_url": "https://myntr.in/7d1UZk",
-    "local_image": "assets/images/tgmsg_15737.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-05T12:26:48+00:00",
-    "buy_link": "https://myntr.in/7d1UZk",
-    "date_iso": "2025-11-05T12:26:48+00:00"
   }
 ]
