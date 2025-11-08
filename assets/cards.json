@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg16222",
+    "title": "Up to. 70% Off On Raymond, Park Avenue & Parx Clothing",
+    "description": "Ajio | Upto. 70% Off On Raymond, Park Avenue & Parx Clothing. Shirts : Trousers : Tshirts : Jeans : Women : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/11LP78",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto. 70% Off On Raymond, Park Avenue & Parx Clothing"
+      },
+      {
+        "url": "https://ajiio.co/11LP78",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/a1hxYn",
+        "label": "Trousers"
+      },
+      {
+        "url": "https://ajiio.co/xshwKv",
+        "label": "Tshirts"
+      },
+      {
+        "url": "https://ajiio.co/HAurDQ",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/aDS6Bk",
+        "label": "Women"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "Ajio | Upto. 70% Off On Raymond, Park Avenue & Parx Clothing.\n\nShirts : https://ajiio.co/11LP78\nTrousers : https://ajiio.co/a1hxYn\nTshirts : https://ajiio.co/xshwKv\nJeans : https://ajiio.co/HAurDQ\n\nWomen : https://ajiio.co/aDS6Bk\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/11LP78",
+    "local_image": "assets/images/tgmsg_16222.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-08T14:46:33+00:00",
+    "buy_link": "https://ajiio.co/11LP78",
+    "date_iso": "2025-11-08T14:46:33+00:00"
+  },
+  {
     "id": "msg16221",
     "title": "+ 10% SUPERCASH",
     "description": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 105🔥 🔗🔗Link : + 10% AJIO SUPERCASH",
@@ -9326,25 +9370,5 @@
     "date_obj": "2025-11-05T19:12:04+00:00",
     "buy_link": "https://fkrt.co/YeK9xz",
     "date_iso": "2025-11-05T19:12:04+00:00"
-  },
-  {
-    "id": "msg15835",
-    "title": "👟 Bruton Men's Shoes (Pack of 2) – From ₹378",
-    "description": "Flipkart | 👟 Bruton Men's Shoes (Pack of 2) – From ₹378 🔗   https://fkrt.co/4sWyQq",
-    "shortlink": "https://fkrt.co/4sWyQq",
-    "urls": [
-      {
-        "url": "https://fkrt.co/4sWyQq",
-        "label": "👟 Bruton Men's Shoes (Pack of 2) – From ₹378"
-      }
-    ],
-    "raw_text": "Flipkart | 👟 Bruton Men's Shoes (Pack of 2) – From ₹378\n\n🔗   https://fkrt.co/4sWyQq",
-    "final_url": "https://fkrt.co/4sWyQq",
-    "local_image": "assets/images/tgmsg_15835.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-05T19:13:07+00:00",
-    "buy_link": "https://fkrt.co/4sWyQq",
-    "date_iso": "2025-11-05T19:13:07+00:00"
   }
 ]
