@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16151",
+    "title": "Up to 76% Off On HRX Shoe",
+    "description": "Myntra : Upto 76% Off On HRX Shoes. Men : https://myntr.in/cxEiOq Women : https://myntr.in/YYnhRY",
+    "shortlink": "https://myntr.in/cxEiOq",
+    "urls": [
+      {
+        "url": "https://myntr.in/cxEiOq",
+        "label": "Upto 76% Off On HRX Shoes"
+      },
+      {
+        "url": "https://myntr.in/YYnhRY",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra : Upto 76% Off On HRX Shoes.\n\nMen : https://myntr.in/cxEiOq\nWomen : https://myntr.in/YYnhRY",
+    "final_url": "https://myntr.in/cxEiOq",
+    "local_image": "assets/images/tgmsg_16151.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-08T05:46:16+00:00",
+    "buy_link": "https://myntr.in/cxEiOq",
+    "date_iso": "2025-11-08T05:46:16+00:00"
+  },
+  {
     "id": "msg16150",
     "title": "💥Min. 60% off on USPA Clothing",
     "description": "💥Ajio : Min. 60% off on USPA Clothing. Men's : https://ajiio.co/rzUhL1 Women’s : https://ajiio.co/GM7Mau Boy’s : https://ajiio.co/XX7Jj6",
@@ -9498,41 +9522,5 @@
     "date_obj": "2025-11-05T13:40:24+00:00",
     "buy_link": "https://extp.in/7ZECYD",
     "date_iso": "2025-11-05T13:40:24+00:00"
-  },
-  {
-    "id": "msg15755",
-    "title": "🔥 LO – Lizol & Harpic Offer! 🔥",
-    "description": "Grab top cleaning essentials at crazy low prices! Lizol 👉 Harpic 👉 🛒 Minimum Order: 2",
-    "shortlink": "https://extp.in/pGMRNL",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 LO – Lizol & Harpic Offer! 🔥"
-      },
-      {
-        "url": "",
-        "label": "Grab top cleaning essentials at crazy low prices!"
-      },
-      {
-        "url": "https://extp.in/pGMRNL",
-        "label": "Lizol 👉"
-      },
-      {
-        "url": "https://extp.in/1OJyjr",
-        "label": "Harpic 👉"
-      },
-      {
-        "url": "",
-        "label": "🛒 Minimum Order: 2"
-      }
-    ],
-    "raw_text": "🔥  LO – Lizol & Harpic Offer! 🔥\n\nGrab top cleaning essentials at crazy low prices!\n\nLizol 👉 https://extp.in/pGMRNL\nHarpic 👉 https://extp.in/1OJyjr\n\n🛒 Minimum Order: 2",
-    "final_url": "https://extp.in/pGMRNL",
-    "local_image": "assets/images/tgmsg_15755.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-05T13:43:29+00:00",
-    "buy_link": "https://extp.in/pGMRNL",
-    "date_iso": "2025-11-05T13:43:29+00:00"
   }
 ]
