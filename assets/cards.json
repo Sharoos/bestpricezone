@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg16226",
+    "title": "🔥 Sale Is Live – Ethnic Wear Steals You Can’t Miss! 🔥",
+    "description": "🔥 Flipkart Sale Is Live – Ethnic Wear Steals You Can’t Miss! 🔥 ✨Kurtas & Ethnic Suits Under ₹699 👉 ✨Pathani Kurta Sets From ₹649 👉 ✨Ikat Print Kurtas From Just ₹299 👉 ✨Embroidered Kurtas Under ₹599 👉",
+    "shortlink": "https://fkrt.co/6RcWyM",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Flipkart Sale Is Live – Ethnic Wear Steals You Can’t Miss! 🔥"
+      },
+      {
+        "url": "https://fkrt.co/6RcWyM",
+        "label": "✨Kurtas & Ethnic Suits Under ₹699"
+      },
+      {
+        "url": "https://fkrt.co/n5bojj",
+        "label": "✨Pathani Kurta Sets From ₹649"
+      },
+      {
+        "url": "https://fkrt.co/jpGTsc",
+        "label": "✨Ikat Print Kurtas From Just ₹299"
+      },
+      {
+        "url": "https://fkrt.co/6IyS33",
+        "label": "✨Embroidered Kurtas Under ₹599"
+      }
+    ],
+    "raw_text": "🔥 Flipkart Sale Is Live – Ethnic Wear Steals You Can’t Miss! 🔥\n\n✨Kurtas & Ethnic Suits Under ₹699 \n👉 https://fkrt.co/6RcWyM\n\n✨Pathani Kurta Sets From ₹649 \n👉 https://fkrt.co/n5bojj\n\n✨Ikat Print Kurtas From Just ₹299 \n👉 https://fkrt.co/jpGTsc\n\n✨Embroidered Kurtas Under ₹599 \n👉 https://fkrt.co/6IyS33",
+    "final_url": "https://fkrt.co/6RcWyM",
+    "local_image": "assets/images/tgmsg_16226.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-08T15:57:35+00:00",
+    "buy_link": "https://fkrt.co/6RcWyM",
+    "date_iso": "2025-11-08T15:57:35+00:00"
+  },
+  {
     "id": "msg16224",
     "title": "Pack Of 2) At 159",
     "description": "Aluminium Foil (9M *Pack Of 2) At 159 https://www.amazon.in/dp/B08BTPGPY8?tag=bestpricezo0f-21",
@@ -9350,25 +9386,5 @@
     "date_obj": "2025-11-05T19:09:39+00:00",
     "buy_link": "https://fkrt.co/yCrwNj",
     "date_iso": "2025-11-05T19:09:39+00:00"
-  },
-  {
-    "id": "msg15833",
-    "title": "82% Off",
-    "description": "Flipkart | 82% Off -Mivi Fort Sonic 200 Soundbar At Rs.4,999 https://fkrt.co/i29ow6",
-    "shortlink": "https://fkrt.co/i29ow6",
-    "urls": [
-      {
-        "url": "https://fkrt.co/i29ow6",
-        "label": "82% Off -Mivi Fort Sonic 200 Soundbar At Rs.4,999"
-      }
-    ],
-    "raw_text": "Flipkart | 82% Off -Mivi Fort Sonic 200 Soundbar At Rs.4,999\n\n  https://fkrt.co/i29ow6",
-    "final_url": "https://fkrt.co/i29ow6",
-    "local_image": "assets/images/tgmsg_15833.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-05T19:10:51+00:00",
-    "buy_link": "https://fkrt.co/i29ow6",
-    "date_iso": "2025-11-05T19:10:51+00:00"
   }
 ]
