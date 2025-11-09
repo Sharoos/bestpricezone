@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg16283",
+    "title": "💥Brands ON SALE!!!!",
+    "description": "💥Ajio | Brands ON SALE!!!! ⚡Moschino, Love Moschino: Min 60 Percent Off ⚡Fossil, Ted Smith sunglasses: Min 60 Percent Off ⚡M&S: Min 50 Percent Off ⚡Raymond, Park Avenue, Parx: Min 60 Percent Off",
+    "shortlink": "https://ajiio.co/zmb3QS",
+    "urls": [
+      {
+        "url": "",
+        "label": "💥Ajio | Brands ON SALE!!!!"
+      },
+      {
+        "url": "",
+        "label": "⚡Moschino, Love Moschino"
+      },
+      {
+        "url": "https://ajiio.co/zmb3QS",
+        "label": "Min 60 Percent Off"
+      },
+      {
+        "url": "",
+        "label": "⚡Fossil, Ted Smith sunglasses"
+      },
+      {
+        "url": "https://ajiio.co/CnGU9R",
+        "label": "Min 60 Percent Off"
+      },
+      {
+        "url": "https://ajiio.co/gQEAFP",
+        "label": "Min 50 Percent Off"
+      },
+      {
+        "url": "",
+        "label": "⚡Raymond, Park Avenue, Parx"
+      },
+      {
+        "url": "https://ajiio.co/GtFq0t",
+        "label": "Min 60 Percent Off"
+      }
+    ],
+    "raw_text": "💥Ajio | Brands ON SALE!!!!\n\n⚡Moschino, Love Moschino:\nMin 60 Percent Off \nhttps://ajiio.co/zmb3QS\n\n⚡Fossil, Ted Smith sunglasses: \nMin 60 Percent Off \nhttps://ajiio.co/CnGU9R\n\n⚡M&S: \nMin 50 Percent Off \nhttps://ajiio.co/gQEAFP\n\n⚡Raymond, Park Avenue, Parx: \nMin 60 Percent Off\nhttps://ajiio.co/GtFq0t",
+    "final_url": "https://ajiio.co/zmb3QS",
+    "local_image": "assets/images/tgmsg_16283.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-09T07:41:44+00:00",
+    "buy_link": "https://ajiio.co/zmb3QS",
+    "date_iso": "2025-11-09T07:41:44+00:00"
+  },
+  {
     "id": "msg16280",
     "title": "💥Brands ON SALE!!!!",
     "description": "💥Ajio | Brands ON SALE!!!! ⚡Lavie, Lino Perros 💰 Offer: Min 70 Percent Off 🔗 ⚡Van Heusen, Allen Solly, Accessorize London 💰 Offer: Min 60 Percent Off 🔗 ⚡Puma, Nike backpacks 💰 Offer: Min 40 Percent Off 🔗 ⚡Baggit,…",
@@ -9382,33 +9430,5 @@
     "date_obj": "2025-11-06T08:15:49+00:00",
     "buy_link": "https://msho.in/X8H1HC",
     "date_iso": "2025-11-06T08:15:49+00:00"
-  },
-  {
-    "id": "msg15884",
-    "title": "Extra 4000 off with HDFC CC",
-    "description": "Amazon | 🔥HP Smartchoice Victus, AMD Ryzen 5 16/512 @66990 👉 🔥HP Smartchoice Victus, AMD Ryzen 7 16/512 @70990 👉",
-    "shortlink": "https://www.amazon.in/dp/B0DTYX4VMP?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DTYX4VMP?th=1&tag=bestpricezo0f-21",
-        "label": "🔥HP Smartchoice Victus, AMD Ryzen 5 16/512 @66990"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0FDKPXD95?th=1&tag=bestpricezo0f-21",
-        "label": "🔥HP Smartchoice Victus, AMD Ryzen 7 16/512 @70990"
-      },
-      {
-        "url": "",
-        "label": "Extra 4000 off with HDFC CC"
-      }
-    ],
-    "raw_text": "Amazon | 🔥HP Smartchoice Victus, AMD Ryzen 5 16/512 @66990\n\n👉 https://www.amazon.in/dp/B0DTYX4VMP?th=1&tag=bestpricezo0f-21\n\n🔥HP Smartchoice Victus, AMD Ryzen 7  16/512 @70990\n\n👉 https://www.amazon.in/dp/B0FDKPXD95?th=1&tag=bestpricezo0f-21\n\nExtra 4000 off with HDFC CC",
-    "final_url": "https://www.amazon.in/dp/B0DTYX4VMP?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15884.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-06T08:20:45+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DTYX4VMP?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-06T08:20:45+00:00"
   }
 ]
