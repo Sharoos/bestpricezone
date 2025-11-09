@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg16340",
+    "title": "Just pay ₹20 on your first payment and get flat ₹20 cashback 💸",
+    "description": "🚨 Free ₹20 via BHIM! Just pay ₹20 on your first payment and get flat ₹20 cashback  💸 Last day of the offer ⏳ 👉 Download Now: https://bitli.in/3a32lxc",
+    "shortlink": "https://bitli.in/3a32lxc",
+    "urls": [
+      {
+        "url": "",
+        "label": "🚨 Free ₹20 via BHIM!"
+      },
+      {
+        "url": "",
+        "label": "Just pay ₹20 on your first payment and get flat ₹20 cashback 💸"
+      },
+      {
+        "url": "",
+        "label": "Last day of the offer ⏳"
+      },
+      {
+        "url": "https://bitli.in/3a32lxc",
+        "label": "Download Now"
+      }
+    ],
+    "raw_text": "🚨 Free ₹20 via BHIM!\n\nJust pay ₹20 on your first payment and get flat ₹20 cashback  💸\n\nLast day of the offer ⏳\n\n👉 Download Now: https://bitli.in/3a32lxc",
+    "final_url": "https://bitli.in/3a32lxc",
+    "local_image": "assets/images/tgmsg_16340.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-11-09T14:32:10+00:00",
+    "buy_link": "https://bitli.in/3a32lxc",
+    "date_iso": "2025-11-09T14:32:10+00:00"
+  },
+  {
+    "id": "msg16341",
+    "title": "Mamaearth, Aqualogica , The Derma Co. , Dr Sheths, Bblunt Min 40% Off",
+    "description": "Myntra | Mamaearth, Aqualogica , The Derma Co. , Dr Sheths, Bblunt Min 40% Off https://myntr.in/pQ5sJI",
+    "shortlink": "https://myntr.in/pQ5sJI",
+    "urls": [
+      {
+        "url": "https://myntr.in/pQ5sJI",
+        "label": "Mamaearth, Aqualogica , The Derma Co. , Dr Sheths, Bblunt Min 40% Off"
+      }
+    ],
+    "raw_text": "Myntra | Mamaearth, Aqualogica , The Derma Co. , Dr Sheths, Bblunt Min 40% Off\n\nhttps://myntr.in/pQ5sJI",
+    "final_url": "https://myntr.in/pQ5sJI",
+    "local_image": "assets/images/tgmsg_16341.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-09T14:38:33+00:00",
+    "buy_link": "https://myntr.in/pQ5sJI",
+    "date_iso": "2025-11-09T14:38:33+00:00"
+  },
+  {
     "id": "msg16339",
     "title": "🛒Budget Picks – Under ₹499",
     "description": "🛒Myntra | Budget Picks – Under ₹499 📦 Desk Organisers – Under ₹499 🔗 🛏 Double Bedsheets – Under ₹399 🔗 🌂 Umbrellas – Under ₹399 🔗 🚪 Door Mats – Under ₹399 🔗",
@@ -9354,45 +9406,5 @@
     "date_obj": "2025-11-06T15:46:27+00:00",
     "buy_link": "https://ajiio.co/2CTk85",
     "date_iso": "2025-11-06T15:46:27+00:00"
-  },
-  {
-    "id": "msg15944",
-    "title": "Min 70% off Lino Perros Handbag",
-    "description": "Myntra : Min 70% off : Lino Perros Handbags 👉Link- https://myntr.in/tIyFlY",
-    "shortlink": "https://myntr.in/tIyFlY",
-    "urls": [
-      {
-        "url": "https://myntr.in/tIyFlY",
-        "label": "Min 70% off : Lino Perros Handbags"
-      }
-    ],
-    "raw_text": "Myntra : Min 70% off : Lino Perros Handbags \n \n👉Link- https://myntr.in/tIyFlY",
-    "final_url": "https://myntr.in/tIyFlY",
-    "local_image": "assets/images/tgmsg_15944.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-06T15:36:44+00:00",
-    "buy_link": "https://myntr.in/tIyFlY",
-    "date_iso": "2025-11-06T15:36:44+00:00"
-  },
-  {
-    "id": "msg15940",
-    "title": "Wall Shelves For Home Starting @ 223",
-    "description": "Ajio | Wall Shelves For Home Starting @ 223 Link : https://ajiio.co/KCnSKy",
-    "shortlink": "https://ajiio.co/KCnSKy",
-    "urls": [
-      {
-        "url": "https://ajiio.co/KCnSKy",
-        "label": "Wall Shelves For Home Starting @ 223"
-      }
-    ],
-    "raw_text": "Ajio | Wall Shelves For Home Starting @ 223\n \nLink : https://ajiio.co/KCnSKy",
-    "final_url": "https://ajiio.co/KCnSKy",
-    "local_image": "assets/images/tgmsg_15940.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-06T15:04:36+00:00",
-    "buy_link": "https://ajiio.co/KCnSKy",
-    "date_iso": "2025-11-06T15:04:36+00:00"
   }
 ]
