@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg16366",
+    "title": "Up to 70% Off On Shae By Sassafras Clothing",
+    "description": "Myntra | Upto 70% Off On Shae By Sassafras Clothing. https://myntr.in/EwGThw https://myntr.in/a2JOAR",
+    "shortlink": "https://myntr.in/EwGThw",
+    "urls": [
+      {
+        "url": "https://myntr.in/EwGThw",
+        "label": "Upto 70% Off On Shae By Sassafras Clothing"
+      },
+      {
+        "url": "https://myntr.in/a2JOAR",
+        "label": ""
+      }
+    ],
+    "raw_text": "Myntra | Upto 70% Off On Shae By Sassafras Clothing.\n\nhttps://myntr.in/EwGThw\nhttps://myntr.in/a2JOAR",
+    "final_url": "https://myntr.in/EwGThw",
+    "local_image": "assets/images/tgmsg_16366.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-09T18:02:29+00:00",
+    "buy_link": "https://myntr.in/EwGThw",
+    "date_iso": "2025-11-09T18:02:29+00:00"
+  },
+  {
+    "id": "msg16367",
+    "title": "Beardo min 70% off",
+    "description": "Myntra | Beardo min 70% off, Link : https://myntr.in/fOzMjb",
+    "shortlink": "https://myntr.in/fOzMjb",
+    "urls": [
+      {
+        "url": "https://myntr.in/fOzMjb",
+        "label": "Beardo min 70% off,"
+      }
+    ],
+    "raw_text": "Myntra | Beardo min 70% off, \n\nLink : https://myntr.in/fOzMjb",
+    "final_url": "https://myntr.in/fOzMjb",
+    "local_image": "assets/images/tgmsg_16367.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-09T18:16:16+00:00",
+    "buy_link": "https://myntr.in/fOzMjb",
+    "date_iso": "2025-11-09T18:16:16+00:00"
+  },
+  {
     "id": "msg16362",
     "title": "🔥Clothing Starts ₹199",
     "description": "🔥AJIO  Clothing Starts ₹199 Tshirt : https://ajiio.co/ip77Be Shirt : https://ajiio.co/t9euLr Jeans : https://ajiio.co/GJ7sKV",
@@ -9290,45 +9334,5 @@
     "date_obj": "2025-11-06T18:52:40+00:00",
     "buy_link": "https://www.amazon.in/dp/B0D927SK86?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-06T18:52:40+00:00"
-  },
-  {
-    "id": "msg15981",
-    "title": "Ketch Casual Shirts Up to 79% off starting From Rs.180",
-    "description": "Flipkart | Ketch Casual Shirts upto 79% off starting From Rs.180 https://fkrt.co/3imCeP",
-    "shortlink": "https://fkrt.co/3imCeP",
-    "urls": [
-      {
-        "url": "https://fkrt.co/3imCeP",
-        "label": "Ketch Casual Shirts upto 79% off starting From Rs.180"
-      }
-    ],
-    "raw_text": "Flipkart | Ketch Casual Shirts upto 79% off starting From Rs.180\n\nhttps://fkrt.co/3imCeP",
-    "final_url": "https://fkrt.co/3imCeP",
-    "local_image": "assets/images/tgmsg_15981.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-06T18:53:53+00:00",
-    "buy_link": "https://fkrt.co/3imCeP",
-    "date_iso": "2025-11-06T18:53:53+00:00"
-  },
-  {
-    "id": "msg15960",
-    "title": "🔥Daawat Rozana Basmati Rice 5Kg at ₹296",
-    "description": "Amazon | 🔥Daawat Rozana Basmati Rice 5Kg at ₹296 👉https://www.amazon.in/dp/B01MCYNYNY?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B01MCYNYNY?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B01MCYNYNY?psc=1&tag=bestpricezo0f-21",
-        "label": "🔥Daawat Rozana Basmati Rice 5Kg at ₹296"
-      }
-    ],
-    "raw_text": "Amazon | 🔥Daawat Rozana Basmati Rice 5Kg at ₹296\n\n👉https://www.amazon.in/dp/B01MCYNYNY?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B01MCYNYNY?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15960.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-06T18:04:56+00:00",
-    "buy_link": "https://www.amazon.in/dp/B01MCYNYNY?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-06T18:04:56+00:00"
   }
 ]
