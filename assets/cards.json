@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg16284",
+    "title": "🛒 Deal Price Up to 65% Off",
+    "description": "Amazon | 🦷 Dabur Toothpaste Offers 🛒 Deal Price: Up to 65% Off 🌸 Odonil Room Freshener Deals 🛒 Deal Price: Up to 55% Off",
+    "shortlink": "https://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21&",
+    "urls": [
+      {
+        "url": "",
+        "label": "🦷 Dabur Toothpaste Offers"
+      },
+      {
+        "url": "https://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21&",
+        "label": "🛒 Deal Price: Up to 65% Off"
+      },
+      {
+        "url": "",
+        "label": "🌸 Odonil Room Freshener Deals"
+      },
+      {
+        "url": "https://www.amazon.in/s?k=odonil&rh=n%3A1350384031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665402031%2Cp_123%3A450757&i=hpc&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: Up to 55% Off"
+      }
+    ],
+    "raw_text": "Amazon | 🦷 Dabur Toothpaste Offers\n\n🛒 Deal Price: Up to 65% Off\n\nhttps://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21&\n\n🌸 Odonil Room Freshener Deals\n\n🛒 Deal Price: Up to 55% Off\n\nhttps://www.amazon.in/s?k=odonil&rh=n%3A1350384031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665402031%2Cp_123%3A450757&i=hpc&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21&",
+    "local_image": "assets/images/tgmsg_16284.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-09T07:51:45+00:00",
+    "buy_link": "https://www.amazon.in/s?hidden-keywords=B0F4R4BG5G%7CB0BQC6B15R%7CB0BN45YSL5%7CB0F8Q5GVPK%7CB0F8W83DYC&tag=bestpricezo0f-21&",
+    "date_iso": "2025-11-09T07:51:45+00:00"
+  },
+  {
     "id": "msg16283",
     "title": "💥Brands ON SALE!!!!",
     "description": "💥Ajio | Brands ON SALE!!!! ⚡Moschino, Love Moschino: Min 60 Percent Off ⚡Fossil, Ted Smith sunglasses: Min 60 Percent Off ⚡M&S: Min 50 Percent Off ⚡Raymond, Park Avenue, Parx: Min 60 Percent Off",
@@ -9390,45 +9422,5 @@
     "date_obj": "2025-11-06T08:40:20+00:00",
     "buy_link": "https://www.amazon.in/dp/B0835FJWBQ?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-06T08:40:20+00:00"
-  },
-  {
-    "id": "msg15883",
-    "title": "🛒 Deal Price ₹55",
-    "description": "Meesho | 💍 Bangles Bonanza - Grab them Now! 🛒 Deal Price: ₹55 👉https://msho.in/X8H1HC 👉https://msho.in/pZ5LLz 👉https://msho.in/CHe3Nv 👉https://msho.in/iaigAu 👉https://msho.in/D8vNdq",
-    "shortlink": "https://msho.in/X8H1HC",
-    "urls": [
-      {
-        "url": "",
-        "label": "💍 Bangles Bonanza - Grab them Now!"
-      },
-      {
-        "url": "https://msho.in/X8H1HC",
-        "label": "🛒 Deal Price: ₹55"
-      },
-      {
-        "url": "https://msho.in/pZ5LLz",
-        "label": "🛒 Deal Price: ₹55"
-      },
-      {
-        "url": "https://msho.in/CHe3Nv",
-        "label": "🛒 Deal Price: ₹55"
-      },
-      {
-        "url": "https://msho.in/iaigAu",
-        "label": "🛒 Deal Price: ₹55"
-      },
-      {
-        "url": "https://msho.in/D8vNdq",
-        "label": "🛒 Deal Price: ₹55"
-      }
-    ],
-    "raw_text": "Meesho | 💍 Bangles Bonanza - Grab them Now!\n\n🛒 Deal Price: ₹55\n\n👉https://msho.in/X8H1HC\n👉https://msho.in/pZ5LLz\n👉https://msho.in/CHe3Nv\n👉https://msho.in/iaigAu\n👉https://msho.in/D8vNdq",
-    "final_url": "https://msho.in/X8H1HC",
-    "local_image": "assets/images/tgmsg_15883.jpg",
-    "source_host": "msho.in",
-    "merchant_label": "Msho",
-    "date_obj": "2025-11-06T08:15:49+00:00",
-    "buy_link": "https://msho.in/X8H1HC",
-    "date_iso": "2025-11-06T08:15:49+00:00"
   }
 ]
