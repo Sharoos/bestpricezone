@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16356",
+    "title": "Up to 70% Off on DUKE Men's Sports Shoes 🔥",
+    "description": "Myntra | Upto 70% Off on DUKE Men's Sports Shoes 🔥 https://myntr.in/t4SKvW",
+    "shortlink": "https://myntr.in/t4SKvW",
+    "urls": [
+      {
+        "url": "https://myntr.in/t4SKvW",
+        "label": "Upto 70% Off on DUKE Men's Sports Shoes 🔥"
+      }
+    ],
+    "raw_text": "Myntra | Upto 70% Off on DUKE Men's Sports Shoes 🔥 \n\nhttps://myntr.in/t4SKvW",
+    "final_url": "https://myntr.in/t4SKvW",
+    "local_image": "assets/images/tgmsg_16356.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-09T16:52:02+00:00",
+    "buy_link": "https://myntr.in/t4SKvW",
+    "date_iso": "2025-11-09T16:52:02+00:00"
+  },
+  {
     "id": "msg16353",
     "title": "Up to 89% Off On Ove",
     "description": "AJIO Upto 89% Off On Over-Sized T-Shirts. Mens : Womens : Polo T-Shirts : Jeans : Branded Innerwears : Men' Blazers & Waistcoat : Kids Clothing Starts From Rs.45 Boys : Girls : Infants :",
@@ -9362,25 +9382,5 @@
     "date_obj": "2025-11-06T17:41:31+00:00",
     "buy_link": "https://myntr.in/nfQ26x",
     "date_iso": "2025-11-06T17:41:31+00:00"
-  },
-  {
-    "id": "msg15956",
-    "title": "Dabur Fem Handwash, 1500ml at 148",
-    "description": "Amazon | Dabur Fem Handwash, 1500ml at 148. https://www.amazon.in/dp/B0D314FYDY?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D314FYDY?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0D314FYDY?tag=bestpricezo0f-21",
-        "label": "Dabur Fem Handwash, 1500ml at 148"
-      }
-    ],
-    "raw_text": "Amazon | Dabur Fem Handwash, 1500ml at 148.\n\nhttps://www.amazon.in/dp/B0D314FYDY?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D314FYDY?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15956.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-06T17:11:44+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D314FYDY?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-06T17:11:44+00:00"
   }
 ]
