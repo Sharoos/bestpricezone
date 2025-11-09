@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg16362",
+    "title": "🔥Clothing Starts ₹199",
+    "description": "🔥AJIO  Clothing Starts ₹199 Tshirt : https://ajiio.co/ip77Be Shirt : https://ajiio.co/t9euLr Jeans : https://ajiio.co/GJ7sKV",
+    "shortlink": "https://ajiio.co/ip77Be",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥AJIO Clothing Starts ₹199"
+      },
+      {
+        "url": "https://ajiio.co/ip77Be",
+        "label": "Tshirt"
+      },
+      {
+        "url": "https://ajiio.co/t9euLr",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://ajiio.co/GJ7sKV",
+        "label": "Jeans"
+      }
+    ],
+    "raw_text": "🔥AJIO  Clothing Starts ₹199\n\nTshirt : https://ajiio.co/ip77Be\nShirt : https://ajiio.co/t9euLr\nJeans : https://ajiio.co/GJ7sKV",
+    "final_url": "https://ajiio.co/ip77Be",
+    "local_image": "assets/images/tgmsg_16362.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-09T17:34:31+00:00",
+    "buy_link": "https://ajiio.co/ip77Be",
+    "date_iso": "2025-11-09T17:34:31+00:00"
+  },
+  {
+    "id": "msg16363",
+    "title": "Titan Wall Clock at min. 30% Discount Plus Discount",
+    "description": "Myntra | Titan Wall Clock at min. 30% Discount Plus Coupon Discount Tp-Link Security Cameras at Min. 65% off plus Coupon Discount",
+    "shortlink": "https://myntr.in/afsAFI",
+    "urls": [
+      {
+        "url": "https://myntr.in/afsAFI",
+        "label": ""
+      },
+      {
+        "url": "https://myntr.in/55b0Kl",
+        "label": ""
+      }
+    ],
+    "raw_text": "Myntra | Titan Wall Clock at min. 30% Discount Plus Coupon Discount\n\nhttps://myntr.in/afsAFI\n\nTp-Link Security Cameras at Min. 65% off plus Coupon Discount\n\nhttps://myntr.in/55b0Kl",
+    "final_url": "https://myntr.in/afsAFI",
+    "local_image": "assets/images/tgmsg_16363.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-09T17:41:45+00:00",
+    "buy_link": "https://myntr.in/afsAFI",
+    "date_iso": "2025-11-09T17:41:45+00:00"
+  },
+  {
     "id": "msg16357",
     "title": "Reliance Digital Midnight Sale Up to 60% Off",
     "description": "Reliance Digital: Midnight Sale Upto 60% Off 👉 iPhone: Wireless Earbuds: TV: AC: Valid 10:00PM TO 6:00AM.",
@@ -9274,49 +9330,5 @@
     "date_obj": "2025-11-06T18:04:56+00:00",
     "buy_link": "https://www.amazon.in/dp/B01MCYNYNY?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-06T18:04:56+00:00"
-  },
-  {
-    "id": "msg15961",
-    "title": "🛒 Deal Price ₹179",
-    "description": "Myntra | 👕 Shirts Under ₹179 🛒 Deal Price: ₹179 👉 https://myntr.in/rB9VQt",
-    "shortlink": "https://myntr.in/rB9VQt",
-    "urls": [
-      {
-        "url": "",
-        "label": "👕 Shirts Under ₹179"
-      },
-      {
-        "url": "https://myntr.in/rB9VQt",
-        "label": "🛒 Deal Price: ₹179"
-      }
-    ],
-    "raw_text": "Myntra | 👕 Shirts Under ₹179\n\n🛒 Deal Price: ₹179\n\n👉 https://myntr.in/rB9VQt",
-    "final_url": "https://myntr.in/rB9VQt",
-    "local_image": "assets/images/tgmsg_15961.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-06T18:10:24+00:00",
-    "buy_link": "https://myntr.in/rB9VQt",
-    "date_iso": "2025-11-06T18:10:24+00:00"
-  },
-  {
-    "id": "msg15962",
-    "title": "🔥Oneplus Trimmers at ₹569",
-    "description": "🔥Flipkart | Oneplus Trimmers at ₹569 https://fkrt.co/8IQ7IZ",
-    "shortlink": "https://fkrt.co/8IQ7IZ",
-    "urls": [
-      {
-        "url": "https://fkrt.co/8IQ7IZ",
-        "label": "🔥Flipkart | Oneplus Trimmers at ₹569"
-      }
-    ],
-    "raw_text": "🔥Flipkart | Oneplus Trimmers at ₹569\n\nhttps://fkrt.co/8IQ7IZ",
-    "final_url": "https://fkrt.co/8IQ7IZ",
-    "local_image": "assets/images/tgmsg_15962.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-06T18:22:11+00:00",
-    "buy_link": "https://fkrt.co/8IQ7IZ",
-    "date_iso": "2025-11-06T18:22:11+00:00"
   }
 ]
