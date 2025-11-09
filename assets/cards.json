@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg16316",
+    "title": "Up to 70% Off On Beauty Item",
+    "description": "Myntra : Upto 70% Off On Beauty Items. Lakmé : Pond's : BoroPlus : Livon : Master Link :",
+    "shortlink": "https://myntr.in/7ijpon",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70% Off On Beauty Items"
+      },
+      {
+        "url": "https://myntr.in/7ijpon",
+        "label": "Lakmé"
+      },
+      {
+        "url": "https://myntr.in/8ybX5t",
+        "label": "Pond's"
+      },
+      {
+        "url": "https://myntr.in/mID3zi",
+        "label": "BoroPlus"
+      },
+      {
+        "url": "https://myntr.in/xfXbo8",
+        "label": "Livon"
+      },
+      {
+        "url": "https://myntr.in/df5xea",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Myntra : Upto 70% Off On Beauty Items. \n\nLakmé : https://myntr.in/7ijpon\nPond's : https://myntr.in/8ybX5t\nBoroPlus : https://myntr.in/mID3zi\nLivon : https://myntr.in/xfXbo8\n\nMaster Link : https://myntr.in/df5xea",
+    "final_url": "https://myntr.in/7ijpon",
+    "local_image": "assets/images/tgmsg_16316.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-09T11:41:33+00:00",
+    "buy_link": "https://myntr.in/7ijpon",
+    "date_iso": "2025-11-09T11:41:33+00:00"
+  },
+  {
     "id": "msg16315",
     "title": "Up to 72% Off Lifebuoy Body Wash",
     "description": "Myntra: Upto 72% Off Lifebuoy Body Wash. https://myntr.in/XeS7s1",
@@ -9414,29 +9454,5 @@
     "date_obj": "2025-11-06T12:10:04+00:00",
     "buy_link": "https://myntr.in/OVGSzo",
     "date_iso": "2025-11-06T12:10:04+00:00"
-  },
-  {
-    "id": "msg15917",
-    "title": "Men's Western Wear Moda Rapido",
-    "description": "Myntra | Men's Western Wear Moda Rapido Sweatshirts under 499 👉 Link : https://myntr.in/6S640Y",
-    "shortlink": "https://myntr.in/6S640Y",
-    "urls": [
-      {
-        "url": "",
-        "label": "Men's Western Wear Moda Rapido"
-      },
-      {
-        "url": "https://myntr.in/6S640Y",
-        "label": "Sweatshirts under 499"
-      }
-    ],
-    "raw_text": "Myntra | Men's Western Wear Moda Rapido\n\nSweatshirts under 499\n\n👉 Link : https://myntr.in/6S640Y",
-    "final_url": "https://myntr.in/6S640Y",
-    "local_image": "assets/images/tgmsg_15917.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-06T12:20:02+00:00",
-    "buy_link": "https://myntr.in/6S640Y",
-    "date_iso": "2025-11-06T12:20:02+00:00"
   }
 ]
