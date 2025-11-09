@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg16308",
+    "title": "Offer Min 70 Percent Off",
+    "description": "Ajio | 💥 Kurta Sets 👉Offer: Min 70 Percent Off ⚡ 💥 Shirts and Tshirts 👉Offer: Min 70 Percent Off ⚡ 💥 Sarees 👉Offer: Min 75 Percent Off ⚡ 💥 Redtape 👉Offer: Min 85 Percent Off ⚡ 💥 Crocs 👉Offer: Min 40 Percent Off ⚡",
+    "shortlink": "https://ajiio.co/cBqLAw",
+    "urls": [
+      {
+        "url": "",
+        "label": "💥 Kurta Sets"
+      },
+      {
+        "url": "https://ajiio.co/cBqLAw",
+        "label": "Min 70 Percent Off"
+      },
+      {
+        "url": "",
+        "label": "💥 Shirts and Tshirts"
+      },
+      {
+        "url": "https://ajiio.co/GSieK0",
+        "label": "Min 70 Percent Off"
+      },
+      {
+        "url": "https://ajiio.co/TyGbE6",
+        "label": "Min 75 Percent Off"
+      },
+      {
+        "url": "https://ajiio.co/UScw25",
+        "label": "Min 85 Percent Off"
+      },
+      {
+        "url": "https://ajiio.co/Np8Z59",
+        "label": "Min 40 Percent Off"
+      }
+    ],
+    "raw_text": "Ajio | 💥 Kurta Sets\n👉Offer: Min 70 Percent Off\n⚡https://ajiio.co/cBqLAw\n\n💥 Shirts and Tshirts \n👉Offer: Min 70 Percent Off\n⚡https://ajiio.co/GSieK0\n\n💥 Sarees\n👉Offer: Min 75 Percent Off\n⚡https://ajiio.co/TyGbE6\n\n💥 Redtape\n👉Offer: Min 85 Percent Off\n⚡https://ajiio.co/UScw25\n\n💥 Crocs\n👉Offer: Min 40 Percent Off\n⚡https://ajiio.co/Np8Z59",
+    "final_url": "https://ajiio.co/cBqLAw",
+    "local_image": "assets/images/tgmsg_16308.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-09T10:41:32+00:00",
+    "buy_link": "https://ajiio.co/cBqLAw",
+    "date_iso": "2025-11-09T10:41:32+00:00"
+  },
+  {
     "id": "msg16302",
     "title": "Offer Min 60 Percent Off",
     "description": "Ajio | 💥 Gant 👉Offer: Min 60 Percent Off ⚡ 💥 Shein 👉Offer: Under Rs 399 ⚡ 💥 Shein 👉Offer: Under Rs 299 ⚡ 💥 John Players 👉Offer: Min 70 Percent Off ⚡ 💥 Lee Cooper 👉Offer: Min 70 Percent Off ⚡ 💥 Avaasa 👉Offer: Under Rs…",
@@ -9446,25 +9490,5 @@
     "date_obj": "2025-11-06T11:35:58+00:00",
     "buy_link": "https://bitli.in/iO4nkf0",
     "date_iso": "2025-11-06T11:35:58+00:00"
-  },
-  {
-    "id": "msg15907",
-    "title": "Up to 91% Off on Just Herbs Beauty & Grooming",
-    "description": "Flipkart | Upto 91% Off on Just Herbs Beauty & Grooming 👉 https://fkrt.co/qMlVwg",
-    "shortlink": "https://fkrt.co/qMlVwg",
-    "urls": [
-      {
-        "url": "https://fkrt.co/qMlVwg",
-        "label": "Upto 91% Off on Just Herbs Beauty & Grooming"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 91% Off on Just Herbs Beauty & Grooming\n\n👉 https://fkrt.co/qMlVwg",
-    "final_url": "https://fkrt.co/qMlVwg",
-    "local_image": "assets/images/tgmsg_15907.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-06T11:15:02+00:00",
-    "buy_link": "https://fkrt.co/qMlVwg",
-    "date_iso": "2025-11-06T11:15:02+00:00"
   }
 ]
