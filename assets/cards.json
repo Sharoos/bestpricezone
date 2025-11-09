@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16317",
+    "title": "Up to 76% Off on Formal Shoes For men Starts At Rs.927",
+    "description": "Myntra | Upto 76% Off on Formal Shoes For men Starts At Rs.927 👉Link : https://myntr.in/IAGsTb",
+    "shortlink": "https://myntr.in/IAGsTb",
+    "urls": [
+      {
+        "url": "https://myntr.in/IAGsTb",
+        "label": "Upto 76% Off on Formal Shoes For men Starts At Rs.927"
+      }
+    ],
+    "raw_text": "Myntra | Upto 76% Off on Formal Shoes For men Starts At Rs.927\n \n👉Link : https://myntr.in/IAGsTb",
+    "final_url": "https://myntr.in/IAGsTb",
+    "local_image": "assets/images/tgmsg_16317.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-09T11:56:27+00:00",
+    "buy_link": "https://myntr.in/IAGsTb",
+    "date_iso": "2025-11-09T11:56:27+00:00"
+  },
+  {
     "id": "msg16316",
     "title": "Up to 70% Off On Beauty Item",
     "description": "Myntra : Upto 70% Off On Beauty Items. Lakmé : Pond's : BoroPlus : Livon : Master Link :",
@@ -9422,37 +9442,5 @@
     "date_obj": "2025-11-06T12:00:06+00:00",
     "buy_link": "https://extp.in/j6mlNa",
     "date_iso": "2025-11-06T12:00:06+00:00"
-  },
-  {
-    "id": "msg15916",
-    "title": "Great deals on all Blankets min 50% Off",
-    "description": "Myntra | Pencil Sherpa Double blankets @ 1199 only! 👉 Pencil Sherpa Double blankets @ 899 only! 👉 Winter Mink Double blanket @ 799! 👉  👉",
-    "shortlink": "https://myntr.in/OVGSzo",
-    "urls": [
-      {
-        "url": "https://myntr.in/OVGSzo",
-        "label": "Pencil Sherpa Double blankets @ 1199 only!"
-      },
-      {
-        "url": "https://myntr.in/9holWC",
-        "label": "Pencil Sherpa Double blankets @ 899 only!"
-      },
-      {
-        "url": "https://myntr.in/SuIc4q",
-        "label": "Winter Mink Double blanket @ 799!"
-      },
-      {
-        "url": "https://myntr.in/8oMQsg",
-        "label": "Great deals on all Blankets min 50% Off"
-      }
-    ],
-    "raw_text": "Myntra | Pencil Sherpa Double blankets @ 1199 only!\n👉 https://myntr.in/OVGSzo\n\nPencil Sherpa Double blankets @ 899 only!\n👉 https://myntr.in/9holWC\n\nWinter Mink Double blanket @ 799!\n👉 https://myntr.in/SuIc4q\n\nGreat deals on all Blankets min 50% Off\n👉 https://myntr.in/8oMQsg",
-    "final_url": "https://myntr.in/OVGSzo",
-    "local_image": "assets/images/tgmsg_15916.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-06T12:10:04+00:00",
-    "buy_link": "https://myntr.in/OVGSzo",
-    "date_iso": "2025-11-06T12:10:04+00:00"
   }
 ]
