@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16279",
+    "title": "Wonderchef Electric Kettle 1.5 Ltr @549",
+    "description": "Amazon | Wonderchef Electric Kettle | 1.5 Ltr @549. https://www.amazon.in/dp/B0DRVZBH4S?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DRVZBH4S?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DRVZBH4S?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Wonderchef Electric Kettle | 1.5 Ltr @549"
+      }
+    ],
+    "raw_text": "Amazon | Wonderchef Electric Kettle | 1.5 Ltr @549. \n\nhttps://www.amazon.in/dp/B0DRVZBH4S?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DRVZBH4S?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16279.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-09T07:05:44+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DRVZBH4S?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-09T07:05:44+00:00"
+  },
+  {
     "id": "msg16275",
     "title": "tax%3A27060457031%2Cp_36%3A69900",
     "description": "Amazon | boAt Neckband & Earbuds Starts @749.…",
@@ -9406,25 +9426,5 @@
     "date_obj": "2025-11-06T07:29:24+00:00",
     "buy_link": "https://ajiio.co/NMyJxF",
     "date_iso": "2025-11-06T07:29:24+00:00"
-  },
-  {
-    "id": "msg15881",
-    "title": "boAt Aavante 1550 Pro 160 W Soundbar @ Rs.3,799",
-    "description": "Loot: boAt Aavante 1550 Pro 160 W Soundbar @ Rs.3,799 https://fktr.in/m3WeQaL",
-    "shortlink": "https://fktr.in/m3WeQaL",
-    "urls": [
-      {
-        "url": "https://fktr.in/m3WeQaL",
-        "label": "boAt Aavante 1550 Pro 160 W Soundbar @ Rs.3,799"
-      }
-    ],
-    "raw_text": "Loot: boAt Aavante 1550 Pro 160 W Soundbar @ Rs.3,799\n\nhttps://fktr.in/m3WeQaL",
-    "final_url": "https://fktr.in/m3WeQaL",
-    "local_image": "assets/images/tgmsg_15881.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-06T07:35:05+00:00",
-    "buy_link": "https://fktr.in/m3WeQaL",
-    "date_iso": "2025-11-06T07:35:05+00:00"
   }
 ]
