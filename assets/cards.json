@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg16291",
+    "title": "Offer Min 55 Percent Off",
+    "description": "Ajio | 💥Jack and Jones 👉Offer: Min 55 Percent Off ⚡ 💥Vero Moda, Only 👉Offer: Min 60 Percent Off ⚡ 💥Rare Rabbit 👉Offer: Min 50 Percent Off ⚡ 💥Rareism 👉Offer: Min 45 Percent Off ⚡ 💥Being Human 👉Offer: Min 60 Percent Off ⚡…",
+    "shortlink": "https://ajiio.co/BWnBwV",
+    "urls": [
+      {
+        "url": "",
+        "label": "💥Jack and Jones"
+      },
+      {
+        "url": "https://ajiio.co/BWnBwV",
+        "label": "Min 55 Percent Off"
+      },
+      {
+        "url": "",
+        "label": "💥Vero Moda, Only"
+      },
+      {
+        "url": "https://ajiio.co/t13yfw",
+        "label": "Min 60 Percent Off"
+      },
+      {
+        "url": "",
+        "label": "💥Rare Rabbit"
+      },
+      {
+        "url": "https://ajiio.co/mSEigU",
+        "label": "Min 50 Percent Off"
+      },
+      {
+        "url": "https://ajiio.co/tMZKEx",
+        "label": "Min 45 Percent Off"
+      },
+      {
+        "url": "",
+        "label": "💥Being Human"
+      },
+      {
+        "url": "https://ajiio.co/U3iGOe",
+        "label": "Min 60 Percent Off"
+      },
+      {
+        "url": "https://ajiio.co/k0cUEH",
+        "label": "Under Rs 599"
+      }
+    ],
+    "raw_text": "Ajio | 💥Jack and Jones \n👉Offer: Min 55 Percent Off \n⚡https://ajiio.co/BWnBwV\n\n💥Vero Moda, Only\n👉Offer: Min 60 Percent Off \n⚡https://ajiio.co/t13yfw\n\n💥Rare Rabbit \n👉Offer: Min 50 Percent Off \n⚡https://ajiio.co/mSEigU\n\n💥Rareism \n👉Offer: Min 45 Percent Off \n⚡https://ajiio.co/tMZKEx\n\n💥Being Human \n👉Offer: Min 60 Percent Off \n⚡https://ajiio.co/U3iGOe\n\n💥Performax \n👉Offer: Under Rs 599 \n⚡https://ajiio.co/k0cUEH",
+    "final_url": "https://ajiio.co/BWnBwV",
+    "local_image": "assets/images/tgmsg_16291.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-09T09:05:11+00:00",
+    "buy_link": "https://ajiio.co/BWnBwV",
+    "date_iso": "2025-11-09T09:05:11+00:00"
+  },
+  {
     "id": "msg16288",
     "title": "Up to 85% Off On Men’s Branded Clothing",
     "description": "Myntra : Upto 85% Off On Men’s Branded Clothing Shirts Starts @ ₹199 👉 Trousers Starts @ ₹279 👉 Kurtas Starts @ ₹299 Blazers Starts @ ₹1199 👉",
@@ -9366,33 +9422,5 @@
     "date_obj": "2025-11-06T08:56:50+00:00",
     "buy_link": "https://myntr.in/8wPpyS",
     "date_iso": "2025-11-06T08:56:50+00:00"
-  },
-  {
-    "id": "msg15888",
-    "title": "Flat 80% Off On FILA Clothing",
-    "description": "Myntra | Flat 80% Off On FILA Clothing. 👉 https://myntr.in/lVjwL2 Casual Shoes : https://myntr.in/yOdoQY Sports Shoes : https://myntr.in/PE8akF",
-    "shortlink": "https://myntr.in/lVjwL2",
-    "urls": [
-      {
-        "url": "https://myntr.in/lVjwL2",
-        "label": "Flat 80% Off On FILA Clothing"
-      },
-      {
-        "url": "https://myntr.in/yOdoQY",
-        "label": "Casual Shoes"
-      },
-      {
-        "url": "https://myntr.in/PE8akF",
-        "label": "Sports Shoes"
-      }
-    ],
-    "raw_text": "Myntra | Flat 80% Off On FILA Clothing.\n\n👉 https://myntr.in/lVjwL2\n\nCasual Shoes : https://myntr.in/yOdoQY\nSports Shoes : https://myntr.in/PE8akF",
-    "final_url": "https://myntr.in/lVjwL2",
-    "local_image": "assets/images/tgmsg_15888.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-06T09:00:02+00:00",
-    "buy_link": "https://myntr.in/lVjwL2",
-    "date_iso": "2025-11-06T09:00:02+00:00"
   }
 ]
