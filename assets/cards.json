@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16270",
+    "title": "Dove, Tresemme 1L Shampoo Combos Up to 66% Off",
+    "description": "Myntra | Dove, Tresemme 1L Shampoo Combos Upto 66% Off 👉Link : https://myntr.in/8sBqgG",
+    "shortlink": "https://myntr.in/8sBqgG",
+    "urls": [
+      {
+        "url": "https://myntr.in/8sBqgG",
+        "label": "Dove, Tresemme 1L Shampoo Combos Upto 66% Off"
+      }
+    ],
+    "raw_text": "Myntra | Dove, Tresemme 1L Shampoo Combos Upto 66% Off \n\n👉Link : https://myntr.in/8sBqgG",
+    "final_url": "https://myntr.in/8sBqgG",
+    "local_image": "assets/images/tgmsg_16270.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-09T05:57:18+00:00",
+    "buy_link": "https://myntr.in/8sBqgG",
+    "date_iso": "2025-11-09T05:57:18+00:00"
+  },
+  {
     "id": "msg16267",
     "title": "rank&dc=&ds=v1%3AQLvuuNcnso0iEd18QA%2B6vC5OC2yyAf3rv4HD4jKQafw&crid=2JGK4J4NO3BA7&qid=1750781423&sprefix=spar%2Caps%2C264&tag=bestpricezo0f",
     "description": "Amazon | SPARX Footwears Starts @259 Men :…",
@@ -9394,25 +9414,5 @@
     "date_obj": "2025-11-06T06:15:46+00:00",
     "buy_link": "https://myntr.in/Ahm0nl",
     "date_iso": "2025-11-06T06:15:46+00:00"
-  },
-  {
-    "id": "msg15868",
-    "title": "Set of 4 Pillows at 873 only",
-    "description": "Myntra | Set of 4 Pillows at 873 only 👉https://myntr.in/7VzUns",
-    "shortlink": "https://myntr.in/7VzUns",
-    "urls": [
-      {
-        "url": "https://myntr.in/7VzUns",
-        "label": "Set of 4 Pillows at 873 only"
-      }
-    ],
-    "raw_text": "Myntra | Set of 4 Pillows at 873 only\n\n👉https://myntr.in/7VzUns",
-    "final_url": "https://myntr.in/7VzUns",
-    "local_image": "assets/images/tgmsg_15868.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-06T06:26:16+00:00",
-    "buy_link": "https://myntr.in/7VzUns",
-    "date_iso": "2025-11-06T06:26:16+00:00"
   }
 ]
