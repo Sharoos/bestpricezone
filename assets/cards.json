@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16297",
+    "title": "Highlander Men’s Jeans from @447",
+    "description": "Flipkart | Highlander Men’s Jeans from @447 👉https://fkrt.co/01QpyE",
+    "shortlink": "https://fkrt.co/01QpyE",
+    "urls": [
+      {
+        "url": "https://fkrt.co/01QpyE",
+        "label": "Highlander Men’s Jeans from @447"
+      }
+    ],
+    "raw_text": "Flipkart | Highlander Men’s Jeans from @447\n\n👉https://fkrt.co/01QpyE",
+    "final_url": "https://fkrt.co/01QpyE",
+    "local_image": "assets/images/tgmsg_16297.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-09T09:53:32+00:00",
+    "buy_link": "https://fkrt.co/01QpyE",
+    "date_iso": "2025-11-09T09:53:32+00:00"
+  },
+  {
     "id": "msg16295",
     "title": "Bellavita Perfume Combo (Pack of 2) @ 219",
     "description": "Flipkart  Bellavita Perfume Combo (Pack of 2) @  219 https://fkrt.co/REAWgC https://fkrt.co/Vb5qp2",
@@ -9470,37 +9490,5 @@
     "date_obj": "2025-11-06T10:05:44+00:00",
     "buy_link": "https://extp.in/O2yo8u",
     "date_iso": "2025-11-06T10:05:44+00:00"
-  },
-  {
-    "id": "msg15899",
-    "title": "🎉 Noise Buds Nero Truly Wireless Earbuds with Rubberised Finish, Quad Mic ENC & 45H Playtime at Rs. 750 + Bank Offers!!",
-    "description": "Myntra |  👉 🎉 NOISE Buds Aero With 45hrs Playtime, Instacharge and 13mm Driver Truly Wireless Earbuds at Rs.689 + Bank Offers!! 👉 🎉 NOISE Buds F1 Truly Wireless 50 hrs Playtime Headphones at Rs. 699 only!! 👉 Limited…",
-    "shortlink": "https://myntr.in/SnZEAU",
-    "urls": [
-      {
-        "url": "https://myntr.in/SnZEAU",
-        "label": "🎉 Noise Buds Nero Truly Wireless Earbuds with Rubberised Finish, Quad Mic ENC & 45H Playtime at Rs. 750 + Bank Offers!!"
-      },
-      {
-        "url": "https://myntr.in/YvEq3A",
-        "label": "🎉 NOISE Buds Aero With 45hrs Playtime, Instacharge and 13mm Driver Truly Wireless Earbuds at Rs.689 + Bank Offers!!"
-      },
-      {
-        "url": "https://myntr.in/yOrkVm",
-        "label": "🎉 NOISE Buds F1 Truly Wireless 50 hrs Playtime Headphones at Rs. 699 only!!"
-      },
-      {
-        "url": "",
-        "label": "Limited time deal!!⏰"
-      }
-    ],
-    "raw_text": "Myntra | 🎉 Noise Buds Nero Truly Wireless Earbuds with Rubberised Finish, Quad Mic ENC & 45H Playtime at Rs. 750 + Bank Offers!!\n👉https://myntr.in/SnZEAU\n\n🎉 NOISE Buds Aero With 45hrs Playtime, Instacharge and 13mm Driver Truly Wireless Earbuds at Rs.689 + Bank Offers!!\n👉 https://myntr.in/YvEq3A\n\n🎉 NOISE Buds F1 Truly Wireless 50 hrs Playtime Headphones at Rs. 699 only!!\n👉 https://myntr.in/yOrkVm\n\nLimited time deal!!⏰",
-    "final_url": "https://myntr.in/SnZEAU",
-    "local_image": "assets/images/tgmsg_15899.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-06T10:10:02+00:00",
-    "buy_link": "https://myntr.in/SnZEAU",
-    "date_iso": "2025-11-06T10:10:02+00:00"
   }
 ]
