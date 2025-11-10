@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16472",
+    "title": "USPA & Hellcat and More Min 50% Off",
+    "description": "AJIO: USPA & Hellcat and More Min 50% Off 👉Link : https://ajiio.co/RrPubq + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/RrPubq",
+    "urls": [
+      {
+        "url": "https://ajiio.co/RrPubq",
+        "label": "USPA & Hellcat and More Min 50% Off"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO: USPA & Hellcat and More Min 50% Off\n\n👉Link : https://ajiio.co/RrPubq\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/RrPubq",
+    "local_image": "assets/images/tgmsg_16472.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-10T17:51:18+00:00",
+    "buy_link": "https://ajiio.co/RrPubq",
+    "date_iso": "2025-11-10T17:51:18+00:00"
+  },
+  {
     "id": "msg16471",
     "title": "Artificial Jewellery for Women Starting @ just 73",
     "description": "Flipkart | Artificial Jewellery for Women Starting @ just 73 Link : https://fkrt.co/WknP0I",
@@ -9258,25 +9282,5 @@
     "date_obj": "2025-11-07T11:31:32+00:00",
     "buy_link": "https://www.amazon.in/dp/B07QQ71X3Q/ref=cm_sw_r_as_gl_apa_gl_i_RGPDDZ5G469EWDZ47KTA?tag=bestpricezo0f-21",
     "date_iso": "2025-11-07T11:31:32+00:00"
-  },
-  {
-    "id": "msg16056",
-    "title": "Popular Winter blankets under 1019",
-    "description": "Myntra | Popular Winter blankets under 1019 👉 Link : https://myntr.in/J6Hfln",
-    "shortlink": "https://myntr.in/J6Hfln",
-    "urls": [
-      {
-        "url": "https://myntr.in/J6Hfln",
-        "label": "Popular Winter blankets under 1019"
-      }
-    ],
-    "raw_text": "Myntra | Popular Winter blankets under 1019\n\n👉 Link : https://myntr.in/J6Hfln",
-    "final_url": "https://myntr.in/J6Hfln",
-    "local_image": "assets/images/tgmsg_16056.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-07T11:20:02+00:00",
-    "buy_link": "https://myntr.in/J6Hfln",
-    "date_iso": "2025-11-07T11:20:02+00:00"
   }
 ]
