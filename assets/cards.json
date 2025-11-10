@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16391",
+    "title": "Kratos 10000 mAh Power Bank @ 599",
+    "description": "Flipkart | Kratos 10000 mAh Power Bank @ 599. 👉 https://fkrt.co/cmSNcP",
+    "shortlink": "https://fkrt.co/cmSNcP",
+    "urls": [
+      {
+        "url": "https://fkrt.co/cmSNcP",
+        "label": "Kratos 10000 mAh Power Bank @ 599"
+      }
+    ],
+    "raw_text": "Flipkart | Kratos 10000 mAh Power Bank @ 599.\n\n👉 https://fkrt.co/cmSNcP",
+    "final_url": "https://fkrt.co/cmSNcP",
+    "local_image": "assets/images/tgmsg_16391.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-10T06:25:58+00:00",
+    "buy_link": "https://fkrt.co/cmSNcP",
+    "date_iso": "2025-11-10T06:25:58+00:00"
+  },
+  {
     "id": "msg16389",
     "title": "Up to 85% Off On HRX Luggage",
     "description": "Flipkart | Upto 85% Off On HRX Luggage. Small :   https://fkrt.co/NmySzU Medium :   https://fkrt.co/tUzwzp Large :   https://fkrt.co/7fCoAs Pack Of 2/3 :   https://fkrt.co/2YNImp",
@@ -9414,25 +9434,5 @@
     "date_obj": "2025-11-06T19:16:34+00:00",
     "buy_link": "https://fkrt.co/p1Yxd6",
     "date_iso": "2025-11-06T19:16:34+00:00"
-  },
-  {
-    "id": "msg15970",
-    "title": "FOGG Fantastic Extreme 150ml @170",
-    "description": "Amazon | FOGG Fantastic Extreme 150ml @170 https://www.amazon.in/dp/B08RPXQXSC?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B08RPXQXSC?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B08RPXQXSC?psc=1&tag=bestpricezo0f-21",
-        "label": "FOGG Fantastic Extreme 150ml @170"
-      }
-    ],
-    "raw_text": "Amazon | FOGG Fantastic Extreme 150ml @170\n\nhttps://www.amazon.in/dp/B08RPXQXSC?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B08RPXQXSC?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15970.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-06T18:39:49+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08RPXQXSC?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-06T18:39:49+00:00"
   }
 ]
