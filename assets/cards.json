@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16393",
+    "title": "🛒 Deal Price Up to 47% OFF",
+    "description": "Amazon | 🛁 Wash Away Bad Hair Days! 🛒 Deal Price: Up to 47% OFF https://www.amazon.in/dp/B09J2JW22M?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B09J2JW22M?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "🛁 Wash Away Bad Hair Days!"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B09J2JW22M?tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: Up to 47% OFF"
+      }
+    ],
+    "raw_text": "Amazon | 🛁 Wash Away Bad Hair Days!\n\n🛒 Deal Price: Up to 47% OFF\n\nhttps://www.amazon.in/dp/B09J2JW22M?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B09J2JW22M?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16393.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-10T06:49:51+00:00",
+    "buy_link": "https://www.amazon.in/dp/B09J2JW22M?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-10T06:49:51+00:00"
+  },
+  {
     "id": "msg16391",
     "title": "Kratos 10000 mAh Power Bank @ 599",
     "description": "Flipkart | Kratos 10000 mAh Power Bank @ 599. 👉 https://fkrt.co/cmSNcP",
@@ -9414,25 +9438,5 @@
     "date_obj": "2025-11-06T19:15:12+00:00",
     "buy_link": "https://www.amazon.in/s?rh=p_78%3AB0CRHPT8J3%2525257CB0BLK4YRSN%2525257CB0BQN2YWN5&hidden-keywords=B0CRHPT8J3%7CB0BLK4YRSN%7CB0BQN2YWN5&aaxitk=4fac5a2689164aa7b0d363fc7060bf1d&aref=9fA5LqtSYv&pd_rd_plhdr=t&pf_rd_r=PSB4J59CHMRLLIKIOWIE&language=en_IN&tag=bestpricezo0f-21&",
     "date_iso": "2025-11-06T19:15:12+00:00"
-  },
-  {
-    "id": "msg15997",
-    "title": "🔥Bata Men's Sandals From ₹258",
-    "description": "Flipkart | 🔥Bata Men's Sandals From ₹258 👉https://fkrt.co/p1Yxd6",
-    "shortlink": "https://fkrt.co/p1Yxd6",
-    "urls": [
-      {
-        "url": "https://fkrt.co/p1Yxd6",
-        "label": "🔥Bata Men's Sandals From ₹258"
-      }
-    ],
-    "raw_text": "Flipkart | 🔥Bata Men's Sandals From ₹258\n\n👉https://fkrt.co/p1Yxd6",
-    "final_url": "https://fkrt.co/p1Yxd6",
-    "local_image": "assets/images/tgmsg_15997.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-06T19:16:34+00:00",
-    "buy_link": "https://fkrt.co/p1Yxd6",
-    "date_iso": "2025-11-06T19:16:34+00:00"
   }
 ]
