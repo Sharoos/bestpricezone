@@ -1,5 +1,149 @@
 [
   {
+    "id": "msg16507",
+    "title": "LG 22 inch FHD Monitor @6199",
+    "description": "Amazon | LG 22 inch FHD Monitor @6199 https://www.amazon.in/dp/B0CPPVQX4H?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CPPVQX4H?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CPPVQX4H?th=1&tag=bestpricezo0f-21",
+        "label": "LG 22 inch FHD Monitor @6199"
+      }
+    ],
+    "raw_text": "Amazon | LG 22 inch FHD Monitor @6199\n\nhttps://www.amazon.in/dp/B0CPPVQX4H?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CPPVQX4H?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16507.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-10T19:27:31+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CPPVQX4H?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-10T19:27:31+00:00"
+  },
+  {
+    "id": "msg16508",
+    "title": "78% Off On Smart & Handsome Facewash",
+    "description": "Myntra  70-78% Off On Smart & Handsome Facewash. https://myntr.in/YU1h7f",
+    "shortlink": "https://myntr.in/YU1h7f",
+    "urls": [
+      {
+        "url": "https://myntr.in/YU1h7f",
+        "label": "78% Off On Smart & Handsome Facewash"
+      }
+    ],
+    "raw_text": "Myntra  70-78% Off On Smart & Handsome Facewash.\n\nhttps://myntr.in/YU1h7f",
+    "final_url": "https://myntr.in/YU1h7f",
+    "local_image": "assets/images/tgmsg_16508.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-10T19:29:29+00:00",
+    "buy_link": "https://myntr.in/YU1h7f",
+    "date_iso": "2025-11-10T19:29:29+00:00"
+  },
+  {
+    "id": "msg16509",
+    "title": "Mamaearth Rice Face Wash 100 ml @₹174",
+    "description": "Amazon | Mamaearth Rice Face Wash 100 ml @₹174 https://www.amazon.in/dp/B09Z65JJ69?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B09Z65JJ69?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B09Z65JJ69?tag=bestpricezo0f-21",
+        "label": "Mamaearth Rice Face Wash 100 ml @₹174"
+      }
+    ],
+    "raw_text": "Amazon | Mamaearth Rice Face Wash 100 ml @₹174\n\nhttps://www.amazon.in/dp/B09Z65JJ69?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B09Z65JJ69?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16509.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-10T19:31:54+00:00",
+    "buy_link": "https://www.amazon.in/dp/B09Z65JJ69?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-10T19:31:54+00:00"
+  },
+  {
+    "id": "msg16510",
+    "title": "🛒 Deal Price ₹282",
+    "description": "Flipkart | Redtape Slides for Women 🛒 Deal Price: ₹282 Redtape Slides for Men 🛒 Deal Price: ₹282",
+    "shortlink": "https://fkrt.co/wPuU3L",
+    "urls": [
+      {
+        "url": "",
+        "label": "Redtape Slides for Women"
+      },
+      {
+        "url": "https://fkrt.co/wPuU3L",
+        "label": "🛒 Deal Price: ₹282"
+      },
+      {
+        "url": "",
+        "label": "Redtape Slides for Men"
+      },
+      {
+        "url": "https://fkrt.co/mdV6h4",
+        "label": "🛒 Deal Price: ₹282"
+      }
+    ],
+    "raw_text": "Flipkart | Redtape Slides for Women\n\n🛒 Deal Price: ₹282\n\nhttps://fkrt.co/wPuU3L\n\nRedtape Slides for Men\n\n🛒 Deal Price: ₹282\n\nhttps://fkrt.co/mdV6h4",
+    "final_url": "https://fkrt.co/wPuU3L",
+    "local_image": "assets/images/tgmsg_16510.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-10T19:34:09+00:00",
+    "buy_link": "https://fkrt.co/wPuU3L",
+    "date_iso": "2025-11-10T19:34:09+00:00"
+  },
+  {
+    "id": "msg16511",
+    "title": "🛒 Deal Price Starts @ ₹450",
+    "description": "Myntra | 🧥 HRX By Hrithik Roshan Jacket Deals 🛒 Deal Price: Starts @ ₹450 Women: Men:",
+    "shortlink": "https://myntr.in/LsfrhH",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧥 HRX By Hrithik Roshan Jacket Deals"
+      },
+      {
+        "url": "",
+        "label": "🛒 Deal Price: Starts @ ₹450"
+      },
+      {
+        "url": "https://myntr.in/LsfrhH",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/aOBYPs",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "Myntra | 🧥 HRX By Hrithik Roshan Jacket Deals\n\n🛒 Deal Price: Starts @ ₹450\n\nWomen: https://myntr.in/LsfrhH\nMen: https://myntr.in/aOBYPs",
+    "final_url": "https://myntr.in/LsfrhH",
+    "local_image": "assets/images/tgmsg_16511.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-10T19:35:23+00:00",
+    "buy_link": "https://myntr.in/LsfrhH",
+    "date_iso": "2025-11-10T19:35:23+00:00"
+  },
+  {
+    "id": "msg16512",
+    "title": "Scholl Women's Eva Thong Slipper @₹350",
+    "description": "Amazon | Scholl Women's Eva Thong Slipper @₹350 https://www.amazon.in/dp/B0B68CJG29?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0B68CJG29?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0B68CJG29?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Scholl Women's Eva Thong Slipper @₹350"
+      }
+    ],
+    "raw_text": "Amazon | Scholl Women's Eva Thong Slipper @₹350\n\nhttps://www.amazon.in/dp/B0B68CJG29?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0B68CJG29?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16512.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-10T19:38:24+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0B68CJG29?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-10T19:38:24+00:00"
+  },
+  {
     "id": "msg16503",
     "title": "tax%3A2665402031&i=beauty&tag=bestpricezo0f",
     "description": "Amazon | Body Wash Starts @95 Fiama : https://www.amazon.in/s?k=Fiama%20Shower%20Gel&rh=n%3A1355016031%2Cp_89%3AFiama%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21 Palmolive :…",
@@ -9078,165 +9222,5 @@
     "date_obj": "2025-11-07T16:49:19+00:00",
     "buy_link": "https://myntr.in/SL8DtH",
     "date_iso": "2025-11-07T16:49:19+00:00"
-  },
-  {
-    "id": "msg16098",
-    "title": "🧴 AXE Intense Body Spray (Pack of 4) – ₹490",
-    "description": "Flipkart 🔥🧴 Grooming & Utility Essentials at Best Prices! 👕💈  🔗 👕 Branded Dry Iron – Starting at ₹331 🔗 🧔 OnePlus Trimmers – Starting at ₹498 🔗",
-    "shortlink": "https://fkrt.co/RYeL9O",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart 🔥🧴 Grooming & Utility Essentials at Best Prices! 👕💈"
-      },
-      {
-        "url": "https://fkrt.co/RYeL9O",
-        "label": "🧴 AXE Intense Body Spray (Pack of 4) – ₹490"
-      },
-      {
-        "url": "https://fkrt.co/C8JZwu",
-        "label": "👕 Branded Dry Iron – Starting at ₹331"
-      },
-      {
-        "url": "https://fkrt.co/8EtMTl",
-        "label": "🧔 OnePlus Trimmers – Starting at ₹498"
-      }
-    ],
-    "raw_text": "Flipkart 🔥🧴 Grooming & Utility Essentials at Best Prices! 👕💈\n\n🧴 AXE Intense Body Spray (Pack of 4) – ₹490\n🔗 https://fkrt.co/RYeL9O\n\n👕 Branded Dry Iron – Starting at ₹331\n🔗 https://fkrt.co/C8JZwu\n\n🧔 OnePlus Trimmers – Starting at ₹498\n🔗 https://fkrt.co/8EtMTl",
-    "final_url": "https://fkrt.co/RYeL9O",
-    "local_image": "assets/images/tgmsg_16098.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-07T16:36:02+00:00",
-    "buy_link": "https://fkrt.co/RYeL9O",
-    "date_iso": "2025-11-07T16:36:02+00:00"
-  },
-  {
-    "id": "msg16094",
-    "title": "Ducati Sneakers Up to 80% Off",
-    "description": "Myntra | Ducati Sneakers Upto 80% Off https://myntr.in/QQyEeN",
-    "shortlink": "https://myntr.in/QQyEeN",
-    "urls": [
-      {
-        "url": "https://myntr.in/QQyEeN",
-        "label": "Ducati Sneakers Upto 80% Off"
-      }
-    ],
-    "raw_text": "Myntra | Ducati Sneakers Upto 80% Off\n\nhttps://myntr.in/QQyEeN",
-    "final_url": "https://myntr.in/QQyEeN",
-    "local_image": "assets/images/tgmsg_16094.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-07T16:02:39+00:00",
-    "buy_link": "https://myntr.in/QQyEeN",
-    "date_iso": "2025-11-07T16:02:39+00:00"
-  },
-  {
-    "id": "msg16097",
-    "title": "Cortina Bedsheet At 194",
-    "description": "Myntra  Cortina Bedsheet At 194. https://myntr.in/OfXqle",
-    "shortlink": "https://myntr.in/OfXqle",
-    "urls": [
-      {
-        "url": "https://myntr.in/OfXqle",
-        "label": "Myntra Cortina Bedsheet At 194"
-      }
-    ],
-    "raw_text": "Myntra  Cortina Bedsheet At 194.\n\nhttps://myntr.in/OfXqle",
-    "final_url": "https://myntr.in/OfXqle",
-    "local_image": "assets/images/tgmsg_16097.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-07T16:17:00+00:00",
-    "buy_link": "https://myntr.in/OfXqle",
-    "date_iso": "2025-11-07T16:17:00+00:00"
-  },
-  {
-    "id": "msg16092",
-    "title": "Provogue Watches Starts At 249",
-    "description": "Flipkart | Provogue Watches Starts At 249 👉Link : https://fkrt.co/qoioJH",
-    "shortlink": "https://fkrt.co/qoioJH",
-    "urls": [
-      {
-        "url": "https://fkrt.co/qoioJH",
-        "label": "Provogue Watches Starts At 249"
-      }
-    ],
-    "raw_text": "Flipkart | Provogue Watches Starts At 249\n\n👉Link : https://fkrt.co/qoioJH",
-    "final_url": "https://fkrt.co/qoioJH",
-    "local_image": "assets/images/tgmsg_16092.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-07T15:46:45+00:00",
-    "buy_link": "https://fkrt.co/qoioJH",
-    "date_iso": "2025-11-07T15:46:45+00:00"
-  },
-  {
-    "id": "msg16093",
-    "title": "Up to 75% Off On Premium Winter Blanket",
-    "description": "Myntra : Upto 75% Off On Premium Winter Blankets. https://myntr.in/7OTBMb",
-    "shortlink": "https://myntr.in/7OTBMb",
-    "urls": [
-      {
-        "url": "https://myntr.in/7OTBMb",
-        "label": "Upto 75% Off On Premium Winter Blankets"
-      }
-    ],
-    "raw_text": "Myntra : Upto 75% Off On Premium Winter Blankets.\n\nhttps://myntr.in/7OTBMb",
-    "final_url": "https://myntr.in/7OTBMb",
-    "local_image": "assets/images/tgmsg_16093.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-07T15:46:48+00:00",
-    "buy_link": "https://myntr.in/7OTBMb",
-    "date_iso": "2025-11-07T15:46:48+00:00"
-  },
-  {
-    "id": "msg16090",
-    "title": "Fashion SALE 🙈🙈",
-    "description": "Flipkart  Dailywear Kurtis @ 199 Everyday Sarees @ 199 Anarkali Kurtis @ 269 Ethnic Sets @ 269 Festive Ethnic Sets @ 389 Kanjivaram, Banarasi Sarees @ 489 Lehenga Cholis @ 368",
-    "shortlink": "https://fkrt.co/wQJJd8",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart Fashion SALE 🙈🙈"
-      },
-      {
-        "url": "https://fkrt.co/wQJJd8",
-        "label": "Dailywear Kurtis @ 199"
-      },
-      {
-        "url": "https://fkrt.co/uoCydE",
-        "label": "Everyday Sarees @ 199"
-      },
-      {
-        "url": "https://fkrt.co/kibUow",
-        "label": "Anarkali Kurtis @ 269"
-      },
-      {
-        "url": "https://fkrt.co/ydqpXI",
-        "label": "Ethnic Sets @ 269"
-      },
-      {
-        "url": "https://fkrt.co/bNxHfz",
-        "label": "Festive Ethnic Sets @ 389"
-      },
-      {
-        "url": "https://fkrt.co/iVls76",
-        "label": "Kanjivaram, Banarasi Sarees @ 489"
-      },
-      {
-        "url": "https://fkrt.co/mY6irT",
-        "label": "Lehenga Cholis @ 368"
-      }
-    ],
-    "raw_text": "Flipkart Fashion SALE 🙈🙈\n\nDailywear Kurtis @ 199\nhttps://fkrt.co/wQJJd8\n\nEveryday Sarees @ 199\nhttps://fkrt.co/uoCydE\n\nAnarkali Kurtis @ 269\nhttps://fkrt.co/kibUow\n\nEthnic Sets @ 269\nhttps://fkrt.co/ydqpXI\n\nFestive Ethnic Sets @ 389\nhttps://fkrt.co/bNxHfz\n\nKanjivaram, Banarasi Sarees @ 489\nhttps://fkrt.co/iVls76\n\nLehenga Cholis @ 368\nhttps://fkrt.co/mY6irT",
-    "final_url": "https://fkrt.co/wQJJd8",
-    "local_image": "assets/images/tgmsg_16090.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-07T15:32:06+00:00",
-    "buy_link": "https://fkrt.co/wQJJd8",
-    "date_iso": "2025-11-07T15:32:06+00:00"
   }
 ]
