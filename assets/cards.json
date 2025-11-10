@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16462",
+    "title": "Noise Earphones from Rs. 799 only!!",
+    "description": "Myntra | Noise Earphones from Rs. 799 only!! https://myntr.in/8ZWFQY Boult Audio Earphones from Rs. 279 only!! https://myntr.in/PAhrpB",
+    "shortlink": "https://myntr.in/8ZWFQY",
+    "urls": [
+      {
+        "url": "https://myntr.in/8ZWFQY",
+        "label": "Noise Earphones from Rs. 799 only!!"
+      },
+      {
+        "url": "https://myntr.in/PAhrpB",
+        "label": "Boult Audio Earphones from Rs. 279 only!!"
+      }
+    ],
+    "raw_text": "Myntra | Noise Earphones from Rs. 799 only!!\nhttps://myntr.in/8ZWFQY\n\nBoult Audio Earphones from Rs. 279 only!!\nhttps://myntr.in/PAhrpB",
+    "final_url": "https://myntr.in/8ZWFQY",
+    "local_image": "assets/images/tgmsg_16462.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-10T15:46:49+00:00",
+    "buy_link": "https://myntr.in/8ZWFQY",
+    "date_iso": "2025-11-10T15:46:49+00:00"
+  },
+  {
     "id": "msg16458",
     "title": "Hp Laptop Bags Up to 80% off starting From Rs.279",
     "description": "Flipkart | Hp Laptop Bags upto 80% off starting From Rs.279 https://fkrt.co/wGpa5v",
@@ -9378,41 +9402,5 @@
     "date_obj": "2025-11-07T10:18:30+00:00",
     "buy_link": "https://extp.in/6X3J41",
     "date_iso": "2025-11-07T10:18:30+00:00"
-  },
-  {
-    "id": "msg16046",
-    "title": "🛒 Deal Price ₹599",
-    "description": "Amazon | 🔥 Kitchen Essentials Deal Pigeon Nonstick Tawa + Pan 🛒 Deal Price: ₹599 👉 🔪 Pigeon Knife Set - 4pcs 🛒 Deal Price: ₹95 👉",
-    "shortlink": "https://www.amazon.in/dp/B07KYPZHJ9?th=1&psc=1&language=en_IN&sid=QioFJM&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Kitchen Essentials Deal"
-      },
-      {
-        "url": "",
-        "label": "Pigeon Nonstick Tawa + Pan"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B07KYPZHJ9?th=1&psc=1&language=en_IN&sid=QioFJM&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹599"
-      },
-      {
-        "url": "",
-        "label": "🔪 Pigeon Knife Set - 4pcs"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0CYZ48MDL?social_share=cm_sw_r_apan_dp_6SJ9SB360KPR6F58FCZ8&th=1&language=en_IN&sid=igT99b&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹95"
-      }
-    ],
-    "raw_text": "Amazon | 🔥 Kitchen Essentials Deal\n\nPigeon Nonstick Tawa + Pan\n\n🛒 Deal Price: ₹599\n\n👉 https://www.amazon.in/dp/B07KYPZHJ9?th=1&psc=1&language=en_IN&sid=QioFJM&tag=bestpricezo0f-21\n\n🔪 Pigeon Knife Set - 4pcs\n\n🛒 Deal Price: ₹95\n\n👉 https://www.amazon.in/dp/B0CYZ48MDL?social_share=cm_sw_r_apan_dp_6SJ9SB360KPR6F58FCZ8&th=1&language=en_IN&sid=igT99b&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07KYPZHJ9?th=1&psc=1&language=en_IN&sid=QioFJM&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16046.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-07T09:45:34+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07KYPZHJ9?th=1&psc=1&language=en_IN&sid=QioFJM&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-07T09:45:34+00:00"
   }
 ]
