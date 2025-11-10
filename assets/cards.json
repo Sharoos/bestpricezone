@@ -1,5 +1,89 @@
 [
   {
+    "id": "msg16414",
+    "title": "Popular Organisers @ min 60% off",
+    "description": "Myntra | Popular Organisers @ min 60% off 👉 Link : https://myntr.in/sD3eqF",
+    "shortlink": "https://myntr.in/sD3eqF",
+    "urls": [
+      {
+        "url": "https://myntr.in/sD3eqF",
+        "label": "Popular Organisers @ min 60% off"
+      }
+    ],
+    "raw_text": "Myntra | Popular Organisers @ min 60% off\n\n👉 Link : https://myntr.in/sD3eqF",
+    "final_url": "https://myntr.in/sD3eqF",
+    "local_image": "assets/images/tgmsg_16414.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-10T10:00:04+00:00",
+    "buy_link": "https://myntr.in/sD3eqF",
+    "date_iso": "2025-11-10T10:00:04+00:00"
+  },
+  {
+    "id": "msg16416",
+    "title": "Double Bedsheets @ 199",
+    "description": "Myntra |  👉 Fitted Bedsheets @ 229 👉 Memory Foam Bath rug @ 249 only! 👉 Single Bedsheets starting @ 159 👉 Set of 2 bathrugs @249 👉 Double Bed Mink Blanket @799 only 👉 Winter Blankets starting @ 349 only! 👉",
+    "shortlink": "https://myntr.in/qAKcMT",
+    "urls": [
+      {
+        "url": "https://myntr.in/qAKcMT",
+        "label": "Double Bedsheets @ 199"
+      },
+      {
+        "url": "https://myntr.in/OhOOk3",
+        "label": "Fitted Bedsheets @ 229"
+      },
+      {
+        "url": "https://myntr.in/wUPbF6",
+        "label": "Memory Foam Bath rug @ 249 only!"
+      },
+      {
+        "url": "https://myntr.in/yEHpcp",
+        "label": "Single Bedsheets starting @ 159"
+      },
+      {
+        "url": "https://myntr.in/sbRZgc",
+        "label": "Set of 2 bathrugs @249"
+      },
+      {
+        "url": "https://myntr.in/vwbxBb",
+        "label": "Double Bed Mink Blanket @799 only"
+      },
+      {
+        "url": "https://myntr.in/G23Wcf",
+        "label": "Winter Blankets starting @ 349 only!"
+      }
+    ],
+    "raw_text": "Myntra | Double Bedsheets @ 199\n👉 https://myntr.in/qAKcMT\n\nFitted Bedsheets @ 229\n👉 https://myntr.in/OhOOk3\n\nMemory Foam Bath rug @ 249 only!\n👉 https://myntr.in/wUPbF6\n\nSingle Bedsheets starting @ 159\n👉 https://myntr.in/yEHpcp\n\nSet of 2 bathrugs @249\n👉 https://myntr.in/sbRZgc\n\nDouble Bed Mink Blanket @799 only\n👉 https://myntr.in/vwbxBb\n\nWinter Blankets starting @ 349 only!\n👉 https://myntr.in/G23Wcf",
+    "final_url": "https://myntr.in/qAKcMT",
+    "local_image": "assets/images/tgmsg_16416.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-10T10:10:03+00:00",
+    "buy_link": "https://myntr.in/qAKcMT",
+    "date_iso": "2025-11-10T10:10:03+00:00"
+  },
+  {
+    "id": "msg16418",
+    "title": "Denim Shirts Up to 80% Off",
+    "description": "Flipkart | Denim Shirts Upto 80% Off 👉 https://fkrt.co/sZSNMv",
+    "shortlink": "https://fkrt.co/sZSNMv",
+    "urls": [
+      {
+        "url": "https://fkrt.co/sZSNMv",
+        "label": "Denim Shirts Upto 80% Off"
+      }
+    ],
+    "raw_text": "Flipkart | Denim Shirts Upto 80% Off\n\n👉 https://fkrt.co/sZSNMv",
+    "final_url": "https://fkrt.co/sZSNMv",
+    "local_image": "assets/images/tgmsg_16418.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-10T10:20:02+00:00",
+    "buy_link": "https://fkrt.co/sZSNMv",
+    "date_iso": "2025-11-10T10:20:02+00:00"
+  },
+  {
     "id": "msg16411",
     "title": "Portronics Toad 101 Wired Optical Mouse @119",
     "description": "Amazon | Portronics Toad 101 Wired Optical Mouse @119 👉 https://www.amazon.in/dp/B0BRKSQ7Z2?th=1&tag=bestpricezo0f-21",
@@ -9410,65 +9494,5 @@
     "date_obj": "2025-11-06T19:55:52+00:00",
     "buy_link": "https://fkrt.co/Ggu0Rd",
     "date_iso": "2025-11-06T19:55:52+00:00"
-  },
-  {
-    "id": "msg15999",
-    "title": "Anchor Cooling Fresh Gel Toothpaste, 600g @ ₹240",
-    "description": "Amazon | Anchor Cooling Fresh Gel Toothpaste, 600g @ ₹240. https://www.amazon.in/dp/B0DHGSX7V3?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DHGSX7V3?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DHGSX7V3?tag=bestpricezo0f-21",
-        "label": "Anchor Cooling Fresh Gel Toothpaste, 600g @ ₹240"
-      }
-    ],
-    "raw_text": "Amazon | Anchor Cooling Fresh Gel Toothpaste, 600g @ ₹240.\n\nhttps://www.amazon.in/dp/B0DHGSX7V3?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DHGSX7V3?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15999.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-06T19:18:13+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DHGSX7V3?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-06T19:18:13+00:00"
-  },
-  {
-    "id": "msg16000",
-    "title": "Waterproof Car Body Cover @ 336",
-    "description": "Amazon | Waterproof Car Body Cover @ 336. https://www.amazon.in/dp/B0F1T6D66F?th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F1T6D66F?th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F1T6D66F?th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
-        "label": "Waterproof Car Body Cover @ 336"
-      }
-    ],
-    "raw_text": "Amazon | Waterproof Car Body Cover @ 336.\n\nhttps://www.amazon.in/dp/B0F1T6D66F?th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F1T6D66F?th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16000.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-06T19:19:18+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F1T6D66F?th=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-06T19:19:18+00:00"
-  },
-  {
-    "id": "msg16001",
-    "title": "IFB 1.5 Ton 3 Star Split AC @32490",
-    "description": "Amazon | IFB 1.5 Ton 3 Star Split AC @32490 https://www.amazon.in/dp/B0DTHXBYNQ?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DTHXBYNQ?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DTHXBYNQ?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "IFB 1.5 Ton 3 Star Split AC @32490"
-      }
-    ],
-    "raw_text": "Amazon | IFB 1.5 Ton 3 Star Split AC @32490\n \nhttps://www.amazon.in/dp/B0DTHXBYNQ?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DTHXBYNQ?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16001.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-06T19:24:43+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DTHXBYNQ?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-06T19:24:43+00:00"
   }
 ]
