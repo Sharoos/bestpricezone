@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg16426",
+    "title": "💥 WOW Skincare Mega Deal! 💥",
+    "description": "✨ Your skincare routine just got more affordable! ✨ 🛍 Buy ANY 8 Products @ ₹1000 Only! 💸 + Get ₹100 Cashback! Choose from your favourites : 🌿 Face Wash | 💧 Face Serum | 🧴 Moisturizer | ☀️ Sunscreen 🫧 Body Lotion | 🛁…",
+    "shortlink": "https://extp.in/fJtQap=",
+    "urls": [
+      {
+        "url": "",
+        "label": "💥 WOW Skincare Mega Deal! 💥"
+      },
+      {
+        "url": "",
+        "label": "✨ Your skincare routine just got more affordable! ✨"
+      },
+      {
+        "url": "",
+        "label": "💸 + Get ₹100 Cashback!"
+      },
+      {
+        "url": "",
+        "label": "Choose from your favourites"
+      },
+      {
+        "url": "",
+        "label": "🌿 Face Wash | 💧 Face Serum | 🧴 Moisturizer | ☀️ Sunscreen"
+      },
+      {
+        "url": "",
+        "label": "🫧 Body Lotion | 🛁 Body Wash | 💄 Lip Care | 🧖‍♀️ Facial Kits & More!"
+      },
+      {
+        "url": "",
+        "label": "🔥 Grab 8 WOW essentials for just ₹900 net after cashback!"
+      },
+      {
+        "url": "",
+        "label": "💯 Natural | Toxin-Free | Dermatologically Tested"
+      },
+      {
+        "url": "https://extp.in/fJtQap=",
+        "label": "Shop Now"
+      }
+    ],
+    "raw_text": "💥 WOW Skincare Mega Deal! 💥\n\n✨ Your skincare routine just got more affordable! ✨\n\n🛍 Buy ANY 8 Products @ ₹1000 Only!\n💸 + Get ₹100 Cashback!\n\nChoose from your favourites :\n🌿 Face Wash | 💧 Face Serum | 🧴 Moisturizer | ☀️ Sunscreen\n🫧 Body Lotion | 🛁 Body Wash | 💄 Lip Care | 🧖‍♀️ Facial Kits & More!\n\n🔥 Grab 8 WOW essentials for just ₹900 net after cashback!\n💯 Natural | Toxin-Free | Dermatologically Tested\n\n👉 Shop Now : https://extp.in/fJtQap=",
+    "final_url": "https://extp.in/fJtQap=",
+    "local_image": "assets/images/tgmsg_16426.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-11-10T11:40:03+00:00",
+    "buy_link": "https://extp.in/fJtQap=",
+    "date_iso": "2025-11-10T11:40:03+00:00"
+  },
+  {
     "id": "msg16423",
     "title": "John Jacobs Min 60% Off🔥",
     "description": "Myntra | ⏰ Limited Time Deal ⏰ John Jacobs Min 60% Off🔥 👉 https://myntr.in/r69pYP Vincent Chase Under 799 🔥 👉 https://myntr.in/NE2ZAM",
@@ -9438,49 +9490,5 @@
     "date_obj": "2025-11-07T05:43:25+00:00",
     "buy_link": "https://fkrt.co/Dqtgqj",
     "date_iso": "2025-11-07T05:43:25+00:00"
-  },
-  {
-    "id": "msg16015",
-    "title": "80% Off On Being Human Clothing",
-    "description": "Myntra | 70-. Men | Tshirts : Shirts : Sweatshirts : Jackets : Shorts & Trackpants : Women :",
-    "shortlink": "https://myntr.in/EEKiFN",
-    "urls": [
-      {
-        "url": "",
-        "label": "70-80% Off On Being Human Clothing"
-      },
-      {
-        "url": "https://myntr.in/EEKiFN",
-        "label": "Tshirts"
-      },
-      {
-        "url": "https://myntr.in/vGwxfH",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://myntr.in/bXw9rd",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://myntr.in/g6gdbM",
-        "label": "Jackets"
-      },
-      {
-        "url": "https://myntr.in/mSxBd5",
-        "label": "Shorts & Trackpants"
-      },
-      {
-        "url": "https://myntr.in/MpuvSt",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Myntra | 70-80% Off On Being Human Clothing.\n\nMen | Tshirts : https://myntr.in/EEKiFN\nShirts : https://myntr.in/vGwxfH\nSweatshirts : https://myntr.in/bXw9rd\nJackets : https://myntr.in/g6gdbM\nShorts & Trackpants : https://myntr.in/mSxBd5\n\nWomen : https://myntr.in/MpuvSt",
-    "final_url": "https://myntr.in/EEKiFN",
-    "local_image": "assets/images/tgmsg_16015.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-07T05:51:19+00:00",
-    "buy_link": "https://myntr.in/EEKiFN",
-    "date_iso": "2025-11-07T05:51:19+00:00"
   }
 ]
