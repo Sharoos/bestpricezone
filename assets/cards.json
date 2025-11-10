@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg16389",
+    "title": "Up to 85% Off On HRX Luggage",
+    "description": "Flipkart | Upto 85% Off On HRX Luggage. Small :   https://fkrt.co/NmySzU Medium :   https://fkrt.co/tUzwzp Large :   https://fkrt.co/7fCoAs Pack Of 2/3 :   https://fkrt.co/2YNImp",
+    "shortlink": "https://fkrt.co/NmySzU",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% Off On HRX Luggage"
+      },
+      {
+        "url": "https://fkrt.co/NmySzU",
+        "label": "Small"
+      },
+      {
+        "url": "https://fkrt.co/tUzwzp",
+        "label": "Medium"
+      },
+      {
+        "url": "https://fkrt.co/7fCoAs",
+        "label": "Large"
+      },
+      {
+        "url": "https://fkrt.co/2YNImp",
+        "label": "Pack Of 2/3"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 85% Off On HRX Luggage.\n\nSmall :   https://fkrt.co/NmySzU\nMedium :   https://fkrt.co/tUzwzp\nLarge :   https://fkrt.co/7fCoAs\n\nPack Of 2/3 :   https://fkrt.co/2YNImp",
+    "final_url": "https://fkrt.co/NmySzU",
+    "local_image": "assets/images/tgmsg_16389.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-10T05:56:09+00:00",
+    "buy_link": "https://fkrt.co/NmySzU",
+    "date_iso": "2025-11-10T05:56:09+00:00"
+  },
+  {
     "id": "msg16386",
     "title": "+ 10% EXTRA CASH",
     "description": "AJIO Flat 70-76% Off On Performax Clothing. Men : Shoes : Women : Shoes : + 10% EXTRA AJIO CASH",
@@ -9398,25 +9434,5 @@
     "date_obj": "2025-11-06T18:39:49+00:00",
     "buy_link": "https://www.amazon.in/dp/B08RPXQXSC?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-06T18:39:49+00:00"
-  },
-  {
-    "id": "msg15971",
-    "title": "Maybelline New York Foundation Brush @151",
-    "description": "Amazon | Maybelline New York Foundation Brush @151 https://www.amazon.in/dp/B07MG7HY6N?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07MG7HY6N?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07MG7HY6N?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Maybelline New York Foundation Brush @151"
-      }
-    ],
-    "raw_text": "Amazon | Maybelline New York Foundation Brush @151\n\nhttps://www.amazon.in/dp/B07MG7HY6N?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07MG7HY6N?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15971.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-06T18:40:18+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07MG7HY6N?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-06T18:40:18+00:00"
   }
 ]
