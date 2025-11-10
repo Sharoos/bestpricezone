@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16471",
+    "title": "Artificial Jewellery for Women Starting @ just 73",
+    "description": "Flipkart | Artificial Jewellery for Women Starting @ just 73 Link : https://fkrt.co/WknP0I",
+    "shortlink": "https://fkrt.co/WknP0I",
+    "urls": [
+      {
+        "url": "https://fkrt.co/WknP0I",
+        "label": "Artificial Jewellery for Women Starting @ just 73"
+      }
+    ],
+    "raw_text": "Flipkart | Artificial Jewellery for Women Starting @ just 73\n \nLink : https://fkrt.co/WknP0I",
+    "final_url": "https://fkrt.co/WknP0I",
+    "local_image": "assets/images/tgmsg_16471.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-10T17:41:29+00:00",
+    "buy_link": "https://fkrt.co/WknP0I",
+    "date_iso": "2025-11-10T17:41:29+00:00"
+  },
+  {
     "id": "msg16470",
     "title": "Up to 60% Off on Kitchen Tools Starting @ just 149",
     "description": "Ajio | Upto 60% Off on Kitchen Tools Starting @ just 149 Link : + 10% Extra Ajio Cash",
@@ -9258,53 +9278,5 @@
     "date_obj": "2025-11-07T11:20:02+00:00",
     "buy_link": "https://myntr.in/J6Hfln",
     "date_iso": "2025-11-07T11:20:02+00:00"
-  },
-  {
-    "id": "msg16054",
-    "title": "Up to 90% Off On Women Handbag",
-    "description": "Myntra : Upto 90% Off On Women Handbags. Master Link : Lavie : Caprese : Bagsy Malone : DressBerry : French Connection : Lino Perros :",
-    "shortlink": "https://myntr.in/M72v2W",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 90% Off On Women Handbags"
-      },
-      {
-        "url": "https://myntr.in/M72v2W",
-        "label": "Master"
-      },
-      {
-        "url": "https://myntr.in/RA6ZfD",
-        "label": "Lavie"
-      },
-      {
-        "url": "https://myntr.in/KQKccz",
-        "label": "Caprese"
-      },
-      {
-        "url": "https://myntr.in/d6RhKX",
-        "label": "Bagsy Malone"
-      },
-      {
-        "url": "https://myntr.in/2m1vnd",
-        "label": "DressBerry"
-      },
-      {
-        "url": "https://myntr.in/M5DChn",
-        "label": "French Connection"
-      },
-      {
-        "url": "https://myntr.in/hy6LTa",
-        "label": "Lino Perros"
-      }
-    ],
-    "raw_text": "Myntra : Upto 90% Off On Women Handbags.\n\nMaster Link : https://myntr.in/M72v2W\n\nLavie : https://myntr.in/RA6ZfD\nCaprese : https://myntr.in/KQKccz\nBagsy Malone : https://myntr.in/d6RhKX\nDressBerry : https://myntr.in/2m1vnd\nFrench Connection : https://myntr.in/M5DChn\nLino Perros : https://myntr.in/hy6LTa",
-    "final_url": "https://myntr.in/M72v2W",
-    "local_image": "assets/images/tgmsg_16054.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-07T11:00:04+00:00",
-    "buy_link": "https://myntr.in/M72v2W",
-    "date_iso": "2025-11-07T11:00:04+00:00"
   }
 ]
