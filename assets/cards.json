@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16467",
+    "title": "+ 10% EXTRA CASH",
+    "description": "🔥Ajio | Formal Shoes at ₹299 only 👉https://ajiio.co/d6MIBY + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/d6MIBY",
+    "urls": [
+      {
+        "url": "https://ajiio.co/d6MIBY",
+        "label": "🔥Ajio | Formal Shoes at ₹299 only"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "🔥Ajio | Formal Shoes at ₹299 only\n\n👉https://ajiio.co/d6MIBY\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/d6MIBY",
+    "local_image": "assets/images/tgmsg_16467.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-10T16:47:35+00:00",
+    "buy_link": "https://ajiio.co/d6MIBY",
+    "date_iso": "2025-11-10T16:47:35+00:00"
+  },
+  {
     "id": "msg16463",
     "title": "Park Avenue Combo Kit @ 578",
     "description": "Amazon: Park Avenue Combo Kit @ 578. 👉 https://www.amazon.in/dp/B07YY7YPLT?psc=1&tag=bestpricezo0f-21 L'Oreal Paris Foaming Face Cleanser, 50ml @ 156. 👉 https://www.amazon.in/dp/B0B9RFCS5S?psc=1&tag=bestpricezo0f-21",
@@ -9342,53 +9366,5 @@
     "date_obj": "2025-11-07T10:46:10+00:00",
     "buy_link": "https://extp.in/zfiViX",
     "date_iso": "2025-11-07T10:46:10+00:00"
-  },
-  {
-    "id": "msg16051",
-    "title": "Grocery Up to 90% Off + Extra Savings 🔥🔥",
-    "description": "Flipkart Grocery : Upto 90% Off + Extra Savings 🔥🔥 🛒 Main Link: • Atta/Rice → • Oil/Ghee → • Snacks → • Oral Care → • Tea/Coffee → 💥 Extra: ₹125 Off ₹2999+ | ₹225 Off ₹3999+ | ₹200 Off (SBI ₹2499+) | 5% Off (FK Axis)",
-    "shortlink": "https://fkrt.co/w0B9IP",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 90% Off + Extra Savings 🔥🔥"
-      },
-      {
-        "url": "https://fkrt.co/w0B9IP",
-        "label": "🛒 Main"
-      },
-      {
-        "url": "https://fkrt.co/kpZKj3",
-        "label": "Atta/Rice →"
-      },
-      {
-        "url": "https://fkrt.co/k5Yx8J",
-        "label": "Oil/Ghee →"
-      },
-      {
-        "url": "https://fkrt.co/S2kAfO",
-        "label": "Snacks →"
-      },
-      {
-        "url": "https://fkrt.co/05Ad48",
-        "label": "Oral Care →"
-      },
-      {
-        "url": "https://fkrt.co/rCEYVi",
-        "label": "Tea/Coffee →"
-      },
-      {
-        "url": "",
-        "label": "💥 Extra: ₹125 Off ₹2999+ | ₹225 Off ₹3999+ | ₹200 Off (SBI ₹2499+) | 5% Off (FK Axis)"
-      }
-    ],
-    "raw_text": "Flipkart Grocery   : Upto 90% Off + Extra Savings 🔥🔥\n\n🛒 Main Link: https://fkrt.co/w0B9IP\n\n• Atta/Rice → https://fkrt.co/kpZKj3\n• Oil/Ghee → https://fkrt.co/k5Yx8J\n• Snacks → https://fkrt.co/S2kAfO\n• Oral Care → https://fkrt.co/05Ad48\n• Tea/Coffee → https://fkrt.co/rCEYVi\n\n💥 Extra: ₹125 Off ₹2999+ | ₹225 Off ₹3999+ | ₹200 Off (SBI ₹2499+) | 5% Off (FK Axis)",
-    "final_url": "https://fkrt.co/w0B9IP",
-    "local_image": "assets/images/tgmsg_16051.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-07T10:33:19+00:00",
-    "buy_link": "https://fkrt.co/w0B9IP",
-    "date_iso": "2025-11-07T10:33:19+00:00"
   }
 ]
