@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg16385",
+    "title": "Men Polo Tshirts Starts at 140",
+    "description": "AJIO . Oversized Tshirts Starts at 190. Women : Men : Kids Clothing Boys : Girls : Infants :",
+    "shortlink": "https://ajiio.co/AtvdZ0",
+    "urls": [
+      {
+        "url": "https://ajiio.co/AtvdZ0",
+        "label": "AJIO Men Polo Tshirts Starts at 140"
+      },
+      {
+        "url": "",
+        "label": "Oversized Tshirts Starts at 190"
+      },
+      {
+        "url": "https://ajiio.co/tKKHPp",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/ywRV0a",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Kids Clothing"
+      },
+      {
+        "url": "https://ajiio.co/hQsuBQ",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/8Qa3XV",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/gfZXVi",
+        "label": "Infants"
+      }
+    ],
+    "raw_text": "AJIO  Men Polo Tshirts Starts at 140.\n\nhttps://ajiio.co/AtvdZ0\n\nOversized Tshirts Starts at 190.\n\nWomen : https://ajiio.co/tKKHPp\nMen : https://ajiio.co/ywRV0a\n\nKids Clothing \n\nBoys : https://ajiio.co/hQsuBQ\nGirls : https://ajiio.co/8Qa3XV\nInfants : https://ajiio.co/gfZXVi",
+    "final_url": "https://ajiio.co/AtvdZ0",
+    "local_image": "assets/images/tgmsg_16385.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-10T05:26:23+00:00",
+    "buy_link": "https://ajiio.co/AtvdZ0",
+    "date_iso": "2025-11-10T05:26:23+00:00"
+  },
+  {
     "id": "msg16379",
     "title": "Up to 60% Off On Skechers Shoe",
     "description": "Myntra Upto 60% Off On Skechers Shoes Women : Men : More Skechers Shoes : Men : Women : Girls : Boys :",
@@ -9350,25 +9398,5 @@
     "date_obj": "2025-11-06T18:43:10+00:00",
     "buy_link": "https://myntr.in/rP1vag",
     "date_iso": "2025-11-06T18:43:10+00:00"
-  },
-  {
-    "id": "msg15974",
-    "title": "Moda Rapido Men Jeans Up to 77% Off",
-    "description": "Moda Rapido Men Jeans Upto 77% Off https://fkrt.co/HKILzr",
-    "shortlink": "https://fkrt.co/HKILzr",
-    "urls": [
-      {
-        "url": "https://fkrt.co/HKILzr",
-        "label": "Moda Rapido Men Jeans Upto 77% Off"
-      }
-    ],
-    "raw_text": "Moda Rapido Men Jeans Upto 77% Off\n\n  https://fkrt.co/HKILzr",
-    "final_url": "https://fkrt.co/HKILzr",
-    "local_image": "assets/images/tgmsg_15974.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-06T18:44:30+00:00",
-    "buy_link": "https://fkrt.co/HKILzr",
-    "date_iso": "2025-11-06T18:44:30+00:00"
   }
 ]
