@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg16410",
+    "title": "🛒 Deal Price ₹500",
+    "description": "Flipkart | Wrogn Day and Date Display Analog Watch 🛒 Deal Price: ₹500 👉 Allen Solly Analog Watch 🛒 Deal Price: ₹439 👉",
+    "shortlink": "https://fkrt.co/5yXNqc",
+    "urls": [
+      {
+        "url": "",
+        "label": "Wrogn Day and Date Display Analog Watch"
+      },
+      {
+        "url": "https://fkrt.co/5yXNqc",
+        "label": "🛒 Deal Price: ₹500"
+      },
+      {
+        "url": "",
+        "label": "Allen Solly Analog Watch"
+      },
+      {
+        "url": "https://fkrt.co/1PqWP3",
+        "label": "🛒 Deal Price: ₹439"
+      }
+    ],
+    "raw_text": "Flipkart | Wrogn Day and Date Display Analog Watch\n\n🛒 Deal Price: ₹500\n\n👉 https://fkrt.co/5yXNqc\n\nAllen Solly Analog Watch\n\n🛒 Deal Price: ₹439\n\n👉 https://fkrt.co/1PqWP3",
+    "final_url": "https://fkrt.co/5yXNqc",
+    "local_image": "assets/images/tgmsg_16410.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-10T09:17:14+00:00",
+    "buy_link": "https://fkrt.co/5yXNqc",
+    "date_iso": "2025-11-10T09:17:14+00:00"
+  },
+  {
     "id": "msg16406",
     "title": "Branded Jeans Starts @199",
     "description": "Myntra: Branded Jeans Starts @199 Men's: https://myntr.it/u3tT5li Women's: https://myntr.it/wwmQLBG",
@@ -9442,41 +9474,5 @@
     "date_obj": "2025-11-06T18:56:09+00:00",
     "buy_link": "https://fkrt.co/A73J7r",
     "date_iso": "2025-11-06T18:56:09+00:00"
-  },
-  {
-    "id": "msg15986",
-    "title": "Up to 85% Off On Bewakoof Clothing",
-    "description": "Myntra : Upto 85% Off On Bewakoof Clothing. Men's : Women's : Upto 82% Off On The Souled Store Clothing. Women's :",
-    "shortlink": "https://myntr.in/pOkzUI",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On Bewakoof Clothing"
-      },
-      {
-        "url": "https://myntr.in/pOkzUI",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/8aKC03",
-        "label": "Women's"
-      },
-      {
-        "url": "",
-        "label": "Upto 82% Off On The Souled Store Clothing"
-      },
-      {
-        "url": "https://myntr.in/SeqC1k",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "Myntra : Upto 85% Off On Bewakoof Clothing.\n\nMen's : https://myntr.in/pOkzUI\nWomen's : https://myntr.in/8aKC03\n\nUpto 82% Off On The Souled Store Clothing.\n\nWomen's : https://myntr.in/SeqC1k",
-    "final_url": "https://myntr.in/pOkzUI",
-    "local_image": "assets/images/tgmsg_15986.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-06T19:01:35+00:00",
-    "buy_link": "https://myntr.in/pOkzUI",
-    "date_iso": "2025-11-06T19:01:35+00:00"
   }
 ]
