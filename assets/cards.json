@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16402",
+    "title": "Newly Launched Kids Blankets @ min 50% Off",
+    "description": "Myntra : Newly Launched Kids Blankets @ min 50% Off 👉 https://myntr.in/yIFhFk",
+    "shortlink": "https://myntr.in/yIFhFk",
+    "urls": [
+      {
+        "url": "https://myntr.in/yIFhFk",
+        "label": "Newly Launched Kids Blankets @ min 50% Off"
+      }
+    ],
+    "raw_text": "Myntra : Newly Launched Kids Blankets @ min 50% Off\n\n👉 https://myntr.in/yIFhFk",
+    "final_url": "https://myntr.in/yIFhFk",
+    "local_image": "assets/images/tgmsg_16402.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-10T07:45:05+00:00",
+    "buy_link": "https://myntr.in/yIFhFk",
+    "date_iso": "2025-11-10T07:45:05+00:00"
+  },
+  {
     "id": "msg16400",
     "title": "Extra ₹50 Discount On Prepaid Payment+100 Cashback",
     "description": "WOW: BUY 8 Products at 1000 ✅ USE CODE: CKBUY8 https://bitli.in/4UjLn4I • Extra ₹50 Discount On Prepaid Payment+100 Cashback.",
@@ -9458,25 +9478,5 @@
     "date_obj": "2025-11-06T19:08:33+00:00",
     "buy_link": "https://www.amazon.in/dp/B0B2D9P37V?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-06T19:08:33+00:00"
-  },
-  {
-    "id": "msg15991",
-    "title": "Himalaya Oil Clear Lemon Face Wash, 150ml @121",
-    "description": "Amazon | Himalaya Oil Clear Lemon Face Wash, 150ml @121 https://www.amazon.in/dp/B00791FR2E?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B00791FR2E?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B00791FR2E?tag=bestpricezo0f-21",
-        "label": "Himalaya Oil Clear Lemon Face Wash, 150ml @121"
-      }
-    ],
-    "raw_text": "Amazon | Himalaya Oil Clear Lemon Face Wash, 150ml @121\n\nhttps://www.amazon.in/dp/B00791FR2E?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B00791FR2E?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_15991.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-06T19:09:24+00:00",
-    "buy_link": "https://www.amazon.in/dp/B00791FR2E?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-06T19:09:24+00:00"
   }
 ]
