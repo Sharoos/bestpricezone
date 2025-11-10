@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg16456",
+    "title": "boAt Wave Fury Calling Smartwatch @1399",
+    "description": "Flipkart | boAt Wave Fury Calling Smartwatch @1399 https://fkrt.co/viJVpq",
+    "shortlink": "https://fkrt.co/viJVpq",
+    "urls": [
+      {
+        "url": "https://fkrt.co/viJVpq",
+        "label": "boAt Wave Fury Calling Smartwatch @1399"
+      }
+    ],
+    "raw_text": "Flipkart | boAt Wave Fury Calling Smartwatch @1399\n\nhttps://fkrt.co/viJVpq",
+    "final_url": "https://fkrt.co/viJVpq",
+    "local_image": "assets/images/tgmsg_16456.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-10T15:05:18+00:00",
+    "buy_link": "https://fkrt.co/viJVpq",
+    "date_iso": "2025-11-10T15:05:18+00:00"
+  },
+  {
+    "id": "msg16457",
+    "title": "72% Off",
+    "description": "Flipkart | 72% Off - SmartBuy 360 CLEANING MOP SET Rs. 554 https://fkrt.co/RJdbXR",
+    "shortlink": "https://fkrt.co/RJdbXR",
+    "urls": [
+      {
+        "url": "https://fkrt.co/RJdbXR",
+        "label": "72% Off - SmartBuy 360 CLEANING MOP SET Rs. 554"
+      }
+    ],
+    "raw_text": "Flipkart | 72% Off - SmartBuy 360 CLEANING MOP SET Rs. 554\n\nhttps://fkrt.co/RJdbXR",
+    "final_url": "https://fkrt.co/RJdbXR",
+    "local_image": "assets/images/tgmsg_16457.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-10T15:11:29+00:00",
+    "buy_link": "https://fkrt.co/RJdbXR",
+    "date_iso": "2025-11-10T15:11:29+00:00"
+  },
+  {
     "id": "msg16453",
     "title": "SmartBuy 4 UNIVERSAL SOCKET Rs.150",
     "description": "Flipkart | SmartBuy 4 UNIVERSAL SOCKET Rs.150 https://fkrt.co/gt7qrc",
@@ -9442,45 +9482,5 @@
     "date_obj": "2025-11-07T09:32:27+00:00",
     "buy_link": "https://extp.in/4RYuAB",
     "date_iso": "2025-11-07T09:32:27+00:00"
-  },
-  {
-    "id": "msg16042",
-    "title": "🔥Campus Sutra Sweatshirt ₹288",
-    "description": "Myntra | 🔥Campus Sutra Sweatshirt ₹288 👉 https://myntr.in/suJ9bE",
-    "shortlink": "https://myntr.in/suJ9bE",
-    "urls": [
-      {
-        "url": "https://myntr.in/suJ9bE",
-        "label": "🔥Campus Sutra Sweatshirt ₹288"
-      }
-    ],
-    "raw_text": "Myntra | 🔥Campus Sutra Sweatshirt ₹288\n\n👉 https://myntr.in/suJ9bE",
-    "final_url": "https://myntr.in/suJ9bE",
-    "local_image": "assets/images/tgmsg_16042.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-07T09:00:03+00:00",
-    "buy_link": "https://myntr.in/suJ9bE",
-    "date_iso": "2025-11-07T09:00:03+00:00"
-  },
-  {
-    "id": "msg16044",
-    "title": "Up to 82% off on BiBa Ethnic Wea",
-    "description": "Myntra | Upto 82% off on BiBa Ethnic Wear. 👉 https://myntr.in/N4eZOX",
-    "shortlink": "https://myntr.in/N4eZOX",
-    "urls": [
-      {
-        "url": "https://myntr.in/N4eZOX",
-        "label": "Upto 82% off on BiBa Ethnic Wear"
-      }
-    ],
-    "raw_text": "Myntra | Upto 82% off on BiBa Ethnic Wear.\n\n👉 https://myntr.in/N4eZOX",
-    "final_url": "https://myntr.in/N4eZOX",
-    "local_image": "assets/images/tgmsg_16044.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-07T09:10:01+00:00",
-    "buy_link": "https://myntr.in/N4eZOX",
-    "date_iso": "2025-11-07T09:10:01+00:00"
   }
 ]
