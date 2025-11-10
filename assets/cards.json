@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16470",
+    "title": "Up to 60% Off on Kitchen Tools Starting @ just 149",
+    "description": "Ajio | Upto 60% Off on Kitchen Tools Starting @ just 149 Link : + 10% Extra Ajio Cash",
+    "shortlink": "https://ajiio.co/rCxEh8",
+    "urls": [
+      {
+        "url": "https://ajiio.co/rCxEh8",
+        "label": "Upto 60% Off on Kitchen Tools Starting @ just 149"
+      },
+      {
+        "url": "",
+        "label": "+ 10% Extra Ajio Cash"
+      }
+    ],
+    "raw_text": "Ajio | Upto 60% Off on Kitchen Tools Starting @ just 149\n \nLink : https://ajiio.co/rCxEh8\n\n+ 10% Extra Ajio Cash",
+    "final_url": "https://ajiio.co/rCxEh8",
+    "local_image": "assets/images/tgmsg_16470.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-10T17:34:23+00:00",
+    "buy_link": "https://ajiio.co/rCxEh8",
+    "date_iso": "2025-11-10T17:34:23+00:00"
+  },
+  {
     "id": "msg16468",
     "title": "Up to 88% Off On Handbags Starting From Rs.125",
     "description": "Flipkart | Upto 88% Off On Handbags Starting From Rs.125 👉Link : https://fkrt.co/4Ax16K",
@@ -9282,45 +9306,5 @@
     "date_obj": "2025-11-07T11:00:04+00:00",
     "buy_link": "https://myntr.in/M72v2W",
     "date_iso": "2025-11-07T11:00:04+00:00"
-  },
-  {
-    "id": "msg16055",
-    "title": "Reliance Digital Midnight Sale Up to 60% Off",
-    "description": "Reliance Digital: Midnight Sale Upto 60% Off. 👉 iPhone : Wireless Earbuds : TV : AC : Valid 10:00PM TO 8:00AM.",
-    "shortlink": "https://extp.in/el7m0K",
-    "urls": [
-      {
-        "url": "https://extp.in/el7m0K",
-        "label": "Midnight Sale Upto 60% Off"
-      },
-      {
-        "url": "https://extp.in/qRcXQa",
-        "label": "iPhone"
-      },
-      {
-        "url": "https://extp.in/m27It3",
-        "label": "Wireless Earbuds"
-      },
-      {
-        "url": "https://extp.in/FvP6XE",
-        "label": "TV"
-      },
-      {
-        "url": "https://extp.in/LsMZoc",
-        "label": "AC"
-      },
-      {
-        "url": "",
-        "label": "00PM TO 8:00AM"
-      }
-    ],
-    "raw_text": "Reliance Digital: Midnight Sale Upto 60% Off.\n\n👉 https://extp.in/el7m0K\n\niPhone : https://extp.in/qRcXQa\nWireless Earbuds : https://extp.in/m27It3\n\nTV : https://extp.in/FvP6XE\nAC : https://extp.in/LsMZoc\n\nValid 10:00PM TO 8:00AM.",
-    "final_url": "https://extp.in/el7m0K",
-    "local_image": "assets/images/tgmsg_16055.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-07T11:10:03+00:00",
-    "buy_link": "https://extp.in/el7m0K",
-    "date_iso": "2025-11-07T11:10:03+00:00"
   }
 ]
