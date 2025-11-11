@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16557",
+    "title": "OPPO 45 W SuperVOOC 4 A Wall Charger @684",
+    "description": "Flipkart | OPPO 45 W SuperVOOC 4 A Wall Charger @684 👉https://fkrt.co/eQ7WE7",
+    "shortlink": "https://fkrt.co/eQ7WE7",
+    "urls": [
+      {
+        "url": "https://fkrt.co/eQ7WE7",
+        "label": "OPPO 45 W SuperVOOC 4 A Wall Charger @684"
+      }
+    ],
+    "raw_text": "Flipkart | OPPO 45 W SuperVOOC 4 A Wall Charger @684\n\n👉https://fkrt.co/eQ7WE7",
+    "final_url": "https://fkrt.co/eQ7WE7",
+    "local_image": "assets/images/tgmsg_16557.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-11T07:39:10+00:00",
+    "buy_link": "https://fkrt.co/eQ7WE7",
+    "date_iso": "2025-11-11T07:39:10+00:00"
+  },
+  {
     "id": "msg16555",
     "title": "Up to 84% Off On Red Tape Shoe",
     "description": "Myntra | Upto 84% Off On Red Tape Shoes. Men's : https://myntr.in/epBOv9 Womens : https://myntr.in/sF7jku",
@@ -9314,29 +9334,5 @@
     "date_obj": "2025-11-07T19:16:27+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FJ2B8H19?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-07T19:16:27+00:00"
-  },
-  {
-    "id": "msg16124",
-    "title": "🛒 Deal Price ₹315",
-    "description": "Myntra | Head & Shoulders Shampoo 650ml 🛒 Deal Price: ₹315 https://myntr.in/a9eg0E",
-    "shortlink": "https://myntr.in/a9eg0E",
-    "urls": [
-      {
-        "url": "",
-        "label": "Head & Shoulders Shampoo 650ml"
-      },
-      {
-        "url": "https://myntr.in/a9eg0E",
-        "label": "🛒 Deal Price: ₹315"
-      }
-    ],
-    "raw_text": "Myntra | Head & Shoulders Shampoo 650ml\n\n🛒 Deal Price: ₹315\n\nhttps://myntr.in/a9eg0E",
-    "final_url": "https://myntr.in/a9eg0E",
-    "local_image": "assets/images/tgmsg_16124.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-07T19:01:27+00:00",
-    "buy_link": "https://myntr.in/a9eg0E",
-    "date_iso": "2025-11-07T19:01:27+00:00"
   }
 ]
