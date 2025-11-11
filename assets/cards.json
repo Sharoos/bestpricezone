@@ -1,5 +1,101 @@
 [
   {
+    "id": "msg16583",
+    "title": "🔥 Fashion Deal Flat ₹111 Off",
+    "description": "🔥 Myntra Fashion Deal : Flat ₹111 Off Apply Coupon : SAVE111 Men : https://myntr.in/oYLUyM Women : https://myntr.in/6ehZc0",
+    "shortlink": "https://myntr.in/oYLUyM",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Myntra Fashion Deal : Flat ₹111 Off"
+      },
+      {
+        "url": "https://myntr.in/oYLUyM",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/6ehZc0",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "🔥 Myntra Fashion Deal : Flat ₹111 Off\n\nApply Coupon : SAVE111\n\nMen : https://myntr.in/oYLUyM\nWomen : https://myntr.in/6ehZc0",
+    "final_url": "https://myntr.in/oYLUyM",
+    "local_image": "assets/images/tgmsg_16583.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-11T12:10:07+00:00",
+    "buy_link": "https://myntr.in/oYLUyM",
+    "date_iso": "2025-11-11T12:10:07+00:00"
+  },
+  {
+    "id": "msg16584",
+    "title": "🛒 Deal Price ₹222",
+    "description": "Amazon | ✨ Beauty & Personal Care Deals Livon Professional Smoothening Serum for Women & Men, 100ml 🛒 Deal Price: ₹222 👉 Layer'r Wottagirl Tuscan Green Body Splash for Women, 135ml 🛒 Deal Price: ₹233 👉",
+    "shortlink": "https://www.amazon.in/dp/B0CTHK1FS1?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "✨ Beauty & Personal Care Deals"
+      },
+      {
+        "url": "",
+        "label": "Livon Professional Smoothening Serum for Women & Men, 100ml"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0CTHK1FS1?psc=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹222"
+      },
+      {
+        "url": "",
+        "label": "Layer'r Wottagirl Tuscan Green Body Splash for Women, 135ml"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B09ZHHGTTM?psc=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹233"
+      }
+    ],
+    "raw_text": "Amazon | ✨ Beauty & Personal Care Deals\n\nLivon Professional Smoothening Serum for Women & Men, 100ml\n\n🛒 Deal Price: ₹222\n\n👉 https://www.amazon.in/dp/B0CTHK1FS1?psc=1&tag=bestpricezo0f-21\n\nLayer'r Wottagirl Tuscan Green Body Splash for Women, 135ml\n\n🛒 Deal Price: ₹233\n\n👉 https://www.amazon.in/dp/B09ZHHGTTM?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CTHK1FS1?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16584.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-11T12:20:55+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CTHK1FS1?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-11T12:20:55+00:00"
+  },
+  {
+    "id": "msg16585",
+    "title": "Up to 87% off on Celio Clothing",
+    "description": "Myntra  Upto 87% off on Celio Clothing. Sweatshirt : https://myntr.in/uoI4Ch Jacket : https://myntr.in/R2EvWL Main Page : https://myntr.in/9FWAFG",
+    "shortlink": "https://myntr.in/uoI4Ch",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Upto 87% off on Celio Clothing"
+      },
+      {
+        "url": "https://myntr.in/uoI4Ch",
+        "label": "Sweatshirt"
+      },
+      {
+        "url": "https://myntr.in/R2EvWL",
+        "label": "Jacket"
+      },
+      {
+        "url": "https://myntr.in/9FWAFG",
+        "label": "Main Page"
+      }
+    ],
+    "raw_text": "Myntra  Upto 87% off on Celio Clothing.\n\nSweatshirt : https://myntr.in/uoI4Ch\nJacket : https://myntr.in/R2EvWL\n\nMain Page : https://myntr.in/9FWAFG",
+    "final_url": "https://myntr.in/uoI4Ch",
+    "local_image": "assets/images/tgmsg_16585.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-11T12:26:34+00:00",
+    "buy_link": "https://myntr.in/uoI4Ch",
+    "date_iso": "2025-11-11T12:26:34+00:00"
+  },
+  {
     "id": "msg16579",
     "title": "Exclusive Armani Exchange Luxe Sale — Flat 60% Off 🔥",
     "description": "AJIO Exclusive : Armani Exchange Luxe Sale — Flat 60% Off 🔥 Master Link : Men’s : • T-shirts → • Shirts → • Jeans → • Jackets → • Sweatshirts → Women’s : • T-shirts → • Shirts → • Sweaters → • Trackpants → • Jackets →",
@@ -9262,129 +9358,5 @@
     "date_obj": "2025-11-08T05:46:16+00:00",
     "buy_link": "https://myntr.in/cxEiOq",
     "date_iso": "2025-11-08T05:46:16+00:00"
-  },
-  {
-    "id": "msg16150",
-    "title": "💥Min. 60% off on USPA Clothing",
-    "description": "💥Ajio : Min. 60% off on USPA Clothing. Men's : https://ajiio.co/rzUhL1 Women’s : https://ajiio.co/GM7Mau Boy’s : https://ajiio.co/XX7Jj6",
-    "shortlink": "https://ajiio.co/rzUhL1",
-    "urls": [
-      {
-        "url": "",
-        "label": "💥Ajio : Min. 60% off on USPA Clothing"
-      },
-      {
-        "url": "https://ajiio.co/rzUhL1",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/GM7Mau",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://ajiio.co/XX7Jj6",
-        "label": "Boy’s"
-      }
-    ],
-    "raw_text": "💥Ajio : Min. 60% off on USPA Clothing.\n\nMen's : https://ajiio.co/rzUhL1\nWomen’s : https://ajiio.co/GM7Mau\nBoy’s : https://ajiio.co/XX7Jj6",
-    "final_url": "https://ajiio.co/rzUhL1",
-    "local_image": "assets/images/tgmsg_16150.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-08T05:36:55+00:00",
-    "buy_link": "https://ajiio.co/rzUhL1",
-    "date_iso": "2025-11-08T05:36:55+00:00"
-  },
-  {
-    "id": "msg16146",
-    "title": "❇️ Aristocrat Duffle Bag Starts @478",
-    "description": "❇️ Aristocrat Duffle Bag Starts @478 https://www.amazon.in/s?k=Aristocrat&rh=n%3A2917432031%2Cp_123%3A484241%2Cp_6%3AA6ULDMYWQBMT0%7CAXOGFIT0PZZ7G&s=price-asc-rank&i=luggage&tag=bestpricezo0f-21&",
-    "shortlink": "https://www.amazon.in/s?k=Aristocrat&rh=n%3A2917432031%2Cp_123%3A484241%2Cp_6%3AA6ULDMYWQBMT0%7CAXOGFIT0PZZ7G&s=price-asc-rank&i=luggage&tag=bestpricezo0f-21&",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?k=Aristocrat&rh=n%3A2917432031%2Cp_123%3A484241%2Cp_6%3AA6ULDMYWQBMT0%7CAXOGFIT0PZZ7G&s=price-asc-rank&i=luggage&tag=bestpricezo0f-21&",
-        "label": "❇️ Aristocrat Duffle Bag Starts @478"
-      }
-    ],
-    "raw_text": "❇️ Aristocrat Duffle Bag Starts @478\n\nhttps://www.amazon.in/s?k=Aristocrat&rh=n%3A2917432031%2Cp_123%3A484241%2Cp_6%3AA6ULDMYWQBMT0%7CAXOGFIT0PZZ7G&s=price-asc-rank&i=luggage&tag=bestpricezo0f-21&",
-    "final_url": "https://www.amazon.in/s?k=Aristocrat&rh=n%3A2917432031%2Cp_123%3A484241%2Cp_6%3AA6ULDMYWQBMT0%7CAXOGFIT0PZZ7G&s=price-asc-rank&i=luggage&tag=bestpricezo0f-21&",
-    "local_image": "assets/images/tgmsg_16146.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-08T05:11:15+00:00",
-    "buy_link": "https://www.amazon.in/s?k=Aristocrat&rh=n%3A2917432031%2Cp_123%3A484241%2Cp_6%3AA6ULDMYWQBMT0%7CAXOGFIT0PZZ7G&s=price-asc-rank&i=luggage&tag=bestpricezo0f-21&",
-    "date_iso": "2025-11-08T05:11:15+00:00"
-  },
-  {
-    "id": "msg16147",
-    "title": "DNMX Clothing Starts @ Rs.101 + Bank offe",
-    "description": "AJIO rs Men’s : T-Shirts : Jeans : Shirts : Sweaters & Cardigans : Sweatshirt & Hoodies : Shorts : Trousers & Jogger : Women's : T-shirts : Shirts & Tops : Jeans & Jeggings : Sweatshirts : Shirts : Jackets :",
-    "shortlink": "https://ajiio.co/F759fG",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO DNMX Clothing Starts @ Rs.101 + Bank offers"
-      },
-      {
-        "url": "https://ajiio.co/F759fG",
-        "label": "T-Shirts"
-      },
-      {
-        "url": "https://ajiio.co/VkstQm",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/8DuSue",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/PYN3Ob",
-        "label": "Sweaters & Cardigans"
-      },
-      {
-        "url": "https://ajiio.co/8E8dcD",
-        "label": "Sweatshirt & Hoodies"
-      },
-      {
-        "url": "https://ajiio.co/jXIHy0",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.co/QdqotW",
-        "label": "Trousers & Jogger"
-      },
-      {
-        "url": "https://ajiio.co/xis32Q",
-        "label": "T-shirts"
-      },
-      {
-        "url": "https://ajiio.co/JDju54",
-        "label": "Shirts & Tops"
-      },
-      {
-        "url": "https://ajiio.co/Odr1Ty",
-        "label": "Jeans & Jeggings"
-      },
-      {
-        "url": "https://ajiio.co/i6hbIl",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://ajiio.co/8xmhiW",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/6dADjM",
-        "label": "Jackets"
-      }
-    ],
-    "raw_text": "AJIO  DNMX Clothing Starts @ Rs.101 + Bank offers \n\nMen’s : \nT-Shirts : https://ajiio.co/F759fG \nJeans : https://ajiio.co/VkstQm \nShirts : https://ajiio.co/8DuSue \nSweaters & Cardigans : https://ajiio.co/PYN3Ob \nSweatshirt & Hoodies : https://ajiio.co/8E8dcD \nShorts : https://ajiio.co/jXIHy0 \nTrousers & Jogger : https://ajiio.co/QdqotW \n\nWomen's : \nT-shirts : https://ajiio.co/xis32Q \nShirts & Tops : https://ajiio.co/JDju54 \nJeans & Jeggings : https://ajiio.co/Odr1Ty \nSweatshirts : https://ajiio.co/i6hbIl \nShirts : https://ajiio.co/8xmhiW \nJackets : https://ajiio.co/6dADjM",
-    "final_url": "https://ajiio.co/F759fG",
-    "local_image": "assets/images/tgmsg_16147.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-08T05:18:11+00:00",
-    "buy_link": "https://ajiio.co/F759fG",
-    "date_iso": "2025-11-08T05:18:11+00:00"
   }
 ]
