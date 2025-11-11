@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg16555",
+    "title": "Up to 84% Off On Red Tape Shoe",
+    "description": "Myntra | Upto 84% Off On Red Tape Shoes. Men's : https://myntr.in/epBOv9 Womens : https://myntr.in/sF7jku",
+    "shortlink": "https://myntr.in/epBOv9",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 84% Off On Red Tape Shoes"
+      },
+      {
+        "url": "https://myntr.in/epBOv9",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/sF7jku",
+        "label": "Womens"
+      }
+    ],
+    "raw_text": "Myntra | Upto 84% Off On Red Tape Shoes.\n\nMen's : https://myntr.in/epBOv9\nWomens : https://myntr.in/sF7jku",
+    "final_url": "https://myntr.in/epBOv9",
+    "local_image": "assets/images/tgmsg_16555.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-11T07:04:42+00:00",
+    "buy_link": "https://myntr.in/epBOv9",
+    "date_iso": "2025-11-11T07:04:42+00:00"
+  },
+  {
+    "id": "msg16556",
+    "title": "Dettol Icy Cool Body Wash and Shower Gel Pump for Men, 500ml @235",
+    "description": "Amazon | Brut Sport Style ALL-IN-ONE Shower gel for Hair & Body, 500ml @269. 👉  👉",
+    "shortlink": "https://www.amazon.in/dp/B08MTY6QN9?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B08MTY6QN9?psc=1&tag=bestpricezo0f-21",
+        "label": "Brut Sport Style ALL-IN-ONE Shower gel for Hair & Body, 500ml @269"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0CRR82SVB?psc=1&tag=bestpricezo0f-21",
+        "label": "Dettol Icy Cool Body Wash and Shower Gel Pump for Men, 500ml @235"
+      }
+    ],
+    "raw_text": "Amazon | Brut Sport Style ALL-IN-ONE Shower gel for Hair & Body, 500ml @269.\n\n👉https://www.amazon.in/dp/B08MTY6QN9?psc=1&tag=bestpricezo0f-21\n\nDettol Icy Cool Body Wash and Shower Gel Pump for Men, 500ml @235\n\n👉https://www.amazon.in/dp/B0CRR82SVB?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B08MTY6QN9?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16556.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-11T07:15:48+00:00",
+    "buy_link": "https://www.amazon.in/dp/B08MTY6QN9?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-11T07:15:48+00:00"
+  },
+  {
     "id": "msg16552",
     "title": "Min 75% Off On Women T",
     "description": "Ajio -shirts Starting From @105🔥🔥🔥🔥 🔗Links : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
@@ -9286,45 +9338,5 @@
     "date_obj": "2025-11-07T19:01:27+00:00",
     "buy_link": "https://myntr.in/a9eg0E",
     "date_iso": "2025-11-07T19:01:27+00:00"
-  },
-  {
-    "id": "msg16125",
-    "title": "Boroplus Antiseptic And Moisturising Bathing Soap Pack of 6 @₹192",
-    "description": "Amazon | Boroplus Antiseptic And Moisturising Bathing Soap Pack of 6 @₹192 https://www.amazon.in/dp/B08K47RPCN?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B08K47RPCN?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B08K47RPCN?th=1&tag=bestpricezo0f-21",
-        "label": "Boroplus Antiseptic And Moisturising Bathing Soap Pack of 6 @₹192"
-      }
-    ],
-    "raw_text": "Amazon | Boroplus Antiseptic And Moisturising Bathing Soap Pack of 6 @₹192\n\nhttps://www.amazon.in/dp/B08K47RPCN?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B08K47RPCN?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16125.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-07T19:02:23+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08K47RPCN?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-07T19:02:23+00:00"
-  },
-  {
-    "id": "msg16126",
-    "title": "Engage Man Deodorant Urge, 150ml @₹97",
-    "description": "Amazon | Engage Man Deodorant Urge, 150ml @₹97 https://www.amazon.in/dp/B00JKHNLNM?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B00JKHNLNM?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B00JKHNLNM?th=1&tag=bestpricezo0f-21",
-        "label": "Engage Man Deodorant Urge, 150ml @₹97"
-      }
-    ],
-    "raw_text": "Amazon | Engage Man Deodorant Urge, 150ml @₹97\n\nhttps://www.amazon.in/dp/B00JKHNLNM?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B00JKHNLNM?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16126.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-07T19:11:02+00:00",
-    "buy_link": "https://www.amazon.in/dp/B00JKHNLNM?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-07T19:11:02+00:00"
   }
 ]
