@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg16575",
+    "title": "🛍 Up To 80% OFF on 4000+ styles across fashion, accessories & more!",
+    "description": "🎉 Savana Holiday Season Sale Is Live! 🎉  ✨ Perks : 🚚 Free Shipping on orders ₹990+ ⚡️ Fast Delivery 🔁 Easy Returns Shop now :",
+    "shortlink": "https://extp.in/pjgUa0",
+    "urls": [
+      {
+        "url": "",
+        "label": "🎉 Savana Holiday Season Sale Is Live! 🎉"
+      },
+      {
+        "url": "",
+        "label": "🛍 Up To 80% OFF on 4000+ styles across fashion, accessories & more!"
+      },
+      {
+        "url": "",
+        "label": "🚚 Free Shipping on orders ₹990+"
+      },
+      {
+        "url": "",
+        "label": "⚡️ Fast Delivery"
+      },
+      {
+        "url": "",
+        "label": "🔁 Easy Returns"
+      },
+      {
+        "url": "https://extp.in/pjgUa0",
+        "label": "Shop now"
+      }
+    ],
+    "raw_text": "🎉 Savana Holiday Season Sale Is Live! 🎉\n\n🛍 Up To 80% OFF on 4000+ styles across fashion, accessories & more!\n\n✨ Perks :\n🚚 Free Shipping on orders ₹990+\n⚡️ Fast Delivery\n🔁 Easy Returns\n\nShop now : https://extp.in/pjgUa0",
+    "final_url": "https://extp.in/pjgUa0",
+    "local_image": "assets/images/tgmsg_16575.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-11-11T10:51:24+00:00",
+    "buy_link": "https://extp.in/pjgUa0",
+    "date_iso": "2025-11-11T10:51:24+00:00"
+  },
+  {
     "id": "msg16570",
     "title": "Metronaut Backpacks Starts From Rs.219",
     "description": "Flipkart | Metronaut Backpacks Starts From Rs.219 👉 https://fkrt.co/4QTMN9",
@@ -9326,33 +9366,5 @@
     "date_obj": "2025-11-08T04:45:51+00:00",
     "buy_link": "https://fkrt.co/9c3NaQ",
     "date_iso": "2025-11-08T04:45:51+00:00"
-  },
-  {
-    "id": "msg16141",
-    "title": "Roadster Jeans Starts @ 324",
-    "description": "Myntra : Roadster Jeans Starts @ 324. Men's : https://myntr.in/nkaFoi Women's : https://myntr.in/Wml3Rw",
-    "shortlink": "https://myntr.in/nkaFoi",
-    "urls": [
-      {
-        "url": "",
-        "label": "Roadster Jeans Starts @ 324"
-      },
-      {
-        "url": "https://myntr.in/nkaFoi",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/Wml3Rw",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "Myntra : Roadster Jeans Starts @ 324.\n\nMen's : https://myntr.in/nkaFoi\nWomen's : https://myntr.in/Wml3Rw",
-    "final_url": "https://myntr.in/nkaFoi",
-    "local_image": "assets/images/tgmsg_16141.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-08T04:33:17+00:00",
-    "buy_link": "https://myntr.in/nkaFoi",
-    "date_iso": "2025-11-08T04:33:17+00:00"
   }
 ]
