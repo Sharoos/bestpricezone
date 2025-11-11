@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16625",
+    "title": "71% Off On Branded Body Lotion",
+    "description": "Myntra : 50-71% Off On Branded Body Lotions. 👉https://myntr.in/LUYLfh (Ponds, Nivea, Vaseline, Parachute, Etc)",
+    "shortlink": "https://myntr.in/LUYLfh",
+    "urls": [
+      {
+        "url": "https://myntr.in/LUYLfh",
+        "label": "50-71% Off On Branded Body Lotions"
+      },
+      {
+        "url": "",
+        "label": "(Ponds, Nivea, Vaseline, Parachute, Etc)"
+      }
+    ],
+    "raw_text": "Myntra : 50-71% Off On Branded Body Lotions.\n\n👉https://myntr.in/LUYLfh\n\n(Ponds, Nivea, Vaseline, Parachute, Etc)",
+    "final_url": "https://myntr.in/LUYLfh",
+    "local_image": "assets/images/tgmsg_16625.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-11T16:48:51+00:00",
+    "buy_link": "https://myntr.in/LUYLfh",
+    "date_iso": "2025-11-11T16:48:51+00:00"
+  },
+  {
     "id": "msg16617",
     "title": "🔥Up to 67% Off on Adidas Sneakers & Sports Shoes Starting @ just 1368",
     "description": "🔥Ajio | Upto 67% Off on Adidas Sneakers & Sports Shoes Starting @ just 1368 Link :",
@@ -9206,41 +9230,5 @@
     "date_obj": "2025-11-08T09:04:28+00:00",
     "buy_link": "https://www.amazon.in/s?k=symbol%20jackets&rh=p_6%3AA1WYWER0W24N8S%2Cp_n_g-101015233022111%3A207199036031&s=price-asc-rank&dc=&crid=322JOWOOXI6CM&qid=1762404115&sprefix=symbol%20jackets%2Caps%2C275&ds=v1%3AnzXG4FW9rdtO9yqRXMNvZeq5bLYVL6ujk070NySUHEQ&sid=RxCCui&tag=bestpricezo0f-21",
     "date_iso": "2025-11-08T09:04:28+00:00"
-  },
-  {
-    "id": "msg16180",
-    "title": "Up to 60% Off On Branded Shampoo",
-    "description": "Flipkart | Upto 60% Off On Branded Shampoos. DOVE : Tresemme : L'Oreal Paris : More :",
-    "shortlink": "https://fkrt.co/OcJ5AZ",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 60% Off On Branded Shampoos"
-      },
-      {
-        "url": "https://fkrt.co/OcJ5AZ",
-        "label": "DOVE"
-      },
-      {
-        "url": "https://fkrt.co/brQbqz",
-        "label": "Tresemme"
-      },
-      {
-        "url": "https://fkrt.co/ISOoSH",
-        "label": "L'Oreal Paris"
-      },
-      {
-        "url": "https://fkrt.co/GNHpc5",
-        "label": "More"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 60% Off On Branded Shampoos.\n\nDOVE : https://fkrt.co/OcJ5AZ\nTresemme : https://fkrt.co/brQbqz\nL'Oreal Paris : https://fkrt.co/ISOoSH\n\nMore : https://fkrt.co/GNHpc5",
-    "final_url": "https://fkrt.co/OcJ5AZ",
-    "local_image": "assets/images/tgmsg_16180.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-08T09:11:22+00:00",
-    "buy_link": "https://fkrt.co/OcJ5AZ",
-    "date_iso": "2025-11-08T09:11:22+00:00"
   }
 ]
