@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16528",
+    "title": "Mokshi Women Kurta Up to 90% off",
+    "description": "Flipkart | Mokshi Women Kurta Upto 90% off 👉Link : https://fkrt.co/6m4FH6",
+    "shortlink": "https://fkrt.co/6m4FH6",
+    "urls": [
+      {
+        "url": "https://fkrt.co/6m4FH6",
+        "label": "Mokshi Women Kurta Upto 90% off"
+      }
+    ],
+    "raw_text": "Flipkart | Mokshi Women Kurta Upto 90% off \n\n👉Link : https://fkrt.co/6m4FH6",
+    "final_url": "https://fkrt.co/6m4FH6",
+    "local_image": "assets/images/tgmsg_16528.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-11T04:16:01+00:00",
+    "buy_link": "https://fkrt.co/6m4FH6",
+    "date_iso": "2025-11-11T04:16:01+00:00"
+  },
+  {
     "id": "msg16527",
     "title": "Puma Trousers min 60% off",
     "description": "Flipkart | Puma Trousers min 60% off Men  :  https://fkrt.co/gb8tsh Women  :  https://fkrt.co/v7g66t",
@@ -9170,33 +9190,5 @@
     "date_obj": "2025-11-07T18:33:02+00:00",
     "buy_link": "https://ajiio.co/zLPw1c",
     "date_iso": "2025-11-07T18:33:02+00:00"
-  },
-  {
-    "id": "msg16113",
-    "title": "Women Clothing Up to 90% Off",
-    "description": "Flipkart | Women Clothing Upto 90% Off Tokyo Talkies : https://fkrt.co/aub1Y4 Tandul : https://myntr.in/9EhEXY",
-    "shortlink": "https://fkrt.co/aub1Y4",
-    "urls": [
-      {
-        "url": "",
-        "label": "Women Clothing Upto 90% Off"
-      },
-      {
-        "url": "https://fkrt.co/aub1Y4",
-        "label": "Tokyo Talkies"
-      },
-      {
-        "url": "https://myntr.in/9EhEXY",
-        "label": "Tandul"
-      }
-    ],
-    "raw_text": "Flipkart | Women Clothing Upto 90% Off\n\nTokyo Talkies : https://fkrt.co/aub1Y4\n\nTandul : https://myntr.in/9EhEXY",
-    "final_url": "https://fkrt.co/aub1Y4",
-    "local_image": "assets/images/tgmsg_16113.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-07T18:40:18+00:00",
-    "buy_link": "https://fkrt.co/aub1Y4",
-    "date_iso": "2025-11-07T18:40:18+00:00"
   }
 ]
