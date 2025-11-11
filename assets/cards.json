@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16546",
+    "title": "BSC Everything at ₹99",
+    "description": "BSC LOOT: Everything at ₹99 Link: https://bitli.in/9kYP1H0 • Free Shipping on orders above ₹299.",
+    "shortlink": "https://bitli.in/9kYP1H0",
+    "urls": [
+      {
+        "url": "https://bitli.in/9kYP1H0",
+        "label": "Everything at ₹99"
+      },
+      {
+        "url": "",
+        "label": "Free Shipping on orders above ₹299"
+      }
+    ],
+    "raw_text": "BSC LOOT: Everything at ₹99\n\nLink: https://bitli.in/9kYP1H0\n\n• Free Shipping on orders above ₹299.",
+    "final_url": "https://bitli.in/9kYP1H0",
+    "local_image": "assets/images/tgmsg_16546.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-11-11T05:58:07+00:00",
+    "buy_link": "https://bitli.in/9kYP1H0",
+    "date_iso": "2025-11-11T05:58:07+00:00"
+  },
+  {
     "id": "msg16545",
     "title": "Up to 80% Off On Aeropostale Clothing",
     "description": "Myntra : Upto 80% Off On Aeropostale Clothing. Tshirt : Shirt : Trackpants : Jeans : Cargo Trousers : Backpacks : Casual Shoes :",
@@ -9158,25 +9182,5 @@
     "date_obj": "2025-11-07T18:16:23+00:00",
     "buy_link": "https://myntr.in/SQxgDH",
     "date_iso": "2025-11-07T18:16:23+00:00"
-  },
-  {
-    "id": "msg16108",
-    "title": "products&rh=n%253A2454172031%252Cp_85%253A10440599031%252Cp_89%253Adoodle%252Cp_n_pct",
-    "description": "Amazon | Doodle Notebook & Diaries from ₹99…",
-    "shortlink": "https://www.amazon.in/s?i=office-products&rh=n%253A2454172031%252Cp_85%253A10440599031%252Cp_89%253Adoodle%252Cp_n_pct-off-with-tax%253A27060457031&dc=&ds=v1%253As2XgLGQrkOYDg5ilmivwJTJ%252FOaxOE9D2QLZETC57q0M&qid=1762422075&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?i=office-products&rh=n%253A2454172031%252Cp_85%253A10440599031%252Cp_89%253Adoodle%252Cp_n_pct-off-with-tax%253A27060457031&dc=&ds=v1%253As2XgLGQrkOYDg5ilmivwJTJ%252FOaxOE9D2QLZETC57q0M&qid=1762422075&tag=bestpricezo0f-21",
-        "label": "Doodle Notebook & Diaries from ₹99"
-      }
-    ],
-    "raw_text": "Amazon | Doodle Notebook & Diaries from ₹99\n\nhttps://www.amazon.in/s?i=office-products&rh=n%253A2454172031%252Cp_85%253A10440599031%252Cp_89%253Adoodle%252Cp_n_pct-off-with-tax%253A27060457031&dc=&ds=v1%253As2XgLGQrkOYDg5ilmivwJTJ%252FOaxOE9D2QLZETC57q0M&qid=1762422075&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/s?i=office-products&rh=n%253A2454172031%252Cp_85%253A10440599031%252Cp_89%253Adoodle%252Cp_n_pct-off-with-tax%253A27060457031&dc=&ds=v1%253As2XgLGQrkOYDg5ilmivwJTJ%252FOaxOE9D2QLZETC57q0M&qid=1762422075&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16108.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-07T18:31:47+00:00",
-    "buy_link": "https://www.amazon.in/s?i=office-products&rh=n%253A2454172031%252Cp_85%253A10440599031%252Cp_89%253Adoodle%252Cp_n_pct-off-with-tax%253A27060457031&dc=&ds=v1%253As2XgLGQrkOYDg5ilmivwJTJ%252FOaxOE9D2QLZETC57q0M&qid=1762422075&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-07T18:31:47+00:00"
   }
 ]
