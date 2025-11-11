@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16527",
+    "title": "Puma Trousers min 60% off",
+    "description": "Flipkart | Puma Trousers min 60% off Men  :  https://fkrt.co/gb8tsh Women  :  https://fkrt.co/v7g66t",
+    "shortlink": "https://fkrt.co/gb8tsh",
+    "urls": [
+      {
+        "url": "https://fkrt.co/gb8tsh",
+        "label": "Puma Trousers min 60% off"
+      },
+      {
+        "url": "https://fkrt.co/v7g66t",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Flipkart | Puma Trousers min 60% off\n\nMen  :  https://fkrt.co/gb8tsh\n\nWomen  :  https://fkrt.co/v7g66t",
+    "final_url": "https://fkrt.co/gb8tsh",
+    "local_image": "assets/images/tgmsg_16527.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-11T04:02:16+00:00",
+    "buy_link": "https://fkrt.co/gb8tsh",
+    "date_iso": "2025-11-11T04:02:16+00:00"
+  },
+  {
     "id": "msg16525",
     "title": "Campus Shoes Starts at 585🔥🔥",
     "description": "Ajio | Campus Shoes Starts at 585🔥🔥 👉Link : https://ajiio.co/2VpTUz",
@@ -9174,25 +9198,5 @@
     "date_obj": "2025-11-07T18:40:18+00:00",
     "buy_link": "https://fkrt.co/aub1Y4",
     "date_iso": "2025-11-07T18:40:18+00:00"
-  },
-  {
-    "id": "msg16114",
-    "title": "Fila Men’s Sports Shoes Starts @ 542",
-    "description": "Flipkart Grab | Fila Men’s Sports Shoes Starts @ 542. https://fkrt.co/yRz2GA",
-    "shortlink": "https://fkrt.co/yRz2GA",
-    "urls": [
-      {
-        "url": "https://fkrt.co/yRz2GA",
-        "label": "Fila Men’s Sports Shoes Starts @ 542"
-      }
-    ],
-    "raw_text": "Flipkart Grab | Fila Men’s Sports Shoes Starts @ 542.\n\nhttps://fkrt.co/yRz2GA",
-    "final_url": "https://fkrt.co/yRz2GA",
-    "local_image": "assets/images/tgmsg_16114.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-07T18:41:22+00:00",
-    "buy_link": "https://fkrt.co/yRz2GA",
-    "date_iso": "2025-11-07T18:41:22+00:00"
   }
 ]
