@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16552",
+    "title": "Min 75% Off On Women T",
+    "description": "Ajio -shirts Starting From @105🔥🔥🔥🔥 🔗Links : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/jUegWQ",
+    "urls": [
+      {
+        "url": "https://ajiio.co/jUegWQ",
+        "label": "Ajio Min 75% Off On Women T-shirts Starting From @105🔥🔥🔥🔥"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "Ajio  Min 75% Off On Women T-shirts Starting From @105🔥🔥🔥🔥 \n \n🔗Links : https://ajiio.co/jUegWQ\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/jUegWQ",
+    "local_image": "assets/images/tgmsg_16552.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-11T06:45:58+00:00",
+    "buy_link": "https://ajiio.co/jUegWQ",
+    "date_iso": "2025-11-11T06:45:58+00:00"
+  },
+  {
     "id": "msg16547",
     "title": "71% Off On Branded Body Lotion",
     "description": "Myntra : 50-71% Off On Branded Body Lotions. 👉https://myntr.in/8ZGVQ9 (Ponds, Nivea, Vaseline, Parachute, Etc)",
@@ -9302,25 +9326,5 @@
     "date_obj": "2025-11-07T19:11:02+00:00",
     "buy_link": "https://www.amazon.in/dp/B00JKHNLNM?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-07T19:11:02+00:00"
-  },
-  {
-    "id": "msg16115",
-    "title": "Up to 73% Off On Head & Shoulders Shampoo’",
-    "description": "Myntra  Upto 73% Off On Head & Shoulders Shampoo’s. https://myntr.in/NeLqkx",
-    "shortlink": "https://myntr.in/NeLqkx",
-    "urls": [
-      {
-        "url": "https://myntr.in/NeLqkx",
-        "label": "Myntra Upto 73% Off On Head & Shoulders Shampoo’s"
-      }
-    ],
-    "raw_text": "Myntra  Upto 73% Off On Head & Shoulders Shampoo’s.\n\nhttps://myntr.in/NeLqkx",
-    "final_url": "https://myntr.in/NeLqkx",
-    "local_image": "assets/images/tgmsg_16115.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-07T18:47:34+00:00",
-    "buy_link": "https://myntr.in/NeLqkx",
-    "date_iso": "2025-11-07T18:47:34+00:00"
   }
 ]
