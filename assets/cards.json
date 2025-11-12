@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg16738",
+    "title": "🛒 Deal Price Starts @ ₹450",
+    "description": "Myntra | 🧥 HRX By Hrithik Roshan Jacket Deals 🛒 Deal Price: Starts @ ₹450 Women: Men:",
+    "shortlink": "https://myntr.in/b9IMJw",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧥 HRX By Hrithik Roshan Jacket Deals"
+      },
+      {
+        "url": "",
+        "label": "🛒 Deal Price: Starts @ ₹450"
+      },
+      {
+        "url": "https://myntr.in/b9IMJw",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/K2VqZC",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "Myntra | 🧥 HRX By Hrithik Roshan Jacket Deals\n\n🛒 Deal Price: Starts @ ₹450\n\nWomen: https://myntr.in/b9IMJw\nMen: https://myntr.in/K2VqZC",
+    "final_url": "https://myntr.in/b9IMJw",
+    "local_image": "assets/images/tgmsg_16738.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-12T14:12:04+00:00",
+    "buy_link": "https://myntr.in/b9IMJw",
+    "date_iso": "2025-11-12T14:12:04+00:00"
+  },
+  {
     "id": "msg16733",
     "title": "Titan Wall Clock at min. 30% Discount Plus Discount",
     "description": "Myntra | Titan Wall Clock at min. 30% Discount Plus Coupon Discount https://myntr.in/5gHDYQ",
@@ -9170,53 +9202,5 @@
     "date_obj": "2025-11-09T09:41:28+00:00",
     "buy_link": "https://ajiio.co/PR0w91",
     "date_iso": "2025-11-09T09:41:28+00:00"
-  },
-  {
-    "id": "msg16292",
-    "title": "Offer Min 60 Percent Off",
-    "description": "Ajio | 💥 Being Human 👉Offer: Min 60 Percent Off ⚡ 💥 Performax 👉Offer: Under Rs 599 ⚡ 💥 Levi's 👉Offer: Min 60 Percent Off ⚡ 💥 Spykar, Pepe 👉Offer: Min 60 Percent Off ⚡ 💥 UCB 👉Offer: Min 60 Percent Off ⚡ 💥 AX 👉Offer: Min…",
-    "shortlink": "https://ajiio.co/zben5O",
-    "urls": [
-      {
-        "url": "",
-        "label": "💥 Being Human"
-      },
-      {
-        "url": "https://ajiio.co/zben5O",
-        "label": "Min 60 Percent Off"
-      },
-      {
-        "url": "https://ajiio.co/JtLEYl",
-        "label": "Under Rs 599"
-      },
-      {
-        "url": "https://ajiio.co/5XTJQp",
-        "label": "Min 60 Percent Off"
-      },
-      {
-        "url": "",
-        "label": "💥 Spykar, Pepe"
-      },
-      {
-        "url": "https://ajiio.co/AdNAdu",
-        "label": "Min 60 Percent Off"
-      },
-      {
-        "url": "https://ajiio.co/Ou8AKx",
-        "label": "Min 60 Percent Off"
-      },
-      {
-        "url": "https://ajiio.co/bK5D5i",
-        "label": "Min 50 Percent Off"
-      }
-    ],
-    "raw_text": "Ajio | 💥 Being Human \n👉Offer: Min 60 Percent Off \n⚡https://ajiio.co/zben5O\n\n💥 Performax \n👉Offer: Under Rs 599 \n⚡https://ajiio.co/JtLEYl\n\n💥 Levi's \n👉Offer: Min 60 Percent Off \n⚡https://ajiio.co/5XTJQp\n\n💥 Spykar, Pepe \n👉Offer: Min 60 Percent Off \n⚡https://ajiio.co/AdNAdu\n\n💥 UCB \n👉Offer: Min 60 Percent Off \n⚡https://ajiio.co/Ou8AKx\n\n💥 AX \n👉Offer: Min 50 Percent Off \n⚡https://ajiio.co/bK5D5i",
-    "final_url": "https://ajiio.co/zben5O",
-    "local_image": "assets/images/tgmsg_16292.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-09T09:21:30+00:00",
-    "buy_link": "https://ajiio.co/zben5O",
-    "date_iso": "2025-11-09T09:21:30+00:00"
   }
 ]
