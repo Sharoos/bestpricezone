@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16678",
+    "title": "Red Tape Shoes at Up to 86% Discount",
+    "description": "Ajio | Red Tape Shoes at Upto 86% Discount https://ajiio.co/tUnQVW",
+    "shortlink": "https://ajiio.co/tUnQVW",
+    "urls": [
+      {
+        "url": "https://ajiio.co/tUnQVW",
+        "label": "Red Tape Shoes at Upto 86% Discount"
+      }
+    ],
+    "raw_text": "Ajio | Red Tape Shoes at Upto 86% Discount\n\nhttps://ajiio.co/tUnQVW",
+    "final_url": "https://ajiio.co/tUnQVW",
+    "local_image": "assets/images/tgmsg_16678.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-12T06:43:29+00:00",
+    "buy_link": "https://ajiio.co/tUnQVW",
+    "date_iso": "2025-11-12T06:43:29+00:00"
+  },
+  {
     "id": "msg16669",
     "title": "VGR Professional Hair Dryer @999",
     "description": "Amazon | VGR Professional Hair Dryer @999 https://www.amazon.in/dp/B09TL2KNJD?th=1&psc=1&tag=bestpricezo0f-21",
@@ -9178,25 +9198,5 @@
     "date_obj": "2025-11-08T17:05:12+00:00",
     "buy_link": "https://myntr.in/entZ4x",
     "date_iso": "2025-11-08T17:05:12+00:00"
-  },
-  {
-    "id": "msg16233",
-    "title": "RR Signature 800W Room Heater @ 999",
-    "description": "Amazon | RR Signature 800W Room Heater @ 999. 👉https://www.amazon.in/dp/B0DR2S3VPN?psc=1&th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DR2S3VPN?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DR2S3VPN?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "RR Signature 800W Room Heater @ 999"
-      }
-    ],
-    "raw_text": "Amazon | RR Signature 800W Room Heater @ 999.\n\n👉https://www.amazon.in/dp/B0DR2S3VPN?psc=1&th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DR2S3VPN?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16233.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-08T17:15:01+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DR2S3VPN?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-08T17:15:01+00:00"
   }
 ]
