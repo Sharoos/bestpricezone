@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16713",
+    "title": "🛒 Deal Price Check the for the latest price",
+    "description": "Myntra | 👞 Invictus Formal Shoes 🛒 Deal Price: Check the link for the latest price. 👉",
+    "shortlink": "https://myntr.in/Nwuerk",
+    "urls": [
+      {
+        "url": "https://myntr.in/Nwuerk",
+        "label": "👞 Invictus Formal Shoes"
+      }
+    ],
+    "raw_text": "Myntra | 👞 Invictus Formal Shoes\n\n🛒 Deal Price: Check the link for the latest price.\n\n👉 https://myntr.in/Nwuerk",
+    "final_url": "https://myntr.in/Nwuerk",
+    "local_image": "assets/images/tgmsg_16713.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-12T11:30:04+00:00",
+    "buy_link": "https://myntr.in/Nwuerk",
+    "date_iso": "2025-11-12T11:30:04+00:00"
+  },
+  {
     "id": "msg16709",
     "title": "+ 10% EXTRA CASH",
     "description": "🔥Ajio Men Clothing Starts @99 ◼️T-Shirt Starts @141 👉 ◼️Shirt Starts @160 👉 ◼️Jeans Starts @286 👉 ◼️Polo T-Shirt Starts @165 👉 + 10% EXTRA AJIO CASH",
@@ -9134,57 +9154,5 @@
     "date_obj": "2025-11-09T06:26:38+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CH82K15W?language=en_IN&tag=bestpricezo0f-21",
     "date_iso": "2025-11-09T06:26:38+00:00"
-  },
-  {
-    "id": "msg16274",
-    "title": "Up to 3% Rio Coins back on UPI & Card Spends 💰",
-    "description": "Apply for the Lifetime FREE RIO Credit Card & Earn assured cashback on EVERY Scan & Swipe 🔥🔥 👉 Apply Now: Benefits: • 1+1 Movie Tickets on District & BookMyShow 🎬 • Flat ₹150 Off on Zomato 🍕 • 40% Off on Swiggy Food &…",
-    "shortlink": "https://extp.in/UVOKHO",
-    "urls": [
-      {
-        "url": "",
-        "label": "Apply for the Lifetime FREE RIO Credit Card & Earn assured cashback on EVERY Scan & Swipe 🔥🔥"
-      },
-      {
-        "url": "https://extp.in/UVOKHO",
-        "label": "Apply Now"
-      },
-      {
-        "url": "",
-        "label": "1+1 Movie Tickets on District & BookMyShow 🎬"
-      },
-      {
-        "url": "",
-        "label": "Flat ₹150 Off on Zomato 🍕"
-      },
-      {
-        "url": "",
-        "label": "40% Off on Swiggy Food & Instamart 🍔"
-      },
-      {
-        "url": "",
-        "label": "Up to 3% Rio Coins back on UPI & Card Spends 💰"
-      },
-      {
-        "url": "",
-        "label": "8 FREE Airport Lounge Visits per Year ✈️"
-      },
-      {
-        "url": "",
-        "label": "Lifetime FREE – No Joining / Annual Fee"
-      },
-      {
-        "url": "",
-        "label": "Existing YES Bank Cardholders not eligible"
-      }
-    ],
-    "raw_text": "Apply for the Lifetime FREE RIO Credit Card & Earn assured cashback on EVERY Scan & Swipe 🔥🔥\n\n👉 Apply Now: https://extp.in/UVOKHO\n\nBenefits:\n• 1+1 Movie Tickets on District & BookMyShow 🎬\n• Flat ₹150 Off on Zomato 🍕\n• 40% Off on Swiggy Food & Instamart 🍔\n• Up to 3% Rio Coins back on UPI & Card Spends 💰\n• 8 FREE Airport Lounge Visits per Year ✈️\n\nEligibility:\n• Lifetime FREE – No Joining / Annual Fee\n• Existing YES Bank Cardholders not eligible\n\n✅Note : This is one of the most trending cards in the market right now. If eligible — apply immediately! 💥",
-    "final_url": "https://extp.in/UVOKHO",
-    "local_image": "assets/images/tgmsg_16274.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-09T06:35:45+00:00",
-    "buy_link": "https://extp.in/UVOKHO",
-    "date_iso": "2025-11-09T06:35:45+00:00"
   }
 ]
