@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16698",
+    "title": "🖱 Zebronics Mouse Deal",
+    "description": "Flipkart | 🖱 Zebronics Mouse Deals 🛒 Deal Price: ₹89 👉 https://fkrt.co/FxUfpW",
+    "shortlink": "https://fkrt.co/FxUfpW",
+    "urls": [
+      {
+        "url": "",
+        "label": "🖱 Zebronics Mouse Deals"
+      },
+      {
+        "url": "https://fkrt.co/FxUfpW",
+        "label": "🛒 Deal Price: ₹89"
+      }
+    ],
+    "raw_text": "Flipkart | 🖱 Zebronics Mouse Deals\n\n🛒 Deal Price: ₹89\n\n👉 https://fkrt.co/FxUfpW",
+    "final_url": "https://fkrt.co/FxUfpW",
+    "local_image": "assets/images/tgmsg_16698.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-12T09:42:23+00:00",
+    "buy_link": "https://fkrt.co/FxUfpW",
+    "date_iso": "2025-11-12T09:42:23+00:00"
+  },
+  {
     "id": "msg16695",
     "title": "Lifelong 350W Mixer Grinder, 1 Jar @ 799",
     "description": "Amazon | Lifelong 350W Mixer Grinder, 1 Jar @ 799. 👉https://www.amazon.in/dp/B09Y5YWZ7T?psc=1&th=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
@@ -9238,25 +9262,5 @@
     "date_obj": "2025-11-08T19:42:13+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CG21RCV5?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-08T19:42:13+00:00"
-  },
-  {
-    "id": "msg16252",
-    "title": "Lenovo 300 Wired Plug & Play USB Mouse @₹299",
-    "description": "Amazon | Lenovo 300 Wired Plug & Play USB Mouse @₹299 https://www.amazon.in/dp/B073BRXPZX?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B073BRXPZX?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B073BRXPZX?th=1&tag=bestpricezo0f-21",
-        "label": "Lenovo 300 Wired Plug & Play USB Mouse @₹299"
-      }
-    ],
-    "raw_text": "Amazon | Lenovo 300 Wired Plug & Play USB Mouse @₹299\n\nhttps://www.amazon.in/dp/B073BRXPZX?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B073BRXPZX?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16252.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-08T19:48:42+00:00",
-    "buy_link": "https://www.amazon.in/dp/B073BRXPZX?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-08T19:48:42+00:00"
   }
 ]
