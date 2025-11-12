@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg16760",
+    "title": "Longway Fan Room Heater at ₹799",
+    "description": "Amazon | Longway Fan Room Heater at ₹799. https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
+        "label": "Longway Fan Room Heater at ₹799"
+      }
+    ],
+    "raw_text": "Amazon | Longway Fan Room Heater at ₹799.\n\nhttps://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16760.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-12T18:36:50+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-12T18:36:50+00:00"
+  },
+  {
+    "id": "msg16761",
+    "title": "Up to 75% Off On Puma Shoe",
+    "description": "Upto 75% Off On Puma Shoes. Mens : https://myntr.in/TeDOMR Womens : https://myntr.in/CmdW8G",
+    "shortlink": "https://myntr.in/TeDOMR",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On Puma Shoes"
+      },
+      {
+        "url": "https://myntr.in/TeDOMR",
+        "label": "Mens"
+      },
+      {
+        "url": "https://myntr.in/CmdW8G",
+        "label": "Womens"
+      }
+    ],
+    "raw_text": "Upto 75% Off On Puma Shoes.\n\nMens : https://myntr.in/TeDOMR\nWomens : https://myntr.in/CmdW8G",
+    "final_url": "https://myntr.in/TeDOMR",
+    "local_image": "assets/images/tgmsg_16761.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-12T18:40:41+00:00",
+    "buy_link": "https://myntr.in/TeDOMR",
+    "date_iso": "2025-11-12T18:40:41+00:00"
+  },
+  {
     "id": "msg16756",
     "title": "Red Tape Shoes at Up to 83% Discount",
     "description": "Ajio | Red Tape Shoes at Upto 83% Discount https://ajiio.co/KAEjV8",
@@ -9062,65 +9110,5 @@
     "date_obj": "2025-11-09T11:56:27+00:00",
     "buy_link": "https://myntr.in/IAGsTb",
     "date_iso": "2025-11-09T11:56:27+00:00"
-  },
-  {
-    "id": "msg16316",
-    "title": "Up to 70% Off On Beauty Item",
-    "description": "Myntra : Upto 70% Off On Beauty Items. Lakmé : Pond's : BoroPlus : Livon : Master Link :",
-    "shortlink": "https://myntr.in/7ijpon",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 70% Off On Beauty Items"
-      },
-      {
-        "url": "https://myntr.in/7ijpon",
-        "label": "Lakmé"
-      },
-      {
-        "url": "https://myntr.in/8ybX5t",
-        "label": "Pond's"
-      },
-      {
-        "url": "https://myntr.in/mID3zi",
-        "label": "BoroPlus"
-      },
-      {
-        "url": "https://myntr.in/xfXbo8",
-        "label": "Livon"
-      },
-      {
-        "url": "https://myntr.in/df5xea",
-        "label": "Master"
-      }
-    ],
-    "raw_text": "Myntra : Upto 70% Off On Beauty Items. \n\nLakmé : https://myntr.in/7ijpon\nPond's : https://myntr.in/8ybX5t\nBoroPlus : https://myntr.in/mID3zi\nLivon : https://myntr.in/xfXbo8\n\nMaster Link : https://myntr.in/df5xea",
-    "final_url": "https://myntr.in/7ijpon",
-    "local_image": "assets/images/tgmsg_16316.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-09T11:41:33+00:00",
-    "buy_link": "https://myntr.in/7ijpon",
-    "date_iso": "2025-11-09T11:41:33+00:00"
-  },
-  {
-    "id": "msg16315",
-    "title": "Up to 72% Off Lifebuoy Body Wash",
-    "description": "Myntra: Upto 72% Off Lifebuoy Body Wash. https://myntr.in/XeS7s1",
-    "shortlink": "https://myntr.in/XeS7s1",
-    "urls": [
-      {
-        "url": "https://myntr.in/XeS7s1",
-        "label": "Upto 72% Off Lifebuoy Body Wash"
-      }
-    ],
-    "raw_text": "Myntra: Upto 72% Off Lifebuoy Body Wash.\n\n https://myntr.in/XeS7s1",
-    "final_url": "https://myntr.in/XeS7s1",
-    "local_image": "assets/images/tgmsg_16315.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-09T11:33:54+00:00",
-    "buy_link": "https://myntr.in/XeS7s1",
-    "date_iso": "2025-11-09T11:33:54+00:00"
   }
 ]
