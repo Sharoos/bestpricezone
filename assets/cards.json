@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg16754",
+    "title": "Women's Westernwear Under ₹399 (Rio, Fig & More)",
+    "description": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More) Women : https://ajiio.co/cd2wYl Girls : https://ajiio.co/Bgz69V",
+    "shortlink": "https://ajiio.co/cd2wYl",
+    "urls": [
+      {
+        "url": "",
+        "label": "Women's Westernwear Under ₹399 (Rio, Fig & More)"
+      },
+      {
+        "url": "https://ajiio.co/cd2wYl",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/Bgz69V",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More)\n\nWomen : https://ajiio.co/cd2wYl\n\nGirls : https://ajiio.co/Bgz69V",
+    "final_url": "https://ajiio.co/cd2wYl",
+    "local_image": "assets/images/tgmsg_16754.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-12T17:41:06+00:00",
+    "buy_link": "https://ajiio.co/cd2wYl",
+    "date_iso": "2025-11-12T17:41:06+00:00"
+  },
+  {
     "id": "msg16751",
     "title": "Up to 85% Off On Branded Backpacks Starting @ ₹ 329",
     "description": "Flipkart | Upto 85% Off On Branded Backpacks Starting @ ₹ 329 Skybags : Safari : Wildcraft : Gear : Lavie : American Tourister :",
@@ -9082,25 +9110,5 @@
     "date_obj": "2025-11-09T11:11:53+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FNMT5ST3?smid=AA0J98CVDRG52&tag=bestpricezo0f-21",
     "date_iso": "2025-11-09T11:11:53+00:00"
-  },
-  {
-    "id": "msg16309",
-    "title": "💥Up to 70% Off On Skybag",
-    "description": "💥Myntra : Upto 70% Off On Skybags. ⚡https://myntr.in/2zuKZE",
-    "shortlink": "https://myntr.in/2zuKZE",
-    "urls": [
-      {
-        "url": "https://myntr.in/2zuKZE",
-        "label": "💥Myntra : Upto 70% Off On Skybags"
-      }
-    ],
-    "raw_text": "💥Myntra : Upto 70% Off On Skybags.\n\n⚡https://myntr.in/2zuKZE",
-    "final_url": "https://myntr.in/2zuKZE",
-    "local_image": "assets/images/tgmsg_16309.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-09T10:51:18+00:00",
-    "buy_link": "https://myntr.in/2zuKZE",
-    "date_iso": "2025-11-09T10:51:18+00:00"
   }
 ]
