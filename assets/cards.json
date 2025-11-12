@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg16742",
+    "title": "Aristocrat Duffel Bags @₹557",
+    "description": "Flipkart | Aristocrat Duffel Bags @₹557 https://fkrt.co/pnuurG",
+    "shortlink": "https://fkrt.co/pnuurG",
+    "urls": [
+      {
+        "url": "https://fkrt.co/pnuurG",
+        "label": "Aristocrat Duffel Bags @₹557"
+      }
+    ],
+    "raw_text": "Flipkart | Aristocrat Duffel Bags @₹557\n\nhttps://fkrt.co/pnuurG",
+    "final_url": "https://fkrt.co/pnuurG",
+    "local_image": "assets/images/tgmsg_16742.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-12T14:56:10+00:00",
+    "buy_link": "https://fkrt.co/pnuurG",
+    "date_iso": "2025-11-12T14:56:10+00:00"
+  },
+  {
+    "id": "msg16743",
+    "title": "👟 Puma Shoe Steal Deal",
+    "description": "Myntra | 👟 Puma Shoe Steal Deals Flat 70-75% Off Men's: https://myntr.in/qYau5z",
+    "shortlink": "https://myntr.in/qYau5z",
+    "urls": [
+      {
+        "url": "",
+        "label": "👟 Puma Shoe Steal Deals"
+      },
+      {
+        "url": "",
+        "label": "75% Off"
+      },
+      {
+        "url": "https://myntr.in/qYau5z",
+        "label": "Men's"
+      }
+    ],
+    "raw_text": "Myntra | 👟 Puma Shoe Steal Deals\n\nFlat 70-75% Off\n\nMen's: https://myntr.in/qYau5z",
+    "final_url": "https://myntr.in/qYau5z",
+    "local_image": "assets/images/tgmsg_16743.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-12T15:11:55+00:00",
+    "buy_link": "https://myntr.in/qYau5z",
+    "date_iso": "2025-11-12T15:11:55+00:00"
+  },
+  {
     "id": "msg16739",
     "title": "78% Off On Smart & Handsome Facewash",
     "description": "Myntra  70-78% Off On Smart & Handsome Facewash. https://myntr.in/zkRqDr",
@@ -9154,45 +9202,5 @@
     "date_obj": "2025-11-09T10:07:28+00:00",
     "buy_link": "https://extp.in/pvMJlm",
     "date_iso": "2025-11-09T10:07:28+00:00"
-  },
-  {
-    "id": "msg16301",
-    "title": "Organic Brown Rice 2Kg @50",
-    "description": "Amazon | Organic Brown Rice 2Kg @50 https://www.amazon.in/dp/B0D9MN5V3L?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D9MN5V3L?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0D9MN5V3L?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Organic Brown Rice 2Kg @50"
-      }
-    ],
-    "raw_text": "Amazon | Organic Brown Rice 2Kg @50\n\nhttps://www.amazon.in/dp/B0D9MN5V3L?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D9MN5V3L?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16301.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-09T10:13:58+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D9MN5V3L?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-09T10:13:58+00:00"
-  },
-  {
-    "id": "msg16297",
-    "title": "Highlander Men’s Jeans from @447",
-    "description": "Flipkart | Highlander Men’s Jeans from @447 👉https://fkrt.co/01QpyE",
-    "shortlink": "https://fkrt.co/01QpyE",
-    "urls": [
-      {
-        "url": "https://fkrt.co/01QpyE",
-        "label": "Highlander Men’s Jeans from @447"
-      }
-    ],
-    "raw_text": "Flipkart | Highlander Men’s Jeans from @447\n\n👉https://fkrt.co/01QpyE",
-    "final_url": "https://fkrt.co/01QpyE",
-    "local_image": "assets/images/tgmsg_16297.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-09T09:53:32+00:00",
-    "buy_link": "https://fkrt.co/01QpyE",
-    "date_iso": "2025-11-09T09:53:32+00:00"
   }
 ]
