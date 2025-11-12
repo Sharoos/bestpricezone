@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16749",
+    "title": "💥OverSized Tshirts Starts @180",
+    "description": "💥Ajio | OverSized Tshirts Starts @180. 👉Link : https://ajiio.co/hV4sLs",
+    "shortlink": "https://ajiio.co/hV4sLs",
+    "urls": [
+      {
+        "url": "https://ajiio.co/hV4sLs",
+        "label": "💥Ajio | OverSized Tshirts Starts @180"
+      }
+    ],
+    "raw_text": "💥Ajio | OverSized Tshirts Starts @180.\n\n👉Link : https://ajiio.co/hV4sLs",
+    "final_url": "https://ajiio.co/hV4sLs",
+    "local_image": "assets/images/tgmsg_16749.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-12T16:43:34+00:00",
+    "buy_link": "https://ajiio.co/hV4sLs",
+    "date_iso": "2025-11-12T16:43:34+00:00"
+  },
+  {
     "id": "msg16747",
     "title": "Pigeon Nonstick Tawa + Pan at ₹569",
     "description": "Amazon | Pigeon Nonstick Tawa + Pan at ₹569 👉 https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21 Pigeon Knife Set - 4pcs at ₹95 👉 https://www.amazon.in/dp/B0CYZ48MDL?th=1&tag=bestpricezo0f-21",
@@ -9094,25 +9114,5 @@
     "date_obj": "2025-11-09T10:23:26+00:00",
     "buy_link": "https://ajiio.co/P663LU",
     "date_iso": "2025-11-09T10:23:26+00:00"
-  },
-  {
-    "id": "msg16303",
-    "title": "@₹100",
-    "description": "@₹100 https://myntr.in/2HK6qK",
-    "shortlink": "https://myntr.in/2HK6qK",
-    "urls": [
-      {
-        "url": "https://myntr.in/2HK6qK",
-        "label": ""
-      }
-    ],
-    "raw_text": "@₹100\n\nhttps://myntr.in/2HK6qK",
-    "final_url": "https://myntr.in/2HK6qK",
-    "local_image": "assets/images/tgmsg_16303.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-09T10:25:45+00:00",
-    "buy_link": "https://myntr.in/2HK6qK",
-    "date_iso": "2025-11-09T10:25:45+00:00"
   }
 ]
