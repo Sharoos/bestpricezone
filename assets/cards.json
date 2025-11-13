@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg16856",
+    "title": "Offer Min 75 Percent Off",
+    "description": "Ajio | 💥 Dnmx 👉Offer: Under Rs 299 ⚡ 💥 Yousta 👉Offer: Under Rs 199 ⚡ 💥 Azorte 👉Offer: Min 75 Percent Off ⚡ 💥 Jeans & Trousers 👉Offer: Under Rs 799 ⚡ 💥 Tshirts and Tops 👉Offer: Under Rs 299 ⚡ 💥 Kurtas and Kurtis 👉Offer:…",
+    "shortlink": "https://ajiio.co/c5OYm1",
+    "urls": [
+      {
+        "url": "",
+        "label": "💥 Dnmx"
+      },
+      {
+        "url": "https://ajiio.co/c5OYm1",
+        "label": "Under Rs 299"
+      },
+      {
+        "url": "https://ajiio.co/1oe9qX",
+        "label": "Under Rs 199"
+      },
+      {
+        "url": "https://ajiio.co/DyAa5Z",
+        "label": "Min 75 Percent Off"
+      },
+      {
+        "url": "",
+        "label": "💥 Jeans & Trousers"
+      },
+      {
+        "url": "https://ajiio.co/JYEodQ",
+        "label": "Under Rs 799"
+      },
+      {
+        "url": "",
+        "label": "💥 Tshirts and Tops"
+      },
+      {
+        "url": "https://ajiio.co/imjxX9",
+        "label": "Under Rs 299"
+      },
+      {
+        "url": "",
+        "label": "💥 Kurtas and Kurtis"
+      },
+      {
+        "url": "https://ajiio.co/OzrByI",
+        "label": "Under Rs 399"
+      }
+    ],
+    "raw_text": "Ajio | 💥 Dnmx \n👉Offer: Under Rs 299 \n⚡https://ajiio.co/c5OYm1\n\n💥 Yousta \n👉Offer: Under Rs 199 \n⚡https://ajiio.co/1oe9qX\n\n💥 Azorte \n👉Offer: Min 75 Percent Off \n⚡https://ajiio.co/DyAa5Z\n\n💥 Jeans & Trousers \n👉Offer: Under Rs 799 \n⚡https://ajiio.co/JYEodQ\n\n💥 Tshirts and Tops \n👉Offer: Under Rs 299 \n⚡https://ajiio.co/imjxX9\n\n💥 Kurtas and Kurtis \n👉Offer: Under Rs 399 \n⚡https://ajiio.co/OzrByI",
+    "final_url": "https://ajiio.co/c5OYm1",
+    "local_image": "assets/images/tgmsg_16856.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-13T16:36:48+00:00",
+    "buy_link": "https://ajiio.co/c5OYm1",
+    "date_iso": "2025-11-13T16:36:48+00:00"
+  },
+  {
     "id": "msg16853",
     "title": "Up to 85% Off On Clothing",
     "description": "Ajio Upto 85% Off On Clothing. *Men’s Clothing 👇👇 T-Shirt : Shirt : Jeans : Trouser : SweatShirt : Sweater : Jacket : Kurta : Trackpant : *Women’s Clothing 👇👇 T-Shirt : Tops : Shirt : Dresses : Jeans & Jeggings :…",
@@ -9266,29 +9322,5 @@
     "date_obj": "2025-11-10T07:45:05+00:00",
     "buy_link": "https://myntr.in/yIFhFk",
     "date_iso": "2025-11-10T07:45:05+00:00"
-  },
-  {
-    "id": "msg16400",
-    "title": "Extra ₹50 Discount On Prepaid Payment+100 Cashback",
-    "description": "WOW: BUY 8 Products at 1000 ✅ USE CODE: CKBUY8 https://bitli.in/4UjLn4I • Extra ₹50 Discount On Prepaid Payment+100 Cashback.",
-    "shortlink": "https://bitli.in/4UjLn4I",
-    "urls": [
-      {
-        "url": "https://bitli.in/4UjLn4I",
-        "label": "✅ USE CODE: CKBUY8"
-      },
-      {
-        "url": "",
-        "label": "Extra ₹50 Discount On Prepaid Payment+100 Cashback"
-      }
-    ],
-    "raw_text": "WOW: BUY 8 Products at 1000\n\n✅ USE CODE: CKBUY8\n\nhttps://bitli.in/4UjLn4I\n\n• Extra ₹50 Discount On Prepaid Payment+100 Cashback.",
-    "final_url": "https://bitli.in/4UjLn4I",
-    "local_image": "assets/images/tgmsg_16400.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-11-10T07:35:34+00:00",
-    "buy_link": "https://bitli.in/4UjLn4I",
-    "date_iso": "2025-11-10T07:35:34+00:00"
   }
 ]
