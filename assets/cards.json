@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg16767",
+    "title": "Women's Westernwear Under ₹399 (Rio, Fig & More)",
+    "description": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More) Women : https://ajiio.co/fkwiHz Girls : https://ajiio.co/7lG0df",
+    "shortlink": "https://ajiio.co/fkwiHz",
+    "urls": [
+      {
+        "url": "",
+        "label": "Women's Westernwear Under ₹399 (Rio, Fig & More)"
+      },
+      {
+        "url": "https://ajiio.co/fkwiHz",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/7lG0df",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More)\n\nWomen : https://ajiio.co/fkwiHz\n\nGirls : https://ajiio.co/7lG0df",
+    "final_url": "https://ajiio.co/fkwiHz",
+    "local_image": "assets/images/tgmsg_16767.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-13T04:53:52+00:00",
+    "buy_link": "https://ajiio.co/fkwiHz",
+    "date_iso": "2025-11-13T04:53:52+00:00"
+  },
+  {
     "id": "msg16766",
     "title": "Up to 80% Off John Players Clothing",
     "description": "AJIO : Upto 80% Off : John Players Clothing Jeans – Shirts – T-Shirts – Trousers – Sweatshirts – Sweaters – Jackets – Waistcoats & Blazers –",
@@ -9118,29 +9146,5 @@
     "date_obj": "2025-11-09T12:26:31+00:00",
     "buy_link": "https://myntr.in/B2sjhi",
     "date_iso": "2025-11-09T12:26:31+00:00"
-  },
-  {
-    "id": "msg16323",
-    "title": "Gear School Backpack starting @509",
-    "description": "Flipkart | Gear School Backpack starting @509 👉https://fkrt.co/SXG1I8 👉https://fkrt.co/yuVC9j",
-    "shortlink": "https://fkrt.co/SXG1I8",
-    "urls": [
-      {
-        "url": "https://fkrt.co/SXG1I8",
-        "label": "Gear School Backpack starting @509"
-      },
-      {
-        "url": "https://fkrt.co/yuVC9j",
-        "label": "Gear School Backpack starting @509"
-      }
-    ],
-    "raw_text": "Flipkart | Gear School Backpack starting @509\n\n👉https://fkrt.co/SXG1I8\n👉https://fkrt.co/yuVC9j",
-    "final_url": "https://fkrt.co/SXG1I8",
-    "local_image": "assets/images/tgmsg_16323.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-09T12:41:46+00:00",
-    "buy_link": "https://fkrt.co/SXG1I8",
-    "date_iso": "2025-11-09T12:41:46+00:00"
   }
 ]
