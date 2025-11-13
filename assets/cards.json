@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16845",
+    "title": "Puma Trousers min 60% off",
+    "description": "Flipkart | Puma Trousers min 60% off Men  :  https://fkrt.co/NVSzPv Women  :  https://fkrt.co/1K59r4",
+    "shortlink": "https://fkrt.co/NVSzPv",
+    "urls": [
+      {
+        "url": "https://fkrt.co/NVSzPv",
+        "label": "Puma Trousers min 60% off"
+      },
+      {
+        "url": "https://fkrt.co/1K59r4",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Flipkart | Puma Trousers min 60% off\n\nMen  :  https://fkrt.co/NVSzPv\n\nWomen  :  https://fkrt.co/1K59r4",
+    "final_url": "https://fkrt.co/NVSzPv",
+    "local_image": "assets/images/tgmsg_16845.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-13T14:38:08+00:00",
+    "buy_link": "https://fkrt.co/NVSzPv",
+    "date_iso": "2025-11-13T14:38:08+00:00"
+  },
+  {
     "id": "msg16840",
     "title": "At 179",
     "description": "At 179  https://www.amazon.in/dp/B0G2651DGK?social_share=cm_sw_r_cso_wa_apin_dp_DEV1RVJA800P4DSGAJ3M&tag=bestpricezo0f-21",
@@ -9194,25 +9218,5 @@
     "date_obj": "2025-11-10T06:49:51+00:00",
     "buy_link": "https://www.amazon.in/dp/B09J2JW22M?tag=bestpricezo0f-21",
     "date_iso": "2025-11-10T06:49:51+00:00"
-  },
-  {
-    "id": "msg16391",
-    "title": "Kratos 10000 mAh Power Bank @ 599",
-    "description": "Flipkart | Kratos 10000 mAh Power Bank @ 599. 👉 https://fkrt.co/cmSNcP",
-    "shortlink": "https://fkrt.co/cmSNcP",
-    "urls": [
-      {
-        "url": "https://fkrt.co/cmSNcP",
-        "label": "Kratos 10000 mAh Power Bank @ 599"
-      }
-    ],
-    "raw_text": "Flipkart | Kratos 10000 mAh Power Bank @ 599.\n\n👉 https://fkrt.co/cmSNcP",
-    "final_url": "https://fkrt.co/cmSNcP",
-    "local_image": "assets/images/tgmsg_16391.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-10T06:25:58+00:00",
-    "buy_link": "https://fkrt.co/cmSNcP",
-    "date_iso": "2025-11-10T06:25:58+00:00"
   }
 ]
