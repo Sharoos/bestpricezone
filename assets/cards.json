@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16807",
+    "title": "Up to 77% off on Travel Essential",
+    "description": "Amazon | Upto 77% off on Travel Essentials 🔗…",
+    "shortlink": "https://www.amazon.in/s?i=sporting&srs=61796984031&rh=n%3A61796984031&s=popularity-rank&pf_rd_i=976442031&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_p=d5479bc0-1db3-415e-af09-9794aa78569d&pf_rd_r=HZK1RCCE6S4P60GWG6VV&pf_rd_s=merchandised-search-3&language=en_IN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/s?i=sporting&srs=61796984031&rh=n%3A61796984031&s=popularity-rank&pf_rd_i=976442031&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_p=d5479bc0-1db3-415e-af09-9794aa78569d&pf_rd_r=HZK1RCCE6S4P60GWG6VV&pf_rd_s=merchandised-search-3&language=en_IN&tag=bestpricezo0f-21",
+        "label": "Upto 77% off on Travel Essentials"
+      }
+    ],
+    "raw_text": "Amazon | Upto 77% off on Travel Essentials \n\n🔗 https://www.amazon.in/s?i=sporting&srs=61796984031&rh=n%3A61796984031&s=popularity-rank&pf_rd_i=976442031&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_p=d5479bc0-1db3-415e-af09-9794aa78569d&pf_rd_r=HZK1RCCE6S4P60GWG6VV&pf_rd_s=merchandised-search-3&language=en_IN&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?i=sporting&srs=61796984031&rh=n%3A61796984031&s=popularity-rank&pf_rd_i=976442031&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_p=d5479bc0-1db3-415e-af09-9794aa78569d&pf_rd_r=HZK1RCCE6S4P60GWG6VV&pf_rd_s=merchandised-search-3&language=en_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16807.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-13T09:45:46+00:00",
+    "buy_link": "https://www.amazon.in/s?i=sporting&srs=61796984031&rh=n%3A61796984031&s=popularity-rank&pf_rd_i=976442031&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_p=d5479bc0-1db3-415e-af09-9794aa78569d&pf_rd_r=HZK1RCCE6S4P60GWG6VV&pf_rd_s=merchandised-search-3&language=en_IN&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-13T09:45:46+00:00"
+  },
+  {
     "id": "msg16804",
     "title": "🍿 25% Off on Movies (Max ₹100)",
     "description": "IDFC FIRST Lifetime Free Credit Card Apply Now 👉 ✅ Lifetime FREE – No Joining/Annual Fee 🎁 ₹500 Gift Voucher (spend ₹15,000 in 90 days) 🏆 Reward Points that never expire  🛍️ Discounts on 300+ Brands (Flipkart, Myntra,…",
@@ -9206,25 +9226,5 @@
     "date_obj": "2025-11-09T16:35:20+00:00",
     "buy_link": "https://www.amazon.in/s?k=campus%20sandals&s=price-asc-rank&ds=v1%3AJmJrJ0PGxeXNjXFgLFvd2rJ1Xva8kHGb4NjIaRIAM6A&crid=18US8HZBI6DU8&qid=1762698345&sprefix=campus%20sandal%2Caps%2C280&tag=bestpricezo0f-21",
     "date_iso": "2025-11-09T16:35:20+00:00"
-  },
-  {
-    "id": "msg16355",
-    "title": "💥Up to 90% Off on the Home Decor Wall Arts And Many more Starting @ Just 191",
-    "description": "💥Myntra | Upto 90% Off on the Home Decor Wall Arts And Many more Starting @ Just 191 🧨Link :",
-    "shortlink": "https://myntr.in/DsWLtI",
-    "urls": [
-      {
-        "url": "https://myntr.in/DsWLtI",
-        "label": "💥Myntra | Upto 90% Off on the Home Decor Wall Arts And Many more Starting @ Just 191"
-      }
-    ],
-    "raw_text": "💥Myntra | Upto 90% Off on the Home Decor Wall Arts And Many more Starting @ Just 191\n \n🧨Link : https://myntr.in/DsWLtI",
-    "final_url": "https://myntr.in/DsWLtI",
-    "local_image": "assets/images/tgmsg_16355.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-09T16:41:58+00:00",
-    "buy_link": "https://myntr.in/DsWLtI",
-    "date_iso": "2025-11-09T16:41:58+00:00"
   }
 ]
