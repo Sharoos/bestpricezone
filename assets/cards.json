@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16892",
+    "title": "Dabur Amla Hair Oil",
+    "description": "Amazon | Dabur Amla Hair Oil - 1100ml (550ml x 2) @275 https://www.amazon.in/dp/B0FJXG6CTF?th=1&ck&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FJXG6CTF?th=1&ck&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FJXG6CTF?th=1&ck&tag=bestpricezo0f-21",
+        "label": "Dabur Amla Hair Oil - 1100ml (550ml x 2) @275"
+      }
+    ],
+    "raw_text": "Amazon | Dabur Amla Hair Oil - 1100ml (550ml x 2) @275\n\nhttps://www.amazon.in/dp/B0FJXG6CTF?th=1&ck&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FJXG6CTF?th=1&ck&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16892.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-13T19:33:21+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FJXG6CTF?th=1&ck&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-13T19:33:21+00:00"
+  },
+  {
     "id": "msg16883",
     "title": "✅ 68% Off Dove Odour Protection Deodorant Roll",
     "description": "Flipkart | ✅ 68% Off : Dove Odour Protection Deodorant Roll-on @243 https://fkrt.co/NCRlWM",
@@ -9234,33 +9254,5 @@
     "date_obj": "2025-11-10T11:40:03+00:00",
     "buy_link": "https://extp.in/fJtQap=",
     "date_iso": "2025-11-10T11:40:03+00:00"
-  },
-  {
-    "id": "msg16423",
-    "title": "John Jacobs Min 60% Off🔥",
-    "description": "Myntra | ⏰ Limited Time Deal ⏰ John Jacobs Min 60% Off🔥 👉 https://myntr.in/r69pYP Vincent Chase Under 799 🔥 👉 https://myntr.in/NE2ZAM",
-    "shortlink": "https://myntr.in/r69pYP",
-    "urls": [
-      {
-        "url": "",
-        "label": "⏰ Limited Time Deal ⏰"
-      },
-      {
-        "url": "https://myntr.in/r69pYP",
-        "label": "John Jacobs Min 60% Off🔥"
-      },
-      {
-        "url": "https://myntr.in/NE2ZAM",
-        "label": "Vincent Chase Under 799 🔥"
-      }
-    ],
-    "raw_text": "Myntra | ⏰ Limited Time Deal ⏰\n\nJohn Jacobs Min 60% Off🔥\n👉 https://myntr.in/r69pYP\n\nVincent Chase Under 799 🔥\n👉 https://myntr.in/NE2ZAM",
-    "final_url": "https://myntr.in/r69pYP",
-    "local_image": "assets/images/tgmsg_16423.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-10T11:20:38+00:00",
-    "buy_link": "https://myntr.in/r69pYP",
-    "date_iso": "2025-11-10T11:20:38+00:00"
   }
 ]
