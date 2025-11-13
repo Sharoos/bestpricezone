@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16851",
+    "title": "🛒 Deal Price ₹188 + 10 Supercoin",
+    "description": "🧺 Flipkart | Jute Storage Basket Deals Jute Storage Basket (Pack of 3) 🛒 Deal Price: ₹188 + 10 Supercoins",
+    "shortlink": "https://fkrt.co/g78j81",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧺 Flipkart | Jute Storage Basket Deals Jute Storage Basket (Pack of 3)"
+      },
+      {
+        "url": "https://fkrt.co/g78j81",
+        "label": "🛒 Deal Price: ₹188 + 10 Supercoins"
+      }
+    ],
+    "raw_text": "🧺 Flipkart | Jute Storage Basket Deals Jute Storage Basket (Pack of 3) \n\n🛒 Deal Price: ₹188 + 10 Supercoins \n\nhttps://fkrt.co/g78j81",
+    "final_url": "https://fkrt.co/g78j81",
+    "local_image": "assets/images/tgmsg_16851.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-13T15:36:31+00:00",
+    "buy_link": "https://fkrt.co/g78j81",
+    "date_iso": "2025-11-13T15:36:31+00:00"
+  },
+  {
     "id": "msg16849",
     "title": "🛒 Deal Price ₹188 + 10 Supercoin",
     "description": "🧺 Flipkart | Jute Storage Basket Deals Jute Storage Basket (Pack of 3) 🛒 Deal Price: ₹188 + 10 Supercoins",
@@ -9158,41 +9182,5 @@
     "date_obj": "2025-11-10T07:02:19+00:00",
     "buy_link": "https://bitli.in/690r40z",
     "date_iso": "2025-11-10T07:02:19+00:00"
-  },
-  {
-    "id": "msg16396",
-    "title": "👖 Men’s Trousers starting from ₹279",
-    "description": "Myntra Mega Fashion Deals 🔥🔥 👕 Shirts starting from ₹199 👉  👉 🕺 Kurtas starting from ₹299 👉 🧥 Blazers starting from ₹1199 👉",
-    "shortlink": "https://myntr.in/ruqmFl",
-    "urls": [
-      {
-        "url": "",
-        "label": "Myntra Mega Fashion Deals 🔥🔥"
-      },
-      {
-        "url": "https://myntr.in/ruqmFl",
-        "label": "👕 Shirts starting from ₹199"
-      },
-      {
-        "url": "https://myntr.in/7urKem",
-        "label": "👖 Men’s Trousers starting from ₹279"
-      },
-      {
-        "url": "https://myntr.in/XHvyld",
-        "label": "🕺 Kurtas starting from ₹299"
-      },
-      {
-        "url": "https://myntr.in/bzjfqM",
-        "label": "🧥 Blazers starting from ₹1199"
-      }
-    ],
-    "raw_text": "Myntra   Mega Fashion Deals 🔥🔥\n\n👕 Shirts starting from ₹199\n👉 https://myntr.in/ruqmFl\n\n👖 Men’s Trousers starting from ₹279\n👉 https://myntr.in/7urKem\n\n🕺 Kurtas starting from ₹299\n👉 https://myntr.in/XHvyld\n\n🧥 Blazers starting from ₹1199\n👉 https://myntr.in/bzjfqM",
-    "final_url": "https://myntr.in/ruqmFl",
-    "local_image": "assets/images/tgmsg_16396.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-10T07:04:26+00:00",
-    "buy_link": "https://myntr.in/ruqmFl",
-    "date_iso": "2025-11-10T07:04:26+00:00"
   }
 ]
