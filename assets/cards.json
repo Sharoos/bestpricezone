@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg16858",
+    "title": "John Jacobs Min 60% Off🔥",
+    "description": "Myntra | ⏰ Limited Time Deal ⏰ John Jacobs Min 60% Off🔥 👉 https://myntr.in/ai0IW3 Vincent Chase Under 799 🔥 👉 https://myntr.in/2HE44P",
+    "shortlink": "https://myntr.in/ai0IW3",
+    "urls": [
+      {
+        "url": "",
+        "label": "⏰ Limited Time Deal ⏰"
+      },
+      {
+        "url": "https://myntr.in/ai0IW3",
+        "label": "John Jacobs Min 60% Off🔥"
+      },
+      {
+        "url": "https://myntr.in/2HE44P",
+        "label": "Vincent Chase Under 799 🔥"
+      }
+    ],
+    "raw_text": "Myntra | ⏰ Limited Time Deal ⏰\n\nJohn Jacobs Min 60% Off🔥\n👉 https://myntr.in/ai0IW3\n\nVincent Chase Under 799 🔥\n👉 https://myntr.in/2HE44P",
+    "final_url": "https://myntr.in/ai0IW3",
+    "local_image": "assets/images/tgmsg_16858.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-13T17:10:09+00:00",
+    "buy_link": "https://myntr.in/ai0IW3",
+    "date_iso": "2025-11-13T17:10:09+00:00"
+  },
+  {
     "id": "msg16856",
     "title": "Offer Min 75 Percent Off",
     "description": "Ajio | 💥 Dnmx 👉Offer: Under Rs 299 ⚡ 💥 Yousta 👉Offer: Under Rs 199 ⚡ 💥 Azorte 👉Offer: Min 75 Percent Off ⚡ 💥 Jeans & Trousers 👉Offer: Under Rs 799 ⚡ 💥 Tshirts and Tops 👉Offer: Under Rs 299 ⚡ 💥 Kurtas and Kurtis 👉Offer:…",
@@ -9302,25 +9330,5 @@
     "date_obj": "2025-11-10T07:50:25+00:00",
     "buy_link": "https://www.amazon.in/dp/B0B4WRTVH6?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-10T07:50:25+00:00"
-  },
-  {
-    "id": "msg16402",
-    "title": "Newly Launched Kids Blankets @ min 50% Off",
-    "description": "Myntra : Newly Launched Kids Blankets @ min 50% Off 👉 https://myntr.in/yIFhFk",
-    "shortlink": "https://myntr.in/yIFhFk",
-    "urls": [
-      {
-        "url": "https://myntr.in/yIFhFk",
-        "label": "Newly Launched Kids Blankets @ min 50% Off"
-      }
-    ],
-    "raw_text": "Myntra : Newly Launched Kids Blankets @ min 50% Off\n\n👉 https://myntr.in/yIFhFk",
-    "final_url": "https://myntr.in/yIFhFk",
-    "local_image": "assets/images/tgmsg_16402.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-10T07:45:05+00:00",
-    "buy_link": "https://myntr.in/yIFhFk",
-    "date_iso": "2025-11-10T07:45:05+00:00"
   }
 ]
