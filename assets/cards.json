@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16787",
+    "title": "Up to 67% Off On Crocs 💥💥",
+    "description": "Ajio | Upto 67% Off On Crocs  💥💥 👉Link : https://ajiio.co/I4h239",
+    "shortlink": "https://ajiio.co/I4h239",
+    "urls": [
+      {
+        "url": "https://ajiio.co/I4h239",
+        "label": "Upto 67% Off On Crocs 💥💥"
+      }
+    ],
+    "raw_text": "Ajio | Upto 67% Off On Crocs  💥💥\n\n👉Link : https://ajiio.co/I4h239",
+    "final_url": "https://ajiio.co/I4h239",
+    "local_image": "assets/images/tgmsg_16787.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-13T07:31:49+00:00",
+    "buy_link": "https://ajiio.co/I4h239",
+    "date_iso": "2025-11-13T07:31:49+00:00"
+  },
+  {
     "id": "msg16784",
     "title": "💥Brands ON SALE!!!!",
     "description": "💥Ajio | Brands ON SALE!!!! ⚡Moschino, Love Moschino: Min 60 Percent Off ⚡Fossil, Ted Smith sunglasses: Min 60 Percent Off ⚡M&S: Min 50 Percent Off ⚡Raymond, Park Avenue, Parx: Min 60 Percent Off",
@@ -9178,25 +9198,5 @@
     "date_obj": "2025-11-09T14:23:40+00:00",
     "buy_link": "https://myntr.in/FDmjzv",
     "date_iso": "2025-11-09T14:23:40+00:00"
-  },
-  {
-    "id": "msg16336",
-    "title": "Up to 81% Off On Caprese Handbag",
-    "description": "Myntra | Upto 81% Off On Caprese Handbags. 👉Link : https://myntr.in/aCEP0c",
-    "shortlink": "https://myntr.in/aCEP0c",
-    "urls": [
-      {
-        "url": "https://myntr.in/aCEP0c",
-        "label": "Upto 81% Off On Caprese Handbags"
-      }
-    ],
-    "raw_text": "Myntra | Upto 81% Off On Caprese Handbags.\n\n👉Link : https://myntr.in/aCEP0c",
-    "final_url": "https://myntr.in/aCEP0c",
-    "local_image": "assets/images/tgmsg_16336.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-09T13:56:06+00:00",
-    "buy_link": "https://myntr.in/aCEP0c",
-    "date_iso": "2025-11-09T13:56:06+00:00"
   }
 ]
