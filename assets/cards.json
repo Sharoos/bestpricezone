@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg16852",
+    "title": "Up to 90% Off!",
+    "description": "Myntra | 👗 Women's Clothing -  Tokyo Talkies: Pluss: Sassafras: Style Quotient: DressBerry: HRX: Berrylush:",
+    "shortlink": "https://myntr.in/9jSfsv",
+    "urls": [
+      {
+        "url": "",
+        "label": "👗 Women's Clothing - Up to 90% Off!"
+      },
+      {
+        "url": "https://myntr.in/9jSfsv",
+        "label": "Tokyo Talkies"
+      },
+      {
+        "url": "https://myntr.in/Epsi0k",
+        "label": "Pluss"
+      },
+      {
+        "url": "https://myntr.in/QLA8Mg",
+        "label": "Sassafras"
+      },
+      {
+        "url": "https://myntr.in/F9WVe7",
+        "label": "Style Quotient"
+      },
+      {
+        "url": "https://myntr.in/CLkTb8",
+        "label": "DressBerry"
+      },
+      {
+        "url": "https://myntr.in/bS6RMN",
+        "label": "HRX"
+      },
+      {
+        "url": "https://myntr.in/QxU02z",
+        "label": "Berrylush"
+      }
+    ],
+    "raw_text": "Myntra | 👗 Women's Clothing - Up to 90% Off!\n\nTokyo Talkies: https://myntr.in/9jSfsv\nPluss: https://myntr.in/Epsi0k\nSassafras: https://myntr.in/QLA8Mg\nStyle Quotient: https://myntr.in/F9WVe7\nDressBerry: https://myntr.in/CLkTb8\nHRX: https://myntr.in/bS6RMN\nBerrylush: https://myntr.in/QxU02z",
+    "final_url": "https://myntr.in/9jSfsv",
+    "local_image": "assets/images/tgmsg_16852.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-13T15:51:30+00:00",
+    "buy_link": "https://myntr.in/9jSfsv",
+    "date_iso": "2025-11-13T15:51:30+00:00"
+  },
+  {
     "id": "msg16851",
     "title": "🛒 Deal Price ₹188 + 10 Supercoin",
     "description": "🧺 Flipkart | Jute Storage Basket Deals Jute Storage Basket (Pack of 3) 🛒 Deal Price: ₹188 + 10 Supercoins",
@@ -9158,29 +9206,5 @@
     "date_obj": "2025-11-10T07:37:23+00:00",
     "buy_link": "https://myntr.in/jEi2I0",
     "date_iso": "2025-11-10T07:37:23+00:00"
-  },
-  {
-    "id": "msg16395",
-    "title": "Cleevo Floor Cleaner 1L + Dishwash Liquid 500ml @ 149+Free Shipping",
-    "description": "Cleevo: Floor Cleaner 1L + Dishwash Liquid 500ml @ 149+Free Shipping ✅ USE CODE: JIOAC5",
-    "shortlink": "https://bitli.in/690r40z",
-    "urls": [
-      {
-        "url": "",
-        "label": "Floor Cleaner 1L + Dishwash Liquid 500ml @ 149+Free Shipping"
-      },
-      {
-        "url": "https://bitli.in/690r40z",
-        "label": "✅ USE CODE: JIOAC5"
-      }
-    ],
-    "raw_text": "Cleevo: Floor Cleaner 1L + Dishwash Liquid 500ml @ 149+Free Shipping \n\n✅ USE CODE: JIOAC5\n\nhttps://bitli.in/690r40z",
-    "final_url": "https://bitli.in/690r40z",
-    "local_image": "assets/images/tgmsg_16395.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-11-10T07:02:19+00:00",
-    "buy_link": "https://bitli.in/690r40z",
-    "date_iso": "2025-11-10T07:02:19+00:00"
   }
 ]
