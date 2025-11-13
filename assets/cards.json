@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg16783",
+    "title": "Men Polo Tshirts Starts at 140",
+    "description": "AJIO . Oversized Tshirts Starts at 190. Women : Men : Kids Clothing Boys : Girls : Infants :",
+    "shortlink": "https://ajiio.co/MjOJ1J",
+    "urls": [
+      {
+        "url": "https://ajiio.co/MjOJ1J",
+        "label": "AJIO Men Polo Tshirts Starts at 140"
+      },
+      {
+        "url": "",
+        "label": "Oversized Tshirts Starts at 190"
+      },
+      {
+        "url": "https://ajiio.co/KPe0Xf",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/WmtXRA",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Kids Clothing"
+      },
+      {
+        "url": "https://ajiio.co/I8ORqS",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/uSMM5R",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/sBmD9U",
+        "label": "Infants"
+      }
+    ],
+    "raw_text": "AJIO  Men Polo Tshirts Starts at 140.\n\nhttps://ajiio.co/MjOJ1J\n\nOversized Tshirts Starts at 190.\n\nWomen : https://ajiio.co/KPe0Xf\nMen : https://ajiio.co/WmtXRA\n\nKids Clothing \n\nBoys : https://ajiio.co/I8ORqS\nGirls : https://ajiio.co/uSMM5R\nInfants : https://ajiio.co/sBmD9U",
+    "final_url": "https://ajiio.co/MjOJ1J",
+    "local_image": "assets/images/tgmsg_16783.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-13T06:46:02+00:00",
+    "buy_link": "https://ajiio.co/MjOJ1J",
+    "date_iso": "2025-11-13T06:46:02+00:00"
+  },
+  {
     "id": "msg16777",
     "title": "Up to 85% off on Ketch Casual Shirts From ₹157",
     "description": "Flipkart : Upto 85% off on Ketch Casual Shirts From ₹157 Link: https://fkrt.co/UE2aEc",
@@ -9122,25 +9170,5 @@
     "date_obj": "2025-11-09T14:15:22+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
     "date_iso": "2025-11-09T14:15:22+00:00"
-  },
-  {
-    "id": "msg16335",
-    "title": "Pillows From 199",
-    "description": "Myntra  Pillows From 199. https://myntr.in/c43Sr5",
-    "shortlink": "https://myntr.in/c43Sr5",
-    "urls": [
-      {
-        "url": "https://myntr.in/c43Sr5",
-        "label": "Myntra Pillows From 199"
-      }
-    ],
-    "raw_text": "Myntra  Pillows From 199.\n\nhttps://myntr.in/c43Sr5",
-    "final_url": "https://myntr.in/c43Sr5",
-    "local_image": "assets/images/tgmsg_16335.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-09T13:49:47+00:00",
-    "buy_link": "https://myntr.in/c43Sr5",
-    "date_iso": "2025-11-09T13:49:47+00:00"
   }
 ]
