@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg16840",
+    "title": "At 179",
+    "description": "At 179  https://www.amazon.in/dp/B0G2651DGK?social_share=cm_sw_r_cso_wa_apin_dp_DEV1RVJA800P4DSGAJ3M&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0G2651DGK?social_share=cm_sw_r_cso_wa_apin_dp_DEV1RVJA800P4DSGAJ3M&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0G2651DGK?social_share=cm_sw_r_cso_wa_apin_dp_DEV1RVJA800P4DSGAJ3M&tag=bestpricezo0f-21",
+        "label": "At 179"
+      }
+    ],
+    "raw_text": "At 179  https://www.amazon.in/dp/B0G2651DGK?social_share=cm_sw_r_cso_wa_apin_dp_DEV1RVJA800P4DSGAJ3M&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0G2651DGK?social_share=cm_sw_r_cso_wa_apin_dp_DEV1RVJA800P4DSGAJ3M&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16840.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-13T14:16:15+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0G2651DGK?social_share=cm_sw_r_cso_wa_apin_dp_DEV1RVJA800P4DSGAJ3M&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-13T14:16:15+00:00"
+  },
+  {
+    "id": "msg16842",
+    "title": "Up to 80% Off on Perfumes Starting @ 120",
+    "description": "Ajio | Upto 80% Off on Perfumes Starting @ 120 Link : https://ajiio.co/F0eu4e",
+    "shortlink": "https://ajiio.co/F0eu4e",
+    "urls": [
+      {
+        "url": "https://ajiio.co/F0eu4e",
+        "label": "Upto 80% Off on Perfumes Starting @ 120"
+      }
+    ],
+    "raw_text": "Ajio | Upto 80% Off on Perfumes Starting @ 120\n\nLink : https://ajiio.co/F0eu4e",
+    "final_url": "https://ajiio.co/F0eu4e",
+    "local_image": "assets/images/tgmsg_16842.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-13T14:21:41+00:00",
+    "buy_link": "https://ajiio.co/F0eu4e",
+    "date_iso": "2025-11-13T14:21:41+00:00"
+  },
+  {
     "id": "msg16831",
     "title": "PARAGON K2228G Men Outdoor Sandals @₹529",
     "description": "Amazon | PARAGON K2228G Men Outdoor Sandals @₹529 💰 Offer : Apply 5% Coupon 👉…",
@@ -9174,77 +9214,5 @@
     "date_obj": "2025-11-10T06:25:58+00:00",
     "buy_link": "https://fkrt.co/cmSNcP",
     "date_iso": "2025-11-10T06:25:58+00:00"
-  },
-  {
-    "id": "msg16389",
-    "title": "Up to 85% Off On HRX Luggage",
-    "description": "Flipkart | Upto 85% Off On HRX Luggage. Small :   https://fkrt.co/NmySzU Medium :   https://fkrt.co/tUzwzp Large :   https://fkrt.co/7fCoAs Pack Of 2/3 :   https://fkrt.co/2YNImp",
-    "shortlink": "https://fkrt.co/NmySzU",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On HRX Luggage"
-      },
-      {
-        "url": "https://fkrt.co/NmySzU",
-        "label": "Small"
-      },
-      {
-        "url": "https://fkrt.co/tUzwzp",
-        "label": "Medium"
-      },
-      {
-        "url": "https://fkrt.co/7fCoAs",
-        "label": "Large"
-      },
-      {
-        "url": "https://fkrt.co/2YNImp",
-        "label": "Pack Of 2/3"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 85% Off On HRX Luggage.\n\nSmall :   https://fkrt.co/NmySzU\nMedium :   https://fkrt.co/tUzwzp\nLarge :   https://fkrt.co/7fCoAs\n\nPack Of 2/3 :   https://fkrt.co/2YNImp",
-    "final_url": "https://fkrt.co/NmySzU",
-    "local_image": "assets/images/tgmsg_16389.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-10T05:56:09+00:00",
-    "buy_link": "https://fkrt.co/NmySzU",
-    "date_iso": "2025-11-10T05:56:09+00:00"
-  },
-  {
-    "id": "msg16386",
-    "title": "+ 10% EXTRA CASH",
-    "description": "AJIO Flat 70-76% Off On Performax Clothing. Men : Shoes : Women : Shoes : + 10% EXTRA AJIO CASH",
-    "shortlink": "https://ajiio.co/tvojEI",
-    "urls": [
-      {
-        "url": "https://ajiio.co/tvojEI",
-        "label": "76% Off On Performax Clothing"
-      },
-      {
-        "url": "https://ajiio.co/5xpnv7",
-        "label": "Shoes"
-      },
-      {
-        "url": "https://ajiio.co/U4leVc",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/bxMIPv",
-        "label": "Shoes"
-      },
-      {
-        "url": "",
-        "label": "+ 10% EXTRA AJIO CASH"
-      }
-    ],
-    "raw_text": "AJIO  Flat 70-76% Off On Performax Clothing.\n\nMen : https://ajiio.co/tvojEI\nShoes : https://ajiio.co/5xpnv7\n\nWomen : https://ajiio.co/U4leVc\nShoes : https://ajiio.co/bxMIPv\n\n+ 10% EXTRA AJIO CASH",
-    "final_url": "https://ajiio.co/tvojEI",
-    "local_image": "assets/images/tgmsg_16386.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-10T05:40:53+00:00",
-    "buy_link": "https://ajiio.co/tvojEI",
-    "date_iso": "2025-11-10T05:40:53+00:00"
   }
 ]
