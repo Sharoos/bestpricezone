@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg16874",
+    "title": "Metronaut Backpacks Starts @ 219",
+    "description": "Flipkart | Metronaut Backpacks Starts @ 219. https://fkrt.co/arTTwQ",
+    "shortlink": "https://fkrt.co/arTTwQ",
+    "urls": [
+      {
+        "url": "https://fkrt.co/arTTwQ",
+        "label": "Metronaut Backpacks Starts @ 219"
+      }
+    ],
+    "raw_text": "Flipkart | Metronaut Backpacks Starts @ 219.\n\nhttps://fkrt.co/arTTwQ",
+    "final_url": "https://fkrt.co/arTTwQ",
+    "local_image": "assets/images/tgmsg_16874.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-13T18:45:42+00:00",
+    "buy_link": "https://fkrt.co/arTTwQ",
+    "date_iso": "2025-11-13T18:45:42+00:00"
+  },
+  {
+    "id": "msg16876",
+    "title": "Plastic Water Bottle Set Of 6, 1000 ML @151",
+    "description": "Amazon | Plastic Water Bottle Set Of 6, 1000 ML @151. https://www.amazon.in/dp/B07TTN4898?th=1&tag=bestpricezo0f-21 Cello H2O Round Water Bottle 1000ml @105. https://www.amazon.in/dp/B01BYBTZFO?psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B07TTN4898?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B07TTN4898?th=1&tag=bestpricezo0f-21",
+        "label": "Plastic Water Bottle Set Of 6, 1000 ML @151"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B01BYBTZFO?psc=1&tag=bestpricezo0f-21",
+        "label": "Cello H2O Round Water Bottle 1000ml @105"
+      }
+    ],
+    "raw_text": "Amazon | Plastic Water Bottle Set Of 6, 1000 ML @151.\n\nhttps://www.amazon.in/dp/B07TTN4898?th=1&tag=bestpricezo0f-21\n\nCello H2O Round Water Bottle 1000ml @105.\n\nhttps://www.amazon.in/dp/B01BYBTZFO?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B07TTN4898?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16876.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-13T18:50:06+00:00",
+    "buy_link": "https://www.amazon.in/dp/B07TTN4898?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-13T18:50:06+00:00"
+  },
+  {
     "id": "msg16864",
     "title": "Up to 83% OFF on Biba Womens Clothing",
     "description": "👉 Myntra : Upto 83% OFF on Biba Womens Clothing 🔗 https://myntr.in/0McXEi",
@@ -9290,69 +9334,5 @@
     "date_obj": "2025-11-10T10:50:30+00:00",
     "buy_link": "https://extp.in/LBC7Bk",
     "date_iso": "2025-11-10T10:50:30+00:00"
-  },
-  {
-    "id": "msg16414",
-    "title": "Popular Organisers @ min 60% off",
-    "description": "Myntra | Popular Organisers @ min 60% off 👉 Link : https://myntr.in/sD3eqF",
-    "shortlink": "https://myntr.in/sD3eqF",
-    "urls": [
-      {
-        "url": "https://myntr.in/sD3eqF",
-        "label": "Popular Organisers @ min 60% off"
-      }
-    ],
-    "raw_text": "Myntra | Popular Organisers @ min 60% off\n\n👉 Link : https://myntr.in/sD3eqF",
-    "final_url": "https://myntr.in/sD3eqF",
-    "local_image": "assets/images/tgmsg_16414.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-10T10:00:04+00:00",
-    "buy_link": "https://myntr.in/sD3eqF",
-    "date_iso": "2025-11-10T10:00:04+00:00"
-  },
-  {
-    "id": "msg16416",
-    "title": "Double Bedsheets @ 199",
-    "description": "Myntra |  👉 Fitted Bedsheets @ 229 👉 Memory Foam Bath rug @ 249 only! 👉 Single Bedsheets starting @ 159 👉 Set of 2 bathrugs @249 👉 Double Bed Mink Blanket @799 only 👉 Winter Blankets starting @ 349 only! 👉",
-    "shortlink": "https://myntr.in/qAKcMT",
-    "urls": [
-      {
-        "url": "https://myntr.in/qAKcMT",
-        "label": "Double Bedsheets @ 199"
-      },
-      {
-        "url": "https://myntr.in/OhOOk3",
-        "label": "Fitted Bedsheets @ 229"
-      },
-      {
-        "url": "https://myntr.in/wUPbF6",
-        "label": "Memory Foam Bath rug @ 249 only!"
-      },
-      {
-        "url": "https://myntr.in/yEHpcp",
-        "label": "Single Bedsheets starting @ 159"
-      },
-      {
-        "url": "https://myntr.in/sbRZgc",
-        "label": "Set of 2 bathrugs @249"
-      },
-      {
-        "url": "https://myntr.in/vwbxBb",
-        "label": "Double Bed Mink Blanket @799 only"
-      },
-      {
-        "url": "https://myntr.in/G23Wcf",
-        "label": "Winter Blankets starting @ 349 only!"
-      }
-    ],
-    "raw_text": "Myntra | Double Bedsheets @ 199\n👉 https://myntr.in/qAKcMT\n\nFitted Bedsheets @ 229\n👉 https://myntr.in/OhOOk3\n\nMemory Foam Bath rug @ 249 only!\n👉 https://myntr.in/wUPbF6\n\nSingle Bedsheets starting @ 159\n👉 https://myntr.in/yEHpcp\n\nSet of 2 bathrugs @249\n👉 https://myntr.in/sbRZgc\n\nDouble Bed Mink Blanket @799 only\n👉 https://myntr.in/vwbxBb\n\nWinter Blankets starting @ 349 only!\n👉 https://myntr.in/G23Wcf",
-    "final_url": "https://myntr.in/qAKcMT",
-    "local_image": "assets/images/tgmsg_16416.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-10T10:10:03+00:00",
-    "buy_link": "https://myntr.in/qAKcMT",
-    "date_iso": "2025-11-10T10:10:03+00:00"
   }
 ]
