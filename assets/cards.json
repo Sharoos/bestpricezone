@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg16790",
+    "title": "Extra 5% Discount On Prepaid Payment",
+    "description": "Noise Buds N1 Pro @1329 ✅ USE CODE : SAVE200 👉 https://extp.in/PH5XGY • Extra 5% Discount On Prepaid Payment",
+    "shortlink": "https://extp.in/PH5XGY",
+    "urls": [
+      {
+        "url": "",
+        "label": "Noise Buds N1 Pro @1329"
+      },
+      {
+        "url": "https://extp.in/PH5XGY",
+        "label": "✅ USE CODE : SAVE200"
+      },
+      {
+        "url": "",
+        "label": "Extra 5% Discount On Prepaid Payment"
+      }
+    ],
+    "raw_text": "Noise Buds N1 Pro @1329\n\n✅ USE CODE : SAVE200\n\n👉 https://extp.in/PH5XGY\n\n• Extra 5% Discount On Prepaid Payment",
+    "final_url": "https://extp.in/PH5XGY",
+    "local_image": "assets/images/tgmsg_16790.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-11-13T07:50:16+00:00",
+    "buy_link": "https://extp.in/PH5XGY",
+    "date_iso": "2025-11-13T07:50:16+00:00"
+  },
+  {
     "id": "msg16788",
     "title": "🛒 Deal Price ₹153",
     "description": "Meesho | Banarasi Silk Kanjivaram Saree With Blouse Piece 🛒 Deal Price : ₹153 👉 👉 👉 👉 👉 👉 👉 👉 👉",
@@ -9222,37 +9250,5 @@
     "date_obj": "2025-11-09T14:46:52+00:00",
     "buy_link": "https://ajiio.co/kuvZ4g",
     "date_iso": "2025-11-09T14:46:52+00:00"
-  },
-  {
-    "id": "msg16340",
-    "title": "Just pay ₹20 on your first payment and get flat ₹20 cashback 💸",
-    "description": "🚨 Free ₹20 via BHIM! Just pay ₹20 on your first payment and get flat ₹20 cashback  💸 Last day of the offer ⏳ 👉 Download Now: https://bitli.in/3a32lxc",
-    "shortlink": "https://bitli.in/3a32lxc",
-    "urls": [
-      {
-        "url": "",
-        "label": "🚨 Free ₹20 via BHIM!"
-      },
-      {
-        "url": "",
-        "label": "Just pay ₹20 on your first payment and get flat ₹20 cashback 💸"
-      },
-      {
-        "url": "",
-        "label": "Last day of the offer ⏳"
-      },
-      {
-        "url": "https://bitli.in/3a32lxc",
-        "label": "Download Now"
-      }
-    ],
-    "raw_text": "🚨 Free ₹20 via BHIM!\n\nJust pay ₹20 on your first payment and get flat ₹20 cashback  💸\n\nLast day of the offer ⏳\n\n👉 Download Now: https://bitli.in/3a32lxc",
-    "final_url": "https://bitli.in/3a32lxc",
-    "local_image": "assets/images/tgmsg_16340.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-11-09T14:32:10+00:00",
-    "buy_link": "https://bitli.in/3a32lxc",
-    "date_iso": "2025-11-09T14:32:10+00:00"
   }
 ]
