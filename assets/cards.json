@@ -1,5 +1,93 @@
 [
   {
+    "id": "msg16910",
+    "title": "🛒 Deal Price ₹11999",
+    "description": "Amazon | 💻 Gaming Monitor Deals Zebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate 🛒 Deal Price: ₹11999",
+    "shortlink": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "💻 Gaming Monitor Deals"
+      },
+      {
+        "url": "",
+        "label": "Zebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹11999"
+      }
+    ],
+    "raw_text": "Amazon | 💻 Gaming Monitor Deals\n\nZebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate\n🛒 Deal Price: ₹11999\n\nhttps://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16910.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-14T05:20:53+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-14T05:20:53+00:00"
+  },
+  {
+    "id": "msg16911",
+    "title": "Up to 80% Off on Women",
+    "description": "Myntra | Upto 80% Off on Women-Sunglasses Starting @ just ₹449 Link : https://myntr.in/x7p58s",
+    "shortlink": "https://myntr.in/x7p58s",
+    "urls": [
+      {
+        "url": "https://myntr.in/x7p58s",
+        "label": "Upto 80% Off on Women-Sunglasses Starting @ just ₹449"
+      }
+    ],
+    "raw_text": "Myntra | Upto 80% Off on Women-Sunglasses Starting @ just ₹449\n \nLink : https://myntr.in/x7p58s",
+    "final_url": "https://myntr.in/x7p58s",
+    "local_image": "assets/images/tgmsg_16911.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-14T05:25:48+00:00",
+    "buy_link": "https://myntr.in/x7p58s",
+    "date_iso": "2025-11-14T05:25:48+00:00"
+  },
+  {
+    "id": "msg16913",
+    "title": "Up to 84% Off on Gym Fitness Kits Starting @₹176🔥🔥🔥🔥",
+    "description": "Flipkart | UPTO 84% Off on Gym Fitness Kits Starting @₹176🔥🔥🔥🔥 🔗🔗Links : https://fkrt.co/NvBB2h",
+    "shortlink": "https://fkrt.co/NvBB2h",
+    "urls": [
+      {
+        "url": "https://fkrt.co/NvBB2h",
+        "label": "UPTO 84% Off on Gym Fitness Kits Starting @₹176🔥🔥🔥🔥"
+      }
+    ],
+    "raw_text": "Flipkart | UPTO 84% Off on Gym Fitness Kits Starting @₹176🔥🔥🔥🔥 \n \n🔗🔗Links : https://fkrt.co/NvBB2h",
+    "final_url": "https://fkrt.co/NvBB2h",
+    "local_image": "assets/images/tgmsg_16913.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-14T05:33:38+00:00",
+    "buy_link": "https://fkrt.co/NvBB2h",
+    "date_iso": "2025-11-14T05:33:38+00:00"
+  },
+  {
+    "id": "msg16914",
+    "title": "Min 80% off On HAUTE SAUCE Women's handbag",
+    "description": "Myntra | Min 80% off On HAUTE SAUCE Women's handbags https://myntr.in/yFEdyt",
+    "shortlink": "https://myntr.in/yFEdyt",
+    "urls": [
+      {
+        "url": "https://myntr.in/yFEdyt",
+        "label": "Min 80% off On HAUTE SAUCE Women's handbags"
+      }
+    ],
+    "raw_text": "Myntra | Min 80% off On HAUTE SAUCE Women's handbags\n\nhttps://myntr.in/yFEdyt",
+    "final_url": "https://myntr.in/yFEdyt",
+    "local_image": "assets/images/tgmsg_16914.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-14T05:35:59+00:00",
+    "buy_link": "https://myntr.in/yFEdyt",
+    "date_iso": "2025-11-14T05:35:59+00:00"
+  },
+  {
     "id": "msg16906",
     "title": "METRONAUT Laptop Backpack at RS.303",
     "description": "Flipkart | METRONAUT Laptop Backpack at RS.303 https://fkrt.co/sIRNWo",
@@ -9018,93 +9106,5 @@
     "date_obj": "2025-11-10T13:02:58+00:00",
     "buy_link": "https://www.amazon.in/pb-com/s?k=Sonata%20Men%27s%20Watches&refresh=1&rh=p_123%3A318887%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&tag=bestpricezo0f-21",
     "date_iso": "2025-11-10T13:02:58+00:00"
-  },
-  {
-    "id": "msg16442",
-    "title": "HAVELLS Dazzle 1100 W Dry Iron (Black) @ ₹649",
-    "description": "Flipkart | HAVELLS Dazzle 1100 W Dry Iron (Black) @ ₹649 👉https://fkrt.co/4tdxVP",
-    "shortlink": "https://fkrt.co/4tdxVP",
-    "urls": [
-      {
-        "url": "https://fkrt.co/4tdxVP",
-        "label": "HAVELLS Dazzle 1100 W Dry Iron (Black) @ ₹649"
-      }
-    ],
-    "raw_text": "Flipkart | HAVELLS Dazzle 1100 W Dry Iron (Black) @ ₹649\n\n👉https://fkrt.co/4tdxVP",
-    "final_url": "https://fkrt.co/4tdxVP",
-    "local_image": "assets/images/tgmsg_16442.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-10T13:15:18+00:00",
-    "buy_link": "https://fkrt.co/4tdxVP",
-    "date_iso": "2025-11-10T13:15:18+00:00"
-  },
-  {
-    "id": "msg16431",
-    "title": "ACTIVA HOTLINE 5 STAR 15 L Storage Water Geyser (White) @3703",
-    "description": "Flipkart | ACTIVA HOTLINE 5 STAR 15 L Storage Water Geyser  (White) @3703 👉 https://fkrt.co/r9XWCB",
-    "shortlink": "https://fkrt.co/r9XWCB",
-    "urls": [
-      {
-        "url": "https://fkrt.co/r9XWCB",
-        "label": "ACTIVA HOTLINE 5 STAR 15 L Storage Water Geyser (White) @3703"
-      }
-    ],
-    "raw_text": "Flipkart | ACTIVA HOTLINE 5 STAR 15 L Storage Water Geyser  (White) @3703\n\n👉 https://fkrt.co/r9XWCB",
-    "final_url": "https://fkrt.co/r9XWCB",
-    "local_image": "assets/images/tgmsg_16431.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-10T12:02:26+00:00",
-    "buy_link": "https://fkrt.co/r9XWCB",
-    "date_iso": "2025-11-10T12:02:26+00:00"
-  },
-  {
-    "id": "msg16432",
-    "title": "Up to 85% off on Ketch Casual Shirts From ₹180",
-    "description": "Flipkart : Upto 85% off on Ketch Casual Shirts From ₹180 Link: https://fkrt.co/WAa9M6",
-    "shortlink": "https://fkrt.co/WAa9M6",
-    "urls": [
-      {
-        "url": "https://fkrt.co/WAa9M6",
-        "label": "Upto 85% off on Ketch Casual Shirts From ₹180"
-      }
-    ],
-    "raw_text": "Flipkart : Upto 85% off on Ketch Casual Shirts From ₹180\n\nLink: https://fkrt.co/WAa9M6",
-    "final_url": "https://fkrt.co/WAa9M6",
-    "local_image": "assets/images/tgmsg_16432.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-10T12:04:42+00:00",
-    "buy_link": "https://fkrt.co/WAa9M6",
-    "date_iso": "2025-11-10T12:04:42+00:00"
-  },
-  {
-    "id": "msg16434",
-    "title": "🛒 Deal Price ₹157",
-    "description": "Meesho | 🧥 Men's Jacket Deals 🛒 Deal Price: ₹157 👉 https://msho.in/6fEQfy 👉 https://msho.in/v0ccF3",
-    "shortlink": "https://msho.in/6fEQfy",
-    "urls": [
-      {
-        "url": "",
-        "label": "🧥 Men's Jacket Deals"
-      },
-      {
-        "url": "https://msho.in/6fEQfy",
-        "label": "🛒 Deal Price: ₹157"
-      },
-      {
-        "url": "https://msho.in/v0ccF3",
-        "label": "🛒 Deal Price: ₹157"
-      }
-    ],
-    "raw_text": "Meesho | 🧥 Men's Jacket Deals\n\n🛒 Deal Price: ₹157\n\n👉 https://msho.in/6fEQfy\n👉 https://msho.in/v0ccF3",
-    "final_url": "https://msho.in/6fEQfy",
-    "local_image": "assets/images/tgmsg_16434.jpg",
-    "source_host": "msho.in",
-    "merchant_label": "Msho",
-    "date_obj": "2025-11-10T12:15:09+00:00",
-    "buy_link": "https://msho.in/6fEQfy",
-    "date_iso": "2025-11-10T12:15:09+00:00"
   }
 ]
