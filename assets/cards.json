@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg16937",
+    "title": "Flat 20% OFF + extra 10%",
+    "description": "Myntra |  Loreal Professional Absolut Repair Shampoo  LOreal Professional Xtenso Care Shampoo",
+    "shortlink": "https://myntr.in/s1sZYy",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flat 20% OFF + extra 10%"
+      },
+      {
+        "url": "https://myntr.in/s1sZYy",
+        "label": "Loreal Professional Absolut Repair Shampoo"
+      },
+      {
+        "url": "https://myntr.in/BCi7mQ",
+        "label": "LOreal Professional Xtenso Care Shampoo"
+      }
+    ],
+    "raw_text": "Myntra | Flat 20% OFF + extra 10%\nLoreal Professional Absolut Repair Shampoo\nhttps://myntr.in/s1sZYy\n\nFlat 20% OFF + extra 10%\nLOreal Professional Xtenso Care Shampoo \nhttps://myntr.in/BCi7mQ",
+    "final_url": "https://myntr.in/s1sZYy",
+    "local_image": "assets/images/tgmsg_16937.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-14T07:25:55+00:00",
+    "buy_link": "https://myntr.in/s1sZYy",
+    "date_iso": "2025-11-14T07:25:55+00:00"
+  },
+  {
     "id": "msg16933",
     "title": "AGARO Regal Vibration Plate Massager @6099",
     "description": "Amazon | AGARO Regal Vibration Plate Massager @6099 https://www.amazon.in/dp/B0DHGJ7PF6?th=1&psc=1&tag=bestpricezo0f-21",
@@ -9138,69 +9166,5 @@
     "date_obj": "2025-11-10T16:17:19+00:00",
     "buy_link": "https://www.amazon.in/dp/B07YY7YPLT?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-10T16:17:19+00:00"
-  },
-  {
-    "id": "msg16464",
-    "title": "✅ 5% Cashback on UPI Payment",
-    "description": "🔰 Apply for Lifetime FREE KIWI Credit Card & Earn Cashback on Every Transaction 😱😱 👉 Apply Now : 🔴 Eligibility Criteria: ✅Joining Fee: NIL ✅Annual Renewal: LIFETIME FREE ✅Age Limit: 21 to 60 years ✅Employment: Salaried…",
-    "shortlink": "https://extp.in/wtZWom",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔰 Apply for Lifetime FREE KIWI Credit Card & Earn Cashback on Every Transaction 😱😱"
-      },
-      {
-        "url": "https://extp.in/wtZWom",
-        "label": "Apply Now"
-      },
-      {
-        "url": "",
-        "label": "🔴 Eligibility Criteria"
-      },
-      {
-        "url": "",
-        "label": "✅Joining Fee: NIL"
-      },
-      {
-        "url": "",
-        "label": "✅Annual Renewal: LIFETIME FREE"
-      },
-      {
-        "url": "",
-        "label": "✅Age Limit: 21 to 60 years"
-      },
-      {
-        "url": "",
-        "label": "✅Employment: Salaried individuals"
-      },
-      {
-        "url": "",
-        "label": "✅Credit Score: 650+"
-      },
-      {
-        "url": "",
-        "label": "✅ 5% Cashback on UPI Payments"
-      },
-      {
-        "url": "",
-        "label": "✅ Instant Virtual Card"
-      },
-      {
-        "url": "",
-        "label": "✅ 3 Free Airport Lounge Access (on reaching milestones)"
-      },
-      {
-        "url": "",
-        "label": "✅ No Joining or Annual Fees – Ever!"
-      }
-    ],
-    "raw_text": "🔰 Apply for Lifetime FREE KIWI Credit Card & Earn Cashback on Every Transaction 😱😱\n\n👉 Apply Now : https://extp.in/wtZWom\n\n🔴 Eligibility Criteria:\n✅Joining Fee: NIL\n✅Annual Renewal: LIFETIME FREE\n✅Age Limit: 21 to 60 years\n✅Employment: Salaried individuals\n✅Credit Score: 650+\n\n🔰 Benefits:\n✅ 5% Cashback on UPI Payments\n✅ Instant Virtual Card\n✅ 3 Free Airport Lounge Access (on reaching milestones)\n✅ No Joining or Annual Fees – Ever!\n\n🔴 Note: One of the BEST CREDIT CARDS available right now 😀",
-    "final_url": "https://extp.in/wtZWom",
-    "local_image": "assets/images/tgmsg_16464.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-10T16:20:33+00:00",
-    "buy_link": "https://extp.in/wtZWom",
-    "date_iso": "2025-11-10T16:20:33+00:00"
   }
 ]
