@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg16938",
+    "title": "Up to 65% Off On Adidas Shoe",
+    "description": "Ajio : Upto 65% Off On Adidas Shoes. Men’s : Women’s : Adidas Originals. Men’s : Women’s :",
+    "shortlink": "https://ajiio.in/r4FE27H",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 65% Off On Adidas Shoes"
+      },
+      {
+        "url": "https://ajiio.in/r4FE27H",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.in/d5tq8Zh",
+        "label": "Women’s"
+      },
+      {
+        "url": "",
+        "label": "Adidas Originals"
+      },
+      {
+        "url": "https://ajiio.in/7qgRWpo",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.in/dTD7MRN",
+        "label": "Women’s"
+      }
+    ],
+    "raw_text": "Ajio : Upto 65% Off On Adidas Shoes. \n\nMen’s : https://ajiio.in/r4FE27H\nWomen’s : https://ajiio.in/d5tq8Zh\n\nAdidas Originals. \nMen’s : https://ajiio.in/7qgRWpo\nWomen’s : https://ajiio.in/dTD7MRN",
+    "final_url": "https://ajiio.in/r4FE27H",
+    "local_image": "assets/images/tgmsg_16938.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-14T07:43:39+00:00",
+    "buy_link": "https://ajiio.in/r4FE27H",
+    "date_iso": "2025-11-14T07:43:39+00:00"
+  },
+  {
     "id": "msg16937",
     "title": "Flat 20% OFF + extra 10%",
     "description": "Myntra |  Loreal Professional Absolut Repair Shampoo  LOreal Professional Xtenso Care Shampoo",
@@ -9142,29 +9182,5 @@
     "date_obj": "2025-11-10T16:47:35+00:00",
     "buy_link": "https://ajiio.co/d6MIBY",
     "date_iso": "2025-11-10T16:47:35+00:00"
-  },
-  {
-    "id": "msg16463",
-    "title": "Park Avenue Combo Kit @ 578",
-    "description": "Amazon: Park Avenue Combo Kit @ 578. 👉 https://www.amazon.in/dp/B07YY7YPLT?psc=1&tag=bestpricezo0f-21 L'Oreal Paris Foaming Face Cleanser, 50ml @ 156. 👉 https://www.amazon.in/dp/B0B9RFCS5S?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07YY7YPLT?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07YY7YPLT?psc=1&tag=bestpricezo0f-21",
-        "label": "Park Avenue Combo Kit @ 578"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0B9RFCS5S?psc=1&tag=bestpricezo0f-21",
-        "label": "L'Oreal Paris Foaming Face Cleanser, 50ml @ 156"
-      }
-    ],
-    "raw_text": "Amazon: Park Avenue Combo Kit @ 578.\n\n👉 https://www.amazon.in/dp/B07YY7YPLT?psc=1&tag=bestpricezo0f-21\n\nL'Oreal Paris Foaming Face Cleanser, 50ml @ 156.\n\n👉 https://www.amazon.in/dp/B0B9RFCS5S?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07YY7YPLT?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16463.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-10T16:17:19+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07YY7YPLT?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-10T16:17:19+00:00"
   }
 ]
