@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16992",
+    "title": "129",
+    "description": "129  :  https://www.amazon.in/dp/B0FFZHF1YK?social_share=cm_sw_r_cso_wa_apin_dp_A7XS6Q5H1A4HM51JXH39&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FFZHF1YK?social_share=cm_sw_r_cso_wa_apin_dp_A7XS6Q5H1A4HM51JXH39&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FFZHF1YK?social_share=cm_sw_r_cso_wa_apin_dp_A7XS6Q5H1A4HM51JXH39&tag=bestpricezo0f-21",
+        "label": "129"
+      }
+    ],
+    "raw_text": "129  :  https://www.amazon.in/dp/B0FFZHF1YK?social_share=cm_sw_r_cso_wa_apin_dp_A7XS6Q5H1A4HM51JXH39&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FFZHF1YK?social_share=cm_sw_r_cso_wa_apin_dp_A7XS6Q5H1A4HM51JXH39&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16992.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-14T13:49:34+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FFZHF1YK?social_share=cm_sw_r_cso_wa_apin_dp_A7XS6Q5H1A4HM51JXH39&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-14T13:49:34+00:00"
+  },
+  {
     "id": "msg16987",
     "title": "Extra Discount On UPI Payment",
     "description": "GRAB : Noise Buds Uno @996 ✅ USE CODE : FLAT350 👉 Link : https://extp.in/o1t5d2 • Extra Discount On UPI Payment.",
@@ -9502,25 +9522,5 @@
     "date_obj": "2025-11-10T19:27:31+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CPPVQX4H?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-10T19:27:31+00:00"
-  },
-  {
-    "id": "msg16508",
-    "title": "78% Off On Smart & Handsome Facewash",
-    "description": "Myntra  70-78% Off On Smart & Handsome Facewash. https://myntr.in/YU1h7f",
-    "shortlink": "https://myntr.in/YU1h7f",
-    "urls": [
-      {
-        "url": "https://myntr.in/YU1h7f",
-        "label": "78% Off On Smart & Handsome Facewash"
-      }
-    ],
-    "raw_text": "Myntra  70-78% Off On Smart & Handsome Facewash.\n\nhttps://myntr.in/YU1h7f",
-    "final_url": "https://myntr.in/YU1h7f",
-    "local_image": "assets/images/tgmsg_16508.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-10T19:29:29+00:00",
-    "buy_link": "https://myntr.in/YU1h7f",
-    "date_iso": "2025-11-10T19:29:29+00:00"
   }
 ]
