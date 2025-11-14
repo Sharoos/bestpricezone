@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg16932",
+    "title": "Up to 85% Off On Libas Women Clothing",
+    "description": "Myntra | Upto 85% Off On Libas Women Clothing. https://myntr.in/P3Ma8O Kurta : https://myntr.in/21qiy7 Kurta Sets : https://myntr.in/Q1ny4p",
+    "shortlink": "https://myntr.in/P3Ma8O",
+    "urls": [
+      {
+        "url": "https://myntr.in/P3Ma8O",
+        "label": "Upto 85% Off On Libas Women Clothing"
+      },
+      {
+        "url": "https://myntr.in/21qiy7",
+        "label": "Kurta"
+      },
+      {
+        "url": "https://myntr.in/Q1ny4p",
+        "label": "Kurta Sets"
+      }
+    ],
+    "raw_text": "Myntra | Upto 85% Off On Libas Women Clothing.\n\nhttps://myntr.in/P3Ma8O\n\nKurta : https://myntr.in/21qiy7\nKurta Sets : https://myntr.in/Q1ny4p",
+    "final_url": "https://myntr.in/P3Ma8O",
+    "local_image": "assets/images/tgmsg_16932.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-14T06:47:13+00:00",
+    "buy_link": "https://myntr.in/P3Ma8O",
+    "date_iso": "2025-11-14T06:47:13+00:00"
+  },
+  {
     "id": "msg16922",
     "title": "Wrogn Duffel Bags Up to 86% Off",
     "description": "Flipkart | Wrogn Duffel Bags Upto 86% Off 👉https://fkrt.co/gPjIKB",
@@ -9194,25 +9222,5 @@
     "date_obj": "2025-11-10T15:32:39+00:00",
     "buy_link": "https://fkrt.co/gj8wCB",
     "date_iso": "2025-11-10T15:32:39+00:00"
-  },
-  {
-    "id": "msg16456",
-    "title": "boAt Wave Fury Calling Smartwatch @1399",
-    "description": "Flipkart | boAt Wave Fury Calling Smartwatch @1399 https://fkrt.co/viJVpq",
-    "shortlink": "https://fkrt.co/viJVpq",
-    "urls": [
-      {
-        "url": "https://fkrt.co/viJVpq",
-        "label": "boAt Wave Fury Calling Smartwatch @1399"
-      }
-    ],
-    "raw_text": "Flipkart | boAt Wave Fury Calling Smartwatch @1399\n\nhttps://fkrt.co/viJVpq",
-    "final_url": "https://fkrt.co/viJVpq",
-    "local_image": "assets/images/tgmsg_16456.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-10T15:05:18+00:00",
-    "buy_link": "https://fkrt.co/viJVpq",
-    "date_iso": "2025-11-10T15:05:18+00:00"
   }
 ]
