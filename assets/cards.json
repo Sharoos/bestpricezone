@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg16965",
+    "title": "Lowest CMF by Nothing Charge",
+    "description": "Flipkart Lowest : CMF by Nothing Chargers Starts @899. 👉 https://fkrt.co/LtlAVW",
+    "shortlink": "https://fkrt.co/LtlAVW",
+    "urls": [
+      {
+        "url": "",
+        "label": "CMF by Nothing Chargers"
+      },
+      {
+        "url": "https://fkrt.co/LtlAVW",
+        "label": "Starts @899"
+      }
+    ],
+    "raw_text": "Flipkart Lowest : CMF by Nothing Chargers\nStarts @899.\n\n👉 https://fkrt.co/LtlAVW",
+    "final_url": "https://fkrt.co/LtlAVW",
+    "local_image": "assets/images/tgmsg_16965.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-14T11:33:44+00:00",
+    "buy_link": "https://fkrt.co/LtlAVW",
+    "date_iso": "2025-11-14T11:33:44+00:00"
+  },
+  {
     "id": "msg16959",
     "title": "Del Monte Tomato Ketchup",
     "description": "Amazon | Del Monte Tomato Ketchup- 900g at ₹76 Mn 2 Buy : https://www.amazon.in/dp/B07F26ZS1K?tag=bestpricezo0f-21",
@@ -9306,25 +9330,5 @@
     "date_obj": "2025-11-10T19:04:42+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FM8DJBY8?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-10T19:04:42+00:00"
-  },
-  {
-    "id": "msg16481",
-    "title": "Havells 1500W Immersion Rod @599",
-    "description": "Amazon | Havells 1500W Immersion Rod @599 https://www.amazon.in/dp/B0BLJ3FJRJ?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0BLJ3FJRJ?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BLJ3FJRJ?th=1&tag=bestpricezo0f-21",
-        "label": "Havells 1500W Immersion Rod @599"
-      }
-    ],
-    "raw_text": "Amazon | Havells 1500W Immersion Rod @599\n\nhttps://www.amazon.in/dp/B0BLJ3FJRJ?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BLJ3FJRJ?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16481.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-10T18:39:27+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BLJ3FJRJ?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-10T18:39:27+00:00"
   }
 ]
