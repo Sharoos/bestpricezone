@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg17003",
+    "title": "Up to 85% Off On Men’s Branded Clothing 🔥🔥",
+    "description": "Myntra Upto 85% Off On Men’s Branded Clothing 🔥🔥 Shirts Starts @199 : Trousers Starts @279 : Kurtas Starts @299 : Blazers Starts @1199 :",
+    "shortlink": "https://myntr.in/D98qmJ",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Upto 85% Off On Men’s Branded Clothing 🔥🔥"
+      },
+      {
+        "url": "https://myntr.in/D98qmJ",
+        "label": "Shirts Starts @199"
+      },
+      {
+        "url": "https://myntr.in/uSWsUi",
+        "label": "Trousers Starts @279"
+      },
+      {
+        "url": "https://myntr.in/Vgkgam",
+        "label": "Kurtas Starts @299"
+      },
+      {
+        "url": "https://myntr.in/30my3w",
+        "label": "Blazers Starts @1199"
+      }
+    ],
+    "raw_text": "Myntra  Upto 85% Off On Men’s Branded Clothing 🔥🔥\n\nShirts Starts @199 : https://myntr.in/D98qmJ\nTrousers Starts @279 : https://myntr.in/uSWsUi\nKurtas Starts @299 : https://myntr.in/Vgkgam\nBlazers Starts @1199 : https://myntr.in/30my3w",
+    "final_url": "https://myntr.in/D98qmJ",
+    "local_image": "assets/images/tgmsg_17003.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-14T14:54:45+00:00",
+    "buy_link": "https://myntr.in/D98qmJ",
+    "date_iso": "2025-11-14T14:54:45+00:00"
+  },
+  {
     "id": "msg17002",
     "title": "🔥Double Bed Cotton Bedsheets under 599",
     "description": "🔥Myntra | Double Bed Cotton Bedsheets under 599 👉https://myntr.in/uX7P9o",
@@ -9574,25 +9610,5 @@
     "date_obj": "2025-11-11T03:33:33+00:00",
     "buy_link": "https://ajiio.co/2VpTUz",
     "date_iso": "2025-11-11T03:33:33+00:00"
-  },
-  {
-    "id": "msg16526",
-    "title": "Up to 80% Off on Perfumes Starting @ 120",
-    "description": "Ajio | Upto 80% Off on Perfumes Starting @ 120 Link : https://ajiio.co/IvnlGm",
-    "shortlink": "https://ajiio.co/IvnlGm",
-    "urls": [
-      {
-        "url": "https://ajiio.co/IvnlGm",
-        "label": "Upto 80% Off on Perfumes Starting @ 120"
-      }
-    ],
-    "raw_text": "Ajio | Upto 80% Off on Perfumes Starting @ 120\n\nLink : https://ajiio.co/IvnlGm",
-    "final_url": "https://ajiio.co/IvnlGm",
-    "local_image": "assets/images/tgmsg_16526.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-11T03:47:52+00:00",
-    "buy_link": "https://ajiio.co/IvnlGm",
-    "date_iso": "2025-11-11T03:47:52+00:00"
   }
 ]
