@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg16948",
+    "title": "Eveready 7W LED Bulb + 2 AA Batteries @ 100",
+    "description": "Amazon | Eveready 7W LED Bulb + 2 AA Batteries @ 100. 👉https://www.amazon.in/dp/B01HDCRQMW?psc=1&th=1&tag=bestpricezo0f-21 Min Buy - 2 Qty",
+    "shortlink": "https://www.amazon.in/dp/B01HDCRQMW?psc=1&th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B01HDCRQMW?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "Eveready 7W LED Bulb + 2 AA Batteries @ 100"
+      }
+    ],
+    "raw_text": "Amazon | Eveready 7W LED Bulb + 2 AA Batteries @ 100.\n\n👉https://www.amazon.in/dp/B01HDCRQMW?psc=1&th=1&tag=bestpricezo0f-21\n\nMin Buy - 2 Qty",
+    "final_url": "https://www.amazon.in/dp/B01HDCRQMW?psc=1&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_16948.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-14T09:00:50+00:00",
+    "buy_link": "https://www.amazon.in/dp/B01HDCRQMW?psc=1&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-14T09:00:50+00:00"
+  },
+  {
     "id": "msg16946",
     "title": "🤜 Use Code Flat350 [Get INR 350 off + INR 52 UPI discount]",
     "description": "Grab : Noise Buds Uno - 40H Playtime, Instacharge, Quad mic ENC @ Rs.996 🔥🔥 🤜 Use Code: Flat350 [Get INR 350 off + INR 52 UPI discount] 👉🏻Link : ✅ Note : Other Websites Selling same At 1399",
@@ -9290,29 +9310,5 @@
     "date_obj": "2025-11-10T18:29:24+00:00",
     "buy_link": "https://myntr.in/ZcKMo7",
     "date_iso": "2025-11-10T18:29:24+00:00"
-  },
-  {
-    "id": "msg16479",
-    "title": "Apply 45% Off",
-    "description": "Amazon | Apply 45% Off Coupon https://www.amazon.in/dp/B0FBMDZG99?th=1&psc=1&tag=bestpricezo0f-21 Apply 40% Off Coupon https://www.amazon.in/dp/B0FBX531ZH?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FBMDZG99?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FBMDZG99?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": ""
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0FBX531ZH?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": ""
-      }
-    ],
-    "raw_text": "Amazon | Apply 45% Off Coupon \n\nhttps://www.amazon.in/dp/B0FBMDZG99?th=1&psc=1&tag=bestpricezo0f-21\n\nApply 40% Off Coupon \n\nhttps://www.amazon.in/dp/B0FBX531ZH?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FBMDZG99?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16479.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-10T18:37:44+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FBMDZG99?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-10T18:37:44+00:00"
   }
 ]
