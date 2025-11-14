@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17023",
+    "title": "Skybags Suitcases Up to 80% Off @1999",
+    "description": "Flipkart | Skybags Suitcases upto 80% Off @1999 👉 https://fkrt.co/4hg9OF",
+    "shortlink": "https://fkrt.co/4hg9OF",
+    "urls": [
+      {
+        "url": "https://fkrt.co/4hg9OF",
+        "label": "Skybags Suitcases upto 80% Off @1999"
+      }
+    ],
+    "raw_text": "Flipkart | Skybags Suitcases upto 80% Off @1999\n\n👉 https://fkrt.co/4hg9OF",
+    "final_url": "https://fkrt.co/4hg9OF",
+    "local_image": "assets/images/tgmsg_17023.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-14T17:45:51+00:00",
+    "buy_link": "https://fkrt.co/4hg9OF",
+    "date_iso": "2025-11-14T17:45:51+00:00"
+  },
+  {
     "id": "msg17021",
     "title": "Electric Kettles starts from Rs599 + 🔥🔥",
     "description": "Myntra : Electric Kettles starts from Rs599 + Coupon 🔥🔥 Link: https://myntr.in/AZsHv4",
@@ -9590,29 +9610,5 @@
     "date_obj": "2025-11-11T06:45:58+00:00",
     "buy_link": "https://ajiio.co/jUegWQ",
     "date_iso": "2025-11-11T06:45:58+00:00"
-  },
-  {
-    "id": "msg16547",
-    "title": "71% Off On Branded Body Lotion",
-    "description": "Myntra : 50-71% Off On Branded Body Lotions. 👉https://myntr.in/8ZGVQ9 (Ponds, Nivea, Vaseline, Parachute, Etc)",
-    "shortlink": "https://myntr.in/8ZGVQ9",
-    "urls": [
-      {
-        "url": "https://myntr.in/8ZGVQ9",
-        "label": "50-71% Off On Branded Body Lotions"
-      },
-      {
-        "url": "",
-        "label": "(Ponds, Nivea, Vaseline, Parachute, Etc)"
-      }
-    ],
-    "raw_text": "Myntra : 50-71% Off On Branded Body Lotions.\n\n👉https://myntr.in/8ZGVQ9\n\n(Ponds, Nivea, Vaseline, Parachute, Etc)",
-    "final_url": "https://myntr.in/8ZGVQ9",
-    "local_image": "assets/images/tgmsg_16547.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-11T06:02:32+00:00",
-    "buy_link": "https://myntr.in/8ZGVQ9",
-    "date_iso": "2025-11-11T06:02:32+00:00"
   }
 ]
