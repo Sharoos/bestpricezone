@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg17053",
+    "title": "Levi’s Jeans Starts at ₹650",
+    "description": "AJIO  Levi’s Jeans Starts at ₹650. https://ajiio.co/uPgASe Men’s : https://ajiio.co/ZL0L7W Women’s : https://ajiio.co/29dGK3 More  Levi's Clothing. Men's : https://ajiio.co/TLKXat Women's : https://ajiio.co/HTphAV",
+    "shortlink": "https://ajiio.co/uPgASe",
+    "urls": [
+      {
+        "url": "https://ajiio.co/uPgASe",
+        "label": "AJIO Levi’s Jeans Starts at ₹650"
+      },
+      {
+        "url": "https://ajiio.co/ZL0L7W",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/29dGK3",
+        "label": "Women’s"
+      },
+      {
+        "url": "",
+        "label": "More Levi's Clothing"
+      },
+      {
+        "url": "https://ajiio.co/TLKXat",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/HTphAV",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "AJIO  Levi’s Jeans Starts at ₹650.\n\nhttps://ajiio.co/uPgASe\n\nMen’s : https://ajiio.co/ZL0L7W\nWomen’s : https://ajiio.co/29dGK3\n\nMore  Levi's Clothing.\n\nMen's : https://ajiio.co/TLKXat\nWomen's : https://ajiio.co/HTphAV",
+    "final_url": "https://ajiio.co/uPgASe",
+    "local_image": "assets/images/tgmsg_17053.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-14T19:52:08+00:00",
+    "buy_link": "https://ajiio.co/uPgASe",
+    "date_iso": "2025-11-14T19:52:08+00:00"
+  },
+  {
     "id": "msg17051",
     "title": "Flat 70% Off On Van Heusen Men's Sweatshirt",
     "description": "Myntra | Flat 70% Off On Van Heusen Men's Sweatshirts. https://myntr.in/7mxEGR",
@@ -9578,45 +9618,5 @@
     "date_obj": "2025-11-11T11:30:11+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CPQ2687Y/ref=cm_sw_r_as_gl_apa_gl_i_dl_TCZPGJ3M4WMW7MF3SCNF?tag=bestpricezo0f-21",
     "date_iso": "2025-11-11T11:30:11+00:00"
-  },
-  {
-    "id": "msg16577",
-    "title": "🎧 Up to 80% Off + Extra 5% Off on Earbuds, Headphones & Speakers at boAt!",
-    "description": "🎉 Great Saving Days 🎉 🎧 Upto 80% Off + Extra 5% Off on Earbuds, Headphones & Speakers at boAt! ✨ Use Coupon Code : BOATHEAD at Checkout (may not be valid on a few products) ✨ Extra ₹15 Off on UPI Payments ✨ Free…",
-    "shortlink": "https://extp.in/FvSkXf",
-    "urls": [
-      {
-        "url": "",
-        "label": "🎉 Great Saving Days 🎉"
-      },
-      {
-        "url": "",
-        "label": "🎧 Upto 80% Off + Extra 5% Off on Earbuds, Headphones & Speakers at boAt!"
-      },
-      {
-        "url": "",
-        "label": "✨ Extra ₹15 Off on UPI Payments"
-      },
-      {
-        "url": "",
-        "label": "✨ Free Shipping on All Orders"
-      },
-      {
-        "url": "https://extp.in/FvSkXf",
-        "label": "Shop Here"
-      },
-      {
-        "url": "",
-        "label": "🛒 Don’t Miss Out – Grab the Best Audio Deals Now!"
-      }
-    ],
-    "raw_text": "🎉 Great Saving Days 🎉\n\n🎧 Upto 80% Off + Extra 5% Off on Earbuds, Headphones & Speakers at boAt!\n\n✨ Use Coupon Code : BOATHEAD at Checkout (may not be valid on a few products)\n✨ Extra ₹15 Off on UPI Payments\n✨ Free Shipping on All Orders\n\n👉 Shop Here : https://extp.in/FvSkXf\n\n🛒 Don’t Miss Out – Grab the Best Audio Deals Now!",
-    "final_url": "https://extp.in/FvSkXf",
-    "local_image": "assets/images/tgmsg_16577.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-11T11:00:07+00:00",
-    "buy_link": "https://extp.in/FvSkXf",
-    "date_iso": "2025-11-11T11:00:07+00:00"
   }
 ]
