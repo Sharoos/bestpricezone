@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg17158",
+    "title": "🛏️ Urban Space Bedsheets – Flat ₹449 + Gift Packaging",
+    "description": "🔥Myntra | Top Deals – Quick Grab! 🔌 Prestige PKOSS Electric Kettle – Just ₹599! Lowest price across 🔥 🔗  Premium Microfiber Bedsheets 🔗 🛏️ Urban Space Bedsheets – Flat ₹449 + Coupon + Gift Packaging 🔗 🔗",
+    "shortlink": "https://myntr.in/M6mXJt",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥Myntra | Top Deals – Quick Grab!"
+      },
+      {
+        "url": "",
+        "label": "🔌 Prestige PKOSS Electric Kettle – Just ₹599!"
+      },
+      {
+        "url": "https://myntr.in/M6mXJt",
+        "label": "Lowest price across 🔥"
+      },
+      {
+        "url": "",
+        "label": "🛏️ Urban Space Bedsheets – Flat ₹449 + Gift Packaging"
+      },
+      {
+        "url": "https://myntr.in/J0YaNJ",
+        "label": "Premium Microfiber Bedsheets"
+      },
+      {
+        "url": "https://myntr.in/0RFJzI",
+        "label": "Premium Microfiber Bedsheets"
+      },
+      {
+        "url": "https://myntr.in/jTXeRN",
+        "label": "Premium Microfiber Bedsheets"
+      }
+    ],
+    "raw_text": "🔥Myntra | Top Deals – Quick Grab!\n\n🔌 Prestige PKOSS Electric Kettle – Just ₹599!\nLowest price across 🔥\n🔗 https://myntr.in/M6mXJt\n\n🛏️ Urban Space Bedsheets – Flat ₹449 + Gift Packaging\nPremium Microfiber Bedsheets\n🔗 https://myntr.in/J0YaNJ\n\n🛏️ Urban Space Bedsheets – Flat ₹449 + Coupon + Gift Packaging\n\n🔗 https://myntr.in/0RFJzI\n🔗 https://myntr.in/jTXeRN",
+    "final_url": "https://myntr.in/M6mXJt",
+    "local_image": "assets/images/tgmsg_17158.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-15T16:41:48+00:00",
+    "buy_link": "https://myntr.in/M6mXJt",
+    "date_iso": "2025-11-15T16:41:48+00:00"
+  },
+  {
     "id": "msg17152",
     "title": "Pillows From 199",
     "description": "Myntra  Pillows From 199. https://myntr.in/ej9WVi",
@@ -9738,29 +9782,5 @@
     "date_obj": "2025-11-12T07:06:57+00:00",
     "buy_link": "https://extp.in/6oQkzt",
     "date_iso": "2025-11-12T07:06:57+00:00"
-  },
-  {
-    "id": "msg16680",
-    "title": "🛒 Deal Price ₹499",
-    "description": "Amazon | Zebronics 5 Watts Mini BT Speaker 🛒 Deal Price: ₹499 https://www.amazon.in/dp/B0CXTK7845?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CXTK7845?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Zebronics 5 Watts Mini BT Speaker"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0CXTK7845?tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹499"
-      }
-    ],
-    "raw_text": "Amazon | Zebronics 5 Watts Mini BT Speaker\n\n🛒 Deal Price: ₹499\n\nhttps://www.amazon.in/dp/B0CXTK7845?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CXTK7845?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16680.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-12T07:07:05+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CXTK7845?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-12T07:07:05+00:00"
   }
 ]
