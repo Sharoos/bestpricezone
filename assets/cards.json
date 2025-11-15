@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg17066",
+    "title": "Topwear Clothing Under ₹141",
+    "description": "Ajio  Topwear Clothing Under ₹141. Men's : https://ajiio.co/qzdJrn Women's : https://ajiio.co/divLrv Boy’s : https://ajiio.co/Wwd8TB Girl’s : https://ajiio.co/JOfH5C Baby : https://ajiio.co/B1qZDH",
+    "shortlink": "https://ajiio.co/qzdJrn",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Topwear Clothing Under ₹141"
+      },
+      {
+        "url": "https://ajiio.co/qzdJrn",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/divLrv",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/Wwd8TB",
+        "label": "Boy’s"
+      },
+      {
+        "url": "https://ajiio.co/JOfH5C",
+        "label": "Girl’s"
+      },
+      {
+        "url": "https://ajiio.co/B1qZDH",
+        "label": "Baby"
+      }
+    ],
+    "raw_text": "Ajio  Topwear Clothing Under ₹141.\n\nMen's : https://ajiio.co/qzdJrn\nWomen's : https://ajiio.co/divLrv\nBoy’s : https://ajiio.co/Wwd8TB\nGirl’s : https://ajiio.co/JOfH5C\nBaby : https://ajiio.co/B1qZDH",
+    "final_url": "https://ajiio.co/qzdJrn",
+    "local_image": "assets/images/tgmsg_17066.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-15T04:25:53+00:00",
+    "buy_link": "https://ajiio.co/qzdJrn",
+    "date_iso": "2025-11-15T04:25:53+00:00"
+  },
+  {
     "id": "msg17064",
     "title": "Up to 75% Off On John Players Brand Clothing",
     "description": "AJIO : Upto 75% Off On John Players Brand Clothing T-Shirts : Jeans : Shirts : + 10% EXTRA AJIO CASH",
@@ -9510,41 +9550,5 @@
     "date_obj": "2025-11-11T12:10:07+00:00",
     "buy_link": "https://myntr.in/oYLUyM",
     "date_iso": "2025-11-11T12:10:07+00:00"
-  },
-  {
-    "id": "msg16584",
-    "title": "🛒 Deal Price ₹222",
-    "description": "Amazon | ✨ Beauty & Personal Care Deals Livon Professional Smoothening Serum for Women & Men, 100ml 🛒 Deal Price: ₹222 👉 Layer'r Wottagirl Tuscan Green Body Splash for Women, 135ml 🛒 Deal Price: ₹233 👉",
-    "shortlink": "https://www.amazon.in/dp/B0CTHK1FS1?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "✨ Beauty & Personal Care Deals"
-      },
-      {
-        "url": "",
-        "label": "Livon Professional Smoothening Serum for Women & Men, 100ml"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0CTHK1FS1?psc=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹222"
-      },
-      {
-        "url": "",
-        "label": "Layer'r Wottagirl Tuscan Green Body Splash for Women, 135ml"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B09ZHHGTTM?psc=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹233"
-      }
-    ],
-    "raw_text": "Amazon | ✨ Beauty & Personal Care Deals\n\nLivon Professional Smoothening Serum for Women & Men, 100ml\n\n🛒 Deal Price: ₹222\n\n👉 https://www.amazon.in/dp/B0CTHK1FS1?psc=1&tag=bestpricezo0f-21\n\nLayer'r Wottagirl Tuscan Green Body Splash for Women, 135ml\n\n🛒 Deal Price: ₹233\n\n👉 https://www.amazon.in/dp/B09ZHHGTTM?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CTHK1FS1?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16584.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-11T12:20:55+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CTHK1FS1?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-11T12:20:55+00:00"
   }
 ]
