@@ -1,5 +1,85 @@
 [
   {
+    "id": "msg17123",
+    "title": "Up to 85% Off",
+    "description": "Myntra | 👖 Biba Trousers - Up to 85% Off 🔗 https://myntr.in/0QMNV1",
+    "shortlink": "https://myntr.in/0QMNV1",
+    "urls": [
+      {
+        "url": "https://myntr.in/0QMNV1",
+        "label": "👖 Biba Trousers - Up to 85% Off"
+      }
+    ],
+    "raw_text": "Myntra | 👖 Biba Trousers - Up to 85% Off\n\n🔗 https://myntr.in/0QMNV1",
+    "final_url": "https://myntr.in/0QMNV1",
+    "local_image": "assets/images/tgmsg_17123.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-15T12:56:35+00:00",
+    "buy_link": "https://myntr.in/0QMNV1",
+    "date_iso": "2025-11-15T12:56:35+00:00"
+  },
+  {
+    "id": "msg17125",
+    "title": "Ac Blankets (Pack Of 5) At 599",
+    "description": "Myntra  Ac Blankets (Pack Of 5) At 599 https://myntr.in/BE34ii",
+    "shortlink": "https://myntr.in/BE34ii",
+    "urls": [
+      {
+        "url": "https://myntr.in/BE34ii",
+        "label": "Myntra Ac Blankets (Pack Of 5) At 599"
+      }
+    ],
+    "raw_text": "Myntra  Ac Blankets (Pack Of 5) At 599\n\nhttps://myntr.in/BE34ii",
+    "final_url": "https://myntr.in/BE34ii",
+    "local_image": "assets/images/tgmsg_17125.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-15T13:07:21+00:00",
+    "buy_link": "https://myntr.in/BE34ii",
+    "date_iso": "2025-11-15T13:07:21+00:00"
+  },
+  {
+    "id": "msg17126",
+    "title": "Shopsy Up to 85% off on Men’s jackets 🔥🔥",
+    "description": "Shopsy : Upto 85% off on Men’s jackets 🔥🔥 Link: https://extp.in/lnHLbx",
+    "shortlink": "https://extp.in/lnHLbx",
+    "urls": [
+      {
+        "url": "https://extp.in/lnHLbx",
+        "label": "Upto 85% off on Men’s jackets 🔥🔥"
+      }
+    ],
+    "raw_text": "Shopsy : Upto 85% off on Men’s jackets 🔥🔥\n\nLink: https://extp.in/lnHLbx",
+    "final_url": "https://extp.in/lnHLbx",
+    "local_image": "assets/images/tgmsg_17126.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-11-15T13:07:25+00:00",
+    "buy_link": "https://extp.in/lnHLbx",
+    "date_iso": "2025-11-15T13:07:25+00:00"
+  },
+  {
+    "id": "msg17127",
+    "title": "Up to 76% Off on Ducati Shoe",
+    "description": "Flipkart | Up to 76% Off on Ducati Shoes 👉https://fkrt.co/wwH4QW",
+    "shortlink": "https://fkrt.co/wwH4QW",
+    "urls": [
+      {
+        "url": "https://fkrt.co/wwH4QW",
+        "label": "Up to 76% Off on Ducati Shoes"
+      }
+    ],
+    "raw_text": "Flipkart | Up to 76% Off on Ducati Shoes\n\n👉https://fkrt.co/wwH4QW",
+    "final_url": "https://fkrt.co/wwH4QW",
+    "local_image": "assets/images/tgmsg_17127.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-15T13:11:24+00:00",
+    "buy_link": "https://fkrt.co/wwH4QW",
+    "date_iso": "2025-11-15T13:11:24+00:00"
+  },
+  {
     "id": "msg17115",
     "title": "Shopsy Up to 85% off on Men’s jackets starting from just ₹249 🔥",
     "description": "Shopsy : Upto 85% off on Men’s jackets starting from just ₹249 🔥 Link: https://extp.in/tBeE0D",
@@ -9590,93 +9670,5 @@
     "date_obj": "2025-11-11T20:49:50+00:00",
     "buy_link": "https://myntr.in/OAL75r",
     "date_iso": "2025-11-11T20:49:50+00:00"
-  },
-  {
-    "id": "msg16646",
-    "title": "🛒 Deal Price ₹37499 (Using Card)",
-    "description": "Amazon | Acerpure 164 cm (65 inch) Elevate Series Ultra HD 4K QLED Smart Google TV 🛒 Deal Price: ₹37499 (Using Card)",
-    "shortlink": "https://www.amazon.in/dp/B0DDKFS3TV?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Acerpure 164 cm (65 inch) Elevate Series Ultra HD 4K QLED Smart Google TV"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0DDKFS3TV?th=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹37499 (Using Card)"
-      }
-    ],
-    "raw_text": "Amazon | Acerpure 164 cm (65 inch) Elevate Series Ultra HD 4K QLED Smart Google TV\n\n🛒 Deal Price: ₹37499 (Using Card)\n\nhttps://www.amazon.in/dp/B0DDKFS3TV?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DDKFS3TV?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16646.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-11T20:12:15+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DDKFS3TV?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-11T20:12:15+00:00"
-  },
-  {
-    "id": "msg16647",
-    "title": "70% Off LOreal Paris Shampoo, 1L @422",
-    "description": "Myntra | 70% Off : LOreal Paris Shampoo, 1L @422. https://myntr.in/PkYhf9",
-    "shortlink": "https://myntr.in/PkYhf9",
-    "urls": [
-      {
-        "url": "https://myntr.in/PkYhf9",
-        "label": "70% Off : LOreal Paris Shampoo, 1L @422"
-      }
-    ],
-    "raw_text": "Myntra | 70% Off : LOreal Paris Shampoo, 1L @422.\n\nhttps://myntr.in/PkYhf9",
-    "final_url": "https://myntr.in/PkYhf9",
-    "local_image": "assets/images/tgmsg_16647.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-11T20:12:59+00:00",
-    "buy_link": "https://myntr.in/PkYhf9",
-    "date_iso": "2025-11-11T20:12:59+00:00"
-  },
-  {
-    "id": "msg16648",
-    "title": "BOROPLUS Body Lotion for Nourishment (Normal Skin) 400 milliliters @₹170",
-    "description": "Amazon | BOROPLUS Body Lotion for Nourishment (Normal Skin) 400 milliliters @₹170 https://www.amazon.in/dp/B07VV5R3FB?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07VV5R3FB?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07VV5R3FB?th=1&tag=bestpricezo0f-21",
-        "label": "BOROPLUS Body Lotion for Nourishment (Normal Skin) 400 milliliters @₹170"
-      }
-    ],
-    "raw_text": "Amazon | BOROPLUS Body Lotion for Nourishment (Normal Skin) 400 milliliters @₹170\n\nhttps://www.amazon.in/dp/B07VV5R3FB?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07VV5R3FB?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16648.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-11T20:18:44+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07VV5R3FB?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-11T20:18:44+00:00"
-  },
-  {
-    "id": "msg16649",
-    "title": "Havells Electric Beard Trimmer @ 849",
-    "description": "Amazon | Havells Electric Beard Trimmer @ 849. https://www.amazon.in/dp/B0BZDFV2H1?psc=1&th=1&tag=bestpricezo0f-21 120 Min Runtime | 2 Years Warranty",
-    "shortlink": "https://www.amazon.in/dp/B0BZDFV2H1?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BZDFV2H1?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "Havells Electric Beard Trimmer @ 849"
-      },
-      {
-        "url": "",
-        "label": "2 Years Warranty"
-      }
-    ],
-    "raw_text": "Amazon | Havells Electric Beard Trimmer @ 849.\n\nhttps://www.amazon.in/dp/B0BZDFV2H1?psc=1&th=1&tag=bestpricezo0f-21\n\n120 Min Runtime | 2 Years Warranty",
-    "final_url": "https://www.amazon.in/dp/B0BZDFV2H1?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16649.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-11T20:21:18+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BZDFV2H1?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-11T20:21:18+00:00"
   }
 ]
