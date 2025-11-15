@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg17134",
+    "title": "🔥Branded Jeans Up to 85% Off Starts From ₹249",
+    "description": "🔥Myntra : Branded Jeans Upto 85% Off Starts From ₹249 Men : https://myntr.in/7J3nXF Women : https://myntr.in/gGXkjX",
+    "shortlink": "https://myntr.in/7J3nXF",
+    "urls": [
+      {
+        "url": "https://myntr.in/7J3nXF",
+        "label": "🔥Myntra : Branded Jeans Upto 85% Off Starts From ₹249"
+      },
+      {
+        "url": "https://myntr.in/gGXkjX",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "🔥Myntra : Branded Jeans Upto 85% Off Starts From ₹249\n\nMen : https://myntr.in/7J3nXF\nWomen : https://myntr.in/gGXkjX",
+    "final_url": "https://myntr.in/7J3nXF",
+    "local_image": "assets/images/tgmsg_17134.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-15T14:11:45+00:00",
+    "buy_link": "https://myntr.in/7J3nXF",
+    "date_iso": "2025-11-15T14:11:45+00:00"
+  },
+  {
     "id": "msg17130",
     "title": "Up to 85% Off On Jack & Jones Clothing",
     "description": "Ajio : Upto 85% Off On Jack & Jones Clothing. T-Shirt : Shirt : Jeans : Sweatshirt & Sweater : Jacket : Shorts : Trouser : Trackpant : .💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!!",
@@ -9658,33 +9682,5 @@
     "date_obj": "2025-11-12T05:09:16+00:00",
     "buy_link": "https://fkrt.co/GoXxoU",
     "date_iso": "2025-11-12T05:09:16+00:00"
-  },
-  {
-    "id": "msg16659",
-    "title": "Branded Cargo Trousers Starts @296",
-    "description": "Myntra : Branded Cargo Trousers Starts @296 Men : https://myntr.in/8oQ7DJ Women : https://myntr.in/FRvjl8",
-    "shortlink": "https://myntr.in/8oQ7DJ",
-    "urls": [
-      {
-        "url": "",
-        "label": "Branded Cargo Trousers Starts @296"
-      },
-      {
-        "url": "https://myntr.in/8oQ7DJ",
-        "label": "Men"
-      },
-      {
-        "url": "https://myntr.in/FRvjl8",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Myntra : Branded Cargo Trousers Starts @296\n\nMen : https://myntr.in/8oQ7DJ\nWomen : https://myntr.in/FRvjl8",
-    "final_url": "https://myntr.in/8oQ7DJ",
-    "local_image": "assets/images/tgmsg_16659.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-12T05:16:04+00:00",
-    "buy_link": "https://myntr.in/8oQ7DJ",
-    "date_iso": "2025-11-12T05:16:04+00:00"
   }
 ]
