@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg17094",
+    "title": "Peter England Min 40%",
+    "description": "Ajio | Peter England Min 40% https://ajiio.co/kSvhjr LP Min 40% https://ajiio.co/ElsOi1",
+    "shortlink": "https://ajiio.co/kSvhjr",
+    "urls": [
+      {
+        "url": "https://ajiio.co/kSvhjr",
+        "label": "Peter England Min 40%"
+      },
+      {
+        "url": "https://ajiio.co/ElsOi1",
+        "label": "LP Min 40%"
+      }
+    ],
+    "raw_text": "Ajio | Peter England Min 40%\nhttps://ajiio.co/kSvhjr\n\nLP Min 40% \nhttps://ajiio.co/ElsOi1",
+    "final_url": "https://ajiio.co/kSvhjr",
+    "local_image": "assets/images/tgmsg_17094.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-15T08:56:27+00:00",
+    "buy_link": "https://ajiio.co/kSvhjr",
+    "date_iso": "2025-11-15T08:56:27+00:00"
+  },
+  {
+    "id": "msg17095",
+    "title": "Raymond , Park Avenue & Parx Min 60%",
+    "description": "Ajio | Raymond , Park Avenue & Parx Min 60% https://ajiio.co/SZk53r Under armour Min 45% https://ajiio.co/KFYdR5",
+    "shortlink": "https://ajiio.co/SZk53r",
+    "urls": [
+      {
+        "url": "https://ajiio.co/SZk53r",
+        "label": "Raymond , Park Avenue & Parx Min 60%"
+      },
+      {
+        "url": "https://ajiio.co/KFYdR5",
+        "label": "Under armour Min 45%"
+      }
+    ],
+    "raw_text": "Ajio | Raymond , Park Avenue & Parx Min 60%\nhttps://ajiio.co/SZk53r\n\nUnder armour Min 45% \nhttps://ajiio.co/KFYdR5",
+    "final_url": "https://ajiio.co/SZk53r",
+    "local_image": "assets/images/tgmsg_17095.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-15T09:11:28+00:00",
+    "buy_link": "https://ajiio.co/SZk53r",
+    "date_iso": "2025-11-15T09:11:28+00:00"
+  },
+  {
     "id": "msg17090",
     "title": "Being human Min 65%",
     "description": "Ajio | Monte Carlo- Min 30% https://ajiio.co/EYi94U Being human Min 65% https://ajiio.co/2Ws4cy",
@@ -9614,65 +9662,5 @@
     "date_obj": "2025-11-11T16:35:41+00:00",
     "buy_link": "https://ajiio.co/LySo7W",
     "date_iso": "2025-11-11T16:35:41+00:00"
-  },
-  {
-    "id": "msg16624",
-    "title": "Reliance Digital Midnight Sale Up to 60% Off",
-    "description": "Reliance Digital: Midnight Sale Upto 60% Off iPhone: Wireless Earbuds: TV: AC: Valid 10:00PM TO 6:00AM.",
-    "shortlink": "https://bitli.in/7hG0uet",
-    "urls": [
-      {
-        "url": "https://bitli.in/7hG0uet",
-        "label": "Midnight Sale Upto 60% Off"
-      },
-      {
-        "url": "https://bitli.in/bKnjmnU",
-        "label": "iPhone"
-      },
-      {
-        "url": "https://bitli.in/a3vtXr3",
-        "label": "Wireless Earbuds"
-      },
-      {
-        "url": "https://bitli.in/7a4AHjP",
-        "label": "TV"
-      },
-      {
-        "url": "https://bitli.in/T5Ge3DQ",
-        "label": "AC"
-      },
-      {
-        "url": "",
-        "label": "00PM TO 6:00AM"
-      }
-    ],
-    "raw_text": "Reliance Digital: Midnight Sale Upto 60% Off\n\nhttps://bitli.in/7hG0uet\n\niPhone: https://bitli.in/bKnjmnU\nWireless Earbuds: https://bitli.in/a3vtXr3\n\nTV: https://bitli.in/7a4AHjP\nAC: https://bitli.in/T5Ge3DQ\n\nValid 10:00PM TO 6:00AM.",
-    "final_url": "https://bitli.in/7hG0uet",
-    "local_image": "assets/images/tgmsg_16624.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-11-11T16:36:49+00:00",
-    "buy_link": "https://bitli.in/7hG0uet",
-    "date_iso": "2025-11-11T16:36:49+00:00"
-  },
-  {
-    "id": "msg16614",
-    "title": "Min. 40% Off On Renee Beauty Product",
-    "description": "Myntra | Min. 40% Off On Renee Beauty Products. https://myntr.in/sk3AuH",
-    "shortlink": "https://myntr.in/sk3AuH",
-    "urls": [
-      {
-        "url": "https://myntr.in/sk3AuH",
-        "label": "Min. 40% Off On Renee Beauty Products"
-      }
-    ],
-    "raw_text": "Myntra | Min. 40% Off On Renee Beauty Products.\n\nhttps://myntr.in/sk3AuH",
-    "final_url": "https://myntr.in/sk3AuH",
-    "local_image": "assets/images/tgmsg_16614.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-11T15:38:48+00:00",
-    "buy_link": "https://myntr.in/sk3AuH",
-    "date_iso": "2025-11-11T15:38:48+00:00"
   }
 ]
