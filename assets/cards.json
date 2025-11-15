@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg17207",
+    "title": "RR Signature 1200 MM Wavia High Speed Ceiling Fan 1,359",
+    "description": "Amazon | Grab 🔥 RR Signature 1200 MM Wavia High Speed Ceiling Fan 1,359₹ https://www.amazon.in/dp/B0D5H8Z43K?th=1&ck&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0D5H8Z43K?th=1&ck&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Grab 🔥"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0D5H8Z43K?th=1&ck&tag=bestpricezo0f-21",
+        "label": "RR Signature 1200 MM Wavia High Speed Ceiling Fan 1,359₹"
+      }
+    ],
+    "raw_text": "Amazon | Grab 🔥 \n\nRR Signature 1200 MM Wavia High Speed Ceiling Fan 1,359₹\n\nhttps://www.amazon.in/dp/B0D5H8Z43K?th=1&ck&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D5H8Z43K?th=1&ck&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17207.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-15T20:42:31+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D5H8Z43K?th=1&ck&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-15T20:42:31+00:00"
+  },
+  {
     "id": "msg17204",
     "title": "💥 Bank Offer ₹1,500 Off With HDFC Credit Card EMI Txn",
     "description": "Amazon | 🔥🔥acer 109 cm (43 inches) Super Series 4K Ultra HD Smart QLED Google TV 🎁 Deal Price : ₹21,999 Buy Here : 💥 Bank Offer : ₹1,500 Off With HDFC Credit Card EMI Txn",
@@ -9394,41 +9418,5 @@
     "date_obj": "2025-11-12T13:22:16+00:00",
     "buy_link": "https://myntr.in/ZUw7ut",
     "date_iso": "2025-11-12T13:22:16+00:00"
-  },
-  {
-    "id": "msg16732",
-    "title": "Swiss Beauty Sale is Live — 4 Products @ ₹999 Only",
-    "description": "Swiss Beauty Sale is Live — Buy 4 Products @ ₹999 Only ✅ Use Code: BUY4 Link: How to Avail: • Add any 4 products to your cart • Apply code BUY4 at checkout • Get 30% Cashback + 5% Off on prepaid orders",
-    "shortlink": "https://bitli.in/v68kFWo",
-    "urls": [
-      {
-        "url": "https://bitli.in/v68kFWo",
-        "label": "✅ Use Code: BUY4"
-      },
-      {
-        "url": "",
-        "label": "How to Avail"
-      },
-      {
-        "url": "",
-        "label": "Add any 4 products to your cart"
-      },
-      {
-        "url": "",
-        "label": "Apply code BUY4 at checkout"
-      },
-      {
-        "url": "",
-        "label": "Get 30% Cashback + 5% Off on prepaid orders"
-      }
-    ],
-    "raw_text": "Swiss Beauty Sale is Live — Buy 4 Products @ ₹999 Only\n\n✅ Use Code: BUY4\n\nLink: https://bitli.in/v68kFWo\n\nHow to Avail:\n• Add any 4 products to your cart\n• Apply code BUY4 at checkout\n• Get 30% Cashback + 5% Off on prepaid orders",
-    "final_url": "https://bitli.in/v68kFWo",
-    "local_image": "assets/images/tgmsg_16732.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-11-12T13:31:58+00:00",
-    "buy_link": "https://bitli.in/v68kFWo",
-    "date_iso": "2025-11-12T13:31:58+00:00"
   }
 ]
