@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg17102",
+    "title": "Min 60% off on winter blanket",
+    "description": "Myntra | Longway 10L Water heater at 2689! Signature Blankets - Min 45% Off !!! Monte Carlo Blankets - Under 1499 !! s",
+    "shortlink": "https://myntr.in/a9riMY",
+    "urls": [
+      {
+        "url": "https://myntr.in/a9riMY",
+        "label": "Longway 10L Water heater at 2689!"
+      },
+      {
+        "url": "https://myntr.in/qbYCKU",
+        "label": "Min 45% Off !!!"
+      },
+      {
+        "url": "https://myntr.in/L2YRM6",
+        "label": "Under 1499 !!"
+      },
+      {
+        "url": "https://myntr.in/8axA1b",
+        "label": "Min 60% off on winter blankets"
+      }
+    ],
+    "raw_text": "Myntra | Longway 10L Water heater at 2689! \nhttps://myntr.in/a9riMY\n\nSignature Blankets - Min 45% Off !!!\nhttps://myntr.in/qbYCKU\n\nMonte Carlo Blankets - Under 1499 !!\nhttps://myntr.in/L2YRM6\n\nMin 60% off on winter blankets\nhttps://myntr.in/8axA1b",
+    "final_url": "https://myntr.in/a9riMY",
+    "local_image": "assets/images/tgmsg_17102.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-15T09:58:17+00:00",
+    "buy_link": "https://myntr.in/a9riMY",
+    "date_iso": "2025-11-15T09:58:17+00:00"
+  },
+  {
+    "id": "msg17103",
+    "title": "boAt Bassheads 900 Pro Wired Headphone @ 1099",
+    "description": "Amazon | boAt Bassheads 900 Pro Wired Headphone @ 1099. 👉https://www.amazon.in/dp/B0DHDDF5J2?th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DHDDF5J2?th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DHDDF5J2?th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+        "label": "boAt Bassheads 900 Pro Wired Headphone @ 1099"
+      }
+    ],
+    "raw_text": "Amazon | boAt Bassheads 900 Pro Wired Headphone @ 1099.\n\n👉https://www.amazon.in/dp/B0DHDDF5J2?th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DHDDF5J2?th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17103.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-15T10:11:26+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DHDDF5J2?th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-15T10:11:26+00:00"
+  },
+  {
     "id": "msg17100",
     "title": "Steve & Anderson fitted bedsheet. Flat 395 + Coupon",
     "description": "Myntra | Steve & Anderson fitted bedsheet. Flat 395 + Coupons 👉Link- https://myntr.in/qAainv",
@@ -9646,45 +9698,5 @@
     "date_obj": "2025-11-11T17:35:52+00:00",
     "buy_link": "https://myntr.in/fIVhqG",
     "date_iso": "2025-11-11T17:35:52+00:00"
-  },
-  {
-    "id": "msg16627",
-    "title": "Gear Rucksacks Up to 80% off",
-    "description": "Flipkart Gear Rucksacks upto 80% off https://fkrt.co/TSKuwZ",
-    "shortlink": "https://fkrt.co/TSKuwZ",
-    "urls": [
-      {
-        "url": "https://fkrt.co/TSKuwZ",
-        "label": "Flipkart Gear Rucksacks upto 80% off"
-      }
-    ],
-    "raw_text": "Flipkart Gear Rucksacks upto 80% off\n\nhttps://fkrt.co/TSKuwZ",
-    "final_url": "https://fkrt.co/TSKuwZ",
-    "local_image": "assets/images/tgmsg_16627.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-11T17:03:30+00:00",
-    "buy_link": "https://fkrt.co/TSKuwZ",
-    "date_iso": "2025-11-11T17:03:30+00:00"
-  },
-  {
-    "id": "msg16628",
-    "title": "70% Off",
-    "description": "Myntra | Dove, Tresemme 1L Shampoos 60 - 70% Off 👉Link : https://myntr.in/xUmuFW",
-    "shortlink": "https://myntr.in/xUmuFW",
-    "urls": [
-      {
-        "url": "https://myntr.in/xUmuFW",
-        "label": "Dove, Tresemme 1L Shampoos 60 - 70% Off"
-      }
-    ],
-    "raw_text": "Myntra | Dove, Tresemme 1L Shampoos 60 - 70% Off\n\n👉Link : https://myntr.in/xUmuFW",
-    "final_url": "https://myntr.in/xUmuFW",
-    "local_image": "assets/images/tgmsg_16628.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-11T17:16:12+00:00",
-    "buy_link": "https://myntr.in/xUmuFW",
-    "date_iso": "2025-11-11T17:16:12+00:00"
   }
 ]
