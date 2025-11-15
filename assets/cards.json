@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg17096",
+    "title": "🛍 + Extra 10% Super Cash! 🎉",
+    "description": "Ajio | WOMEN'S Sarees Starting @ just 198 Links : 🛍 + Extra 10% AJIO Super Cash! 🎉",
+    "shortlink": "https://ajiio.co/Bp8phh",
+    "urls": [
+      {
+        "url": "https://ajiio.co/Bp8phh",
+        "label": "WOMEN'S Sarees Starting @ just 198"
+      },
+      {
+        "url": "",
+        "label": "🛍 + Extra 10% AJIO Super Cash! 🎉"
+      }
+    ],
+    "raw_text": "Ajio | WOMEN'S Sarees Starting @ just 198 \n \nLinks :  https://ajiio.co/Bp8phh\n\n🛍 + Extra 10% AJIO Super Cash! 🎉",
+    "final_url": "https://ajiio.co/Bp8phh",
+    "local_image": "assets/images/tgmsg_17096.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-15T09:26:05+00:00",
+    "buy_link": "https://ajiio.co/Bp8phh",
+    "date_iso": "2025-11-15T09:26:05+00:00"
+  },
+  {
     "id": "msg17094",
     "title": "Peter England Min 40%",
     "description": "Ajio | Peter England Min 40% https://ajiio.co/kSvhjr LP Min 40% https://ajiio.co/ElsOi1",
@@ -9642,25 +9666,5 @@
     "date_obj": "2025-11-11T16:21:28+00:00",
     "buy_link": "https://extp.in/wVwI36",
     "date_iso": "2025-11-11T16:21:28+00:00"
-  },
-  {
-    "id": "msg16623",
-    "title": "Women's Slip on Slide ₹280",
-    "description": "Ajio | Women's Slip on Slide ₹280 👉https://ajiio.co/LySo7W",
-    "shortlink": "https://ajiio.co/LySo7W",
-    "urls": [
-      {
-        "url": "https://ajiio.co/LySo7W",
-        "label": "Women's Slip on Slide ₹280"
-      }
-    ],
-    "raw_text": "Ajio | Women's Slip on Slide ₹280\n\n👉https://ajiio.co/LySo7W",
-    "final_url": "https://ajiio.co/LySo7W",
-    "local_image": "assets/images/tgmsg_16623.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-11T16:35:41+00:00",
-    "buy_link": "https://ajiio.co/LySo7W",
-    "date_iso": "2025-11-11T16:35:41+00:00"
   }
 ]
