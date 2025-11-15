@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17114",
+    "title": "Vebnor Formal Shirts starts at Rs.289",
+    "description": "Flipkart | Vebnor Formal Shirts starts at Rs.289 https://fkrt.co/dDshgf",
+    "shortlink": "https://fkrt.co/dDshgf",
+    "urls": [
+      {
+        "url": "https://fkrt.co/dDshgf",
+        "label": "Vebnor Formal Shirts starts at Rs.289"
+      }
+    ],
+    "raw_text": "Flipkart | Vebnor Formal Shirts starts at Rs.289\n\nhttps://fkrt.co/dDshgf",
+    "final_url": "https://fkrt.co/dDshgf",
+    "local_image": "assets/images/tgmsg_17114.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-15T11:55:53+00:00",
+    "buy_link": "https://fkrt.co/dDshgf",
+    "date_iso": "2025-11-15T11:55:53+00:00"
+  },
+  {
     "id": "msg17113",
     "title": "💥Face Moisturisers Starting @ just ₹98",
     "description": "💥Myntra | Face Moisturisers Starting @ just ₹98 ⚡Link : https://myntr.in/XwNobL",
@@ -9662,25 +9682,5 @@
     "date_obj": "2025-11-11T20:02:43+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DLGKS4TC?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-11T20:02:43+00:00"
-  },
-  {
-    "id": "msg16645",
-    "title": "ZEBRONICS Juke BAR 4100 Soundbar, 200 Watts @₹5999",
-    "description": "Amazon | ZEBRONICS Juke BAR 4100 Soundbar, 200 Watts @₹5999 https://www.amazon.in/dp/B0DM2JGWFT?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DM2JGWFT?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DM2JGWFT?th=1&tag=bestpricezo0f-21",
-        "label": "ZEBRONICS Juke BAR 4100 Soundbar, 200 Watts @₹5999"
-      }
-    ],
-    "raw_text": "Amazon | ZEBRONICS Juke BAR 4100 Soundbar, 200 Watts @₹5999\n\nhttps://www.amazon.in/dp/B0DM2JGWFT?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DM2JGWFT?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16645.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-11T20:07:06+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DM2JGWFT?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-11T20:07:06+00:00"
   }
 ]
