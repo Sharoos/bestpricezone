@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg17100",
+    "title": "Steve & Anderson fitted bedsheet. Flat 395 + Coupon",
+    "description": "Myntra | Steve & Anderson fitted bedsheet. Flat 395 + Coupons 👉Link- https://myntr.in/qAainv",
+    "shortlink": "https://myntr.in/qAainv",
+    "urls": [
+      {
+        "url": "https://myntr.in/qAainv",
+        "label": "Steve & Anderson fitted bedsheet. Flat 395 + Coupons"
+      }
+    ],
+    "raw_text": "Myntra | Steve & Anderson fitted bedsheet. Flat 395 + Coupons\n\n👉Link- https://myntr.in/qAainv",
+    "final_url": "https://myntr.in/qAainv",
+    "local_image": "assets/images/tgmsg_17100.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-15T09:46:11+00:00",
+    "buy_link": "https://myntr.in/qAainv",
+    "date_iso": "2025-11-15T09:46:11+00:00"
+  },
+  {
+    "id": "msg17101",
+    "title": "Flat 38% off on sujata juicer mixer grinders and Kettle",
+    "description": "Myntra | Only for First 500 Customers Flat 38% off on sujata juicer mixer grinders and Kettles. https://myntr.in/fL5eQY",
+    "shortlink": "https://myntr.in/fL5eQY",
+    "urls": [
+      {
+        "url": "",
+        "label": "Only for First 500 Customers"
+      },
+      {
+        "url": "https://myntr.in/fL5eQY",
+        "label": "Flat 38% off on sujata juicer mixer grinders and Kettles"
+      }
+    ],
+    "raw_text": "Myntra | Only for First 500 Customers \n\nFlat 38% off on sujata juicer mixer grinders and Kettles.\n\nhttps://myntr.in/fL5eQY",
+    "final_url": "https://myntr.in/fL5eQY",
+    "local_image": "assets/images/tgmsg_17101.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-15T09:46:11+00:00",
+    "buy_link": "https://myntr.in/fL5eQY",
+    "date_iso": "2025-11-15T09:46:11+00:00"
+  },
+  {
     "id": "msg17097",
     "title": "5% Cashback on All Online Spends (No Merchant Restrictions)",
     "description": "SBI Cashback Credit Card 💳 Flat 5% Cashback on All Online Transactions 📌 Apply Now: ✔️ Key Benefits: •  • 1% Cashback on Offline Spends • Max Cashback: ₹5,000/month • Cashback auto-adjusts in your next statement • One…",
@@ -9642,49 +9686,5 @@
     "date_obj": "2025-11-11T17:16:12+00:00",
     "buy_link": "https://myntr.in/xUmuFW",
     "date_iso": "2025-11-11T17:16:12+00:00"
-  },
-  {
-    "id": "msg16625",
-    "title": "71% Off On Branded Body Lotion",
-    "description": "Myntra : 50-71% Off On Branded Body Lotions. 👉https://myntr.in/LUYLfh (Ponds, Nivea, Vaseline, Parachute, Etc)",
-    "shortlink": "https://myntr.in/LUYLfh",
-    "urls": [
-      {
-        "url": "https://myntr.in/LUYLfh",
-        "label": "50-71% Off On Branded Body Lotions"
-      },
-      {
-        "url": "",
-        "label": "(Ponds, Nivea, Vaseline, Parachute, Etc)"
-      }
-    ],
-    "raw_text": "Myntra : 50-71% Off On Branded Body Lotions.\n\n👉https://myntr.in/LUYLfh\n\n(Ponds, Nivea, Vaseline, Parachute, Etc)",
-    "final_url": "https://myntr.in/LUYLfh",
-    "local_image": "assets/images/tgmsg_16625.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-11T16:48:51+00:00",
-    "buy_link": "https://myntr.in/LUYLfh",
-    "date_iso": "2025-11-11T16:48:51+00:00"
-  },
-  {
-    "id": "msg16617",
-    "title": "🔥Up to 67% Off on Adidas Sneakers & Sports Shoes Starting @ just 1368",
-    "description": "🔥Ajio | Upto 67% Off on Adidas Sneakers & Sports Shoes Starting @ just 1368 Link :",
-    "shortlink": "https://ajiio.co/YxL6UZ",
-    "urls": [
-      {
-        "url": "https://ajiio.co/YxL6UZ",
-        "label": "🔥Ajio | Upto 67% Off on Adidas Sneakers & Sports Shoes Starting @ just 1368"
-      }
-    ],
-    "raw_text": "🔥Ajio | Upto 67% Off on Adidas Sneakers & Sports Shoes Starting @ just 1368\n  \nLink : https://ajiio.co/YxL6UZ",
-    "final_url": "https://ajiio.co/YxL6UZ",
-    "local_image": "assets/images/tgmsg_16617.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-11T16:02:51+00:00",
-    "buy_link": "https://ajiio.co/YxL6UZ",
-    "date_iso": "2025-11-11T16:02:51+00:00"
   }
 ]
