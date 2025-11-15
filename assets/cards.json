@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17070",
+    "title": "Double bedsheets starting @ 99 only!",
+    "description": "Myntra | Double bedsheets starting @ 99 only! 👉 https://myntr.in/z3OW6k",
+    "shortlink": "https://myntr.in/z3OW6k",
+    "urls": [
+      {
+        "url": "https://myntr.in/z3OW6k",
+        "label": "Double bedsheets starting @ 99 only!"
+      }
+    ],
+    "raw_text": "Myntra | Double bedsheets starting @ 99 only!\n\n👉 https://myntr.in/z3OW6k",
+    "final_url": "https://myntr.in/z3OW6k",
+    "local_image": "assets/images/tgmsg_17070.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-15T04:55:58+00:00",
+    "buy_link": "https://myntr.in/z3OW6k",
+    "date_iso": "2025-11-15T04:55:58+00:00"
+  },
+  {
     "id": "msg17066",
     "title": "Topwear Clothing Under ₹141",
     "description": "Ajio  Topwear Clothing Under ₹141. Men's : https://ajiio.co/qzdJrn Women's : https://ajiio.co/divLrv Boy’s : https://ajiio.co/Wwd8TB Girl’s : https://ajiio.co/JOfH5C Baby : https://ajiio.co/B1qZDH",
@@ -9522,33 +9542,5 @@
     "date_obj": "2025-11-11T13:17:44+00:00",
     "buy_link": "https://extp.in/PzPkpS",
     "date_iso": "2025-11-11T13:17:44+00:00"
-  },
-  {
-    "id": "msg16583",
-    "title": "🔥 Fashion Deal Flat ₹111 Off",
-    "description": "🔥 Myntra Fashion Deal : Flat ₹111 Off Apply Coupon : SAVE111 Men : https://myntr.in/oYLUyM Women : https://myntr.in/6ehZc0",
-    "shortlink": "https://myntr.in/oYLUyM",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Myntra Fashion Deal : Flat ₹111 Off"
-      },
-      {
-        "url": "https://myntr.in/oYLUyM",
-        "label": "Men"
-      },
-      {
-        "url": "https://myntr.in/6ehZc0",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "🔥 Myntra Fashion Deal : Flat ₹111 Off\n\nApply Coupon : SAVE111\n\nMen : https://myntr.in/oYLUyM\nWomen : https://myntr.in/6ehZc0",
-    "final_url": "https://myntr.in/oYLUyM",
-    "local_image": "assets/images/tgmsg_16583.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-11T12:10:07+00:00",
-    "buy_link": "https://myntr.in/oYLUyM",
-    "date_iso": "2025-11-11T12:10:07+00:00"
   }
 ]
