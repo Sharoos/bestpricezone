@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg17208",
+    "title": "🛒 Deal Price Flat 81% Off",
+    "description": "Myntra | 💼 Red Tape Belt & Wallet Combo Deal 🛒 Deal Price: Flat 81% Off https://myntr.in/02VDW1",
+    "shortlink": "https://myntr.in/02VDW1",
+    "urls": [
+      {
+        "url": "",
+        "label": "💼 Red Tape Belt & Wallet Combo Deal"
+      },
+      {
+        "url": "https://myntr.in/02VDW1",
+        "label": "🛒 Deal Price: Flat 81% Off"
+      }
+    ],
+    "raw_text": "Myntra | 💼 Red Tape Belt & Wallet Combo Deal\n\n🛒 Deal Price: Flat 81% Off\n\nhttps://myntr.in/02VDW1",
+    "final_url": "https://myntr.in/02VDW1",
+    "local_image": "assets/images/tgmsg_17208.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-15T21:12:00+00:00",
+    "buy_link": "https://myntr.in/02VDW1",
+    "date_iso": "2025-11-15T21:12:00+00:00"
+  },
+  {
     "id": "msg17207",
     "title": "RR Signature 1200 MM Wavia High Speed Ceiling Fan 1,359",
     "description": "Amazon | Grab 🔥 RR Signature 1200 MM Wavia High Speed Ceiling Fan 1,359₹ https://www.amazon.in/dp/B0D5H8Z43K?th=1&ck&tag=bestpricezo0f-21",
@@ -9398,25 +9422,5 @@
     "date_obj": "2025-11-12T13:10:05+00:00",
     "buy_link": "https://fkrt.co/BNqzlY",
     "date_iso": "2025-11-12T13:10:05+00:00"
-  },
-  {
-    "id": "msg16730",
-    "title": "65% Off On Park Avenue Soap",
-    "description": "Myntra | Flat 60-65% Off On Park Avenue Soaps. 👉 https://myntr.in/ZUw7ut",
-    "shortlink": "https://myntr.in/ZUw7ut",
-    "urls": [
-      {
-        "url": "https://myntr.in/ZUw7ut",
-        "label": "Flat 60-65% Off On Park Avenue Soaps"
-      }
-    ],
-    "raw_text": "Myntra | Flat 60-65% Off On Park Avenue Soaps.\n\n👉 https://myntr.in/ZUw7ut",
-    "final_url": "https://myntr.in/ZUw7ut",
-    "local_image": "assets/images/tgmsg_16730.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-12T13:22:16+00:00",
-    "buy_link": "https://myntr.in/ZUw7ut",
-    "date_iso": "2025-11-12T13:22:16+00:00"
   }
 ]
