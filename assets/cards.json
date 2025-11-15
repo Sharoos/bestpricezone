@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg17063",
+    "title": "Up to 75% Off On Red Tape Shoe",
+    "description": "Myntra | Upto 75% Off On Red Tape Shoes. Men's : https://myntr.in/QRwoDr Womens : https://myntr.in/X7MSHJ",
+    "shortlink": "https://myntr.in/QRwoDr",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On Red Tape Shoes"
+      },
+      {
+        "url": "https://myntr.in/QRwoDr",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/X7MSHJ",
+        "label": "Womens"
+      }
+    ],
+    "raw_text": "Myntra | Upto 75% Off On Red Tape Shoes.\n\nMen's : https://myntr.in/QRwoDr\nWomens : https://myntr.in/X7MSHJ",
+    "final_url": "https://myntr.in/QRwoDr",
+    "local_image": "assets/images/tgmsg_17063.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-15T03:40:32+00:00",
+    "buy_link": "https://myntr.in/QRwoDr",
+    "date_iso": "2025-11-15T03:40:32+00:00"
+  },
+  {
     "id": "msg17060",
     "title": "rank&dc=&crid=3KSA9VDSYSEDF&qid=1762196144&sprefix=campus%252Cshoes%252C245&ds=v1%253Aajz9t9bXG%252Bwwdq9uctM7p%252FrTfvDRAJ56hjt8f6vx81A&ck",
     "description": "Amazon | Campus Running Shoes Starts @ ₹399 Men :…",
@@ -9554,77 +9582,5 @@
     "date_obj": "2025-11-11T11:22:21+00:00",
     "buy_link": "https://ajiio.co/3EberW",
     "date_iso": "2025-11-11T11:22:21+00:00"
-  },
-  {
-    "id": "msg16580",
-    "title": "0% Forex Markup on International Spend",
-    "description": "Apply for the Lifetime FREE Scapia Federal Credit Card & Get Unlimited Airport Lounge Access🔥🔥 🔗 Apply Now: 🤜 Why Apply? • Lifetime FREE – No Joining/Annual Fee • s • Dual Network: VISA + RuPay • Instant Virtual Card 🤜…",
-    "shortlink": "https://extp.in/ILloCx",
-    "urls": [
-      {
-        "url": "",
-        "label": "Apply for the Lifetime FREE Scapia Federal Credit Card & Get Unlimited Airport Lounge Access🔥🔥"
-      },
-      {
-        "url": "https://extp.in/ILloCx",
-        "label": "🔗 Apply Now"
-      },
-      {
-        "url": "",
-        "label": "🤜 Why Apply?"
-      },
-      {
-        "url": "",
-        "label": "Lifetime FREE – No Joining/Annual Fee"
-      },
-      {
-        "url": "",
-        "label": "0% Forex Markup on International Spends"
-      },
-      {
-        "url": "",
-        "label": "VISA + RuPay"
-      },
-      {
-        "url": "",
-        "label": "Instant Virtual Card"
-      },
-      {
-        "url": "",
-        "label": "🤜 Top Benefits"
-      },
-      {
-        "url": "",
-        "label": "4% back on Flights/Hotels via Scapia"
-      },
-      {
-        "url": "",
-        "label": "2% back on Daily Spends"
-      },
-      {
-        "url": "",
-        "label": "1% back on ₹500+ UPI via RuPay"
-      },
-      {
-        "url": "",
-        "label": "Unlimited Lounge Access on ₹10K monthly spend"
-      },
-      {
-        "url": "",
-        "label": "Even existing Federal Bank cardholders are getting approved"
-      },
-      {
-        "url": "",
-        "label": "✅✅ Perfect for Lounge Access + Zero Forex Fees"
-      }
-    ],
-    "raw_text": "Apply for the Lifetime FREE Scapia Federal Credit Card & Get Unlimited Airport Lounge Access🔥🔥\n\n🔗 Apply Now: https://extp.in/ILloCx\n\n🤜 Why Apply?\n• Lifetime FREE – No Joining/Annual Fee\n• 0% Forex Markup on International Spends\n• Dual Network: VISA + RuPay\n• Instant Virtual Card\n\n🤜 Top Benefits\n• 4% back on Flights/Hotels via Scapia\n• 2% back on Daily Spends\n• 1% back on ₹500+ UPI via RuPay\n• Unlimited Lounge Access on ₹10K monthly spend\n• Even existing Federal Bank cardholders are getting approved\n\n✅✅ Perfect for Lounge Access + Zero Forex Fees",
-    "final_url": "https://extp.in/ILloCx",
-    "local_image": "assets/images/tgmsg_16580.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-11T11:28:25+00:00",
-    "buy_link": "https://extp.in/ILloCx",
-    "date_iso": "2025-11-11T11:28:25+00:00"
   }
 ]
