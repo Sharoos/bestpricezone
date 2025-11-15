@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg17136",
+    "title": "🏷️ Trends at Flat 70% OFF",
+    "description": "AJIO Deals – Steal These Before They're Gone! 🔥 👗 Trendy Styles Under ₹299 👉 👚 Kurtas at Just ₹299 👉 👕 T-Shirts Under ₹199 👉 👔 Shirts Under ₹399 👉  👉 👖 Jeans & Jeggings at ₹699 👉",
+    "shortlink": "https://ajiio.co/j4DAQG",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Deals – Steal These Before They're Gone! 🔥"
+      },
+      {
+        "url": "https://ajiio.co/j4DAQG",
+        "label": "👗 Trendy Styles Under ₹299"
+      },
+      {
+        "url": "https://ajiio.co/6zHnTX",
+        "label": "👚 Kurtas at Just ₹299"
+      },
+      {
+        "url": "https://ajiio.co/VtV9eY",
+        "label": "👕 T-Shirts Under ₹199"
+      },
+      {
+        "url": "https://ajiio.co/iRvOSO",
+        "label": "👔 Shirts Under ₹399"
+      },
+      {
+        "url": "https://ajiio.co/gXtm0f",
+        "label": "🏷️ Trends at Flat 70% OFF"
+      },
+      {
+        "url": "https://ajiio.co/Jrr4u8",
+        "label": "👖 Jeans & Jeggings at ₹699"
+      }
+    ],
+    "raw_text": "AJIO  Deals – Steal These Before They're Gone! 🔥\n\n👗 Trendy Styles Under ₹299\n👉 https://ajiio.co/j4DAQG\n\n👚 Kurtas at Just ₹299\n👉 https://ajiio.co/6zHnTX\n\n👕 T-Shirts Under ₹199\n👉 https://ajiio.co/VtV9eY\n\n👔 Shirts Under ₹399\n👉 https://ajiio.co/iRvOSO\n\n🏷️ Trends at Flat 70% OFF\n👉 https://ajiio.co/gXtm0f\n\n👖 Jeans & Jeggings at ₹699\n👉 https://ajiio.co/Jrr4u8",
+    "final_url": "https://ajiio.co/j4DAQG",
+    "local_image": "assets/images/tgmsg_17136.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-15T14:26:45+00:00",
+    "buy_link": "https://ajiio.co/j4DAQG",
+    "date_iso": "2025-11-15T14:26:45+00:00"
+  },
+  {
     "id": "msg17134",
     "title": "🔥Branded Jeans Up to 85% Off Starts From ₹249",
     "description": "🔥Myntra : Branded Jeans Upto 85% Off Starts From ₹249 Men : https://myntr.in/7J3nXF Women : https://myntr.in/gGXkjX",
@@ -9662,25 +9706,5 @@
     "date_obj": "2025-11-12T04:59:10+00:00",
     "buy_link": "https://fktr.in/ads9e3Y",
     "date_iso": "2025-11-12T04:59:10+00:00"
-  },
-  {
-    "id": "msg16658",
-    "title": "Denim Shirts Up to 80% Off",
-    "description": "Flipkart | Denim Shirts Upto 80% Off 👉 https://fkrt.co/GoXxoU",
-    "shortlink": "https://fkrt.co/GoXxoU",
-    "urls": [
-      {
-        "url": "https://fkrt.co/GoXxoU",
-        "label": "Denim Shirts Upto 80% Off"
-      }
-    ],
-    "raw_text": "Flipkart | Denim Shirts Upto 80% Off\n\n👉 https://fkrt.co/GoXxoU",
-    "final_url": "https://fkrt.co/GoXxoU",
-    "local_image": "assets/images/tgmsg_16658.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-12T05:09:16+00:00",
-    "buy_link": "https://fkrt.co/GoXxoU",
-    "date_iso": "2025-11-12T05:09:16+00:00"
   }
 ]
