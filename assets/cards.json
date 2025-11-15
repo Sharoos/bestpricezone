@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg17109",
+    "title": "Home",
+    "description": "Myntra Home - 99 Store !! https://myntr.in/TCKHd9",
+    "shortlink": "https://myntr.in/TCKHd9",
+    "urls": [
+      {
+        "url": "https://myntr.in/TCKHd9",
+        "label": "99 Store !!"
+      }
+    ],
+    "raw_text": "Myntra Home - 99 Store !!\n\nhttps://myntr.in/TCKHd9",
+    "final_url": "https://myntr.in/TCKHd9",
+    "local_image": "assets/images/tgmsg_17109.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-15T10:55:30+00:00",
+    "buy_link": "https://myntr.in/TCKHd9",
+    "date_iso": "2025-11-15T10:55:30+00:00"
+  },
+  {
+    "id": "msg17110",
+    "title": "💥Immersion Rods Water Heate",
+    "description": "💥Myntra | Immersion Rods Water Heaters - Under 599 !!! ⚡ 💥Woolen Bedsheets - Under 999 !!! ⚡",
+    "shortlink": "https://myntr.in/ayovRe",
+    "urls": [
+      {
+        "url": "https://myntr.in/ayovRe",
+        "label": "💥Myntra | Immersion Rods Water Heaters - Under 599 !!!"
+      },
+      {
+        "url": "https://myntr.in/9SKTWj",
+        "label": "💥Woolen Bedsheets - Under 999 !!!"
+      }
+    ],
+    "raw_text": "💥Myntra | Immersion Rods Water Heaters - Under 599 !!!\n⚡https://myntr.in/ayovRe\n\n💥Woolen Bedsheets - Under 999 !!!\n⚡https://myntr.in/9SKTWj",
+    "final_url": "https://myntr.in/ayovRe",
+    "local_image": "assets/images/tgmsg_17110.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-15T11:11:05+00:00",
+    "buy_link": "https://myntr.in/ayovRe",
+    "date_iso": "2025-11-15T11:11:05+00:00"
+  },
+  {
     "id": "msg17106",
     "title": "💥Cello and Larah by Borosil Dinner set at 60% and above discount",
     "description": "💥Myntra | Cello and Larah by Borosil Dinner set at 60% and above discount ⚡https://myntr.in/v2uPTN",
@@ -9694,57 +9738,5 @@
     "date_obj": "2025-11-11T18:06:04+00:00",
     "buy_link": "https://fkrt.co/LUX3LC",
     "date_iso": "2025-11-11T18:06:04+00:00"
-  },
-  {
-    "id": "msg16633",
-    "title": "Up to 65% Off on Laundry",
-    "description": "Ajio | Upto 65% Off on Laundry-Baskets-and-Dryers Starting @ just 325 Link : https://ajiio.co/hLFMW3",
-    "shortlink": "https://ajiio.co/hLFMW3",
-    "urls": [
-      {
-        "url": "https://ajiio.co/hLFMW3",
-        "label": "Upto 65% Off on Laundry-Baskets-and-Dryers Starting @ just 325"
-      }
-    ],
-    "raw_text": "Ajio | Upto 65% Off on Laundry-Baskets-and-Dryers Starting @ just 325\n \nLink : https://ajiio.co/hLFMW3",
-    "final_url": "https://ajiio.co/hLFMW3",
-    "local_image": "assets/images/tgmsg_16633.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-11T18:20:44+00:00",
-    "buy_link": "https://ajiio.co/hLFMW3",
-    "date_iso": "2025-11-11T18:20:44+00:00"
-  },
-  {
-    "id": "msg16635",
-    "title": "💰 Bonus Earn 10% Super Cash on Every Order!!",
-    "description": "Ajio SHEIN Clothing Starting @ 99💥💥 Men : Women : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!",
-    "shortlink": "https://ajiio.co/Ap8Fv9",
-    "urls": [
-      {
-        "url": "",
-        "label": "Ajio SHEIN Clothing Starting @ 99💥💥"
-      },
-      {
-        "url": "https://ajiio.co/Ap8Fv9",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.co/puIaEh",
-        "label": "Women"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!"
-      }
-    ],
-    "raw_text": "Ajio  SHEIN Clothing  Starting @ 99💥💥\n\n Men : https://ajiio.co/Ap8Fv9\n Women : https://ajiio.co/puIaEh\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!",
-    "final_url": "https://ajiio.co/Ap8Fv9",
-    "local_image": "assets/images/tgmsg_16635.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-11T18:29:54+00:00",
-    "buy_link": "https://ajiio.co/Ap8Fv9",
-    "date_iso": "2025-11-11T18:29:54+00:00"
   }
 ]
