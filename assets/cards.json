@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17159",
+    "title": "Up to 75% Off On Premium Winter Blanket",
+    "description": "Myntra : Upto 75% Off On Premium Winter Blankets. https://myntr.in/l02QJV",
+    "shortlink": "https://myntr.in/l02QJV",
+    "urls": [
+      {
+        "url": "https://myntr.in/l02QJV",
+        "label": "Upto 75% Off On Premium Winter Blankets"
+      }
+    ],
+    "raw_text": "Myntra : Upto 75% Off On Premium Winter Blankets.\n\nhttps://myntr.in/l02QJV",
+    "final_url": "https://myntr.in/l02QJV",
+    "local_image": "assets/images/tgmsg_17159.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-15T16:53:45+00:00",
+    "buy_link": "https://myntr.in/l02QJV",
+    "date_iso": "2025-11-15T16:53:45+00:00"
+  },
+  {
     "id": "msg17158",
     "title": "🛏️ Urban Space Bedsheets – Flat ₹449 + Gift Packaging",
     "description": "🔥Myntra | Top Deals – Quick Grab! 🔌 Prestige PKOSS Electric Kettle – Just ₹599! Lowest price across 🔥 🔗  Premium Microfiber Bedsheets 🔗 🛏️ Urban Space Bedsheets – Flat ₹449 + Coupon + Gift Packaging 🔗 🔗",
@@ -9742,45 +9762,5 @@
     "date_obj": "2025-11-12T07:48:19+00:00",
     "buy_link": "https://bitli.in/VCBC4NU",
     "date_iso": "2025-11-12T07:48:19+00:00"
-  },
-  {
-    "id": "msg16679",
-    "title": "Enjoy Up to 15% OFF on selected Hotels & Resorts worldwide 🌅",
-    "description": "🌍 Agoda Mid Month Sale Is LIVE! 🏖 Dreaming of your next vacation? Now’s the time to make it happen! 💫  🛏 Book your stay, pack your bags & save big! ⏰ Limited-time offer — Don’t miss out! 👉 Grab NOW",
-    "shortlink": "https://extp.in/6oQkzt",
-    "urls": [
-      {
-        "url": "",
-        "label": "🌍 Agoda Mid Month Sale Is LIVE! 🏖"
-      },
-      {
-        "url": "",
-        "label": "Dreaming of your next vacation? Now’s the time to make it happen! 💫"
-      },
-      {
-        "url": "",
-        "label": "Enjoy Up to 15% OFF on selected Hotels & Resorts worldwide 🌅"
-      },
-      {
-        "url": "",
-        "label": "🛏 Book your stay, pack your bags & save big!"
-      },
-      {
-        "url": "",
-        "label": "⏰ Limited-time offer — Don’t miss out!"
-      },
-      {
-        "url": "https://extp.in/6oQkzt",
-        "label": "Grab NOW"
-      }
-    ],
-    "raw_text": "🌍 Agoda Mid Month Sale Is LIVE! 🏖\nDreaming of your next vacation? Now’s the time to make it happen! 💫\nEnjoy Up to 15% OFF on selected Hotels & Resorts worldwide 🌅\n\n🛏 Book your stay, pack your bags & save big!\n⏰ Limited-time offer — Don’t miss out!\n\n👉 Grab NOW  https://extp.in/6oQkzt",
-    "final_url": "https://extp.in/6oQkzt",
-    "local_image": "assets/images/tgmsg_16679.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-12T07:06:57+00:00",
-    "buy_link": "https://extp.in/6oQkzt",
-    "date_iso": "2025-11-12T07:06:57+00:00"
   }
 ]
