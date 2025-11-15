@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg17081",
+    "title": "Men Clothing Starts @102",
+    "description": "Ajio Loot :  T-Shirt Starts @141: Shirt Starts @160: Jeans Starts @286: Polo T-Shirt Starts @165: + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.in/vtUFWkD",
+    "urls": [
+      {
+        "url": "",
+        "label": "Men Clothing Starts @102"
+      },
+      {
+        "url": "https://ajiio.in/vtUFWkD",
+        "label": "T-Shirt Starts @141"
+      },
+      {
+        "url": "https://ajiio.in/u20Gkou",
+        "label": "Shirt Starts @160"
+      },
+      {
+        "url": "https://ajiio.in/AYVsghg",
+        "label": "Jeans Starts @286"
+      },
+      {
+        "url": "https://ajiio.in/mYm7gg1",
+        "label": "Shirt Starts @165"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "Ajio Loot : Men Clothing Starts @102\n\nT-Shirt Starts @141: \nhttps://ajiio.in/vtUFWkD\n\nShirt Starts @160: \nhttps://ajiio.in/u20Gkou\n\nJeans Starts @286: \nhttps://ajiio.in/AYVsghg\n\nPolo T-Shirt Starts @165: \nhttps://ajiio.in/mYm7gg1\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.in/vtUFWkD",
+    "local_image": "assets/images/tgmsg_17081.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-15T06:55:38+00:00",
+    "buy_link": "https://ajiio.in/vtUFWkD",
+    "date_iso": "2025-11-15T06:55:38+00:00"
+  },
+  {
     "id": "msg17080",
     "title": "Up to 83% Off On Bewakoof Clothing",
     "description": "Myntra : Upto 83% Off On Bewakoof Clothing. Women's : https://myntr.in/3k4LRs Men's : https://myntr.in/JHKrKx",
@@ -9574,29 +9614,5 @@
     "date_obj": "2025-11-11T14:10:29+00:00",
     "buy_link": "https://myntr.in/qxSdcq.",
     "date_iso": "2025-11-11T14:10:29+00:00"
-  },
-  {
-    "id": "msg16600",
-    "title": "🛒 Deal Price ₹9999 {Up to 75% Off}",
-    "description": "🏃 Amazon | Treadmill Deals | Lifelong Walking Pad Treadmill 3 HP Brushless💥 🛒 Deal Price: ₹9999 {Up to 75% Off} ⚡",
-    "shortlink": "https://www.amazon.in/dp/B0FJ64WQPQ?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🏃 Amazon | Treadmill Deals | Lifelong Walking Pad Treadmill 3 HP Brushless💥"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0FJ64WQPQ?tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹9999 {Up to 75% Off}"
-      }
-    ],
-    "raw_text": "🏃 Amazon | Treadmill Deals | Lifelong Walking Pad Treadmill 3 HP Brushless💥\n\n🛒 Deal Price: ₹9999 {Up to 75% Off}\n\n⚡https://www.amazon.in/dp/B0FJ64WQPQ?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FJ64WQPQ?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16600.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-11T14:17:23+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FJ64WQPQ?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-11T14:17:23+00:00"
   }
 ]
