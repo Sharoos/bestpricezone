@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17076",
+    "title": "149",
+    "description": "149 https://www.amazon.in/dp/B0FR2MX2FM?social_share=cm_sw_r_cso_wa_apin_dp_3HPFDJA06FYYM7EEMMA3&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FR2MX2FM?social_share=cm_sw_r_cso_wa_apin_dp_3HPFDJA06FYYM7EEMMA3&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FR2MX2FM?social_share=cm_sw_r_cso_wa_apin_dp_3HPFDJA06FYYM7EEMMA3&tag=bestpricezo0f-21",
+        "label": "149"
+      }
+    ],
+    "raw_text": "149 https://www.amazon.in/dp/B0FR2MX2FM?social_share=cm_sw_r_cso_wa_apin_dp_3HPFDJA06FYYM7EEMMA3&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FR2MX2FM?social_share=cm_sw_r_cso_wa_apin_dp_3HPFDJA06FYYM7EEMMA3&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17076.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-15T05:52:02+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FR2MX2FM?social_share=cm_sw_r_cso_wa_apin_dp_3HPFDJA06FYYM7EEMMA3&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-15T05:52:02+00:00"
+  },
+  {
     "id": "msg17074",
     "title": "Up to 3% Rio Coins back on UPI & Card Spends 💰",
     "description": "Apply for the Lifetime FREE RIO Credit Card & Earn assured cashback on EVERY Scan & Swipe 🔥🔥 👉 Apply Now: Benefits: • 1+1 Movie Tickets on District & BookMyShow 🎬 • Flat ₹150 Off on Zomato 🍕 • 40% Off on Swiggy Food &…",
@@ -9522,25 +9542,5 @@
     "date_obj": "2025-11-11T13:31:20+00:00",
     "buy_link": "https://myntr.in/mgFCUi",
     "date_iso": "2025-11-11T13:31:20+00:00"
-  },
-  {
-    "id": "msg16588",
-    "title": "Shirt From ₹291",
-    "description": "Flipkart | Women's SweaT-Shirt From ₹291 👉 https://fkrt.co/bCkSDT",
-    "shortlink": "https://fkrt.co/bCkSDT",
-    "urls": [
-      {
-        "url": "https://fkrt.co/bCkSDT",
-        "label": "Women's SweaT-Shirt From ₹291"
-      }
-    ],
-    "raw_text": "Flipkart | Women's SweaT-Shirt From ₹291\n\n👉 https://fkrt.co/bCkSDT",
-    "final_url": "https://fkrt.co/bCkSDT",
-    "local_image": "assets/images/tgmsg_16588.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-11T12:50:06+00:00",
-    "buy_link": "https://fkrt.co/bCkSDT",
-    "date_iso": "2025-11-11T12:50:06+00:00"
   }
 ]
