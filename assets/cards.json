@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg17148",
+    "title": "🛒 Deal Price ₹1,399",
+    "description": "💥Amazon | ⌚ Smartwatch Deals | Noise Twist Go Round dial Smartwatch with BT Calling 🛒 Deal Price: ₹1,399 ⚡",
+    "shortlink": "https://www.amazon.in/Noise-Smartwatch-Calling-Tracking-Monitoring/dp/B0CQ4KTCH1?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "💥Amazon | ⌚ Smartwatch Deals | Noise Twist Go Round dial Smartwatch with BT Calling"
+      },
+      {
+        "url": "https://www.amazon.in/Noise-Smartwatch-Calling-Tracking-Monitoring/dp/B0CQ4KTCH1?th=1&language=en_IN&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹1,399"
+      }
+    ],
+    "raw_text": "💥Amazon | ⌚ Smartwatch Deals | Noise Twist Go Round dial Smartwatch with BT Calling\n\n🛒 Deal Price: ₹1,399\n\n⚡https://www.amazon.in/Noise-Smartwatch-Calling-Tracking-Monitoring/dp/B0CQ4KTCH1?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/Noise-Smartwatch-Calling-Tracking-Monitoring/dp/B0CQ4KTCH1?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17148.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-15T15:41:47+00:00",
+    "buy_link": "https://www.amazon.in/Noise-Smartwatch-Calling-Tracking-Monitoring/dp/B0CQ4KTCH1?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-15T15:41:47+00:00"
+  },
+  {
     "id": "msg17145",
     "title": "Patanjali Dant kanti at Min 25%",
     "description": "Myntra  |  Patanjali Dant kanti at Min 25% https://myntr.in/KwNuzd",
@@ -9694,49 +9718,5 @@
     "date_obj": "2025-11-12T06:35:00+00:00",
     "buy_link": "https://ajiio.co/didClf",
     "date_iso": "2025-11-12T06:35:00+00:00"
-  },
-  {
-    "id": "msg16666",
-    "title": "Up to. 70% Off On Raymond, Park Avenue & Parx Clothing",
-    "description": "Ajio | Upto. 70% Off On Raymond, Park Avenue & Parx Clothing. Shirts : Trousers : Tshirts : Jeans : Women : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "shortlink": "https://ajiio.co/QkK1Ck",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto. 70% Off On Raymond, Park Avenue & Parx Clothing"
-      },
-      {
-        "url": "https://ajiio.co/QkK1Ck",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/vnk3ew",
-        "label": "Trousers"
-      },
-      {
-        "url": "https://ajiio.co/368bWP",
-        "label": "Tshirts"
-      },
-      {
-        "url": "https://ajiio.co/cr0MC2",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/TOJOYL",
-        "label": "Women"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "Ajio | Upto. 70% Off On Raymond, Park Avenue & Parx Clothing.\n\nShirts : https://ajiio.co/QkK1Ck\nTrousers : https://ajiio.co/vnk3ew\nTshirts : https://ajiio.co/368bWP\nJeans : https://ajiio.co/cr0MC2\n\nWomen : https://ajiio.co/TOJOYL\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/QkK1Ck",
-    "local_image": "assets/images/tgmsg_16666.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-12T05:50:54+00:00",
-    "buy_link": "https://ajiio.co/QkK1Ck",
-    "date_iso": "2025-11-12T05:50:54+00:00"
   }
 ]
