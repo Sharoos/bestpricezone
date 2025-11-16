@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17301",
+    "title": "@299",
+    "description": "@299 https://fkrt.co/nBeM7x",
+    "shortlink": "https://fkrt.co/nBeM7x",
+    "urls": [
+      {
+        "url": "https://fkrt.co/nBeM7x",
+        "label": ""
+      }
+    ],
+    "raw_text": "@299\n\nhttps://fkrt.co/nBeM7x",
+    "final_url": "https://fkrt.co/nBeM7x",
+    "local_image": "assets/images/tgmsg_17301.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-16T18:52:35+00:00",
+    "buy_link": "https://fkrt.co/nBeM7x",
+    "date_iso": "2025-11-16T18:52:35+00:00"
+  },
+  {
     "id": "msg17292",
     "title": "Devoiler Men's Kurta Up to 90% Off Starts @ 199",
     "description": "Myntra | Devoiler Men's Kurta Upto 90% Off | Starts @ 199 👉https://myntr.in/YXXWiD",
@@ -9282,25 +9302,5 @@
     "date_obj": "2025-11-13T12:34:32+00:00",
     "buy_link": "https://ajiio.co/NEwoh2",
     "date_iso": "2025-11-13T12:34:32+00:00"
-  },
-  {
-    "id": "msg16824",
-    "title": "At 125",
-    "description": "At 125 : https://www.amazon.in/dp/B0FFZHF1YK?social_share=cm_sw_r_cso_wa_apin_dp_DNHKD74K4162N8TE153M&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FFZHF1YK?social_share=cm_sw_r_cso_wa_apin_dp_DNHKD74K4162N8TE153M&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FFZHF1YK?social_share=cm_sw_r_cso_wa_apin_dp_DNHKD74K4162N8TE153M&tag=bestpricezo0f-21",
-        "label": "At 125"
-      }
-    ],
-    "raw_text": "At 125 : https://www.amazon.in/dp/B0FFZHF1YK?social_share=cm_sw_r_cso_wa_apin_dp_DNHKD74K4162N8TE153M&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FFZHF1YK?social_share=cm_sw_r_cso_wa_apin_dp_DNHKD74K4162N8TE153M&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16824.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-13T12:36:59+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FFZHF1YK?social_share=cm_sw_r_cso_wa_apin_dp_DNHKD74K4162N8TE153M&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-13T12:36:59+00:00"
   }
 ]
