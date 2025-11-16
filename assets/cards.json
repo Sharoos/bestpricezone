@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg17227",
+    "title": "🛒 Deal Price ₹149",
+    "description": "🧴 Amazon | Hair Care Savings! | Parachute Advanced Coconut & Rosemary Hair Cream 210ml 🛒 Deal Price: ₹149",
+    "shortlink": "https://www.amazon.in/Parachute-Advansed-Coconut-Rosemary-Leave/dp/B0DW48B5MT?language=en_IN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧴 Amazon | Hair Care Savings! | Parachute Advanced Coconut & Rosemary Hair Cream 210ml"
+      },
+      {
+        "url": "https://www.amazon.in/Parachute-Advansed-Coconut-Rosemary-Leave/dp/B0DW48B5MT?language=en_IN&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹149"
+      }
+    ],
+    "raw_text": "🧴 Amazon | Hair Care Savings! | Parachute Advanced Coconut & Rosemary Hair Cream 210ml\n\n🛒 Deal Price: ₹149\n\nhttps://www.amazon.in/Parachute-Advansed-Coconut-Rosemary-Leave/dp/B0DW48B5MT?language=en_IN&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/Parachute-Advansed-Coconut-Rosemary-Leave/dp/B0DW48B5MT?language=en_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17227.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-16T06:25:52+00:00",
+    "buy_link": "https://www.amazon.in/Parachute-Advansed-Coconut-Rosemary-Leave/dp/B0DW48B5MT?language=en_IN&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-16T06:25:52+00:00"
+  },
+  {
+    "id": "msg17228",
+    "title": "💥Up to 70% Off On The Bear House Clothing",
+    "description": "💥Flipkart | Upto 70% Off On The Bear House Clothing. ⚡Shirts : ⚡Tshirts : ⚡Jeans :",
+    "shortlink": "https://fkrt.co/yBnARB",
+    "urls": [
+      {
+        "url": "",
+        "label": "💥Flipkart | Upto 70% Off On The Bear House Clothing"
+      },
+      {
+        "url": "https://fkrt.co/yBnARB",
+        "label": "⚡Shirts"
+      },
+      {
+        "url": "https://fkrt.co/WRmoZ7",
+        "label": "⚡Tshirts"
+      },
+      {
+        "url": "https://fkrt.co/NwZa10",
+        "label": "⚡Jeans"
+      }
+    ],
+    "raw_text": "💥Flipkart | Upto 70% Off On The Bear House Clothing.\n\n⚡Shirts : https://fkrt.co/yBnARB\n⚡Tshirts : https://fkrt.co/WRmoZ7\n⚡Jeans : https://fkrt.co/NwZa10",
+    "final_url": "https://fkrt.co/yBnARB",
+    "local_image": "assets/images/tgmsg_17228.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-16T06:40:51+00:00",
+    "buy_link": "https://fkrt.co/yBnARB",
+    "date_iso": "2025-11-16T06:40:51+00:00"
+  },
+  {
     "id": "msg17224",
     "title": "Up to 75% Off on Buda Jeans Men’s Clothing",
     "description": "Ajio Upto 75% Off on Buda Jeans Men’s Clothing. T-Shirt : Shirt : Jeans : Trackpant : Shorts : Winterwear : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
@@ -9438,49 +9494,5 @@
     "date_obj": "2025-11-12T17:06:02+00:00",
     "buy_link": "https://bitli.in/1e0kn2h",
     "date_iso": "2025-11-12T17:06:02+00:00"
-  },
-  {
-    "id": "msg16749",
-    "title": "💥OverSized Tshirts Starts @180",
-    "description": "💥Ajio | OverSized Tshirts Starts @180. 👉Link : https://ajiio.co/hV4sLs",
-    "shortlink": "https://ajiio.co/hV4sLs",
-    "urls": [
-      {
-        "url": "https://ajiio.co/hV4sLs",
-        "label": "💥Ajio | OverSized Tshirts Starts @180"
-      }
-    ],
-    "raw_text": "💥Ajio | OverSized Tshirts Starts @180.\n\n👉Link : https://ajiio.co/hV4sLs",
-    "final_url": "https://ajiio.co/hV4sLs",
-    "local_image": "assets/images/tgmsg_16749.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-12T16:43:34+00:00",
-    "buy_link": "https://ajiio.co/hV4sLs",
-    "date_iso": "2025-11-12T16:43:34+00:00"
-  },
-  {
-    "id": "msg16747",
-    "title": "Pigeon Nonstick Tawa + Pan at ₹569",
-    "description": "Amazon | Pigeon Nonstick Tawa + Pan at ₹569 👉 https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21 Pigeon Knife Set - 4pcs at ₹95 👉 https://www.amazon.in/dp/B0CYZ48MDL?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "Pigeon Nonstick Tawa + Pan at ₹569"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0CYZ48MDL?th=1&tag=bestpricezo0f-21",
-        "label": "4pcs at ₹95"
-      }
-    ],
-    "raw_text": "Amazon | Pigeon Nonstick Tawa + Pan at ₹569\n\n👉 https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21\n\nPigeon Knife Set - 4pcs at ₹95\n\n👉 https://www.amazon.in/dp/B0CYZ48MDL?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16747.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-12T15:57:01+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-12T15:57:01+00:00"
   }
 ]
