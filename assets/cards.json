@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17217",
+    "title": "Under 599 !!!",
+    "description": "Myntra | Blankets & Quilts - Under 599 !!! https://myntr.in/jh2ySZ",
+    "shortlink": "https://myntr.in/jh2ySZ",
+    "urls": [
+      {
+        "url": "https://myntr.in/jh2ySZ",
+        "label": "Blankets & Quilts - Under 599 !!!"
+      }
+    ],
+    "raw_text": "Myntra | Blankets & Quilts - Under 599 !!!\n\nhttps://myntr.in/jh2ySZ",
+    "final_url": "https://myntr.in/jh2ySZ",
+    "local_image": "assets/images/tgmsg_17217.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-16T04:27:50+00:00",
+    "buy_link": "https://myntr.in/jh2ySZ",
+    "date_iso": "2025-11-16T04:27:50+00:00"
+  },
+  {
     "id": "msg17210",
     "title": "Women's Westernwear Under ₹399 (Rio, Fig & More)",
     "description": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More) Women : https://ajiio.co/cCdFX7 Girls : https://ajiio.co/c8PBrg",
@@ -9466,25 +9486,5 @@
     "date_obj": "2025-11-12T14:12:04+00:00",
     "buy_link": "https://myntr.in/b9IMJw",
     "date_iso": "2025-11-12T14:12:04+00:00"
-  },
-  {
-    "id": "msg16733",
-    "title": "Titan Wall Clock at min. 30% Discount Plus Discount",
-    "description": "Myntra | Titan Wall Clock at min. 30% Discount Plus Coupon Discount https://myntr.in/5gHDYQ",
-    "shortlink": "https://myntr.in/5gHDYQ",
-    "urls": [
-      {
-        "url": "https://myntr.in/5gHDYQ",
-        "label": ""
-      }
-    ],
-    "raw_text": "Myntra | Titan Wall Clock at min. 30% Discount Plus Coupon Discount\n\nhttps://myntr.in/5gHDYQ",
-    "final_url": "https://myntr.in/5gHDYQ",
-    "local_image": "assets/images/tgmsg_16733.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-12T13:39:15+00:00",
-    "buy_link": "https://myntr.in/5gHDYQ",
-    "date_iso": "2025-11-12T13:39:15+00:00"
   }
 ]
