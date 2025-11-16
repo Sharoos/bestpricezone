@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17286",
+    "title": "Fila Shoes from ₹584",
+    "description": "Flipkart | Fila Shoes from ₹584 👉https://fkrt.co/L2etEb",
+    "shortlink": "https://fkrt.co/L2etEb",
+    "urls": [
+      {
+        "url": "https://fkrt.co/L2etEb",
+        "label": "Fila Shoes from ₹584"
+      }
+    ],
+    "raw_text": "Flipkart | Fila Shoes from ₹584\n\n👉https://fkrt.co/L2etEb",
+    "final_url": "https://fkrt.co/L2etEb",
+    "local_image": "assets/images/tgmsg_17286.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-16T16:41:28+00:00",
+    "buy_link": "https://fkrt.co/L2etEb",
+    "date_iso": "2025-11-16T16:41:28+00:00"
+  },
+  {
     "id": "msg17285",
     "title": "Set of two pillows @269 + discount",
     "description": "Myntra | Set of two pillows @269 + Coupon discounts 👉Link : https://myntr.in/lPw31X",
@@ -9222,25 +9242,5 @@
     "date_obj": "2025-11-13T11:30:08+00:00",
     "buy_link": "https://extp.in/WX698Y",
     "date_iso": "2025-11-13T11:30:08+00:00"
-  },
-  {
-    "id": "msg16810",
-    "title": "JIO JioBharat V4 4G Keypad Phone @789",
-    "description": "Amazon | JIO JioBharat V4 4G Keypad Phone @789 👉 https://www.amazon.in/dp/B0DJMLYWFG?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DJMLYWFG?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DJMLYWFG?th=1&tag=bestpricezo0f-21",
-        "label": "JIO JioBharat V4 4G Keypad Phone @789"
-      }
-    ],
-    "raw_text": "Amazon | JIO JioBharat V4 4G Keypad Phone @789\n\n👉 https://www.amazon.in/dp/B0DJMLYWFG?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DJMLYWFG?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16810.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-13T10:26:33+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DJMLYWFG?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-13T10:26:33+00:00"
   }
 ]
