@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg17290",
+    "title": "Offer Min 75 Percent Off",
+    "description": "Ajio | 💥 Dnmx 👉Offer: Under Rs 299 ⚡ 💥 Yousta 👉Offer: Under Rs 199 ⚡ 💥 Azorte 👉Offer: Min 75 Percent Off ⚡ 💥 Jeans & Trousers 👉Offer: Under Rs 799 ⚡ 💥 Tshirts and Tops 👉Offer: Under Rs 299 ⚡ 💥 Kurtas and Kurtis 👉Offer:…",
+    "shortlink": "https://ajiio.co/8Cv3jZ",
+    "urls": [
+      {
+        "url": "",
+        "label": "💥 Dnmx"
+      },
+      {
+        "url": "https://ajiio.co/8Cv3jZ",
+        "label": "Under Rs 299"
+      },
+      {
+        "url": "https://ajiio.co/LNOa4e",
+        "label": "Under Rs 199"
+      },
+      {
+        "url": "https://ajiio.co/fPBLYS",
+        "label": "Min 75 Percent Off"
+      },
+      {
+        "url": "",
+        "label": "💥 Jeans & Trousers"
+      },
+      {
+        "url": "https://ajiio.co/EtO3by",
+        "label": "Under Rs 799"
+      },
+      {
+        "url": "",
+        "label": "💥 Tshirts and Tops"
+      },
+      {
+        "url": "https://ajiio.co/gkNsUp",
+        "label": "Under Rs 299"
+      },
+      {
+        "url": "",
+        "label": "💥 Kurtas and Kurtis"
+      },
+      {
+        "url": "https://ajiio.co/Fu4TVD",
+        "label": "Under Rs 399"
+      }
+    ],
+    "raw_text": "Ajio | 💥 Dnmx \n👉Offer: Under Rs 299 \n⚡https://ajiio.co/8Cv3jZ\n\n💥 Yousta \n👉Offer: Under Rs 199 \n⚡https://ajiio.co/LNOa4e\n\n💥 Azorte \n👉Offer: Min 75 Percent Off \n⚡https://ajiio.co/fPBLYS\n\n💥 Jeans & Trousers \n👉Offer: Under Rs 799 \n⚡https://ajiio.co/EtO3by\n\n💥 Tshirts and Tops \n👉Offer: Under Rs 299 \n⚡https://ajiio.co/gkNsUp\n\n💥 Kurtas and Kurtis \n👉Offer: Under Rs 399 \n⚡https://ajiio.co/Fu4TVD",
+    "final_url": "https://ajiio.co/8Cv3jZ",
+    "local_image": "assets/images/tgmsg_17290.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-16T17:46:19+00:00",
+    "buy_link": "https://ajiio.co/8Cv3jZ",
+    "date_iso": "2025-11-16T17:46:19+00:00"
+  },
+  {
     "id": "msg17288",
     "title": "Up to 75% Off On Stylecast X Kotty Jean",
     "description": "Myntra | Upto 75% Off On Stylecast X Kotty Jeans https://myntr.in/XMxciZ",
@@ -9214,29 +9270,5 @@
     "date_obj": "2025-11-13T12:04:01+00:00",
     "buy_link": "https://fkrt.co/REJZJW",
     "date_iso": "2025-11-13T12:04:01+00:00"
-  },
-  {
-    "id": "msg16821",
-    "title": "3 pcs Hand towel Set @ 349 only",
-    "description": "Myntra | 3 pcs Hand towel Set @ 349 only 👉https://myntr.in/S7uLrF Popular Anti-skid Doormats starting @ 199 only 👉https://myntr.in/rp2QRQ",
-    "shortlink": "https://myntr.in/S7uLrF",
-    "urls": [
-      {
-        "url": "https://myntr.in/S7uLrF",
-        "label": "3 pcs Hand towel Set @ 349 only"
-      },
-      {
-        "url": "https://myntr.in/rp2QRQ",
-        "label": "skid Doormats starting @ 199 only"
-      }
-    ],
-    "raw_text": "Myntra | 3 pcs Hand towel Set @ 349 only\n👉https://myntr.in/S7uLrF\n\nPopular Anti-skid Doormats starting @ 199 only\n👉https://myntr.in/rp2QRQ",
-    "final_url": "https://myntr.in/S7uLrF",
-    "local_image": "assets/images/tgmsg_16821.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-13T12:13:05+00:00",
-    "buy_link": "https://myntr.in/S7uLrF",
-    "date_iso": "2025-11-13T12:13:05+00:00"
   }
 ]
