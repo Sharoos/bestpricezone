@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17220",
+    "title": "🏎 Mini Monster Truck Push and Go Toy For Kids At Rs.42",
+    "description": "Flipkart | 🏎 Mini Monster Truck Push and Go Toy For Kids At Rs.42 https://fkrt.co/U4H4uj",
+    "shortlink": "https://fkrt.co/U4H4uj",
+    "urls": [
+      {
+        "url": "https://fkrt.co/U4H4uj",
+        "label": "🏎 Mini Monster Truck Push and Go Toy For Kids At Rs.42"
+      }
+    ],
+    "raw_text": "Flipkart | 🏎 Mini Monster Truck Push and Go Toy For Kids At Rs.42\n\nhttps://fkrt.co/U4H4uj",
+    "final_url": "https://fkrt.co/U4H4uj",
+    "local_image": "assets/images/tgmsg_17220.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-16T04:55:43+00:00",
+    "buy_link": "https://fkrt.co/U4H4uj",
+    "date_iso": "2025-11-16T04:55:43+00:00"
+  },
+  {
     "id": "msg17218",
     "title": "80% Off !!!",
     "description": "Myntra | Set of 4 piece Ceramic Bowls - Rs 356 !!! -  Use coupon code - HOMECLEARANCE for additional discount !!",
@@ -9426,53 +9446,5 @@
     "date_obj": "2025-11-12T14:26:27+00:00",
     "buy_link": "https://myntr.in/zkRqDr",
     "date_iso": "2025-11-12T14:26:27+00:00"
-  },
-  {
-    "id": "msg16741",
-    "title": "Up to 89% Off On Tokyo Talkies Women Clothing",
-    "description": "Flipkart | Upto 89% Off On Tokyo Talkies Women Clothing. Tops. : Sweatshirts : Dresses : Jeans : Trousers : Blazers : Jumpsuits :",
-    "shortlink": "https://fkrt.co/9x1FlJ",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 89% Off On Tokyo Talkies Women Clothing"
-      },
-      {
-        "url": "https://fkrt.co/9x1FlJ",
-        "label": "Tops"
-      },
-      {
-        "url": "https://fkrt.co/fcXXgv",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://fkrt.co/7kd7Zo",
-        "label": "Dresses"
-      },
-      {
-        "url": "https://fkrt.co/86AJx6",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://fkrt.co/ohrzsJ",
-        "label": "Trousers"
-      },
-      {
-        "url": "https://fkrt.co/ta52IQ",
-        "label": "Blazers"
-      },
-      {
-        "url": "https://fkrt.co/GQHgHK",
-        "label": "Jumpsuits"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 89% Off On Tokyo Talkies Women Clothing. \n\nTops. :https://fkrt.co/9x1FlJ \nSweatshirts : https://fkrt.co/fcXXgv \nDresses : https://fkrt.co/7kd7Zo \nJeans : https://fkrt.co/86AJx6 \nTrousers :https://fkrt.co/ohrzsJ \nBlazers :https://fkrt.co/ta52IQ \nJumpsuits : https://fkrt.co/GQHgHK",
-    "final_url": "https://fkrt.co/9x1FlJ",
-    "local_image": "assets/images/tgmsg_16741.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-12T14:41:21+00:00",
-    "buy_link": "https://fkrt.co/9x1FlJ",
-    "date_iso": "2025-11-12T14:41:21+00:00"
   }
 ]
