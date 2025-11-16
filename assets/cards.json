@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg17309",
+    "title": "🛒 Deal Price ₹152",
+    "description": "👕 Trendy Shirt Deal 🛒 Deal Price: ₹152 Minimum Order Quantity: 2 https://extp.in/YYqtI5",
+    "shortlink": "https://extp.in/YYqtI5",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 Trendy Shirt Deal"
+      },
+      {
+        "url": "",
+        "label": "🛒 Deal Price: ₹152"
+      },
+      {
+        "url": "https://extp.in/YYqtI5",
+        "label": "2"
+      }
+    ],
+    "raw_text": "👕 Trendy Shirt Deal\n\n🛒 Deal Price: ₹152\n\nMinimum Order Quantity: 2\n\nhttps://extp.in/YYqtI5",
+    "final_url": "https://extp.in/YYqtI5",
+    "local_image": "assets/images/tgmsg_17309.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-11-16T21:07:35+00:00",
+    "buy_link": "https://extp.in/YYqtI5",
+    "date_iso": "2025-11-16T21:07:35+00:00"
+  },
+  {
     "id": "msg17308",
     "title": "🛒 Deal Price ₹36 (Min. 2 Qty)",
     "description": "😎 Sunglasses Steal Deal Wayfarer Sunglasses (For Men & Women, Black) 🛒 Deal Price: ₹36 (Min. 2 Qty)",
@@ -9178,25 +9206,5 @@
     "date_obj": "2025-11-13T13:12:37+00:00",
     "buy_link": "https://www.amazon.in/PARAGON-K2228G-Anti-Skid-Comfortable-Everyday/dp/B0CK5RLH8W?pd_rd_w=2njyj&content-id=amzn1.sym.1f02df7f-f362-4e6d-9a92-f270d75713e4&pf_rd_p=1f02df7f-f362-4e6d-9a92-f270d75713e4&pf_rd_r=4C3Q4KSSE5C5TZ3960GZ&pd_rd_wg=Nn4M4&pd_rd_r=b4c09835-d103-4528-994c-8610c109d5cb&pd_rd_i=B0CK5YC6ZS&th=1&psc=1&language=en_IN&tag=bestpricezo0f-21",
     "date_iso": "2025-11-13T13:12:37+00:00"
-  },
-  {
-    "id": "msg16832",
-    "title": "Lifelong Foldable Mosquito Racket @ 699",
-    "description": "Amazon | Lifelong Foldable Mosquito Racket @ 699. 👉 https://www.amazon.in/dp/B0DY82483C?psc=1&th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DY82483C?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DY82483C?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "Lifelong Foldable Mosquito Racket @ 699"
-      }
-    ],
-    "raw_text": "Amazon | Lifelong Foldable Mosquito Racket @ 699.\n\n👉 https://www.amazon.in/dp/B0DY82483C?psc=1&th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DY82483C?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16832.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-13T13:20:35+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DY82483C?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-13T13:20:35+00:00"
   }
 ]
