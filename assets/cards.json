@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg17247",
+    "title": "Up to 76% Off On Milton Product",
+    "description": "Myntra  Upto 76% Off On Milton Products. https://myntr.in/nne4pb Low To High : https://myntr.in/IDpwjp",
+    "shortlink": "https://myntr.in/nne4pb",
+    "urls": [
+      {
+        "url": "https://myntr.in/nne4pb",
+        "label": "Myntra Upto 76% Off On Milton Products"
+      },
+      {
+        "url": "https://myntr.in/IDpwjp",
+        "label": "Low To High"
+      }
+    ],
+    "raw_text": "Myntra  Upto 76% Off On Milton Products.\n\nhttps://myntr.in/nne4pb\n\nLow To High : https://myntr.in/IDpwjp",
+    "final_url": "https://myntr.in/nne4pb",
+    "local_image": "assets/images/tgmsg_17247.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-16T10:58:14+00:00",
+    "buy_link": "https://myntr.in/nne4pb",
+    "date_iso": "2025-11-16T10:58:14+00:00"
+  },
+  {
+    "id": "msg17248",
+    "title": "Nu Republic Starboy 3 Headphones @ ₹1299",
+    "description": "Amazon | Nu Republic Starboy 3 Headphones @ ₹1299. 👉https://www.amazon.in/dp/B0FK79QKXD?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FK79QKXD?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FK79QKXD?tag=bestpricezo0f-21",
+        "label": "Nu Republic Starboy 3 Headphones @ ₹1299"
+      }
+    ],
+    "raw_text": "Amazon | Nu Republic Starboy 3 Headphones @ ₹1299.\n\n👉https://www.amazon.in/dp/B0FK79QKXD?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FK79QKXD?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17248.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-16T11:11:10+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FK79QKXD?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-16T11:11:10+00:00"
+  },
+  {
     "id": "msg17245",
     "title": "Beardo perfumes at Min 70% off",
     "description": "Myntra | Beardo perfumes at Min 70% off Link : https://myntr.in/yppoyE",
@@ -9346,85 +9390,5 @@
     "date_obj": "2025-11-13T06:31:13+00:00",
     "buy_link": "https://fkrt.co/eaLoa4",
     "date_iso": "2025-11-13T06:31:13+00:00"
-  },
-  {
-    "id": "msg16776",
-    "title": "Up to 80% OFF on Branded Shoes 🔥",
-    "description": "👟👟 Mega Footwear Sale Alert Upto 80% OFF on Branded Shoes 🔥 Top Picks 👇 Puma → Reebok → Adidas → FILA → Duke → Wrogn → Hush Puppies → 🛍 Grab your favorite pair before it’s gone",
-    "shortlink": "https://fkrt.co/iuetEL",
-    "urls": [
-      {
-        "url": "",
-        "label": "👟👟 Mega Footwear Sale Alert"
-      },
-      {
-        "url": "",
-        "label": "Upto 80% OFF on Branded Shoes 🔥"
-      },
-      {
-        "url": "",
-        "label": "Top Picks 👇"
-      },
-      {
-        "url": "https://fkrt.co/iuetEL",
-        "label": "Puma →"
-      },
-      {
-        "url": "https://fkrt.co/Hz3Xo9",
-        "label": "Reebok →"
-      },
-      {
-        "url": "https://fkrt.co/1NYnHF",
-        "label": "Adidas →"
-      },
-      {
-        "url": "https://fkrt.co/zBdBYc",
-        "label": "FILA →"
-      },
-      {
-        "url": "https://fkrt.co/m6Fw7w",
-        "label": "Duke →"
-      },
-      {
-        "url": "https://fkrt.co/ocPq2Q",
-        "label": "Wrogn →"
-      },
-      {
-        "url": "https://fkrt.co/HKjrgo",
-        "label": "Hush Puppies →"
-      },
-      {
-        "url": "",
-        "label": "🛍 Grab your favorite pair before it’s gone"
-      }
-    ],
-    "raw_text": "👟👟 Mega Footwear Sale Alert\n\nUpto 80% OFF on Branded Shoes 🔥\n\nTop Picks 👇\nPuma → https://fkrt.co/iuetEL\nReebok → https://fkrt.co/Hz3Xo9\nAdidas → https://fkrt.co/1NYnHF\nFILA → https://fkrt.co/zBdBYc\nDuke → https://fkrt.co/m6Fw7w\nWrogn → https://fkrt.co/ocPq2Q\nHush Puppies → https://fkrt.co/HKjrgo\n\n🛍 Grab your favorite pair before it’s gone",
-    "final_url": "https://fkrt.co/iuetEL",
-    "local_image": "assets/images/tgmsg_16776.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-13T05:46:10+00:00",
-    "buy_link": "https://fkrt.co/iuetEL",
-    "date_iso": "2025-11-13T05:46:10+00:00"
-  },
-  {
-    "id": "msg16775",
-    "title": "boAt Wave Fury Calling Smartwatch @1399",
-    "description": "Flipkart | boAt Wave Fury Calling Smartwatch @1399 https://fkrt.co/DP0O3h",
-    "shortlink": "https://fkrt.co/DP0O3h",
-    "urls": [
-      {
-        "url": "https://fkrt.co/DP0O3h",
-        "label": "boAt Wave Fury Calling Smartwatch @1399"
-      }
-    ],
-    "raw_text": "Flipkart | boAt Wave Fury Calling Smartwatch @1399\n\nhttps://fkrt.co/DP0O3h",
-    "final_url": "https://fkrt.co/DP0O3h",
-    "local_image": "assets/images/tgmsg_16775.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-13T05:36:10+00:00",
-    "buy_link": "https://fkrt.co/DP0O3h",
-    "date_iso": "2025-11-13T05:36:10+00:00"
   }
 ]
