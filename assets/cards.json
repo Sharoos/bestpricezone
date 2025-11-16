@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg17249",
+    "title": "Men's Tshirt Start @119",
+    "description": "Myntra  Men's Tshirt Start @119. 👉https://myntr.in/hOhsiK Jeans Start @279 : https://myntr.in/rUuhTq",
+    "shortlink": "https://myntr.in/hOhsiK",
+    "urls": [
+      {
+        "url": "https://myntr.in/hOhsiK",
+        "label": "Myntra Men's Tshirt Start @119"
+      },
+      {
+        "url": "https://myntr.in/rUuhTq",
+        "label": "Jeans Start @279"
+      }
+    ],
+    "raw_text": "Myntra  Men's Tshirt Start @119.\n\n👉https://myntr.in/hOhsiK\n\nJeans Start @279 : https://myntr.in/rUuhTq",
+    "final_url": "https://myntr.in/hOhsiK",
+    "local_image": "assets/images/tgmsg_17249.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-16T11:28:12+00:00",
+    "buy_link": "https://myntr.in/hOhsiK",
+    "date_iso": "2025-11-16T11:28:12+00:00"
+  },
+  {
     "id": "msg17247",
     "title": "Up to 76% Off On Milton Product",
     "description": "Myntra  Upto 76% Off On Milton Products. https://myntr.in/nne4pb Low To High : https://myntr.in/IDpwjp",
@@ -9354,41 +9378,5 @@
     "date_obj": "2025-11-13T06:24:57+00:00",
     "buy_link": "https://bitli.in/EbNWBrq",
     "date_iso": "2025-11-13T06:24:57+00:00"
-  },
-  {
-    "id": "msg16782",
-    "title": "Up to 80% Off On Branded Backpack",
-    "description": "Flipkart | Upto 80% Off On Branded Backpacks. Masterlink : Skybags : Safari : Aristocrat :",
-    "shortlink": "https://fkrt.co/eaLoa4",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Branded Backpacks"
-      },
-      {
-        "url": "https://fkrt.co/eaLoa4",
-        "label": "Masterlink"
-      },
-      {
-        "url": "https://fkrt.co/1PUm0L",
-        "label": "Skybags"
-      },
-      {
-        "url": "https://fkrt.co/HdeeRr",
-        "label": "Safari"
-      },
-      {
-        "url": "https://fkrt.co/fBlutA",
-        "label": "Aristocrat"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 80% Off On Branded Backpacks. \n\nMasterlink : https://fkrt.co/eaLoa4\n\nSkybags : https://fkrt.co/1PUm0L\nSafari : https://fkrt.co/HdeeRr\nAristocrat : https://fkrt.co/fBlutA",
-    "final_url": "https://fkrt.co/eaLoa4",
-    "local_image": "assets/images/tgmsg_16782.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-13T06:31:13+00:00",
-    "buy_link": "https://fkrt.co/eaLoa4",
-    "date_iso": "2025-11-13T06:31:13+00:00"
   }
 ]
