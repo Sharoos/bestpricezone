@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17239",
+    "title": "Up to 63% Off on Laundry",
+    "description": "Ajio | Upto 63% Off on Laundry-Baskets-and-Dryers Starting @ just 328 Link : https://ajiio.co/t2w6k1",
+    "shortlink": "https://ajiio.co/t2w6k1",
+    "urls": [
+      {
+        "url": "https://ajiio.co/t2w6k1",
+        "label": "Upto 63% Off on Laundry-Baskets-and-Dryers Starting @ just 328"
+      }
+    ],
+    "raw_text": "Ajio | Upto 63% Off on Laundry-Baskets-and-Dryers Starting @ just 328\n \nLink : https://ajiio.co/t2w6k1",
+    "final_url": "https://ajiio.co/t2w6k1",
+    "local_image": "assets/images/tgmsg_17239.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-16T09:41:13+00:00",
+    "buy_link": "https://ajiio.co/t2w6k1",
+    "date_iso": "2025-11-16T09:41:13+00:00"
+  },
+  {
     "id": "msg17238",
     "title": "Men's Jeans Start @₹270",
     "description": "AJIO  : Men's Jeans Start @₹270 👉 https://ajiio.co/AgQkmC",
@@ -9434,25 +9454,5 @@
     "date_obj": "2025-11-13T04:11:53+00:00",
     "buy_link": "https://ajiio.co/MeG4j3",
     "date_iso": "2025-11-13T04:11:53+00:00"
-  },
-  {
-    "id": "msg16760",
-    "title": "Longway Fan Room Heater at ₹799",
-    "description": "Amazon | Longway Fan Room Heater at ₹799. https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
-        "label": "Longway Fan Room Heater at ₹799"
-      }
-    ],
-    "raw_text": "Amazon | Longway Fan Room Heater at ₹799.\n\nhttps://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16760.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-12T18:36:50+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-12T18:36:50+00:00"
   }
 ]
