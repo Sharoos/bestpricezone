@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg17275",
+    "title": "Michael Kors watches at Up to 40% off !!!",
+    "description": "💥Myntra | Watches Luxe Crazy Deals only!!! Emporio Armani Watches min 30% off !!! ⚡ Michael Kors watches at Upto 40% off !!! ⚡ Armani Exchange watches at Upto 40% off !!! ⚡",
+    "shortlink": "https://myntr.in/xmeaRT",
+    "urls": [
+      {
+        "url": "",
+        "label": "💥Myntra | Watches Luxe Crazy Deals only!!!"
+      },
+      {
+        "url": "https://myntr.in/xmeaRT",
+        "label": "Emporio Armani Watches min 30% off !!!"
+      },
+      {
+        "url": "https://myntr.in/F8P4Yu",
+        "label": "Michael Kors watches at Upto 40% off !!!"
+      },
+      {
+        "url": "https://myntr.in/dm24D1",
+        "label": "Armani Exchange watches at Upto 40% off !!!"
+      }
+    ],
+    "raw_text": "💥Myntra | Watches Luxe Crazy Deals only!!!\n\nEmporio Armani Watches min 30% off !!!\n⚡https://myntr.in/xmeaRT\n\nMichael Kors watches at Upto 40% off !!!\n⚡https://myntr.in/F8P4Yu\n\nArmani Exchange watches at Upto 40% off !!!\n⚡https://myntr.in/dm24D1",
+    "final_url": "https://myntr.in/xmeaRT",
+    "local_image": "assets/images/tgmsg_17275.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-16T15:11:14+00:00",
+    "buy_link": "https://myntr.in/xmeaRT",
+    "date_iso": "2025-11-16T15:11:14+00:00"
+  },
+  {
     "id": "msg17272",
     "title": "Up to 75% Off On Beauty Item",
     "description": "Myntra : Upto 75% Off On Beauty Items. Lakmé : Pond's : BoroPlus : Master Link :",
@@ -9306,25 +9338,5 @@
     "date_obj": "2025-11-13T09:30:34+00:00",
     "buy_link": "https://www.amazon.in/s?i=luggage&rh=n%3A2454169031%2Cp_123%3A418946%2Cp_6%3AAXOGFIT0PZZ7G&s=price-asc-rank&tag=bestpricezo0f-21",
     "date_iso": "2025-11-13T09:30:34+00:00"
-  },
-  {
-    "id": "msg16798",
-    "title": "Anjeer (Dried Figs), 1 Kg @ 479 +",
-    "description": "Amazon | Anjeer (Dried Figs), 1 Kg @ 479 + Coupon* 👉 https://www.amazon.in/dp/B0FXS8933R?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FXS8933R?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FXS8933R?tag=bestpricezo0f-21",
-        "label": ""
-      }
-    ],
-    "raw_text": "Amazon | Anjeer (Dried Figs), 1 Kg @ 479 + Coupon*\n\n👉 https://www.amazon.in/dp/B0FXS8933R?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FXS8933R?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16798.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-13T08:36:16+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FXS8933R?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-13T08:36:16+00:00"
   }
 ]
