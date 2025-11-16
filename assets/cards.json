@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17218",
+    "title": "80% Off !!!",
+    "description": "Myntra | Set of 4 piece Ceramic Bowls - Rs 356 !!! -  Use coupon code - HOMECLEARANCE for additional discount !!",
+    "shortlink": "https://myntr.in/A89cff",
+    "urls": [
+      {
+        "url": "https://myntr.in/A89cff",
+        "label": "Set of 4 piece Ceramic Bowls - Rs 356 !!! - 80% Off !!!"
+      }
+    ],
+    "raw_text": "Myntra | Set of 4 piece Ceramic Bowls - Rs 356 !!! - 80% Off !!!\n\nUse coupon code - HOMECLEARANCE for additional discount !!\n\nhttps://myntr.in/A89cff",
+    "final_url": "https://myntr.in/A89cff",
+    "local_image": "assets/images/tgmsg_17218.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-16T04:40:42+00:00",
+    "buy_link": "https://myntr.in/A89cff",
+    "date_iso": "2025-11-16T04:40:42+00:00"
+  },
+  {
     "id": "msg17217",
     "title": "Under 599 !!!",
     "description": "Myntra | Blankets & Quilts - Under 599 !!! https://myntr.in/jh2ySZ",
@@ -9454,37 +9474,5 @@
     "date_obj": "2025-11-12T14:41:21+00:00",
     "buy_link": "https://fkrt.co/9x1FlJ",
     "date_iso": "2025-11-12T14:41:21+00:00"
-  },
-  {
-    "id": "msg16738",
-    "title": "🛒 Deal Price Starts @ ₹450",
-    "description": "Myntra | 🧥 HRX By Hrithik Roshan Jacket Deals 🛒 Deal Price: Starts @ ₹450 Women: Men:",
-    "shortlink": "https://myntr.in/b9IMJw",
-    "urls": [
-      {
-        "url": "",
-        "label": "🧥 HRX By Hrithik Roshan Jacket Deals"
-      },
-      {
-        "url": "",
-        "label": "🛒 Deal Price: Starts @ ₹450"
-      },
-      {
-        "url": "https://myntr.in/b9IMJw",
-        "label": "Women"
-      },
-      {
-        "url": "https://myntr.in/K2VqZC",
-        "label": "Men"
-      }
-    ],
-    "raw_text": "Myntra | 🧥 HRX By Hrithik Roshan Jacket Deals\n\n🛒 Deal Price: Starts @ ₹450\n\nWomen: https://myntr.in/b9IMJw\nMen: https://myntr.in/K2VqZC",
-    "final_url": "https://myntr.in/b9IMJw",
-    "local_image": "assets/images/tgmsg_16738.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-12T14:12:04+00:00",
-    "buy_link": "https://myntr.in/b9IMJw",
-    "date_iso": "2025-11-12T14:12:04+00:00"
   }
 ]
