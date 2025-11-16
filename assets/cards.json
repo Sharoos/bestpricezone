@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg17230",
+    "title": "Up to 62% Off On Fiama Shower Gel",
+    "description": "Amazon | Upto 62% Off On Fiama Shower Gels.…",
+    "shortlink": "https://www.amazon.in/s?k=Fiama&rh=n%3A1374293031%2Cp_123%3A796926%2Cp_85%3A10440599031%2Cp_n_pct-off-with-tax%3A2665402031&s=price-asc-rank&i=beauty&dealsvelocity=B00Q354D18&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/s?k=Fiama&rh=n%3A1374293031%2Cp_123%3A796926%2Cp_85%3A10440599031%2Cp_n_pct-off-with-tax%3A2665402031&s=price-asc-rank&i=beauty&dealsvelocity=B00Q354D18&tag=bestpricezo0f-21",
+        "label": "Upto 62% Off On Fiama Shower Gels"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B086LNGH5C?tag=bestpricezo0f-21",
+        "label": "Vivel Cool Soap, 600g @ 141"
+      }
+    ],
+    "raw_text": "Amazon | Upto 62% Off On Fiama Shower Gels.\n\nhttps://www.amazon.in/s?k=Fiama&rh=n%3A1374293031%2Cp_123%3A796926%2Cp_85%3A10440599031%2Cp_n_pct-off-with-tax%3A2665402031&s=price-asc-rank&i=beauty&dealsvelocity=B00Q354D18&tag=bestpricezo0f-21\n\nVivel Cool Soap, 600g @ 141.\n\nhttps://www.amazon.in/dp/B086LNGH5C?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?k=Fiama&rh=n%3A1374293031%2Cp_123%3A796926%2Cp_85%3A10440599031%2Cp_n_pct-off-with-tax%3A2665402031&s=price-asc-rank&i=beauty&dealsvelocity=B00Q354D18&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17230.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-16T06:56:17+00:00",
+    "buy_link": "https://www.amazon.in/s?k=Fiama&rh=n%3A1374293031%2Cp_123%3A796926%2Cp_85%3A10440599031%2Cp_n_pct-off-with-tax%3A2665402031&s=price-asc-rank&i=beauty&dealsvelocity=B00Q354D18&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-16T06:56:17+00:00"
+  },
+  {
     "id": "msg17227",
     "title": "🛒 Deal Price ₹149",
     "description": "🧴 Amazon | Hair Care Savings! | Parachute Advanced Coconut & Rosemary Hair Cream 210ml 🛒 Deal Price: ₹149",
@@ -9454,45 +9478,5 @@
     "date_obj": "2025-11-12T16:58:24+00:00",
     "buy_link": "https://fkrt.co/DK506b",
     "date_iso": "2025-11-12T16:58:24+00:00"
-  },
-  {
-    "id": "msg16752",
-    "title": "Reliance Digital Midnight Sale Up to 60% Off",
-    "description": "Reliance Digital: Midnight Sale Upto 60% Off iPhone: Wireless Earbuds: TV: AC: Valid 10:00PM TO 6:00AM.",
-    "shortlink": "https://bitli.in/1e0kn2h",
-    "urls": [
-      {
-        "url": "https://bitli.in/1e0kn2h",
-        "label": "Midnight Sale Upto 60% Off"
-      },
-      {
-        "url": "https://bitli.in/TBd98j8",
-        "label": "iPhone"
-      },
-      {
-        "url": "https://bitli.in/q15sKCE",
-        "label": "Wireless Earbuds"
-      },
-      {
-        "url": "https://bitli.in/ImBM3El",
-        "label": "TV"
-      },
-      {
-        "url": "https://bitli.in/R6eatIe",
-        "label": "AC"
-      },
-      {
-        "url": "",
-        "label": "00PM TO 6:00AM"
-      }
-    ],
-    "raw_text": "Reliance Digital: Midnight Sale Upto 60% Off\n\nhttps://bitli.in/1e0kn2h\n\niPhone: https://bitli.in/TBd98j8\nWireless Earbuds: https://bitli.in/q15sKCE\n\nTV: https://bitli.in/ImBM3El\nAC: https://bitli.in/R6eatIe\n\nValid 10:00PM TO 6:00AM.",
-    "final_url": "https://bitli.in/1e0kn2h",
-    "local_image": "assets/images/tgmsg_16752.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-11-12T17:06:02+00:00",
-    "buy_link": "https://bitli.in/1e0kn2h",
-    "date_iso": "2025-11-12T17:06:02+00:00"
   }
 ]
