@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg17288",
+    "title": "Up to 75% Off On Stylecast X Kotty Jean",
+    "description": "Myntra | Upto 75% Off On Stylecast X Kotty Jeans https://myntr.in/XMxciZ",
+    "shortlink": "https://myntr.in/XMxciZ",
+    "urls": [
+      {
+        "url": "https://myntr.in/XMxciZ",
+        "label": "Upto 75% Off On Stylecast X Kotty Jeans"
+      }
+    ],
+    "raw_text": "Myntra | Upto 75% Off On Stylecast X Kotty Jeans  \n\nhttps://myntr.in/XMxciZ",
+    "final_url": "https://myntr.in/XMxciZ",
+    "local_image": "assets/images/tgmsg_17288.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-16T17:11:24+00:00",
+    "buy_link": "https://myntr.in/XMxciZ",
+    "date_iso": "2025-11-16T17:11:24+00:00"
+  },
+  {
+    "id": "msg17289",
+    "title": "Levi’s Jeans Up to 75% Off",
+    "description": "Ajio : Levi’s Jeans Upto 75% Off Men’s : Women’s : More : Levi's Clothing. Men's : Women's :",
+    "shortlink": "https://ajiio.co/iwaNDL",
+    "urls": [
+      {
+        "url": "https://ajiio.co/iwaNDL",
+        "label": "Levi’s Jeans Upto 75% Off"
+      },
+      {
+        "url": "https://ajiio.co/AZ0Ua4",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/vLiuCU",
+        "label": "Women’s"
+      },
+      {
+        "url": "",
+        "label": "Levi's Clothing"
+      },
+      {
+        "url": "https://ajiio.co/MppUND",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/XdIj1v",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Ajio : Levi’s Jeans Upto 75% Off\n\nhttps://ajiio.co/iwaNDL\n\nMen’s : https://ajiio.co/AZ0Ua4\nWomen’s : https://ajiio.co/vLiuCU\n\nMore : Levi's Clothing.\n\nMen's : https://ajiio.co/MppUND\nWomen's : https://ajiio.co/XdIj1v",
+    "final_url": "https://ajiio.co/iwaNDL",
+    "local_image": "assets/images/tgmsg_17289.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-16T17:26:12+00:00",
+    "buy_link": "https://ajiio.co/iwaNDL",
+    "date_iso": "2025-11-16T17:26:12+00:00"
+  },
+  {
     "id": "msg17287",
     "title": "🛒 Deal Price Starts @ ₹149",
     "description": "Myntra | Women's Oversized T-Shirt 🛒 Deal Price: Starts @ ₹97 👉 Men's Oversized T-Shirt 🛒 Deal Price: Starts @ ₹149 👉",
@@ -9178,45 +9238,5 @@
     "date_obj": "2025-11-13T12:13:05+00:00",
     "buy_link": "https://myntr.in/S7uLrF",
     "date_iso": "2025-11-13T12:13:05+00:00"
-  },
-  {
-    "id": "msg16816",
-    "title": "At 149",
-    "description": "At 149  : https://www.amazon.in/gp/product/B0FBPM2PFY?language=en_IN&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/gp/product/B0FBPM2PFY?language=en_IN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/gp/product/B0FBPM2PFY?language=en_IN&tag=bestpricezo0f-21",
-        "label": "At 149"
-      }
-    ],
-    "raw_text": "At 149  : https://www.amazon.in/gp/product/B0FBPM2PFY?language=en_IN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/gp/product/B0FBPM2PFY?language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16816.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-13T11:40:11+00:00",
-    "buy_link": "https://www.amazon.in/gp/product/B0FBPM2PFY?language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-13T11:40:11+00:00"
-  },
-  {
-    "id": "msg16817",
-    "title": "Indian Garage Jackets Starting From ₹549",
-    "description": "Myntra | Indian Garage Jackets Starting From ₹549 👉https://myntr.in/m75LQz",
-    "shortlink": "https://myntr.in/m75LQz",
-    "urls": [
-      {
-        "url": "https://myntr.in/m75LQz",
-        "label": "Indian Garage Jackets Starting From ₹549"
-      }
-    ],
-    "raw_text": "Myntra | Indian Garage Jackets Starting From ₹549\n\n👉https://myntr.in/m75LQz",
-    "final_url": "https://myntr.in/m75LQz",
-    "local_image": "assets/images/tgmsg_16817.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-13T11:45:16+00:00",
-    "buy_link": "https://myntr.in/m75LQz",
-    "date_iso": "2025-11-13T11:45:16+00:00"
   }
 ]
