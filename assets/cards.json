@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg17265",
+    "title": "Men's Footwear Starts @₹108",
+    "description": "AJIO  Men's Footwear Starts @₹108 Link : https://ajiio.co/qicHje Sports Shoes : https://ajiio.co/EESQkb Casual Shoes : https://ajiio.co/Fr004q Sandals : https://ajiio.co/VpzgfJ",
+    "shortlink": "https://ajiio.co/qicHje",
+    "urls": [
+      {
+        "url": "https://ajiio.co/qicHje",
+        "label": "AJIO Men's Footwear Starts @₹108"
+      },
+      {
+        "url": "https://ajiio.co/EESQkb",
+        "label": "Sports Shoes"
+      },
+      {
+        "url": "https://ajiio.co/Fr004q",
+        "label": "Casual Shoes"
+      },
+      {
+        "url": "https://ajiio.co/VpzgfJ",
+        "label": "Sandals"
+      }
+    ],
+    "raw_text": "AJIO  Men's Footwear Starts @₹108\n \nLink : https://ajiio.co/qicHje \n \nSports Shoes : https://ajiio.co/EESQkb \nCasual Shoes : https://ajiio.co/Fr004q \nSandals : https://ajiio.co/VpzgfJ",
+    "final_url": "https://ajiio.co/qicHje",
+    "local_image": "assets/images/tgmsg_17265.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-16T13:26:04+00:00",
+    "buy_link": "https://ajiio.co/qicHje",
+    "date_iso": "2025-11-16T13:26:04+00:00"
+  },
+  {
     "id": "msg17261",
     "title": "💥⚡Nivea min 50% off",
     "description": "💥Myntra | ⚡Nivea min 50% off 👉https://myntr.in/AMjj8H",
@@ -9330,25 +9362,5 @@
     "date_obj": "2025-11-13T08:10:14+00:00",
     "buy_link": "https://myntr.in/ynkq0w",
     "date_iso": "2025-11-13T08:10:14+00:00"
-  },
-  {
-    "id": "msg16796",
-    "title": "AIRODO Bathroom Air Freshener (8 x 50g) @ 199",
-    "description": "Amazon | AIRODO Bathroom Air Freshener (8 x 50g) @ 199. 👉 https://www.amazon.in/dp/B0FS1K2VSD?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FS1K2VSD?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FS1K2VSD?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-        "label": "AIRODO Bathroom Air Freshener (8 x 50g) @ 199"
-      }
-    ],
-    "raw_text": "Amazon | AIRODO Bathroom Air Freshener (8 x 50g) @ 199.\n \n👉 https://www.amazon.in/dp/B0FS1K2VSD?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FS1K2VSD?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16796.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-13T08:20:08+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FS1K2VSD?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-13T08:20:08+00:00"
   }
 ]
