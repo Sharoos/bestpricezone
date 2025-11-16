@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg17272",
+    "title": "Up to 75% Off On Beauty Item",
+    "description": "Myntra : Upto 75% Off On Beauty Items. Lakmé : Pond's : BoroPlus : Master Link :",
+    "shortlink": "https://myntr.in/Zx9Jpu",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On Beauty Items"
+      },
+      {
+        "url": "https://myntr.in/Zx9Jpu",
+        "label": "Lakmé"
+      },
+      {
+        "url": "https://myntr.in/GVzm7k",
+        "label": "Pond's"
+      },
+      {
+        "url": "https://myntr.in/CHMiq2",
+        "label": "BoroPlus"
+      },
+      {
+        "url": "https://myntr.in/TWxWRO",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Myntra : Upto 75% Off On Beauty Items. \n\nLakmé : https://myntr.in/Zx9Jpu\nPond's : https://myntr.in/GVzm7k\nBoroPlus : https://myntr.in/CHMiq2\n\nMaster Link : https://myntr.in/TWxWRO",
+    "final_url": "https://myntr.in/Zx9Jpu",
+    "local_image": "assets/images/tgmsg_17272.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-16T14:11:06+00:00",
+    "buy_link": "https://myntr.in/Zx9Jpu",
+    "date_iso": "2025-11-16T14:11:06+00:00"
+  },
+  {
     "id": "msg17268",
     "title": "Up to 87% Off on METRONAUT Belts 🔥",
     "description": "Myntra : Upto 87% Off on METRONAUT Belts 🔥 https://myntr.in/NoxUS6",
@@ -9290,25 +9326,5 @@
     "date_obj": "2025-11-13T08:36:16+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FXS8933R?tag=bestpricezo0f-21",
     "date_iso": "2025-11-13T08:36:16+00:00"
-  },
-  {
-    "id": "msg16801",
-    "title": "Lifelong 1200W Hair Dryer @ 647",
-    "description": "Amazon | Lifelong 1200W Hair Dryer @ 647. 👉 https://www.amazon.in/dp/B0FKBRGT1B?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FKBRGT1B?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FKBRGT1B?tag=bestpricezo0f-21",
-        "label": "Lifelong 1200W Hair Dryer @ 647"
-      }
-    ],
-    "raw_text": "Amazon | Lifelong 1200W Hair Dryer @ 647.\n\n👉 https://www.amazon.in/dp/B0FKBRGT1B?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FKBRGT1B?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16801.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-13T08:45:22+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FKBRGT1B?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-13T08:45:22+00:00"
   }
 ]
