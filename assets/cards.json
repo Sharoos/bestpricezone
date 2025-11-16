@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17234",
+    "title": "Up to 87% Off on Personal Care Products starting @ just ₹ 71",
+    "description": "Myntra | UPTO 87% Off on Personal Care Products starting @ just ₹ 71 Link : https://myntr.in/0CWfjE",
+    "shortlink": "https://myntr.in/0CWfjE",
+    "urls": [
+      {
+        "url": "https://myntr.in/0CWfjE",
+        "label": "UPTO 87% Off on Personal Care Products starting @ just ₹ 71"
+      }
+    ],
+    "raw_text": "Myntra | UPTO 87% Off on Personal Care Products starting @ just ₹ 71\n\nLink : https://myntr.in/0CWfjE",
+    "final_url": "https://myntr.in/0CWfjE",
+    "local_image": "assets/images/tgmsg_17234.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-16T08:25:56+00:00",
+    "buy_link": "https://myntr.in/0CWfjE",
+    "date_iso": "2025-11-16T08:25:56+00:00"
+  },
+  {
     "id": "msg17233",
     "title": "Prowl Men's T Shirts Flat 82% Off Starting From Rs.279",
     "description": "Flipkart | Prowl Men's T Shirts Flat 82% Off Starting From Rs.279 👉Link- https://fkrt.co/Y7o2qo",
@@ -9426,33 +9446,5 @@
     "date_obj": "2025-11-12T17:55:47+00:00",
     "buy_link": "https://fkrt.co/B6EoMa",
     "date_iso": "2025-11-12T17:55:47+00:00"
-  },
-  {
-    "id": "msg16754",
-    "title": "Women's Westernwear Under ₹399 (Rio, Fig & More)",
-    "description": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More) Women : https://ajiio.co/cd2wYl Girls : https://ajiio.co/Bgz69V",
-    "shortlink": "https://ajiio.co/cd2wYl",
-    "urls": [
-      {
-        "url": "",
-        "label": "Women's Westernwear Under ₹399 (Rio, Fig & More)"
-      },
-      {
-        "url": "https://ajiio.co/cd2wYl",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/Bgz69V",
-        "label": "Girls"
-      }
-    ],
-    "raw_text": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More)\n\nWomen : https://ajiio.co/cd2wYl\n\nGirls : https://ajiio.co/Bgz69V",
-    "final_url": "https://ajiio.co/cd2wYl",
-    "local_image": "assets/images/tgmsg_16754.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-12T17:41:06+00:00",
-    "buy_link": "https://ajiio.co/cd2wYl",
-    "date_iso": "2025-11-12T17:41:06+00:00"
   }
 ]
