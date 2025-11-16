@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17266",
+    "title": "Allen Cooper sneakers Up to 82%off",
+    "description": "Flipkart | Allen Cooper sneakers upto 82%off - Starts from Rs 588 👉https://fkrt.co/YHBzE0",
+    "shortlink": "https://fkrt.co/YHBzE0",
+    "urls": [
+      {
+        "url": "https://fkrt.co/YHBzE0",
+        "label": "Allen Cooper sneakers upto 82%off - Starts from Rs 588"
+      }
+    ],
+    "raw_text": "Flipkart | Allen Cooper sneakers upto 82%off - Starts from Rs 588\n\n👉https://fkrt.co/YHBzE0",
+    "final_url": "https://fkrt.co/YHBzE0",
+    "local_image": "assets/images/tgmsg_17266.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-16T13:43:23+00:00",
+    "buy_link": "https://fkrt.co/YHBzE0",
+    "date_iso": "2025-11-16T13:43:23+00:00"
+  },
+  {
     "id": "msg17265",
     "title": "Men's Footwear Starts @₹108",
     "description": "AJIO  Men's Footwear Starts @₹108 Link : https://ajiio.co/qicHje Sports Shoes : https://ajiio.co/EESQkb Casual Shoes : https://ajiio.co/Fr004q Sandals : https://ajiio.co/VpzgfJ",
@@ -9334,33 +9354,5 @@
     "date_obj": "2025-11-13T08:02:58+00:00",
     "buy_link": "https://extp.in/S24PQW",
     "date_iso": "2025-11-13T08:02:58+00:00"
-  },
-  {
-    "id": "msg16795",
-    "title": "Up to 75% Off On Puma Shoe",
-    "description": "Myntra | Upto 75% Off On Puma Shoes. Mens : https://myntr.in/ynkq0w Womens : https://myntr.in/d7b7sn",
-    "shortlink": "https://myntr.in/ynkq0w",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 75% Off On Puma Shoes"
-      },
-      {
-        "url": "https://myntr.in/ynkq0w",
-        "label": "Mens"
-      },
-      {
-        "url": "https://myntr.in/d7b7sn",
-        "label": "Womens"
-      }
-    ],
-    "raw_text": "Myntra | Upto 75% Off On Puma Shoes.\n\nMens : https://myntr.in/ynkq0w\nWomens : https://myntr.in/d7b7sn",
-    "final_url": "https://myntr.in/ynkq0w",
-    "local_image": "assets/images/tgmsg_16795.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-13T08:10:14+00:00",
-    "buy_link": "https://myntr.in/ynkq0w",
-    "date_iso": "2025-11-13T08:10:14+00:00"
   }
 ]
