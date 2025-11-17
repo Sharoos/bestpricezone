@@ -1,5 +1,93 @@
 [
   {
+    "id": "msg17397",
+    "title": "Topwear Clothing Under ₹199",
+    "description": "AJIO  Topwear Clothing Under ₹199 Men's : https://ajiio.co/PfxAeQ Women's : https://ajiio.co/kK2VWJ Boy’s : https://ajiio.co/6fCQmP Girl’s : https://ajiio.co/3S3MVY Baby : https://ajiio.co/fXR2u3",
+    "shortlink": "https://ajiio.co/PfxAeQ",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Topwear Clothing Under ₹199"
+      },
+      {
+        "url": "https://ajiio.co/PfxAeQ",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/kK2VWJ",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/6fCQmP",
+        "label": "Boy’s"
+      },
+      {
+        "url": "https://ajiio.co/3S3MVY",
+        "label": "Girl’s"
+      },
+      {
+        "url": "https://ajiio.co/fXR2u3",
+        "label": "Baby"
+      }
+    ],
+    "raw_text": "AJIO  Topwear Clothing Under ₹199\n\nMen's : https://ajiio.co/PfxAeQ\nWomen's : https://ajiio.co/kK2VWJ\nBoy’s : https://ajiio.co/6fCQmP\nGirl’s : https://ajiio.co/3S3MVY\nBaby : https://ajiio.co/fXR2u3",
+    "final_url": "https://ajiio.co/PfxAeQ",
+    "local_image": "assets/images/tgmsg_17397.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-17T16:31:58+00:00",
+    "buy_link": "https://ajiio.co/PfxAeQ",
+    "date_iso": "2025-11-17T16:31:58+00:00"
+  },
+  {
+    "id": "msg17399",
+    "title": "Up to 85% Off On Vero Moda & ONLY Women Clothing",
+    "description": "Ajio | Upto 85% Off On Vero Moda & ONLY Women Clothing. 👉https://ajiio.co/sGYfS4 👉https://ajiio.co/gXdzIh Jeans : https://ajiio.co/lwd3Mj",
+    "shortlink": "https://ajiio.co/sGYfS4",
+    "urls": [
+      {
+        "url": "https://ajiio.co/sGYfS4",
+        "label": "Upto 85% Off On Vero Moda & ONLY Women Clothing"
+      },
+      {
+        "url": "https://ajiio.co/gXdzIh",
+        "label": ""
+      },
+      {
+        "url": "https://ajiio.co/lwd3Mj",
+        "label": "Jeans"
+      }
+    ],
+    "raw_text": "Ajio | Upto 85% Off On Vero Moda & ONLY Women Clothing.\n\n👉https://ajiio.co/sGYfS4\n👉https://ajiio.co/gXdzIh\n\nJeans : https://ajiio.co/lwd3Mj",
+    "final_url": "https://ajiio.co/sGYfS4",
+    "local_image": "assets/images/tgmsg_17399.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-17T16:46:11+00:00",
+    "buy_link": "https://ajiio.co/sGYfS4",
+    "date_iso": "2025-11-17T16:46:11+00:00"
+  },
+  {
+    "id": "msg17401",
+    "title": "109",
+    "description": "109 : https://www.amazon.in/dp/B0DZ2NGVLN?social_share=cm_sw_r_cso_wa_apin_dp_MFQQQ96FA9639N6EVA54&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DZ2NGVLN?social_share=cm_sw_r_cso_wa_apin_dp_MFQQQ96FA9639N6EVA54&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DZ2NGVLN?social_share=cm_sw_r_cso_wa_apin_dp_MFQQQ96FA9639N6EVA54&tag=bestpricezo0f-21",
+        "label": "109"
+      }
+    ],
+    "raw_text": "109 : https://www.amazon.in/dp/B0DZ2NGVLN?social_share=cm_sw_r_cso_wa_apin_dp_MFQQQ96FA9639N6EVA54&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DZ2NGVLN?social_share=cm_sw_r_cso_wa_apin_dp_MFQQQ96FA9639N6EVA54&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17401.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-17T16:46:54+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DZ2NGVLN?social_share=cm_sw_r_cso_wa_apin_dp_MFQQQ96FA9639N6EVA54&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-17T16:46:54+00:00"
+  },
+  {
     "id": "msg17395",
     "title": "Before Prices — Min 60% Off",
     "description": "🧵Myntra | 3 pcs Hand Towel Set @ ₹349 🪜 Popular Anti-Skid Doormats Starting @ ₹199 🛏️ Blankets at Never-",
@@ -9142,121 +9230,5 @@
     "date_obj": "2025-11-14T08:37:59+00:00",
     "buy_link": "https://extp.in/bn8yUj",
     "date_iso": "2025-11-14T08:37:59+00:00"
-  },
-  {
-    "id": "msg16947",
-    "title": "Up to 65% Off On Adidas Shoe",
-    "description": "Ajio : Upto 65% Off On Adidas Shoes. Men’s : Women’s : Adidas Originals. Men’s : Women’s :",
-    "shortlink": "https://ajiio.co/3NtFLT",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 65% Off On Adidas Shoes"
-      },
-      {
-        "url": "https://ajiio.co/3NtFLT",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.co/mihK2s",
-        "label": "Women’s"
-      },
-      {
-        "url": "",
-        "label": "Adidas Originals"
-      },
-      {
-        "url": "https://ajiio.co/VS5rcv",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.co/cC4eVJ",
-        "label": "Women’s"
-      }
-    ],
-    "raw_text": "Ajio : Upto 65% Off On Adidas Shoes. \n\nMen’s : https://ajiio.co/3NtFLT\nWomen’s : https://ajiio.co/mihK2s\n\nAdidas Originals. \nMen’s : https://ajiio.co/VS5rcv\nWomen’s : https://ajiio.co/cC4eVJ",
-    "final_url": "https://ajiio.co/3NtFLT",
-    "local_image": "assets/images/tgmsg_16947.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-14T08:47:28+00:00",
-    "buy_link": "https://ajiio.co/3NtFLT",
-    "date_iso": "2025-11-14T08:47:28+00:00"
-  },
-  {
-    "id": "msg16940",
-    "title": "Never Before prices for blankets min 60% off",
-    "description": "Myntra | 3 pcs Hand towel Set @ 349 only 👉 Popular Anti-skid Doormats starting @ 199 only 👉 Single Bedsheets starting @149 👉 Double Bedsheets starting @ 179 👉  👉 Carpets starting @ 449 only 👉 Curtain sets starting @ 229…",
-    "shortlink": "https://myntr.in/snIbSi",
-    "urls": [
-      {
-        "url": "https://myntr.in/snIbSi",
-        "label": "3 pcs Hand towel Set @ 349 only"
-      },
-      {
-        "url": "https://myntr.in/vD59k0",
-        "label": "skid Doormats starting @ 199 only"
-      },
-      {
-        "url": "https://myntr.in/aWJ6rW",
-        "label": "Single Bedsheets starting @149"
-      },
-      {
-        "url": "https://myntr.in/qBY54X",
-        "label": "Double Bedsheets starting @ 179"
-      },
-      {
-        "url": "https://myntr.in/Fr4Pbe",
-        "label": "Never Before prices for blankets min 60% off"
-      },
-      {
-        "url": "https://myntr.in/AVVXNu",
-        "label": "Carpets starting @ 449 only"
-      },
-      {
-        "url": "https://myntr.in/wAhUm4",
-        "label": "Curtain sets starting @ 229"
-      },
-      {
-        "url": "https://myntr.in/IKXJzP",
-        "label": "Set of 2 Anti skid Doormats @ 219"
-      },
-      {
-        "url": "https://myntr.in/efTM45",
-        "label": "skid Bath rug @ 199 only!"
-      },
-      {
-        "url": "https://myntr.in/Nu87Dp",
-        "label": "Bedding sets with comforter @ 1149"
-      }
-    ],
-    "raw_text": "Myntra | 3 pcs Hand towel Set @ 349 only\n👉https://myntr.in/snIbSi\n\nPopular Anti-skid Doormats starting @ 199 only\n👉https://myntr.in/vD59k0\n\nSingle Bedsheets starting @149\n👉https://myntr.in/aWJ6rW\n\nDouble Bedsheets starting @ 179\n👉https://myntr.in/qBY54X\n\nNever Before prices for blankets min 60% off\n👉https://myntr.in/Fr4Pbe\n\nCarpets starting @ 449 only\n👉https://myntr.in/AVVXNu\n\nCurtain sets starting @ 229\n👉https://myntr.in/wAhUm4\n\nSet of 2 Anti skid Doormats @ 219\n👉https://myntr.in/IKXJzP\n\nMemory foam anti-skid Bath rug @ 199 only!\n👉https://myntr.in/efTM45\n\nBedding sets with comforter  @ 1149\n👉https://myntr.in/Nu87Dp",
-    "final_url": "https://myntr.in/snIbSi",
-    "local_image": "assets/images/tgmsg_16940.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-14T08:00:04+00:00",
-    "buy_link": "https://myntr.in/snIbSi",
-    "date_iso": "2025-11-14T08:00:04+00:00"
-  },
-  {
-    "id": "msg16941",
-    "title": "Double bedsheets starting @ 209 only!",
-    "description": "Myntra | Double bedsheets starting @ 209 only! 👉 https://myntr.in/VfLa0I",
-    "shortlink": "https://myntr.in/VfLa0I",
-    "urls": [
-      {
-        "url": "https://myntr.in/VfLa0I",
-        "label": "Double bedsheets starting @ 209 only!"
-      }
-    ],
-    "raw_text": "Myntra | Double bedsheets starting @ 209 only!\n\n👉 https://myntr.in/VfLa0I",
-    "final_url": "https://myntr.in/VfLa0I",
-    "local_image": "assets/images/tgmsg_16941.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-14T08:13:03+00:00",
-    "buy_link": "https://myntr.in/VfLa0I",
-    "date_iso": "2025-11-14T08:13:03+00:00"
   }
 ]
