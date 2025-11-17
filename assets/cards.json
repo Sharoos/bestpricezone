@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg17404",
+    "title": "+ Extra 10% Super Cash",
+    "description": "AJIO T-shirts Starts at Rs.100 Women : Men : Cargo Pants Starts at Rs.220. Men : Women : + Extra 10% AJIO Super Cash.",
+    "shortlink": "https://ajiio.co/63JAUN",
+    "urls": [
+      {
+        "url": "",
+        "label": "shirts Starts at Rs.100"
+      },
+      {
+        "url": "https://ajiio.co/63JAUN",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/bkq8uq",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Cargo Pants Starts at Rs.220"
+      },
+      {
+        "url": "https://ajiio.co/sKoTBp",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/cYmImD",
+        "label": "Women"
+      },
+      {
+        "url": "",
+        "label": "+ Extra 10% AJIO Super Cash"
+      }
+    ],
+    "raw_text": "AJIO  T-shirts Starts at Rs.100\n \nWomen : https://ajiio.co/63JAUN \nMen : https://ajiio.co/bkq8uq\n\n Cargo Pants Starts at Rs.220. \n \nMen : https://ajiio.co/sKoTBp \nWomen : https://ajiio.co/cYmImD\n\n+ Extra 10% AJIO Super Cash.",
+    "final_url": "https://ajiio.co/63JAUN",
+    "local_image": "assets/images/tgmsg_17404.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-17T17:35:10+00:00",
+    "buy_link": "https://ajiio.co/63JAUN",
+    "date_iso": "2025-11-17T17:35:10+00:00"
+  },
+  {
     "id": "msg17402",
     "title": "Being human Min 65%",
     "description": "Ajio | Monte Carlo- Min 30% https://ajiio.co/1pKfzQ Being human Min 65% https://ajiio.co/S1U3Bl",
@@ -9202,37 +9246,5 @@
     "date_obj": "2025-11-14T09:45:06+00:00",
     "buy_link": "https://myntr.in/kkPFFq.",
     "date_iso": "2025-11-14T09:45:06+00:00"
-  },
-  {
-    "id": "msg16949",
-    "title": "Meesho Men's Trackpants ₹99",
-    "description": "Meesho | Men's Trackpants ₹99 👉https://msho.in/tRxn2W 👉https://msho.in/PzZMYC 👉https://msho.in/RfHgEF 👉https://msho.in/GdLkq2",
-    "shortlink": "https://msho.in/tRxn2W",
-    "urls": [
-      {
-        "url": "https://msho.in/tRxn2W",
-        "label": "Men's Trackpants ₹99"
-      },
-      {
-        "url": "https://msho.in/PzZMYC",
-        "label": "Men's Trackpants ₹99"
-      },
-      {
-        "url": "https://msho.in/RfHgEF",
-        "label": "Men's Trackpants ₹99"
-      },
-      {
-        "url": "https://msho.in/GdLkq2",
-        "label": "Men's Trackpants ₹99"
-      }
-    ],
-    "raw_text": "Meesho | Men's Trackpants ₹99\n\n👉https://msho.in/tRxn2W\n👉https://msho.in/PzZMYC\n👉https://msho.in/RfHgEF\n👉https://msho.in/GdLkq2",
-    "final_url": "https://msho.in/tRxn2W",
-    "local_image": "assets/images/tgmsg_16949.jpg",
-    "source_host": "msho.in",
-    "merchant_label": "Msho",
-    "date_obj": "2025-11-14T09:37:01+00:00",
-    "buy_link": "https://msho.in/tRxn2W",
-    "date_iso": "2025-11-14T09:37:01+00:00"
   }
 ]
