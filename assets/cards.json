@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17334",
+    "title": "70% off",
+    "description": "Myntra | Total repair 5 - 70% off https://myntr.in/kShqB5",
+    "shortlink": "https://myntr.in/kShqB5",
+    "urls": [
+      {
+        "url": "https://myntr.in/kShqB5",
+        "label": "Total repair 5 - 70% off"
+      }
+    ],
+    "raw_text": "Myntra | Total repair 5 - 70% off\n\nhttps://myntr.in/kShqB5",
+    "final_url": "https://myntr.in/kShqB5",
+    "local_image": "assets/images/tgmsg_17334.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-17T06:51:07+00:00",
+    "buy_link": "https://myntr.in/kShqB5",
+    "date_iso": "2025-11-17T06:51:07+00:00"
+  },
+  {
     "id": "msg17329",
     "title": "✅ 65% Off Dove Odour Protection Deodorant Roll",
     "description": "Flipkart | ✅ 65% Off : Dove Odour Protection Deodorant Roll-on @271 https://fkrt.co/PDW4mK",
@@ -9150,45 +9170,5 @@
     "date_obj": "2025-11-13T18:29:05+00:00",
     "buy_link": "https://www.amazon.in/dp/B0D45Y8313?tag=bestpricezo0f-21",
     "date_iso": "2025-11-13T18:29:05+00:00"
-  },
-  {
-    "id": "msg16869",
-    "title": "shirts Starts @100",
-    "description": "AJIO : T-shirts Starts @100. Women : https://ajiio.in/x69aX5F Men : https://ajiio.in/m8wdCje Cargo Pants. Men : https://ajiio.in/QiYCfwZ Women : https://ajiio.in/2eMpVs3",
-    "shortlink": "https://ajiio.in/x69aX5F",
-    "urls": [
-      {
-        "url": "",
-        "label": "T-shirts Starts @100"
-      },
-      {
-        "url": "https://ajiio.in/x69aX5F",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.in/m8wdCje",
-        "label": "Men"
-      },
-      {
-        "url": "",
-        "label": "Cargo Pants"
-      },
-      {
-        "url": "https://ajiio.in/QiYCfwZ",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.in/2eMpVs3",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "AJIO : T-shirts Starts @100.\n \nWomen : https://ajiio.in/x69aX5F \nMen : https://ajiio.in/m8wdCje\n\nCargo Pants. \nMen : https://ajiio.in/QiYCfwZ \nWomen : https://ajiio.in/2eMpVs3",
-    "final_url": "https://ajiio.in/x69aX5F",
-    "local_image": "assets/images/tgmsg_16869.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-13T18:34:27+00:00",
-    "buy_link": "https://ajiio.in/x69aX5F",
-    "date_iso": "2025-11-13T18:34:27+00:00"
   }
 ]
