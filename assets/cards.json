@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17434",
+    "title": "Yousta Cargo, Jeans at 50% off",
+    "description": "Ajio | Yousta Cargo, Jeans at 50% off https://ajiio.co/cqKDS3",
+    "shortlink": "https://ajiio.co/cqKDS3",
+    "urls": [
+      {
+        "url": "https://ajiio.co/cqKDS3",
+        "label": "Yousta Cargo, Jeans at 50% off"
+      }
+    ],
+    "raw_text": "Ajio | Yousta Cargo, Jeans at 50% off\n\nhttps://ajiio.co/cqKDS3",
+    "final_url": "https://ajiio.co/cqKDS3",
+    "local_image": "assets/images/tgmsg_17434.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-17T19:32:40+00:00",
+    "buy_link": "https://ajiio.co/cqKDS3",
+    "date_iso": "2025-11-17T19:32:40+00:00"
+  },
+  {
     "id": "msg17411",
     "title": "Anchor by Panasonic Penta Modular Polycarbonate 3m Plates Set (White, Pack of 20) @679",
     "description": "Amazon | Anchor by Panasonic Penta Modular Polycarbonate 3m Plates Set (White, Pack of 20) @679₹ https://www.amazon.in/dp/B07LB47885?tag=bestpricezo0f-21",
@@ -9202,29 +9222,5 @@
     "date_obj": "2025-11-14T11:33:44+00:00",
     "buy_link": "https://fkrt.co/LtlAVW",
     "date_iso": "2025-11-14T11:33:44+00:00"
-  },
-  {
-    "id": "msg16959",
-    "title": "Del Monte Tomato Ketchup",
-    "description": "Amazon | Del Monte Tomato Ketchup- 900g at ₹76 Mn 2 Buy : https://www.amazon.in/dp/B07F26ZS1K?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07F26ZS1K?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Del Monte Tomato Ketchup- 900g at ₹76"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B07F26ZS1K?tag=bestpricezo0f-21",
-        "label": "Mn 2"
-      }
-    ],
-    "raw_text": "Amazon | Del Monte Tomato Ketchup- 900g at ₹76\n\nMn 2 Buy : https://www.amazon.in/dp/B07F26ZS1K?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07F26ZS1K?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16959.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-14T11:03:58+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07F26ZS1K?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-14T11:03:58+00:00"
   }
 ]
