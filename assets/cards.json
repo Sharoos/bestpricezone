@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg17356",
+    "title": "HRX Track Pants Up to 80% Off",
+    "description": "Myntra : HRX Track Pants Upto 80% Off Men : https://myntr.in/XE0FnL Women : https://myntr.in/E8ek0C",
+    "shortlink": "https://myntr.in/XE0FnL",
+    "urls": [
+      {
+        "url": "https://myntr.in/XE0FnL",
+        "label": "HRX Track Pants Upto 80% Off"
+      },
+      {
+        "url": "https://myntr.in/E8ek0C",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra : HRX Track Pants Upto 80% Off\n\nMen : https://myntr.in/XE0FnL\nWomen : https://myntr.in/E8ek0C",
+    "final_url": "https://myntr.in/XE0FnL",
+    "local_image": "assets/images/tgmsg_17356.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-17T10:17:26+00:00",
+    "buy_link": "https://myntr.in/XE0FnL",
+    "date_iso": "2025-11-17T10:17:26+00:00"
+  },
+  {
     "id": "msg17354",
     "title": "HRX Track Pants Up to 80% Off",
     "description": "HRX Track Pants Upto 80% Off Men : https://myntr.in/z7JvdH Women : https://myntr.in/Xp5IaQ",
@@ -9186,25 +9210,5 @@
     "date_obj": "2025-11-14T04:57:03+00:00",
     "buy_link": "https://fkrt.co/sIRNWo",
     "date_iso": "2025-11-14T04:57:03+00:00"
-  },
-  {
-    "id": "msg16907",
-    "title": "Min. 40% Off On Renee Beauty Product",
-    "description": "Myntra | Min. 40% Off On Renee Beauty Products. https://myntr.in/KbDOBo",
-    "shortlink": "https://myntr.in/KbDOBo",
-    "urls": [
-      {
-        "url": "https://myntr.in/KbDOBo",
-        "label": "Min. 40% Off On Renee Beauty Products"
-      }
-    ],
-    "raw_text": "Myntra | Min. 40% Off On Renee Beauty Products.\n\nhttps://myntr.in/KbDOBo",
-    "final_url": "https://myntr.in/KbDOBo",
-    "local_image": "assets/images/tgmsg_16907.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-14T04:57:29+00:00",
-    "buy_link": "https://myntr.in/KbDOBo",
-    "date_iso": "2025-11-14T04:57:29+00:00"
   }
 ]
