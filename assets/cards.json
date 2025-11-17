@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17314",
+    "title": "boAt Rockerz 245 v2 Pro Neckband @ 699",
+    "description": "Amazon : boAt Rockerz 245 v2 Pro Neckband @ 699. 👉https://www.amazon.in/dp/B0CC8VF47L?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CC8VF47L?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CC8VF47L?th=1&tag=bestpricezo0f-21",
+        "label": "boAt Rockerz 245 v2 Pro Neckband @ 699"
+      }
+    ],
+    "raw_text": "Amazon : boAt Rockerz 245 v2 Pro Neckband @ 699.\n\n👉https://www.amazon.in/dp/B0CC8VF47L?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CC8VF47L?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17314.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-17T03:58:03+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CC8VF47L?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-17T03:58:03+00:00"
+  },
+  {
     "id": "msg17312",
     "title": "Up to 80% OFF on Branded Shoes 🔥",
     "description": "👟👟 Mega Footwear Sale Alert Upto 80% OFF on Branded Shoes 🔥 Top Picks 👇 Puma → Reebok → Adidas → FILA → Duke → Wrogn → Hush Puppies → 🛍 Grab your favorite pair before it’s gone",
@@ -9226,25 +9246,5 @@
     "date_obj": "2025-11-13T14:16:15+00:00",
     "buy_link": "https://www.amazon.in/dp/B0G2651DGK?social_share=cm_sw_r_cso_wa_apin_dp_DEV1RVJA800P4DSGAJ3M&tag=bestpricezo0f-21",
     "date_iso": "2025-11-13T14:16:15+00:00"
-  },
-  {
-    "id": "msg16842",
-    "title": "Up to 80% Off on Perfumes Starting @ 120",
-    "description": "Ajio | Upto 80% Off on Perfumes Starting @ 120 Link : https://ajiio.co/F0eu4e",
-    "shortlink": "https://ajiio.co/F0eu4e",
-    "urls": [
-      {
-        "url": "https://ajiio.co/F0eu4e",
-        "label": "Upto 80% Off on Perfumes Starting @ 120"
-      }
-    ],
-    "raw_text": "Ajio | Upto 80% Off on Perfumes Starting @ 120\n\nLink : https://ajiio.co/F0eu4e",
-    "final_url": "https://ajiio.co/F0eu4e",
-    "local_image": "assets/images/tgmsg_16842.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-13T14:21:41+00:00",
-    "buy_link": "https://ajiio.co/F0eu4e",
-    "date_iso": "2025-11-13T14:21:41+00:00"
   }
 ]
