@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg17394",
+    "title": "💥Min. 60% off on USPA Clothing",
+    "description": "💥Ajio : Min. 60% off on USPA Clothing. Men's : https://ajiio.co/sP9ikn Women’s : https://ajiio.co/wrHYXw Boy’s : https://ajiio.co/qD34J7",
+    "shortlink": "https://ajiio.co/sP9ikn",
+    "urls": [
+      {
+        "url": "",
+        "label": "💥Ajio : Min. 60% off on USPA Clothing"
+      },
+      {
+        "url": "https://ajiio.co/sP9ikn",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/wrHYXw",
+        "label": "Women’s"
+      },
+      {
+        "url": "https://ajiio.co/qD34J7",
+        "label": "Boy’s"
+      }
+    ],
+    "raw_text": "💥Ajio : Min. 60% off on USPA Clothing.\n\nMen's : https://ajiio.co/sP9ikn\nWomen’s : https://ajiio.co/wrHYXw\nBoy’s : https://ajiio.co/qD34J7",
+    "final_url": "https://ajiio.co/sP9ikn",
+    "local_image": "assets/images/tgmsg_17394.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-17T15:36:48+00:00",
+    "buy_link": "https://ajiio.co/sP9ikn",
+    "date_iso": "2025-11-17T15:36:48+00:00"
+  },
+  {
     "id": "msg17389",
     "title": "Up to 82% Off On HRX Luggage",
     "description": "Flipkart | Upto 82% Off On HRX Luggage. Small : https://fkrt.co/GhfHjs Medium : https://fkrt.co/NIBjnl Large : https://fkrt.co/PLUUI4 Pack Of 2/3 : https://fkrt.co/w0cUb5",
@@ -9298,25 +9330,5 @@
     "date_obj": "2025-11-14T08:31:13+00:00",
     "buy_link": "https://ajiio.co/eEanOG",
     "date_iso": "2025-11-14T08:31:13+00:00"
-  },
-  {
-    "id": "msg16945",
-    "title": "Zandu Pure Himalayan Shilajit (2 X 60 Caps) at ₹472",
-    "description": "Loot: Zandu Pure Himalayan Shilajit (2 X 60 Caps) at ₹472 https://bitli.in/trJ1Y3z",
-    "shortlink": "https://bitli.in/trJ1Y3z",
-    "urls": [
-      {
-        "url": "https://bitli.in/trJ1Y3z",
-        "label": "Zandu Pure Himalayan Shilajit (2 X 60 Caps) at ₹472"
-      }
-    ],
-    "raw_text": "Loot: Zandu Pure Himalayan Shilajit (2 X 60 Caps) at ₹472\n                                                                                                                                                                                     https://bitli.in/trJ1Y3z",
-    "final_url": "https://bitli.in/trJ1Y3z",
-    "local_image": "assets/images/tgmsg_16945.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-11-14T08:34:51+00:00",
-    "buy_link": "https://bitli.in/trJ1Y3z",
-    "date_iso": "2025-11-14T08:34:51+00:00"
   }
 ]
