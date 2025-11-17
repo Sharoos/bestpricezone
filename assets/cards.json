@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg17320",
+    "title": "+ 10% EXTRA CASH",
+    "description": "🔥Ajio Men Clothing Starts @99 ◼️T-Shirt Starts @90 👉 ◼️Shirt Starts @160 👉 ◼️Jeans Starts @286 👉 ◼️Polo T-Shirt Starts @165 👉 + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/hsXoul",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥Ajio Men Clothing Starts @99"
+      },
+      {
+        "url": "https://ajiio.co/hsXoul",
+        "label": "◼️T-Shirt Starts @90"
+      },
+      {
+        "url": "https://ajiio.co/Q97Kyl",
+        "label": "◼️Shirt Starts @160"
+      },
+      {
+        "url": "https://ajiio.co/bHkuUc",
+        "label": "◼️Jeans Starts @286"
+      },
+      {
+        "url": "https://ajiio.co/zS7Kiq",
+        "label": "◼️Polo T-Shirt Starts @165"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "🔥Ajio  Men Clothing Starts @99\n\n◼️T-Shirt Starts @90\n👉https://ajiio.co/hsXoul\n\n◼️Shirt Starts @160\n👉https://ajiio.co/Q97Kyl\n\n◼️Jeans Starts @286\n👉https://ajiio.co/bHkuUc\n\n◼️Polo T-Shirt Starts @165\n👉https://ajiio.co/zS7Kiq\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/hsXoul",
+    "local_image": "assets/images/tgmsg_17320.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-17T04:52:47+00:00",
+    "buy_link": "https://ajiio.co/hsXoul",
+    "date_iso": "2025-11-17T04:52:47+00:00"
+  },
+  {
+    "id": "msg17321",
+    "title": "Up to 85% Off on 👞 Invictus Formal Shoe",
+    "description": "Myntra | Upto 85% Off on 👞 Invictus Formal Shoes 🛒 Deal Price: Check the link for the latest price. 👉",
+    "shortlink": "https://myntr.in/6tZ4th",
+    "urls": [
+      {
+        "url": "https://myntr.in/6tZ4th",
+        "label": "Upto 85% Off on 👞 Invictus Formal Shoes"
+      }
+    ],
+    "raw_text": "Myntra | Upto 85% Off on 👞 Invictus Formal Shoes\n\n🛒 Deal Price: Check the link for the latest price.\n\n👉 https://myntr.in/6tZ4th",
+    "final_url": "https://myntr.in/6tZ4th",
+    "local_image": "assets/images/tgmsg_17321.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-17T05:05:48+00:00",
+    "buy_link": "https://myntr.in/6tZ4th",
+    "date_iso": "2025-11-17T05:05:48+00:00"
+  },
+  {
     "id": "msg17317",
     "title": "169",
     "description": "169 : https://www.amazon.in/dp/B0G2651DGK?social_share=cm_sw_r_cso_wa_apin_dp_6371P2FCGP18Y1VG2PV1&tag=bestpricezo0f-21",
@@ -9258,57 +9318,5 @@
     "date_obj": "2025-11-13T15:51:30+00:00",
     "buy_link": "https://myntr.in/9jSfsv",
     "date_iso": "2025-11-13T15:51:30+00:00"
-  },
-  {
-    "id": "msg16851",
-    "title": "🛒 Deal Price ₹188 + 10 Supercoin",
-    "description": "🧺 Flipkart | Jute Storage Basket Deals Jute Storage Basket (Pack of 3) 🛒 Deal Price: ₹188 + 10 Supercoins",
-    "shortlink": "https://fkrt.co/g78j81",
-    "urls": [
-      {
-        "url": "",
-        "label": "🧺 Flipkart | Jute Storage Basket Deals Jute Storage Basket (Pack of 3)"
-      },
-      {
-        "url": "https://fkrt.co/g78j81",
-        "label": "🛒 Deal Price: ₹188 + 10 Supercoins"
-      }
-    ],
-    "raw_text": "🧺 Flipkart | Jute Storage Basket Deals Jute Storage Basket (Pack of 3) \n\n🛒 Deal Price: ₹188 + 10 Supercoins \n\nhttps://fkrt.co/g78j81",
-    "final_url": "https://fkrt.co/g78j81",
-    "local_image": "assets/images/tgmsg_16851.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-13T15:36:31+00:00",
-    "buy_link": "https://fkrt.co/g78j81",
-    "date_iso": "2025-11-13T15:36:31+00:00"
-  },
-  {
-    "id": "msg16849",
-    "title": "🛒 Deal Price ₹188 + 10 Supercoin",
-    "description": "🧺 Flipkart | Jute Storage Basket Deals Jute Storage Basket (Pack of 3) 🛒 Deal Price: ₹188 + 10 Supercoins",
-    "shortlink": "https://fkrt.co/0uCyFt",
-    "urls": [
-      {
-        "url": "",
-        "label": "🧺 Flipkart | Jute Storage Basket Deals"
-      },
-      {
-        "url": "",
-        "label": "Jute Storage Basket (Pack of 3)"
-      },
-      {
-        "url": "https://fkrt.co/0uCyFt",
-        "label": "🛒 Deal Price: ₹188 + 10 Supercoins"
-      }
-    ],
-    "raw_text": "🧺 Flipkart | Jute Storage Basket Deals\n\nJute Storage Basket (Pack of 3)\n🛒 Deal Price: ₹188 + 10 Supercoins\n\nhttps://fkrt.co/0uCyFt",
-    "final_url": "https://fkrt.co/0uCyFt",
-    "local_image": "assets/images/tgmsg_16849.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-13T15:12:20+00:00",
-    "buy_link": "https://fkrt.co/0uCyFt",
-    "date_iso": "2025-11-13T15:12:20+00:00"
   }
 ]
