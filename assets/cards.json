@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17340",
+    "title": "Hershey's Spreads Cocoa, 150g @ 121",
+    "description": "Amazon | Hershey's Spreads Cocoa, 150g @ 121. 👉 https://www.amazon.in/dp/B079Y4WFKM?psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B079Y4WFKM?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B079Y4WFKM?psc=1&tag=bestpricezo0f-21",
+        "label": "Hershey's Spreads Cocoa, 150g @ 121"
+      }
+    ],
+    "raw_text": "Amazon | Hershey's Spreads Cocoa, 150g @ 121.\n\n👉 https://www.amazon.in/dp/B079Y4WFKM?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B079Y4WFKM?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17340.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-17T08:00:05+00:00",
+    "buy_link": "https://www.amazon.in/dp/B079Y4WFKM?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-17T08:00:05+00:00"
+  },
+  {
     "id": "msg17339",
     "title": "🛒 Deal Price ₹1,219",
     "description": "Amazon | The Indus Valley Stainless Steel Sauce Pan, Tea Pan with Steel Lid, | 14cm/5.5inch, 1.3Ltr, 0.60kg 🛒 Deal Price: ₹1,219 👉",
@@ -9158,29 +9178,5 @@
     "date_obj": "2025-11-13T18:45:42+00:00",
     "buy_link": "https://fkrt.co/arTTwQ",
     "date_iso": "2025-11-13T18:45:42+00:00"
-  },
-  {
-    "id": "msg16876",
-    "title": "Plastic Water Bottle Set Of 6, 1000 ML @151",
-    "description": "Amazon | Plastic Water Bottle Set Of 6, 1000 ML @151. https://www.amazon.in/dp/B07TTN4898?th=1&tag=bestpricezo0f-21 Cello H2O Round Water Bottle 1000ml @105. https://www.amazon.in/dp/B01BYBTZFO?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07TTN4898?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07TTN4898?th=1&tag=bestpricezo0f-21",
-        "label": "Plastic Water Bottle Set Of 6, 1000 ML @151"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B01BYBTZFO?psc=1&tag=bestpricezo0f-21",
-        "label": "Cello H2O Round Water Bottle 1000ml @105"
-      }
-    ],
-    "raw_text": "Amazon | Plastic Water Bottle Set Of 6, 1000 ML @151.\n\nhttps://www.amazon.in/dp/B07TTN4898?th=1&tag=bestpricezo0f-21\n\nCello H2O Round Water Bottle 1000ml @105.\n\nhttps://www.amazon.in/dp/B01BYBTZFO?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07TTN4898?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_16876.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-13T18:50:06+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07TTN4898?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-13T18:50:06+00:00"
   }
 ]
