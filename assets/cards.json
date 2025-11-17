@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg17339",
+    "title": "🛒 Deal Price ₹1,219",
+    "description": "Amazon | The Indus Valley Stainless Steel Sauce Pan, Tea Pan with Steel Lid, | 14cm/5.5inch, 1.3Ltr, 0.60kg 🛒 Deal Price: ₹1,219 👉",
+    "shortlink": "https://www.amazon.in/dp/B0FJ1ZPZZY/ref=cm_sw_r_as_gl_apa_gl_i_dl_PQAMXBBAVBSRTY5MACTN?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "The Indus Valley Stainless Steel Sauce Pan, Tea Pan with Steel Lid, | 14cm/5.5inch, 1.3Ltr, 0.60kg"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0FJ1ZPZZY/ref=cm_sw_r_as_gl_apa_gl_i_dl_PQAMXBBAVBSRTY5MACTN?tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹1,219"
+      }
+    ],
+    "raw_text": "Amazon | The Indus Valley Stainless Steel Sauce Pan, Tea Pan with Steel Lid, | 14cm/5.5inch, 1.3Ltr, 0.60kg\n\n🛒 Deal Price: ₹1,219\n\n👉https://www.amazon.in/dp/B0FJ1ZPZZY/ref=cm_sw_r_as_gl_apa_gl_i_dl_PQAMXBBAVBSRTY5MACTN?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FJ1ZPZZY/ref=cm_sw_r_as_gl_apa_gl_i_dl_PQAMXBBAVBSRTY5MACTN?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17339.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-17T07:36:51+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FJ1ZPZZY/ref=cm_sw_r_as_gl_apa_gl_i_dl_PQAMXBBAVBSRTY5MACTN?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-17T07:36:51+00:00"
+  },
+  {
     "id": "msg17335",
     "title": "72% off Kojic Acid Exfoliating Skincare Wipe",
     "description": "72% off : Kojic Acid Exfoliating Skincare Wipes - 60 Pads At 169 Link: https://www.amazon.in/dp/B0G2651DGK?tag=bestpricezo0f-21",
@@ -9158,25 +9182,5 @@
     "date_obj": "2025-11-13T18:50:06+00:00",
     "buy_link": "https://www.amazon.in/dp/B07TTN4898?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-13T18:50:06+00:00"
-  },
-  {
-    "id": "msg16864",
-    "title": "Up to 83% OFF on Biba Womens Clothing",
-    "description": "👉 Myntra : Upto 83% OFF on Biba Womens Clothing 🔗 https://myntr.in/0McXEi",
-    "shortlink": "https://myntr.in/0McXEi",
-    "urls": [
-      {
-        "url": "https://myntr.in/0McXEi",
-        "label": "Upto 83% OFF on Biba Womens Clothing"
-      }
-    ],
-    "raw_text": "👉 Myntra : Upto 83% OFF on Biba Womens Clothing\n \n🔗 https://myntr.in/0McXEi",
-    "final_url": "https://myntr.in/0McXEi",
-    "local_image": "assets/images/tgmsg_16864.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-13T18:02:10+00:00",
-    "buy_link": "https://myntr.in/0McXEi",
-    "date_iso": "2025-11-13T18:02:10+00:00"
   }
 ]
