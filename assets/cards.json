@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17343",
+    "title": "Home Cleaning Kit (Pack of 7) @400",
+    "description": "Flipkart | Home Cleaning Kit (Pack of 7) @400 👉https://fkrt.co/DM3lU3",
+    "shortlink": "https://fkrt.co/DM3lU3",
+    "urls": [
+      {
+        "url": "https://fkrt.co/DM3lU3",
+        "label": "Home Cleaning Kit (Pack of 7) @400"
+      }
+    ],
+    "raw_text": "Flipkart | Home Cleaning Kit (Pack of 7) @400\n\n👉https://fkrt.co/DM3lU3",
+    "final_url": "https://fkrt.co/DM3lU3",
+    "local_image": "assets/images/tgmsg_17343.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-17T08:15:11+00:00",
+    "buy_link": "https://fkrt.co/DM3lU3",
+    "date_iso": "2025-11-17T08:15:11+00:00"
+  },
+  {
     "id": "msg17340",
     "title": "Hershey's Spreads Cocoa, 150g @ 121",
     "description": "Amazon | Hershey's Spreads Cocoa, 150g @ 121. 👉 https://www.amazon.in/dp/B079Y4WFKM?psc=1&tag=bestpricezo0f-21",
@@ -9158,25 +9178,5 @@
     "date_obj": "2025-11-13T19:09:45+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FDL2BFP7?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-13T19:09:45+00:00"
-  },
-  {
-    "id": "msg16874",
-    "title": "Metronaut Backpacks Starts @ 219",
-    "description": "Flipkart | Metronaut Backpacks Starts @ 219. https://fkrt.co/arTTwQ",
-    "shortlink": "https://fkrt.co/arTTwQ",
-    "urls": [
-      {
-        "url": "https://fkrt.co/arTTwQ",
-        "label": "Metronaut Backpacks Starts @ 219"
-      }
-    ],
-    "raw_text": "Flipkart | Metronaut Backpacks Starts @ 219.\n\nhttps://fkrt.co/arTTwQ",
-    "final_url": "https://fkrt.co/arTTwQ",
-    "local_image": "assets/images/tgmsg_16874.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-13T18:45:42+00:00",
-    "buy_link": "https://fkrt.co/arTTwQ",
-    "date_iso": "2025-11-13T18:45:42+00:00"
   }
 ]
