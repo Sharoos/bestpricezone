@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg17387",
+    "title": "Up to 75% Off on Roadster Jean",
+    "description": "Myntra : Up to 75% Off on Roadster Jeans Men's : https://myntr.in/asn43g Women's : https://myntr.in/aEtRYl",
+    "shortlink": "https://myntr.in/asn43g",
+    "urls": [
+      {
+        "url": "",
+        "label": "Up to 75% Off on Roadster Jeans"
+      },
+      {
+        "url": "https://myntr.in/asn43g",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/aEtRYl",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Myntra : Up to 75% Off on Roadster Jeans \n\nMen's : https://myntr.in/asn43g\nWomen's : https://myntr.in/aEtRYl",
+    "final_url": "https://myntr.in/asn43g",
+    "local_image": "assets/images/tgmsg_17387.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-17T14:46:28+00:00",
+    "buy_link": "https://myntr.in/asn43g",
+    "date_iso": "2025-11-17T14:46:28+00:00"
+  },
+  {
     "id": "msg17383",
     "title": "DHANVARSHA2 for 2% off up to INR2000 and get an additional INR1000 off on prepaid transactions! 💸",
     "description": "🔥Ajio | Exclusive Offer Alert! 🎉 Check out the P N GADGIL JEWELLERS 3G 24 KT 995 Yellow Gold Vedhani on for just INR 37,914 Market rate 12,700 Ajio rate 12,638 Apply coupon  Additional benefit of 3% using the GST…",
@@ -9294,33 +9322,5 @@
     "date_obj": "2025-11-14T07:01:46+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DHGJ7PF6?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-14T07:01:46+00:00"
-  },
-  {
-    "id": "msg16934",
-    "title": "TIARAA – Bracelet Offe",
-    "description": "TIARAA Loot – Bracelet Offer Get any 3 Bracelets @199 INR (including shipping) ✅Use Code: LOOT3 Link:",
-    "shortlink": "https://bitli.in/zkmkq85",
-    "urls": [
-      {
-        "url": "",
-        "label": "TIARAA Loot – Bracelet Offer"
-      },
-      {
-        "url": "",
-        "label": "Get any 3 Bracelets @199 INR (including shipping)"
-      },
-      {
-        "url": "https://bitli.in/zkmkq85",
-        "label": "✅Use Code: LOOT3"
-      }
-    ],
-    "raw_text": "TIARAA Loot – Bracelet Offer\nGet any 3 Bracelets @199 INR (including shipping)\n\n✅Use Code: LOOT3\n\nLink: https://bitli.in/zkmkq85",
-    "final_url": "https://bitli.in/zkmkq85",
-    "local_image": "assets/images/tgmsg_16934.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-11-14T07:06:13+00:00",
-    "buy_link": "https://bitli.in/zkmkq85",
-    "date_iso": "2025-11-14T07:06:13+00:00"
   }
 ]
