@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg17354",
+    "title": "HRX Track Pants Up to 80% Off",
+    "description": "HRX Track Pants Upto 80% Off Men : https://myntr.in/z7JvdH Women : https://myntr.in/Xp5IaQ",
+    "shortlink": "https://myntr.in/z7JvdH",
+    "urls": [
+      {
+        "url": "https://myntr.in/z7JvdH",
+        "label": "HRX Track Pants Upto 80% Off"
+      },
+      {
+        "url": "https://myntr.in/Xp5IaQ",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "HRX Track Pants Upto 80% Off\n\nMen : https://myntr.in/z7JvdH\nWomen : https://myntr.in/Xp5IaQ",
+    "final_url": "https://myntr.in/z7JvdH",
+    "local_image": "assets/images/tgmsg_17354.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-17T09:52:02+00:00",
+    "buy_link": "https://myntr.in/z7JvdH",
+    "date_iso": "2025-11-17T09:52:02+00:00"
+  },
+  {
     "id": "msg17351",
     "title": "Croma Air Purifiers Up to 50% Off",
     "description": "Croma Air Purifiers Upto 50% Off 👉 Link : Top Recommendations • PHILIPS 1000i Series Smart Air Purifier @13,999 Alexa & Google Home Enabled 👉 • EUREKA FORBES Smart 500 Air Purifier @15,999 Surround 360° Air Intake 👉 •…",
@@ -9182,41 +9206,5 @@
     "date_obj": "2025-11-14T04:57:29+00:00",
     "buy_link": "https://myntr.in/KbDOBo",
     "date_iso": "2025-11-14T04:57:29+00:00"
-  },
-  {
-    "id": "msg16908",
-    "title": "10% Super Cash on Every Orde",
-    "description": "🔥AJIO : Men's Footwear Starts @90 👉 Sports : Casual : Sandals : 10% AJIO Super Cash on Every Order.",
-    "shortlink": "https://ajiio.co/Sutpc0",
-    "urls": [
-      {
-        "url": "https://ajiio.co/Sutpc0",
-        "label": "🔥AJIO : Men's Footwear Starts @90"
-      },
-      {
-        "url": "https://ajiio.co/o8rAsQ",
-        "label": "Sports"
-      },
-      {
-        "url": "https://ajiio.co/pPtavn",
-        "label": "Casual"
-      },
-      {
-        "url": "https://ajiio.co/XBnBs0",
-        "label": "Sandals"
-      },
-      {
-        "url": "",
-        "label": "10% AJIO Super Cash on Every Order"
-      }
-    ],
-    "raw_text": "🔥AJIO : Men's Footwear Starts @90\n\n👉https://ajiio.co/Sutpc0\n\nSports : https://ajiio.co/o8rAsQ\nCasual : https://ajiio.co/pPtavn\nSandals : https://ajiio.co/XBnBs0\n\n10% AJIO Super Cash on Every Order.",
-    "final_url": "https://ajiio.co/Sutpc0",
-    "local_image": "assets/images/tgmsg_16908.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-14T05:02:23+00:00",
-    "buy_link": "https://ajiio.co/Sutpc0",
-    "date_iso": "2025-11-14T05:02:23+00:00"
   }
 ]
