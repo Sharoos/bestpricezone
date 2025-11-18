@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg17510",
+    "title": "Up to 75% Off On Puma Clothing & Footwea",
+    "description": "Myntra : Upto 75% Off On Puma Clothing & Footwears. Men's : Women's : Boys : Girls :",
+    "shortlink": "https://myntr.in/U8UhwK",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On Puma Clothing & Footwears"
+      },
+      {
+        "url": "https://myntr.in/U8UhwK",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/BEqVhM",
+        "label": "Women's"
+      },
+      {
+        "url": "https://myntr.in/Kp0xUf",
+        "label": "Boys"
+      },
+      {
+        "url": "https://myntr.in/AAtSrw",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "Myntra : Upto 75% Off On Puma Clothing & Footwears.\n\nMen's : https://myntr.in/U8UhwK\nWomen's : https://myntr.in/BEqVhM\nBoys : https://myntr.in/Kp0xUf\nGirls : https://myntr.in/AAtSrw",
+    "final_url": "https://myntr.in/U8UhwK",
+    "local_image": "assets/images/tgmsg_17510.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-18T13:02:02+00:00",
+    "buy_link": "https://myntr.in/U8UhwK",
+    "date_iso": "2025-11-18T13:02:02+00:00"
+  },
+  {
     "id": "msg17503",
     "title": "Foxsky (32 inches) HD Ready Smart LED TV @6999",
     "description": "Amazon | Foxsky (32 inches) HD Ready Smart LED TV @6999 👉 https://www.amazon.in/dp/B08QX4LZ37?tag=bestpricezo0f-21",
@@ -8902,25 +8938,5 @@
     "date_obj": "2025-11-14T19:52:08+00:00",
     "buy_link": "https://ajiio.co/uPgASe",
     "date_iso": "2025-11-14T19:52:08+00:00"
-  },
-  {
-    "id": "msg17051",
-    "title": "Flat 70% Off On Van Heusen Men's Sweatshirt",
-    "description": "Myntra | Flat 70% Off On Van Heusen Men's Sweatshirts. https://myntr.in/7mxEGR",
-    "shortlink": "https://myntr.in/7mxEGR",
-    "urls": [
-      {
-        "url": "https://myntr.in/7mxEGR",
-        "label": "Flat 70% Off On Van Heusen Men's Sweatshirts"
-      }
-    ],
-    "raw_text": "Myntra | Flat 70% Off On Van Heusen Men's Sweatshirts.\n\nhttps://myntr.in/7mxEGR",
-    "final_url": "https://myntr.in/7mxEGR",
-    "local_image": "assets/images/tgmsg_17051.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-14T19:28:52+00:00",
-    "buy_link": "https://myntr.in/7mxEGR",
-    "date_iso": "2025-11-14T19:28:52+00:00"
   }
 ]
