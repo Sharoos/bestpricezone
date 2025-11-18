@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17538",
+    "title": "Fabflee Women's Clothing Starts At Rs.99",
+    "description": "Myntra : Fabflee Women's Clothing Starts At Rs.99 👉Link : https://myntr.in/yPqery",
+    "shortlink": "https://myntr.in/yPqery",
+    "urls": [
+      {
+        "url": "https://myntr.in/yPqery",
+        "label": "Fabflee Women's Clothing Starts At Rs.99"
+      }
+    ],
+    "raw_text": "Myntra : Fabflee Women's Clothing Starts At Rs.99\n\n👉Link : https://myntr.in/yPqery",
+    "final_url": "https://myntr.in/yPqery",
+    "local_image": "assets/images/tgmsg_17538.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-18T17:43:27+00:00",
+    "buy_link": "https://myntr.in/yPqery",
+    "date_iso": "2025-11-18T17:43:27+00:00"
+  },
+  {
     "id": "msg17536",
     "title": "✅ 5% Cashback on UPI Payment",
     "description": "🔰 Apply for Lifetime FREE KIWI Credit Card & Earn Cashback on Every Transaction 😱😱 👉 Apply Now : 🔴 Eligibility Criteria: ✅Joining Fee: NIL ✅Annual Renewal: LIFETIME FREE ✅Age Limit: 21 to 60 years ✅Employment: Salaried…",
@@ -8910,25 +8930,5 @@
     "date_obj": "2025-11-15T08:33:57+00:00",
     "buy_link": "https://bitli.in/Po4AV5y",
     "date_iso": "2025-11-15T08:33:57+00:00"
-  },
-  {
-    "id": "msg17092",
-    "title": "Arctic Fox Wireless Mouse at 399",
-    "description": "Amazon | Arctic Fox Wireless Mouse at 399. 👉https://www.amazon.in/dp/B0DFYS7JCR?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DFYS7JCR?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DFYS7JCR?tag=bestpricezo0f-21",
-        "label": "Arctic Fox Wireless Mouse at 399"
-      }
-    ],
-    "raw_text": "Amazon | Arctic Fox Wireless Mouse at 399.\n\n👉https://www.amazon.in/dp/B0DFYS7JCR?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DFYS7JCR?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17092.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-15T08:41:19+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DFYS7JCR?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-15T08:41:19+00:00"
   }
 ]
