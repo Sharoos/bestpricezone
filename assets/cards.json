@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17436",
+    "title": "99",
+    "description": "99 : https://www.amazon.in/dp/B0FV94JZ3T?social_share=cm_sw_r_cso_wa_apin_dp_BSBACG9R7Z0965CV3QMA&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FV94JZ3T?social_share=cm_sw_r_cso_wa_apin_dp_BSBACG9R7Z0965CV3QMA&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FV94JZ3T?social_share=cm_sw_r_cso_wa_apin_dp_BSBACG9R7Z0965CV3QMA&tag=bestpricezo0f-21",
+        "label": "99"
+      }
+    ],
+    "raw_text": "99 : https://www.amazon.in/dp/B0FV94JZ3T?social_share=cm_sw_r_cso_wa_apin_dp_BSBACG9R7Z0965CV3QMA&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FV94JZ3T?social_share=cm_sw_r_cso_wa_apin_dp_BSBACG9R7Z0965CV3QMA&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17436.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-18T02:18:55+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FV94JZ3T?social_share=cm_sw_r_cso_wa_apin_dp_BSBACG9R7Z0965CV3QMA&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-18T02:18:55+00:00"
+  },
+  {
     "id": "msg17434",
     "title": "Yousta Cargo, Jeans at 50% off",
     "description": "Ajio | Yousta Cargo, Jeans at 50% off https://ajiio.co/cqKDS3",
@@ -9198,29 +9218,5 @@
     "date_obj": "2025-11-14T11:45:10+00:00",
     "buy_link": "https://myntr.in/JWP5GT",
     "date_iso": "2025-11-14T11:45:10+00:00"
-  },
-  {
-    "id": "msg16965",
-    "title": "Lowest CMF by Nothing Charge",
-    "description": "Flipkart Lowest : CMF by Nothing Chargers Starts @899. 👉 https://fkrt.co/LtlAVW",
-    "shortlink": "https://fkrt.co/LtlAVW",
-    "urls": [
-      {
-        "url": "",
-        "label": "CMF by Nothing Chargers"
-      },
-      {
-        "url": "https://fkrt.co/LtlAVW",
-        "label": "Starts @899"
-      }
-    ],
-    "raw_text": "Flipkart Lowest : CMF by Nothing Chargers\nStarts @899.\n\n👉 https://fkrt.co/LtlAVW",
-    "final_url": "https://fkrt.co/LtlAVW",
-    "local_image": "assets/images/tgmsg_16965.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-14T11:33:44+00:00",
-    "buy_link": "https://fkrt.co/LtlAVW",
-    "date_iso": "2025-11-14T11:33:44+00:00"
   }
 ]
