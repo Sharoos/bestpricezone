@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg17523",
+    "title": "Up to 86% Off On HRX Luggage",
+    "description": "Flipkart | Upto 86% Off On HRX Luggage. Small : https://fkrt.co/B91ui4 Medium : https://fkrt.co/UYgCAJ Large : https://fkrt.co/iYCo1v Pack Of 2/3 : https://fkrt.co/4pFeTd",
+    "shortlink": "https://fkrt.co/B91ui4",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 86% Off On HRX Luggage"
+      },
+      {
+        "url": "https://fkrt.co/B91ui4",
+        "label": "Small"
+      },
+      {
+        "url": "https://fkrt.co/UYgCAJ",
+        "label": "Medium"
+      },
+      {
+        "url": "https://fkrt.co/iYCo1v",
+        "label": "Large"
+      },
+      {
+        "url": "https://fkrt.co/4pFeTd",
+        "label": "Pack Of 2/3"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 86% Off On HRX Luggage.\n\nSmall : https://fkrt.co/B91ui4\nMedium : https://fkrt.co/UYgCAJ\nLarge : https://fkrt.co/iYCo1v\n\nPack Of 2/3 : https://fkrt.co/4pFeTd",
+    "final_url": "https://fkrt.co/B91ui4",
+    "local_image": "assets/images/tgmsg_17523.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-18T15:11:18+00:00",
+    "buy_link": "https://fkrt.co/B91ui4",
+    "date_iso": "2025-11-18T15:11:18+00:00"
+  },
+  {
     "id": "msg17521",
     "title": "Pillows From 167",
     "description": "Myntra  Pillows From 167. https://myntr.in/oigMCt",
@@ -8906,33 +8942,5 @@
     "date_obj": "2025-11-15T05:33:44+00:00",
     "buy_link": "https://extp.in/bEwUZJ",
     "date_iso": "2025-11-15T05:33:44+00:00"
-  },
-  {
-    "id": "msg17071",
-    "title": "Up to 85% Off On Libas Women Clothing",
-    "description": "Myntra | Upto 85% Off On Libas Women Clothing. https://myntr.in/uNVBNq Kurta : https://myntr.in/5fjhEx Kurta Sets : https://myntr.in/1YXkqE",
-    "shortlink": "https://myntr.in/uNVBNq",
-    "urls": [
-      {
-        "url": "https://myntr.in/uNVBNq",
-        "label": "Upto 85% Off On Libas Women Clothing"
-      },
-      {
-        "url": "https://myntr.in/5fjhEx",
-        "label": "Kurta"
-      },
-      {
-        "url": "https://myntr.in/1YXkqE",
-        "label": "Kurta Sets"
-      }
-    ],
-    "raw_text": "Myntra | Upto 85% Off On Libas Women Clothing.\n\nhttps://myntr.in/uNVBNq\n\nKurta : https://myntr.in/5fjhEx\nKurta Sets : https://myntr.in/1YXkqE",
-    "final_url": "https://myntr.in/uNVBNq",
-    "local_image": "assets/images/tgmsg_17071.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-15T05:10:56+00:00",
-    "buy_link": "https://myntr.in/uNVBNq",
-    "date_iso": "2025-11-15T05:10:56+00:00"
   }
 ]
