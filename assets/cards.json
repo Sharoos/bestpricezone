@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg17680",
+    "title": "249",
+    "description": "249 : https://www.amazon.in/dp/B0FHSSZVGZ?language=en_IN&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FHSSZVGZ?language=en_IN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FHSSZVGZ?language=en_IN&tag=bestpricezo0f-21",
+        "label": "249"
+      }
+    ],
+    "raw_text": "249 : https://www.amazon.in/dp/B0FHSSZVGZ?language=en_IN&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FHSSZVGZ?language=en_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17680.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-19T14:45:46+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FHSSZVGZ?language=en_IN&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-19T14:45:46+00:00"
+  },
+  {
+    "id": "msg17681",
+    "title": "65% off",
+    "description": "Myntra | L’Oréal, Maybelline and Garnier 40% - 65% off 👉Link : https://myntr.in/Y5F5yS",
+    "shortlink": "https://myntr.in/Y5F5yS",
+    "urls": [
+      {
+        "url": "https://myntr.in/Y5F5yS",
+        "label": "L’Oréal, Maybelline and Garnier 40% - 65% off"
+      }
+    ],
+    "raw_text": "Myntra | L’Oréal, Maybelline and Garnier 40% - 65% off\n\n👉Link : https://myntr.in/Y5F5yS",
+    "final_url": "https://myntr.in/Y5F5yS",
+    "local_image": "assets/images/tgmsg_17681.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-19T14:48:38+00:00",
+    "buy_link": "https://myntr.in/Y5F5yS",
+    "date_iso": "2025-11-19T14:48:38+00:00"
+  },
+  {
     "id": "msg17676",
     "title": "Face Moisturisers Starting @ just ₹99",
     "description": "Myntra | Face Moisturisers Starting @ just ₹99 Link : https://myntr.in/bEjuV1",
@@ -8758,45 +8798,5 @@
     "date_obj": "2025-11-16T05:26:02+00:00",
     "buy_link": "https://www.amazon.in/dp/B071Z8M4KX?tag=bestpricezo0f-21",
     "date_iso": "2025-11-16T05:26:02+00:00"
-  },
-  {
-    "id": "msg17220",
-    "title": "🏎 Mini Monster Truck Push and Go Toy For Kids At Rs.42",
-    "description": "Flipkart | 🏎 Mini Monster Truck Push and Go Toy For Kids At Rs.42 https://fkrt.co/U4H4uj",
-    "shortlink": "https://fkrt.co/U4H4uj",
-    "urls": [
-      {
-        "url": "https://fkrt.co/U4H4uj",
-        "label": "🏎 Mini Monster Truck Push and Go Toy For Kids At Rs.42"
-      }
-    ],
-    "raw_text": "Flipkart | 🏎 Mini Monster Truck Push and Go Toy For Kids At Rs.42\n\nhttps://fkrt.co/U4H4uj",
-    "final_url": "https://fkrt.co/U4H4uj",
-    "local_image": "assets/images/tgmsg_17220.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-16T04:55:43+00:00",
-    "buy_link": "https://fkrt.co/U4H4uj",
-    "date_iso": "2025-11-16T04:55:43+00:00"
-  },
-  {
-    "id": "msg17218",
-    "title": "80% Off !!!",
-    "description": "Myntra | Set of 4 piece Ceramic Bowls - Rs 356 !!! -  Use coupon code - HOMECLEARANCE for additional discount !!",
-    "shortlink": "https://myntr.in/A89cff",
-    "urls": [
-      {
-        "url": "https://myntr.in/A89cff",
-        "label": "Set of 4 piece Ceramic Bowls - Rs 356 !!! - 80% Off !!!"
-      }
-    ],
-    "raw_text": "Myntra | Set of 4 piece Ceramic Bowls - Rs 356 !!! - 80% Off !!!\n\nUse coupon code - HOMECLEARANCE for additional discount !!\n\nhttps://myntr.in/A89cff",
-    "final_url": "https://myntr.in/A89cff",
-    "local_image": "assets/images/tgmsg_17218.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-16T04:40:42+00:00",
-    "buy_link": "https://myntr.in/A89cff",
-    "date_iso": "2025-11-16T04:40:42+00:00"
   }
 ]
