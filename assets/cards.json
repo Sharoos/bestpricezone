@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17613",
+    "title": "Jewellery Up to 90% off",
+    "description": "Flipkart | Jewellery Upto 90% off https://fkrt.co/jnnv8G",
+    "shortlink": "https://fkrt.co/jnnv8G",
+    "urls": [
+      {
+        "url": "https://fkrt.co/jnnv8G",
+        "label": "Jewellery Upto 90% off"
+      }
+    ],
+    "raw_text": "Flipkart | Jewellery Upto 90% off \n\nhttps://fkrt.co/jnnv8G",
+    "final_url": "https://fkrt.co/jnnv8G",
+    "local_image": "assets/images/tgmsg_17613.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-19T07:20:28+00:00",
+    "buy_link": "https://fkrt.co/jnnv8G",
+    "date_iso": "2025-11-19T07:20:28+00:00"
+  },
+  {
     "id": "msg17610",
     "title": "Panasonic 9W LED Bulb, Pack Of 10 @452",
     "description": "Amazon | Panasonic 9W LED Bulb, Pack Of 10 @452 https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
@@ -8758,29 +8778,5 @@
     "date_obj": "2025-11-15T15:57:51+00:00",
     "buy_link": "https://myntr.in/yzyu26",
     "date_iso": "2025-11-15T15:57:51+00:00"
-  },
-  {
-    "id": "msg17148",
-    "title": "🛒 Deal Price ₹1,399",
-    "description": "💥Amazon | ⌚ Smartwatch Deals | Noise Twist Go Round dial Smartwatch with BT Calling 🛒 Deal Price: ₹1,399 ⚡",
-    "shortlink": "https://www.amazon.in/Noise-Smartwatch-Calling-Tracking-Monitoring/dp/B0CQ4KTCH1?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "💥Amazon | ⌚ Smartwatch Deals | Noise Twist Go Round dial Smartwatch with BT Calling"
-      },
-      {
-        "url": "https://www.amazon.in/Noise-Smartwatch-Calling-Tracking-Monitoring/dp/B0CQ4KTCH1?th=1&language=en_IN&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹1,399"
-      }
-    ],
-    "raw_text": "💥Amazon | ⌚ Smartwatch Deals | Noise Twist Go Round dial Smartwatch with BT Calling\n\n🛒 Deal Price: ₹1,399\n\n⚡https://www.amazon.in/Noise-Smartwatch-Calling-Tracking-Monitoring/dp/B0CQ4KTCH1?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/Noise-Smartwatch-Calling-Tracking-Monitoring/dp/B0CQ4KTCH1?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17148.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-15T15:41:47+00:00",
-    "buy_link": "https://www.amazon.in/Noise-Smartwatch-Calling-Tracking-Monitoring/dp/B0CQ4KTCH1?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-15T15:41:47+00:00"
   }
 ]
