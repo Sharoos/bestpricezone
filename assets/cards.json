@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg17596",
+    "title": "💥 USE CODE DENIM100 (Get ₹100 Off on ₹1299+)",
+    "description": "Bewakoof: Men's Denim Jeans Starts @799 👖 Hot New Styles Added — Denim Verse Collection 💥 USE CODE: DENIM100 (Get ₹100 Off on ₹1299+) 📌Shop Now:",
+    "shortlink": "https://bitli.in/s9Mc0aG",
+    "urls": [
+      {
+        "url": "",
+        "label": "Men's Denim Jeans Starts @799"
+      },
+      {
+        "url": "",
+        "label": "👖 Hot New Styles Added — Denim Verse Collection"
+      },
+      {
+        "url": "",
+        "label": "💥 USE CODE: DENIM100 (Get ₹100 Off on ₹1299+)"
+      },
+      {
+        "url": "https://bitli.in/s9Mc0aG",
+        "label": "📌Shop Now"
+      }
+    ],
+    "raw_text": "Bewakoof: Men's Denim Jeans Starts @799\n\n👖 Hot New Styles Added — Denim Verse Collection\n\n💥 USE CODE: DENIM100 (Get ₹100 Off on ₹1299+)\n\n📌Shop Now: https://bitli.in/s9Mc0aG",
+    "final_url": "https://bitli.in/s9Mc0aG",
+    "local_image": "assets/images/tgmsg_17596.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-11-19T05:40:45+00:00",
+    "buy_link": "https://bitli.in/s9Mc0aG",
+    "date_iso": "2025-11-19T05:40:45+00:00"
+  },
+  {
     "id": "msg17594",
     "title": "🛒 Deal Price Up to 80% Off",
     "description": "Amazon | ⏱️ Wall Clock Deals - Up to 80% Off! Premium Wall Clocks 🛒 Deal Price: Up to 80% Off 👉",
@@ -8818,25 +8850,5 @@
     "date_obj": "2025-11-15T13:28:20+00:00",
     "buy_link": "https://myntr.in/b1mV02",
     "date_iso": "2025-11-15T13:28:20+00:00"
-  },
-  {
-    "id": "msg17123",
-    "title": "Up to 85% Off",
-    "description": "Myntra | 👖 Biba Trousers - Up to 85% Off 🔗 https://myntr.in/0QMNV1",
-    "shortlink": "https://myntr.in/0QMNV1",
-    "urls": [
-      {
-        "url": "https://myntr.in/0QMNV1",
-        "label": "👖 Biba Trousers - Up to 85% Off"
-      }
-    ],
-    "raw_text": "Myntra | 👖 Biba Trousers - Up to 85% Off\n\n🔗 https://myntr.in/0QMNV1",
-    "final_url": "https://myntr.in/0QMNV1",
-    "local_image": "assets/images/tgmsg_17123.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-15T12:56:35+00:00",
-    "buy_link": "https://myntr.in/0QMNV1",
-    "date_iso": "2025-11-15T12:56:35+00:00"
   }
 ]
