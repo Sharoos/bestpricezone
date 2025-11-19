@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg17698",
+    "title": "Up to 75% Off On HRX Clothing",
+    "description": "Myntra : Upto 75% Off On HRX Clothing. Men's : Low To High : Trackpants : Tracksuits : Women's : Low To High : Trackpants : Tracksuits :",
+    "shortlink": "https://myntr.in/73xKwY",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On HRX Clothing"
+      },
+      {
+        "url": "https://myntr.in/73xKwY",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/DJoGcd",
+        "label": "Low To High"
+      },
+      {
+        "url": "https://myntr.in/MP8gvD",
+        "label": "Trackpants"
+      },
+      {
+        "url": "https://myntr.in/qdDUJy",
+        "label": "Tracksuits"
+      },
+      {
+        "url": "https://myntr.in/qtktAN",
+        "label": "Women's"
+      },
+      {
+        "url": "https://myntr.in/V2m3rQ",
+        "label": "Low To High"
+      },
+      {
+        "url": "https://myntr.in/SM8hhm",
+        "label": "Trackpants"
+      },
+      {
+        "url": "https://myntr.in/e0XPyL",
+        "label": "Tracksuits"
+      }
+    ],
+    "raw_text": "Myntra : Upto 75% Off On HRX Clothing.\n\nMen's : https://myntr.in/73xKwY\nLow To High : https://myntr.in/DJoGcd\nTrackpants : https://myntr.in/MP8gvD\nTracksuits : https://myntr.in/qdDUJy\n\nWomen's : https://myntr.in/qtktAN\nLow To High : https://myntr.in/V2m3rQ\nTrackpants : https://myntr.in/SM8hhm\nTracksuits : https://myntr.in/e0XPyL",
+    "final_url": "https://myntr.in/73xKwY",
+    "local_image": "assets/images/tgmsg_17698.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-19T17:50:37+00:00",
+    "buy_link": "https://myntr.in/73xKwY",
+    "date_iso": "2025-11-19T17:50:37+00:00"
+  },
+  {
     "id": "msg17697",
     "title": "Flat 70% Off on Multipurpose Container 4 Jar @199",
     "description": "Amazon | Flat 70% Off on Multipurpose Container 4 Jar @199.…",
@@ -8682,25 +8734,5 @@
     "date_obj": "2025-11-16T09:25:54+00:00",
     "buy_link": "https://ajiio.co/AgQkmC",
     "date_iso": "2025-11-16T09:25:54+00:00"
-  },
-  {
-    "id": "msg17236",
-    "title": "Flat 51% Off on ASUS Wireless Keyboard and Mouse Set CW101 Wireless ₹1203",
-    "description": "Flipkart | Flat 51% Off on ASUS Wireless Keyboard and Mouse Set CW101 Wireless ₹1203 https://fkrt.co/KeGyc5",
-    "shortlink": "https://fkrt.co/KeGyc5",
-    "urls": [
-      {
-        "url": "https://fkrt.co/KeGyc5",
-        "label": "Flat 51% Off on ASUS Wireless Keyboard and Mouse Set CW101 Wireless ₹1203"
-      }
-    ],
-    "raw_text": "Flipkart | Flat 51% Off on ASUS Wireless Keyboard and Mouse Set CW101 Wireless ₹1203\n\nhttps://fkrt.co/KeGyc5",
-    "final_url": "https://fkrt.co/KeGyc5",
-    "local_image": "assets/images/tgmsg_17236.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-16T08:55:58+00:00",
-    "buy_link": "https://fkrt.co/KeGyc5",
-    "date_iso": "2025-11-16T08:55:58+00:00"
   }
 ]
