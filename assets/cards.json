@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17688",
+    "title": "139",
+    "description": "139 : https://www.amazon.in/dp/B0DYQ6Q3RV?social_share=cm_sw_r_cso_wa_apin_dp_BS17XYAR8TEAZV6DWEHC&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DYQ6Q3RV?social_share=cm_sw_r_cso_wa_apin_dp_BS17XYAR8TEAZV6DWEHC&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DYQ6Q3RV?social_share=cm_sw_r_cso_wa_apin_dp_BS17XYAR8TEAZV6DWEHC&tag=bestpricezo0f-21",
+        "label": "139"
+      }
+    ],
+    "raw_text": "139 : https://www.amazon.in/dp/B0DYQ6Q3RV?social_share=cm_sw_r_cso_wa_apin_dp_BS17XYAR8TEAZV6DWEHC&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DYQ6Q3RV?social_share=cm_sw_r_cso_wa_apin_dp_BS17XYAR8TEAZV6DWEHC&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17688.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-19T15:54:03+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DYQ6Q3RV?social_share=cm_sw_r_cso_wa_apin_dp_BS17XYAR8TEAZV6DWEHC&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-19T15:54:03+00:00"
+  },
+  {
     "id": "msg17687",
     "title": "Up to 75% Off on Branded Formal Shoes For men Starts At Rs.926",
     "description": "Myntra | Upto 75% Off on Branded Formal Shoes For men Starts At Rs.926 👉Link : https://myntr.in/YG0KXC",
@@ -8714,53 +8734,5 @@
     "date_obj": "2025-11-16T06:40:51+00:00",
     "buy_link": "https://fkrt.co/yBnARB",
     "date_iso": "2025-11-16T06:40:51+00:00"
-  },
-  {
-    "id": "msg17224",
-    "title": "Up to 75% Off on Buda Jeans Men’s Clothing",
-    "description": "Ajio Upto 75% Off on Buda Jeans Men’s Clothing. T-Shirt : Shirt : Jeans : Trackpant : Shorts : Winterwear : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "shortlink": "https://ajiio.co/rZkS1l",
-    "urls": [
-      {
-        "url": "",
-        "label": "Ajio Upto 75% Off on Buda Jeans Men’s Clothing"
-      },
-      {
-        "url": "https://ajiio.co/rZkS1l",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://ajiio.co/im0949",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://ajiio.co/zp7lPP",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/RzADJP",
-        "label": "Trackpant"
-      },
-      {
-        "url": "https://ajiio.co/N3i32X",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.co/4KDElo",
-        "label": "Winterwear"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "Ajio  Upto 75% Off on Buda Jeans Men’s Clothing.\n\nT-Shirt : https://ajiio.co/rZkS1l\nShirt : https://ajiio.co/im0949\nJeans : https://ajiio.co/zp7lPP\nTrackpant : https://ajiio.co/RzADJP\nShorts : https://ajiio.co/N3i32X\nWinterwear : https://ajiio.co/4KDElo\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/rZkS1l",
-    "local_image": "assets/images/tgmsg_17224.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-16T05:55:45+00:00",
-    "buy_link": "https://ajiio.co/rZkS1l",
-    "date_iso": "2025-11-16T05:55:45+00:00"
   }
 ]
