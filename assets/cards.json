@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg17689",
+    "title": "40% Off at 216/",
+    "description": "💥Myntra | Pears Unisex Set of 3 Soft & Fresh Bathing Bars with ⚡1 Free Bathing Bar (Pack of 4) -  👉Link :",
+    "shortlink": "https://myntr.in/MIalgT",
+    "urls": [
+      {
+        "url": "https://myntr.in/MIalgT",
+        "label": "💥Myntra | Pears Unisex Set of 3 Soft & Fresh Bathing Bars with ⚡1 Free Bathing Bar (Pack of 4) - 40% Off at 216/"
+      }
+    ],
+    "raw_text": "💥Myntra | Pears Unisex Set of 3 Soft & Fresh Bathing Bars with ⚡1 Free Bathing Bar (Pack of 4) - 40% Off at 216/\n\n👉Link : https://myntr.in/MIalgT",
+    "final_url": "https://myntr.in/MIalgT",
+    "local_image": "assets/images/tgmsg_17689.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-19T16:01:54+00:00",
+    "buy_link": "https://myntr.in/MIalgT",
+    "date_iso": "2025-11-19T16:01:54+00:00"
+  },
+  {
+    "id": "msg17690",
+    "title": "Lino Perros Sling Bags Up to 85% Off",
+    "description": "Flipkart  Lino Perros Sling Bags Upto 85% Off 👉https://fkrt.co/jBUQbA",
+    "shortlink": "https://fkrt.co/jBUQbA",
+    "urls": [
+      {
+        "url": "https://fkrt.co/jBUQbA",
+        "label": "Flipkart Lino Perros Sling Bags Upto 85% Off"
+      }
+    ],
+    "raw_text": "Flipkart  Lino Perros Sling Bags Upto 85% Off \n\n👉https://fkrt.co/jBUQbA",
+    "final_url": "https://fkrt.co/jBUQbA",
+    "local_image": "assets/images/tgmsg_17690.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-19T16:16:43+00:00",
+    "buy_link": "https://fkrt.co/jBUQbA",
+    "date_iso": "2025-11-19T16:16:43+00:00"
+  },
+  {
     "id": "msg17688",
     "title": "139",
     "description": "139 : https://www.amazon.in/dp/B0DYQ6Q3RV?social_share=cm_sw_r_cso_wa_apin_dp_BS17XYAR8TEAZV6DWEHC&tag=bestpricezo0f-21",
@@ -8678,61 +8718,5 @@
     "date_obj": "2025-11-16T06:56:17+00:00",
     "buy_link": "https://www.amazon.in/s?k=Fiama&rh=n%3A1374293031%2Cp_123%3A796926%2Cp_85%3A10440599031%2Cp_n_pct-off-with-tax%3A2665402031&s=price-asc-rank&i=beauty&dealsvelocity=B00Q354D18&tag=bestpricezo0f-21",
     "date_iso": "2025-11-16T06:56:17+00:00"
-  },
-  {
-    "id": "msg17227",
-    "title": "🛒 Deal Price ₹149",
-    "description": "🧴 Amazon | Hair Care Savings! | Parachute Advanced Coconut & Rosemary Hair Cream 210ml 🛒 Deal Price: ₹149",
-    "shortlink": "https://www.amazon.in/Parachute-Advansed-Coconut-Rosemary-Leave/dp/B0DW48B5MT?language=en_IN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🧴 Amazon | Hair Care Savings! | Parachute Advanced Coconut & Rosemary Hair Cream 210ml"
-      },
-      {
-        "url": "https://www.amazon.in/Parachute-Advansed-Coconut-Rosemary-Leave/dp/B0DW48B5MT?language=en_IN&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹149"
-      }
-    ],
-    "raw_text": "🧴 Amazon | Hair Care Savings! | Parachute Advanced Coconut & Rosemary Hair Cream 210ml\n\n🛒 Deal Price: ₹149\n\nhttps://www.amazon.in/Parachute-Advansed-Coconut-Rosemary-Leave/dp/B0DW48B5MT?language=en_IN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/Parachute-Advansed-Coconut-Rosemary-Leave/dp/B0DW48B5MT?language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17227.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-16T06:25:52+00:00",
-    "buy_link": "https://www.amazon.in/Parachute-Advansed-Coconut-Rosemary-Leave/dp/B0DW48B5MT?language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-16T06:25:52+00:00"
-  },
-  {
-    "id": "msg17228",
-    "title": "💥Up to 70% Off On The Bear House Clothing",
-    "description": "💥Flipkart | Upto 70% Off On The Bear House Clothing. ⚡Shirts : ⚡Tshirts : ⚡Jeans :",
-    "shortlink": "https://fkrt.co/yBnARB",
-    "urls": [
-      {
-        "url": "",
-        "label": "💥Flipkart | Upto 70% Off On The Bear House Clothing"
-      },
-      {
-        "url": "https://fkrt.co/yBnARB",
-        "label": "⚡Shirts"
-      },
-      {
-        "url": "https://fkrt.co/WRmoZ7",
-        "label": "⚡Tshirts"
-      },
-      {
-        "url": "https://fkrt.co/NwZa10",
-        "label": "⚡Jeans"
-      }
-    ],
-    "raw_text": "💥Flipkart | Upto 70% Off On The Bear House Clothing.\n\n⚡Shirts : https://fkrt.co/yBnARB\n⚡Tshirts : https://fkrt.co/WRmoZ7\n⚡Jeans : https://fkrt.co/NwZa10",
-    "final_url": "https://fkrt.co/yBnARB",
-    "local_image": "assets/images/tgmsg_17228.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-16T06:40:51+00:00",
-    "buy_link": "https://fkrt.co/yBnARB",
-    "date_iso": "2025-11-16T06:40:51+00:00"
   }
 ]
