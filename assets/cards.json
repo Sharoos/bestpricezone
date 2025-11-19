@@ -1,5 +1,105 @@
 [
   {
+    "id": "msg17663",
+    "title": "279",
+    "description": "279 : https://www.amazon.in/gp/product/B0FMRMP5TZ?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/gp/product/B0FMRMP5TZ?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/gp/product/B0FMRMP5TZ?tag=bestpricezo0f-21",
+        "label": "279"
+      }
+    ],
+    "raw_text": "279 : https://www.amazon.in/gp/product/B0FMRMP5TZ?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/gp/product/B0FMRMP5TZ?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17663.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-19T13:02:43+00:00",
+    "buy_link": "https://www.amazon.in/gp/product/B0FMRMP5TZ?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-19T13:02:43+00:00"
+  },
+  {
+    "id": "msg17665",
+    "title": "Moda Rapido Men Versatile Blazer Starting @ Rs. 827",
+    "description": "Myntra | Moda Rapido Men Versatile Blazer Starting @ Rs. 827 👉 https://myntr.in/GwvlhV",
+    "shortlink": "https://myntr.in/GwvlhV",
+    "urls": [
+      {
+        "url": "https://myntr.in/GwvlhV",
+        "label": "Moda Rapido Men Versatile Blazer Starting @ Rs. 827"
+      }
+    ],
+    "raw_text": "Myntra | Moda Rapido Men Versatile Blazer Starting @ Rs. 827\n\n👉 https://myntr.in/GwvlhV",
+    "final_url": "https://myntr.in/GwvlhV",
+    "local_image": "assets/images/tgmsg_17665.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-19T13:03:43+00:00",
+    "buy_link": "https://myntr.in/GwvlhV",
+    "date_iso": "2025-11-19T13:03:43+00:00"
+  },
+  {
+    "id": "msg17666",
+    "title": "Jaipuri Prints Bedsheet Starts @ 295",
+    "description": "Flipkart | Jaipuri Prints Bedsheet Starts @ 295. 👉 https://fkrt.co/X1Wp62",
+    "shortlink": "https://fkrt.co/X1Wp62",
+    "urls": [
+      {
+        "url": "https://fkrt.co/X1Wp62",
+        "label": "Jaipuri Prints Bedsheet Starts @ 295"
+      }
+    ],
+    "raw_text": "Flipkart | Jaipuri Prints Bedsheet Starts @ 295.\n\n👉 https://fkrt.co/X1Wp62",
+    "final_url": "https://fkrt.co/X1Wp62",
+    "local_image": "assets/images/tgmsg_17666.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-19T13:11:18+00:00",
+    "buy_link": "https://fkrt.co/X1Wp62",
+    "date_iso": "2025-11-19T13:11:18+00:00"
+  },
+  {
+    "id": "msg17667",
+    "title": "Up to 75% Off On Premium Winter Blanket",
+    "description": "Myntra : Upto 75% Off On Premium Winter Blankets. https://myntr.in/o3KzE5",
+    "shortlink": "https://myntr.in/o3KzE5",
+    "urls": [
+      {
+        "url": "https://myntr.in/o3KzE5",
+        "label": "Upto 75% Off On Premium Winter Blankets"
+      }
+    ],
+    "raw_text": "Myntra : Upto 75% Off On Premium Winter Blankets.\n\nhttps://myntr.in/o3KzE5",
+    "final_url": "https://myntr.in/o3KzE5",
+    "local_image": "assets/images/tgmsg_17667.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-19T13:12:41+00:00",
+    "buy_link": "https://myntr.in/o3KzE5",
+    "date_iso": "2025-11-19T13:12:41+00:00"
+  },
+  {
+    "id": "msg17669",
+    "title": "Speedex Water Bottles @ Min 50% Off",
+    "description": "Myntra | Speedex Water Bottles @ Min 50% Off 👉Link : https://myntr.in/e5pfsO",
+    "shortlink": "https://myntr.in/e5pfsO",
+    "urls": [
+      {
+        "url": "https://myntr.in/e5pfsO",
+        "label": "Speedex Water Bottles @ Min 50% Off"
+      }
+    ],
+    "raw_text": "Myntra | Speedex Water Bottles @ Min 50% Off\n\n👉Link : https://myntr.in/e5pfsO",
+    "final_url": "https://myntr.in/e5pfsO",
+    "local_image": "assets/images/tgmsg_17669.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-19T13:35:16+00:00",
+    "buy_link": "https://myntr.in/e5pfsO",
+    "date_iso": "2025-11-19T13:35:16+00:00"
+  },
+  {
     "id": "msg17656",
     "title": "Solis Royale The Desired Comfort Recliners Starting from 11310",
     "description": "Myntra | . 👉 Clex Sofa Cum Bed starting from 3960. 👉 Solis Primus Sofa Cum Bed starting from 3461. 👉 Sleep well Mattress starting 4599. 👉 Kurl On Mattress starting from 4299. 👉",
@@ -8710,141 +8810,5 @@
     "date_obj": "2025-11-15T20:01:18+00:00",
     "buy_link": "https://www.amazon.in/dp/B0D9BWTQLL?th=1&language=en_IN&tag=bestpricezo0f-21",
     "date_iso": "2025-11-15T20:01:18+00:00"
-  },
-  {
-    "id": "msg17206",
-    "title": "Skybags Polyester Duffle Bag 🔥",
-    "description": "Amazon | Skybags Polyester Duffle Bag 🔥 469₹ https://www.amazon.in/dp/B0B6CH21F9?psc=1&th=1&ck&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0B6CH21F9?psc=1&th=1&ck&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0B6CH21F9?psc=1&th=1&ck&tag=bestpricezo0f-21",
-        "label": "Skybags Polyester Duffle Bag 🔥"
-      }
-    ],
-    "raw_text": "Amazon | Skybags Polyester Duffle Bag 🔥\n469₹\n\nhttps://www.amazon.in/dp/B0B6CH21F9?psc=1&th=1&ck&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0B6CH21F9?psc=1&th=1&ck&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17206.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-15T20:14:18+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0B6CH21F9?psc=1&th=1&ck&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-15T20:14:18+00:00"
-  },
-  {
-    "id": "msg17202",
-    "title": "💥 Bank Offer ₹6,000 Off On HDFC Credit Card EMI Txn",
-    "description": "Amazon | 🔥🔥 Sony 139 cm (55 inches) BRAVIA 2M2 Series 4K Ultra HD Smart LED Google TV 🎁 Deal Price : ₹50,490 Buy Here : 💥 Bank Offer : ₹6,000 Off On HDFC Credit Card EMI Txn ⚡️⚡️Apply ₹1,500 Coupon",
-    "shortlink": "https://www.amazon.in/dp/B0F7X5FC43/ref=cm_sw_r_as_gl_apa_gl_i_dl_2K42V4YMV7XKKGTW2FYH?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥🔥 Sony 139 cm (55 inches) BRAVIA 2M2 Series 4K Ultra HD Smart LED Google TV"
-      },
-      {
-        "url": "",
-        "label": "🎁 Deal Price : ₹50,490"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0F7X5FC43/ref=cm_sw_r_as_gl_apa_gl_i_dl_2K42V4YMV7XKKGTW2FYH?tag=bestpricezo0f-21",
-        "label": "Here"
-      },
-      {
-        "url": "",
-        "label": "💥 Bank Offer : ₹6,000 Off On HDFC Credit Card EMI Txn"
-      }
-    ],
-    "raw_text": "Amazon | 🔥🔥 Sony 139 cm (55 inches) BRAVIA 2M2 Series 4K Ultra HD Smart LED Google TV\n\n🎁 Deal Price : ₹50,490\n\nBuy Here : https://www.amazon.in/dp/B0F7X5FC43/ref=cm_sw_r_as_gl_apa_gl_i_dl_2K42V4YMV7XKKGTW2FYH?tag=bestpricezo0f-21\n\n💥 Bank Offer : ₹6,000 Off On HDFC Credit Card EMI Txn\n\n⚡️⚡️Apply ₹1,500 Coupon",
-    "final_url": "https://www.amazon.in/dp/B0F7X5FC43/ref=cm_sw_r_as_gl_apa_gl_i_dl_2K42V4YMV7XKKGTW2FYH?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17202.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-15T19:49:13+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F7X5FC43/ref=cm_sw_r_as_gl_apa_gl_i_dl_2K42V4YMV7XKKGTW2FYH?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-15T19:49:13+00:00"
-  },
-  {
-    "id": "msg17203",
-    "title": "💥 Bank Offer ₹2,500 Off On HDFC Credit Card/EMI Txn",
-    "description": "Amazon | 🔥🔥Lumio Vision 7 127 cm (50 inches) 4K Ultra-HD Smart QLED Google TV 🎁 Deal Price : ₹28,999 Buy Here : 💥 Bank Offer : ₹2,500 Off On HDFC Credit Card/EMI Txn ⚡️⚡️Apply ₹1,500 Coupon",
-    "shortlink": "https://www.amazon.in/Lumio-Vision-inches-Ultra-HD-FTW2-ADSG/dp/B0F397D2S6?crid=1TZ4Z4FQ34G4O&dib=eyJ2IjoiMSJ9.bMrBJEZuMdBy1VzBfnZALvFylH3T5pwUvR1Gbkx0wxzMCdmlihLqc8dPdOTLzhHz1WgeBOG4k2-w0wc4x58H5LDDub8VPKvQ4DvxajghSVGTLWNY31AVb64EeTQwdDevveCk9ZcsTNESp4VD3z3UzqW1-L6yGnj1lTinC1Bdcvp9OUTGtGdh_qUhOJih4I2RLtSsae8fOhT90SzkeSfdNo3yxZZQ_q_-GzB1DasUcGrYGdiZRsVliCIPtOkq0fgA.7jSZlNIrylLv2ARxW_u4hn5XgXNNX9VhNRPCJ7mKcgY&dib_tag=se&keywords=Lumio%252BVision%252B7%252B127%252Bcm%252B%252850%252Binches%2529%252B4K%252BUltra-HD%252BSmart%252BQLED%252BGoogle%252BTV&nsdOptOutParam=true&qid=1763018393&s=electronics&sprefix=lumio%252Bvision%252B7%252B127%252Bcm%252B50%252Binches%252B4k%252Bultra-hd%252Bsmart%252Bqled%252Bgoogle%252Btv%252B%252Celectronics%252C262&sr=1-3&th=1&language=en_IN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥🔥Lumio Vision 7 127 cm (50 inches) 4K Ultra-HD Smart QLED Google TV"
-      },
-      {
-        "url": "",
-        "label": "🎁 Deal Price : ₹28,999"
-      },
-      {
-        "url": "https://www.amazon.in/Lumio-Vision-inches-Ultra-HD-FTW2-ADSG/dp/B0F397D2S6?crid=1TZ4Z4FQ34G4O&dib=eyJ2IjoiMSJ9.bMrBJEZuMdBy1VzBfnZALvFylH3T5pwUvR1Gbkx0wxzMCdmlihLqc8dPdOTLzhHz1WgeBOG4k2-w0wc4x58H5LDDub8VPKvQ4DvxajghSVGTLWNY31AVb64EeTQwdDevveCk9ZcsTNESp4VD3z3UzqW1-L6yGnj1lTinC1Bdcvp9OUTGtGdh_qUhOJih4I2RLtSsae8fOhT90SzkeSfdNo3yxZZQ_q_-GzB1DasUcGrYGdiZRsVliCIPtOkq0fgA.7jSZlNIrylLv2ARxW_u4hn5XgXNNX9VhNRPCJ7mKcgY&dib_tag=se&keywords=Lumio%252BVision%252B7%252B127%252Bcm%252B%252850%252Binches%2529%252B4K%252BUltra-HD%252BSmart%252BQLED%252BGoogle%252BTV&nsdOptOutParam=true&qid=1763018393&s=electronics&sprefix=lumio%252Bvision%252B7%252B127%252Bcm%252B50%252Binches%252B4k%252Bultra-hd%252Bsmart%252Bqled%252Bgoogle%252Btv%252B%252Celectronics%252C262&sr=1-3&th=1&language=en_IN&tag=bestpricezo0f-21",
-        "label": "Here"
-      },
-      {
-        "url": "",
-        "label": "💥 Bank Offer : ₹2,500 Off On HDFC Credit Card/EMI Txn"
-      }
-    ],
-    "raw_text": "Amazon | 🔥🔥Lumio Vision 7 127 cm (50 inches) 4K Ultra-HD Smart QLED Google TV\n\n🎁 Deal Price : ₹28,999\n\nBuy Here : https://www.amazon.in/Lumio-Vision-inches-Ultra-HD-FTW2-ADSG/dp/B0F397D2S6?crid=1TZ4Z4FQ34G4O&dib=eyJ2IjoiMSJ9.bMrBJEZuMdBy1VzBfnZALvFylH3T5pwUvR1Gbkx0wxzMCdmlihLqc8dPdOTLzhHz1WgeBOG4k2-w0wc4x58H5LDDub8VPKvQ4DvxajghSVGTLWNY31AVb64EeTQwdDevveCk9ZcsTNESp4VD3z3UzqW1-L6yGnj1lTinC1Bdcvp9OUTGtGdh_qUhOJih4I2RLtSsae8fOhT90SzkeSfdNo3yxZZQ_q_-GzB1DasUcGrYGdiZRsVliCIPtOkq0fgA.7jSZlNIrylLv2ARxW_u4hn5XgXNNX9VhNRPCJ7mKcgY&dib_tag=se&keywords=Lumio%252BVision%252B7%252B127%252Bcm%252B%252850%252Binches%2529%252B4K%252BUltra-HD%252BSmart%252BQLED%252BGoogle%252BTV&nsdOptOutParam=true&qid=1763018393&s=electronics&sprefix=lumio%252Bvision%252B7%252B127%252Bcm%252B50%252Binches%252B4k%252Bultra-hd%252Bsmart%252Bqled%252Bgoogle%252Btv%252B%252Celectronics%252C262&sr=1-3&th=1&language=en_IN&tag=bestpricezo0f-21\n\n💥 Bank Offer : ₹2,500 Off On HDFC Credit Card/EMI Txn\n\n⚡️⚡️Apply ₹1,500 Coupon",
-    "final_url": "https://www.amazon.in/Lumio-Vision-inches-Ultra-HD-FTW2-ADSG/dp/B0F397D2S6?crid=1TZ4Z4FQ34G4O&dib=eyJ2IjoiMSJ9.bMrBJEZuMdBy1VzBfnZALvFylH3T5pwUvR1Gbkx0wxzMCdmlihLqc8dPdOTLzhHz1WgeBOG4k2-w0wc4x58H5LDDub8VPKvQ4DvxajghSVGTLWNY31AVb64EeTQwdDevveCk9ZcsTNESp4VD3z3UzqW1-L6yGnj1lTinC1Bdcvp9OUTGtGdh_qUhOJih4I2RLtSsae8fOhT90SzkeSfdNo3yxZZQ_q_-GzB1DasUcGrYGdiZRsVliCIPtOkq0fgA.7jSZlNIrylLv2ARxW_u4hn5XgXNNX9VhNRPCJ7mKcgY&dib_tag=se&keywords=Lumio%252BVision%252B7%252B127%252Bcm%252B%252850%252Binches%2529%252B4K%252BUltra-HD%252BSmart%252BQLED%252BGoogle%252BTV&nsdOptOutParam=true&qid=1763018393&s=electronics&sprefix=lumio%252Bvision%252B7%252B127%252Bcm%252B50%252Binches%252B4k%252Bultra-hd%252Bsmart%252Bqled%252Bgoogle%252Btv%252B%252Celectronics%252C262&sr=1-3&th=1&language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17203.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-15T19:55:06+00:00",
-    "buy_link": "https://www.amazon.in/Lumio-Vision-inches-Ultra-HD-FTW2-ADSG/dp/B0F397D2S6?crid=1TZ4Z4FQ34G4O&dib=eyJ2IjoiMSJ9.bMrBJEZuMdBy1VzBfnZALvFylH3T5pwUvR1Gbkx0wxzMCdmlihLqc8dPdOTLzhHz1WgeBOG4k2-w0wc4x58H5LDDub8VPKvQ4DvxajghSVGTLWNY31AVb64EeTQwdDevveCk9ZcsTNESp4VD3z3UzqW1-L6yGnj1lTinC1Bdcvp9OUTGtGdh_qUhOJih4I2RLtSsae8fOhT90SzkeSfdNo3yxZZQ_q_-GzB1DasUcGrYGdiZRsVliCIPtOkq0fgA.7jSZlNIrylLv2ARxW_u4hn5XgXNNX9VhNRPCJ7mKcgY&dib_tag=se&keywords=Lumio%252BVision%252B7%252B127%252Bcm%252B%252850%252Binches%2529%252B4K%252BUltra-HD%252BSmart%252BQLED%252BGoogle%252BTV&nsdOptOutParam=true&qid=1763018393&s=electronics&sprefix=lumio%252Bvision%252B7%252B127%252Bcm%252B50%252Binches%252B4k%252Bultra-hd%252Bsmart%252Bqled%252Bgoogle%252Btv%252B%252Celectronics%252C262&sr=1-3&th=1&language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-15T19:55:06+00:00"
-  },
-  {
-    "id": "msg17201",
-    "title": "💥 Bank Offer ₹2,000 Off On HDFC Credit Card EMI Txn",
-    "description": "Amazon | 🔥🔥Samsung 108 cm (43 inches) Crystal 4K Vista Ultra HD Smart LED TV 🎁 Deal Price : ₹23,990 Buy Here : 💥 Bank Offer : ₹2,000 Off On HDFC Credit Card EMI Txn",
-    "shortlink": "https://www.amazon.in/dp/B0F43DMKDJ/ref=cm_sw_r_as_gl_apa_gl_i_dl_Z6BWY4XJZMXNRT4QZYS3?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥🔥Samsung 108 cm (43 inches) Crystal 4K Vista Ultra HD Smart LED TV"
-      },
-      {
-        "url": "",
-        "label": "🎁 Deal Price : ₹23,990"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0F43DMKDJ/ref=cm_sw_r_as_gl_apa_gl_i_dl_Z6BWY4XJZMXNRT4QZYS3?tag=bestpricezo0f-21",
-        "label": "Here"
-      },
-      {
-        "url": "",
-        "label": "💥 Bank Offer : ₹2,000 Off On HDFC Credit Card EMI Txn"
-      }
-    ],
-    "raw_text": "Amazon | 🔥🔥Samsung 108 cm (43 inches) Crystal 4K Vista Ultra HD Smart LED TV\n\n🎁 Deal Price : ₹23,990\n\nBuy Here : https://www.amazon.in/dp/B0F43DMKDJ/ref=cm_sw_r_as_gl_apa_gl_i_dl_Z6BWY4XJZMXNRT4QZYS3?tag=bestpricezo0f-21\n\n💥 Bank Offer : ₹2,000 Off On HDFC Credit Card EMI Txn",
-    "final_url": "https://www.amazon.in/dp/B0F43DMKDJ/ref=cm_sw_r_as_gl_apa_gl_i_dl_Z6BWY4XJZMXNRT4QZYS3?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17201.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-15T19:38:38+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F43DMKDJ/ref=cm_sw_r_as_gl_apa_gl_i_dl_Z6BWY4XJZMXNRT4QZYS3?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-15T19:38:38+00:00"
-  },
-  {
-    "id": "msg17199",
-    "title": "Flat 67% off",
-    "description": "Myntra | L’Oréal Total Repair 5 - Flat 67% off Link : https://myntr.in/bGKMtZ",
-    "shortlink": "https://myntr.in/bGKMtZ",
-    "urls": [
-      {
-        "url": "https://myntr.in/bGKMtZ",
-        "label": "L’Oréal Total Repair 5 - Flat 67% off"
-      }
-    ],
-    "raw_text": "Myntra | L’Oréal Total Repair 5 - Flat 67% off\n\nLink : https://myntr.in/bGKMtZ",
-    "final_url": "https://myntr.in/bGKMtZ",
-    "local_image": "assets/images/tgmsg_17199.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-15T19:27:25+00:00",
-    "buy_link": "https://myntr.in/bGKMtZ",
-    "date_iso": "2025-11-15T19:27:25+00:00"
   }
 ]
