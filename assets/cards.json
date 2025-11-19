@@ -1,5 +1,73 @@
 [
   {
+    "id": "msg17587",
+    "title": "Dabur Lal Tail (500ml x 3) @ 798",
+    "description": "Flipkart : Dabur Lal Tail (500ml x 3) @ 798. https://fkrt.co/zYEG1z *Buy Max, Real MRP ₹1540",
+    "shortlink": "https://fkrt.co/zYEG1z",
+    "urls": [
+      {
+        "url": "https://fkrt.co/zYEG1z",
+        "label": "Dabur Lal Tail (500ml x 3) @ 798"
+      }
+    ],
+    "raw_text": "Flipkart : Dabur Lal Tail (500ml x 3) @ 798.\n\n https://fkrt.co/zYEG1z\n\n*Buy Max, Real MRP ₹1540",
+    "final_url": "https://fkrt.co/zYEG1z",
+    "local_image": "assets/images/tgmsg_17587.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-19T04:02:29+00:00",
+    "buy_link": "https://fkrt.co/zYEG1z",
+    "date_iso": "2025-11-19T04:02:29+00:00"
+  },
+  {
+    "id": "msg17588",
+    "title": "+ 10% Cashback",
+    "description": "Ajio | Branded Men's T-Shirts from Rs.80 👉 Branded Men's Shirts from Rs.180 👉 + 10% Ajio Cashback",
+    "shortlink": "https://ajiio.co/snW7EC",
+    "urls": [
+      {
+        "url": "https://ajiio.co/snW7EC",
+        "label": "Branded Men's T-Shirts from Rs.80"
+      },
+      {
+        "url": "https://ajiio.co/DBqUIl",
+        "label": "Branded Men's Shirts from Rs.180"
+      },
+      {
+        "url": "",
+        "label": "+ 10% Ajio Cashback"
+      }
+    ],
+    "raw_text": "Ajio | Branded Men's T-Shirts from Rs.80\n\n👉https://ajiio.co/snW7EC \n\n Branded Men's Shirts from Rs.180\n\n👉https://ajiio.co/DBqUIl\n\n+ 10% Ajio Cashback",
+    "final_url": "https://ajiio.co/snW7EC",
+    "local_image": "assets/images/tgmsg_17588.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-19T04:15:47+00:00",
+    "buy_link": "https://ajiio.co/snW7EC",
+    "date_iso": "2025-11-19T04:15:47+00:00"
+  },
+  {
+    "id": "msg17590",
+    "title": "Up to 85% Off On Safari Suitcase",
+    "description": "Flipkart | Upto 85% Off On Safari Suitcases 👉Link : https://fkrt.co/oTRs9n",
+    "shortlink": "https://fkrt.co/oTRs9n",
+    "urls": [
+      {
+        "url": "https://fkrt.co/oTRs9n",
+        "label": "Upto 85% Off On Safari Suitcases"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 85% Off On Safari Suitcases\n\n👉Link : https://fkrt.co/oTRs9n",
+    "final_url": "https://fkrt.co/oTRs9n",
+    "local_image": "assets/images/tgmsg_17590.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-19T04:31:18+00:00",
+    "buy_link": "https://fkrt.co/oTRs9n",
+    "date_iso": "2025-11-19T04:31:18+00:00"
+  },
+  {
     "id": "msg17578",
     "title": "DeoDap Black & Blue 3",
     "description": "Myntra | DeoDap Black & Blue 3-Stage Knife Sharpener With Non-Slip Base just Rs. 99 Link : https://myntr.in/cSkmox",
@@ -8714,65 +8782,5 @@
     "date_obj": "2025-11-15T12:00:52+00:00",
     "buy_link": "https://extp.in/tBeE0D",
     "date_iso": "2025-11-15T12:00:52+00:00"
-  },
-  {
-    "id": "msg17116",
-    "title": "149",
-    "description": "149 :  https://www.amazon.in/gp/product/B0FMS8S9CC?language=en_IN&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/gp/product/B0FMS8S9CC?language=en_IN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/gp/product/B0FMS8S9CC?language=en_IN&tag=bestpricezo0f-21",
-        "label": "149"
-      }
-    ],
-    "raw_text": "149 :  https://www.amazon.in/gp/product/B0FMS8S9CC?language=en_IN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/gp/product/B0FMS8S9CC?language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17116.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-15T12:03:10+00:00",
-    "buy_link": "https://www.amazon.in/gp/product/B0FMS8S9CC?language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-15T12:03:10+00:00"
-  },
-  {
-    "id": "msg17117",
-    "title": "129",
-    "description": "129 : https://www.amazon.in/dp/B0FVM631R9?social_share=cm_sw_r_cso_wa_apin_dp_5YA2H7PRTJHR6AKD45RP&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FVM631R9?social_share=cm_sw_r_cso_wa_apin_dp_5YA2H7PRTJHR6AKD45RP&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FVM631R9?social_share=cm_sw_r_cso_wa_apin_dp_5YA2H7PRTJHR6AKD45RP&tag=bestpricezo0f-21",
-        "label": "129"
-      }
-    ],
-    "raw_text": "129 : https://www.amazon.in/dp/B0FVM631R9?social_share=cm_sw_r_cso_wa_apin_dp_5YA2H7PRTJHR6AKD45RP&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FVM631R9?social_share=cm_sw_r_cso_wa_apin_dp_5YA2H7PRTJHR6AKD45RP&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17117.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-15T12:07:06+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FVM631R9?social_share=cm_sw_r_cso_wa_apin_dp_5YA2H7PRTJHR6AKD45RP&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-15T12:07:06+00:00"
-  },
-  {
-    "id": "msg17119",
-    "title": "Monte Carlo fitted bedsheet under 1499 + coupon",
-    "description": "Myntra : Monte Carlo fitted bedsheet under 1499 + coupons https://myntr.in/fl1Ukp",
-    "shortlink": "https://myntr.in/fl1Ukp",
-    "urls": [
-      {
-        "url": "https://myntr.in/fl1Ukp",
-        "label": "Monte Carlo fitted bedsheet under 1499 + coupons"
-      }
-    ],
-    "raw_text": "Myntra : Monte Carlo fitted bedsheet under 1499 + coupons\n\nhttps://myntr.in/fl1Ukp",
-    "final_url": "https://myntr.in/fl1Ukp",
-    "local_image": "assets/images/tgmsg_17119.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-15T12:10:59+00:00",
-    "buy_link": "https://myntr.in/fl1Ukp",
-    "date_iso": "2025-11-15T12:10:59+00:00"
   }
 ]
