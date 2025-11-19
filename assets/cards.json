@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg17653",
+    "title": "Flat 50% off",
+    "description": "Myntra | Raymond Home Bedsheet - Flat 329 👉 Monte Carlo Blankets and Bedsheets -  👉 La Verne Blankets under 999 👉 La Verne - 108TC bedsheet at 699 👉",
+    "shortlink": "https://myntr.in/3dTWtO",
+    "urls": [
+      {
+        "url": "https://myntr.in/3dTWtO",
+        "label": "Raymond Home Bedsheet - Flat 329"
+      },
+      {
+        "url": "https://myntr.in/VrjIax",
+        "label": "Flat 50% off"
+      },
+      {
+        "url": "https://myntr.in/IJBCnT",
+        "label": "La Verne Blankets under 999"
+      },
+      {
+        "url": "https://myntr.in/yYs9ff",
+        "label": "108TC bedsheet at 699"
+      }
+    ],
+    "raw_text": "Myntra | Raymond Home Bedsheet - Flat 329\n👉https://myntr.in/3dTWtO\n\nMonte Carlo Blankets and Bedsheets -  Flat 50% off\n👉https://myntr.in/VrjIax\n\nLa Verne Blankets under 999\n👉https://myntr.in/IJBCnT\n\nLa Verne - 108TC bedsheet at 699\n👉https://myntr.in/yYs9ff",
+    "final_url": "https://myntr.in/3dTWtO",
+    "local_image": "assets/images/tgmsg_17653.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-19T11:50:06+00:00",
+    "buy_link": "https://myntr.in/3dTWtO",
+    "date_iso": "2025-11-19T11:50:06+00:00"
+  },
+  {
     "id": "msg17652",
     "title": "Up to 87% Off On Stylecast X Kotty Jean",
     "description": "Myntra | Upto 87% Off On Stylecast X Kotty Jeans. Men : https://myntr.in/5yrusI Women : https://myntr.in/qaCcs0",
@@ -8678,25 +8710,5 @@
     "date_obj": "2025-11-15T19:19:42+00:00",
     "buy_link": "https://myntr.in/gfXea6",
     "date_iso": "2025-11-15T19:19:42+00:00"
-  },
-  {
-    "id": "msg17198",
-    "title": "Sensodyne Min 30% off",
-    "description": "Myntra | Sensodyne Min 30% off https://myntr.in/YZzUBH",
-    "shortlink": "https://myntr.in/YZzUBH",
-    "urls": [
-      {
-        "url": "https://myntr.in/YZzUBH",
-        "label": "Sensodyne Min 30% off"
-      }
-    ],
-    "raw_text": "Myntra | Sensodyne Min 30% off\n\nhttps://myntr.in/YZzUBH",
-    "final_url": "https://myntr.in/YZzUBH",
-    "local_image": "assets/images/tgmsg_17198.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-15T19:20:54+00:00",
-    "buy_link": "https://myntr.in/YZzUBH",
-    "date_iso": "2025-11-15T19:20:54+00:00"
   }
 ]
