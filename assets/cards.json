@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg17652",
+    "title": "Up to 87% Off On Stylecast X Kotty Jean",
+    "description": "Myntra | Upto 87% Off On Stylecast X Kotty Jeans. Men : https://myntr.in/5yrusI Women : https://myntr.in/qaCcs0",
+    "shortlink": "https://myntr.in/5yrusI",
+    "urls": [
+      {
+        "url": "https://myntr.in/5yrusI",
+        "label": "Upto 87% Off On Stylecast X Kotty Jeans"
+      },
+      {
+        "url": "https://myntr.in/qaCcs0",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | Upto 87% Off On Stylecast X Kotty Jeans.\n\nMen : https://myntr.in/5yrusI\nWomen : https://myntr.in/qaCcs0",
+    "final_url": "https://myntr.in/5yrusI",
+    "local_image": "assets/images/tgmsg_17652.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-19T11:40:16+00:00",
+    "buy_link": "https://myntr.in/5yrusI",
+    "date_iso": "2025-11-19T11:40:16+00:00"
+  },
+  {
     "id": "msg17648",
     "title": "Aprons From 49",
     "description": "Aprons From 49. https://fkrt.co/GoP3z9",
@@ -8674,25 +8698,5 @@
     "date_obj": "2025-11-15T19:20:54+00:00",
     "buy_link": "https://myntr.in/YZzUBH",
     "date_iso": "2025-11-15T19:20:54+00:00"
-  },
-  {
-    "id": "msg17191",
-    "title": "Ikonic min 40% off on hair styling appliance",
-    "description": "Myntra | Ikonic min 40% off on hair styling appliances Link : https://myntr.in/3cMdQ0",
-    "shortlink": "https://myntr.in/3cMdQ0",
-    "urls": [
-      {
-        "url": "https://myntr.in/3cMdQ0",
-        "label": "Ikonic min 40% off on hair styling appliances"
-      }
-    ],
-    "raw_text": "Myntra | Ikonic min 40% off on hair styling appliances\n\nLink : https://myntr.in/3cMdQ0",
-    "final_url": "https://myntr.in/3cMdQ0",
-    "local_image": "assets/images/tgmsg_17191.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-15T19:02:49+00:00",
-    "buy_link": "https://myntr.in/3cMdQ0",
-    "date_iso": "2025-11-15T19:02:49+00:00"
   }
 ]
