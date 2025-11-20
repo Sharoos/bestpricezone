@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg17821",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
+    "description": "Ajio | Chinos @210 👉https://ajiio.co/TkcZoD 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/TkcZoD",
+    "urls": [
+      {
+        "url": "https://ajiio.co/TkcZoD",
+        "label": "Chinos @210"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "Ajio | Chinos @210\n\n👉https://ajiio.co/TkcZoD\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/TkcZoD",
+    "local_image": "assets/images/tgmsg_17821.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-20T17:31:50+00:00",
+    "buy_link": "https://ajiio.co/TkcZoD",
+    "date_iso": "2025-11-20T17:31:50+00:00"
+  },
+  {
     "id": "msg17816",
     "title": "25% discount on movie tickets (maximum ₹100)",
     "description": "IDFC FIRST Lifetime Free Credit Card Apply Now : • Lifetime Free – No Joining or Annual Fee • ₹500 Gift Voucher on spending ₹15,000 within 90 days • Reward Points with no expiry •  • Discounts on 300+ brands including…",
@@ -8570,29 +8594,5 @@
     "date_obj": "2025-11-17T12:31:30+00:00",
     "buy_link": "https://extp.in/CsqQmN",
     "date_iso": "2025-11-17T12:31:30+00:00"
-  },
-  {
-    "id": "msg17372",
-    "title": "BLACK+DECKER (32 inches) LED Smart Google TV @7249",
-    "description": "Amazon | BLACK+DECKER (32 inches) LED Smart Google TV @7249 👉https://www.amazon.in/dp/B0DPSD1PG5?tag=bestpricezo0f-21 Pay Using HDFC/AXIS CC EMI",
-    "shortlink": "https://www.amazon.in/dp/B0DPSD1PG5?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DPSD1PG5?tag=bestpricezo0f-21",
-        "label": "BLACK+DECKER (32 inches) LED Smart Google TV @7249"
-      },
-      {
-        "url": "",
-        "label": "Pay Using HDFC/AXIS CC EMI"
-      }
-    ],
-    "raw_text": "Amazon | BLACK+DECKER (32 inches) LED Smart Google TV @7249\n\n👉https://www.amazon.in/dp/B0DPSD1PG5?tag=bestpricezo0f-21\n\nPay Using HDFC/AXIS CC EMI",
-    "final_url": "https://www.amazon.in/dp/B0DPSD1PG5?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17372.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-17T12:45:36+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DPSD1PG5?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-17T12:45:36+00:00"
   }
 ]
