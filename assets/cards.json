@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17740",
+    "title": "Up to 80% off on Winter Blanket",
+    "description": "Myntra | Upto 80% off on Winter Blankets 👉 https://myntr.in/p0bLif",
+    "shortlink": "https://myntr.in/p0bLif",
+    "urls": [
+      {
+        "url": "https://myntr.in/p0bLif",
+        "label": "Upto 80% off on Winter Blankets"
+      }
+    ],
+    "raw_text": "Myntra | Upto 80% off on Winter Blankets\n\n👉 https://myntr.in/p0bLif",
+    "final_url": "https://myntr.in/p0bLif",
+    "local_image": "assets/images/tgmsg_17740.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-20T05:46:16+00:00",
+    "buy_link": "https://myntr.in/p0bLif",
+    "date_iso": "2025-11-20T05:46:16+00:00"
+  },
+  {
     "id": "msg17738",
     "title": "Wild Stone Perfumes Starts @ 137",
     "description": "Myntra : Wild Stone Perfumes Starts @ 137. 👉 https://myntr.in/MiKJzi",
@@ -8754,37 +8774,5 @@
     "date_obj": "2025-11-16T15:41:20+00:00",
     "buy_link": "https://fkrt.co/oGppWF",
     "date_iso": "2025-11-16T15:41:20+00:00"
-  },
-  {
-    "id": "msg17275",
-    "title": "Michael Kors watches at Up to 40% off !!!",
-    "description": "💥Myntra | Watches Luxe Crazy Deals only!!! Emporio Armani Watches min 30% off !!! ⚡ Michael Kors watches at Upto 40% off !!! ⚡ Armani Exchange watches at Upto 40% off !!! ⚡",
-    "shortlink": "https://myntr.in/xmeaRT",
-    "urls": [
-      {
-        "url": "",
-        "label": "💥Myntra | Watches Luxe Crazy Deals only!!!"
-      },
-      {
-        "url": "https://myntr.in/xmeaRT",
-        "label": "Emporio Armani Watches min 30% off !!!"
-      },
-      {
-        "url": "https://myntr.in/F8P4Yu",
-        "label": "Michael Kors watches at Upto 40% off !!!"
-      },
-      {
-        "url": "https://myntr.in/dm24D1",
-        "label": "Armani Exchange watches at Upto 40% off !!!"
-      }
-    ],
-    "raw_text": "💥Myntra | Watches Luxe Crazy Deals only!!!\n\nEmporio Armani Watches min 30% off !!!\n⚡https://myntr.in/xmeaRT\n\nMichael Kors watches at Upto 40% off !!!\n⚡https://myntr.in/F8P4Yu\n\nArmani Exchange watches at Upto 40% off !!!\n⚡https://myntr.in/dm24D1",
-    "final_url": "https://myntr.in/xmeaRT",
-    "local_image": "assets/images/tgmsg_17275.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-16T15:11:14+00:00",
-    "buy_link": "https://myntr.in/xmeaRT",
-    "date_iso": "2025-11-16T15:11:14+00:00"
   }
 ]
