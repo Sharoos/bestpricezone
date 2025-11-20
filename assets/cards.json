@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg17735",
+    "title": "Branded Men's Shirts from Rs.150",
+    "description": "Ajio | Branded Men's T-Shirts from Rs.82 👉https://ajiio.co/1hUcyC Branded Men's Shirts from Rs.150 👉https://ajiio.co/MId7Ni",
+    "shortlink": "https://ajiio.co/1hUcyC",
+    "urls": [
+      {
+        "url": "https://ajiio.co/1hUcyC",
+        "label": "Branded Men's T-Shirts from Rs.82"
+      },
+      {
+        "url": "https://ajiio.co/MId7Ni",
+        "label": "Branded Men's Shirts from Rs.150"
+      }
+    ],
+    "raw_text": "Ajio | Branded Men's T-Shirts from Rs.82\n\n👉https://ajiio.co/1hUcyC \n\n Branded Men's Shirts from Rs.150\n\n👉https://ajiio.co/MId7Ni",
+    "final_url": "https://ajiio.co/1hUcyC",
+    "local_image": "assets/images/tgmsg_17735.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-20T05:02:02+00:00",
+    "buy_link": "https://ajiio.co/1hUcyC",
+    "date_iso": "2025-11-20T05:02:02+00:00"
+  },
+  {
     "id": "msg17732",
     "title": "💥Min. 60% off on USPA Clothing",
     "description": "💥Ajio : Min. 60% off on USPA Clothing. Men's : https://ajiio.co/DmjkWv Women’s : https://ajiio.co/2OP2Zr Boy’s : https://ajiio.co/LoXaNX",
@@ -8774,29 +8798,5 @@
     "date_obj": "2025-11-16T13:55:58+00:00",
     "buy_link": "https://myntr.in/NoxUS6",
     "date_iso": "2025-11-16T13:55:58+00:00"
-  },
-  {
-    "id": "msg17271",
-    "title": "Whey+ Protein Powder 2.5Kg at ₹2,372 1Kg at ₹949 (Effectively)",
-    "description": "Loot: Whey+ Protein Powder 2.5Kg at ₹2,372 | 1Kg at ₹949 (Effectively). Add 5 Qty: *Buy More Save More + Use Supercoins.",
-    "shortlink": "https://fktr.in/nHgYl11",
-    "urls": [
-      {
-        "url": "",
-        "label": "Whey+ Protein Powder 2.5Kg at ₹2,372 | 1Kg at ₹949 (Effectively)"
-      },
-      {
-        "url": "https://fktr.in/nHgYl11",
-        "label": "Add 5 Qty"
-      }
-    ],
-    "raw_text": "Loot: Whey+ Protein Powder 2.5Kg at ₹2,372 | 1Kg at ₹949 (Effectively). \n\nAdd 5 Qty: https://fktr.in/nHgYl11\n\n*Buy More Save More + Use Supercoins.",
-    "final_url": "https://fktr.in/nHgYl11",
-    "local_image": "assets/images/tgmsg_17271.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-16T14:00:39+00:00",
-    "buy_link": "https://fktr.in/nHgYl11",
-    "date_iso": "2025-11-16T14:00:39+00:00"
   }
 ]
