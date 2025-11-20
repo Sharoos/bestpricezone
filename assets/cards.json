@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17800",
+    "title": "Home Decoration Items Starts From ₹109",
+    "description": "Myntra : Home Decoration Items Starts From ₹109. 👉https://myntr.in/UrJGzR",
+    "shortlink": "https://myntr.in/UrJGzR",
+    "urls": [
+      {
+        "url": "https://myntr.in/UrJGzR",
+        "label": "Home Decoration Items Starts From ₹109"
+      }
+    ],
+    "raw_text": "Myntra : Home Decoration Items Starts From ₹109.\n\n👉https://myntr.in/UrJGzR",
+    "final_url": "https://myntr.in/UrJGzR",
+    "local_image": "assets/images/tgmsg_17800.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-20T14:33:03+00:00",
+    "buy_link": "https://myntr.in/UrJGzR",
+    "date_iso": "2025-11-20T14:33:03+00:00"
+  },
+  {
     "id": "msg17795",
     "title": "145",
     "description": "145 : https://www.amazon.in/dp/B0G2SDNC9Y?social_share=cm_sw_r_cso_wa_apin_dp_MS99RVBF1MEJCDNG8T44&tag=bestpricezo0f-21",
@@ -8698,25 +8718,5 @@
     "date_obj": "2025-11-17T09:11:22+00:00",
     "buy_link": "https://extp.in/SLPgqW",
     "date_iso": "2025-11-17T09:11:22+00:00"
-  },
-  {
-    "id": "msg17350",
-    "title": "JIO JioBharat V4 4G Keypad Phone @799",
-    "description": "Amazon | JIO JioBharat V4 4G Keypad Phone @799 👉 https://www.amazon.in/dp/B0DJMLK4TT?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DJMLK4TT?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DJMLK4TT?th=1&tag=bestpricezo0f-21",
-        "label": "JIO JioBharat V4 4G Keypad Phone @799"
-      }
-    ],
-    "raw_text": "Amazon | JIO JioBharat V4 4G Keypad Phone @799\n\n👉 https://www.amazon.in/dp/B0DJMLK4TT?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DJMLK4TT?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17350.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-17T09:15:23+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DJMLK4TT?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-17T09:15:23+00:00"
   }
 ]
