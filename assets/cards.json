@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17758",
+    "title": "Winter blankets starting @ 349 only",
+    "description": "Myntra | Winter blankets starting @ 349 only 👉 https://myntr.in/hrjyNS",
+    "shortlink": "https://myntr.in/hrjyNS",
+    "urls": [
+      {
+        "url": "https://myntr.in/hrjyNS",
+        "label": "Winter blankets starting @ 349 only"
+      }
+    ],
+    "raw_text": "Myntra | Winter blankets starting @ 349 only\n\n👉 https://myntr.in/hrjyNS",
+    "final_url": "https://myntr.in/hrjyNS",
+    "local_image": "assets/images/tgmsg_17758.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-20T08:50:17+00:00",
+    "buy_link": "https://myntr.in/hrjyNS",
+    "date_iso": "2025-11-20T08:50:17+00:00"
+  },
+  {
     "id": "msg17753",
     "title": "Hyugalife Protein Dhamaka Sale",
     "description": "Hyugalife : Protein Dhamaka Sale Master Link : Top Categories : • Whey Protein : • Vegan Protein : • Protein Bars : • Dry Fruits : • Peanut Butter : • Creatine :",
@@ -8746,25 +8766,5 @@
     "date_obj": "2025-11-16T19:06:13+00:00",
     "buy_link": "https://fkrt.co/rQQYKY",
     "date_iso": "2025-11-16T19:06:13+00:00"
-  },
-  {
-    "id": "msg17301",
-    "title": "@299",
-    "description": "@299 https://fkrt.co/nBeM7x",
-    "shortlink": "https://fkrt.co/nBeM7x",
-    "urls": [
-      {
-        "url": "https://fkrt.co/nBeM7x",
-        "label": ""
-      }
-    ],
-    "raw_text": "@299\n\nhttps://fkrt.co/nBeM7x",
-    "final_url": "https://fkrt.co/nBeM7x",
-    "local_image": "assets/images/tgmsg_17301.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-16T18:52:35+00:00",
-    "buy_link": "https://fkrt.co/nBeM7x",
-    "date_iso": "2025-11-16T18:52:35+00:00"
   }
 ]
