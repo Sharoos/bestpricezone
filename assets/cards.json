@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg17782",
+    "title": "₹3495 off with Axis & SBI Card",
+    "description": "Flipkart | Lenovo LOQ AMD Ryzen 5 (24 GB/512 GB SSD) Gaming Laptop @66,395 👉 ₹3495 off with Flipkart Axis & SBI Card Lenovo Slim 5 OLED Intel Core i7 13th Gen (16 GB/512 GB SSD) Laptop @75,895 👉 ₹3995 off with Flipkart…",
+    "shortlink": "https://fkrt.co/svu7R5",
+    "urls": [
+      {
+        "url": "https://fkrt.co/svu7R5",
+        "label": "Lenovo LOQ AMD Ryzen 5 (24 GB/512 GB SSD) Gaming Laptop @66,395"
+      },
+      {
+        "url": "",
+        "label": "₹3495 off with Flipkart Axis & SBI Card"
+      },
+      {
+        "url": "https://fkrt.co/sOKSD0",
+        "label": "Lenovo Slim 5 OLED Intel Core i7 13th Gen (16 GB/512 GB SSD) Laptop @75,895"
+      },
+      {
+        "url": "",
+        "label": "₹3995 off with Flipkart Axis & SBI Card"
+      }
+    ],
+    "raw_text": "Flipkart | Lenovo LOQ AMD Ryzen 5 (24 GB/512 GB SSD) Gaming Laptop @66,395\n\n👉 https://fkrt.co/svu7R5\n\n₹3495 off with Flipkart Axis & SBI Card\n\nLenovo Slim 5 OLED Intel Core i7 13th Gen (16 GB/512 GB SSD) Laptop @75,895\n\n👉 https://fkrt.co/sOKSD0\n\n₹3995 off with Flipkart Axis & SBI Card",
+    "final_url": "https://fkrt.co/svu7R5",
+    "local_image": "assets/images/tgmsg_17782.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-20T11:22:20+00:00",
+    "buy_link": "https://fkrt.co/svu7R5",
+    "date_iso": "2025-11-20T11:22:20+00:00"
+  },
+  {
     "id": "msg17777",
     "title": "boAt Airdopes 91 Prime @ 699",
     "description": "Amazon | boAt Airdopes 91 Prime @ 699. 👉 https://www.amazon.in/dp/B0DPWL48Z5?psc=1&th=1&tag=bestpricezo0f-21",
@@ -8662,29 +8694,5 @@
     "date_obj": "2025-11-17T06:31:25+00:00",
     "buy_link": "https://bitli.in/Dn9m0F4",
     "date_iso": "2025-11-17T06:31:25+00:00"
-  },
-  {
-    "id": "msg17331",
-    "title": "Up to 68% Off On Lakme Beauty Product",
-    "description": "Amazon | Upto 68% Off On Lakme Beauty Products Upto 50% Off On Biotique Beauty Products",
-    "shortlink": "https://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_89%3ALAKM%C3%89%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_89%3ALAKM%C3%89%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-        "label": "Upto 68% Off On Lakme Beauty Products"
-      },
-      {
-        "url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_6%3AA15APWRK6P7LBV%2Cp_72%3A1318476031%2Cp_89%3ABiotique%2Cp_n_pct-off-with-tax%3A45-&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
-        "label": "Upto 50% Off On Biotique Beauty Products"
-      }
-    ],
-    "raw_text": "Amazon | Upto 68% Off On Lakme Beauty Products \n\nhttps://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_89%3ALAKM%C3%89%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21\n\nUpto 50% Off On Biotique Beauty Products \n\nhttps://www.amazon.in/s?rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_6%3AA15APWRK6P7LBV%2Cp_72%3A1318476031%2Cp_89%3ABiotique%2Cp_n_pct-off-with-tax%3A45-&s=price-asc-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_89%3ALAKM%C3%89%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17331.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-17T06:36:25+00:00",
-    "buy_link": "https://www.amazon.in/s?k=Lakme&rh=n%3A1355016031%2Cp_85%3A10440599031%2Cp_89%3ALAKM%C3%89%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-17T06:36:25+00:00"
   }
 ]
