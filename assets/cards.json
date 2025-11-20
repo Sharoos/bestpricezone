@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17794",
+    "title": "Highlander Men’s Jeans from @433",
+    "description": "Flipkart | Highlander Men’s Jeans from @433 👉https://fkrt.co/phbdqa",
+    "shortlink": "https://fkrt.co/phbdqa",
+    "urls": [
+      {
+        "url": "https://fkrt.co/phbdqa",
+        "label": "Highlander Men’s Jeans from @433"
+      }
+    ],
+    "raw_text": "Flipkart | Highlander Men’s Jeans from @433\n\n👉https://fkrt.co/phbdqa",
+    "final_url": "https://fkrt.co/phbdqa",
+    "local_image": "assets/images/tgmsg_17794.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-20T13:46:18+00:00",
+    "buy_link": "https://fkrt.co/phbdqa",
+    "date_iso": "2025-11-20T13:46:18+00:00"
+  },
+  {
     "id": "msg17790",
     "title": "🔥Men's Casual Shirt Starts @299 Up to 85% Off",
     "description": "🔥Myntra : Men's Casual Shirt Starts @299 Upto 85% Off 📌Master Link : Here & Now : Mast & Harbour : Roadster : The Indian Garage : Snitch : Campus Sutra :",
@@ -8698,29 +8718,5 @@
     "date_obj": "2025-11-17T08:00:05+00:00",
     "buy_link": "https://www.amazon.in/dp/B079Y4WFKM?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-17T08:00:05+00:00"
-  },
-  {
-    "id": "msg17339",
-    "title": "🛒 Deal Price ₹1,219",
-    "description": "Amazon | The Indus Valley Stainless Steel Sauce Pan, Tea Pan with Steel Lid, | 14cm/5.5inch, 1.3Ltr, 0.60kg 🛒 Deal Price: ₹1,219 👉",
-    "shortlink": "https://www.amazon.in/dp/B0FJ1ZPZZY/ref=cm_sw_r_as_gl_apa_gl_i_dl_PQAMXBBAVBSRTY5MACTN?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "The Indus Valley Stainless Steel Sauce Pan, Tea Pan with Steel Lid, | 14cm/5.5inch, 1.3Ltr, 0.60kg"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0FJ1ZPZZY/ref=cm_sw_r_as_gl_apa_gl_i_dl_PQAMXBBAVBSRTY5MACTN?tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹1,219"
-      }
-    ],
-    "raw_text": "Amazon | The Indus Valley Stainless Steel Sauce Pan, Tea Pan with Steel Lid, | 14cm/5.5inch, 1.3Ltr, 0.60kg\n\n🛒 Deal Price: ₹1,219\n\n👉https://www.amazon.in/dp/B0FJ1ZPZZY/ref=cm_sw_r_as_gl_apa_gl_i_dl_PQAMXBBAVBSRTY5MACTN?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FJ1ZPZZY/ref=cm_sw_r_as_gl_apa_gl_i_dl_PQAMXBBAVBSRTY5MACTN?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17339.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-17T07:36:51+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FJ1ZPZZY/ref=cm_sw_r_as_gl_apa_gl_i_dl_PQAMXBBAVBSRTY5MACTN?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-17T07:36:51+00:00"
   }
 ]
