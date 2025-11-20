@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17745",
+    "title": "Up to 85% Off On Safari Suitcase",
+    "description": "Flipkart | Upto 85% Off On Safari Suitcases 👉Link : https://fkrt.co/H1GEcz",
+    "shortlink": "https://fkrt.co/H1GEcz",
+    "urls": [
+      {
+        "url": "https://fkrt.co/H1GEcz",
+        "label": "Upto 85% Off On Safari Suitcases"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 85% Off On Safari Suitcases\n\n👉Link : https://fkrt.co/H1GEcz",
+    "final_url": "https://fkrt.co/H1GEcz",
+    "local_image": "assets/images/tgmsg_17745.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-20T06:46:13+00:00",
+    "buy_link": "https://fkrt.co/H1GEcz",
+    "date_iso": "2025-11-20T06:46:13+00:00"
+  },
+  {
     "id": "msg17741",
     "title": "Home Cleaning Kit (Pack of 7) @400",
     "description": "Flipkart | Home Cleaning Kit (Pack of 7) @400 👉https://fkrt.co/rrdWAX",
@@ -8738,29 +8758,5 @@
     "date_obj": "2025-11-16T16:26:22+00:00",
     "buy_link": "https://myntr.in/lPw31X",
     "date_iso": "2025-11-16T16:26:22+00:00"
-  },
-  {
-    "id": "msg17282",
-    "title": "Up to 80% Off on Women Kurta Suit Sets Starting @ Just ₹315",
-    "description": "Ajio | Upto 80% Off on Women Kurta Suit Sets Starting @ Just ₹315 👉 Link : 🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "shortlink": "https://ajiio.co/Q5ugi8",
-    "urls": [
-      {
-        "url": "https://ajiio.co/Q5ugi8",
-        "label": "Upto 80% Off on Women Kurta Suit Sets Starting @ Just ₹315"
-      },
-      {
-        "url": "",
-        "label": "🛍 + Extra 10% AJIO Super Cash! 🎉"
-      }
-    ],
-    "raw_text": "Ajio | Upto 80% Off on Women Kurta Suit Sets Starting @ Just ₹315\n \n👉 Link : https://ajiio.co/Q5ugi8\n\n🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "final_url": "https://ajiio.co/Q5ugi8",
-    "local_image": "assets/images/tgmsg_17282.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-16T15:56:17+00:00",
-    "buy_link": "https://ajiio.co/Q5ugi8",
-    "date_iso": "2025-11-16T15:56:17+00:00"
   }
 ]
