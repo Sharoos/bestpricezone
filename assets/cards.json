@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg17866",
+    "title": "💳 Bank Offer Get ₹1,500 Off on HDFC Credit Card Transaction",
+    "description": "😎 Ray-Ban | Meta Wayfarer (Gen 1) Matte Black • Polarised Gradient Graphite Lenses 💰 Deal Price: ₹23,680 🛒 Buy Here: 💳 Bank Offer: Get ₹1,500 Off on HDFC Credit Card Transactions 🎟 Extra: Apply ₹500 Coupon at checkout!…",
+    "shortlink": "https://www.amazon.in/dp/B0G24TJ9FQ?language=en_IN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "😎 Ray-Ban | Meta Wayfarer (Gen 1)"
+      },
+      {
+        "url": "",
+        "label": "Matte Black • Polarised Gradient Graphite Lenses"
+      },
+      {
+        "url": "",
+        "label": "💰 Deal Price: ₹23,680"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0G24TJ9FQ?language=en_IN&tag=bestpricezo0f-21",
+        "label": "🛒 Here"
+      },
+      {
+        "url": "",
+        "label": "💳 Bank Offer: Get ₹1,500 Off on HDFC Credit Card Transactions"
+      },
+      {
+        "url": "",
+        "label": "🔥 Premium Smart Glasses + Stylish Frame — Deal!"
+      }
+    ],
+    "raw_text": "😎 Ray-Ban | Meta Wayfarer (Gen 1)\nMatte Black • Polarised Gradient Graphite Lenses\n\n💰 Deal Price: ₹23,680\n🛒 Buy Here: https://www.amazon.in/dp/B0G24TJ9FQ?language=en_IN&tag=bestpricezo0f-21\n\n💳 Bank Offer: Get ₹1,500 Off on HDFC Credit Card Transactions\n🎟 Extra: Apply ₹500 Coupon at checkout!\n\n🔥 Premium Smart Glasses + Stylish Frame —  Deal!",
+    "final_url": "https://www.amazon.in/dp/B0G24TJ9FQ?language=en_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17866.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-21T07:41:20+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0G24TJ9FQ?language=en_IN&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-21T07:41:20+00:00"
+  },
+  {
     "id": "msg17864",
     "title": "Up to 80% OFF on Branded Shoes 🔥",
     "description": "👟👟 Flipkart Mega Footwear Sale Alert Upto 80% OFF on Branded Shoes 🔥 Top Picks 👇 Puma → Reebok → Adidas → FILA → Duke → Wrogn → Hush Puppies → 🛍 Grab your favorite pair before it’s gone",
@@ -8582,29 +8622,5 @@
     "date_obj": "2025-11-17T17:35:10+00:00",
     "buy_link": "https://ajiio.co/63JAUN",
     "date_iso": "2025-11-17T17:35:10+00:00"
-  },
-  {
-    "id": "msg17402",
-    "title": "Being human Min 65%",
-    "description": "Ajio | Monte Carlo- Min 30% https://ajiio.co/1pKfzQ Being human Min 65% https://ajiio.co/S1U3Bl",
-    "shortlink": "https://ajiio.co/1pKfzQ",
-    "urls": [
-      {
-        "url": "https://ajiio.co/1pKfzQ",
-        "label": "Monte Carlo- Min 30%"
-      },
-      {
-        "url": "https://ajiio.co/S1U3Bl",
-        "label": "Being human Min 65%"
-      }
-    ],
-    "raw_text": "Ajio | Monte Carlo- Min 30%\nhttps://ajiio.co/1pKfzQ\n\nBeing human Min 65%\nhttps://ajiio.co/S1U3Bl",
-    "final_url": "https://ajiio.co/1pKfzQ",
-    "local_image": "assets/images/tgmsg_17402.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-17T17:04:18+00:00",
-    "buy_link": "https://ajiio.co/1pKfzQ",
-    "date_iso": "2025-11-17T17:04:18+00:00"
   }
 ]
