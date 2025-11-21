@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17948",
+    "title": "Surf Excel Detergent Powder 7 kg @707",
+    "description": "Amazon | Surf Excel Detergent Powder 7 kg @707. https://www.amazon.in/dp/B0D7GQNL6B?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0D7GQNL6B?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0D7GQNL6B?tag=bestpricezo0f-21",
+        "label": "Surf Excel Detergent Powder 7 kg @707"
+      }
+    ],
+    "raw_text": "Amazon | Surf Excel Detergent Powder 7 kg @707.\n\nhttps://www.amazon.in/dp/B0D7GQNL6B?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D7GQNL6B?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17948.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-21T17:32:52+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D7GQNL6B?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-21T17:32:52+00:00"
+  },
+  {
     "id": "msg17946",
     "title": "🔥HRX Men's Dry Jogger Pants @389🔥",
     "description": "Myntra |🔥HRX Men's Dry Jogger Pants  @389🔥 👉Link : https://myntr.in/a8E4bD",
@@ -8630,49 +8650,5 @@
     "date_obj": "2025-11-18T13:46:09+00:00",
     "buy_link": "https://ajiio.co/7wId8D",
     "date_iso": "2025-11-18T13:46:09+00:00"
-  },
-  {
-    "id": "msg17512",
-    "title": "Up to 75% Off on Buda Jeans Mens Clothing",
-    "description": "Ajio : Upto 75% Off on Buda Jeans Mens Clothing. T-Shirt : Shirt : Jeans : Trackpant : Shorts : Earn Extra 10% AJIO SUPERCASH",
-    "shortlink": "https://ajiio.co/iqiMxh",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 75% Off on Buda Jeans Mens Clothing"
-      },
-      {
-        "url": "https://ajiio.co/iqiMxh",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://ajiio.co/XTuKzd",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://ajiio.co/zCPYY5",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/PWp78D",
-        "label": "Trackpant"
-      },
-      {
-        "url": "https://ajiio.co/bQHikg",
-        "label": "Shorts"
-      },
-      {
-        "url": "",
-        "label": "Earn Extra 10% AJIO SUPERCASH"
-      }
-    ],
-    "raw_text": "Ajio : Upto 75% Off on Buda Jeans Mens Clothing.\n\nT-Shirt :   https://ajiio.co/iqiMxh\nShirt :   https://ajiio.co/XTuKzd\nJeans :   https://ajiio.co/zCPYY5\nTrackpant :   https://ajiio.co/PWp78D\nShorts :   https://ajiio.co/bQHikg\n\n Earn Extra 10% AJIO SUPERCASH",
-    "final_url": "https://ajiio.co/iqiMxh",
-    "local_image": "assets/images/tgmsg_17512.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-18T13:32:25+00:00",
-    "buy_link": "https://ajiio.co/iqiMxh",
-    "date_iso": "2025-11-18T13:32:25+00:00"
   }
 ]
