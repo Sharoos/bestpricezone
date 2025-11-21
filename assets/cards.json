@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg17946",
+    "title": "🔥HRX Men's Dry Jogger Pants @389🔥",
+    "description": "Myntra |🔥HRX Men's Dry Jogger Pants  @389🔥 👉Link : https://myntr.in/a8E4bD",
+    "shortlink": "https://myntr.in/a8E4bD",
+    "urls": [
+      {
+        "url": "https://myntr.in/a8E4bD",
+        "label": "🔥HRX Men's Dry Jogger Pants @389🔥"
+      }
+    ],
+    "raw_text": "Myntra |🔥HRX Men's Dry Jogger Pants  @389🔥\n\n👉Link : https://myntr.in/a8E4bD",
+    "final_url": "https://myntr.in/a8E4bD",
+    "local_image": "assets/images/tgmsg_17946.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-21T17:04:08+00:00",
+    "buy_link": "https://myntr.in/a8E4bD",
+    "date_iso": "2025-11-21T17:04:08+00:00"
+  },
+  {
+    "id": "msg17947",
+    "title": "Zahidi Wet Dates (Khajur), 1Kg at just Rs 239",
+    "description": "Flipkart | Zahidi Wet Dates (Khajur), 1Kg at just Rs 239. https://fkrt.co/FuSMdE",
+    "shortlink": "https://fkrt.co/FuSMdE",
+    "urls": [
+      {
+        "url": "https://fkrt.co/FuSMdE",
+        "label": "Zahidi Wet Dates (Khajur), 1Kg at just Rs 239"
+      }
+    ],
+    "raw_text": "Flipkart | Zahidi Wet Dates (Khajur), 1Kg at just Rs 239.\n\nhttps://fkrt.co/FuSMdE",
+    "final_url": "https://fkrt.co/FuSMdE",
+    "local_image": "assets/images/tgmsg_17947.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-21T17:16:41+00:00",
+    "buy_link": "https://fkrt.co/FuSMdE",
+    "date_iso": "2025-11-21T17:16:41+00:00"
+  },
+  {
     "id": "msg17945",
     "title": "METRONAUT Laptop Backpack at RS.332",
     "description": "Flipkart | METRONAUT Laptop Backpack at RS.332 https://fkrt.co/mezYN3",
@@ -8634,61 +8674,5 @@
     "date_obj": "2025-11-18T13:32:25+00:00",
     "buy_link": "https://ajiio.co/iqiMxh",
     "date_iso": "2025-11-18T13:32:25+00:00"
-  },
-  {
-    "id": "msg17513",
-    "title": "🔥🔥Price Drop @ 399",
-    "description": "🔥🔥Price Drop :  @ 399 https://www.amazon.in/gp/product/B015ZI1RHG?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/gp/product/B015ZI1RHG?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/gp/product/B015ZI1RHG?tag=bestpricezo0f-21",
-        "label": "🔥🔥Price Drop : @ 399"
-      }
-    ],
-    "raw_text": "🔥🔥Price Drop :  @ 399  \n\nhttps://www.amazon.in/gp/product/B015ZI1RHG?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/gp/product/B015ZI1RHG?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17513.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-18T13:36:11+00:00",
-    "buy_link": "https://www.amazon.in/gp/product/B015ZI1RHG?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-18T13:36:11+00:00"
-  },
-  {
-    "id": "msg17510",
-    "title": "Up to 75% Off On Puma Clothing & Footwea",
-    "description": "Myntra : Upto 75% Off On Puma Clothing & Footwears. Men's : Women's : Boys : Girls :",
-    "shortlink": "https://myntr.in/U8UhwK",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 75% Off On Puma Clothing & Footwears"
-      },
-      {
-        "url": "https://myntr.in/U8UhwK",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/BEqVhM",
-        "label": "Women's"
-      },
-      {
-        "url": "https://myntr.in/Kp0xUf",
-        "label": "Boys"
-      },
-      {
-        "url": "https://myntr.in/AAtSrw",
-        "label": "Girls"
-      }
-    ],
-    "raw_text": "Myntra : Upto 75% Off On Puma Clothing & Footwears.\n\nMen's : https://myntr.in/U8UhwK\nWomen's : https://myntr.in/BEqVhM\nBoys : https://myntr.in/Kp0xUf\nGirls : https://myntr.in/AAtSrw",
-    "final_url": "https://myntr.in/U8UhwK",
-    "local_image": "assets/images/tgmsg_17510.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-18T13:02:02+00:00",
-    "buy_link": "https://myntr.in/U8UhwK",
-    "date_iso": "2025-11-18T13:02:02+00:00"
   }
 ]
