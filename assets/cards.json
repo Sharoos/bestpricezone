@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg17899",
+    "title": "Ords Set @299",
+    "description": "Myntra | Women's Co-Ords Set @299 👉 https://myntr.in/omDAva",
+    "shortlink": "https://myntr.in/omDAva",
+    "urls": [
+      {
+        "url": "https://myntr.in/omDAva",
+        "label": "Women's Co-Ords Set @299"
+      }
+    ],
+    "raw_text": "Myntra | Women's Co-Ords Set @299\n\n👉 https://myntr.in/omDAva",
+    "final_url": "https://myntr.in/omDAva",
+    "local_image": "assets/images/tgmsg_17899.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-21T11:34:59+00:00",
+    "buy_link": "https://myntr.in/omDAva",
+    "date_iso": "2025-11-21T11:34:59+00:00"
+  },
+  {
+    "id": "msg17900",
+    "title": "WROGN Trimmer 120 min Runtime @ 539",
+    "description": "Flipkart | WROGN Trimmer 120 min Runtime @ 539. 👉 https://fkrt.co/H6tbjZ",
+    "shortlink": "https://fkrt.co/H6tbjZ",
+    "urls": [
+      {
+        "url": "https://fkrt.co/H6tbjZ",
+        "label": "WROGN Trimmer 120 min Runtime @ 539"
+      }
+    ],
+    "raw_text": "Flipkart | WROGN Trimmer 120 min Runtime @ 539. \n\n👉 https://fkrt.co/H6tbjZ",
+    "final_url": "https://fkrt.co/H6tbjZ",
+    "local_image": "assets/images/tgmsg_17900.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-21T11:40:17+00:00",
+    "buy_link": "https://fkrt.co/H6tbjZ",
+    "date_iso": "2025-11-21T11:40:17+00:00"
+  },
+  {
     "id": "msg17897",
     "title": "Wipro Vesta Electric 7 Egg Boiler, 360 Watts @999",
     "description": "Amazon | Longway Electric Egg Boiler 7 Eggs : https://www.amazon.in/dp/B0BMFXCJC2?th=1&tag=bestpricezo0f-21 14 Eggs : https://www.amazon.in/dp/B0CBTX3RWP?th=1&tag=bestpricezo0f-21 Wipro Vesta Electric 7 Egg Boiler, 360…",
@@ -8754,45 +8794,5 @@
     "date_obj": "2025-11-18T06:35:25+00:00",
     "buy_link": "https://fkrt.co/5LhrIV",
     "date_iso": "2025-11-18T06:35:25+00:00"
-  },
-  {
-    "id": "msg17459",
-    "title": "Up to 75% Off On Printed Wallpapers Starts at 200",
-    "description": "Myntra | Upto 75% Off On Printed Wallpapers Starts at 200. 👉Link : https://myntr.in/nTZ5va",
-    "shortlink": "https://myntr.in/nTZ5va",
-    "urls": [
-      {
-        "url": "https://myntr.in/nTZ5va",
-        "label": "Upto 75% Off On Printed Wallpapers Starts at 200"
-      }
-    ],
-    "raw_text": "Myntra | Upto 75% Off On Printed Wallpapers Starts at 200.\n\n👉Link : https://myntr.in/nTZ5va",
-    "final_url": "https://myntr.in/nTZ5va",
-    "local_image": "assets/images/tgmsg_17459.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-18T06:45:44+00:00",
-    "buy_link": "https://myntr.in/nTZ5va",
-    "date_iso": "2025-11-18T06:45:44+00:00"
-  },
-  {
-    "id": "msg17454",
-    "title": "Up to 75% Off On Premium Winter Blanket",
-    "description": "Myntra : Upto 75% Off On Premium Winter Blankets. https://myntr.in/gCzmfk",
-    "shortlink": "https://myntr.in/gCzmfk",
-    "urls": [
-      {
-        "url": "https://myntr.in/gCzmfk",
-        "label": "Upto 75% Off On Premium Winter Blankets"
-      }
-    ],
-    "raw_text": "Myntra : Upto 75% Off On Premium Winter Blankets.\n\nhttps://myntr.in/gCzmfk",
-    "final_url": "https://myntr.in/gCzmfk",
-    "local_image": "assets/images/tgmsg_17454.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-18T06:02:32+00:00",
-    "buy_link": "https://myntr.in/gCzmfk",
-    "date_iso": "2025-11-18T06:02:32+00:00"
   }
 ]
