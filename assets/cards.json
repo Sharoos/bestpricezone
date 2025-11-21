@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg17878",
+    "title": "Up to 67% Off On Hair Care",
+    "description": "Myntra : Upto 67% Off On Hair Care. LOréal Paris : Dove : Tresemme : Head & Shoulders : Clinic Plus : Pantene :",
+    "shortlink": "https://myntr.in/x1cfOE",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 67% Off On Hair Care"
+      },
+      {
+        "url": "https://myntr.in/x1cfOE",
+        "label": "LOréal Paris"
+      },
+      {
+        "url": "https://myntr.in/Qhg3mi",
+        "label": "Dove"
+      },
+      {
+        "url": "https://myntr.in/CtVRm0",
+        "label": "Tresemme"
+      },
+      {
+        "url": "https://myntr.in/hMvDP5",
+        "label": "Head & Shoulders"
+      },
+      {
+        "url": "https://myntr.in/mmGIm7",
+        "label": "Clinic Plus"
+      },
+      {
+        "url": "https://myntr.in/SHu49j",
+        "label": "Pantene"
+      }
+    ],
+    "raw_text": "Myntra : Upto 67% Off On Hair Care.\n\nLOréal Paris : https://myntr.in/x1cfOE\nDove : https://myntr.in/Qhg3mi\nTresemme : https://myntr.in/CtVRm0\nHead & Shoulders : https://myntr.in/hMvDP5\nClinic Plus : https://myntr.in/mmGIm7\nPantene : https://myntr.in/SHu49j",
+    "final_url": "https://myntr.in/x1cfOE",
+    "local_image": "assets/images/tgmsg_17878.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-21T09:04:19+00:00",
+    "buy_link": "https://myntr.in/x1cfOE",
+    "date_iso": "2025-11-21T09:04:19+00:00"
+  },
+  {
     "id": "msg17873",
     "title": "Get Up to ₹4000 Discount Using Bank Offe",
     "description": "Reliance Digital: iPhone 16e @47,990 👉 iPhone 16 Plus @65,499 👉 • Get Upto ₹4000 Discount Using Bank Offers.",
@@ -8706,25 +8750,5 @@
     "date_obj": "2025-11-17T19:32:40+00:00",
     "buy_link": "https://ajiio.co/cqKDS3",
     "date_iso": "2025-11-17T19:32:40+00:00"
-  },
-  {
-    "id": "msg17411",
-    "title": "Anchor by Panasonic Penta Modular Polycarbonate 3m Plates Set (White, Pack of 20) @679",
-    "description": "Amazon | Anchor by Panasonic Penta Modular Polycarbonate 3m Plates Set (White, Pack of 20) @679₹ https://www.amazon.in/dp/B07LB47885?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07LB47885?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07LB47885?tag=bestpricezo0f-21",
-        "label": "Anchor by Panasonic Penta Modular Polycarbonate 3m Plates Set (White, Pack of 20) @679₹"
-      }
-    ],
-    "raw_text": "Amazon | Anchor by Panasonic Penta Modular Polycarbonate 3m Plates Set (White, Pack of 20) @679₹\n\nhttps://www.amazon.in/dp/B07LB47885?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07LB47885?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17411.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-17T18:35:07+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07LB47885?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-17T18:35:07+00:00"
   }
 ]
