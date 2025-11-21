@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17945",
+    "title": "METRONAUT Laptop Backpack at RS.332",
+    "description": "Flipkart | METRONAUT Laptop Backpack at RS.332 https://fkrt.co/mezYN3",
+    "shortlink": "https://fkrt.co/mezYN3",
+    "urls": [
+      {
+        "url": "https://fkrt.co/mezYN3",
+        "label": "METRONAUT Laptop Backpack at RS.332"
+      }
+    ],
+    "raw_text": "Flipkart | METRONAUT Laptop Backpack at RS.332\n\nhttps://fkrt.co/mezYN3",
+    "final_url": "https://fkrt.co/mezYN3",
+    "local_image": "assets/images/tgmsg_17945.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-21T16:46:26+00:00",
+    "buy_link": "https://fkrt.co/mezYN3",
+    "date_iso": "2025-11-21T16:46:26+00:00"
+  },
+  {
     "id": "msg17942",
     "title": "Up to 75% Off On Beyoung Men's Clothing",
     "description": "Myntra : Upto 75% Off On Beyoung Men's Clothing. Trousers : Shirt : Shackets : Tshirt : Jeans : Trackpants : Sweatshirt :",
@@ -8670,25 +8690,5 @@
     "date_obj": "2025-11-18T13:02:02+00:00",
     "buy_link": "https://myntr.in/U8UhwK",
     "date_iso": "2025-11-18T13:02:02+00:00"
-  },
-  {
-    "id": "msg17503",
-    "title": "Foxsky (32 inches) HD Ready Smart LED TV @6999",
-    "description": "Amazon | Foxsky (32 inches) HD Ready Smart LED TV @6999 👉 https://www.amazon.in/dp/B08QX4LZ37?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B08QX4LZ37?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B08QX4LZ37?tag=bestpricezo0f-21",
-        "label": "Foxsky (32 inches) HD Ready Smart LED TV @6999"
-      }
-    ],
-    "raw_text": "Amazon | Foxsky (32 inches) HD Ready Smart LED TV @6999\n\n👉 https://www.amazon.in/dp/B08QX4LZ37?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B08QX4LZ37?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17503.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-18T12:02:47+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08QX4LZ37?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-18T12:02:47+00:00"
   }
 ]
