@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17883",
+    "title": "Vega helmets Up to 70% Off",
+    "description": "Vega helmets Upto 70% Off. https://fkrt.co/00DQ84",
+    "shortlink": "https://fkrt.co/00DQ84",
+    "urls": [
+      {
+        "url": "https://fkrt.co/00DQ84",
+        "label": "Vega helmets Upto 70% Off"
+      }
+    ],
+    "raw_text": "Vega helmets Upto 70% Off. \n\nhttps://fkrt.co/00DQ84",
+    "final_url": "https://fkrt.co/00DQ84",
+    "local_image": "assets/images/tgmsg_17883.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-21T09:59:38+00:00",
+    "buy_link": "https://fkrt.co/00DQ84",
+    "date_iso": "2025-11-21T09:59:38+00:00"
+  },
+  {
     "id": "msg17882",
     "title": "Extra Discount On Prepaid Payment",
     "description": "Noise Buds Uno @996 ✅ USE CODE: FLAT350 👉 https://extp.in/2HiRQN • Extra Discount On Prepaid Payment.",
@@ -8746,25 +8766,5 @@
     "date_obj": "2025-11-18T04:45:52+00:00",
     "buy_link": "https://ajiio.co/WTHm8h",
     "date_iso": "2025-11-18T04:45:52+00:00"
-  },
-  {
-    "id": "msg17440",
-    "title": "Flat 65% Off on 750w Juicer mixer grinder @ ₹1349",
-    "description": "Myntra | Flat 65% Off on 750w Juicer mixer grinder @ ₹1349 (use coupon : HOMEBIGOFFS) 👉https://myntr.in/AerE8f",
-    "shortlink": "https://myntr.in/AerE8f",
-    "urls": [
-      {
-        "url": "https://myntr.in/AerE8f",
-        "label": "Flat 65% Off on 750w Juicer mixer grinder @ ₹1349"
-      }
-    ],
-    "raw_text": "Myntra | Flat 65% Off on 750w Juicer mixer grinder @ ₹1349\n(use coupon : HOMEBIGOFFS)\n\n👉https://myntr.in/AerE8f",
-    "final_url": "https://myntr.in/AerE8f",
-    "local_image": "assets/images/tgmsg_17440.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-18T04:15:39+00:00",
-    "buy_link": "https://myntr.in/AerE8f",
-    "date_iso": "2025-11-18T04:15:39+00:00"
   }
 ]
