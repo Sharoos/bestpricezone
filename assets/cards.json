@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg17882",
+    "title": "Extra Discount On Prepaid Payment",
+    "description": "Noise Buds Uno @996 ✅ USE CODE: FLAT350 👉 https://extp.in/2HiRQN • Extra Discount On Prepaid Payment.",
+    "shortlink": "https://extp.in/2HiRQN",
+    "urls": [
+      {
+        "url": "",
+        "label": "Noise Buds Uno @996"
+      },
+      {
+        "url": "https://extp.in/2HiRQN",
+        "label": "✅ USE CODE: FLAT350"
+      },
+      {
+        "url": "",
+        "label": "Extra Discount On Prepaid Payment"
+      }
+    ],
+    "raw_text": "Noise Buds Uno @996\n\n✅ USE CODE: FLAT350\n\n👉 https://extp.in/2HiRQN\n\n• Extra Discount On Prepaid Payment.",
+    "final_url": "https://extp.in/2HiRQN",
+    "local_image": "assets/images/tgmsg_17882.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-11-21T09:45:16+00:00",
+    "buy_link": "https://extp.in/2HiRQN",
+    "date_iso": "2025-11-21T09:45:16+00:00"
+  },
+  {
     "id": "msg17879",
     "title": "APPLY 50% OFF",
     "description": "Winter Strong Iron Angeethi @349 https://www.amazon.in/dp/B0G1BJSLRK?tag=bestpricezo0f-21 APPLY 50% OFF COUPON",
@@ -8738,25 +8766,5 @@
     "date_obj": "2025-11-18T04:15:39+00:00",
     "buy_link": "https://myntr.in/AerE8f",
     "date_iso": "2025-11-18T04:15:39+00:00"
-  },
-  {
-    "id": "msg17437",
-    "title": "Up to 92% Off On Just Herbs Beauty Product",
-    "description": "Flipkart | Upto 92% Off On Just Herbs Beauty Products 👉https://fkrt.co/BA3gbL",
-    "shortlink": "https://fkrt.co/BA3gbL",
-    "urls": [
-      {
-        "url": "https://fkrt.co/BA3gbL",
-        "label": "Upto 92% Off On Just Herbs Beauty Products"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 92% Off On Just Herbs Beauty Products\n\n👉https://fkrt.co/BA3gbL",
-    "final_url": "https://fkrt.co/BA3gbL",
-    "local_image": "assets/images/tgmsg_17437.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-18T03:35:35+00:00",
-    "buy_link": "https://fkrt.co/BA3gbL",
-    "date_iso": "2025-11-18T03:35:35+00:00"
   }
 ]
