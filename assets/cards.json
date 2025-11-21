@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17966",
+    "title": "HP Wireless Mouse & Keyboard Combo @ 880",
+    "description": "Amazon | HP Wireless Mouse & Keyboard Combo @ 880. https://www.amazon.in/dp/B0CJM366ST?smid=&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CJM366ST?smid=&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CJM366ST?smid=&tag=bestpricezo0f-21",
+        "label": "HP Wireless Mouse & Keyboard Combo @ 880"
+      }
+    ],
+    "raw_text": "Amazon | HP Wireless Mouse & Keyboard Combo @ 880.\n\nhttps://www.amazon.in/dp/B0CJM366ST?smid=&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CJM366ST?smid=&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_17966.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-21T19:06:10+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CJM366ST?smid=&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-21T19:06:10+00:00"
+  },
+  {
     "id": "msg17953",
     "title": "Deal Price ₹880 ₹1999",
     "description": "Amazon | HP KM200 Wireless Mouse and Keyboard Combo, Full-Size Ergono... Deal Price: ₹880 ₹1999",
@@ -8634,25 +8654,5 @@
     "date_obj": "2025-11-18T15:11:18+00:00",
     "buy_link": "https://fkrt.co/B91ui4",
     "date_iso": "2025-11-18T15:11:18+00:00"
-  },
-  {
-    "id": "msg17521",
-    "title": "Pillows From 167",
-    "description": "Myntra  Pillows From 167. https://myntr.in/oigMCt",
-    "shortlink": "https://myntr.in/oigMCt",
-    "urls": [
-      {
-        "url": "https://myntr.in/oigMCt",
-        "label": "Myntra Pillows From 167"
-      }
-    ],
-    "raw_text": "Myntra  Pillows From 167.\n\nhttps://myntr.in/oigMCt",
-    "final_url": "https://myntr.in/oigMCt",
-    "local_image": "assets/images/tgmsg_17521.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-18T14:50:50+00:00",
-    "buy_link": "https://myntr.in/oigMCt",
-    "date_iso": "2025-11-18T14:50:50+00:00"
   }
 ]
