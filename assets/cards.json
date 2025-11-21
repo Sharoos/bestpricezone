@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg17929",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
+    "description": "Ajio | 👟 Reebok Men's Shoes – Starts at ₹800 👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/UjvTOi",
+    "urls": [
+      {
+        "url": "https://ajiio.co/UjvTOi",
+        "label": "👟 Reebok Men's Shoes – Starts at ₹800"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "Ajio | 👟 Reebok Men's Shoes – Starts at ₹800\n\n👉 https://ajiio.co/UjvTOi\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/UjvTOi",
+    "local_image": "assets/images/tgmsg_17929.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-21T14:46:12+00:00",
+    "buy_link": "https://ajiio.co/UjvTOi",
+    "date_iso": "2025-11-21T14:46:12+00:00"
+  },
+  {
     "id": "msg17926",
     "title": "Double Fitted Bedsheets under 499/",
     "description": "Myntra | - Single Fitted Bedsheets under 499/- Jaipuri Cotton bedsheets under 699/- Trendy Set of 2 Long Door Curtains starting 1499/-",
@@ -8650,61 +8674,5 @@
     "date_obj": "2025-11-18T10:10:15+00:00",
     "buy_link": "https://bitli.in/WrxVm76",
     "date_iso": "2025-11-18T10:10:15+00:00"
-  },
-  {
-    "id": "msg17492",
-    "title": "💳 Get Up to 50% Off + Extra 7.5% Instant Discount With HSBC🏷",
-    "description": "🔥 Reliance Digital Year End Sale 🔥 💳 Get Upto 50% Off + Extra 7.5% Instant Discount With HSBC🏷 🎯 Top Deals On : 🖥 Latest Laptops & Tablets 📱 Bestselling Smartphones 🎧 Headphones & Earbuds ⌚️ Smartwatches & Fitness Bands…",
-    "shortlink": "https://extp.in/6ACePX",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Reliance Digital Year End Sale 🔥"
-      },
-      {
-        "url": "",
-        "label": "💳 Get Upto 50% Off + Extra 7.5% Instant Discount With HSBC🏷"
-      },
-      {
-        "url": "",
-        "label": "🎯 Top Deals On"
-      },
-      {
-        "url": "",
-        "label": "🖥 Latest Laptops & Tablets"
-      },
-      {
-        "url": "",
-        "label": "📱 Bestselling Smartphones"
-      },
-      {
-        "url": "",
-        "label": "🎧 Headphones & Earbuds"
-      },
-      {
-        "url": "",
-        "label": "⌚️ Smartwatches & Fitness Bands"
-      },
-      {
-        "url": "",
-        "label": "📺 Smart TVs & Home Appliances"
-      },
-      {
-        "url": "https://extp.in/6ACePX",
-        "label": "Shop Now"
-      },
-      {
-        "url": "",
-        "label": "⚡️ Shop the hottest tech at the best prices – Limited Time Only!"
-      }
-    ],
-    "raw_text": "🔥 Reliance Digital Year End Sale 🔥\n\n💳 Get Upto 50% Off + Extra 7.5% Instant Discount With HSBC🏷\n\n🎯 Top Deals On :\n🖥 Latest Laptops & Tablets\n📱 Bestselling Smartphones\n🎧 Headphones & Earbuds\n⌚️ Smartwatches & Fitness Bands\n📺 Smart TVs & Home Appliances\n\n👉 Shop Now : https://extp.in/6ACePX\n\n⚡️ Shop the hottest tech at the best prices – Limited Time Only!",
-    "final_url": "https://extp.in/6ACePX",
-    "local_image": "assets/images/tgmsg_17492.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-18T10:20:13+00:00",
-    "buy_link": "https://extp.in/6ACePX",
-    "date_iso": "2025-11-18T10:20:13+00:00"
   }
 ]
