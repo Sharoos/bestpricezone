@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg17934",
+    "title": "TIARAA Bracelet Offe",
+    "description": "TIARAA Loot: Bracelet Offer Grab any 3 Bracelets @199 INR (including shipping) ✅Use Code: LOOT3 Link:",
+    "shortlink": "https://bitli.in/oDFdxTe",
+    "urls": [
+      {
+        "url": "",
+        "label": "Bracelet Offer"
+      },
+      {
+        "url": "",
+        "label": "Grab any 3 Bracelets @199 INR (including shipping)"
+      },
+      {
+        "url": "https://bitli.in/oDFdxTe",
+        "label": "✅Use Code: LOOT3"
+      }
+    ],
+    "raw_text": "TIARAA Loot: Bracelet Offer\n\nGrab any 3 Bracelets @199 INR (including shipping)\n\n✅Use Code: LOOT3\n\nLink: https://bitli.in/oDFdxTe",
+    "final_url": "https://bitli.in/oDFdxTe",
+    "local_image": "assets/images/tgmsg_17934.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-11-21T15:32:18+00:00",
+    "buy_link": "https://bitli.in/oDFdxTe",
+    "date_iso": "2025-11-21T15:32:18+00:00"
+  },
+  {
     "id": "msg17930",
     "title": "Up to 85% Off On Vero Moda & ONLY Women Clothing",
     "description": "Ajio | Upto 85% Off On Vero Moda & ONLY Women Clothing. https://ajiio.co/Ytbyho https://ajiio.co/8T2whk Jeans : https://ajiio.co/dH73B7",
@@ -8682,25 +8710,5 @@
     "date_obj": "2025-11-18T10:40:15+00:00",
     "buy_link": "https://www.amazon.in/s?k=Symbol%252BWomen%252BQuilted%252BJacket&i=apparel&srs=1571271031&rh=p_89%253AAmazon_Brand_-%25253Cem%25253EEden%25253C%25252Fem%25253E&s=price-asc-rank&tag=bestpricezo0f-21",
     "date_iso": "2025-11-18T10:40:15+00:00"
-  },
-  {
-    "id": "msg17494",
-    "title": "Up to 85% Off On Levi's Sneake",
-    "description": "Amazon | Upto 85% Off On Levi's Sneakers. 👉https://www.amazon.in/s?k=Levi%2527s%2520Men%2520Sneaker&i=shoes&s=price-asc-rank&ds=v1%253AP%252FNyvHf1NQZq8kfQzg7sr27jd7cL367rba3yJSfDc4k&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/s?k=Levi%2527s%2520Men%2520Sneaker&i=shoes&s=price-asc-rank&ds=v1%253AP%252FNyvHf1NQZq8kfQzg7sr27jd7cL367rba3yJSfDc4k&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?k=Levi%2527s%2520Men%2520Sneaker&i=shoes&s=price-asc-rank&ds=v1%253AP%252FNyvHf1NQZq8kfQzg7sr27jd7cL367rba3yJSfDc4k&tag=bestpricezo0f-21",
-        "label": "Upto 85% Off On Levi's Sneakers"
-      }
-    ],
-    "raw_text": "Amazon | Upto 85% Off On Levi's Sneakers.\n\n👉https://www.amazon.in/s?k=Levi%2527s%2520Men%2520Sneaker&i=shoes&s=price-asc-rank&ds=v1%253AP%252FNyvHf1NQZq8kfQzg7sr27jd7cL367rba3yJSfDc4k&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/s?k=Levi%2527s%2520Men%2520Sneaker&i=shoes&s=price-asc-rank&ds=v1%253AP%252FNyvHf1NQZq8kfQzg7sr27jd7cL367rba3yJSfDc4k&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17494.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-18T10:50:27+00:00",
-    "buy_link": "https://www.amazon.in/s?k=Levi%2527s%2520Men%2520Sneaker&i=shoes&s=price-asc-rank&ds=v1%253AP%252FNyvHf1NQZq8kfQzg7sr27jd7cL367rba3yJSfDc4k&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-18T10:50:27+00:00"
   }
 ]
