@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17982",
+    "title": "Beardo perfumes at Min. 71% off",
+    "description": "Myntra | Beardo perfumes at Min. 71% off Link : https://myntr.in/hk79KJ",
+    "shortlink": "https://myntr.in/hk79KJ",
+    "urls": [
+      {
+        "url": "https://myntr.in/hk79KJ",
+        "label": "Beardo perfumes at Min. 71% off"
+      }
+    ],
+    "raw_text": "Myntra | Beardo perfumes at Min. 71% off\n\nLink : https://myntr.in/hk79KJ",
+    "final_url": "https://myntr.in/hk79KJ",
+    "local_image": "assets/images/tgmsg_17982.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-22T05:45:42+00:00",
+    "buy_link": "https://myntr.in/hk79KJ",
+    "date_iso": "2025-11-22T05:45:42+00:00"
+  },
+  {
     "id": "msg17978",
     "title": "Up to 3% Rio Coins back on UPI & Card Spends 💰",
     "description": "Apply for the Lifetime FREE RIO Credit Card & Earn assured cashback on EVERY Scan & Swipe 🔥🔥 👉 Apply Now: Benefits: • 1+1 Movie Tickets on District & BookMyShow 🎬 • Flat ₹150 Off on Zomato 🍕 • 40% Off on Swiggy Food &…",
@@ -8678,41 +8698,5 @@
     "date_obj": "2025-11-18T17:26:12+00:00",
     "buy_link": "https://ajiio.co/zxw0ct",
     "date_iso": "2025-11-18T17:26:12+00:00"
-  },
-  {
-    "id": "msg17534",
-    "title": "Up to 65% Off!",
-    "description": "Myntra | 👟 Puma Clothing & Footwear - Up to 65% Off! Men's: https://myntr.in/BditPz Women's: https://myntr.in/nURZ19 Boys: https://myntr.in/hjnaru Girls: https://myntr.in/ZJrJxA",
-    "shortlink": "https://myntr.in/BditPz",
-    "urls": [
-      {
-        "url": "",
-        "label": "👟 Puma Clothing & Footwear - Up to 65% Off!"
-      },
-      {
-        "url": "https://myntr.in/BditPz",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/nURZ19",
-        "label": "Women's"
-      },
-      {
-        "url": "https://myntr.in/hjnaru",
-        "label": "Boys"
-      },
-      {
-        "url": "https://myntr.in/ZJrJxA",
-        "label": "Girls"
-      }
-    ],
-    "raw_text": "Myntra | 👟 Puma Clothing & Footwear - Up to 65% Off!\n\nMen's: https://myntr.in/BditPz\nWomen's: https://myntr.in/nURZ19\nBoys: https://myntr.in/hjnaru\nGirls: https://myntr.in/ZJrJxA",
-    "final_url": "https://myntr.in/BditPz",
-    "local_image": "assets/images/tgmsg_17534.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-18T16:56:37+00:00",
-    "buy_link": "https://myntr.in/BditPz",
-    "date_iso": "2025-11-18T16:56:37+00:00"
   }
 ]
