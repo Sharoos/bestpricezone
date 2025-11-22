@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg17996",
+    "title": "78% Off + Coupons !!!",
+    "description": "Myntra | Nautica comforters - 78% Off + Coupons !!! 👉 https://myntr.in/VHs8MT",
+    "shortlink": "https://myntr.in/VHs8MT",
+    "urls": [
+      {
+        "url": "https://myntr.in/VHs8MT",
+        "label": "Nautica comforters - 78% Off + Coupons !!!"
+      }
+    ],
+    "raw_text": "Myntra | Nautica comforters - 78% Off + Coupons !!!\n\n👉 https://myntr.in/VHs8MT",
+    "final_url": "https://myntr.in/VHs8MT",
+    "local_image": "assets/images/tgmsg_17996.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-22T09:33:54+00:00",
+    "buy_link": "https://myntr.in/VHs8MT",
+    "date_iso": "2025-11-22T09:33:54+00:00"
+  },
+  {
     "id": "msg17994",
     "title": "@ 45 Himalaya Herbals Pencil Kajal",
     "description": "Amazon  @ 45 | Himalaya Herbals Pencil Kajal 👉 https://www.amazon.in/dp/B00791FM42?psc=1&th=1&tag=bestpricezo0f-21 Min Buy 2 Qty",
@@ -8686,25 +8706,5 @@
     "date_obj": "2025-11-18T18:49:12+00:00",
     "buy_link": "https://myntr.in/zypLPh",
     "date_iso": "2025-11-18T18:49:12+00:00"
-  },
-  {
-    "id": "msg17553",
-    "title": "Lifelong tumbler at 699",
-    "description": "Myntra | Lifelong tumbler at 699 https://myntr.in/ThULU8",
-    "shortlink": "https://myntr.in/ThULU8",
-    "urls": [
-      {
-        "url": "https://myntr.in/ThULU8",
-        "label": "Lifelong tumbler at 699"
-      }
-    ],
-    "raw_text": "Myntra | Lifelong tumbler at 699\n\nhttps://myntr.in/ThULU8",
-    "final_url": "https://myntr.in/ThULU8",
-    "local_image": "assets/images/tgmsg_17553.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-18T18:51:19+00:00",
-    "buy_link": "https://myntr.in/ThULU8",
-    "date_iso": "2025-11-18T18:51:19+00:00"
   }
 ]
