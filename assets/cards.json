@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg17969",
+    "title": "Jacket @ ₹499",
+    "description": "Flipkart | Winter-Ready Men’s Style Picks Jacket @ ₹499 https://fkrt.co/rEwoIR Cargos @ ₹573 https://fkrt.co/aBfvDw Shoes @ ₹473 https://fkrt.co/HAHzwO",
+    "shortlink": "https://fkrt.co/rEwoIR",
+    "urls": [
+      {
+        "url": "",
+        "label": "Winter-Ready Men’s Style Picks"
+      },
+      {
+        "url": "https://fkrt.co/rEwoIR",
+        "label": "Jacket @ ₹499"
+      },
+      {
+        "url": "https://fkrt.co/aBfvDw",
+        "label": "Cargos @ ₹573"
+      },
+      {
+        "url": "https://fkrt.co/HAHzwO",
+        "label": "Shoes @ ₹473"
+      }
+    ],
+    "raw_text": "Flipkart | Winter-Ready Men’s Style Picks\n\nJacket @ ₹499\nhttps://fkrt.co/rEwoIR\n\nCargos @ ₹573\nhttps://fkrt.co/aBfvDw\n\nShoes @ ₹473\nhttps://fkrt.co/HAHzwO",
+    "final_url": "https://fkrt.co/rEwoIR",
+    "local_image": "assets/images/tgmsg_17969.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-22T04:01:06+00:00",
+    "buy_link": "https://fkrt.co/rEwoIR",
+    "date_iso": "2025-11-22T04:01:06+00:00"
+  },
+  {
     "id": "msg17966",
     "title": "HP Wireless Mouse & Keyboard Combo @ 880",
     "description": "Amazon | HP Wireless Mouse & Keyboard Combo @ 880. https://www.amazon.in/dp/B0CJM366ST?smid=&tag=bestpricezo0f-21",
@@ -8618,41 +8650,5 @@
     "date_obj": "2025-11-18T15:26:23+00:00",
     "buy_link": "https://myntr.in/mB2BiW",
     "date_iso": "2025-11-18T15:26:23+00:00"
-  },
-  {
-    "id": "msg17523",
-    "title": "Up to 86% Off On HRX Luggage",
-    "description": "Flipkart | Upto 86% Off On HRX Luggage. Small : https://fkrt.co/B91ui4 Medium : https://fkrt.co/UYgCAJ Large : https://fkrt.co/iYCo1v Pack Of 2/3 : https://fkrt.co/4pFeTd",
-    "shortlink": "https://fkrt.co/B91ui4",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 86% Off On HRX Luggage"
-      },
-      {
-        "url": "https://fkrt.co/B91ui4",
-        "label": "Small"
-      },
-      {
-        "url": "https://fkrt.co/UYgCAJ",
-        "label": "Medium"
-      },
-      {
-        "url": "https://fkrt.co/iYCo1v",
-        "label": "Large"
-      },
-      {
-        "url": "https://fkrt.co/4pFeTd",
-        "label": "Pack Of 2/3"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 86% Off On HRX Luggage.\n\nSmall : https://fkrt.co/B91ui4\nMedium : https://fkrt.co/UYgCAJ\nLarge : https://fkrt.co/iYCo1v\n\nPack Of 2/3 : https://fkrt.co/4pFeTd",
-    "final_url": "https://fkrt.co/B91ui4",
-    "local_image": "assets/images/tgmsg_17523.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-18T15:11:18+00:00",
-    "buy_link": "https://fkrt.co/B91ui4",
-    "date_iso": "2025-11-18T15:11:18+00:00"
   }
 ]
