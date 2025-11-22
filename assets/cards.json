@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg18051",
+    "title": "🛒 Deal Price ₹188",
+    "description": "Flipkart | 🖼️ Wallpaper Deal! Premium Wallpapers (500cm) 🛒 Deal Price: ₹188 https://fkrt.co/mz9XVe",
+    "shortlink": "https://fkrt.co/mz9XVe",
+    "urls": [
+      {
+        "url": "",
+        "label": "🖼️ Wallpaper Deal!"
+      },
+      {
+        "url": "",
+        "label": "Premium Wallpapers (500cm)"
+      },
+      {
+        "url": "https://fkrt.co/mz9XVe",
+        "label": "🛒 Deal Price: ₹188"
+      }
+    ],
+    "raw_text": "Flipkart | 🖼️ Wallpaper Deal!\n\nPremium Wallpapers (500cm)\n\n🛒 Deal Price: ₹188\n\nhttps://fkrt.co/mz9XVe",
+    "final_url": "https://fkrt.co/mz9XVe",
+    "local_image": "assets/images/tgmsg_18051.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-22T16:48:38+00:00",
+    "buy_link": "https://fkrt.co/mz9XVe",
+    "date_iso": "2025-11-22T16:48:38+00:00"
+  },
+  {
     "id": "msg18050",
     "title": "Up to 91% Off On Just Herbs Beauty Product",
     "description": "Flipkart | Upto 91% Off On Just Herbs Beauty Products 👉https://fkrt.co/sb1ntv",
@@ -8790,29 +8818,5 @@
     "date_obj": "2025-11-19T08:50:15+00:00",
     "buy_link": "https://extp.in/KezT9X",
     "date_iso": "2025-11-19T08:50:15+00:00"
-  },
-  {
-    "id": "msg17618",
-    "title": "Flat 70% Off On Van Heusen Men's Sweatshirt",
-    "description": "Myntra | Flat 70% Off On Van Heusen Men's Sweatshirts. 👉 https://myntr.in/CAoYg6 Jackets : https://myntr.in/29J7w4",
-    "shortlink": "https://myntr.in/CAoYg6",
-    "urls": [
-      {
-        "url": "https://myntr.in/CAoYg6",
-        "label": "Flat 70% Off On Van Heusen Men's Sweatshirts"
-      },
-      {
-        "url": "https://myntr.in/29J7w4",
-        "label": "Jackets"
-      }
-    ],
-    "raw_text": "Myntra | Flat 70% Off On Van Heusen Men's Sweatshirts.\n\n👉 https://myntr.in/CAoYg6\n\nJackets : https://myntr.in/29J7w4",
-    "final_url": "https://myntr.in/CAoYg6",
-    "local_image": "assets/images/tgmsg_17618.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-19T08:01:00+00:00",
-    "buy_link": "https://myntr.in/CAoYg6",
-    "date_iso": "2025-11-19T08:01:00+00:00"
   }
 ]
