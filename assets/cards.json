@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg17973",
+    "title": "Up to 65% Off!",
+    "description": "Myntra | 👟 Puma Clothing & Footwear - Up to 65% Off! Men's: https://myntr.in/ilVV2X Women's: https://myntr.in/cvBgEN Boys: https://myntr.in/ToYzfe Girls: https://myntr.in/H6OrbV",
+    "shortlink": "https://myntr.in/ilVV2X",
+    "urls": [
+      {
+        "url": "",
+        "label": "👟 Puma Clothing & Footwear - Up to 65% Off!"
+      },
+      {
+        "url": "https://myntr.in/ilVV2X",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/cvBgEN",
+        "label": "Women's"
+      },
+      {
+        "url": "https://myntr.in/ToYzfe",
+        "label": "Boys"
+      },
+      {
+        "url": "https://myntr.in/H6OrbV",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "Myntra | 👟 Puma Clothing & Footwear - Up to 65% Off!\n\nMen's: https://myntr.in/ilVV2X\nWomen's: https://myntr.in/cvBgEN\nBoys: https://myntr.in/ToYzfe\nGirls: https://myntr.in/H6OrbV",
+    "final_url": "https://myntr.in/ilVV2X",
+    "local_image": "assets/images/tgmsg_17973.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-22T04:45:43+00:00",
+    "buy_link": "https://myntr.in/ilVV2X",
+    "date_iso": "2025-11-22T04:45:43+00:00"
+  },
+  {
     "id": "msg17970",
     "title": "💥Topwear Min 80% OFF",
     "description": "💥AJIO : Topwear Min 80% OFF Link : https://ajiio.co/dQku6b",
@@ -8618,25 +8654,5 @@
     "date_obj": "2025-11-18T16:11:43+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CXM7FCHC?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-18T16:11:43+00:00"
-  },
-  {
-    "id": "msg17532",
-    "title": "Beardo perfumes at Min. 71% off",
-    "description": "Myntra | Beardo perfumes at Min. 71% off Link : https://myntr.in/MAsdQZ",
-    "shortlink": "https://myntr.in/MAsdQZ",
-    "urls": [
-      {
-        "url": "https://myntr.in/MAsdQZ",
-        "label": "Beardo perfumes at Min. 71% off"
-      }
-    ],
-    "raw_text": "Myntra | Beardo perfumes at Min. 71% off\n\nLink : https://myntr.in/MAsdQZ",
-    "final_url": "https://myntr.in/MAsdQZ",
-    "local_image": "assets/images/tgmsg_17532.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-18T16:26:41+00:00",
-    "buy_link": "https://myntr.in/MAsdQZ",
-    "date_iso": "2025-11-18T16:26:41+00:00"
   }
 ]
