@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg18007",
+    "title": "Maybelline New York Liquid Foundation 18ml @143",
+    "description": "Amazon | Bajaj Nomarks Ayurveda Cream 25gm @80. Mn 2 Buy : https://www.amazon.in/dp/B00LY475N6?psc=1&tag=bestpricezo0f-21 Maybelline New York Liquid Foundation 18ml @143. 👉…",
+    "shortlink": "https://www.amazon.in/dp/B00LY475N6?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Bajaj Nomarks Ayurveda Cream 25gm @80"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B00LY475N6?psc=1&tag=bestpricezo0f-21",
+        "label": "Mn 2"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B07L3R68FM?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "Maybelline New York Liquid Foundation 18ml @143"
+      }
+    ],
+    "raw_text": "Amazon | Bajaj Nomarks Ayurveda Cream 25gm @80.\n\nMn 2 Buy : https://www.amazon.in/dp/B00LY475N6?psc=1&tag=bestpricezo0f-21\n\nMaybelline New York Liquid Foundation 18ml @143.\n\n👉 https://www.amazon.in/dp/B07L3R68FM?psc=1&th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B00LY475N6?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_18007.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-22T11:15:12+00:00",
+    "buy_link": "https://www.amazon.in/dp/B00LY475N6?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-22T11:15:12+00:00"
+  },
+  {
     "id": "msg18006",
     "title": "Wrogn Backpacks from Rs.329",
     "description": "Flipkart | Wrogn Backpacks from Rs.329 👉 https://fkrt.co/PDH7U8",
@@ -8746,25 +8774,5 @@
     "date_obj": "2025-11-18T19:01:26+00:00",
     "buy_link": "https://myntr.in/K3cblB",
     "date_iso": "2025-11-18T19:01:26+00:00"
-  },
-  {
-    "id": "msg17561",
-    "title": "Greenchef Black Glass Top 2 Burner Gas Stove at 1199",
-    "description": "Myntra | Greenchef Black Glass Top 2 Burner Gas Stove at 1199 Link : https://myntr.in/35cZLC",
-    "shortlink": "https://myntr.in/35cZLC",
-    "urls": [
-      {
-        "url": "https://myntr.in/35cZLC",
-        "label": "Greenchef Black Glass Top 2 Burner Gas Stove at 1199"
-      }
-    ],
-    "raw_text": "Myntra | Greenchef Black Glass Top 2 Burner Gas Stove at 1199\n\nLink : https://myntr.in/35cZLC",
-    "final_url": "https://myntr.in/35cZLC",
-    "local_image": "assets/images/tgmsg_17561.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-18T19:02:48+00:00",
-    "buy_link": "https://myntr.in/35cZLC",
-    "date_iso": "2025-11-18T19:02:48+00:00"
   }
 ]
