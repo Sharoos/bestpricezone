@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg18001",
+    "title": "Boat powerbank exclusive offers on minimum 15 % off",
+    "description": "Myntra | Boat powerbank exclusive offers on myntra minimum 15 % off 👉 Boat Smartwatches at 10% off 👉 Boat audio at 15% off 👉 Jbl at 10% off 👉",
+    "shortlink": "https://myntr.in/CFrBlb",
+    "urls": [
+      {
+        "url": "https://myntr.in/CFrBlb",
+        "label": "Boat powerbank exclusive offers on myntra minimum 15 % off"
+      },
+      {
+        "url": "https://myntr.in/p6jq2s",
+        "label": "Boat Smartwatches at 10% off"
+      },
+      {
+        "url": "https://myntr.in/lRDIob",
+        "label": "Boat audio at 15% off"
+      },
+      {
+        "url": "https://myntr.in/BMA0Ey",
+        "label": "Jbl at 10% off"
+      }
+    ],
+    "raw_text": "Myntra | Boat powerbank exclusive offers on myntra minimum 15 % off\n👉 https://myntr.in/CFrBlb\n\nBoat Smartwatches at 10% off\n👉 https://myntr.in/p6jq2s\n\nBoat audio at 15% off\n👉 https://myntr.in/lRDIob\n\nJbl at 10% off\n👉 https://myntr.in/BMA0Ey",
+    "final_url": "https://myntr.in/CFrBlb",
+    "local_image": "assets/images/tgmsg_18001.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-22T10:17:23+00:00",
+    "buy_link": "https://myntr.in/CFrBlb",
+    "date_iso": "2025-11-22T10:17:23+00:00"
+  },
+  {
+    "id": "msg18002",
+    "title": "@41",
+    "description": "Loot @41 https://bitli.in/79NsJy3",
+    "shortlink": "https://bitli.in/79NsJy3",
+    "urls": [
+      {
+        "url": "https://bitli.in/79NsJy3",
+        "label": "Loot @41"
+      }
+    ],
+    "raw_text": "Loot @41\n\nhttps://bitli.in/79NsJy3",
+    "final_url": "https://bitli.in/79NsJy3",
+    "local_image": "assets/images/tgmsg_18002.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-11-22T10:22:40+00:00",
+    "buy_link": "https://bitli.in/79NsJy3",
+    "date_iso": "2025-11-22T10:22:40+00:00"
+  },
+  {
     "id": "msg17999",
     "title": "5% Cashback on All Online Spends (No Merchant Restrictions)",
     "description": "SBI Cashback Credit Card 💳 Flat 5% Cashback on All Online Transactions 📌 Apply Now: ✔️ Key Benefits: •  • 1% Cashback on Offline Spends • Max Cashback: ₹5,000/month • Cashback auto-adjusts in your next statement • One…",
@@ -8714,45 +8766,5 @@
     "date_obj": "2025-11-18T19:16:24+00:00",
     "buy_link": "https://myntr.in/LxiuN1",
     "date_iso": "2025-11-18T19:16:24+00:00"
-  },
-  {
-    "id": "msg17576",
-    "title": "DeoDap LED Multicolored Table Lamps just Rs. 99",
-    "description": "Myntra | DeoDap LED Multicolored Table Lamps just Rs. 99 Link : https://myntr.in/vxzQFA",
-    "shortlink": "https://myntr.in/vxzQFA",
-    "urls": [
-      {
-        "url": "https://myntr.in/vxzQFA",
-        "label": "DeoDap LED Multicolored Table Lamps just Rs. 99"
-      }
-    ],
-    "raw_text": "Myntra | DeoDap LED Multicolored Table Lamps just Rs. 99 \n\nLink : https://myntr.in/vxzQFA",
-    "final_url": "https://myntr.in/vxzQFA",
-    "local_image": "assets/images/tgmsg_17576.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-18T19:17:54+00:00",
-    "buy_link": "https://myntr.in/vxzQFA",
-    "date_iso": "2025-11-18T19:17:54+00:00"
-  },
-  {
-    "id": "msg17577",
-    "title": "DeoDap Transparent Plastic Oil Dispenser 1L just Rs. 99",
-    "description": "Myntra | DeoDap Transparent Plastic Oil Dispenser 1L just Rs. 99 Link : https://myntr.in/rf0NhG",
-    "shortlink": "https://myntr.in/rf0NhG",
-    "urls": [
-      {
-        "url": "https://myntr.in/rf0NhG",
-        "label": "DeoDap Transparent Plastic Oil Dispenser 1L just Rs. 99"
-      }
-    ],
-    "raw_text": "Myntra | DeoDap Transparent Plastic Oil Dispenser 1L just Rs. 99 \n\nLink : https://myntr.in/rf0NhG",
-    "final_url": "https://myntr.in/rf0NhG",
-    "local_image": "assets/images/tgmsg_17577.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-18T19:19:16+00:00",
-    "buy_link": "https://myntr.in/rf0NhG",
-    "date_iso": "2025-11-18T19:19:16+00:00"
   }
 ]
