@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18050",
+    "title": "Up to 91% Off On Just Herbs Beauty Product",
+    "description": "Flipkart | Upto 91% Off On Just Herbs Beauty Products 👉https://fkrt.co/sb1ntv",
+    "shortlink": "https://fkrt.co/sb1ntv",
+    "urls": [
+      {
+        "url": "https://fkrt.co/sb1ntv",
+        "label": "Upto 91% Off On Just Herbs Beauty Products"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 91% Off On Just Herbs Beauty Products\n\n👉https://fkrt.co/sb1ntv",
+    "final_url": "https://fkrt.co/sb1ntv",
+    "local_image": "assets/images/tgmsg_18050.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-22T16:18:40+00:00",
+    "buy_link": "https://fkrt.co/sb1ntv",
+    "date_iso": "2025-11-22T16:18:40+00:00"
+  },
+  {
     "id": "msg18049",
     "title": "Men's Jeans Start @₹232",
     "description": "AJIO  : Men's Jeans Start @₹232 👉 https://ajiio.co/jz7CRD",
@@ -8794,29 +8814,5 @@
     "date_obj": "2025-11-19T08:01:00+00:00",
     "buy_link": "https://myntr.in/CAoYg6",
     "date_iso": "2025-11-19T08:01:00+00:00"
-  },
-  {
-    "id": "msg17619",
-    "title": "Min 30% Off on premium eyewear 😎",
-    "description": "Myntra | Guess, Police & more Min 30% Off on premium eyewear 😎 👉 Link : https://myntr.in/ncYhx2",
-    "shortlink": "https://myntr.in/ncYhx2",
-    "urls": [
-      {
-        "url": "",
-        "label": "Guess, Police & more"
-      },
-      {
-        "url": "https://myntr.in/ncYhx2",
-        "label": "Min 30% Off on premium eyewear 😎"
-      }
-    ],
-    "raw_text": "Myntra | Guess, Police & more\n\nMin 30% Off on premium eyewear 😎\n\n👉 Link : https://myntr.in/ncYhx2",
-    "final_url": "https://myntr.in/ncYhx2",
-    "local_image": "assets/images/tgmsg_17619.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-19T08:10:13+00:00",
-    "buy_link": "https://myntr.in/ncYhx2",
-    "date_iso": "2025-11-19T08:10:13+00:00"
   }
 ]
