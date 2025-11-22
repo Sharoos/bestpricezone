@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg18037",
+    "title": "Flat 55% off on Shield Car Wax Shampoo (250 ml) @Rs.250",
+    "description": "Flipkart | Nippon paints Black friday sale  👉Link - Flat 43% off on Shield Glass Cleaner (250 ml) @Rs.224 👉",
+    "shortlink": "https://fkrt.co/N246Zp",
+    "urls": [
+      {
+        "url": "",
+        "label": "Nippon paints Black friday sale"
+      },
+      {
+        "url": "https://fkrt.co/N246Zp",
+        "label": "Flat 55% off on Shield Car Wax Shampoo (250 ml) @Rs.250"
+      },
+      {
+        "url": "https://fkrt.co/hF5aYS",
+        "label": "Flat 43% off on Shield Glass Cleaner (250 ml) @Rs.224"
+      }
+    ],
+    "raw_text": "Flipkart | Nippon paints Black friday sale  \n\nFlat 55% off on Shield Car Wax Shampoo (250 ml) @Rs.250\n\n👉Link - https://fkrt.co/N246Zp\n\nFlat 43% off on Shield Glass Cleaner (250 ml) @Rs.224\n\n👉https://fkrt.co/hF5aYS",
+    "final_url": "https://fkrt.co/N246Zp",
+    "local_image": "assets/images/tgmsg_18037.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-22T14:42:51+00:00",
+    "buy_link": "https://fkrt.co/N246Zp",
+    "date_iso": "2025-11-22T14:42:51+00:00"
+  },
+  {
     "id": "msg18035",
     "title": "🔥Single Fleece Blanket ₹96",
     "description": "🔥Single Fleece Blanket ₹96 https://extp.in/e9auOV Minimum Order 2.",
@@ -8766,25 +8794,5 @@
     "date_obj": "2025-11-19T06:34:39+00:00",
     "buy_link": "https://fkrt.co/yESc6A",
     "date_iso": "2025-11-19T06:34:39+00:00"
-  },
-  {
-    "id": "msg17607",
-    "title": "Doormats & Curtains Starts @107",
-    "description": "Myntra : Doormats & Curtains Starts @107 👉https://myntr.in/cR0BIX",
-    "shortlink": "https://myntr.in/cR0BIX",
-    "urls": [
-      {
-        "url": "https://myntr.in/cR0BIX",
-        "label": "Doormats & Curtains Starts @107"
-      }
-    ],
-    "raw_text": "Myntra : Doormats & Curtains Starts @107\n\n👉https://myntr.in/cR0BIX",
-    "final_url": "https://myntr.in/cR0BIX",
-    "local_image": "assets/images/tgmsg_17607.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-19T06:48:11+00:00",
-    "buy_link": "https://myntr.in/cR0BIX",
-    "date_iso": "2025-11-19T06:48:11+00:00"
   }
 ]
