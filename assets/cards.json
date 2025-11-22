@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg18008",
+    "title": "Up to 89% Off Tokyo Talkies Women's Clothing",
+    "description": "Flipkart | Upto 89% Off Tokyo Talkies Women's Clothing. Sweatshirt : Jacket : Dresses : Jeans : Trousers : Blazers : Jumpsuits :",
+    "shortlink": "https://fkrt.co/g53zE5",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 89% Off Tokyo Talkies Women's Clothing"
+      },
+      {
+        "url": "https://fkrt.co/g53zE5",
+        "label": "Sweatshirt"
+      },
+      {
+        "url": "https://fkrt.co/nt6O1g",
+        "label": "Jacket"
+      },
+      {
+        "url": "https://fkrt.co/rvUhgF",
+        "label": "Dresses"
+      },
+      {
+        "url": "https://fkrt.co/PuJVC2",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://fkrt.co/oI3lFX",
+        "label": "Trousers"
+      },
+      {
+        "url": "https://fkrt.co/GVNr5E",
+        "label": "Blazers"
+      },
+      {
+        "url": "https://fkrt.co/7SwZJy",
+        "label": "Jumpsuits"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 89% Off Tokyo Talkies Women's Clothing.\n\nSweatshirt : https://fkrt.co/g53zE5 \nJacket : https://fkrt.co/nt6O1g\nDresses : https://fkrt.co/rvUhgF \nJeans : https://fkrt.co/PuJVC2 \nTrousers : https://fkrt.co/oI3lFX \nBlazers : https://fkrt.co/GVNr5E \nJumpsuits : https://fkrt.co/7SwZJy",
+    "final_url": "https://fkrt.co/g53zE5",
+    "local_image": "assets/images/tgmsg_18008.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-22T11:33:35+00:00",
+    "buy_link": "https://fkrt.co/g53zE5",
+    "date_iso": "2025-11-22T11:33:35+00:00"
+  },
+  {
     "id": "msg18007",
     "title": "Maybelline New York Liquid Foundation 18ml @143",
     "description": "Amazon | Bajaj Nomarks Ayurveda Cream 25gm @80. Mn 2 Buy : https://www.amazon.in/dp/B00LY475N6?psc=1&tag=bestpricezo0f-21 Maybelline New York Liquid Foundation 18ml @143. 👉…",
@@ -8754,25 +8802,5 @@
     "date_obj": "2025-11-18T18:59:01+00:00",
     "buy_link": "https://myntr.in/9KIVw6",
     "date_iso": "2025-11-18T18:59:01+00:00"
-  },
-  {
-    "id": "msg17560",
-    "title": "Wonderchef Tivoli 3 Pieces Red Cookware Set at 999",
-    "description": "Myntra | Wonderchef Tivoli 3 Pieces Red Cookware Set at 999 https://myntr.in/K3cblB",
-    "shortlink": "https://myntr.in/K3cblB",
-    "urls": [
-      {
-        "url": "https://myntr.in/K3cblB",
-        "label": "Wonderchef Tivoli 3 Pieces Red Cookware Set at 999"
-      }
-    ],
-    "raw_text": "Myntra | Wonderchef Tivoli 3 Pieces Red Cookware Set at 999\n\nhttps://myntr.in/K3cblB",
-    "final_url": "https://myntr.in/K3cblB",
-    "local_image": "assets/images/tgmsg_17560.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-18T19:01:26+00:00",
-    "buy_link": "https://myntr.in/K3cblB",
-    "date_iso": "2025-11-18T19:01:26+00:00"
   }
 ]
