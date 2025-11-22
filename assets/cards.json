@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18038",
+    "title": "Fabflee Women's Clothing Starts At Rs.99",
+    "description": "Myntra : Fabflee Women's Clothing Starts At Rs.99 👉Link : https://myntr.in/vUIz4A",
+    "shortlink": "https://myntr.in/vUIz4A",
+    "urls": [
+      {
+        "url": "https://myntr.in/vUIz4A",
+        "label": "Fabflee Women's Clothing Starts At Rs.99"
+      }
+    ],
+    "raw_text": "Myntra : Fabflee Women's Clothing Starts At Rs.99\n\n👉Link : https://myntr.in/vUIz4A",
+    "final_url": "https://myntr.in/vUIz4A",
+    "local_image": "assets/images/tgmsg_18038.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-22T14:46:21+00:00",
+    "buy_link": "https://myntr.in/vUIz4A",
+    "date_iso": "2025-11-22T14:46:21+00:00"
+  },
+  {
     "id": "msg18037",
     "title": "Flat 55% off on Shield Car Wax Shampoo (250 ml) @Rs.250",
     "description": "Flipkart | Nippon paints Black friday sale  👉Link - Flat 43% off on Shield Glass Cleaner (250 ml) @Rs.224 👉",
@@ -8774,25 +8794,5 @@
     "date_obj": "2025-11-19T07:11:47+00:00",
     "buy_link": "https://www.amazon.in/dp/B0BP7QYDCB?social_share=cm_sw_r_cso_wa_apin_dp_B2XS0EQY76VXSNJA1JPJ&tag=bestpricezo0f-21",
     "date_iso": "2025-11-19T07:11:47+00:00"
-  },
-  {
-    "id": "msg17604",
-    "title": "Milton Spin Mop Set @ ₹779",
-    "description": "Flipkart  Milton Spin Mop Set @  ₹779. https://fkrt.co/yESc6A",
-    "shortlink": "https://fkrt.co/yESc6A",
-    "urls": [
-      {
-        "url": "https://fkrt.co/yESc6A",
-        "label": "Flipkart Milton Spin Mop Set @ ₹779"
-      }
-    ],
-    "raw_text": "Flipkart  Milton Spin Mop Set @  ₹779.\n\n https://fkrt.co/yESc6A",
-    "final_url": "https://fkrt.co/yESc6A",
-    "local_image": "assets/images/tgmsg_17604.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-19T06:34:39+00:00",
-    "buy_link": "https://fkrt.co/yESc6A",
-    "date_iso": "2025-11-19T06:34:39+00:00"
   }
 ]
