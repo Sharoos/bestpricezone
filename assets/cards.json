@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg18052",
+    "title": "🟢 Up to 85% off on HRX Running Shoe",
+    "description": "Myntra 💥💥 🟢 Upto 79% Off On HRX Clogs 🔥 👉 Men's : 👉 Women : 🟢 Upto 85% off on HRX Running Shoes 👉 Women : 👉 Men :",
+    "shortlink": "https://myntr.in/V30oTu",
+    "urls": [
+      {
+        "url": "",
+        "label": "🟢 Upto 79% Off On HRX Clogs 🔥"
+      },
+      {
+        "url": "https://myntr.in/V30oTu",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/OICplE",
+        "label": "Women"
+      },
+      {
+        "url": "",
+        "label": "🟢 Upto 85% off on HRX Running Shoes"
+      },
+      {
+        "url": "https://myntr.in/Yp0FNn",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/fUGAg3",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "Myntra   💥💥\n\n🟢 Upto 79% Off On HRX Clogs 🔥\n👉 Men's : https://myntr.in/V30oTu\n👉 Women : https://myntr.in/OICplE\n\n🟢 Upto 85% off on HRX Running Shoes \n👉 Women : https://myntr.in/Yp0FNn\n👉 Men : https://myntr.in/fUGAg3",
+    "final_url": "https://myntr.in/V30oTu",
+    "local_image": "assets/images/tgmsg_18052.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-22T17:04:11+00:00",
+    "buy_link": "https://myntr.in/V30oTu",
+    "date_iso": "2025-11-22T17:04:11+00:00"
+  },
+  {
     "id": "msg18051",
     "title": "🛒 Deal Price ₹188",
     "description": "Flipkart | 🖼️ Wallpaper Deal! Premium Wallpapers (500cm) 🛒 Deal Price: ₹188 https://fkrt.co/mz9XVe",
@@ -8778,45 +8818,5 @@
     "date_obj": "2025-11-19T08:40:16+00:00",
     "buy_link": "https://myntr.in/mydkcM",
     "date_iso": "2025-11-19T08:40:16+00:00"
-  },
-  {
-    "id": "msg17627",
-    "title": "Coin Discount ₹1,680",
-    "description": "🔥 OPPO F31 Deal Alert! 8GB + 128GB at just ₹18,208 with SBI No-Cost EMI! 📱✨ 💰 Extra Savings : • Coin Discount : ₹1,680 • Coupon Discount : ₹1,200 • Coupon Code : PA10-31-5G 🔗 Deal Link : ⚡️ Grab it before the offer ends!",
-    "shortlink": "https://extp.in/KezT9X",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 OPPO F31 Deal Alert!"
-      },
-      {
-        "url": "",
-        "label": "8GB + 128GB at just ₹18,208 with SBI No-Cost EMI! 📱✨"
-      },
-      {
-        "url": "",
-        "label": "💰 Extra Savings"
-      },
-      {
-        "url": "",
-        "label": "₹1,680"
-      },
-      {
-        "url": "https://extp.in/KezT9X",
-        "label": "🔗 Deal"
-      },
-      {
-        "url": "",
-        "label": "⚡️ Grab it before the offer ends!"
-      }
-    ],
-    "raw_text": "🔥 OPPO F31 Deal Alert!\n\n8GB + 128GB at just ₹18,208 with SBI No-Cost EMI! 📱✨\n\n💰 Extra Savings :\n• Coin Discount : ₹1,680\n• Coupon Discount : ₹1,200\n• Coupon Code : PA10-31-5G\n\n🔗 Deal Link : https://extp.in/KezT9X\n\n⚡️ Grab it before the offer ends!",
-    "final_url": "https://extp.in/KezT9X",
-    "local_image": "assets/images/tgmsg_17627.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-19T08:50:15+00:00",
-    "buy_link": "https://extp.in/KezT9X",
-    "date_iso": "2025-11-19T08:50:15+00:00"
   }
 ]
