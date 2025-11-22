@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg18044",
+    "title": "Killer Rucksacks From ₹649",
+    "description": "Flipkart | Killer Rucksacks From ₹649 👉https://fkrt.co/FuzLGq",
+    "shortlink": "https://fkrt.co/FuzLGq",
+    "urls": [
+      {
+        "url": "https://fkrt.co/FuzLGq",
+        "label": "Killer Rucksacks From ₹649"
+      }
+    ],
+    "raw_text": "Flipkart | Killer Rucksacks From ₹649\n\n👉https://fkrt.co/FuzLGq",
+    "final_url": "https://fkrt.co/FuzLGq",
+    "local_image": "assets/images/tgmsg_18044.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-22T15:32:54+00:00",
+    "buy_link": "https://fkrt.co/FuzLGq",
+    "date_iso": "2025-11-22T15:32:54+00:00"
+  },
+  {
+    "id": "msg18046",
+    "title": "Premium Blanket At 1019",
+    "description": "Myntra : Premium Blanket At 1019. https://myntr.in/Vw4Z8h More : https://myntr.in/8ueeNW",
+    "shortlink": "https://myntr.in/Vw4Z8h",
+    "urls": [
+      {
+        "url": "https://myntr.in/Vw4Z8h",
+        "label": "Premium Blanket At 1019"
+      },
+      {
+        "url": "https://myntr.in/8ueeNW",
+        "label": "More"
+      }
+    ],
+    "raw_text": "Myntra : Premium Blanket At 1019.\n\nhttps://myntr.in/Vw4Z8h\n\nMore : https://myntr.in/8ueeNW",
+    "final_url": "https://myntr.in/Vw4Z8h",
+    "local_image": "assets/images/tgmsg_18046.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-22T15:40:06+00:00",
+    "buy_link": "https://myntr.in/Vw4Z8h",
+    "date_iso": "2025-11-22T15:40:06+00:00"
+  },
+  {
     "id": "msg18042",
     "title": "Up to 75% Off On Engage Deodorant",
     "description": "Flipkart | Upto 75% Off On Engage Deodorant 👉https://fkrt.co/5JH0Zr",
@@ -8754,49 +8798,5 @@
     "date_obj": "2025-11-19T07:50:26+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CSSX8L1R?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-19T07:50:26+00:00"
-  },
-  {
-    "id": "msg17614",
-    "title": "Men Branded Sweatshirt From ₹240",
-    "description": "Flipkart | Men Branded Sweatshirt From ₹240 👉 https://fkrt.co/NoqAnL",
-    "shortlink": "https://fkrt.co/NoqAnL",
-    "urls": [
-      {
-        "url": "https://fkrt.co/NoqAnL",
-        "label": "Men Branded Sweatshirt From ₹240"
-      }
-    ],
-    "raw_text": "Flipkart | Men Branded Sweatshirt From ₹240\n\n👉 https://fkrt.co/NoqAnL",
-    "final_url": "https://fkrt.co/NoqAnL",
-    "local_image": "assets/images/tgmsg_17614.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-19T07:36:12+00:00",
-    "buy_link": "https://fkrt.co/NoqAnL",
-    "date_iso": "2025-11-19T07:36:12+00:00"
-  },
-  {
-    "id": "msg17615",
-    "title": "Pay For 1 & Get 1 Free + 2 Extra Freebie on Every Orde",
-    "description": "mCaffeine  Buy 1 & Get 3 Free 🤩🤩🤩 Pay For 1 & Get 1 Free + 2 Extra Freebie on Every Order 👉 Link : https://extp.in/j29wQV Live for 3 Hrs ONLY",
-    "shortlink": "https://extp.in/j29wQV",
-    "urls": [
-      {
-        "url": "https://extp.in/j29wQV",
-        "label": "Pay For 1 & Get 1 Free + 2 Extra Freebie on Every Order"
-      },
-      {
-        "url": "",
-        "label": "Live for 3 Hrs ONLY"
-      }
-    ],
-    "raw_text": "mCaffeine  Buy 1 & Get 3 Free 🤩🤩🤩\n\nPay For 1 & Get 1 Free + 2 Extra Freebie on Every Order\n\n👉 Link : https://extp.in/j29wQV\n\nLive for 3 Hrs ONLY",
-    "final_url": "https://extp.in/j29wQV",
-    "local_image": "assets/images/tgmsg_17615.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-19T07:40:08+00:00",
-    "buy_link": "https://extp.in/j29wQV",
-    "date_iso": "2025-11-19T07:40:08+00:00"
   }
 ]
