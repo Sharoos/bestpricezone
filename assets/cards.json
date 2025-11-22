@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18035",
+    "title": "🔥Single Fleece Blanket ₹96",
+    "description": "🔥Single Fleece Blanket ₹96 https://extp.in/e9auOV Minimum Order 2.",
+    "shortlink": "https://extp.in/e9auOV",
+    "urls": [
+      {
+        "url": "https://extp.in/e9auOV",
+        "label": "🔥Single Fleece Blanket ₹96"
+      },
+      {
+        "url": "",
+        "label": "Minimum Order 2"
+      }
+    ],
+    "raw_text": "🔥Single Fleece Blanket ₹96\n\nhttps://extp.in/e9auOV\n\nMinimum Order 2.",
+    "final_url": "https://extp.in/e9auOV",
+    "local_image": "assets/images/tgmsg_18035.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-11-22T14:25:55+00:00",
+    "buy_link": "https://extp.in/e9auOV",
+    "date_iso": "2025-11-22T14:25:55+00:00"
+  },
+  {
     "id": "msg18031",
     "title": "JAVIRO Toilet Cleaner Liquid 5L @188",
     "description": "JAVIRO Toilet Cleaner Liquid 5L @188 https://fkrt.co/o1VlVC",
@@ -8762,29 +8786,5 @@
     "date_obj": "2025-11-19T06:48:11+00:00",
     "buy_link": "https://myntr.in/cR0BIX",
     "date_iso": "2025-11-19T06:48:11+00:00"
-  },
-  {
-    "id": "msg17608",
-    "title": "Pay For 1 & Get 1 Free + 2 Extra Freebie on Every Orde",
-    "description": "mCaffeine Loot : *Buy 1 & Get 3 Free 🤩🤩🤩* Pay For 1 & Get 1 Free + 2 Extra Freebie on Every Order https://bitli.in/BJ969tB Live for 3 Hrs ONLY",
-    "shortlink": "https://bitli.in/BJ969tB",
-    "urls": [
-      {
-        "url": "https://bitli.in/BJ969tB",
-        "label": "Pay For 1 & Get 1 Free + 2 Extra Freebie on Every Order"
-      },
-      {
-        "url": "",
-        "label": "Live for 3 Hrs ONLY"
-      }
-    ],
-    "raw_text": "mCaffeine Loot : *Buy 1 & Get 3 Free 🤩🤩🤩*\n\nPay For 1 & Get 1 Free + 2 Extra Freebie on Every Order\n\nhttps://bitli.in/BJ969tB\n\nLive for 3 Hrs ONLY",
-    "final_url": "https://bitli.in/BJ969tB",
-    "local_image": "assets/images/tgmsg_17608.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-11-19T06:53:19+00:00",
-    "buy_link": "https://bitli.in/BJ969tB",
-    "date_iso": "2025-11-19T06:53:19+00:00"
   }
 ]
