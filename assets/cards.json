@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18042",
+    "title": "Up to 75% Off On Engage Deodorant",
+    "description": "Flipkart | Upto 75% Off On Engage Deodorant 👉https://fkrt.co/5JH0Zr",
+    "shortlink": "https://fkrt.co/5JH0Zr",
+    "urls": [
+      {
+        "url": "https://fkrt.co/5JH0Zr",
+        "label": "Upto 75% Off On Engage Deodorant"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 75% Off On Engage Deodorant\n\n👉https://fkrt.co/5JH0Zr",
+    "final_url": "https://fkrt.co/5JH0Zr",
+    "local_image": "assets/images/tgmsg_18042.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-22T15:18:30+00:00",
+    "buy_link": "https://fkrt.co/5JH0Zr",
+    "date_iso": "2025-11-22T15:18:30+00:00"
+  },
+  {
     "id": "msg18039",
     "title": "Steve Madden, Dune London min 50%",
     "description": "Ajio | Steve Madden, Dune London min 50% https://ajiio.co/JtVzHA Guess Min 40% https://ajiio.co/FqphaL",
@@ -8778,25 +8798,5 @@
     "date_obj": "2025-11-19T07:40:08+00:00",
     "buy_link": "https://extp.in/j29wQV",
     "date_iso": "2025-11-19T07:40:08+00:00"
-  },
-  {
-    "id": "msg17613",
-    "title": "Jewellery Up to 90% off",
-    "description": "Flipkart | Jewellery Upto 90% off https://fkrt.co/jnnv8G",
-    "shortlink": "https://fkrt.co/jnnv8G",
-    "urls": [
-      {
-        "url": "https://fkrt.co/jnnv8G",
-        "label": "Jewellery Upto 90% off"
-      }
-    ],
-    "raw_text": "Flipkart | Jewellery Upto 90% off \n\nhttps://fkrt.co/jnnv8G",
-    "final_url": "https://fkrt.co/jnnv8G",
-    "local_image": "assets/images/tgmsg_17613.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-19T07:20:28+00:00",
-    "buy_link": "https://fkrt.co/jnnv8G",
-    "date_iso": "2025-11-19T07:20:28+00:00"
   }
 ]
