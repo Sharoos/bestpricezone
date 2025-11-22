@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18060",
+    "title": "Doe buck Min 40% off on all the style",
+    "description": "Myntra | Doe buck Min 40% off on all the styles 👉Link : https://myntr.in/JODPop",
+    "shortlink": "https://myntr.in/JODPop",
+    "urls": [
+      {
+        "url": "https://myntr.in/JODPop",
+        "label": "Doe buck Min 40% off on all the styles"
+      }
+    ],
+    "raw_text": "Myntra | Doe buck Min 40% off on all the styles \n\n👉Link : https://myntr.in/JODPop",
+    "final_url": "https://myntr.in/JODPop",
+    "local_image": "assets/images/tgmsg_18060.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-22T18:03:31+00:00",
+    "buy_link": "https://myntr.in/JODPop",
+    "date_iso": "2025-11-22T18:03:31+00:00"
+  },
+  {
     "id": "msg18059",
     "title": "Up to 75% Off On Kid’s Clothing",
     "description": "Myntra : Upto 75% Off On Kid’s Clothing. Boys : https://myntr.in/np3I0g Girls : https://myntr.in/qw5KQW",
@@ -8938,29 +8958,5 @@
     "date_obj": "2025-11-19T09:17:47+00:00",
     "buy_link": "https://www.amazon.in/dp/B0G2BTRCBN?social_share=cm_sw_r_cso_wa_apin_dp_31ZT7NWKEMTKFM35A2TR&tag=bestpricezo0f-21",
     "date_iso": "2025-11-19T09:17:47+00:00"
-  },
-  {
-    "id": "msg17632",
-    "title": "Men Shorts Starts @ 187",
-    "description": "Myntra | Men Shorts Starts @ 187. 👉 https://myntr.in/OdJqtz Scroll down, pack of 2 @ 283.",
-    "shortlink": "https://myntr.in/OdJqtz",
-    "urls": [
-      {
-        "url": "https://myntr.in/OdJqtz",
-        "label": "Men Shorts Starts @ 187"
-      },
-      {
-        "url": "",
-        "label": "Scroll down, pack of 2 @ 283"
-      }
-    ],
-    "raw_text": "Myntra | Men Shorts Starts @ 187.\n\n👉 https://myntr.in/OdJqtz\n\nScroll down, pack of 2 @ 283.",
-    "final_url": "https://myntr.in/OdJqtz",
-    "local_image": "assets/images/tgmsg_17632.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-19T09:22:26+00:00",
-    "buy_link": "https://myntr.in/OdJqtz",
-    "date_iso": "2025-11-19T09:22:26+00:00"
   }
 ]
