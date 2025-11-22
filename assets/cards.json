@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg17992",
+    "title": "Up to 85% Off On Reebok Clothing",
+    "description": "Myntra | Upto 85% Off On Reebok Clothing. Women : https://myntr.in/7zg0ak Men : https://myntr.in/9p1TL6 Jackets : https://myntr.in/5laVpU",
+    "shortlink": "https://myntr.in/7zg0ak",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% Off On Reebok Clothing"
+      },
+      {
+        "url": "https://myntr.in/7zg0ak",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/9p1TL6",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/5laVpU",
+        "label": "Jackets"
+      }
+    ],
+    "raw_text": "Myntra | Upto 85% Off On Reebok Clothing.\n\nWomen : https://myntr.in/7zg0ak\n\nMen : https://myntr.in/9p1TL6\nJackets : https://myntr.in/5laVpU",
+    "final_url": "https://myntr.in/7zg0ak",
+    "local_image": "assets/images/tgmsg_17992.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-22T09:02:02+00:00",
+    "buy_link": "https://myntr.in/7zg0ak",
+    "date_iso": "2025-11-22T09:02:02+00:00"
+  },
+  {
     "id": "msg17991",
     "title": "Presto! Ultra Strong Disinfectant Toilet Cleaner 3L @325",
     "description": "Amazon | Presto! Ultra Strong Disinfectant Toilet Cleaner 3L @325 👉 https://www.amazon.in/dp/B0F2TFF3YM?th=1&tag=bestpricezo0f-21",
@@ -8674,25 +8706,5 @@
     "date_obj": "2025-11-18T18:54:02+00:00",
     "buy_link": "https://myntr.in/axqW8h",
     "date_iso": "2025-11-18T18:54:02+00:00"
-  },
-  {
-    "id": "msg17556",
-    "title": "Havells Caro 1.5L cool touch kettle at 1199. Lowest across!",
-    "description": "Myntra | Havells Caro 1.5L cool touch kettle at 1199. Lowest across! https://myntr.in/Sizm36",
-    "shortlink": "https://myntr.in/Sizm36",
-    "urls": [
-      {
-        "url": "https://myntr.in/Sizm36",
-        "label": "Havells Caro 1.5L cool touch kettle at 1199. Lowest across!"
-      }
-    ],
-    "raw_text": "Myntra | Havells Caro 1.5L cool touch kettle at 1199. Lowest across! \n\nhttps://myntr.in/Sizm36",
-    "final_url": "https://myntr.in/Sizm36",
-    "local_image": "assets/images/tgmsg_17556.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-18T18:55:41+00:00",
-    "buy_link": "https://myntr.in/Sizm36",
-    "date_iso": "2025-11-18T18:55:41+00:00"
   }
 ]
