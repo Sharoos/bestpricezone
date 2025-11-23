@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18114",
+    "title": "Up to 75% Off On Chemistry Women's Top",
+    "description": "Flipkart | Upto 75% Off On Chemistry Women's Tops. 👉Link : https://fkrt.co/BoiN5B",
+    "shortlink": "https://fkrt.co/BoiN5B",
+    "urls": [
+      {
+        "url": "https://fkrt.co/BoiN5B",
+        "label": "Upto 75% Off On Chemistry Women's Tops"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 75% Off On Chemistry Women's Tops.\n\n👉Link : https://fkrt.co/BoiN5B",
+    "final_url": "https://fkrt.co/BoiN5B",
+    "local_image": "assets/images/tgmsg_18114.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-23T10:31:53+00:00",
+    "buy_link": "https://fkrt.co/BoiN5B",
+    "date_iso": "2025-11-23T10:31:53+00:00"
+  },
+  {
     "id": "msg18111",
     "title": "Home Accessories Starts at Rs.189",
     "description": "Amazon GRAB : Home Accessories Starts at Rs.189. https://www.amazon.in/s?hidden-keywords=B0BT227HZX%7CB0FBNKT7WP%7CB0FBRVNYJB%7CB0DQCSY7DG&tag=bestpricezo0f-21&",
@@ -8878,25 +8898,5 @@
     "date_obj": "2025-11-19T14:48:38+00:00",
     "buy_link": "https://myntr.in/Y5F5yS",
     "date_iso": "2025-11-19T14:48:38+00:00"
-  },
-  {
-    "id": "msg17676",
-    "title": "Face Moisturisers Starting @ just ₹99",
-    "description": "Myntra | Face Moisturisers Starting @ just ₹99 Link : https://myntr.in/bEjuV1",
-    "shortlink": "https://myntr.in/bEjuV1",
-    "urls": [
-      {
-        "url": "https://myntr.in/bEjuV1",
-        "label": "Face Moisturisers Starting @ just ₹99"
-      }
-    ],
-    "raw_text": "Myntra | Face Moisturisers Starting @ just ₹99\n \nLink : https://myntr.in/bEjuV1",
-    "final_url": "https://myntr.in/bEjuV1",
-    "local_image": "assets/images/tgmsg_17676.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-19T14:16:53+00:00",
-    "buy_link": "https://myntr.in/bEjuV1",
-    "date_iso": "2025-11-19T14:16:53+00:00"
   }
 ]
