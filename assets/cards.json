@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18170",
+    "title": "Yousta Under 399",
+    "description": "Ajio | Yousta Under 399 https://ajiio.co/UydQg4 JP & LC Min 70% https://ajiio.co/HSJXtq",
+    "shortlink": "https://ajiio.co/UydQg4",
+    "urls": [
+      {
+        "url": "https://ajiio.co/UydQg4",
+        "label": "Yousta Under 399"
+      },
+      {
+        "url": "https://ajiio.co/HSJXtq",
+        "label": "JP & LC Min 70%"
+      }
+    ],
+    "raw_text": "Ajio | Yousta Under 399\nhttps://ajiio.co/UydQg4\n\nJP & LC Min 70%\nhttps://ajiio.co/HSJXtq",
+    "final_url": "https://ajiio.co/UydQg4",
+    "local_image": "assets/images/tgmsg_18170.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-23T17:33:10+00:00",
+    "buy_link": "https://ajiio.co/UydQg4",
+    "date_iso": "2025-11-23T17:33:10+00:00"
+  },
+  {
     "id": "msg18169",
     "title": "Being human Min 65%",
     "description": "Ajio | Monte Carlo- Min 30% https://ajiio.co/dAr1eZ Being human Min 65% https://ajiio.co/Y9g5Ef",
@@ -8930,29 +8954,5 @@
     "date_obj": "2025-11-20T05:36:00+00:00",
     "buy_link": "https://myntr.in/MiKJzi",
     "date_iso": "2025-11-20T05:36:00+00:00"
-  },
-  {
-    "id": "msg17739",
-    "title": "Get ₹4,000 Instant Discount+₹4,000 Exchange Bonus+6",
-    "description": "OnePlus 15 (12GB 256GB) Starting @68,999* • -Month No-Cost EMI +180-Day Free Replacement.",
-    "shortlink": "https://bitli.in/565BMs8",
-    "urls": [
-      {
-        "url": "https://bitli.in/565BMs8",
-        "label": "OnePlus 15 (12GB 256GB) Starting @68,999*"
-      },
-      {
-        "url": "",
-        "label": "Get ₹4,000 Instant Discount+₹4,000 Exchange Bonus+6-Month No-Cost EMI +180-Day Free Replacement"
-      }
-    ],
-    "raw_text": "OnePlus 15 (12GB 256GB) Starting @68,999*\n\nhttps://bitli.in/565BMs8\n\n• Get ₹4,000 Instant Discount+₹4,000 Exchange Bonus+6-Month No-Cost EMI +180-Day Free Replacement.",
-    "final_url": "https://bitli.in/565BMs8",
-    "local_image": "assets/images/tgmsg_17739.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-11-20T05:40:41+00:00",
-    "buy_link": "https://bitli.in/565BMs8",
-    "date_iso": "2025-11-20T05:40:41+00:00"
   }
 ]
