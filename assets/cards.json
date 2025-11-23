@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18115",
+    "title": "60% Off On Branded Body Lotion",
+    "description": "Myntra : 50-60% Off On Branded Body Lotions. 👉https://myntr.in/IPJeTo (Ponds, Nivea, Vaseline, Parachute, Etc)",
+    "shortlink": "https://myntr.in/IPJeTo",
+    "urls": [
+      {
+        "url": "https://myntr.in/IPJeTo",
+        "label": "50-60% Off On Branded Body Lotions"
+      },
+      {
+        "url": "",
+        "label": "(Ponds, Nivea, Vaseline, Parachute, Etc)"
+      }
+    ],
+    "raw_text": "Myntra : 50-60% Off On Branded Body Lotions.\n\n👉https://myntr.in/IPJeTo\n\n(Ponds, Nivea, Vaseline, Parachute, Etc)",
+    "final_url": "https://myntr.in/IPJeTo",
+    "local_image": "assets/images/tgmsg_18115.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-23T10:48:37+00:00",
+    "buy_link": "https://myntr.in/IPJeTo",
+    "date_iso": "2025-11-23T10:48:37+00:00"
+  },
+  {
     "id": "msg18114",
     "title": "Up to 75% Off On Chemistry Women's Top",
     "description": "Flipkart | Upto 75% Off On Chemistry Women's Tops. 👉Link : https://fkrt.co/BoiN5B",
@@ -8878,25 +8902,5 @@
     "date_obj": "2025-11-19T14:45:46+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FHSSZVGZ?language=en_IN&tag=bestpricezo0f-21",
     "date_iso": "2025-11-19T14:45:46+00:00"
-  },
-  {
-    "id": "msg17681",
-    "title": "65% off",
-    "description": "Myntra | L’Oréal, Maybelline and Garnier 40% - 65% off 👉Link : https://myntr.in/Y5F5yS",
-    "shortlink": "https://myntr.in/Y5F5yS",
-    "urls": [
-      {
-        "url": "https://myntr.in/Y5F5yS",
-        "label": "L’Oréal, Maybelline and Garnier 40% - 65% off"
-      }
-    ],
-    "raw_text": "Myntra | L’Oréal, Maybelline and Garnier 40% - 65% off\n\n👉Link : https://myntr.in/Y5F5yS",
-    "final_url": "https://myntr.in/Y5F5yS",
-    "local_image": "assets/images/tgmsg_17681.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-19T14:48:38+00:00",
-    "buy_link": "https://myntr.in/Y5F5yS",
-    "date_iso": "2025-11-19T14:48:38+00:00"
   }
 ]
