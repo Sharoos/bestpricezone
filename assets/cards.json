@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg18121",
+    "title": "Use Code OPNOV15 To Get Extra 15% Off!",
+    "description": "🔥Myntra | OnePlus Same As BFF🔥 OnePlus Wireless Z3 at Rs. 1143 only! Use Coupon Code: OPNOV12 to get 12% Off! OnePlus Nord Buds 3r Only at Rs. 1444 + Bank offers!! Use Coupon Code: OPNOV15 To Get Extra 15% Off!",
+    "shortlink": "https://myntr.in/RpWd01",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥Myntra | OnePlus Same As BFF🔥"
+      },
+      {
+        "url": "https://myntr.in/RpWd01",
+        "label": "OnePlus Wireless Z3 at Rs. 1143 only!"
+      },
+      {
+        "url": "https://myntr.in/ti4JH0",
+        "label": "OnePlus Nord Buds 3r Only at Rs. 1444 + Bank offers!!"
+      }
+    ],
+    "raw_text": "🔥Myntra | OnePlus Same As BFF🔥\n\nOnePlus Wireless Z3 at Rs. 1143 only!\nUse Coupon Code: OPNOV12  to get 12% Off!\nhttps://myntr.in/RpWd01\n\nOnePlus Nord Buds 3r Only at Rs. 1444 + Bank offers!!\nUse Coupon Code: OPNOV15 To Get Extra 15% Off!\nhttps://myntr.in/ti4JH0",
+    "final_url": "https://myntr.in/RpWd01",
+    "local_image": "assets/images/tgmsg_18121.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-23T11:31:09+00:00",
+    "buy_link": "https://myntr.in/RpWd01",
+    "date_iso": "2025-11-23T11:31:09+00:00"
+  },
+  {
     "id": "msg18116",
     "title": "💰 Bonus Earn 10% Super Cash on Every Order!!!",
     "description": "🔥AJIO Clogs Start ₹259 Men's : Women's : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
@@ -8898,25 +8926,5 @@
     "date_obj": "2025-11-19T15:46:32+00:00",
     "buy_link": "https://myntr.in/YG0KXC",
     "date_iso": "2025-11-19T15:46:32+00:00"
-  },
-  {
-    "id": "msg17684",
-    "title": "Killer Wrist Watches Starts @ 299",
-    "description": "Killer Wrist Watches Starts @ 299. https://myntr.in/EgwVpx",
-    "shortlink": "https://myntr.in/EgwVpx",
-    "urls": [
-      {
-        "url": "https://myntr.in/EgwVpx",
-        "label": "Killer Wrist Watches Starts @ 299"
-      }
-    ],
-    "raw_text": "Killer Wrist Watches Starts @ 299.\n\nhttps://myntr.in/EgwVpx",
-    "final_url": "https://myntr.in/EgwVpx",
-    "local_image": "assets/images/tgmsg_17684.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-19T15:29:26+00:00",
-    "buy_link": "https://myntr.in/EgwVpx",
-    "date_iso": "2025-11-19T15:29:26+00:00"
   }
 ]
