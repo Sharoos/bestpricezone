@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg18141",
+    "title": "Oversized T",
+    "description": "Myntra | Oversized T-shirts From Rs.97 Men's : https://myntr.in/rEogOI Women : https://myntr.in/gXjPir",
+    "shortlink": "https://myntr.in/rEogOI",
+    "urls": [
+      {
+        "url": "",
+        "label": "Oversized T-shirts From Rs.97"
+      },
+      {
+        "url": "https://myntr.in/rEogOI",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/gXjPir",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | Oversized T-shirts From Rs.97\n\nMen's : https://myntr.in/rEogOI \nWomen : https://myntr.in/gXjPir",
+    "final_url": "https://myntr.in/rEogOI",
+    "local_image": "assets/images/tgmsg_18141.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-23T13:46:11+00:00",
+    "buy_link": "https://myntr.in/rEogOI",
+    "date_iso": "2025-11-23T13:46:11+00:00"
+  },
+  {
     "id": "msg18139",
     "title": "Up to 83% Off On Ducati Men's Shoe",
     "description": "Flipkart | Upto 83% Off On Ducati Men's Shoe. Upto 86% Off On HRX Shoes. Men's : Women's :",
@@ -8978,25 +9006,5 @@
     "date_obj": "2025-11-19T18:35:17+00:00",
     "buy_link": "https://www.amazon.in/dp/B07VS1YTY2?psc=1&th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-19T18:35:17+00:00"
-  },
-  {
-    "id": "msg17710",
-    "title": "Copper Water Bottle 950ml @ 335",
-    "description": "Amazon Grab : Copper Water Bottle 950ml @ 335. https://www.amazon.in/dp/B0F1TGMKY1?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F1TGMKY1?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F1TGMKY1?th=1&tag=bestpricezo0f-21",
-        "label": "Copper Water Bottle 950ml @ 335"
-      }
-    ],
-    "raw_text": "Amazon Grab : Copper Water Bottle 950ml @ 335.\n\nhttps://www.amazon.in/dp/B0F1TGMKY1?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F1TGMKY1?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17710.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-19T18:37:06+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F1TGMKY1?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-19T18:37:06+00:00"
   }
 ]
