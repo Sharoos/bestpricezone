@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18083",
+    "title": "The Indian Garage Co. Men's Kurta 80% Off",
+    "description": "Myntra | The Indian Garage Co. Men's Kurta | 80% Off 👉 Link : https://myntr.in/ufmz1Z",
+    "shortlink": "https://myntr.in/ufmz1Z",
+    "urls": [
+      {
+        "url": "https://myntr.in/ufmz1Z",
+        "label": "The Indian Garage Co. Men's Kurta | 80% Off"
+      }
+    ],
+    "raw_text": "Myntra | The Indian Garage Co. Men's Kurta | 80% Off\n\n👉 Link : https://myntr.in/ufmz1Z",
+    "final_url": "https://myntr.in/ufmz1Z",
+    "local_image": "assets/images/tgmsg_18083.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-23T05:32:49+00:00",
+    "buy_link": "https://myntr.in/ufmz1Z",
+    "date_iso": "2025-11-23T05:32:49+00:00"
+  },
+  {
     "id": "msg18079",
     "title": "Branded Shoes and Sneaker at Price",
     "description": "Flipkart | Branded Shoes and Sneaker at  Prices Asian: https://fkrt.co/aYarVu Campus: https://fkrt.co/jjlkBo",
@@ -8910,29 +8930,5 @@
     "date_obj": "2025-11-19T11:13:16+00:00",
     "buy_link": "https://www.amazon.in/s?k=Mouse%2520Pad&i=electronics&rh=p_85%253A10440599031&s=price-asc-rank&dc=&ds=v1%253AhghqNfIhus3sJ9rTQqJLNM6hqBZP5h6OAYlvYN1JApU&crid=1SYPSY6P8QTGG&qid=1696343359&sprefix=mouse%2520pad%252Celectronics%252C277&tag=bestpricezo0f-21",
     "date_iso": "2025-11-19T11:13:16+00:00"
-  },
-  {
-    "id": "msg17647",
-    "title": "DiSano Peanut Butter, 924g @ 189",
-    "description": "Amazon | DiSano Peanut Butter, 924g @ 189. 👉 https://www.amazon.in/dp/B0BFDJNDBT?tag=bestpricezo0f-21 👉 https://www.amazon.in/dp/B0BFDHCLR6?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0BFDJNDBT?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BFDJNDBT?tag=bestpricezo0f-21",
-        "label": "DiSano Peanut Butter, 924g @ 189"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0BFDHCLR6?tag=bestpricezo0f-21",
-        "label": "DiSano Peanut Butter, 924g @ 189"
-      }
-    ],
-    "raw_text": "Amazon | DiSano Peanut Butter, 924g @ 189.\n\n👉 https://www.amazon.in/dp/B0BFDJNDBT?tag=bestpricezo0f-21\n👉 https://www.amazon.in/dp/B0BFDHCLR6?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BFDJNDBT?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17647.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-19T11:20:28+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BFDJNDBT?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-19T11:20:28+00:00"
   }
 ]
