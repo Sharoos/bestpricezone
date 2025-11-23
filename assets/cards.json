@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg18172",
+    "title": "Performax Footwear Min 70%",
+    "description": "Ajio | Performax Footwear Min 70% https://ajiio.co/N9cXrv Rare rabbit & Rareism min 50% https://ajiio.co/vSWIyp",
+    "shortlink": "https://ajiio.co/N9cXrv",
+    "urls": [
+      {
+        "url": "https://ajiio.co/N9cXrv",
+        "label": "Performax Footwear Min 70%"
+      },
+      {
+        "url": "https://ajiio.co/vSWIyp",
+        "label": "Rare rabbit & Rareism min 50%"
+      }
+    ],
+    "raw_text": "Ajio | Performax Footwear Min 70%\nhttps://ajiio.co/N9cXrv\n\nRare rabbit & Rareism min 50% \nhttps://ajiio.co/vSWIyp",
+    "final_url": "https://ajiio.co/N9cXrv",
+    "local_image": "assets/images/tgmsg_18172.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-23T18:05:41+00:00",
+    "buy_link": "https://ajiio.co/N9cXrv",
+    "date_iso": "2025-11-23T18:05:41+00:00"
+  },
+  {
+    "id": "msg18174",
+    "title": "🛒 Deal Price ₹999",
+    "description": "Amazon | Mi 33W SonicCharge 2.0 USB Charger for Cellular Phones, White 🛒 Deal Price: ₹999 👉",
+    "shortlink": "https://www.amazon.in/dp/B08RZ5K9YH/ref=cm_sw_r_as_gl_apa_gl_i_dl_RXG8ES2E3HZ12684NFRE?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Mi 33W SonicCharge 2.0 USB Charger for Cellular Phones, White"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B08RZ5K9YH/ref=cm_sw_r_as_gl_apa_gl_i_dl_RXG8ES2E3HZ12684NFRE?tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹999"
+      }
+    ],
+    "raw_text": "Amazon | Mi 33W SonicCharge 2.0 USB Charger for Cellular Phones, White\n\n🛒 Deal Price: ₹999\n\n👉https://www.amazon.in/dp/B08RZ5K9YH/ref=cm_sw_r_as_gl_apa_gl_i_dl_RXG8ES2E3HZ12684NFRE?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B08RZ5K9YH/ref=cm_sw_r_as_gl_apa_gl_i_dl_RXG8ES2E3HZ12684NFRE?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_18174.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-23T18:15:58+00:00",
+    "buy_link": "https://www.amazon.in/dp/B08RZ5K9YH/ref=cm_sw_r_as_gl_apa_gl_i_dl_RXG8ES2E3HZ12684NFRE?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-23T18:15:58+00:00"
+  },
+  {
     "id": "msg18171",
     "title": "Lotoo Up to 80% Off On Branded Shampoo",
     "description": "Flipkart Lotoo | Upto 80% Off On Branded Shampoos. DOVE : Tresemme : L'Oreal Paris : More :",
@@ -8930,45 +8978,5 @@
     "date_obj": "2025-11-20T06:04:59+00:00",
     "buy_link": "https://fkrt.co/SMjhhd",
     "date_iso": "2025-11-20T06:04:59+00:00"
-  },
-  {
-    "id": "msg17743",
-    "title": "Premium Blanket At 1019",
-    "description": "Myntra : Premium Blanket At 1019. https://myntr.in/TvO1xy Apply Coupon",
-    "shortlink": "https://myntr.in/TvO1xy",
-    "urls": [
-      {
-        "url": "https://myntr.in/TvO1xy",
-        "label": "Premium Blanket At 1019"
-      }
-    ],
-    "raw_text": "Myntra : Premium Blanket At 1019.\n\nhttps://myntr.in/TvO1xy\n\nApply Coupon",
-    "final_url": "https://myntr.in/TvO1xy",
-    "local_image": "assets/images/tgmsg_17743.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-20T06:07:20+00:00",
-    "buy_link": "https://myntr.in/TvO1xy",
-    "date_iso": "2025-11-20T06:07:20+00:00"
-  },
-  {
-    "id": "msg17740",
-    "title": "Up to 80% off on Winter Blanket",
-    "description": "Myntra | Upto 80% off on Winter Blankets 👉 https://myntr.in/p0bLif",
-    "shortlink": "https://myntr.in/p0bLif",
-    "urls": [
-      {
-        "url": "https://myntr.in/p0bLif",
-        "label": "Upto 80% off on Winter Blankets"
-      }
-    ],
-    "raw_text": "Myntra | Upto 80% off on Winter Blankets\n\n👉 https://myntr.in/p0bLif",
-    "final_url": "https://myntr.in/p0bLif",
-    "local_image": "assets/images/tgmsg_17740.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-20T05:46:16+00:00",
-    "buy_link": "https://myntr.in/p0bLif",
-    "date_iso": "2025-11-20T05:46:16+00:00"
   }
 ]
