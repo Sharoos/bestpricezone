@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg18155",
+    "title": "Get Up to 80% Off",
+    "description": "Flipkart : Get Upto 80% Off 👉 Link : Grocery : Mobiles : Food& Health : Home : Fashion :",
+    "shortlink": "https://fkrt.co/TypTfT",
+    "urls": [
+      {
+        "url": "https://fkrt.co/TypTfT",
+        "label": "Get Upto 80% Off"
+      },
+      {
+        "url": "https://fkrt.co/Bk9dp1",
+        "label": "Grocery"
+      },
+      {
+        "url": "https://fkrt.co/TdJo7f",
+        "label": "Mobiles"
+      },
+      {
+        "url": "https://fkrt.co/0H1KzR",
+        "label": "Food& Health"
+      },
+      {
+        "url": "https://fkrt.co/12Uegm",
+        "label": "Home"
+      },
+      {
+        "url": "https://fkrt.co/f4f5Sx",
+        "label": "Fashion"
+      }
+    ],
+    "raw_text": "Flipkart : Get Upto 80% Off \n\n👉 Link : https://fkrt.co/TypTfT\n\nGrocery : https://fkrt.co/Bk9dp1\nMobiles : https://fkrt.co/TdJo7f\nFood& Health : https://fkrt.co/0H1KzR\nHome : https://fkrt.co/12Uegm\nFashion : https://fkrt.co/f4f5Sx",
+    "final_url": "https://fkrt.co/TypTfT",
+    "local_image": "assets/images/tgmsg_18155.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-23T15:46:28+00:00",
+    "buy_link": "https://fkrt.co/TypTfT",
+    "date_iso": "2025-11-23T15:46:28+00:00"
+  },
+  {
     "id": "msg18154",
     "title": "🛒 Deal Price ₹99",
     "description": "Myntra | 👚 Women's Fashion : ₹99 Deals! 🛒 Deal Price : ₹99 👉 https://myntr.in/mXeVqY More Deals : https://myntr.in/25TwdL",
@@ -8894,29 +8934,5 @@
     "date_obj": "2025-11-19T20:10:07+00:00",
     "buy_link": "https://fkrt.co/WaSbSc",
     "date_iso": "2025-11-19T20:10:07+00:00"
-  },
-  {
-    "id": "msg17714",
-    "title": "Flat 70% Off On SUPERDRY Clothing",
-    "description": "Ajio | Flat 70% Off On SUPERDRY Clothing. Men https://ajiio.co/tx32NS Women https://ajiio.co/gS9ElR",
-    "shortlink": "https://ajiio.co/tx32NS",
-    "urls": [
-      {
-        "url": "https://ajiio.co/tx32NS",
-        "label": "Flat 70% Off On SUPERDRY Clothing"
-      },
-      {
-        "url": "https://ajiio.co/gS9ElR",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Ajio | Flat 70% Off On SUPERDRY Clothing.\n\nMen https://ajiio.co/tx32NS\nWomen https://ajiio.co/gS9ElR",
-    "final_url": "https://ajiio.co/tx32NS",
-    "local_image": "assets/images/tgmsg_17714.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-19T18:59:38+00:00",
-    "buy_link": "https://ajiio.co/tx32NS",
-    "date_iso": "2025-11-19T18:59:38+00:00"
   }
 ]
