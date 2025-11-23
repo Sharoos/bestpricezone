@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg18154",
+    "title": "🛒 Deal Price ₹99",
+    "description": "Myntra | 👚 Women's Fashion : ₹99 Deals! 🛒 Deal Price : ₹99 👉 https://myntr.in/mXeVqY More Deals : https://myntr.in/25TwdL",
+    "shortlink": "https://myntr.in/mXeVqY",
+    "urls": [
+      {
+        "url": "",
+        "label": "👚 Women's Fashion : ₹99 Deals!"
+      },
+      {
+        "url": "https://myntr.in/mXeVqY",
+        "label": "🛒 Deal Price : ₹99"
+      },
+      {
+        "url": "https://myntr.in/25TwdL",
+        "label": "More Deals"
+      }
+    ],
+    "raw_text": "Myntra | 👚 Women's Fashion : ₹99 Deals!\n\n🛒 Deal Price : ₹99\n\n👉 https://myntr.in/mXeVqY\n\nMore Deals : https://myntr.in/25TwdL",
+    "final_url": "https://myntr.in/mXeVqY",
+    "local_image": "assets/images/tgmsg_18154.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-23T15:37:15+00:00",
+    "buy_link": "https://myntr.in/mXeVqY",
+    "date_iso": "2025-11-23T15:37:15+00:00"
+  },
+  {
     "id": "msg18153",
     "title": "🛒 Deal Price From ₹536",
     "description": "Myntra | Highlander Men's Jacket 🛒 Deal Price : From ₹536 👉https://myntr.in/8AcH1l",
@@ -8890,41 +8918,5 @@
     "date_obj": "2025-11-19T18:59:38+00:00",
     "buy_link": "https://ajiio.co/tx32NS",
     "date_iso": "2025-11-19T18:59:38+00:00"
-  },
-  {
-    "id": "msg17715",
-    "title": "Ikriya Furniture Starting from 1499",
-    "description": "Myntra | . 👉 Kurl On Mattress starting from 4299. 👉 Sleep well Mattress starting 4599. 👉 Solis Primus Sofa Cum Bed starting from 3461. 👉 Clex Sofa Cum Bed starting from 3960. 👉",
-    "shortlink": "https://myntr.in/NghHGp",
-    "urls": [
-      {
-        "url": "https://myntr.in/NghHGp",
-        "label": "Ikriya Furniture Starting from 1499"
-      },
-      {
-        "url": "https://myntr.in/D5OPed",
-        "label": "Kurl On Mattress starting from 4299"
-      },
-      {
-        "url": "https://myntr.in/PXxw6Z",
-        "label": "Sleep well Mattress starting 4599"
-      },
-      {
-        "url": "https://myntr.in/MUVDGx",
-        "label": "Solis Primus Sofa Cum Bed starting from 3461"
-      },
-      {
-        "url": "https://myntr.in/UvBbZB",
-        "label": "Clex Sofa Cum Bed starting from 3960"
-      }
-    ],
-    "raw_text": "Myntra  | Ikriya Furniture Starting from 1499.\n👉 https://myntr.in/NghHGp\n\nKurl On Mattress starting from 4299.\n👉 https://myntr.in/D5OPed\n\nSleep well Mattress starting 4599.\n👉 https://myntr.in/PXxw6Z\n\nSolis Primus Sofa Cum Bed starting from 3461.\n👉 https://myntr.in/MUVDGx\n\nClex Sofa Cum Bed starting from 3960.\n👉 https://myntr.in/UvBbZB",
-    "final_url": "https://myntr.in/NghHGp",
-    "local_image": "assets/images/tgmsg_17715.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-19T19:04:29+00:00",
-    "buy_link": "https://myntr.in/NghHGp",
-    "date_iso": "2025-11-19T19:04:29+00:00"
   }
 ]
