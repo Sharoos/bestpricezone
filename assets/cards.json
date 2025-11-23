@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18103",
+    "title": "Up to 90% Off On Desh Bidesh Saree",
+    "description": "Myntra : Upto 90% Off On Desh Bidesh Sarees https://myntr.in/xEZzk6 https://myntr.in/SQhoDN",
+    "shortlink": "https://myntr.in/xEZzk6",
+    "urls": [
+      {
+        "url": "https://myntr.in/xEZzk6",
+        "label": "Upto 90% Off On Desh Bidesh Sarees"
+      },
+      {
+        "url": "https://myntr.in/SQhoDN",
+        "label": ""
+      }
+    ],
+    "raw_text": "Myntra : Upto 90% Off On Desh Bidesh Sarees \n\nhttps://myntr.in/xEZzk6\nhttps://myntr.in/SQhoDN",
+    "final_url": "https://myntr.in/xEZzk6",
+    "local_image": "assets/images/tgmsg_18103.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-23T08:32:43+00:00",
+    "buy_link": "https://myntr.in/xEZzk6",
+    "date_iso": "2025-11-23T08:32:43+00:00"
+  },
+  {
     "id": "msg18101",
     "title": "Up to 80% Off On Chemistry Women's Clothing",
     "description": "Flipkart | Upto 80% Off On Chemistry Women's Clothing. Topwear : Bottomwear : Dresses : Blazers : Co-Ords :",
@@ -8886,25 +8910,5 @@
     "date_obj": "2025-11-19T13:03:43+00:00",
     "buy_link": "https://myntr.in/GwvlhV",
     "date_iso": "2025-11-19T13:03:43+00:00"
-  },
-  {
-    "id": "msg17666",
-    "title": "Jaipuri Prints Bedsheet Starts @ 295",
-    "description": "Flipkart | Jaipuri Prints Bedsheet Starts @ 295. 👉 https://fkrt.co/X1Wp62",
-    "shortlink": "https://fkrt.co/X1Wp62",
-    "urls": [
-      {
-        "url": "https://fkrt.co/X1Wp62",
-        "label": "Jaipuri Prints Bedsheet Starts @ 295"
-      }
-    ],
-    "raw_text": "Flipkart | Jaipuri Prints Bedsheet Starts @ 295.\n\n👉 https://fkrt.co/X1Wp62",
-    "final_url": "https://fkrt.co/X1Wp62",
-    "local_image": "assets/images/tgmsg_17666.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-19T13:11:18+00:00",
-    "buy_link": "https://fkrt.co/X1Wp62",
-    "date_iso": "2025-11-19T13:11:18+00:00"
   }
 ]
