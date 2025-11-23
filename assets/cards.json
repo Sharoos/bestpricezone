@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg18157",
+    "title": "truke Thunder Bar 16W Bluetooth Speaker @ 779",
+    "description": "Amazon | truke Thunder Bar 16W Bluetooth Speaker @ 779. 👉https://www.amazon.in/dp/B0CH1FLT2H?psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CH1FLT2H?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CH1FLT2H?psc=1&tag=bestpricezo0f-21",
+        "label": "truke Thunder Bar 16W Bluetooth Speaker @ 779"
+      }
+    ],
+    "raw_text": "Amazon | truke Thunder Bar 16W Bluetooth Speaker @ 779.\n\n👉https://www.amazon.in/dp/B0CH1FLT2H?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CH1FLT2H?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_18157.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-23T16:02:49+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CH1FLT2H?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-23T16:02:49+00:00"
+  },
+  {
+    "id": "msg18159",
+    "title": "Apply 10% Off",
+    "description": "Tata Tea Premium Care 1kg @ 413 Apply 10% Off Coupon* https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
+        "label": "Tata Tea Premium Care 1kg @ 413"
+      }
+    ],
+    "raw_text": "Tata Tea Premium Care 1kg @ 413\n\nApply 10% Off Coupon*\n\n https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_18159.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-23T16:14:36+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-23T16:14:36+00:00"
+  },
+  {
     "id": "msg18155",
     "title": "Get Up to 80% Off",
     "description": "Flipkart : Get Upto 80% Off 👉 Link : Grocery : Mobiles : Food& Health : Home : Fashion :",
@@ -8894,45 +8934,5 @@
     "date_obj": "2025-11-19T20:31:18+00:00",
     "buy_link": "https://www.amazon.in/solethreads-sneakers-for-men/s?k=solethreads%2520sneakers%2520for%2520men&rh=p_123%253A607604%252Cp_n_g-1004152217091%253A2022661031%252Cp_n_pct-off-with-tax%253A27060457031&ck&tag=bestpricezo0f-21",
     "date_iso": "2025-11-19T20:31:18+00:00"
-  },
-  {
-    "id": "msg17718",
-    "title": "Portronics Mobile Cables Up to 70% Off Starting From @179",
-    "description": "Flipkart | Portronics Mobile Cables Upto 70% Off Starting From @179 👉 https://fkrt.co/E4LuMj",
-    "shortlink": "https://fkrt.co/E4LuMj",
-    "urls": [
-      {
-        "url": "https://fkrt.co/E4LuMj",
-        "label": "Portronics Mobile Cables Upto 70% Off Starting From @179"
-      }
-    ],
-    "raw_text": "Flipkart | Portronics Mobile Cables Upto 70% Off Starting From @179\n\n👉 https://fkrt.co/E4LuMj",
-    "final_url": "https://fkrt.co/E4LuMj",
-    "local_image": "assets/images/tgmsg_17718.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-19T20:08:29+00:00",
-    "buy_link": "https://fkrt.co/E4LuMj",
-    "date_iso": "2025-11-19T20:08:29+00:00"
-  },
-  {
-    "id": "msg17719",
-    "title": "B110E/D (Black) @838",
-    "description": "Flipkart | Samsung Sm-B110E/D  (Black) @838 👉https://fkrt.co/WaSbSc",
-    "shortlink": "https://fkrt.co/WaSbSc",
-    "urls": [
-      {
-        "url": "https://fkrt.co/WaSbSc",
-        "label": "Samsung Sm-B110E/D (Black) @838"
-      }
-    ],
-    "raw_text": "Flipkart | Samsung Sm-B110E/D  (Black) @838\n\n👉https://fkrt.co/WaSbSc",
-    "final_url": "https://fkrt.co/WaSbSc",
-    "local_image": "assets/images/tgmsg_17719.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-19T20:10:07+00:00",
-    "buy_link": "https://fkrt.co/WaSbSc",
-    "date_iso": "2025-11-19T20:10:07+00:00"
   }
 ]
