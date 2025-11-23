@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18104",
+    "title": "Monte Carlo blanket and bedsheets min 50% off",
+    "description": "Myntra | Monte Carlo blanket and bedsheets min 50% off. https://myntr.in/qb7kxo",
+    "shortlink": "https://myntr.in/qb7kxo",
+    "urls": [
+      {
+        "url": "https://myntr.in/qb7kxo",
+        "label": "Monte Carlo blanket and bedsheets min 50% off"
+      }
+    ],
+    "raw_text": "Myntra | Monte Carlo blanket and bedsheets min 50% off.\n\nhttps://myntr.in/qb7kxo",
+    "final_url": "https://myntr.in/qb7kxo",
+    "local_image": "assets/images/tgmsg_18104.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-23T08:46:00+00:00",
+    "buy_link": "https://myntr.in/qb7kxo",
+    "date_iso": "2025-11-23T08:46:00+00:00"
+  },
+  {
     "id": "msg18103",
     "title": "Up to 90% Off On Desh Bidesh Saree",
     "description": "Myntra : Upto 90% Off On Desh Bidesh Sarees https://myntr.in/xEZzk6 https://myntr.in/SQhoDN",
@@ -8890,25 +8910,5 @@
     "date_obj": "2025-11-19T13:02:43+00:00",
     "buy_link": "https://www.amazon.in/gp/product/B0FMRMP5TZ?tag=bestpricezo0f-21",
     "date_iso": "2025-11-19T13:02:43+00:00"
-  },
-  {
-    "id": "msg17665",
-    "title": "Moda Rapido Men Versatile Blazer Starting @ Rs. 827",
-    "description": "Myntra | Moda Rapido Men Versatile Blazer Starting @ Rs. 827 👉 https://myntr.in/GwvlhV",
-    "shortlink": "https://myntr.in/GwvlhV",
-    "urls": [
-      {
-        "url": "https://myntr.in/GwvlhV",
-        "label": "Moda Rapido Men Versatile Blazer Starting @ Rs. 827"
-      }
-    ],
-    "raw_text": "Myntra | Moda Rapido Men Versatile Blazer Starting @ Rs. 827\n\n👉 https://myntr.in/GwvlhV",
-    "final_url": "https://myntr.in/GwvlhV",
-    "local_image": "assets/images/tgmsg_17665.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-19T13:03:43+00:00",
-    "buy_link": "https://myntr.in/GwvlhV",
-    "date_iso": "2025-11-19T13:03:43+00:00"
   }
 ]
