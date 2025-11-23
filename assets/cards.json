@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18096",
+    "title": "Up to 70% Off On Being Human Men's Sweatshirt",
+    "description": "Myntra | Upto 70% Off On Being Human Men's Sweatshirts. 👉 https://myntr.in/l2sqTF",
+    "shortlink": "https://myntr.in/l2sqTF",
+    "urls": [
+      {
+        "url": "https://myntr.in/l2sqTF",
+        "label": "Upto 70% Off On Being Human Men's Sweatshirts"
+      }
+    ],
+    "raw_text": "Myntra | Upto 70% Off On Being Human Men's Sweatshirts. \n\n 👉 https://myntr.in/l2sqTF",
+    "final_url": "https://myntr.in/l2sqTF",
+    "local_image": "assets/images/tgmsg_18096.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-23T07:29:04+00:00",
+    "buy_link": "https://myntr.in/l2sqTF",
+    "date_iso": "2025-11-23T07:29:04+00:00"
+  },
+  {
     "id": "msg18094",
     "title": "Up to 80% Off On Levi's Sneake",
     "description": "Amazon | Upto 80% Off On Levi's Sneakers. 👉https://www.amazon.in/s?k=Levi%2527s%2520Men%2520Sneaker&i=shoes&s=price-asc-rank&ds=v1%253AP%252FNyvHf1NQZq8kfQzg7sr27jd7cL367rba3yJSfDc4k&tag=bestpricezo0f-21",
@@ -8850,25 +8870,5 @@
     "date_obj": "2025-11-19T12:20:19+00:00",
     "buy_link": "https://myntr.in/lkjcuu",
     "date_iso": "2025-11-19T12:20:19+00:00"
-  },
-  {
-    "id": "msg17660",
-    "title": "Women Trouser at ₹99",
-    "description": "Myntra  | Women Trouser at ₹99 👉 https://myntr.in/BXKULw",
-    "shortlink": "https://myntr.in/BXKULw",
-    "urls": [
-      {
-        "url": "https://myntr.in/BXKULw",
-        "label": "Women Trouser at ₹99"
-      }
-    ],
-    "raw_text": "Myntra  | Women Trouser at ₹99\n\n👉 https://myntr.in/BXKULw",
-    "final_url": "https://myntr.in/BXKULw",
-    "local_image": "assets/images/tgmsg_17660.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-19T12:40:18+00:00",
-    "buy_link": "https://myntr.in/BXKULw",
-    "date_iso": "2025-11-19T12:40:18+00:00"
   }
 ]
