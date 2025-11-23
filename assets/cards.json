@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18150",
+    "title": "HAVELLS 3 Jar Mixer Grinder at ₹2599",
+    "description": "Flipkart | HAVELLS 3 Jar Mixer Grinder at ₹2599 🛒 Buy Now : https://fkrt.co/OT2Xuw 🛒 Buy Now : https://fkrt.co/Fk8jip",
+    "shortlink": "https://fkrt.co/OT2Xuw",
+    "urls": [
+      {
+        "url": "https://fkrt.co/OT2Xuw",
+        "label": "HAVELLS 3 Jar Mixer Grinder at ₹2599"
+      },
+      {
+        "url": "https://fkrt.co/Fk8jip",
+        "label": "HAVELLS 3 Jar Mixer Grinder at ₹2599"
+      }
+    ],
+    "raw_text": "Flipkart | HAVELLS 3 Jar Mixer Grinder at ₹2599\n\n🛒 Buy Now : https://fkrt.co/OT2Xuw\n\n🛒 Buy Now : https://fkrt.co/Fk8jip",
+    "final_url": "https://fkrt.co/OT2Xuw",
+    "local_image": "assets/images/tgmsg_18150.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-23T14:46:09+00:00",
+    "buy_link": "https://fkrt.co/OT2Xuw",
+    "date_iso": "2025-11-23T14:46:09+00:00"
+  },
+  {
     "id": "msg18146",
     "title": "Harpic Liquid Toilet Cleaner 5L @353",
     "description": "Harpic Liquid Toilet Cleaner 5L @353 https://fkrt.co/s8n661",
@@ -8938,25 +8962,5 @@
     "date_obj": "2025-11-19T18:29:03+00:00",
     "buy_link": "https://extp.in/ZADRtO",
     "date_iso": "2025-11-19T18:29:03+00:00"
-  },
-  {
-    "id": "msg17704",
-    "title": "Highlander Men's Cargos Up to 82% off",
-    "description": "Flipkart | Highlander Men's Cargos upto 82% off 👉 https://fkrt.co/asBB3K",
-    "shortlink": "https://fkrt.co/asBB3K",
-    "urls": [
-      {
-        "url": "https://fkrt.co/asBB3K",
-        "label": "Highlander Men's Cargos upto 82% off"
-      }
-    ],
-    "raw_text": "Flipkart | Highlander Men's Cargos upto 82% off\n\n👉 https://fkrt.co/asBB3K",
-    "final_url": "https://fkrt.co/asBB3K",
-    "local_image": "assets/images/tgmsg_17704.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-19T18:33:00+00:00",
-    "buy_link": "https://fkrt.co/asBB3K",
-    "date_iso": "2025-11-19T18:33:00+00:00"
   }
 ]
