@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg18072",
+    "title": "Up to 70% Off on Buda Jeans Men’s Clothing",
+    "description": "Ajio Upto 70% Off on Buda Jeans Men’s Clothing. T-Shirt : Shirt : Jeans : Trackpant : Shorts : Winterwear : Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/STOrZg",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Upto 70% Off on Buda Jeans Men’s Clothing"
+      },
+      {
+        "url": "https://ajiio.co/STOrZg",
+        "label": "T-Shirt"
+      },
+      {
+        "url": "https://ajiio.co/GEG7Gk",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://ajiio.co/h0YzHb",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/rnMoV6",
+        "label": "Trackpant"
+      },
+      {
+        "url": "https://ajiio.co/tBJftn",
+        "label": "Shorts"
+      },
+      {
+        "url": "https://ajiio.co/BmR22s",
+        "label": "Winterwear"
+      },
+      {
+        "url": "",
+        "label": "Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "Ajio  Upto 70% Off on Buda Jeans Men’s Clothing.\n\nT-Shirt : https://ajiio.co/STOrZg\nShirt : https://ajiio.co/GEG7Gk\nJeans : https://ajiio.co/h0YzHb\nTrackpant : https://ajiio.co/rnMoV6\nShorts : https://ajiio.co/tBJftn\nWinterwear : https://ajiio.co/BmR22s\n\nBonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/STOrZg",
+    "local_image": "assets/images/tgmsg_18072.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-23T04:05:00+00:00",
+    "buy_link": "https://ajiio.co/STOrZg",
+    "date_iso": "2025-11-23T04:05:00+00:00"
+  },
+  {
     "id": "msg18062",
     "title": "Up to 60% Off On Dettol Product",
     "description": "Amazon | Upto 60% Off On Dettol Products. Bath Soap : https://www.amazon.in/s?rh=n%3A1374295031%2Cp_123%3A254825%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665400031&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21…",
@@ -8938,25 +8986,5 @@
     "date_obj": "2025-11-19T09:50:17+00:00",
     "buy_link": "https://myntr.in/jpxrTM",
     "date_iso": "2025-11-19T09:50:17+00:00"
-  },
-  {
-    "id": "msg17634",
-    "title": "Royal Enfield ISI & DOT Helmet @1950",
-    "description": "Amazon | Royal Enfield ISI & DOT Helmet @1950 👉 https://www.amazon.in/dp/B0B467DGZV?th=1&ck&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0B467DGZV?th=1&ck&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0B467DGZV?th=1&ck&tag=bestpricezo0f-21",
-        "label": "Royal Enfield ISI & DOT Helmet @1950"
-      }
-    ],
-    "raw_text": "Amazon | Royal Enfield ISI & DOT Helmet @1950\n\n👉 https://www.amazon.in/dp/B0B467DGZV?th=1&ck&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0B467DGZV?th=1&ck&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17634.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-19T09:40:25+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0B467DGZV?th=1&ck&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-19T09:40:25+00:00"
   }
 ]
