@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18087",
+    "title": "Lavie Sport 29L Laptop Backpack @ 449",
+    "description": "Amazon | Lavie Sport 29L Laptop Backpack @ 449. 👉https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21 👉https://www.amazon.in/dp/B0FNNB768S?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21",
+        "label": "Lavie Sport 29L Laptop Backpack @ 449"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0FNNB768S?th=1&tag=bestpricezo0f-21",
+        "label": "Lavie Sport 29L Laptop Backpack @ 449"
+      }
+    ],
+    "raw_text": "Amazon | Lavie Sport 29L Laptop Backpack @ 449.\n\n👉https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21\n👉https://www.amazon.in/dp/B0FNNB768S?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_18087.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-23T06:12:13+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-23T06:12:13+00:00"
+  },
+  {
     "id": "msg18086",
     "title": "Mivi DuoPods Earbuds @599",
     "description": "Amazon | Mivi DuoPods Earbuds @599. https://www.amazon.in/dp/B0FDGMT97K?th=1&psc=1&tag=bestpricezo0f-21",
@@ -8910,25 +8934,5 @@
     "date_obj": "2025-11-19T11:35:52+00:00",
     "buy_link": "https://extp.in/CHDPBv",
     "date_iso": "2025-11-19T11:35:52+00:00"
-  },
-  {
-    "id": "msg17645",
-    "title": "Parachute Body Lotion 400ml @140",
-    "description": "Amazon | Parachute Body Lotion 400ml @140. 👉 https://www.amazon.in/dp/B00CBRJ1SM?psc=1&th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B00CBRJ1SM?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B00CBRJ1SM?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "Parachute Body Lotion 400ml @140"
-      }
-    ],
-    "raw_text": "Amazon | Parachute Body Lotion 400ml @140.\n\n👉 https://www.amazon.in/dp/B00CBRJ1SM?psc=1&th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B00CBRJ1SM?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17645.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-19T11:02:46+00:00",
-    "buy_link": "https://www.amazon.in/dp/B00CBRJ1SM?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-19T11:02:46+00:00"
   }
 ]
