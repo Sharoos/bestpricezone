@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18190",
+    "title": "Flat 70% Off On Van Heusen Men's Sweatshirt",
+    "description": "Myntra : Flat 70% Off On Van Heusen Men's Sweatshirts. https://myntr.in/i16uEX Jackets : https://myntr.in/rAQxW8",
+    "shortlink": "https://myntr.in/i16uEX",
+    "urls": [
+      {
+        "url": "https://myntr.in/i16uEX",
+        "label": "Flat 70% Off On Van Heusen Men's Sweatshirts"
+      },
+      {
+        "url": "https://myntr.in/rAQxW8",
+        "label": "Jackets"
+      }
+    ],
+    "raw_text": "Myntra : Flat 70% Off On Van Heusen Men's Sweatshirts.\n\nhttps://myntr.in/i16uEX\n\nJackets : https://myntr.in/rAQxW8",
+    "final_url": "https://myntr.in/i16uEX",
+    "local_image": "assets/images/tgmsg_18190.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-23T19:28:39+00:00",
+    "buy_link": "https://myntr.in/i16uEX",
+    "date_iso": "2025-11-23T19:28:39+00:00"
+  },
+  {
     "id": "msg18184",
     "title": "Boat Smartwatches at 10% off",
     "description": "Myntra | Boat Smartwatches at 10% off https://myntr.in/FU1cof",
@@ -8954,41 +8978,5 @@
     "date_obj": "2025-11-20T08:44:02+00:00",
     "buy_link": "https://extp.in/pxFbgX",
     "date_iso": "2025-11-20T08:44:02+00:00"
-  },
-  {
-    "id": "msg17751",
-    "title": "👖 Men’s Trousers starting from ₹279",
-    "description": "Myntra Mega Fashion Deals 🔥🔥 👕 Shirts starting from ₹199 👉  👉 🕺 Kurtas starting from ₹299 👉 🧥 Blazers starting from ₹1199 👉",
-    "shortlink": "https://myntr.in/bAySpZ",
-    "urls": [
-      {
-        "url": "",
-        "label": "Myntra Mega Fashion Deals 🔥🔥"
-      },
-      {
-        "url": "https://myntr.in/bAySpZ",
-        "label": "👕 Shirts starting from ₹199"
-      },
-      {
-        "url": "https://myntr.in/Je4axK",
-        "label": "👖 Men’s Trousers starting from ₹279"
-      },
-      {
-        "url": "https://myntr.in/q9syhw",
-        "label": "🕺 Kurtas starting from ₹299"
-      },
-      {
-        "url": "https://myntr.in/iGhrmn",
-        "label": "🧥 Blazers starting from ₹1199"
-      }
-    ],
-    "raw_text": "Myntra   Mega Fashion Deals 🔥🔥\n\n👕 Shirts starting from ₹199\n👉 https://myntr.in/bAySpZ\n\n👖 Men’s Trousers starting from ₹279\n👉 https://myntr.in/Je4axK\n\n🕺 Kurtas starting from ₹299\n👉 https://myntr.in/q9syhw\n\n🧥 Blazers starting from ₹1199\n👉 https://myntr.in/iGhrmn",
-    "final_url": "https://myntr.in/bAySpZ",
-    "local_image": "assets/images/tgmsg_17751.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-20T08:00:59+00:00",
-    "buy_link": "https://myntr.in/bAySpZ",
-    "date_iso": "2025-11-20T08:00:59+00:00"
   }
 ]
