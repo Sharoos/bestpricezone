@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18153",
+    "title": "🛒 Deal Price From ₹536",
+    "description": "Myntra | Highlander Men's Jacket 🛒 Deal Price : From ₹536 👉https://myntr.in/8AcH1l",
+    "shortlink": "https://myntr.in/8AcH1l",
+    "urls": [
+      {
+        "url": "",
+        "label": "Highlander Men's Jacket"
+      },
+      {
+        "url": "https://myntr.in/8AcH1l",
+        "label": "🛒 Deal Price : From ₹536"
+      }
+    ],
+    "raw_text": "Myntra | Highlander Men's Jacket\n\n🛒 Deal Price : From ₹536\n\n👉https://myntr.in/8AcH1l",
+    "final_url": "https://myntr.in/8AcH1l",
+    "local_image": "assets/images/tgmsg_18153.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-23T15:16:40+00:00",
+    "buy_link": "https://myntr.in/8AcH1l",
+    "date_iso": "2025-11-23T15:16:40+00:00"
+  },
+  {
     "id": "msg18151",
     "title": "Lavender Liquid Detergent 10L @299",
     "description": "Lavender Liquid Detergent 10L @299 https://fkrt.co/f7uhva",
@@ -8902,45 +8926,5 @@
     "date_obj": "2025-11-19T19:04:29+00:00",
     "buy_link": "https://myntr.in/NghHGp",
     "date_iso": "2025-11-19T19:04:29+00:00"
-  },
-  {
-    "id": "msg17716",
-    "title": "Solis Royale The Desired Comfort Recliners Starting from 11310",
-    "description": "Myntra | . 👉 THEGASBH Furniture Starting from 5039. 👉 Boxjoy Furniture Starting from 898. 👉 Sleepycat Mattress starting from 5879. 👉 Duroflex Mattress Starting from 5999. 👉 Sleepyhead Mattress starting from 5699. 👉",
-    "shortlink": "https://myntr.in/XFd3TM",
-    "urls": [
-      {
-        "url": "https://myntr.in/XFd3TM",
-        "label": "Solis Royale The Desired Comfort Recliners Starting from 11310"
-      },
-      {
-        "url": "https://myntr.in/T2kM1T",
-        "label": "THEGASBH Furniture Starting from 5039"
-      },
-      {
-        "url": "https://myntr.in/ld6WJK",
-        "label": "Boxjoy Furniture Starting from 898"
-      },
-      {
-        "url": "https://myntr.in/3bqjca",
-        "label": "Sleepycat Mattress starting from 5879"
-      },
-      {
-        "url": "https://myntr.in/Y4a77p",
-        "label": "Duroflex Mattress Starting from 5999"
-      },
-      {
-        "url": "https://myntr.in/aoBcss",
-        "label": "Sleepyhead Mattress starting from 5699"
-      }
-    ],
-    "raw_text": "Myntra  | Solis Royale The Desired Comfort  Recliners Starting from 11310.\n👉 https://myntr.in/XFd3TM\n\nTHEGASBH Furniture Starting from 5039.\n👉 https://myntr.in/T2kM1T\n\nBoxjoy Furniture Starting from 898.\n👉 https://myntr.in/ld6WJK\n\nSleepycat Mattress starting from 5879.\n👉 https://myntr.in/3bqjca\n\nDuroflex Mattress Starting from 5999.\n👉 https://myntr.in/Y4a77p\n\nSleepyhead Mattress starting from 5699.\n👉 https://myntr.in/aoBcss",
-    "final_url": "https://myntr.in/XFd3TM",
-    "local_image": "assets/images/tgmsg_17716.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-19T19:09:01+00:00",
-    "buy_link": "https://myntr.in/XFd3TM",
-    "date_iso": "2025-11-19T19:09:01+00:00"
   }
 ]
