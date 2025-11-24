@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg18245",
+    "title": "Deal Price ₹164",
+    "description": "Amazon | Visko GTK Garden Tool kit (Green and Black, 5-Pieces) Deal Price : ₹164 👉",
+    "shortlink": "https://www.amazon.in/dp/B01MQWTXG6?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Visko GTK Garden Tool kit (Green and Black, 5-Pieces)"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B01MQWTXG6?psc=1&tag=bestpricezo0f-21",
+        "label": "₹164"
+      }
+    ],
+    "raw_text": "Amazon | Visko GTK Garden Tool kit (Green and Black, 5-Pieces)\n\nDeal Price : ₹164 \n\n👉 https://www.amazon.in/dp/B01MQWTXG6?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B01MQWTXG6?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_18245.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-24T12:05:21+00:00",
+    "buy_link": "https://www.amazon.in/dp/B01MQWTXG6?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-24T12:05:21+00:00"
+  },
+  {
+    "id": "msg18246",
+    "title": "Snitch Clothing Up to 82% Off",
+    "description": "Flipkart | Snitch Clothing Upto 82% Off. 👉 Peter England Shirts Upto 60% Off. 👉 Van Heusen Formal Shirts Upto 65%. 👉",
+    "shortlink": "https://fkrt.co/kYfyz2",
+    "urls": [
+      {
+        "url": "https://fkrt.co/kYfyz2",
+        "label": "Snitch Clothing Upto 82% Off"
+      },
+      {
+        "url": "https://fkrt.co/oQcFYs",
+        "label": "Peter England Shirts Upto 60% Off"
+      },
+      {
+        "url": "https://fkrt.co/y2OOWD",
+        "label": "Van Heusen Formal Shirts Upto 65%"
+      }
+    ],
+    "raw_text": "Flipkart | Snitch Clothing Upto 82% Off.\n👉 https://fkrt.co/kYfyz2\n\nPeter England Shirts Upto 60% Off.\n👉 https://fkrt.co/oQcFYs\n\nVan Heusen Formal Shirts Upto 65%.\n👉 https://fkrt.co/y2OOWD",
+    "final_url": "https://fkrt.co/kYfyz2",
+    "local_image": "assets/images/tgmsg_18246.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-24T12:15:12+00:00",
+    "buy_link": "https://fkrt.co/kYfyz2",
+    "date_iso": "2025-11-24T12:15:12+00:00"
+  },
+  {
     "id": "msg18243",
     "title": "📄 + Extra 3% Benefit via GST Invoice (if you share your GST number)",
     "description": "💥✨ Exclusive Gold Offer Alert! ✨💥 😍 P N GADGIL JEWELLERS – 3G 24KT 995 Yellow Gold Vedhani 💰 Price Comparison ❌ Market rate : ₹12,800/gram ✅ Ajio rate : ₹12,632/gram 🎁 Extra Savings You Can Grab : 🔥 Use Coupon…",
@@ -9002,45 +9054,5 @@
     "date_obj": "2025-11-20T14:58:52+00:00",
     "buy_link": "https://www.amazon.in/dp/B003URR20G?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-20T14:58:52+00:00"
-  },
-  {
-    "id": "msg17801",
-    "title": "Red Tape Shoes at Up to 83% Discount",
-    "description": "Ajio | Red Tape Shoes at Upto 83% Discount https://ajiio.co/Viqzaf",
-    "shortlink": "https://ajiio.co/Viqzaf",
-    "urls": [
-      {
-        "url": "https://ajiio.co/Viqzaf",
-        "label": "Red Tape Shoes at Upto 83% Discount"
-      }
-    ],
-    "raw_text": "Ajio | Red Tape Shoes at Upto 83% Discount\n\nhttps://ajiio.co/Viqzaf",
-    "final_url": "https://ajiio.co/Viqzaf",
-    "local_image": "assets/images/tgmsg_17801.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-20T14:48:51+00:00",
-    "buy_link": "https://ajiio.co/Viqzaf",
-    "date_iso": "2025-11-20T14:48:51+00:00"
-  },
-  {
-    "id": "msg17800",
-    "title": "Home Decoration Items Starts From ₹109",
-    "description": "Myntra : Home Decoration Items Starts From ₹109. 👉https://myntr.in/UrJGzR",
-    "shortlink": "https://myntr.in/UrJGzR",
-    "urls": [
-      {
-        "url": "https://myntr.in/UrJGzR",
-        "label": "Home Decoration Items Starts From ₹109"
-      }
-    ],
-    "raw_text": "Myntra : Home Decoration Items Starts From ₹109.\n\n👉https://myntr.in/UrJGzR",
-    "final_url": "https://myntr.in/UrJGzR",
-    "local_image": "assets/images/tgmsg_17800.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-20T14:33:03+00:00",
-    "buy_link": "https://myntr.in/UrJGzR",
-    "date_iso": "2025-11-20T14:33:03+00:00"
   }
 ]
