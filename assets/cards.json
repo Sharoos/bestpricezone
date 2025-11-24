@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18240",
+    "title": "Deal Price ₹951",
+    "description": "Amazon | PEXPO Electro Hot & Cold ISI Certified Flask | Stainless Ste... Deal Price: ₹951 👉",
+    "shortlink": "https://www.amazon.in/dp/B0B1DRZTG1?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "PEXPO Electro Hot & Cold ISI Certified Flask | Stainless Ste"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0B1DRZTG1?psc=1&tag=bestpricezo0f-21",
+        "label": "₹951"
+      }
+    ],
+    "raw_text": "Amazon | PEXPO Electro Hot & Cold ISI Certified Flask | Stainless Ste...\n\nDeal Price: ₹951 \n\n👉 https://www.amazon.in/dp/B0B1DRZTG1?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0B1DRZTG1?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_18240.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-24T11:05:59+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0B1DRZTG1?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-24T11:05:59+00:00"
+  },
+  {
     "id": "msg18238",
     "title": "Up to 80% Off On Ducati Men Clothing",
     "description": "Flipkart | Upto 80% Off On Ducati Men Clothing Sweatshirts & Jackets : Jeans & Trackpants :",
@@ -8982,25 +9006,5 @@
     "date_obj": "2025-11-20T14:04:44+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CG16N3P4?psc=1&th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-20T14:04:44+00:00"
-  },
-  {
-    "id": "msg17798",
-    "title": "Wrogn Rucksacks Starts @439",
-    "description": "Flipkart | Wrogn Rucksacks Starts @439. 👉https://fkrt.co/LgTWPQ",
-    "shortlink": "https://fkrt.co/LgTWPQ",
-    "urls": [
-      {
-        "url": "https://fkrt.co/LgTWPQ",
-        "label": "Wrogn Rucksacks Starts @439"
-      }
-    ],
-    "raw_text": "Flipkart | Wrogn Rucksacks Starts @439.\n\n👉https://fkrt.co/LgTWPQ",
-    "final_url": "https://fkrt.co/LgTWPQ",
-    "local_image": "assets/images/tgmsg_17798.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-20T14:16:14+00:00",
-    "buy_link": "https://fkrt.co/LgTWPQ",
-    "date_iso": "2025-11-20T14:16:14+00:00"
   }
 ]
