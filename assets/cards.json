@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg18277",
+    "title": "Men's Track Pants Starts at Rs.164",
+    "description": "Flipkart | Men's Track Pants Starts at Rs.164. https://fkrt.co/e338pB",
+    "shortlink": "https://fkrt.co/e338pB",
+    "urls": [
+      {
+        "url": "https://fkrt.co/e338pB",
+        "label": "Men's Track Pants Starts at Rs.164"
+      }
+    ],
+    "raw_text": "Flipkart | Men's Track Pants Starts at Rs.164.\n\nhttps://fkrt.co/e338pB",
+    "final_url": "https://fkrt.co/e338pB",
+    "local_image": "assets/images/tgmsg_18277.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-24T16:06:08+00:00",
+    "buy_link": "https://fkrt.co/e338pB",
+    "date_iso": "2025-11-24T16:06:08+00:00"
+  },
+  {
+    "id": "msg18278",
+    "title": "Boldfit Gripper @ ₹149",
+    "description": "Amazon | Boldfit Gripper @ ₹149 https://www.amazon.in/dp/B0B77X44MX?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0B77X44MX?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0B77X44MX?th=1&tag=bestpricezo0f-21",
+        "label": "Boldfit Gripper @ ₹149"
+      }
+    ],
+    "raw_text": "Amazon | Boldfit Gripper @ ₹149\n\nhttps://www.amazon.in/dp/B0B77X44MX?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0B77X44MX?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_18278.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-24T16:16:38+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0B77X44MX?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-24T16:16:38+00:00"
+  },
+  {
     "id": "msg18275",
     "title": "Up to 72% Off On Mens Watches Starting From @290🔥🔥",
     "description": "Ajio | Upto 72% Off On Mens Watches Starting From @290🔥🔥 👉Link : https://ajiio.co/AVA6no",
@@ -9086,49 +9126,5 @@
     "date_obj": "2025-11-20T18:32:04+00:00",
     "buy_link": "https://ajiio.co/gU73SN",
     "date_iso": "2025-11-20T18:32:04+00:00"
-  },
-  {
-    "id": "msg17828",
-    "title": "Up to 90% Off On Mast&Harbour Sweate",
-    "description": "Myntra | Upto 90% Off On Mast&Harbour Sweaters Men : https://myntr.in/N13E21 Women : https://myntr.in/lnAnaN",
-    "shortlink": "https://myntr.in/N13E21",
-    "urls": [
-      {
-        "url": "https://myntr.in/N13E21",
-        "label": "Upto 90% Off On Mast&Harbour Sweaters"
-      },
-      {
-        "url": "https://myntr.in/lnAnaN",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Myntra | Upto 90% Off On Mast&Harbour Sweaters\n\nMen : https://myntr.in/N13E21\nWomen : https://myntr.in/lnAnaN",
-    "final_url": "https://myntr.in/N13E21",
-    "local_image": "assets/images/tgmsg_17828.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-20T18:33:20+00:00",
-    "buy_link": "https://myntr.in/N13E21",
-    "date_iso": "2025-11-20T18:33:20+00:00"
-  },
-  {
-    "id": "msg17829",
-    "title": "HAMMER Nova C Type Earphone @ ₹249",
-    "description": "Amazon | HAMMER Nova C Type Earphone @ ₹249 https://www.amazon.in/dp/B0F636N4JK?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F636N4JK?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F636N4JK?tag=bestpricezo0f-21",
-        "label": "HAMMER Nova C Type Earphone @ ₹249"
-      }
-    ],
-    "raw_text": "Amazon | HAMMER Nova C Type Earphone @ ₹249\n\nhttps://www.amazon.in/dp/B0F636N4JK?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F636N4JK?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17829.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-20T18:34:04+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F636N4JK?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-20T18:34:04+00:00"
   }
 ]
