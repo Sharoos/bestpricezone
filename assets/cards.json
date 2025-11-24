@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18275",
+    "title": "Up to 72% Off On Mens Watches Starting From @290🔥🔥",
+    "description": "Ajio | Upto 72% Off On Mens Watches Starting From @290🔥🔥 👉Link : https://ajiio.co/AVA6no",
+    "shortlink": "https://ajiio.co/AVA6no",
+    "urls": [
+      {
+        "url": "https://ajiio.co/AVA6no",
+        "label": "Upto 72% Off On Mens Watches Starting From @290🔥🔥"
+      }
+    ],
+    "raw_text": "Ajio | Upto 72% Off On Mens Watches Starting From @290🔥🔥\n\n👉Link : https://ajiio.co/AVA6no",
+    "final_url": "https://ajiio.co/AVA6no",
+    "local_image": "assets/images/tgmsg_18275.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-24T15:50:56+00:00",
+    "buy_link": "https://ajiio.co/AVA6no",
+    "date_iso": "2025-11-24T15:50:56+00:00"
+  },
+  {
     "id": "msg18273",
     "title": "Provogue Backpacks Starts at Just ₹189",
     "description": "Flipkart | Provogue Backpacks Starts at Just ₹189 https://fkrt.co/cVMxFL Furniture Portable Laptop Table Starts At Rs.299 https://fkrt.co/cnUpQ9",
@@ -9110,25 +9130,5 @@
     "date_obj": "2025-11-20T18:34:04+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F636N4JK?tag=bestpricezo0f-21",
     "date_iso": "2025-11-20T18:34:04+00:00"
-  },
-  {
-    "id": "msg17824",
-    "title": "realme Buds Wireless 3 Neo in Ear Bluetooth Neckband @1299",
-    "description": "Amazon | realme Buds Wireless 3 Neo in Ear Bluetooth Neckband @1299. https://www.amazon.in/dp/B0DVC6MP1D?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DVC6MP1D?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DVC6MP1D?tag=bestpricezo0f-21",
-        "label": "realme Buds Wireless 3 Neo in Ear Bluetooth Neckband @1299"
-      }
-    ],
-    "raw_text": "Amazon | realme Buds Wireless 3 Neo in Ear Bluetooth Neckband @1299.\n\nhttps://www.amazon.in/dp/B0DVC6MP1D?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DVC6MP1D?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17824.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-20T18:03:12+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DVC6MP1D?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-20T18:03:12+00:00"
   }
 ]
