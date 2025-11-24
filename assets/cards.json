@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18241",
+    "title": "Zandu Chandraprash (900 g) at ₹182",
+    "description": "Grab: Zandu Chandraprash (900 g) at ₹182 https://bitli.in/h91EPnj *Apply Coupon: CK279*",
+    "shortlink": "https://bitli.in/h91EPnj",
+    "urls": [
+      {
+        "url": "https://bitli.in/h91EPnj",
+        "label": "Zandu Chandraprash (900 g) at ₹182"
+      }
+    ],
+    "raw_text": "Grab: Zandu Chandraprash (900 g) at ₹182\n\nhttps://bitli.in/h91EPnj\n\n*Apply Coupon: CK279*",
+    "final_url": "https://bitli.in/h91EPnj",
+    "local_image": "assets/images/tgmsg_18241.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-11-24T11:33:09+00:00",
+    "buy_link": "https://bitli.in/h91EPnj",
+    "date_iso": "2025-11-24T11:33:09+00:00"
+  },
+  {
     "id": "msg18240",
     "title": "Deal Price ₹951",
     "description": "Amazon | PEXPO Electro Hot & Cold ISI Certified Flask | Stainless Ste... Deal Price: ₹951 👉",
@@ -8986,25 +9006,5 @@
     "date_obj": "2025-11-20T13:57:45+00:00",
     "buy_link": "https://www.amazon.in/dp/B0G2SDNC9Y?social_share=cm_sw_r_cso_wa_apin_dp_MS99RVBF1MEJCDNG8T44&tag=bestpricezo0f-21",
     "date_iso": "2025-11-20T13:57:45+00:00"
-  },
-  {
-    "id": "msg17796",
-    "title": "Parachute Advansed Cocoa Repair Body Lotion, 600 ml @199",
-    "description": "Amazon | Parachute Advansed Cocoa Repair Body Lotion, 600 ml @199 https://www.amazon.in/dp/B0CG16N3P4?psc=1&th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CG16N3P4?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CG16N3P4?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "Parachute Advansed Cocoa Repair Body Lotion, 600 ml @199"
-      }
-    ],
-    "raw_text": "Amazon | Parachute Advansed Cocoa Repair Body Lotion, 600 ml @199\n\nhttps://www.amazon.in/dp/B0CG16N3P4?psc=1&th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CG16N3P4?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_17796.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-20T14:04:44+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CG16N3P4?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-20T14:04:44+00:00"
   }
 ]
