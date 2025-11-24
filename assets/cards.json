@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg18262",
+    "title": "Sleepwell Pillow (Set of 2) @338",
+    "description": "Flipkart | Sleepwell Pillow (Set of 2) @338 https://fkrt.co/pp4Z3T",
+    "shortlink": "https://fkrt.co/pp4Z3T",
+    "urls": [
+      {
+        "url": "https://fkrt.co/pp4Z3T",
+        "label": "Sleepwell Pillow (Set of 2) @338"
+      }
+    ],
+    "raw_text": "Flipkart | Sleepwell Pillow (Set of 2) @338\n\nhttps://fkrt.co/pp4Z3T",
+    "final_url": "https://fkrt.co/pp4Z3T",
+    "local_image": "assets/images/tgmsg_18262.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-24T14:05:14+00:00",
+    "buy_link": "https://fkrt.co/pp4Z3T",
+    "date_iso": "2025-11-24T14:05:14+00:00"
+  },
+  {
+    "id": "msg18263",
+    "title": "Flops From Rs.299",
+    "description": "Ajio : PERFORMAX Flip-Flops From Rs.299 https://ajiio.co/XveJKO",
+    "shortlink": "https://ajiio.co/XveJKO",
+    "urls": [
+      {
+        "url": "https://ajiio.co/XveJKO",
+        "label": "PERFORMAX Flip-Flops From Rs.299"
+      }
+    ],
+    "raw_text": "Ajio : PERFORMAX Flip-Flops From Rs.299\n\nhttps://ajiio.co/XveJKO",
+    "final_url": "https://ajiio.co/XveJKO",
+    "local_image": "assets/images/tgmsg_18263.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-24T14:16:07+00:00",
+    "buy_link": "https://ajiio.co/XveJKO",
+    "date_iso": "2025-11-24T14:16:07+00:00"
+  },
+  {
     "id": "msg18257",
     "title": "Up to 85% Off Wrogn Rucksack",
     "description": "Flipkart | Upto 85% Off Wrogn Rucksacks. Link : https://fkrt.co/Z4Joyr",
@@ -9038,57 +9078,5 @@
     "date_obj": "2025-11-20T16:34:30+00:00",
     "buy_link": "https://fkrt.co/owUnq7",
     "date_iso": "2025-11-20T16:34:30+00:00"
-  },
-  {
-    "id": "msg17815",
-    "title": "Jack & Jones Min 50% Off",
-    "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "shortlink": "https://ajiio.co/mxUboF",
-    "urls": [
-      {
-        "url": "https://ajiio.co/mxUboF",
-        "label": "🔥AJIO | Jeans & Shorts Under ₹499"
-      },
-      {
-        "url": "https://ajiio.co/33K469",
-        "label": "Performax Under ₹699"
-      },
-      {
-        "url": "https://ajiio.co/Xg9mYC",
-        "label": "Jack & Jones Min 50% Off"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "🔥AJIO | Jeans & Shorts Under ₹499\n👉https://ajiio.co/mxUboF\n\nPerformax Under ₹699\n👉https://ajiio.co/33K469\n\nJack & Jones Min 50% Off\n👉https://ajiio.co/Xg9mYC\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/mxUboF",
-    "local_image": "assets/images/tgmsg_17815.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-20T16:46:35+00:00",
-    "buy_link": "https://ajiio.co/mxUboF",
-    "date_iso": "2025-11-20T16:46:35+00:00"
-  },
-  {
-    "id": "msg17812",
-    "title": "Women Dresses Up to 81% Off",
-    "description": "Flipkart | Women Dresses upto 81% Off 👉https://fkrt.co/y9wUwm",
-    "shortlink": "https://fkrt.co/y9wUwm",
-    "urls": [
-      {
-        "url": "https://fkrt.co/y9wUwm",
-        "label": "Women Dresses upto 81% Off"
-      }
-    ],
-    "raw_text": "Flipkart | Women Dresses upto 81% Off\n\n👉https://fkrt.co/y9wUwm",
-    "final_url": "https://fkrt.co/y9wUwm",
-    "local_image": "assets/images/tgmsg_17812.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-20T16:03:50+00:00",
-    "buy_link": "https://fkrt.co/y9wUwm",
-    "date_iso": "2025-11-20T16:03:50+00:00"
   }
 ]
