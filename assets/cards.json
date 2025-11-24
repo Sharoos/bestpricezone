@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg18238",
+    "title": "Up to 80% Off On Ducati Men Clothing",
+    "description": "Flipkart | Upto 80% Off On Ducati Men Clothing Sweatshirts & Jackets : Jeans & Trackpants :",
+    "shortlink": "https://fkrt.co/brEMUw",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On Ducati Men Clothing"
+      },
+      {
+        "url": "https://fkrt.co/brEMUw",
+        "label": "Sweatshirts & Jackets"
+      },
+      {
+        "url": "https://fkrt.co/eqc0ec",
+        "label": "Jeans & Trackpants"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 80% Off On Ducati Men Clothing \n\nSweatshirts & Jackets : https://fkrt.co/brEMUw\nJeans & Trackpants : https://fkrt.co/eqc0ec",
+    "final_url": "https://fkrt.co/brEMUw",
+    "local_image": "assets/images/tgmsg_18238.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-24T10:45:09+00:00",
+    "buy_link": "https://fkrt.co/brEMUw",
+    "date_iso": "2025-11-24T10:45:09+00:00"
+  },
+  {
     "id": "msg18231",
     "title": "Up to 82% Off On Campus Sutra Clothing",
     "description": "Amazon | Upto 82% Off On Campus Sutra Clothing. Men :…",
@@ -8974,25 +9002,5 @@
     "date_obj": "2025-11-20T14:16:14+00:00",
     "buy_link": "https://fkrt.co/LgTWPQ",
     "date_iso": "2025-11-20T14:16:14+00:00"
-  },
-  {
-    "id": "msg17794",
-    "title": "Highlander Men’s Jeans from @433",
-    "description": "Flipkart | Highlander Men’s Jeans from @433 👉https://fkrt.co/phbdqa",
-    "shortlink": "https://fkrt.co/phbdqa",
-    "urls": [
-      {
-        "url": "https://fkrt.co/phbdqa",
-        "label": "Highlander Men’s Jeans from @433"
-      }
-    ],
-    "raw_text": "Flipkart | Highlander Men’s Jeans from @433\n\n👉https://fkrt.co/phbdqa",
-    "final_url": "https://fkrt.co/phbdqa",
-    "local_image": "assets/images/tgmsg_17794.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-20T13:46:18+00:00",
-    "buy_link": "https://fkrt.co/phbdqa",
-    "date_iso": "2025-11-20T13:46:18+00:00"
   }
 ]
