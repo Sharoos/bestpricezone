@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg18356",
+    "title": "Roadster Winterwears Starts @229",
+    "description": "Myntra : Roadster Winterwears Starts @229 Sweaters | Men : https://myntr.in/2lVIqo Women : https://myntr.in/qH4hYs Sweatshirts | Men : https://myntr.in/371wa3 Women : https://myntr.in/FNnoGj",
+    "shortlink": "https://myntr.in/2lVIqo",
+    "urls": [
+      {
+        "url": "",
+        "label": "Roadster Winterwears Starts @229"
+      },
+      {
+        "url": "https://myntr.in/2lVIqo",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/qH4hYs",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/371wa3",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/FNnoGj",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra : Roadster Winterwears Starts @229\n\nSweaters | Men : https://myntr.in/2lVIqo\nWomen : https://myntr.in/qH4hYs\n\nSweatshirts | Men : https://myntr.in/371wa3\nWomen : https://myntr.in/FNnoGj",
+    "final_url": "https://myntr.in/2lVIqo",
+    "local_image": "assets/images/tgmsg_18356.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-25T09:52:55+00:00",
+    "buy_link": "https://myntr.in/2lVIqo",
+    "date_iso": "2025-11-25T09:52:55+00:00"
+  },
+  {
     "id": "msg18355",
     "title": "2 items & get 15% Off",
     "description": "Noise : Bundle & Save Offer Buy  Buy 3 items & get 20% Off 👉 Link : • Get Extra Discount On Prepaid Payment.",
@@ -8914,37 +8950,5 @@
     "date_obj": "2025-11-21T12:12:37+00:00",
     "buy_link": "https://fkrt.co/UAwacf",
     "date_iso": "2025-11-21T12:12:37+00:00"
-  },
-  {
-    "id": "msg17908",
-    "title": "✅ Get Up to 40% SuperCoins Back on Cleartrip Gift Cards [No Cap – Unlimited GVs]",
-    "description": "Flipkart 🔥 🔥 ✅ Get Upto 40% SuperCoins Back on Cleartrip Gift Cards [No Cap – Buy Unlimited GVs] 👉 💡 You can use 100% SuperCoins on Cleartrip bookings ——————— ✅ Flat 4% OFF on Apple Store Giftcards 👉 💳 Extra 5% Cashback…",
-    "shortlink": "https://fkrt.co/MKMqUb",
-    "urls": [
-      {
-        "url": "https://fkrt.co/MKMqUb",
-        "label": ""
-      },
-      {
-        "url": "",
-        "label": "💡 You can use 100% SuperCoins on Cleartrip bookings"
-      },
-      {
-        "url": "https://fkrt.co/owtyCj",
-        "label": "✅ Flat 4% OFF on Apple Store Giftcards"
-      },
-      {
-        "url": "",
-        "label": "💳 Extra 5% Cashback with SBI Cashback Card"
-      }
-    ],
-    "raw_text": "Flipkart   🔥 🔥 \n\n✅ Get Upto 40% SuperCoins Back on Cleartrip Gift Cards [No Cap – Buy Unlimited GVs]\n\n👉 https://fkrt.co/MKMqUb\n\n💡 You can use 100% SuperCoins on Cleartrip bookings\n\n———————\n\n✅ Flat 4% OFF on Apple Store Giftcards\n\n👉 https://fkrt.co/owtyCj\n\n💳 Extra 5% Cashback with SBI Cashback Card",
-    "final_url": "https://fkrt.co/MKMqUb",
-    "local_image": "assets/images/tgmsg_17908.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-21T12:18:03+00:00",
-    "buy_link": "https://fkrt.co/MKMqUb",
-    "date_iso": "2025-11-21T12:18:03+00:00"
   }
 ]
