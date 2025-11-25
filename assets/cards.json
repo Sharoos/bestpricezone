@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg18395",
+    "title": "Up to 60% Off On French Connection Clothing",
+    "description": "Myntra : Upto 60% Off On French Connection Clothing. Tshirts : Shirts : Trousers : Jeans : More :",
+    "shortlink": "https://myntr.in/PJpug4",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 60% Off On French Connection Clothing"
+      },
+      {
+        "url": "https://myntr.in/PJpug4",
+        "label": "Tshirts"
+      },
+      {
+        "url": "https://myntr.in/mBuHDe",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://myntr.in/JVVhQz",
+        "label": "Trousers"
+      },
+      {
+        "url": "https://myntr.in/z3FAMZ",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://myntr.in/V1ROGM",
+        "label": "More"
+      }
+    ],
+    "raw_text": "Myntra : Upto 60% Off On French Connection Clothing.\n\nTshirts : https://myntr.in/PJpug4\nShirts : https://myntr.in/mBuHDe\nTrousers : https://myntr.in/JVVhQz\nJeans : https://myntr.in/z3FAMZ\nMore : https://myntr.in/V1ROGM",
+    "final_url": "https://myntr.in/PJpug4",
+    "local_image": "assets/images/tgmsg_18395.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-25T15:35:26+00:00",
+    "buy_link": "https://myntr.in/PJpug4",
+    "date_iso": "2025-11-25T15:35:26+00:00"
+  },
+  {
+    "id": "msg18398",
+    "title": "Up to 70% Off On Men segment only",
+    "description": "Ajio | Upto 70% Off On Men segment only 👉Link : 👉Earn 10% AJIO Super Cash on Every Order",
+    "shortlink": "https://ajiio.co/bpD4AI",
+    "urls": [
+      {
+        "url": "https://ajiio.co/bpD4AI",
+        "label": "Upto 70% Off On Men segment only"
+      },
+      {
+        "url": "",
+        "label": "Earn 10% AJIO Super Cash on Every Order"
+      }
+    ],
+    "raw_text": "Ajio | Upto 70% Off On Men segment only\n\n👉Link : https://ajiio.co/bpD4AI\n\n👉Earn 10% AJIO Super Cash on Every Order",
+    "final_url": "https://ajiio.co/bpD4AI",
+    "local_image": "assets/images/tgmsg_18398.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-25T15:46:28+00:00",
+    "buy_link": "https://ajiio.co/bpD4AI",
+    "date_iso": "2025-11-25T15:46:28+00:00"
+  },
+  {
     "id": "msg18391",
     "title": "149",
     "description": "149 : https://www.amazon.in/dp/B0F7LSQG4Y?social_share=cm_sw_r_cso_wa_apin_dp_F84JAWN03RGSHVMBV287&tag=bestpricezo0f-21",
@@ -8986,57 +9050,5 @@
     "date_obj": "2025-11-21T16:16:48+00:00",
     "buy_link": "https://myntr.in/M6cnwH",
     "date_iso": "2025-11-21T16:16:48+00:00"
-  },
-  {
-    "id": "msg17937",
-    "title": "Liquid Toilet Cleaner 5L @353",
-    "description": "Liquid Toilet Cleaner 5L @353 https://fkrt.co/ndB6oE",
-    "shortlink": "https://fkrt.co/ndB6oE",
-    "urls": [
-      {
-        "url": "https://fkrt.co/ndB6oE",
-        "label": "Liquid Toilet Cleaner 5L @353"
-      }
-    ],
-    "raw_text": "Liquid Toilet Cleaner 5L @353\n\nhttps://fkrt.co/ndB6oE",
-    "final_url": "https://fkrt.co/ndB6oE",
-    "local_image": "assets/images/tgmsg_17937.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-21T15:43:12+00:00",
-    "buy_link": "https://fkrt.co/ndB6oE",
-    "date_iso": "2025-11-21T15:43:12+00:00"
-  },
-  {
-    "id": "msg17938",
-    "title": "Jack & Jones Min 50% Off",
-    "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "shortlink": "https://ajiio.co/bGoPG1",
-    "urls": [
-      {
-        "url": "https://ajiio.co/bGoPG1",
-        "label": "🔥AJIO | Jeans & Shorts Under ₹499"
-      },
-      {
-        "url": "https://ajiio.co/rXZZWs",
-        "label": "Performax Under ₹699"
-      },
-      {
-        "url": "https://ajiio.co/ntxLyo",
-        "label": "Jack & Jones Min 50% Off"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "🔥AJIO | Jeans & Shorts Under ₹499\n👉https://ajiio.co/bGoPG1\n\nPerformax Under ₹699\n👉https://ajiio.co/rXZZWs\n\nJack & Jones Min 50% Off\n👉https://ajiio.co/ntxLyo\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/bGoPG1",
-    "local_image": "assets/images/tgmsg_17938.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-21T15:46:14+00:00",
-    "buy_link": "https://ajiio.co/bGoPG1",
-    "date_iso": "2025-11-21T15:46:14+00:00"
   }
 ]
