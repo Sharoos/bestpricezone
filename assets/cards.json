@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18355",
+    "title": "2 items & get 15% Off",
+    "description": "Noise : Bundle & Save Offer Buy  Buy 3 items & get 20% Off 👉 Link : • Get Extra Discount On Prepaid Payment.",
+    "shortlink": "https://extp.in/Qoqbs7",
+    "urls": [
+      {
+        "url": "https://extp.in/Qoqbs7",
+        "label": "Bundle & Save Offer"
+      },
+      {
+        "url": "",
+        "label": "Get Extra Discount On Prepaid Payment"
+      }
+    ],
+    "raw_text": "Noise : Bundle & Save Offer\n\nBuy 2 items & get 15% Off\nBuy 3 items & get 20% Off\n\n👉 Link : https://extp.in/Qoqbs7\n\n• Get Extra Discount On Prepaid Payment.",
+    "final_url": "https://extp.in/Qoqbs7",
+    "local_image": "assets/images/tgmsg_18355.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-11-25T09:38:15+00:00",
+    "buy_link": "https://extp.in/Qoqbs7",
+    "date_iso": "2025-11-25T09:38:15+00:00"
+  },
+  {
     "id": "msg18351",
     "title": "2 items & get 15% Off",
     "description": "Noise: Bundle & Save Offer Buy  Buy 3 items & get 20% Off Link: • Get Extra Discount On Prepaid Payment.",
@@ -8922,25 +8946,5 @@
     "date_obj": "2025-11-21T12:18:03+00:00",
     "buy_link": "https://fkrt.co/MKMqUb",
     "date_iso": "2025-11-21T12:18:03+00:00"
-  },
-  {
-    "id": "msg17909",
-    "title": "min 60% off",
-    "description": "Myntra | 7D bedsheets on Myntra - min 60% off 👉 Link : https://myntr.in/LEQoJV",
-    "shortlink": "https://myntr.in/LEQoJV",
-    "urls": [
-      {
-        "url": "https://myntr.in/LEQoJV",
-        "label": "7D bedsheets on Myntra - min 60% off"
-      }
-    ],
-    "raw_text": "Myntra | 7D bedsheets on Myntra - min 60% off\n\n👉 Link : https://myntr.in/LEQoJV",
-    "final_url": "https://myntr.in/LEQoJV",
-    "local_image": "assets/images/tgmsg_17909.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-21T12:20:20+00:00",
-    "buy_link": "https://myntr.in/LEQoJV",
-    "date_iso": "2025-11-21T12:20:20+00:00"
   }
 ]
