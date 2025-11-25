@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg18401",
+    "title": "Up to 75% Off On Women Footwear 💥💥",
+    "description": "Myntra : Upto 75% Off On Women Footwear 💥💥 👉Flip Flops : 👉 Flats : 👉 Heels : 👉Shoes :",
+    "shortlink": "https://myntr.in/drq7fO",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On Women Footwear 💥💥"
+      },
+      {
+        "url": "https://myntr.in/drq7fO",
+        "label": "Flip Flops"
+      },
+      {
+        "url": "https://myntr.in/VrHHHg",
+        "label": "Flats"
+      },
+      {
+        "url": "https://myntr.in/wZUP0U",
+        "label": "Heels"
+      },
+      {
+        "url": "https://myntr.in/FHLUiq",
+        "label": "Shoes"
+      }
+    ],
+    "raw_text": "Myntra : Upto 75% Off On Women Footwear 💥💥\n\n👉Flip Flops : https://myntr.in/drq7fO\n👉 Flats : https://myntr.in/VrHHHg\n👉 Heels : https://myntr.in/wZUP0U\n👉Shoes : https://myntr.in/FHLUiq",
+    "final_url": "https://myntr.in/drq7fO",
+    "local_image": "assets/images/tgmsg_18401.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-25T16:53:22+00:00",
+    "buy_link": "https://myntr.in/drq7fO",
+    "date_iso": "2025-11-25T16:53:22+00:00"
+  },
+  {
     "id": "msg18399",
     "title": "Up to 75% Off On Branded Backpack",
     "description": "Myntra | Upto 75% Off On Branded Backpacks. Master Link : Skybags : Safari : Wildcraft : Aristocrat :",
@@ -9066,53 +9102,5 @@
     "date_obj": "2025-11-21T16:34:33+00:00",
     "buy_link": "https://bitli.in/Bdc22ei",
     "date_iso": "2025-11-21T16:34:33+00:00"
-  },
-  {
-    "id": "msg17939",
-    "title": "Up to 70% Off on Buda Jeans Men’s Clothing",
-    "description": "Ajio Upto 70% Off on Buda Jeans Men’s Clothing. T-Shirt : Shirt : Jeans : Trackpant : Shorts : Winterwear : Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "shortlink": "https://ajiio.co/q376dI",
-    "urls": [
-      {
-        "url": "",
-        "label": "Ajio Upto 70% Off on Buda Jeans Men’s Clothing"
-      },
-      {
-        "url": "https://ajiio.co/q376dI",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://ajiio.co/yC1oXx",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://ajiio.co/ePHMu9",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/FL8iO9",
-        "label": "Trackpant"
-      },
-      {
-        "url": "https://ajiio.co/PFA4AH",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.co/yAxnSH",
-        "label": "Winterwear"
-      },
-      {
-        "url": "",
-        "label": "Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "Ajio  Upto 70% Off on Buda Jeans Men’s Clothing.\n\nT-Shirt : https://ajiio.co/q376dI\nShirt : https://ajiio.co/yC1oXx\nJeans : https://ajiio.co/ePHMu9\nTrackpant : https://ajiio.co/FL8iO9\nShorts : https://ajiio.co/PFA4AH\nWinterwear : https://ajiio.co/yAxnSH\n\nBonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/q376dI",
-    "local_image": "assets/images/tgmsg_17939.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-21T16:03:04+00:00",
-    "buy_link": "https://ajiio.co/q376dI",
-    "date_iso": "2025-11-21T16:03:04+00:00"
   }
 ]
