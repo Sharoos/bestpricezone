@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18360",
+    "title": "Croma for Selected Area",
+    "description": "Croma Loot for Selected Areas https://bitli.in/qH9fRWm",
+    "shortlink": "https://bitli.in/qH9fRWm",
+    "urls": [
+      {
+        "url": "https://bitli.in/qH9fRWm",
+        "label": "Croma Loot for Selected Areas"
+      }
+    ],
+    "raw_text": "Croma Loot for Selected Areas\n\nhttps://bitli.in/qH9fRWm",
+    "final_url": "https://bitli.in/qH9fRWm",
+    "local_image": "assets/images/tgmsg_18360.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-11-25T10:42:38+00:00",
+    "buy_link": "https://bitli.in/qH9fRWm",
+    "date_iso": "2025-11-25T10:42:38+00:00"
+  },
+  {
     "id": "msg18358",
     "title": "Bedsheets starting @ 160 only",
     "description": "Myntra :  👉 Winter Blankets starting @ 359 only 👉 Curtain sets starting @ 247 only 👉 Carpets starting @ 439 👉",
@@ -8902,25 +8922,5 @@
     "date_obj": "2025-11-21T12:01:02+00:00",
     "buy_link": "https://www.amazon.in/dp/B0B97G1K7Q?tag=bestpricezo0f-21",
     "date_iso": "2025-11-21T12:01:02+00:00"
-  },
-  {
-    "id": "msg17906",
-    "title": "boAt Power Banks Starts at ₹969",
-    "description": "boAt Power Banks Starts at ₹969. https://fkrt.co/KZ6ToF",
-    "shortlink": "https://fkrt.co/KZ6ToF",
-    "urls": [
-      {
-        "url": "https://fkrt.co/KZ6ToF",
-        "label": "boAt Power Banks Starts at ₹969"
-      }
-    ],
-    "raw_text": "boAt Power Banks Starts at ₹969.\n\nhttps://fkrt.co/KZ6ToF",
-    "final_url": "https://fkrt.co/KZ6ToF",
-    "local_image": "assets/images/tgmsg_17906.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-21T12:12:36+00:00",
-    "buy_link": "https://fkrt.co/KZ6ToF",
-    "date_iso": "2025-11-21T12:12:36+00:00"
   }
 ]
