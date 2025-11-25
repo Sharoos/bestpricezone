@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18406",
+    "title": "TRESemme Up to 58% Off",
+    "description": "Myntra | TRESemme Upto  58% Off https://myntr.in/uch4Ox",
+    "shortlink": "https://myntr.in/uch4Ox",
+    "urls": [
+      {
+        "url": "https://myntr.in/uch4Ox",
+        "label": "TRESemme Upto 58% Off"
+      }
+    ],
+    "raw_text": "Myntra | TRESemme Upto  58% Off\n\nhttps://myntr.in/uch4Ox",
+    "final_url": "https://myntr.in/uch4Ox",
+    "local_image": "assets/images/tgmsg_18406.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-25T17:38:26+00:00",
+    "buy_link": "https://myntr.in/uch4Ox",
+    "date_iso": "2025-11-25T17:38:26+00:00"
+  },
+  {
     "id": "msg18402",
     "title": "Jack & Jones Min 50% Off",
     "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
@@ -9082,25 +9102,5 @@
     "date_obj": "2025-11-21T17:16:41+00:00",
     "buy_link": "https://fkrt.co/FuSMdE",
     "date_iso": "2025-11-21T17:16:41+00:00"
-  },
-  {
-    "id": "msg17945",
-    "title": "METRONAUT Laptop Backpack at RS.332",
-    "description": "Flipkart | METRONAUT Laptop Backpack at RS.332 https://fkrt.co/mezYN3",
-    "shortlink": "https://fkrt.co/mezYN3",
-    "urls": [
-      {
-        "url": "https://fkrt.co/mezYN3",
-        "label": "METRONAUT Laptop Backpack at RS.332"
-      }
-    ],
-    "raw_text": "Flipkart | METRONAUT Laptop Backpack at RS.332\n\nhttps://fkrt.co/mezYN3",
-    "final_url": "https://fkrt.co/mezYN3",
-    "local_image": "assets/images/tgmsg_17945.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-21T16:46:26+00:00",
-    "buy_link": "https://fkrt.co/mezYN3",
-    "date_iso": "2025-11-21T16:46:26+00:00"
   }
 ]
