@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18481",
+    "title": "Devoiler Men's Kurta Up to 90% Off",
+    "description": "Myntra | Devoiler Men's Kurta Upto 90% Off 👉https://myntr.in/zAuORn",
+    "shortlink": "https://myntr.in/zAuORn",
+    "urls": [
+      {
+        "url": "https://myntr.in/zAuORn",
+        "label": "Devoiler Men's Kurta Upto 90% Off"
+      }
+    ],
+    "raw_text": "Myntra | Devoiler Men's Kurta Upto 90% Off\n\n👉https://myntr.in/zAuORn",
+    "final_url": "https://myntr.in/zAuORn",
+    "local_image": "assets/images/tgmsg_18481.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-26T04:55:42+00:00",
+    "buy_link": "https://myntr.in/zAuORn",
+    "date_iso": "2025-11-26T04:55:42+00:00"
+  },
+  {
     "id": "msg18480",
     "title": "Good knight Flash Liquid Vaporiser Machine + Refill at 95",
     "description": "Amazon | Good knight Flash Liquid Vaporiser Machine + Refill at 95. Min 2 : https://www.amazon.in/dp/B07VPB4ZLV?tag=bestpricezo0f-21",
@@ -9474,29 +9494,5 @@
     "date_obj": "2025-11-22T15:18:30+00:00",
     "buy_link": "https://fkrt.co/5JH0Zr",
     "date_iso": "2025-11-22T15:18:30+00:00"
-  },
-  {
-    "id": "msg18039",
-    "title": "Steve Madden, Dune London min 50%",
-    "description": "Ajio | Steve Madden, Dune London min 50% https://ajiio.co/JtVzHA Guess Min 40% https://ajiio.co/FqphaL",
-    "shortlink": "https://ajiio.co/JtVzHA",
-    "urls": [
-      {
-        "url": "https://ajiio.co/JtVzHA",
-        "label": "Steve Madden, Dune London min 50%"
-      },
-      {
-        "url": "https://ajiio.co/FqphaL",
-        "label": "Guess Min 40%"
-      }
-    ],
-    "raw_text": "Ajio | Steve Madden, Dune London min 50%\nhttps://ajiio.co/JtVzHA\n\nGuess Min 40%\nhttps://ajiio.co/FqphaL",
-    "final_url": "https://ajiio.co/JtVzHA",
-    "local_image": "assets/images/tgmsg_18039.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-22T15:01:45+00:00",
-    "buy_link": "https://ajiio.co/JtVzHA",
-    "date_iso": "2025-11-22T15:01:45+00:00"
   }
 ]
