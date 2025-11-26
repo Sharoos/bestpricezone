@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg18574",
+    "title": "Up to 70% Off On The Bear House Clothing",
+    "description": "Flipkart | Upto 70% Off On The Bear House Clothing. Shirts https://fkrt.co/QNn8EA Tshirts https://fkrt.co/duUxXU Jeans https://fkrt.co/epnNrQ",
+    "shortlink": "https://fkrt.co/QNn8EA",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70% Off On The Bear House Clothing"
+      },
+      {
+        "url": "https://fkrt.co/QNn8EA",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://fkrt.co/duUxXU",
+        "label": "Tshirts"
+      },
+      {
+        "url": "https://fkrt.co/epnNrQ",
+        "label": "Jeans"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 70% Off On The Bear House Clothing.\n\nShirts https://fkrt.co/QNn8EA\nTshirts https://fkrt.co/duUxXU\nJeans https://fkrt.co/epnNrQ",
+    "final_url": "https://fkrt.co/QNn8EA",
+    "local_image": "assets/images/tgmsg_18574.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-26T19:51:05+00:00",
+    "buy_link": "https://fkrt.co/QNn8EA",
+    "date_iso": "2025-11-26T19:51:05+00:00"
+  },
+  {
     "id": "msg18570",
     "title": "Min. 70% Off On Branded Luggage",
     "description": "Flipkart | Min. 70% Off On Branded Luggage. Master Link : https://fkrt.co/plxvWf Small : https://fkrt.co/oPRWa1 Medium : https://fkrt.co/q80bVN Large : https://fkrt.co/YGJg9V Pack Of 2 : https://fkrt.co/QBELo0 Pack Of 3…",
@@ -9598,53 +9630,5 @@
     "date_obj": "2025-11-23T12:20:48+00:00",
     "buy_link": "https://myntr.in/N5IyWt",
     "date_iso": "2025-11-23T12:20:48+00:00"
-  },
-  {
-    "id": "msg18129",
-    "title": "Shopsy Grand Mela Deals Under @199",
-    "description": "Shopsy : Grand Mela Deals Under @199 Duffel Bags From @199 👉 Jewellery Sets From @49 👉 Toy Bestsellers From @45 👉 Tops & Tees From @99 👉 Girls Dresses From @119 👉 Fragrances From @59 👉 Wall Clocks From @119 👉",
-    "shortlink": "https://extp.in/oQhIvW",
-    "urls": [
-      {
-        "url": "",
-        "label": "Grand Mela Deals Under @199"
-      },
-      {
-        "url": "https://extp.in/oQhIvW",
-        "label": "Duffel Bags From @199"
-      },
-      {
-        "url": "https://extp.in/Rzpkxi",
-        "label": "Jewellery Sets From @49"
-      },
-      {
-        "url": "https://extp.in/WbEjST",
-        "label": "Toy Bestsellers From @45"
-      },
-      {
-        "url": "https://extp.in/coBfWN",
-        "label": "Tops & Tees From @99"
-      },
-      {
-        "url": "https://extp.in/LEUKsR",
-        "label": "Girls Dresses From @119"
-      },
-      {
-        "url": "https://extp.in/kX5DCr",
-        "label": "Fragrances From @59"
-      },
-      {
-        "url": "https://extp.in/IUKkZJ",
-        "label": "Wall Clocks From @119"
-      }
-    ],
-    "raw_text": "Shopsy : Grand Mela Deals Under @199\n\nDuffel Bags From @199\n👉https://extp.in/oQhIvW\n\nJewellery Sets From @49\n👉https://extp.in/Rzpkxi\n\nToy Bestsellers From @45\n👉https://extp.in/WbEjST\n\nTops & Tees From @99\n👉https://extp.in/coBfWN\n\nGirls Dresses From @119\n👉https://extp.in/LEUKsR\n\nFragrances From @59\n👉https://extp.in/kX5DCr\n\nWall Clocks From @119\n👉https://extp.in/IUKkZJ",
-    "final_url": "https://extp.in/oQhIvW",
-    "local_image": "assets/images/tgmsg_18129.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-23T12:24:48+00:00",
-    "buy_link": "https://extp.in/oQhIvW",
-    "date_iso": "2025-11-23T12:24:48+00:00"
   }
 ]
