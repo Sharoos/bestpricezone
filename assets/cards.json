@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18485",
+    "title": "61% Off On Branded Body Lotion",
+    "description": "Myntra : 50-61% Off On Branded Body Lotions. 👉https://myntr.in/C21m0C (Ponds, Nivea, Vaseline, Parachute, Etc)",
+    "shortlink": "https://myntr.in/C21m0C",
+    "urls": [
+      {
+        "url": "https://myntr.in/C21m0C",
+        "label": "50-61% Off On Branded Body Lotions"
+      },
+      {
+        "url": "",
+        "label": "(Ponds, Nivea, Vaseline, Parachute, Etc)"
+      }
+    ],
+    "raw_text": "Myntra : 50-61% Off On Branded Body Lotions.\n\n👉https://myntr.in/C21m0C\n\n(Ponds, Nivea, Vaseline, Parachute, Etc)",
+    "final_url": "https://myntr.in/C21m0C",
+    "local_image": "assets/images/tgmsg_18485.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-26T05:40:44+00:00",
+    "buy_link": "https://myntr.in/C21m0C",
+    "date_iso": "2025-11-26T05:40:44+00:00"
+  },
+  {
     "id": "msg18482",
     "title": "Up to 80% Off On Skull Candy Audio Wea",
     "description": "Myntra | Upto 80% Off On Skull Candy Audio Wears 👉Link : https://myntr.in/vniKiV",
@@ -9474,29 +9498,5 @@
     "date_obj": "2025-11-22T15:44:46+00:00",
     "buy_link": "https://extp.in/EoSFVQ",
     "date_iso": "2025-11-22T15:44:46+00:00"
-  },
-  {
-    "id": "msg18048",
-    "title": "Jeans Start @279",
-    "description": "Myntra  Men's Tshirt Start @96. 👉https://myntr.in/WsEu17 Jeans Start @279 : https://myntr.in/vSLa8G",
-    "shortlink": "https://myntr.in/WsEu17",
-    "urls": [
-      {
-        "url": "https://myntr.in/WsEu17",
-        "label": "Myntra Men's Tshirt Start @96"
-      },
-      {
-        "url": "https://myntr.in/vSLa8G",
-        "label": "Jeans Start @279"
-      }
-    ],
-    "raw_text": "Myntra  Men's Tshirt Start @96.\n\n👉https://myntr.in/WsEu17\n\nJeans Start @279 : https://myntr.in/vSLa8G",
-    "final_url": "https://myntr.in/WsEu17",
-    "local_image": "assets/images/tgmsg_18048.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-22T15:46:10+00:00",
-    "buy_link": "https://myntr.in/WsEu17",
-    "date_iso": "2025-11-22T15:46:10+00:00"
   }
 ]
