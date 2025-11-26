@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18544",
+    "title": "Men Jeans Starts @ 324",
+    "description": "Myntra | Men Jeans Starts @ 324. 👉https://myntr.in/rYlmUe Women : https://myntr.in/xiNlza",
+    "shortlink": "https://myntr.in/rYlmUe",
+    "urls": [
+      {
+        "url": "https://myntr.in/rYlmUe",
+        "label": "Men Jeans Starts @ 324"
+      },
+      {
+        "url": "https://myntr.in/xiNlza",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | Men Jeans Starts @ 324.\n\n👉https://myntr.in/rYlmUe\n\nWomen : https://myntr.in/xiNlza",
+    "final_url": "https://myntr.in/rYlmUe",
+    "local_image": "assets/images/tgmsg_18544.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-26T14:51:09+00:00",
+    "buy_link": "https://myntr.in/rYlmUe",
+    "date_iso": "2025-11-26T14:51:09+00:00"
+  },
+  {
     "id": "msg18538",
     "title": "Boat Smartwatch at 774",
     "description": "Boat Smartwatch at 774. https://extp.in/8rz0Pi https://extp.in/ZSc37Q",
@@ -9690,29 +9714,5 @@
     "date_obj": "2025-11-23T08:03:58+00:00",
     "buy_link": "https://fkrt.co/7b8r2i",
     "date_iso": "2025-11-23T08:03:58+00:00"
-  },
-  {
-    "id": "msg18102",
-    "title": "boAt Airdopes 131 @ 699",
-    "description": "Amazon | boAt Airdopes 131 @ 699. 👉https://www.amazon.in/dp/B088FKDVL2?th=1&tag=bestpricezo0f-21 👉https://www.amazon.in/dp/B088FKCD4J?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B088FKDVL2?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B088FKDVL2?th=1&tag=bestpricezo0f-21",
-        "label": "boAt Airdopes 131 @ 699"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B088FKCD4J?th=1&tag=bestpricezo0f-21",
-        "label": "boAt Airdopes 131 @ 699"
-      }
-    ],
-    "raw_text": "Amazon | boAt Airdopes 131 @ 699.\n\n👉https://www.amazon.in/dp/B088FKDVL2?th=1&tag=bestpricezo0f-21\n👉https://www.amazon.in/dp/B088FKCD4J?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B088FKDVL2?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18102.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-23T08:16:08+00:00",
-    "buy_link": "https://www.amazon.in/dp/B088FKDVL2?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-23T08:16:08+00:00"
   }
 ]
