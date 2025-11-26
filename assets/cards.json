@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18520",
+    "title": "GenZ fits at flat 70% off",
+    "description": "Myntra | Black Friday sale offer - GenZ fits at flat 70% off - 👉 https://myntr.in/vhEOZE",
+    "shortlink": "https://myntr.in/vhEOZE",
+    "urls": [
+      {
+        "url": "https://myntr.in/vhEOZE",
+        "label": "Black Friday sale offer - GenZ fits at flat 70% off"
+      }
+    ],
+    "raw_text": "Myntra | Black Friday sale offer - GenZ fits at flat 70% off - \n\n👉 https://myntr.in/vhEOZE",
+    "final_url": "https://myntr.in/vhEOZE",
+    "local_image": "assets/images/tgmsg_18520.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-26T11:40:16+00:00",
+    "buy_link": "https://myntr.in/vhEOZE",
+    "date_iso": "2025-11-26T11:40:16+00:00"
+  },
+  {
     "id": "msg18517",
     "title": "Exclusive Armani Exchange Luxe Sale — Flat 60% Off 🔥",
     "description": "AJIO Exclusive: Armani Exchange Luxe Sale — Flat 60% Off 🔥 📌Shop All: Men’s Edit: • T-shirts → • Shirts → • Jeans → • Jackets → • Sweatshirts → Women’s Edit: • T-shirts → • Shirts → • Sweaters → • Trackpants → • Jackets…",
@@ -9598,25 +9618,5 @@
     "date_obj": "2025-11-23T06:12:13+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-23T06:12:13+00:00"
-  },
-  {
-    "id": "msg18086",
-    "title": "Mivi DuoPods Earbuds @599",
-    "description": "Amazon | Mivi DuoPods Earbuds @599. https://www.amazon.in/dp/B0FDGMT97K?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FDGMT97K?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FDGMT97K?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Mivi DuoPods Earbuds @599"
-      }
-    ],
-    "raw_text": "Amazon | Mivi DuoPods Earbuds @599.\n\nhttps://www.amazon.in/dp/B0FDGMT97K?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FDGMT97K?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18086.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-23T05:46:16+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FDGMT97K?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-23T05:46:16+00:00"
   }
 ]
