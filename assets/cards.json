@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg18547",
+    "title": "Story@Home Carpets Up to 72% Off",
+    "description": "Myntra | Story@Home Carpets Upto 72% Off 👉https://myntr.in/pyaqRS",
+    "shortlink": "https://myntr.in/pyaqRS",
+    "urls": [
+      {
+        "url": "https://myntr.in/pyaqRS",
+        "label": "Story@Home Carpets Upto 72% Off"
+      }
+    ],
+    "raw_text": "Myntra | Story@Home Carpets Upto 72% Off\n\n👉https://myntr.in/pyaqRS",
+    "final_url": "https://myntr.in/pyaqRS",
+    "local_image": "assets/images/tgmsg_18547.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-26T15:21:25+00:00",
+    "buy_link": "https://myntr.in/pyaqRS",
+    "date_iso": "2025-11-26T15:21:25+00:00"
+  },
+  {
+    "id": "msg18548",
+    "title": "Liquid Floor Cleaner 5L @348",
+    "description": "Liquid Floor Cleaner 5L @348 https://fkrt.co/6uFkx3",
+    "shortlink": "https://fkrt.co/6uFkx3",
+    "urls": [
+      {
+        "url": "https://fkrt.co/6uFkx3",
+        "label": "Liquid Floor Cleaner 5L @348"
+      }
+    ],
+    "raw_text": "Liquid Floor Cleaner 5L @348\n\nhttps://fkrt.co/6uFkx3",
+    "final_url": "https://fkrt.co/6uFkx3",
+    "local_image": "assets/images/tgmsg_18548.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-26T15:32:14+00:00",
+    "buy_link": "https://fkrt.co/6uFkx3",
+    "date_iso": "2025-11-26T15:32:14+00:00"
+  },
+  {
     "id": "msg18546",
     "title": "essence Premium Age lux eye serum & applicator at 60% flat discount",
     "description": "Myntra | Bio-essence Premium Age lux eye serum & applicator at 60% flat discount + Additional coupons applicable. https://myntr.in/l6ophh",
@@ -9654,49 +9694,5 @@
     "date_obj": "2025-11-23T09:18:30+00:00",
     "buy_link": "https://myntr.in/OobrZ2",
     "date_iso": "2025-11-23T09:18:30+00:00"
-  },
-  {
-    "id": "msg18104",
-    "title": "Monte Carlo blanket and bedsheets min 50% off",
-    "description": "Myntra | Monte Carlo blanket and bedsheets min 50% off. https://myntr.in/qb7kxo",
-    "shortlink": "https://myntr.in/qb7kxo",
-    "urls": [
-      {
-        "url": "https://myntr.in/qb7kxo",
-        "label": "Monte Carlo blanket and bedsheets min 50% off"
-      }
-    ],
-    "raw_text": "Myntra | Monte Carlo blanket and bedsheets min 50% off.\n\nhttps://myntr.in/qb7kxo",
-    "final_url": "https://myntr.in/qb7kxo",
-    "local_image": "assets/images/tgmsg_18104.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-23T08:46:00+00:00",
-    "buy_link": "https://myntr.in/qb7kxo",
-    "date_iso": "2025-11-23T08:46:00+00:00"
-  },
-  {
-    "id": "msg18103",
-    "title": "Up to 90% Off On Desh Bidesh Saree",
-    "description": "Myntra : Upto 90% Off On Desh Bidesh Sarees https://myntr.in/xEZzk6 https://myntr.in/SQhoDN",
-    "shortlink": "https://myntr.in/xEZzk6",
-    "urls": [
-      {
-        "url": "https://myntr.in/xEZzk6",
-        "label": "Upto 90% Off On Desh Bidesh Sarees"
-      },
-      {
-        "url": "https://myntr.in/SQhoDN",
-        "label": ""
-      }
-    ],
-    "raw_text": "Myntra : Upto 90% Off On Desh Bidesh Sarees \n\nhttps://myntr.in/xEZzk6\nhttps://myntr.in/SQhoDN",
-    "final_url": "https://myntr.in/xEZzk6",
-    "local_image": "assets/images/tgmsg_18103.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-23T08:32:43+00:00",
-    "buy_link": "https://myntr.in/xEZzk6",
-    "date_iso": "2025-11-23T08:32:43+00:00"
   }
 ]
