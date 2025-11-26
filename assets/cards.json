@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18549",
+    "title": "TIARAA Offer — Any 3 Bracelets @199 (Including Shipping)",
+    "description": "TIARAA Loot Offer — Any 3 Bracelets @199 (Including Shipping) ✅Use Code: LOOT3 Link:",
+    "shortlink": "https://bitli.in/f92tXz2",
+    "urls": [
+      {
+        "url": "",
+        "label": "TIARAA Loot Offer — Any 3 Bracelets @199 (Including Shipping)"
+      },
+      {
+        "url": "https://bitli.in/f92tXz2",
+        "label": "✅Use Code: LOOT3"
+      }
+    ],
+    "raw_text": "TIARAA Loot Offer — Any 3 Bracelets @199 (Including Shipping)\n\n✅Use Code: LOOT3\n\nLink: https://bitli.in/f92tXz2",
+    "final_url": "https://bitli.in/f92tXz2",
+    "local_image": "assets/images/tgmsg_18549.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-11-26T15:46:43+00:00",
+    "buy_link": "https://bitli.in/f92tXz2",
+    "date_iso": "2025-11-26T15:46:43+00:00"
+  },
+  {
     "id": "msg18547",
     "title": "Story@Home Carpets Up to 72% Off",
     "description": "Myntra | Story@Home Carpets Upto 72% Off 👉https://myntr.in/pyaqRS",
@@ -9650,49 +9674,5 @@
     "date_obj": "2025-11-23T09:11:59+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DCSNDVPD?psc=1&smid=A2AL6IVND0I91F&tag=bestpricezo0f-21",
     "date_iso": "2025-11-23T09:11:59+00:00"
-  },
-  {
-    "id": "msg18108",
-    "title": "🎶 Up to 50 hrs Playtime ENC Dual Pairing",
-    "description": "🔊 Myntra | Audio Gadget Steal Deals (Bundle) 1️⃣ Nu Republic Epic X3 Earbuds 🎧 Upto 48 hrs Playtime | ENC | X-Bass Technology 💰 Only Rs. 499 👉 2️⃣ Nu Republic Pulse Metal Wireless Neckband 🎶 Upto 50 hrs Playtime | ENC |…",
-    "shortlink": "https://myntr.in/OobrZ2",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔊 Myntra | Audio Gadget Steal Deals (Bundle)"
-      },
-      {
-        "url": "",
-        "label": "1️⃣ Nu Republic Epic X3 Earbuds"
-      },
-      {
-        "url": "",
-        "label": "🎧 Upto 48 hrs Playtime | ENC | X-Bass Technology"
-      },
-      {
-        "url": "https://myntr.in/OobrZ2",
-        "label": "💰 Only Rs. 499"
-      },
-      {
-        "url": "",
-        "label": "2️⃣ Nu Republic Pulse Metal Wireless Neckband"
-      },
-      {
-        "url": "",
-        "label": "🎶 Upto 50 hrs Playtime | ENC | Dual Pairing"
-      },
-      {
-        "url": "https://myntr.in/5te1XI",
-        "label": "💰 Only Rs. 419"
-      }
-    ],
-    "raw_text": "🔊 Myntra | Audio Gadget Steal Deals (Bundle)\n\n1️⃣ Nu Republic Epic X3 Earbuds\n🎧 Upto 48 hrs Playtime | ENC | X-Bass Technology\n💰 Only Rs. 499\n👉 https://myntr.in/OobrZ2\n\n2️⃣ Nu Republic Pulse Metal Wireless Neckband\n🎶 Upto 50 hrs Playtime | ENC | Dual Pairing\n💰 Only Rs. 419\n👉 https://myntr.in/5te1XI",
-    "final_url": "https://myntr.in/OobrZ2",
-    "local_image": "assets/images/tgmsg_18108.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-23T09:18:30+00:00",
-    "buy_link": "https://myntr.in/OobrZ2",
-    "date_iso": "2025-11-23T09:18:30+00:00"
   }
 ]
