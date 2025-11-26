@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg18560",
+    "title": "Deal Price ₹464 only",
+    "description": "✨Myntra | L’Oréal Paris Total Repair 5 – Repairing Shampoo (1L) ✨ MRP: ₹1,409 Deal Price: ₹464 only Discount: Flat 67% OFF",
+    "shortlink": "https://myntr.in/D0Qakz",
+    "urls": [
+      {
+        "url": "",
+        "label": "✨Myntra | L’Oréal Paris Total Repair 5 – Repairing Shampoo (1L) ✨"
+      },
+      {
+        "url": "",
+        "label": "₹1,409"
+      },
+      {
+        "url": "",
+        "label": "₹464 only"
+      },
+      {
+        "url": "https://myntr.in/D0Qakz",
+        "label": "Flat 67% OFF"
+      }
+    ],
+    "raw_text": "✨Myntra | L’Oréal Paris Total Repair 5 – Repairing Shampoo (1L) ✨\n\nMRP: ₹1,409\nDeal Price: ₹464 only\nDiscount: Flat 67% OFF\n\nhttps://myntr.in/D0Qakz",
+    "final_url": "https://myntr.in/D0Qakz",
+    "local_image": "assets/images/tgmsg_18560.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-26T17:43:08+00:00",
+    "buy_link": "https://myntr.in/D0Qakz",
+    "date_iso": "2025-11-26T17:43:08+00:00"
+  },
+  {
     "id": "msg18558",
     "title": "Up to 80% Off On Allen Cooper Clothing",
     "description": "Ajio Upto 80% Off On Allen Cooper Clothing. Master Link : T-Shirt : Jeans : Shirts : Jacket : Shoes : Spykar Clothing. Men's : Women's : Puma Clothing. Men’s : Women’s :",
@@ -9634,29 +9666,5 @@
     "date_obj": "2025-11-23T11:18:02+00:00",
     "buy_link": "https://ajiio.co/A46Nri",
     "date_iso": "2025-11-23T11:18:02+00:00"
-  },
-  {
-    "id": "msg18115",
-    "title": "60% Off On Branded Body Lotion",
-    "description": "Myntra : 50-60% Off On Branded Body Lotions. 👉https://myntr.in/IPJeTo (Ponds, Nivea, Vaseline, Parachute, Etc)",
-    "shortlink": "https://myntr.in/IPJeTo",
-    "urls": [
-      {
-        "url": "https://myntr.in/IPJeTo",
-        "label": "50-60% Off On Branded Body Lotions"
-      },
-      {
-        "url": "",
-        "label": "(Ponds, Nivea, Vaseline, Parachute, Etc)"
-      }
-    ],
-    "raw_text": "Myntra : 50-60% Off On Branded Body Lotions.\n\n👉https://myntr.in/IPJeTo\n\n(Ponds, Nivea, Vaseline, Parachute, Etc)",
-    "final_url": "https://myntr.in/IPJeTo",
-    "local_image": "assets/images/tgmsg_18115.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-23T10:48:37+00:00",
-    "buy_link": "https://myntr.in/IPJeTo",
-    "date_iso": "2025-11-23T10:48:37+00:00"
   }
 ]
