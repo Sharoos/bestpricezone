@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18522",
+    "title": "Doormats starting just @ 99",
+    "description": "Myntra | Doormats starting just @ 99 👉https://myntr.in/LJdd9u",
+    "shortlink": "https://myntr.in/LJdd9u",
+    "urls": [
+      {
+        "url": "https://myntr.in/LJdd9u",
+        "label": "Doormats starting just @ 99"
+      }
+    ],
+    "raw_text": "Myntra | Doormats starting just @ 99\n\n👉https://myntr.in/LJdd9u",
+    "final_url": "https://myntr.in/LJdd9u",
+    "local_image": "assets/images/tgmsg_18522.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-26T11:50:15+00:00",
+    "buy_link": "https://myntr.in/LJdd9u",
+    "date_iso": "2025-11-26T11:50:15+00:00"
+  },
+  {
     "id": "msg18520",
     "title": "GenZ fits at flat 70% off",
     "description": "Myntra | Black Friday sale offer - GenZ fits at flat 70% off - 👉 https://myntr.in/vhEOZE",
@@ -9594,29 +9614,5 @@
     "date_obj": "2025-11-23T06:45:05+00:00",
     "buy_link": "https://myntr.in/bv9Oft",
     "date_iso": "2025-11-23T06:45:05+00:00"
-  },
-  {
-    "id": "msg18087",
-    "title": "Lavie Sport 29L Laptop Backpack @ 449",
-    "description": "Amazon | Lavie Sport 29L Laptop Backpack @ 449. 👉https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21 👉https://www.amazon.in/dp/B0FNNB768S?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21",
-        "label": "Lavie Sport 29L Laptop Backpack @ 449"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0FNNB768S?th=1&tag=bestpricezo0f-21",
-        "label": "Lavie Sport 29L Laptop Backpack @ 449"
-      }
-    ],
-    "raw_text": "Amazon | Lavie Sport 29L Laptop Backpack @ 449.\n\n👉https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21\n👉https://www.amazon.in/dp/B0FNNB768S?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18087.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-23T06:12:13+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FNN6QH9Z?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-23T06:12:13+00:00"
   }
 ]
