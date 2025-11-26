@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18546",
+    "title": "essence Premium Age lux eye serum & applicator at 60% flat discount",
+    "description": "Myntra | Bio-essence Premium Age lux eye serum & applicator at 60% flat discount + Additional coupons applicable. https://myntr.in/l6ophh",
+    "shortlink": "https://myntr.in/l6ophh",
+    "urls": [
+      {
+        "url": "",
+        "label": "Bio-essence Premium Age lux eye serum & applicator at 60% flat discount"
+      },
+      {
+        "url": "https://myntr.in/l6ophh",
+        "label": "+ Additional coupons applicable"
+      }
+    ],
+    "raw_text": "Myntra | Bio-essence Premium Age lux eye serum & applicator at 60% flat discount \n\n+ Additional coupons applicable.\n\nhttps://myntr.in/l6ophh",
+    "final_url": "https://myntr.in/l6ophh",
+    "local_image": "assets/images/tgmsg_18546.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-26T15:05:04+00:00",
+    "buy_link": "https://myntr.in/l6ophh",
+    "date_iso": "2025-11-26T15:05:04+00:00"
+  },
+  {
     "id": "msg18544",
     "title": "Men Jeans Starts @ 324",
     "description": "Myntra | Men Jeans Starts @ 324. 👉https://myntr.in/rYlmUe Women : https://myntr.in/xiNlza",
@@ -9674,45 +9698,5 @@
     "date_obj": "2025-11-23T08:32:43+00:00",
     "buy_link": "https://myntr.in/xEZzk6",
     "date_iso": "2025-11-23T08:32:43+00:00"
-  },
-  {
-    "id": "msg18101",
-    "title": "Up to 80% Off On Chemistry Women's Clothing",
-    "description": "Flipkart | Upto 80% Off On Chemistry Women's Clothing. Topwear : Bottomwear : Dresses : Blazers : Co-Ords :",
-    "shortlink": "https://fkrt.co/7b8r2i",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Chemistry Women's Clothing"
-      },
-      {
-        "url": "https://fkrt.co/7b8r2i",
-        "label": "Topwear"
-      },
-      {
-        "url": "https://fkrt.co/SII06I",
-        "label": "Bottomwear"
-      },
-      {
-        "url": "https://fkrt.co/6b9SO4",
-        "label": "Dresses"
-      },
-      {
-        "url": "https://fkrt.co/ANkWP0",
-        "label": "Blazers"
-      },
-      {
-        "url": "https://fkrt.co/Pi5yUy",
-        "label": "Ords"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 80% Off On Chemistry Women's Clothing.\n\nTopwear : https://fkrt.co/7b8r2i\nBottomwear : https://fkrt.co/SII06I\nDresses : https://fkrt.co/6b9SO4\nBlazers : https://fkrt.co/ANkWP0\nCo-Ords : https://fkrt.co/Pi5yUy",
-    "final_url": "https://fkrt.co/7b8r2i",
-    "local_image": "assets/images/tgmsg_18101.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-23T08:03:58+00:00",
-    "buy_link": "https://fkrt.co/7b8r2i",
-    "date_iso": "2025-11-23T08:03:58+00:00"
   }
 ]
