@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18537",
+    "title": "Min. 80% Off On Lee Cooper Watche",
+    "description": "AJIO  Min. 80% Off On Lee Cooper Watches. Link : https://ajiio.co/XiU20n + Extra 10% AJIO Super Cash.",
+    "shortlink": "https://ajiio.co/XiU20n",
+    "urls": [
+      {
+        "url": "https://ajiio.co/XiU20n",
+        "label": "AJIO Min. 80% Off On Lee Cooper Watches"
+      },
+      {
+        "url": "",
+        "label": "+ Extra 10% AJIO Super Cash"
+      }
+    ],
+    "raw_text": "AJIO  Min. 80% Off On Lee Cooper Watches. \n\nLink : https://ajiio.co/XiU20n\n\n+ Extra 10% AJIO Super Cash.",
+    "final_url": "https://ajiio.co/XiU20n",
+    "local_image": "assets/images/tgmsg_18537.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-26T14:06:00+00:00",
+    "buy_link": "https://ajiio.co/XiU20n",
+    "date_iso": "2025-11-26T14:06:00+00:00"
+  },
+  {
     "id": "msg18533",
     "title": "Up to 80% Off On Branded Clothing",
     "description": "AJIO Upto 80% Off On Branded Clothing. Men's : Shirts : Jeans : T-shirts : Jackets : Sweatshirts : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
@@ -9682,25 +9706,5 @@
     "date_obj": "2025-11-23T07:29:04+00:00",
     "buy_link": "https://myntr.in/l2sqTF",
     "date_iso": "2025-11-23T07:29:04+00:00"
-  },
-  {
-    "id": "msg18094",
-    "title": "Up to 80% Off On Levi's Sneake",
-    "description": "Amazon | Upto 80% Off On Levi's Sneakers. 👉https://www.amazon.in/s?k=Levi%2527s%2520Men%2520Sneaker&i=shoes&s=price-asc-rank&ds=v1%253AP%252FNyvHf1NQZq8kfQzg7sr27jd7cL367rba3yJSfDc4k&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/s?k=Levi%2527s%2520Men%2520Sneaker&i=shoes&s=price-asc-rank&ds=v1%253AP%252FNyvHf1NQZq8kfQzg7sr27jd7cL367rba3yJSfDc4k&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?k=Levi%2527s%2520Men%2520Sneaker&i=shoes&s=price-asc-rank&ds=v1%253AP%252FNyvHf1NQZq8kfQzg7sr27jd7cL367rba3yJSfDc4k&tag=bestpricezo0f-21",
-        "label": "Upto 80% Off On Levi's Sneakers"
-      }
-    ],
-    "raw_text": "Amazon | Upto 80% Off On Levi's Sneakers.\n\n👉https://www.amazon.in/s?k=Levi%2527s%2520Men%2520Sneaker&i=shoes&s=price-asc-rank&ds=v1%253AP%252FNyvHf1NQZq8kfQzg7sr27jd7cL367rba3yJSfDc4k&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/s?k=Levi%2527s%2520Men%2520Sneaker&i=shoes&s=price-asc-rank&ds=v1%253AP%252FNyvHf1NQZq8kfQzg7sr27jd7cL367rba3yJSfDc4k&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18094.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-23T07:08:11+00:00",
-    "buy_link": "https://www.amazon.in/s?k=Levi%2527s%2520Men%2520Sneaker&i=shoes&s=price-asc-rank&ds=v1%253AP%252FNyvHf1NQZq8kfQzg7sr27jd7cL367rba3yJSfDc4k&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-23T07:08:11+00:00"
   }
 ]
