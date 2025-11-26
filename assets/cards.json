@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg18476",
+    "title": "+ 10% Cashback",
+    "description": "Ajio | Branded Men's T-Shirts from Rs.75 👉 Branded Men's Shirts from Rs.180 👉 + 10% Ajio Cashback",
+    "shortlink": "https://ajiio.co/8vflEO",
+    "urls": [
+      {
+        "url": "https://ajiio.co/8vflEO",
+        "label": "Branded Men's T-Shirts from Rs.75"
+      },
+      {
+        "url": "https://ajiio.co/Xgm6jM",
+        "label": "Branded Men's Shirts from Rs.180"
+      },
+      {
+        "url": "",
+        "label": "+ 10% Ajio Cashback"
+      }
+    ],
+    "raw_text": "Ajio | Branded Men's T-Shirts from Rs.75\n\n👉https://ajiio.co/8vflEO \n\n Branded Men's Shirts from Rs.180\n\n👉https://ajiio.co/Xgm6jM\n\n+ 10% Ajio Cashback",
+    "final_url": "https://ajiio.co/8vflEO",
+    "local_image": "assets/images/tgmsg_18476.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-26T03:40:04+00:00",
+    "buy_link": "https://ajiio.co/8vflEO",
+    "date_iso": "2025-11-26T03:40:04+00:00"
+  },
+  {
     "id": "msg18463",
     "title": "Up to 89% Off On Kook N Keech Clothing",
     "description": "Myntra : Upto 89% Off On Kook N Keech Clothing. Women : Men : T-shirt : Shirts : Trackpants : Sweatshirt : Dresses :",
@@ -9446,29 +9474,5 @@
     "date_obj": "2025-11-22T14:42:51+00:00",
     "buy_link": "https://fkrt.co/N246Zp",
     "date_iso": "2025-11-22T14:42:51+00:00"
-  },
-  {
-    "id": "msg18035",
-    "title": "🔥Single Fleece Blanket ₹96",
-    "description": "🔥Single Fleece Blanket ₹96 https://extp.in/e9auOV Minimum Order 2.",
-    "shortlink": "https://extp.in/e9auOV",
-    "urls": [
-      {
-        "url": "https://extp.in/e9auOV",
-        "label": "🔥Single Fleece Blanket ₹96"
-      },
-      {
-        "url": "",
-        "label": "Minimum Order 2"
-      }
-    ],
-    "raw_text": "🔥Single Fleece Blanket ₹96\n\nhttps://extp.in/e9auOV\n\nMinimum Order 2.",
-    "final_url": "https://extp.in/e9auOV",
-    "local_image": "assets/images/tgmsg_18035.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-22T14:25:55+00:00",
-    "buy_link": "https://extp.in/e9auOV",
-    "date_iso": "2025-11-22T14:25:55+00:00"
   }
 ]
