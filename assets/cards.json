@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18561",
+    "title": "Trampoline & Kuchipoo Up to 80%",
+    "description": "Ajio | Trampoline & Kuchipoo Upto 80% https://ajiio.co/zF6G7G Jockey under 699 https://ajiio.co/7GCHze",
+    "shortlink": "https://ajiio.co/zF6G7G",
+    "urls": [
+      {
+        "url": "https://ajiio.co/zF6G7G",
+        "label": "Trampoline & Kuchipoo Upto 80%"
+      },
+      {
+        "url": "https://ajiio.co/7GCHze",
+        "label": "Jockey under 699"
+      }
+    ],
+    "raw_text": "Ajio | Trampoline & Kuchipoo Upto 80%\nhttps://ajiio.co/zF6G7G\n\nJockey under 699\nhttps://ajiio.co/7GCHze",
+    "final_url": "https://ajiio.co/zF6G7G",
+    "local_image": "assets/images/tgmsg_18561.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-26T17:51:01+00:00",
+    "buy_link": "https://ajiio.co/zF6G7G",
+    "date_iso": "2025-11-26T17:51:01+00:00"
+  },
+  {
     "id": "msg18560",
     "title": "Deal Price ₹464 only",
     "description": "✨Myntra | L’Oréal Paris Total Repair 5 – Repairing Shampoo (1L) ✨ MRP: ₹1,409 Deal Price: ₹464 only Discount: Flat 67% OFF",
@@ -9642,29 +9666,5 @@
     "date_obj": "2025-11-23T11:18:01+00:00",
     "buy_link": "https://fkrt.co/sWGjeU",
     "date_iso": "2025-11-23T11:18:01+00:00"
-  },
-  {
-    "id": "msg18120",
-    "title": "🛍 + Extra 10% Super Cash! 🎉",
-    "description": "Ajio | WOMEN'S Sarees Starting @ just 198 Links : 🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "shortlink": "https://ajiio.co/A46Nri",
-    "urls": [
-      {
-        "url": "https://ajiio.co/A46Nri",
-        "label": "WOMEN'S Sarees Starting @ just 198"
-      },
-      {
-        "url": "",
-        "label": "🛍 + Extra 10% AJIO Super Cash! 🎉"
-      }
-    ],
-    "raw_text": "Ajio | WOMEN'S Sarees Starting @ just 198 \n \nLinks :  https://ajiio.co/A46Nri\n\n🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "final_url": "https://ajiio.co/A46Nri",
-    "local_image": "assets/images/tgmsg_18120.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-23T11:18:02+00:00",
-    "buy_link": "https://ajiio.co/A46Nri",
-    "date_iso": "2025-11-23T11:18:02+00:00"
   }
 ]
