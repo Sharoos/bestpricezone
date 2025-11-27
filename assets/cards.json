@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18660",
+    "title": "Pigeon 3.5 L Pressure Cooker at 606",
+    "description": "Flipkart | Pigeon 3.5 L Pressure Cooker at 606. https://fkrt.co/h6qGC2",
+    "shortlink": "https://fkrt.co/h6qGC2",
+    "urls": [
+      {
+        "url": "https://fkrt.co/h6qGC2",
+        "label": "Pigeon 3.5 L Pressure Cooker at 606"
+      }
+    ],
+    "raw_text": "Flipkart | Pigeon 3.5 L Pressure Cooker at 606.\n\n https://fkrt.co/h6qGC2",
+    "final_url": "https://fkrt.co/h6qGC2",
+    "local_image": "assets/images/tgmsg_18660.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-27T13:45:34+00:00",
+    "buy_link": "https://fkrt.co/h6qGC2",
+    "date_iso": "2025-11-27T13:45:34+00:00"
+  },
+  {
     "id": "msg18655",
     "title": "Up to 80% Off on fashion, accessories, home picks & more",
     "description": "🖤 Savana Black Friday Deals LIVE! 🛍 Upto 80% Off on fashion, accessories, home picks & more • Fresh drops • Trendy finds • Budget-friendly steals Shop Now : Check the latest Black Friday picks now! 💫",
@@ -9802,29 +9822,5 @@
     "date_obj": "2025-11-24T07:03:13+00:00",
     "buy_link": "https://fkrt.co/I3L2K1",
     "date_iso": "2025-11-24T07:03:13+00:00"
-  },
-  {
-    "id": "msg18218",
-    "title": "Deal Price ₹999",
-    "description": "Amazon | boAt Rockerz 558 Bluetooth Wireless Over Ear Headphones with... Deal Price: ₹999 👉",
-    "shortlink": "https://www.amazon.in/dp/B0BVRGZ9FV?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "boAt Rockerz 558 Bluetooth Wireless Over Ear Headphones with"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0BVRGZ9FV?psc=1&tag=bestpricezo0f-21",
-        "label": "₹999"
-      }
-    ],
-    "raw_text": "Amazon | boAt Rockerz 558 Bluetooth Wireless Over Ear Headphones with...\n\nDeal Price: ₹999 \n\n👉 https://www.amazon.in/dp/B0BVRGZ9FV?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BVRGZ9FV?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18218.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-24T07:15:31+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BVRGZ9FV?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-24T07:15:31+00:00"
   }
 ]
