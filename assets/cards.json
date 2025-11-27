@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18643",
+    "title": "189",
+    "description": "189 : https://www.amazon.in/dp/B0FD1QT7GG?social_share=cm_sw_r_cso_wa_apan_dp_Y1GVC2YD9DR3WJ8MTJMN&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FD1QT7GG?social_share=cm_sw_r_cso_wa_apan_dp_Y1GVC2YD9DR3WJ8MTJMN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FD1QT7GG?social_share=cm_sw_r_cso_wa_apan_dp_Y1GVC2YD9DR3WJ8MTJMN&tag=bestpricezo0f-21",
+        "label": "189"
+      }
+    ],
+    "raw_text": "189 : https://www.amazon.in/dp/B0FD1QT7GG?social_share=cm_sw_r_cso_wa_apan_dp_Y1GVC2YD9DR3WJ8MTJMN&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FD1QT7GG?social_share=cm_sw_r_cso_wa_apan_dp_Y1GVC2YD9DR3WJ8MTJMN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_18643.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-27T11:42:52+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FD1QT7GG?social_share=cm_sw_r_cso_wa_apan_dp_Y1GVC2YD9DR3WJ8MTJMN&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-27T11:42:52+00:00"
+  },
+  {
     "id": "msg18641",
     "title": "💰 Open Kotak 811 Savings Account now & get ₹6,000 Cashback + 5.75% Interest 😍",
     "description": "📣 SMART BANKING, BIGGER SAVINGS!  🌟 Benefits You Get : ✔️ ₹6,000 Cashback with 811 Super ✔️ 5.75%* Interest with ActivMoney ✔️ 100% Digital Process (No Branch Visit) ✔️ Quick & Secure Online KYC 🧧 Open your account with…",
@@ -9722,45 +9742,5 @@
     "date_obj": "2025-11-24T04:18:04+00:00",
     "buy_link": "https://fkrt.co/cf2BMI",
     "date_iso": "2025-11-24T04:18:04+00:00"
-  },
-  {
-    "id": "msg18199",
-    "title": "Tracksuits Starts @701",
-    "description": "Myntra | Tracksuits Starts @701 Women : https://myntr.in/rGdGQn Men : https://myntr.in/ge5T0a Trackpants from ₹375 Men : https://myntr.in/rZiMXB Women : https://myntr.in/kq1qHE",
-    "shortlink": "https://myntr.in/rGdGQn",
-    "urls": [
-      {
-        "url": "",
-        "label": "Tracksuits Starts @701"
-      },
-      {
-        "url": "https://myntr.in/rGdGQn",
-        "label": "Women"
-      },
-      {
-        "url": "https://myntr.in/ge5T0a",
-        "label": "Men"
-      },
-      {
-        "url": "",
-        "label": "Trackpants from ₹375"
-      },
-      {
-        "url": "https://myntr.in/rZiMXB",
-        "label": "Men"
-      },
-      {
-        "url": "https://myntr.in/kq1qHE",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Myntra | Tracksuits Starts @701\n\nWomen : https://myntr.in/rGdGQn\nMen : https://myntr.in/ge5T0a\n\nTrackpants from ₹375\n\nMen : https://myntr.in/rZiMXB\nWomen : https://myntr.in/kq1qHE",
-    "final_url": "https://myntr.in/rGdGQn",
-    "local_image": "assets/images/tgmsg_18199.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-24T04:31:10+00:00",
-    "buy_link": "https://myntr.in/rGdGQn",
-    "date_iso": "2025-11-24T04:31:10+00:00"
   }
 ]
