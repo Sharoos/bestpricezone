@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg18585",
+    "title": "Bajaj HamaraMall Deal",
+    "description": "s. Use Code : EXTRA30 CareVeda Shikakai Shampoo, 100ml at ₹29 : Rose Toner, 100ml at ₹29 : Multani Mitti Face Pack at ₹39 : Charcoal Face Wash 100g at ₹69 : *Limited Period Offer.",
+    "shortlink": "https://extp.in/PpE0Ns",
+    "urls": [
+      {
+        "url": "",
+        "label": "Bajaj HamaraMall Deals"
+      },
+      {
+        "url": "",
+        "label": "EXTRA30"
+      },
+      {
+        "url": "https://extp.in/PpE0Ns",
+        "label": "CareVeda Shikakai Shampoo, 100ml at ₹29"
+      },
+      {
+        "url": "https://extp.in/EIMLrG",
+        "label": "Rose Toner, 100ml at ₹29"
+      },
+      {
+        "url": "https://extp.in/fRWCLH",
+        "label": "Multani Mitti Face Pack at ₹39"
+      },
+      {
+        "url": "https://extp.in/NmVpTn",
+        "label": "Charcoal Face Wash 100g at ₹69"
+      },
+      {
+        "url": "",
+        "label": "Limited Period Offer"
+      }
+    ],
+    "raw_text": "Bajaj HamaraMall  Deals. \n\nUse Code : EXTRA30\n\nCareVeda Shikakai Shampoo, 100ml at ₹29 : https://extp.in/PpE0Ns\nRose Toner, 100ml at ₹29 : https://extp.in/EIMLrG\nMultani Mitti Face Pack at ₹39 : https://extp.in/fRWCLH\nCharcoal Face Wash 100g at ₹69 : https://extp.in/NmVpTn\n\n*Limited Period Offer.",
+    "final_url": "https://extp.in/PpE0Ns",
+    "local_image": "assets/images/tgmsg_18585.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-11-27T03:52:03+00:00",
+    "buy_link": "https://extp.in/PpE0Ns",
+    "date_iso": "2025-11-27T03:52:03+00:00"
+  },
+  {
     "id": "msg18583",
     "title": "Raymond Home Premium Bedsheet at flat 1499 Rs. Lowest Acro",
     "description": "https://myntr.in/t0tZR3 *Raymond Home Premium Bedsheet at flat 1499 Rs. Lowest Across*",
@@ -9610,25 +9654,5 @@
     "date_obj": "2025-11-23T13:02:00+00:00",
     "buy_link": "https://myntr.in/Q36Nx2",
     "date_iso": "2025-11-23T13:02:00+00:00"
-  },
-  {
-    "id": "msg18137",
-    "title": "GOBOULT Bassbox 5W Bluetooth Speaker @ 699",
-    "description": "Amazon | GOBOULT Bassbox 5W Bluetooth Speaker @ 699. https://www.amazon.in/dp/B0DWXX5Z5K?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DWXX5Z5K?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DWXX5Z5K?th=1&tag=bestpricezo0f-21",
-        "label": "GOBOULT Bassbox 5W Bluetooth Speaker @ 699"
-      }
-    ],
-    "raw_text": "Amazon | GOBOULT Bassbox 5W Bluetooth Speaker @ 699.\n\nhttps://www.amazon.in/dp/B0DWXX5Z5K?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DWXX5Z5K?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18137.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-23T13:02:45+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DWXX5Z5K?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-23T13:02:45+00:00"
   }
 ]
