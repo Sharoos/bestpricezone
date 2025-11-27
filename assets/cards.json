@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg18586",
+    "title": "Up to 84% Off On Performax Clothing",
+    "description": "AJIO Loot : Upto 84% Off On Performax Clothing. Men’s : Shoes : Women’s : Shoes :",
+    "shortlink": "https://ajiio.in/E7K0WzK",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 84% Off On Performax Clothing"
+      },
+      {
+        "url": "https://ajiio.in/E7K0WzK",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.in/rEf18B9",
+        "label": "Shoes"
+      },
+      {
+        "url": "https://ajiio.in/4Bx6LsW",
+        "label": "Women’s"
+      },
+      {
+        "url": "https://ajiio.in/PqH7iA5",
+        "label": "Shoes"
+      }
+    ],
+    "raw_text": "AJIO Loot : Upto 84% Off On Performax Clothing.\n\nMen’s : https://ajiio.in/E7K0WzK\nShoes : https://ajiio.in/rEf18B9\n\nWomen’s : https://ajiio.in/4Bx6LsW\nShoes : https://ajiio.in/PqH7iA5",
+    "final_url": "https://ajiio.in/E7K0WzK",
+    "local_image": "assets/images/tgmsg_18586.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-27T04:08:01+00:00",
+    "buy_link": "https://ajiio.in/E7K0WzK",
+    "date_iso": "2025-11-27T04:08:01+00:00"
+  },
+  {
     "id": "msg18585",
     "title": "Bajaj HamaraMall Deal",
     "description": "s. Use Code : EXTRA30 CareVeda Shikakai Shampoo, 100ml at ₹29 : Rose Toner, 100ml at ₹29 : Multani Mitti Face Pack at ₹39 : Charcoal Face Wash 100g at ₹69 : *Limited Period Offer.",
@@ -9630,29 +9666,5 @@
     "date_obj": "2025-11-23T13:40:53+00:00",
     "buy_link": "https://extp.in/g8hGsG",
     "date_iso": "2025-11-23T13:40:53+00:00"
-  },
-  {
-    "id": "msg18136",
-    "title": "Premium Blanket At 1019",
-    "description": "Myntra : Premium Blanket At 1019. https://myntr.in/Q36Nx2 More : https://myntr.in/p3grXm",
-    "shortlink": "https://myntr.in/Q36Nx2",
-    "urls": [
-      {
-        "url": "https://myntr.in/Q36Nx2",
-        "label": "Premium Blanket At 1019"
-      },
-      {
-        "url": "https://myntr.in/p3grXm",
-        "label": "More"
-      }
-    ],
-    "raw_text": "Myntra : Premium Blanket At 1019.\n\nhttps://myntr.in/Q36Nx2\n\nMore : https://myntr.in/p3grXm",
-    "final_url": "https://myntr.in/Q36Nx2",
-    "local_image": "assets/images/tgmsg_18136.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-23T13:02:00+00:00",
-    "buy_link": "https://myntr.in/Q36Nx2",
-    "date_iso": "2025-11-23T13:02:00+00:00"
   }
 ]
