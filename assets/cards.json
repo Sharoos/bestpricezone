@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18607",
+    "title": "Aristocrat Duffle Bag Starts at Rs.494",
+    "description": "Flipkart | Aristocrat Duffle Bag Starts at Rs.494 👉https://fkrt.co/qWdrfe",
+    "shortlink": "https://fkrt.co/qWdrfe",
+    "urls": [
+      {
+        "url": "https://fkrt.co/qWdrfe",
+        "label": "Aristocrat Duffle Bag Starts at Rs.494"
+      }
+    ],
+    "raw_text": "Flipkart | Aristocrat Duffle Bag Starts at Rs.494\n\n👉https://fkrt.co/qWdrfe",
+    "final_url": "https://fkrt.co/qWdrfe",
+    "local_image": "assets/images/tgmsg_18607.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-27T07:01:20+00:00",
+    "buy_link": "https://fkrt.co/qWdrfe",
+    "date_iso": "2025-11-27T07:01:20+00:00"
+  },
+  {
     "id": "msg18603",
     "title": "Puma Up to 65% Off",
     "description": "Ajio | Puma Upto 65% Off – 👉https://ajiio.co/HtYnMH Levi’s Min 40% Off – 👉https://ajiio.co/cgu0tH",
@@ -9626,45 +9646,5 @@
     "date_obj": "2025-11-23T16:14:36+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
     "date_iso": "2025-11-23T16:14:36+00:00"
-  },
-  {
-    "id": "msg18155",
-    "title": "Get Up to 80% Off",
-    "description": "Flipkart : Get Upto 80% Off 👉 Link : Grocery : Mobiles : Food& Health : Home : Fashion :",
-    "shortlink": "https://fkrt.co/TypTfT",
-    "urls": [
-      {
-        "url": "https://fkrt.co/TypTfT",
-        "label": "Get Upto 80% Off"
-      },
-      {
-        "url": "https://fkrt.co/Bk9dp1",
-        "label": "Grocery"
-      },
-      {
-        "url": "https://fkrt.co/TdJo7f",
-        "label": "Mobiles"
-      },
-      {
-        "url": "https://fkrt.co/0H1KzR",
-        "label": "Food& Health"
-      },
-      {
-        "url": "https://fkrt.co/12Uegm",
-        "label": "Home"
-      },
-      {
-        "url": "https://fkrt.co/f4f5Sx",
-        "label": "Fashion"
-      }
-    ],
-    "raw_text": "Flipkart : Get Upto 80% Off \n\n👉 Link : https://fkrt.co/TypTfT\n\nGrocery : https://fkrt.co/Bk9dp1\nMobiles : https://fkrt.co/TdJo7f\nFood& Health : https://fkrt.co/0H1KzR\nHome : https://fkrt.co/12Uegm\nFashion : https://fkrt.co/f4f5Sx",
-    "final_url": "https://fkrt.co/TypTfT",
-    "local_image": "assets/images/tgmsg_18155.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-23T15:46:28+00:00",
-    "buy_link": "https://fkrt.co/TypTfT",
-    "date_iso": "2025-11-23T15:46:28+00:00"
   }
 ]
