@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18633",
+    "title": "Zandu Chyawanprash Avaleha 1.8kg @510",
+    "description": "Flipkart GRAB : Zandu Chyawanprash Avaleha 1.8kg @510 👉 https://fkrt.co/DrZ4l5",
+    "shortlink": "https://fkrt.co/DrZ4l5",
+    "urls": [
+      {
+        "url": "https://fkrt.co/DrZ4l5",
+        "label": "Zandu Chyawanprash Avaleha 1.8kg @510"
+      }
+    ],
+    "raw_text": "Flipkart GRAB : Zandu Chyawanprash Avaleha 1.8kg @510\n\n👉 https://fkrt.co/DrZ4l5",
+    "final_url": "https://fkrt.co/DrZ4l5",
+    "local_image": "assets/images/tgmsg_18633.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-27T10:40:31+00:00",
+    "buy_link": "https://fkrt.co/DrZ4l5",
+    "date_iso": "2025-11-27T10:40:31+00:00"
+  },
+  {
     "id": "msg18629",
     "title": "Get Extra Discount On Prepaid Payment",
     "description": "Noise Buds X2 @1234 ✅ USE CODE : SAVE300 👉 https://extp.in/amZddR • Get Extra Discount On Prepaid Payment",
@@ -9686,33 +9706,5 @@
     "date_obj": "2025-11-23T19:04:01+00:00",
     "buy_link": "https://myntr.in/y7jBMY",
     "date_iso": "2025-11-23T19:04:01+00:00"
-  },
-  {
-    "id": "msg18181",
-    "title": "Use Code OPNOV15 To Get Extra 15% Off!",
-    "description": "🔥OnePlus Same As BFF🔥 OnePlus Wireless Z3 at Rs. 1143 only! Use Coupon Code: OPNOV12 to get 12% Off! OnePlus Nord Buds 3r Only at Rs. 1444 + Bank offers!! Use Coupon Code: OPNOV15 To Get Extra 15% Off!",
-    "shortlink": "https://myntr.in/jc8v9Y",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥OnePlus Same As BFF🔥"
-      },
-      {
-        "url": "https://myntr.in/jc8v9Y",
-        "label": "OnePlus Wireless Z3 at Rs. 1143 only!"
-      },
-      {
-        "url": "https://myntr.in/fUEe52",
-        "label": "OnePlus Nord Buds 3r Only at Rs. 1444 + Bank offers!!"
-      }
-    ],
-    "raw_text": "🔥OnePlus Same As BFF🔥\n\nOnePlus Wireless Z3 at Rs. 1143 only!\nUse Coupon Code: OPNOV12 to get 12% Off!\nhttps://myntr.in/jc8v9Y\n\nOnePlus Nord Buds 3r Only at Rs. 1444 + Bank offers!!\nUse Coupon Code: OPNOV15 To Get Extra 15% Off!\nhttps://myntr.in/fUEe52",
-    "final_url": "https://myntr.in/jc8v9Y",
-    "local_image": "assets/images/tgmsg_18181.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-23T18:45:44+00:00",
-    "buy_link": "https://myntr.in/jc8v9Y",
-    "date_iso": "2025-11-23T18:45:44+00:00"
   }
 ]
