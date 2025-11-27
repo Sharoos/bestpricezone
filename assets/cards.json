@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18681",
+    "title": "boAt Rockerz 110 Neckband @ 699",
+    "description": "Amazon | boAt Rockerz 110 Neckband @ 699. https://www.amazon.in/dp/B0CKJ8JL1Y?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CKJ8JL1Y?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CKJ8JL1Y?th=1&tag=bestpricezo0f-21",
+        "label": "boAt Rockerz 110 Neckband @ 699"
+      }
+    ],
+    "raw_text": "Amazon | boAt Rockerz 110 Neckband @ 699.\n\nhttps://www.amazon.in/dp/B0CKJ8JL1Y?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CKJ8JL1Y?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_18681.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-27T17:46:01+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CKJ8JL1Y?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-27T17:46:01+00:00"
+  },
+  {
     "id": "msg18680",
     "title": "Up to 90% Off On Vishudh Women's Clothing",
     "description": "Myntra - Upto 90% Off On Vishudh Women's Clothing. https://myntr.in/vj4M0j Co-Ords https://myntr.in/pz6TYp Kurtas https://myntr.in/evN8fO Trousers https://myntr.in/BzvKjo Tops https://myntr.in/cKymeT",
@@ -9806,29 +9826,5 @@
     "date_obj": "2025-11-24T13:15:21+00:00",
     "buy_link": "https://fkrt.co/hiG5B3",
     "date_iso": "2025-11-24T13:15:21+00:00"
-  },
-  {
-    "id": "msg18245",
-    "title": "Deal Price ₹164",
-    "description": "Amazon | Visko GTK Garden Tool kit (Green and Black, 5-Pieces) Deal Price : ₹164 👉",
-    "shortlink": "https://www.amazon.in/dp/B01MQWTXG6?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Visko GTK Garden Tool kit (Green and Black, 5-Pieces)"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B01MQWTXG6?psc=1&tag=bestpricezo0f-21",
-        "label": "₹164"
-      }
-    ],
-    "raw_text": "Amazon | Visko GTK Garden Tool kit (Green and Black, 5-Pieces)\n\nDeal Price : ₹164 \n\n👉 https://www.amazon.in/dp/B01MQWTXG6?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B01MQWTXG6?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18245.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-24T12:05:21+00:00",
-    "buy_link": "https://www.amazon.in/dp/B01MQWTXG6?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-24T12:05:21+00:00"
   }
 ]
