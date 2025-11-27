@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg18680",
+    "title": "Up to 90% Off On Vishudh Women's Clothing",
+    "description": "Myntra - Upto 90% Off On Vishudh Women's Clothing. https://myntr.in/vj4M0j Co-Ords https://myntr.in/pz6TYp Kurtas https://myntr.in/evN8fO Trousers https://myntr.in/BzvKjo Tops https://myntr.in/cKymeT",
+    "shortlink": "https://myntr.in/vj4M0j",
+    "urls": [
+      {
+        "url": "https://myntr.in/vj4M0j",
+        "label": "Upto 90% Off On Vishudh Women's Clothing"
+      },
+      {
+        "url": "https://myntr.in/pz6TYp",
+        "label": "Ords"
+      },
+      {
+        "url": "https://myntr.in/evN8fO",
+        "label": "Kurtas"
+      },
+      {
+        "url": "https://myntr.in/BzvKjo",
+        "label": "Trousers"
+      },
+      {
+        "url": "https://myntr.in/cKymeT",
+        "label": "Tops"
+      }
+    ],
+    "raw_text": "Myntra - Upto 90% Off On Vishudh Women's Clothing.\n\nhttps://myntr.in/vj4M0j\n\nCo-Ords https://myntr.in/pz6TYp\nKurtas https://myntr.in/evN8fO\nTrousers https://myntr.in/BzvKjo\nTops https://myntr.in/cKymeT",
+    "final_url": "https://myntr.in/vj4M0j",
+    "local_image": "assets/images/tgmsg_18680.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-27T17:33:45+00:00",
+    "buy_link": "https://myntr.in/vj4M0j",
+    "date_iso": "2025-11-27T17:33:45+00:00"
+  },
+  {
     "id": "msg18679",
     "title": "Stylecast Kotty X Clothing Up to 89% off starting From Rs.219",
     "description": "Myntra | 🔥🔥LOOOT Stylecast Kotty X Clothing upto 89% off starting From Rs.219 https://myntr.in/E7eJ5W",
@@ -9794,33 +9830,5 @@
     "date_obj": "2025-11-24T12:05:21+00:00",
     "buy_link": "https://www.amazon.in/dp/B01MQWTXG6?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-24T12:05:21+00:00"
-  },
-  {
-    "id": "msg18246",
-    "title": "Snitch Clothing Up to 82% Off",
-    "description": "Flipkart | Snitch Clothing Upto 82% Off. 👉 Peter England Shirts Upto 60% Off. 👉 Van Heusen Formal Shirts Upto 65%. 👉",
-    "shortlink": "https://fkrt.co/kYfyz2",
-    "urls": [
-      {
-        "url": "https://fkrt.co/kYfyz2",
-        "label": "Snitch Clothing Upto 82% Off"
-      },
-      {
-        "url": "https://fkrt.co/oQcFYs",
-        "label": "Peter England Shirts Upto 60% Off"
-      },
-      {
-        "url": "https://fkrt.co/y2OOWD",
-        "label": "Van Heusen Formal Shirts Upto 65%"
-      }
-    ],
-    "raw_text": "Flipkart | Snitch Clothing Upto 82% Off.\n👉 https://fkrt.co/kYfyz2\n\nPeter England Shirts Upto 60% Off.\n👉 https://fkrt.co/oQcFYs\n\nVan Heusen Formal Shirts Upto 65%.\n👉 https://fkrt.co/y2OOWD",
-    "final_url": "https://fkrt.co/kYfyz2",
-    "local_image": "assets/images/tgmsg_18246.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-24T12:15:12+00:00",
-    "buy_link": "https://fkrt.co/kYfyz2",
-    "date_iso": "2025-11-24T12:15:12+00:00"
   }
 ]
