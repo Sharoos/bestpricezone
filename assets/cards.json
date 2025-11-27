@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg18635",
+    "title": "Get MIN 30–60% OFF on all your favorite XYXX styles!",
+    "description": "🔥 BLACK FRIDAY ACTIVATED! 🔥  👕 Premium comfortwear, innerwear & more — now at crazy prices! 🛒 Shop now :",
+    "shortlink": "https://extp.in/5I6CC5",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 BLACK FRIDAY ACTIVATED! 🔥"
+      },
+      {
+        "url": "",
+        "label": "Get MIN 30–60% OFF on all your favorite XYXX styles!"
+      },
+      {
+        "url": "",
+        "label": "👕 Premium comfortwear, innerwear & more — now at crazy prices!"
+      },
+      {
+        "url": "https://extp.in/5I6CC5",
+        "label": "🛒 Shop now"
+      }
+    ],
+    "raw_text": "🔥 BLACK FRIDAY ACTIVATED! 🔥\n\nGet MIN 30–60% OFF on all your favorite XYXX styles!\n\n👕 Premium comfortwear, innerwear & more — now at crazy prices!\n\n🛒 Shop now : https://extp.in/5I6CC5",
+    "final_url": "https://extp.in/5I6CC5",
+    "local_image": "assets/images/tgmsg_18635.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-11-27T10:52:45+00:00",
+    "buy_link": "https://extp.in/5I6CC5",
+    "date_iso": "2025-11-27T10:52:45+00:00"
+  },
+  {
     "id": "msg18633",
     "title": "Zandu Chyawanprash Avaleha 1.8kg @510",
     "description": "Flipkart GRAB : Zandu Chyawanprash Avaleha 1.8kg @510 👉 https://fkrt.co/DrZ4l5",
@@ -9678,33 +9710,5 @@
     "date_obj": "2025-11-23T19:00:42+00:00",
     "buy_link": "https://myntr.in/DCFLuW",
     "date_iso": "2025-11-23T19:00:42+00:00"
-  },
-  {
-    "id": "msg18186",
-    "title": "Use Code RMNOV28 to get 28% Off!",
-    "description": "🔥 Realme Buds Lowest Price ever only on Myntra!!🔥 Realme Buds T200x at Rs. 935 Only!! Use Coupon Code: RMNOV28 to get 28% Off! Realme Buds Wireless 5 at Rs. 1139 only! Use Coupon Code: RMNOV26 to get 24% Off!!",
-    "shortlink": "https://myntr.in/y7jBMY",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Realme Buds Lowest Price ever only on Myntra!!🔥"
-      },
-      {
-        "url": "https://myntr.in/y7jBMY",
-        "label": "Realme Buds T200x at Rs. 935 Only!!"
-      },
-      {
-        "url": "https://myntr.in/3qLsqq",
-        "label": "Realme Buds Wireless 5 at Rs. 1139 only!"
-      }
-    ],
-    "raw_text": "🔥 Realme Buds Lowest Price ever only on Myntra!!🔥\n\nRealme Buds T200x at Rs. 935 Only!!\nUse Coupon Code: RMNOV28 to get 28% Off!\nhttps://myntr.in/y7jBMY\n\nRealme Buds Wireless 5 at Rs. 1139 only!\nUse Coupon Code: RMNOV26 to get 24% Off!!\nhttps://myntr.in/3qLsqq",
-    "final_url": "https://myntr.in/y7jBMY",
-    "local_image": "assets/images/tgmsg_18186.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-23T19:04:01+00:00",
-    "buy_link": "https://myntr.in/y7jBMY",
-    "date_iso": "2025-11-23T19:04:01+00:00"
   }
 ]
