@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18706",
+    "title": "🔥Min 50% off on Head & Shoulders Shampoos 🔥",
+    "description": "🔥Myntra : Min 50% off on Head & Shoulders Shampoos 🔥 🔗 Link: https://myntr.in/nhGqA7",
+    "shortlink": "https://myntr.in/nhGqA7",
+    "urls": [
+      {
+        "url": "https://myntr.in/nhGqA7",
+        "label": "🔥Myntra : Min 50% off on Head & Shoulders Shampoos 🔥"
+      }
+    ],
+    "raw_text": "🔥Myntra : Min 50% off on Head & Shoulders Shampoos 🔥 \n \n🔗 Link: https://myntr.in/nhGqA7",
+    "final_url": "https://myntr.in/nhGqA7",
+    "local_image": "assets/images/tgmsg_18706.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-28T04:45:52+00:00",
+    "buy_link": "https://myntr.in/nhGqA7",
+    "date_iso": "2025-11-28T04:45:52+00:00"
+  },
+  {
     "id": "msg18705",
     "title": "Up to 70% Off On The Bear House Clothing",
     "description": "Flipkart | Upto 70% Off On The Bear House Clothing. Shirts https://fkrt.co/Cjcuop Tshirts https://fkrt.co/cvPeWH Jeans https://fkrt.co/Tw8JFJ",
@@ -9678,45 +9698,5 @@
     "date_obj": "2025-11-24T15:01:42+00:00",
     "buy_link": "https://fkrt.co/2G7Eax",
     "date_iso": "2025-11-24T15:01:42+00:00"
-  },
-  {
-    "id": "msg18270",
-    "title": "Bajaj HamaraMall – Up to 90% OFF on C Cables & Perfume",
-    "description": "s Use code: EXTRA30 (Get ₹30 instant discount) Twance Type-C to USB Cable At 49 Portronics Type-C Cable At 69 Portronics Ruffpad 8.5\" LCD At 69 Denver Premium Deo (Pack of 3) At 129 Note: Coupon can be used twice per…",
-    "shortlink": "https://extp.in/LYTdWa",
-    "urls": [
-      {
-        "url": "",
-        "label": "Bajaj HamaraMall – Up to 90% OFF on C Cables & Perfumes"
-      },
-      {
-        "url": "",
-        "label": "EXTRA30 (Get ₹30 instant discount)"
-      },
-      {
-        "url": "https://extp.in/LYTdWa",
-        "label": "C to USB Cable At 49"
-      },
-      {
-        "url": "https://extp.in/te0S5q",
-        "label": "C Cable At 69"
-      },
-      {
-        "url": "https://extp.in/JhokkI",
-        "label": "Portronics Ruffpad 8.5\" LCD At 69"
-      },
-      {
-        "url": "https://extp.in/1a9FtJ",
-        "label": "Denver Premium Deo (Pack of 3) At 129"
-      }
-    ],
-    "raw_text": "Bajaj HamaraMall  – Up to 90% OFF on C Cables & Perfumes\n\nUse code: EXTRA30 (Get ₹30 instant discount)\n\nTwance Type-C to USB Cable At 49\nhttps://extp.in/LYTdWa\n\nPortronics Type-C Cable At 69\nhttps://extp.in/te0S5q\n\nPortronics Ruffpad 8.5\" LCD At 69\nhttps://extp.in/JhokkI\n\nDenver Premium Deo (Pack of 3) At 129\nhttps://extp.in/1a9FtJ\n\nNote: Coupon can be used twice per account. Create multiple accounts to use more",
-    "final_url": "https://extp.in/LYTdWa",
-    "local_image": "assets/images/tgmsg_18270.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-24T15:13:57+00:00",
-    "buy_link": "https://extp.in/LYTdWa",
-    "date_iso": "2025-11-24T15:13:57+00:00"
   }
 ]
