@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg18725",
+    "title": "Adidas Running Shoes Up to 72% Off",
+    "description": "Myntra | Adidas Running Shoes Upto 72% Off Men : https://myntr.in/caCVfG Women : https://myntr.in/JKkMFU Boys : https://myntr.in/6hh0ZU Girls : https://myntr.in/RoaYvQ",
+    "shortlink": "https://myntr.in/caCVfG",
+    "urls": [
+      {
+        "url": "https://myntr.in/caCVfG",
+        "label": "Adidas Running Shoes Upto 72% Off"
+      },
+      {
+        "url": "https://myntr.in/JKkMFU",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/6hh0ZU",
+        "label": "Boys"
+      },
+      {
+        "url": "https://myntr.in/RoaYvQ",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "Myntra | Adidas Running Shoes Upto 72% Off\n\nMen : https://myntr.in/caCVfG\nWomen : https://myntr.in/JKkMFU\nBoys : https://myntr.in/6hh0ZU\nGirls : https://myntr.in/RoaYvQ",
+    "final_url": "https://myntr.in/caCVfG",
+    "local_image": "assets/images/tgmsg_18725.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-28T07:49:20+00:00",
+    "buy_link": "https://myntr.in/caCVfG",
+    "date_iso": "2025-11-28T07:49:20+00:00"
+  },
+  {
     "id": "msg18724",
     "title": "✔️ 1% Fuel Surcharge Waiver (up to ₹500/month)",
     "description": "💳 Scapia Credit Card — Lifetime FREE | Travel Card Benefits 🚀 ✔️ Lifetime Free – ₹0 Joining & Annual Fee ✔️ 0% Forex Markup on all international transactions ✔️ Unlimited Domestic Lounge Access — On ₹10,000 Monthly…",
@@ -9646,53 +9678,5 @@
     "date_obj": "2025-11-24T17:45:58+00:00",
     "buy_link": "https://fkrt.co/q9IrNs",
     "date_iso": "2025-11-24T17:45:58+00:00"
-  },
-  {
-    "id": "msg18287",
-    "title": "Pay via CRED & get up to ₹200 cashback",
-    "description": "😰 Feeling uneasy, stressed, or unusually tired? ⚠️ Low Vitamin D could be the reason — get it checked! 🩺 Get Full Body Check-up + Vitamin D + HbA1c + Thyroid (T3/T4/TSH) At ₹899 (MRP ₹4380) 👉 Link: 🔖 Use Coupon: MED50 🧪…",
-    "shortlink": "https://extp.in/C0Vd2r",
-    "urls": [
-      {
-        "url": "",
-        "label": "😰 Feeling uneasy, stressed, or unusually tired?"
-      },
-      {
-        "url": "",
-        "label": "⚠️ Low Vitamin D could be the reason — get it checked!"
-      },
-      {
-        "url": "https://extp.in/C0Vd2r",
-        "label": "🩺 Get Full Body Check-up + Vitamin D + HbA1c + Thyroid (T3/T4/TSH) At ₹899 (MRP ₹4380)"
-      },
-      {
-        "url": "",
-        "label": "🧪 64 Tests Covered"
-      },
-      {
-        "url": "",
-        "label": "CBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Vitamin D, Thyroid (T3/T4/TSH) & more"
-      },
-      {
-        "url": "",
-        "label": "🎁 Bonus Benefits"
-      },
-      {
-        "url": "",
-        "label": "FREE JioSaavn Pro (1 Month) worth ₹299 after test completion"
-      },
-      {
-        "url": "",
-        "label": "Pay via CRED & get up to ₹200 cashback"
-      }
-    ],
-    "raw_text": "😰 Feeling uneasy, stressed, or unusually tired?\n\n⚠️ Low Vitamin D could be the reason — get it checked!\n\n🩺 Get Full Body Check-up + Vitamin D + HbA1c + Thyroid (T3/T4/TSH) At ₹899 (MRP ₹4380)\n\n👉 Link: https://extp.in/C0Vd2r\n🔖 Use Coupon: MED50\n\n🧪 64 Tests Covered:\nCBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Vitamin D, Thyroid (T3/T4/TSH) & more.\n\n🎁 Bonus Benefits:\n\nFREE JioSaavn Pro (1 Month) worth ₹299 after test completion\n\nPay via CRED & get up to ₹200 cashback",
-    "final_url": "https://extp.in/C0Vd2r",
-    "local_image": "assets/images/tgmsg_18287.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-24T17:52:38+00:00",
-    "buy_link": "https://extp.in/C0Vd2r",
-    "date_iso": "2025-11-24T17:52:38+00:00"
   }
 ]
