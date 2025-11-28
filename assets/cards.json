@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg18808",
+    "title": "✨ Flat 15% Off",
+    "description": "Myntra |  L’Oréal Professionnel Xtenso Care Masque (196g) – For Frizz-Free, Smooth & Manageable Hair 🔗  L’Oréal Professionnel Xtenso Care Serum (50ml) – For Smooth, Manageable Hair 🔗  L’Oréal Professionnel Liss…",
+    "shortlink": "https://myntr.in/Zg59bn",
+    "urls": [
+      {
+        "url": "",
+        "label": "✨ Flat 15% Off"
+      },
+      {
+        "url": "https://myntr.in/Zg59bn",
+        "label": "L’Oréal Professionnel Xtenso Care Masque (196g) – For Frizz-Free, Smooth & Manageable Hair"
+      },
+      {
+        "url": "https://myntr.in/6y2IiQ",
+        "label": "L’Oréal Professionnel Xtenso Care Serum (50ml) – For Smooth, Manageable Hair"
+      },
+      {
+        "url": "https://myntr.in/pzqPMt",
+        "label": "L’Oréal Professionnel Liss Unlimited Mask (250ml) – With Pro-Keratin for Frizzy Hair"
+      }
+    ],
+    "raw_text": "Myntra | ✨ Flat 15% Off\nL’Oréal Professionnel Xtenso Care Masque (196g) – For Frizz-Free, Smooth & Manageable Hair\n🔗 https://myntr.in/Zg59bn\n\n✨ Flat 15% Off\nL’Oréal Professionnel Xtenso Care Serum (50ml) – For Smooth, Manageable Hair\n🔗 https://myntr.in/6y2IiQ\n\n✨ Flat 15% Off\nL’Oréal Professionnel Liss Unlimited Mask (250ml) – With Pro-Keratin for Frizzy Hair\n🔗 https://myntr.in/pzqPMt",
+    "final_url": "https://myntr.in/Zg59bn",
+    "local_image": "assets/images/tgmsg_18808.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-28T16:48:53+00:00",
+    "buy_link": "https://myntr.in/Zg59bn",
+    "date_iso": "2025-11-28T16:48:53+00:00"
+  },
+  {
     "id": "msg18800",
     "title": "Up to 90% Off On Handbags Starting From Rs.93",
     "description": "Flipkart | Wrogn Rucksacks Starts @435. 👉 Upto 90% Off On Handbags Starting From Rs.93 👉Link :",
@@ -9758,29 +9790,5 @@
     "date_obj": "2025-11-25T09:38:15+00:00",
     "buy_link": "https://extp.in/Qoqbs7",
     "date_iso": "2025-11-25T09:38:15+00:00"
-  },
-  {
-    "id": "msg18351",
-    "title": "2 items & get 15% Off",
-    "description": "Noise: Bundle & Save Offer Buy  Buy 3 items & get 20% Off Link: • Get Extra Discount On Prepaid Payment.",
-    "shortlink": "https://bitli.in/lm0I7Q8",
-    "urls": [
-      {
-        "url": "https://bitli.in/lm0I7Q8",
-        "label": "Bundle & Save Offer"
-      },
-      {
-        "url": "",
-        "label": "Get Extra Discount On Prepaid Payment"
-      }
-    ],
-    "raw_text": "Noise: Bundle & Save Offer\n\nBuy 2 items & get 15% Off\nBuy 3 items & get 20% Off\n\nLink: https://bitli.in/lm0I7Q8\n\n• Get Extra Discount On Prepaid Payment.",
-    "final_url": "https://bitli.in/lm0I7Q8",
-    "local_image": "assets/images/tgmsg_18351.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-11-25T09:01:03+00:00",
-    "buy_link": "https://bitli.in/lm0I7Q8",
-    "date_iso": "2025-11-25T09:01:03+00:00"
   }
 ]
