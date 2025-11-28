@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg18795",
+    "title": "75% digitek 1m Lightning Cable at 249",
+    "description": "Flipkart | 75% : digitek 1m Lightning Cable at 249 https://fkrt.co/gaTSLm",
+    "shortlink": "https://fkrt.co/gaTSLm",
+    "urls": [
+      {
+        "url": "https://fkrt.co/gaTSLm",
+        "label": "75% : digitek 1m Lightning Cable at 249"
+      }
+    ],
+    "raw_text": "Flipkart | 75% : digitek 1m Lightning Cable at 249\n\nhttps://fkrt.co/gaTSLm",
+    "final_url": "https://fkrt.co/gaTSLm",
+    "local_image": "assets/images/tgmsg_18795.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-28T15:05:51+00:00",
+    "buy_link": "https://fkrt.co/gaTSLm",
+    "date_iso": "2025-11-28T15:05:51+00:00"
+  },
+  {
+    "id": "msg18796",
+    "title": "Up to 70% Off on Co",
+    "description": "Ajio | Upto 70% Off on Co-Ord Sets Starting @ just ₹270 Link : https://ajiio.co/WGgJM3",
+    "shortlink": "https://ajiio.co/WGgJM3",
+    "urls": [
+      {
+        "url": "https://ajiio.co/WGgJM3",
+        "label": "Upto 70% Off on Co-Ord Sets Starting @ just ₹270"
+      }
+    ],
+    "raw_text": "Ajio | Upto 70% Off on Co-Ord Sets Starting @ just ₹270\n \nLink : https://ajiio.co/WGgJM3",
+    "final_url": "https://ajiio.co/WGgJM3",
+    "local_image": "assets/images/tgmsg_18796.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-28T15:16:24+00:00",
+    "buy_link": "https://ajiio.co/WGgJM3",
+    "date_iso": "2025-11-28T15:16:24+00:00"
+  },
+  {
     "id": "msg18794",
     "title": "Apply 10% Off",
     "description": "Tata Tea Premium Care 1kg @413. Apply 10% Off Coupon  : https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
@@ -9786,65 +9826,5 @@
     "date_obj": "2025-11-25T08:22:39+00:00",
     "buy_link": "https://bitli.in/kck8a0w",
     "date_iso": "2025-11-25T08:22:39+00:00"
-  },
-  {
-    "id": "msg18346",
-    "title": "Hooded Sweatshirts Starts @218",
-    "description": "Myntra : Hooded Sweatshirts Starts @218. Women :  https://myntr.in/A9HdXC Men :  https://myntr.in/e3FTrx",
-    "shortlink": "https://myntr.in/A9HdXC",
-    "urls": [
-      {
-        "url": "",
-        "label": "Hooded Sweatshirts Starts @218"
-      },
-      {
-        "url": "https://myntr.in/A9HdXC",
-        "label": "Women"
-      },
-      {
-        "url": "https://myntr.in/e3FTrx",
-        "label": "Men"
-      }
-    ],
-    "raw_text": "Myntra : Hooded Sweatshirts Starts @218.\n\nWomen :  https://myntr.in/A9HdXC\nMen :  https://myntr.in/e3FTrx",
-    "final_url": "https://myntr.in/A9HdXC",
-    "local_image": "assets/images/tgmsg_18346.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-25T08:31:03+00:00",
-    "buy_link": "https://myntr.in/A9HdXC",
-    "date_iso": "2025-11-25T08:31:03+00:00"
-  },
-  {
-    "id": "msg18347",
-    "title": "🔥Shopsy Everything Under ₹199",
-    "description": "🔥Shopsy Everything Under ₹199 Women's Jewellery Set ₹60 👉https://extp.in/H8XV50 Kitchen Bestsellers ₹62 👉https://extp.in/iWJ7DU Saree & Kurti ₹57 👉https://extp.in/DsrtmS",
-    "shortlink": "https://extp.in/H8XV50",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Shopsy Everything Under ₹199"
-      },
-      {
-        "url": "https://extp.in/H8XV50",
-        "label": "Women's Jewellery Set ₹60"
-      },
-      {
-        "url": "https://extp.in/iWJ7DU",
-        "label": "Kitchen Bestsellers ₹62"
-      },
-      {
-        "url": "https://extp.in/DsrtmS",
-        "label": "Saree & Kurti ₹57"
-      }
-    ],
-    "raw_text": "🔥Shopsy Everything Under ₹199\n\nWomen's Jewellery Set ₹60\n👉https://extp.in/H8XV50\n\nKitchen Bestsellers ₹62\n👉https://extp.in/iWJ7DU\n\nSaree & Kurti ₹57\n👉https://extp.in/DsrtmS",
-    "final_url": "https://extp.in/H8XV50",
-    "local_image": "assets/images/tgmsg_18347.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-25T08:37:24+00:00",
-    "buy_link": "https://extp.in/H8XV50",
-    "date_iso": "2025-11-25T08:37:24+00:00"
   }
 ]
