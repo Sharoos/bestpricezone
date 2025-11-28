@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18792",
+    "title": "Men's T",
+    "description": "Flipkart  Men's T-shirt & Boxer Starts at Rs.69. https://fkrt.co/m9oZJC https://fkrt.co/WKTdFR",
+    "shortlink": "https://fkrt.co/m9oZJC",
+    "urls": [
+      {
+        "url": "https://fkrt.co/m9oZJC",
+        "label": "Flipkart Men's T-shirt & Boxer Starts at Rs.69"
+      },
+      {
+        "url": "https://fkrt.co/WKTdFR",
+        "label": "Flipkart Men's T-shirt & Boxer Starts at Rs.69"
+      }
+    ],
+    "raw_text": "Flipkart  Men's T-shirt & Boxer Starts at Rs.69.  \n\nhttps://fkrt.co/m9oZJC\n\nhttps://fkrt.co/WKTdFR",
+    "final_url": "https://fkrt.co/m9oZJC",
+    "local_image": "assets/images/tgmsg_18792.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-28T14:48:32+00:00",
+    "buy_link": "https://fkrt.co/m9oZJC",
+    "date_iso": "2025-11-28T14:48:32+00:00"
+  },
+  {
     "id": "msg18788",
     "title": "Red Tape Shoes Up to 85% off",
     "description": "Flipkart | Red Tape Shoes Upto 85% off 👉https://fkrt.co/9NRKoQ",
@@ -9850,25 +9874,5 @@
     "date_obj": "2025-11-25T08:38:09+00:00",
     "buy_link": "https://extp.in/5B2P8Z",
     "date_iso": "2025-11-25T08:38:09+00:00"
-  },
-  {
-    "id": "msg18349",
-    "title": "Pigeon Inox Pro Rice Cooker with Steamer @2664",
-    "description": "Amazon | Pigeon Inox Pro Rice Cooker with Steamer @2664. 👉 https://www.amazon.in/dp/B0F91C4YSK?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F91C4YSK?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F91C4YSK?psc=1&tag=bestpricezo0f-21",
-        "label": "Pigeon Inox Pro Rice Cooker with Steamer @2664"
-      }
-    ],
-    "raw_text": "Amazon | Pigeon Inox Pro Rice Cooker with Steamer @2664.\n\n👉 https://www.amazon.in/dp/B0F91C4YSK?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F91C4YSK?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18349.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-25T08:45:17+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F91C4YSK?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-25T08:45:17+00:00"
   }
 ]
