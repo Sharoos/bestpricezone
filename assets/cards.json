@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18794",
+    "title": "Apply 10% Off",
+    "description": "Tata Tea Premium Care 1kg @413. Apply 10% Off Coupon  : https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
+        "label": "Tata Tea Premium Care 1kg @413"
+      }
+    ],
+    "raw_text": "Tata Tea Premium Care 1kg @413.\n\nApply 10% Off Coupon  : \nhttps://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_18794.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-28T14:55:28+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-28T14:55:28+00:00"
+  },
+  {
     "id": "msg18792",
     "title": "Men's T",
     "description": "Flipkart  Men's T-shirt & Boxer Starts at Rs.69. https://fkrt.co/m9oZJC https://fkrt.co/WKTdFR",
@@ -9826,53 +9846,5 @@
     "date_obj": "2025-11-25T08:37:24+00:00",
     "buy_link": "https://extp.in/H8XV50",
     "date_iso": "2025-11-25T08:37:24+00:00"
-  },
-  {
-    "id": "msg18348",
-    "title": "Shopsy Grand Mela Deals Under @199",
-    "description": "Shopsy : Grand Mela Deals Under @199 Duffel Bags From @199 👉 Jewellery Sets From @49 👉 Toy Bestsellers From @45 👉 Tops & Tees From @99 👉 Girls Dresses From @119 👉 Fragrances From @59 👉 Wall Clocks From @119 👉",
-    "shortlink": "https://extp.in/5B2P8Z",
-    "urls": [
-      {
-        "url": "",
-        "label": "Grand Mela Deals Under @199"
-      },
-      {
-        "url": "https://extp.in/5B2P8Z",
-        "label": "Duffel Bags From @199"
-      },
-      {
-        "url": "https://extp.in/56LXmr",
-        "label": "Jewellery Sets From @49"
-      },
-      {
-        "url": "https://extp.in/Thms7n",
-        "label": "Toy Bestsellers From @45"
-      },
-      {
-        "url": "https://extp.in/LNOFMi",
-        "label": "Tops & Tees From @99"
-      },
-      {
-        "url": "https://extp.in/Qw6vMg",
-        "label": "Girls Dresses From @119"
-      },
-      {
-        "url": "https://extp.in/nXxaYY",
-        "label": "Fragrances From @59"
-      },
-      {
-        "url": "https://extp.in/KGo1Zq",
-        "label": "Wall Clocks From @119"
-      }
-    ],
-    "raw_text": "Shopsy : Grand Mela Deals Under @199\n\nDuffel Bags From @199\n👉https://extp.in/5B2P8Z\n\nJewellery Sets From @49\n👉https://extp.in/56LXmr\n\nToy Bestsellers From @45\n👉https://extp.in/Thms7n\n\nTops & Tees From @99\n👉https://extp.in/LNOFMi\n\nGirls Dresses From @119\n👉https://extp.in/Qw6vMg\n\nFragrances From @59\n👉https://extp.in/nXxaYY\n\nWall Clocks From @119\n👉https://extp.in/KGo1Zq",
-    "final_url": "https://extp.in/5B2P8Z",
-    "local_image": "assets/images/tgmsg_18348.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-25T08:38:09+00:00",
-    "buy_link": "https://extp.in/5B2P8Z",
-    "date_iso": "2025-11-25T08:38:09+00:00"
   }
 ]
