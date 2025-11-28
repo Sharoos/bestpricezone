@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18709",
+    "title": "Min 70% on Beardo perfume",
+    "description": "Myntra | Min 70% on Beardo perfumes. https://myntr.in/pRNuzT",
+    "shortlink": "https://myntr.in/pRNuzT",
+    "urls": [
+      {
+        "url": "https://myntr.in/pRNuzT",
+        "label": "Min 70% on Beardo perfumes"
+      }
+    ],
+    "raw_text": "Myntra | Min 70% on Beardo perfumes.\n\nhttps://myntr.in/pRNuzT",
+    "final_url": "https://myntr.in/pRNuzT",
+    "local_image": "assets/images/tgmsg_18709.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-28T05:48:06+00:00",
+    "buy_link": "https://myntr.in/pRNuzT",
+    "date_iso": "2025-11-28T05:48:06+00:00"
+  },
+  {
     "id": "msg18708",
     "title": "WOW Black Friday — ₹11 Store Live (11 AM & 11 PM)",
     "description": "Buy any 3 product @ ₹11 ✅Use Code: ALLAT11 Link: How to Use: • Add 3 product to cart • Apply code: ALLAT11 • ₹99 shipping applies • Offer valid for 11 minutes only",
@@ -9674,29 +9694,5 @@
     "date_obj": "2025-11-24T15:50:56+00:00",
     "buy_link": "https://ajiio.co/AVA6no",
     "date_iso": "2025-11-24T15:50:56+00:00"
-  },
-  {
-    "id": "msg18273",
-    "title": "Provogue Backpacks Starts at Just ₹189",
-    "description": "Flipkart | Provogue Backpacks Starts at Just ₹189 https://fkrt.co/cVMxFL Furniture Portable Laptop Table Starts At Rs.299 https://fkrt.co/cnUpQ9",
-    "shortlink": "https://fkrt.co/cVMxFL",
-    "urls": [
-      {
-        "url": "https://fkrt.co/cVMxFL",
-        "label": "Provogue Backpacks Starts at Just ₹189"
-      },
-      {
-        "url": "https://fkrt.co/cnUpQ9",
-        "label": "Furniture Portable Laptop Table Starts At Rs.299"
-      }
-    ],
-    "raw_text": "Flipkart | Provogue Backpacks Starts at Just ₹189\n\nhttps://fkrt.co/cVMxFL\n\nFurniture Portable Laptop Table Starts At Rs.299\n\nhttps://fkrt.co/cnUpQ9",
-    "final_url": "https://fkrt.co/cVMxFL",
-    "local_image": "assets/images/tgmsg_18273.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-24T15:33:21+00:00",
-    "buy_link": "https://fkrt.co/cVMxFL",
-    "date_iso": "2025-11-24T15:33:21+00:00"
   }
 ]
