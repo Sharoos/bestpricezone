@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18827",
+    "title": "Apply ₹1250 Off + ₹1750 Off With HDFC Bank Credit Card",
+    "description": "Amazon | Xiaomi (55 inch) QLED UHD 4K Smart Fire TV @ 29,999. Apply ₹1250 Off Coupon + ₹1750 Off With HDFC Bank Credit Card",
+    "shortlink": "https://www.amazon.in/dp/B0F3JL33DW?psc=1&th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0F3JL33DW?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "Xiaomi (55 inch) QLED UHD 4K Smart Fire TV @ 29,999"
+      }
+    ],
+    "raw_text": "Amazon | Xiaomi (55 inch) QLED UHD 4K Smart Fire TV @ 29,999.\n\nhttps://www.amazon.in/dp/B0F3JL33DW?psc=1&th=1&tag=bestpricezo0f-21\n\nApply ₹1250 Off Coupon + ₹1750 Off With HDFC Bank Credit Card",
+    "final_url": "https://www.amazon.in/dp/B0F3JL33DW?psc=1&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_18827.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-28T19:04:56+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F3JL33DW?psc=1&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-28T19:04:56+00:00"
+  },
+  {
     "id": "msg18824",
     "title": "Red Tape Mens Casual Shoes Up to 86% off starting From Rs.499",
     "description": "Flipkart | Red Tape Mens Casual Shoes upto 86% off starting From Rs.499 https://fkrt.co/oVEPj4",
@@ -9738,57 +9758,5 @@
     "date_obj": "2025-11-25T13:22:39+00:00",
     "buy_link": "https://myntr.in/QBBf8d",
     "date_iso": "2025-11-25T13:22:39+00:00"
-  },
-  {
-    "id": "msg18366",
-    "title": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre",
-    "description": "-approved limit. Apply Now - 💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀 ⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping. ⿢ Easy EMIs : Flexible repayment with no foreclosure charges. ⿣ Wide…",
-    "shortlink": "https://extp.in/igMbMQ",
-    "urls": [
-      {
-        "url": "",
-        "label": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre-approved limit"
-      },
-      {
-        "url": "https://extp.in/igMbMQ",
-        "label": "Apply Now"
-      },
-      {
-        "url": "",
-        "label": "💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀"
-      },
-      {
-        "url": "",
-        "label": "⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping"
-      },
-      {
-        "url": "",
-        "label": "⿢ Easy EMIs : Flexible repayment with no foreclosure charges"
-      },
-      {
-        "url": "",
-        "label": "⿣ Wide Usage : Accepted at 1.5+ lakh partner stores"
-      },
-      {
-        "url": "",
-        "label": "⿤ Quick Application : Apply, verify, and activate in minutes"
-      },
-      {
-        "url": "",
-        "label": "⿥ Hassle-Free Access : Manage everything on the Bajaj Finserv app"
-      },
-      {
-        "url": "",
-        "label": "Join thousands enjoying easy EMIs!"
-      }
-    ],
-    "raw_text": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre-approved limit.\n\nApply Now - https://extp.in/igMbMQ\n\n💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀\n\n⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping.\n⿢ Easy EMIs : Flexible repayment with no foreclosure charges.\n⿣ Wide Usage : Accepted at 1.5+ lakh partner stores.\n⿤ Quick Application : Apply, verify, and activate in minutes.\n⿥ Hassle-Free Access : Manage everything on the Bajaj Finserv app\n\nJoin thousands enjoying easy EMIs!",
-    "final_url": "https://extp.in/igMbMQ",
-    "local_image": "assets/images/tgmsg_18366.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-25T12:01:01+00:00",
-    "buy_link": "https://extp.in/igMbMQ",
-    "date_iso": "2025-11-25T12:01:01+00:00"
   }
 ]
