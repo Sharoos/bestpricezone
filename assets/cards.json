@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg18708",
+    "title": "WOW Black Friday — ₹11 Store Live (11 AM & 11 PM)",
+    "description": "Buy any 3 product @ ₹11 ✅Use Code: ALLAT11 Link: How to Use: • Add 3 product to cart • Apply code: ALLAT11 • ₹99 shipping applies • Offer valid for 11 minutes only",
+    "shortlink": "https://bitli.in/TwDQw4c",
+    "urls": [
+      {
+        "url": "",
+        "label": "WOW Black Friday — ₹11 Store Live (11 AM & 11 PM)"
+      },
+      {
+        "url": "https://bitli.in/TwDQw4c",
+        "label": "✅Use Code: ALLAT11"
+      },
+      {
+        "url": "",
+        "label": "How to Use"
+      },
+      {
+        "url": "",
+        "label": "Add 3 product to cart"
+      },
+      {
+        "url": "",
+        "label": "ALLAT11"
+      },
+      {
+        "url": "",
+        "label": "Offer valid for 11 minutes only"
+      }
+    ],
+    "raw_text": "WOW Black Friday — ₹11 Store Live (11 AM & 11 PM)\n\nBuy any 3 product @ ₹11\n✅Use Code: ALLAT11\n\nLink: https://bitli.in/TwDQw4c\n\nHow to Use:\n• Add 3 product to cart\n• Apply code: ALLAT11\n• ₹99 shipping applies\n• Offer valid for 11 minutes only",
+    "final_url": "https://bitli.in/TwDQw4c",
+    "local_image": "assets/images/tgmsg_18708.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-11-28T05:33:27+00:00",
+    "buy_link": "https://bitli.in/TwDQw4c",
+    "date_iso": "2025-11-28T05:33:27+00:00"
+  },
+  {
     "id": "msg18706",
     "title": "🔥Min 50% off on Head & Shoulders Shampoos 🔥",
     "description": "🔥Myntra : Min 50% off on Head & Shoulders Shampoos 🔥 🔗 Link: https://myntr.in/nhGqA7",
@@ -9658,45 +9698,5 @@
     "date_obj": "2025-11-24T15:33:21+00:00",
     "buy_link": "https://fkrt.co/cVMxFL",
     "date_iso": "2025-11-24T15:33:21+00:00"
-  },
-  {
-    "id": "msg18268",
-    "title": "Up to 80% Off On Branded Women Clothing",
-    "description": "Flipkart | Upto 80% Off On Branded Women Clothing. Allen Solly : Van Heusen : Only : Vero Moda : W & Flying Machine :",
-    "shortlink": "https://fkrt.co/2G7Eax",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Branded Women Clothing"
-      },
-      {
-        "url": "https://fkrt.co/2G7Eax",
-        "label": "Allen Solly"
-      },
-      {
-        "url": "https://fkrt.co/wKRKYQ",
-        "label": "Van Heusen"
-      },
-      {
-        "url": "https://fkrt.co/f79Rcp",
-        "label": "Only"
-      },
-      {
-        "url": "https://fkrt.co/BvVaUm",
-        "label": "Vero Moda"
-      },
-      {
-        "url": "https://fkrt.co/YXsie6",
-        "label": "W & Flying Machine"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 80% Off On Branded Women Clothing.\n\nAllen Solly : https://fkrt.co/2G7Eax\nVan Heusen : https://fkrt.co/wKRKYQ\nOnly : https://fkrt.co/f79Rcp\nVero Moda : https://fkrt.co/BvVaUm\nW & Flying Machine : https://fkrt.co/YXsie6",
-    "final_url": "https://fkrt.co/2G7Eax",
-    "local_image": "assets/images/tgmsg_18268.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-24T15:01:42+00:00",
-    "buy_link": "https://fkrt.co/2G7Eax",
-    "date_iso": "2025-11-24T15:01:42+00:00"
   }
 ]
