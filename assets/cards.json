@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18735",
+    "title": "Havells Ceiling Fans starting from 1999! + Additional discount",
+    "description": "Myntra | Havells Ceiling Fans starting from 1999! + Additional coupon discounts. 👉",
+    "shortlink": "https://myntr.in/enrnvP",
+    "urls": [
+      {
+        "url": "https://myntr.in/enrnvP",
+        "label": ""
+      }
+    ],
+    "raw_text": "Myntra | Havells Ceiling Fans starting from 1999! + Additional coupon discounts. \n\n👉 https://myntr.in/enrnvP",
+    "final_url": "https://myntr.in/enrnvP",
+    "local_image": "assets/images/tgmsg_18735.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-28T08:34:51+00:00",
+    "buy_link": "https://myntr.in/enrnvP",
+    "date_iso": "2025-11-28T08:34:51+00:00"
+  },
+  {
     "id": "msg18727",
     "title": "Shirt Starts @ 149",
     "description": "Myntra : Oversized T-Shirt Starts @ 149. Men's : https://myntr.in/uzZ2Mc Women's : https://myntr.in/y25WOQ",
@@ -9702,29 +9722,5 @@
     "date_obj": "2025-11-24T18:36:56+00:00",
     "buy_link": "https://fkrt.co/vsU7lZ",
     "date_iso": "2025-11-24T18:36:56+00:00"
-  },
-  {
-    "id": "msg18303",
-    "title": "Deal Price ₹1369",
-    "description": "Amazon | Skechers Women Go Run Fast Running Shoe Deal Price: ₹1369 https://www.amazon.in/dp/B07NW6GYWZ?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07NW6GYWZ?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Skechers Women Go Run Fast Running Shoe"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B07NW6GYWZ?psc=1&tag=bestpricezo0f-21",
-        "label": "₹1369"
-      }
-    ],
-    "raw_text": "Amazon | Skechers Women Go Run Fast Running Shoe\n\nDeal Price: ₹1369 \n\nhttps://www.amazon.in/dp/B07NW6GYWZ?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07NW6GYWZ?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18303.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-24T18:40:56+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07NW6GYWZ?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-24T18:40:56+00:00"
   }
 ]
