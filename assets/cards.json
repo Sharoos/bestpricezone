@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg18782",
+    "title": "Shirts Starts @131",
+    "description": "Myntra : Oversized T-Shirts Starts @131. Women's : https://myntr.in/4VUBdC Men's : https://myntr.in/MrAS5k",
+    "shortlink": "https://myntr.in/4VUBdC",
+    "urls": [
+      {
+        "url": "",
+        "label": "Oversized T-Shirts Starts @131"
+      },
+      {
+        "url": "https://myntr.in/4VUBdC",
+        "label": "Women's"
+      },
+      {
+        "url": "https://myntr.in/MrAS5k",
+        "label": "Men's"
+      }
+    ],
+    "raw_text": "Myntra : Oversized T-Shirts Starts @131.\n\nWomen's : https://myntr.in/4VUBdC\nMen's : https://myntr.in/MrAS5k",
+    "final_url": "https://myntr.in/4VUBdC",
+    "local_image": "assets/images/tgmsg_18782.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-28T13:46:11+00:00",
+    "buy_link": "https://myntr.in/4VUBdC",
+    "date_iso": "2025-11-28T13:46:11+00:00"
+  },
+  {
     "id": "msg18775",
     "title": "TIARAA Black Friday Get Any 3 Bracelets @199 (Including Shipping)",
     "description": "TIARAA Black Friday Loot : Get Any 3 Bracelets @199 (Including Shipping) ✅Use Code: LOOT3 Link :",
@@ -9846,29 +9874,5 @@
     "date_obj": "2025-11-25T08:13:17+00:00",
     "buy_link": "https://fkrt.co/5ouolE",
     "date_iso": "2025-11-25T08:13:17+00:00"
-  },
-  {
-    "id": "msg18339",
-    "title": "Nu Republic Epic X3 Earbuds with Up to 48 hrs Playtime & ENC TWS With X",
-    "description": "Myntra | Nu Republic Epic X3 Earbuds with Upto 48 hrs Playtime & ENC TWS With X-Bass Technology at *Rs 499* Only!! 👉 Nu Republic Pulse Metal Wireless Neckband with Upto 50 hours Playtime, ENC, Dual Pairing at *Rs. 419*…",
-    "shortlink": "https://myntr.in/TvhYHF",
-    "urls": [
-      {
-        "url": "https://myntr.in/TvhYHF",
-        "label": "Nu Republic Epic X3 Earbuds with Upto 48 hrs Playtime & ENC TWS With X-Bass Technology at *Rs 499* Only!!"
-      },
-      {
-        "url": "https://myntr.in/dqyQCt",
-        "label": "Nu Republic Pulse Metal Wireless Neckband with Upto 50 hours Playtime, ENC, Dual Pairing at *Rs. 419* Only!!"
-      }
-    ],
-    "raw_text": "Myntra | Nu Republic Epic X3 Earbuds with Upto 48 hrs Playtime & ENC TWS With X-Bass Technology at *Rs 499* Only!!\n👉https://myntr.in/TvhYHF\n\nNu Republic Pulse Metal Wireless Neckband with Upto 50 hours Playtime, ENC, Dual Pairing at *Rs. 419* Only!!\n👉https://myntr.in/dqyQCt",
-    "final_url": "https://myntr.in/TvhYHF",
-    "local_image": "assets/images/tgmsg_18339.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-25T07:40:27+00:00",
-    "buy_link": "https://myntr.in/TvhYHF",
-    "date_iso": "2025-11-25T07:40:27+00:00"
   }
 ]
