@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg18788",
+    "title": "Red Tape Shoes Up to 85% off",
+    "description": "Flipkart | Red Tape Shoes Upto 85% off 👉https://fkrt.co/9NRKoQ",
+    "shortlink": "https://fkrt.co/9NRKoQ",
+    "urls": [
+      {
+        "url": "https://fkrt.co/9NRKoQ",
+        "label": "Red Tape Shoes Upto 85% off"
+      }
+    ],
+    "raw_text": "Flipkart | Red Tape Shoes Upto 85% off \n\n👉https://fkrt.co/9NRKoQ",
+    "final_url": "https://fkrt.co/9NRKoQ",
+    "local_image": "assets/images/tgmsg_18788.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-28T14:16:18+00:00",
+    "buy_link": "https://fkrt.co/9NRKoQ",
+    "date_iso": "2025-11-28T14:16:18+00:00"
+  },
+  {
+    "id": "msg18791",
+    "title": "Up to 88% Off On Handbags Starting From Rs.123",
+    "description": "Flipkart | Upto 88% Off On Handbags Starting From Rs.123 👉Link : https://fkrt.co/qDDUZi",
+    "shortlink": "https://fkrt.co/qDDUZi",
+    "urls": [
+      {
+        "url": "https://fkrt.co/qDDUZi",
+        "label": "Upto 88% Off On Handbags Starting From Rs.123"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 88% Off On Handbags Starting From Rs.123\n\n👉Link : https://fkrt.co/qDDUZi",
+    "final_url": "https://fkrt.co/qDDUZi",
+    "local_image": "assets/images/tgmsg_18791.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-28T14:33:16+00:00",
+    "buy_link": "https://fkrt.co/qDDUZi",
+    "date_iso": "2025-11-28T14:33:16+00:00"
+  },
+  {
     "id": "msg18786",
     "title": "Kook N Keech Men's Trackpants Starts @269",
     "description": "Myntra : Kook N Keech Men's Trackpants Starts @269. 👉https://myntr.in/4XeeU3",
@@ -9830,49 +9870,5 @@
     "date_obj": "2025-11-25T08:45:17+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F91C4YSK?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-25T08:45:17+00:00"
-  },
-  {
-    "id": "msg18340",
-    "title": "Zebronics 3W Wireless Speaker @ 399",
-    "description": "Amazon | Zebronics 3W Wireless Speaker @ 399. 👉https://www.amazon.in/dp/B07YNV1L55?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07YNV1L55?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07YNV1L55?th=1&tag=bestpricezo0f-21",
-        "label": "Zebronics 3W Wireless Speaker @ 399"
-      }
-    ],
-    "raw_text": "Amazon | Zebronics 3W Wireless Speaker @ 399.\n\n👉https://www.amazon.in/dp/B07YNV1L55?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07YNV1L55?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18340.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-25T07:52:34+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07YNV1L55?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-25T07:52:34+00:00"
-  },
-  {
-    "id": "msg18341",
-    "title": "Deal Betteralt 100% Shilajit Gummies (60pc) @ 499/",
-    "description": "Amazon Deal : Betteralt 100% Shilajit Gummies (60pc) @ 499/- 🔗 ➡️Global Brand + Lowest Price",
-    "shortlink": "https://www.amazon.in/dp/B0F9PNBHXN?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F9PNBHXN?th=1&tag=bestpricezo0f-21",
-        "label": "Betteralt 100% Shilajit Gummies (60pc) @ 499/"
-      },
-      {
-        "url": "",
-        "label": "➡️Global Brand + Lowest Price"
-      }
-    ],
-    "raw_text": "Amazon  Deal : Betteralt 100% Shilajit Gummies (60pc) @ 499/-\n\n🔗https://www.amazon.in/dp/B0F9PNBHXN?th=1&tag=bestpricezo0f-21\n\n➡️Global Brand + Lowest Price",
-    "final_url": "https://www.amazon.in/dp/B0F9PNBHXN?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18341.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-25T08:10:28+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F9PNBHXN?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-25T08:10:28+00:00"
   }
 ]
