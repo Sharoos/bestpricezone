@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18908",
+    "title": "Story@home at 70% off",
+    "description": "Myntra | Story@home at 70% off: https://myntr.in/qt3yBv Monte Carlo blanket and bedsheets min 50% off. https://myntr.in/40QUiN",
+    "shortlink": "https://myntr.in/qt3yBv",
+    "urls": [
+      {
+        "url": "https://myntr.in/qt3yBv",
+        "label": "Story@home at 70% off"
+      },
+      {
+        "url": "https://myntr.in/40QUiN",
+        "label": "Monte Carlo blanket and bedsheets min 50% off"
+      }
+    ],
+    "raw_text": "Myntra | Story@home at 70% off: \nhttps://myntr.in/qt3yBv\n\nMonte Carlo blanket and bedsheets min 50% off.\nhttps://myntr.in/40QUiN",
+    "final_url": "https://myntr.in/qt3yBv",
+    "local_image": "assets/images/tgmsg_18908.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-29T14:34:48+00:00",
+    "buy_link": "https://myntr.in/qt3yBv",
+    "date_iso": "2025-11-29T14:34:48+00:00"
+  },
+  {
     "id": "msg18906",
     "title": "Up to 60% off!!!",
     "description": "Myntra | Borosil glass lunch boxes - Upto 60% off!!! https://myntr.in/fLoehM",
@@ -9270,85 +9294,5 @@
     "date_obj": "2025-11-25T19:38:36+00:00",
     "buy_link": "https://www.amazon.in/dp/B08H11GTG2?psc=1&th=1&ck&tag=bestpricezo0f-21",
     "date_iso": "2025-11-25T19:38:36+00:00"
-  },
-  {
-    "id": "msg18457",
-    "title": "Up to 80% Off On Top Branded Sports Shoe",
-    "description": "AJIO : Upto 80% Off On Top Branded Sports Shoes. Adidas : Puma : Reebok : Nike : Asics : Premium Branded Shoes : Woodland Footwears : CROCS Footwears. Men : Women : Boys : Girls : Upto 85% Off On Red Tape Shoes. Women :…",
-    "shortlink": "https://ajiio.co/cSP7cA",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Top Branded Sports Shoes"
-      },
-      {
-        "url": "https://ajiio.co/cSP7cA",
-        "label": "Adidas"
-      },
-      {
-        "url": "https://ajiio.co/2eOoIi",
-        "label": "Puma"
-      },
-      {
-        "url": "https://ajiio.co/mgX1ga",
-        "label": "Reebok"
-      },
-      {
-        "url": "https://ajiio.co/dcHV0l",
-        "label": "Nike"
-      },
-      {
-        "url": "https://ajiio.co/2HvBk4",
-        "label": "Asics"
-      },
-      {
-        "url": "https://ajiio.co/ihRQKJ",
-        "label": "Premium Branded Shoes"
-      },
-      {
-        "url": "https://ajiio.co/CYBNoi",
-        "label": "Woodland Footwears"
-      },
-      {
-        "url": "",
-        "label": "CROCS Footwears"
-      },
-      {
-        "url": "https://ajiio.co/ZGzm55",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.co/CTJuxJ",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/PDtU2E",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/nAKsx4",
-        "label": "Girls"
-      },
-      {
-        "url": "",
-        "label": "Upto 85% Off On Red Tape Shoes"
-      },
-      {
-        "url": "https://ajiio.co/4ARlmy",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/TqxmAN",
-        "label": "Men"
-      }
-    ],
-    "raw_text": "AJIO : Upto 80% Off On Top Branded Sports Shoes. \n\nAdidas : https://ajiio.co/cSP7cA\nPuma : https://ajiio.co/2eOoIi\nReebok : https://ajiio.co/mgX1ga\nNike : https://ajiio.co/dcHV0l\nAsics : https://ajiio.co/2HvBk4\n\nPremium Branded Shoes : https://ajiio.co/ihRQKJ\n\nWoodland Footwears : https://ajiio.co/CYBNoi\n\nCROCS Footwears.\n\nMen : https://ajiio.co/ZGzm55\nWomen : https://ajiio.co/CTJuxJ\nBoys : https://ajiio.co/PDtU2E\nGirls : https://ajiio.co/nAKsx4\n\nUpto 85% Off On Red Tape Shoes. \n\nWomen : https://ajiio.co/4ARlmy\nMen : https://ajiio.co/TqxmAN",
-    "final_url": "https://ajiio.co/cSP7cA",
-    "local_image": "assets/images/tgmsg_18457.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-25T19:39:19+00:00",
-    "buy_link": "https://ajiio.co/cSP7cA",
-    "date_iso": "2025-11-25T19:39:19+00:00"
   }
 ]
