@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18877",
+    "title": "🛍Roadster Women's at Just ₹216",
+    "description": "Flipkart | 🛍Roadster Women's at Just ₹216 🛒https://fkrt.co/WN9d2z",
+    "shortlink": "https://fkrt.co/WN9d2z",
+    "urls": [
+      {
+        "url": "https://fkrt.co/WN9d2z",
+        "label": "🛍Roadster Women's at Just ₹216"
+      }
+    ],
+    "raw_text": "Flipkart | 🛍Roadster Women's at Just ₹216\n\n🛒https://fkrt.co/WN9d2z",
+    "final_url": "https://fkrt.co/WN9d2z",
+    "local_image": "assets/images/tgmsg_18877.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-29T08:16:10+00:00",
+    "buy_link": "https://fkrt.co/WN9d2z",
+    "date_iso": "2025-11-29T08:16:10+00:00"
+  },
+  {
     "id": "msg18876",
     "title": "Beardo Min 60% off",
     "description": "Myntra | Beardo Min 60% off 👉Link : https://myntr.in/khNui3",
@@ -9682,65 +9702,5 @@
     "date_obj": "2025-11-25T18:46:20+00:00",
     "buy_link": "https://fkrt.co/uBlyce",
     "date_iso": "2025-11-25T18:46:20+00:00"
-  },
-  {
-    "id": "msg18426",
-    "title": "Up to 80% OFF on Branded Shoes 🔥",
-    "description": "👟👟 Flipkart Mega Footwear Sale Alert Upto 80% OFF on Branded Shoes 🔥 Top Picks 👇 Puma → Reebok → Adidas → FILA → Duke → Wrogn → Hush Puppies → 🛍 Grab your favorite pair before it’s gone",
-    "shortlink": "https://fkrt.co/5vn3ut",
-    "urls": [
-      {
-        "url": "",
-        "label": "👟👟 Flipkart Mega Footwear Sale Alert"
-      },
-      {
-        "url": "",
-        "label": "Upto 80% OFF on Branded Shoes 🔥"
-      },
-      {
-        "url": "",
-        "label": "Top Picks 👇"
-      },
-      {
-        "url": "https://fkrt.co/5vn3ut",
-        "label": "Puma →"
-      },
-      {
-        "url": "https://fkrt.co/fjvnkX",
-        "label": "Reebok →"
-      },
-      {
-        "url": "https://fkrt.co/DKXoGS",
-        "label": "Adidas →"
-      },
-      {
-        "url": "https://fkrt.co/1FjcUm",
-        "label": "FILA →"
-      },
-      {
-        "url": "https://fkrt.co/sYGriX",
-        "label": "Duke →"
-      },
-      {
-        "url": "https://fkrt.co/7dVdaR",
-        "label": "Wrogn →"
-      },
-      {
-        "url": "https://fkrt.co/zm16TA",
-        "label": "Hush Puppies →"
-      },
-      {
-        "url": "",
-        "label": "🛍 Grab your favorite pair before it’s gone"
-      }
-    ],
-    "raw_text": "👟👟 Flipkart Mega Footwear Sale Alert\n\nUpto 80% OFF on Branded Shoes 🔥\n\nTop Picks 👇\nPuma → https://fkrt.co/5vn3ut\nReebok → https://fkrt.co/fjvnkX\nAdidas → https://fkrt.co/DKXoGS\nFILA → https://fkrt.co/1FjcUm\nDuke → https://fkrt.co/sYGriX\nWrogn → https://fkrt.co/7dVdaR\nHush Puppies → https://fkrt.co/zm16TA\n\n🛍 Grab your favorite pair before it’s gone",
-    "final_url": "https://fkrt.co/5vn3ut",
-    "local_image": "assets/images/tgmsg_18426.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-25T18:46:57+00:00",
-    "buy_link": "https://fkrt.co/5vn3ut",
-    "date_iso": "2025-11-25T18:46:57+00:00"
   }
 ]
