@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18954",
+    "title": "FRONTECH Wired Keyboard & Mouse @ 349",
+    "description": "Amazon | FRONTECH Wired Keyboard & Mouse @ 349. https://www.amazon.in/dp/B0C5TM5TY5?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0C5TM5TY5?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0C5TM5TY5?th=1&tag=bestpricezo0f-21",
+        "label": "FRONTECH Wired Keyboard & Mouse @ 349"
+      }
+    ],
+    "raw_text": "Amazon | FRONTECH Wired Keyboard & Mouse @ 349.\n\nhttps://www.amazon.in/dp/B0C5TM5TY5?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0C5TM5TY5?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_18954.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-29T19:47:35+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0C5TM5TY5?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-29T19:47:35+00:00"
+  },
+  {
     "id": "msg18948",
     "title": "Caprese Women Pink Sling Bag @559",
     "description": "Flipkart | Caprese Women Pink Sling Bag @559 https://fkrt.co/ai7hjp",
@@ -9190,65 +9210,5 @@
     "date_obj": "2025-11-26T08:17:35+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FV7HRVLG?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-26T08:17:35+00:00"
-  },
-  {
-    "id": "msg18494",
-    "title": "Up to 89% Off On Ove",
-    "description": "AJIO Loot : Upto 89% Off On Over-Sized T-Shirts. Mens : Womens : Polo T-Shirts : Jeans : Branded Innerwears : Men' Blazers & Waistcoat : Kids Clothing Starts From Rs.58 Boys : Girls : Infants :",
-    "shortlink": "https://ajiio.in/V9k668K",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 89% Off On Over-Sized T-Shirts"
-      },
-      {
-        "url": "https://ajiio.in/V9k668K",
-        "label": "Mens"
-      },
-      {
-        "url": "https://ajiio.in/LhR9pwu",
-        "label": "Womens"
-      },
-      {
-        "url": "https://ajiio.in/XLiLf61",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.in/rK3la6X",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.in/kp1jNbs",
-        "label": "Branded Innerwears"
-      },
-      {
-        "url": "https://ajiio.in/9obqqrP",
-        "label": "Men' Blazers & Waistcoat"
-      },
-      {
-        "url": "",
-        "label": "Kids Clothing Starts From Rs.58"
-      },
-      {
-        "url": "https://ajiio.in/XrBB8ya",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.in/62gBy8p",
-        "label": "Girls"
-      },
-      {
-        "url": "https://ajiio.in/ChLuGMw",
-        "label": "Infants"
-      }
-    ],
-    "raw_text": "AJIO Loot : Upto 89% Off On Over-Sized T-Shirts. \n\nMens : https://ajiio.in/V9k668K\nWomens : https://ajiio.in/LhR9pwu\n\nPolo T-Shirts : https://ajiio.in/XLiLf61\nJeans : https://ajiio.in/rK3la6X\nBranded Innerwears : https://ajiio.in/kp1jNbs\nMen' Blazers & Waistcoat : https://ajiio.in/9obqqrP\n\nKids Clothing Starts From Rs.58\n\nBoys : https://ajiio.in/XrBB8ya\nGirls : https://ajiio.in/62gBy8p\nInfants : https://ajiio.in/ChLuGMw",
-    "final_url": "https://ajiio.in/V9k668K",
-    "local_image": "assets/images/tgmsg_18494.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-26T07:42:52+00:00",
-    "buy_link": "https://ajiio.in/V9k668K",
-    "date_iso": "2025-11-26T07:42:52+00:00"
   }
 ]
