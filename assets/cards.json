@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18886",
+    "title": "Denim Shirts Up to 81% Off",
+    "description": "Flipkart | Denim Shirts Upto 81% Off 👉https://fkrt.co/b7ZfVe",
+    "shortlink": "https://fkrt.co/b7ZfVe",
+    "urls": [
+      {
+        "url": "https://fkrt.co/b7ZfVe",
+        "label": "Denim Shirts Upto 81% Off"
+      }
+    ],
+    "raw_text": "Flipkart | Denim Shirts Upto 81% Off\n\n👉https://fkrt.co/b7ZfVe",
+    "final_url": "https://fkrt.co/b7ZfVe",
+    "local_image": "assets/images/tgmsg_18886.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-29T10:34:13+00:00",
+    "buy_link": "https://fkrt.co/b7ZfVe",
+    "date_iso": "2025-11-29T10:34:13+00:00"
+  },
+  {
     "id": "msg18883",
     "title": "Grocery Winter Skin Care Up to 50% Off",
     "description": "Flipkart Grocery: Winter Skin Care Upto 50% Off Link: Body Lotion: Creams: Baby Care: Soap & Body Wash:",
@@ -9570,45 +9590,5 @@
     "date_obj": "2025-11-25T18:56:46+00:00",
     "buy_link": "https://myntr.in/gvgr3y",
     "date_iso": "2025-11-25T18:56:46+00:00"
-  },
-  {
-    "id": "msg18435",
-    "title": "Irus, Irus by Idee Min 40% off",
-    "description": "Myntra Enjoy Early Black Friday deals on Sunglasses Ray Ban: Min 30% off Irus, Irus by Idee: Min 40% off Police, Fila: Min 40% off Guess, Ferragamo: Min 50% off Offer valid until stocks last !! Hurry up!!",
-    "shortlink": "https://myntr.in/bWeNtY",
-    "urls": [
-      {
-        "url": "",
-        "label": "Myntra Enjoy Early Black Friday deals on Sunglasses"
-      },
-      {
-        "url": "https://myntr.in/bWeNtY",
-        "label": "Min 30% off"
-      },
-      {
-        "url": "https://myntr.in/HsfQDj",
-        "label": "Irus, Irus by Idee: Min 40% off"
-      },
-      {
-        "url": "https://myntr.in/PcQUpL",
-        "label": "Police, Fila: Min 40% off"
-      },
-      {
-        "url": "https://myntr.in/XoraI3",
-        "label": "Guess, Ferragamo: Min 50% off"
-      },
-      {
-        "url": "",
-        "label": "Offer valid until stocks last !! Hurry up!!"
-      }
-    ],
-    "raw_text": "Myntra Enjoy Early Black Friday deals on Sunglasses\n\nRay Ban: Min 30% off\nhttps://myntr.in/bWeNtY\n\nIrus, Irus by Idee: Min 40% off\nhttps://myntr.in/HsfQDj\n\nPolice, Fila: Min 40% off\nhttps://myntr.in/PcQUpL\n\n\nGuess, Ferragamo: Min 50% off\nhttps://myntr.in/XoraI3\n\nOffer valid until stocks last !! Hurry up!!",
-    "final_url": "https://myntr.in/bWeNtY",
-    "local_image": "assets/images/tgmsg_18435.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-25T18:58:08+00:00",
-    "buy_link": "https://myntr.in/bWeNtY",
-    "date_iso": "2025-11-25T18:58:08+00:00"
   }
 ]
