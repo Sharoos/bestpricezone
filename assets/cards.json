@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg18880",
+    "title": "shirts From Rs.131",
+    "description": "Myntra | Oversized T-shirts From Rs.131 Men's : https://myntr.in/Yd20w5 Women : https://myntr.in/IFjRCK",
+    "shortlink": "https://myntr.in/Yd20w5",
+    "urls": [
+      {
+        "url": "",
+        "label": "Oversized T-shirts From Rs.131"
+      },
+      {
+        "url": "https://myntr.in/Yd20w5",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/IFjRCK",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | Oversized T-shirts From Rs.131\n\nMen's : https://myntr.in/Yd20w5 \nWomen : https://myntr.in/IFjRCK",
+    "final_url": "https://myntr.in/Yd20w5",
+    "local_image": "assets/images/tgmsg_18880.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-29T09:32:42+00:00",
+    "buy_link": "https://myntr.in/Yd20w5",
+    "date_iso": "2025-11-29T09:32:42+00:00"
+  },
+  {
     "id": "msg18878",
     "title": "Get Up to 80% Off",
     "description": "Flipkart : Get Upto 80% Off 👉 Link : https://fkrt.co/dxz5EL Grocery : https://fkrt.co/gT0o19 More Discounted Product : https://fkrt.co/xAtWRn",
@@ -9642,33 +9670,5 @@
     "date_obj": "2025-11-25T18:34:43+00:00",
     "buy_link": "https://ajiio.in/s4xcC90",
     "date_iso": "2025-11-25T18:34:43+00:00"
-  },
-  {
-    "id": "msg18422",
-    "title": "Min. 70% Off On USPA Clothing",
-    "description": "Min. 70% Off On USPA Clothing. Men's : https://ajiio.in/ygLe9I6 Women’s : https://ajiio.in/GHv8rk9",
-    "shortlink": "https://ajiio.in/ygLe9I6",
-    "urls": [
-      {
-        "url": "",
-        "label": "Min. 70% Off On USPA Clothing"
-      },
-      {
-        "url": "https://ajiio.in/ygLe9I6",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.in/GHv8rk9",
-        "label": "Women’s"
-      }
-    ],
-    "raw_text": "Min. 70% Off On USPA Clothing.\n\nMen's : https://ajiio.in/ygLe9I6\nWomen’s : https://ajiio.in/GHv8rk9",
-    "final_url": "https://ajiio.in/ygLe9I6",
-    "local_image": "assets/images/tgmsg_18422.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-25T18:44:31+00:00",
-    "buy_link": "https://ajiio.in/ygLe9I6",
-    "date_iso": "2025-11-25T18:44:31+00:00"
   }
 ]
