@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg18930",
+    "title": "Up to 80% off on Puma Clothing",
+    "description": "Myntra : Upto 80% off on Puma Clothing. Men's : Women's : Girls : Boys : Shoes : Men: Women's :",
+    "shortlink": "https://myntr.in/P99lGO",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% off on Puma Clothing"
+      },
+      {
+        "url": "https://myntr.in/P99lGO",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/7VnqSk",
+        "label": "Women's"
+      },
+      {
+        "url": "https://myntr.in/X52gVM",
+        "label": "Girls"
+      },
+      {
+        "url": "https://myntr.in/yME6Pg",
+        "label": "Boys"
+      },
+      {
+        "url": "https://myntr.in/SNPLBx",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/JH2X5P",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Myntra : Upto 80% off on Puma Clothing.\n\nMen's : https://myntr.in/P99lGO\nWomen's : https://myntr.in/7VnqSk\nGirls : https://myntr.in/X52gVM\nBoys : https://myntr.in/yME6Pg\n\nShoes : \nMen: https://myntr.in/SNPLBx\nWomen's : https://myntr.in/JH2X5P",
+    "final_url": "https://myntr.in/P99lGO",
+    "local_image": "assets/images/tgmsg_18930.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-29T17:56:51+00:00",
+    "buy_link": "https://myntr.in/P99lGO",
+    "date_iso": "2025-11-29T17:56:51+00:00"
+  },
+  {
     "id": "msg18927",
     "title": "Up to 85% Off On HRX Footwea",
     "description": "Myntra : Upto 85% Off On HRX Footwear. Men's : https://myntr.in/1k9zvx Women's : https://myntr.in/ulHKUH Shoes : https://myntr.in/uOqYxz",
@@ -9322,25 +9366,5 @@
     "date_obj": "2025-11-25T20:00:55+00:00",
     "buy_link": "https://www.amazon.in/dp/B07L9FW9GF?th=1&ck&tag=bestpricezo0f-21",
     "date_iso": "2025-11-25T20:00:55+00:00"
-  },
-  {
-    "id": "msg18467",
-    "title": "Boult GOBOULT (Formerly W20 Truly Wireless in Ear Earbuds @799",
-    "description": "Amazon | Boult GOBOULT (Formerly W20 Truly Wireless in Ear Earbuds @799 https://www.amazon.in/dp/B0D3R1LVR3?th=1&ck&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D3R1LVR3?th=1&ck&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0D3R1LVR3?th=1&ck&tag=bestpricezo0f-21",
-        "label": "Boult GOBOULT (Formerly W20 Truly Wireless in Ear Earbuds @799"
-      }
-    ],
-    "raw_text": "Amazon | Boult GOBOULT (Formerly W20 Truly Wireless in Ear Earbuds @799\n\nhttps://www.amazon.in/dp/B0D3R1LVR3?th=1&ck&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D3R1LVR3?th=1&ck&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18467.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-25T20:01:50+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D3R1LVR3?th=1&ck&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-25T20:01:50+00:00"
   }
 ]
