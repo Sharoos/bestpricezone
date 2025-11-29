@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18876",
+    "title": "Beardo Min 60% off",
+    "description": "Myntra | Beardo Min 60% off 👉Link : https://myntr.in/khNui3",
+    "shortlink": "https://myntr.in/khNui3",
+    "urls": [
+      {
+        "url": "https://myntr.in/khNui3",
+        "label": "Beardo Min 60% off"
+      }
+    ],
+    "raw_text": "Myntra | Beardo Min 60% off\n\n👉Link : https://myntr.in/khNui3",
+    "final_url": "https://myntr.in/khNui3",
+    "local_image": "assets/images/tgmsg_18876.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-29T08:04:10+00:00",
+    "buy_link": "https://myntr.in/khNui3",
+    "date_iso": "2025-11-29T08:04:10+00:00"
+  },
+  {
     "id": "msg18875",
     "title": "Up to 80% Off On Clothing",
     "description": "Amazon  Upto 80% Off On Clothing. Men's :…",
@@ -9722,25 +9742,5 @@
     "date_obj": "2025-11-25T18:46:57+00:00",
     "buy_link": "https://fkrt.co/5vn3ut",
     "date_iso": "2025-11-25T18:46:57+00:00"
-  },
-  {
-    "id": "msg18427",
-    "title": "58% Off",
-    "description": "Flipkart | 58% Off - Crompton Instaservgrl Grill At Rs.879 https://fkrt.co/x9RRPY",
-    "shortlink": "https://fkrt.co/x9RRPY",
-    "urls": [
-      {
-        "url": "https://fkrt.co/x9RRPY",
-        "label": "58% Off - Crompton Instaservgrl Grill At Rs.879"
-      }
-    ],
-    "raw_text": "Flipkart | 58% Off - Crompton Instaservgrl Grill At Rs.879\n\n  https://fkrt.co/x9RRPY",
-    "final_url": "https://fkrt.co/x9RRPY",
-    "local_image": "assets/images/tgmsg_18427.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-25T18:49:04+00:00",
-    "buy_link": "https://fkrt.co/x9RRPY",
-    "date_iso": "2025-11-25T18:49:04+00:00"
   }
 ]
