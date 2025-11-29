@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg18914",
+    "title": "grocery Up to. 70% Off",
+    "description": "Flipkart grocery: Upto. 70% Off Link: Immunity Booster: Health Drink: Tea Coffee: Noodles: Dry Fruits:",
+    "shortlink": "https://fktr.in/uGoPRz5",
+    "urls": [
+      {
+        "url": "https://fktr.in/uGoPRz5",
+        "label": "Upto. 70% Off"
+      },
+      {
+        "url": "https://fktr.in/M95R5UZ",
+        "label": "Immunity Booster"
+      },
+      {
+        "url": "https://fktr.in/8n3zV2x",
+        "label": "Health Drink"
+      },
+      {
+        "url": "https://fktr.in/TFRw4qK",
+        "label": "Tea Coffee"
+      },
+      {
+        "url": "https://fktr.in/9Wb5Pmg",
+        "label": "Noodles"
+      },
+      {
+        "url": "https://fktr.in/4yfXWLP",
+        "label": "Dry Fruits"
+      }
+    ],
+    "raw_text": "Flipkart grocery: Upto. 70% Off\n\nLink: https://fktr.in/uGoPRz5\n\nImmunity Booster: https://fktr.in/M95R5UZ\nHealth Drink: https://fktr.in/8n3zV2x\nTea Coffee: https://fktr.in/TFRw4qK\nNoodles: https://fktr.in/9Wb5Pmg\nDry Fruits: https://fktr.in/4yfXWLP",
+    "final_url": "https://fktr.in/uGoPRz5",
+    "local_image": "assets/images/tgmsg_18914.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-29T15:11:03+00:00",
+    "buy_link": "https://fktr.in/uGoPRz5",
+    "date_iso": "2025-11-29T15:11:03+00:00"
+  },
+  {
+    "id": "msg18915",
+    "title": "47% Off",
+    "description": "*47% Off :* Crompton Arno Neo 15-L 5 Star Rated Water Heater @ 5499 https://www.amazon.in/dp/B08GSQXLJ2?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B08GSQXLJ2?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B08GSQXLJ2?tag=bestpricezo0f-21",
+        "label": "47% Off :* Crompton Arno Neo 15-L 5 Star Rated Water Heater @ 5499"
+      }
+    ],
+    "raw_text": "*47% Off :* Crompton Arno Neo 15-L 5 Star Rated Water Heater @ 5499\n\n https://www.amazon.in/dp/B08GSQXLJ2?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B08GSQXLJ2?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_18915.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-29T15:17:05+00:00",
+    "buy_link": "https://www.amazon.in/dp/B08GSQXLJ2?tag=bestpricezo0f-21",
+    "date_iso": "2025-11-29T15:17:05+00:00"
+  },
+  {
     "id": "msg18909",
     "title": "Up to 9% Off on Gold & Diamond Jewellery Gift Cards + 5% Cashback 🙈🙈",
     "description": "Flipkart : Upto 9% Off on Gold & Diamond Jewellery Gift Cards + 5% Cashback 🙈🙈 🔗 Master Link: More Savings: • +1% Off on UPI Payments • +5% Cashback with SBI Cashback Card • +5% Extra Off (up to ₹500) via SuperCoins",
@@ -9282,53 +9342,5 @@
     "date_obj": "2025-11-25T19:33:33+00:00",
     "buy_link": "https://fkrt.co/SBrL1E",
     "date_iso": "2025-11-25T19:33:33+00:00"
-  },
-  {
-    "id": "msg18453",
-    "title": "Oversized T",
-    "description": "Myntra : Oversized T-Shirt Starts . Men's : https://myntr.in/jprX56 Women's : https://myntr.in/y0i8TY",
-    "shortlink": "https://myntr.in/jprX56",
-    "urls": [
-      {
-        "url": "",
-        "label": "Oversized T-Shirt Starts"
-      },
-      {
-        "url": "https://myntr.in/jprX56",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/y0i8TY",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "Myntra : Oversized T-Shirt Starts .\n\nMen's : https://myntr.in/jprX56\nWomen's : https://myntr.in/y0i8TY",
-    "final_url": "https://myntr.in/jprX56",
-    "local_image": "assets/images/tgmsg_18453.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-25T19:34:19+00:00",
-    "buy_link": "https://myntr.in/jprX56",
-    "date_iso": "2025-11-25T19:34:19+00:00"
-  },
-  {
-    "id": "msg18454",
-    "title": "52% off Everyuth Naturals Face Wash",
-    "description": "Flipkart | 52% off : Everyuth Naturals Face Wash - Pack of 2 At 213  🔥🔥 👉 https://fkrt.co/mKGXhI",
-    "shortlink": "https://fkrt.co/mKGXhI",
-    "urls": [
-      {
-        "url": "https://fkrt.co/mKGXhI",
-        "label": "52% off : Everyuth Naturals Face Wash - Pack of 2 At 213 🔥🔥"
-      }
-    ],
-    "raw_text": "Flipkart | 52% off : Everyuth Naturals Face Wash - Pack of 2 At 213  🔥🔥\n\n👉 https://fkrt.co/mKGXhI",
-    "final_url": "https://fkrt.co/mKGXhI",
-    "local_image": "assets/images/tgmsg_18454.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-25T19:35:31+00:00",
-    "buy_link": "https://fkrt.co/mKGXhI",
-    "date_iso": "2025-11-25T19:35:31+00:00"
   }
 ]
