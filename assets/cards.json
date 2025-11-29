@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg18869",
+    "title": "Up to 75% Off On HRX Clothing",
+    "description": "Myntra : Upto 75% Off On HRX Clothing. Men's : Low To High : Trackpants : Tracksuits : Women's : Low To High : Trackpants : Tracksuits :",
+    "shortlink": "https://myntr.in/SoAQBi",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On HRX Clothing"
+      },
+      {
+        "url": "https://myntr.in/SoAQBi",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/okHkKE",
+        "label": "Low To High"
+      },
+      {
+        "url": "https://myntr.in/s9rdLn",
+        "label": "Trackpants"
+      },
+      {
+        "url": "https://myntr.in/Gdp9zw",
+        "label": "Tracksuits"
+      },
+      {
+        "url": "https://myntr.in/nLMxzj",
+        "label": "Women's"
+      },
+      {
+        "url": "https://myntr.in/2JdbGW",
+        "label": "Low To High"
+      },
+      {
+        "url": "https://myntr.in/0QXLOY",
+        "label": "Trackpants"
+      },
+      {
+        "url": "https://myntr.in/06Pl5m",
+        "label": "Tracksuits"
+      }
+    ],
+    "raw_text": "Myntra : Upto 75% Off On HRX Clothing.\n\nMen's : https://myntr.in/SoAQBi\nLow To High : https://myntr.in/okHkKE\nTrackpants : https://myntr.in/s9rdLn\nTracksuits : https://myntr.in/Gdp9zw\n\nWomen's : https://myntr.in/nLMxzj\nLow To High : https://myntr.in/2JdbGW\nTrackpants : https://myntr.in/0QXLOY\nTracksuits : https://myntr.in/06Pl5m",
+    "final_url": "https://myntr.in/SoAQBi",
+    "local_image": "assets/images/tgmsg_18869.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-29T07:06:08+00:00",
+    "buy_link": "https://myntr.in/SoAQBi",
+    "date_iso": "2025-11-29T07:06:08+00:00"
+  },
+  {
     "id": "msg18866",
     "title": "Up to 75% Off On CLARKS Footwea",
     "description": "AJIO : Upto 75% Off On CLARKS Footwears. Women : https://ajiio.co/ig1ne4 Men : https://ajiio.co/TMBlFb",
@@ -9602,25 +9654,5 @@
     "date_obj": "2025-11-25T17:51:08+00:00",
     "buy_link": "https://fkrt.co/k8Qx8L",
     "date_iso": "2025-11-25T17:51:08+00:00"
-  },
-  {
-    "id": "msg18406",
-    "title": "TRESemme Up to 58% Off",
-    "description": "Myntra | TRESemme Upto  58% Off https://myntr.in/uch4Ox",
-    "shortlink": "https://myntr.in/uch4Ox",
-    "urls": [
-      {
-        "url": "https://myntr.in/uch4Ox",
-        "label": "TRESemme Upto 58% Off"
-      }
-    ],
-    "raw_text": "Myntra | TRESemme Upto  58% Off\n\nhttps://myntr.in/uch4Ox",
-    "final_url": "https://myntr.in/uch4Ox",
-    "local_image": "assets/images/tgmsg_18406.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-25T17:38:26+00:00",
-    "buy_link": "https://myntr.in/uch4Ox",
-    "date_iso": "2025-11-25T17:38:26+00:00"
   }
 ]
