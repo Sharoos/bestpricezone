@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg18944",
+    "title": "Up to 60% Off On Reebok Men’s Shoes Start",
+    "description": "Myntra : Upto 60% Off On Reebok Men’s Shoes Starts . https://myntr.in/e6eKKr",
+    "shortlink": "https://myntr.in/e6eKKr",
+    "urls": [
+      {
+        "url": "https://myntr.in/e6eKKr",
+        "label": "Upto 60% Off On Reebok Men’s Shoes Starts"
+      }
+    ],
+    "raw_text": "Myntra : Upto 60% Off On Reebok Men’s Shoes Starts .\n\nhttps://myntr.in/e6eKKr",
+    "final_url": "https://myntr.in/e6eKKr",
+    "local_image": "assets/images/tgmsg_18944.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-29T18:58:18+00:00",
+    "buy_link": "https://myntr.in/e6eKKr",
+    "date_iso": "2025-11-29T18:58:18+00:00"
+  },
+  {
+    "id": "msg18945",
+    "title": "Up to 70% Off On H&M + 10% Off above ₹1699",
+    "description": "Myntra: Upto 70% Off On H&M + 10% Off above ₹1699. Apply Coupon : HNFBF10 Men : Women :",
+    "shortlink": "https://myntr.in/BcQ6k7",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70% Off On H&M + 10% Off above ₹1699"
+      },
+      {
+        "url": "https://myntr.in/BcQ6k7",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/1F9x1P",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra: Upto 70% Off On H&M + 10% Off above ₹1699.\n\nApply Coupon : HNFBF10\n\nMen : https://myntr.in/BcQ6k7\nWomen : https://myntr.in/1F9x1P",
+    "final_url": "https://myntr.in/BcQ6k7",
+    "local_image": "assets/images/tgmsg_18945.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-29T18:59:04+00:00",
+    "buy_link": "https://myntr.in/BcQ6k7",
+    "date_iso": "2025-11-29T18:59:04+00:00"
+  },
+  {
     "id": "msg18936",
     "title": "Vivel Aloe Vera Grade 1 Bathing Soap",
     "description": "Amazon | Vivel Aloe Vera Grade 1 Bathing Soap https://www.amazon.in/dp/B01M0TK5AP?th=1&ck&tag=bestpricezo0f-21",
@@ -9342,69 +9390,5 @@
     "date_obj": "2025-11-26T06:20:20+00:00",
     "buy_link": "https://ajiio.in/0OVMslq",
     "date_iso": "2025-11-26T06:20:20+00:00"
-  },
-  {
-    "id": "msg18489",
-    "title": "🔥Beauty Products Start @₹55",
-    "description": "🔥Myntra Beauty Products Start @₹55 Master Link : Boroplus: HE: Parachute: Deodorant:",
-    "shortlink": "https://myntr.in/dU22s6",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Myntra Beauty Products Start @₹55"
-      },
-      {
-        "url": "https://myntr.in/dU22s6",
-        "label": "Master"
-      },
-      {
-        "url": "https://myntr.in/YB6Zbm",
-        "label": "Boroplus"
-      },
-      {
-        "url": "https://myntr.in/DtUIBL",
-        "label": "HE"
-      },
-      {
-        "url": "https://myntr.in/XgFbZZ",
-        "label": "Parachute"
-      },
-      {
-        "url": "https://myntr.in/yOcA05",
-        "label": "Deodorant"
-      }
-    ],
-    "raw_text": "🔥Myntra  Beauty Products Start @₹55\n\nMaster Link : https://myntr.in/dU22s6\n\nBoroplus: https://myntr.in/YB6Zbm\nHE: https://myntr.in/DtUIBL\nParachute: https://myntr.in/XgFbZZ\n\nDeodorant: https://myntr.in/yOcA05",
-    "final_url": "https://myntr.in/dU22s6",
-    "local_image": "assets/images/tgmsg_18489.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-26T06:20:59+00:00",
-    "buy_link": "https://myntr.in/dU22s6",
-    "date_iso": "2025-11-26T06:20:59+00:00"
-  },
-  {
-    "id": "msg18485",
-    "title": "61% Off On Branded Body Lotion",
-    "description": "Myntra : 50-61% Off On Branded Body Lotions. 👉https://myntr.in/C21m0C (Ponds, Nivea, Vaseline, Parachute, Etc)",
-    "shortlink": "https://myntr.in/C21m0C",
-    "urls": [
-      {
-        "url": "https://myntr.in/C21m0C",
-        "label": "50-61% Off On Branded Body Lotions"
-      },
-      {
-        "url": "",
-        "label": "(Ponds, Nivea, Vaseline, Parachute, Etc)"
-      }
-    ],
-    "raw_text": "Myntra : 50-61% Off On Branded Body Lotions.\n\n👉https://myntr.in/C21m0C\n\n(Ponds, Nivea, Vaseline, Parachute, Etc)",
-    "final_url": "https://myntr.in/C21m0C",
-    "local_image": "assets/images/tgmsg_18485.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-26T05:40:44+00:00",
-    "buy_link": "https://myntr.in/C21m0C",
-    "date_iso": "2025-11-26T05:40:44+00:00"
   }
 ]
