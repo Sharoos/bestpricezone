@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg18852",
+    "title": "Ketch Clothing Starts @129",
+    "description": "Myntra  Ketch Clothing Starts @129. Women : https://myntr.in/GDhuoE Men : https://myntr.in/jkTTpY",
+    "shortlink": "https://myntr.in/GDhuoE",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Ketch Clothing Starts @129"
+      },
+      {
+        "url": "https://myntr.in/GDhuoE",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/jkTTpY",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "Myntra  Ketch Clothing Starts @129.\n\nWomen : https://myntr.in/GDhuoE\nMen : https://myntr.in/jkTTpY",
+    "final_url": "https://myntr.in/GDhuoE",
+    "local_image": "assets/images/tgmsg_18852.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-29T04:44:14+00:00",
+    "buy_link": "https://myntr.in/GDhuoE",
+    "date_iso": "2025-11-29T04:44:14+00:00"
+  },
+  {
+    "id": "msg18853",
+    "title": "Fogg Eau De Parfum Up to 69% off From Rs.199",
+    "description": "Flipkart | Fogg Eau De Parfum upto 69% off From Rs.199 👉https://fkrt.co/JezoIW",
+    "shortlink": "https://fkrt.co/JezoIW",
+    "urls": [
+      {
+        "url": "https://fkrt.co/JezoIW",
+        "label": "Fogg Eau De Parfum upto 69% off From Rs.199"
+      }
+    ],
+    "raw_text": "Flipkart | Fogg Eau De Parfum upto 69% off From Rs.199\n\n👉https://fkrt.co/JezoIW",
+    "final_url": "https://fkrt.co/JezoIW",
+    "local_image": "assets/images/tgmsg_18853.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-29T04:46:01+00:00",
+    "buy_link": "https://fkrt.co/JezoIW",
+    "date_iso": "2025-11-29T04:46:01+00:00"
+  },
+  {
     "id": "msg18849",
     "title": "Up to 85% Off On HRX Footwea",
     "description": "Myntra : Upto 85% Off On HRX Footwear. Men's : https://myntr.in/KV3Nrn Women's : https://myntr.in/NtYt8U Shoes : https://myntr.in/4elagP",
@@ -9634,45 +9682,5 @@
     "date_obj": "2025-11-25T15:08:29+00:00",
     "buy_link": "https://extp.in/MNOy9F",
     "date_iso": "2025-11-25T15:08:29+00:00"
-  },
-  {
-    "id": "msg18394",
-    "title": "Invictus Shirts Up to 70% Off",
-    "description": "Myntra | Invictus Shirts Upto 70% Off 👉https://myntr.in/Z0Tc2a",
-    "shortlink": "https://myntr.in/Z0Tc2a",
-    "urls": [
-      {
-        "url": "https://myntr.in/Z0Tc2a",
-        "label": "Invictus Shirts Upto 70% Off"
-      }
-    ],
-    "raw_text": "Myntra | Invictus Shirts Upto 70% Off \n\n👉https://myntr.in/Z0Tc2a",
-    "final_url": "https://myntr.in/Z0Tc2a",
-    "local_image": "assets/images/tgmsg_18394.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-25T15:16:36+00:00",
-    "buy_link": "https://myntr.in/Z0Tc2a",
-    "date_iso": "2025-11-25T15:16:36+00:00"
-  },
-  {
-    "id": "msg18388",
-    "title": "Up to 65% Off On Lifebuoy Bodywash",
-    "description": "Myntra | Upto 65% Off On Lifebuoy Bodywash. 👉https://myntr.in/vLSBwT",
-    "shortlink": "https://myntr.in/vLSBwT",
-    "urls": [
-      {
-        "url": "https://myntr.in/vLSBwT",
-        "label": "Upto 65% Off On Lifebuoy Bodywash"
-      }
-    ],
-    "raw_text": "Myntra | Upto 65% Off On Lifebuoy Bodywash.\n\n👉https://myntr.in/vLSBwT",
-    "final_url": "https://myntr.in/vLSBwT",
-    "local_image": "assets/images/tgmsg_18388.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-25T14:34:07+00:00",
-    "buy_link": "https://myntr.in/vLSBwT",
-    "date_iso": "2025-11-25T14:34:07+00:00"
   }
 ]
