@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18926",
+    "title": "Premium Blanket At 1019",
+    "description": "Myntra : Premium Blanket At 1019. https://myntr.in/olWOZf More : https://myntr.in/r8zXkA",
+    "shortlink": "https://myntr.in/olWOZf",
+    "urls": [
+      {
+        "url": "https://myntr.in/olWOZf",
+        "label": "Premium Blanket At 1019"
+      },
+      {
+        "url": "https://myntr.in/r8zXkA",
+        "label": "More"
+      }
+    ],
+    "raw_text": "Myntra : Premium Blanket At 1019.\n\nhttps://myntr.in/olWOZf\n\nMore : https://myntr.in/r8zXkA",
+    "final_url": "https://myntr.in/olWOZf",
+    "local_image": "assets/images/tgmsg_18926.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-29T16:51:12+00:00",
+    "buy_link": "https://myntr.in/olWOZf",
+    "date_iso": "2025-11-29T16:51:12+00:00"
+  },
+  {
     "id": "msg18925",
     "title": "Dish Drainer Kitchen Rack Min. 70% Off",
     "description": "Flipkart | Dish Drainer Kitchen Rack Min. 70% Off 💥https://fkrt.co/ecsDu3",
@@ -9306,25 +9330,5 @@
     "date_obj": "2025-11-25T20:03:02+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CDPJ565Q?th=1&ck&tag=bestpricezo0f-21",
     "date_iso": "2025-11-25T20:03:02+00:00"
-  },
-  {
-    "id": "msg18469",
-    "title": "Havells Keratin Infused Hair Straightener @1499",
-    "description": "Amazon | Havells Keratin Infused Hair Straightener @1499 https://www.amazon.in/dp/B0FGHTLRPC?psc=1&th=1&smid=A2GTG1HPYW8M2P&ck&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FGHTLRPC?psc=1&th=1&smid=A2GTG1HPYW8M2P&ck&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FGHTLRPC?psc=1&th=1&smid=A2GTG1HPYW8M2P&ck&tag=bestpricezo0f-21",
-        "label": "Havells Keratin Infused Hair Straightener @1499"
-      }
-    ],
-    "raw_text": "Amazon | Havells Keratin Infused Hair Straightener @1499\n\nhttps://www.amazon.in/dp/B0FGHTLRPC?psc=1&th=1&smid=A2GTG1HPYW8M2P&ck&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FGHTLRPC?psc=1&th=1&smid=A2GTG1HPYW8M2P&ck&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18469.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-25T20:03:56+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FGHTLRPC?psc=1&th=1&smid=A2GTG1HPYW8M2P&ck&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-25T20:03:56+00:00"
   }
 ]
