@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg18917",
+    "title": "Up to 75% Off on Buda Jeans Men’s Clothing",
+    "description": "Ajio Upto 75% Off on Buda Jeans Men’s Clothing. T-Shirt : Shirt : Jeans : Trackpant : Shorts : Winterwear : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/oQUaf2",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Upto 75% Off on Buda Jeans Men’s Clothing"
+      },
+      {
+        "url": "https://ajiio.co/oQUaf2",
+        "label": "T-Shirt"
+      },
+      {
+        "url": "https://ajiio.co/WC37sP",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://ajiio.co/dUnxY6",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/biltkE",
+        "label": "Trackpant"
+      },
+      {
+        "url": "https://ajiio.co/hVBg20",
+        "label": "Shorts"
+      },
+      {
+        "url": "https://ajiio.co/lyt8yp",
+        "label": "Winterwear"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "Ajio  Upto 75% Off on Buda Jeans Men’s Clothing.\n\nT-Shirt : https://ajiio.co/oQUaf2\nShirt : https://ajiio.co/WC37sP\nJeans : https://ajiio.co/dUnxY6\nTrackpant : https://ajiio.co/biltkE\nShorts : https://ajiio.co/hVBg20\nWinterwear : https://ajiio.co/lyt8yp\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/oQUaf2",
+    "local_image": "assets/images/tgmsg_18917.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-29T15:48:55+00:00",
+    "buy_link": "https://ajiio.co/oQUaf2",
+    "date_iso": "2025-11-29T15:48:55+00:00"
+  },
+  {
     "id": "msg18916",
     "title": "Crompton Powerbox Alpha S – 4 Socket Extension Board – Just ₹299",
     "description": "Flipkart | Crompton Powerbox Alpha S – 4 Socket Extension Board – Just ₹299 👉https://fkrt.co/VPwQdo",
@@ -9278,29 +9326,5 @@
     "date_obj": "2025-11-25T19:29:53+00:00",
     "buy_link": "https://myntr.in/CqyJU2",
     "date_iso": "2025-11-25T19:29:53+00:00"
-  },
-  {
-    "id": "msg18451",
-    "title": "Flat 70% Off On Van Heusen Men's Sweatshirt",
-    "description": "Myntra : Flat 70% Off On Van Heusen Men's Sweatshirts. https://myntr.in/o9OVOW Jackets : https://myntr.in/3NpPBH",
-    "shortlink": "https://myntr.in/o9OVOW",
-    "urls": [
-      {
-        "url": "https://myntr.in/o9OVOW",
-        "label": "Flat 70% Off On Van Heusen Men's Sweatshirts"
-      },
-      {
-        "url": "https://myntr.in/3NpPBH",
-        "label": "Jackets"
-      }
-    ],
-    "raw_text": "Myntra : Flat 70% Off On Van Heusen Men's Sweatshirts.\n\nhttps://myntr.in/o9OVOW\n\nJackets : https://myntr.in/3NpPBH",
-    "final_url": "https://myntr.in/o9OVOW",
-    "local_image": "assets/images/tgmsg_18451.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-25T19:32:49+00:00",
-    "buy_link": "https://myntr.in/o9OVOW",
-    "date_iso": "2025-11-25T19:32:49+00:00"
   }
 ]
