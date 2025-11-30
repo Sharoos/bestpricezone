@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18981",
+    "title": "Min 50% Off on Bata Sandal",
+    "description": "Amazon | Min 50% Off on Bata Sandals. 👉https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
+        "label": "Min 50% Off on Bata Sandals"
+      }
+    ],
+    "raw_text": "Amazon | Min 50% Off on Bata Sandals.\n\n👉https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_18981.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-11-30T09:36:11+00:00",
+    "buy_link": "https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
+    "date_iso": "2025-11-30T09:36:11+00:00"
+  },
+  {
     "id": "msg18980",
     "title": "Up to 80% Off on Buda Jeans Mens Clothing",
     "description": "Ajio : Upto 80% Off on Buda Jeans Mens Clothing. T-Shirt : Shirt : Jeans : Trackpant : Shorts : Earn Extra 10% AJIO SUPERCASH",
@@ -9062,25 +9082,5 @@
     "date_obj": "2025-11-26T11:50:15+00:00",
     "buy_link": "https://myntr.in/LJdd9u",
     "date_iso": "2025-11-26T11:50:15+00:00"
-  },
-  {
-    "id": "msg18520",
-    "title": "GenZ fits at flat 70% off",
-    "description": "Myntra | Black Friday sale offer - GenZ fits at flat 70% off - 👉 https://myntr.in/vhEOZE",
-    "shortlink": "https://myntr.in/vhEOZE",
-    "urls": [
-      {
-        "url": "https://myntr.in/vhEOZE",
-        "label": "Black Friday sale offer - GenZ fits at flat 70% off"
-      }
-    ],
-    "raw_text": "Myntra | Black Friday sale offer - GenZ fits at flat 70% off - \n\n👉 https://myntr.in/vhEOZE",
-    "final_url": "https://myntr.in/vhEOZE",
-    "local_image": "assets/images/tgmsg_18520.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-26T11:40:16+00:00",
-    "buy_link": "https://myntr.in/vhEOZE",
-    "date_iso": "2025-11-26T11:40:16+00:00"
   }
 ]
