@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg19017",
+    "title": "Up to 85% Off On Branded Backpack",
+    "description": "Flipkart | Upto 85% Off On Branded Backpacks. Master Link : Skybags : Safari : Aristocrat :",
+    "shortlink": "https://fkrt.co/DjdXpb",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% Off On Branded Backpacks"
+      },
+      {
+        "url": "https://fkrt.co/DjdXpb",
+        "label": "Master"
+      },
+      {
+        "url": "https://fkrt.co/MPEXop",
+        "label": "Skybags"
+      },
+      {
+        "url": "https://fkrt.co/Qf8fPj",
+        "label": "Safari"
+      },
+      {
+        "url": "https://fkrt.co/bjhc1k",
+        "label": "Aristocrat"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 85% Off On Branded Backpacks. \n\nMaster Link : https://fkrt.co/DjdXpb\n\nSkybags : https://fkrt.co/MPEXop\nSafari : https://fkrt.co/Qf8fPj\nAristocrat : https://fkrt.co/bjhc1k",
+    "final_url": "https://fkrt.co/DjdXpb",
+    "local_image": "assets/images/tgmsg_19017.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-30T14:46:14+00:00",
+    "buy_link": "https://fkrt.co/DjdXpb",
+    "date_iso": "2025-11-30T14:46:14+00:00"
+  },
+  {
     "id": "msg19015",
     "title": "Up to 70% Off On Engage Deodorant",
     "description": "Flipkart | Upto 70% Off On Engage Deodorant 👉https://fkrt.co/TdPH3j",
@@ -9070,25 +9106,5 @@
     "date_obj": "2025-11-26T19:44:33+00:00",
     "buy_link": "https://myntr.in/xmNRW5",
     "date_iso": "2025-11-26T19:44:33+00:00"
-  },
-  {
-    "id": "msg18572",
-    "title": "Safai Cleaning Kit Bucket @299",
-    "description": "Flipkart | Safai Cleaning Kit Bucket @299 👉 https://fkrt.co/oTpncK",
-    "shortlink": "https://fkrt.co/oTpncK",
-    "urls": [
-      {
-        "url": "https://fkrt.co/oTpncK",
-        "label": "Safai Cleaning Kit Bucket @299"
-      }
-    ],
-    "raw_text": "Flipkart | Safai Cleaning Kit Bucket @299\n\n👉 https://fkrt.co/oTpncK",
-    "final_url": "https://fkrt.co/oTpncK",
-    "local_image": "assets/images/tgmsg_18572.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-26T19:45:11+00:00",
-    "buy_link": "https://fkrt.co/oTpncK",
-    "date_iso": "2025-11-26T19:45:11+00:00"
   }
 ]
