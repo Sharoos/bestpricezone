@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18989",
+    "title": "Mast Harbour Handbags Up to 80% Off",
+    "description": "Flipkart | Mast Harbour Handbags Upto 80% Off Upto 80% off Hrx By Hrithik Roshan Backpacks",
+    "shortlink": "https://fkrt.co/ukR8jv",
+    "urls": [
+      {
+        "url": "https://fkrt.co/ukR8jv",
+        "label": "Mast Harbour Handbags Upto 80% Off"
+      },
+      {
+        "url": "https://fkrt.co/fw53Lq",
+        "label": "Upto 80% off Hrx By Hrithik Roshan Backpacks"
+      }
+    ],
+    "raw_text": "Flipkart | Mast Harbour Handbags Upto 80% Off\n\nhttps://fkrt.co/ukR8jv\n\nUpto 80% off Hrx By Hrithik Roshan Backpacks\n\nhttps://fkrt.co/fw53Lq",
+    "final_url": "https://fkrt.co/ukR8jv",
+    "local_image": "assets/images/tgmsg_18989.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-30T10:45:15+00:00",
+    "buy_link": "https://fkrt.co/ukR8jv",
+    "date_iso": "2025-11-30T10:45:15+00:00"
+  },
+  {
     "id": "msg18988",
     "title": "grocery Skin Care Up to 50% Off",
     "description": "Flipkart grocery : Skin Care Upto 50% Off 👉 Link : Creams : Body Lotion : Sunscreen : Lip Care : Face Wash :",
@@ -8986,53 +9010,5 @@
     "date_obj": "2025-11-26T14:06:00+00:00",
     "buy_link": "https://ajiio.co/XiU20n",
     "date_iso": "2025-11-26T14:06:00+00:00"
-  },
-  {
-    "id": "msg18533",
-    "title": "Up to 80% Off On Branded Clothing",
-    "description": "AJIO Upto 80% Off On Branded Clothing. Men's : Shirts : Jeans : T-shirts : Jackets : Sweatshirts : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "shortlink": "https://ajiio.co/7wiYea",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 80% Off On Branded Clothing"
-      },
-      {
-        "url": "https://ajiio.co/7wiYea",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/cvne0Z",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/avmJQ4",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/4KXUDK",
-        "label": "T-shirts"
-      },
-      {
-        "url": "https://ajiio.co/J6CmdT",
-        "label": "Jackets"
-      },
-      {
-        "url": "https://ajiio.co/BK1vMC",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On Branded Clothing.\n\nMen's : https://ajiio.co/7wiYea\n\nShirts : https://ajiio.co/cvne0Z\nJeans : https://ajiio.co/avmJQ4\nT-shirts : https://ajiio.co/4KXUDK\nJackets : https://ajiio.co/J6CmdT\nSweatshirts : https://ajiio.co/BK1vMC\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "final_url": "https://ajiio.co/7wiYea",
-    "local_image": "assets/images/tgmsg_18533.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-26T13:35:46+00:00",
-    "buy_link": "https://ajiio.co/7wiYea",
-    "date_iso": "2025-11-26T13:35:46+00:00"
   }
 ]
