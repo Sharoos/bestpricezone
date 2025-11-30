@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg18993",
+    "title": "🛒 Deal Price ₹149 (Up to 80% Off)",
+    "description": "Myntra | 👕 Oversized T-Shirt Deals 🛒 Deal Price: ₹149 (Upto 80% Off) 👉https://myntr.in/bcre6C",
+    "shortlink": "https://myntr.in/bcre6C",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 Oversized T-Shirt Deals"
+      },
+      {
+        "url": "https://myntr.in/bcre6C",
+        "label": "🛒 Deal Price: ₹149 (Upto 80% Off)"
+      }
+    ],
+    "raw_text": "Myntra | 👕 Oversized T-Shirt Deals\n\n🛒 Deal Price: ₹149 (Upto 80% Off)\n\n👉https://myntr.in/bcre6C",
+    "final_url": "https://myntr.in/bcre6C",
+    "local_image": "assets/images/tgmsg_18993.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-30T11:46:00+00:00",
+    "buy_link": "https://myntr.in/bcre6C",
+    "date_iso": "2025-11-30T11:46:00+00:00"
+  },
+  {
     "id": "msg18991",
     "title": "Grocery – Up to 70% Off + Extra Saving",
     "description": "Flipkart Grocery  – Up to 70% Off + Extra Savings 🛒 Main Link: https://fkrt.co/37QbbT • Tea → https://fkrt.co/TZcHyi • Coffee : https://fkrt.co/73iaVU •Jam / Honey : https://fkrt.co/JD6yZ2",
@@ -8970,53 +8994,5 @@
     "date_obj": "2025-11-26T14:21:25+00:00",
     "buy_link": "https://ajiio.co/V7p1bp",
     "date_iso": "2025-11-26T14:21:25+00:00"
-  },
-  {
-    "id": "msg18541",
-    "title": "Wired Earphone Handsfree with Mic At 49",
-    "description": "Bajaj HamaraMall Deals🔥🔥 🤜 Use Code : EXTRA30 👉  : 👉 Spiral Charger & Spring Cable ProtectorAt 49 : 👉 DENVER VIP Perfume At 69 : 👉 Ankle Socks - Pack of 3 At 69 : 👉 Micro USB Data Cable - Pack of 3 At 89 : *Limited…",
-    "shortlink": "https://extp.in/B4QinI",
-    "urls": [
-      {
-        "url": "",
-        "label": "Bajaj HamaraMall Deals🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "🤜 Use Code : EXTRA30"
-      },
-      {
-        "url": "https://extp.in/B4QinI",
-        "label": "Wired Earphone Handsfree with Mic At 49"
-      },
-      {
-        "url": "https://extp.in/705q2e",
-        "label": "Spiral Charger & Spring Cable ProtectorAt 49"
-      },
-      {
-        "url": "https://extp.in/EtebzA",
-        "label": "DENVER VIP Perfume At 69"
-      },
-      {
-        "url": "https://extp.in/Fdpwh4",
-        "label": "Pack of 3 At 69"
-      },
-      {
-        "url": "https://extp.in/f1ADan",
-        "label": "Pack of 3 At 89"
-      },
-      {
-        "url": "",
-        "label": "Limited Period Offer"
-      }
-    ],
-    "raw_text": "Bajaj HamaraMall  Deals🔥🔥\n\n🤜 Use Code : EXTRA30\n\n👉 Wired Earphone Handsfree with Mic At 49 : https://extp.in/B4QinI\n👉 Spiral Charger & Spring Cable ProtectorAt 49 : https://extp.in/705q2e\n👉 DENVER VIP Perfume At 69 : https://extp.in/EtebzA\n👉 Ankle Socks - Pack of 3 At 69 : https://extp.in/Fdpwh4\n👉 Micro USB Data Cable - Pack of 3 At 89 : https://extp.in/f1ADan\n\n*Limited Period Offer.",
-    "final_url": "https://extp.in/B4QinI",
-    "local_image": "assets/images/tgmsg_18541.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-26T14:31:44+00:00",
-    "buy_link": "https://extp.in/B4QinI",
-    "date_iso": "2025-11-26T14:31:44+00:00"
   }
 ]
