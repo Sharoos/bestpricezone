@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg19026",
+    "title": "💫 Veet Creams & Hair Removal Kits — 45% Off (Today Only!)",
+    "description": "🧴 Myntra | Personal Care Mega Sale! 💥 ✨ Boroplus Soaps & Creams — Upto 60% Off! 🔗 🌿 Dabur Amla & Dabur Vatika — Min. 55% Off!! 🔗  🔗 🧴 Kesh King Shampoo — Upto 70% Off! 🔗",
+    "shortlink": "https://myntr.in/e1rUm3",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧴 Myntra | Personal Care Mega Sale! 💥"
+      },
+      {
+        "url": "https://myntr.in/e1rUm3",
+        "label": "✨ Boroplus Soaps & Creams — Upto 60% Off!"
+      },
+      {
+        "url": "https://myntr.in/1Fu9bc",
+        "label": "🌿 Dabur Amla & Dabur Vatika — Min. 55% Off!!"
+      },
+      {
+        "url": "https://myntr.in/iOonjX",
+        "label": "💫 Veet Creams & Hair Removal Kits — 45% Off (Today Only!)"
+      },
+      {
+        "url": "https://myntr.in/h30qNR",
+        "label": "🧴 Kesh King Shampoo — Upto 70% Off!"
+      }
+    ],
+    "raw_text": "🧴 Myntra | Personal Care Mega Sale! 💥\n\n✨ Boroplus Soaps & Creams — Upto 60% Off!\n🔗 https://myntr.in/e1rUm3\n\n🌿 Dabur Amla & Dabur Vatika — Min. 55% Off!!\n🔗 https://myntr.in/1Fu9bc\n\n💫 Veet Creams & Hair Removal Kits — 45% Off (Today Only!)\n🔗 https://myntr.in/iOonjX\n\n🧴 Kesh King Shampoo — Upto 70% Off!\n🔗 https://myntr.in/h30qNR",
+    "final_url": "https://myntr.in/e1rUm3",
+    "local_image": "assets/images/tgmsg_19026.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-11-30T16:46:03+00:00",
+    "buy_link": "https://myntr.in/e1rUm3",
+    "date_iso": "2025-11-30T16:46:03+00:00"
+  },
+  {
     "id": "msg19022",
     "title": "85% Off On Branded Luggage",
     "description": "Flipkart . Master Link : Small : Medium : Large : Pack Of 2 : Pack Of 3 : Suggestions . American Tourister & Safari : Aristocrat : VIP : Killer : Wrogn : Metronaut : Upto 85% Off On Branded Backpacks. Masterlink :…",
@@ -9146,29 +9182,5 @@
     "date_obj": "2025-11-26T20:01:49+00:00",
     "buy_link": "https://ajiio.co/hWkM3X",
     "date_iso": "2025-11-26T20:01:49+00:00"
-  },
-  {
-    "id": "msg18579",
-    "title": "Up to 61% Off on Bata Formal Shoes Starting @₹572🔥🔥🔥🔥",
-    "description": "Ajio | UPTO 61% Off on Bata Formal Shoes Starting @₹572🔥🔥🔥🔥 🔗🔗Links : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "shortlink": "https://ajiio.co/yXXv5r",
-    "urls": [
-      {
-        "url": "https://ajiio.co/yXXv5r",
-        "label": "UPTO 61% Off on Bata Formal Shoes Starting @₹572🔥🔥🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
-      }
-    ],
-    "raw_text": "Ajio | UPTO 61% Off on Bata Formal Shoes Starting @₹572🔥🔥🔥🔥 \n \n🔗🔗Links : https://ajiio.co/yXXv5r\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "final_url": "https://ajiio.co/yXXv5r",
-    "local_image": "assets/images/tgmsg_18579.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-26T20:05:26+00:00",
-    "buy_link": "https://ajiio.co/yXXv5r",
-    "date_iso": "2025-11-26T20:05:26+00:00"
   }
 ]
