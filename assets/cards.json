@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg19021",
+    "title": "Yousta Under 399",
+    "description": "Ajio | Yousta Under 399 https://ajiio.co/vFZJWp JP & LC Min 70% https://ajiio.co/Sv49s1",
+    "shortlink": "https://ajiio.co/vFZJWp",
+    "urls": [
+      {
+        "url": "https://ajiio.co/vFZJWp",
+        "label": "Yousta Under 399"
+      },
+      {
+        "url": "https://ajiio.co/Sv49s1",
+        "label": "JP & LC Min 70%"
+      }
+    ],
+    "raw_text": "Ajio | Yousta Under 399\nhttps://ajiio.co/vFZJWp\n\nJP & LC Min 70%\nhttps://ajiio.co/Sv49s1",
+    "final_url": "https://ajiio.co/vFZJWp",
+    "local_image": "assets/images/tgmsg_19021.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-11-30T15:46:14+00:00",
+    "buy_link": "https://ajiio.co/vFZJWp",
+    "date_iso": "2025-11-30T15:46:14+00:00"
+  },
+  {
     "id": "msg19018",
     "title": "🛍 + Extra 10% Super Cash! 🎉",
     "description": "AJIO Min 60% Off On PUMA. Shoes : Men : Women : Kids : 🛍 + Extra 10% AJIO Super Cash! 🎉",
@@ -9058,37 +9082,5 @@
     "date_obj": "2025-11-26T20:20:24+00:00",
     "buy_link": "https://ajiio.co/ixssHH",
     "date_iso": "2025-11-26T20:20:24+00:00"
-  },
-  {
-    "id": "msg18574",
-    "title": "Up to 70% Off On The Bear House Clothing",
-    "description": "Flipkart | Upto 70% Off On The Bear House Clothing. Shirts https://fkrt.co/QNn8EA Tshirts https://fkrt.co/duUxXU Jeans https://fkrt.co/epnNrQ",
-    "shortlink": "https://fkrt.co/QNn8EA",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 70% Off On The Bear House Clothing"
-      },
-      {
-        "url": "https://fkrt.co/QNn8EA",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://fkrt.co/duUxXU",
-        "label": "Tshirts"
-      },
-      {
-        "url": "https://fkrt.co/epnNrQ",
-        "label": "Jeans"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 70% Off On The Bear House Clothing.\n\nShirts https://fkrt.co/QNn8EA\nTshirts https://fkrt.co/duUxXU\nJeans https://fkrt.co/epnNrQ",
-    "final_url": "https://fkrt.co/QNn8EA",
-    "local_image": "assets/images/tgmsg_18574.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-26T19:51:05+00:00",
-    "buy_link": "https://fkrt.co/QNn8EA",
-    "date_iso": "2025-11-26T19:51:05+00:00"
   }
 ]
