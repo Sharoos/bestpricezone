@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg18988",
+    "title": "grocery Skin Care Up to 50% Off",
+    "description": "Flipkart grocery : Skin Care Upto 50% Off 👉 Link : Creams : Body Lotion : Sunscreen : Lip Care : Face Wash :",
+    "shortlink": "https://fkrt.co/Av37ae",
+    "urls": [
+      {
+        "url": "https://fkrt.co/Av37ae",
+        "label": "Skin Care Upto 50% Off"
+      },
+      {
+        "url": "https://fkrt.co/ELfcMt",
+        "label": "Creams"
+      },
+      {
+        "url": "https://fkrt.co/wx1NHd",
+        "label": "Body Lotion"
+      },
+      {
+        "url": "https://fkrt.co/FaMAj5",
+        "label": "Sunscreen"
+      },
+      {
+        "url": "https://fkrt.co/fA0tv6",
+        "label": "Lip Care"
+      },
+      {
+        "url": "https://fkrt.co/oLHCgp",
+        "label": "Face Wash"
+      }
+    ],
+    "raw_text": "Flipkart grocery : Skin Care Upto 50% Off\n\n👉 Link : https://fkrt.co/Av37ae\n\nCreams : https://fkrt.co/ELfcMt\nBody Lotion : https://fkrt.co/wx1NHd\nSunscreen : https://fkrt.co/FaMAj5\nLip Care : https://fkrt.co/fA0tv6\nFace Wash : https://fkrt.co/oLHCgp",
+    "final_url": "https://fkrt.co/Av37ae",
+    "local_image": "assets/images/tgmsg_18988.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-30T10:15:06+00:00",
+    "buy_link": "https://fkrt.co/Av37ae",
+    "date_iso": "2025-11-30T10:15:06+00:00"
+  },
+  {
     "id": "msg18983",
     "title": "Grocery Up to 95% Off",
     "description": "Flipkart Grocery  Upto 95% Off Link 1 :   https://fkrt.co/z0Evoh Link 2 :   https://fkrt.co/zUS0u0 Link 3 :   https://fkrt.co/BEtNfy Location Specific",
@@ -8994,25 +9034,5 @@
     "date_obj": "2025-11-26T13:35:46+00:00",
     "buy_link": "https://ajiio.co/7wiYea",
     "date_iso": "2025-11-26T13:35:46+00:00"
-  },
-  {
-    "id": "msg18534",
-    "title": "Panasonic 9W Led Bulb (Pack Of 2) @99",
-    "description": "Amazon | Panasonic 9W Led Bulb (Pack Of 2) @99 https://www.amazon.in/dp/B0CCL6ML79?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CCL6ML79?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CCL6ML79?tag=bestpricezo0f-21",
-        "label": "Panasonic 9W Led Bulb (Pack Of 2) @99"
-      }
-    ],
-    "raw_text": "Amazon | Panasonic 9W Led Bulb (Pack Of 2) @99\n\nhttps://www.amazon.in/dp/B0CCL6ML79?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CCL6ML79?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18534.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-26T13:46:04+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CCL6ML79?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-26T13:46:04+00:00"
   }
 ]
