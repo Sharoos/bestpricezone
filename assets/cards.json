@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg18991",
+    "title": "Grocery – Up to 70% Off + Extra Saving",
+    "description": "Flipkart Grocery  – Up to 70% Off + Extra Savings 🛒 Main Link: https://fkrt.co/37QbbT • Tea → https://fkrt.co/TZcHyi • Coffee : https://fkrt.co/73iaVU •Jam / Honey : https://fkrt.co/JD6yZ2",
+    "shortlink": "https://fkrt.co/37QbbT",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart Grocery – Up to 70% Off + Extra Savings"
+      },
+      {
+        "url": "https://fkrt.co/37QbbT",
+        "label": "🛒 Main"
+      },
+      {
+        "url": "https://fkrt.co/TZcHyi",
+        "label": "Tea →"
+      },
+      {
+        "url": "https://fkrt.co/73iaVU",
+        "label": "Coffee"
+      },
+      {
+        "url": "https://fkrt.co/JD6yZ2",
+        "label": "Jam / Honey"
+      }
+    ],
+    "raw_text": "Flipkart Grocery  – Up to 70% Off + Extra Savings\n\n🛒 Main Link: https://fkrt.co/37QbbT\n\n• Tea → https://fkrt.co/TZcHyi\n\n• Coffee : https://fkrt.co/73iaVU\n\n•Jam / Honey : https://fkrt.co/JD6yZ2",
+    "final_url": "https://fkrt.co/37QbbT",
+    "local_image": "assets/images/tgmsg_18991.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-30T11:32:43+00:00",
+    "buy_link": "https://fkrt.co/37QbbT",
+    "date_iso": "2025-11-30T11:32:43+00:00"
+  },
+  {
     "id": "msg18990",
     "title": "Grocery Up to 62% Off On Chips, Namkeen & Snack",
     "description": "Flipkart Grocery | Upto 62% Off On Chips, Namkeen & Snacks 👉Link : https://fkrt.co/jkKbrC",
@@ -8982,29 +9018,5 @@
     "date_obj": "2025-11-26T14:31:44+00:00",
     "buy_link": "https://extp.in/B4QinI",
     "date_iso": "2025-11-26T14:31:44+00:00"
-  },
-  {
-    "id": "msg18542",
-    "title": "Set of 8 Cushion Covers starting @ 539 only!",
-    "description": "Myntra | Set of 8 Cushion Covers starting @ 539 only! 👉https://myntr.in/uK9f0w Set of 5 Cushion Covers starting @ 346 Only! 👉https://myntr.in/Gp9GL9",
-    "shortlink": "https://myntr.in/uK9f0w",
-    "urls": [
-      {
-        "url": "https://myntr.in/uK9f0w",
-        "label": "Set of 8 Cushion Covers starting @ 539 only!"
-      },
-      {
-        "url": "https://myntr.in/Gp9GL9",
-        "label": "Set of 5 Cushion Covers starting @ 346 Only!"
-      }
-    ],
-    "raw_text": "Myntra | Set of 8 Cushion Covers starting @ 539 only!\n👉https://myntr.in/uK9f0w\n\nSet of 5 Cushion Covers starting @ 346 Only!\n👉https://myntr.in/Gp9GL9",
-    "final_url": "https://myntr.in/uK9f0w",
-    "local_image": "assets/images/tgmsg_18542.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-26T14:36:12+00:00",
-    "buy_link": "https://myntr.in/uK9f0w",
-    "date_iso": "2025-11-26T14:36:12+00:00"
   }
 ]
