@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg18990",
+    "title": "Grocery Up to 62% Off On Chips, Namkeen & Snack",
+    "description": "Flipkart Grocery | Upto 62% Off On Chips, Namkeen & Snacks 👉Link : https://fkrt.co/jkKbrC",
+    "shortlink": "https://fkrt.co/jkKbrC",
+    "urls": [
+      {
+        "url": "https://fkrt.co/jkKbrC",
+        "label": "Upto 62% Off On Chips, Namkeen & Snacks"
+      }
+    ],
+    "raw_text": "Flipkart Grocery | Upto 62% Off On Chips, Namkeen & Snacks\n\n👉Link : https://fkrt.co/jkKbrC",
+    "final_url": "https://fkrt.co/jkKbrC",
+    "local_image": "assets/images/tgmsg_18990.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-11-30T11:16:05+00:00",
+    "buy_link": "https://fkrt.co/jkKbrC",
+    "date_iso": "2025-11-30T11:16:05+00:00"
+  },
+  {
     "id": "msg18989",
     "title": "Mast Harbour Handbags Up to 80% Off",
     "description": "Flipkart | Mast Harbour Handbags Upto 80% Off Upto 80% off Hrx By Hrithik Roshan Backpacks",
@@ -8986,29 +9006,5 @@
     "date_obj": "2025-11-26T14:36:12+00:00",
     "buy_link": "https://myntr.in/uK9f0w",
     "date_iso": "2025-11-26T14:36:12+00:00"
-  },
-  {
-    "id": "msg18537",
-    "title": "Min. 80% Off On Lee Cooper Watche",
-    "description": "AJIO  Min. 80% Off On Lee Cooper Watches. Link : https://ajiio.co/XiU20n + Extra 10% AJIO Super Cash.",
-    "shortlink": "https://ajiio.co/XiU20n",
-    "urls": [
-      {
-        "url": "https://ajiio.co/XiU20n",
-        "label": "AJIO Min. 80% Off On Lee Cooper Watches"
-      },
-      {
-        "url": "",
-        "label": "+ Extra 10% AJIO Super Cash"
-      }
-    ],
-    "raw_text": "AJIO  Min. 80% Off On Lee Cooper Watches. \n\nLink : https://ajiio.co/XiU20n\n\n+ Extra 10% AJIO Super Cash.",
-    "final_url": "https://ajiio.co/XiU20n",
-    "local_image": "assets/images/tgmsg_18537.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-26T14:06:00+00:00",
-    "buy_link": "https://ajiio.co/XiU20n",
-    "date_iso": "2025-11-26T14:06:00+00:00"
   }
 ]
