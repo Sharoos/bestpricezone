@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19109",
+    "title": "Callus Remover at Rs.799",
+    "description": "Amazon | Callus Remover at Rs.799 👉 https://www.amazon.in/dp/B0CR3XND7W?th=1&ck&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CR3XND7W?th=1&ck&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CR3XND7W?th=1&ck&tag=bestpricezo0f-21",
+        "label": "Callus Remover at Rs.799"
+      }
+    ],
+    "raw_text": "Amazon | Callus Remover at Rs.799\n\n👉 https://www.amazon.in/dp/B0CR3XND7W?th=1&ck&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CR3XND7W?th=1&ck&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_19109.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-01T11:44:35+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CR3XND7W?th=1&ck&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-01T11:44:35+00:00"
+  },
+  {
     "id": "msg19105",
     "title": "Up to 70% Off",
     "description": "Flipkart | Upto 70%  Off - Room Heaters Starting Rs.884 👉 https://fkrt.co/H04EUF",
@@ -8902,37 +8922,5 @@
     "date_obj": "2025-11-27T15:45:41+00:00",
     "buy_link": "https://ajiio.co/q4vfj4",
     "date_iso": "2025-11-27T15:45:41+00:00"
-  },
-  {
-    "id": "msg18668",
-    "title": "Men's Jeans Starting From 223",
-    "description": "Flipkart On Men's Fashion 🔥🔥 Trackpants, Shorts Under 499 👉 Casual Shirts Under 499 👉  👉",
-    "shortlink": "https://fkrt.co/KtLVts",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart On Men's Fashion 🔥🔥"
-      },
-      {
-        "url": "https://fkrt.co/KtLVts",
-        "label": "Trackpants, Shorts Under 499"
-      },
-      {
-        "url": "https://fkrt.co/luB89a",
-        "label": "Casual Shirts Under 499"
-      },
-      {
-        "url": "https://fkrt.co/SXZmyZ",
-        "label": "Men's Jeans Starting From 223"
-      }
-    ],
-    "raw_text": "Flipkart  On Men's Fashion 🔥🔥\n\nTrackpants, Shorts Under 499\n👉https://fkrt.co/KtLVts\n\nCasual Shirts Under 499\n👉https://fkrt.co/luB89a\n\nMen's Jeans Starting From 223\n👉https://fkrt.co/SXZmyZ",
-    "final_url": "https://fkrt.co/KtLVts",
-    "local_image": "assets/images/tgmsg_18668.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-27T15:16:32+00:00",
-    "buy_link": "https://fkrt.co/KtLVts",
-    "date_iso": "2025-11-27T15:16:32+00:00"
   }
 ]
