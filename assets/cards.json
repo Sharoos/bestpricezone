@@ -1,5 +1,117 @@
 [
   {
+    "id": "msg19135",
+    "title": "Up to 65% Off On Puma Shoe",
+    "description": "Myntra | Upto 65% Off On Puma Shoes. Mens : https://myntr.in/8PgLMP Womens : https://myntr.in/vEDPeV",
+    "shortlink": "https://myntr.in/8PgLMP",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 65% Off On Puma Shoes"
+      },
+      {
+        "url": "https://myntr.in/8PgLMP",
+        "label": "Mens"
+      },
+      {
+        "url": "https://myntr.in/vEDPeV",
+        "label": "Womens"
+      }
+    ],
+    "raw_text": "Myntra | Upto 65% Off On Puma Shoes.\n\nMens : https://myntr.in/8PgLMP\nWomens : https://myntr.in/vEDPeV",
+    "final_url": "https://myntr.in/8PgLMP",
+    "local_image": "assets/images/tgmsg_19135.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-01T14:32:11+00:00",
+    "buy_link": "https://myntr.in/8PgLMP",
+    "date_iso": "2025-12-01T14:32:11+00:00"
+  },
+  {
+    "id": "msg19137",
+    "title": "Up to 60% Off On Crocs 💥💥",
+    "description": "Ajio | Upto 60% Off On Crocs  💥💥 👉Link : https://ajiio.co/HwKmIh",
+    "shortlink": "https://ajiio.co/HwKmIh",
+    "urls": [
+      {
+        "url": "https://ajiio.co/HwKmIh",
+        "label": "Upto 60% Off On Crocs 💥💥"
+      }
+    ],
+    "raw_text": "Ajio | Upto 60% Off On Crocs  💥💥\n\n👉Link : https://ajiio.co/HwKmIh",
+    "final_url": "https://ajiio.co/HwKmIh",
+    "local_image": "assets/images/tgmsg_19137.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-01T14:46:38+00:00",
+    "buy_link": "https://ajiio.co/HwKmIh",
+    "date_iso": "2025-12-01T14:46:38+00:00"
+  },
+  {
+    "id": "msg19139",
+    "title": "Haldiram Desi Ghee (3X200 ml )",
+    "description": "Bajaj HamaraMall Deals 🔥🔥 🤜 Use Code: WOW30 Rajdhani Masala Oats (400gm) - 69 : Tangy Tomato Millet Kurmura - 69 : Happilo Sunflower Seeds (250gm) - 69 : Happilo Premium Chia Seeds (250gm) - 89 : Happilo Omani Dates…",
+    "shortlink": "https://extp.in/xNvvKJ",
+    "urls": [
+      {
+        "url": "",
+        "label": "Bajaj HamaraMall Deals 🔥🔥"
+      },
+      {
+        "url": "",
+        "label": "🤜 Use Code: WOW30"
+      },
+      {
+        "url": "https://extp.in/xNvvKJ",
+        "label": "Rajdhani Masala Oats (400gm) - 69"
+      },
+      {
+        "url": "https://extp.in/lnbyhL",
+        "label": "69"
+      },
+      {
+        "url": "https://extp.in/CYKd2q",
+        "label": "Happilo Sunflower Seeds (250gm) - 69"
+      },
+      {
+        "url": "https://extp.in/xTAhfR",
+        "label": "Happilo Premium Chia Seeds (250gm) - 89"
+      },
+      {
+        "url": "https://extp.in/BjAF3S",
+        "label": "Happilo Omani Dates (250gm) - 99"
+      },
+      {
+        "url": "https://extp.in/o19MsQ",
+        "label": "99"
+      },
+      {
+        "url": "https://extp.in/EmChDL",
+        "label": "110"
+      },
+      {
+        "url": "https://extp.in/5W9aTU",
+        "label": "Happilo Californian Almonds (200gm) -129"
+      },
+      {
+        "url": "https://extp.in/l1Klju",
+        "label": "Happilo Premium Cashews (200gm) - 159"
+      },
+      {
+        "url": "https://extp.in/pli7YQ",
+        "label": "Haldiram Desi Ghee (3X200 ml )- 365"
+      }
+    ],
+    "raw_text": "Bajaj HamaraMall  Deals 🔥🔥\n\n🤜 Use Code: WOW30\n\nRajdhani Masala Oats (400gm) - 69 : https://extp.in/xNvvKJ\nTangy Tomato Millet Kurmura - 69 : https://extp.in/lnbyhL\nHappilo Sunflower Seeds (250gm) - 69 : https://extp.in/CYKd2q\nHappilo Premium Chia Seeds (250gm) - 89 : https://extp.in/xTAhfR\nHappilo Omani Dates (250gm) - 99 : https://extp.in/BjAF3S\nHappilo Sultan Dates 500gm - 99 : https://extp.in/o19MsQ\nLove of India Gold Instant Coffee 50gm - 110 : https://extp.in/EmChDL\nHappilo Californian Almonds (200gm) -129 : https://extp.in/5W9aTU\nHappilo Premium Cashews (200gm) - 159 : https://extp.in/l1Klju\nHaldiram Desi Ghee (3X200 ml )- 365 : https://extp.in/pli7YQ",
+    "final_url": "https://extp.in/xNvvKJ",
+    "local_image": "assets/images/tgmsg_19139.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-01T14:49:39+00:00",
+    "buy_link": "https://extp.in/xNvvKJ",
+    "date_iso": "2025-12-01T14:49:39+00:00"
+  },
+  {
     "id": "msg19130",
     "title": "Jewellery Under ₹199 – Dressberry, Anouk, Sangria",
     "description": "Myntra | Jewellery Under ₹199 – Dressberry, Anouk, Sangria 🔗 https://myntr.in/G4ZiVm",
@@ -8906,65 +9018,5 @@
     "date_obj": "2025-11-27T19:01:20+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CMT8T223?psc=1&th=1&smid=A1WYWER0W24N8S&ck&tag=bestpricezo0f-21",
     "date_iso": "2025-11-27T19:01:20+00:00"
-  },
-  {
-    "id": "msg18694",
-    "title": "ZEBRONICS Astra 35, Portable Bluetooth Speaker, 16 Watts @799",
-    "description": "Amazon | ZEBRONICS Astra 35, Portable Bluetooth Speaker, 16 Watts @799 https://www.amazon.in/dp/B0DJ3FFC8R?th=1&ck&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DJ3FFC8R?th=1&ck&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DJ3FFC8R?th=1&ck&tag=bestpricezo0f-21",
-        "label": "ZEBRONICS Astra 35, Portable Bluetooth Speaker, 16 Watts @799"
-      }
-    ],
-    "raw_text": "Amazon | ZEBRONICS Astra 35, Portable Bluetooth Speaker, 16 Watts @799 \n\nhttps://www.amazon.in/dp/B0DJ3FFC8R?th=1&ck&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DJ3FFC8R?th=1&ck&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18694.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-27T19:03:08+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DJ3FFC8R?th=1&ck&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-27T19:03:08+00:00"
-  },
-  {
-    "id": "msg18688",
-    "title": "Adidas Running Shoes Up to 72% Off",
-    "description": "Myntra | Adidas Running Shoes Upto 72% Off - https://myntr.in/fUIGHG",
-    "shortlink": "https://myntr.in/fUIGHG",
-    "urls": [
-      {
-        "url": "https://myntr.in/fUIGHG",
-        "label": "Adidas Running Shoes Upto 72% Off"
-      }
-    ],
-    "raw_text": "Myntra | Adidas Running Shoes Upto 72% Off\n\n- https://myntr.in/fUIGHG",
-    "final_url": "https://myntr.in/fUIGHG",
-    "local_image": "assets/images/tgmsg_18688.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-27T18:51:47+00:00",
-    "buy_link": "https://myntr.in/fUIGHG",
-    "date_iso": "2025-11-27T18:51:47+00:00"
-  },
-  {
-    "id": "msg18689",
-    "title": "🎒 Kaaytee Backpack Bag – ₹313",
-    "description": "Amazon | 🎒 Kaaytee Backpack Bag – ₹313 🔗 https://www.amazon.in/dp/B0DQYG1ZK2?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DQYG1ZK2?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DQYG1ZK2?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "🎒 Kaaytee Backpack Bag – ₹313"
-      }
-    ],
-    "raw_text": "Amazon | 🎒 Kaaytee Backpack Bag – ₹313\n\n🔗 https://www.amazon.in/dp/B0DQYG1ZK2?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DQYG1ZK2?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18689.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-27T18:52:51+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DQYG1ZK2?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-27T18:52:51+00:00"
   }
 ]
