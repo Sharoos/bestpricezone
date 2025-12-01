@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19190",
+    "title": "🔊 Bluetooth Party Speaker – ₹699",
+    "description": "Flipkart | 🔊 Bluetooth Party Speaker – ₹699 👉https://fkrt.co/6cNc77",
+    "shortlink": "https://fkrt.co/6cNc77",
+    "urls": [
+      {
+        "url": "https://fkrt.co/6cNc77",
+        "label": "🔊 Bluetooth Party Speaker – ₹699"
+      }
+    ],
+    "raw_text": "Flipkart | 🔊 Bluetooth Party Speaker – ₹699\n\n👉https://fkrt.co/6cNc77",
+    "final_url": "https://fkrt.co/6cNc77",
+    "local_image": "assets/images/tgmsg_19190.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-01T19:41:56+00:00",
+    "buy_link": "https://fkrt.co/6cNc77",
+    "date_iso": "2025-12-01T19:41:56+00:00"
+  },
+  {
     "id": "msg19175",
     "title": "Mivi Fort H160 Soundbar, 160 Watts, 2.1 Channel At3499",
     "description": "Flipkart | Mivi Fort H160 Soundbar, 160 Watts, 2.1 Channel At3499 https://fkrt.co/uGopLO",
@@ -8730,29 +8750,5 @@
     "date_obj": "2025-11-28T13:16:00+00:00",
     "buy_link": "https://bitli.in/WoS1Fms",
     "date_iso": "2025-11-28T13:16:00+00:00"
-  },
-  {
-    "id": "msg18776",
-    "title": "💥Min 70% Off On Women T",
-    "description": "💥Ajio Min 70% Off On Women T-shirts Starting From @90🔥🔥🔥🔥 🔗Links : + Extra 10% AJIO Super Cash.",
-    "shortlink": "https://ajiio.co/LiaJai",
-    "urls": [
-      {
-        "url": "https://ajiio.co/LiaJai",
-        "label": "💥Ajio Min 70% Off On Women T-shirts Starting From @90🔥🔥🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "+ Extra 10% AJIO Super Cash"
-      }
-    ],
-    "raw_text": "💥Ajio  Min 70% Off On Women T-shirts Starting From @90🔥🔥🔥🔥 \n \n🔗Links : https://ajiio.co/LiaJai\n\n+ Extra 10% AJIO Super Cash.",
-    "final_url": "https://ajiio.co/LiaJai",
-    "local_image": "assets/images/tgmsg_18776.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-28T13:16:05+00:00",
-    "buy_link": "https://ajiio.co/LiaJai",
-    "date_iso": "2025-11-28T13:16:05+00:00"
   }
 ]
