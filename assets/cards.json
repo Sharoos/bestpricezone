@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19142",
+    "title": "JIOTag Air At ₹749",
+    "description": "Amazon | JIOTag Air | At ₹749 👉https://www.amazon.in/dp/B0D59VZ1RS?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0D59VZ1RS?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0D59VZ1RS?tag=bestpricezo0f-21",
+        "label": "JIOTag Air | At ₹749"
+      }
+    ],
+    "raw_text": "Amazon | JIOTag Air | At ₹749\n\n👉https://www.amazon.in/dp/B0D59VZ1RS?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D59VZ1RS?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_19142.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-01T15:33:59+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D59VZ1RS?tag=bestpricezo0f-21",
+    "date_iso": "2025-12-01T15:33:59+00:00"
+  },
+  {
     "id": "msg19140",
     "title": "Up to 85% Off On Branded Backpacks & Rucksack",
     "description": "Upto 85% Off On Branded Backpacks & Rucksacks. Skybags : Laptop Bag : Safari : WROGN : Aristocrat : Travel Duffel : Rucksacks : Metronaut WROGN",
@@ -9034,25 +9054,5 @@
     "date_obj": "2025-11-27T19:43:53+00:00",
     "buy_link": "https://www.amazon.in/dp/B0BGZJWJMC?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-27T19:43:53+00:00"
-  },
-  {
-    "id": "msg18697",
-    "title": "Asian Plastowares 10000411 Plastic Container (Beige, 850ml) 3 Pieces @164",
-    "description": "Amazon | Asian Plastowares 10000411 Plastic Container (Beige, 850ml) 3 Pieces @164 https://www.amazon.in/dp/B07PHNNRHD?psc=1&th=1&smid=AXOGFIT0PZZ7G&ck&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07PHNNRHD?psc=1&th=1&smid=AXOGFIT0PZZ7G&ck&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07PHNNRHD?psc=1&th=1&smid=AXOGFIT0PZZ7G&ck&tag=bestpricezo0f-21",
-        "label": "Asian Plastowares 10000411 Plastic Container (Beige, 850ml) 3 Pieces @164"
-      }
-    ],
-    "raw_text": "Amazon | Asian Plastowares 10000411 Plastic Container (Beige, 850ml) 3 Pieces @164\n \nhttps://www.amazon.in/dp/B07PHNNRHD?psc=1&th=1&smid=AXOGFIT0PZZ7G&ck&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07PHNNRHD?psc=1&th=1&smid=AXOGFIT0PZZ7G&ck&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18697.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-27T19:51:08+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07PHNNRHD?psc=1&th=1&smid=AXOGFIT0PZZ7G&ck&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-27T19:51:08+00:00"
   }
 ]
