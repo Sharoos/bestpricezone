@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19077",
+    "title": "Min 80% Off On Safari Suitcase",
+    "description": "Flipkart | Min 80% Off On Safari Suitcases 👉Link : https://fkrt.co/NBfQ79",
+    "shortlink": "https://fkrt.co/NBfQ79",
+    "urls": [
+      {
+        "url": "https://fkrt.co/NBfQ79",
+        "label": "Min 80% Off On Safari Suitcases"
+      }
+    ],
+    "raw_text": "Flipkart | Min 80% Off On Safari Suitcases\n\n👉Link : https://fkrt.co/NBfQ79",
+    "final_url": "https://fkrt.co/NBfQ79",
+    "local_image": "assets/images/tgmsg_19077.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-01T06:04:53+00:00",
+    "buy_link": "https://fkrt.co/NBfQ79",
+    "date_iso": "2025-12-01T06:04:53+00:00"
+  },
+  {
     "id": "msg19074",
     "title": "🎁 Deal Price ₹119",
     "description": "🔥Amazon | 4-Grid Fridge Storage Container with Lid – 2200ml 🎁 Deal Price : ₹119 Buy Here :",
@@ -9078,25 +9098,5 @@
     "date_obj": "2025-11-27T11:36:59+00:00",
     "buy_link": "https://extp.in/fV9Kd2",
     "date_iso": "2025-11-27T11:36:59+00:00"
-  },
-  {
-    "id": "msg18642",
-    "title": "Flat 67% Off On LOreal Paris Total Repair 5 Repairing Shampoo with Keratin XS Technology",
-    "description": "Myntra | Flat 67% Off On LOreal Paris Total Repair 5 Repairing Shampoo with Keratin XS Technology - 1 L 👉 Link : https://myntr.in/6QbvqN",
-    "shortlink": "https://myntr.in/6QbvqN",
-    "urls": [
-      {
-        "url": "https://myntr.in/6QbvqN",
-        "label": "Flat 67% Off On LOreal Paris Total Repair 5 Repairing Shampoo with Keratin XS Technology - 1 L"
-      }
-    ],
-    "raw_text": "Myntra | Flat 67% Off On LOreal Paris Total Repair 5 Repairing Shampoo with Keratin XS Technology - 1 L\n\n👉 Link : https://myntr.in/6QbvqN",
-    "final_url": "https://myntr.in/6QbvqN",
-    "local_image": "assets/images/tgmsg_18642.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-27T11:40:07+00:00",
-    "buy_link": "https://myntr.in/6QbvqN",
-    "date_iso": "2025-11-27T11:40:07+00:00"
   }
 ]
