@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19102",
+    "title": "Nike Shoes Up to 45% Off",
+    "description": "Myntra | Nike Shoes Upto 45% Off 👉 https://myntr.in/UZs4AA",
+    "shortlink": "https://myntr.in/UZs4AA",
+    "urls": [
+      {
+        "url": "https://myntr.in/UZs4AA",
+        "label": "Nike Shoes Upto 45% Off"
+      }
+    ],
+    "raw_text": "Myntra | Nike Shoes Upto 45% Off \n\n👉 https://myntr.in/UZs4AA",
+    "final_url": "https://myntr.in/UZs4AA",
+    "local_image": "assets/images/tgmsg_19102.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-01T10:45:26+00:00",
+    "buy_link": "https://myntr.in/UZs4AA",
+    "date_iso": "2025-12-01T10:45:26+00:00"
+  },
+  {
     "id": "msg19099",
     "title": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre",
     "description": "-approved limit. Apply Now - 💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀 ⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping. ⿢ Easy EMIs : Flexible repayment with no foreclosure charges. ⿣ Wide…",
@@ -8962,25 +8982,5 @@
     "date_obj": "2025-11-27T15:04:57+00:00",
     "buy_link": "https://ajiio.co/spqzS9",
     "date_iso": "2025-11-27T15:04:57+00:00"
-  },
-  {
-    "id": "msg18663",
-    "title": "Jewellery under 99",
-    "description": "Myntra | Jewellery under 99 https://myntr.in/mslMuu",
-    "shortlink": "https://myntr.in/mslMuu",
-    "urls": [
-      {
-        "url": "https://myntr.in/mslMuu",
-        "label": "Jewellery under 99"
-      }
-    ],
-    "raw_text": "Myntra | Jewellery under 99\n\nhttps://myntr.in/mslMuu",
-    "final_url": "https://myntr.in/mslMuu",
-    "local_image": "assets/images/tgmsg_18663.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-27T14:46:27+00:00",
-    "buy_link": "https://myntr.in/mslMuu",
-    "date_iso": "2025-11-27T14:46:27+00:00"
   }
 ]
