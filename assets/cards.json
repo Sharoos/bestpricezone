@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19098",
+    "title": "Wild Stone Deo & Perfumes Starts @101",
+    "description": "Myntra : Wild Stone Deo & Perfumes Starts @101. 👉 https://myntr.in/gMxIe8",
+    "shortlink": "https://myntr.in/gMxIe8",
+    "urls": [
+      {
+        "url": "https://myntr.in/gMxIe8",
+        "label": "Wild Stone Deo & Perfumes Starts @101"
+      }
+    ],
+    "raw_text": "Myntra : Wild Stone Deo & Perfumes Starts @101.\n\n👉 https://myntr.in/gMxIe8",
+    "final_url": "https://myntr.in/gMxIe8",
+    "local_image": "assets/images/tgmsg_19098.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-01T09:45:19+00:00",
+    "buy_link": "https://myntr.in/gMxIe8",
+    "date_iso": "2025-12-01T09:45:19+00:00"
+  },
+  {
     "id": "msg19092",
     "title": "💰Deal @ 186🔥. 21%",
     "description": "Amazon | 🔥VOLTURI Microfiber Feather Duster Bendable & Extendable Fan 💰Deal @ 186🔥.Apply coupon 21% ❌Reg price @ 299 🔗",
@@ -8926,25 +8946,5 @@
     "date_obj": "2025-11-27T14:33:58+00:00",
     "buy_link": "https://ajiio.co/0F8KnU",
     "date_iso": "2025-11-27T14:33:58+00:00"
-  },
-  {
-    "id": "msg18660",
-    "title": "Pigeon 3.5 L Pressure Cooker at 606",
-    "description": "Flipkart | Pigeon 3.5 L Pressure Cooker at 606. https://fkrt.co/h6qGC2",
-    "shortlink": "https://fkrt.co/h6qGC2",
-    "urls": [
-      {
-        "url": "https://fkrt.co/h6qGC2",
-        "label": "Pigeon 3.5 L Pressure Cooker at 606"
-      }
-    ],
-    "raw_text": "Flipkart | Pigeon 3.5 L Pressure Cooker at 606.\n\n https://fkrt.co/h6qGC2",
-    "final_url": "https://fkrt.co/h6qGC2",
-    "local_image": "assets/images/tgmsg_18660.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-27T13:45:34+00:00",
-    "buy_link": "https://fkrt.co/h6qGC2",
-    "date_iso": "2025-11-27T13:45:34+00:00"
   }
 ]
