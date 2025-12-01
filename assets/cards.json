@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg19070",
+    "title": "Door Mats Starting From ₹86",
+    "description": "Myntra  Door Mats Starting From ₹86 👉https://myntr.in/8Bhj6X",
+    "shortlink": "https://myntr.in/8Bhj6X",
+    "urls": [
+      {
+        "url": "https://myntr.in/8Bhj6X",
+        "label": "Myntra Door Mats Starting From ₹86"
+      }
+    ],
+    "raw_text": "Myntra  Door Mats Starting From ₹86\n\n👉https://myntr.in/8Bhj6X",
+    "final_url": "https://myntr.in/8Bhj6X",
+    "local_image": "assets/images/tgmsg_19070.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-01T05:02:31+00:00",
+    "buy_link": "https://myntr.in/8Bhj6X",
+    "date_iso": "2025-12-01T05:02:31+00:00"
+  },
+  {
+    "id": "msg19071",
+    "title": "Naturoz California Almonds, 1Kg at ₹797",
+    "description": "Flipkart | Naturoz California Almonds, 1Kg at ₹797. Link : https://fkrt.co/l0uFn3",
+    "shortlink": "https://fkrt.co/l0uFn3",
+    "urls": [
+      {
+        "url": "https://fkrt.co/l0uFn3",
+        "label": "Naturoz California Almonds, 1Kg at ₹797"
+      }
+    ],
+    "raw_text": "Flipkart | Naturoz California Almonds, 1Kg at ₹797. \n\nLink : https://fkrt.co/l0uFn3",
+    "final_url": "https://fkrt.co/l0uFn3",
+    "local_image": "assets/images/tgmsg_19071.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-01T05:15:56+00:00",
+    "buy_link": "https://fkrt.co/l0uFn3",
+    "date_iso": "2025-12-01T05:15:56+00:00"
+  },
+  {
     "id": "msg19067",
     "title": "Up to 80% Off On Allen Cooper Clothing",
     "description": "Ajio Loot : Upto 80% Off On Allen Cooper Clothing. Master Link : T-Shirt : Jeans : Shirts : Jacket : Shoes : Spykar Clothing. Men's : Women's : Puma Clothing. Men’s : Women’s :",
@@ -9070,57 +9110,5 @@
     "date_obj": "2025-11-27T11:10:15+00:00",
     "buy_link": "https://www.amazon.in/dp/B09ZF7JS8S?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-27T11:10:15+00:00"
-  },
-  {
-    "id": "msg18635",
-    "title": "Get MIN 30–60% OFF on all your favorite XYXX styles!",
-    "description": "🔥 BLACK FRIDAY ACTIVATED! 🔥  👕 Premium comfortwear, innerwear & more — now at crazy prices! 🛒 Shop now :",
-    "shortlink": "https://extp.in/5I6CC5",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 BLACK FRIDAY ACTIVATED! 🔥"
-      },
-      {
-        "url": "",
-        "label": "Get MIN 30–60% OFF on all your favorite XYXX styles!"
-      },
-      {
-        "url": "",
-        "label": "👕 Premium comfortwear, innerwear & more — now at crazy prices!"
-      },
-      {
-        "url": "https://extp.in/5I6CC5",
-        "label": "🛒 Shop now"
-      }
-    ],
-    "raw_text": "🔥 BLACK FRIDAY ACTIVATED! 🔥\n\nGet MIN 30–60% OFF on all your favorite XYXX styles!\n\n👕 Premium comfortwear, innerwear & more — now at crazy prices!\n\n🛒 Shop now : https://extp.in/5I6CC5",
-    "final_url": "https://extp.in/5I6CC5",
-    "local_image": "assets/images/tgmsg_18635.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-27T10:52:45+00:00",
-    "buy_link": "https://extp.in/5I6CC5",
-    "date_iso": "2025-11-27T10:52:45+00:00"
-  },
-  {
-    "id": "msg18633",
-    "title": "Zandu Chyawanprash Avaleha 1.8kg @510",
-    "description": "Flipkart GRAB : Zandu Chyawanprash Avaleha 1.8kg @510 👉 https://fkrt.co/DrZ4l5",
-    "shortlink": "https://fkrt.co/DrZ4l5",
-    "urls": [
-      {
-        "url": "https://fkrt.co/DrZ4l5",
-        "label": "Zandu Chyawanprash Avaleha 1.8kg @510"
-      }
-    ],
-    "raw_text": "Flipkart GRAB : Zandu Chyawanprash Avaleha 1.8kg @510\n\n👉 https://fkrt.co/DrZ4l5",
-    "final_url": "https://fkrt.co/DrZ4l5",
-    "local_image": "assets/images/tgmsg_18633.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-27T10:40:31+00:00",
-    "buy_link": "https://fkrt.co/DrZ4l5",
-    "date_iso": "2025-11-27T10:40:31+00:00"
   }
 ]
