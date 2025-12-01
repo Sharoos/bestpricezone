@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19192",
+    "title": "1 Mini Screwdriver Set – ₹179",
+    "description": "Flipkart | 🪛 StayWay Precision 24-in-1 Mini Screwdriver Set – ₹179 👉https://fkrt.co/B9ppIV",
+    "shortlink": "https://fkrt.co/B9ppIV",
+    "urls": [
+      {
+        "url": "https://fkrt.co/B9ppIV",
+        "label": "🪛 StayWay Precision 24-in-1 Mini Screwdriver Set – ₹179"
+      }
+    ],
+    "raw_text": "Flipkart | 🪛 StayWay Precision 24-in-1 Mini Screwdriver Set – ₹179\n\n👉https://fkrt.co/B9ppIV",
+    "final_url": "https://fkrt.co/B9ppIV",
+    "local_image": "assets/images/tgmsg_19192.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-01T20:03:32+00:00",
+    "buy_link": "https://fkrt.co/B9ppIV",
+    "date_iso": "2025-12-01T20:03:32+00:00"
+  },
+  {
     "id": "msg19191",
     "title": "Miss Chief Push Rideons for Kids Starts At 699",
     "description": "Flipkart | Miss Chief Push Rideons for Kids Starts At 699. 👉    https://fkrt.co/5BNBrS",
@@ -8718,33 +8738,5 @@
     "date_obj": "2025-11-28T14:06:05+00:00",
     "buy_link": "https://myntr.in/4XeeU3",
     "date_iso": "2025-11-28T14:06:05+00:00"
-  },
-  {
-    "id": "msg18782",
-    "title": "Shirts Starts @131",
-    "description": "Myntra : Oversized T-Shirts Starts @131. Women's : https://myntr.in/4VUBdC Men's : https://myntr.in/MrAS5k",
-    "shortlink": "https://myntr.in/4VUBdC",
-    "urls": [
-      {
-        "url": "",
-        "label": "Oversized T-Shirts Starts @131"
-      },
-      {
-        "url": "https://myntr.in/4VUBdC",
-        "label": "Women's"
-      },
-      {
-        "url": "https://myntr.in/MrAS5k",
-        "label": "Men's"
-      }
-    ],
-    "raw_text": "Myntra : Oversized T-Shirts Starts @131.\n\nWomen's : https://myntr.in/4VUBdC\nMen's : https://myntr.in/MrAS5k",
-    "final_url": "https://myntr.in/4VUBdC",
-    "local_image": "assets/images/tgmsg_18782.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-28T13:46:11+00:00",
-    "buy_link": "https://myntr.in/4VUBdC",
-    "date_iso": "2025-11-28T13:46:11+00:00"
   }
 ]
