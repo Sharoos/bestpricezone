@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg19129",
+    "title": "T",
+    "description": "AJIO : T-shirts Start @ 89. Women : https://ajiio.co/vUIQ8Y Men : https://ajiio.co/TQUqup Cargo Pants. Men : https://ajiio.co/jokxAq Women : https://ajiio.co/7WVsIy",
+    "shortlink": "https://ajiio.co/vUIQ8Y",
+    "urls": [
+      {
+        "url": "",
+        "label": "T-shirts Start @ 89"
+      },
+      {
+        "url": "https://ajiio.co/vUIQ8Y",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/TQUqup",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Cargo Pants"
+      },
+      {
+        "url": "https://ajiio.co/jokxAq",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/7WVsIy",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "AJIO : T-shirts Start @ 89.\n \nWomen : https://ajiio.co/vUIQ8Y \nMen : https://ajiio.co/TQUqup\n\nCargo Pants. \nMen : https://ajiio.co/jokxAq \nWomen : https://ajiio.co/7WVsIy",
+    "final_url": "https://ajiio.co/vUIQ8Y",
+    "local_image": "assets/images/tgmsg_19129.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-01T13:46:24+00:00",
+    "buy_link": "https://ajiio.co/vUIQ8Y",
+    "date_iso": "2025-12-01T13:46:24+00:00"
+  },
+  {
     "id": "msg19124",
     "title": "73% off",
     "description": "Flipkart | 73% off - U.S. POLO ASSN. Baby Boys T Shirt At Rs.242 👉 https://fkrt.co/lRKc0Z Master Link -  https://fkrt.co/TbD0jI",
@@ -8974,33 +9014,5 @@
     "date_obj": "2025-11-27T18:44:13+00:00",
     "buy_link": "https://myntr.in/VCaPHp",
     "date_iso": "2025-11-27T18:44:13+00:00"
-  },
-  {
-    "id": "msg18682",
-    "title": "Up to 80% Off On Louis Philippe Clothing",
-    "description": "AJIO Upto 80% Off On Louis Philippe Clothing. 👉 Upto 75% Off On Clarks. 👉 Upto 65% Off On Under Armour. 👉",
-    "shortlink": "https://ajiio.co/GenTvn",
-    "urls": [
-      {
-        "url": "https://ajiio.co/GenTvn",
-        "label": "AJIO Upto 80% Off On Louis Philippe Clothing"
-      },
-      {
-        "url": "https://ajiio.co/AIYqQQ",
-        "label": "Upto 75% Off On Clarks"
-      },
-      {
-        "url": "https://ajiio.co/QK0MQ6",
-        "label": "Upto 65% Off On Under Armour"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On Louis Philippe Clothing.\n👉https://ajiio.co/GenTvn\n\nUpto 75% Off On Clarks.\n👉https://ajiio.co/AIYqQQ\n\nUpto 65% Off On Under Armour.\n👉https://ajiio.co/QK0MQ6",
-    "final_url": "https://ajiio.co/GenTvn",
-    "local_image": "assets/images/tgmsg_18682.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-27T18:02:38+00:00",
-    "buy_link": "https://ajiio.co/GenTvn",
-    "date_iso": "2025-11-27T18:02:38+00:00"
   }
 ]
