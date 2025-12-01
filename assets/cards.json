@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19079",
+    "title": "Birde Sports Shoes From ₹199",
+    "description": "Myntra - Birde Sports Shoes From ₹199 👉https://myntr.in/8babmF",
+    "shortlink": "https://myntr.in/8babmF",
+    "urls": [
+      {
+        "url": "https://myntr.in/8babmF",
+        "label": "Birde Sports Shoes From ₹199"
+      }
+    ],
+    "raw_text": "Myntra - Birde Sports Shoes From ₹199\n\n👉https://myntr.in/8babmF",
+    "final_url": "https://myntr.in/8babmF",
+    "local_image": "assets/images/tgmsg_19079.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-01T07:03:32+00:00",
+    "buy_link": "https://myntr.in/8babmF",
+    "date_iso": "2025-12-01T07:03:32+00:00"
+  },
+  {
     "id": "msg19078",
     "title": "65% Off",
     "description": "Flipkart | 65% Off -OSCAR Big Shot Deodorant Spray At Rs.164 👉https://fkrt.co/c8Azy2",
@@ -9046,25 +9066,5 @@
     "date_obj": "2025-11-27T12:00:05+00:00",
     "buy_link": "https://myntr.in/GApKbZ",
     "date_iso": "2025-11-27T12:00:05+00:00"
-  },
-  {
-    "id": "msg18643",
-    "title": "189",
-    "description": "189 : https://www.amazon.in/dp/B0FD1QT7GG?social_share=cm_sw_r_cso_wa_apan_dp_Y1GVC2YD9DR3WJ8MTJMN&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FD1QT7GG?social_share=cm_sw_r_cso_wa_apan_dp_Y1GVC2YD9DR3WJ8MTJMN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FD1QT7GG?social_share=cm_sw_r_cso_wa_apan_dp_Y1GVC2YD9DR3WJ8MTJMN&tag=bestpricezo0f-21",
-        "label": "189"
-      }
-    ],
-    "raw_text": "189 : https://www.amazon.in/dp/B0FD1QT7GG?social_share=cm_sw_r_cso_wa_apan_dp_Y1GVC2YD9DR3WJ8MTJMN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FD1QT7GG?social_share=cm_sw_r_cso_wa_apan_dp_Y1GVC2YD9DR3WJ8MTJMN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18643.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-27T11:42:52+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FD1QT7GG?social_share=cm_sw_r_cso_wa_apan_dp_Y1GVC2YD9DR3WJ8MTJMN&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-27T11:42:52+00:00"
   }
 ]
