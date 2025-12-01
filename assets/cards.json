@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19147",
+    "title": "Dove conditioners 175ml Min. 48% Off",
+    "description": "Myntra | Dove conditioners 175ml Min. 48% Off Link : https://myntr.in/D7zOwY",
+    "shortlink": "https://myntr.in/D7zOwY",
+    "urls": [
+      {
+        "url": "https://myntr.in/D7zOwY",
+        "label": "Dove conditioners 175ml Min. 48% Off"
+      }
+    ],
+    "raw_text": "Myntra | Dove conditioners 175ml Min. 48% Off \n \nLink : https://myntr.in/D7zOwY",
+    "final_url": "https://myntr.in/D7zOwY",
+    "local_image": "assets/images/tgmsg_19147.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-01T16:46:27+00:00",
+    "buy_link": "https://myntr.in/D7zOwY",
+    "date_iso": "2025-12-01T16:46:27+00:00"
+  },
+  {
     "id": "msg19143",
     "title": "Beanies Starting ₹199 – Wrogn, Roadster, Dressberry",
     "description": "Myntra | Beanies Starting ₹199 – Wrogn, Roadster, Dressberry 🔗 https://myntr.in/P48nYO Backpacks Under ₹499  Provogue, Roadster, Killer 🔗 https://myntr.in/SeIAc1",
@@ -9034,45 +9054,5 @@
     "date_obj": "2025-11-28T05:48:06+00:00",
     "buy_link": "https://myntr.in/pRNuzT",
     "date_iso": "2025-11-28T05:48:06+00:00"
-  },
-  {
-    "id": "msg18708",
-    "title": "WOW Black Friday — ₹11 Store Live (11 AM & 11 PM)",
-    "description": "Buy any 3 product @ ₹11 ✅Use Code: ALLAT11 Link: How to Use: • Add 3 product to cart • Apply code: ALLAT11 • ₹99 shipping applies • Offer valid for 11 minutes only",
-    "shortlink": "https://bitli.in/TwDQw4c",
-    "urls": [
-      {
-        "url": "",
-        "label": "WOW Black Friday — ₹11 Store Live (11 AM & 11 PM)"
-      },
-      {
-        "url": "https://bitli.in/TwDQw4c",
-        "label": "✅Use Code: ALLAT11"
-      },
-      {
-        "url": "",
-        "label": "How to Use"
-      },
-      {
-        "url": "",
-        "label": "Add 3 product to cart"
-      },
-      {
-        "url": "",
-        "label": "ALLAT11"
-      },
-      {
-        "url": "",
-        "label": "Offer valid for 11 minutes only"
-      }
-    ],
-    "raw_text": "WOW Black Friday — ₹11 Store Live (11 AM & 11 PM)\n\nBuy any 3 product @ ₹11\n✅Use Code: ALLAT11\n\nLink: https://bitli.in/TwDQw4c\n\nHow to Use:\n• Add 3 product to cart\n• Apply code: ALLAT11\n• ₹99 shipping applies\n• Offer valid for 11 minutes only",
-    "final_url": "https://bitli.in/TwDQw4c",
-    "local_image": "assets/images/tgmsg_18708.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-11-28T05:33:27+00:00",
-    "buy_link": "https://bitli.in/TwDQw4c",
-    "date_iso": "2025-11-28T05:33:27+00:00"
   }
 ]
