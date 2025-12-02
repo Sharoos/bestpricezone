@@ -1,5 +1,81 @@
 [
   {
+    "id": "msg19209",
+    "title": "Grocery Prime Drink Up to 50% Off",
+    "description": "Flipkart Grocery: Prime Drink Upto 50% Off https://fktr.in/qfonwff Redbull: https://fktr.in/w8gnaa8",
+    "shortlink": "https://fktr.in/qfonwff",
+    "urls": [
+      {
+        "url": "https://fktr.in/qfonwff",
+        "label": "Prime Drink Upto 50% Off"
+      },
+      {
+        "url": "https://fktr.in/w8gnaa8",
+        "label": "Redbull"
+      }
+    ],
+    "raw_text": "Flipkart Grocery: Prime Drink Upto 50% Off\n\nhttps://fktr.in/qfonwff\n\nRedbull: https://fktr.in/w8gnaa8",
+    "final_url": "https://fktr.in/qfonwff",
+    "local_image": "assets/images/tgmsg_19209.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-02T06:28:28+00:00",
+    "buy_link": "https://fktr.in/qfonwff",
+    "date_iso": "2025-12-02T06:28:28+00:00"
+  },
+  {
+    "id": "msg19210",
+    "title": "Kotty Women Blazers from Rs.194",
+    "description": "Flipkart | Kotty Women Blazers from Rs.194 https://fkrt.co/310D5o",
+    "shortlink": "https://fkrt.co/310D5o",
+    "urls": [
+      {
+        "url": "https://fkrt.co/310D5o",
+        "label": "Kotty Women Blazers from Rs.194"
+      }
+    ],
+    "raw_text": "Flipkart | Kotty Women Blazers from Rs.194\n\n https://fkrt.co/310D5o",
+    "final_url": "https://fkrt.co/310D5o",
+    "local_image": "assets/images/tgmsg_19210.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-02T06:35:55+00:00",
+    "buy_link": "https://fkrt.co/310D5o",
+    "date_iso": "2025-12-02T06:35:55+00:00"
+  },
+  {
+    "id": "msg19211",
+    "title": "Up to 80% Off On Branded Clothing",
+    "description": "Myntra  Upto 80% Off On Branded Clothing. Men's : https://myntr.in/3uyjA3 Women's : https://myntr.in/5gtxGA Shoes : https://myntr.in/ii5H4V",
+    "shortlink": "https://myntr.in/3uyjA3",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Upto 80% Off On Branded Clothing"
+      },
+      {
+        "url": "https://myntr.in/3uyjA3",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/5gtxGA",
+        "label": "Women's"
+      },
+      {
+        "url": "https://myntr.in/ii5H4V",
+        "label": "Shoes"
+      }
+    ],
+    "raw_text": "Myntra  Upto 80% Off On Branded Clothing.\n\nMen's : https://myntr.in/3uyjA3\nWomen's : https://myntr.in/5gtxGA\nShoes : https://myntr.in/ii5H4V",
+    "final_url": "https://myntr.in/3uyjA3",
+    "local_image": "assets/images/tgmsg_19211.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-02T06:45:55+00:00",
+    "buy_link": "https://myntr.in/3uyjA3",
+    "date_iso": "2025-12-02T06:45:55+00:00"
+  },
+  {
     "id": "msg19206",
     "title": "Up to 85% Off Vero Moda & ONLY Women's Clothing",
     "description": "AJIO : Upto 85% Off Vero Moda & ONLY Women's Clothing Dresses : Tops : T-Shirts : Sweatshirts : Jeans : Trackpants : Shorts : Trousers :",
@@ -8718,89 +8794,5 @@
     "date_obj": "2025-11-28T17:16:14+00:00",
     "buy_link": "https://ajiio.co/1iLAsy",
     "date_iso": "2025-11-28T17:16:14+00:00"
-  },
-  {
-    "id": "msg18808",
-    "title": "✨ Flat 15% Off",
-    "description": "Myntra |  L’Oréal Professionnel Xtenso Care Masque (196g) – For Frizz-Free, Smooth & Manageable Hair 🔗  L’Oréal Professionnel Xtenso Care Serum (50ml) – For Smooth, Manageable Hair 🔗  L’Oréal Professionnel Liss…",
-    "shortlink": "https://myntr.in/Zg59bn",
-    "urls": [
-      {
-        "url": "",
-        "label": "✨ Flat 15% Off"
-      },
-      {
-        "url": "https://myntr.in/Zg59bn",
-        "label": "L’Oréal Professionnel Xtenso Care Masque (196g) – For Frizz-Free, Smooth & Manageable Hair"
-      },
-      {
-        "url": "https://myntr.in/6y2IiQ",
-        "label": "L’Oréal Professionnel Xtenso Care Serum (50ml) – For Smooth, Manageable Hair"
-      },
-      {
-        "url": "https://myntr.in/pzqPMt",
-        "label": "L’Oréal Professionnel Liss Unlimited Mask (250ml) – With Pro-Keratin for Frizzy Hair"
-      }
-    ],
-    "raw_text": "Myntra | ✨ Flat 15% Off\nL’Oréal Professionnel Xtenso Care Masque (196g) – For Frizz-Free, Smooth & Manageable Hair\n🔗 https://myntr.in/Zg59bn\n\n✨ Flat 15% Off\nL’Oréal Professionnel Xtenso Care Serum (50ml) – For Smooth, Manageable Hair\n🔗 https://myntr.in/6y2IiQ\n\n✨ Flat 15% Off\nL’Oréal Professionnel Liss Unlimited Mask (250ml) – With Pro-Keratin for Frizzy Hair\n🔗 https://myntr.in/pzqPMt",
-    "final_url": "https://myntr.in/Zg59bn",
-    "local_image": "assets/images/tgmsg_18808.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-28T16:48:53+00:00",
-    "buy_link": "https://myntr.in/Zg59bn",
-    "date_iso": "2025-11-28T16:48:53+00:00"
-  },
-  {
-    "id": "msg18800",
-    "title": "Up to 90% Off On Handbags Starting From Rs.93",
-    "description": "Flipkart | Wrogn Rucksacks Starts @435. 👉 Upto 90% Off On Handbags Starting From Rs.93 👉Link :",
-    "shortlink": "https://fkrt.co/QaLJjy",
-    "urls": [
-      {
-        "url": "https://fkrt.co/QaLJjy",
-        "label": "Wrogn Rucksacks Starts @435"
-      },
-      {
-        "url": "https://fkrt.co/arA8MR",
-        "label": "Upto 90% Off On Handbags Starting From Rs.93"
-      }
-    ],
-    "raw_text": "Flipkart | Wrogn Rucksacks Starts @435.\n\n👉https://fkrt.co/QaLJjy\n\nUpto 90% Off On Handbags Starting From Rs.93\n\n👉Link : https://fkrt.co/arA8MR",
-    "final_url": "https://fkrt.co/QaLJjy",
-    "local_image": "assets/images/tgmsg_18800.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-28T16:05:03+00:00",
-    "buy_link": "https://fkrt.co/QaLJjy",
-    "date_iso": "2025-11-28T16:05:03+00:00"
-  },
-  {
-    "id": "msg18803",
-    "title": "🛒 Deal Price Up to 82% Off",
-    "description": "Amazon | ⏱️ Wall Clock Deals - Up to 80% Off! Premium Wall Clocks 🛒 Deal Price: Up to 82% Off 👉",
-    "shortlink": "https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "⏱️ Wall Clock Deals - Up to 80% Off!"
-      },
-      {
-        "url": "",
-        "label": "Premium Wall Clocks"
-      },
-      {
-        "url": "https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: Up to 82% Off"
-      }
-    ],
-    "raw_text": "Amazon | ⏱️ Wall Clock Deals - Up to 80% Off!\n\nPremium Wall Clocks\n\n🛒 Deal Price: Up to 82% Off\n\n👉https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18803.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-28T16:16:40+00:00",
-    "buy_link": "https://www.amazon.in/l/213299572031?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-28T16:16:40+00:00"
   }
 ]
