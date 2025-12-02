@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg19222",
+    "title": "Up to 82% Off",
+    "description": "Flipkart | Upto 82% Off - Mivi Earbuds Start Rs 699 👉 https://fkrt.co/36EUZI",
+    "shortlink": "https://fkrt.co/36EUZI",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 82% Off - Mivi Earbuds"
+      },
+      {
+        "url": "https://fkrt.co/36EUZI",
+        "label": "Start Rs 699"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 82% Off - Mivi Earbuds\n\nStart Rs 699\n\n 👉 https://fkrt.co/36EUZI",
+    "final_url": "https://fkrt.co/36EUZI",
+    "local_image": "assets/images/tgmsg_19222.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-02T09:40:07+00:00",
+    "buy_link": "https://fkrt.co/36EUZI",
+    "date_iso": "2025-12-02T09:40:07+00:00"
+  },
+  {
     "id": "msg19218",
     "title": "92% Off",
     "description": "Flipkart | 92% Off - Socket Set Pack of 46 At Rs.150 👉 https://fkrt.co/YAIesp",
@@ -8730,37 +8754,5 @@
     "date_obj": "2025-11-28T17:45:59+00:00",
     "buy_link": "https://fkrt.co/yRUqC2",
     "date_iso": "2025-11-28T17:45:59+00:00"
-  },
-  {
-    "id": "msg18811",
-    "title": "WOW Any Product at ₹11 (Each)+ ₹99 Shipping",
-    "description": "WOW Loot : Buy Any Product at ₹11 (Each)+ ₹99 Shipping. Apply Code - ALLAT11 *Live at 11 Pm (Only for 11 Minutes). PRO TIP: Add Any 3+ Products To Save Maximum.",
-    "shortlink": "https://bitli.in/cehi47m",
-    "urls": [
-      {
-        "url": "https://bitli.in/cehi47m",
-        "label": ""
-      },
-      {
-        "url": "",
-        "label": "ALLAT11"
-      },
-      {
-        "url": "",
-        "label": "Live at 11 Pm (Only for 11 Minutes)"
-      },
-      {
-        "url": "",
-        "label": "Add Any 3+ Products To Save Maximum"
-      }
-    ],
-    "raw_text": "WOW Loot : Buy Any Product at ₹11 (Each)+ ₹99 Shipping. \n\nhttps://bitli.in/cehi47m\n\nApply Code - ALLAT11 \n\n*Live at 11 Pm (Only for 11 Minutes).\n\nPRO TIP: Add Any 3+ Products To Save Maximum.",
-    "final_url": "https://bitli.in/cehi47m",
-    "local_image": "assets/images/tgmsg_18811.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-11-28T17:27:39+00:00",
-    "buy_link": "https://bitli.in/cehi47m",
-    "date_iso": "2025-11-28T17:27:39+00:00"
   }
 ]
