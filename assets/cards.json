@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg19239",
+    "title": "Fashion Collection Up to 90% Off",
+    "description": "Flipkart : Fashion Collection Upto 90% Off Master Link : Shirt : Tshirt : Jeans : Cargo : Shoes :",
+    "shortlink": "https://fkrt.co/5H4NU2",
+    "urls": [
+      {
+        "url": "",
+        "label": "Fashion Collection Upto 90% Off"
+      },
+      {
+        "url": "https://fkrt.co/5H4NU2",
+        "label": "Master"
+      },
+      {
+        "url": "https://fkrt.co/NhUVfR",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://fkrt.co/pxhJJZ",
+        "label": "Tshirt"
+      },
+      {
+        "url": "https://fkrt.co/zwT0w8",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://fkrt.co/VHtTbr",
+        "label": "Cargo"
+      },
+      {
+        "url": "https://fkrt.co/KJoYd6",
+        "label": "Shoes"
+      }
+    ],
+    "raw_text": "Flipkart : Fashion Collection Upto 90% Off\n\nMaster Link : https://fkrt.co/5H4NU2\n\nShirt : https://fkrt.co/NhUVfR\nTshirt : https://fkrt.co/pxhJJZ\nJeans : https://fkrt.co/zwT0w8\nCargo : https://fkrt.co/VHtTbr\nShoes : https://fkrt.co/KJoYd6",
+    "final_url": "https://fkrt.co/5H4NU2",
+    "local_image": "assets/images/tgmsg_19239.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-02T11:50:13+00:00",
+    "buy_link": "https://fkrt.co/5H4NU2",
+    "date_iso": "2025-12-02T11:50:13+00:00"
+  },
+  {
     "id": "msg19238",
     "title": "Jewellery under 199, Dressberry, Anouk, Sangria",
     "description": "Myntra | Jewellery under 199, Dressberry, Anouk, Sangria 👉 Link : https://myntr.in/UYL6tS",
@@ -8902,25 +8946,5 @@
     "date_obj": "2025-11-28T20:07:06+00:00",
     "buy_link": "https://www.amazon.in/s?k=U.S.+Polo+Assn.&i=shoes&rh=n%3A1571283031%2Cp_123%3A390827%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&dc=&qid=1761300323&ds=v1%3ApAMba%252BTtu6fErtV2x4ywYSSE7GJj2hE3EYSL%2F06542U&ck&tag=bestpricezo0f-21&",
     "date_iso": "2025-11-28T20:07:06+00:00"
-  },
-  {
-    "id": "msg18833",
-    "title": "Mivi TWS Earbuds Starts @ 599",
-    "description": "Flipkart | Mivi TWS Earbuds Starts @ 599. https://fkrt.co/zo9esS",
-    "shortlink": "https://fkrt.co/zo9esS",
-    "urls": [
-      {
-        "url": "https://fkrt.co/zo9esS",
-        "label": "Mivi TWS Earbuds Starts @ 599"
-      }
-    ],
-    "raw_text": "Flipkart | Mivi TWS Earbuds Starts @ 599.\n\nhttps://fkrt.co/zo9esS",
-    "final_url": "https://fkrt.co/zo9esS",
-    "local_image": "assets/images/tgmsg_18833.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-28T20:27:57+00:00",
-    "buy_link": "https://fkrt.co/zo9esS",
-    "date_iso": "2025-11-28T20:27:57+00:00"
   }
 ]
