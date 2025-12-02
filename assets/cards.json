@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19200",
+    "title": "Women Night Suits @ ₹499",
+    "description": "Myntra | Women Night Suits @ ₹499 👉 https://myntr.in/1pZcAs",
+    "shortlink": "https://myntr.in/1pZcAs",
+    "urls": [
+      {
+        "url": "https://myntr.in/1pZcAs",
+        "label": "Women Night Suits @ ₹499"
+      }
+    ],
+    "raw_text": "Myntra | Women Night Suits @ ₹499\n\n👉 https://myntr.in/1pZcAs",
+    "final_url": "https://myntr.in/1pZcAs",
+    "local_image": "assets/images/tgmsg_19200.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-02T04:45:44+00:00",
+    "buy_link": "https://myntr.in/1pZcAs",
+    "date_iso": "2025-12-02T04:45:44+00:00"
+  },
+  {
     "id": "msg19196",
     "title": "rank&crid=1KWV1NMBN3OK9&qid=1677399735&sprefix=engage%2Cbeauty%2C216&ds=v1%3AWDZ%2BXy%2FhmltL9%2FWqWqmHpzu%2F5XhKLA6V0zIoY1zWSew&tag=bestpri",
     "description": "Amazon | Engage Deos from Rs.97…",
@@ -8726,25 +8746,5 @@
     "date_obj": "2025-11-28T15:16:24+00:00",
     "buy_link": "https://ajiio.co/WGgJM3",
     "date_iso": "2025-11-28T15:16:24+00:00"
-  },
-  {
-    "id": "msg18794",
-    "title": "Apply 10% Off",
-    "description": "Tata Tea Premium Care 1kg @413. Apply 10% Off Coupon  : https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
-        "label": "Tata Tea Premium Care 1kg @413"
-      }
-    ],
-    "raw_text": "Tata Tea Premium Care 1kg @413.\n\nApply 10% Off Coupon  : \nhttps://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18794.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-28T14:55:28+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FGDNXVJ8?tag=bestpricezo0f-21",
-    "date_iso": "2025-11-28T14:55:28+00:00"
   }
 ]
