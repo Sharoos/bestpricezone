@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19203",
+    "title": "Up to 73% OFF",
+    "description": "🔥Myntra | 👕 Snitch Men's Clothing - Up to 73% OFF https://myntr.in/A8Xtsz",
+    "shortlink": "https://myntr.in/A8Xtsz",
+    "urls": [
+      {
+        "url": "https://myntr.in/A8Xtsz",
+        "label": "🔥Myntra | 👕 Snitch Men's Clothing - Up to 73% OFF"
+      }
+    ],
+    "raw_text": "🔥Myntra | 👕 Snitch Men's Clothing - Up to 73% OFF\n\nhttps://myntr.in/A8Xtsz",
+    "final_url": "https://myntr.in/A8Xtsz",
+    "local_image": "assets/images/tgmsg_19203.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-02T05:33:46+00:00",
+    "buy_link": "https://myntr.in/A8Xtsz",
+    "date_iso": "2025-12-02T05:33:46+00:00"
+  },
+  {
     "id": "msg19201",
     "title": "🔥Min 75% Off On Branded Trolleys/Suitcases + Bank Offe",
     "description": "🔥Myntra : Min 75% Off On Branded Trolleys/Suitcases + Bank Offers Brandwise 🔽🔽 •Verage : •Aristocrat : •Teakwood Leathers : •Safari : •Skybags : •VIP : •Nasher Miles : •Wildcraft :",
@@ -8758,25 +8778,5 @@
     "date_obj": "2025-11-28T15:35:54+00:00",
     "buy_link": "https://bitli.in/v1muoit",
     "date_iso": "2025-11-28T15:35:54+00:00"
-  },
-  {
-    "id": "msg18795",
-    "title": "75% digitek 1m Lightning Cable at 249",
-    "description": "Flipkart | 75% : digitek 1m Lightning Cable at 249 https://fkrt.co/gaTSLm",
-    "shortlink": "https://fkrt.co/gaTSLm",
-    "urls": [
-      {
-        "url": "https://fkrt.co/gaTSLm",
-        "label": "75% : digitek 1m Lightning Cable at 249"
-      }
-    ],
-    "raw_text": "Flipkart | 75% : digitek 1m Lightning Cable at 249\n\nhttps://fkrt.co/gaTSLm",
-    "final_url": "https://fkrt.co/gaTSLm",
-    "local_image": "assets/images/tgmsg_18795.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-28T15:05:51+00:00",
-    "buy_link": "https://fkrt.co/gaTSLm",
-    "date_iso": "2025-11-28T15:05:51+00:00"
   }
 ]
