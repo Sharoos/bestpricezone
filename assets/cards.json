@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19238",
+    "title": "Jewellery under 199, Dressberry, Anouk, Sangria",
+    "description": "Myntra | Jewellery under 199, Dressberry, Anouk, Sangria 👉 Link : https://myntr.in/UYL6tS",
+    "shortlink": "https://myntr.in/UYL6tS",
+    "urls": [
+      {
+        "url": "https://myntr.in/UYL6tS",
+        "label": "Jewellery under 199, Dressberry, Anouk, Sangria"
+      }
+    ],
+    "raw_text": "Myntra | Jewellery under 199, Dressberry, Anouk, Sangria \n\n👉 Link : https://myntr.in/UYL6tS",
+    "final_url": "https://myntr.in/UYL6tS",
+    "local_image": "assets/images/tgmsg_19238.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-02T11:40:15+00:00",
+    "buy_link": "https://myntr.in/UYL6tS",
+    "date_iso": "2025-12-02T11:40:15+00:00"
+  },
+  {
     "id": "msg19236",
     "title": "Up to 85% Off On Branded Backpacks & Rucksack",
     "description": "Flipkart Upto 85% Off On Branded Backpacks & Rucksacks. 👉 Skybags : Laptop Bag : Safari : WROGN : Aristocrat : Travel Duffel : Rucksacks : Metronaut WROGN",
@@ -8902,25 +8922,5 @@
     "date_obj": "2025-11-28T20:27:57+00:00",
     "buy_link": "https://fkrt.co/zo9esS",
     "date_iso": "2025-11-28T20:27:57+00:00"
-  },
-  {
-    "id": "msg18834",
-    "title": "Chilli Flakes & Oregano Powder, 80g @ 123",
-    "description": "Flipkart | Chilli Flakes & Oregano Powder, 80g @ 123. https://fkrt.co/ZLbd3F",
-    "shortlink": "https://fkrt.co/ZLbd3F",
-    "urls": [
-      {
-        "url": "https://fkrt.co/ZLbd3F",
-        "label": "Chilli Flakes & Oregano Powder, 80g @ 123"
-      }
-    ],
-    "raw_text": "Flipkart | Chilli Flakes & Oregano Powder, 80g @ 123.\n\nhttps://fkrt.co/ZLbd3F",
-    "final_url": "https://fkrt.co/ZLbd3F",
-    "local_image": "assets/images/tgmsg_18834.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-28T20:28:34+00:00",
-    "buy_link": "https://fkrt.co/ZLbd3F",
-    "date_iso": "2025-11-28T20:28:34+00:00"
   }
 ]
