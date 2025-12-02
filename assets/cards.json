@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19195",
+    "title": "Longway Fan Room Heater at ₹799",
+    "description": "Amazon | Longway Fan Room Heater at ₹799. https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
+        "label": "Longway Fan Room Heater at ₹799"
+      }
+    ],
+    "raw_text": "Amazon | Longway Fan Room Heater at ₹799.\n\nhttps://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_19195.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-02T03:46:11+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
+    "date_iso": "2025-12-02T03:46:11+00:00"
+  },
+  {
     "id": "msg19192",
     "title": "1 Mini Screwdriver Set – ₹179",
     "description": "Flipkart | 🪛 StayWay Precision 24-in-1 Mini Screwdriver Set – ₹179 👉https://fkrt.co/B9ppIV",
@@ -8718,25 +8738,5 @@
     "date_obj": "2025-11-28T14:33:16+00:00",
     "buy_link": "https://fkrt.co/qDDUZi",
     "date_iso": "2025-11-28T14:33:16+00:00"
-  },
-  {
-    "id": "msg18786",
-    "title": "Kook N Keech Men's Trackpants Starts @269",
-    "description": "Myntra : Kook N Keech Men's Trackpants Starts @269. 👉https://myntr.in/4XeeU3",
-    "shortlink": "https://myntr.in/4XeeU3",
-    "urls": [
-      {
-        "url": "https://myntr.in/4XeeU3",
-        "label": "Kook N Keech Men's Trackpants Starts @269"
-      }
-    ],
-    "raw_text": "Myntra : Kook N Keech Men's Trackpants Starts @269. \n\n👉https://myntr.in/4XeeU3",
-    "final_url": "https://myntr.in/4XeeU3",
-    "local_image": "assets/images/tgmsg_18786.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-28T14:06:05+00:00",
-    "buy_link": "https://myntr.in/4XeeU3",
-    "date_iso": "2025-11-28T14:06:05+00:00"
   }
 ]
