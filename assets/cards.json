@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg19304",
+    "title": "tax%3A27060457031&s=price",
+    "description": "Amazon | Spykar Jeans Starts Women's : https://www.amazon.in/s?k=Spykar+womens+jeans&rh=n%3A1968447031&s=price-asc-rank&i=apparel&ck&tag=bestpricezo0f-21& Men's :…",
+    "shortlink": "https://www.amazon.in/s?k=Spykar+womens+jeans&rh=n%3A1968447031&s=price-asc-rank&i=apparel&ck&tag=bestpricezo0f-21&",
+    "urls": [
+      {
+        "url": "",
+        "label": "Spykar Jeans Starts"
+      },
+      {
+        "url": "https://www.amazon.in/s?k=Spykar+womens+jeans&rh=n%3A1968447031&s=price-asc-rank&i=apparel&ck&tag=bestpricezo0f-21&",
+        "label": "Women's"
+      },
+      {
+        "url": "https://www.amazon.in/s?k=Spykar&rh=n%3A1571271031%2Cn%3A1968024031%2Cn%3A1968076031%2Cp_89%3ASpykar%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=apparel&ck&tag=bestpricezo0f-21",
+        "label": "Men's"
+      }
+    ],
+    "raw_text": "Amazon | Spykar Jeans Starts \n\nWomen's : https://www.amazon.in/s?k=Spykar+womens+jeans&rh=n%3A1968447031&s=price-asc-rank&i=apparel&ck&tag=bestpricezo0f-21&\nMen's : https://www.amazon.in/s?k=Spykar&rh=n%3A1571271031%2Cn%3A1968024031%2Cn%3A1968076031%2Cp_89%3ASpykar%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=apparel&ck&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?k=Spykar+womens+jeans&rh=n%3A1968447031&s=price-asc-rank&i=apparel&ck&tag=bestpricezo0f-21&",
+    "local_image": "assets/images/tgmsg_19304.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-02T19:59:54+00:00",
+    "buy_link": "https://www.amazon.in/s?k=Spykar+womens+jeans&rh=n%3A1968447031&s=price-asc-rank&i=apparel&ck&tag=bestpricezo0f-21&",
+    "date_iso": "2025-12-02T19:59:54+00:00"
+  },
+  {
     "id": "msg19300",
     "title": "SINGER 5.9 L Instant Water Heater @3199",
     "description": "Amazon | SINGER 5.9 L Instant Water Heater @3199 https://www.amazon.in/dp/B0FYGSLVRW?psc=1&tag=bestpricezo0f-21",
@@ -8878,41 +8906,5 @@
     "date_obj": "2025-11-29T10:34:13+00:00",
     "buy_link": "https://fkrt.co/b7ZfVe",
     "date_iso": "2025-11-29T10:34:13+00:00"
-  },
-  {
-    "id": "msg18883",
-    "title": "Grocery Winter Skin Care Up to 50% Off",
-    "description": "Flipkart Grocery: Winter Skin Care Upto 50% Off Link: Body Lotion: Creams: Baby Care: Soap & Body Wash:",
-    "shortlink": "https://fktr.in/p6akV61",
-    "urls": [
-      {
-        "url": "https://fktr.in/p6akV61",
-        "label": "Winter Skin Care Upto 50% Off"
-      },
-      {
-        "url": "https://fktr.in/4HUi6Dx",
-        "label": "Body Lotion"
-      },
-      {
-        "url": "https://fktr.in/jtxdkHK",
-        "label": "Creams"
-      },
-      {
-        "url": "https://fktr.in/M9Bwlxv",
-        "label": "Baby Care"
-      },
-      {
-        "url": "https://fktr.in/vCBP7V1",
-        "label": "Soap & Body Wash"
-      }
-    ],
-    "raw_text": "Flipkart Grocery: Winter Skin Care Upto 50% Off\n\nLink: https://fktr.in/p6akV61\n\nBody Lotion: https://fktr.in/4HUi6Dx\nCreams: https://fktr.in/jtxdkHK\nBaby Care: https://fktr.in/M9Bwlxv\nSoap & Body Wash: https://fktr.in/vCBP7V1",
-    "final_url": "https://fktr.in/p6akV61",
-    "local_image": "assets/images/tgmsg_18883.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-29T10:04:38+00:00",
-    "buy_link": "https://fktr.in/p6akV61",
-    "date_iso": "2025-11-29T10:04:38+00:00"
   }
 ]
