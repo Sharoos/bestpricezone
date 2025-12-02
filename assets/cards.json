@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19258",
+    "title": "Fabflee Women's Clothing Starts At Rs.99",
+    "description": "Myntra : Fabflee Women's Clothing Starts At Rs.99 👉Link : https://myntr.in/UcgqY7",
+    "shortlink": "https://myntr.in/UcgqY7",
+    "urls": [
+      {
+        "url": "https://myntr.in/UcgqY7",
+        "label": "Fabflee Women's Clothing Starts At Rs.99"
+      }
+    ],
+    "raw_text": "Myntra : Fabflee Women's Clothing Starts At Rs.99\n\n👉Link : https://myntr.in/UcgqY7",
+    "final_url": "https://myntr.in/UcgqY7",
+    "local_image": "assets/images/tgmsg_19258.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-02T14:33:20+00:00",
+    "buy_link": "https://myntr.in/UcgqY7",
+    "date_iso": "2025-12-02T14:33:20+00:00"
+  },
+  {
     "id": "msg19254",
     "title": "Up to 90% Off On Watche",
     "description": "Flipkart GRAB : Upto 90% Off On Watches. 👉https://fkrt.co/6UhGzm",
@@ -9010,33 +9030,5 @@
     "date_obj": "2025-11-29T04:57:30+00:00",
     "buy_link": "https://fkrt.co/x2m0JV",
     "date_iso": "2025-11-29T04:57:30+00:00"
-  },
-  {
-    "id": "msg18852",
-    "title": "Ketch Clothing Starts @129",
-    "description": "Myntra  Ketch Clothing Starts @129. Women : https://myntr.in/GDhuoE Men : https://myntr.in/jkTTpY",
-    "shortlink": "https://myntr.in/GDhuoE",
-    "urls": [
-      {
-        "url": "",
-        "label": "Myntra Ketch Clothing Starts @129"
-      },
-      {
-        "url": "https://myntr.in/GDhuoE",
-        "label": "Women"
-      },
-      {
-        "url": "https://myntr.in/jkTTpY",
-        "label": "Men"
-      }
-    ],
-    "raw_text": "Myntra  Ketch Clothing Starts @129.\n\nWomen : https://myntr.in/GDhuoE\nMen : https://myntr.in/jkTTpY",
-    "final_url": "https://myntr.in/GDhuoE",
-    "local_image": "assets/images/tgmsg_18852.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-29T04:44:14+00:00",
-    "buy_link": "https://myntr.in/GDhuoE",
-    "date_iso": "2025-11-29T04:44:14+00:00"
   }
 ]
