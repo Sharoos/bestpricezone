@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg19307",
+    "title": "🛒 Deal Price ₹11999",
+    "description": "Amazon | 💻 Gaming Monitor Deals Zebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate 🛒 Deal Price: ₹11999",
+    "shortlink": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "💻 Gaming Monitor Deals"
+      },
+      {
+        "url": "",
+        "label": "Zebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹11999"
+      }
+    ],
+    "raw_text": "Amazon | 💻 Gaming Monitor Deals\n\nZebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate\n🛒 Deal Price: ₹11999\n\nhttps://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_19307.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-03T03:32:21+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-03T03:32:21+00:00"
+  },
+  {
     "id": "msg19304",
     "title": "tax%3A27060457031&s=price",
     "description": "Amazon | Spykar Jeans Starts Women's : https://www.amazon.in/s?k=Spykar+womens+jeans&rh=n%3A1968447031&s=price-asc-rank&i=apparel&ck&tag=bestpricezo0f-21& Men's :…",
@@ -8886,25 +8914,5 @@
     "date_obj": "2025-11-29T10:46:00+00:00",
     "buy_link": "https://myntr.in/SY77xv",
     "date_iso": "2025-11-29T10:46:00+00:00"
-  },
-  {
-    "id": "msg18886",
-    "title": "Denim Shirts Up to 81% Off",
-    "description": "Flipkart | Denim Shirts Upto 81% Off 👉https://fkrt.co/b7ZfVe",
-    "shortlink": "https://fkrt.co/b7ZfVe",
-    "urls": [
-      {
-        "url": "https://fkrt.co/b7ZfVe",
-        "label": "Denim Shirts Upto 81% Off"
-      }
-    ],
-    "raw_text": "Flipkart | Denim Shirts Upto 81% Off\n\n👉https://fkrt.co/b7ZfVe",
-    "final_url": "https://fkrt.co/b7ZfVe",
-    "local_image": "assets/images/tgmsg_18886.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-29T10:34:13+00:00",
-    "buy_link": "https://fkrt.co/b7ZfVe",
-    "date_iso": "2025-11-29T10:34:13+00:00"
   }
 ]
