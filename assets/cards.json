@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg19323",
+    "title": "💥Up to 75% Off on Branded Women",
+    "description": "💥Ajio | Upto 75% Off on Branded Women-Dupattas Starting @ just ₹ 150🔥 🔗🔗Link : + 10% AJIO SUPERCASH",
+    "shortlink": "https://ajiio.co/EdosWF",
+    "urls": [
+      {
+        "url": "https://ajiio.co/EdosWF",
+        "label": "💥Ajio | Upto 75% Off on Branded Women-Dupattas Starting @ just ₹ 150🔥"
+      },
+      {
+        "url": "",
+        "label": "+ 10% AJIO SUPERCASH"
+      }
+    ],
+    "raw_text": "💥Ajio | Upto 75% Off on Branded Women-Dupattas Starting @ just ₹ 150🔥 \n \n🔗🔗Link : https://ajiio.co/EdosWF\n\n+ 10% AJIO SUPERCASH",
+    "final_url": "https://ajiio.co/EdosWF",
+    "local_image": "assets/images/tgmsg_19323.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-03T06:03:14+00:00",
+    "buy_link": "https://ajiio.co/EdosWF",
+    "date_iso": "2025-12-03T06:03:14+00:00"
+  },
+  {
     "id": "msg19321",
     "title": "Asian Shoes ₹396",
     "description": "Flipkart | Asian Shoes  ₹396 👉Link : https://fkrt.co/J0ubkR",
@@ -8834,29 +8858,5 @@
     "date_obj": "2025-11-29T12:40:07+00:00",
     "buy_link": "https://extp.in/XRmWsw",
     "date_iso": "2025-11-29T12:40:07+00:00"
-  },
-  {
-    "id": "msg18899",
-    "title": "💥 Just ₹599 (⚡92% OFF)",
-    "description": "Flipkart | 🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar 💥 Just ₹599 (⚡92% OFF) https://fkrt.co/rVZj6M",
-    "shortlink": "https://fkrt.co/rVZj6M",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar"
-      },
-      {
-        "url": "https://fkrt.co/rVZj6M",
-        "label": "💥 Just ₹599 (⚡92% OFF)"
-      }
-    ],
-    "raw_text": "Flipkart | 🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar \n💥 Just ₹599 (⚡92% OFF)\n\nhttps://fkrt.co/rVZj6M",
-    "final_url": "https://fkrt.co/rVZj6M",
-    "local_image": "assets/images/tgmsg_18899.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-29T12:46:27+00:00",
-    "buy_link": "https://fkrt.co/rVZj6M",
-    "date_iso": "2025-11-29T12:46:27+00:00"
   }
 ]
