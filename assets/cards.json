@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg19373",
+    "title": "Up to 82% Off On HRX Luggage",
+    "description": "Flipkart | Upto 82% Off On HRX Luggage. Small : https://fkrt.co/SeE0r5 Medium : https://fkrt.co/Gcd5km Large : https://fkrt.co/nY51Ms Pack Of 2/3 : https://fkrt.co/PgoYu2",
+    "shortlink": "https://fkrt.co/SeE0r5",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 82% Off On HRX Luggage"
+      },
+      {
+        "url": "https://fkrt.co/SeE0r5",
+        "label": "Small"
+      },
+      {
+        "url": "https://fkrt.co/Gcd5km",
+        "label": "Medium"
+      },
+      {
+        "url": "https://fkrt.co/nY51Ms",
+        "label": "Large"
+      },
+      {
+        "url": "https://fkrt.co/PgoYu2",
+        "label": "Pack Of 2/3"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 82% Off On HRX Luggage.\n\nSmall : https://fkrt.co/SeE0r5\nMedium : https://fkrt.co/Gcd5km\nLarge : https://fkrt.co/nY51Ms\n\nPack Of 2/3 : https://fkrt.co/PgoYu2",
+    "final_url": "https://fkrt.co/SeE0r5",
+    "local_image": "assets/images/tgmsg_19373.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-03T15:46:44+00:00",
+    "buy_link": "https://fkrt.co/SeE0r5",
+    "date_iso": "2025-12-03T15:46:44+00:00"
+  },
+  {
     "id": "msg19370",
     "title": "Jack & Jones Min 50% Off",
     "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
@@ -8906,25 +8942,5 @@
     "date_obj": "2025-11-29T18:59:04+00:00",
     "buy_link": "https://myntr.in/BcQ6k7",
     "date_iso": "2025-11-29T18:59:04+00:00"
-  },
-  {
-    "id": "msg18936",
-    "title": "Vivel Aloe Vera Grade 1 Bathing Soap",
-    "description": "Amazon | Vivel Aloe Vera Grade 1 Bathing Soap https://www.amazon.in/dp/B01M0TK5AP?th=1&ck&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B01M0TK5AP?th=1&ck&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B01M0TK5AP?th=1&ck&tag=bestpricezo0f-21",
-        "label": "Vivel Aloe Vera Grade 1 Bathing Soap"
-      }
-    ],
-    "raw_text": "Amazon | Vivel Aloe Vera Grade 1 Bathing Soap \n\nhttps://www.amazon.in/dp/B01M0TK5AP?th=1&ck&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B01M0TK5AP?th=1&ck&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18936.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-29T18:39:25+00:00",
-    "buy_link": "https://www.amazon.in/dp/B01M0TK5AP?th=1&ck&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-29T18:39:25+00:00"
   }
 ]
