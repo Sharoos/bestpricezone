@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19353",
+    "title": "Highlander Men Casual Shirt Starts at 199",
+    "description": "Flipkart | Highlander Men Casual Shirt Starts at 199. 🔗 https://fkrt.co/5NgVs7",
+    "shortlink": "https://fkrt.co/5NgVs7",
+    "urls": [
+      {
+        "url": "https://fkrt.co/5NgVs7",
+        "label": "Highlander Men Casual Shirt Starts at 199"
+      }
+    ],
+    "raw_text": "Flipkart | Highlander Men Casual Shirt Starts at 199.\n\n🔗 https://fkrt.co/5NgVs7",
+    "final_url": "https://fkrt.co/5NgVs7",
+    "local_image": "assets/images/tgmsg_19353.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-03T11:45:28+00:00",
+    "buy_link": "https://fkrt.co/5NgVs7",
+    "date_iso": "2025-12-03T11:45:28+00:00"
+  },
+  {
     "id": "msg19350",
     "title": "🛒 Don’t miss the deal – your 5",
     "description": "🩳 Break Free from Boring Undies with XYXX! 🔥 Buy 5 Classic Undies @ Just ₹999 🔥 Get ultra-comfy, stylish innerwear from XYXX – perfect for your everyday essentials. ✅ Premium Quality ✅ Modern Fit & Feel ✅ Just ₹199 per…",
@@ -9014,29 +9034,5 @@
     "date_obj": "2025-11-29T17:01:46+00:00",
     "buy_link": "https://myntr.in/1k9zvx",
     "date_iso": "2025-11-29T17:01:46+00:00"
-  },
-  {
-    "id": "msg18926",
-    "title": "Premium Blanket At 1019",
-    "description": "Myntra : Premium Blanket At 1019. https://myntr.in/olWOZf More : https://myntr.in/r8zXkA",
-    "shortlink": "https://myntr.in/olWOZf",
-    "urls": [
-      {
-        "url": "https://myntr.in/olWOZf",
-        "label": "Premium Blanket At 1019"
-      },
-      {
-        "url": "https://myntr.in/r8zXkA",
-        "label": "More"
-      }
-    ],
-    "raw_text": "Myntra : Premium Blanket At 1019.\n\nhttps://myntr.in/olWOZf\n\nMore : https://myntr.in/r8zXkA",
-    "final_url": "https://myntr.in/olWOZf",
-    "local_image": "assets/images/tgmsg_18926.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-29T16:51:12+00:00",
-    "buy_link": "https://myntr.in/olWOZf",
-    "date_iso": "2025-11-29T16:51:12+00:00"
   }
 ]
