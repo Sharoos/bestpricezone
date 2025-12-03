@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg19354",
+    "title": "Derma Co 1 Get 1 FREE Sale",
+    "description": "Derma Co Buy 1 Get 1 FREE Sale ✅Use Code: BFF Link: • Add 2 products → Apply code → Lower-priced FREE",
+    "shortlink": "https://bitli.in/t7Pnzid",
+    "urls": [
+      {
+        "url": "https://bitli.in/t7Pnzid",
+        "label": "✅Use Code: BFF"
+      },
+      {
+        "url": "",
+        "label": "Add 2 products → Apply code → Lower-priced FREE"
+      }
+    ],
+    "raw_text": "Derma Co Buy 1 Get 1 FREE Sale\n\n✅Use Code: BFF\n\nLink: https://bitli.in/t7Pnzid\n\n• Add 2 products → Apply code → Lower-priced FREE",
+    "final_url": "https://bitli.in/t7Pnzid",
+    "local_image": "assets/images/tgmsg_19354.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-12-03T11:46:34+00:00",
+    "buy_link": "https://bitli.in/t7Pnzid",
+    "date_iso": "2025-12-03T11:46:34+00:00"
+  },
+  {
     "id": "msg19353",
     "title": "Highlander Men Casual Shirt Starts at 199",
     "description": "Flipkart | Highlander Men Casual Shirt Starts at 199. 🔗 https://fkrt.co/5NgVs7",
@@ -9002,37 +9026,5 @@
     "date_obj": "2025-11-29T17:56:51+00:00",
     "buy_link": "https://myntr.in/P99lGO",
     "date_iso": "2025-11-29T17:56:51+00:00"
-  },
-  {
-    "id": "msg18927",
-    "title": "Up to 85% Off On HRX Footwea",
-    "description": "Myntra : Upto 85% Off On HRX Footwear. Men's : https://myntr.in/1k9zvx Women's : https://myntr.in/ulHKUH Shoes : https://myntr.in/uOqYxz",
-    "shortlink": "https://myntr.in/1k9zvx",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On HRX Footwear"
-      },
-      {
-        "url": "https://myntr.in/1k9zvx",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/ulHKUH",
-        "label": "Women's"
-      },
-      {
-        "url": "https://myntr.in/uOqYxz",
-        "label": "Shoes"
-      }
-    ],
-    "raw_text": "Myntra : Upto 85% Off On HRX Footwear.\n\nMen's : https://myntr.in/1k9zvx\nWomen's : https://myntr.in/ulHKUH\nShoes : https://myntr.in/uOqYxz",
-    "final_url": "https://myntr.in/1k9zvx",
-    "local_image": "assets/images/tgmsg_18927.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-29T17:01:46+00:00",
-    "buy_link": "https://myntr.in/1k9zvx",
-    "date_iso": "2025-11-29T17:01:46+00:00"
   }
 ]
