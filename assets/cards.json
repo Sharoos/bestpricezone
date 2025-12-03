@@ -1,5 +1,73 @@
 [
   {
+    "id": "msg19379",
+    "title": "Both — Moda Rapido Sweatshirts @ ₹499",
+    "description": "Myntra | Both — Moda Rapido Sweatshirts @ ₹499 👉 https://myntr.in/fhwoJw Women — Moda Rapido Kurta Sets @ ₹299 👉 https://myntr.in/98hKxM",
+    "shortlink": "https://myntr.in/fhwoJw",
+    "urls": [
+      {
+        "url": "https://myntr.in/fhwoJw",
+        "label": "Both — Moda Rapido Sweatshirts @ ₹499"
+      },
+      {
+        "url": "https://myntr.in/98hKxM",
+        "label": "Women — Moda Rapido Kurta Sets @ ₹299"
+      }
+    ],
+    "raw_text": "Myntra | Both — Moda Rapido Sweatshirts @ ₹499\n👉 https://myntr.in/fhwoJw\n\n Women — Moda Rapido Kurta Sets @ ₹299\n👉 https://myntr.in/98hKxM",
+    "final_url": "https://myntr.in/fhwoJw",
+    "local_image": "assets/images/tgmsg_19379.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-03T17:04:38+00:00",
+    "buy_link": "https://myntr.in/fhwoJw",
+    "date_iso": "2025-12-03T17:04:38+00:00"
+  },
+  {
+    "id": "msg19380",
+    "title": "Moda Rapido Kurta Sets @ ₹299",
+    "description": "Moda Rapido SweaT-Shirts @ ₹499 https://myntr.in/33gnU2 Moda Rapido Kurta Sets @ ₹299 https://myntr.in/ckqGNt",
+    "shortlink": "https://myntr.in/33gnU2",
+    "urls": [
+      {
+        "url": "https://myntr.in/33gnU2",
+        "label": "Shirts @ ₹499"
+      },
+      {
+        "url": "https://myntr.in/ckqGNt",
+        "label": "Moda Rapido Kurta Sets @ ₹299"
+      }
+    ],
+    "raw_text": "Moda Rapido SweaT-Shirts @ ₹499\n\nhttps://myntr.in/33gnU2\n\nModa Rapido Kurta Sets @ ₹299\n\nhttps://myntr.in/ckqGNt",
+    "final_url": "https://myntr.in/33gnU2",
+    "local_image": "assets/images/tgmsg_19380.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-03T17:15:22+00:00",
+    "buy_link": "https://myntr.in/33gnU2",
+    "date_iso": "2025-12-03T17:15:22+00:00"
+  },
+  {
+    "id": "msg19381",
+    "title": "Beardo Power, Lust & Glory Body Spray At 376",
+    "description": "Flipkart | Beardo Power, Lust & Glory Body Spray At 376 https://fkrt.co/T983Ri",
+    "shortlink": "https://fkrt.co/T983Ri",
+    "urls": [
+      {
+        "url": "https://fkrt.co/T983Ri",
+        "label": "Beardo Power, Lust & Glory Body Spray At 376"
+      }
+    ],
+    "raw_text": "Flipkart | Beardo Power, Lust & Glory Body Spray At 376\n\n https://fkrt.co/T983Ri",
+    "final_url": "https://fkrt.co/T983Ri",
+    "local_image": "assets/images/tgmsg_19381.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-03T17:16:17+00:00",
+    "buy_link": "https://fkrt.co/T983Ri",
+    "date_iso": "2025-12-03T17:16:17+00:00"
+  },
+  {
     "id": "msg19375",
     "title": "2️⃣ Women — Moda Rapido Kurtas @ ₹199",
     "description": "Myntra | 1️⃣ Men — Moda Rapido Men’s T-Shirts @ ₹199 👉  👉 3️⃣ Women — Moda Rapido Tops @ ₹199 👉",
@@ -8902,65 +8970,5 @@
     "date_obj": "2025-11-29T19:47:35+00:00",
     "buy_link": "https://www.amazon.in/dp/B0C5TM5TY5?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-29T19:47:35+00:00"
-  },
-  {
-    "id": "msg18948",
-    "title": "Caprese Women Pink Sling Bag @559",
-    "description": "Flipkart | Caprese Women Pink Sling Bag @559 https://fkrt.co/ai7hjp",
-    "shortlink": "https://fkrt.co/ai7hjp",
-    "urls": [
-      {
-        "url": "https://fkrt.co/ai7hjp",
-        "label": "Caprese Women Pink Sling Bag @559"
-      }
-    ],
-    "raw_text": "Flipkart | Caprese Women Pink Sling Bag @559\n\n https://fkrt.co/ai7hjp",
-    "final_url": "https://fkrt.co/ai7hjp",
-    "local_image": "assets/images/tgmsg_18948.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-29T19:27:46+00:00",
-    "buy_link": "https://fkrt.co/ai7hjp",
-    "date_iso": "2025-11-29T19:27:46+00:00"
-  },
-  {
-    "id": "msg18950",
-    "title": "Q Devices Portable Gun Massager Deep Tissue Muscle Relaxat... @₹799",
-    "description": "Amazon | Q Devices Portable Gun Massager | Deep Tissue Muscle Relaxat... @₹799 https://www.amazon.in/dp/B0D1GM6QRT?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D1GM6QRT?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0D1GM6QRT?psc=1&tag=bestpricezo0f-21",
-        "label": "Q Devices Portable Gun Massager | Deep Tissue Muscle Relaxat... @₹799"
-      }
-    ],
-    "raw_text": "Amazon | Q Devices Portable Gun Massager | Deep Tissue Muscle Relaxat... @₹799 \n\nhttps://www.amazon.in/dp/B0D1GM6QRT?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D1GM6QRT?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18950.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-29T19:32:49+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D1GM6QRT?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-29T19:32:49+00:00"
-  },
-  {
-    "id": "msg18946",
-    "title": "Sujata Juicer Mixer at Flat 42% Off",
-    "description": "Myntra : Sujata Juicer Mixer at Flat 42% Off. Additional Rs. 100 Off using HOMECLEARANCE Coupon Link : https://myntr.in/lRPIfL",
-    "shortlink": "https://myntr.in/lRPIfL",
-    "urls": [
-      {
-        "url": "https://myntr.in/lRPIfL",
-        "label": "Sujata Juicer Mixer at Flat 42% Off"
-      }
-    ],
-    "raw_text": "Myntra : Sujata Juicer Mixer at Flat 42% Off. \n\nAdditional Rs. 100 Off using HOMECLEARANCE Coupon\n\nLink : https://myntr.in/lRPIfL",
-    "final_url": "https://myntr.in/lRPIfL",
-    "local_image": "assets/images/tgmsg_18946.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-29T19:10:23+00:00",
-    "buy_link": "https://myntr.in/lRPIfL",
-    "date_iso": "2025-11-29T19:10:23+00:00"
   }
 ]
