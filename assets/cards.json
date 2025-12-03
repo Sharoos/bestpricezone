@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19368",
+    "title": "Kik Furniture Starting from 1999",
+    "description": "Myntra | Kik Furniture Starting from 1999. 👉https://myntr.in/kZHYdN",
+    "shortlink": "https://myntr.in/kZHYdN",
+    "urls": [
+      {
+        "url": "https://myntr.in/kZHYdN",
+        "label": "Kik Furniture Starting from 1999"
+      }
+    ],
+    "raw_text": "Myntra | Kik Furniture Starting from 1999.\n\n👉https://myntr.in/kZHYdN",
+    "final_url": "https://myntr.in/kZHYdN",
+    "local_image": "assets/images/tgmsg_19368.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-03T14:35:11+00:00",
+    "buy_link": "https://myntr.in/kZHYdN",
+    "date_iso": "2025-12-03T14:35:11+00:00"
+  },
+  {
     "id": "msg19366",
     "title": "Up to 85% Off On Vero Moda & ONLY Women Clothing",
     "description": "Ajio | Upto 85% Off On Vero Moda & ONLY Women Clothing. 👉https://ajiio.co/qgpXXv 👉https://ajiio.co/8wYHkf Jeans : https://ajiio.co/6updcL",
@@ -8898,29 +8918,5 @@
     "date_obj": "2025-11-29T18:45:50+00:00",
     "buy_link": "https://www.amazon.in/s?k=skechers&rh=n%3A1571283031%2Cn%3A1983396031%2Cn%3A1983578031%2Cp_123%3A234502%2Cp_6%3AA1WYWER0W24N8S%257CAHPOTFX5VM27%2Cp_n_pct-off-with-tax%3A75-&i=shoes&xpid=kpJfvBaS_S6gz&ck&tag=bestpricezo0f-21",
     "date_iso": "2025-11-29T18:45:50+00:00"
-  },
-  {
-    "id": "msg18940",
-    "title": "Cello Thermoware Casserole Set of 3 at ₹499",
-    "description": "Flipkart | Cello Thermoware Casserole Set of 3 at ₹499. https://fkrt.co/Oc5w6j More :  https://fkrt.co/gMs5EV",
-    "shortlink": "https://fkrt.co/Oc5w6j",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Oc5w6j",
-        "label": "Cello Thermoware Casserole Set of 3 at ₹499"
-      },
-      {
-        "url": "https://fkrt.co/gMs5EV",
-        "label": "More"
-      }
-    ],
-    "raw_text": "Flipkart | Cello Thermoware Casserole Set of 3 at ₹499.\n\n https://fkrt.co/Oc5w6j\n\nMore :  https://fkrt.co/gMs5EV",
-    "final_url": "https://fkrt.co/Oc5w6j",
-    "local_image": "assets/images/tgmsg_18940.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-29T18:48:28+00:00",
-    "buy_link": "https://fkrt.co/Oc5w6j",
-    "date_iso": "2025-11-29T18:48:28+00:00"
   }
 ]
