@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg19320",
+    "title": "Up to 80% Off on Sunglasses Starts At Rs.578",
+    "description": "Ajio | Upto 80% Off on Sunglasses Starts At Rs.578 👉Link : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/WEkTYB",
+    "urls": [
+      {
+        "url": "https://ajiio.co/WEkTYB",
+        "label": "Upto 80% Off on Sunglasses Starts At Rs.578"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "Ajio | Upto 80% Off on Sunglasses Starts At Rs.578\n \n👉Link : https://ajiio.co/WEkTYB\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/WEkTYB",
+    "local_image": "assets/images/tgmsg_19320.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-03T05:33:47+00:00",
+    "buy_link": "https://ajiio.co/WEkTYB",
+    "date_iso": "2025-12-03T05:33:47+00:00"
+  },
+  {
     "id": "msg19317",
     "title": "New Balance Min 50% Off",
     "description": "Flipkart Branded Footwear 🔥🔥 PUMA Min 60% Off 👉Link : ASICS Min 55% Off 👉Link : Skechers Min 55% Off 👉Link : ADIDAS Min 55% Off 👉Link :  👉Link :",
@@ -8838,37 +8862,5 @@
     "date_obj": "2025-11-29T13:04:44+00:00",
     "buy_link": "https://ajiio.co/Yq25W5",
     "date_iso": "2025-11-29T13:04:44+00:00"
-  },
-  {
-    "id": "msg18895",
-    "title": "Up to 86% Off On Mast & Harbour Men's Clothing",
-    "description": "Myntra : Upto 86% Off On Mast & Harbour Men's Clothing. T-Shirt : Shirt : Jeans :",
-    "shortlink": "https://myntr.in/eq5maI",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 86% Off On Mast & Harbour Men's Clothing"
-      },
-      {
-        "url": "https://myntr.in/eq5maI",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://myntr.in/naeC1m",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://myntr.in/IwuyFz",
-        "label": "Jeans"
-      }
-    ],
-    "raw_text": "Myntra : Upto 86% Off On Mast & Harbour Men's Clothing.\n\nT-Shirt : https://myntr.in/eq5maI\nShirt : https://myntr.in/naeC1m\nJeans : https://myntr.in/IwuyFz",
-    "final_url": "https://myntr.in/eq5maI",
-    "local_image": "assets/images/tgmsg_18895.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-29T12:08:09+00:00",
-    "buy_link": "https://myntr.in/eq5maI",
-    "date_iso": "2025-11-29T12:08:09+00:00"
   }
 ]
