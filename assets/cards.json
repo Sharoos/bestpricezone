@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg19370",
+    "title": "Jack & Jones Min 50% Off",
+    "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/VQVfoh",
+    "urls": [
+      {
+        "url": "https://ajiio.co/VQVfoh",
+        "label": "🔥AJIO | Jeans & Shorts Under ₹499"
+      },
+      {
+        "url": "https://ajiio.co/YtqxRN",
+        "label": "Performax Under ₹699"
+      },
+      {
+        "url": "https://ajiio.co/XM9nkK",
+        "label": "Jack & Jones Min 50% Off"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "🔥AJIO | Jeans & Shorts Under ₹499\n👉https://ajiio.co/VQVfoh\n\nPerformax Under ₹699\n👉https://ajiio.co/YtqxRN\n\nJack & Jones Min 50% Off\n👉https://ajiio.co/XM9nkK\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/VQVfoh",
+    "local_image": "assets/images/tgmsg_19370.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-03T15:05:41+00:00",
+    "buy_link": "https://ajiio.co/VQVfoh",
+    "date_iso": "2025-12-03T15:05:41+00:00"
+  },
+  {
+    "id": "msg19371",
+    "title": "Up to 60% Off on Perfumes Starting @ 164",
+    "description": "Ajio | Upto 60% Off on Perfumes Starting @ 164 Link : https://ajiio.co/dAQSOp",
+    "shortlink": "https://ajiio.co/dAQSOp",
+    "urls": [
+      {
+        "url": "https://ajiio.co/dAQSOp",
+        "label": "Upto 60% Off on Perfumes Starting @ 164"
+      }
+    ],
+    "raw_text": "Ajio | Upto 60% Off on Perfumes Starting @ 164\n\nLink : https://ajiio.co/dAQSOp",
+    "final_url": "https://ajiio.co/dAQSOp",
+    "local_image": "assets/images/tgmsg_19371.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-03T15:16:54+00:00",
+    "buy_link": "https://ajiio.co/dAQSOp",
+    "date_iso": "2025-12-03T15:16:54+00:00"
+  },
+  {
     "id": "msg19369",
     "title": "Pigeon High Grade Stainless Steel 4 Pcs Kitchen Knife Set",
     "description": "Amazon | Pigeon High Grade Stainless Steel 4 Pcs Kitchen Knife Set ₹95 🔗 https://www.amazon.in/dp/B0CYZ48MDL?smid=&th=1&language=en_IN&tag=bestpricezo0f-21",
@@ -8874,45 +8926,5 @@
     "date_obj": "2025-11-29T18:39:25+00:00",
     "buy_link": "https://www.amazon.in/dp/B01M0TK5AP?th=1&ck&tag=bestpricezo0f-21",
     "date_iso": "2025-11-29T18:39:25+00:00"
-  },
-  {
-    "id": "msg18937",
-    "title": "Dabur Almond Hair Oil",
-    "description": "Amazon | Dabur Almond Hair Oil - 580ml(290ml*2) https://www.amazon.in/dp/B0B2918K5R?ck&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0B2918K5R?ck&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0B2918K5R?ck&tag=bestpricezo0f-21",
-        "label": "Dabur Almond Hair Oil - 580ml(290ml*2)"
-      }
-    ],
-    "raw_text": "Amazon | Dabur Almond Hair Oil - 580ml(290ml*2) \n\nhttps://www.amazon.in/dp/B0B2918K5R?ck&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0B2918K5R?ck&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_18937.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-29T18:40:01+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0B2918K5R?ck&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-29T18:40:01+00:00"
-  },
-  {
-    "id": "msg18938",
-    "title": "Up to 70% Off On Lifebuoy Bodywash",
-    "description": "Myntra | Upto 70% Off On Lifebuoy Bodywash https://myntr.in/Sy3AwQ",
-    "shortlink": "https://myntr.in/Sy3AwQ",
-    "urls": [
-      {
-        "url": "https://myntr.in/Sy3AwQ",
-        "label": "Upto 70% Off On Lifebuoy Bodywash"
-      }
-    ],
-    "raw_text": "Myntra | Upto 70% Off On Lifebuoy Bodywash\n\nhttps://myntr.in/Sy3AwQ",
-    "final_url": "https://myntr.in/Sy3AwQ",
-    "local_image": "assets/images/tgmsg_18938.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-11-29T18:43:20+00:00",
-    "buy_link": "https://myntr.in/Sy3AwQ",
-    "date_iso": "2025-11-29T18:43:20+00:00"
   }
 ]
