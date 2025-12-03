@@ -1,5 +1,133 @@
 [
   {
+    "id": "msg19509",
+    "title": "Men's T",
+    "description": "Myntra | Men's T-Shirt From ₹89 👉https://myntr.in/dGdSai",
+    "shortlink": "https://myntr.in/dGdSai",
+    "urls": [
+      {
+        "url": "https://myntr.in/dGdSai",
+        "label": "Men's T-Shirt From ₹89"
+      }
+    ],
+    "raw_text": "Myntra | Men's T-Shirt From ₹89\n\n👉https://myntr.in/dGdSai",
+    "final_url": "https://myntr.in/dGdSai",
+    "local_image": "assets/images/tgmsg_19509.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-03T19:51:06+00:00",
+    "buy_link": "https://myntr.in/dGdSai",
+    "date_iso": "2025-12-03T19:51:06+00:00"
+  },
+  {
+    "id": "msg19510",
+    "title": "Up to 80% Off On Branded Winterwea",
+    "description": "Ajio : Upto 80% Off On Branded Winterwears. Men’s : https://ajiio.co/wB4kED Women’s : https://ajiio.co/x9LBKL",
+    "shortlink": "https://ajiio.co/wB4kED",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On Branded Winterwears"
+      },
+      {
+        "url": "https://ajiio.co/wB4kED",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/x9LBKL",
+        "label": "Women’s"
+      }
+    ],
+    "raw_text": "Ajio : Upto 80% Off On Branded Winterwears.\n\nMen’s : https://ajiio.co/wB4kED\nWomen’s : https://ajiio.co/x9LBKL",
+    "final_url": "https://ajiio.co/wB4kED",
+    "local_image": "assets/images/tgmsg_19510.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-03T19:53:53+00:00",
+    "buy_link": "https://ajiio.co/wB4kED",
+    "date_iso": "2025-12-03T19:53:53+00:00"
+  },
+  {
+    "id": "msg19511",
+    "title": "💥Milton Up to 80% Off",
+    "description": "Myntra | 💥Milton Upto 80% Off 🔗https://myntr.in/gqai9C",
+    "shortlink": "https://myntr.in/gqai9C",
+    "urls": [
+      {
+        "url": "https://myntr.in/gqai9C",
+        "label": "💥Milton Upto 80% Off"
+      }
+    ],
+    "raw_text": "Myntra | 💥Milton Upto 80% Off\n\n🔗https://myntr.in/gqai9C",
+    "final_url": "https://myntr.in/gqai9C",
+    "local_image": "assets/images/tgmsg_19511.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-03T19:54:50+00:00",
+    "buy_link": "https://myntr.in/gqai9C",
+    "date_iso": "2025-12-03T19:54:50+00:00"
+  },
+  {
+    "id": "msg19512",
+    "title": "Up to 80% Branded Grooming Product",
+    "description": "Myntra : Upto 80% Branded Grooming Products. HE : Denver : Playboy : Police : Brut : Axe :",
+    "shortlink": "https://myntr.in/B7ZJZL",
+    "urls": [
+      {
+        "url": "https://myntr.in/B7ZJZL",
+        "label": "Upto 80% Branded Grooming Products"
+      },
+      {
+        "url": "https://myntr.in/mS899U",
+        "label": "Denver"
+      },
+      {
+        "url": "https://myntr.in/I1K1Ih",
+        "label": "Playboy"
+      },
+      {
+        "url": "https://myntr.in/L19fSS",
+        "label": "Police"
+      },
+      {
+        "url": "https://myntr.in/UyAJ67",
+        "label": "Brut"
+      },
+      {
+        "url": "https://myntr.in/ztUlgt",
+        "label": "Axe"
+      }
+    ],
+    "raw_text": "Myntra : Upto 80% Branded Grooming Products.\n\nHE : https://myntr.in/B7ZJZL\nDenver : https://myntr.in/mS899U\nPlayboy : https://myntr.in/I1K1Ih\nPolice : https://myntr.in/L19fSS\nBrut : https://myntr.in/UyAJ67\nAxe : https://myntr.in/ztUlgt",
+    "final_url": "https://myntr.in/B7ZJZL",
+    "local_image": "assets/images/tgmsg_19512.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-03T19:57:42+00:00",
+    "buy_link": "https://myntr.in/B7ZJZL",
+    "date_iso": "2025-12-03T19:57:42+00:00"
+  },
+  {
+    "id": "msg19513",
+    "title": "Min 65% off on Kazo Women's handbag",
+    "description": "Myntra | Min 65% off on Kazo Women's handbags Link : https://myntr.in/5Q3Djf",
+    "shortlink": "https://myntr.in/5Q3Djf",
+    "urls": [
+      {
+        "url": "https://myntr.in/5Q3Djf",
+        "label": "Min 65% off on Kazo Women's handbags"
+      }
+    ],
+    "raw_text": "Myntra | Min 65% off on Kazo Women's handbags\n\nLink : https://myntr.in/5Q3Djf",
+    "final_url": "https://myntr.in/5Q3Djf",
+    "local_image": "assets/images/tgmsg_19513.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-03T19:59:48+00:00",
+    "buy_link": "https://myntr.in/5Q3Djf",
+    "date_iso": "2025-12-03T19:59:48+00:00"
+  },
+  {
     "id": "msg19502",
     "title": "45% OFF",
     "description": "Amazon's amazing deal. Horlicks Nutrition Drink - 45% OFF https://www.amazon.in/dp/B0168M7434?psc=1&th=1&tag=bestpricezo0f-21",
@@ -8786,185 +8914,5 @@
     "date_obj": "2025-11-30T15:16:12+00:00",
     "buy_link": "https://ajiio.co/fGPFdL",
     "date_iso": "2025-11-30T15:16:12+00:00"
-  },
-  {
-    "id": "msg19017",
-    "title": "Up to 85% Off On Branded Backpack",
-    "description": "Flipkart | Upto 85% Off On Branded Backpacks. Master Link : Skybags : Safari : Aristocrat :",
-    "shortlink": "https://fkrt.co/DjdXpb",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On Branded Backpacks"
-      },
-      {
-        "url": "https://fkrt.co/DjdXpb",
-        "label": "Master"
-      },
-      {
-        "url": "https://fkrt.co/MPEXop",
-        "label": "Skybags"
-      },
-      {
-        "url": "https://fkrt.co/Qf8fPj",
-        "label": "Safari"
-      },
-      {
-        "url": "https://fkrt.co/bjhc1k",
-        "label": "Aristocrat"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 85% Off On Branded Backpacks. \n\nMaster Link : https://fkrt.co/DjdXpb\n\nSkybags : https://fkrt.co/MPEXop\nSafari : https://fkrt.co/Qf8fPj\nAristocrat : https://fkrt.co/bjhc1k",
-    "final_url": "https://fkrt.co/DjdXpb",
-    "local_image": "assets/images/tgmsg_19017.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-30T14:46:14+00:00",
-    "buy_link": "https://fkrt.co/DjdXpb",
-    "date_iso": "2025-11-30T14:46:14+00:00"
-  },
-  {
-    "id": "msg19015",
-    "title": "Up to 70% Off On Engage Deodorant",
-    "description": "Flipkart | Upto 70% Off On Engage Deodorant 👉https://fkrt.co/TdPH3j",
-    "shortlink": "https://fkrt.co/TdPH3j",
-    "urls": [
-      {
-        "url": "https://fkrt.co/TdPH3j",
-        "label": "Upto 70% Off On Engage Deodorant"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 70% Off On Engage Deodorant\n\n👉https://fkrt.co/TdPH3j",
-    "final_url": "https://fkrt.co/TdPH3j",
-    "local_image": "assets/images/tgmsg_19015.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-30T14:21:04+00:00",
-    "buy_link": "https://fkrt.co/TdPH3j",
-    "date_iso": "2025-11-30T14:21:04+00:00"
-  },
-  {
-    "id": "msg19016",
-    "title": "Up to 80% Off On Spykar Clothing",
-    "description": "Ajio  Upto 80% Off On Spykar Clothing. Men's : https://ajiio.co/2CoKhg Women's : https://ajiio.co/Soxq1Z",
-    "shortlink": "https://ajiio.co/2CoKhg",
-    "urls": [
-      {
-        "url": "",
-        "label": "Ajio Upto 80% Off On Spykar Clothing"
-      },
-      {
-        "url": "https://ajiio.co/2CoKhg",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/Soxq1Z",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "Ajio  Upto 80% Off On Spykar Clothing.\n\nMen's : https://ajiio.co/2CoKhg \nWomen's : https://ajiio.co/Soxq1Z",
-    "final_url": "https://ajiio.co/2CoKhg",
-    "local_image": "assets/images/tgmsg_19016.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-30T14:32:29+00:00",
-    "buy_link": "https://ajiio.co/2CoKhg",
-    "date_iso": "2025-11-30T14:32:29+00:00"
-  },
-  {
-    "id": "msg19013",
-    "title": "Grocery Up to 80% Off",
-    "description": "Flipkart Winter Grocery 🔥🔥 Grocery Upto 80% Off 👉 Master Link: 🍚 Atta, Rice & Daal: 🛢 Oil & Ghee: 🍜 Noodles & Pasta: 🍪 Snacks: 🪥 Oral Care: 🧴 Personal Care: ☕️ Tea & Coffee: 💄 Beauty & Grooming: 🏠 House Hold & Cleaning:",
-    "shortlink": "https://fkrt.co/Xq1lmi",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart Winter Grocery 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "Grocery Upto 80% Off"
-      },
-      {
-        "url": "https://fkrt.co/Xq1lmi",
-        "label": "Master"
-      },
-      {
-        "url": "https://fkrt.co/hiDaed",
-        "label": "🍚 Atta, Rice & Daal"
-      },
-      {
-        "url": "https://fkrt.co/71rZd8",
-        "label": "🛢 Oil & Ghee"
-      },
-      {
-        "url": "https://fkrt.co/EqnMZ7",
-        "label": "🍜 Noodles & Pasta"
-      },
-      {
-        "url": "https://fkrt.co/t4Qzvg",
-        "label": "🍪 Snacks"
-      },
-      {
-        "url": "https://fkrt.co/fOH3KM",
-        "label": "🪥 Oral Care"
-      },
-      {
-        "url": "https://fkrt.co/MYHV2U",
-        "label": "🧴 Personal Care"
-      },
-      {
-        "url": "https://fkrt.co/FPKh7I",
-        "label": "☕️ Tea & Coffee"
-      },
-      {
-        "url": "https://fkrt.co/34ezd9",
-        "label": "💄 Beauty & Grooming"
-      },
-      {
-        "url": "https://fkrt.co/fhunlb",
-        "label": "🏠 House Hold & Cleaning"
-      }
-    ],
-    "raw_text": "Flipkart Winter Grocery  🔥🔥\n\nGrocery Upto 80% Off\n\n👉 Master Link: https://fkrt.co/Xq1lmi\n\n🍚 Atta, Rice & Daal: https://fkrt.co/hiDaed\n🛢 Oil & Ghee: https://fkrt.co/71rZd8\n🍜 Noodles & Pasta: https://fkrt.co/EqnMZ7\n🍪 Snacks: https://fkrt.co/t4Qzvg\n🪥 Oral Care: https://fkrt.co/fOH3KM\n🧴 Personal Care: https://fkrt.co/MYHV2U\n☕️ Tea & Coffee: https://fkrt.co/FPKh7I\n💄 Beauty & Grooming: https://fkrt.co/34ezd9\n🏠 House Hold & Cleaning: https://fkrt.co/fhunlb",
-    "final_url": "https://fkrt.co/Xq1lmi",
-    "local_image": "assets/images/tgmsg_19013.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-30T14:01:35+00:00",
-    "buy_link": "https://fkrt.co/Xq1lmi",
-    "date_iso": "2025-11-30T14:01:35+00:00"
-  },
-  {
-    "id": "msg19014",
-    "title": "Men's Footwear Up to 80% Off",
-    "description": "AJIO: Men's Footwear Upto 80% Off 👉 Sports Shoes : Casual Shoes : Sandals : • Buy Maximum To Get Free Shipping!",
-    "shortlink": "https://ajiio.co/zWz0Sj",
-    "urls": [
-      {
-        "url": "https://ajiio.co/zWz0Sj",
-        "label": "Men's Footwear Upto 80% Off"
-      },
-      {
-        "url": "https://ajiio.co/ne7ZnM",
-        "label": "Sports Shoes"
-      },
-      {
-        "url": "https://ajiio.co/b1jRcA",
-        "label": "Casual Shoes"
-      },
-      {
-        "url": "https://ajiio.co/EEZeiT",
-        "label": "Sandals"
-      }
-    ],
-    "raw_text": "AJIO:  Men's Footwear Upto 80% Off \n\n👉 https://ajiio.co/zWz0Sj \n\nSports Shoes : https://ajiio.co/ne7ZnM \nCasual Shoes : https://ajiio.co/b1jRcA \nSandals : https://ajiio.co/EEZeiT\n\n• Buy Maximum To Get Free Shipping!",
-    "final_url": "https://ajiio.co/zWz0Sj",
-    "local_image": "assets/images/tgmsg_19014.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-11-30T14:11:13+00:00",
-    "buy_link": "https://ajiio.co/zWz0Sj",
-    "date_iso": "2025-11-30T14:11:13+00:00"
   }
 ]
