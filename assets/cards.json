@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg19550",
+    "title": "Up to 85% Off On Men’s Jean",
+    "description": "Ajio Upto 85% Off On Men’s Jeans. Jack & Jones : John Players : DNMX : Buda Jeans Co : Lee Cooper : Spykar : Allen Cooper : U.S. Polo Assn. : Pepe Jeans :",
+    "shortlink": "https://ajiio.co/H6elVN",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Upto 85% Off On Men’s Jeans"
+      },
+      {
+        "url": "https://ajiio.co/H6elVN",
+        "label": "Jack & Jones"
+      },
+      {
+        "url": "https://ajiio.co/cKAjtV",
+        "label": "John Players"
+      },
+      {
+        "url": "https://ajiio.co/M7lguc",
+        "label": "DNMX"
+      },
+      {
+        "url": "https://ajiio.co/QeiCWF",
+        "label": "Buda Jeans Co"
+      },
+      {
+        "url": "https://ajiio.co/yIf3L9",
+        "label": "Lee Cooper"
+      },
+      {
+        "url": "https://ajiio.co/xKX2IQ",
+        "label": "Spykar"
+      },
+      {
+        "url": "https://ajiio.co/eAPT20",
+        "label": "Allen Cooper"
+      },
+      {
+        "url": "https://ajiio.co/pHr9iT",
+        "label": "U.S. Polo Assn"
+      },
+      {
+        "url": "https://ajiio.co/smbcRI",
+        "label": "Pepe Jeans"
+      }
+    ],
+    "raw_text": "Ajio  Upto 85% Off On Men’s Jeans. \n\nJack & Jones : https://ajiio.co/H6elVN\nJohn Players : https://ajiio.co/cKAjtV\nDNMX : https://ajiio.co/M7lguc\nBuda Jeans Co : https://ajiio.co/QeiCWF\nLee Cooper : https://ajiio.co/yIf3L9\nSpykar : https://ajiio.co/xKX2IQ\nAllen Cooper : https://ajiio.co/eAPT20\nU.S. Polo Assn. : https://ajiio.co/pHr9iT\nPepe Jeans : https://ajiio.co/smbcRI",
+    "final_url": "https://ajiio.co/H6elVN",
+    "local_image": "assets/images/tgmsg_19550.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-04T05:03:52+00:00",
+    "buy_link": "https://ajiio.co/H6elVN",
+    "date_iso": "2025-12-04T05:03:52+00:00"
+  },
+  {
     "id": "msg19548",
     "title": "Story@Home Comforter/Blankets Starts @389",
     "description": "Myntra | Story@Home Comforter/Blankets Starts @389. https://myntr.in/dkwAll",
@@ -8798,25 +8854,5 @@
     "date_obj": "2025-11-30T19:25:13+00:00",
     "buy_link": "https://www.amazon.in/s?k=puma%252Bcaps&rh=p_123%3A256097%2Cp_6%3AA1WYWER0W24N8S%7CA2SVCN105YZ7WG%7CA3L1OUG0B9LM6T%2Cp_n_pct-off-with-tax%3A2665402031&s=price-asc-rank&dc=&crid=1OXMRISNSCGKG&qid=1763393312&sprefix=puma%252Bcaps%252B%2Caps%2C280&ds=v1%3AoyDL0i3ihF22tY78C9O7pfVE74ciYdBuw7QmhJt5K%252Bo&tag=bestpricezo0f-21&",
     "date_iso": "2025-11-30T19:25:13+00:00"
-  },
-  {
-    "id": "msg19052",
-    "title": "FX 1200mm Ceiling Fan for Home @1399",
-    "description": "Amazon | Orient Electric Apex-FX 1200mm Ceiling Fan for Home @1399 https://www.amazon.in/dp/B0BMVLRSN3?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0BMVLRSN3?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BMVLRSN3?psc=1&tag=bestpricezo0f-21",
-        "label": "Orient Electric Apex-FX 1200mm Ceiling Fan for Home @1399"
-      }
-    ],
-    "raw_text": "Amazon | Orient Electric Apex-FX 1200mm Ceiling Fan for Home @1399\n\nhttps://www.amazon.in/dp/B0BMVLRSN3?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BMVLRSN3?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_19052.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-30T19:26:35+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BMVLRSN3?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-30T19:26:35+00:00"
   }
 ]
