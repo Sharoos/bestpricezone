@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg19544",
+    "title": "Up to 80% Off!",
+    "description": "Myntra | 👕 Campus Sutra Clothing - Up to 80% Off! Men's: https://myntr.in/qlZyCT Women's: https://myntr.in/ovL3sp",
+    "shortlink": "https://myntr.in/qlZyCT",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 Campus Sutra Clothing - Up to 80% Off!"
+      },
+      {
+        "url": "https://myntr.in/qlZyCT",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/ovL3sp",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Myntra | 👕 Campus Sutra Clothing - Up to 80% Off!\n\nMen's: https://myntr.in/qlZyCT\nWomen's: https://myntr.in/ovL3sp",
+    "final_url": "https://myntr.in/qlZyCT",
+    "local_image": "assets/images/tgmsg_19544.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-04T04:15:47+00:00",
+    "buy_link": "https://myntr.in/qlZyCT",
+    "date_iso": "2025-12-04T04:15:47+00:00"
+  },
+  {
+    "id": "msg19546",
+    "title": "Gear Rucksacks Up to 84% off",
+    "description": "Flipkart Gear Rucksacks upto 84% off https://fkrt.co/0NxiFW",
+    "shortlink": "https://fkrt.co/0NxiFW",
+    "urls": [
+      {
+        "url": "https://fkrt.co/0NxiFW",
+        "label": "Flipkart Gear Rucksacks upto 84% off"
+      }
+    ],
+    "raw_text": "Flipkart Gear Rucksacks upto 84% off\n\nhttps://fkrt.co/0NxiFW",
+    "final_url": "https://fkrt.co/0NxiFW",
+    "local_image": "assets/images/tgmsg_19546.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-04T04:34:15+00:00",
+    "buy_link": "https://fkrt.co/0NxiFW",
+    "date_iso": "2025-12-04T04:34:15+00:00"
+  },
+  {
     "id": "msg19539",
     "title": "Eors Story@Home Bedsheets Up to 83% Off Starting At 287",
     "description": "Myntra Eors: Story@Home Bedsheets Upto 83% Off Starting At 287 https://myntr.in/SX93qV",
@@ -8766,53 +8814,5 @@
     "date_obj": "2025-11-30T19:28:59+00:00",
     "buy_link": "https://www.amazon.in/dp/B0D5DDHHNH?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-30T19:28:59+00:00"
-  },
-  {
-    "id": "msg19044",
-    "title": "MarQ Thunder 60W Soundbar @2299",
-    "description": "Flipkart | MarQ Thunder 60W Soundbar @2299 https://fkrt.co/rRw71O 1999 :  https://fkrt.co/Y0Plv7",
-    "shortlink": "https://fkrt.co/rRw71O",
-    "urls": [
-      {
-        "url": "https://fkrt.co/rRw71O",
-        "label": "MarQ Thunder 60W Soundbar @2299"
-      },
-      {
-        "url": "https://fkrt.co/Y0Plv7",
-        "label": "1999"
-      }
-    ],
-    "raw_text": "Flipkart | MarQ Thunder 60W Soundbar @2299\n\n https://fkrt.co/rRw71O\n\n1999 :  https://fkrt.co/Y0Plv7",
-    "final_url": "https://fkrt.co/rRw71O",
-    "local_image": "assets/images/tgmsg_19044.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-30T18:58:46+00:00",
-    "buy_link": "https://fkrt.co/rRw71O",
-    "date_iso": "2025-11-30T18:58:46+00:00"
-  },
-  {
-    "id": "msg19045",
-    "title": "WOW 2 Get 2 Sale",
-    "description": "WOW Buy 2 Get 2 Sale ✅Apply Code : B2G2 Link : • Add 4 products → Get 2 lower-priced products FREE",
-    "shortlink": "https://extp.in/MzpquV",
-    "urls": [
-      {
-        "url": "https://extp.in/MzpquV",
-        "label": "✅Apply Code : B2G2"
-      },
-      {
-        "url": "",
-        "label": "Add 4 products → Get 2 lower-priced products FREE"
-      }
-    ],
-    "raw_text": "WOW  Buy 2 Get 2 Sale\n\n✅Apply Code : B2G2\n\nLink : https://extp.in/MzpquV\n\n• Add 4 products → Get 2 lower-priced products FREE",
-    "final_url": "https://extp.in/MzpquV",
-    "local_image": "assets/images/tgmsg_19045.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-11-30T19:00:43+00:00",
-    "buy_link": "https://extp.in/MzpquV",
-    "date_iso": "2025-11-30T19:00:43+00:00"
   }
 ]
