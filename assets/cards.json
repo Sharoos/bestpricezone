@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19601",
+    "title": "62% Off",
+    "description": "Flipkart | 62% Off - Dr. Morepen Glucometer At Rs.742 🔗 https://fkrt.co/z999BO",
+    "shortlink": "https://fkrt.co/z999BO",
+    "urls": [
+      {
+        "url": "https://fkrt.co/z999BO",
+        "label": "62% Off - Dr. Morepen Glucometer At Rs.742"
+      }
+    ],
+    "raw_text": "Flipkart | 62% Off - Dr. Morepen Glucometer At Rs.742\n\n🔗 https://fkrt.co/z999BO",
+    "final_url": "https://fkrt.co/z999BO",
+    "local_image": "assets/images/tgmsg_19601.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-04T10:51:19+00:00",
+    "buy_link": "https://fkrt.co/z999BO",
+    "date_iso": "2025-12-04T10:51:19+00:00"
+  },
+  {
     "id": "msg19594",
     "title": "Stayfree Up to 45% off",
     "description": "Myntra | Stayfree upto 45% off 🔗Link : https://myntr.in/48tp9U",
@@ -9190,29 +9210,5 @@
     "date_obj": "2025-12-01T09:12:38+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DMZWL16Z?th=1&ck&tag=bestpricezo0f-21",
     "date_iso": "2025-12-01T09:12:38+00:00"
-  },
-  {
-    "id": "msg19094",
-    "title": "72% Off",
-    "description": "Flipkart | 72% Off - ADIDAS  Shoes For Men  At Rs.1561 👉 https://fkrt.co/G4yuKl Master Link - https://fkrt.co/9Ij6KH",
-    "shortlink": "https://fkrt.co/G4yuKl",
-    "urls": [
-      {
-        "url": "https://fkrt.co/G4yuKl",
-        "label": "72% Off - ADIDAS Shoes For Men At Rs.1561"
-      },
-      {
-        "url": "https://fkrt.co/9Ij6KH",
-        "label": "Master"
-      }
-    ],
-    "raw_text": "Flipkart | 72% Off - ADIDAS  Shoes For Men  At Rs.1561\n\n 👉 https://fkrt.co/G4yuKl\n\nMaster Link - https://fkrt.co/9Ij6KH",
-    "final_url": "https://fkrt.co/G4yuKl",
-    "local_image": "assets/images/tgmsg_19094.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-01T09:20:20+00:00",
-    "buy_link": "https://fkrt.co/G4yuKl",
-    "date_iso": "2025-12-01T09:20:20+00:00"
   }
 ]
