@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg19761",
+    "title": "Up to 80% Off On Branded Clothing",
+    "description": "AJIO Upto 80% Off On Branded Clothing. Men's : Shirts : Jeans : T-shirts : Jackets : Sweatshirts : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/1lP17d",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 80% Off On Branded Clothing"
+      },
+      {
+        "url": "https://ajiio.co/1lP17d",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/KQj7zo",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/MiNAhE",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/O3gCIV",
+        "label": "T-shirts"
+      },
+      {
+        "url": "https://ajiio.co/R2gNaf",
+        "label": "Jackets"
+      },
+      {
+        "url": "https://ajiio.co/tp9IXh",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "AJIO  Upto 80% Off On Branded Clothing.\n\nMen's : https://ajiio.co/1lP17d\n\nShirts : https://ajiio.co/KQj7zo\nJeans : https://ajiio.co/MiNAhE\nT-shirts : https://ajiio.co/O3gCIV\nJackets : https://ajiio.co/R2gNaf\nSweatshirts : https://ajiio.co/tp9IXh\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/1lP17d",
+    "local_image": "assets/images/tgmsg_19761.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-04T21:20:14+00:00",
+    "buy_link": "https://ajiio.co/1lP17d",
+    "date_iso": "2025-12-04T21:20:14+00:00"
+  },
+  {
     "id": "msg19758",
     "title": "Additional Coupons + Card Discount",
     "description": "AJIO Price Drop On Premium Brands. Armani Exchange : Replay : La Martina : G Star Raw : Clarks : GAS, G-Star Raw & GANT Clothing. Men’s : Women’s : *s.",
@@ -9586,29 +9634,5 @@
     "date_obj": "2025-12-02T07:15:50+00:00",
     "buy_link": "https://myntr.in/ThKdCd",
     "date_iso": "2025-12-02T07:15:50+00:00"
-  },
-  {
-    "id": "msg19209",
-    "title": "Grocery Prime Drink Up to 50% Off",
-    "description": "Flipkart Grocery: Prime Drink Upto 50% Off https://fktr.in/qfonwff Redbull: https://fktr.in/w8gnaa8",
-    "shortlink": "https://fktr.in/qfonwff",
-    "urls": [
-      {
-        "url": "https://fktr.in/qfonwff",
-        "label": "Prime Drink Upto 50% Off"
-      },
-      {
-        "url": "https://fktr.in/w8gnaa8",
-        "label": "Redbull"
-      }
-    ],
-    "raw_text": "Flipkart Grocery: Prime Drink Upto 50% Off\n\nhttps://fktr.in/qfonwff\n\nRedbull: https://fktr.in/w8gnaa8",
-    "final_url": "https://fktr.in/qfonwff",
-    "local_image": "assets/images/tgmsg_19209.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-02T06:28:28+00:00",
-    "buy_link": "https://fktr.in/qfonwff",
-    "date_iso": "2025-12-02T06:28:28+00:00"
   }
 ]
