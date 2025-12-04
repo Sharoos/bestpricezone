@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg19548",
+    "title": "Story@Home Comforter/Blankets Starts @389",
+    "description": "Myntra | Story@Home Comforter/Blankets Starts @389. https://myntr.in/dkwAll",
+    "shortlink": "https://myntr.in/dkwAll",
+    "urls": [
+      {
+        "url": "https://myntr.in/dkwAll",
+        "label": "Story@Home Comforter/Blankets Starts @389"
+      }
+    ],
+    "raw_text": "Myntra | Story@Home Comforter/Blankets Starts @389.\n\nhttps://myntr.in/dkwAll",
+    "final_url": "https://myntr.in/dkwAll",
+    "local_image": "assets/images/tgmsg_19548.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-04T04:47:06+00:00",
+    "buy_link": "https://myntr.in/dkwAll",
+    "date_iso": "2025-12-04T04:47:06+00:00"
+  },
+  {
+    "id": "msg19549",
+    "title": "Up to 80% Off On Branded Winterwea",
+    "description": "Ajio : Upto 80% Off On Branded Winterwears. Men’s : https://ajiio.co/vcsGsr Women’s : https://ajiio.co/dOkrX8",
+    "shortlink": "https://ajiio.co/vcsGsr",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On Branded Winterwears"
+      },
+      {
+        "url": "https://ajiio.co/vcsGsr",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/dOkrX8",
+        "label": "Women’s"
+      }
+    ],
+    "raw_text": "Ajio : Upto 80% Off On Branded Winterwears.\n\nMen’s : https://ajiio.co/vcsGsr\nWomen’s : https://ajiio.co/dOkrX8",
+    "final_url": "https://ajiio.co/vcsGsr",
+    "local_image": "assets/images/tgmsg_19549.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-04T04:53:26+00:00",
+    "buy_link": "https://ajiio.co/vcsGsr",
+    "date_iso": "2025-12-04T04:53:26+00:00"
+  },
+  {
     "id": "msg19544",
     "title": "Up to 80% Off!",
     "description": "Myntra | 👕 Campus Sutra Clothing - Up to 80% Off! Men's: https://myntr.in/qlZyCT Women's: https://myntr.in/ovL3sp",
@@ -8770,49 +8818,5 @@
     "date_obj": "2025-11-30T19:26:35+00:00",
     "buy_link": "https://www.amazon.in/dp/B0BMVLRSN3?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-11-30T19:26:35+00:00"
-  },
-  {
-    "id": "msg19053",
-    "title": "Engage Gift Set Eau de Parfum",
-    "description": "Flipkart | Engage Gift Set Eau de Parfum - 200 ml Rs.389 https://fkrt.co/G7LPFI",
-    "shortlink": "https://fkrt.co/G7LPFI",
-    "urls": [
-      {
-        "url": "https://fkrt.co/G7LPFI",
-        "label": "Engage Gift Set Eau de Parfum - 200 ml Rs.389"
-      }
-    ],
-    "raw_text": "Flipkart | Engage Gift Set Eau de Parfum - 200 ml Rs.389\n\nhttps://fkrt.co/G7LPFI",
-    "final_url": "https://fkrt.co/G7LPFI",
-    "local_image": "assets/images/tgmsg_19053.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-11-30T19:27:56+00:00",
-    "buy_link": "https://fkrt.co/G7LPFI",
-    "date_iso": "2025-11-30T19:27:56+00:00"
-  },
-  {
-    "id": "msg19054",
-    "title": "Deal Price ₹451",
-    "description": "Amazon | Louis Philippe Men's Lpscdrgfs300055 Slipper Deal Price: ₹451 https://www.amazon.in/dp/B0D5DDHHNH?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D5DDHHNH?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Louis Philippe Men's Lpscdrgfs300055 Slipper"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0D5DDHHNH?psc=1&tag=bestpricezo0f-21",
-        "label": "₹451"
-      }
-    ],
-    "raw_text": "Amazon | Louis Philippe Men's Lpscdrgfs300055 Slipper\n\nDeal Price: ₹451 \n\nhttps://www.amazon.in/dp/B0D5DDHHNH?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D5DDHHNH?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_19054.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-11-30T19:28:59+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D5DDHHNH?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-11-30T19:28:59+00:00"
   }
 ]
