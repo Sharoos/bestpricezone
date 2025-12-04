@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg19607",
+    "title": "Up to 90% Off on Tokyo Talkies Clothing",
+    "description": "Flipkart | Upto 90% Off on Tokyo Talkies Clothing Tops Under ₹199 : Dresses Under ₹299 : Trousers Under ₹399 : Sweatshirts Under ₹499 : Jeans Under ₹499 : Tokyo Talkies Under ₹399 :",
+    "shortlink": "https://fkrt.co/THxxh4",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 90% Off on Tokyo Talkies Clothing"
+      },
+      {
+        "url": "https://fkrt.co/THxxh4",
+        "label": "Tops Under ₹199"
+      },
+      {
+        "url": "https://fkrt.co/gIUhBv",
+        "label": "Dresses Under ₹299"
+      },
+      {
+        "url": "https://fkrt.co/ut2jIp",
+        "label": "Trousers Under ₹399"
+      },
+      {
+        "url": "https://fkrt.co/UiW1FG",
+        "label": "Sweatshirts Under ₹499"
+      },
+      {
+        "url": "https://fkrt.co/DKDgTh",
+        "label": "Jeans Under ₹499"
+      },
+      {
+        "url": "https://fkrt.co/110E24",
+        "label": "Tokyo Talkies Under ₹399"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 90% Off on Tokyo Talkies Clothing\n\nTops Under ₹199 : https://fkrt.co/THxxh4\nDresses Under ₹299 : https://fkrt.co/gIUhBv\nTrousers Under ₹399 : https://fkrt.co/ut2jIp\nSweatshirts Under ₹499 : https://fkrt.co/UiW1FG\nJeans Under ₹499 : https://fkrt.co/DKDgTh\nTokyo Talkies Under ₹399 : https://fkrt.co/110E24",
+    "final_url": "https://fkrt.co/THxxh4",
+    "local_image": "assets/images/tgmsg_19607.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-04T11:20:20+00:00",
+    "buy_link": "https://fkrt.co/THxxh4",
+    "date_iso": "2025-12-04T11:20:20+00:00"
+  },
+  {
     "id": "msg19603",
     "title": "Deal Yogabar 31g Protein Shake",
     "description": "Amazon  Deal : Yogabar 31g Protein Shake - Pack of 12 @ 1199/- 👉 https://www.amazon.in/dp/B0FVLHJJK5?tag=bestpricezo0f-21",
@@ -9194,29 +9238,5 @@
     "date_obj": "2025-12-01T10:00:41+00:00",
     "buy_link": "https://extp.in/3d1hNP",
     "date_iso": "2025-12-01T10:00:41+00:00"
-  },
-  {
-    "id": "msg19100",
-    "title": "Up to 73% Off",
-    "description": "Flipkart | upto 73% Off -  Cotton Double Flat Bedsheets Starting Rs.342 👉 https://fkrt.co/asM1Ql",
-    "shortlink": "https://fkrt.co/asM1Ql",
-    "urls": [
-      {
-        "url": "",
-        "label": "upto 73% Off - Cotton Double Flat Bedsheets"
-      },
-      {
-        "url": "https://fkrt.co/asM1Ql",
-        "label": "Starting Rs.342"
-      }
-    ],
-    "raw_text": "Flipkart | upto 73% Off -  Cotton Double Flat Bedsheets\n\nStarting Rs.342\n\n👉 https://fkrt.co/asM1Ql",
-    "final_url": "https://fkrt.co/asM1Ql",
-    "local_image": "assets/images/tgmsg_19100.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-01T10:20:12+00:00",
-    "buy_link": "https://fkrt.co/asM1Ql",
-    "date_iso": "2025-12-01T10:20:12+00:00"
   }
 ]
