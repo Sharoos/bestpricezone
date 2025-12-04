@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19610",
+    "title": "2 in 1 duroflex mattress starting at 5000",
+    "description": "Myntra | 2 in 1 duroflex mattress starting at 5000 🔗 Link : https://myntr.in/agd4iP",
+    "shortlink": "https://myntr.in/agd4iP",
+    "urls": [
+      {
+        "url": "https://myntr.in/agd4iP",
+        "label": "2 in 1 duroflex mattress starting at 5000"
+      }
+    ],
+    "raw_text": "Myntra | 2 in 1 duroflex mattress starting at 5000 \n\n🔗 Link : https://myntr.in/agd4iP",
+    "final_url": "https://myntr.in/agd4iP",
+    "local_image": "assets/images/tgmsg_19610.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-04T11:50:17+00:00",
+    "buy_link": "https://myntr.in/agd4iP",
+    "date_iso": "2025-12-04T11:50:17+00:00"
+  },
+  {
     "id": "msg19608",
     "title": "Schwarzkopf Professional Up to 35% off plus additional",
     "description": "Myntra | Schwarzkopf Professional upto 35% off  plus additional coupon 🔗 Link : https://myntr.in/4dPxiM",
@@ -9182,29 +9202,5 @@
     "date_obj": "2025-12-01T11:11:22+00:00",
     "buy_link": "https://bitli.in/yl4J39y",
     "date_iso": "2025-12-01T11:11:22+00:00"
-  },
-  {
-    "id": "msg19108",
-    "title": "Up to 75% Off",
-    "description": "Flipkart | Upto 75% Off - Engage Deodorant & Perfumes Starting Rs.186 👉https://fkrt.co/O8UWZ6",
-    "shortlink": "https://fkrt.co/O8UWZ6",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 75% Off - Engage Deodorant & Perfumes"
-      },
-      {
-        "url": "https://fkrt.co/O8UWZ6",
-        "label": "Starting Rs.186"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 75% Off - Engage Deodorant & Perfumes\n\nStarting Rs.186\n\n👉https://fkrt.co/O8UWZ6",
-    "final_url": "https://fkrt.co/O8UWZ6",
-    "local_image": "assets/images/tgmsg_19108.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-01T11:20:18+00:00",
-    "buy_link": "https://fkrt.co/O8UWZ6",
-    "date_iso": "2025-12-01T11:20:18+00:00"
   }
 ]
