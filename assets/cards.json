@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19766",
+    "title": "Aristocrat Duffel Bags @₹479",
+    "description": "Flipkart | Aristocrat Duffel Bags @₹479 https://fkrt.co/rkuQdb",
+    "shortlink": "https://fkrt.co/rkuQdb",
+    "urls": [
+      {
+        "url": "https://fkrt.co/rkuQdb",
+        "label": "Aristocrat Duffel Bags @₹479"
+      }
+    ],
+    "raw_text": "Flipkart | Aristocrat Duffel Bags @₹479\n\nhttps://fkrt.co/rkuQdb",
+    "final_url": "https://fkrt.co/rkuQdb",
+    "local_image": "assets/images/tgmsg_19766.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-05T04:10:55+00:00",
+    "buy_link": "https://fkrt.co/rkuQdb",
+    "date_iso": "2025-12-05T04:10:55+00:00"
+  },
+  {
     "id": "msg19765",
     "title": "Red Tape Shoes at Up to 83% Discount",
     "description": "Ajio | Red Tape Shoes at Upto 83% Discount https://ajiio.co/DxEDtJ",
@@ -9638,25 +9658,5 @@
     "date_obj": "2025-12-02T09:40:07+00:00",
     "buy_link": "https://fkrt.co/36EUZI",
     "date_iso": "2025-12-02T09:40:07+00:00"
-  },
-  {
-    "id": "msg19218",
-    "title": "92% Off",
-    "description": "Flipkart | 92% Off - Socket Set Pack of 46 At Rs.150 👉 https://fkrt.co/YAIesp",
-    "shortlink": "https://fkrt.co/YAIesp",
-    "urls": [
-      {
-        "url": "https://fkrt.co/YAIesp",
-        "label": "92% Off - Socket Set Pack of 46 At Rs.150"
-      }
-    ],
-    "raw_text": "Flipkart | 92% Off - Socket Set Pack of 46 At Rs.150\n\n👉 https://fkrt.co/YAIesp",
-    "final_url": "https://fkrt.co/YAIesp",
-    "local_image": "assets/images/tgmsg_19218.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-02T08:45:23+00:00",
-    "buy_link": "https://fkrt.co/YAIesp",
-    "date_iso": "2025-12-02T08:45:23+00:00"
   }
 ]
