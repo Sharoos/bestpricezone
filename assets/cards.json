@@ -1,5 +1,109 @@
 [
   {
+    "id": "msg19780",
+    "title": "Shoe Racks Starting From Rs.499",
+    "description": "Flipkart | Shoe Racks Starting From Rs.499 👉Link- https://fkrt.co/OOFpjd Wrogn Rucksacks Starts @599. https://fkrt.co/IB1MsC Backpacks : https://fkrt.co/bTOOBU",
+    "shortlink": "https://fkrt.co/OOFpjd",
+    "urls": [
+      {
+        "url": "https://fkrt.co/OOFpjd",
+        "label": "Shoe Racks Starting From Rs.499"
+      },
+      {
+        "url": "https://fkrt.co/IB1MsC",
+        "label": "Wrogn Rucksacks Starts @599"
+      },
+      {
+        "url": "https://fkrt.co/bTOOBU",
+        "label": "Backpacks"
+      }
+    ],
+    "raw_text": "Flipkart | Shoe Racks Starting From Rs.499\n\n👉Link- https://fkrt.co/OOFpjd\n\nWrogn Rucksacks Starts @599.\n\nhttps://fkrt.co/IB1MsC\n\nBackpacks : https://fkrt.co/bTOOBU",
+    "final_url": "https://fkrt.co/OOFpjd",
+    "local_image": "assets/images/tgmsg_19780.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-05T06:04:17+00:00",
+    "buy_link": "https://fkrt.co/OOFpjd",
+    "date_iso": "2025-12-05T06:04:17+00:00"
+  },
+  {
+    "id": "msg19781",
+    "title": "Flat 67% Off on Clinic Plus",
+    "description": "Myntra | : Flat 68% Off on Dove: Flat 68% Off on TRESemme: Flat 68% Off on Dove: Flat 68% Off on TRESemme:",
+    "shortlink": "https://myntr.in/rjXZfX",
+    "urls": [
+      {
+        "url": "https://myntr.in/rjXZfX",
+        "label": "Flat 67% Off on Clinic Plus"
+      },
+      {
+        "url": "https://myntr.in/ZPw78Y",
+        "label": "Flat 68% Off on Dove"
+      },
+      {
+        "url": "https://myntr.in/kDIbFX",
+        "label": "Flat 68% Off on TRESemme"
+      },
+      {
+        "url": "https://myntr.in/kpqUOU",
+        "label": "Flat 68% Off on Dove"
+      },
+      {
+        "url": "https://myntr.in/FJWZpz",
+        "label": "Flat 68% Off on TRESemme"
+      }
+    ],
+    "raw_text": "Myntra | Flat 67% Off on Clinic Plus: https://myntr.in/rjXZfX\n\nFlat 68% Off on Dove: https://myntr.in/ZPw78Y\n\nFlat 68% Off on TRESemme: https://myntr.in/kDIbFX\n\nFlat 68% Off on Dove: https://myntr.in/kpqUOU\n\nFlat 68% Off on TRESemme: https://myntr.in/FJWZpz",
+    "final_url": "https://myntr.in/rjXZfX",
+    "local_image": "assets/images/tgmsg_19781.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-05T06:11:10+00:00",
+    "buy_link": "https://myntr.in/rjXZfX",
+    "date_iso": "2025-12-05T06:11:10+00:00"
+  },
+  {
+    "id": "msg19782",
+    "title": "Levi's Women's Jeans Starts @779",
+    "description": "Flipkart | Levi's Women's Jeans Starts @779 https://fkrt.co/Kye0w5",
+    "shortlink": "https://fkrt.co/Kye0w5",
+    "urls": [
+      {
+        "url": "https://fkrt.co/Kye0w5",
+        "label": "Levi's Women's Jeans Starts @779"
+      }
+    ],
+    "raw_text": "Flipkart | Levi's Women's Jeans Starts @779\n\nhttps://fkrt.co/Kye0w5",
+    "final_url": "https://fkrt.co/Kye0w5",
+    "local_image": "assets/images/tgmsg_19782.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-05T06:22:28+00:00",
+    "buy_link": "https://fkrt.co/Kye0w5",
+    "date_iso": "2025-12-05T06:22:28+00:00"
+  },
+  {
+    "id": "msg19783",
+    "title": "Wildcraft Trolley bags sets of three only at 3749/",
+    "description": "Myntra | Wildcraft Trolley bags sets of three only at 3749/- https://myntr.in/97SJif",
+    "shortlink": "https://myntr.in/97SJif",
+    "urls": [
+      {
+        "url": "https://myntr.in/97SJif",
+        "label": "Wildcraft Trolley bags sets of three only at 3749/"
+      }
+    ],
+    "raw_text": "Myntra | Wildcraft Trolley bags sets of three only at 3749/-\n\nhttps://myntr.in/97SJif",
+    "final_url": "https://myntr.in/97SJif",
+    "local_image": "assets/images/tgmsg_19783.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-05T06:33:16+00:00",
+    "buy_link": "https://myntr.in/97SJif",
+    "date_iso": "2025-12-05T06:33:16+00:00"
+  },
+  {
     "id": "msg19777",
     "title": "82% Off On Redtape Shoe",
     "description": "AJIO Loot : s. Men : Women : Sandals & Clogs : Men : Women : Red Tape Clothing :",
@@ -9378,153 +9482,5 @@
     "date_obj": "2025-12-02T12:10:12+00:00",
     "buy_link": "https://www.amazon.in/dp/B07T2JL2VR?tag=bestpricezo0f-21",
     "date_iso": "2025-12-02T12:10:12+00:00"
-  },
-  {
-    "id": "msg19244",
-    "title": "80 % off on Here & Now shirt",
-    "description": "Myntra | Upto -80 % off on Here & Now shirts 👉 https://myntr.in/0L0PMO",
-    "shortlink": "https://myntr.in/0L0PMO",
-    "urls": [
-      {
-        "url": "https://myntr.in/0L0PMO",
-        "label": "Upto -80 % off on Here & Now shirts"
-      }
-    ],
-    "raw_text": "Myntra | Upto -80 % off on Here & Now shirts \n\n 👉 https://myntr.in/0L0PMO",
-    "final_url": "https://myntr.in/0L0PMO",
-    "local_image": "assets/images/tgmsg_19244.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-02T12:31:55+00:00",
-    "buy_link": "https://myntr.in/0L0PMO",
-    "date_iso": "2025-12-02T12:31:55+00:00"
-  },
-  {
-    "id": "msg19246",
-    "title": "Airtight Kitchen Storage Containers Set of 6 @₹210",
-    "description": "Amazon | Airtight Kitchen Storage Containers Set of 6  @₹210 🔗 Buy Here :…",
-    "shortlink": "https://www.amazon.in/dp/B0FPCH82GP?psc=1&pf_rd_p=00892a2d-bd0e-4f46-9295-e128db4dc924&pf_rd_r=6HE9HPF7PM6315SVPBGD&pd_rd_wg=IMsqu&pd_rd_w=MJdwU&content-id=amzn1.sym.00892a2d-bd0e-4f46-9295-e128db4dc924&pd_rd_r=6fd58357-6d01-40fa-947a-7ed2bd458f90&aref=FbQNidbMwk&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy&language=en_IN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Airtight Kitchen Storage Containers Set of 6 @₹210"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0FPCH82GP?psc=1&pf_rd_p=00892a2d-bd0e-4f46-9295-e128db4dc924&pf_rd_r=6HE9HPF7PM6315SVPBGD&pd_rd_wg=IMsqu&pd_rd_w=MJdwU&content-id=amzn1.sym.00892a2d-bd0e-4f46-9295-e128db4dc924&pd_rd_r=6fd58357-6d01-40fa-947a-7ed2bd458f90&aref=FbQNidbMwk&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy&language=en_IN&tag=bestpricezo0f-21",
-        "label": "🔗 Here"
-      }
-    ],
-    "raw_text": "Amazon | Airtight Kitchen Storage Containers Set of 6  @₹210\n\n🔗 Buy Here : https://www.amazon.in/dp/B0FPCH82GP?psc=1&pf_rd_p=00892a2d-bd0e-4f46-9295-e128db4dc924&pf_rd_r=6HE9HPF7PM6315SVPBGD&pd_rd_wg=IMsqu&pd_rd_w=MJdwU&content-id=amzn1.sym.00892a2d-bd0e-4f46-9295-e128db4dc924&pd_rd_r=6fd58357-6d01-40fa-947a-7ed2bd458f90&aref=FbQNidbMwk&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy&language=en_IN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FPCH82GP?psc=1&pf_rd_p=00892a2d-bd0e-4f46-9295-e128db4dc924&pf_rd_r=6HE9HPF7PM6315SVPBGD&pd_rd_wg=IMsqu&pd_rd_w=MJdwU&content-id=amzn1.sym.00892a2d-bd0e-4f46-9295-e128db4dc924&pd_rd_r=6fd58357-6d01-40fa-947a-7ed2bd458f90&aref=FbQNidbMwk&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy&language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_19246.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-02T12:45:14+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FPCH82GP?psc=1&pf_rd_p=00892a2d-bd0e-4f46-9295-e128db4dc924&pf_rd_r=6HE9HPF7PM6315SVPBGD&pd_rd_wg=IMsqu&pd_rd_w=MJdwU&content-id=amzn1.sym.00892a2d-bd0e-4f46-9295-e128db4dc924&pd_rd_r=6fd58357-6d01-40fa-947a-7ed2bd458f90&aref=FbQNidbMwk&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy&language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-02T12:45:14+00:00"
-  },
-  {
-    "id": "msg19248",
-    "title": "📊 Diverse Investment Options – Stocks, IPOs, Mutual Funds & more",
-    "description": "📈 Start Your Investment Journey with Upstox! 🚀 Looking for a smart, secure & affordable trading platform? Upstox has got you covered! ✅ ✨ Key Benefits of Upstox : 💰 Low Brokerage – Zero brokerage on delivery trades! 📱…",
-    "shortlink": "https://extp.in/U8sfGG",
-    "urls": [
-      {
-        "url": "",
-        "label": "📈 Start Your Investment Journey with Upstox! 🚀"
-      },
-      {
-        "url": "",
-        "label": "Looking for a smart, secure & affordable trading platform? Upstox has got you covered! ✅"
-      },
-      {
-        "url": "",
-        "label": "✨ Key Benefits of Upstox"
-      },
-      {
-        "url": "",
-        "label": "💰 Low Brokerage – Zero brokerage on delivery trades!"
-      },
-      {
-        "url": "",
-        "label": "📱 Advanced Platforms – Easy-to-use app & web trading platforms"
-      },
-      {
-        "url": "",
-        "label": "📊 Diverse Investment Options – Stocks, IPOs, Mutual Funds & more"
-      },
-      {
-        "url": "",
-        "label": "📈 Research Tools – Powerful charts, technical analysis & expert reports"
-      },
-      {
-        "url": "",
-        "label": "⚡️ Ease of Use – Smooth onboarding & beginner-friendly interface"
-      },
-      {
-        "url": "",
-        "label": "🔐 Secure Transactions – Trade with complete safety & reliability"
-      },
-      {
-        "url": "",
-        "label": "🔥 Open Your Free Demat Account Today!"
-      },
-      {
-        "url": "https://extp.in/U8sfGG",
-        "label": "🔗 to Join Upstox"
-      }
-    ],
-    "raw_text": "📈 Start Your Investment Journey with Upstox! 🚀\n\nLooking for a smart, secure & affordable trading platform? Upstox has got you covered! ✅\n\n✨ Key Benefits of Upstox :\n💰 Low Brokerage – Zero brokerage on delivery trades!\n📱 Advanced Platforms – Easy-to-use app & web trading platforms.\n📊 Diverse Investment Options – Stocks, IPOs, Mutual Funds & more.\n📈 Research Tools – Powerful charts, technical analysis & expert reports.\n⚡️ Ease of Use – Smooth onboarding & beginner-friendly interface.\n🔐 Secure Transactions – Trade with complete safety & reliability.\n\n🔥 Open Your Free Demat Account Today!\n\n🔗 Click Here to Join Upstox : https://extp.in/U8sfGG",
-    "final_url": "https://extp.in/U8sfGG",
-    "local_image": "assets/images/tgmsg_19248.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-02T13:00:29+00:00",
-    "buy_link": "https://extp.in/U8sfGG",
-    "date_iso": "2025-12-02T13:00:29+00:00"
-  },
-  {
-    "id": "msg19239",
-    "title": "Fashion Collection Up to 90% Off",
-    "description": "Flipkart : Fashion Collection Upto 90% Off Master Link : Shirt : Tshirt : Jeans : Cargo : Shoes :",
-    "shortlink": "https://fkrt.co/5H4NU2",
-    "urls": [
-      {
-        "url": "",
-        "label": "Fashion Collection Upto 90% Off"
-      },
-      {
-        "url": "https://fkrt.co/5H4NU2",
-        "label": "Master"
-      },
-      {
-        "url": "https://fkrt.co/NhUVfR",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://fkrt.co/pxhJJZ",
-        "label": "Tshirt"
-      },
-      {
-        "url": "https://fkrt.co/zwT0w8",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://fkrt.co/VHtTbr",
-        "label": "Cargo"
-      },
-      {
-        "url": "https://fkrt.co/KJoYd6",
-        "label": "Shoes"
-      }
-    ],
-    "raw_text": "Flipkart : Fashion Collection Upto 90% Off\n\nMaster Link : https://fkrt.co/5H4NU2\n\nShirt : https://fkrt.co/NhUVfR\nTshirt : https://fkrt.co/pxhJJZ\nJeans : https://fkrt.co/zwT0w8\nCargo : https://fkrt.co/VHtTbr\nShoes : https://fkrt.co/KJoYd6",
-    "final_url": "https://fkrt.co/5H4NU2",
-    "local_image": "assets/images/tgmsg_19239.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-02T11:50:13+00:00",
-    "buy_link": "https://fkrt.co/5H4NU2",
-    "date_iso": "2025-12-02T11:50:13+00:00"
   }
 ]
