@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg19856",
+    "title": "boAt Partypal 300 Speaker with 120 W Signature Sound @ 10999",
+    "description": "Amazon | boAt Partypal 300 Speaker with 120 W Signature Sound @ 10999 https://www.amazon.in/dp/B0CG5XTL1R?tag=bestpricezo0f-21 .",
+    "shortlink": "https://www.amazon.in/dp/B0CG5XTL1R?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CG5XTL1R?tag=bestpricezo0f-21",
+        "label": "boAt Partypal 300 Speaker with 120 W Signature Sound @ 10999"
+      }
+    ],
+    "raw_text": "Amazon | boAt Partypal 300 Speaker with 120 W Signature Sound @ 10999\n\nhttps://www.amazon.in/dp/B0CG5XTL1R?tag=bestpricezo0f-21 .",
+    "final_url": "https://www.amazon.in/dp/B0CG5XTL1R?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_19856.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-05T14:21:44+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CG5XTL1R?tag=bestpricezo0f-21",
+    "date_iso": "2025-12-05T14:21:44+00:00"
+  },
+  {
+    "id": "msg19861",
+    "title": "Doormats & Curtains Starts @83",
+    "description": "Myntra : Doormats & Curtains Starts @83. 👉https://myntr.in/lW4ULS",
+    "shortlink": "https://myntr.in/lW4ULS",
+    "urls": [
+      {
+        "url": "https://myntr.in/lW4ULS",
+        "label": "Doormats & Curtains Starts @83"
+      }
+    ],
+    "raw_text": "Myntra : Doormats & Curtains Starts @83.\n\n👉https://myntr.in/lW4ULS",
+    "final_url": "https://myntr.in/lW4ULS",
+    "local_image": "assets/images/tgmsg_19861.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-05T14:34:09+00:00",
+    "buy_link": "https://myntr.in/lW4ULS",
+    "date_iso": "2025-12-05T14:34:09+00:00"
+  },
+  {
     "id": "msg19854",
     "title": "Shirts — Under ₹199",
     "description": "Myntra | 🔥 Moda Rapido Men’s T-Shirts — Under ₹199 👉 https://myntr.in/LqxEBL",
@@ -9674,49 +9714,5 @@
     "date_obj": "2025-12-03T07:34:20+00:00",
     "buy_link": "https://ajiio.in/fr3A0gh",
     "date_iso": "2025-12-03T07:34:20+00:00"
-  },
-  {
-    "id": "msg19331",
-    "title": "🔥 Collagen Back Apply ₹300 ✔️",
-    "description": "🔥 Amazon Collagen Back : Apply ₹300 Coupon✔️ Neuherbs Collagen (Orange) 200g @ 414/- 👉 Regular price: 1099❌",
-    "shortlink": "https://www.amazon.in/dp/B0CB4HYGQR?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CB4HYGQR?tag=bestpricezo0f-21",
-        "label": "Neuherbs Collagen (Orange) 200g @ 414/"
-      },
-      {
-        "url": "",
-        "label": "1099❌"
-      }
-    ],
-    "raw_text": "🔥 Amazon Collagen Back : Apply ₹300 Coupon✔️\n\nNeuherbs Collagen (Orange) 200g @ 414/-\n\n👉 https://www.amazon.in/dp/B0CB4HYGQR?tag=bestpricezo0f-21\n\nRegular price: 1099❌",
-    "final_url": "https://www.amazon.in/dp/B0CB4HYGQR?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_19331.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-03T07:45:19+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CB4HYGQR?tag=bestpricezo0f-21",
-    "date_iso": "2025-12-03T07:45:19+00:00"
-  },
-  {
-    "id": "msg19327",
-    "title": "Kuber makeup organiser at just Rs.299",
-    "description": "Myntra | Kuber makeup organiser at just Rs.299. 👉https://myntr.in/evtrHr",
-    "shortlink": "https://myntr.in/evtrHr",
-    "urls": [
-      {
-        "url": "https://myntr.in/evtrHr",
-        "label": "Kuber makeup organiser at just Rs.299"
-      }
-    ],
-    "raw_text": "Myntra | Kuber makeup organiser at just Rs.299.\n\n👉https://myntr.in/evtrHr",
-    "final_url": "https://myntr.in/evtrHr",
-    "local_image": "assets/images/tgmsg_19327.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-03T07:21:02+00:00",
-    "buy_link": "https://myntr.in/evtrHr",
-    "date_iso": "2025-12-03T07:21:02+00:00"
   }
 ]
