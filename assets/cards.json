@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg19788",
+    "title": "Deal Price ₹578",
+    "description": "Amazon | Surf Excel Expert White Powder 6kg Deal Price: ₹578 👉https://www.amazon.in/dp/B0FLXVRGC3?psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FLXVRGC3?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Surf Excel Expert White Powder 6kg"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0FLXVRGC3?psc=1&tag=bestpricezo0f-21",
+        "label": "₹578"
+      }
+    ],
+    "raw_text": "Amazon | Surf Excel Expert White Powder 6kg\n\nDeal Price: ₹578 \n\n👉https://www.amazon.in/dp/B0FLXVRGC3?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FLXVRGC3?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_19788.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-05T07:20:17+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FLXVRGC3?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-05T07:20:17+00:00"
+  },
+  {
     "id": "msg19784",
     "title": "Up to 80% Off John Players Clothing",
     "description": "AJIO : Upto 80% Off : John Players Clothing Jeans – Shirts – T-Shirts – Trousers – Sweatshirts – Sweaters – Jackets – Waistcoats & Blazers –",
@@ -9414,49 +9438,5 @@
     "date_obj": "2025-12-02T13:45:16+00:00",
     "buy_link": "https://fkrt.co/6UhGzm",
     "date_iso": "2025-12-02T13:45:16+00:00"
-  },
-  {
-    "id": "msg19249",
-    "title": "🗓 1st – 7th Dec Up to 60% OFF",
-    "description": "💰🎉 PAYDAY SALE is LIVE on Hyugalife! 🎉💰 🗓 1st – 7th Dec | Up to 60% OFF 💥 GRAB MORE, SPEND LESS! ✅ Get an extra 8% OFF with code DHAMAKA8 🛒 100% Authentic | Free Shipping | Lab Tested Products 👉 Link : 💪 Health,…",
-    "shortlink": "https://extp.in/KGNwTF",
-    "urls": [
-      {
-        "url": "",
-        "label": "💰🎉 PAYDAY SALE is LIVE on Hyugalife! 🎉💰"
-      },
-      {
-        "url": "",
-        "label": "🗓 1st – 7th Dec | Up to 60% OFF"
-      },
-      {
-        "url": "",
-        "label": "💥 GRAB MORE, SPEND LESS!"
-      },
-      {
-        "url": "",
-        "label": "✅ Get an extra 8% OFF with code DHAMAKA8"
-      },
-      {
-        "url": "https://extp.in/KGNwTF",
-        "label": "🛒 100% Authentic | Free Shipping | Lab Tested Products"
-      },
-      {
-        "url": "",
-        "label": "💪 Health, Wellness & Fitness essentials at unbeatable prices!"
-      },
-      {
-        "url": "",
-        "label": "🔥 Hurry! Offer ends soon — shop your favorites today!"
-      }
-    ],
-    "raw_text": "💰🎉 PAYDAY SALE is LIVE on Hyugalife! 🎉💰\n\n🗓 1st – 7th Dec | Up to 60% OFF\n\n💥 GRAB MORE, SPEND LESS!\n✅ Get an extra 8% OFF with code DHAMAKA8\n🛒 100% Authentic | Free Shipping | Lab Tested Products\n\n👉 Link : https://extp.in/KGNwTF\n\n💪 Health, Wellness & Fitness essentials at unbeatable prices!\n🔥 Hurry! Offer ends soon — shop your favorites today!",
-    "final_url": "https://extp.in/KGNwTF",
-    "local_image": "assets/images/tgmsg_19249.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-02T13:15:10+00:00",
-    "buy_link": "https://extp.in/KGNwTF",
-    "date_iso": "2025-12-02T13:15:10+00:00"
   }
 ]
