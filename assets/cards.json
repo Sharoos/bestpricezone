@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg19762",
+    "title": "Up to 80% Off On Branded Clothing",
+    "description": "AJIO Upto 80% Off On Branded Clothing. Men's : Shirts : Jeans : T-shirts : Jackets : Sweatshirts : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/ImYbl1",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 80% Off On Branded Clothing"
+      },
+      {
+        "url": "https://ajiio.co/ImYbl1",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/A1XhSi",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/NiR5e8",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/pEl6Nc",
+        "label": "T-shirts"
+      },
+      {
+        "url": "https://ajiio.co/wClZLZ",
+        "label": "Jackets"
+      },
+      {
+        "url": "https://ajiio.co/EmmMBE",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "AJIO  Upto 80% Off On Branded Clothing.\n\nMen's : https://ajiio.co/ImYbl1\n\nShirts : https://ajiio.co/A1XhSi\nJeans : https://ajiio.co/NiR5e8\nT-shirts : https://ajiio.co/pEl6Nc\nJackets : https://ajiio.co/wClZLZ\nSweatshirts : https://ajiio.co/EmmMBE\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/ImYbl1",
+    "local_image": "assets/images/tgmsg_19762.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-05T01:55:12+00:00",
+    "buy_link": "https://ajiio.co/ImYbl1",
+    "date_iso": "2025-12-05T01:55:12+00:00"
+  },
+  {
     "id": "msg19761",
     "title": "Up to 80% Off On Branded Clothing",
     "description": "AJIO Upto 80% Off On Branded Clothing. Men's : Shirts : Jeans : T-shirts : Jackets : Sweatshirts : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
@@ -9614,25 +9662,5 @@
     "date_obj": "2025-12-02T07:45:21+00:00",
     "buy_link": "https://fkrt.co/0hffsm",
     "date_iso": "2025-12-02T07:45:21+00:00"
-  },
-  {
-    "id": "msg19213",
-    "title": "Up to 73% Off On Lifebuoy Bodywash",
-    "description": "Myntra | Upto 73% Off On Lifebuoy Bodywash https://myntr.in/ThKdCd",
-    "shortlink": "https://myntr.in/ThKdCd",
-    "urls": [
-      {
-        "url": "https://myntr.in/ThKdCd",
-        "label": "Upto 73% Off On Lifebuoy Bodywash"
-      }
-    ],
-    "raw_text": "Myntra | Upto 73% Off On Lifebuoy Bodywash\n\nhttps://myntr.in/ThKdCd",
-    "final_url": "https://myntr.in/ThKdCd",
-    "local_image": "assets/images/tgmsg_19213.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-02T07:15:50+00:00",
-    "buy_link": "https://myntr.in/ThKdCd",
-    "date_iso": "2025-12-02T07:15:50+00:00"
   }
 ]
