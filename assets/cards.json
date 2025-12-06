@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg19975",
+    "title": "Up to 75% Off",
+    "description": "Flipkart | Upto 75% Off - Wrangler Men's Jeans Starting Rs.813 🔗 https://fkrt.co/zbGTYT",
+    "shortlink": "https://fkrt.co/zbGTYT",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off - Wrangler Men's Jeans"
+      },
+      {
+        "url": "https://fkrt.co/zbGTYT",
+        "label": "Starting Rs.813"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 75% Off - Wrangler Men's Jeans\n\nStarting Rs.813\n\n🔗 https://fkrt.co/zbGTYT",
+    "final_url": "https://fkrt.co/zbGTYT",
+    "local_image": "assets/images/tgmsg_19975.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-06T11:10:15+00:00",
+    "buy_link": "https://fkrt.co/zbGTYT",
+    "date_iso": "2025-12-06T11:10:15+00:00"
+  },
+  {
+    "id": "msg19976",
+    "title": "Deal Price ₹1499",
+    "description": "Amazon | AGARO Marvel 9L OTG Oven 800W, Compact Toaster Griller for B... Deal Price: ₹1499 🔗",
+    "shortlink": "https://www.amazon.in/dp/B07N2MGB3G?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "AGARO Marvel 9L OTG Oven 800W, Compact Toaster Griller for B"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B07N2MGB3G?psc=1&tag=bestpricezo0f-21",
+        "label": "₹1499"
+      }
+    ],
+    "raw_text": "Amazon | AGARO Marvel 9L OTG Oven 800W, Compact Toaster Griller for B...\n\nDeal Price: ₹1499 \n\n🔗https://www.amazon.in/dp/B07N2MGB3G?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B07N2MGB3G?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_19976.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-06T11:22:28+00:00",
+    "buy_link": "https://www.amazon.in/dp/B07N2MGB3G?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-06T11:22:28+00:00"
+  },
+  {
     "id": "msg19972",
     "title": "Min 60% on Mini West womens handbag",
     "description": "Myntra | Special EORS Price !! s 🔗 Special EORS Price !! Min 70% on Haute sauce womens handbags 🔗 Special EORS Price !! Min 50% on Styli womens handbags 🔗",
@@ -9822,49 +9870,5 @@
     "date_obj": "2025-12-03T19:59:48+00:00",
     "buy_link": "https://myntr.in/5Q3Djf",
     "date_iso": "2025-12-03T19:59:48+00:00"
-  },
-  {
-    "id": "msg19502",
-    "title": "45% OFF",
-    "description": "Amazon's amazing deal. Horlicks Nutrition Drink - 45% OFF https://www.amazon.in/dp/B0168M7434?psc=1&th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0168M7434?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Amazon's amazing deal"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0168M7434?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "45% OFF"
-      }
-    ],
-    "raw_text": "Amazon's amazing deal.\n\nHorlicks Nutrition Drink - 45% OFF \n\nhttps://www.amazon.in/dp/B0168M7434?psc=1&th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0168M7434?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_19502.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-03T19:41:24+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0168M7434?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-03T19:41:24+00:00"
-  },
-  {
-    "id": "msg19503",
-    "title": "75% off on Bata Footwear Start",
-    "description": "Myntra | 75% off on Bata Footwear Start https://myntr.in/yL2aBi",
-    "shortlink": "https://myntr.in/yL2aBi",
-    "urls": [
-      {
-        "url": "https://myntr.in/yL2aBi",
-        "label": "75% off on Bata Footwear Start"
-      }
-    ],
-    "raw_text": "Myntra | 75% off on Bata Footwear Start \n\nhttps://myntr.in/yL2aBi",
-    "final_url": "https://myntr.in/yL2aBi",
-    "local_image": "assets/images/tgmsg_19503.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-03T19:44:53+00:00",
-    "buy_link": "https://myntr.in/yL2aBi",
-    "date_iso": "2025-12-03T19:44:53+00:00"
   }
 ]
