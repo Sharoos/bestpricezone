@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg19939",
+    "title": "Flat 65% Off On Park Avenue Soap",
+    "description": "Myntra : Flat 65% Off On Park Avenue Soaps. https://myntr.in/yA2czk",
+    "shortlink": "https://myntr.in/yA2czk",
+    "urls": [
+      {
+        "url": "https://myntr.in/yA2czk",
+        "label": "Flat 65% Off On Park Avenue Soaps"
+      }
+    ],
+    "raw_text": "Myntra : Flat 65% Off On Park Avenue Soaps.\n\nhttps://myntr.in/yA2czk",
+    "final_url": "https://myntr.in/yA2czk",
+    "local_image": "assets/images/tgmsg_19939.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-06T03:45:43+00:00",
+    "buy_link": "https://myntr.in/yA2czk",
+    "date_iso": "2025-12-06T03:45:43+00:00"
+  },
+  {
+    "id": "msg19940",
+    "title": "300 TC King Cloud Cotton Bedsheets At 779",
+    "description": "300 TC King Cloud Cotton Bedsheets At 779 https://myntr.in/G1RslR",
+    "shortlink": "https://myntr.in/G1RslR",
+    "urls": [
+      {
+        "url": "https://myntr.in/G1RslR",
+        "label": "300 TC King Cloud Cotton Bedsheets At 779"
+      }
+    ],
+    "raw_text": "300 TC King Cloud Cotton Bedsheets At 779\n\nhttps://myntr.in/G1RslR",
+    "final_url": "https://myntr.in/G1RslR",
+    "local_image": "assets/images/tgmsg_19940.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-06T03:57:56+00:00",
+    "buy_link": "https://myntr.in/G1RslR",
+    "date_iso": "2025-12-06T03:57:56+00:00"
+  },
+  {
     "id": "msg19938",
     "title": "Up to 80% Off On NETPLAY Clothing",
     "description": "AJIO : Upto 80% Off On NETPLAY Clothing. Polo : Shirts : Trousers : Sweaters : Sweatshirt : Jackets : Innerwears : Must Check & Surf All Pages (Filter All Link As Per Your Need) & Fast",
@@ -9478,65 +9518,5 @@
     "date_obj": "2025-12-03T19:18:39+00:00",
     "buy_link": "https://fkrt.co/3dvIyO",
     "date_iso": "2025-12-03T19:18:39+00:00"
-  },
-  {
-    "id": "msg19465",
-    "title": "Up to 70% Off On Raymond, Park Avenue & Parx Clothing",
-    "description": "Ajio Upto 70% Off On Raymond, Park Avenue & Parx Clothing. Shirt : Trousers : T-shirt : Jeans : Womens :",
-    "shortlink": "https://ajiio.co/mtG06J",
-    "urls": [
-      {
-        "url": "",
-        "label": "Ajio Upto 70% Off On Raymond, Park Avenue & Parx Clothing"
-      },
-      {
-        "url": "https://ajiio.co/mtG06J",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://ajiio.co/H7rWSo",
-        "label": "Trousers"
-      },
-      {
-        "url": "https://ajiio.co/7n7VoK",
-        "label": "T-shirt"
-      },
-      {
-        "url": "https://ajiio.co/4YXGKD",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/0mPygr",
-        "label": "Womens"
-      }
-    ],
-    "raw_text": "Ajio  Upto 70% Off On Raymond, Park Avenue & Parx Clothing.\n\nShirt :  https://ajiio.co/mtG06J\nTrousers :  https://ajiio.co/H7rWSo\nT-shirt :  https://ajiio.co/7n7VoK\nJeans :  https://ajiio.co/4YXGKD\n\nWomens :  https://ajiio.co/0mPygr",
-    "final_url": "https://ajiio.co/mtG06J",
-    "local_image": "assets/images/tgmsg_19465.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-03T19:19:24+00:00",
-    "buy_link": "https://ajiio.co/mtG06J",
-    "date_iso": "2025-12-03T19:19:24+00:00"
-  },
-  {
-    "id": "msg19466",
-    "title": "Asian Shoes ₹396",
-    "description": "Flipkart | Asian Shoes  ₹396 👉Link :  https://fkrt.co/m8QRPZ",
-    "shortlink": "https://fkrt.co/m8QRPZ",
-    "urls": [
-      {
-        "url": "https://fkrt.co/m8QRPZ",
-        "label": "Asian Shoes ₹396"
-      }
-    ],
-    "raw_text": "Flipkart | Asian Shoes  ₹396\n\n👉Link :  https://fkrt.co/m8QRPZ",
-    "final_url": "https://fkrt.co/m8QRPZ",
-    "local_image": "assets/images/tgmsg_19466.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-03T19:20:00+00:00",
-    "buy_link": "https://fkrt.co/m8QRPZ",
-    "date_iso": "2025-12-03T19:20:00+00:00"
   }
 ]
