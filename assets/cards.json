@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg20028",
+    "title": "Electronics Up to 50% Off",
+    "description": "Flipkart: Electronics Upto 50% Off 📌Link: Trimmer Start @299 Power Bank Start @299 Data Cable Start @99 Computer Accessories Start @49 Speaker Start 299",
+    "shortlink": "https://fktr.in/MpE2K8g",
+    "urls": [
+      {
+        "url": "https://fktr.in/MpE2K8g",
+        "label": "Electronics Upto 50% Off"
+      },
+      {
+        "url": "https://fktr.in/l1xjnv7",
+        "label": "Trimmer Start @299"
+      },
+      {
+        "url": "https://fktr.in/96Z02EV",
+        "label": "Power Bank Start @299"
+      },
+      {
+        "url": "https://fktr.in/XIJ9rA9",
+        "label": "Data Cable Start @99"
+      },
+      {
+        "url": "https://fktr.in/chdtDos",
+        "label": "Computer Accessories Start @49"
+      },
+      {
+        "url": "https://fktr.in/FW6dzIg",
+        "label": "Speaker Start 299"
+      }
+    ],
+    "raw_text": "Flipkart: Electronics Upto 50% Off\n\n📌Link: https://fktr.in/MpE2K8g\n\nTrimmer Start @299\nhttps://fktr.in/l1xjnv7\n\nPower Bank Start @299\nhttps://fktr.in/96Z02EV\n\nData Cable Start @99\nhttps://fktr.in/XIJ9rA9\n\nComputer Accessories Start @49\nhttps://fktr.in/chdtDos\n\nSpeaker Start 299\nhttps://fktr.in/FW6dzIg",
+    "final_url": "https://fktr.in/MpE2K8g",
+    "local_image": "assets/images/tgmsg_20028.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-06T17:58:27+00:00",
+    "buy_link": "https://fktr.in/MpE2K8g",
+    "date_iso": "2025-12-06T17:58:27+00:00"
+  },
+  {
     "id": "msg20026",
     "title": "John Jacobs Min 60% Off🔥",
     "description": "Myntra | ⏰ Limited Time Deal ⏰ John Jacobs Min 60% Off🔥 👉 https://myntr.in/ENfiGu Vincent Chase Under 799 🔥 👉 https://myntr.in/v7xHzx",
@@ -9966,25 +10006,5 @@
     "date_obj": "2025-12-04T05:03:52+00:00",
     "buy_link": "https://ajiio.co/H6elVN",
     "date_iso": "2025-12-04T05:03:52+00:00"
-  },
-  {
-    "id": "msg19548",
-    "title": "Story@Home Comforter/Blankets Starts @389",
-    "description": "Myntra | Story@Home Comforter/Blankets Starts @389. https://myntr.in/dkwAll",
-    "shortlink": "https://myntr.in/dkwAll",
-    "urls": [
-      {
-        "url": "https://myntr.in/dkwAll",
-        "label": "Story@Home Comforter/Blankets Starts @389"
-      }
-    ],
-    "raw_text": "Myntra | Story@Home Comforter/Blankets Starts @389.\n\nhttps://myntr.in/dkwAll",
-    "final_url": "https://myntr.in/dkwAll",
-    "local_image": "assets/images/tgmsg_19548.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-04T04:47:06+00:00",
-    "buy_link": "https://myntr.in/dkwAll",
-    "date_iso": "2025-12-04T04:47:06+00:00"
   }
 ]
