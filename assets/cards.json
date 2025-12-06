@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg19977",
+    "title": "Up to 62% Off On Top Branded Watches + Extra 20% Off",
+    "description": "Myntra Upto 62% Off On Top Branded Watches + Extra 20% Off. Apply Code : ACCEXTRA20 Fastrack : Sonata : Calvin Klein : Hugo BOSS : MVMT : Olivia :",
+    "shortlink": "https://myntr.in/sxIW3y",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Upto 62% Off On Top Branded Watches + Extra 20% Off"
+      },
+      {
+        "url": "",
+        "label": "ACCEXTRA20"
+      },
+      {
+        "url": "https://myntr.in/sxIW3y",
+        "label": "Fastrack"
+      },
+      {
+        "url": "https://myntr.in/hTzOC3",
+        "label": "Sonata"
+      },
+      {
+        "url": "https://myntr.in/g6MiGC",
+        "label": "Calvin Klein"
+      },
+      {
+        "url": "https://myntr.in/mAcP4J",
+        "label": "Hugo BOSS"
+      },
+      {
+        "url": "https://myntr.in/f7YGvD",
+        "label": "MVMT"
+      },
+      {
+        "url": "https://myntr.in/APMLW4",
+        "label": "Olivia"
+      }
+    ],
+    "raw_text": "Myntra  Upto 62% Off On Top Branded Watches + Extra 20% Off.\n\nApply Code : ACCEXTRA20\n\nFastrack : https://myntr.in/sxIW3y\nSonata : https://myntr.in/hTzOC3\nCalvin Klein : https://myntr.in/g6MiGC\nHugo BOSS : https://myntr.in/mAcP4J\nMVMT : https://myntr.in/f7YGvD\nOlivia : https://myntr.in/APMLW4",
+    "final_url": "https://myntr.in/sxIW3y",
+    "local_image": "assets/images/tgmsg_19977.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-06T11:34:06+00:00",
+    "buy_link": "https://myntr.in/sxIW3y",
+    "date_iso": "2025-12-06T11:34:06+00:00"
+  },
+  {
     "id": "msg19975",
     "title": "Up to 75% Off",
     "description": "Flipkart | Upto 75% Off - Wrangler Men's Jeans Starting Rs.813 🔗 https://fkrt.co/zbGTYT",
@@ -9850,25 +9898,5 @@
     "date_obj": "2025-12-03T19:57:42+00:00",
     "buy_link": "https://myntr.in/B7ZJZL",
     "date_iso": "2025-12-03T19:57:42+00:00"
-  },
-  {
-    "id": "msg19513",
-    "title": "Min 65% off on Kazo Women's handbag",
-    "description": "Myntra | Min 65% off on Kazo Women's handbags Link : https://myntr.in/5Q3Djf",
-    "shortlink": "https://myntr.in/5Q3Djf",
-    "urls": [
-      {
-        "url": "https://myntr.in/5Q3Djf",
-        "label": "Min 65% off on Kazo Women's handbags"
-      }
-    ],
-    "raw_text": "Myntra | Min 65% off on Kazo Women's handbags\n\nLink : https://myntr.in/5Q3Djf",
-    "final_url": "https://myntr.in/5Q3Djf",
-    "local_image": "assets/images/tgmsg_19513.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-03T19:59:48+00:00",
-    "buy_link": "https://myntr.in/5Q3Djf",
-    "date_iso": "2025-12-03T19:59:48+00:00"
   }
 ]
