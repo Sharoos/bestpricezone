@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19949",
+    "title": "💥Men's Shirt Starts @169",
+    "description": "💥Ajio | Men's Shirt Starts @169 https://ajiio.co/nLsAkN",
+    "shortlink": "https://ajiio.co/nLsAkN",
+    "urls": [
+      {
+        "url": "https://ajiio.co/nLsAkN",
+        "label": "💥Ajio | Men's Shirt Starts @169"
+      }
+    ],
+    "raw_text": "💥Ajio | Men's Shirt Starts @169\n\nhttps://ajiio.co/nLsAkN",
+    "final_url": "https://ajiio.co/nLsAkN",
+    "local_image": "assets/images/tgmsg_19949.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-06T05:40:50+00:00",
+    "buy_link": "https://ajiio.co/nLsAkN",
+    "date_iso": "2025-12-06T05:40:50+00:00"
+  },
+  {
     "id": "msg19946",
     "title": "Up to 80% Off On Branded Backpack",
     "description": "Flipkart | Upto 80% Off On Branded Backpacks. Skybags : Safari : Wildcraft : Gear : Lavie : American Tourister :",
@@ -9566,53 +9586,5 @@
     "date_obj": "2025-12-03T19:02:54+00:00",
     "buy_link": "https://ajiio.in/9ZoPFya",
     "date_iso": "2025-12-03T19:02:54+00:00"
-  },
-  {
-    "id": "msg19445",
-    "title": "💳 Extra Bank/Prepaid Discount Up to ₹1250 OFF",
-    "description": "⌚️ NEVER BEFORE WATCH DEALS! ⌚️ Guess • Titan • Fossil & more premium brands! 💥 Up to 50% OFF ➕ Extra 10% OFF with coupon PREMIUMPERKS (Flat 10% off up to ₹10,000) 💳 Extra Bank/Prepaid Discount: Up to ₹1250 OFF 🔥…",
-    "shortlink": "https://ajiio.co/hUTI4i",
-    "urls": [
-      {
-        "url": "",
-        "label": "⌚️ NEVER BEFORE WATCH DEALS! ⌚️"
-      },
-      {
-        "url": "",
-        "label": "Guess • Titan • Fossil & more premium brands!"
-      },
-      {
-        "url": "",
-        "label": "💥 Up to 50% OFF"
-      },
-      {
-        "url": "",
-        "label": "(Flat 10% off up to ₹10,000)"
-      },
-      {
-        "url": "",
-        "label": "💳 Extra Bank/Prepaid Discount: Up to ₹1250 OFF"
-      },
-      {
-        "url": "",
-        "label": "🔥 Limited Time • Elite Brands • Steal Prices"
-      },
-      {
-        "url": "",
-        "label": "✨ It’s the best time to upgrade your wrist game!"
-      },
-      {
-        "url": "https://ajiio.co/hUTI4i",
-        "label": "🛒 Shop Now"
-      }
-    ],
-    "raw_text": "⌚️ NEVER BEFORE WATCH DEALS! ⌚️\nGuess • Titan • Fossil & more premium brands!\n\n💥 Up to 50% OFF\n➕ Extra 10% OFF with coupon PREMIUMPERKS\n(Flat 10% off up to ₹10,000)\n\n💳 Extra Bank/Prepaid Discount: Up to ₹1250 OFF\n🔥 Limited Time • Elite Brands • Steal Prices\n\n✨ It’s the best time to upgrade your wrist game!\n\n🛒 Shop Now : https://ajiio.co/hUTI4i",
-    "final_url": "https://ajiio.co/hUTI4i",
-    "local_image": "assets/images/tgmsg_19445.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-03T19:08:03+00:00",
-    "buy_link": "https://ajiio.co/hUTI4i",
-    "date_iso": "2025-12-03T19:08:03+00:00"
   }
 ]
