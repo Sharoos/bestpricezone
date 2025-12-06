@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg20002",
+    "title": "Up to 82% Off On HRX Footwea",
+    "description": "Myntra : Upto 82% Off On HRX Footwear. Men's : https://myntr.in/ABvTCN Women's : https://myntr.in/eRsE50 Shoes : https://myntr.in/Q3XxHD",
+    "shortlink": "https://myntr.in/ABvTCN",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 82% Off On HRX Footwear"
+      },
+      {
+        "url": "https://myntr.in/ABvTCN",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/eRsE50",
+        "label": "Women's"
+      },
+      {
+        "url": "https://myntr.in/Q3XxHD",
+        "label": "Shoes"
+      }
+    ],
+    "raw_text": "Myntra : Upto 82% Off On HRX Footwear.\n\nMen's : https://myntr.in/ABvTCN\nWomen's : https://myntr.in/eRsE50\nShoes : https://myntr.in/Q3XxHD",
+    "final_url": "https://myntr.in/ABvTCN",
+    "local_image": "assets/images/tgmsg_20002.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-06T15:11:31+00:00",
+    "buy_link": "https://myntr.in/ABvTCN",
+    "date_iso": "2025-12-06T15:11:31+00:00"
+  },
+  {
+    "id": "msg20004",
+    "title": "Jack & Jones Min 50% Off",
+    "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/9PFOei",
+    "urls": [
+      {
+        "url": "https://ajiio.co/9PFOei",
+        "label": "🔥AJIO | Jeans & Shorts Under ₹499"
+      },
+      {
+        "url": "https://ajiio.co/gb99Zl",
+        "label": "Performax Under ₹699"
+      },
+      {
+        "url": "https://ajiio.co/5FMUEE",
+        "label": "Jack & Jones Min 50% Off"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "🔥AJIO | Jeans & Shorts Under ₹499\n👉https://ajiio.co/9PFOei\n\nPerformax Under ₹699\n👉https://ajiio.co/gb99Zl\n\nJack & Jones Min 50% Off\n👉https://ajiio.co/5FMUEE\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/9PFOei",
+    "local_image": "assets/images/tgmsg_20004.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-06T15:26:40+00:00",
+    "buy_link": "https://ajiio.co/9PFOei",
+    "date_iso": "2025-12-06T15:26:40+00:00"
+  },
+  {
     "id": "msg20001",
     "title": "Wow Ubtan Body Wash, 275ml at 159",
     "description": "Flipkart | Wow Ubtan Body Wash, 275ml at 159. https://fkrt.co/ElixMj",
@@ -9926,49 +9990,5 @@
     "date_obj": "2025-12-03T20:38:32+00:00",
     "buy_link": "https://myntr.in/HdUDcd",
     "date_iso": "2025-12-03T20:38:32+00:00"
-  },
-  {
-    "id": "msg19528",
-    "title": "Trolley bags sets of three only at 3187/",
-    "description": "Myntra | Trolley bags sets of three only at 3187/- Grab it before it goes off Link : https://myntr.in/gcKI4S",
-    "shortlink": "https://myntr.in/gcKI4S",
-    "urls": [
-      {
-        "url": "",
-        "label": "Trolley bags sets of three only at 3187/"
-      },
-      {
-        "url": "https://myntr.in/gcKI4S",
-        "label": "Grab it before it goes off"
-      }
-    ],
-    "raw_text": "Myntra | Trolley bags sets of three only at 3187/-\nGrab it before it goes off\n\nLink : https://myntr.in/gcKI4S",
-    "final_url": "https://myntr.in/gcKI4S",
-    "local_image": "assets/images/tgmsg_19528.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-03T20:39:53+00:00",
-    "buy_link": "https://myntr.in/gcKI4S",
-    "date_iso": "2025-12-03T20:39:53+00:00"
-  },
-  {
-    "id": "msg19529",
-    "title": "Lavie Signature at Flat. 60% Off",
-    "description": "Myntra  Lavie Signature at Flat. 60% Off Link : https://myntr.in/RSltUE",
-    "shortlink": "https://myntr.in/RSltUE",
-    "urls": [
-      {
-        "url": "https://myntr.in/RSltUE",
-        "label": "Myntra Lavie Signature at Flat. 60% Off"
-      }
-    ],
-    "raw_text": "Myntra  Lavie Signature at Flat. 60% Off\n\nLink : https://myntr.in/RSltUE",
-    "final_url": "https://myntr.in/RSltUE",
-    "local_image": "assets/images/tgmsg_19529.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-03T20:41:05+00:00",
-    "buy_link": "https://myntr.in/RSltUE",
-    "date_iso": "2025-12-03T20:41:05+00:00"
   }
 ]
