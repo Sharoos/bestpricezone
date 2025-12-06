@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19993",
+    "title": "Jewellery under ₹199 — Dressberry, Anouk, Sangria",
+    "description": "Myntra | Jewellery under ₹199 — Dressberry, Anouk, Sangria 👉 https://myntr.in/gFTsvQ",
+    "shortlink": "https://myntr.in/gFTsvQ",
+    "urls": [
+      {
+        "url": "https://myntr.in/gFTsvQ",
+        "label": "Jewellery under ₹199 — Dressberry, Anouk, Sangria"
+      }
+    ],
+    "raw_text": "Myntra | Jewellery under ₹199 — Dressberry, Anouk, Sangria\n\n👉 https://myntr.in/gFTsvQ",
+    "final_url": "https://myntr.in/gFTsvQ",
+    "local_image": "assets/images/tgmsg_19993.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-06T13:26:22+00:00",
+    "buy_link": "https://myntr.in/gFTsvQ",
+    "date_iso": "2025-12-06T13:26:22+00:00"
+  },
+  {
     "id": "msg19990",
     "title": "33% Off Crompton Arno Neo 25",
     "description": "33% Off : Crompton Arno Neo 25-L 5 Star Rated Storage Water Heater @ 6349 https://www.amazon.in/dp/B08GSQNR61?tag=bestpricezo0f-21",
@@ -9954,33 +9974,5 @@
     "date_obj": "2025-12-03T20:19:17+00:00",
     "buy_link": "https://ajiio.co/FY9kdE",
     "date_iso": "2025-12-03T20:19:17+00:00"
-  },
-  {
-    "id": "msg19518",
-    "title": "🛍 + Extra 10% Super Cash! 🎉",
-    "description": "Ajio | Gap & Gap kids Flat 60% Gas & Gant Flat 50 🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "shortlink": "https://ajiio.co/5vhcTM",
-    "urls": [
-      {
-        "url": "https://ajiio.co/5vhcTM",
-        "label": "Gap & Gap kids Flat 60%"
-      },
-      {
-        "url": "https://ajiio.co/KIvp9D",
-        "label": "Gas & Gant Flat 50"
-      },
-      {
-        "url": "",
-        "label": "🛍 + Extra 10% AJIO Super Cash! 🎉"
-      }
-    ],
-    "raw_text": "Ajio | Gap & Gap kids Flat 60%\nhttps://ajiio.co/5vhcTM\n\nGas & Gant Flat 50\nhttps://ajiio.co/KIvp9D\n\n🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "final_url": "https://ajiio.co/5vhcTM",
-    "local_image": "assets/images/tgmsg_19518.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-03T20:20:02+00:00",
-    "buy_link": "https://ajiio.co/5vhcTM",
-    "date_iso": "2025-12-03T20:20:02+00:00"
   }
 ]
