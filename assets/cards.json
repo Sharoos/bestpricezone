@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg20001",
+    "title": "Wow Ubtan Body Wash, 275ml at 159",
+    "description": "Flipkart | Wow Ubtan Body Wash, 275ml at 159. https://fkrt.co/ElixMj",
+    "shortlink": "https://fkrt.co/ElixMj",
+    "urls": [
+      {
+        "url": "https://fkrt.co/ElixMj",
+        "label": "Wow Ubtan Body Wash, 275ml at 159"
+      }
+    ],
+    "raw_text": "Flipkart | Wow Ubtan Body Wash, 275ml at 159.\n\n https://fkrt.co/ElixMj",
+    "final_url": "https://fkrt.co/ElixMj",
+    "local_image": "assets/images/tgmsg_20001.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-06T14:57:02+00:00",
+    "buy_link": "https://fkrt.co/ElixMj",
+    "date_iso": "2025-12-06T14:57:02+00:00"
+  },
+  {
     "id": "msg20000",
     "title": "🔥 Kitchen Essentials Deal",
     "description": "Myntra | s 1️⃣ Havells Mojo 3-Jar Mixer Grinder — ₹1947 only! 🔗 2️⃣ Pigeon HA 2.5L Induction-Based Cooker — ₹849 only! 🔗",
@@ -9950,25 +9970,5 @@
     "date_obj": "2025-12-03T20:41:05+00:00",
     "buy_link": "https://myntr.in/RSltUE",
     "date_iso": "2025-12-03T20:41:05+00:00"
-  },
-  {
-    "id": "msg19530",
-    "title": "Bajaj Ninja series 500W Mixer grinder at 1899 + Extra discounts! 🔥",
-    "description": "Myntra : Bajaj Ninja series 500W Mixer grinder at 1899 + Extra coupon discounts! 🔥",
-    "shortlink": "https://myntr.in/NJZoYY",
-    "urls": [
-      {
-        "url": "https://myntr.in/NJZoYY",
-        "label": ""
-      }
-    ],
-    "raw_text": "Myntra : Bajaj Ninja series 500W Mixer grinder at 1899 + Extra coupon discounts! 🔥\n\nhttps://myntr.in/NJZoYY",
-    "final_url": "https://myntr.in/NJZoYY",
-    "local_image": "assets/images/tgmsg_19530.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-03T20:42:18+00:00",
-    "buy_link": "https://myntr.in/NJZoYY",
-    "date_iso": "2025-12-03T20:42:18+00:00"
   }
 ]
