@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg19960",
+    "title": "Deal Price ₹112",
+    "description": "Amazon | Himalaya Herbals Under Eye Cream, 15ml Deal Price: ₹112 👉 https://www.amazon.in/dp/B0041J4E9Y?psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0041J4E9Y?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Himalaya Herbals Under Eye Cream, 15ml"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0041J4E9Y?psc=1&tag=bestpricezo0f-21",
+        "label": "₹112"
+      }
+    ],
+    "raw_text": "Amazon | Himalaya Herbals Under Eye Cream, 15ml\n\nDeal Price: ₹112 \n\n👉 https://www.amazon.in/dp/B0041J4E9Y?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0041J4E9Y?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_19960.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-06T08:40:22+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0041J4E9Y?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-06T08:40:22+00:00"
+  },
+  {
     "id": "msg19956",
     "title": "Flat 60% off Mango, Parfoi",
     "description": "Myntra | Flat 60% off : Mango, Parfois 🔗https://myntr.in/FLgvz7",
@@ -9614,29 +9638,5 @@
     "date_obj": "2025-12-03T19:32:11+00:00",
     "buy_link": "https://fkrt.co/xPU3St",
     "date_iso": "2025-12-03T19:32:11+00:00"
-  },
-  {
-    "id": "msg19491",
-    "title": "Fast Myfitness Chocolate Peanut Butter 2.5KG @ 648/",
-    "description": "Amazon  Fast : Myfitness Chocolate Peanut Butter 2.5KG @ 648/- https://www.amazon.in/dp/B08SC35JYD?tag=bestpricezo0f-21 Regular: 1K+",
-    "shortlink": "https://www.amazon.in/dp/B08SC35JYD?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B08SC35JYD?tag=bestpricezo0f-21",
-        "label": "Myfitness Chocolate Peanut Butter 2.5KG @ 648/"
-      },
-      {
-        "url": "",
-        "label": "1K+"
-      }
-    ],
-    "raw_text": "Amazon  Fast : Myfitness Chocolate Peanut Butter 2.5KG @ 648/-\n\nhttps://www.amazon.in/dp/B08SC35JYD?tag=bestpricezo0f-21\n\nRegular: 1K+",
-    "final_url": "https://www.amazon.in/dp/B08SC35JYD?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_19491.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-03T19:33:33+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08SC35JYD?tag=bestpricezo0f-21",
-    "date_iso": "2025-12-03T19:33:33+00:00"
   }
 ]
