@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg20005",
+    "title": "Goboult smartwatches at flat 10% off 🔥",
+    "description": "Myntra | buy Goboult smartwatches at flat 10% off 🔥 🔗 https://myntr.in/LlY1vt",
+    "shortlink": "https://myntr.in/LlY1vt",
+    "urls": [
+      {
+        "url": "https://myntr.in/LlY1vt",
+        "label": ""
+      }
+    ],
+    "raw_text": "Myntra | buy Goboult smartwatches at flat 10% off 🔥\n\n🔗 https://myntr.in/LlY1vt",
+    "final_url": "https://myntr.in/LlY1vt",
+    "local_image": "assets/images/tgmsg_20005.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-06T15:41:57+00:00",
+    "buy_link": "https://myntr.in/LlY1vt",
+    "date_iso": "2025-12-06T15:41:57+00:00"
+  },
+  {
+    "id": "msg20006",
+    "title": "Detergent Powder 10kg At 266",
+    "description": "Detergent Powder 10kg At 266. https://fkrt.co/5IXgR5",
+    "shortlink": "https://fkrt.co/5IXgR5",
+    "urls": [
+      {
+        "url": "https://fkrt.co/5IXgR5",
+        "label": "Detergent Powder 10kg At 266"
+      }
+    ],
+    "raw_text": "Detergent Powder 10kg At 266.\n\nhttps://fkrt.co/5IXgR5",
+    "final_url": "https://fkrt.co/5IXgR5",
+    "local_image": "assets/images/tgmsg_20006.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-06T15:42:08+00:00",
+    "buy_link": "https://fkrt.co/5IXgR5",
+    "date_iso": "2025-12-06T15:42:08+00:00"
+  },
+  {
     "id": "msg20002",
     "title": "Up to 82% Off On HRX Footwea",
     "description": "Myntra : Upto 82% Off On HRX Footwear. Men's : https://myntr.in/ABvTCN Women's : https://myntr.in/eRsE50 Shoes : https://myntr.in/Q3XxHD",
@@ -9950,45 +9990,5 @@
     "date_obj": "2025-12-03T20:34:53+00:00",
     "buy_link": "https://myntr.in/iKYvQH",
     "date_iso": "2025-12-03T20:34:53+00:00"
-  },
-  {
-    "id": "msg19526",
-    "title": "Havells stealth BLDC fan at 6405 + Extra discounts!!",
-    "description": "Myntra | Havells stealth BLDC fan at 6405 + Extra coupon discounts!! https://myntr.in/d5Dxo6",
-    "shortlink": "https://myntr.in/d5Dxo6",
-    "urls": [
-      {
-        "url": "https://myntr.in/d5Dxo6",
-        "label": ""
-      }
-    ],
-    "raw_text": "Myntra | Havells stealth BLDC fan at 6405 + Extra coupon discounts!!\n\nhttps://myntr.in/d5Dxo6",
-    "final_url": "https://myntr.in/d5Dxo6",
-    "local_image": "assets/images/tgmsg_19526.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-03T20:37:11+00:00",
-    "buy_link": "https://myntr.in/d5Dxo6",
-    "date_iso": "2025-12-03T20:37:11+00:00"
-  },
-  {
-    "id": "msg19527",
-    "title": "Havells Instanio 10L Water heater at 5828 + extra discounts!",
-    "description": "Myntra | Havells Instanio 10L Water heater at 5828 + extra coupon discounts! https://myntr.in/HdUDcd",
-    "shortlink": "https://myntr.in/HdUDcd",
-    "urls": [
-      {
-        "url": "https://myntr.in/HdUDcd",
-        "label": ""
-      }
-    ],
-    "raw_text": "Myntra | Havells Instanio 10L Water heater at 5828 + extra coupon discounts! \n\nhttps://myntr.in/HdUDcd",
-    "final_url": "https://myntr.in/HdUDcd",
-    "local_image": "assets/images/tgmsg_19527.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-03T20:38:32+00:00",
-    "buy_link": "https://myntr.in/HdUDcd",
-    "date_iso": "2025-12-03T20:38:32+00:00"
   }
 ]
