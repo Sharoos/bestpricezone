@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg19978",
+    "title": "🔥Fast GNC Magnesium 120 Tabs @ 497/",
+    "description": "Amazon 🔥Fast Grab: GNC Magnesium 120 Tabs @ 497/- 🔗 ✔️Apply ₹100 Coupon Regular: 1199❌",
+    "shortlink": "https://www.amazon.in/dp/B0BHL8KMPK?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0BHL8KMPK?tag=bestpricezo0f-21",
+        "label": "Amazon 🔥Fast Grab: GNC Magnesium 120 Tabs @ 497/"
+      },
+      {
+        "url": "",
+        "label": "1199❌"
+      }
+    ],
+    "raw_text": "Amazon 🔥Fast Grab: GNC Magnesium 120 Tabs @ 497/-\n\n🔗https://www.amazon.in/dp/B0BHL8KMPK?tag=bestpricezo0f-21\n\n✔️Apply ₹100 Coupon\n\nRegular: 1199❌",
+    "final_url": "https://www.amazon.in/dp/B0BHL8KMPK?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_19978.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-06T11:40:20+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0BHL8KMPK?tag=bestpricezo0f-21",
+    "date_iso": "2025-12-06T11:40:20+00:00"
+  },
+  {
     "id": "msg19977",
     "title": "Up to 62% Off On Top Branded Watches + Extra 20% Off",
     "description": "Myntra Upto 62% Off On Top Branded Watches + Extra 20% Off. Apply Code : ACCEXTRA20 Fastrack : Sonata : Calvin Klein : Hugo BOSS : MVMT : Olivia :",
@@ -9858,45 +9882,5 @@
     "date_obj": "2025-12-03T19:54:50+00:00",
     "buy_link": "https://myntr.in/gqai9C",
     "date_iso": "2025-12-03T19:54:50+00:00"
-  },
-  {
-    "id": "msg19512",
-    "title": "Up to 80% Branded Grooming Product",
-    "description": "Myntra : Upto 80% Branded Grooming Products. HE : Denver : Playboy : Police : Brut : Axe :",
-    "shortlink": "https://myntr.in/B7ZJZL",
-    "urls": [
-      {
-        "url": "https://myntr.in/B7ZJZL",
-        "label": "Upto 80% Branded Grooming Products"
-      },
-      {
-        "url": "https://myntr.in/mS899U",
-        "label": "Denver"
-      },
-      {
-        "url": "https://myntr.in/I1K1Ih",
-        "label": "Playboy"
-      },
-      {
-        "url": "https://myntr.in/L19fSS",
-        "label": "Police"
-      },
-      {
-        "url": "https://myntr.in/UyAJ67",
-        "label": "Brut"
-      },
-      {
-        "url": "https://myntr.in/ztUlgt",
-        "label": "Axe"
-      }
-    ],
-    "raw_text": "Myntra : Upto 80% Branded Grooming Products.\n\nHE : https://myntr.in/B7ZJZL\nDenver : https://myntr.in/mS899U\nPlayboy : https://myntr.in/I1K1Ih\nPolice : https://myntr.in/L19fSS\nBrut : https://myntr.in/UyAJ67\nAxe : https://myntr.in/ztUlgt",
-    "final_url": "https://myntr.in/B7ZJZL",
-    "local_image": "assets/images/tgmsg_19512.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-03T19:57:42+00:00",
-    "buy_link": "https://myntr.in/B7ZJZL",
-    "date_iso": "2025-12-03T19:57:42+00:00"
   }
 ]
