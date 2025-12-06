@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg19946",
+    "title": "Up to 80% Off On Branded Backpack",
+    "description": "Flipkart | Upto 80% Off On Branded Backpacks. Skybags : Safari : Wildcraft : Gear : Lavie : American Tourister :",
+    "shortlink": "https://fkrt.co/Cga4qD",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On Branded Backpacks"
+      },
+      {
+        "url": "https://fkrt.co/Cga4qD",
+        "label": "Skybags"
+      },
+      {
+        "url": "https://fkrt.co/OokOqy",
+        "label": "Safari"
+      },
+      {
+        "url": "https://fkrt.co/ncXHTx",
+        "label": "Wildcraft"
+      },
+      {
+        "url": "https://fkrt.co/O5YRh6",
+        "label": "Gear"
+      },
+      {
+        "url": "https://fkrt.co/mDvJ6F",
+        "label": "Lavie"
+      },
+      {
+        "url": "https://fkrt.co/A2liCk",
+        "label": "American Tourister"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 80% Off On Branded Backpacks.\n\nSkybags :https://fkrt.co/Cga4qD\nSafari :https://fkrt.co/OokOqy \nWildcraft :https://fkrt.co/ncXHTx\nGear :https://fkrt.co/O5YRh6\nLavie :https://fkrt.co/mDvJ6F\nAmerican Tourister :https://fkrt.co/A2liCk",
+    "final_url": "https://fkrt.co/Cga4qD",
+    "local_image": "assets/images/tgmsg_19946.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-06T05:31:53+00:00",
+    "buy_link": "https://fkrt.co/Cga4qD",
+    "date_iso": "2025-12-06T05:31:53+00:00"
+  },
+  {
+    "id": "msg19948",
+    "title": "Teakwood Leathers Trolley Bag Starting @899",
+    "description": "Myntra : Teakwood Leathers Trolley Bag Starting @899. https://myntr.in/SJGBQK",
+    "shortlink": "https://myntr.in/SJGBQK",
+    "urls": [
+      {
+        "url": "https://myntr.in/SJGBQK",
+        "label": "Teakwood Leathers Trolley Bag Starting @899"
+      }
+    ],
+    "raw_text": "Myntra : Teakwood Leathers Trolley Bag Starting @899.\n\nhttps://myntr.in/SJGBQK",
+    "final_url": "https://myntr.in/SJGBQK",
+    "local_image": "assets/images/tgmsg_19948.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-06T05:37:30+00:00",
+    "buy_link": "https://myntr.in/SJGBQK",
+    "date_iso": "2025-12-06T05:37:30+00:00"
+  },
+  {
     "id": "msg19943",
     "title": "Flat 70% Off On Lee Cooper Clothing",
     "description": "AJIO Loot : . Men's | T-Shirt : Shirt : Jeans : Shorts : Sweatshirt : Jacket : Trousers : Women's | T-Shirt : Tops & Shirt : Dresses : Jeans : Shorts : Sweatshirt : Trouser : Jacket :",
@@ -9550,45 +9614,5 @@
     "date_obj": "2025-12-03T19:08:03+00:00",
     "buy_link": "https://ajiio.co/hUTI4i",
     "date_iso": "2025-12-03T19:08:03+00:00"
-  },
-  {
-    "id": "msg19450",
-    "title": "Up to 71% Off On Hugo Boss Watche",
-    "description": "Myntra | Upto 71% Off On Hugo Boss Watches. https://myntr.in/u5INUE",
-    "shortlink": "https://myntr.in/u5INUE",
-    "urls": [
-      {
-        "url": "https://myntr.in/u5INUE",
-        "label": "Upto 71% Off On Hugo Boss Watches"
-      }
-    ],
-    "raw_text": "Myntra | Upto 71% Off On Hugo Boss Watches.\n\nhttps://myntr.in/u5INUE",
-    "final_url": "https://myntr.in/u5INUE",
-    "local_image": "assets/images/tgmsg_19450.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-03T19:10:29+00:00",
-    "buy_link": "https://myntr.in/u5INUE",
-    "date_iso": "2025-12-03T19:10:29+00:00"
-  },
-  {
-    "id": "msg19453",
-    "title": "Boat Earbuds from @699",
-    "description": "Flipkart | Boat Earbuds from @699 https://fkrt.co/MQ0xcK",
-    "shortlink": "https://fkrt.co/MQ0xcK",
-    "urls": [
-      {
-        "url": "https://fkrt.co/MQ0xcK",
-        "label": "Boat Earbuds from @699"
-      }
-    ],
-    "raw_text": "Flipkart | Boat Earbuds from @699\n\nhttps://fkrt.co/MQ0xcK",
-    "final_url": "https://fkrt.co/MQ0xcK",
-    "local_image": "assets/images/tgmsg_19453.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-03T19:12:18+00:00",
-    "buy_link": "https://fkrt.co/MQ0xcK",
-    "date_iso": "2025-12-03T19:12:18+00:00"
   }
 ]
