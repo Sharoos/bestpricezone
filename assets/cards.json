@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg20025",
+    "title": "Up to 83% OFF on Biba Womens Clothing",
+    "description": "👉 Myntra : Upto 83% OFF on Biba Womens Clothing 🔗 https://myntr.in/19Tdwk",
+    "shortlink": "https://myntr.in/19Tdwk",
+    "urls": [
+      {
+        "url": "https://myntr.in/19Tdwk",
+        "label": "Upto 83% OFF on Biba Womens Clothing"
+      }
+    ],
+    "raw_text": "👉 Myntra : Upto 83% OFF on Biba Womens Clothing\n \n🔗 https://myntr.in/19Tdwk",
+    "final_url": "https://myntr.in/19Tdwk",
+    "local_image": "assets/images/tgmsg_20025.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-06T17:31:36+00:00",
+    "buy_link": "https://myntr.in/19Tdwk",
+    "date_iso": "2025-12-06T17:31:36+00:00"
+  },
+  {
     "id": "msg20022",
     "title": "Bath & Body works 63% off",
     "description": "Myntra | Bath & Body works 63% off 🔗https://myntr.in/AkTXJW Scotch Brite @164 🔗 https://myntr.in/fl88KX Godrej Aer @99 🔗 https://myntr.in/967Hf8",
@@ -9966,33 +9986,5 @@
     "date_obj": "2025-12-04T04:53:26+00:00",
     "buy_link": "https://ajiio.co/vcsGsr",
     "date_iso": "2025-12-04T04:53:26+00:00"
-  },
-  {
-    "id": "msg19544",
-    "title": "Up to 80% Off!",
-    "description": "Myntra | 👕 Campus Sutra Clothing - Up to 80% Off! Men's: https://myntr.in/qlZyCT Women's: https://myntr.in/ovL3sp",
-    "shortlink": "https://myntr.in/qlZyCT",
-    "urls": [
-      {
-        "url": "",
-        "label": "👕 Campus Sutra Clothing - Up to 80% Off!"
-      },
-      {
-        "url": "https://myntr.in/qlZyCT",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/ovL3sp",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "Myntra | 👕 Campus Sutra Clothing - Up to 80% Off!\n\nMen's: https://myntr.in/qlZyCT\nWomen's: https://myntr.in/ovL3sp",
-    "final_url": "https://myntr.in/qlZyCT",
-    "local_image": "assets/images/tgmsg_19544.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-04T04:15:47+00:00",
-    "buy_link": "https://myntr.in/qlZyCT",
-    "date_iso": "2025-12-04T04:15:47+00:00"
   }
 ]
