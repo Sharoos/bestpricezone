@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19954",
+    "title": "Hp Laptop Bags Up to 80% off starting From Rs.288",
+    "description": "Flipkart | Hp Laptop Bags upto 80% off starting From Rs.288 https://fkrt.co/RvHX1x",
+    "shortlink": "https://fkrt.co/RvHX1x",
+    "urls": [
+      {
+        "url": "https://fkrt.co/RvHX1x",
+        "label": "Hp Laptop Bags upto 80% off starting From Rs.288"
+      }
+    ],
+    "raw_text": "Flipkart | Hp Laptop Bags upto 80% off starting From Rs.288\n\nhttps://fkrt.co/RvHX1x",
+    "final_url": "https://fkrt.co/RvHX1x",
+    "local_image": "assets/images/tgmsg_19954.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-06T06:50:48+00:00",
+    "buy_link": "https://fkrt.co/RvHX1x",
+    "date_iso": "2025-12-06T06:50:48+00:00"
+  },
+  {
     "id": "msg19953",
     "title": "Bath & Body works 63% off",
     "description": "Myntra | Bath & Body works 63% off https://myntr.in/sULu5F Scotch Brite @164 https://myntr.in/wt1DSq Godrej Aer @99 https://myntr.in/JAER7u",
@@ -9578,25 +9598,5 @@
     "date_obj": "2025-12-03T19:38:42+00:00",
     "buy_link": "https://ajiio.co/KqyJTW",
     "date_iso": "2025-12-03T19:38:42+00:00"
-  },
-  {
-    "id": "msg19439",
-    "title": "Stylish trolley bag only at 1499/",
-    "description": "Stylish trolley bag only at 1499/- https://myntr.in/LyR7dy",
-    "shortlink": "https://myntr.in/LyR7dy",
-    "urls": [
-      {
-        "url": "https://myntr.in/LyR7dy",
-        "label": "Stylish trolley bag only at 1499/"
-      }
-    ],
-    "raw_text": "Stylish trolley bag only at 1499/-\n\nhttps://myntr.in/LyR7dy",
-    "final_url": "https://myntr.in/LyR7dy",
-    "local_image": "assets/images/tgmsg_19439.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-03T19:02:01+00:00",
-    "buy_link": "https://myntr.in/LyR7dy",
-    "date_iso": "2025-12-03T19:02:01+00:00"
   }
 ]
