@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg20000",
+    "title": "🔥 Kitchen Essentials Deal",
+    "description": "Myntra | s 1️⃣ Havells Mojo 3-Jar Mixer Grinder — ₹1947 only! 🔗 2️⃣ Pigeon HA 2.5L Induction-Based Cooker — ₹849 only! 🔗",
+    "shortlink": "https://myntr.in/jPC22l",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Kitchen Essentials Deals"
+      },
+      {
+        "url": "https://myntr.in/jPC22l",
+        "label": "1️⃣ Havells Mojo 3-Jar Mixer Grinder — ₹1947 only!"
+      },
+      {
+        "url": "https://myntr.in/Aq8ZE0",
+        "label": "2️⃣ Pigeon HA 2.5L Induction-Based Cooker — ₹849 only!"
+      }
+    ],
+    "raw_text": "Myntra | 🔥 Kitchen Essentials Deals\n\n1️⃣ Havells Mojo 3-Jar Mixer Grinder — ₹1947 only!\n🔗 https://myntr.in/jPC22l\n\n2️⃣ Pigeon HA 2.5L Induction-Based Cooker — ₹849 only!\n🔗 https://myntr.in/Aq8ZE0",
+    "final_url": "https://myntr.in/jPC22l",
+    "local_image": "assets/images/tgmsg_20000.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-06T14:41:18+00:00",
+    "buy_link": "https://myntr.in/jPC22l",
+    "date_iso": "2025-12-06T14:41:18+00:00"
+  },
+  {
     "id": "msg19997",
     "title": "Longway 550 Watt Mix Pro Mixer grinder at Rs 1249!",
     "description": "Myntra | Longway 550 Watt Mix Pro Mixer grinder at Rs 1249! https://myntr.in/WNoCBI",
@@ -9942,29 +9970,5 @@
     "date_obj": "2025-12-03T20:42:18+00:00",
     "buy_link": "https://myntr.in/NJZoYY",
     "date_iso": "2025-12-03T20:42:18+00:00"
-  },
-  {
-    "id": "msg19514",
-    "title": "🛍 + Extra 10% Super Cash! 🎉",
-    "description": "Ajio | WOMEN'S Sarees Starting @ just 198 Link : 🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "shortlink": "https://ajiio.co/L5ssGE",
-    "urls": [
-      {
-        "url": "https://ajiio.co/L5ssGE",
-        "label": "WOMEN'S Sarees Starting @ just 198"
-      },
-      {
-        "url": "",
-        "label": "🛍 + Extra 10% AJIO Super Cash! 🎉"
-      }
-    ],
-    "raw_text": "Ajio | WOMEN'S Sarees Starting @ just 198 \n \nLink :  https://ajiio.co/L5ssGE\n\n🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "final_url": "https://ajiio.co/L5ssGE",
-    "local_image": "assets/images/tgmsg_19514.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-03T20:11:54+00:00",
-    "buy_link": "https://ajiio.co/L5ssGE",
-    "date_iso": "2025-12-03T20:11:54+00:00"
   }
 ]
