@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg19941",
+    "title": "Insulated Lunch Bag, 7.5 Litre @289",
+    "description": "Amazon | Insulated Lunch Bag, 7.5 Litre @289. https://www.amazon.in/dp/B0FQCJG6N4?psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FQCJG6N4?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FQCJG6N4?psc=1&tag=bestpricezo0f-21",
+        "label": "Insulated Lunch Bag, 7.5 Litre @289"
+      }
+    ],
+    "raw_text": "Amazon | Insulated Lunch Bag, 7.5 Litre @289.\n\nhttps://www.amazon.in/dp/B0FQCJG6N4?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FQCJG6N4?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_19941.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-06T04:15:52+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FQCJG6N4?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-06T04:15:52+00:00"
+  },
+  {
     "id": "msg19939",
     "title": "Flat 65% Off On Park Avenue Soap",
     "description": "Myntra : Flat 65% Off On Park Avenue Soaps. https://myntr.in/yA2czk",
@@ -9498,25 +9518,5 @@
     "date_obj": "2025-12-03T19:17:08+00:00",
     "buy_link": "https://myntr.in/NaRmOb",
     "date_iso": "2025-12-03T19:17:08+00:00"
-  },
-  {
-    "id": "msg19464",
-    "title": "Kenstar Estella 1.6 Electric Kettle (1.6 L) RS.449",
-    "description": "Flipkart | Kenstar Estella 1.6 Electric Kettle  (1.6 L) RS.449 https://fkrt.co/3dvIyO",
-    "shortlink": "https://fkrt.co/3dvIyO",
-    "urls": [
-      {
-        "url": "https://fkrt.co/3dvIyO",
-        "label": "Kenstar Estella 1.6 Electric Kettle (1.6 L) RS.449"
-      }
-    ],
-    "raw_text": "Flipkart | Kenstar Estella 1.6 Electric Kettle  (1.6 L) RS.449\n\nhttps://fkrt.co/3dvIyO",
-    "final_url": "https://fkrt.co/3dvIyO",
-    "local_image": "assets/images/tgmsg_19464.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-03T19:18:39+00:00",
-    "buy_link": "https://fkrt.co/3dvIyO",
-    "date_iso": "2025-12-03T19:18:39+00:00"
   }
 ]
