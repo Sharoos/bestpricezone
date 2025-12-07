@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg20055",
+    "title": "Metronaut Backpacks Starts From Rs.219",
+    "description": "Flipkart | Metronaut Backpacks Starts From Rs.219 👉 https://fkrt.co/7simLm",
+    "shortlink": "https://fkrt.co/7simLm",
+    "urls": [
+      {
+        "url": "https://fkrt.co/7simLm",
+        "label": "Metronaut Backpacks Starts From Rs.219"
+      }
+    ],
+    "raw_text": "Flipkart | Metronaut Backpacks Starts From Rs.219\n\n👉 https://fkrt.co/7simLm",
+    "final_url": "https://fkrt.co/7simLm",
+    "local_image": "assets/images/tgmsg_20055.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-07T05:04:06+00:00",
+    "buy_link": "https://fkrt.co/7simLm",
+    "date_iso": "2025-12-07T05:04:06+00:00"
+  },
+  {
+    "id": "msg20056",
+    "title": "HRX By Hrithik Roshan Jackets Starts @ 450",
+    "description": "Myntra | HRX By Hrithik Roshan Jackets Starts @ 450. Women : https://myntr.in/D41VEY Men : https://myntr.in/4tYPTu",
+    "shortlink": "https://myntr.in/D41VEY",
+    "urls": [
+      {
+        "url": "",
+        "label": "HRX By Hrithik Roshan Jackets Starts @ 450"
+      },
+      {
+        "url": "https://myntr.in/D41VEY",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/4tYPTu",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "Myntra | HRX By Hrithik Roshan Jackets Starts @ 450.\n\nWomen : https://myntr.in/D41VEY\nMen : https://myntr.in/4tYPTu",
+    "final_url": "https://myntr.in/D41VEY",
+    "local_image": "assets/images/tgmsg_20056.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-07T05:15:53+00:00",
+    "buy_link": "https://myntr.in/D41VEY",
+    "date_iso": "2025-12-07T05:15:53+00:00"
+  },
+  {
     "id": "msg20053",
     "title": "Signoraware Executive Small Lunch Box with Bag @₹180",
     "description": "Amazon | Signoraware Executive Small Lunch Box with Bag @₹180 👉 https://www.amazon.in/dp/B00JJH9GO6?th=1&psc=1&tag=bestpricezo0f-21",
@@ -9718,49 +9766,5 @@
     "date_obj": "2025-12-04T08:18:07+00:00",
     "buy_link": "https://ajiio.co/QWVM1B",
     "date_iso": "2025-12-04T08:18:07+00:00"
-  },
-  {
-    "id": "msg19577",
-    "title": "75% Off",
-    "description": "Flipkart | 75% Off - WomenKurta At Rs.323 🔗https://fkrt.co/8HtNhd Master Link -  https://fkrt.co/4cIAgC",
-    "shortlink": "https://fkrt.co/8HtNhd",
-    "urls": [
-      {
-        "url": "https://fkrt.co/8HtNhd",
-        "label": "75% Off - WomenKurta At Rs.323"
-      },
-      {
-        "url": "https://fkrt.co/4cIAgC",
-        "label": "Master"
-      }
-    ],
-    "raw_text": "Flipkart | 75% Off - WomenKurta At Rs.323\n\n🔗https://fkrt.co/8HtNhd\n\nMaster Link -  https://fkrt.co/4cIAgC",
-    "final_url": "https://fkrt.co/8HtNhd",
-    "local_image": "assets/images/tgmsg_19577.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-04T08:20:09+00:00",
-    "buy_link": "https://fkrt.co/8HtNhd",
-    "date_iso": "2025-12-04T08:20:09+00:00"
-  },
-  {
-    "id": "msg19573",
-    "title": "52% off Samsung 25W USB Travel Adapter @820",
-    "description": "52% off : Samsung 25W USB Travel Adapter @820 https://www.amazon.in/dp/B08VFF6JQ8?psc=1&th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B08VFF6JQ8?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B08VFF6JQ8?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "52% off : Samsung 25W USB Travel Adapter @820"
-      }
-    ],
-    "raw_text": "52% off : Samsung 25W USB Travel Adapter @820\n\nhttps://www.amazon.in/dp/B08VFF6JQ8?psc=1&th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B08VFF6JQ8?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_19573.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-04T07:52:02+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08VFF6JQ8?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-04T07:52:02+00:00"
   }
 ]
