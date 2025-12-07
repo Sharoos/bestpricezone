@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg20084",
+    "title": "Up to 86% Off On HRX Luggage",
+    "description": "Flipkart | Upto 86% Off On HRX Luggage. Small : https://fkrt.co/XmKGVt Medium : https://fkrt.co/H0olFN Large : https://fkrt.co/tvgkY7 Pack Of 2/3 : https://fkrt.co/NRF6FO",
+    "shortlink": "https://fkrt.co/XmKGVt",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 86% Off On HRX Luggage"
+      },
+      {
+        "url": "https://fkrt.co/XmKGVt",
+        "label": "Small"
+      },
+      {
+        "url": "https://fkrt.co/H0olFN",
+        "label": "Medium"
+      },
+      {
+        "url": "https://fkrt.co/tvgkY7",
+        "label": "Large"
+      },
+      {
+        "url": "https://fkrt.co/NRF6FO",
+        "label": "Pack Of 2/3"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 86% Off On HRX Luggage.\n\nSmall : https://fkrt.co/XmKGVt\nMedium : https://fkrt.co/H0olFN\nLarge : https://fkrt.co/tvgkY7\n\nPack Of 2/3 : https://fkrt.co/NRF6FO",
+    "final_url": "https://fkrt.co/XmKGVt",
+    "local_image": "assets/images/tgmsg_20084.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-07T10:46:21+00:00",
+    "buy_link": "https://fkrt.co/XmKGVt",
+    "date_iso": "2025-12-07T10:46:21+00:00"
+  },
+  {
     "id": "msg20082",
     "title": "💥 Use Code EXTRA30 BLINK30 WOW30 [30rs Instant Off]",
     "description": "Bajaj HamaraMall Flash Deals — LIVE NOW 🔥🔥 💥 Use Code: EXTRA30 | BLINK30 | WOW30 [30rs Instant Off] Winter Woollen Cap At 59 : Wired Earphones with Mic At 59: DENVER VIP Perfume At 69 : Charcoal Facewash At 69 Bamboo…",
@@ -9646,25 +9682,5 @@
     "date_obj": "2025-12-04T12:33:02+00:00",
     "buy_link": "https://ajiio.co/vDWL73",
     "date_iso": "2025-12-04T12:33:02+00:00"
-  },
-  {
-    "id": "msg19618",
-    "title": "Newly launched Doormats starting @ 109",
-    "description": "Myntra | Newly launched Doormats starting @ 109 🔗 https://myntr.in/kHNftO",
-    "shortlink": "https://myntr.in/kHNftO",
-    "urls": [
-      {
-        "url": "https://myntr.in/kHNftO",
-        "label": "Newly launched Doormats starting @ 109"
-      }
-    ],
-    "raw_text": "Myntra | Newly launched Doormats starting @ 109\n\n🔗 https://myntr.in/kHNftO",
-    "final_url": "https://myntr.in/kHNftO",
-    "local_image": "assets/images/tgmsg_19618.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-04T12:40:17+00:00",
-    "buy_link": "https://myntr.in/kHNftO",
-    "date_iso": "2025-12-04T12:40:17+00:00"
   }
 ]
