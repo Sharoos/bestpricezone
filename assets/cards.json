@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg20075",
+    "title": "Bath & Body works 63% off",
+    "description": "Myntra | Bath & Body works 63% off 👉https://myntr.in/GkCaNe Scotch Brite @164 👉https://myntr.in/agAG87 Godrej Aer @99 👉https://myntr.in/KiR7O0",
+    "shortlink": "https://myntr.in/GkCaNe",
+    "urls": [
+      {
+        "url": "https://myntr.in/GkCaNe",
+        "label": "Bath & Body works 63% off"
+      },
+      {
+        "url": "https://myntr.in/agAG87",
+        "label": "Scotch Brite @164"
+      },
+      {
+        "url": "https://myntr.in/KiR7O0",
+        "label": "Godrej Aer @99"
+      }
+    ],
+    "raw_text": "Myntra | Bath & Body works 63% off\n👉https://myntr.in/GkCaNe\n\nScotch Brite @164 \n👉https://myntr.in/agAG87\n\nGodrej Aer @99\n👉https://myntr.in/KiR7O0",
+    "final_url": "https://myntr.in/GkCaNe",
+    "local_image": "assets/images/tgmsg_20075.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-07T09:15:17+00:00",
+    "buy_link": "https://myntr.in/GkCaNe",
+    "date_iso": "2025-12-07T09:15:17+00:00"
+  },
+  {
     "id": "msg20074",
     "title": "To Get Extra 11% Off!",
     "description": "Myntra | OnePlus Nord Buds 3r Only at Rs. 1423 + Bank offers!! Use Coupon Code: *EORSOP11*  👉",
@@ -9594,25 +9622,5 @@
     "date_obj": "2025-12-04T11:10:12+00:00",
     "buy_link": "https://ajiio.co/G4zMPG",
     "date_iso": "2025-12-04T11:10:12+00:00"
-  },
-  {
-    "id": "msg19601",
-    "title": "62% Off",
-    "description": "Flipkart | 62% Off - Dr. Morepen Glucometer At Rs.742 🔗 https://fkrt.co/z999BO",
-    "shortlink": "https://fkrt.co/z999BO",
-    "urls": [
-      {
-        "url": "https://fkrt.co/z999BO",
-        "label": "62% Off - Dr. Morepen Glucometer At Rs.742"
-      }
-    ],
-    "raw_text": "Flipkart | 62% Off - Dr. Morepen Glucometer At Rs.742\n\n🔗 https://fkrt.co/z999BO",
-    "final_url": "https://fkrt.co/z999BO",
-    "local_image": "assets/images/tgmsg_19601.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-04T10:51:19+00:00",
-    "buy_link": "https://fkrt.co/z999BO",
-    "date_iso": "2025-12-04T10:51:19+00:00"
   }
 ]
