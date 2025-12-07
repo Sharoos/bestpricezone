@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg20091",
+    "title": "MRP ₹21,240 → Deal Price ₹13,990",
+    "description": "🔥Flipkart | Back in Stock! LG 32\" Smart TV  💳 SBI Price: ₹11,422 HD Ready | Alpha5 Gen6 | AI Sound | WebOS 2025 🔗",
+    "shortlink": "https://fkrt.co/jI4MtZ",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥Flipkart | Back in Stock! LG 32\" Smart TV"
+      },
+      {
+        "url": "",
+        "label": "MRP ₹21,240 → Deal Price ₹13,990"
+      },
+      {
+        "url": "",
+        "label": "💳 SBI Price: ₹11,422"
+      },
+      {
+        "url": "https://fkrt.co/jI4MtZ",
+        "label": "Alpha5 Gen6 | AI Sound | WebOS 2025"
+      }
+    ],
+    "raw_text": "🔥Flipkart | Back in Stock! LG 32\" Smart TV\n\nMRP ₹21,240 → Deal Price ₹13,990\n\n💳 SBI Price: ₹11,422\nHD Ready | Alpha5 Gen6 | AI Sound | WebOS 2025\n\n🔗 https://fkrt.co/jI4MtZ",
+    "final_url": "https://fkrt.co/jI4MtZ",
+    "local_image": "assets/images/tgmsg_20091.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-07T12:08:31+00:00",
+    "buy_link": "https://fkrt.co/jI4MtZ",
+    "date_iso": "2025-12-07T12:08:31+00:00"
+  },
+  {
     "id": "msg20089",
     "title": "💥OverSized Tshirts Starts @180",
     "description": "💥Ajio | OverSized Tshirts Starts @180. 👉Link : https://ajiio.co/aoPGTh",
@@ -9582,45 +9614,5 @@
     "date_obj": "2025-12-04T13:20:21+00:00",
     "buy_link": "https://myntr.in/esZ4Wf",
     "date_iso": "2025-12-04T13:20:21+00:00"
-  },
-  {
-    "id": "msg19611",
-    "title": "🍽 20% OFF on food, soft beverages & spa treatment",
-    "description": "🎉 ITC Hotels – Days of Joy Offers! 🌿 Enjoy luxurious stays and indulgent experiences at ITC Hotels with amazing savings! 🏨 Up to 50% OFF on stays s ✨ Experience “Responsible Luxury” at its best — perfect for your next…",
-    "shortlink": "https://extp.in/J3SyUQ/",
-    "urls": [
-      {
-        "url": "",
-        "label": "🎉 ITC Hotels – Days of Joy Offers! 🌿"
-      },
-      {
-        "url": "",
-        "label": "Enjoy luxurious stays and indulgent experiences at ITC Hotels with amazing savings!"
-      },
-      {
-        "url": "",
-        "label": "🏨 Up to 50% OFF on stays"
-      },
-      {
-        "url": "",
-        "label": "🍽 20% OFF on food, soft beverages & spa treatments"
-      },
-      {
-        "url": "",
-        "label": "✨ Experience “Responsible Luxury” at its best — perfect for your next getaway or staycation!"
-      },
-      {
-        "url": "https://extp.in/J3SyUQ/",
-        "label": "🔗Book Now"
-      }
-    ],
-    "raw_text": "🎉 ITC Hotels – Days of Joy Offers! 🌿\n\nEnjoy luxurious stays and indulgent experiences at ITC Hotels with amazing savings!\n\n🏨 Up to 50% OFF on stays\n🍽 20% OFF on food, soft beverages & spa treatments\n\n✨ Experience “Responsible Luxury” at its best — perfect for your next getaway or staycation!\n\n🔗Book Now : https://extp.in/J3SyUQ/",
-    "final_url": "https://extp.in/J3SyUQ/",
-    "local_image": "assets/images/tgmsg_19611.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-04T12:03:25+00:00",
-    "buy_link": "https://extp.in/J3SyUQ/",
-    "date_iso": "2025-12-04T12:03:25+00:00"
   }
 ]
