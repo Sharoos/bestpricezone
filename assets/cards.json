@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg20080",
+    "title": "Denim Shirts Up to 78% Off",
+    "description": "Flipkart | Denim Shirts Upto 78% Off 👉https://fkrt.co/U5XPcE",
+    "shortlink": "https://fkrt.co/U5XPcE",
+    "urls": [
+      {
+        "url": "https://fkrt.co/U5XPcE",
+        "label": "Denim Shirts Upto 78% Off"
+      }
+    ],
+    "raw_text": "Flipkart | Denim Shirts Upto 78% Off\n\n👉https://fkrt.co/U5XPcE",
+    "final_url": "https://fkrt.co/U5XPcE",
+    "local_image": "assets/images/tgmsg_20080.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-07T10:16:10+00:00",
+    "buy_link": "https://fkrt.co/U5XPcE",
+    "date_iso": "2025-12-07T10:16:10+00:00"
+  },
+  {
+    "id": "msg20081",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
+    "description": "Ajio | Beauty and Personal Care Under 399 👉Link : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/he9stf",
+    "urls": [
+      {
+        "url": "https://ajiio.co/he9stf",
+        "label": "Beauty and Personal Care Under 399"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "Ajio | Beauty and Personal Care Under 399\n\n👉Link : https://ajiio.co/he9stf\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/he9stf",
+    "local_image": "assets/images/tgmsg_20081.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-07T10:35:38+00:00",
+    "buy_link": "https://ajiio.co/he9stf",
+    "date_iso": "2025-12-07T10:35:38+00:00"
+  },
+  {
     "id": "msg20077",
     "title": "Denver Bathing Soap (Pack of 4) At 129",
     "description": "Bajaj HamaraMall Flash Deals — LIVE NOW 🔥🔥 💥 Use Code: EXTRA30 | BLINK30 | WOW30 Winter Woollen Cap At 59 : Wired Earphones with Mic At 59: DENVER VIP Perfume At 69 : Charcoal Facewash At 69 Bamboo Natural Handwash (1L)…",
@@ -9590,45 +9634,5 @@
     "date_obj": "2025-12-04T11:50:17+00:00",
     "buy_link": "https://myntr.in/agd4iP",
     "date_iso": "2025-12-04T11:50:17+00:00"
-  },
-  {
-    "id": "msg19608",
-    "title": "Schwarzkopf Professional Up to 35% off plus additional",
-    "description": "Myntra | Schwarzkopf Professional upto 35% off  plus additional coupon 🔗 Link : https://myntr.in/4dPxiM",
-    "shortlink": "https://myntr.in/4dPxiM",
-    "urls": [
-      {
-        "url": "https://myntr.in/4dPxiM",
-        "label": ""
-      }
-    ],
-    "raw_text": "Myntra | Schwarzkopf Professional upto 35% off  plus additional coupon\n\n🔗 Link : https://myntr.in/4dPxiM",
-    "final_url": "https://myntr.in/4dPxiM",
-    "local_image": "assets/images/tgmsg_19608.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-04T11:40:17+00:00",
-    "buy_link": "https://myntr.in/4dPxiM",
-    "date_iso": "2025-12-04T11:40:17+00:00"
-  },
-  {
-    "id": "msg19609",
-    "title": "Up to 73% Off On Top Brand Blaze",
-    "description": "Upto 73% Off On Top Brand Blazers https://myntr.in/7E6LN1",
-    "shortlink": "https://myntr.in/7E6LN1",
-    "urls": [
-      {
-        "url": "https://myntr.in/7E6LN1",
-        "label": "Upto 73% Off On Top Brand Blazers"
-      }
-    ],
-    "raw_text": "Upto 73% Off On Top Brand Blazers\n\nhttps://myntr.in/7E6LN1",
-    "final_url": "https://myntr.in/7E6LN1",
-    "local_image": "assets/images/tgmsg_19609.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-04T11:44:42+00:00",
-    "buy_link": "https://myntr.in/7E6LN1",
-    "date_iso": "2025-12-04T11:44:42+00:00"
   }
 ]
