@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg20137",
+    "title": "Get flat 40% off on Adidas Originals Sneake",
+    "description": "Myntra | EM40 is back 🔥🔥 Get flat 40% off on Adidas Originals Sneakers Use Code : EM40 🔗 Link :- https://myntr.in/cAdb2p",
+    "shortlink": "https://myntr.in/cAdb2p",
+    "urls": [
+      {
+        "url": "",
+        "label": "EM40 is back 🔥🔥"
+      },
+      {
+        "url": "",
+        "label": "Get flat 40% off on Adidas Originals Sneakers"
+      },
+      {
+        "url": "https://myntr.in/cAdb2p",
+        "label": "EM40"
+      }
+    ],
+    "raw_text": "Myntra | EM40 is back 🔥🔥\n\nGet flat 40% off on Adidas Originals Sneakers \n\nUse Code : EM40\n\n🔗 Link :- https://myntr.in/cAdb2p",
+    "final_url": "https://myntr.in/cAdb2p",
+    "local_image": "assets/images/tgmsg_20137.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-07T17:00:48+00:00",
+    "buy_link": "https://myntr.in/cAdb2p",
+    "date_iso": "2025-12-07T17:00:48+00:00"
+  },
+  {
     "id": "msg20136",
     "title": "85% Off On Branded Luggage",
     "description": "Flipkart . Master Link : Small : Medium : Large : Pack Of 2 : Pack Of 3 : Suggestions 👇. American Tourister & Safari : Aristocrat : VIP : Killer : Wrogn : Metronaut :",
@@ -9590,25 +9618,5 @@
     "date_obj": "2025-12-04T18:40:28+00:00",
     "buy_link": "https://fkrt.co/CL9yBl",
     "date_iso": "2025-12-04T18:40:28+00:00"
-  },
-  {
-    "id": "msg19688",
-    "title": "52% off!",
-    "description": "Myntra | Dettol Soaps Min 50-52% off! https://myntr.in/KobLl6",
-    "shortlink": "https://myntr.in/KobLl6",
-    "urls": [
-      {
-        "url": "https://myntr.in/KobLl6",
-        "label": "Dettol Soaps Min 50-52% off!"
-      }
-    ],
-    "raw_text": "Myntra | Dettol Soaps Min 50-52% off!\n\nhttps://myntr.in/KobLl6",
-    "final_url": "https://myntr.in/KobLl6",
-    "local_image": "assets/images/tgmsg_19688.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-04T18:41:31+00:00",
-    "buy_link": "https://myntr.in/KobLl6",
-    "date_iso": "2025-12-04T18:41:31+00:00"
   }
 ]
