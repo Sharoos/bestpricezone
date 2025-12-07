@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg20129",
+    "title": "Up to 84% Off on Gym Fitness Kits Starting @₹119🔥🔥🔥🔥",
+    "description": "Flipkart | UPTO 84% Off on Gym Fitness Kits Starting @₹119🔥🔥🔥🔥 🔗🔗Links : https://fkrt.co/xDMAop",
+    "shortlink": "https://fkrt.co/xDMAop",
+    "urls": [
+      {
+        "url": "https://fkrt.co/xDMAop",
+        "label": "UPTO 84% Off on Gym Fitness Kits Starting @₹119🔥🔥🔥🔥"
+      }
+    ],
+    "raw_text": "Flipkart | UPTO 84% Off on Gym Fitness Kits Starting @₹119🔥🔥🔥🔥 \n \n🔗🔗Links : https://fkrt.co/xDMAop",
+    "final_url": "https://fkrt.co/xDMAop",
+    "local_image": "assets/images/tgmsg_20129.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-07T16:03:31+00:00",
+    "buy_link": "https://fkrt.co/xDMAop",
+    "date_iso": "2025-12-07T16:03:31+00:00"
+  },
+  {
+    "id": "msg20131",
+    "title": "🔥Daawat Rozana Basmati Rice 5Kg at ₹279",
+    "description": "Amazon | 🔥Daawat Rozana Basmati Rice 5Kg at ₹279 👉https://www.amazon.in/dp/B01MCYNYNY?psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B01MCYNYNY?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B01MCYNYNY?psc=1&tag=bestpricezo0f-21",
+        "label": "🔥Daawat Rozana Basmati Rice 5Kg at ₹279"
+      }
+    ],
+    "raw_text": "Amazon | 🔥Daawat Rozana Basmati Rice 5Kg at ₹279\n\n👉https://www.amazon.in/dp/B01MCYNYNY?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B01MCYNYNY?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_20131.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-07T16:10:31+00:00",
+    "buy_link": "https://www.amazon.in/dp/B01MCYNYNY?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-07T16:10:31+00:00"
+  },
+  {
     "id": "msg20124",
     "title": "Beauty Product",
     "description": "AJIO : Beauty Products. Cetaphil : https://ajiio.co/d2pNIG Lakme : https://ajiio.co/uugrPf More Products : https://ajiio.co/I75eeo",
@@ -9570,49 +9610,5 @@
     "date_obj": "2025-12-04T16:09:48+00:00",
     "buy_link": "https://myntr.in/jTYZLi",
     "date_iso": "2025-12-04T16:09:48+00:00"
-  },
-  {
-    "id": "msg19658",
-    "title": "Up to 60% Off On Lifebuoy Bodywash",
-    "description": "Myntra | Upto 60% Off On Lifebuoy Bodywash. 👉https://myntr.in/QrpY3B",
-    "shortlink": "https://myntr.in/QrpY3B",
-    "urls": [
-      {
-        "url": "https://myntr.in/QrpY3B",
-        "label": "Upto 60% Off On Lifebuoy Bodywash"
-      }
-    ],
-    "raw_text": "Myntra | Upto 60% Off On Lifebuoy Bodywash.\n\n👉https://myntr.in/QrpY3B",
-    "final_url": "https://myntr.in/QrpY3B",
-    "local_image": "assets/images/tgmsg_19658.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-04T16:14:25+00:00",
-    "buy_link": "https://myntr.in/QrpY3B",
-    "date_iso": "2025-12-04T16:14:25+00:00"
-  },
-  {
-    "id": "msg19659",
-    "title": "71% Off On Branded Body Lotion",
-    "description": "Myntra : 50-71% Off On Branded Body Lotions. 👉https://myntr.in/JNrCBn (Ponds, Nivea, Vaseline, Parachute, Etc)",
-    "shortlink": "https://myntr.in/JNrCBn",
-    "urls": [
-      {
-        "url": "https://myntr.in/JNrCBn",
-        "label": "50-71% Off On Branded Body Lotions"
-      },
-      {
-        "url": "",
-        "label": "(Ponds, Nivea, Vaseline, Parachute, Etc)"
-      }
-    ],
-    "raw_text": "Myntra : 50-71% Off On Branded Body Lotions.\n\n👉https://myntr.in/JNrCBn\n\n(Ponds, Nivea, Vaseline, Parachute, Etc)",
-    "final_url": "https://myntr.in/JNrCBn",
-    "local_image": "assets/images/tgmsg_19659.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-04T16:21:18+00:00",
-    "buy_link": "https://myntr.in/JNrCBn",
-    "date_iso": "2025-12-04T16:21:18+00:00"
   }
 ]
