@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg20124",
+    "title": "Beauty Product",
+    "description": "AJIO : Beauty Products. Cetaphil : https://ajiio.co/d2pNIG Lakme : https://ajiio.co/uugrPf More Products : https://ajiio.co/I75eeo",
+    "shortlink": "https://ajiio.co/d2pNIG",
+    "urls": [
+      {
+        "url": "",
+        "label": "Beauty Products"
+      },
+      {
+        "url": "https://ajiio.co/d2pNIG",
+        "label": "Cetaphil"
+      },
+      {
+        "url": "https://ajiio.co/uugrPf",
+        "label": "Lakme"
+      },
+      {
+        "url": "https://ajiio.co/I75eeo",
+        "label": "More Products"
+      }
+    ],
+    "raw_text": "AJIO : Beauty Products. \n\nCetaphil : https://ajiio.co/d2pNIG\nLakme : https://ajiio.co/uugrPf\nMore Products : https://ajiio.co/I75eeo",
+    "final_url": "https://ajiio.co/d2pNIG",
+    "local_image": "assets/images/tgmsg_20124.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-07T15:44:25+00:00",
+    "buy_link": "https://ajiio.co/d2pNIG",
+    "date_iso": "2025-12-07T15:44:25+00:00"
+  },
+  {
     "id": "msg20122",
     "title": "65% Off On Park Avenue Soap",
     "description": "Myntra | Flat 60-65% Off On Park Avenue Soaps. 👉 https://myntr.in/eXILRf",
@@ -9582,53 +9614,5 @@
     "date_obj": "2025-12-04T16:21:18+00:00",
     "buy_link": "https://myntr.in/JNrCBn",
     "date_iso": "2025-12-04T16:21:18+00:00"
-  },
-  {
-    "id": "msg19652",
-    "title": "🍽️ Dinner Sets — Min 40% OFF",
-    "description": "🔥 CRAZY DEALS! LOWEST ACROSS PLATFORM 🔥 + Extra Coupon Discounts on All Items 🥤 Containers — Starting ₹90 👉 🍲 Femora Ceramic Bowls — Starting ₹156 👉 💧 Water Bottles — Starting ₹179 👉  👉 🍱 Lunch Boxes — Starting ₹149 👉…",
-    "shortlink": "https://myntr.in/5pdtBR",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 CRAZY DEALS! LOWEST ACROSS PLATFORM 🔥"
-      },
-      {
-        "url": "https://myntr.in/5pdtBR",
-        "label": "🥤 Containers — Starting ₹90"
-      },
-      {
-        "url": "https://myntr.in/fd1yUT",
-        "label": "🍲 Femora Ceramic Bowls — Starting ₹156"
-      },
-      {
-        "url": "https://myntr.in/D2iGng",
-        "label": "💧 Water Bottles — Starting ₹179"
-      },
-      {
-        "url": "https://myntr.in/Q40OAr",
-        "label": "🍽️ Dinner Sets — Min 40% OFF"
-      },
-      {
-        "url": "https://myntr.in/3l7u1C",
-        "label": "🍱 Lunch Boxes — Starting ₹149"
-      },
-      {
-        "url": "https://myntr.in/oGUjIG",
-        "label": "🛢️ Oil Dispensers — Starting ₹167"
-      },
-      {
-        "url": "https://myntr.in/itXXqp",
-        "label": "☕ Cups & Mugs — Starting ₹149"
-      }
-    ],
-    "raw_text": "🔥 CRAZY DEALS! LOWEST ACROSS PLATFORM 🔥\n+ Extra Coupon Discounts on All Items\n\n🥤 Containers — Starting ₹90\n👉 https://myntr.in/5pdtBR\n\n🍲 Femora Ceramic Bowls — Starting ₹156\n👉 https://myntr.in/fd1yUT\n\n💧 Water Bottles — Starting ₹179\n👉 https://myntr.in/D2iGng\n\n🍽️ Dinner Sets — Min 40% OFF\n👉 https://myntr.in/Q40OAr\n\n🍱 Lunch Boxes — Starting ₹149\n👉 https://myntr.in/3l7u1C\n\n🛢️ Oil Dispensers — Starting ₹167\n👉 https://myntr.in/oGUjIG\n\n☕ Cups & Mugs — Starting ₹149\n👉 https://myntr.in/itXXqp",
-    "final_url": "https://myntr.in/5pdtBR",
-    "local_image": "assets/images/tgmsg_19652.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-04T15:36:47+00:00",
-    "buy_link": "https://myntr.in/5pdtBR",
-    "date_iso": "2025-12-04T15:36:47+00:00"
   }
 ]
