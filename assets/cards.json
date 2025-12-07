@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg20074",
+    "title": "To Get Extra 11% Off!",
+    "description": "Myntra | OnePlus Nord Buds 3r Only at Rs. 1423 + Bank offers!! Use Coupon Code: *EORSOP11*  👉",
+    "shortlink": "https://myntr.in/nBK9A3",
+    "urls": [
+      {
+        "url": "https://myntr.in/nBK9A3",
+        "label": "OnePlus Nord Buds 3r Only at Rs. 1423 + Bank offers!!"
+      }
+    ],
+    "raw_text": "Myntra | OnePlus Nord Buds 3r Only at Rs. 1423 + Bank offers!!\nUse Coupon Code: *EORSOP11* To Get Extra 11% Off!\n\n👉https://myntr.in/nBK9A3",
+    "final_url": "https://myntr.in/nBK9A3",
+    "local_image": "assets/images/tgmsg_20074.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-07T09:02:19+00:00",
+    "buy_link": "https://myntr.in/nBK9A3",
+    "date_iso": "2025-12-07T09:02:19+00:00"
+  },
+  {
     "id": "msg20069",
     "title": "Socks Starts at ₹14",
     "description": "Flipkart |  👉 T-shirts Starts at ₹73 👉 Briefs and Trunks Starts at ₹42 👉 Vests Starts at ₹35 👉 Winter wear Starts at ₹69 👉 Boxers Starts at ₹69 👉",
@@ -9594,25 +9614,5 @@
     "date_obj": "2025-12-04T10:51:19+00:00",
     "buy_link": "https://fkrt.co/z999BO",
     "date_iso": "2025-12-04T10:51:19+00:00"
-  },
-  {
-    "id": "msg19594",
-    "title": "Stayfree Up to 45% off",
-    "description": "Myntra | Stayfree upto 45% off 🔗Link : https://myntr.in/48tp9U",
-    "shortlink": "https://myntr.in/48tp9U",
-    "urls": [
-      {
-        "url": "https://myntr.in/48tp9U",
-        "label": "Stayfree upto 45% off"
-      }
-    ],
-    "raw_text": "Myntra | Stayfree upto 45% off\n\n🔗Link : https://myntr.in/48tp9U",
-    "final_url": "https://myntr.in/48tp9U",
-    "local_image": "assets/images/tgmsg_19594.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-04T10:00:19+00:00",
-    "buy_link": "https://myntr.in/48tp9U",
-    "date_iso": "2025-12-04T10:00:19+00:00"
   }
 ]
