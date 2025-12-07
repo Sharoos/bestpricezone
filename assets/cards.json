@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg20115",
+    "title": "Up to 70% Off",
+    "description": "Myntra | 👟 Puma Shoe Steal Deals Upto 70% Off Men's: https://myntr.in/Dv660x",
+    "shortlink": "https://myntr.in/Dv660x",
+    "urls": [
+      {
+        "url": "",
+        "label": "👟 Puma Shoe Steal Deals"
+      },
+      {
+        "url": "",
+        "label": "Upto 70% Off"
+      },
+      {
+        "url": "https://myntr.in/Dv660x",
+        "label": "Men's"
+      }
+    ],
+    "raw_text": "Myntra | 👟 Puma Shoe Steal Deals\n\nUpto 70% Off\n\nMen's: https://myntr.in/Dv660x",
+    "final_url": "https://myntr.in/Dv660x",
+    "local_image": "assets/images/tgmsg_20115.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-07T14:46:21+00:00",
+    "buy_link": "https://myntr.in/Dv660x",
+    "date_iso": "2025-12-07T14:46:21+00:00"
+  },
+  {
     "id": "msg20112",
     "title": "TIARAA Get Any 3 Necklace or Bracelet @ 199 INR (including shipping)",
     "description": "TIARAA Loot : Get Any 3 Necklace or Bracelet @ 199 INR (including shipping) Apply Coupon : LOOT3 Link :",
@@ -9598,25 +9626,5 @@
     "date_obj": "2025-12-04T14:31:50+00:00",
     "buy_link": "https://www.amazon.in/dp/B08937YTVK?tag=bestpricezo0f-21",
     "date_iso": "2025-12-04T14:31:50+00:00"
-  },
-  {
-    "id": "msg19644",
-    "title": "165",
-    "description": "165 : https://www.amazon.in/dp/B0G4HX1JJB?social_share=cm_sw_r_cso_wa_apin_dp_9K9NAKPWXVGV984082XN&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0G4HX1JJB?social_share=cm_sw_r_cso_wa_apin_dp_9K9NAKPWXVGV984082XN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0G4HX1JJB?social_share=cm_sw_r_cso_wa_apin_dp_9K9NAKPWXVGV984082XN&tag=bestpricezo0f-21",
-        "label": "165"
-      }
-    ],
-    "raw_text": "165 : https://www.amazon.in/dp/B0G4HX1JJB?social_share=cm_sw_r_cso_wa_apin_dp_9K9NAKPWXVGV984082XN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0G4HX1JJB?social_share=cm_sw_r_cso_wa_apin_dp_9K9NAKPWXVGV984082XN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_19644.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-04T14:33:59+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0G4HX1JJB?social_share=cm_sw_r_cso_wa_apin_dp_9K9NAKPWXVGV984082XN&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-04T14:33:59+00:00"
   }
 ]
