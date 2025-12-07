@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg20076",
+    "title": "Kylie Cosmetics is LIVE with a FLAT 50% OFF — 😍🔥",
+    "description": "🎉MYNTRA BIG NEWS, BEAUTY LOVERS! 🎉  This is your cue to grab all your fave lip kits and glam essentials! 💄✨ Shop here:",
+    "shortlink": "https://myntr.in/bJMdXU",
+    "urls": [
+      {
+        "url": "",
+        "label": "🎉MYNTRA BIG NEWS, BEAUTY LOVERS! 🎉"
+      },
+      {
+        "url": "",
+        "label": "Kylie Cosmetics is LIVE with a FLAT 50% OFF — 😍🔥"
+      },
+      {
+        "url": "",
+        "label": "This is your cue to grab all your fave lip kits and glam essentials! 💄✨"
+      },
+      {
+        "url": "https://myntr.in/bJMdXU",
+        "label": "Shop here"
+      }
+    ],
+    "raw_text": "🎉MYNTRA  BIG NEWS, BEAUTY LOVERS! 🎉\n\nKylie Cosmetics is LIVE with a FLAT 50% OFF — 😍🔥\n\nThis is your cue to grab all your fave lip kits and glam essentials! 💄✨\n\nShop here:\nhttps://myntr.in/bJMdXU",
+    "final_url": "https://myntr.in/bJMdXU",
+    "local_image": "assets/images/tgmsg_20076.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-07T09:45:31+00:00",
+    "buy_link": "https://myntr.in/bJMdXU",
+    "date_iso": "2025-12-07T09:45:31+00:00"
+  },
+  {
     "id": "msg20075",
     "title": "Bath & Body works 63% off",
     "description": "Myntra | Bath & Body works 63% off 👉https://myntr.in/GkCaNe Scotch Brite @164 👉https://myntr.in/agAG87 Godrej Aer @99 👉https://myntr.in/KiR7O0",
@@ -9590,37 +9622,5 @@
     "date_obj": "2025-12-04T11:02:30+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FVLHJJK5?tag=bestpricezo0f-21",
     "date_iso": "2025-12-04T11:02:30+00:00"
-  },
-  {
-    "id": "msg19604",
-    "title": "Men's Footwear Starts at ₹112",
-    "description": "AJIO: Men's Footwear Starts at ₹112. 👉https://ajiio.co/G4zMPG Sports Shoes : https://ajiio.co/lcoGei Casual Shoes : https://ajiio.co/pZ6Fu7 Sandals : https://ajiio.co/t3ITus",
-    "shortlink": "https://ajiio.co/G4zMPG",
-    "urls": [
-      {
-        "url": "https://ajiio.co/G4zMPG",
-        "label": "Men's Footwear Starts at ₹112"
-      },
-      {
-        "url": "https://ajiio.co/lcoGei",
-        "label": "Sports Shoes"
-      },
-      {
-        "url": "https://ajiio.co/pZ6Fu7",
-        "label": "Casual Shoes"
-      },
-      {
-        "url": "https://ajiio.co/t3ITus",
-        "label": "Sandals"
-      }
-    ],
-    "raw_text": "AJIO: Men's Footwear Starts at ₹112.\n\n👉https://ajiio.co/G4zMPG \n\nSports Shoes : https://ajiio.co/lcoGei \nCasual Shoes : https://ajiio.co/pZ6Fu7 \nSandals : https://ajiio.co/t3ITus",
-    "final_url": "https://ajiio.co/G4zMPG",
-    "local_image": "assets/images/tgmsg_19604.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-04T11:10:12+00:00",
-    "buy_link": "https://ajiio.co/G4zMPG",
-    "date_iso": "2025-12-04T11:10:12+00:00"
   }
 ]
