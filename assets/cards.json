@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg20048",
+    "title": "Up to 80% Off!",
+    "description": "Myntra | 👕 Campus Sutra Clothing - Up to 80% Off! Men's: https://myntr.in/Z5dsu1 Women's: https://myntr.in/ntWyzj",
+    "shortlink": "https://myntr.in/Z5dsu1",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 Campus Sutra Clothing - Up to 80% Off!"
+      },
+      {
+        "url": "https://myntr.in/Z5dsu1",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/ntWyzj",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Myntra | 👕 Campus Sutra Clothing - Up to 80% Off!\n\nMen's: https://myntr.in/Z5dsu1\nWomen's: https://myntr.in/ntWyzj",
+    "final_url": "https://myntr.in/Z5dsu1",
+    "local_image": "assets/images/tgmsg_20048.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-07T03:45:40+00:00",
+    "buy_link": "https://myntr.in/Z5dsu1",
+    "date_iso": "2025-12-07T03:45:40+00:00"
+  },
+  {
+    "id": "msg20049",
+    "title": "Electric Kettles starts from Rs492 + 🔥🔥",
+    "description": "Myntra : Electric Kettles starts from Rs492 + Coupon 🔥🔥 Link: https://myntr.in/i28MRW",
+    "shortlink": "https://myntr.in/i28MRW",
+    "urls": [
+      {
+        "url": "https://myntr.in/i28MRW",
+        "label": ""
+      }
+    ],
+    "raw_text": "Myntra : Electric Kettles starts from Rs492 + Coupon 🔥🔥\n\nLink: https://myntr.in/i28MRW",
+    "final_url": "https://myntr.in/i28MRW",
+    "local_image": "assets/images/tgmsg_20049.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-07T04:02:17+00:00",
+    "buy_link": "https://myntr.in/i28MRW",
+    "date_iso": "2025-12-07T04:02:17+00:00"
+  },
+  {
     "id": "msg20042",
     "title": "Lotus Herbal Up to 40% off +Additional 10%",
     "description": "Myntra | Lotus Herbal upto 40% off +Additional 10% coupon 🔗 Link : https://myntr.in/s1YBi9",
@@ -9690,57 +9738,5 @@
     "date_obj": "2025-12-04T07:36:56+00:00",
     "buy_link": "https://extp.in/3lKCxk",
     "date_iso": "2025-12-04T07:36:56+00:00"
-  },
-  {
-    "id": "msg19564",
-    "title": "Men's Footwear Starts at ₹112",
-    "description": "AJIO: Men's Footwear Starts at ₹112. https://ajiio.in/ktmqYXN Sports Shoes : https://ajiio.in/K6RDw7W Casual Shoes : https://ajiio.in/0hcj5k7 Sandals : https://ajiio.in/YIoiv5l",
-    "shortlink": "https://ajiio.in/ktmqYXN",
-    "urls": [
-      {
-        "url": "https://ajiio.in/ktmqYXN",
-        "label": "Men's Footwear Starts at ₹112"
-      },
-      {
-        "url": "https://ajiio.in/K6RDw7W",
-        "label": "Sports Shoes"
-      },
-      {
-        "url": "https://ajiio.in/0hcj5k7",
-        "label": "Casual Shoes"
-      },
-      {
-        "url": "https://ajiio.in/YIoiv5l",
-        "label": "Sandals"
-      }
-    ],
-    "raw_text": "AJIO: Men's Footwear Starts at ₹112.\n\nhttps://ajiio.in/ktmqYXN \n\nSports Shoes : https://ajiio.in/K6RDw7W \nCasual Shoes : https://ajiio.in/0hcj5k7 \nSandals : https://ajiio.in/YIoiv5l",
-    "final_url": "https://ajiio.in/ktmqYXN",
-    "local_image": "assets/images/tgmsg_19564.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-04T06:59:07+00:00",
-    "buy_link": "https://ajiio.in/ktmqYXN",
-    "date_iso": "2025-12-04T06:59:07+00:00"
-  },
-  {
-    "id": "msg19566",
-    "title": "Top Brand footwear under @1000",
-    "description": "Top Brand footwear under @1000 https://fkrt.co/zOzgxO",
-    "shortlink": "https://fkrt.co/zOzgxO",
-    "urls": [
-      {
-        "url": "https://fkrt.co/zOzgxO",
-        "label": "Top Brand footwear under @1000"
-      }
-    ],
-    "raw_text": "Top Brand footwear under @1000\n\nhttps://fkrt.co/zOzgxO",
-    "final_url": "https://fkrt.co/zOzgxO",
-    "local_image": "assets/images/tgmsg_19566.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-04T07:05:23+00:00",
-    "buy_link": "https://fkrt.co/zOzgxO",
-    "date_iso": "2025-12-04T07:05:23+00:00"
   }
 ]
