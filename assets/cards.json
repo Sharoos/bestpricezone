@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg20238",
+    "title": "Deal Price ₹104",
+    "description": "Amazon | GRAPHENE 45 Pcs Big Mega Sized Building Blocks with Wheels -... Deal Price: ₹104 🔗",
+    "shortlink": "https://www.amazon.in/dp/B0DG5NPC7C?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "GRAPHENE 45 Pcs Big Mega Sized Building Blocks with Wheels -"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0DG5NPC7C?psc=1&tag=bestpricezo0f-21",
+        "label": "₹104"
+      }
+    ],
+    "raw_text": "Amazon | GRAPHENE 45 Pcs Big Mega Sized Building Blocks with Wheels -...\n\nDeal Price: ₹104 \n\n🔗https://www.amazon.in/dp/B0DG5NPC7C?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DG5NPC7C?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_20238.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-08T07:50:30+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DG5NPC7C?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-08T07:50:30+00:00"
+  },
+  {
     "id": "msg20235",
     "title": "Lotus Botanicals Up to 55% off",
     "description": "Myntra | Lotus Botanicals upto 55% off 👉 https://myntr.in/MvEcRX O3 upto 25% off 👉 https://myntr.in/4qLBMA",
@@ -9266,29 +9290,5 @@
     "date_obj": "2025-12-05T08:37:57+00:00",
     "buy_link": "https://www.amazon.in/dp/B0BX6X8L1Y?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-12-05T08:37:57+00:00"
-  },
-  {
-    "id": "msg19801",
-    "title": "Lotus Botanicals Up to 55% off",
-    "description": "Myntra | Lotus Botanicals upto 55% off 👉 https://myntr.in/DZZXJP O3 upto 25% off 👉 https://myntr.in/pv9J1i",
-    "shortlink": "https://myntr.in/DZZXJP",
-    "urls": [
-      {
-        "url": "https://myntr.in/DZZXJP",
-        "label": "Lotus Botanicals upto 55% off"
-      },
-      {
-        "url": "https://myntr.in/pv9J1i",
-        "label": "O3 upto 25% off"
-      }
-    ],
-    "raw_text": "Myntra | Lotus Botanicals upto 55% off \n👉 https://myntr.in/DZZXJP\n\nO3 upto 25% off\n👉 https://myntr.in/pv9J1i",
-    "final_url": "https://myntr.in/DZZXJP",
-    "local_image": "assets/images/tgmsg_19801.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-05T08:40:26+00:00",
-    "buy_link": "https://myntr.in/DZZXJP",
-    "date_iso": "2025-12-05T08:40:26+00:00"
   }
 ]
