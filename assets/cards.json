@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg20306",
+    "title": "Pigeon Hot & Cold Bottle, 1 Ltr @529",
+    "description": "Amazon | Pigeon Hot & Cold Bottle, 1 Ltr @529. https://www.amazon.in/dp/B07L3XC1YM?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B07L3XC1YM?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B07L3XC1YM?th=1&tag=bestpricezo0f-21",
+        "label": "Pigeon Hot & Cold Bottle, 1 Ltr @529"
+      }
+    ],
+    "raw_text": "Amazon | Pigeon Hot & Cold Bottle, 1 Ltr @529.\n\nhttps://www.amazon.in/dp/B07L3XC1YM?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B07L3XC1YM?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_20306.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-08T17:37:51+00:00",
+    "buy_link": "https://www.amazon.in/dp/B07L3XC1YM?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-08T17:37:51+00:00"
+  },
+  {
     "id": "msg20304",
     "title": "Aeropostale trolley at Up to 80% off",
     "description": "Myntra | Aeropostale trolley at Up to 80% off https://myntr.in/Ev6Q5N https://myntr.in/AJPO9I",
@@ -9134,25 +9154,5 @@
     "date_obj": "2025-12-05T15:51:50+00:00",
     "buy_link": "https://myntr.in/WbNUSx",
     "date_iso": "2025-12-05T15:51:50+00:00"
-  },
-  {
-    "id": "msg19870",
-    "title": "Towels (Pack Of 2) From 285",
-    "description": "Myntra  Towels (Pack Of 2) From 285. https://myntr.in/FdN77J",
-    "shortlink": "https://myntr.in/FdN77J",
-    "urls": [
-      {
-        "url": "https://myntr.in/FdN77J",
-        "label": "Myntra Towels (Pack Of 2) From 285"
-      }
-    ],
-    "raw_text": "Myntra  Towels (Pack Of 2) From 285.\n\nhttps://myntr.in/FdN77J",
-    "final_url": "https://myntr.in/FdN77J",
-    "local_image": "assets/images/tgmsg_19870.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-05T15:19:30+00:00",
-    "buy_link": "https://myntr.in/FdN77J",
-    "date_iso": "2025-12-05T15:19:30+00:00"
   }
 ]
