@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg20260",
+    "title": "3. Vaseline Skincare Min. 50% Off",
+    "description": "Myntra | Lakme Makeup Min. 50% - 70% Off: 2. Lakme Skincare Min. 50% - 65% Off: : 4. Ponds Skincare Min. 50% Off: 5. Dove Haircare Min. 60% - 65% Off:",
+    "shortlink": "https://myntr.in/9Ys4Xz",
+    "urls": [
+      {
+        "url": "https://myntr.in/9Ys4Xz",
+        "label": "Lakme Makeup Min. 50% - 70% Off"
+      },
+      {
+        "url": "https://myntr.in/GKw9Tw",
+        "label": "2. Lakme Skincare Min. 50% - 65% Off"
+      },
+      {
+        "url": "https://myntr.in/3NAZl9",
+        "label": "3. Vaseline Skincare Min. 50% Off"
+      },
+      {
+        "url": "https://myntr.in/9tgYk1",
+        "label": "4. Ponds Skincare Min. 50% Off"
+      },
+      {
+        "url": "https://myntr.in/wj0fH3",
+        "label": "5. Dove Haircare Min. 60% - 65% Off"
+      }
+    ],
+    "raw_text": "Myntra | Lakme Makeup Min. 50% - 70% Off: https://myntr.in/9Ys4Xz\n\n2. Lakme Skincare Min. 50% - 65% Off: https://myntr.in/GKw9Tw\n\n3. Vaseline Skincare Min. 50% Off: https://myntr.in/3NAZl9\n\n4. Ponds Skincare Min. 50% Off: https://myntr.in/9tgYk1\n\n5. Dove Haircare Min. 60% - 65% Off: https://myntr.in/wj0fH3",
+    "final_url": "https://myntr.in/9Ys4Xz",
+    "local_image": "assets/images/tgmsg_20260.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-08T10:50:22+00:00",
+    "buy_link": "https://myntr.in/9Ys4Xz",
+    "date_iso": "2025-12-08T10:50:22+00:00"
+  },
+  {
     "id": "msg20259",
     "title": "Min 80% off Lavie & Caprese",
     "description": "Myntra | Min 80% off : Lavie & Caprese 🔗 Min 65% off: Lavie Signature 🔗 Min 70% off: Van Huesen & Accesorize 🔗",
@@ -9222,29 +9258,5 @@
     "date_obj": "2025-12-05T11:22:32+00:00",
     "buy_link": "https://extp.in/BuPPz9",
     "date_iso": "2025-12-05T11:22:32+00:00"
-  },
-  {
-    "id": "msg19817",
-    "title": "Levis Men's Jeans Starts @ ‎869",
-    "description": "Myntra : Levis Men's Jeans Starts @ ‎869. https://myntr.in/HW3UvT Trousers : https://myntr.in/r8brR3",
-    "shortlink": "https://myntr.in/HW3UvT",
-    "urls": [
-      {
-        "url": "https://myntr.in/HW3UvT",
-        "label": "Levis Men's Jeans Starts @ ‎869"
-      },
-      {
-        "url": "https://myntr.in/r8brR3",
-        "label": "Trousers"
-      }
-    ],
-    "raw_text": "Myntra : Levis Men's Jeans Starts @ ‎869.\n\nhttps://myntr.in/HW3UvT\n\nTrousers : https://myntr.in/r8brR3",
-    "final_url": "https://myntr.in/HW3UvT",
-    "local_image": "assets/images/tgmsg_19817.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-05T10:52:37+00:00",
-    "buy_link": "https://myntr.in/HW3UvT",
-    "date_iso": "2025-12-05T10:52:37+00:00"
   }
 ]
