@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg20307",
+    "title": "Diego Ergonomic Office Chair @ 2909",
+    "description": "Amazon | Diego Ergonomic Office Chair @ 2909. 👉https://www.amazon.in/dp/B0D2XZ6SZC?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0D2XZ6SZC?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0D2XZ6SZC?th=1&tag=bestpricezo0f-21",
+        "label": "Diego Ergonomic Office Chair @ 2909"
+      }
+    ],
+    "raw_text": "Amazon | Diego Ergonomic Office Chair @ 2909.\n\n👉https://www.amazon.in/dp/B0D2XZ6SZC?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D2XZ6SZC?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_20307.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-08T17:46:06+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D2XZ6SZC?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-08T17:46:06+00:00"
+  },
+  {
     "id": "msg20306",
     "title": "Pigeon Hot & Cold Bottle, 1 Ltr @529",
     "description": "Amazon | Pigeon Hot & Cold Bottle, 1 Ltr @529. https://www.amazon.in/dp/B07L3XC1YM?th=1&tag=bestpricezo0f-21",
@@ -9130,29 +9150,5 @@
     "date_obj": "2025-12-05T16:11:40+00:00",
     "buy_link": "https://myntr.in/RzU0Oy",
     "date_iso": "2025-12-05T16:11:40+00:00"
-  },
-  {
-    "id": "msg19876",
-    "title": "🏃‍♂️ Moda Rapido Track Pants — Under ₹259",
-    "description": "Myntra | 🔥 Moda Rapido Women’s Briefs — Under ₹99 👉 https://myntr.in/WbNUSx 🏃‍♂️ Moda Rapido Track Pants — Under ₹259 👉 https://myntr.in/Co0Z1A",
-    "shortlink": "https://myntr.in/WbNUSx",
-    "urls": [
-      {
-        "url": "https://myntr.in/WbNUSx",
-        "label": "🔥 Moda Rapido Women’s Briefs — Under ₹99"
-      },
-      {
-        "url": "https://myntr.in/Co0Z1A",
-        "label": "🏃‍♂️ Moda Rapido Track Pants — Under ₹259"
-      }
-    ],
-    "raw_text": "Myntra | 🔥 Moda Rapido Women’s Briefs — Under ₹99\n\n👉 https://myntr.in/WbNUSx\n\n🏃‍♂️ Moda Rapido Track Pants — Under ₹259\n\n👉 https://myntr.in/Co0Z1A",
-    "final_url": "https://myntr.in/WbNUSx",
-    "local_image": "assets/images/tgmsg_19876.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-05T15:51:50+00:00",
-    "buy_link": "https://myntr.in/WbNUSx",
-    "date_iso": "2025-12-05T15:51:50+00:00"
   }
 ]
