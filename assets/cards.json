@@ -1,5 +1,113 @@
 [
   {
+    "id": "msg20219",
+    "title": "Oversized T",
+    "description": "Myntra | Oversized T-shirts From Rs.97 Men's : https://myntr.in/DgUHEV Women : https://myntr.in/zhld0Q",
+    "shortlink": "https://myntr.in/DgUHEV",
+    "urls": [
+      {
+        "url": "",
+        "label": "Oversized T-shirts From Rs.97"
+      },
+      {
+        "url": "https://myntr.in/DgUHEV",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/zhld0Q",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | Oversized T-shirts From Rs.97\n\nMen's : https://myntr.in/DgUHEV \nWomen : https://myntr.in/zhld0Q",
+    "final_url": "https://myntr.in/DgUHEV",
+    "local_image": "assets/images/tgmsg_20219.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-08T04:02:24+00:00",
+    "buy_link": "https://myntr.in/DgUHEV",
+    "date_iso": "2025-12-08T04:02:24+00:00"
+  },
+  {
+    "id": "msg20220",
+    "title": "Up to 86% Off On Red Tape Shoe",
+    "description": "AJIO Upto 86% Off On Red Tape Shoes. Men‘s : Women’s : New Balance : Adidas Shoes. Men’s : Women’s : Adidas Originals. Men’s : Women’s : More :",
+    "shortlink": "https://ajiio.co/WIcVKu",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 86% Off On Red Tape Shoes"
+      },
+      {
+        "url": "https://ajiio.co/WIcVKu",
+        "label": "Men‘s"
+      },
+      {
+        "url": "https://ajiio.co/7Ll44I",
+        "label": "Women’s"
+      },
+      {
+        "url": "https://ajiio.co/Aa183R",
+        "label": "New Balance"
+      },
+      {
+        "url": "",
+        "label": "Adidas Shoes"
+      },
+      {
+        "url": "https://ajiio.co/Q72Yo9",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/VM9E8H",
+        "label": "Women’s"
+      },
+      {
+        "url": "",
+        "label": "Adidas Originals"
+      },
+      {
+        "url": "https://ajiio.co/R4Oui8",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/i3ZvMB",
+        "label": "Women’s"
+      },
+      {
+        "url": "https://ajiio.co/LhpMrE",
+        "label": "More"
+      }
+    ],
+    "raw_text": "AJIO  Upto 86% Off On Red Tape Shoes.\n\nMen‘s : https://ajiio.co/WIcVKu\nWomen’s : https://ajiio.co/7Ll44I\n\nNew Balance : https://ajiio.co/Aa183R\n\nAdidas Shoes. \nMen’s : https://ajiio.co/Q72Yo9\nWomen’s : https://ajiio.co/VM9E8H\n\nAdidas Originals. \nMen’s : https://ajiio.co/R4Oui8\nWomen’s : https://ajiio.co/i3ZvMB\n\nMore : https://ajiio.co/LhpMrE",
+    "final_url": "https://ajiio.co/WIcVKu",
+    "local_image": "assets/images/tgmsg_20220.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-08T04:15:42+00:00",
+    "buy_link": "https://ajiio.co/WIcVKu",
+    "date_iso": "2025-12-08T04:15:42+00:00"
+  },
+  {
+    "id": "msg20221",
+    "title": "Buds @276",
+    "description": "Flipkart | ZEBRONICS Zeb-Buds @276 👉 https://fkrt.co/iRyycq",
+    "shortlink": "https://fkrt.co/iRyycq",
+    "urls": [
+      {
+        "url": "https://fkrt.co/iRyycq",
+        "label": "ZEBRONICS Zeb-Buds @276"
+      }
+    ],
+    "raw_text": "Flipkart | ZEBRONICS Zeb-Buds @276\n\n👉 https://fkrt.co/iRyycq",
+    "final_url": "https://fkrt.co/iRyycq",
+    "local_image": "assets/images/tgmsg_20221.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-08T04:35:09+00:00",
+    "buy_link": "https://fkrt.co/iRyycq",
+    "date_iso": "2025-12-08T04:35:09+00:00"
+  },
+  {
     "id": "msg20218",
     "title": "🛒 Deal Price ₹10999",
     "description": "Amazon | 💻 Gaming Monitor Deals Zebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate 🛒 Deal Price: ₹10999",
@@ -9110,117 +9218,5 @@
     "date_obj": "2025-12-05T06:33:16+00:00",
     "buy_link": "https://myntr.in/97SJif",
     "date_iso": "2025-12-05T06:33:16+00:00"
-  },
-  {
-    "id": "msg19777",
-    "title": "82% Off On Redtape Shoe",
-    "description": "AJIO Loot : s. Men : Women : Sandals & Clogs : Men : Women : Red Tape Clothing :",
-    "shortlink": "https://ajiio.in/8AWc8rX",
-    "urls": [
-      {
-        "url": "https://ajiio.in/8AWc8rX",
-        "label": "82% Off On Redtape Shoes"
-      },
-      {
-        "url": "https://ajiio.in/v0DVNkf",
-        "label": "Women"
-      },
-      {
-        "url": "",
-        "label": "Sandals & Clogs"
-      },
-      {
-        "url": "https://ajiio.in/88gUTbc",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.in/hv8l5sM",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.in/37oCZaz",
-        "label": "Red Tape Clothing"
-      }
-    ],
-    "raw_text": "AJIO Loot : 82% Off On Redtape Shoes.\n\nMen : https://ajiio.in/8AWc8rX\nWomen : https://ajiio.in/v0DVNkf\n\nSandals & Clogs :\nMen : https://ajiio.in/88gUTbc\nWomen : https://ajiio.in/hv8l5sM\n\nRed Tape Clothing : https://ajiio.in/37oCZaz",
-    "final_url": "https://ajiio.in/8AWc8rX",
-    "local_image": "assets/images/tgmsg_19777.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-05T05:49:41+00:00",
-    "buy_link": "https://ajiio.in/8AWc8rX",
-    "date_iso": "2025-12-05T05:49:41+00:00"
-  },
-  {
-    "id": "msg19778",
-    "title": "Up to 82% Off On Kook N Keech Men's T",
-    "description": "Myntra : Upto 82% Off On Kook N Keech Men's T-Shirts 👉https://myntr.in/h34Eow 👉https://myntr.in/O1Lg6h",
-    "shortlink": "https://myntr.in/h34Eow",
-    "urls": [
-      {
-        "url": "https://myntr.in/h34Eow",
-        "label": "Upto 82% Off On Kook N Keech Men's T-Shirts"
-      },
-      {
-        "url": "https://myntr.in/O1Lg6h",
-        "label": ""
-      }
-    ],
-    "raw_text": "Myntra : Upto 82% Off On Kook N Keech Men's T-Shirts\n\n👉https://myntr.in/h34Eow\n👉https://myntr.in/O1Lg6h",
-    "final_url": "https://myntr.in/h34Eow",
-    "local_image": "assets/images/tgmsg_19778.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-05T05:53:16+00:00",
-    "buy_link": "https://myntr.in/h34Eow",
-    "date_iso": "2025-12-05T05:53:16+00:00"
-  },
-  {
-    "id": "msg19774",
-    "title": "Pay via CRED & get up to ₹200 cashback",
-    "description": "😰 Feeling uneasy, stressed, or unusually tired? ⚠️ Low Vitamin D could be the reason — get it checked! 🩺 Get Full Body Check-up + Vitamin D + HbA1c + Thyroid (T3/T4/TSH) At ₹899 (MRP ₹4380) 👉 Link: 🔖 Use Coupon: MED50 🧪…",
-    "shortlink": "https://extp.in/eebsME",
-    "urls": [
-      {
-        "url": "",
-        "label": "😰 Feeling uneasy, stressed, or unusually tired?"
-      },
-      {
-        "url": "",
-        "label": "⚠️ Low Vitamin D could be the reason — get it checked!"
-      },
-      {
-        "url": "https://extp.in/eebsME",
-        "label": "🩺 Get Full Body Check-up + Vitamin D + HbA1c + Thyroid (T3/T4/TSH) At ₹899 (MRP ₹4380)"
-      },
-      {
-        "url": "",
-        "label": "🧪 64 Tests Covered"
-      },
-      {
-        "url": "",
-        "label": "CBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Vitamin D, Thyroid (T3/T4/TSH) & more"
-      },
-      {
-        "url": "",
-        "label": "🎁 Bonus Benefits"
-      },
-      {
-        "url": "",
-        "label": "FREE JioSaavn Pro (1 Month) worth ₹299 after test completion"
-      },
-      {
-        "url": "",
-        "label": "Pay via CRED & get up to ₹200 cashback"
-      }
-    ],
-    "raw_text": "😰 Feeling uneasy, stressed, or unusually tired?\n\n⚠️ Low Vitamin D could be the reason — get it checked!\n\n🩺 Get Full Body Check-up + Vitamin D + HbA1c + Thyroid (T3/T4/TSH) At ₹899 (MRP ₹4380)\n\n👉 Link: https://extp.in/eebsME\n🔖 Use Coupon: MED50\n\n🧪 64 Tests Covered:\nCBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Vitamin D, Thyroid (T3/T4/TSH) & more.\n\n🎁 Bonus Benefits:\n\nFREE JioSaavn Pro (1 Month) worth ₹299 after test completion\n\nPay via CRED & get up to ₹200 cashback",
-    "final_url": "https://extp.in/eebsME",
-    "local_image": "assets/images/tgmsg_19774.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-05T05:29:57+00:00",
-    "buy_link": "https://extp.in/eebsME",
-    "date_iso": "2025-12-05T05:29:57+00:00"
   }
 ]
