@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg20308",
+    "title": "Up to 80% Off On Aristocrat Bag",
+    "description": "Ajio | Upto 80% Off On Aristocrat Bags 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/nqrZGd",
+    "urls": [
+      {
+        "url": "https://ajiio.co/nqrZGd",
+        "label": "Upto 80% Off On Aristocrat Bags"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "Ajio | Upto 80% Off On Aristocrat Bags \n\nhttps://ajiio.co/nqrZGd\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/nqrZGd",
+    "local_image": "assets/images/tgmsg_20308.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-08T18:02:52+00:00",
+    "buy_link": "https://ajiio.co/nqrZGd",
+    "date_iso": "2025-12-08T18:02:52+00:00"
+  },
+  {
+    "id": "msg20309",
+    "title": "TRESemme Up to 65% Off",
+    "description": "Myntra | TRESemme Upto  65% Off https://myntr.in/uCy6QI",
+    "shortlink": "https://myntr.in/uCy6QI",
+    "urls": [
+      {
+        "url": "https://myntr.in/uCy6QI",
+        "label": "TRESemme Upto 65% Off"
+      }
+    ],
+    "raw_text": "Myntra | TRESemme Upto  65% Off\n\nhttps://myntr.in/uCy6QI",
+    "final_url": "https://myntr.in/uCy6QI",
+    "local_image": "assets/images/tgmsg_20309.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-08T18:18:07+00:00",
+    "buy_link": "https://myntr.in/uCy6QI",
+    "date_iso": "2025-12-08T18:18:07+00:00"
+  },
+  {
     "id": "msg20307",
     "title": "Diego Ergonomic Office Chair @ 2909",
     "description": "Amazon | Diego Ergonomic Office Chair @ 2909. 👉https://www.amazon.in/dp/B0D2XZ6SZC?th=1&tag=bestpricezo0f-21",
@@ -9090,65 +9134,5 @@
     "date_obj": "2025-12-05T16:03:05+00:00",
     "buy_link": "https://fkrt.co/8WcERj",
     "date_iso": "2025-12-05T16:03:05+00:00"
-  },
-  {
-    "id": "msg19878",
-    "title": "Min 50% Off",
-    "description": "Flipkart | 1️⃣ Women’s Sandals Inc.5, Catwalk & more  🔗 2️⃣ Mochi Women’s Boots Stylish winter boots  🔗",
-    "shortlink": "https://fkrt.co/q7nXIZ",
-    "urls": [
-      {
-        "url": "",
-        "label": "1️⃣ Women’s Sandals"
-      },
-      {
-        "url": "",
-        "label": "Inc.5, Catwalk & more"
-      },
-      {
-        "url": "https://fkrt.co/q7nXIZ",
-        "label": "Min 50% Off"
-      },
-      {
-        "url": "",
-        "label": "2️⃣ Mochi Women’s Boots"
-      },
-      {
-        "url": "",
-        "label": "Stylish winter boots"
-      },
-      {
-        "url": "https://fkrt.co/GQZE1E",
-        "label": "Min 50% Off"
-      }
-    ],
-    "raw_text": "Flipkart | 1️⃣ Women’s Sandals\nInc.5, Catwalk & more\nMin 50% Off\n🔗 https://fkrt.co/q7nXIZ\n\n2️⃣ Mochi Women’s Boots\nStylish winter boots\nMin 50% Off\n🔗 https://fkrt.co/GQZE1E",
-    "final_url": "https://fkrt.co/q7nXIZ",
-    "local_image": "assets/images/tgmsg_19878.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-05T16:08:52+00:00",
-    "buy_link": "https://fkrt.co/q7nXIZ",
-    "date_iso": "2025-12-05T16:08:52+00:00"
-  },
-  {
-    "id": "msg19879",
-    "title": "🧥 Moda Rapido Sweatshirts — Under ₹349",
-    "description": "Myntra | 🧥 Moda Rapido Sweatshirts — Under ₹349 👉 https://myntr.in/RzU0Oy",
-    "shortlink": "https://myntr.in/RzU0Oy",
-    "urls": [
-      {
-        "url": "https://myntr.in/RzU0Oy",
-        "label": "🧥 Moda Rapido Sweatshirts — Under ₹349"
-      }
-    ],
-    "raw_text": "Myntra | 🧥 Moda Rapido Sweatshirts — Under ₹349\n\n👉 https://myntr.in/RzU0Oy",
-    "final_url": "https://myntr.in/RzU0Oy",
-    "local_image": "assets/images/tgmsg_19879.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-05T16:11:40+00:00",
-    "buy_link": "https://myntr.in/RzU0Oy",
-    "date_iso": "2025-12-05T16:11:40+00:00"
   }
 ]
