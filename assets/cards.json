@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg20218",
+    "title": "🛒 Deal Price ₹10999",
+    "description": "Amazon | 💻 Gaming Monitor Deals Zebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate 🛒 Deal Price: ₹10999",
+    "shortlink": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "💻 Gaming Monitor Deals"
+      },
+      {
+        "url": "",
+        "label": "Zebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹10999"
+      }
+    ],
+    "raw_text": "Amazon | 💻 Gaming Monitor Deals\n\nZebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate\n🛒 Deal Price: ₹10999\n\nhttps://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_20218.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-08T03:45:54+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-08T03:45:54+00:00"
+  },
+  {
     "id": "msg20217",
     "title": "Up to 90% Off On Campus Sutra Clothing",
     "description": "Upto 90% Off On Campus Sutra Clothing. Trousers : Jeans : SweaT-Shirts : Jackets : Sweaters : Shirts : T-Shirts : Co-Ords : Shorts : Trackpants : Women :",
@@ -9194,37 +9222,5 @@
     "date_obj": "2025-12-05T05:29:57+00:00",
     "buy_link": "https://extp.in/eebsME",
     "date_iso": "2025-12-05T05:29:57+00:00"
-  },
-  {
-    "id": "msg19775",
-    "title": "Up to 60% Off of Beauty + Extra 25% Off 🔥🔥🔥",
-    "description": "AJIO : Upto 60% Off of Beauty + Extra 25% Off 🔥🔥🔥 ✅Use Code: BLUSH [₹999+ cart] 👉🏻 NIVEA: 👉🏻 CETAPHIL:",
-    "shortlink": "https://ajiio.co/UcD5XY",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 60% Off of Beauty + Extra 25% Off 🔥🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "✅Use Code: BLUSH [₹999+ cart]"
-      },
-      {
-        "url": "https://ajiio.co/UcD5XY",
-        "label": "🏻 NIVEA"
-      },
-      {
-        "url": "https://ajiio.co/utRmE5",
-        "label": "🏻 CETAPHIL"
-      }
-    ],
-    "raw_text": "AJIO : Upto 60% Off of Beauty  + Extra 25% Off 🔥🔥🔥\n\n✅Use Code: BLUSH [₹999+ cart]\n\n👉🏻 NIVEA: https://ajiio.co/UcD5XY\n👉🏻 CETAPHIL: https://ajiio.co/utRmE5",
-    "final_url": "https://ajiio.co/UcD5XY",
-    "local_image": "assets/images/tgmsg_19775.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-05T05:39:05+00:00",
-    "buy_link": "https://ajiio.co/UcD5XY",
-    "date_iso": "2025-12-05T05:39:05+00:00"
   }
 ]
