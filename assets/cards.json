@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg20278",
+    "title": "Sweatshirts Under ₹299",
+    "description": "Flipkart | Sweatshirts Under ₹299. 👉https://fkrt.co/kG5acn Jackets Under ₹499. 👉https://fkrt.co/bU8OHt Jeans Under ₹499. 👉https://fkrt.co/bxqliB",
+    "shortlink": "https://fkrt.co/kG5acn",
+    "urls": [
+      {
+        "url": "https://fkrt.co/kG5acn",
+        "label": "Sweatshirts Under ₹299"
+      },
+      {
+        "url": "https://fkrt.co/bU8OHt",
+        "label": "Jackets Under ₹499"
+      },
+      {
+        "url": "https://fkrt.co/bxqliB",
+        "label": "Jeans Under ₹499"
+      }
+    ],
+    "raw_text": "Flipkart | Sweatshirts Under ₹299.\n\n👉https://fkrt.co/kG5acn\n\nJackets Under ₹499.\n\n👉https://fkrt.co/bU8OHt\n\nJeans Under ₹499.\n\n👉https://fkrt.co/bxqliB",
+    "final_url": "https://fkrt.co/kG5acn",
+    "local_image": "assets/images/tgmsg_20278.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-08T13:15:26+00:00",
+    "buy_link": "https://fkrt.co/kG5acn",
+    "date_iso": "2025-12-08T13:15:26+00:00"
+  },
+  {
     "id": "msg20275",
     "title": "✔️ Fast Naturaltein Calcium Citrate 30 Day stock @ 169/",
     "description": "Amazon | ✔️ Fast : Naturaltein Calcium Citrate 30 Day stock @ 169/- (❌Mrp: 600) 🔗 Most Bioavailable form.",
@@ -9194,29 +9222,5 @@
     "date_obj": "2025-12-05T12:12:17+00:00",
     "buy_link": "https://myntr.in/iA7NpF",
     "date_iso": "2025-12-05T12:12:17+00:00"
-  },
-  {
-    "id": "msg19832",
-    "title": "Flat 5% off on Gold & Diamond Jewellery",
-    "description": "Myntra |  Use coupon code: JWLSOFF 🔗 Flat 7% off on Silver coins Use coupon code: JWLOFF15 🔗",
-    "shortlink": "https://myntr.in/op6OHT",
-    "urls": [
-      {
-        "url": "https://myntr.in/op6OHT",
-        "label": "Flat 5% off on Gold & Diamond Jewellery"
-      },
-      {
-        "url": "https://myntr.in/Ho7O6q",
-        "label": "Flat 7% off on Silver coins"
-      }
-    ],
-    "raw_text": "Myntra | Flat 5% off on Gold & Diamond Jewellery\nUse coupon code: JWLSOFF\n🔗 https://myntr.in/op6OHT\n\nFlat 7% off on Silver coins\nUse coupon code: JWLOFF15\n🔗 https://myntr.in/Ho7O6q",
-    "final_url": "https://myntr.in/op6OHT",
-    "local_image": "assets/images/tgmsg_19832.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-05T12:15:10+00:00",
-    "buy_link": "https://myntr.in/op6OHT",
-    "date_iso": "2025-12-05T12:15:10+00:00"
   }
 ]
