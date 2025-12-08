@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg20234",
+    "title": "Deal Price ₹1593",
+    "description": "Amazon | MOVE-MEANT Travel Crew Small Cabin 55Cm Suitcase 8 Wheels Nu... Deal Price: ₹1593 👉",
+    "shortlink": "https://www.amazon.in/dp/B0F3P7TXDN?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "MOVE-MEANT Travel Crew Small Cabin 55Cm Suitcase 8 Wheels Nu"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0F3P7TXDN?psc=1&tag=bestpricezo0f-21",
+        "label": "₹1593"
+      }
+    ],
+    "raw_text": "Amazon | MOVE-MEANT Travel Crew Small Cabin 55Cm Suitcase 8 Wheels Nu...\n\nDeal Price: ₹1593\n\n👉https://www.amazon.in/dp/B0F3P7TXDN?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F3P7TXDN?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_20234.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-08T07:01:11+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F3P7TXDN?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-08T07:01:11+00:00"
+  },
+  {
     "id": "msg20227",
     "title": "🔥Clothing Starts ₹199",
     "description": "🔥AJIO  Clothing Starts ₹199 Tshirt : https://ajiio.co/eJqrQ5 Shirt : https://ajiio.co/XRGt66 Jeans : https://ajiio.co/bnfisb",
@@ -9294,45 +9318,5 @@
     "date_obj": "2025-12-05T07:42:35+00:00",
     "buy_link": "https://www.amazon.in/dp/B0BNLN44XN?smid=A1WYWER0W24N8S&th=1&psc=1&language=en_IN&tag=bestpricezo0f-21",
     "date_iso": "2025-12-05T07:42:35+00:00"
-  },
-  {
-    "id": "msg19793",
-    "title": "2025 Sale",
-    "description": "Flipkart: Buy Buy  Jacket @199: Shoes @199: Luggage Upto 80% Off Ethnic Wear Under @499 Jeans & Trousers Under @499",
-    "shortlink": "https://fktr.in/HVgNuTo",
-    "urls": [
-      {
-        "url": "https://fktr.in/HVgNuTo",
-        "label": ""
-      },
-      {
-        "url": "https://fktr.in/9l4XNn0",
-        "label": "Jacket @199"
-      },
-      {
-        "url": "https://fktr.in/85jHGqg",
-        "label": "Shoes @199"
-      },
-      {
-        "url": "https://fktr.in/YiJ02M7",
-        "label": "Luggage Upto 80% Off"
-      },
-      {
-        "url": "https://fktr.in/exErEA8",
-        "label": "Ethnic Wear Under @499"
-      },
-      {
-        "url": "https://fktr.in/snYgLD2",
-        "label": "Jeans & Trousers Under @499"
-      }
-    ],
-    "raw_text": "Flipkart: Buy Buy 2025 Sale \n\nhttps://fktr.in/HVgNuTo\n\nJacket @199: https://fktr.in/9l4XNn0\n\nShoes @199: https://fktr.in/85jHGqg\n\nLuggage Upto 80% Off\nhttps://fktr.in/YiJ02M7\n\nEthnic Wear Under @499\nhttps://fktr.in/exErEA8\n\nJeans & Trousers Under @499\nhttps://fktr.in/snYgLD2",
-    "final_url": "https://fktr.in/HVgNuTo",
-    "local_image": "assets/images/tgmsg_19793.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-05T07:47:37+00:00",
-    "buy_link": "https://fktr.in/HVgNuTo",
-    "date_iso": "2025-12-05T07:47:37+00:00"
   }
 ]
