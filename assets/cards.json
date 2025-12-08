@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg20259",
+    "title": "Min 80% off Lavie & Caprese",
+    "description": "Myntra | Min 80% off : Lavie & Caprese 🔗 Min 65% off: Lavie Signature 🔗 Min 70% off: Van Huesen & Accesorize 🔗",
+    "shortlink": "https://myntr.in/pLBmc6",
+    "urls": [
+      {
+        "url": "https://myntr.in/pLBmc6",
+        "label": "Min 80% off : Lavie & Caprese"
+      },
+      {
+        "url": "https://myntr.in/AYMtIn",
+        "label": "Min 65% off: Lavie Signature"
+      },
+      {
+        "url": "https://myntr.in/zyQXdM",
+        "label": "Min 70% off: Van Huesen & Accesorize"
+      }
+    ],
+    "raw_text": "Myntra | Min 80% off : Lavie & Caprese\n🔗 https://myntr.in/pLBmc6\n\nMin 65% off: Lavie Signature\n🔗 https://myntr.in/AYMtIn\n\nMin 70% off: Van Huesen & Accesorize\n🔗 https://myntr.in/zyQXdM",
+    "final_url": "https://myntr.in/pLBmc6",
+    "local_image": "assets/images/tgmsg_20259.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-08T10:40:04+00:00",
+    "buy_link": "https://myntr.in/pLBmc6",
+    "date_iso": "2025-12-08T10:40:04+00:00"
+  },
+  {
     "id": "msg20253",
     "title": "60% Off On Branded Beauty Product",
     "description": "Myntra : 50-60% Off On Branded Beauty Products. Dove : https://myntr.in/DzRo5v Tresemme : https://myntr.in/RezfQC Pantene : https://myntr.in/FY6M1b Head & Shoulders : https://myntr.in/tEcTtD Clinic Plus :…",
@@ -9218,53 +9246,5 @@
     "date_obj": "2025-12-05T10:52:37+00:00",
     "buy_link": "https://myntr.in/HW3UvT",
     "date_iso": "2025-12-05T10:52:37+00:00"
-  },
-  {
-    "id": "msg19811",
-    "title": "➕ Extra 25% OFF on your first order!",
-    "description": "🔥 SAVANA NEW USER ! 🔥 ✨ New Users Only 👗 Stylish Winter Collection 🛍 Items starting at just ₹290  Perfect time to grab premium fashion at steal prices! 😍 👉 Shop Now : ⏳ Limited Time Offer — Don’t Miss Out!",
-    "shortlink": "https://extp.in/4sPcxl",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 SAVANA NEW USER ! 🔥"
-      },
-      {
-        "url": "",
-        "label": "✨ New Users Only"
-      },
-      {
-        "url": "",
-        "label": "👗 Stylish Winter Collection"
-      },
-      {
-        "url": "",
-        "label": "🛍 Items starting at just ₹290"
-      },
-      {
-        "url": "",
-        "label": "➕ Extra 25% OFF on your first order!"
-      },
-      {
-        "url": "",
-        "label": "Perfect time to grab premium fashion at steal prices! 😍"
-      },
-      {
-        "url": "https://extp.in/4sPcxl",
-        "label": "Shop Now"
-      },
-      {
-        "url": "",
-        "label": "⏳ Limited Time Offer — Don’t Miss Out!"
-      }
-    ],
-    "raw_text": "🔥 SAVANA NEW USER ! 🔥\n\n✨ New Users Only\n👗 Stylish Winter Collection\n🛍 Items starting at just ₹290\n➕ Extra 25% OFF on your first order!\n\nPerfect time to grab premium fashion at steal prices! 😍\n\n👉 Shop Now : https://extp.in/4sPcxl\n\n⏳ Limited Time Offer — Don’t Miss Out!",
-    "final_url": "https://extp.in/4sPcxl",
-    "local_image": "assets/images/tgmsg_19811.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-05T10:33:55+00:00",
-    "buy_link": "https://extp.in/4sPcxl",
-    "date_iso": "2025-12-05T10:33:55+00:00"
   }
 ]
