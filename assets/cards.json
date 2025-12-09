@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg20396",
+    "title": "80% Off",
+    "description": "Flipkart | 80% Off - Spykar Women Jeans At Rs.708 🔗 https://fkrt.co/SLlrjt",
+    "shortlink": "https://fkrt.co/SLlrjt",
+    "urls": [
+      {
+        "url": "https://fkrt.co/SLlrjt",
+        "label": "80% Off - Spykar Women Jeans At Rs.708"
+      }
+    ],
+    "raw_text": "Flipkart | 80% Off - Spykar Women Jeans At Rs.708\n\n🔗 https://fkrt.co/SLlrjt",
+    "final_url": "https://fkrt.co/SLlrjt",
+    "local_image": "assets/images/tgmsg_20396.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-09T11:45:09+00:00",
+    "buy_link": "https://fkrt.co/SLlrjt",
+    "date_iso": "2025-12-09T11:45:09+00:00"
+  },
+  {
     "id": "msg20392",
     "title": "Up to 85% Off On Wildcraft Backpacks & Luggage",
     "description": "Myntra  Upto 85% Off On Wildcraft Backpacks & Luggage. Backpacks : https://myntr.in/F6BkBo Luggage : https://myntr.in/U8BTD0",
@@ -9106,25 +9126,5 @@
     "date_obj": "2025-12-06T09:12:25+00:00",
     "buy_link": "https://myntr.in/thLqiv",
     "date_iso": "2025-12-06T09:12:25+00:00"
-  },
-  {
-    "id": "msg19964",
-    "title": "89% Off",
-    "description": "Flipkart | 89% Off - Sturlite Table Lamp At Rs.289 👉https://fkrt.co/xixHDj",
-    "shortlink": "https://fkrt.co/xixHDj",
-    "urls": [
-      {
-        "url": "https://fkrt.co/xixHDj",
-        "label": "89% Off - Sturlite Table Lamp At Rs.289"
-      }
-    ],
-    "raw_text": "Flipkart | 89% Off - Sturlite Table Lamp At Rs.289\n\n👉https://fkrt.co/xixHDj",
-    "final_url": "https://fkrt.co/xixHDj",
-    "local_image": "assets/images/tgmsg_19964.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-06T09:20:15+00:00",
-    "buy_link": "https://fkrt.co/xixHDj",
-    "date_iso": "2025-12-06T09:20:15+00:00"
   }
 ]
