@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg20482",
+    "title": "belts and wallets at 399",
+    "description": "Myntra  Ucb - belts and wallets at 399 Link : https://myntr.in/rBRZec",
+    "shortlink": "https://myntr.in/rBRZec",
+    "urls": [
+      {
+        "url": "https://myntr.in/rBRZec",
+        "label": "belts and wallets at 399"
+      }
+    ],
+    "raw_text": "Myntra  Ucb - belts and wallets at 399\n\nLink : https://myntr.in/rBRZec",
+    "final_url": "https://myntr.in/rBRZec",
+    "local_image": "assets/images/tgmsg_20482.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-09T20:03:31+00:00",
+    "buy_link": "https://myntr.in/rBRZec",
+    "date_iso": "2025-12-09T20:03:31+00:00"
+  },
+  {
+    "id": "msg20484",
+    "title": "Women's Readymade Blazers Starting @ Rs.184",
+    "description": "Flipkart | Women's Readymade Blazers Starting @ Rs.184 https://fkrt.co/J0gw1Z",
+    "shortlink": "https://fkrt.co/J0gw1Z",
+    "urls": [
+      {
+        "url": "https://fkrt.co/J0gw1Z",
+        "label": "Women's Readymade Blazers Starting @ Rs.184"
+      }
+    ],
+    "raw_text": "Flipkart | Women's Readymade Blazers Starting @ Rs.184\n\n https://fkrt.co/J0gw1Z",
+    "final_url": "https://fkrt.co/J0gw1Z",
+    "local_image": "assets/images/tgmsg_20484.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-09T20:04:17+00:00",
+    "buy_link": "https://fkrt.co/J0gw1Z",
+    "date_iso": "2025-12-09T20:04:17+00:00"
+  },
+  {
     "id": "msg20468",
     "title": "Guess, Ferragamo Min 40% off",
     "description": "Myntra | Guess, Ferragamo : Min 40% off https://myntr.in/TEw9E5",
@@ -8822,61 +8862,5 @@
     "date_obj": "2025-12-07T05:15:53+00:00",
     "buy_link": "https://myntr.in/D41VEY",
     "date_iso": "2025-12-07T05:15:53+00:00"
-  },
-  {
-    "id": "msg20053",
-    "title": "Signoraware Executive Small Lunch Box with Bag @₹180",
-    "description": "Amazon | Signoraware Executive Small Lunch Box with Bag @₹180 👉 https://www.amazon.in/dp/B00JJH9GO6?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B00JJH9GO6?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B00JJH9GO6?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Signoraware Executive Small Lunch Box with Bag @₹180"
-      }
-    ],
-    "raw_text": "Amazon | Signoraware Executive Small Lunch Box with Bag @₹180\n\n👉 https://www.amazon.in/dp/B00JJH9GO6?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B00JJH9GO6?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_20053.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-07T04:46:11+00:00",
-    "buy_link": "https://www.amazon.in/dp/B00JJH9GO6?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-07T04:46:11+00:00"
-  },
-  {
-    "id": "msg20050",
-    "title": "Up to 80% Off On Branded Backpack",
-    "description": "Flipkart | Upto 80% Off On Branded Backpacks. Masterlink : Skybags : Safari : Aristocrat :",
-    "shortlink": "https://fkrt.co/wgFTlw",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Branded Backpacks"
-      },
-      {
-        "url": "https://fkrt.co/wgFTlw",
-        "label": "Masterlink"
-      },
-      {
-        "url": "https://fkrt.co/OqRDmA",
-        "label": "Skybags"
-      },
-      {
-        "url": "https://fkrt.co/CLd3U6",
-        "label": "Safari"
-      },
-      {
-        "url": "https://fkrt.co/do04ZJ",
-        "label": "Aristocrat"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 80% Off On Branded Backpacks. \n\nMasterlink : https://fkrt.co/wgFTlw\n\nSkybags : https://fkrt.co/OqRDmA\nSafari : https://fkrt.co/CLd3U6\nAristocrat : https://fkrt.co/do04ZJ",
-    "final_url": "https://fkrt.co/wgFTlw",
-    "local_image": "assets/images/tgmsg_20050.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-07T04:16:01+00:00",
-    "buy_link": "https://fkrt.co/wgFTlw",
-    "date_iso": "2025-12-07T04:16:01+00:00"
   }
 ]
