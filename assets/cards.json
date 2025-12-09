@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg20374",
+    "title": "⚡ Deal Price ₹2,099",
+    "description": "🔥 Myntra Limited Time Price Crash Deals — Live Now! 🧳 American Tourister Trolley — Price Crashed! ⏳ Valid for 2 Hours Only 💥 Regular Price: ₹2,799 ⚡ Deal Price: ₹2,099 (Only for the first 100 users!) 👉 ⚡ Bajaj Ninja…",
+    "shortlink": "https://myntr.in/nDTJrP",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Myntra Limited Time Price Crash Deals — Live Now!"
+      },
+      {
+        "url": "",
+        "label": "🧳 American Tourister Trolley — Price Crashed!"
+      },
+      {
+        "url": "",
+        "label": "⏳ Valid for 2 Hours Only"
+      },
+      {
+        "url": "",
+        "label": "💥 Regular Price: ₹2,799"
+      },
+      {
+        "url": "",
+        "label": "⚡ Deal Price: ₹2,099"
+      },
+      {
+        "url": "https://myntr.in/nDTJrP",
+        "label": "(Only for the first 100 users!)"
+      },
+      {
+        "url": "",
+        "label": "⚡ Bajaj Ninja Series 500W Mixer Grinder — Hot Deal!"
+      },
+      {
+        "url": "https://myntr.in/SZKguS",
+        "label": "💥 Offer Price: ₹1,899"
+      }
+    ],
+    "raw_text": "🔥 Myntra Limited Time Price Crash Deals — Live Now!\n \n🧳 American Tourister Trolley — Price Crashed!\n⏳ Valid for 2 Hours Only\n💥 Regular Price: ₹2,799\n⚡ Deal Price: ₹2,099\n(Only for the first 100 users!)\n👉 https://myntr.in/nDTJrP\n\n⚡ Bajaj Ninja Series 500W Mixer Grinder — Hot Deal!\n💥 Offer Price: ₹1,899\n🎟️ Extra Coupon Discounts Available!\n👉 https://myntr.in/SZKguS",
+    "final_url": "https://myntr.in/nDTJrP",
+    "local_image": "assets/images/tgmsg_20374.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-09T07:21:36+00:00",
+    "buy_link": "https://myntr.in/nDTJrP",
+    "date_iso": "2025-12-09T07:21:36+00:00"
+  },
+  {
     "id": "msg20371",
     "title": "🔥Min 75% Off On Branded Trolleys/Suitcases + Bank Offe",
     "description": "🔥Myntra : Min 75% Off On Branded Trolleys/Suitcases + Bank Offers Brandwise 🔽🔽 •Verage : •Aristocrat : •Teakwood Leathers : •Safari : •Skybags : •VIP : •Nasher Miles : •Wildcraft :",
@@ -9138,25 +9186,5 @@
     "date_obj": "2025-12-06T04:59:48+00:00",
     "buy_link": "https://ajiio.in/z9urPKb",
     "date_iso": "2025-12-06T04:59:48+00:00"
-  },
-  {
-    "id": "msg19944",
-    "title": "🔥Oneplus Trimmers at ₹569",
-    "description": "🔥Flipkart | Oneplus Trimmers at ₹569 https://fkrt.co/4d2IEC",
-    "shortlink": "https://fkrt.co/4d2IEC",
-    "urls": [
-      {
-        "url": "https://fkrt.co/4d2IEC",
-        "label": "🔥Flipkart | Oneplus Trimmers at ₹569"
-      }
-    ],
-    "raw_text": "🔥Flipkart | Oneplus Trimmers at ₹569\n\nhttps://fkrt.co/4d2IEC",
-    "final_url": "https://fkrt.co/4d2IEC",
-    "local_image": "assets/images/tgmsg_19944.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-06T05:02:42+00:00",
-    "buy_link": "https://fkrt.co/4d2IEC",
-    "date_iso": "2025-12-06T05:02:42+00:00"
   }
 ]
