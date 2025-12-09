@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg20357",
+    "title": "🛒 Deal Price Starts @ ₹619",
+    "description": "Myntra | 🧥 HRX By Hrithik Roshan Jacket Deals 🛒 Deal Price: Starts @ ₹619 Women: Men:",
+    "shortlink": "https://myntr.in/6zF9vi",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧥 HRX By Hrithik Roshan Jacket Deals"
+      },
+      {
+        "url": "",
+        "label": "🛒 Deal Price: Starts @ ₹619"
+      },
+      {
+        "url": "https://myntr.in/6zF9vi",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/OEZTtI",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "Myntra | 🧥 HRX By Hrithik Roshan Jacket Deals\n\n🛒 Deal Price: Starts @ ₹619\n\nWomen: https://myntr.in/6zF9vi\nMen: https://myntr.in/OEZTtI",
+    "final_url": "https://myntr.in/6zF9vi",
+    "local_image": "assets/images/tgmsg_20357.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-09T04:45:49+00:00",
+    "buy_link": "https://myntr.in/6zF9vi",
+    "date_iso": "2025-12-09T04:45:49+00:00"
+  },
+  {
     "id": "msg20353",
     "title": "Kuber makeup organiser at just Rs.296",
     "description": "Myntra | Kuber makeup organiser at just Rs.296. 👉https://myntr.in/tibo3g",
@@ -9126,33 +9158,5 @@
     "date_obj": "2025-12-05T20:06:17+00:00",
     "buy_link": "https://fkrt.co/lWxoZh",
     "date_iso": "2025-12-05T20:06:17+00:00"
-  },
-  {
-    "id": "msg19916",
-    "title": "Axe Deodorant Combo (Pack of 3) @241",
-    "description": "Flipkart | Axe Deodorant Combo (Pack of 3) @241 https://fkrt.co/DJjDxW 231 https://fkrt.co/wcT1kO MasterLink : https://fkrt.co/v8V9QB",
-    "shortlink": "https://fkrt.co/DJjDxW",
-    "urls": [
-      {
-        "url": "https://fkrt.co/DJjDxW",
-        "label": "Axe Deodorant Combo (Pack of 3) @241"
-      },
-      {
-        "url": "https://fkrt.co/wcT1kO",
-        "label": "231"
-      },
-      {
-        "url": "https://fkrt.co/v8V9QB",
-        "label": "MasterLink"
-      }
-    ],
-    "raw_text": "Flipkart | Axe Deodorant Combo (Pack of 3) @241\n\nhttps://fkrt.co/DJjDxW\n\n231 https://fkrt.co/wcT1kO\n\nMasterLink : https://fkrt.co/v8V9QB",
-    "final_url": "https://fkrt.co/DJjDxW",
-    "local_image": "assets/images/tgmsg_19916.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-05T20:06:57+00:00",
-    "buy_link": "https://fkrt.co/DJjDxW",
-    "date_iso": "2025-12-05T20:06:57+00:00"
   }
 ]
