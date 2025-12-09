@@ -1,5 +1,105 @@
 [
   {
+    "id": "msg20385",
+    "title": "Black Double Wall Vacuum Tumbler at JUST Rs.775",
+    "description": "Myntra |  🔗 2L Kettle at Just Rs.492 🔗 3 Pieces Pink Printed Dishwasher Safe Water Bottles at Rs.379 🔗",
+    "shortlink": "https://myntr.in/6FTigb",
+    "urls": [
+      {
+        "url": "https://myntr.in/6FTigb",
+        "label": "Black Double Wall Vacuum Tumbler at JUST Rs.775"
+      },
+      {
+        "url": "https://myntr.in/4g5gYU",
+        "label": "2L Kettle at Just Rs.492"
+      },
+      {
+        "url": "https://myntr.in/k54kFn",
+        "label": "3 Pieces Pink Printed Dishwasher Safe Water Bottles at Rs.379"
+      }
+    ],
+    "raw_text": "Myntra | Black Double Wall Vacuum Tumbler at JUST Rs.775\n🔗 https://myntr.in/6FTigb\n\n2L Kettle at Just Rs.492\n🔗 https://myntr.in/4g5gYU\n\n3 Pieces Pink Printed Dishwasher Safe Water Bottles at Rs.379\n🔗 https://myntr.in/k54kFn",
+    "final_url": "https://myntr.in/6FTigb",
+    "local_image": "assets/images/tgmsg_20385.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-09T09:00:02+00:00",
+    "buy_link": "https://myntr.in/6FTigb",
+    "date_iso": "2025-12-09T09:00:02+00:00"
+  },
+  {
+    "id": "msg20387",
+    "title": "Fort Collins Jackets Min 65% Off",
+    "description": "Flipkart Fashion Deals – Live Now Denim Jackets Starting @249 🔗 Campus Sutra Min 75% Off 🔗 Sweaters & More Under 399 🔗  🔗",
+    "shortlink": "https://fkrt.co/3SYq3W",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart Fashion Deals – Live Now"
+      },
+      {
+        "url": "https://fkrt.co/3SYq3W",
+        "label": "Denim Jackets Starting @249"
+      },
+      {
+        "url": "https://fkrt.co/xQcNJR",
+        "label": "Campus Sutra Min 75% Off"
+      },
+      {
+        "url": "https://fkrt.co/E8T7Mt",
+        "label": "Sweaters & More Under 399"
+      },
+      {
+        "url": "https://fkrt.co/g4CmaA",
+        "label": "Fort Collins Jackets Min 65% Off"
+      }
+    ],
+    "raw_text": "Flipkart Fashion Deals – Live Now\n\nDenim Jackets Starting @249\n🔗 https://fkrt.co/3SYq3W\n\nCampus Sutra Min 75% Off\n🔗 https://fkrt.co/xQcNJR\n\nSweaters & More Under 399\n🔗 https://fkrt.co/E8T7Mt\n\nFort Collins Jackets Min 65% Off\n🔗 https://fkrt.co/g4CmaA",
+    "final_url": "https://fkrt.co/3SYq3W",
+    "local_image": "assets/images/tgmsg_20387.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-09T09:20:07+00:00",
+    "buy_link": "https://fkrt.co/3SYq3W",
+    "date_iso": "2025-12-09T09:20:07+00:00"
+  },
+  {
+    "id": "msg20388",
+    "title": "MediBuddy Full Body Checkup (64 Tests) @ ₹899",
+    "description": "MediBuddy Loot: Full Body Checkup (64 Tests) @ ₹899 (Worth ₹4,830) ✅Use Code: EK75 Link: Includes: CBC • HbA1c • Iron • KFT • Lipid • LFT • Thyroid • Vitamin D + more • Win up to ₹200 Cashback via CRED UPI.",
+    "shortlink": "https://bitli.in/Ze1xsuy",
+    "urls": [
+      {
+        "url": "",
+        "label": "Full Body Checkup (64 Tests) @ ₹899"
+      },
+      {
+        "url": "",
+        "label": "(Worth ₹4,830)"
+      },
+      {
+        "url": "https://bitli.in/Ze1xsuy",
+        "label": "✅Use Code: EK75"
+      },
+      {
+        "url": "",
+        "label": "CBC • HbA1c • Iron • KFT • Lipid • LFT • Thyroid • Vitamin D + more"
+      },
+      {
+        "url": "",
+        "label": "Win up to ₹200 Cashback via CRED UPI"
+      }
+    ],
+    "raw_text": "MediBuddy Loot: Full Body Checkup (64 Tests) @ ₹899\n(Worth ₹4,830)\n\n✅Use Code: EK75\nLink: https://bitli.in/Ze1xsuy\n\nIncludes: CBC • HbA1c • Iron • KFT • Lipid • LFT • Thyroid • Vitamin D + more\n\n• Win up to ₹200 Cashback via CRED UPI.",
+    "final_url": "https://bitli.in/Ze1xsuy",
+    "local_image": "assets/images/tgmsg_20388.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-12-09T09:30:40+00:00",
+    "buy_link": "https://bitli.in/Ze1xsuy",
+    "date_iso": "2025-12-09T09:30:40+00:00"
+  },
+  {
     "id": "msg20381",
     "title": "Cooker Electric Kettle 1.5 L at 67% Off",
     "description": "Myntra | Electric Kettle 2L at 399. 🔗 Electric Kettle 1.5L at 369. 🔗 Multi- 🔗 4 Jar Mixer Juicer Grinder at 1339 🔗",
@@ -9086,105 +9186,5 @@
     "date_obj": "2025-12-06T07:40:14+00:00",
     "buy_link": "https://myntr.in/7LTTTy",
     "date_iso": "2025-12-06T07:40:14+00:00"
-  },
-  {
-    "id": "msg19954",
-    "title": "Hp Laptop Bags Up to 80% off starting From Rs.288",
-    "description": "Flipkart | Hp Laptop Bags upto 80% off starting From Rs.288 https://fkrt.co/RvHX1x",
-    "shortlink": "https://fkrt.co/RvHX1x",
-    "urls": [
-      {
-        "url": "https://fkrt.co/RvHX1x",
-        "label": "Hp Laptop Bags upto 80% off starting From Rs.288"
-      }
-    ],
-    "raw_text": "Flipkart | Hp Laptop Bags upto 80% off starting From Rs.288\n\nhttps://fkrt.co/RvHX1x",
-    "final_url": "https://fkrt.co/RvHX1x",
-    "local_image": "assets/images/tgmsg_19954.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-06T06:50:48+00:00",
-    "buy_link": "https://fkrt.co/RvHX1x",
-    "date_iso": "2025-12-06T06:50:48+00:00"
-  },
-  {
-    "id": "msg19953",
-    "title": "Bath & Body works 63% off",
-    "description": "Myntra | Bath & Body works 63% off https://myntr.in/sULu5F Scotch Brite @164 https://myntr.in/wt1DSq Godrej Aer @99 https://myntr.in/JAER7u",
-    "shortlink": "https://myntr.in/sULu5F",
-    "urls": [
-      {
-        "url": "https://myntr.in/sULu5F",
-        "label": "Bath & Body works 63% off"
-      },
-      {
-        "url": "https://myntr.in/wt1DSq",
-        "label": "Scotch Brite @164"
-      },
-      {
-        "url": "https://myntr.in/JAER7u",
-        "label": "Godrej Aer @99"
-      }
-    ],
-    "raw_text": "Myntra | Bath & Body works 63% off\nhttps://myntr.in/sULu5F\n\nScotch Brite @164 \nhttps://myntr.in/wt1DSq\n\nGodrej Aer @99\nhttps://myntr.in/JAER7u",
-    "final_url": "https://myntr.in/sULu5F",
-    "local_image": "assets/images/tgmsg_19953.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-06T06:22:43+00:00",
-    "buy_link": "https://myntr.in/sULu5F",
-    "date_iso": "2025-12-06T06:22:43+00:00"
-  },
-  {
-    "id": "msg19951",
-    "title": "🔥Min 75% Off On Branded Trolleys/Suitcases + Bank Offe",
-    "description": "🔥Myntra : Min 75% Off On Branded Trolleys/Suitcases + Bank Offers Brandwise 🔽🔽 •Verage : •Aristocrat : •Teakwood Leathers : •Safari : •Skybags : •VIP : •Nasher Miles : •Wildcraft :",
-    "shortlink": "https://myntr.in/cfWgHR",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Myntra : Min 75% Off On Branded Trolleys/Suitcases + Bank Offers"
-      },
-      {
-        "url": "https://myntr.in/cfWgHR",
-        "label": "Verage"
-      },
-      {
-        "url": "https://myntr.in/OIxcEQ",
-        "label": "Aristocrat"
-      },
-      {
-        "url": "https://myntr.in/RMtVzk",
-        "label": "Teakwood Leathers"
-      },
-      {
-        "url": "https://myntr.in/DncKZq",
-        "label": "Safari"
-      },
-      {
-        "url": "https://myntr.in/uEaAyV",
-        "label": "Skybags"
-      },
-      {
-        "url": "https://myntr.in/0kHY0Q",
-        "label": "VIP"
-      },
-      {
-        "url": "https://myntr.in/ngOT1Q",
-        "label": "Nasher Miles"
-      },
-      {
-        "url": "https://myntr.in/ZOYNYm",
-        "label": "Wildcraft"
-      }
-    ],
-    "raw_text": "🔥Myntra   : Min 75% Off On Branded Trolleys/Suitcases + Bank Offers \n\nBrandwise 🔽🔽\n•Verage : https://myntr.in/cfWgHR\n•Aristocrat : https://myntr.in/OIxcEQ\n•Teakwood Leathers : https://myntr.in/RMtVzk\n•Safari : https://myntr.in/DncKZq\n•Skybags : https://myntr.in/uEaAyV\n•VIP : https://myntr.in/0kHY0Q\n•Nasher Miles : https://myntr.in/ngOT1Q\n•Wildcraft : https://myntr.in/ZOYNYm",
-    "final_url": "https://myntr.in/cfWgHR",
-    "local_image": "assets/images/tgmsg_19951.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-06T06:01:05+00:00",
-    "buy_link": "https://myntr.in/cfWgHR",
-    "date_iso": "2025-12-06T06:01:05+00:00"
   }
 ]
