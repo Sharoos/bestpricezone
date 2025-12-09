@@ -1,5 +1,169 @@
 [
   {
+    "id": "msg20408",
+    "title": "Up to 57% Off",
+    "description": "Flipkart | Upto 57% Off - Casio Wrist Watches Starting Rs.769 🔗 https://fkrt.co/NNRweU",
+    "shortlink": "https://fkrt.co/NNRweU",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 57% Off - Casio Wrist Watches"
+      },
+      {
+        "url": "https://fkrt.co/NNRweU",
+        "label": "Starting Rs.769"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 57% Off - Casio Wrist Watches\n\nStarting Rs.769\n\n🔗 https://fkrt.co/NNRweU",
+    "final_url": "https://fkrt.co/NNRweU",
+    "local_image": "assets/images/tgmsg_20408.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-09T13:00:04+00:00",
+    "buy_link": "https://fkrt.co/NNRweU",
+    "date_iso": "2025-12-09T13:00:04+00:00"
+  },
+  {
+    "id": "msg20409",
+    "title": "🔥Shopsy Everything Under ₹199",
+    "description": "🔥Shopsy Everything Under ₹199 Women's Jewellery Set ₹60 👉https://extp.in/R7ln5f Kitchen Bestsellers ₹62 👉https://extp.in/PXr7KJ Saree & Kurti ₹57 👉https://extp.in/giuYSX",
+    "shortlink": "https://extp.in/R7ln5f",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥Shopsy Everything Under ₹199"
+      },
+      {
+        "url": "https://extp.in/R7ln5f",
+        "label": "Women's Jewellery Set ₹60"
+      },
+      {
+        "url": "https://extp.in/PXr7KJ",
+        "label": "Kitchen Bestsellers ₹62"
+      },
+      {
+        "url": "https://extp.in/giuYSX",
+        "label": "Saree & Kurti ₹57"
+      }
+    ],
+    "raw_text": "🔥Shopsy Everything Under ₹199\n\nWomen's Jewellery Set ₹60\n👉https://extp.in/R7ln5f\n\nKitchen Bestsellers ₹62\n👉https://extp.in/PXr7KJ\n\nSaree & Kurti ₹57\n👉https://extp.in/giuYSX",
+    "final_url": "https://extp.in/R7ln5f",
+    "local_image": "assets/images/tgmsg_20409.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-09T13:12:26+00:00",
+    "buy_link": "https://extp.in/R7ln5f",
+    "date_iso": "2025-12-09T13:12:26+00:00"
+  },
+  {
+    "id": "msg20410",
+    "title": "🔥Shopsy Up to 87% Off on Branded Sunscreen @60.💥💥💥💥",
+    "description": "🔥Shopsy | UPTO 87% Off on Branded Sunscreen @60.💥💥💥💥 👉🔗Link : https://extp.in/0LAS8q",
+    "shortlink": "https://extp.in/0LAS8q",
+    "urls": [
+      {
+        "url": "https://extp.in/0LAS8q",
+        "label": "🔥Shopsy | UPTO 87% Off on Branded Sunscreen @60.💥💥💥💥"
+      }
+    ],
+    "raw_text": "🔥Shopsy | UPTO 87% Off on Branded Sunscreen @60.💥💥💥💥 \n \n👉🔗Link : https://extp.in/0LAS8q",
+    "final_url": "https://extp.in/0LAS8q",
+    "local_image": "assets/images/tgmsg_20410.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-09T13:12:43+00:00",
+    "buy_link": "https://extp.in/0LAS8q",
+    "date_iso": "2025-12-09T13:12:43+00:00"
+  },
+  {
+    "id": "msg20411",
+    "title": "Water Bottle 1L (6 Pcs) at ₹160",
+    "description": "Shopsy | Bellavita Perfumes From ₹89  Wall Hanging Decor at ₹48[Min..2] Double Bedsheet From ₹112 Watches From ₹65[Min..2]",
+    "shortlink": "https://extp.in/kqEVvQ",
+    "urls": [
+      {
+        "url": "https://extp.in/kqEVvQ",
+        "label": "Bellavita Perfumes From ₹89"
+      },
+      {
+        "url": "https://extp.in/NiC6dY",
+        "label": "Water Bottle 1L (6 Pcs) at ₹160"
+      },
+      {
+        "url": "https://extp.in/CvboIV",
+        "label": "Wall Hanging Decor at ₹48[Min..2]"
+      },
+      {
+        "url": "https://extp.in/KRUFkq",
+        "label": "Double Bedsheet From ₹112"
+      },
+      {
+        "url": "https://extp.in/msl2YW",
+        "label": "Watches From ₹65[Min..2]"
+      }
+    ],
+    "raw_text": "Shopsy | Bellavita Perfumes From ₹89\nhttps://extp.in/kqEVvQ\n\nWater Bottle 1L (6 Pcs) at ₹160\nhttps://extp.in/NiC6dY\n\nWall Hanging Decor at ₹48[Min..2]\nhttps://extp.in/CvboIV\n\nDouble Bedsheet From ₹112\nhttps://extp.in/KRUFkq\n\nWatches From ₹65[Min..2]\nhttps://extp.in/msl2YW",
+    "final_url": "https://extp.in/kqEVvQ",
+    "local_image": "assets/images/tgmsg_20411.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-09T13:13:01+00:00",
+    "buy_link": "https://extp.in/kqEVvQ",
+    "date_iso": "2025-12-09T13:13:01+00:00"
+  },
+  {
+    "id": "msg20412",
+    "title": "Story@Home Premium BedCover Cum Comforter At 1299",
+    "description": "Story@Home Premium BedCover Cum Comforter At 1299. https://myntr.in/9c6BG6",
+    "shortlink": "https://myntr.in/9c6BG6",
+    "urls": [
+      {
+        "url": "https://myntr.in/9c6BG6",
+        "label": "Story@Home Premium BedCover Cum Comforter At 1299"
+      }
+    ],
+    "raw_text": "Story@Home Premium BedCover Cum Comforter At 1299.\n\nhttps://myntr.in/9c6BG6",
+    "final_url": "https://myntr.in/9c6BG6",
+    "local_image": "assets/images/tgmsg_20412.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-09T13:16:15+00:00",
+    "buy_link": "https://myntr.in/9c6BG6",
+    "date_iso": "2025-12-09T13:16:15+00:00"
+  },
+  {
+    "id": "msg20413",
+    "title": "Up to 75% Off On Kook N Keech Clothing",
+    "description": "Myntra : Upto 75% Off On Kook N Keech Clothing. Men's : Women's : Here & Now Men's Clothing Starts @179 👉",
+    "shortlink": "https://myntr.in/t8Rvod",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On Kook N Keech Clothing"
+      },
+      {
+        "url": "https://myntr.in/t8Rvod",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/vf8mjH",
+        "label": "Women's"
+      },
+      {
+        "url": "https://myntr.in/6yxnh5",
+        "label": "Here & Now Men's Clothing Starts @179"
+      }
+    ],
+    "raw_text": "Myntra : Upto 75% Off On Kook N Keech Clothing.\n\nMen's : https://myntr.in/t8Rvod\nWomen's : https://myntr.in/vf8mjH\n\nHere & Now Men's Clothing Starts @179\n\n👉https://myntr.in/6yxnh5",
+    "final_url": "https://myntr.in/t8Rvod",
+    "local_image": "assets/images/tgmsg_20413.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-09T13:16:35+00:00",
+    "buy_link": "https://myntr.in/t8Rvod",
+    "date_iso": "2025-12-09T13:16:35+00:00"
+  },
+  {
     "id": "msg20397",
     "title": "Cello Casserole Set of 3 at ₹449",
     "description": "Flipkart | Cello Casserole Set of 3 at ₹449 🔗 Link : https://fkrt.co/Xe4hR1",
@@ -8794,233 +8958,5 @@
     "date_obj": "2025-12-06T12:24:57+00:00",
     "buy_link": "https://myntr.in/nmbnE8",
     "date_iso": "2025-12-06T12:24:57+00:00"
-  },
-  {
-    "id": "msg19987",
-    "title": "Extra ₹1000 off on Credit/Debit Card & UPI",
-    "description": "Flipkart 🔥 TCL 55\" 4K Ultra HD Google TV – 2025 Edition 🔥 MEMC | Dolby Vision-Atmos | HVA Panel | Metallic Bezel-Less 💥 Deal Price: ₹31,990 ❌ MRP: ₹77,990 ✅ Flat 58% OFF! ✨ Top Features: • 55\" 4K UHD V6C Panel • Dolby…",
-    "shortlink": "https://fkrt.co/92WqnT",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart 🔥 TCL 55\" 4K Ultra HD Google TV – 2025 Edition 🔥"
-      },
-      {
-        "url": "",
-        "label": "Dolby Vision-Atmos | HVA Panel | Metallic Bezel-Less"
-      },
-      {
-        "url": "",
-        "label": "💥 Deal Price: ₹31,990"
-      },
-      {
-        "url": "",
-        "label": "❌ MRP: ₹77,990"
-      },
-      {
-        "url": "",
-        "label": "✅ Flat 58% OFF!"
-      },
-      {
-        "url": "",
-        "label": "✨ Top Features"
-      },
-      {
-        "url": "",
-        "label": "55\" 4K UHD V6C Panel"
-      },
-      {
-        "url": "",
-        "label": "Dolby Vision & Dolby Atmos"
-      },
-      {
-        "url": "",
-        "label": "smooth motion"
-      },
-      {
-        "url": "",
-        "label": "less premium design"
-      },
-      {
-        "url": "",
-        "label": "Google TV 2025 Edition"
-      },
-      {
-        "url": "",
-        "label": "HDR10, AIPQ Processor, ALLM"
-      },
-      {
-        "url": "",
-        "label": "💳 Bank Offers"
-      },
-      {
-        "url": "",
-        "label": "Extra ₹1000 off on Credit/Debit Card & UPI"
-      },
-      {
-        "url": "",
-        "label": "Extra ₹750 off with Axis/SBI Credit Cards"
-      },
-      {
-        "url": "",
-        "label": "Additional ₹2000 off on select cards"
-      },
-      {
-        "url": "https://fkrt.co/92WqnT",
-        "label": "🚚 Fast delivery + Free Flipkart Protect (worth ₹999)"
-      }
-    ],
-    "raw_text": "Flipkart 🔥 TCL 55\" 4K Ultra HD Google TV – 2025 Edition 🔥\nMEMC | Dolby Vision-Atmos | HVA Panel | Metallic Bezel-Less\n\n💥 Deal Price: ₹31,990\n❌ MRP: ₹77,990\n✅ Flat 58% OFF!\n\n✨ Top Features:\n• 55\" 4K UHD V6C Panel\n• Dolby Vision & Dolby Atmos\n• MEMC for super-smooth motion\n• Bezel-less premium design\n• Google TV 2025 Edition\n• HDR10, AIPQ Processor, ALLM\n\n💳 Bank Offers:\n• Extra ₹1000 off on Credit/Debit Card & UPI\n• Extra ₹750 off with Axis/SBI Credit Cards\n• Additional ₹2000 off on select cards\n\n🚚 Fast delivery + Free Flipkart Protect (worth ₹999)\n\n🔗 Buy Now : https://fkrt.co/92WqnT",
-    "final_url": "https://fkrt.co/92WqnT",
-    "local_image": "assets/images/tgmsg_19987.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-06T12:45:15+00:00",
-    "buy_link": "https://fkrt.co/92WqnT",
-    "date_iso": "2025-12-06T12:45:15+00:00"
-  },
-  {
-    "id": "msg19988",
-    "title": "Durex 69 Store Sale Live",
-    "description": "Durex: 69 Store Sale Live Link: https://bitli.in/H5OQfjH Products Start @69 https://bitli.in/5vye0a0",
-    "shortlink": "https://bitli.in/H5OQfjH",
-    "urls": [
-      {
-        "url": "https://bitli.in/H5OQfjH",
-        "label": "69 Store Sale Live"
-      },
-      {
-        "url": "https://bitli.in/5vye0a0",
-        "label": "Products Start @69"
-      }
-    ],
-    "raw_text": "Durex: 69 Store Sale Live\n\nLink: https://bitli.in/H5OQfjH\n\nProducts Start @69\nhttps://bitli.in/5vye0a0",
-    "final_url": "https://bitli.in/H5OQfjH",
-    "local_image": "assets/images/tgmsg_19988.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-12-06T12:46:19+00:00",
-    "buy_link": "https://bitli.in/H5OQfjH",
-    "date_iso": "2025-12-06T12:46:19+00:00"
-  },
-  {
-    "id": "msg19978",
-    "title": "🔥Fast GNC Magnesium 120 Tabs @ 497/",
-    "description": "Amazon 🔥Fast Grab: GNC Magnesium 120 Tabs @ 497/- 🔗 ✔️Apply ₹100 Coupon Regular: 1199❌",
-    "shortlink": "https://www.amazon.in/dp/B0BHL8KMPK?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BHL8KMPK?tag=bestpricezo0f-21",
-        "label": "Amazon 🔥Fast Grab: GNC Magnesium 120 Tabs @ 497/"
-      },
-      {
-        "url": "",
-        "label": "1199❌"
-      }
-    ],
-    "raw_text": "Amazon 🔥Fast Grab: GNC Magnesium 120 Tabs @ 497/-\n\n🔗https://www.amazon.in/dp/B0BHL8KMPK?tag=bestpricezo0f-21\n\n✔️Apply ₹100 Coupon\n\nRegular: 1199❌",
-    "final_url": "https://www.amazon.in/dp/B0BHL8KMPK?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_19978.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-06T11:40:20+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BHL8KMPK?tag=bestpricezo0f-21",
-    "date_iso": "2025-12-06T11:40:20+00:00"
-  },
-  {
-    "id": "msg19977",
-    "title": "Up to 62% Off On Top Branded Watches + Extra 20% Off",
-    "description": "Myntra Upto 62% Off On Top Branded Watches + Extra 20% Off. Apply Code : ACCEXTRA20 Fastrack : Sonata : Calvin Klein : Hugo BOSS : MVMT : Olivia :",
-    "shortlink": "https://myntr.in/sxIW3y",
-    "urls": [
-      {
-        "url": "",
-        "label": "Myntra Upto 62% Off On Top Branded Watches + Extra 20% Off"
-      },
-      {
-        "url": "",
-        "label": "ACCEXTRA20"
-      },
-      {
-        "url": "https://myntr.in/sxIW3y",
-        "label": "Fastrack"
-      },
-      {
-        "url": "https://myntr.in/hTzOC3",
-        "label": "Sonata"
-      },
-      {
-        "url": "https://myntr.in/g6MiGC",
-        "label": "Calvin Klein"
-      },
-      {
-        "url": "https://myntr.in/mAcP4J",
-        "label": "Hugo BOSS"
-      },
-      {
-        "url": "https://myntr.in/f7YGvD",
-        "label": "MVMT"
-      },
-      {
-        "url": "https://myntr.in/APMLW4",
-        "label": "Olivia"
-      }
-    ],
-    "raw_text": "Myntra  Upto 62% Off On Top Branded Watches + Extra 20% Off.\n\nApply Code : ACCEXTRA20\n\nFastrack : https://myntr.in/sxIW3y\nSonata : https://myntr.in/hTzOC3\nCalvin Klein : https://myntr.in/g6MiGC\nHugo BOSS : https://myntr.in/mAcP4J\nMVMT : https://myntr.in/f7YGvD\nOlivia : https://myntr.in/APMLW4",
-    "final_url": "https://myntr.in/sxIW3y",
-    "local_image": "assets/images/tgmsg_19977.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-06T11:34:06+00:00",
-    "buy_link": "https://myntr.in/sxIW3y",
-    "date_iso": "2025-12-06T11:34:06+00:00"
-  },
-  {
-    "id": "msg19975",
-    "title": "Up to 75% Off",
-    "description": "Flipkart | Upto 75% Off - Wrangler Men's Jeans Starting Rs.813 🔗 https://fkrt.co/zbGTYT",
-    "shortlink": "https://fkrt.co/zbGTYT",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 75% Off - Wrangler Men's Jeans"
-      },
-      {
-        "url": "https://fkrt.co/zbGTYT",
-        "label": "Starting Rs.813"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 75% Off - Wrangler Men's Jeans\n\nStarting Rs.813\n\n🔗 https://fkrt.co/zbGTYT",
-    "final_url": "https://fkrt.co/zbGTYT",
-    "local_image": "assets/images/tgmsg_19975.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-06T11:10:15+00:00",
-    "buy_link": "https://fkrt.co/zbGTYT",
-    "date_iso": "2025-12-06T11:10:15+00:00"
-  },
-  {
-    "id": "msg19976",
-    "title": "Deal Price ₹1499",
-    "description": "Amazon | AGARO Marvel 9L OTG Oven 800W, Compact Toaster Griller for B... Deal Price: ₹1499 🔗",
-    "shortlink": "https://www.amazon.in/dp/B07N2MGB3G?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "AGARO Marvel 9L OTG Oven 800W, Compact Toaster Griller for B"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B07N2MGB3G?psc=1&tag=bestpricezo0f-21",
-        "label": "₹1499"
-      }
-    ],
-    "raw_text": "Amazon | AGARO Marvel 9L OTG Oven 800W, Compact Toaster Griller for B...\n\nDeal Price: ₹1499 \n\n🔗https://www.amazon.in/dp/B07N2MGB3G?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07N2MGB3G?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_19976.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-06T11:22:28+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07N2MGB3G?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-06T11:22:28+00:00"
   }
 ]
