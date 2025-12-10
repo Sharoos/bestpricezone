@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg20493",
+    "title": "JBL Quantum 100 Wired Over Ear Gaming Headphones with Mic @₹1999",
+    "description": "Amazon | JBL Quantum 100 Wired Over Ear Gaming Headphones with Mic @₹1999 https://www.amazon.in/dp/B083X24VG9?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B083X24VG9?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B083X24VG9?th=1&tag=bestpricezo0f-21",
+        "label": "JBL Quantum 100 Wired Over Ear Gaming Headphones with Mic @₹1999"
+      }
+    ],
+    "raw_text": "Amazon | JBL Quantum 100 Wired Over Ear Gaming Headphones with Mic @₹1999\n\nhttps://www.amazon.in/dp/B083X24VG9?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B083X24VG9?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_20493.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-10T05:45:59+00:00",
+    "buy_link": "https://www.amazon.in/dp/B083X24VG9?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-10T05:45:59+00:00"
+  },
+  {
     "id": "msg20491",
     "title": "bin%3A15564041031%2Cp_72%3A1318477031%2Cp_6%3AA14CZOWI0VEHLG%7CA1WYWER0W24N8S%7CA23AODI1X2CEAE%2Cp_n_pct",
     "description": "Amazon | Ptron Neckband & Earbuds @₹449…",
@@ -8894,25 +8914,5 @@
     "date_obj": "2025-12-07T06:13:19+00:00",
     "buy_link": "https://ajiio.co/YVieod?",
     "date_iso": "2025-12-07T06:13:19+00:00"
-  },
-  {
-    "id": "msg20064",
-    "title": "Gear Rucksacks Up to 80% off",
-    "description": "Flipkart Gear Rucksacks upto 80% off https://fkrt.co/mva9iV",
-    "shortlink": "https://fkrt.co/mva9iV",
-    "urls": [
-      {
-        "url": "https://fkrt.co/mva9iV",
-        "label": "Flipkart Gear Rucksacks upto 80% off"
-      }
-    ],
-    "raw_text": "Flipkart Gear Rucksacks upto 80% off\n\nhttps://fkrt.co/mva9iV",
-    "final_url": "https://fkrt.co/mva9iV",
-    "local_image": "assets/images/tgmsg_20064.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-07T06:25:52+00:00",
-    "buy_link": "https://fkrt.co/mva9iV",
-    "date_iso": "2025-12-07T06:25:52+00:00"
   }
 ]
