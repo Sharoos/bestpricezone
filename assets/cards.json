@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg20594",
+    "title": "Up to 80% Off On Ducati Men's Shoe",
+    "description": "Flipkart | Upto 80% Off On Ducati Men's Shoe. Upto 86% Off On HRX Shoes. Men's : Women's :",
+    "shortlink": "https://fkrt.co/QyoH4R",
+    "urls": [
+      {
+        "url": "https://fkrt.co/QyoH4R",
+        "label": "Upto 80% Off On Ducati Men's Shoe"
+      },
+      {
+        "url": "",
+        "label": "Upto 86% Off On HRX Shoes"
+      },
+      {
+        "url": "https://fkrt.co/ydyoW0",
+        "label": "Men's"
+      },
+      {
+        "url": "https://fkrt.co/POT66m",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 80% Off On Ducati Men's Shoe.\n\nhttps://fkrt.co/QyoH4R\n\nUpto 86% Off On HRX Shoes. \n\nMen's : https://fkrt.co/ydyoW0\nWomen's : https://fkrt.co/POT66m",
+    "final_url": "https://fkrt.co/QyoH4R",
+    "local_image": "assets/images/tgmsg_20594.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-10T16:51:31+00:00",
+    "buy_link": "https://fkrt.co/QyoH4R",
+    "date_iso": "2025-12-10T16:51:31+00:00"
+  },
+  {
+    "id": "msg20595",
+    "title": "Shopsy Everything Under ₹100 🔥🔥",
+    "description": "Shopsy Everything Under ₹100 🔥🔥 Women's Jewellery Set ₹60 👉https://extp.in/BjKpw1 Kitchen Bestsellers ₹62 👉https://extp.in/Y0JvfP Saree & Kurti ₹57 👉https://extp.in/RWduIR",
+    "shortlink": "https://extp.in/BjKpw1",
+    "urls": [
+      {
+        "url": "",
+        "label": "Shopsy Everything Under ₹100 🔥🔥"
+      },
+      {
+        "url": "https://extp.in/BjKpw1",
+        "label": "Women's Jewellery Set ₹60"
+      },
+      {
+        "url": "https://extp.in/Y0JvfP",
+        "label": "Kitchen Bestsellers ₹62"
+      },
+      {
+        "url": "https://extp.in/RWduIR",
+        "label": "Saree & Kurti ₹57"
+      }
+    ],
+    "raw_text": "Shopsy Everything Under ₹100 🔥🔥\n\nWomen's Jewellery Set ₹60\n👉https://extp.in/BjKpw1\n\nKitchen Bestsellers ₹62\n👉https://extp.in/Y0JvfP\n\nSaree & Kurti ₹57\n👉https://extp.in/RWduIR",
+    "final_url": "https://extp.in/BjKpw1",
+    "local_image": "assets/images/tgmsg_20595.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-10T16:55:52+00:00",
+    "buy_link": "https://extp.in/BjKpw1",
+    "date_iso": "2025-12-10T16:55:52+00:00"
+  },
+  {
     "id": "msg20589",
     "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
     "description": "Ajio | Beauty and Personal Care Under 399 👉Link : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
@@ -8970,45 +9034,5 @@
     "date_obj": "2025-12-07T19:12:45+00:00",
     "buy_link": "https://myntr.in/1rFYsW",
     "date_iso": "2025-12-07T19:12:45+00:00"
-  },
-  {
-    "id": "msg20155",
-    "title": "Boat audio at 15% off",
-    "description": "Myntra | Boat audio at 15% off https://myntr.in/mS1Y4T",
-    "shortlink": "https://myntr.in/mS1Y4T",
-    "urls": [
-      {
-        "url": "https://myntr.in/mS1Y4T",
-        "label": "Boat audio at 15% off"
-      }
-    ],
-    "raw_text": "Myntra | Boat audio at 15% off\n\nhttps://myntr.in/mS1Y4T",
-    "final_url": "https://myntr.in/mS1Y4T",
-    "local_image": "assets/images/tgmsg_20155.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-07T18:45:07+00:00",
-    "buy_link": "https://myntr.in/mS1Y4T",
-    "date_iso": "2025-12-07T18:45:07+00:00"
-  },
-  {
-    "id": "msg20156",
-    "title": "Jbl at 10% off",
-    "description": "Myntra | Jbl at 10% off https://myntr.in/03JvFT",
-    "shortlink": "https://myntr.in/03JvFT",
-    "urls": [
-      {
-        "url": "https://myntr.in/03JvFT",
-        "label": "Jbl at 10% off"
-      }
-    ],
-    "raw_text": "Myntra | Jbl at 10% off\n\nhttps://myntr.in/03JvFT",
-    "final_url": "https://myntr.in/03JvFT",
-    "local_image": "assets/images/tgmsg_20156.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-07T18:46:11+00:00",
-    "buy_link": "https://myntr.in/03JvFT",
-    "date_iso": "2025-12-07T18:46:11+00:00"
   }
 ]
