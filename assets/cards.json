@@ -1,5 +1,109 @@
 [
   {
+    "id": "msg20509",
+    "title": "🛒 Sale goes live on 16th Dec, 12 noon",
+    "description": "POCO C85 launches today at 12 PM on Flipkart  Starting at just ₹10,999* Key Highlights: •Massive 6000mAh battery + 33W fast charging + 10W reverse charging •Immersive 6.9” display for a bigger, better viewing experience…",
+    "shortlink": "https://fkrt.co/OKArTD",
+    "urls": [
+      {
+        "url": "",
+        "label": "POCO C85 launches today at 12 PM on Flipkart"
+      },
+      {
+        "url": "",
+        "label": "🛒 Sale goes live on 16th Dec, 12 noon"
+      },
+      {
+        "url": "",
+        "label": "Starting at just ₹10,999*"
+      },
+      {
+        "url": "",
+        "label": "Key Highlights"
+      },
+      {
+        "url": "",
+        "label": "Massive 6000mAh battery + 33W fast charging + 10W reverse charging"
+      },
+      {
+        "url": "",
+        "label": "Immersive 6.9” display for a bigger, better viewing experience"
+      },
+      {
+        "url": "https://fkrt.co/OKArTD",
+        "label": "tone design that stands out"
+      },
+      {
+        "url": "",
+        "label": "Includes combined bank offers (SBI, HDFC, ICICI), exchange bonus & 3M NCEMI"
+      }
+    ],
+    "raw_text": "POCO C85 launches today at 12 PM on Flipkart\n🛒 Sale goes live on 16th Dec, 12 noon\n\nStarting at just ₹10,999*\n\nKey Highlights:\n•Massive 6000mAh battery + 33W fast charging + 10W reverse charging\n•Immersive 6.9” display for a bigger, better viewing experience\n•Bold dual-tone design that stands out\n\n Link - https://fkrt.co/OKArTD\n\n*Includes combined bank offers (SBI, HDFC, ICICI), exchange bonus & 3M NCEMI.",
+    "final_url": "https://fkrt.co/OKArTD",
+    "local_image": "assets/images/tgmsg_20509.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-10T07:42:57+00:00",
+    "buy_link": "https://fkrt.co/OKArTD",
+    "date_iso": "2025-12-10T07:42:57+00:00"
+  },
+  {
+    "id": "msg20510",
+    "title": "Water Bottle 1L (6 Pcs) at ₹160",
+    "description": "Shopsy | Bellavita Perfumes From ₹89  Wall Hanging Decor at ₹48[Min..2] Double Bedsheet From ₹112 Watches From ₹65[Min..2]",
+    "shortlink": "https://extp.in/vbbSlc",
+    "urls": [
+      {
+        "url": "https://extp.in/vbbSlc",
+        "label": "Bellavita Perfumes From ₹89"
+      },
+      {
+        "url": "https://extp.in/TWHfFH",
+        "label": "Water Bottle 1L (6 Pcs) at ₹160"
+      },
+      {
+        "url": "https://extp.in/rb0OYZ",
+        "label": "Wall Hanging Decor at ₹48[Min..2]"
+      },
+      {
+        "url": "https://extp.in/ybDdGS",
+        "label": "Double Bedsheet From ₹112"
+      },
+      {
+        "url": "https://extp.in/dImZcK",
+        "label": "Watches From ₹65[Min..2]"
+      }
+    ],
+    "raw_text": "Shopsy | Bellavita Perfumes From ₹89\nhttps://extp.in/vbbSlc\n\nWater Bottle 1L (6 Pcs) at ₹160\nhttps://extp.in/TWHfFH\n\nWall Hanging Decor at ₹48[Min..2]\nhttps://extp.in/rb0OYZ\n\nDouble Bedsheet From ₹112\nhttps://extp.in/ybDdGS\n\nWatches From ₹65[Min..2]\nhttps://extp.in/dImZcK",
+    "final_url": "https://extp.in/vbbSlc",
+    "local_image": "assets/images/tgmsg_20510.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-10T07:44:31+00:00",
+    "buy_link": "https://extp.in/vbbSlc",
+    "date_iso": "2025-12-10T07:44:31+00:00"
+  },
+  {
+    "id": "msg20511",
+    "title": "Shopsy 🔥Pack of 3 Room Freshener at ₹169",
+    "description": "Shopsy | 🔥Pack of 3 Room Freshener at ₹169 ◾https://extp.in/HOSy47",
+    "shortlink": "https://extp.in/HOSy47",
+    "urls": [
+      {
+        "url": "https://extp.in/HOSy47",
+        "label": "🔥Pack of 3 Room Freshener at ₹169"
+      }
+    ],
+    "raw_text": "Shopsy | 🔥Pack of 3 Room Freshener at ₹169\n\n◾https://extp.in/HOSy47",
+    "final_url": "https://extp.in/HOSy47",
+    "local_image": "assets/images/tgmsg_20511.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-10T07:50:31+00:00",
+    "buy_link": "https://extp.in/HOSy47",
+    "date_iso": "2025-12-10T07:50:31+00:00"
+  },
+  {
     "id": "msg20506",
     "title": "Up to 80% Off On Branded Double Bedsheets 🔥🔥",
     "description": "Myntra : Upto 80% Off On Branded Double Bedsheets 🔥🔥 👉 Raymond : 👉 MyTrident : 👉 Story@home :",
@@ -8806,117 +8910,5 @@
     "date_obj": "2025-12-07T09:15:17+00:00",
     "buy_link": "https://myntr.in/GkCaNe",
     "date_iso": "2025-12-07T09:15:17+00:00"
-  },
-  {
-    "id": "msg20074",
-    "title": "To Get Extra 11% Off!",
-    "description": "Myntra | OnePlus Nord Buds 3r Only at Rs. 1423 + Bank offers!! Use Coupon Code: *EORSOP11*  👉",
-    "shortlink": "https://myntr.in/nBK9A3",
-    "urls": [
-      {
-        "url": "https://myntr.in/nBK9A3",
-        "label": "OnePlus Nord Buds 3r Only at Rs. 1423 + Bank offers!!"
-      }
-    ],
-    "raw_text": "Myntra | OnePlus Nord Buds 3r Only at Rs. 1423 + Bank offers!!\nUse Coupon Code: *EORSOP11* To Get Extra 11% Off!\n\n👉https://myntr.in/nBK9A3",
-    "final_url": "https://myntr.in/nBK9A3",
-    "local_image": "assets/images/tgmsg_20074.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-07T09:02:19+00:00",
-    "buy_link": "https://myntr.in/nBK9A3",
-    "date_iso": "2025-12-07T09:02:19+00:00"
-  },
-  {
-    "id": "msg20069",
-    "title": "Socks Starts at ₹14",
-    "description": "Flipkart |  👉 T-shirts Starts at ₹73 👉 Briefs and Trunks Starts at ₹42 👉 Vests Starts at ₹35 👉 Winter wear Starts at ₹69 👉 Boxers Starts at ₹69 👉",
-    "shortlink": "https://fkrt.co/KL3QuT",
-    "urls": [
-      {
-        "url": "https://fkrt.co/KL3QuT",
-        "label": "Socks Starts at ₹14"
-      },
-      {
-        "url": "https://fkrt.co/Cx1ykI",
-        "label": "T-shirts Starts at ₹73"
-      },
-      {
-        "url": "https://fkrt.co/i4MCrH",
-        "label": "Briefs and Trunks Starts at ₹42"
-      },
-      {
-        "url": "https://fkrt.co/sirHw9",
-        "label": "Vests Starts at ₹35"
-      },
-      {
-        "url": "https://fkrt.co/vZbaiX",
-        "label": "Winter wear Starts at ₹69"
-      },
-      {
-        "url": "https://fkrt.co/EpL9Vw",
-        "label": "Boxers Starts at ₹69"
-      }
-    ],
-    "raw_text": "Flipkart | Socks Starts at ₹14\n👉https://fkrt.co/KL3QuT \n\nT-shirts Starts at ₹73\n👉https://fkrt.co/Cx1ykI \n\nBriefs and Trunks Starts at ₹42\n👉https://fkrt.co/i4MCrH \n\nVests Starts at ₹35\n👉https://fkrt.co/sirHw9 \n\nWinter wear Starts at ₹69\n👉https://fkrt.co/vZbaiX \n\nBoxers Starts at ₹69\n👉https://fkrt.co/EpL9Vw",
-    "final_url": "https://fkrt.co/KL3QuT",
-    "local_image": "assets/images/tgmsg_20069.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-07T07:15:20+00:00",
-    "buy_link": "https://fkrt.co/KL3QuT",
-    "date_iso": "2025-12-07T07:15:20+00:00"
-  },
-  {
-    "id": "msg20070",
-    "title": "Up to 3% Rio Coins back on UPI & Card Spends 💰",
-    "description": "Apply for the Lifetime FREE RIO Credit Card & Earn assured cashback on EVERY Scan & Swipe 🔥🔥 👉 Apply Now: Benefits: • 1+1 Movie Tickets on District & BookMyShow 🎬 • Flat ₹150 Off on Zomato 🍕 • 40% Off on Swiggy Food &…",
-    "shortlink": "https://extp.in/aN8TXn",
-    "urls": [
-      {
-        "url": "",
-        "label": "Apply for the Lifetime FREE RIO Credit Card & Earn assured cashback on EVERY Scan & Swipe 🔥🔥"
-      },
-      {
-        "url": "https://extp.in/aN8TXn",
-        "label": "Apply Now"
-      },
-      {
-        "url": "",
-        "label": "1+1 Movie Tickets on District & BookMyShow 🎬"
-      },
-      {
-        "url": "",
-        "label": "Flat ₹150 Off on Zomato 🍕"
-      },
-      {
-        "url": "",
-        "label": "40% Off on Swiggy Food & Instamart 🍔"
-      },
-      {
-        "url": "",
-        "label": "Up to 3% Rio Coins back on UPI & Card Spends 💰"
-      },
-      {
-        "url": "",
-        "label": "8 FREE Airport Lounge Visits per Year ✈️"
-      },
-      {
-        "url": "",
-        "label": "Lifetime FREE – No Joining / Annual Fee"
-      },
-      {
-        "url": "",
-        "label": "Existing YES Bank Cardholders not eligible"
-      }
-    ],
-    "raw_text": "Apply for the Lifetime FREE RIO Credit Card & Earn assured cashback on EVERY Scan & Swipe 🔥🔥\n\n👉 Apply Now: https://extp.in/aN8TXn\n\nBenefits:\n• 1+1 Movie Tickets on District & BookMyShow 🎬\n• Flat ₹150 Off on Zomato 🍕\n• 40% Off on Swiggy Food & Instamart 🍔\n• Up to 3% Rio Coins back on UPI & Card Spends 💰\n• 8 FREE Airport Lounge Visits per Year ✈️\n\nEligibility:\n• Lifetime FREE – No Joining / Annual Fee\n• Existing YES Bank Cardholders not eligible\n\n✅Note : This is one of the most trending cards in the market right now. If eligible — apply immediately! 💥",
-    "final_url": "https://extp.in/aN8TXn",
-    "local_image": "assets/images/tgmsg_20070.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-07T07:23:07+00:00",
-    "buy_link": "https://extp.in/aN8TXn",
-    "date_iso": "2025-12-07T07:23:07+00:00"
   }
 ]
