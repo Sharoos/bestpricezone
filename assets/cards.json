@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg20489",
+    "title": "✅ Extra 5% Off using code CK5",
+    "description": "Dot & Key Winter Sale – Buy 1 Get 1 FREE Shop Now → Top Picks: Sunscreen → Moisturizer → Serum → Face Wash → Body Care → ✅ Extra 5% Off using code: CK5",
+    "shortlink": "https://bitli.in/2yc8xco",
+    "urls": [
+      {
+        "url": "https://bitli.in/2yc8xco",
+        "label": "Shop Now →"
+      },
+      {
+        "url": "",
+        "label": "Top Picks"
+      },
+      {
+        "url": "https://bitli.in/HXWmLfm",
+        "label": "Sunscreen →"
+      },
+      {
+        "url": "https://bitli.in/etz0cqS",
+        "label": "Moisturizer →"
+      },
+      {
+        "url": "https://bitli.in/QhE0TS1",
+        "label": "Serum →"
+      },
+      {
+        "url": "https://bitli.in/5JEVdaX",
+        "label": "Face Wash →"
+      },
+      {
+        "url": "https://bitli.in/YnRjs1d",
+        "label": "Body Care →"
+      },
+      {
+        "url": "",
+        "label": "✅ Extra 5% Off using code: CK5"
+      }
+    ],
+    "raw_text": "Dot & Key Winter Sale – Buy 1 Get 1 FREE\n\nShop Now → https://bitli.in/2yc8xco\n\nTop Picks:\nSunscreen → https://bitli.in/HXWmLfm\nMoisturizer → https://bitli.in/etz0cqS\nSerum → https://bitli.in/QhE0TS1\nFace Wash → https://bitli.in/5JEVdaX\nBody Care → https://bitli.in/YnRjs1d\n\n✅ Extra 5% Off using code: CK5",
+    "final_url": "https://bitli.in/2yc8xco",
+    "local_image": "assets/images/tgmsg_20489.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-12-10T04:32:23+00:00",
+    "buy_link": "https://bitli.in/2yc8xco",
+    "date_iso": "2025-12-10T04:32:23+00:00"
+  },
+  {
     "id": "msg20486",
     "title": "Orient Electric 25L Water Heater @5999",
     "description": "Amazon | Orient Electric 25L Water Heater @5999. https://www.amazon.in/dp/B0C81TZSTR?th=1&psc=1&tag=bestpricezo0f-21",
@@ -8866,25 +8914,5 @@
     "date_obj": "2025-12-07T06:34:36+00:00",
     "buy_link": "https://www.amazon.in/gp/product/B0F67KZPMD?tag=bestpricezo0f-21",
     "date_iso": "2025-12-07T06:34:36+00:00"
-  },
-  {
-    "id": "msg20059",
-    "title": "Guess, Ferragamo Min 30% off",
-    "description": "Myntra | Guess, Ferragamo : Min 30% off https://myntr.in/BS8Q2G",
-    "shortlink": "https://myntr.in/BS8Q2G",
-    "urls": [
-      {
-        "url": "https://myntr.in/BS8Q2G",
-        "label": "Guess, Ferragamo : Min 30% off"
-      }
-    ],
-    "raw_text": "Myntra | Guess, Ferragamo : Min 30% off\n\nhttps://myntr.in/BS8Q2G",
-    "final_url": "https://myntr.in/BS8Q2G",
-    "local_image": "assets/images/tgmsg_20059.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-07T05:46:11+00:00",
-    "buy_link": "https://myntr.in/BS8Q2G",
-    "date_iso": "2025-12-07T05:46:11+00:00"
   }
 ]
