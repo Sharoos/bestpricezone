@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg20620",
+    "title": "Happilo Choco Almonds Bite",
+    "description": "- (Pack of 2) At 29 🔥🔥🔥 Use Code : SNACK30 👉 Link : It's Limited Period Offer, it",
+    "shortlink": "https://extp.in/aNqx2g",
+    "urls": [
+      {
+        "url": "",
+        "label": "(Pack of 2) At 29 🔥🔥🔥"
+      },
+      {
+        "url": "https://extp.in/aNqx2g",
+        "label": "SNACK30"
+      },
+      {
+        "url": "",
+        "label": "It's Limited Period Offer, it"
+      }
+    ],
+    "raw_text": "Happilo Choco Almonds Bite - (Pack of 2) At 29 🔥🔥🔥\n\nUse Code : SNACK30\n\n👉 Link : https://extp.in/aNqx2g\n\nIt's Limited Period Offer,  it",
+    "final_url": "https://extp.in/aNqx2g",
+    "local_image": "assets/images/tgmsg_20620.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-10T23:11:37+00:00",
+    "buy_link": "https://extp.in/aNqx2g",
+    "date_iso": "2025-12-10T23:11:37+00:00"
+  },
+  {
     "id": "msg20618",
     "title": "✅ Other Websites selling same At More price",
     "description": "Happilo Classic Sultan Dates - 500gm At Rs.69 + FREE SHIPPING 🔥🔥 Usecode : SNACK30 👉🏻 Link: ✅Note : Other Websites selling same At More prices.",
@@ -9194,25 +9222,5 @@
     "date_obj": "2025-12-07T19:25:34+00:00",
     "buy_link": "https://myntr.in/9LoFvc",
     "date_iso": "2025-12-07T19:25:34+00:00"
-  },
-  {
-    "id": "msg20167",
-    "title": "Casio Enticer Men Watch Up to 50% off",
-    "description": "Flipkart | Casio Enticer Men Watch upto 50% off https://fkrt.co/A3Xdje",
-    "shortlink": "https://fkrt.co/A3Xdje",
-    "urls": [
-      {
-        "url": "https://fkrt.co/A3Xdje",
-        "label": "Casio Enticer Men Watch upto 50% off"
-      }
-    ],
-    "raw_text": "Flipkart | Casio Enticer Men Watch upto 50% off\n\n https://fkrt.co/A3Xdje",
-    "final_url": "https://fkrt.co/A3Xdje",
-    "local_image": "assets/images/tgmsg_20167.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-07T18:55:48+00:00",
-    "buy_link": "https://fkrt.co/A3Xdje",
-    "date_iso": "2025-12-07T18:55:48+00:00"
   }
 ]
