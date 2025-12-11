@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg20675",
+    "title": "Meesho Printed Tops @ ₹99🔥🔥",
+    "description": "Meesho | Printed Tops @ ₹99🔥🔥 🔗https://msho.in/EPvfPc 🔗https://msho.in/gA0lqK 🔗https://msho.in/IFTVdU",
+    "shortlink": "https://msho.in/EPvfPc",
+    "urls": [
+      {
+        "url": "https://msho.in/EPvfPc",
+        "label": "Printed Tops @ ₹99🔥🔥"
+      },
+      {
+        "url": "https://msho.in/gA0lqK",
+        "label": "Printed Tops @ ₹99🔥🔥"
+      },
+      {
+        "url": "https://msho.in/IFTVdU",
+        "label": "Printed Tops @ ₹99🔥🔥"
+      }
+    ],
+    "raw_text": "Meesho | Printed Tops @ ₹99🔥🔥\n\n🔗https://msho.in/EPvfPc\n🔗https://msho.in/gA0lqK\n🔗https://msho.in/IFTVdU",
+    "final_url": "https://msho.in/EPvfPc",
+    "local_image": "assets/images/tgmsg_20675.jpg",
+    "source_host": "msho.in",
+    "merchant_label": "Msho",
+    "date_obj": "2025-12-11T11:20:04+00:00",
+    "buy_link": "https://msho.in/EPvfPc",
+    "date_iso": "2025-12-11T11:20:04+00:00"
+  },
+  {
+    "id": "msg20676",
+    "title": "Bajaj HamaraMall [Limited Period]",
+    "description": "Buy ANY Masala @ Prices Use Code: DEAL35 • Turmeric (100g) At Rs.9 : • Dhania Powder (125g) At Rs.15 : • Chili Powder (100g) At Rs.16 :",
+    "shortlink": "https://extp.in/TvihFO",
+    "urls": [
+      {
+        "url": "",
+        "label": "Bajaj HamaraMall [Limited Period]"
+      },
+      {
+        "url": "",
+        "label": "DEAL35"
+      },
+      {
+        "url": "https://extp.in/TvihFO",
+        "label": "Turmeric (100g) At Rs.9"
+      },
+      {
+        "url": "https://extp.in/3Jt7AL",
+        "label": "Dhania Powder (125g) At Rs.15"
+      },
+      {
+        "url": "https://extp.in/n1GBdz",
+        "label": "Chili Powder (100g) At Rs.16"
+      }
+    ],
+    "raw_text": "Bajaj HamaraMall  [Limited Period]\n\nBuy ANY Masala @  Prices\n\nUse Code: DEAL35\n\n• Turmeric (100g) At Rs.9 :  https://extp.in/TvihFO\n•  Dhania Powder (125g) At Rs.15 : https://extp.in/3Jt7AL\n•  Chili Powder (100g) At Rs.16 : https://extp.in/n1GBdz",
+    "final_url": "https://extp.in/TvihFO",
+    "local_image": "assets/images/tgmsg_20676.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-11T11:25:34+00:00",
+    "buy_link": "https://extp.in/TvihFO",
+    "date_iso": "2025-12-11T11:25:34+00:00"
+  },
+  {
     "id": "msg20671",
     "title": "Shopsy Men's Solid Bomber Jacket at ₹363",
     "description": "Shopsy | Men's Solid Bomber Jacket at ₹363 🔗https://extp.in/JByUMg 🔗https://extp.in/09Ig8Z 🔗https://extp.in/oDwOdU 🔗https://extp.in/hUpidb 🔗https://extp.in/8WeGD3 🔗https://extp.in/CmaraG",
@@ -9078,53 +9142,5 @@
     "date_obj": "2025-12-08T07:24:27+00:00",
     "buy_link": "https://bitli.in/WS1seEk",
     "date_iso": "2025-12-08T07:24:27+00:00"
-  },
-  {
-    "id": "msg20237",
-    "title": "Up to 59% Off",
-    "description": "Flipkart | Upto 59% Off - Luxor Roller Ball Pens Starting At Rs.73 🔗 https://fkrt.co/CxG9pK",
-    "shortlink": "https://fkrt.co/CxG9pK",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 59% Off - Luxor Roller Ball Pens"
-      },
-      {
-        "url": "https://fkrt.co/CxG9pK",
-        "label": "Starting At Rs.73"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 59% Off - Luxor Roller Ball Pens\n\n Starting At Rs.73\n\n🔗 https://fkrt.co/CxG9pK",
-    "final_url": "https://fkrt.co/CxG9pK",
-    "local_image": "assets/images/tgmsg_20237.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-08T07:31:49+00:00",
-    "buy_link": "https://fkrt.co/CxG9pK",
-    "date_iso": "2025-12-08T07:31:49+00:00"
-  },
-  {
-    "id": "msg20234",
-    "title": "Deal Price ₹1593",
-    "description": "Amazon | MOVE-MEANT Travel Crew Small Cabin 55Cm Suitcase 8 Wheels Nu... Deal Price: ₹1593 👉",
-    "shortlink": "https://www.amazon.in/dp/B0F3P7TXDN?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "MOVE-MEANT Travel Crew Small Cabin 55Cm Suitcase 8 Wheels Nu"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0F3P7TXDN?psc=1&tag=bestpricezo0f-21",
-        "label": "₹1593"
-      }
-    ],
-    "raw_text": "Amazon | MOVE-MEANT Travel Crew Small Cabin 55Cm Suitcase 8 Wheels Nu...\n\nDeal Price: ₹1593\n\n👉https://www.amazon.in/dp/B0F3P7TXDN?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F3P7TXDN?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_20234.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-08T07:01:11+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F3P7TXDN?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-08T07:01:11+00:00"
   }
 ]
