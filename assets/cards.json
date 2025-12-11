@@ -1,5 +1,73 @@
 [
   {
+    "id": "msg20637",
+    "title": "Aqualogica B1G1 FREE Sale",
+    "description": "✅USE CODE: GLOW Shop Now 👉 How to Avail: • Add 2 products to cart • Apply Code: GLOW • Lowest-priced item becomes FREE",
+    "shortlink": "https://bitli.in/aj4gZlu",
+    "urls": [
+      {
+        "url": "",
+        "label": "Aqualogica B1G1 FREE Sale"
+      },
+      {
+        "url": "",
+        "label": "✅USE CODE: GLOW"
+      },
+      {
+        "url": "https://bitli.in/aj4gZlu",
+        "label": "Shop Now 👉"
+      },
+      {
+        "url": "",
+        "label": "How to Avail"
+      },
+      {
+        "url": "",
+        "label": "Add 2 products to cart"
+      },
+      {
+        "url": "",
+        "label": "GLOW"
+      },
+      {
+        "url": "",
+        "label": "priced item becomes FREE"
+      }
+    ],
+    "raw_text": "Aqualogica B1G1 FREE Sale\n\n✅USE CODE: GLOW\n\nShop Now 👉 https://bitli.in/aj4gZlu\n\nHow to Avail:\n• Add 2 products to cart\n• Apply Code: GLOW\n• Lowest-priced item becomes FREE",
+    "final_url": "https://bitli.in/aj4gZlu",
+    "local_image": "assets/images/tgmsg_20637.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-12-11T05:44:18+00:00",
+    "buy_link": "https://bitli.in/aj4gZlu",
+    "date_iso": "2025-12-11T05:44:18+00:00"
+  },
+  {
+    "id": "msg20638",
+    "title": "USPA & Hellcat and More Up to 83% Off",
+    "description": "AJIO: USPA & Hellcat and More Upto 83% Off 👉Link : https://ajiio.co/YKhzVr + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/YKhzVr",
+    "urls": [
+      {
+        "url": "https://ajiio.co/YKhzVr",
+        "label": "USPA & Hellcat and More Upto 83% Off"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO: USPA & Hellcat and More Upto 83% Off\n\n👉Link : https://ajiio.co/YKhzVr\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/YKhzVr",
+    "local_image": "assets/images/tgmsg_20638.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-11T05:46:10+00:00",
+    "buy_link": "https://ajiio.co/YKhzVr",
+    "date_iso": "2025-12-11T05:46:10+00:00"
+  },
+  {
     "id": "msg20633",
     "title": "Pack of 2 Pillows starting @ 282",
     "description": "Myntra | Pack of 2 Pillows starting @ 282 https://myntr.in/VQPyMV",
@@ -9226,45 +9294,5 @@
     "date_obj": "2025-12-07T19:46:40+00:00",
     "buy_link": "https://myntr.in/F9gCmP",
     "date_iso": "2025-12-07T19:46:40+00:00"
-  },
-  {
-    "id": "msg20206",
-    "title": "Roadster Men Jeans from @400",
-    "description": "Flipkart | Roadster Men Jeans from @400 https://fkrt.co/qAzpL8",
-    "shortlink": "https://fkrt.co/qAzpL8",
-    "urls": [
-      {
-        "url": "https://fkrt.co/qAzpL8",
-        "label": "Roadster Men Jeans from @400"
-      }
-    ],
-    "raw_text": "Flipkart | Roadster Men Jeans from @400\n\n    https://fkrt.co/qAzpL8",
-    "final_url": "https://fkrt.co/qAzpL8",
-    "local_image": "assets/images/tgmsg_20206.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-07T19:48:57+00:00",
-    "buy_link": "https://fkrt.co/qAzpL8",
-    "date_iso": "2025-12-07T19:48:57+00:00"
-  },
-  {
-    "id": "msg20207",
-    "title": "🎧 Noise True Wireless Earbuds Starting from ₹799 🔥",
-    "description": "Flipkart | 🎧 Noise True Wireless Earbuds Starting from ₹799 🔥 👉  https://fkrt.co/F2tyTP",
-    "shortlink": "https://fkrt.co/F2tyTP",
-    "urls": [
-      {
-        "url": "https://fkrt.co/F2tyTP",
-        "label": "🎧 Noise True Wireless Earbuds Starting from ₹799 🔥"
-      }
-    ],
-    "raw_text": "Flipkart | 🎧 Noise True Wireless Earbuds Starting from ₹799 🔥\n\n👉  https://fkrt.co/F2tyTP",
-    "final_url": "https://fkrt.co/F2tyTP",
-    "local_image": "assets/images/tgmsg_20207.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-07T19:49:33+00:00",
-    "buy_link": "https://fkrt.co/F2tyTP",
-    "date_iso": "2025-12-07T19:49:33+00:00"
   }
 ]
