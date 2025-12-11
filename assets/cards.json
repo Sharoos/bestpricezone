@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg20718",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
+    "description": "🔥AJIO Men's Footwear Starts @₹110 👉 Sports Shoes : Casual Shoes : Sandals : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/Tz9ftO",
+    "urls": [
+      {
+        "url": "https://ajiio.co/Tz9ftO",
+        "label": "🔥AJIO Men's Footwear Starts @₹110"
+      },
+      {
+        "url": "https://ajiio.co/dt5kJo",
+        "label": "Sports Shoes"
+      },
+      {
+        "url": "https://ajiio.co/zA55ZS",
+        "label": "Casual Shoes"
+      },
+      {
+        "url": "https://ajiio.co/fGg4du",
+        "label": "Sandals"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "🔥AJIO  Men's Footwear Starts @₹110\n\n👉https://ajiio.co/Tz9ftO\n\nSports Shoes : https://ajiio.co/dt5kJo\nCasual Shoes : https://ajiio.co/zA55ZS\nSandals : https://ajiio.co/fGg4du\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/Tz9ftO",
+    "local_image": "assets/images/tgmsg_20718.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-11T16:46:38+00:00",
+    "buy_link": "https://ajiio.co/Tz9ftO",
+    "date_iso": "2025-12-11T16:46:38+00:00"
+  },
+  {
     "id": "msg20715",
     "title": "🎁 Flat 25% OFF on Cleartrip Gift Cards + Extra 5% Cashback",
     "description": "Cleartrip Gift Card 🔥  👉 Grab Now: More Gift Cards at Discount: 💳 Note : Purchase Via SBI Cashback & Get 5% + Use Supercoins too.",
@@ -9046,49 +9082,5 @@
     "date_obj": "2025-12-08T15:03:23+00:00",
     "buy_link": "https://bitli.in/sbqtEq3",
     "date_iso": "2025-12-08T15:03:23+00:00"
-  },
-  {
-    "id": "msg20288",
-    "title": "🛒 Don’t miss the deal – your 5",
-    "description": "XYXX 🔥🔥 🩳 Break Free from Boring Undies with XYXX! 🔥 Buy 5 Classic Undies @ Just ₹999 🔥 Get ultra-comfy, stylish innerwear from XYXX – perfect for your everyday essentials. ✅ Premium Quality ✅ Modern Fit & Feel ✅ Just…",
-    "shortlink": "https://extp.in/9L9s2G",
-    "urls": [
-      {
-        "url": "",
-        "label": "🩳 Break Free from Boring Undies with XYXX!"
-      },
-      {
-        "url": "",
-        "label": "comfy, stylish innerwear from XYXX – perfect for your everyday essentials"
-      },
-      {
-        "url": "",
-        "label": "✅ Premium Quality"
-      },
-      {
-        "url": "",
-        "label": "✅ Modern Fit & Feel"
-      },
-      {
-        "url": "",
-        "label": "✅ Just ₹199 per piece!"
-      },
-      {
-        "url": "https://extp.in/9L9s2G",
-        "label": "Shop Now"
-      },
-      {
-        "url": "",
-        "label": "🛒 Don’t miss the deal – grab your 5-pack now from XYXX"
-      }
-    ],
-    "raw_text": "XYXX 🔥🔥\n\n🩳 Break Free from Boring Undies with XYXX!\n\n🔥 Buy 5 Classic Undies @ Just ₹999 🔥\n\nGet ultra-comfy, stylish innerwear from XYXX – perfect for your everyday essentials.\n\n✅ Premium Quality\n✅ Modern Fit & Feel\n✅ Just ₹199 per piece!\n\nShop Now : https://extp.in/9L9s2G\n\n🛒 Don’t miss the deal – grab your 5-pack now from XYXX",
-    "final_url": "https://extp.in/9L9s2G",
-    "local_image": "assets/images/tgmsg_20288.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-08T14:39:07+00:00",
-    "buy_link": "https://extp.in/9L9s2G",
-    "date_iso": "2025-12-08T14:39:07+00:00"
   }
 ]
