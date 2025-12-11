@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg20709",
+    "title": "⚡ Pav Bhaji Masala – Pack of 5 at just ₹9!",
+    "description": "Pav Bhaji Masala (Pack of 5) – ₹9 ⚡ Pav Bhaji Masala – Pack of 5 at just ₹9! Use Coupon: DEAL35💥 👉 Link: https://extp.in/3cRfz2",
+    "shortlink": "https://extp.in/3cRfz2",
+    "urls": [
+      {
+        "url": "",
+        "label": "Pav Bhaji Masala (Pack of 5) – ₹9"
+      },
+      {
+        "url": "https://extp.in/3cRfz2",
+        "label": "⚡ Pav Bhaji Masala – Pack of 5 at just ₹9!"
+      }
+    ],
+    "raw_text": "Pav Bhaji Masala (Pack of 5) – ₹9\n\n⚡ Pav Bhaji Masala – Pack of 5 at just ₹9!\n\nUse Coupon: DEAL35💥 \n\n👉 Link: https://extp.in/3cRfz2",
+    "final_url": "https://extp.in/3cRfz2",
+    "local_image": "assets/images/tgmsg_20709.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-11T15:05:55+00:00",
+    "buy_link": "https://extp.in/3cRfz2",
+    "date_iso": "2025-12-11T15:05:55+00:00"
+  },
+  {
+    "id": "msg20710",
+    "title": "Sambar Masala – Pack of 5 only ₹15",
+    "description": "Sambar Masala (Pack of 5) – ₹15 🔥 South Special !  Coupon Code : DEAL35 👉 Buy Now:",
+    "shortlink": "https://extp.in/z5Rw83",
+    "urls": [
+      {
+        "url": "",
+        "label": "Sambar Masala (Pack of 5) – ₹15"
+      },
+      {
+        "url": "",
+        "label": "🔥 South Special !"
+      },
+      {
+        "url": "https://extp.in/z5Rw83",
+        "label": "Sambar Masala – Pack of 5 only ₹15"
+      }
+    ],
+    "raw_text": "Sambar Masala (Pack of 5) – ₹15\n\n🔥 South Special !\nSambar Masala – Pack of 5 only ₹15\n\nCoupon Code : DEAL35\n\n👉 Buy Now: https://extp.in/z5Rw83",
+    "final_url": "https://extp.in/z5Rw83",
+    "local_image": "assets/images/tgmsg_20710.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-11T15:23:40+00:00",
+    "buy_link": "https://extp.in/z5Rw83",
+    "date_iso": "2025-12-11T15:23:40+00:00"
+  },
+  {
     "id": "msg20707",
     "title": "Up to 65% Off!",
     "description": "Myntra | 👟 Puma Clothing & Footwear - Up to 65% Off! Men's: https://myntr.in/515B0C Women's: https://myntr.in/jrOUeg Boys: https://myntr.in/2vFPO8 Girls: https://myntr.in/UXCvFC",
@@ -9074,53 +9126,5 @@
     "date_obj": "2025-12-08T14:21:50+00:00",
     "buy_link": "https://fkrt.co/QzeIUR",
     "date_iso": "2025-12-08T14:21:50+00:00"
-  },
-  {
-    "id": "msg20280",
-    "title": "Up to 70% Off On Branded Men's Shoe",
-    "description": "Ajio : Upto 70% Off On Branded Men's Shoes. https://ajiio.co/ltp8BV",
-    "shortlink": "https://ajiio.co/ltp8BV",
-    "urls": [
-      {
-        "url": "https://ajiio.co/ltp8BV",
-        "label": "Upto 70% Off On Branded Men's Shoes"
-      }
-    ],
-    "raw_text": "Ajio : Upto 70% Off On Branded Men's Shoes.\n\nhttps://ajiio.co/ltp8BV",
-    "final_url": "https://ajiio.co/ltp8BV",
-    "local_image": "assets/images/tgmsg_20280.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-08T13:48:41+00:00",
-    "buy_link": "https://ajiio.co/ltp8BV",
-    "date_iso": "2025-12-08T13:48:41+00:00"
-  },
-  {
-    "id": "msg20278",
-    "title": "Sweatshirts Under ₹299",
-    "description": "Flipkart | Sweatshirts Under ₹299. 👉https://fkrt.co/kG5acn Jackets Under ₹499. 👉https://fkrt.co/bU8OHt Jeans Under ₹499. 👉https://fkrt.co/bxqliB",
-    "shortlink": "https://fkrt.co/kG5acn",
-    "urls": [
-      {
-        "url": "https://fkrt.co/kG5acn",
-        "label": "Sweatshirts Under ₹299"
-      },
-      {
-        "url": "https://fkrt.co/bU8OHt",
-        "label": "Jackets Under ₹499"
-      },
-      {
-        "url": "https://fkrt.co/bxqliB",
-        "label": "Jeans Under ₹499"
-      }
-    ],
-    "raw_text": "Flipkart | Sweatshirts Under ₹299.\n\n👉https://fkrt.co/kG5acn\n\nJackets Under ₹499.\n\n👉https://fkrt.co/bU8OHt\n\nJeans Under ₹499.\n\n👉https://fkrt.co/bxqliB",
-    "final_url": "https://fkrt.co/kG5acn",
-    "local_image": "assets/images/tgmsg_20278.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-08T13:15:26+00:00",
-    "buy_link": "https://fkrt.co/kG5acn",
-    "date_iso": "2025-12-08T13:15:26+00:00"
   }
 ]
