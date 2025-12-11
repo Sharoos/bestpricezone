@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg20722",
+    "title": "Mens Shoes Under @ 599",
+    "description": "Flipkart | Mens Shoes Under @ 599₹ 👉https://fkrt.co/XpsT9M",
+    "shortlink": "https://fkrt.co/XpsT9M",
+    "urls": [
+      {
+        "url": "https://fkrt.co/XpsT9M",
+        "label": "Mens Shoes Under @ 599₹"
+      }
+    ],
+    "raw_text": "Flipkart | Mens Shoes Under @ 599₹\n\n👉https://fkrt.co/XpsT9M",
+    "final_url": "https://fkrt.co/XpsT9M",
+    "local_image": "assets/images/tgmsg_20722.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-11T17:35:31+00:00",
+    "buy_link": "https://fkrt.co/XpsT9M",
+    "date_iso": "2025-12-11T17:35:31+00:00"
+  },
+  {
+    "id": "msg20724",
+    "title": "Track Pants Starts at Rs.196",
+    "description": "Ajio | Track Pants Starts at Rs.196 👉Link : https://ajiio.co/FPtNS2",
+    "shortlink": "https://ajiio.co/FPtNS2",
+    "urls": [
+      {
+        "url": "https://ajiio.co/FPtNS2",
+        "label": "Track Pants Starts at Rs.196"
+      }
+    ],
+    "raw_text": "Ajio | Track Pants Starts at Rs.196\n\n👉Link : https://ajiio.co/FPtNS2",
+    "final_url": "https://ajiio.co/FPtNS2",
+    "local_image": "assets/images/tgmsg_20724.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-11T17:46:19+00:00",
+    "buy_link": "https://ajiio.co/FPtNS2",
+    "date_iso": "2025-12-11T17:46:19+00:00"
+  },
+  {
     "id": "msg20719",
     "title": "🛒 Deal Price Up to 80% Off",
     "description": "Myntra | 👚 Libas Women's Clothing - Up to 80% Off! Kurta 🛒 Deal Price: Up to 80% Off Kurta Sets 🛒 Deal Price: Up to 80% Off",
@@ -9106,45 +9146,5 @@
     "date_obj": "2025-12-08T15:18:27+00:00",
     "buy_link": "https://ajiio.co/qG9d16",
     "date_iso": "2025-12-08T15:18:27+00:00"
-  },
-  {
-    "id": "msg20294",
-    "title": "Get Up to 40% SuperCoins Back on Cleartrip Gift Cards [No Cap — Unlimited GVs] 🔥🔥🔥",
-    "description": "Flipkart Get Upto 40% SuperCoins Back on Cleartrip Gift Cards [No Cap — Buy Unlimited GVs] 🔥🔥🔥 👉 Grab Now: 💡 Note: You can use 100% SuperCoins on Cleartrip bookings.",
-    "shortlink": "https://fkrt.co/0Y5j9R",
-    "urls": [
-      {
-        "url": "https://fkrt.co/0Y5j9R",
-        "label": "Grab Now"
-      }
-    ],
-    "raw_text": "Flipkart   Get Upto 40% SuperCoins Back on Cleartrip Gift Cards [No Cap — Buy Unlimited GVs] 🔥🔥🔥\n\n👉 Grab Now: https://fkrt.co/0Y5j9R\n\n💡 Note: You can use 100% SuperCoins on Cleartrip bookings.",
-    "final_url": "https://fkrt.co/0Y5j9R",
-    "local_image": "assets/images/tgmsg_20294.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-08T15:18:27+00:00",
-    "buy_link": "https://fkrt.co/0Y5j9R",
-    "date_iso": "2025-12-08T15:18:27+00:00"
-  },
-  {
-    "id": "msg20295",
-    "title": "129",
-    "description": "129 : https://www.amazon.in/dp/B0F7LSQG4Y?language=en_IN&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F7LSQG4Y?language=en_IN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F7LSQG4Y?language=en_IN&tag=bestpricezo0f-21",
-        "label": "129"
-      }
-    ],
-    "raw_text": "129 : https://www.amazon.in/dp/B0F7LSQG4Y?language=en_IN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F7LSQG4Y?language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_20295.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-08T15:19:23+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F7LSQG4Y?language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-08T15:19:23+00:00"
   }
 ]
