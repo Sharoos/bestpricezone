@@ -1,5 +1,73 @@
 [
   {
+    "id": "msg20625",
+    "title": "HRX Shoes Starts at 419",
+    "description": "Myntra : HRX Shoes Starts at 419. Men : https://myntr.in/U1gn6W Women : https://myntr.in/gw6YD0 Clogs : Mens : https://myntr.in/RG9Zj1 Womens : https://myntr.in/AHpt66",
+    "shortlink": "https://myntr.in/U1gn6W",
+    "urls": [
+      {
+        "url": "",
+        "label": "HRX Shoes Starts at 419"
+      },
+      {
+        "url": "https://myntr.in/U1gn6W",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/gw6YD0",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/RG9Zj1",
+        "label": "Mens"
+      },
+      {
+        "url": "https://myntr.in/AHpt66",
+        "label": "Womens"
+      }
+    ],
+    "raw_text": "Myntra : HRX Shoes Starts at 419.\n\nMen : https://myntr.in/U1gn6W\nWomen : https://myntr.in/gw6YD0\n\nClogs : \nMens : https://myntr.in/RG9Zj1\nWomens : https://myntr.in/AHpt66",
+    "final_url": "https://myntr.in/U1gn6W",
+    "local_image": "assets/images/tgmsg_20625.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-11T03:45:59+00:00",
+    "buy_link": "https://myntr.in/U1gn6W",
+    "date_iso": "2025-12-11T03:45:59+00:00"
+  },
+  {
+    "id": "msg20627",
+    "title": "Men's Jeans Starting From 299",
+    "description": "Flipkart On Men's Fashion 🔥🔥 Trackpants, Shorts Under 499 👉 Casual Shirts Under 499 👉  👉",
+    "shortlink": "https://fkrt.co/GthUbl",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart On Men's Fashion 🔥🔥"
+      },
+      {
+        "url": "https://fkrt.co/GthUbl",
+        "label": "Trackpants, Shorts Under 499"
+      },
+      {
+        "url": "https://fkrt.co/wN9RCS",
+        "label": "Casual Shirts Under 499"
+      },
+      {
+        "url": "https://fkrt.co/IRw80X",
+        "label": "Men's Jeans Starting From 299"
+      }
+    ],
+    "raw_text": "Flipkart  On Men's Fashion 🔥🔥\n\nTrackpants, Shorts Under 499\n👉https://fkrt.co/GthUbl\n\nCasual Shirts Under 499\n👉https://fkrt.co/wN9RCS\n\nMen's Jeans Starting From 299\n👉https://fkrt.co/IRw80X",
+    "final_url": "https://fkrt.co/GthUbl",
+    "local_image": "assets/images/tgmsg_20627.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-11T04:01:23+00:00",
+    "buy_link": "https://fkrt.co/GthUbl",
+    "date_iso": "2025-12-11T04:01:23+00:00"
+  },
+  {
     "id": "msg20623",
     "title": "SHOPSY Jackpot Deals Live 🔥🔥🔥",
     "description": "SHOPSY Jackpot Deals Live  🔥🔥🔥 👉 https://extp.in/SoOtQk",
@@ -9190,45 +9258,5 @@
     "date_obj": "2025-12-07T19:16:43+00:00",
     "buy_link": "https://myntr.in/dDYpvR",
     "date_iso": "2025-12-07T19:16:43+00:00"
-  },
-  {
-    "id": "msg20190",
-    "title": "Lacoste watches at Min 50% Off",
-    "description": "Myntra | Lacoste watches at Min 50% Off https://myntr.in/hJhCKn",
-    "shortlink": "https://myntr.in/hJhCKn",
-    "urls": [
-      {
-        "url": "https://myntr.in/hJhCKn",
-        "label": "Lacoste watches at Min 50% Off"
-      }
-    ],
-    "raw_text": "Myntra | Lacoste watches at Min 50% Off \n\nhttps://myntr.in/hJhCKn",
-    "final_url": "https://myntr.in/hJhCKn",
-    "local_image": "assets/images/tgmsg_20190.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-07T19:17:55+00:00",
-    "buy_link": "https://myntr.in/hJhCKn",
-    "date_iso": "2025-12-07T19:17:55+00:00"
-  },
-  {
-    "id": "msg20191",
-    "title": "Calvin Klein watches at Min 50% Off",
-    "description": "Myntra | Calvin Klein watches at Min 50% Off https://myntr.in/vWyds7",
-    "shortlink": "https://myntr.in/vWyds7",
-    "urls": [
-      {
-        "url": "https://myntr.in/vWyds7",
-        "label": "Calvin Klein watches at Min 50% Off"
-      }
-    ],
-    "raw_text": "Myntra | Calvin Klein watches at Min 50% Off \n\nhttps://myntr.in/vWyds7",
-    "final_url": "https://myntr.in/vWyds7",
-    "local_image": "assets/images/tgmsg_20191.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-07T19:19:11+00:00",
-    "buy_link": "https://myntr.in/vWyds7",
-    "date_iso": "2025-12-07T19:19:11+00:00"
   }
 ]
