@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg20633",
+    "title": "Pack of 2 Pillows starting @ 282",
+    "description": "Myntra | Pack of 2 Pillows starting @ 282 https://myntr.in/VQPyMV",
+    "shortlink": "https://myntr.in/VQPyMV",
+    "urls": [
+      {
+        "url": "https://myntr.in/VQPyMV",
+        "label": "Pack of 2 Pillows starting @ 282"
+      }
+    ],
+    "raw_text": "Myntra | Pack of 2 Pillows starting @ 282\n\nhttps://myntr.in/VQPyMV",
+    "final_url": "https://myntr.in/VQPyMV",
+    "local_image": "assets/images/tgmsg_20633.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-11T05:05:40+00:00",
+    "buy_link": "https://myntr.in/VQPyMV",
+    "date_iso": "2025-12-11T05:05:40+00:00"
+  },
+  {
+    "id": "msg20634",
+    "title": "Louis Philipe Belts and wallets Min 60% off",
+    "description": "Myntra | Belts and wallets under 499 👉 Allen solly belts and wallets Min 60% off 👉  👉",
+    "shortlink": "https://myntr.in/bY3xEm",
+    "urls": [
+      {
+        "url": "https://myntr.in/bY3xEm",
+        "label": "Belts and wallets under 499"
+      },
+      {
+        "url": "https://myntr.in/bh1QIC",
+        "label": "Allen solly belts and wallets Min 60% off"
+      },
+      {
+        "url": "https://myntr.in/iPYM9Y",
+        "label": "Louis Philipe Belts and wallets Min 60% off"
+      }
+    ],
+    "raw_text": "Myntra  | Belts and wallets under 499\n👉https://myntr.in/bY3xEm\n\nAllen solly belts and wallets Min 60% off \n👉https://myntr.in/bh1QIC\n\nLouis Philipe Belts and wallets Min 60% off\n👉https://myntr.in/iPYM9Y",
+    "final_url": "https://myntr.in/bY3xEm",
+    "local_image": "assets/images/tgmsg_20634.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-11T05:15:54+00:00",
+    "buy_link": "https://myntr.in/bY3xEm",
+    "date_iso": "2025-12-11T05:15:54+00:00"
+  },
+  {
     "id": "msg20629",
     "title": "Women Kurta Starting From at ₹263",
     "description": "Myntra | Women Kurta Starting From at ₹263 👉 https://myntr.in/K4qCAl",
@@ -9218,45 +9266,5 @@
     "date_obj": "2025-12-07T19:49:33+00:00",
     "buy_link": "https://fkrt.co/F2tyTP",
     "date_iso": "2025-12-07T19:49:33+00:00"
-  },
-  {
-    "id": "msg20208",
-    "title": "Asian Shoes and Sneaker at Rs.383",
-    "description": "Flipkart | Asian Shoes and Sneaker at Rs.383 https://fkrt.co/lu1PGi",
-    "shortlink": "https://fkrt.co/lu1PGi",
-    "urls": [
-      {
-        "url": "https://fkrt.co/lu1PGi",
-        "label": "Asian Shoes and Sneaker at Rs.383"
-      }
-    ],
-    "raw_text": "Flipkart | Asian Shoes and Sneaker at Rs.383\n\n https://fkrt.co/lu1PGi",
-    "final_url": "https://fkrt.co/lu1PGi",
-    "local_image": "assets/images/tgmsg_20208.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-07T19:50:10+00:00",
-    "buy_link": "https://fkrt.co/lu1PGi",
-    "date_iso": "2025-12-07T19:50:10+00:00"
-  },
-  {
-    "id": "msg20196",
-    "title": "Lavie Signature and Irth by Titan at Min. 60% Off",
-    "description": "Myntra  Lavie Signature and Irth by Titan at Min. 60% Off https://myntr.in/n4EDeL",
-    "shortlink": "https://myntr.in/n4EDeL",
-    "urls": [
-      {
-        "url": "https://myntr.in/n4EDeL",
-        "label": "Myntra Lavie Signature and Irth by Titan at Min. 60% Off"
-      }
-    ],
-    "raw_text": "Myntra  Lavie Signature and Irth by Titan at Min. 60% Off\n\nhttps://myntr.in/n4EDeL",
-    "final_url": "https://myntr.in/n4EDeL",
-    "local_image": "assets/images/tgmsg_20196.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-07T19:28:48+00:00",
-    "buy_link": "https://myntr.in/n4EDeL",
-    "date_iso": "2025-12-07T19:28:48+00:00"
   }
 ]
