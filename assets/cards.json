@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg20653",
+    "title": "72% Off",
+    "description": "Flipkart | 72% Off - PUMA  Women T-Shirt At Rs.489 👉 https://fkrt.co/5ictw7 Master Link -  https://fkrt.co/uGQdf7",
+    "shortlink": "https://fkrt.co/5ictw7",
+    "urls": [
+      {
+        "url": "https://fkrt.co/5ictw7",
+        "label": "72% Off - PUMA Women T-Shirt At Rs.489"
+      },
+      {
+        "url": "https://fkrt.co/uGQdf7",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Flipkart | 72% Off - PUMA  Women T-Shirt At Rs.489\n\n👉 https://fkrt.co/5ictw7\n\nMaster Link -  https://fkrt.co/uGQdf7",
+    "final_url": "https://fkrt.co/5ictw7",
+    "local_image": "assets/images/tgmsg_20653.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-11T08:45:12+00:00",
+    "buy_link": "https://fkrt.co/5ictw7",
+    "date_iso": "2025-12-11T08:45:12+00:00"
+  },
+  {
     "id": "msg20650",
     "title": "Shopsy 💥T800 Ultra Smartwatch @ Rs.322",
     "description": "Shopsy | 💥T800 Ultra Smartwatch @ Rs.322 👉https://extp.in/6w4QI3",
@@ -9170,33 +9194,5 @@
     "date_obj": "2025-12-08T04:35:09+00:00",
     "buy_link": "https://fkrt.co/iRyycq",
     "date_iso": "2025-12-08T04:35:09+00:00"
-  },
-  {
-    "id": "msg20218",
-    "title": "🛒 Deal Price ₹10999",
-    "description": "Amazon | 💻 Gaming Monitor Deals Zebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate 🛒 Deal Price: ₹10999",
-    "shortlink": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "💻 Gaming Monitor Deals"
-      },
-      {
-        "url": "",
-        "label": "Zebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹10999"
-      }
-    ],
-    "raw_text": "Amazon | 💻 Gaming Monitor Deals\n\nZebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate\n🛒 Deal Price: ₹10999\n\nhttps://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_20218.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-08T03:45:54+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-08T03:45:54+00:00"
   }
 ]
