@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg20643",
+    "title": "Up to 89% off",
+    "description": "Flipkart | Upto 89% off - Handbags Starting Rs.120 🔗https://fkrt.co/OGHbf9",
+    "shortlink": "https://fkrt.co/OGHbf9",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 89% off - Handbags"
+      },
+      {
+        "url": "https://fkrt.co/OGHbf9",
+        "label": "Starting Rs.120"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 89% off - Handbags \n\n Starting Rs.120\n\n 🔗https://fkrt.co/OGHbf9",
+    "final_url": "https://fkrt.co/OGHbf9",
+    "local_image": "assets/images/tgmsg_20643.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-11T07:10:07+00:00",
+    "buy_link": "https://fkrt.co/OGHbf9",
+    "date_iso": "2025-12-11T07:10:07+00:00"
+  },
+  {
     "id": "msg20639",
     "title": "Swisstyle Watches Up to 89% Off",
     "description": "Myntra | Swisstyle Watches upto 89% Off 👉 https://myntr.in/RT3a4V",
@@ -9274,25 +9298,5 @@
     "date_obj": "2025-12-07T19:56:39+00:00",
     "buy_link": "https://ajiio.co/DncSa0",
     "date_iso": "2025-12-07T19:56:39+00:00"
-  },
-  {
-    "id": "msg20202",
-    "title": "Schwarzkopf Professional Up to 35% off plus additional",
-    "description": "Myntra | Schwarzkopf Professional upto 35% off  plus additional coupon Link : https://myntr.in/HcavD7",
-    "shortlink": "https://myntr.in/HcavD7",
-    "urls": [
-      {
-        "url": "https://myntr.in/HcavD7",
-        "label": ""
-      }
-    ],
-    "raw_text": "Myntra | Schwarzkopf Professional upto 35% off  plus additional coupon\n\nLink : https://myntr.in/HcavD7",
-    "final_url": "https://myntr.in/HcavD7",
-    "local_image": "assets/images/tgmsg_20202.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-07T19:41:47+00:00",
-    "buy_link": "https://myntr.in/HcavD7",
-    "date_iso": "2025-12-07T19:41:47+00:00"
   }
 ]
