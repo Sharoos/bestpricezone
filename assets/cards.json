@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg20814",
+    "title": "Up to 89% Off",
+    "description": "Flipkart | upto 89% Off - Chemistry Co Ords Set Starting Rs.341 🔗 https://fkrt.co/KqNwDi",
+    "shortlink": "https://fkrt.co/KqNwDi",
+    "urls": [
+      {
+        "url": "",
+        "label": "upto 89% Off - Chemistry Co Ords Set"
+      },
+      {
+        "url": "https://fkrt.co/KqNwDi",
+        "label": "Starting Rs.341"
+      }
+    ],
+    "raw_text": "Flipkart | upto 89% Off - Chemistry Co Ords Set\n\n Starting Rs.341\n\n🔗 https://fkrt.co/KqNwDi",
+    "final_url": "https://fkrt.co/KqNwDi",
+    "local_image": "assets/images/tgmsg_20814.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-12T11:42:19+00:00",
+    "buy_link": "https://fkrt.co/KqNwDi",
+    "date_iso": "2025-12-12T11:42:19+00:00"
+  },
+  {
     "id": "msg20811",
     "title": "Men's Casual Shoes Min 70% off",
     "description": "Flipkart | Footwear Sale Is Live!!! 🛍▶️ Men's Sneakers Under Rs/ 349 🔗  🔗 Leather Sandals From Rs. 199 🔗 Formal Shoes Under Rs. 399 🔗 Men Boots Under Rs. 799 🔗",
@@ -9414,61 +9438,5 @@
     "date_obj": "2025-12-09T03:46:07+00:00",
     "buy_link": "https://myntr.in/O4I2aA",
     "date_iso": "2025-12-09T03:46:07+00:00"
-  },
-  {
-    "id": "msg20346",
-    "title": "8. Love Beauty & Planet Haircare Min. 45% Off",
-    "description": "Myntra | 1. Lakme Makeup Min. 50% - 70% Off: 2. Lakme Skincare Min. 50% - 65% Off: 3. Vaseline Skincare Min. 50% Off: 4. Ponds Skincare Min. 50% Off: 5. Dove Haircare Min. 60% - 65% Off: 6. 7. Tresemme Haircare Min. 60%…",
-    "shortlink": "https://myntr.in/YSxiO5",
-    "urls": [
-      {
-        "url": "https://myntr.in/YSxiO5",
-        "label": "1. Lakme Makeup Min. 50% - 70% Off"
-      },
-      {
-        "url": "https://myntr.in/C1s70K",
-        "label": "2. Lakme Skincare Min. 50% - 65% Off"
-      },
-      {
-        "url": "https://myntr.in/r0nx78",
-        "label": "3. Vaseline Skincare Min. 50% Off"
-      },
-      {
-        "url": "https://myntr.in/6Z86vO",
-        "label": "4. Ponds Skincare Min. 50% Off"
-      },
-      {
-        "url": "https://myntr.in/e9UkQP",
-        "label": "5. Dove Haircare Min. 60% - 65% Off"
-      },
-      {
-        "url": "https://myntr.in/4xedcr",
-        "label": ""
-      },
-      {
-        "url": "https://myntr.in/8Wd6c6",
-        "label": "7. Tresemme Haircare Min. 60% - 65% Off"
-      },
-      {
-        "url": "https://myntr.in/AtrQ77",
-        "label": "8. Love Beauty & Planet Haircare Min. 45% Off"
-      },
-      {
-        "url": "https://myntr.in/34qPyy",
-        "label": "9. Clinic Plus Haircare Min. 55% Off"
-      },
-      {
-        "url": "https://myntr.in/8j8x4l",
-        "label": "10. indulekha Hair Oils Min. 60% Off"
-      }
-    ],
-    "raw_text": "Myntra | 1. Lakme Makeup Min. 50% - 70% Off: https://myntr.in/YSxiO5\n\n2. Lakme Skincare Min. 50% - 65% Off: https://myntr.in/C1s70K\n\n3. Vaseline Skincare Min. 50% Off: https://myntr.in/r0nx78\n\n4. Ponds Skincare Min. 50% Off: https://myntr.in/6Z86vO\n\n5. Dove Haircare Min. 60% - 65% Off: https://myntr.in/e9UkQP\n\n6. https://myntr.in/4xedcr\n\n7. Tresemme Haircare Min. 60% - 65% Off: https://myntr.in/8Wd6c6\n\n8. Love Beauty & Planet Haircare Min. 45% Off: https://myntr.in/AtrQ77\n\n9. Clinic Plus Haircare Min. 55% Off: https://myntr.in/34qPyy\n\n10. indulekha Hair Oils Min. 60% Off: https://myntr.in/8j8x4l",
-    "final_url": "https://myntr.in/YSxiO5",
-    "local_image": "assets/images/tgmsg_20346.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-08T20:11:45+00:00",
-    "buy_link": "https://myntr.in/YSxiO5",
-    "date_iso": "2025-12-08T20:11:45+00:00"
   }
 ]
