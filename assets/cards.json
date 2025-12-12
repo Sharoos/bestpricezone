@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg20858",
+    "title": "65% Off On Park Avenue Soap",
+    "description": "Myntra | Flat 60-65% Off On Park Avenue Soaps. 👉 https://myntr.in/HQfdwb",
+    "shortlink": "https://myntr.in/HQfdwb",
+    "urls": [
+      {
+        "url": "https://myntr.in/HQfdwb",
+        "label": "Flat 60-65% Off On Park Avenue Soaps"
+      }
+    ],
+    "raw_text": "Myntra | Flat 60-65% Off On Park Avenue Soaps.\n\n👉 https://myntr.in/HQfdwb",
+    "final_url": "https://myntr.in/HQfdwb",
+    "local_image": "assets/images/tgmsg_20858.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-12T17:02:05+00:00",
+    "buy_link": "https://myntr.in/HQfdwb",
+    "date_iso": "2025-12-12T17:02:05+00:00"
+  },
+  {
     "id": "msg20856",
     "title": "Up to 3% Rio Coins back on UPI & Card Spends 💰",
     "description": "Apply for the Lifetime FREE RIO Credit Card & Earn assured cashback on EVERY Scan & Swipe 🔥🔥 👉 Apply Now: Benefits: • 1+1 Movie Tickets on District & BookMyShow 🎬 • Flat ₹150 Off on Zomato 🍕 • 40% Off on Swiggy Food &…",
@@ -9318,25 +9338,5 @@
     "date_obj": "2025-12-09T12:47:33+00:00",
     "buy_link": "https://extp.in/EZnQVB",
     "date_iso": "2025-12-09T12:47:33+00:00"
-  },
-  {
-    "id": "msg20396",
-    "title": "80% Off",
-    "description": "Flipkart | 80% Off - Spykar Women Jeans At Rs.708 🔗 https://fkrt.co/SLlrjt",
-    "shortlink": "https://fkrt.co/SLlrjt",
-    "urls": [
-      {
-        "url": "https://fkrt.co/SLlrjt",
-        "label": "80% Off - Spykar Women Jeans At Rs.708"
-      }
-    ],
-    "raw_text": "Flipkart | 80% Off - Spykar Women Jeans At Rs.708\n\n🔗 https://fkrt.co/SLlrjt",
-    "final_url": "https://fkrt.co/SLlrjt",
-    "local_image": "assets/images/tgmsg_20396.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-09T11:45:09+00:00",
-    "buy_link": "https://fkrt.co/SLlrjt",
-    "date_iso": "2025-12-09T11:45:09+00:00"
   }
 ]
