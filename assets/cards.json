@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg20815",
+    "title": "Party Heels, Wedges & more Min 70% off",
+    "description": "Flipkart | Footwear Sale Is Live!!! 🛍▶️  🔗 Women Sneakers Min 80% off 🔗 Trendy Flats Under Rs. 259 🔗 Women Boots Under Rs. 499 🔗 Fur Slippers From Rs. 149 🔗",
+    "shortlink": "https://fkrt.co/0yecJW",
+    "urls": [
+      {
+        "url": "",
+        "label": "Footwear Sale Is Live!!! 🛍▶️"
+      },
+      {
+        "url": "https://fkrt.co/0yecJW",
+        "label": "Party Heels, Wedges & more Min 70% off"
+      },
+      {
+        "url": "https://fkrt.co/1migyM",
+        "label": "Women Sneakers Min 80% off"
+      },
+      {
+        "url": "https://fkrt.co/JFCtKd",
+        "label": "Trendy Flats Under Rs. 259"
+      },
+      {
+        "url": "https://fkrt.co/sS8Kd6",
+        "label": "Women Boots Under Rs. 499"
+      },
+      {
+        "url": "https://fkrt.co/SAAgIH",
+        "label": "Fur Slippers From Rs. 149"
+      }
+    ],
+    "raw_text": "Flipkart | Footwear Sale Is Live!!! 🛍▶️\n\nParty Heels, Wedges & more Min 70% off\n🔗https://fkrt.co/0yecJW\n\nWomen Sneakers Min 80% off\n🔗https://fkrt.co/1migyM\n\nTrendy Flats Under Rs. 259\n🔗https://fkrt.co/JFCtKd\n\nWomen Boots Under Rs. 499\n🔗https://fkrt.co/sS8Kd6\n\nFur Slippers From Rs. 149\n🔗https://fkrt.co/SAAgIH",
+    "final_url": "https://fkrt.co/0yecJW",
+    "local_image": "assets/images/tgmsg_20815.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-12T11:52:25+00:00",
+    "buy_link": "https://fkrt.co/0yecJW",
+    "date_iso": "2025-12-12T11:52:25+00:00"
+  },
+  {
     "id": "msg20814",
     "title": "Up to 89% Off",
     "description": "Flipkart | upto 89% Off - Chemistry Co Ords Set Starting Rs.341 🔗 https://fkrt.co/KqNwDi",
@@ -9414,29 +9454,5 @@
     "date_obj": "2025-12-09T04:33:17+00:00",
     "buy_link": "https://fkrt.co/nrWYK7",
     "date_iso": "2025-12-09T04:33:17+00:00"
-  },
-  {
-    "id": "msg20351",
-    "title": "Monte Carlo blanket and bedsheets min 50% off",
-    "description": "Myntra  🔥🔥 Story@home Upto 65% off 👉https://myntr.in/O4I2aA Monte Carlo blanket and bedsheets min 50% off. 👉https://myntr.in/d6LeH5",
-    "shortlink": "https://myntr.in/O4I2aA",
-    "urls": [
-      {
-        "url": "https://myntr.in/O4I2aA",
-        "label": "Story@home Upto 65% off"
-      },
-      {
-        "url": "https://myntr.in/d6LeH5",
-        "label": "Monte Carlo blanket and bedsheets min 50% off"
-      }
-    ],
-    "raw_text": "Myntra  🔥🔥\n\nStory@home Upto 65% off \n👉https://myntr.in/O4I2aA\n\nMonte Carlo blanket and bedsheets min 50% off.\n👉https://myntr.in/d6LeH5",
-    "final_url": "https://myntr.in/O4I2aA",
-    "local_image": "assets/images/tgmsg_20351.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-09T03:46:07+00:00",
-    "buy_link": "https://myntr.in/O4I2aA",
-    "date_iso": "2025-12-09T03:46:07+00:00"
   }
 ]
