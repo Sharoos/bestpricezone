@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg20802",
+    "title": "25% discount on movie tickets (maximum ₹100)",
+    "description": "IDFC FIRST Lifetime Free Credit Card. 📌Apply Now: • Lifetime Free – No Joining or Annual Fee • ₹500 Gift Voucher on spending ₹5,000 within 90 days • Reward Points with no expiry •  • Discounts on 300+ brands including…",
+    "shortlink": "https://bitli.in/6Fa68LI",
+    "urls": [
+      {
+        "url": "",
+        "label": "IDFC FIRST Lifetime Free Credit Card"
+      },
+      {
+        "url": "https://bitli.in/6Fa68LI",
+        "label": "📌Apply Now"
+      },
+      {
+        "url": "",
+        "label": "Lifetime Free – No Joining or Annual Fee"
+      },
+      {
+        "url": "",
+        "label": "₹500 Gift Voucher on spending ₹5,000 within 90 days"
+      },
+      {
+        "url": "",
+        "label": "Reward Points with no expiry"
+      },
+      {
+        "url": "",
+        "label": "Discounts on 300+ brands including Flipkart, Myntra, AJIO, Zomato and more"
+      },
+      {
+        "url": "",
+        "label": "Lounge and travel benefits on select variants"
+      }
+    ],
+    "raw_text": "IDFC FIRST Lifetime Free Credit Card.\n\n📌Apply Now: https://bitli.in/6Fa68LI\n\n • Lifetime Free – No Joining or Annual Fee\n • ₹500 Gift Voucher on spending ₹5,000 within 90 days\n • Reward Points with no expiry\n • 25% discount on movie tickets (maximum ₹100)\n • Discounts on 300+ brands including Flipkart, Myntra, AJIO, Zomato and more\n • 1% fuel surcharge waiver\n • Lounge and travel benefits on select variants",
+    "final_url": "https://bitli.in/6Fa68LI",
+    "local_image": "assets/images/tgmsg_20802.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-12-12T09:59:30+00:00",
+    "buy_link": "https://bitli.in/6Fa68LI",
+    "date_iso": "2025-12-12T09:59:30+00:00"
+  },
+  {
     "id": "msg20799",
     "title": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre",
     "description": "-approved limit. Apply Now - 💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀 ⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping. ⿢ Easy EMIs : Flexible repayment with no foreclosure charges. ⿣ Wide…",
@@ -9354,25 +9398,5 @@
     "date_obj": "2025-12-08T19:49:47+00:00",
     "buy_link": "https://www.amazon.in/dp/B0C1KFT4N5?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-12-08T19:49:47+00:00"
-  },
-  {
-    "id": "msg20345",
-    "title": "Apply 2% Off",
-    "description": "Amazon | Parachute Body Lotion, 600ml @195 Apply 2% Off Coupon https://www.amazon.in/s?hidden-keywords=B0CG16N3P4%7CB0CG17DT8T%7CB0CG15FW2C&tag=bestpricezo0f-21&",
-    "shortlink": "https://www.amazon.in/s?hidden-keywords=B0CG16N3P4%7CB0CG17DT8T%7CB0CG15FW2C&tag=bestpricezo0f-21&",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?hidden-keywords=B0CG16N3P4%7CB0CG17DT8T%7CB0CG15FW2C&tag=bestpricezo0f-21&",
-        "label": "Parachute Body Lotion, 600ml @195"
-      }
-    ],
-    "raw_text": "Amazon | Parachute Body Lotion, 600ml @195\n\nApply 2% Off Coupon\n\nhttps://www.amazon.in/s?hidden-keywords=B0CG16N3P4%7CB0CG17DT8T%7CB0CG15FW2C&tag=bestpricezo0f-21&",
-    "final_url": "https://www.amazon.in/s?hidden-keywords=B0CG16N3P4%7CB0CG17DT8T%7CB0CG15FW2C&tag=bestpricezo0f-21&",
-    "local_image": "assets/images/tgmsg_20345.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-08T19:50:36+00:00",
-    "buy_link": "https://www.amazon.in/s?hidden-keywords=B0CG16N3P4%7CB0CG17DT8T%7CB0CG15FW2C&tag=bestpricezo0f-21&",
-    "date_iso": "2025-12-08T19:50:36+00:00"
   }
 ]
