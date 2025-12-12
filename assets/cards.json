@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg20852",
+    "title": "Up to 90% Off On Watche",
+    "description": "Flipkart GRAB : Upto 90% Off On Watches. 👉https://fkrt.co/nePPib",
+    "shortlink": "https://fkrt.co/nePPib",
+    "urls": [
+      {
+        "url": "https://fkrt.co/nePPib",
+        "label": "Upto 90% Off On Watches"
+      }
+    ],
+    "raw_text": "Flipkart GRAB : Upto 90% Off On Watches.\n\n👉https://fkrt.co/nePPib",
+    "final_url": "https://fkrt.co/nePPib",
+    "local_image": "assets/images/tgmsg_20852.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-12T16:16:35+00:00",
+    "buy_link": "https://fkrt.co/nePPib",
+    "date_iso": "2025-12-12T16:16:35+00:00"
+  },
+  {
+    "id": "msg20855",
+    "title": "Up to 70% Off On Window Curtains (Pack Of 2) from Rs.265",
+    "description": "Myntra | Upto 70% Off On Window Curtains (Pack Of 2) from Rs.265 👉Link : https://myntr.in/URHdbt",
+    "shortlink": "https://myntr.in/URHdbt",
+    "urls": [
+      {
+        "url": "https://myntr.in/URHdbt",
+        "label": "Upto 70% Off On Window Curtains (Pack Of 2) from Rs.265"
+      }
+    ],
+    "raw_text": "Myntra | Upto 70% Off On Window Curtains (Pack Of 2) from Rs.265\n  \n👉Link : https://myntr.in/URHdbt",
+    "final_url": "https://myntr.in/URHdbt",
+    "local_image": "assets/images/tgmsg_20855.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-12T16:32:20+00:00",
+    "buy_link": "https://myntr.in/URHdbt",
+    "date_iso": "2025-12-12T16:32:20+00:00"
+  },
+  {
     "id": "msg20849",
     "title": "Up to 84% Off on Gym Fitness Kits Starting @₹111🔥🔥🔥🔥",
     "description": "Flipkart | UPTO 84% Off on Gym Fitness Kits Starting @₹111🔥🔥🔥🔥 🔗🔗Links : https://fkrt.co/tQLbDe",
@@ -9274,49 +9314,5 @@
     "date_obj": "2025-12-09T10:00:05+00:00",
     "buy_link": "https://myntr.in/F6BkBo",
     "date_iso": "2025-12-09T10:00:05+00:00"
-  },
-  {
-    "id": "msg20393",
-    "title": "24 Pcs Cloth Organisers at 75% Off",
-    "description": "Myntra  12-24 Pcs Cloth Organisers at 75% Off 🔗 https://myntr.in/YVvB1A",
-    "shortlink": "https://myntr.in/YVvB1A",
-    "urls": [
-      {
-        "url": "https://myntr.in/YVvB1A",
-        "label": "24 Pcs Cloth Organisers at 75% Off"
-      }
-    ],
-    "raw_text": "Myntra  12-24 Pcs Cloth Organisers at 75% Off\n\n🔗 https://myntr.in/YVvB1A",
-    "final_url": "https://myntr.in/YVvB1A",
-    "local_image": "assets/images/tgmsg_20393.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-09T10:10:08+00:00",
-    "buy_link": "https://myntr.in/YVvB1A",
-    "date_iso": "2025-12-09T10:10:08+00:00"
-  },
-  {
-    "id": "msg20394",
-    "title": "Deal GNC Protein Wafer (Pack of 10) @ 379/",
-    "description": "Amazon Deal : GNC Protein Wafer (Pack of 10) @ 379/- 🔗 Lowest Price Since Launch",
-    "shortlink": "https://www.amazon.in/dp/B0FGQ6GM9P?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FGQ6GM9P?tag=bestpricezo0f-21",
-        "label": "GNC Protein Wafer (Pack of 10) @ 379/"
-      },
-      {
-        "url": "",
-        "label": "Lowest Price Since Launch"
-      }
-    ],
-    "raw_text": "Amazon  Deal : GNC Protein Wafer (Pack of 10) @ 379/-\n\n🔗 https://www.amazon.in/dp/B0FGQ6GM9P?tag=bestpricezo0f-21\n\nLowest Price Since Launch",
-    "final_url": "https://www.amazon.in/dp/B0FGQ6GM9P?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_20394.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-09T10:20:08+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FGQ6GM9P?tag=bestpricezo0f-21",
-    "date_iso": "2025-12-09T10:20:08+00:00"
   }
 ]
