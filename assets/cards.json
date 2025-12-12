@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg20762",
+    "title": "+ 10% EXTRA CASH",
+    "description": "🔥Ajio Men Clothing Starts @99 ◼️T-Shirt Starts @141 👉 ◼️Shirt Starts @160 👉 ◼️Jeans Starts @286 👉 ◼️Polo T-Shirt Starts @165 👉 + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/Aw0jeh",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥Ajio Men Clothing Starts @99"
+      },
+      {
+        "url": "https://ajiio.co/Aw0jeh",
+        "label": "◼️T-Shirt Starts @141"
+      },
+      {
+        "url": "https://ajiio.co/B3pqpI",
+        "label": "◼️Shirt Starts @160"
+      },
+      {
+        "url": "https://ajiio.co/mPF64C",
+        "label": "◼️Jeans Starts @286"
+      },
+      {
+        "url": "https://ajiio.co/6cQSxp",
+        "label": "◼️Polo T-Shirt Starts @165"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "🔥Ajio  Men Clothing Starts @99\n\n◼️T-Shirt Starts @141\n👉https://ajiio.co/Aw0jeh\n\n◼️Shirt Starts @160\n👉https://ajiio.co/B3pqpI\n\n◼️Jeans Starts @286\n👉https://ajiio.co/mPF64C\n\n◼️Polo T-Shirt Starts @165\n👉https://ajiio.co/6cQSxp\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/Aw0jeh",
+    "local_image": "assets/images/tgmsg_20762.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-12T05:01:45+00:00",
+    "buy_link": "https://ajiio.co/Aw0jeh",
+    "date_iso": "2025-12-12T05:01:45+00:00"
+  },
+  {
     "id": "msg20761",
     "title": "SHOPSY Jackpot Deals🔥🔥🔥",
     "description": "SHOPSY Jackpot Deals🔥🔥🔥 🔗 https://extp.in/2ZR37Z",
@@ -9222,25 +9262,5 @@
     "date_obj": "2025-12-08T18:18:07+00:00",
     "buy_link": "https://myntr.in/uCy6QI",
     "date_iso": "2025-12-08T18:18:07+00:00"
-  },
-  {
-    "id": "msg20307",
-    "title": "Diego Ergonomic Office Chair @ 2909",
-    "description": "Amazon | Diego Ergonomic Office Chair @ 2909. 👉https://www.amazon.in/dp/B0D2XZ6SZC?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D2XZ6SZC?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0D2XZ6SZC?th=1&tag=bestpricezo0f-21",
-        "label": "Diego Ergonomic Office Chair @ 2909"
-      }
-    ],
-    "raw_text": "Amazon | Diego Ergonomic Office Chair @ 2909.\n\n👉https://www.amazon.in/dp/B0D2XZ6SZC?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D2XZ6SZC?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_20307.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-08T17:46:06+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D2XZ6SZC?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-08T17:46:06+00:00"
   }
 ]
