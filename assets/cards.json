@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg20960",
+    "title": "Women Night Suits @ ₹299",
+    "description": "Myntra | Women Night Suits @ ₹299 👉 https://myntr.in/kJjpqg",
+    "shortlink": "https://myntr.in/kJjpqg",
+    "urls": [
+      {
+        "url": "https://myntr.in/kJjpqg",
+        "label": "Women Night Suits @ ₹299"
+      }
+    ],
+    "raw_text": "Myntra | Women Night Suits @ ₹299\n\n👉 https://myntr.in/kJjpqg",
+    "final_url": "https://myntr.in/kJjpqg",
+    "local_image": "assets/images/tgmsg_20960.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-13T17:48:18+00:00",
+    "buy_link": "https://myntr.in/kJjpqg",
+    "date_iso": "2025-12-13T17:48:18+00:00"
+  },
+  {
     "id": "msg20958",
     "title": "🔥 Tasty + Healthy Deal!",
     "description": "Masala Oats – 400g @ ₹69  Masala Oats 400g just ₹69 😋 🆓 Free Shipping Apply SNACK30 (Valid 5×) 👉 Buy Here:",
@@ -9634,29 +9654,5 @@
     "date_obj": "2025-12-10T08:45:11+00:00",
     "buy_link": "https://bitli.in/voeRAc1",
     "date_iso": "2025-12-10T08:45:11+00:00"
-  },
-  {
-    "id": "msg20512",
-    "title": "71% Off",
-    "description": "Flipkart | 71% Off - Spykar Men Jeans At Rs.1168 🔗 https://fkrt.co/x4KDr3 Master Link -  https://fkrt.co/5qPA4E",
-    "shortlink": "https://fkrt.co/x4KDr3",
-    "urls": [
-      {
-        "url": "https://fkrt.co/x4KDr3",
-        "label": "71% Off - Spykar Men Jeans At Rs.1168"
-      },
-      {
-        "url": "https://fkrt.co/5qPA4E",
-        "label": "Master"
-      }
-    ],
-    "raw_text": "Flipkart | 71% Off - Spykar Men Jeans At Rs.1168\n\n🔗 https://fkrt.co/x4KDr3\n\nMaster Link -  https://fkrt.co/5qPA4E",
-    "final_url": "https://fkrt.co/x4KDr3",
-    "local_image": "assets/images/tgmsg_20512.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-10T08:15:08+00:00",
-    "buy_link": "https://fkrt.co/x4KDr3",
-    "date_iso": "2025-12-10T08:15:08+00:00"
   }
 ]
