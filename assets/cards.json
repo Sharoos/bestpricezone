@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg20881",
+    "title": "Highlander Men’s Jeans from @377",
+    "description": "Flipkart | Highlander Men’s Jeans from @377 👉https://fkrt.co/YfVTDn",
+    "shortlink": "https://fkrt.co/YfVTDn",
+    "urls": [
+      {
+        "url": "https://fkrt.co/YfVTDn",
+        "label": "Highlander Men’s Jeans from @377"
+      }
+    ],
+    "raw_text": "Flipkart | Highlander Men’s Jeans from @377\n\n👉https://fkrt.co/YfVTDn",
+    "final_url": "https://fkrt.co/YfVTDn",
+    "local_image": "assets/images/tgmsg_20881.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-13T05:45:57+00:00",
+    "buy_link": "https://fkrt.co/YfVTDn",
+    "date_iso": "2025-12-13T05:45:57+00:00"
+  },
+  {
     "id": "msg20880",
     "title": "Branded Cargo Trousers Starts @409",
     "description": "Myntra : Branded Cargo Trousers Starts @409 Men : https://myntr.in/BnEUrl Women : https://myntr.in/S28hpR",
@@ -9262,25 +9282,5 @@
     "date_obj": "2025-12-09T13:33:38+00:00",
     "buy_link": "https://bitli.in/CaNANks",
     "date_iso": "2025-12-09T13:33:38+00:00"
-  },
-  {
-    "id": "msg20417",
-    "title": "Up to 90% Off On Watche",
-    "description": "Flipkart GRAB : Upto 90% Off On Watches. https://fkrt.co/mMRk4a",
-    "shortlink": "https://fkrt.co/mMRk4a",
-    "urls": [
-      {
-        "url": "https://fkrt.co/mMRk4a",
-        "label": "Upto 90% Off On Watches"
-      }
-    ],
-    "raw_text": "Flipkart GRAB : Upto 90% Off On Watches.\n\n  https://fkrt.co/mMRk4a",
-    "final_url": "https://fkrt.co/mMRk4a",
-    "local_image": "assets/images/tgmsg_20417.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-09T13:36:10+00:00",
-    "buy_link": "https://fkrt.co/mMRk4a",
-    "date_iso": "2025-12-09T13:36:10+00:00"
   }
 ]
