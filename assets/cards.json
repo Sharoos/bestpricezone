@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg20911",
+    "title": "Up to 87% off on Branded Men's Clothing 🔥🔥🔥",
+    "description": "Myntra Upto 87% off on Branded Men's Clothing 🔥🔥🔥 Shirts At 199 : Trousers At 259 : Wedding kurtas At 269 : Blazers At 1200 :",
+    "shortlink": "https://myntr.in/kmsqjn",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Upto 87% off on Branded Men's Clothing 🔥🔥🔥"
+      },
+      {
+        "url": "https://myntr.in/kmsqjn",
+        "label": "Shirts At 199"
+      },
+      {
+        "url": "https://myntr.in/xwHsl4",
+        "label": "Trousers At 259"
+      },
+      {
+        "url": "https://myntr.in/DCEk2x",
+        "label": "Wedding kurtas At 269"
+      },
+      {
+        "url": "https://myntr.in/LEJvHs",
+        "label": "Blazers At 1200"
+      }
+    ],
+    "raw_text": "Myntra  Upto 87% off on Branded Men's Clothing 🔥🔥🔥\n\nShirts At 199 : https://myntr.in/kmsqjn\nTrousers At 259 : https://myntr.in/xwHsl4\nWedding kurtas At 269 : https://myntr.in/DCEk2x\nBlazers At 1200 :  https://myntr.in/LEJvHs",
+    "final_url": "https://myntr.in/kmsqjn",
+    "local_image": "assets/images/tgmsg_20911.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-13T11:10:46+00:00",
+    "buy_link": "https://myntr.in/kmsqjn",
+    "date_iso": "2025-12-13T11:10:46+00:00"
+  },
+  {
     "id": "msg20910",
     "title": "🛍️ Top Brands at Crazy Discount",
     "description": "🚨 SUPER PRICE CRASH 🚨 ⏰ Only 1 Hour Window! 🕓 4:00 PM – 5:00 PM 🔥 AJIO BUMPER BONANZA 💥 Massive Price Drops s ⚡ Limited Stock | Fast Selling 🔗 Shop Now:",
@@ -9426,25 +9462,5 @@
     "date_obj": "2025-12-09T18:10:06+00:00",
     "buy_link": "https://ajiio.co/Kw4FTN",
     "date_iso": "2025-12-09T18:10:06+00:00"
-  },
-  {
-    "id": "msg20449",
-    "title": "Get Up to 7% off + Extra Flat 10% off on Kalyan & Tanishq Gift Cards using UPI payment 🔥🔥",
-    "description": "Flipkart Get upto 7% off + Extra Flat 10% off on Kalyan & Tanishq Gift Cards using UPI payment 🔥🔥 👉 Master Link: Note: Flat 10% off upto ₹500 on UPI payments + You can also use your SuperCoins for additional savings.",
-    "shortlink": "https://fkrt.co/ZWFmHs",
-    "urls": [
-      {
-        "url": "https://fkrt.co/ZWFmHs",
-        "label": "Flipkart Get upto 7% off + Extra Flat 10% off on Kalyan & Tanishq Gift Cards using UPI payment 🔥🔥"
-      }
-    ],
-    "raw_text": "Flipkart  Get upto 7% off + Extra Flat 10% off on Kalyan & Tanishq Gift Cards using UPI payment 🔥🔥\n\n👉 Master Link:\nhttps://fkrt.co/ZWFmHs\n\nNote: Flat 10% off upto ₹500 on UPI payments + You can also use your SuperCoins for additional savings.",
-    "final_url": "https://fkrt.co/ZWFmHs",
-    "local_image": "assets/images/tgmsg_20449.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-09T18:22:08+00:00",
-    "buy_link": "https://fkrt.co/ZWFmHs",
-    "date_iso": "2025-12-09T18:22:08+00:00"
   }
 ]
