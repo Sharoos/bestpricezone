@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg20880",
+    "title": "Branded Cargo Trousers Starts @409",
+    "description": "Myntra : Branded Cargo Trousers Starts @409 Men : https://myntr.in/BnEUrl Women : https://myntr.in/S28hpR",
+    "shortlink": "https://myntr.in/BnEUrl",
+    "urls": [
+      {
+        "url": "",
+        "label": "Branded Cargo Trousers Starts @409"
+      },
+      {
+        "url": "https://myntr.in/BnEUrl",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/S28hpR",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra : Branded Cargo Trousers Starts @409\n\nMen : https://myntr.in/BnEUrl\nWomen : https://myntr.in/S28hpR",
+    "final_url": "https://myntr.in/BnEUrl",
+    "local_image": "assets/images/tgmsg_20880.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-13T05:33:15+00:00",
+    "buy_link": "https://myntr.in/BnEUrl",
+    "date_iso": "2025-12-13T05:33:15+00:00"
+  },
+  {
     "id": "msg20877",
     "title": "🛍 + Extra 10% Super Cash! 🎉",
     "description": "Ajio | WOMEN'S Sarees Starting @ just 198 Links : 🛍 + Extra 10% AJIO Super Cash! 🎉",
@@ -9254,25 +9282,5 @@
     "date_obj": "2025-12-09T13:36:10+00:00",
     "buy_link": "https://fkrt.co/mMRk4a",
     "date_iso": "2025-12-09T13:36:10+00:00"
-  },
-  {
-    "id": "msg20418",
-    "title": "🔥Oneplus Trimmers at ₹593",
-    "description": "🔥Flipkart | Oneplus Trimmers at ₹593 https://fkrt.co/srhVUZ",
-    "shortlink": "https://fkrt.co/srhVUZ",
-    "urls": [
-      {
-        "url": "https://fkrt.co/srhVUZ",
-        "label": "🔥Flipkart | Oneplus Trimmers at ₹593"
-      }
-    ],
-    "raw_text": "🔥Flipkart | Oneplus Trimmers at ₹593\n\nhttps://fkrt.co/srhVUZ",
-    "final_url": "https://fkrt.co/srhVUZ",
-    "local_image": "assets/images/tgmsg_20418.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-09T13:45:09+00:00",
-    "buy_link": "https://fkrt.co/srhVUZ",
-    "date_iso": "2025-12-09T13:45:09+00:00"
   }
 ]
