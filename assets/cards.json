@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg20928",
+    "title": "Home Centre Products at Up to 40%",
+    "description": "MYNTRA | Home Centre Products at Upto 40% https://myntr.in/DHAja2",
+    "shortlink": "https://myntr.in/DHAja2",
+    "urls": [
+      {
+        "url": "https://myntr.in/DHAja2",
+        "label": "Home Centre Products at Upto 40%"
+      }
+    ],
+    "raw_text": "MYNTRA | Home Centre Products at Upto 40% \n\nhttps://myntr.in/DHAja2",
+    "final_url": "https://myntr.in/DHAja2",
+    "local_image": "assets/images/tgmsg_20928.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-13T13:46:42+00:00",
+    "buy_link": "https://myntr.in/DHAja2",
+    "date_iso": "2025-12-13T13:46:42+00:00"
+  },
+  {
     "id": "msg20925",
     "title": "Flat 70% OFF on selected styles!",
     "description": "🔥 ADIDAS SUPER SALE LIVE! 🛍▶️  Upgrade your sports & streetwear collection with top Adidas picks : ✔️ Sneakers, sliders, tees, hoodies & more ✔️ Premium quality + crazy savings ✔️ Limited-time deal — stocks won’t last!…",
@@ -9570,25 +9590,5 @@
     "date_obj": "2025-12-09T19:03:02+00:00",
     "buy_link": "https://fkrt.co/7OTWDN",
     "date_iso": "2025-12-09T19:03:02+00:00"
-  },
-  {
-    "id": "msg20477",
-    "title": "H&M Men's Polo Tshirt at 479",
-    "description": "Myntra | H&M Men's Polo Tshirt at 479 https://myntr.in/JQePFE",
-    "shortlink": "https://myntr.in/JQePFE",
-    "urls": [
-      {
-        "url": "https://myntr.in/JQePFE",
-        "label": "H&M Men's Polo Tshirt at 479"
-      }
-    ],
-    "raw_text": "Myntra | H&M Men's Polo Tshirt at 479\n\nhttps://myntr.in/JQePFE",
-    "final_url": "https://myntr.in/JQePFE",
-    "local_image": "assets/images/tgmsg_20477.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-09T19:03:57+00:00",
-    "buy_link": "https://myntr.in/JQePFE",
-    "date_iso": "2025-12-09T19:03:57+00:00"
   }
 ]
