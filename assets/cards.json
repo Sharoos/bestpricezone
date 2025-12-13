@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg20942",
+    "title": "Detergent powder 4.5kg At 158",
+    "description": "Detergent powder 4.5kg At 158. https://fkrt.co/0vVcVz",
+    "shortlink": "https://fkrt.co/0vVcVz",
+    "urls": [
+      {
+        "url": "https://fkrt.co/0vVcVz",
+        "label": "Detergent powder 4.5kg At 158"
+      }
+    ],
+    "raw_text": "Detergent powder 4.5kg At 158.\n\nhttps://fkrt.co/0vVcVz",
+    "final_url": "https://fkrt.co/0vVcVz",
+    "local_image": "assets/images/tgmsg_20942.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-13T15:17:04+00:00",
+    "buy_link": "https://fkrt.co/0vVcVz",
+    "date_iso": "2025-12-13T15:17:04+00:00"
+  },
+  {
     "id": "msg20940",
     "title": "Butter Paper (Pack Of 100Sheets) At 112",
     "description": "Butter Paper (Pack Of 100Sheets) At 112 https://fkrt.co/7vumRH",
@@ -9598,25 +9618,5 @@
     "date_obj": "2025-12-09T20:03:31+00:00",
     "buy_link": "https://myntr.in/rBRZec",
     "date_iso": "2025-12-09T20:03:31+00:00"
-  },
-  {
-    "id": "msg20484",
-    "title": "Women's Readymade Blazers Starting @ Rs.184",
-    "description": "Flipkart | Women's Readymade Blazers Starting @ Rs.184 https://fkrt.co/J0gw1Z",
-    "shortlink": "https://fkrt.co/J0gw1Z",
-    "urls": [
-      {
-        "url": "https://fkrt.co/J0gw1Z",
-        "label": "Women's Readymade Blazers Starting @ Rs.184"
-      }
-    ],
-    "raw_text": "Flipkart | Women's Readymade Blazers Starting @ Rs.184\n\n https://fkrt.co/J0gw1Z",
-    "final_url": "https://fkrt.co/J0gw1Z",
-    "local_image": "assets/images/tgmsg_20484.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-09T20:04:17+00:00",
-    "buy_link": "https://fkrt.co/J0gw1Z",
-    "date_iso": "2025-12-09T20:04:17+00:00"
   }
 ]
