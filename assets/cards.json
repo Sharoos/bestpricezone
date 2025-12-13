@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg20870",
+    "title": "Up to 86% Off On Red Tape Shoe",
+    "description": "AJIO Upto 86% Off On Red Tape Shoes. Men‘s : Women’s : New Balance : Adidas Shoes. Men’s : Women’s : Adidas Originals. Men’s : Women’s : More :",
+    "shortlink": "https://ajiio.co/jmzc77",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 86% Off On Red Tape Shoes"
+      },
+      {
+        "url": "https://ajiio.co/jmzc77",
+        "label": "Men‘s"
+      },
+      {
+        "url": "https://ajiio.co/v9X99H",
+        "label": "Women’s"
+      },
+      {
+        "url": "https://ajiio.co/f5PBPH",
+        "label": "New Balance"
+      },
+      {
+        "url": "",
+        "label": "Adidas Shoes"
+      },
+      {
+        "url": "https://ajiio.co/XZfMkX",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/8TIl3r",
+        "label": "Women’s"
+      },
+      {
+        "url": "",
+        "label": "Adidas Originals"
+      },
+      {
+        "url": "https://ajiio.co/TAjlz1",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/q2U9eF",
+        "label": "Women’s"
+      },
+      {
+        "url": "https://ajiio.co/ZmbznS",
+        "label": "More"
+      }
+    ],
+    "raw_text": "AJIO  Upto 86% Off On Red Tape Shoes.\n\nMen‘s : https://ajiio.co/jmzc77\nWomen’s : https://ajiio.co/v9X99H\n\nNew Balance : https://ajiio.co/f5PBPH\n\nAdidas Shoes. \nMen’s : https://ajiio.co/XZfMkX\nWomen’s : https://ajiio.co/8TIl3r\n\nAdidas Originals. \nMen’s : https://ajiio.co/TAjlz1\nWomen’s : https://ajiio.co/q2U9eF\n\nMore : https://ajiio.co/ZmbznS",
+    "final_url": "https://ajiio.co/jmzc77",
+    "local_image": "assets/images/tgmsg_20870.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-13T02:01:03+00:00",
+    "buy_link": "https://ajiio.co/jmzc77",
+    "date_iso": "2025-12-13T02:01:03+00:00"
+  },
+  {
     "id": "msg20868",
     "title": "Zandu Copper Water Bottle (950 ml) @671",
     "description": "Zandu Copper Water Bottle (950 ml) @671 Use Code : COPPER671 https://extp.in/6wmgll",
@@ -9250,25 +9310,5 @@
     "date_obj": "2025-12-09T13:16:35+00:00",
     "buy_link": "https://myntr.in/t8Rvod",
     "date_iso": "2025-12-09T13:16:35+00:00"
-  },
-  {
-    "id": "msg20397",
-    "title": "Cello Casserole Set of 3 at ₹449",
-    "description": "Flipkart | Cello Casserole Set of 3 at ₹449 🔗 Link : https://fkrt.co/Xe4hR1",
-    "shortlink": "https://fkrt.co/Xe4hR1",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Xe4hR1",
-        "label": "Cello Casserole Set of 3 at ₹449"
-      }
-    ],
-    "raw_text": "Flipkart | Cello Casserole Set of 3 at ₹449\n\n🔗 Link : https://fkrt.co/Xe4hR1",
-    "final_url": "https://fkrt.co/Xe4hR1",
-    "local_image": "assets/images/tgmsg_20397.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-09T12:00:07+00:00",
-    "buy_link": "https://fkrt.co/Xe4hR1",
-    "date_iso": "2025-12-09T12:00:07+00:00"
   }
 ]
