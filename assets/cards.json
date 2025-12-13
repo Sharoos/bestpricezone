@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg20877",
+    "title": "🛍 + Extra 10% Super Cash! 🎉",
+    "description": "Ajio | WOMEN'S Sarees Starting @ just 198 Links : 🛍 + Extra 10% AJIO Super Cash! 🎉",
+    "shortlink": "https://ajiio.co/8BPASs",
+    "urls": [
+      {
+        "url": "https://ajiio.co/8BPASs",
+        "label": "WOMEN'S Sarees Starting @ just 198"
+      },
+      {
+        "url": "",
+        "label": "🛍 + Extra 10% AJIO Super Cash! 🎉"
+      }
+    ],
+    "raw_text": "Ajio | WOMEN'S Sarees Starting @ just 198 \n \nLinks :  https://ajiio.co/8BPASs\n\n🛍 + Extra 10% AJIO Super Cash! 🎉",
+    "final_url": "https://ajiio.co/8BPASs",
+    "local_image": "assets/images/tgmsg_20877.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-13T05:01:04+00:00",
+    "buy_link": "https://ajiio.co/8BPASs",
+    "date_iso": "2025-12-13T05:01:04+00:00"
+  },
+  {
+    "id": "msg20878",
+    "title": "Up to 80% Off on Branded Perfumes Starting @₹99🔥🔥🔥🔥",
+    "description": "Myntra | UPTO 80% Off on Branded Perfumes Starting @₹99🔥🔥🔥🔥 🔗🔗Links : https://myntr.in/FLkjF9",
+    "shortlink": "https://myntr.in/FLkjF9",
+    "urls": [
+      {
+        "url": "https://myntr.in/FLkjF9",
+        "label": "UPTO 80% Off on Branded Perfumes Starting @₹99🔥🔥🔥🔥"
+      }
+    ],
+    "raw_text": "Myntra | UPTO 80% Off on Branded Perfumes Starting @₹99🔥🔥🔥🔥 \n \n🔗🔗Links : https://myntr.in/FLkjF9",
+    "final_url": "https://myntr.in/FLkjF9",
+    "local_image": "assets/images/tgmsg_20878.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-13T05:15:59+00:00",
+    "buy_link": "https://myntr.in/FLkjF9",
+    "date_iso": "2025-12-13T05:15:59+00:00"
+  },
+  {
     "id": "msg20873",
     "title": "Provogue Watches Starts At 199",
     "description": "Flipkart | Provogue Watches Starts At 199 👉Link : https://fkrt.co/OW9VpZ",
@@ -9230,61 +9274,5 @@
     "date_obj": "2025-12-09T13:45:09+00:00",
     "buy_link": "https://fkrt.co/srhVUZ",
     "date_iso": "2025-12-09T13:45:09+00:00"
-  },
-  {
-    "id": "msg20408",
-    "title": "Up to 57% Off",
-    "description": "Flipkart | Upto 57% Off - Casio Wrist Watches Starting Rs.769 🔗 https://fkrt.co/NNRweU",
-    "shortlink": "https://fkrt.co/NNRweU",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 57% Off - Casio Wrist Watches"
-      },
-      {
-        "url": "https://fkrt.co/NNRweU",
-        "label": "Starting Rs.769"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 57% Off - Casio Wrist Watches\n\nStarting Rs.769\n\n🔗 https://fkrt.co/NNRweU",
-    "final_url": "https://fkrt.co/NNRweU",
-    "local_image": "assets/images/tgmsg_20408.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-09T13:00:04+00:00",
-    "buy_link": "https://fkrt.co/NNRweU",
-    "date_iso": "2025-12-09T13:00:04+00:00"
-  },
-  {
-    "id": "msg20409",
-    "title": "🔥Shopsy Everything Under ₹199",
-    "description": "🔥Shopsy Everything Under ₹199 Women's Jewellery Set ₹60 👉https://extp.in/R7ln5f Kitchen Bestsellers ₹62 👉https://extp.in/PXr7KJ Saree & Kurti ₹57 👉https://extp.in/giuYSX",
-    "shortlink": "https://extp.in/R7ln5f",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Shopsy Everything Under ₹199"
-      },
-      {
-        "url": "https://extp.in/R7ln5f",
-        "label": "Women's Jewellery Set ₹60"
-      },
-      {
-        "url": "https://extp.in/PXr7KJ",
-        "label": "Kitchen Bestsellers ₹62"
-      },
-      {
-        "url": "https://extp.in/giuYSX",
-        "label": "Saree & Kurti ₹57"
-      }
-    ],
-    "raw_text": "🔥Shopsy Everything Under ₹199\n\nWomen's Jewellery Set ₹60\n👉https://extp.in/R7ln5f\n\nKitchen Bestsellers ₹62\n👉https://extp.in/PXr7KJ\n\nSaree & Kurti ₹57\n👉https://extp.in/giuYSX",
-    "final_url": "https://extp.in/R7ln5f",
-    "local_image": "assets/images/tgmsg_20409.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-09T13:12:26+00:00",
-    "buy_link": "https://extp.in/R7ln5f",
-    "date_iso": "2025-12-09T13:12:26+00:00"
   }
 ]
