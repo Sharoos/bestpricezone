@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg20888",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
+    "description": "Ajio | Beauty and Personal Care Under 399 👉Link : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/iR1tLj",
+    "urls": [
+      {
+        "url": "https://ajiio.co/iR1tLj",
+        "label": "Beauty and Personal Care Under 399"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "Ajio | Beauty and Personal Care Under 399\n\n👉Link : https://ajiio.co/iR1tLj\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/iR1tLj",
+    "local_image": "assets/images/tgmsg_20888.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-13T07:06:30+00:00",
+    "buy_link": "https://ajiio.co/iR1tLj",
+    "date_iso": "2025-12-13T07:06:30+00:00"
+  },
+  {
     "id": "msg20885",
     "title": "✅ Up to 75% OFF on Denver Products + FREE Shipping",
     "description": "ONDC Flash SALE 🔥🔥 ✅ Upto 75% OFF on Denver Products + FREE Shipping • Deos (Pack of 2) – ₹159 : • Nano Deo (Pack of 3) – ₹159 : • Bathing Soap (Pack of 4) – ₹159 : • Perfume (Pack of 2) – ₹159 : • Perfume 30ml + Face…",
@@ -9302,25 +9326,5 @@
     "date_obj": "2025-12-09T14:06:29+00:00",
     "buy_link": "https://myntr.in/OvwfmE",
     "date_iso": "2025-12-09T14:06:29+00:00"
-  },
-  {
-    "id": "msg20422",
-    "title": "TIARAA Get Any 3 Necklace or Bracelet @ 199 INR (including shipping)",
-    "description": "TIARAA Loot : Get Any 3 Necklace or Bracelet @ 199 INR (including shipping) ✅Apply Coupon : LOOT3 Link :",
-    "shortlink": "https://bitli.in/w0vdTWW",
-    "urls": [
-      {
-        "url": "https://bitli.in/w0vdTWW",
-        "label": "Get Any 3 Necklace or Bracelet @ 199 INR (including shipping)"
-      }
-    ],
-    "raw_text": "TIARAA Loot : Get Any 3 Necklace or Bracelet @ 199 INR (including shipping)\n\n✅Apply Coupon : LOOT3\n\nLink : https://bitli.in/w0vdTWW",
-    "final_url": "https://bitli.in/w0vdTWW",
-    "local_image": "assets/images/tgmsg_20422.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-12-09T14:15:40+00:00",
-    "buy_link": "https://bitli.in/w0vdTWW",
-    "date_iso": "2025-12-09T14:15:40+00:00"
   }
 ]
