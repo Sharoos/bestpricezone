@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg20939",
+    "title": "Double Bed blankets Starting @ 467",
+    "description": "Myntra | Double Bed blankets Starting @ 467 https://myntr.in/fkjDVF",
+    "shortlink": "https://myntr.in/fkjDVF",
+    "urls": [
+      {
+        "url": "https://myntr.in/fkjDVF",
+        "label": "Double Bed blankets Starting @ 467"
+      }
+    ],
+    "raw_text": "Myntra | Double Bed blankets Starting @ 467\n\nhttps://myntr.in/fkjDVF",
+    "final_url": "https://myntr.in/fkjDVF",
+    "local_image": "assets/images/tgmsg_20939.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-13T14:46:34+00:00",
+    "buy_link": "https://myntr.in/fkjDVF",
+    "date_iso": "2025-12-13T14:46:34+00:00"
+  },
+  {
     "id": "msg20933",
     "title": "Liquid Floor Cleaner 5L @158",
     "description": "Liquid Floor Cleaner 5L @158 https://fkrt.co/snoCYX",
@@ -9602,25 +9622,5 @@
     "date_obj": "2025-12-09T18:54:56+00:00",
     "buy_link": "https://myntr.in/JBiKkc",
     "date_iso": "2025-12-09T18:54:56+00:00"
-  },
-  {
-    "id": "msg20470",
-    "title": "Guess and ALDO at Min. 50% Off",
-    "description": "Myntra  Guess and ALDO at Min. 50% Off Link : https://myntr.in/PjsT9j",
-    "shortlink": "https://myntr.in/PjsT9j",
-    "urls": [
-      {
-        "url": "https://myntr.in/PjsT9j",
-        "label": "Myntra Guess and ALDO at Min. 50% Off"
-      }
-    ],
-    "raw_text": "Myntra  Guess and ALDO at Min. 50% Off\n\nLink : https://myntr.in/PjsT9j",
-    "final_url": "https://myntr.in/PjsT9j",
-    "local_image": "assets/images/tgmsg_20470.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-09T18:56:02+00:00",
-    "buy_link": "https://myntr.in/PjsT9j",
-    "date_iso": "2025-12-09T18:56:02+00:00"
   }
 ]
