@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21042",
+    "title": "Savlon Handwash, 1.35L @ 168",
+    "description": "Amazon | Savlon Handwash, 1.35L @ 168. 👉 https://www.amazon.in/dp/B086476V1S?th=1&smid=&tag=bestpricezo0f-21 Min Buy 2 Qty",
+    "shortlink": "https://www.amazon.in/dp/B086476V1S?th=1&smid=&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B086476V1S?th=1&smid=&tag=bestpricezo0f-21",
+        "label": "Savlon Handwash, 1.35L @ 168"
+      }
+    ],
+    "raw_text": "Amazon | Savlon Handwash, 1.35L @ 168.\n\n👉 https://www.amazon.in/dp/B086476V1S?th=1&smid=&tag=bestpricezo0f-21\n\nMin Buy 2 Qty",
+    "final_url": "https://www.amazon.in/dp/B086476V1S?th=1&smid=&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_21042.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-14T11:11:32+00:00",
+    "buy_link": "https://www.amazon.in/dp/B086476V1S?th=1&smid=&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-14T11:11:32+00:00"
+  },
+  {
     "id": "msg21041",
     "title": "Pack of 2 Pillows starting @ 282",
     "description": "Myntra | Pack of 2 Pillows starting @ 282. https://myntr.in/mv4qtf",
@@ -9518,25 +9538,5 @@
     "date_obj": "2025-12-10T13:34:15+00:00",
     "buy_link": "https://extp.in/tiKsUw",
     "date_iso": "2025-12-10T13:34:15+00:00"
-  },
-  {
-    "id": "msg20567",
-    "title": "Premium Pillow At 199",
-    "description": "Premium Pillow At 199. https://www.amazon.in/dp/B0FBMDWQ1B?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FBMDWQ1B?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FBMDWQ1B?tag=bestpricezo0f-21",
-        "label": "Premium Pillow At 199"
-      }
-    ],
-    "raw_text": "Premium Pillow At 199.\n\nhttps://www.amazon.in/dp/B0FBMDWQ1B?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FBMDWQ1B?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_20567.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-10T13:35:10+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FBMDWQ1B?tag=bestpricezo0f-21",
-    "date_iso": "2025-12-10T13:35:10+00:00"
   }
 ]
