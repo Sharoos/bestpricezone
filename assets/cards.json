@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21108",
+    "title": "Solimo Granite Dosa Tawa, 30 cm @285",
+    "description": "Amazon | Solimo Granite Dosa Tawa, 30 cm @285 https://www.amazon.in/dp/B0F7RDKCXS?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0F7RDKCXS?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0F7RDKCXS?th=1&tag=bestpricezo0f-21",
+        "label": "Solimo Granite Dosa Tawa, 30 cm @285"
+      }
+    ],
+    "raw_text": "Amazon | Solimo Granite Dosa Tawa, 30 cm @285\n\nhttps://www.amazon.in/dp/B0F7RDKCXS?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F7RDKCXS?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_21108.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-14T19:53:44+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F7RDKCXS?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-14T19:53:44+00:00"
+  },
+  {
     "id": "msg21106",
     "title": "Flat ₹8500 Off With HDFC Bank Credit Card",
     "description": "Amazon | Bosch 9kg 5 Star Fully Automatic Front Load Washing Machine @27,490. https://www.amazon.in/dp/B0D41L64NR?th=1&psc=1&tag=bestpricezo0f-21 Flat ₹8500 Off With HDFC Bank Credit Card.",
@@ -9498,33 +9518,5 @@
     "date_obj": "2025-12-11T05:05:40+00:00",
     "buy_link": "https://myntr.in/VQPyMV",
     "date_iso": "2025-12-11T05:05:40+00:00"
-  },
-  {
-    "id": "msg20634",
-    "title": "Louis Philipe Belts and wallets Min 60% off",
-    "description": "Myntra | Belts and wallets under 499 👉 Allen solly belts and wallets Min 60% off 👉  👉",
-    "shortlink": "https://myntr.in/bY3xEm",
-    "urls": [
-      {
-        "url": "https://myntr.in/bY3xEm",
-        "label": "Belts and wallets under 499"
-      },
-      {
-        "url": "https://myntr.in/bh1QIC",
-        "label": "Allen solly belts and wallets Min 60% off"
-      },
-      {
-        "url": "https://myntr.in/iPYM9Y",
-        "label": "Louis Philipe Belts and wallets Min 60% off"
-      }
-    ],
-    "raw_text": "Myntra  | Belts and wallets under 499\n👉https://myntr.in/bY3xEm\n\nAllen solly belts and wallets Min 60% off \n👉https://myntr.in/bh1QIC\n\nLouis Philipe Belts and wallets Min 60% off\n👉https://myntr.in/iPYM9Y",
-    "final_url": "https://myntr.in/bY3xEm",
-    "local_image": "assets/images/tgmsg_20634.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-11T05:15:54+00:00",
-    "buy_link": "https://myntr.in/bY3xEm",
-    "date_iso": "2025-12-11T05:15:54+00:00"
   }
 ]
