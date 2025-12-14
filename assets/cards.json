@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg21040",
+    "title": "Beauty Product",
+    "description": "AJIO : Beauty Products. Cetaphil : https://ajiio.co/0YyhR7 Lakme : https://ajiio.co/4o9HAo More Products : https://ajiio.co/3cP8m2",
+    "shortlink": "https://ajiio.co/0YyhR7",
+    "urls": [
+      {
+        "url": "",
+        "label": "Beauty Products"
+      },
+      {
+        "url": "https://ajiio.co/0YyhR7",
+        "label": "Cetaphil"
+      },
+      {
+        "url": "https://ajiio.co/4o9HAo",
+        "label": "Lakme"
+      },
+      {
+        "url": "https://ajiio.co/3cP8m2",
+        "label": "More Products"
+      }
+    ],
+    "raw_text": "AJIO : Beauty Products. \n\nCetaphil : https://ajiio.co/0YyhR7\nLakme : https://ajiio.co/4o9HAo\nMore Products : https://ajiio.co/3cP8m2",
+    "final_url": "https://ajiio.co/0YyhR7",
+    "local_image": "assets/images/tgmsg_21040.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-14T10:40:39+00:00",
+    "buy_link": "https://ajiio.co/0YyhR7",
+    "date_iso": "2025-12-14T10:40:39+00:00"
+  },
+  {
     "id": "msg21037",
     "title": "Miraggio Min 50%",
     "description": "Ajio | Miraggio Min 50% https://ajiio.co/Jn8lKE Soch Min 60 https://ajiio.co/F5hI1n",
@@ -9518,65 +9550,5 @@
     "date_obj": "2025-12-10T13:41:11+00:00",
     "buy_link": "https://extp.in/fypNPC",
     "date_iso": "2025-12-10T13:41:11+00:00"
-  },
-  {
-    "id": "msg20558",
-    "title": "Sirf ₹100 mein ghar baithe digital bank account kholke paaye cashback aur amazing features!",
-    "description": "Airtel Payment Bank - Sirf ₹100 Mein Account Kholein! 💸💵 Apply Link :  Benefits : ✅ Cashback on every transaction ✅ Zero balance account ✅ 24x7 Mobile Banking 3 Easy Steps! 1) Airtel Thanks App download karein 2) KYC…",
-    "shortlink": "https://extp.in/ytyJST",
-    "urls": [
-      {
-        "url": "",
-        "label": "Sirf ₹100 Mein Account Kholein! 💸💵"
-      },
-      {
-        "url": "https://extp.in/ytyJST",
-        "label": "Apply"
-      },
-      {
-        "url": "",
-        "label": "Sirf ₹100 mein ghar baithe digital bank account kholke paaye cashback aur amazing features!"
-      },
-      {
-        "url": "",
-        "label": "✅ Cashback on every transaction"
-      },
-      {
-        "url": "",
-        "label": "✅ Zero balance account"
-      },
-      {
-        "url": "",
-        "label": "✅ 24x7 Mobile Banking"
-      },
-      {
-        "url": "",
-        "label": "3 Easy Steps!"
-      },
-      {
-        "url": "",
-        "label": "1) Airtel Thanks App download karein"
-      },
-      {
-        "url": "",
-        "label": "2) KYC verify karein"
-      },
-      {
-        "url": "",
-        "label": "3) Sirf ₹100 mein account activate karein"
-      },
-      {
-        "url": "",
-        "label": "4) Aaj hi kholien aur faayda uthayein!"
-      }
-    ],
-    "raw_text": "Airtel Payment Bank - Sirf ₹100 Mein Account Kholein! 💸💵\n\nApply Link : https://extp.in/ytyJST\n\nSirf ₹100 mein ghar baithe digital bank account kholke paaye cashback aur amazing features!\n\nBenefits :\n✅ Cashback on every transaction\n✅ Zero balance account\n✅ 24x7 Mobile Banking\n\n3 Easy Steps!\n1) Airtel Thanks App download karein\n2) KYC verify karein\n3) Sirf ₹100 mein account activate karein\n4) Aaj hi kholien aur faayda uthayein!",
-    "final_url": "https://extp.in/ytyJST",
-    "local_image": "assets/images/tgmsg_20558.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-10T12:34:46+00:00",
-    "buy_link": "https://extp.in/ytyJST",
-    "date_iso": "2025-12-10T12:34:46+00:00"
   }
 ]
