@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg21106",
+    "title": "Flat ₹8500 Off With HDFC Bank Credit Card",
+    "description": "Amazon | Bosch 9kg 5 Star Fully Automatic Front Load Washing Machine @27,490. https://www.amazon.in/dp/B0D41L64NR?th=1&psc=1&tag=bestpricezo0f-21 Flat ₹8500 Off With HDFC Bank Credit Card.",
+    "shortlink": "https://www.amazon.in/dp/B0D41L64NR?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0D41L64NR?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Bosch 9kg 5 Star Fully Automatic Front Load Washing Machine @27,490"
+      },
+      {
+        "url": "",
+        "label": "Flat ₹8500 Off With HDFC Bank Credit Card"
+      }
+    ],
+    "raw_text": "Amazon | Bosch 9kg 5 Star Fully Automatic Front Load Washing Machine @27,490.\n\nhttps://www.amazon.in/dp/B0D41L64NR?th=1&psc=1&tag=bestpricezo0f-21\n\nFlat ₹8500 Off With HDFC Bank Credit Card.",
+    "final_url": "https://www.amazon.in/dp/B0D41L64NR?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_21106.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-14T19:40:25+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D41L64NR?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-14T19:40:25+00:00"
+  },
+  {
     "id": "msg21097",
     "title": "Parachute Advansed Deep Nourish Body Lotion (800 ml) At Rs.245",
     "description": "Flipkart | Parachute Advansed Deep Nourish Body Lotion  (800 ml) At Rs.245 https://fkrt.co/Z0t5tF",
@@ -9502,25 +9526,5 @@
     "date_obj": "2025-12-11T05:15:54+00:00",
     "buy_link": "https://myntr.in/bY3xEm",
     "date_iso": "2025-12-11T05:15:54+00:00"
-  },
-  {
-    "id": "msg20629",
-    "title": "Women Kurta Starting From at ₹263",
-    "description": "Myntra | Women Kurta Starting From at ₹263 👉 https://myntr.in/K4qCAl",
-    "shortlink": "https://myntr.in/K4qCAl",
-    "urls": [
-      {
-        "url": "https://myntr.in/K4qCAl",
-        "label": "Women Kurta Starting From at ₹263"
-      }
-    ],
-    "raw_text": "Myntra | Women Kurta Starting From at ₹263\n\n👉 https://myntr.in/K4qCAl",
-    "final_url": "https://myntr.in/K4qCAl",
-    "local_image": "assets/images/tgmsg_20629.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-11T04:33:29+00:00",
-    "buy_link": "https://myntr.in/K4qCAl",
-    "date_iso": "2025-12-11T04:33:29+00:00"
   }
 ]
