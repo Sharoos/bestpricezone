@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21079",
+    "title": "🔥HRX Men's Dry Jogger Pants @475🔥",
+    "description": "Myntra |🔥HRX Men's Dry Jogger Pants  @475🔥 👉Link : https://myntr.in/D7VW4O",
+    "shortlink": "https://myntr.in/D7VW4O",
+    "urls": [
+      {
+        "url": "https://myntr.in/D7VW4O",
+        "label": "🔥HRX Men's Dry Jogger Pants @475🔥"
+      }
+    ],
+    "raw_text": "Myntra |🔥HRX Men's Dry Jogger Pants  @475🔥\n\n👉Link : https://myntr.in/D7VW4O",
+    "final_url": "https://myntr.in/D7VW4O",
+    "local_image": "assets/images/tgmsg_21079.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-14T17:33:50+00:00",
+    "buy_link": "https://myntr.in/D7VW4O",
+    "date_iso": "2025-12-14T17:33:50+00:00"
+  },
+  {
     "id": "msg21077",
     "title": "HP USB 2.0 Flash Drive 128GB (v236w) @869",
     "description": "Amazon | HP USB 2.0 Flash Drive 128GB (v236w) @869 👉https://www.amazon.in/dp/B0C1H6S5X8?tag=bestpricezo0f-21",
@@ -9554,33 +9574,5 @@
     "date_obj": "2025-12-10T17:34:05+00:00",
     "buy_link": "https://extp.in/8rUU4h",
     "date_iso": "2025-12-10T17:34:05+00:00"
-  },
-  {
-    "id": "msg20602",
-    "title": "Shopsy Deals Start @123",
-    "description": "Shopsy : Deals Start @123 Diaper From @123 https://extp.in/1lhYKI Peanut butter From @153 https://extp.in/eYQLNo",
-    "shortlink": "https://extp.in/1lhYKI",
-    "urls": [
-      {
-        "url": "",
-        "label": "Deals Start @123"
-      },
-      {
-        "url": "https://extp.in/1lhYKI",
-        "label": "Diaper From @123"
-      },
-      {
-        "url": "https://extp.in/eYQLNo",
-        "label": "Peanut butter From @153"
-      }
-    ],
-    "raw_text": "Shopsy : Deals Start @123\n\nDiaper From @123\nhttps://extp.in/1lhYKI\n\nPeanut butter From @153\nhttps://extp.in/eYQLNo",
-    "final_url": "https://extp.in/1lhYKI",
-    "local_image": "assets/images/tgmsg_20602.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-10T17:38:59+00:00",
-    "buy_link": "https://extp.in/1lhYKI",
-    "date_iso": "2025-12-10T17:38:59+00:00"
   }
 ]
