@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21006",
+    "title": "Ducati Sneakers Up to 80% Off",
+    "description": "Myntra | Ducati Sneakers Upto 80% Off https://myntr.in/H2l4DH",
+    "shortlink": "https://myntr.in/H2l4DH",
+    "urls": [
+      {
+        "url": "https://myntr.in/H2l4DH",
+        "label": "Ducati Sneakers Upto 80% Off"
+      }
+    ],
+    "raw_text": "Myntra | Ducati Sneakers Upto 80% Off\n\nhttps://myntr.in/H2l4DH",
+    "final_url": "https://myntr.in/H2l4DH",
+    "local_image": "assets/images/tgmsg_21006.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-14T04:25:47+00:00",
+    "buy_link": "https://myntr.in/H2l4DH",
+    "date_iso": "2025-12-14T04:25:47+00:00"
+  },
+  {
     "id": "msg21005",
     "title": "Denim Shirts Up to 81% Off",
     "description": "Flipkart | Denim Shirts Upto 81% Off 👉https://fkrt.co/ojbTjw",
@@ -9578,53 +9598,5 @@
     "date_obj": "2025-12-10T09:10:35+00:00",
     "buy_link": "https://extp.in/lOCfZe",
     "date_iso": "2025-12-10T09:10:35+00:00"
-  },
-  {
-    "id": "msg20526",
-    "title": "Pay via CRED & get up to ₹200 cashback",
-    "description": "😰 Feeling uneasy, stressed, or unusually tired? ⚠️ Low Vitamin D could be the reason — get it checked! 🩺 Get Full Body Check-up + Vitamin D + HbA1c + Thyroid (T3/T4/TSH) At ₹899 (MRP ₹4380) 👉 Link: 🔖 Use Coupon: MED50 🧪…",
-    "shortlink": "https://extp.in/m60DFH",
-    "urls": [
-      {
-        "url": "",
-        "label": "😰 Feeling uneasy, stressed, or unusually tired?"
-      },
-      {
-        "url": "",
-        "label": "⚠️ Low Vitamin D could be the reason — get it checked!"
-      },
-      {
-        "url": "https://extp.in/m60DFH",
-        "label": "🩺 Get Full Body Check-up + Vitamin D + HbA1c + Thyroid (T3/T4/TSH) At ₹899 (MRP ₹4380)"
-      },
-      {
-        "url": "",
-        "label": "🧪 64 Tests Covered"
-      },
-      {
-        "url": "",
-        "label": "CBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Vitamin D, Thyroid (T3/T4/TSH) & more"
-      },
-      {
-        "url": "",
-        "label": "🎁 Bonus Benefits"
-      },
-      {
-        "url": "",
-        "label": "FREE JioSaavn Pro (1 Month) worth ₹299 after test completion"
-      },
-      {
-        "url": "",
-        "label": "Pay via CRED & get up to ₹200 cashback"
-      }
-    ],
-    "raw_text": "😰 Feeling uneasy, stressed, or unusually tired?\n\n⚠️ Low Vitamin D could be the reason — get it checked!\n\n🩺 Get Full Body Check-up + Vitamin D + HbA1c + Thyroid (T3/T4/TSH) At ₹899 (MRP ₹4380)\n\n👉 Link: https://extp.in/m60DFH\n🔖 Use Coupon: MED50\n\n🧪 64 Tests Covered:\nCBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Vitamin D, Thyroid (T3/T4/TSH) & more.\n\n🎁 Bonus Benefits:\n\nFREE JioSaavn Pro (1 Month) worth ₹299 after test completion\n\nPay via CRED & get up to ₹200 cashback",
-    "final_url": "https://extp.in/m60DFH",
-    "local_image": "assets/images/tgmsg_20526.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-10T09:12:08+00:00",
-    "buy_link": "https://extp.in/m60DFH",
-    "date_iso": "2025-12-10T09:12:08+00:00"
   }
 ]
