@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg21024",
+    "title": "Min 80% off Lavie & Caprese",
+    "description": "Myntra | Min 80% off : Lavie & Caprese Min 65% off: Lavie Signature Min 70% off: Van Huesen & Accesorize",
+    "shortlink": "https://myntr.in/uT9IZ8",
+    "urls": [
+      {
+        "url": "https://myntr.in/uT9IZ8",
+        "label": "Min 80% off : Lavie & Caprese"
+      },
+      {
+        "url": "https://myntr.in/tYiEjx",
+        "label": "Min 65% off: Lavie Signature"
+      },
+      {
+        "url": "https://myntr.in/lkwjxU",
+        "label": "Min 70% off: Van Huesen & Accesorize"
+      }
+    ],
+    "raw_text": "Myntra | Min 80% off : Lavie & Caprese\nhttps://myntr.in/uT9IZ8\n\nMin 65% off: Lavie Signature\nhttps://myntr.in/tYiEjx\n\nMin 70% off: Van Huesen & Accesorize\nhttps://myntr.in/lkwjxU",
+    "final_url": "https://myntr.in/uT9IZ8",
+    "local_image": "assets/images/tgmsg_21024.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-14T07:45:09+00:00",
+    "buy_link": "https://myntr.in/uT9IZ8",
+    "date_iso": "2025-12-14T07:45:09+00:00"
+  },
+  {
     "id": "msg21021",
     "title": "Up to 70% off on Avaasa Women's Clothing 💥💥",
     "description": "Ajio: Upto 70% off on Avaasa Women's Clothing 💥💥 👉 Master Link: Suggestions: -> kurtha's: -> Dresses: -> Salwars & Leggings : Ajio : Upto 70% off on Rio Clothing 💥💥 👉Master Link: Suggestions: -> Shirts : -> Dresses : ->…",
@@ -9546,53 +9574,5 @@
     "date_obj": "2025-12-10T11:36:15+00:00",
     "buy_link": "https://extp.in/cOmGOY",
     "date_iso": "2025-12-10T11:36:15+00:00"
-  },
-  {
-    "id": "msg20547",
-    "title": "Up to 86% Off RedTape Shoes & Slides",
-    "description": "Shopsy Steal Deals 🔥🔥 Upto 86% Off RedTape Shoes & Slides : Wipes Starts @39 : Deodorants Starts @33 : Dry Fruits Starts @26 : Cleaning Combos Starts @99 : Makeup Kits Starts @70 : Grooming Gadgets Starts @108 :",
-    "shortlink": "https://extp.in/inINom",
-    "urls": [
-      {
-        "url": "",
-        "label": "Shopsy Steal Deals 🔥🔥"
-      },
-      {
-        "url": "https://extp.in/inINom",
-        "label": "Upto 86% Off RedTape Shoes & Slides"
-      },
-      {
-        "url": "https://extp.in/HDJNDK",
-        "label": "Wipes Starts @39"
-      },
-      {
-        "url": "https://extp.in/1Ssem7",
-        "label": "Deodorants Starts @33"
-      },
-      {
-        "url": "https://extp.in/HFMZJX",
-        "label": "Dry Fruits Starts @26"
-      },
-      {
-        "url": "https://extp.in/Aepkig",
-        "label": "Cleaning Combos Starts @99"
-      },
-      {
-        "url": "https://extp.in/40R9sN",
-        "label": "Makeup Kits Starts @70"
-      },
-      {
-        "url": "https://extp.in/Hcpwss",
-        "label": "Grooming Gadgets Starts @108"
-      }
-    ],
-    "raw_text": "Shopsy Steal Deals 🔥🔥\n\nUpto 86% Off RedTape Shoes & Slides : https://extp.in/inINom\n\nWipes Starts @39 : https://extp.in/HDJNDK\nDeodorants Starts @33 : https://extp.in/1Ssem7\nDry Fruits Starts @26 : https://extp.in/HFMZJX\nCleaning Combos Starts @99 : https://extp.in/Aepkig\nMakeup Kits Starts @70 : https://extp.in/40R9sN\nGrooming Gadgets Starts @108 : https://extp.in/Hcpwss",
-    "final_url": "https://extp.in/inINom",
-    "local_image": "assets/images/tgmsg_20547.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-10T11:36:58+00:00",
-    "buy_link": "https://extp.in/inINom",
-    "date_iso": "2025-12-10T11:36:58+00:00"
   }
 ]
