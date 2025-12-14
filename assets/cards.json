@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21017",
+    "title": "Gear Rucksacks Up to 80% off",
+    "description": "Flipkart Gear Rucksacks upto 80% off https://fkrt.co/SvPDsB",
+    "shortlink": "https://fkrt.co/SvPDsB",
+    "urls": [
+      {
+        "url": "https://fkrt.co/SvPDsB",
+        "label": "Flipkart Gear Rucksacks upto 80% off"
+      }
+    ],
+    "raw_text": "Flipkart Gear Rucksacks upto 80% off\n\nhttps://fkrt.co/SvPDsB",
+    "final_url": "https://fkrt.co/SvPDsB",
+    "local_image": "assets/images/tgmsg_21017.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-14T06:50:56+00:00",
+    "buy_link": "https://fkrt.co/SvPDsB",
+    "date_iso": "2025-12-14T06:50:56+00:00"
+  },
+  {
     "id": "msg21014",
     "title": "💥OverSized Tshirts Starts @360",
     "description": "💥Ajio | OverSized Tshirts Starts @360. 👉Link : https://ajiio.co/VcV0IZ",
@@ -9546,45 +9566,5 @@
     "date_obj": "2025-12-10T11:22:21+00:00",
     "buy_link": "https://myntr.in/GzUXSd",
     "date_iso": "2025-12-10T11:22:21+00:00"
-  },
-  {
-    "id": "msg20541",
-    "title": "Use Code EORSOP11 To Get Extra 11% Off!",
-    "description": "Myntra | 🔥OnePlus Lowest Prices Ever🔥 ONLY FOR FEW Hours OnePlus Nord Buds 2r at Rs. 1295 only! Use Coupon Code: EORSOP19 to get 19% Off! 🔗 OnePlus Bullets Z2 ANC at Rs. 1529 only! Use Coupon Code: EORSOP15 to get 15%…",
-    "shortlink": "https://myntr.in/fhXhUs",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥OnePlus Lowest Prices Ever🔥 ONLY FOR FEW Hours"
-      },
-      {
-        "url": "https://myntr.in/fhXhUs",
-        "label": "OnePlus Nord Buds 2r at Rs. 1295 only!"
-      },
-      {
-        "url": "https://myntr.in/s431Wj",
-        "label": "OnePlus Bullets Z2 ANC at Rs. 1529 only!"
-      },
-      {
-        "url": "https://myntr.in/dmFNig",
-        "label": "OnePlus Wireless Z3 at Rs. 1130 only!"
-      },
-      {
-        "url": "https://myntr.in/V8qzVa",
-        "label": "OnePlus Nord Buds 3r Only at Rs. 1423 + Bank offers!!"
-      },
-      {
-        "url": "https://myntr.in/GeOVT4",
-        "label": "OnePlus Nord Buds 3 Only at Rs. 1633 + Bank offers!!"
-      }
-    ],
-    "raw_text": "Myntra | 🔥OnePlus Lowest Prices Ever🔥  ONLY FOR FEW Hours\n\nOnePlus Nord Buds 2r at Rs. 1295 only!\nUse Coupon Code: EORSOP19 to get 19% Off!\n🔗 https://myntr.in/fhXhUs\n\nOnePlus Bullets Z2 ANC at Rs. 1529 only!\nUse Coupon Code: EORSOP15 to get 15% Off!\n🔗 https://myntr.in/s431Wj\n\nOnePlus Wireless Z3 at Rs. 1130 only!\nUse Coupon Code: EORSOP13 to get 13% Off!\n🔗 https://myntr.in/dmFNig\n\nOnePlus Nord Buds 3r Only at Rs. 1423 + Bank offers!!\nUse Coupon Code: EORSOP11 To Get Extra 11% Off!\n🔗 https://myntr.in/V8qzVa\n\nOnePlus Nord Buds 3 Only at Rs. 1633 + Bank offers!!\nUse Coupon Code: EORSOP14 To Get Extra 14 % Off!\n🔗 https://myntr.in/GeOVT4",
-    "final_url": "https://myntr.in/fhXhUs",
-    "local_image": "assets/images/tgmsg_20541.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-10T10:50:09+00:00",
-    "buy_link": "https://myntr.in/fhXhUs",
-    "date_iso": "2025-12-10T10:50:09+00:00"
   }
 ]
