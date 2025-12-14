@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21028",
+    "title": "Aristocrat Duffel Bags @₹557",
+    "description": "Flipkart | Aristocrat Duffel Bags @₹557 https://fkrt.co/1HvPKJ",
+    "shortlink": "https://fkrt.co/1HvPKJ",
+    "urls": [
+      {
+        "url": "https://fkrt.co/1HvPKJ",
+        "label": "Aristocrat Duffel Bags @₹557"
+      }
+    ],
+    "raw_text": "Flipkart | Aristocrat Duffel Bags @₹557\n\nhttps://fkrt.co/1HvPKJ",
+    "final_url": "https://fkrt.co/1HvPKJ",
+    "local_image": "assets/images/tgmsg_21028.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-14T08:29:11+00:00",
+    "buy_link": "https://fkrt.co/1HvPKJ",
+    "date_iso": "2025-12-14T08:29:11+00:00"
+  },
+  {
     "id": "msg21025",
     "title": "Crazy Deal! Lowest Acro",
     "description": "*ss* Containers starting at 90/- + Additional Coupon Femora Ceramic Bowl starting at 156/- + Additional Coupon Water Bottles starting at 179/- + Additional Coupon Dinner set at min 40% + Additional Coupon Lunch Box…",
@@ -9510,69 +9530,5 @@
     "date_obj": "2025-12-10T11:50:15+00:00",
     "buy_link": "https://extp.in/iZWY0v",
     "date_iso": "2025-12-10T11:50:15+00:00"
-  },
-  {
-    "id": "msg20545",
-    "title": "15% Off on EazyDine",
-    "description": "Flipkart Axis Bank Credit Card — Best Cashback Card 🔥 📌Apply Now: Top Benefits: • 7.5% Cashback on Myntra • 5% Cashback on Flipkart & Cleartrip • 4% Cashback on Swiggy, PVR, Uber, Cult fit • 1% Cashback on all spends •…",
-    "shortlink": "https://bitli.in/JZKXyii",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart Axis Bank Credit Card — Best Cashback Card 🔥"
-      },
-      {
-        "url": "https://bitli.in/JZKXyii",
-        "label": "📌Apply Now"
-      },
-      {
-        "url": "",
-        "label": "Top Benefits"
-      },
-      {
-        "url": "",
-        "label": "7.5% Cashback on Myntra"
-      },
-      {
-        "url": "",
-        "label": "5% Cashback on Flipkart & Cleartrip"
-      },
-      {
-        "url": "",
-        "label": "4% Cashback on Swiggy, PVR, Uber, Cult fit"
-      },
-      {
-        "url": "",
-        "label": "1% Cashback on all spends"
-      },
-      {
-        "url": "",
-        "label": "15% Off on EazyDiner"
-      },
-      {
-        "url": "",
-        "label": "Fuel surcharge waiver (₹400 cap)"
-      },
-      {
-        "url": "",
-        "label": "₹250 Flipkart Voucher"
-      },
-      {
-        "url": "",
-        "label": "₹500 Joining / Annual (Waived on ₹3.5L spend)"
-      },
-      {
-        "url": "",
-        "label": "Activate with a ₹100+ txn in 30 days"
-      }
-    ],
-    "raw_text": "Flipkart Axis Bank Credit Card — Best Cashback Card 🔥\n\n📌Apply Now: https://bitli.in/JZKXyii\n\nTop Benefits:\n• 7.5% Cashback on Myntra\n• 5% Cashback on Flipkart & Cleartrip\n• 4% Cashback on Swiggy, PVR, Uber, Cult fit\n• 1% Cashback on all spends\n• 15% Off on EazyDiner\n• Fuel surcharge waiver (₹400 cap)\n\nWelcome Gifts: ₹250 Flipkart Voucher\n\nFees: ₹500 Joining / Annual (Waived on ₹3.5L spend)\n\n• Activate with a ₹100+ txn in 30 days.",
-    "final_url": "https://bitli.in/JZKXyii",
-    "local_image": "assets/images/tgmsg_20545.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-12-10T11:30:10+00:00",
-    "buy_link": "https://bitli.in/JZKXyii",
-    "date_iso": "2025-12-10T11:30:10+00:00"
   }
 ]
