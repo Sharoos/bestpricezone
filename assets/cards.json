@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg21000",
+    "title": "✅ Up to 60% off on Rajdhani Grocery Items + Free Shipping",
+    "description": "ONDC HamaraMall 🔥🔥 ✅ Upto 60% off on Rajdhani Grocery Items + Free Shipping 🤜 Use Code: SNACK30 [Valid 5 times / Account] Roasted Chana - 200gm At 30 : Chana Dal - 500gm At 42 : Besan - 500gm At 42 : Oats - 400gm At 59…",
+    "shortlink": "https://extp.in/rh54FI",
+    "urls": [
+      {
+        "url": "",
+        "label": "ONDC HamaraMall 🔥🔥"
+      },
+      {
+        "url": "",
+        "label": "✅ Upto 60% off on Rajdhani Grocery Items + Free Shipping"
+      },
+      {
+        "url": "",
+        "label": "🤜 Use Code: SNACK30 [Valid 5 times / Account]"
+      },
+      {
+        "url": "https://extp.in/rh54FI",
+        "label": "200gm At 30"
+      },
+      {
+        "url": "https://extp.in/vzQKlT",
+        "label": "500gm At 42"
+      },
+      {
+        "url": "https://extp.in/Sj8gD3",
+        "label": "500gm At 42"
+      },
+      {
+        "url": "https://extp.in/t7B13k",
+        "label": "400gm At 59"
+      },
+      {
+        "url": "https://extp.in/Onyglr",
+        "label": "400gm At 69"
+      }
+    ],
+    "raw_text": "ONDC HamaraMall  🔥🔥\n\n✅ Upto 60% off on Rajdhani Grocery Items + Free Shipping\n\n🤜 Use Code: SNACK30  [Valid 5 times / Account]\n\nRoasted Chana - 200gm At 30 : https://extp.in/rh54FI\nChana Dal - 500gm At 42 : https://extp.in/vzQKlT\nBesan - 500gm At 42 : https://extp.in/Sj8gD3\nOats - 400gm At 59 : https://extp.in/t7B13k\nMasala Oats - 400gm At 69 : https://extp.in/Onyglr",
+    "final_url": "https://extp.in/rh54FI",
+    "local_image": "assets/images/tgmsg_21000.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-14T00:10:07+00:00",
+    "buy_link": "https://extp.in/rh54FI",
+    "date_iso": "2025-12-14T00:10:07+00:00"
+  },
+  {
     "id": "msg20999",
     "title": "Up to 87% off on Branded Men's Clothing 🔥🔥🔥",
     "description": "Myntra Upto 87% off on Branded Men's Clothing 🔥🔥🔥 Shirts At 199 : Trousers At 259 : Wedding kurtas At 269 : Blazers At 1200 :",
@@ -9574,25 +9622,5 @@
     "date_obj": "2025-12-10T09:20:04+00:00",
     "buy_link": "https://extp.in/Sp1LgJ",
     "date_iso": "2025-12-10T09:20:04+00:00"
-  },
-  {
-    "id": "msg20531",
-    "title": "Apple App Store ₹200 Voucher at 46% Off 🔥🔥",
-    "description": "Flipkart   Apple App Store ₹200 Voucher at 46% Off 🔥🔥 👉🏻 Link: https://fkrt.co/69n0nO Note: Get flat 40% off (up to ₹80) when you pay via UPI.",
-    "shortlink": "https://fkrt.co/69n0nO",
-    "urls": [
-      {
-        "url": "https://fkrt.co/69n0nO",
-        "label": "Flipkart Apple App Store ₹200 Voucher at 46% Off 🔥🔥"
-      }
-    ],
-    "raw_text": "Flipkart   Apple App Store ₹200 Voucher at 46% Off 🔥🔥\n\n👉🏻 Link: https://fkrt.co/69n0nO\n\nNote: Get flat 40% off (up to ₹80) when you pay via UPI.",
-    "final_url": "https://fkrt.co/69n0nO",
-    "local_image": "assets/images/tgmsg_20531.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-10T09:23:14+00:00",
-    "buy_link": "https://fkrt.co/69n0nO",
-    "date_iso": "2025-12-10T09:23:14+00:00"
   }
 ]
