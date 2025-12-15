@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21197",
+    "title": "Up to 75% Off on Unisex",
+    "description": "Myntra | Upto 75% Off on Unisex-Sunglasses Starting @ just ₹499 Link : https://myntr.in/mlTwXr",
+    "shortlink": "https://myntr.in/mlTwXr",
+    "urls": [
+      {
+        "url": "https://myntr.in/mlTwXr",
+        "label": "Upto 75% Off on Unisex-Sunglasses Starting @ just ₹499"
+      }
+    ],
+    "raw_text": "Myntra | Upto 75% Off on Unisex-Sunglasses Starting @ just ₹499\n \nLink : https://myntr.in/mlTwXr",
+    "final_url": "https://myntr.in/mlTwXr",
+    "local_image": "assets/images/tgmsg_21197.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-15T15:46:26+00:00",
+    "buy_link": "https://myntr.in/mlTwXr",
+    "date_iso": "2025-12-15T15:46:26+00:00"
+  },
+  {
     "id": "msg21194",
     "title": "🧾 Extra 3% Benefit via GST Invoice (share GSTIN)",
     "description": "✨ SHINING GOLD MONDAY ✨ 💰 Buy More • Save More 🪙 5 gm | 24K Muthoot Gold 🔥 AJIO Price: ₹67,526/- ❌ MRP: ₹75,373/- 🔗 Buy Now: 🎁 EXTRA SAVINGS: 💸 2% OFF (Up to ₹2,000) with Coupon: DHANVARSHA2 💸 Additional ₹1,000 OFF on…",
@@ -9614,29 +9634,5 @@
     "date_obj": "2025-12-11T15:46:52+00:00",
     "buy_link": "https://ajiio.co/WiuOOH",
     "date_iso": "2025-12-11T15:46:52+00:00"
-  },
-  {
-    "id": "msg20709",
-    "title": "⚡ Pav Bhaji Masala – Pack of 5 at just ₹9!",
-    "description": "Pav Bhaji Masala (Pack of 5) – ₹9 ⚡ Pav Bhaji Masala – Pack of 5 at just ₹9! Use Coupon: DEAL35💥 👉 Link: https://extp.in/3cRfz2",
-    "shortlink": "https://extp.in/3cRfz2",
-    "urls": [
-      {
-        "url": "",
-        "label": "Pav Bhaji Masala (Pack of 5) – ₹9"
-      },
-      {
-        "url": "https://extp.in/3cRfz2",
-        "label": "⚡ Pav Bhaji Masala – Pack of 5 at just ₹9!"
-      }
-    ],
-    "raw_text": "Pav Bhaji Masala (Pack of 5) – ₹9\n\n⚡ Pav Bhaji Masala – Pack of 5 at just ₹9!\n\nUse Coupon: DEAL35💥 \n\n👉 Link: https://extp.in/3cRfz2",
-    "final_url": "https://extp.in/3cRfz2",
-    "local_image": "assets/images/tgmsg_20709.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-11T15:05:55+00:00",
-    "buy_link": "https://extp.in/3cRfz2",
-    "date_iso": "2025-12-11T15:05:55+00:00"
   }
 ]
