@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21129",
+    "title": "Flat 7% off on Silver coin",
+    "description": "Myntra | Flat 7% off on Silver coins Use coupon code: JWLOFF15 https://myntr.in/kup5Cm",
+    "shortlink": "https://myntr.in/kup5Cm",
+    "urls": [
+      {
+        "url": "https://myntr.in/kup5Cm",
+        "label": "Flat 7% off on Silver coins"
+      }
+    ],
+    "raw_text": "Myntra | Flat 7% off on Silver coins\n\nUse coupon code: JWLOFF15\n\nhttps://myntr.in/kup5Cm",
+    "final_url": "https://myntr.in/kup5Cm",
+    "local_image": "assets/images/tgmsg_21129.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-15T06:16:07+00:00",
+    "buy_link": "https://myntr.in/kup5Cm",
+    "date_iso": "2025-12-15T06:16:07+00:00"
+  },
+  {
     "id": "msg21128",
     "title": "LP Min 40% + extra 20%",
     "description": "Ajio | Peter England Min 40% https://ajiio.co/aP3x2r LP Min 40% + extra 20% https://ajiio.co/SxQKBD",
@@ -9618,29 +9638,5 @@
     "date_obj": "2025-12-11T08:07:02+00:00",
     "buy_link": "https://extp.in/6w4QI3",
     "date_iso": "2025-12-11T08:07:02+00:00"
-  },
-  {
-    "id": "msg20647",
-    "title": "Portronics Luxcell B 10K 10000 mAh 22.5W Fast Charging Power Bank, @₹699",
-    "description": "Amazon | Portronics Luxcell B 10K 10000 mAh 22.5W Fast Charging Power Bank, @₹699 🔗 Buy Here : https://www.amazon.in/dp/B0CQK43DGH?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CQK43DGH?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Portronics Luxcell B 10K 10000 mAh 22.5W Fast Charging Power Bank, @₹699"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0CQK43DGH?th=1&tag=bestpricezo0f-21",
-        "label": "🔗 Here"
-      }
-    ],
-    "raw_text": "Amazon | Portronics Luxcell B 10K 10000 mAh 22.5W Fast Charging Power Bank, @₹699\n\n🔗 Buy Here : https://www.amazon.in/dp/B0CQK43DGH?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CQK43DGH?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_20647.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-11T07:47:19+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CQK43DGH?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-11T07:47:19+00:00"
   }
 ]
