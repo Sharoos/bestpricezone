@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg21133",
+    "title": "Up to 66% Off on Water Geyse",
+    "description": "Flipkart | Top Deals On Large Appliances Master Link : Upto 66% Off on Water Geyser 👉 Upto 63% Off on TV 4K 👉 Upto 64% Off on QLED TVs 👉 Upto 45% Off on Washing Machines 👉",
+    "shortlink": "https://fkrt.co/h2kjiQ",
+    "urls": [
+      {
+        "url": "",
+        "label": "Top Deals On Large Appliances"
+      },
+      {
+        "url": "https://fkrt.co/h2kjiQ",
+        "label": "Master"
+      },
+      {
+        "url": "https://fkrt.co/qm7UkH",
+        "label": "Upto 66% Off on Water Geyser"
+      },
+      {
+        "url": "https://fkrt.co/MkQFhV",
+        "label": "Upto 63% Off on TV 4K"
+      },
+      {
+        "url": "https://fkrt.co/aVYZxX",
+        "label": "Upto 64% Off on QLED TVs"
+      },
+      {
+        "url": "https://fkrt.co/4cMSIM",
+        "label": "Upto 45% Off on Washing Machines"
+      }
+    ],
+    "raw_text": "Flipkart | Top Deals On Large Appliances\n\nMaster Link :  https://fkrt.co/h2kjiQ\n\nUpto 66% Off on Water Geyser\n👉 https://fkrt.co/qm7UkH\n\nUpto 63% Off on TV 4K\n👉 https://fkrt.co/MkQFhV\n\nUpto 64% Off on QLED TVs\n👉 https://fkrt.co/aVYZxX\n\nUpto 45% Off on Washing Machines\n👉 https://fkrt.co/4cMSIM",
+    "final_url": "https://fkrt.co/h2kjiQ",
+    "local_image": "assets/images/tgmsg_21133.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-15T07:45:21+00:00",
+    "buy_link": "https://fkrt.co/h2kjiQ",
+    "date_iso": "2025-12-15T07:45:21+00:00"
+  },
+  {
     "id": "msg21131",
     "title": "Up to 76% Off on Branded Belts @ 240💥",
     "description": "Ajio | Upto 76% Off on Branded Belts @ 240💥 👉 https://ajiio.co/MBywaR",
@@ -9614,29 +9654,5 @@
     "date_obj": "2025-12-11T09:31:58+00:00",
     "buy_link": "https://extp.in/Aq0zXn",
     "date_iso": "2025-12-11T09:31:58+00:00"
-  },
-  {
-    "id": "msg20653",
-    "title": "72% Off",
-    "description": "Flipkart | 72% Off - PUMA  Women T-Shirt At Rs.489 👉 https://fkrt.co/5ictw7 Master Link -  https://fkrt.co/uGQdf7",
-    "shortlink": "https://fkrt.co/5ictw7",
-    "urls": [
-      {
-        "url": "https://fkrt.co/5ictw7",
-        "label": "72% Off - PUMA Women T-Shirt At Rs.489"
-      },
-      {
-        "url": "https://fkrt.co/uGQdf7",
-        "label": "Master"
-      }
-    ],
-    "raw_text": "Flipkart | 72% Off - PUMA  Women T-Shirt At Rs.489\n\n👉 https://fkrt.co/5ictw7\n\nMaster Link -  https://fkrt.co/uGQdf7",
-    "final_url": "https://fkrt.co/5ictw7",
-    "local_image": "assets/images/tgmsg_20653.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-11T08:45:12+00:00",
-    "buy_link": "https://fkrt.co/5ictw7",
-    "date_iso": "2025-12-11T08:45:12+00:00"
   }
 ]
