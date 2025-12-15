@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg21151",
+    "title": "Ready to wear Sarees min 70% Off",
+    "description": "Flipkart Grab Fashion Fest 💥💥 Ethnic Sets Flat Rs.299 🔗 Festive Ethnic Sets Flat Rs.399 🔗 Kanjivaram, Banarasi sarees Flat Rs.499 🔗 Lehenga Cholis Flat Rs.599 🔗 Anarkali Kurtis Flat Rs.299 🔗  🔗",
+    "shortlink": "https://fkrt.co/gIRmHy",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart Grab Fashion Fest 💥💥"
+      },
+      {
+        "url": "https://fkrt.co/gIRmHy",
+        "label": "Ethnic Sets Flat Rs.299"
+      },
+      {
+        "url": "https://fkrt.co/l2gGtw",
+        "label": "Festive Ethnic Sets Flat Rs.399"
+      },
+      {
+        "url": "https://fkrt.co/mBhYn6",
+        "label": "Kanjivaram, Banarasi sarees Flat Rs.499"
+      },
+      {
+        "url": "https://fkrt.co/AtS61N",
+        "label": "Lehenga Cholis Flat Rs.599"
+      },
+      {
+        "url": "https://fkrt.co/w142nz",
+        "label": "Anarkali Kurtis Flat Rs.299"
+      },
+      {
+        "url": "https://fkrt.co/96Y7LF",
+        "label": "Ready to wear Sarees min 70% Off"
+      }
+    ],
+    "raw_text": "Flipkart Grab Fashion Fest 💥💥\n\nEthnic Sets Flat Rs.299  \n🔗https://fkrt.co/gIRmHy\n\nFestive Ethnic Sets Flat Rs.399  \n🔗https://fkrt.co/l2gGtw\n\nKanjivaram, Banarasi sarees Flat Rs.499 \n🔗 https://fkrt.co/mBhYn6\n\nLehenga Cholis Flat Rs.599  \n🔗https://fkrt.co/AtS61N\n\nAnarkali Kurtis Flat Rs.299  \n🔗https://fkrt.co/w142nz\n\nReady to wear Sarees min 70% Off  \n🔗https://fkrt.co/96Y7LF",
+    "final_url": "https://fkrt.co/gIRmHy",
+    "local_image": "assets/images/tgmsg_21151.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-15T09:53:22+00:00",
+    "buy_link": "https://fkrt.co/gIRmHy",
+    "date_iso": "2025-12-15T09:53:22+00:00"
+  },
+  {
     "id": "msg21144",
     "title": "Campus Sutra Men Jackets @379",
     "description": "Campus Sutra Men Jackets @379 https://myntr.in/sdurxT",
@@ -9594,25 +9638,5 @@
     "date_obj": "2025-12-11T11:00:05+00:00",
     "buy_link": "https://extp.in/JByUMg",
     "date_iso": "2025-12-11T11:00:05+00:00"
-  },
-  {
-    "id": "msg20672",
-    "title": "Shopsy Women Jeans Starts From ₹451",
-    "description": "Shopsy | Women Jeans Starts From ₹451 🔗https://extp.in/OtcT9l",
-    "shortlink": "https://extp.in/OtcT9l",
-    "urls": [
-      {
-        "url": "https://extp.in/OtcT9l",
-        "label": "Women Jeans Starts From ₹451"
-      }
-    ],
-    "raw_text": "Shopsy | Women Jeans Starts From ₹451\n\n🔗https://extp.in/OtcT9l",
-    "final_url": "https://extp.in/OtcT9l",
-    "local_image": "assets/images/tgmsg_20672.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-11T11:10:09+00:00",
-    "buy_link": "https://extp.in/OtcT9l",
-    "date_iso": "2025-12-11T11:10:09+00:00"
   }
 ]
