@@ -1,5 +1,153 @@
 [
   {
+    "id": "msg21325",
+    "title": "Additional Coupons + Card Discount",
+    "description": "AJIO Price Drop On Premium Brands. Armani Exchange : Replay : La Martina : G Star Raw : Clarks : GAS, G-Star Raw & GANT Clothing. Mens : Womens : *s.",
+    "shortlink": "https://ajiio.co/5vC5fA",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Price Drop On Premium Brands"
+      },
+      {
+        "url": "https://ajiio.co/5vC5fA",
+        "label": "Armani Exchange"
+      },
+      {
+        "url": "https://ajiio.co/u4HGdl",
+        "label": "Replay"
+      },
+      {
+        "url": "https://ajiio.co/v3YHtG",
+        "label": "La Martina"
+      },
+      {
+        "url": "https://ajiio.co/IqvaWK",
+        "label": "G Star Raw"
+      },
+      {
+        "url": "https://ajiio.co/kOGflw",
+        "label": "Clarks"
+      },
+      {
+        "url": "",
+        "label": "GAS, G-Star Raw & GANT Clothing"
+      },
+      {
+        "url": "https://ajiio.co/VS4xGf",
+        "label": "Mens"
+      },
+      {
+        "url": "https://ajiio.co/IYlldm",
+        "label": "Womens"
+      },
+      {
+        "url": "",
+        "label": "Additional Coupons + Card Discounts"
+      }
+    ],
+    "raw_text": "AJIO  Price Drop On Premium Brands. \n\nArmani Exchange :   https://ajiio.co/5vC5fA\nReplay :   https://ajiio.co/u4HGdl\nLa Martina :   https://ajiio.co/v3YHtG\nG Star Raw :   https://ajiio.co/IqvaWK\nClarks :   https://ajiio.co/kOGflw\n\nGAS, G-Star Raw & GANT Clothing.\n\nMens :   https://ajiio.co/VS4xGf\nWomens :   https://ajiio.co/IYlldm\n\n*Additional Coupons + Card Discounts.",
+    "final_url": "https://ajiio.co/5vC5fA",
+    "local_image": "assets/images/tgmsg_21325.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-16T18:43:51+00:00",
+    "buy_link": "https://ajiio.co/5vC5fA",
+    "date_iso": "2025-12-16T18:43:51+00:00"
+  },
+  {
+    "id": "msg21327",
+    "title": "Prestige Spinner Mop Set @ 699",
+    "description": "Flipkart | Prestige Spinner Mop Set @ 699 https://fkrt.co/D737Uu Regular Price 900+",
+    "shortlink": "https://fkrt.co/D737Uu",
+    "urls": [
+      {
+        "url": "https://fkrt.co/D737Uu",
+        "label": "Prestige Spinner Mop Set @ 699"
+      },
+      {
+        "url": "",
+        "label": "Regular Price 900+"
+      }
+    ],
+    "raw_text": "Flipkart | Prestige Spinner Mop Set @ 699\n\n  https://fkrt.co/D737Uu\n\nRegular Price 900+",
+    "final_url": "https://fkrt.co/D737Uu",
+    "local_image": "assets/images/tgmsg_21327.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-16T18:44:55+00:00",
+    "buy_link": "https://fkrt.co/D737Uu",
+    "date_iso": "2025-12-16T18:44:55+00:00"
+  },
+  {
+    "id": "msg21328",
+    "title": "Kotty Men's Jeans Up to 82% Off starting @343",
+    "description": "Flipkart | Kotty Men's Jeans upto 82% Off starting @343 https://fkrt.co/yOvqGJ",
+    "shortlink": "https://fkrt.co/yOvqGJ",
+    "urls": [
+      {
+        "url": "https://fkrt.co/yOvqGJ",
+        "label": "Kotty Men's Jeans upto 82% Off starting @343"
+      }
+    ],
+    "raw_text": "Flipkart | Kotty Men's Jeans upto 82% Off starting @343\n\n     https://fkrt.co/yOvqGJ",
+    "final_url": "https://fkrt.co/yOvqGJ",
+    "local_image": "assets/images/tgmsg_21328.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-16T18:45:42+00:00",
+    "buy_link": "https://fkrt.co/yOvqGJ",
+    "date_iso": "2025-12-16T18:45:42+00:00"
+  },
+  {
+    "id": "msg21331",
+    "title": "Wrogn Laptop Bags Up to 85% Off From @384",
+    "description": "Flipkart | Wrogn Laptop Bags upto 85% Off From @384 https://fkrt.co/LNgfW1",
+    "shortlink": "https://fkrt.co/LNgfW1",
+    "urls": [
+      {
+        "url": "https://fkrt.co/LNgfW1",
+        "label": "Wrogn Laptop Bags upto 85% Off From @384"
+      }
+    ],
+    "raw_text": "Flipkart | Wrogn Laptop Bags upto 85% Off From @384\n\n     https://fkrt.co/LNgfW1",
+    "final_url": "https://fkrt.co/LNgfW1",
+    "local_image": "assets/images/tgmsg_21331.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-16T18:49:35+00:00",
+    "buy_link": "https://fkrt.co/LNgfW1",
+    "date_iso": "2025-12-16T18:49:35+00:00"
+  },
+  {
+    "id": "msg21332",
+    "title": "Flat 80% Off On Gear Backpacks + Extra 20% Off",
+    "description": "Myntra  Flat 80% Off On Gear Backpacks + Extra 20% Off. https://myntr.in/odSpLb Masterlink : https://myntr.in/guu78I Apply Code : ACCEXTRA20",
+    "shortlink": "https://myntr.in/odSpLb",
+    "urls": [
+      {
+        "url": "https://myntr.in/odSpLb",
+        "label": "Myntra Flat 80% Off On Gear Backpacks + Extra 20% Off"
+      },
+      {
+        "url": "https://myntr.in/guu78I",
+        "label": "Masterlink"
+      },
+      {
+        "url": "",
+        "label": "ACCEXTRA20"
+      }
+    ],
+    "raw_text": "Myntra  Flat 80% Off On Gear Backpacks + Extra 20% Off.\n\nhttps://myntr.in/odSpLb\n\nMasterlink : https://myntr.in/guu78I\n\nApply Code : ACCEXTRA20",
+    "final_url": "https://myntr.in/odSpLb",
+    "local_image": "assets/images/tgmsg_21332.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-16T18:54:35+00:00",
+    "buy_link": "https://myntr.in/odSpLb",
+    "date_iso": "2025-12-16T18:54:35+00:00"
+  },
+  {
     "id": "msg21314",
     "title": "70% Off",
     "description": "Myntra | Dove, Tresemme 1L Shampoos 60 - 70% Off 👉Link : https://myntr.in/5Spg3j",
@@ -9430,133 +9578,5 @@
     "date_obj": "2025-12-12T15:04:52+00:00",
     "buy_link": "https://bitli.in/KbAgPZs",
     "date_iso": "2025-12-12T15:04:52+00:00"
-  },
-  {
-    "id": "msg20842",
-    "title": "Up to 80% Off on Beardo Perfumes + Extra 10% 🔥🔥",
-    "description": "Myntra Upto 80% Off on Beardo Perfumes + Extra 10% Coupon 🔥🔥 Eau De Parfum 20 ml (Set of 2) at 195 : Eau De Parfum 20 ml (Set of 4) at 362 : Eau de Parfum (Set of 3) At 597: Master Link :",
-    "shortlink": "https://myntr.in/Wj6TIh",
-    "urls": [
-      {
-        "url": "https://myntr.in/Wj6TIh",
-        "label": "Eau De Parfum 20 ml (Set of 2) at 195"
-      },
-      {
-        "url": "https://myntr.in/Syrf6U",
-        "label": "Eau De Parfum 20 ml (Set of 4) at 362"
-      },
-      {
-        "url": "https://myntr.in/OwuWca",
-        "label": "Eau de Parfum (Set of 3) At 597"
-      },
-      {
-        "url": "https://myntr.in/KYBRJ7",
-        "label": "Master"
-      }
-    ],
-    "raw_text": "Myntra  Upto 80% Off on Beardo Perfumes + Extra 10% Coupon 🔥🔥\n\nEau De Parfum 20 ml (Set of 2) at 195 : https://myntr.in/Wj6TIh\nEau De Parfum 20 ml (Set of 4) at 362 : https://myntr.in/Syrf6U\nEau de Parfum (Set of 3) At 597: https://myntr.in/OwuWca\n\nMaster Link : https://myntr.in/KYBRJ7",
-    "final_url": "https://myntr.in/Wj6TIh",
-    "local_image": "assets/images/tgmsg_20842.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-12T15:05:40+00:00",
-    "buy_link": "https://myntr.in/Wj6TIh",
-    "date_iso": "2025-12-12T15:05:40+00:00"
-  },
-  {
-    "id": "msg20843",
-    "title": "399",
-    "description": "399 : https://www.amazon.in/dp/B0G6D6933K?social_share=cm_sw_r_cso_wa_apin_dp_1YXVTFJ9A4ZHZCY1ZW6J&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0G6D6933K?social_share=cm_sw_r_cso_wa_apin_dp_1YXVTFJ9A4ZHZCY1ZW6J&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0G6D6933K?social_share=cm_sw_r_cso_wa_apin_dp_1YXVTFJ9A4ZHZCY1ZW6J&tag=bestpricezo0f-21",
-        "label": "399"
-      }
-    ],
-    "raw_text": "399 : https://www.amazon.in/dp/B0G6D6933K?social_share=cm_sw_r_cso_wa_apin_dp_1YXVTFJ9A4ZHZCY1ZW6J&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0G6D6933K?social_share=cm_sw_r_cso_wa_apin_dp_1YXVTFJ9A4ZHZCY1ZW6J&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_20843.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-12T15:05:42+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0G6D6933K?social_share=cm_sw_r_cso_wa_apin_dp_1YXVTFJ9A4ZHZCY1ZW6J&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-12T15:05:42+00:00"
-  },
-  {
-    "id": "msg20838",
-    "title": "Wrogn Caps Up to 67% off starting From @280",
-    "description": "Myntra | Wrogn Caps upto 67% off starting From @280 👉https://myntr.in/I3Ylyf",
-    "shortlink": "https://myntr.in/I3Ylyf",
-    "urls": [
-      {
-        "url": "https://myntr.in/I3Ylyf",
-        "label": "Wrogn Caps upto 67% off starting From @280"
-      }
-    ],
-    "raw_text": "Myntra | Wrogn Caps upto 67% off starting From @280\n\n👉https://myntr.in/I3Ylyf",
-    "final_url": "https://myntr.in/I3Ylyf",
-    "local_image": "assets/images/tgmsg_20838.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-12T14:52:17+00:00",
-    "buy_link": "https://myntr.in/I3Ylyf",
-    "date_iso": "2025-12-12T14:52:17+00:00"
-  },
-  {
-    "id": "msg20837",
-    "title": "Up to 82% Off On HRX Luggage",
-    "description": "Flipkart | Upto 82% Off On HRX Luggage. Small : https://fkrt.co/DSKset Medium : https://fkrt.co/ZmlCK2 Large : https://fkrt.co/E7e8za Pack Of 2/3 : https://fkrt.co/sAUpYo",
-    "shortlink": "https://fkrt.co/DSKset",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 82% Off On HRX Luggage"
-      },
-      {
-        "url": "https://fkrt.co/DSKset",
-        "label": "Small"
-      },
-      {
-        "url": "https://fkrt.co/ZmlCK2",
-        "label": "Medium"
-      },
-      {
-        "url": "https://fkrt.co/E7e8za",
-        "label": "Large"
-      },
-      {
-        "url": "https://fkrt.co/sAUpYo",
-        "label": "Pack Of 2/3"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 82% Off On HRX Luggage.\n\nSmall : https://fkrt.co/DSKset\nMedium : https://fkrt.co/ZmlCK2\nLarge : https://fkrt.co/E7e8za\n\nPack Of 2/3 : https://fkrt.co/sAUpYo",
-    "final_url": "https://fkrt.co/DSKset",
-    "local_image": "assets/images/tgmsg_20837.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-12T14:36:26+00:00",
-    "buy_link": "https://fkrt.co/DSKset",
-    "date_iso": "2025-12-12T14:36:26+00:00"
-  },
-  {
-    "id": "msg20833",
-    "title": "Premium Blankets From 779",
-    "description": "Myntra : Premium Blankets From 779. https://myntr.in/oA617Z",
-    "shortlink": "https://myntr.in/oA617Z",
-    "urls": [
-      {
-        "url": "https://myntr.in/oA617Z",
-        "label": "Premium Blankets From 779"
-      }
-    ],
-    "raw_text": "Myntra : Premium Blankets From 779.\n\nhttps://myntr.in/oA617Z",
-    "final_url": "https://myntr.in/oA617Z",
-    "local_image": "assets/images/tgmsg_20833.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-12T13:55:51+00:00",
-    "buy_link": "https://myntr.in/oA617Z",
-    "date_iso": "2025-12-12T13:55:51+00:00"
   }
 ]
