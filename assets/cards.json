@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg21314",
+    "title": "70% Off",
+    "description": "Myntra | Dove, Tresemme 1L Shampoos 60 - 70% Off 👉Link : https://myntr.in/5Spg3j",
+    "shortlink": "https://myntr.in/5Spg3j",
+    "urls": [
+      {
+        "url": "https://myntr.in/5Spg3j",
+        "label": "Dove, Tresemme 1L Shampoos 60 - 70% Off"
+      }
+    ],
+    "raw_text": "Myntra | Dove, Tresemme 1L Shampoos 60 - 70% Off\n\n👉Link : https://myntr.in/5Spg3j",
+    "final_url": "https://myntr.in/5Spg3j",
+    "local_image": "assets/images/tgmsg_21314.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-16T18:01:12+00:00",
+    "buy_link": "https://myntr.in/5Spg3j",
+    "date_iso": "2025-12-16T18:01:12+00:00"
+  },
+  {
+    "id": "msg21315",
+    "title": "Electric Kettles starts from Rs492 + 🔥🔥",
+    "description": "Myntra : Electric Kettles starts from Rs492 + Coupon 🔥🔥 Link: https://myntr.in/gFFcYk",
+    "shortlink": "https://myntr.in/gFFcYk",
+    "urls": [
+      {
+        "url": "https://myntr.in/gFFcYk",
+        "label": ""
+      }
+    ],
+    "raw_text": "Myntra : Electric Kettles starts from Rs492 + Coupon 🔥🔥\n\nLink: https://myntr.in/gFFcYk",
+    "final_url": "https://myntr.in/gFFcYk",
+    "local_image": "assets/images/tgmsg_21315.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-16T18:14:12+00:00",
+    "buy_link": "https://myntr.in/gFFcYk",
+    "date_iso": "2025-12-16T18:14:12+00:00"
+  },
+  {
     "id": "msg21312",
     "title": "Up to 65% Off on Laundry",
     "description": "Ajio | Upto 65% Off on Laundry-Baskets-and-Dryers Starting @ just 325 Link : https://ajiio.co/nPM527",
@@ -9518,49 +9558,5 @@
     "date_obj": "2025-12-12T13:55:51+00:00",
     "buy_link": "https://myntr.in/oA617Z",
     "date_iso": "2025-12-12T13:55:51+00:00"
-  },
-  {
-    "id": "msg20834",
-    "title": "Zandu Copper Water Bottle (950 ml) @671",
-    "description": "Loot: Zandu Copper Water Bottle (950 ml) @671 ✅ Use Code: COPPER671 https://bitli.in/GQR2wZ8",
-    "shortlink": "https://bitli.in/GQR2wZ8",
-    "urls": [
-      {
-        "url": "",
-        "label": "Zandu Copper Water Bottle (950 ml) @671"
-      },
-      {
-        "url": "https://bitli.in/GQR2wZ8",
-        "label": "✅ Use Code: COPPER671"
-      }
-    ],
-    "raw_text": "Loot: Zandu Copper Water Bottle (950 ml) @671\n\n✅ Use Code: COPPER671\n\nhttps://bitli.in/GQR2wZ8",
-    "final_url": "https://bitli.in/GQR2wZ8",
-    "local_image": "assets/images/tgmsg_20834.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-12-12T14:03:22+00:00",
-    "buy_link": "https://bitli.in/GQR2wZ8",
-    "date_iso": "2025-12-12T14:03:22+00:00"
-  },
-  {
-    "id": "msg20835",
-    "title": "46% Off Crompton Amica Pro 15 Ltr Storage Water Heater @ 6499",
-    "description": "*46% Off : Crompton Amica Pro 15 Ltr Storage Water Heater @ 6499* https://www.amazon.in/dp/B0D62M6S8N?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D62M6S8N?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0D62M6S8N?tag=bestpricezo0f-21",
-        "label": "46% Off : Crompton Amica Pro 15 Ltr Storage Water Heater @ 6499*"
-      }
-    ],
-    "raw_text": "*46% Off : Crompton Amica Pro 15 Ltr Storage Water Heater @ 6499*\n\nhttps://www.amazon.in/dp/B0D62M6S8N?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D62M6S8N?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_20835.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-12T14:09:06+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D62M6S8N?tag=bestpricezo0f-21",
-    "date_iso": "2025-12-12T14:09:06+00:00"
   }
 ]
