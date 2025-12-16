@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg21309",
+    "title": "Ketch Clothing Starts @119",
+    "description": "Myntra  Ketch Clothing Starts @119. Women : https://myntr.in/7fQHut Men : https://myntr.in/ZBYrv5",
+    "shortlink": "https://myntr.in/7fQHut",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Ketch Clothing Starts @119"
+      },
+      {
+        "url": "https://myntr.in/7fQHut",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/ZBYrv5",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "Myntra  Ketch Clothing Starts @119.\n\nWomen : https://myntr.in/7fQHut\nMen : https://myntr.in/ZBYrv5",
+    "final_url": "https://myntr.in/7fQHut",
+    "local_image": "assets/images/tgmsg_21309.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-16T17:20:47+00:00",
+    "buy_link": "https://myntr.in/7fQHut",
+    "date_iso": "2025-12-16T17:20:47+00:00"
+  },
+  {
+    "id": "msg21311",
+    "title": "Van Heusen Wrist Watches Up to 70% Off",
+    "description": "Flipkart | Van Heusen Wrist Watches upto 70% Off https://fkrt.co/pkZMUV",
+    "shortlink": "https://fkrt.co/pkZMUV",
+    "urls": [
+      {
+        "url": "https://fkrt.co/pkZMUV",
+        "label": "Van Heusen Wrist Watches upto 70% Off"
+      }
+    ],
+    "raw_text": "Flipkart | Van Heusen Wrist Watches upto 70% Off \n\nhttps://fkrt.co/pkZMUV",
+    "final_url": "https://fkrt.co/pkZMUV",
+    "local_image": "assets/images/tgmsg_21311.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-16T17:36:16+00:00",
+    "buy_link": "https://fkrt.co/pkZMUV",
+    "date_iso": "2025-12-16T17:36:16+00:00"
+  },
+  {
     "id": "msg21307",
     "title": "Up to 75% Off On Libas Women Clothing",
     "description": "Myntra | Upto 75% Off On Libas Women Clothing. https://myntr.in/eYGwjF Kurta : https://myntr.in/95Pyme Kurta Sets : https://myntr.in/vaY8eu",
@@ -9550,45 +9598,5 @@
     "date_obj": "2025-12-12T14:09:11+00:00",
     "buy_link": "https://ajiio.co/5QNWQR",
     "date_iso": "2025-12-12T14:09:11+00:00"
-  },
-  {
-    "id": "msg20831",
-    "title": "Add to Cart, Final Payment amount is 159 + Other Websites selling same At 250+",
-    "description": "ONDC : Denver Hamilton EDP Combo - 20ml Each At 159 + FREE SHIPPING 🔥🔥 Link : Note :",
-    "shortlink": "https://extp.in/hqWhmr",
-    "urls": [
-      {
-        "url": "https://extp.in/hqWhmr",
-        "label": "Denver Hamilton EDP Combo - 20ml Each At 159 + FREE SHIPPING 🔥🔥"
-      }
-    ],
-    "raw_text": "ONDC : Denver Hamilton EDP Combo - 20ml Each At 159 + FREE SHIPPING 🔥🔥\n\nLink : https://extp.in/hqWhmr\n\nNote : Add to Cart, Final Payment amount is 159 + Other Websites selling same At 250+",
-    "final_url": "https://extp.in/hqWhmr",
-    "local_image": "assets/images/tgmsg_20831.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-12T13:40:43+00:00",
-    "buy_link": "https://extp.in/hqWhmr",
-    "date_iso": "2025-12-12T13:40:43+00:00"
-  },
-  {
-    "id": "msg20832",
-    "title": "Body Cupid Sale",
-    "description": "*Body Cupid Sale* Bath & Body: Buy 10 Products at ₹1499 https://bitli.in/18WBhmf",
-    "shortlink": "https://bitli.in/18WBhmf",
-    "urls": [
-      {
-        "url": "https://bitli.in/18WBhmf",
-        "label": "Body Cupid Sale*"
-      }
-    ],
-    "raw_text": "*Body Cupid Sale*\n\nBath & Body: Buy 10 Products at ₹1499\n\nhttps://bitli.in/18WBhmf",
-    "final_url": "https://bitli.in/18WBhmf",
-    "local_image": "assets/images/tgmsg_20832.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-12-12T13:41:30+00:00",
-    "buy_link": "https://bitli.in/18WBhmf",
-    "date_iso": "2025-12-12T13:41:30+00:00"
   }
 ]
