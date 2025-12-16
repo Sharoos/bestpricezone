@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21218",
+    "title": "Red Tape Shoes at Up to 83% Discount",
+    "description": "Ajio | Red Tape Shoes at Upto 83% Discount https://ajiio.co/xTXz0y",
+    "shortlink": "https://ajiio.co/xTXz0y",
+    "urls": [
+      {
+        "url": "https://ajiio.co/xTXz0y",
+        "label": "Red Tape Shoes at Upto 83% Discount"
+      }
+    ],
+    "raw_text": "Ajio | Red Tape Shoes at Upto 83% Discount\n\nhttps://ajiio.co/xTXz0y",
+    "final_url": "https://ajiio.co/xTXz0y",
+    "local_image": "assets/images/tgmsg_21218.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-16T03:55:10+00:00",
+    "buy_link": "https://ajiio.co/xTXz0y",
+    "date_iso": "2025-12-16T03:55:10+00:00"
+  },
+  {
     "id": "msg21212",
     "title": "1831 Wireless Speaker Rs.299",
     "description": "Flipkart | Jmax WS-1831 Wireless Speaker Rs.299 https://fkrt.co/Wh7UUu",
@@ -9622,37 +9642,5 @@
     "date_obj": "2025-12-11T17:46:19+00:00",
     "buy_link": "https://ajiio.co/FPtNS2",
     "date_iso": "2025-12-11T17:46:19+00:00"
-  },
-  {
-    "id": "msg20719",
-    "title": "🛒 Deal Price Up to 80% Off",
-    "description": "Myntra | 👚 Libas Women's Clothing - Up to 80% Off! Kurta 🛒 Deal Price: Up to 80% Off Kurta Sets 🛒 Deal Price: Up to 80% Off",
-    "shortlink": "https://myntr.in/vy13Hc",
-    "urls": [
-      {
-        "url": "",
-        "label": "👚 Libas Women's Clothing - Up to 80% Off!"
-      },
-      {
-        "url": "https://myntr.in/vy13Hc",
-        "label": "🛒 Deal Price: Up to 80% Off"
-      },
-      {
-        "url": "",
-        "label": "Kurta Sets"
-      },
-      {
-        "url": "https://myntr.in/ROou3N",
-        "label": "🛒 Deal Price: Up to 80% Off"
-      }
-    ],
-    "raw_text": "Myntra | 👚 Libas Women's Clothing - Up to 80% Off!\n\nKurta\n\n🛒 Deal Price: Up to 80% Off\n\nhttps://myntr.in/vy13Hc\n\nKurta Sets\n\n🛒 Deal Price: Up to 80% Off\n\nhttps://myntr.in/ROou3N",
-    "final_url": "https://myntr.in/vy13Hc",
-    "local_image": "assets/images/tgmsg_20719.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-11T17:05:52+00:00",
-    "buy_link": "https://myntr.in/vy13Hc",
-    "date_iso": "2025-12-11T17:05:52+00:00"
   }
 ]
