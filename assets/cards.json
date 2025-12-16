@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg21231",
+    "title": "Women's Westernwear Under ₹399 (Rio, Fig & More)",
+    "description": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More) Women : https://ajiio.co/BoWXKt Girls : https://ajiio.co/T4XDSt",
+    "shortlink": "https://ajiio.co/BoWXKt",
+    "urls": [
+      {
+        "url": "",
+        "label": "Women's Westernwear Under ₹399 (Rio, Fig & More)"
+      },
+      {
+        "url": "https://ajiio.co/BoWXKt",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/T4XDSt",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "AJIO | Women's Westernwear Under ₹399 (Rio, Fig & More)\n\nWomen : https://ajiio.co/BoWXKt\n\nGirls : https://ajiio.co/T4XDSt",
+    "final_url": "https://ajiio.co/BoWXKt",
+    "local_image": "assets/images/tgmsg_21231.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-16T05:11:01+00:00",
+    "buy_link": "https://ajiio.co/BoWXKt",
+    "date_iso": "2025-12-16T05:11:01+00:00"
+  },
+  {
     "id": "msg21224",
     "title": "💥OverSized Tshirts Starts @360",
     "description": "💥Ajio | OverSized Tshirts Starts @360. 👉Link : https://ajiio.co/VW5Ihs",
@@ -9594,25 +9622,5 @@
     "date_obj": "2025-12-11T18:05:14+00:00",
     "buy_link": "https://fkrt.co/F8pBuQ",
     "date_iso": "2025-12-11T18:05:14+00:00"
-  },
-  {
-    "id": "msg20726",
-    "title": "Marks and Spencer Flat 75% off",
-    "description": "Ajio | Marks and Spencer Flat 75% off https://ajiio.co/2AOAsB",
-    "shortlink": "https://ajiio.co/2AOAsB",
-    "urls": [
-      {
-        "url": "https://ajiio.co/2AOAsB",
-        "label": "Marks and Spencer Flat 75% off"
-      }
-    ],
-    "raw_text": "Ajio | Marks and Spencer Flat 75% off\n\nhttps://ajiio.co/2AOAsB",
-    "final_url": "https://ajiio.co/2AOAsB",
-    "local_image": "assets/images/tgmsg_20726.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-11T18:18:26+00:00",
-    "buy_link": "https://ajiio.co/2AOAsB",
-    "date_iso": "2025-12-11T18:18:26+00:00"
   }
 ]
