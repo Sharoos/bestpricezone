@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg21305",
+    "title": "Water bottles starting at 179/",
+    "description": "Myntra | - Lunch Box starting at 149/- Dinner sets at min 50% Container starting at 90/-",
+    "shortlink": "https://myntr.in/blfKid",
+    "urls": [
+      {
+        "url": "https://myntr.in/blfKid",
+        "label": "Water bottles starting at 179/"
+      },
+      {
+        "url": "https://myntr.in/HFFmPY",
+        "label": "Lunch Box starting at 149/"
+      },
+      {
+        "url": "https://myntr.in/8fxvQn",
+        "label": "Dinner sets at min 50%"
+      },
+      {
+        "url": "https://myntr.in/enVRiI",
+        "label": "Container starting at 90/"
+      }
+    ],
+    "raw_text": "Myntra | Water bottles starting at 179/- \n\nhttps://myntr.in/blfKid\n\nLunch Box starting at 149/-\n\nhttps://myntr.in/HFFmPY\n\nDinner sets at min 50%\n\nhttps://myntr.in/8fxvQn\n\nContainer starting at 90/-\n\nhttps://myntr.in/enVRiI",
+    "final_url": "https://myntr.in/blfKid",
+    "local_image": "assets/images/tgmsg_21305.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-16T16:29:37+00:00",
+    "buy_link": "https://myntr.in/blfKid",
+    "date_iso": "2025-12-16T16:29:37+00:00"
+  },
+  {
+    "id": "msg21306",
+    "title": "Levis Jeans Flat Rs.1099",
+    "description": "Flipkart | Levis Jeans Flat Rs.1099 - https://fkrt.co/4z9EB0",
+    "shortlink": "https://fkrt.co/4z9EB0",
+    "urls": [
+      {
+        "url": "https://fkrt.co/4z9EB0",
+        "label": "Levis Jeans Flat Rs.1099"
+      }
+    ],
+    "raw_text": "Flipkart | Levis Jeans Flat Rs.1099\n\n- https://fkrt.co/4z9EB0",
+    "final_url": "https://fkrt.co/4z9EB0",
+    "local_image": "assets/images/tgmsg_21306.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-16T16:46:35+00:00",
+    "buy_link": "https://fkrt.co/4z9EB0",
+    "date_iso": "2025-12-16T16:46:35+00:00"
+  },
+  {
     "id": "msg21304",
     "title": "Up to 80% Off On Premium Brand Men's & Women's Shoe",
     "description": "Ajio : Upto 80% Off On Premium Brand Men's & Women's Shoe *Men's Shoes Adidas : Puma : Nike : Reebok : Campus : Red Tape : Skechers : Red Chief : *Women's Shoes Adidas : Puma : Nike : Reebok : Campus : Red Tape :…",
@@ -9522,49 +9574,5 @@
     "date_obj": "2025-12-12T13:02:18+00:00",
     "buy_link": "https://fkrt.co/JUJyQo",
     "date_iso": "2025-12-12T13:02:18+00:00"
-  },
-  {
-    "id": "msg20828",
-    "title": "🔥Collagen Back Apply ₹300 ✔️",
-    "description": "🔥Collagen Back: Apply ₹300 Coupon✔️ Neuherbs Collagen 200g @ 499/- 🔗Link : Regular price : 1099❌",
-    "shortlink": "https://www.amazon.in/dp/B0CB4KPKL2?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CB4KPKL2?tag=bestpricezo0f-21",
-        "label": "Neuherbs Collagen 200g @ 499/"
-      },
-      {
-        "url": "",
-        "label": "1099❌"
-      }
-    ],
-    "raw_text": "🔥Collagen  Back: Apply ₹300 Coupon✔️\n\nNeuherbs Collagen 200g @ 499/-\n\n🔗Link : https://www.amazon.in/dp/B0CB4KPKL2?tag=bestpricezo0f-21\n\nRegular price : 1099❌",
-    "final_url": "https://www.amazon.in/dp/B0CB4KPKL2?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_20828.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-12T13:10:12+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CB4KPKL2?tag=bestpricezo0f-21",
-    "date_iso": "2025-12-12T13:10:12+00:00"
-  },
-  {
-    "id": "msg20829",
-    "title": "Shopsy 🔥 BedBug Killer Repellent Spray (250 ml) At Rs.188",
-    "description": "Shopsy | 🔥  BedBug Killer Repellent Spray (250 ml) At Rs.188 🔗 https://extp.in/PFzCC5",
-    "shortlink": "https://extp.in/PFzCC5",
-    "urls": [
-      {
-        "url": "https://extp.in/PFzCC5",
-        "label": "🔥 BedBug Killer Repellent Spray (250 ml) At Rs.188"
-      }
-    ],
-    "raw_text": "Shopsy | 🔥  BedBug Killer Repellent Spray (250 ml) At Rs.188\n\n🔗 https://extp.in/PFzCC5",
-    "final_url": "https://extp.in/PFzCC5",
-    "local_image": "assets/images/tgmsg_20829.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-12T13:20:10+00:00",
-    "buy_link": "https://extp.in/PFzCC5",
-    "date_iso": "2025-12-12T13:20:10+00:00"
   }
 ]
