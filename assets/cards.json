@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg21262",
+    "title": "Win up to ₹200 Cashback via CRED UPI",
+    "description": "MediBuddy Loot: Full Body Checkup (64 Tests) Use Code : EK75 Link : Includes: (Blood • Sugar • Kidney • Liver • Thyroid • Vitamin D + more) .",
+    "shortlink": "https://bitli.in/aeimBF8",
+    "urls": [
+      {
+        "url": "",
+        "label": "Full Body Checkup (64 Tests)"
+      },
+      {
+        "url": "https://bitli.in/aeimBF8",
+        "label": "EK75"
+      },
+      {
+        "url": "",
+        "label": "(Blood • Sugar • Kidney • Liver • Thyroid • Vitamin D + more)"
+      },
+      {
+        "url": "",
+        "label": "Win up to ₹200 Cashback via CRED UPI"
+      }
+    ],
+    "raw_text": "MediBuddy Loot: Full Body Checkup (64 Tests) \n\nUse Code : EK75\n\nLink : https://bitli.in/aeimBF8\n\nIncludes: (Blood • Sugar • Kidney • Liver • Thyroid • Vitamin D + more)\n\nWin up to ₹200 Cashback via CRED UPI.",
+    "final_url": "https://bitli.in/aeimBF8",
+    "local_image": "assets/images/tgmsg_21262.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2025-12-16T09:51:41+00:00",
+    "buy_link": "https://bitli.in/aeimBF8",
+    "date_iso": "2025-12-16T09:51:41+00:00"
+  },
+  {
     "id": "msg21257",
     "title": "Shopsy Women Embroidered Kurta @ ₹153",
     "description": "Shopsy | Women Embroidered Kurta @ ₹153 🔗 https://extp.in/MWkiYH Min Buy - 2",
@@ -9470,37 +9502,5 @@
     "date_obj": "2025-12-12T06:34:16+00:00",
     "buy_link": "https://www.amazon.in/s?k=dabur+shampoo&i=beauty&rh=n%3A1355016031%2Cp_123%3A23524%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031&s=price-asc-rank&dc=&crid=3DMC4QB10VXCO&qid=1761280698&sprefix=dabur+shampoo%2Cbeauty%2C229&ds=v1%3ABztyWxUTNgt7ydsmF89aG%2FjZ9bVxSMY4xmfXFuKxL1o&tag=bestpricezo0f-21&",
     "date_iso": "2025-12-12T06:34:16+00:00"
-  },
-  {
-    "id": "msg20769",
-    "title": "Up to 78% OFF on Branded Trolleys & Luggage [Limited Time] 🔥🔥",
-    "description": "Flipkart : Upto 78% OFF on Branded Trolleys & Luggage [Limited Time] 🔥🔥 👉 Grab here: Extra Savings: ✔️ 10% Bank Discount | ✔️ Use 5% SuperCoins",
-    "shortlink": "https://fkrt.co/gXHCz1",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 78% OFF on Branded Trolleys & Luggage [Limited Time] 🔥🔥"
-      },
-      {
-        "url": "https://fkrt.co/gXHCz1",
-        "label": "Grab here"
-      },
-      {
-        "url": "",
-        "label": "Extra Savings"
-      },
-      {
-        "url": "",
-        "label": "✔️ 10% Bank Discount | ✔️ Use 5% SuperCoins"
-      }
-    ],
-    "raw_text": "Flipkart : Upto 78% OFF on Branded Trolleys & Luggage [Limited Time] 🔥🔥\n\n👉 Grab here: https://fkrt.co/gXHCz1\n\nExtra Savings:\n✔️ 10% Bank Discount | ✔️ Use 5% SuperCoins",
-    "final_url": "https://fkrt.co/gXHCz1",
-    "local_image": "assets/images/tgmsg_20769.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-12T05:50:46+00:00",
-    "buy_link": "https://fkrt.co/gXHCz1",
-    "date_iso": "2025-12-12T05:50:46+00:00"
   }
 ]
