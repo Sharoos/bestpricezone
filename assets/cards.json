@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg21296",
+    "title": "80% Off On Being Human Clothing",
+    "description": "Myntra | 70-. Men | Tshirts : Shirts : Sweatshirts : Jackets : Shorts & Trackpants : Women :",
+    "shortlink": "https://myntr.in/iWRTHD",
+    "urls": [
+      {
+        "url": "",
+        "label": "70-80% Off On Being Human Clothing"
+      },
+      {
+        "url": "https://myntr.in/iWRTHD",
+        "label": "Tshirts"
+      },
+      {
+        "url": "https://myntr.in/z9c7je",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://myntr.in/vDjP4t",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "https://myntr.in/LkGcEd",
+        "label": "Jackets"
+      },
+      {
+        "url": "https://myntr.in/in7D4Z",
+        "label": "Shorts & Trackpants"
+      },
+      {
+        "url": "https://myntr.in/YsziFc",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | 70-80% Off On Being Human Clothing.\n\nMen | Tshirts : https://myntr.in/iWRTHD\nShirts : https://myntr.in/z9c7je\nSweatshirts : https://myntr.in/vDjP4t\nJackets : https://myntr.in/LkGcEd\nShorts & Trackpants : https://myntr.in/in7D4Z\n\nWomen : https://myntr.in/YsziFc",
+    "final_url": "https://myntr.in/iWRTHD",
+    "local_image": "assets/images/tgmsg_21296.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-16T14:31:53+00:00",
+    "buy_link": "https://myntr.in/iWRTHD",
+    "date_iso": "2025-12-16T14:31:53+00:00"
+  },
+  {
     "id": "msg21294",
     "title": "Swisstyle Watches Up to 89% Off",
     "description": "Myntra | Swisstyle Watches upto 89% Off 👉 https://myntr.in/8CTByh",
@@ -9418,45 +9462,5 @@
     "date_obj": "2025-12-12T12:52:27+00:00",
     "buy_link": "https://fkrt.co/TWTOfK",
     "date_iso": "2025-12-12T12:52:27+00:00"
-  },
-  {
-    "id": "msg20815",
-    "title": "Party Heels, Wedges & more Min 70% off",
-    "description": "Flipkart | Footwear Sale Is Live!!! 🛍▶️  🔗 Women Sneakers Min 80% off 🔗 Trendy Flats Under Rs. 259 🔗 Women Boots Under Rs. 499 🔗 Fur Slippers From Rs. 149 🔗",
-    "shortlink": "https://fkrt.co/0yecJW",
-    "urls": [
-      {
-        "url": "",
-        "label": "Footwear Sale Is Live!!! 🛍▶️"
-      },
-      {
-        "url": "https://fkrt.co/0yecJW",
-        "label": "Party Heels, Wedges & more Min 70% off"
-      },
-      {
-        "url": "https://fkrt.co/1migyM",
-        "label": "Women Sneakers Min 80% off"
-      },
-      {
-        "url": "https://fkrt.co/JFCtKd",
-        "label": "Trendy Flats Under Rs. 259"
-      },
-      {
-        "url": "https://fkrt.co/sS8Kd6",
-        "label": "Women Boots Under Rs. 499"
-      },
-      {
-        "url": "https://fkrt.co/SAAgIH",
-        "label": "Fur Slippers From Rs. 149"
-      }
-    ],
-    "raw_text": "Flipkart | Footwear Sale Is Live!!! 🛍▶️\n\nParty Heels, Wedges & more Min 70% off\n🔗https://fkrt.co/0yecJW\n\nWomen Sneakers Min 80% off\n🔗https://fkrt.co/1migyM\n\nTrendy Flats Under Rs. 259\n🔗https://fkrt.co/JFCtKd\n\nWomen Boots Under Rs. 499\n🔗https://fkrt.co/sS8Kd6\n\nFur Slippers From Rs. 149\n🔗https://fkrt.co/SAAgIH",
-    "final_url": "https://fkrt.co/0yecJW",
-    "local_image": "assets/images/tgmsg_20815.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-12T11:52:25+00:00",
-    "buy_link": "https://fkrt.co/0yecJW",
-    "date_iso": "2025-12-12T11:52:25+00:00"
   }
 ]
