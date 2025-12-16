@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21273",
+    "title": "Up to 70% Off",
+    "description": "Flipkart | Upto 70% Off - T Shirts Starting From Rs.359 🔗 https://fkrt.co/O08mHV",
+    "shortlink": "https://fkrt.co/O08mHV",
+    "urls": [
+      {
+        "url": "https://fkrt.co/O08mHV",
+        "label": "Upto 70% Off - T Shirts Starting From Rs.359"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 70% Off - T Shirts Starting From Rs.359\n\n🔗 https://fkrt.co/O08mHV",
+    "final_url": "https://fkrt.co/O08mHV",
+    "local_image": "assets/images/tgmsg_21273.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-16T11:50:11+00:00",
+    "buy_link": "https://fkrt.co/O08mHV",
+    "date_iso": "2025-12-16T11:50:11+00:00"
+  },
+  {
     "id": "msg21267",
     "title": "⌚️Get Up to 30% Off On Iconic Designs, Such As Tommy Hilfiger, Police, Kenneth Cole & More",
     "description": "🕒Titan - End Of Season Sale - 🕒 ⌚️Get Upto 30% Off On Iconic Designs, Such As Tommy Hilfiger, Police, Kenneth Cole & More 🕒Timeless elegance, unbeatable deals — grab yours before it’s gone! 🔗 Shop Now :",
@@ -9466,25 +9486,5 @@
     "date_obj": "2025-12-12T08:20:02+00:00",
     "buy_link": "https://ajiio.co/97vENZ",
     "date_iso": "2025-12-12T08:20:02+00:00"
-  },
-  {
-    "id": "msg20785",
-    "title": "Up to 85% off on Kids Tricycles🔥🔥",
-    "description": "Flipkart  Upto 85% off on Kids Tricycles🔥🔥 Link : https://fkrt.co/QiORMU",
-    "shortlink": "https://fkrt.co/QiORMU",
-    "urls": [
-      {
-        "url": "https://fkrt.co/QiORMU",
-        "label": "Flipkart Upto 85% off on Kids Tricycles🔥🔥"
-      }
-    ],
-    "raw_text": "Flipkart  Upto 85% off on Kids Tricycles🔥🔥\n\nLink : https://fkrt.co/QiORMU",
-    "final_url": "https://fkrt.co/QiORMU",
-    "local_image": "assets/images/tgmsg_20785.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-12T07:37:46+00:00",
-    "buy_link": "https://fkrt.co/QiORMU",
-    "date_iso": "2025-12-12T07:37:46+00:00"
   }
 ]
