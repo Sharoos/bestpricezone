@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21312",
+    "title": "Up to 65% Off on Laundry",
+    "description": "Ajio | Upto 65% Off on Laundry-Baskets-and-Dryers Starting @ just 325 Link : https://ajiio.co/nPM527",
+    "shortlink": "https://ajiio.co/nPM527",
+    "urls": [
+      {
+        "url": "https://ajiio.co/nPM527",
+        "label": "Upto 65% Off on Laundry-Baskets-and-Dryers Starting @ just 325"
+      }
+    ],
+    "raw_text": "Ajio | Upto 65% Off on Laundry-Baskets-and-Dryers Starting @ just 325\n \nLink : https://ajiio.co/nPM527",
+    "final_url": "https://ajiio.co/nPM527",
+    "local_image": "assets/images/tgmsg_21312.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-16T17:47:08+00:00",
+    "buy_link": "https://ajiio.co/nPM527",
+    "date_iso": "2025-12-16T17:47:08+00:00"
+  },
+  {
     "id": "msg21309",
     "title": "Ketch Clothing Starts @119",
     "description": "Myntra  Ketch Clothing Starts @119. Women : https://myntr.in/7fQHut Men : https://myntr.in/ZBYrv5",
@@ -9542,61 +9562,5 @@
     "date_obj": "2025-12-12T14:09:06+00:00",
     "buy_link": "https://www.amazon.in/dp/B0D62M6S8N?tag=bestpricezo0f-21",
     "date_iso": "2025-12-12T14:09:06+00:00"
-  },
-  {
-    "id": "msg20836",
-    "title": "Up to 85% Off On Men’s Jean",
-    "description": "Ajio Upto 85% Off On Men’s Jeans. Jack & Jones : John Players : DNMX : Buda Jeans Co : Lee Cooper : Spykar : Allen Cooper : U.S. Polo Assn. : Pepe Jeans :",
-    "shortlink": "https://ajiio.co/5QNWQR",
-    "urls": [
-      {
-        "url": "",
-        "label": "Ajio Upto 85% Off On Men’s Jeans"
-      },
-      {
-        "url": "https://ajiio.co/5QNWQR",
-        "label": "Jack & Jones"
-      },
-      {
-        "url": "https://ajiio.co/kNXHKm",
-        "label": "John Players"
-      },
-      {
-        "url": "https://ajiio.co/gJRzE7",
-        "label": "DNMX"
-      },
-      {
-        "url": "https://ajiio.co/4Jx6S5",
-        "label": "Buda Jeans Co"
-      },
-      {
-        "url": "https://ajiio.co/k8W40r",
-        "label": "Lee Cooper"
-      },
-      {
-        "url": "https://ajiio.co/eRDZll",
-        "label": "Spykar"
-      },
-      {
-        "url": "https://ajiio.co/tFXAcx",
-        "label": "Allen Cooper"
-      },
-      {
-        "url": "https://ajiio.co/dbEuIA",
-        "label": "U.S. Polo Assn"
-      },
-      {
-        "url": "https://ajiio.co/YIldcy",
-        "label": "Pepe Jeans"
-      }
-    ],
-    "raw_text": "Ajio  Upto 85% Off On Men’s Jeans. \n\nJack & Jones : https://ajiio.co/5QNWQR\nJohn Players : https://ajiio.co/kNXHKm\nDNMX : https://ajiio.co/gJRzE7\nBuda Jeans Co : https://ajiio.co/4Jx6S5\nLee Cooper : https://ajiio.co/k8W40r\nSpykar : https://ajiio.co/eRDZll\nAllen Cooper : https://ajiio.co/tFXAcx\nU.S. Polo Assn. : https://ajiio.co/dbEuIA\nPepe Jeans : https://ajiio.co/YIldcy",
-    "final_url": "https://ajiio.co/5QNWQR",
-    "local_image": "assets/images/tgmsg_20836.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-12T14:09:11+00:00",
-    "buy_link": "https://ajiio.co/5QNWQR",
-    "date_iso": "2025-12-12T14:09:11+00:00"
   }
 ]
