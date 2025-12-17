@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg21421",
+    "title": "Up to 85% Off On Women Jewellery💥💥",
+    "description": "Ajio | Upto 85% Off On Women Jewellery💥💥 Link : Upto 60% Off on Kitchen Tools Starting @ just 139 👉Link : Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/HlruNB",
+    "urls": [
+      {
+        "url": "https://ajiio.co/HlruNB",
+        "label": "Upto 85% Off On Women Jewellery💥💥"
+      },
+      {
+        "url": "https://ajiio.co/d4Qh2g",
+        "label": "Upto 60% Off on Kitchen Tools Starting @ just 139"
+      },
+      {
+        "url": "",
+        "label": "Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "Ajio | Upto 85% Off On Women Jewellery💥💥\n\nLink : https://ajiio.co/HlruNB\n\nUpto 60% Off on Kitchen Tools Starting @ just 139\n \n👉Link : https://ajiio.co/d4Qh2g\n\nBonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/HlruNB",
+    "local_image": "assets/images/tgmsg_21421.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-17T15:36:38+00:00",
+    "buy_link": "https://ajiio.co/HlruNB",
+    "date_iso": "2025-12-17T15:36:38+00:00"
+  },
+  {
     "id": "msg21420",
     "title": "Zandu 100% Organic Honey 500gm @316",
     "description": "GRAB: Zandu 100% Organic Honey 500gm @316 ✅USE CODE: CKOHONEY https://bitli.in/C7e0bwS",
@@ -9242,25 +9270,5 @@
     "date_obj": "2025-12-13T14:07:07+00:00",
     "buy_link": "https://ajiio.co/sn8ik4",
     "date_iso": "2025-12-13T14:07:07+00:00"
-  },
-  {
-    "id": "msg20928",
-    "title": "Home Centre Products at Up to 40%",
-    "description": "MYNTRA | Home Centre Products at Upto 40% https://myntr.in/DHAja2",
-    "shortlink": "https://myntr.in/DHAja2",
-    "urls": [
-      {
-        "url": "https://myntr.in/DHAja2",
-        "label": "Home Centre Products at Upto 40%"
-      }
-    ],
-    "raw_text": "MYNTRA | Home Centre Products at Upto 40% \n\nhttps://myntr.in/DHAja2",
-    "final_url": "https://myntr.in/DHAja2",
-    "local_image": "assets/images/tgmsg_20928.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-13T13:46:42+00:00",
-    "buy_link": "https://myntr.in/DHAja2",
-    "date_iso": "2025-12-13T13:46:42+00:00"
   }
 ]
