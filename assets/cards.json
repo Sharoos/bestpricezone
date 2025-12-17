@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21438",
+    "title": "Pack Of 2 The Sleep Company Plush Pillow at 999",
+    "description": "Amazon | Pack Of 2 The Sleep Company Plush Pillow at 999. https://www.amazon.in/dp/B0DWH5BXZ9?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DWH5BXZ9?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DWH5BXZ9?th=1&tag=bestpricezo0f-21",
+        "label": "Pack Of 2 The Sleep Company Plush Pillow at 999"
+      }
+    ],
+    "raw_text": "Amazon | Pack Of 2 The Sleep Company Plush Pillow at 999.\n\nhttps://www.amazon.in/dp/B0DWH5BXZ9?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DWH5BXZ9?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_21438.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-17T18:04:45+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DWH5BXZ9?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-17T18:04:45+00:00"
+  },
+  {
     "id": "msg21435",
     "title": "Fashion SALE 🙈🙈",
     "description": "Flipkart  Dailywear Kurtis @ 199 Everyday Sarees @ 239 Anarkali Kurtis @ 299 Ethnic Sets @ 299",
@@ -9310,25 +9330,5 @@
     "date_obj": "2025-12-13T16:04:07+00:00",
     "buy_link": "https://ajiio.co/JL2JVY",
     "date_iso": "2025-12-13T16:04:07+00:00"
-  },
-  {
-    "id": "msg20945",
-    "title": "SHOPSY Jackpot Deals🔥🔥🔥",
-    "description": "SHOPSY Jackpot Deals🔥🔥🔥 🔗 https://extp.in/wLthT6",
-    "shortlink": "https://extp.in/wLthT6",
-    "urls": [
-      {
-        "url": "https://extp.in/wLthT6",
-        "label": "SHOPSY Jackpot Deals🔥🔥🔥"
-      }
-    ],
-    "raw_text": "SHOPSY Jackpot Deals🔥🔥🔥\n\n🔗 https://extp.in/wLthT6",
-    "final_url": "https://extp.in/wLthT6",
-    "local_image": "assets/images/tgmsg_20945.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-13T16:09:25+00:00",
-    "buy_link": "https://extp.in/wLthT6",
-    "date_iso": "2025-12-13T16:09:25+00:00"
   }
 ]
