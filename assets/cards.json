@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21519",
+    "title": "67% Off",
+    "description": "Flipkart | 67% Off - Crompton Ceiling Fan At Rs.1940 🔗 https://fkrt.co/zY6IzN",
+    "shortlink": "https://fkrt.co/zY6IzN",
+    "urls": [
+      {
+        "url": "https://fkrt.co/zY6IzN",
+        "label": "67% Off - Crompton Ceiling Fan At Rs.1940"
+      }
+    ],
+    "raw_text": "Flipkart | 67% Off - Crompton Ceiling Fan At Rs.1940\n\n🔗 https://fkrt.co/zY6IzN",
+    "final_url": "https://fkrt.co/zY6IzN",
+    "local_image": "assets/images/tgmsg_21519.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-18T11:50:11+00:00",
+    "buy_link": "https://fkrt.co/zY6IzN",
+    "date_iso": "2025-12-18T11:50:11+00:00"
+  },
+  {
     "id": "msg21514",
     "title": "ONDC Portronics Flash Deals @ Rs.99 + Free Shipping 🔥🔥",
     "description": "✅ Mobile Holder Stand with Metal Body At 99 Link: ✅ Griplet Best for Flat Surface - 3 Soft Silicone Rubber At 99 ✅ Cable USB to Micro 3A At 99",
@@ -9298,65 +9318,5 @@
     "date_obj": "2025-12-14T12:25:57+00:00",
     "buy_link": "https://ajiio.co/LqCcyt",
     "date_iso": "2025-12-14T12:25:57+00:00"
-  },
-  {
-    "id": "msg21049",
-    "title": "Sirf ₹100 mein ghar baithe digital bank account kholke paaye cashback aur amazing features!",
-    "description": "Airtel Payment Bank - Sirf ₹100 Mein Account Kholein! 💸💵 Apply Link :  Benefits : ✅ Cashback on every transaction ✅ Zero balance account ✅ 24x7 Mobile Banking 3 Easy Steps! 1) Airtel Thanks App download karein 2) KYC…",
-    "shortlink": "https://extp.in/eDoZFW",
-    "urls": [
-      {
-        "url": "",
-        "label": "Sirf ₹100 Mein Account Kholein! 💸💵"
-      },
-      {
-        "url": "https://extp.in/eDoZFW",
-        "label": "Apply"
-      },
-      {
-        "url": "",
-        "label": "Sirf ₹100 mein ghar baithe digital bank account kholke paaye cashback aur amazing features!"
-      },
-      {
-        "url": "",
-        "label": "✅ Cashback on every transaction"
-      },
-      {
-        "url": "",
-        "label": "✅ Zero balance account"
-      },
-      {
-        "url": "",
-        "label": "✅ 24x7 Mobile Banking"
-      },
-      {
-        "url": "",
-        "label": "3 Easy Steps!"
-      },
-      {
-        "url": "",
-        "label": "1) Airtel Thanks App download karein"
-      },
-      {
-        "url": "",
-        "label": "2) KYC verify karein"
-      },
-      {
-        "url": "",
-        "label": "3) Sirf ₹100 mein account activate karein"
-      },
-      {
-        "url": "",
-        "label": "4) Aaj hi kholien aur faayda uthayein!"
-      }
-    ],
-    "raw_text": "Airtel Payment Bank - Sirf ₹100 Mein Account Kholein! 💸💵\n\nApply Link : https://extp.in/eDoZFW\n\nSirf ₹100 mein ghar baithe digital bank account kholke paaye cashback aur amazing features!\n\nBenefits :\n✅ Cashback on every transaction\n✅ Zero balance account\n✅ 24x7 Mobile Banking\n\n3 Easy Steps!\n1) Airtel Thanks App download karein\n2) KYC verify karein\n3) Sirf ₹100 mein account activate karein\n4) Aaj hi kholien aur faayda uthayein!",
-    "final_url": "https://extp.in/eDoZFW",
-    "local_image": "assets/images/tgmsg_21049.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-14T12:33:59+00:00",
-    "buy_link": "https://extp.in/eDoZFW",
-    "date_iso": "2025-12-14T12:33:59+00:00"
   }
 ]
