@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg21520",
+    "title": "Chumbak Gift Sets at Min 55% Off",
+    "description": "Myntra  Chumbak Gift Sets at Min 55% Off 🔗Link :  https://myntr.in/XgwTdf",
+    "shortlink": "https://myntr.in/XgwTdf",
+    "urls": [
+      {
+        "url": "https://myntr.in/XgwTdf",
+        "label": "Myntra Chumbak Gift Sets at Min 55% Off"
+      }
+    ],
+    "raw_text": "Myntra  Chumbak Gift Sets at Min 55% Off\n\n🔗Link :  https://myntr.in/XgwTdf",
+    "final_url": "https://myntr.in/XgwTdf",
+    "local_image": "assets/images/tgmsg_21520.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-18T12:09:22+00:00",
+    "buy_link": "https://myntr.in/XgwTdf",
+    "date_iso": "2025-12-18T12:09:22+00:00"
+  },
+  {
+    "id": "msg21522",
+    "title": "Nova Hot & Cold Hair Dryer at ₹399",
+    "description": "Amazon | Nova Hot & Cold Hair Dryer at ₹399 👉https://www.amazon.in/dp/B0123G8CZ8?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0123G8CZ8?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0123G8CZ8?tag=bestpricezo0f-21",
+        "label": "Nova Hot & Cold Hair Dryer at ₹399"
+      }
+    ],
+    "raw_text": "Amazon | Nova Hot & Cold Hair Dryer at ₹399\n\n👉https://www.amazon.in/dp/B0123G8CZ8?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0123G8CZ8?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_21522.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-18T12:20:19+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0123G8CZ8?tag=bestpricezo0f-21",
+    "date_iso": "2025-12-18T12:20:19+00:00"
+  },
+  {
     "id": "msg21519",
     "title": "67% Off",
     "description": "Flipkart | 67% Off - Crompton Ceiling Fan At Rs.1940 🔗 https://fkrt.co/zY6IzN",
@@ -9270,53 +9310,5 @@
     "date_obj": "2025-12-14T11:56:08+00:00",
     "buy_link": "https://fkrt.co/21sfMa",
     "date_iso": "2025-12-14T11:56:08+00:00"
-  },
-  {
-    "id": "msg21046",
-    "title": "Being human Min 65%",
-    "description": "Ajio | Monte Carlo- Min 30% https://ajiio.co/YwYfUT Being human Min 65% https://ajiio.co/Q3dOgm",
-    "shortlink": "https://ajiio.co/YwYfUT",
-    "urls": [
-      {
-        "url": "https://ajiio.co/YwYfUT",
-        "label": "Monte Carlo- Min 30%"
-      },
-      {
-        "url": "https://ajiio.co/Q3dOgm",
-        "label": "Being human Min 65%"
-      }
-    ],
-    "raw_text": "Ajio | Monte Carlo- Min 30%\nhttps://ajiio.co/YwYfUT\n\nBeing human Min 65%\nhttps://ajiio.co/Q3dOgm",
-    "final_url": "https://ajiio.co/YwYfUT",
-    "local_image": "assets/images/tgmsg_21046.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-14T12:11:15+00:00",
-    "buy_link": "https://ajiio.co/YwYfUT",
-    "date_iso": "2025-12-14T12:11:15+00:00"
-  },
-  {
-    "id": "msg21047",
-    "title": "Pantaloons under 599",
-    "description": "Ajio | Pantaloons under 599 https://ajiio.co/LqCcyt Poshax Min 87% https://ajiio.co/jho9DY",
-    "shortlink": "https://ajiio.co/LqCcyt",
-    "urls": [
-      {
-        "url": "https://ajiio.co/LqCcyt",
-        "label": "Pantaloons under 599"
-      },
-      {
-        "url": "https://ajiio.co/jho9DY",
-        "label": "Poshax Min 87%"
-      }
-    ],
-    "raw_text": "Ajio | Pantaloons under 599\nhttps://ajiio.co/LqCcyt\n\nPoshax Min 87%\nhttps://ajiio.co/jho9DY",
-    "final_url": "https://ajiio.co/LqCcyt",
-    "local_image": "assets/images/tgmsg_21047.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-14T12:25:57+00:00",
-    "buy_link": "https://ajiio.co/LqCcyt",
-    "date_iso": "2025-12-14T12:25:57+00:00"
   }
 ]
