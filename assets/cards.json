@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21475",
+    "title": "73% Off",
+    "description": "Flipkart | 73% Off - Tefal Air Fryer(3.2 L) at Rs 1999 https://fkrt.co/zSTe2t",
+    "shortlink": "https://fkrt.co/zSTe2t",
+    "urls": [
+      {
+        "url": "https://fkrt.co/zSTe2t",
+        "label": "73% Off - Tefal Air Fryer(3.2 L) at Rs 1999"
+      }
+    ],
+    "raw_text": "Flipkart | 73% Off - Tefal Air Fryer(3.2 L) at Rs 1999 \n\n    https://fkrt.co/zSTe2t",
+    "final_url": "https://fkrt.co/zSTe2t",
+    "local_image": "assets/images/tgmsg_21475.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-18T04:46:23+00:00",
+    "buy_link": "https://fkrt.co/zSTe2t",
+    "date_iso": "2025-12-18T04:46:23+00:00"
+  },
+  {
     "id": "msg21474",
     "title": "🌟🔥Nivea Min. 50% Off",
     "description": "🌟Myntra | 🔥Nivea Min. 50% Off: 🖇️ 🔥Biotique Min. 45% Off: 🖇️ 🔥Park Avenue Min. 50%: 🖇️ 🔥Denver Min. 55%: 🖇️ 🔥Patanjli Min 50%: 🖇️ 🔥Appliances: min.40% : 🖇️",
@@ -9226,53 +9246,5 @@
     "date_obj": "2025-12-14T03:17:36+00:00",
     "buy_link": "https://www.amazon.in/stores/page/F1376538-E47E-42C8-9197-B0752908798F?ingress=2&lp_context_asin=B0D9S47D2S&visitId=16529a36-5d5f-494c-bffa-c8d0ea2695ea&store_ref=bl_ast_dp_brandLogo_sto&tag=bestpricezo0f-21",
     "date_iso": "2025-12-14T03:17:36+00:00"
-  },
-  {
-    "id": "msg21000",
-    "title": "✅ Up to 60% off on Rajdhani Grocery Items + Free Shipping",
-    "description": "ONDC HamaraMall 🔥🔥 ✅ Upto 60% off on Rajdhani Grocery Items + Free Shipping 🤜 Use Code: SNACK30 [Valid 5 times / Account] Roasted Chana - 200gm At 30 : Chana Dal - 500gm At 42 : Besan - 500gm At 42 : Oats - 400gm At 59…",
-    "shortlink": "https://extp.in/rh54FI",
-    "urls": [
-      {
-        "url": "",
-        "label": "ONDC HamaraMall 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "✅ Upto 60% off on Rajdhani Grocery Items + Free Shipping"
-      },
-      {
-        "url": "",
-        "label": "🤜 Use Code: SNACK30 [Valid 5 times / Account]"
-      },
-      {
-        "url": "https://extp.in/rh54FI",
-        "label": "200gm At 30"
-      },
-      {
-        "url": "https://extp.in/vzQKlT",
-        "label": "500gm At 42"
-      },
-      {
-        "url": "https://extp.in/Sj8gD3",
-        "label": "500gm At 42"
-      },
-      {
-        "url": "https://extp.in/t7B13k",
-        "label": "400gm At 59"
-      },
-      {
-        "url": "https://extp.in/Onyglr",
-        "label": "400gm At 69"
-      }
-    ],
-    "raw_text": "ONDC HamaraMall  🔥🔥\n\n✅ Upto 60% off on Rajdhani Grocery Items + Free Shipping\n\n🤜 Use Code: SNACK30  [Valid 5 times / Account]\n\nRoasted Chana - 200gm At 30 : https://extp.in/rh54FI\nChana Dal - 500gm At 42 : https://extp.in/vzQKlT\nBesan - 500gm At 42 : https://extp.in/Sj8gD3\nOats - 400gm At 59 : https://extp.in/t7B13k\nMasala Oats - 400gm At 69 : https://extp.in/Onyglr",
-    "final_url": "https://extp.in/rh54FI",
-    "local_image": "assets/images/tgmsg_21000.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-14T00:10:07+00:00",
-    "buy_link": "https://extp.in/rh54FI",
-    "date_iso": "2025-12-14T00:10:07+00:00"
   }
 ]
