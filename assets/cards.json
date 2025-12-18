@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg21503",
+    "title": "Flash Deals on Vacuum Cleane",
+    "description": "Flipkart | rs Rs.1599 - Rs.3099 - Rs.4599 - Rs.2599 - Rs.5799 - Rs.22999 - Rs.29999 -",
+    "shortlink": "https://fkrt.co/1M6D3M",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flash Deals on Vacuum Cleaners"
+      },
+      {
+        "url": "https://fkrt.co/1M6D3M",
+        "label": "Rs.1599"
+      },
+      {
+        "url": "https://fkrt.co/Z6IbRw",
+        "label": "Rs.3099"
+      },
+      {
+        "url": "https://fkrt.co/TRW5lg",
+        "label": "Rs.4599"
+      },
+      {
+        "url": "https://fkrt.co/k3fSX7",
+        "label": "Rs.2599"
+      },
+      {
+        "url": "https://fkrt.co/qPM2q6",
+        "label": "Rs.5799"
+      },
+      {
+        "url": "https://fkrt.co/VD354H",
+        "label": "Rs.22999"
+      },
+      {
+        "url": "https://fkrt.co/yawxoT",
+        "label": "Rs.29999"
+      }
+    ],
+    "raw_text": "Flipkart | Flash Deals on Vacuum Cleaners\n\nRs.1599 -  https://fkrt.co/1M6D3M\nRs.3099 -  https://fkrt.co/Z6IbRw\nRs.4599 -  https://fkrt.co/TRW5lg\nRs.2599 -  https://fkrt.co/k3fSX7\nRs.5799 -  https://fkrt.co/qPM2q6\nRs.22999 -  https://fkrt.co/VD354H\nRs.29999 -  https://fkrt.co/yawxoT",
+    "final_url": "https://fkrt.co/1M6D3M",
+    "local_image": "assets/images/tgmsg_21503.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-18T09:45:13+00:00",
+    "buy_link": "https://fkrt.co/1M6D3M",
+    "date_iso": "2025-12-18T09:45:13+00:00"
+  },
+  {
     "id": "msg21499",
     "title": "Up to 85% Off On Top Brands Luggage",
     "description": "Myntra : Upto 85% Off On Top Brands Luggage. Small : Medium : Large : Set Of 2 & 3 : Masterlink :",
@@ -9302,33 +9350,5 @@
     "date_obj": "2025-12-14T09:29:10+00:00",
     "buy_link": "https://fkrt.co/GKUNM4",
     "date_iso": "2025-12-14T09:29:10+00:00"
-  },
-  {
-    "id": "msg21034",
-    "title": "Up to 80% Off On Branded Winterwea",
-    "description": "Ajio : Upto 80% Off On Branded Winterwears. Men’s : https://ajiio.in/4qeouFS Women’s : https://ajiio.in/gKjJxyh",
-    "shortlink": "https://ajiio.in/4qeouFS",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Branded Winterwears"
-      },
-      {
-        "url": "https://ajiio.in/4qeouFS",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.in/gKjJxyh",
-        "label": "Women’s"
-      }
-    ],
-    "raw_text": "Ajio : Upto 80% Off On Branded Winterwears.\n\nMen’s : https://ajiio.in/4qeouFS\nWomen’s : https://ajiio.in/gKjJxyh",
-    "final_url": "https://ajiio.in/4qeouFS",
-    "local_image": "assets/images/tgmsg_21034.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-14T09:37:09+00:00",
-    "buy_link": "https://ajiio.in/4qeouFS",
-    "date_iso": "2025-12-14T09:37:09+00:00"
   }
 ]
