@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21493",
+    "title": "GAP Sweatshirts Up to 50% Off starting @999",
+    "description": "Myntra | GAP Sweatshirts upto 50% Off starting @999 👉https://myntr.in/GMxHje",
+    "shortlink": "https://myntr.in/GMxHje",
+    "urls": [
+      {
+        "url": "https://myntr.in/GMxHje",
+        "label": "GAP Sweatshirts upto 50% Off starting @999"
+      }
+    ],
+    "raw_text": "Myntra | GAP Sweatshirts upto 50% Off starting @999\n\n👉https://myntr.in/GMxHje",
+    "final_url": "https://myntr.in/GMxHje",
+    "local_image": "assets/images/tgmsg_21493.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-18T07:50:13+00:00",
+    "buy_link": "https://myntr.in/GMxHje",
+    "date_iso": "2025-12-18T07:50:13+00:00"
+  },
+  {
     "id": "msg21489",
     "title": "Marks and Spencer Flat 75% off",
     "description": "Ajio | Marks and Spencer Flat 75% off https://ajiio.co/4FQkAD",
@@ -9278,81 +9298,5 @@
     "date_obj": "2025-12-14T07:45:09+00:00",
     "buy_link": "https://myntr.in/uT9IZ8",
     "date_iso": "2025-12-14T07:45:09+00:00"
-  },
-  {
-    "id": "msg21021",
-    "title": "Up to 70% off on Avaasa Women's Clothing 💥💥",
-    "description": "Ajio: Upto 70% off on Avaasa Women's Clothing 💥💥 👉 Master Link: Suggestions: -> kurtha's: -> Dresses: -> Salwars & Leggings : Ajio : Upto 70% off on Rio Clothing 💥💥 👉Master Link: Suggestions: -> Shirts : -> Dresses : ->…",
-    "shortlink": "https://ajiio.co/zVlWjz",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 70% off on Avaasa Women's Clothing 💥💥"
-      },
-      {
-        "url": "https://ajiio.co/zVlWjz",
-        "label": "Master"
-      },
-      {
-        "url": "https://ajiio.co/C5YUpx",
-        "label": "> kurtha's"
-      },
-      {
-        "url": "https://ajiio.co/ixqnBI",
-        "label": "> Dresses"
-      },
-      {
-        "url": "https://ajiio.co/nqCZEV",
-        "label": "> Salwars & Leggings"
-      },
-      {
-        "url": "",
-        "label": "Upto 70% off on Rio Clothing 💥💥"
-      },
-      {
-        "url": "https://ajiio.co/C9xtom",
-        "label": "Master"
-      },
-      {
-        "url": "https://ajiio.co/F8da2f",
-        "label": "> Shirts"
-      },
-      {
-        "url": "https://ajiio.co/7C1IJX",
-        "label": "> Dresses"
-      },
-      {
-        "url": "https://ajiio.co/y1Ttie",
-        "label": "> Sweaters"
-      },
-      {
-        "url": "https://ajiio.co/DrGkV8",
-        "label": "Upto 70% off on Fig Clothing 💥💥"
-      },
-      {
-        "url": "https://ajiio.co/We5LQ9",
-        "label": "> Tops"
-      },
-      {
-        "url": "https://ajiio.co/vS1HvQ",
-        "label": "> Dresses"
-      },
-      {
-        "url": "https://ajiio.co/nSAjAx",
-        "label": "> Sweatshirts"
-      },
-      {
-        "url": "",
-        "label": "Earn 10% AJIO Super Cash on Every Order"
-      }
-    ],
-    "raw_text": "Ajio: Upto 70% off on Avaasa Women's Clothing  💥💥\n\n👉 Master Link: https://ajiio.co/zVlWjz\n\nSuggestions:\n-> kurtha's: https://ajiio.co/C5YUpx\n-> Dresses: https://ajiio.co/ixqnBI\n-> Salwars & Leggings : https://ajiio.co/nqCZEV\n\nAjio : Upto 70% off on Rio Clothing 💥💥\n👉Master Link: https://ajiio.co/C9xtom\nSuggestions:\n-> Shirts : https://ajiio.co/F8da2f\n-> Dresses : https://ajiio.co/7C1IJX\n-> Sweaters: https://ajiio.co/y1Ttie\n\nAjio : Upto 70% off on Fig Clothing 💥💥\n👉 Link: https://ajiio.co/DrGkV8\nSuggestions:\n-> Tops : https://ajiio.co/We5LQ9\n-> Dresses: https://ajiio.co/vS1HvQ\n-> Sweatshirts: https://ajiio.co/nSAjAx\n\n👉Earn 10% AJIO Super Cash on Every Order",
-    "final_url": "https://ajiio.co/zVlWjz",
-    "local_image": "assets/images/tgmsg_21021.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-14T07:20:57+00:00",
-    "buy_link": "https://ajiio.co/zVlWjz",
-    "date_iso": "2025-12-14T07:20:57+00:00"
   }
 ]
