@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg21497",
+    "title": "Deal Price ₹199",
+    "description": "Amazon 2 Ply Kitchen Tissue Rolls | 360 Pulls | 60 Kitchen Towels X... Deal Price : ₹199 🔗",
+    "shortlink": "https://www.amazon.in/dp/B0FCRWLYDL?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "360 Pulls | 60 Kitchen Towels X"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0FCRWLYDL?psc=1&tag=bestpricezo0f-21",
+        "label": "₹199"
+      }
+    ],
+    "raw_text": "Amazon  2 Ply Kitchen Tissue Rolls | 360 Pulls | 60 Kitchen Towels X...\n\nDeal Price : ₹199 \n\n🔗 https://www.amazon.in/dp/B0FCRWLYDL?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FCRWLYDL?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_21497.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-18T08:45:14+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FCRWLYDL?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-18T08:45:14+00:00"
+  },
+  {
     "id": "msg21494",
     "title": "Meesho Women & Girls Slipper @ ₹64",
     "description": "Meesho | Women & Girls Slipper @ ₹64 🔗https://msho.in/uvCnpG 🔗https://msho.in/CUjerD 🔗https://msho.in/upzLc2 🔗https://msho.in/y8fC1p",
@@ -9282,25 +9306,5 @@
     "date_obj": "2025-12-14T09:16:10+00:00",
     "buy_link": "https://fkrt.co/mMwDs0",
     "date_iso": "2025-12-14T09:16:10+00:00"
-  },
-  {
-    "id": "msg21028",
-    "title": "Aristocrat Duffel Bags @₹557",
-    "description": "Flipkart | Aristocrat Duffel Bags @₹557 https://fkrt.co/1HvPKJ",
-    "shortlink": "https://fkrt.co/1HvPKJ",
-    "urls": [
-      {
-        "url": "https://fkrt.co/1HvPKJ",
-        "label": "Aristocrat Duffel Bags @₹557"
-      }
-    ],
-    "raw_text": "Flipkart | Aristocrat Duffel Bags @₹557\n\nhttps://fkrt.co/1HvPKJ",
-    "final_url": "https://fkrt.co/1HvPKJ",
-    "local_image": "assets/images/tgmsg_21028.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-14T08:29:11+00:00",
-    "buy_link": "https://fkrt.co/1HvPKJ",
-    "date_iso": "2025-12-14T08:29:11+00:00"
   }
 ]
