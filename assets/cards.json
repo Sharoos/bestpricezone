@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21542",
+    "title": "Campus Sutra Jackets from @419",
+    "description": "Myntra | Campus Sutra Jackets from @419 https://myntr.in/XPA7ke",
+    "shortlink": "https://myntr.in/XPA7ke",
+    "urls": [
+      {
+        "url": "https://myntr.in/XPA7ke",
+        "label": "Campus Sutra Jackets from @419"
+      }
+    ],
+    "raw_text": "Myntra | Campus Sutra Jackets from @419 \n\nhttps://myntr.in/XPA7ke",
+    "final_url": "https://myntr.in/XPA7ke",
+    "local_image": "assets/images/tgmsg_21542.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-18T14:47:45+00:00",
+    "buy_link": "https://myntr.in/XPA7ke",
+    "date_iso": "2025-12-18T14:47:45+00:00"
+  },
+  {
     "id": "msg21536",
     "title": "🔥Men's Casual Shirt Starts Rs.179",
     "description": "🔥Myntra Men's Casual Shirt Starts Rs.179 MasterLink : Here & Now : Mast & Harbour : Roadster : The Indian Garage : Snitch : Campus Sutra :",
@@ -9262,29 +9282,5 @@
     "date_obj": "2025-12-14T16:41:41+00:00",
     "buy_link": "https://myntr.in/Nup30B",
     "date_iso": "2025-12-14T16:41:41+00:00"
-  },
-  {
-    "id": "msg21071",
-    "title": "Up to 37% off on Ddecor bedsheets and curtain",
-    "description": "Myntra | Upto 37% off on Ddecor bedsheets and curtains. Min 50% off on Cello and Larah by Borosil dinner set",
-    "shortlink": "https://myntr.in/gnm85H",
-    "urls": [
-      {
-        "url": "https://myntr.in/gnm85H",
-        "label": "Upto 37% off on Ddecor bedsheets and curtains"
-      },
-      {
-        "url": "https://myntr.in/Dd7aUl",
-        "label": "Min 50% off on Cello and Larah by Borosil dinner set"
-      }
-    ],
-    "raw_text": "Myntra | Upto 37% off on Ddecor bedsheets and curtains.\n\nhttps://myntr.in/gnm85H\n\nMin 50% off on Cello and Larah by Borosil dinner set\n\nhttps://myntr.in/Dd7aUl",
-    "final_url": "https://myntr.in/gnm85H",
-    "local_image": "assets/images/tgmsg_21071.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-14T16:07:05+00:00",
-    "buy_link": "https://myntr.in/gnm85H",
-    "date_iso": "2025-12-14T16:07:05+00:00"
   }
 ]
