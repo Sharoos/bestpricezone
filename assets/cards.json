@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg21707",
+    "title": "👩‍🦰 ASOS Women — Flat 70% OFF",
+    "description": "AJIO |👚 ASOS Fashion Deals  👉 👕 ASOS Shirts & T-shirts — Flat 70% OFF 👉 👗 ASOS Topwear — Flat 65% OFF 👉",
+    "shortlink": "https://ajiio.co/UA0EI7",
+    "urls": [
+      {
+        "url": "",
+        "label": "👚 ASOS Fashion Deals"
+      },
+      {
+        "url": "https://ajiio.co/UA0EI7",
+        "label": "👩‍🦰 ASOS Women — Flat 70% OFF"
+      },
+      {
+        "url": "https://ajiio.co/PGL5D6",
+        "label": "👕 ASOS Shirts & T-shirts — Flat 70% OFF"
+      },
+      {
+        "url": "https://ajiio.co/xb9bCJ",
+        "label": "👗 ASOS Topwear — Flat 65% OFF"
+      }
+    ],
+    "raw_text": "AJIO |👚 ASOS Fashion Deals\n\n👩‍🦰 ASOS Women — Flat 70% OFF\n👉 https://ajiio.co/UA0EI7\n\n👕 ASOS Shirts & T-shirts — Flat 70% OFF\n👉 https://ajiio.co/PGL5D6\n\n👗 ASOS Topwear — Flat 65% OFF\n👉 https://ajiio.co/xb9bCJ",
+    "final_url": "https://ajiio.co/UA0EI7",
+    "local_image": "assets/images/tgmsg_21707.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-19T17:04:46+00:00",
+    "buy_link": "https://ajiio.co/UA0EI7",
+    "date_iso": "2025-12-19T17:04:46+00:00"
+  },
+  {
     "id": "msg21703",
     "title": "⌚ Premium Watches — Min 25% OFF + Extra 10%",
     "description": "AJIO |  👉 👗 Ethnicwear — Min 70% OFF 👉 👚 Westernwear — Min 75% OFF 👉 🛏 Bed in a Bag @ ₹899 👉 🩱 Innerwear & Loungewear — Min 50% OFF 👉",
@@ -9686,29 +9718,5 @@
     "date_obj": "2025-12-16T13:04:13+00:00",
     "buy_link": "https://ajiio.co/7cqESC",
     "date_iso": "2025-12-16T13:04:13+00:00"
-  },
-  {
-    "id": "msg21289",
-    "title": "Up to 70% off on Cello Dinner Sets + Extra 20% Off",
-    "description": "Myntra : Upto 70% off on Cello Dinner Sets + Extra 20% Off. Use Code : HOMEFLAT20 (Min Order ₹999)",
-    "shortlink": "https://myntr.in/zSThLX",
-    "urls": [
-      {
-        "url": "https://myntr.in/zSThLX",
-        "label": "Upto 70% off on Cello Dinner Sets + Extra 20% Off"
-      },
-      {
-        "url": "",
-        "label": "HOMEFLAT20 (Min Order ₹999)"
-      }
-    ],
-    "raw_text": "Myntra : Upto 70% off on Cello Dinner Sets + Extra 20% Off.\n\nhttps://myntr.in/zSThLX\n\nUse Code : HOMEFLAT20 (Min Order ₹999)",
-    "final_url": "https://myntr.in/zSThLX",
-    "local_image": "assets/images/tgmsg_21289.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-16T13:05:47+00:00",
-    "buy_link": "https://myntr.in/zSThLX",
-    "date_iso": "2025-12-16T13:05:47+00:00"
   }
 ]
