@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg21646",
+    "title": "Big Clothing Starting from ₹40",
+    "description": "Ajio Big  Clothing Starting from ₹40 Men : https://ajiio.co/9Skzip Women : https://ajiio.co/DBgtlc",
+    "shortlink": "https://ajiio.co/9Skzip",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Big Clothing Starting from ₹40"
+      },
+      {
+        "url": "https://ajiio.co/9Skzip",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/DBgtlc",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Ajio Big  Clothing Starting from ₹40\n\nMen : https://ajiio.co/9Skzip\nWomen : https://ajiio.co/DBgtlc",
+    "final_url": "https://ajiio.co/9Skzip",
+    "local_image": "assets/images/tgmsg_21646.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-19T10:52:35+00:00",
+    "buy_link": "https://ajiio.co/9Skzip",
+    "date_iso": "2025-12-19T10:52:35+00:00"
+  },
+  {
     "id": "msg21645",
     "title": "MediBuddy FLASH SALE 🔥🔥",
     "description": "Active Life Health Package [CBC, Urine, Kidney & Liver] - (64 Tests) At ₹599 🔖 Use Code: MED60 👉 Includes: * CBC with P. Smear – 25 tests * Complete Urine Examination – 20 tests * Kidney Function Test – 6 tests * Liver…",
@@ -9718,61 +9746,5 @@
     "date_obj": "2025-12-15T15:46:26+00:00",
     "buy_link": "https://myntr.in/mlTwXr",
     "date_iso": "2025-12-15T15:46:26+00:00"
-  },
-  {
-    "id": "msg21194",
-    "title": "🧾 Extra 3% Benefit via GST Invoice (share GSTIN)",
-    "description": "✨ SHINING GOLD MONDAY ✨ 💰 Buy More • Save More 🪙 5 gm | 24K Muthoot Gold 🔥 AJIO Price: ₹67,526/- ❌ MRP: ₹75,373/- 🔗 Buy Now: 🎁 EXTRA SAVINGS: 💸 2% OFF (Up to ₹2,000) with Coupon: DHANVARSHA2 💸 Additional ₹1,000 OFF on…",
-    "shortlink": "https://ajiio.co/BFNeqS",
-    "urls": [
-      {
-        "url": "",
-        "label": "✨ SHINING GOLD MONDAY ✨"
-      },
-      {
-        "url": "",
-        "label": "🪙 5 gm | 24K Muthoot Gold"
-      },
-      {
-        "url": "",
-        "label": "🔥 AJIO Price: ₹67,526/"
-      },
-      {
-        "url": "https://ajiio.co/BFNeqS",
-        "label": "❌ MRP: ₹75,373/"
-      },
-      {
-        "url": "",
-        "label": "🎁 EXTRA SAVINGS"
-      },
-      {
-        "url": "",
-        "label": "💸 Additional ₹1,000 OFF on Prepaid Orders"
-      },
-      {
-        "url": "",
-        "label": "💳 ICICI Credit/Debit Card Offer Available"
-      },
-      {
-        "url": "",
-        "label": "📲 UPI Offer: Up to ₹1,250 OFF"
-      },
-      {
-        "url": "",
-        "label": "🧾 Extra 3% Benefit via GST Invoice (share GSTIN)"
-      },
-      {
-        "url": "",
-        "label": "✨ 24K Purity | Trusted Muthoot Gold | Secure Doorstep Delivery"
-      }
-    ],
-    "raw_text": "✨ SHINING GOLD MONDAY ✨\n💰 Buy More • Save More\n\n🪙 5 gm | 24K Muthoot Gold\n🔥 AJIO Price: ₹67,526/-\n❌ MRP: ₹75,373/-\n\n🔗 Buy Now: https://ajiio.co/BFNeqS\n\n🎁 EXTRA SAVINGS:\n💸 2% OFF (Up to ₹2,000) with Coupon: DHANVARSHA2\n💸 Additional ₹1,000 OFF on Prepaid Orders\n💳 ICICI Credit/Debit Card Offer Available\n📲 UPI Offer: Up to ₹1,250 OFF\n🧾 Extra 3% Benefit via GST Invoice (share GSTIN)\n\n✨ 24K Purity | Trusted Muthoot Gold | Secure Doorstep Delivery",
-    "final_url": "https://ajiio.co/BFNeqS",
-    "local_image": "assets/images/tgmsg_21194.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-15T15:15:59+00:00",
-    "buy_link": "https://ajiio.co/BFNeqS",
-    "date_iso": "2025-12-15T15:15:59+00:00"
   }
 ]
