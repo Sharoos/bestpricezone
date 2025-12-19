@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg21606",
+    "title": "Ready to wear Sarees min 70% Off",
+    "description": "Flipkart Fashion Fest 💥💥 Ethnic Sets Flat Rs.299 Festive Ethnic Sets Flat Rs.399 Kanjivaram, Banarasi sarees Flat Rs.499 Lehenga Cholis Flat Rs.599 Anarkali Kurtis Flat Rs.299",
+    "shortlink": "https://fkrt.co/77rUC5",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart Fashion Fest 💥💥"
+      },
+      {
+        "url": "https://fkrt.co/77rUC5",
+        "label": "Ethnic Sets Flat Rs.299"
+      },
+      {
+        "url": "https://fkrt.co/XYvOD5",
+        "label": "Festive Ethnic Sets Flat Rs.399"
+      },
+      {
+        "url": "https://fkrt.co/bSRJKT",
+        "label": "Kanjivaram, Banarasi sarees Flat Rs.499"
+      },
+      {
+        "url": "https://fkrt.co/FXqlpj",
+        "label": "Lehenga Cholis Flat Rs.599"
+      },
+      {
+        "url": "https://fkrt.co/PbBCZt",
+        "label": "Anarkali Kurtis Flat Rs.299"
+      },
+      {
+        "url": "https://fkrt.co/Ifasjv",
+        "label": "Ready to wear Sarees min 70% Off"
+      }
+    ],
+    "raw_text": "Flipkart Fashion Fest 💥💥\n\nEthnic Sets Flat Rs.299 \nhttps://fkrt.co/77rUC5\n\nFestive Ethnic Sets Flat Rs.399 \nhttps://fkrt.co/XYvOD5\n\nKanjivaram, Banarasi sarees Flat Rs.499 \nhttps://fkrt.co/bSRJKT\n\nLehenga Cholis Flat Rs.599 \nhttps://fkrt.co/FXqlpj\n\nAnarkali Kurtis Flat Rs.299 \nhttps://fkrt.co/PbBCZt\n\nReady to wear Sarees min 70% Off https://fkrt.co/Ifasjv",
+    "final_url": "https://fkrt.co/77rUC5",
+    "local_image": "assets/images/tgmsg_21606.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-19T04:50:59+00:00",
+    "buy_link": "https://fkrt.co/77rUC5",
+    "date_iso": "2025-12-19T04:50:59+00:00"
+  },
+  {
     "id": "msg21605",
     "title": "boAt 10000 mAh 22.5W Power Bank @999",
     "description": "Flipkart | boAt 10000 mAh 22.5W Power Bank @999 👉https://fkrt.co/WD8ZxR",
@@ -9714,25 +9758,5 @@
     "date_obj": "2025-12-15T09:18:22+00:00",
     "buy_link": "https://myntr.in/sdurxT",
     "date_iso": "2025-12-15T09:18:22+00:00"
-  },
-  {
-    "id": "msg21145",
-    "title": "Up to 85% off on Kids Tricycles🔥🔥",
-    "description": "Flipkart  Upto 85% off on Kids Tricycles🔥🔥 Link : https://fkrt.co/tqNU6A",
-    "shortlink": "https://fkrt.co/tqNU6A",
-    "urls": [
-      {
-        "url": "https://fkrt.co/tqNU6A",
-        "label": "Flipkart Upto 85% off on Kids Tricycles🔥🔥"
-      }
-    ],
-    "raw_text": "Flipkart  Upto 85% off on Kids Tricycles🔥🔥\n\nLink : https://fkrt.co/tqNU6A",
-    "final_url": "https://fkrt.co/tqNU6A",
-    "local_image": "assets/images/tgmsg_21145.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-15T09:20:57+00:00",
-    "buy_link": "https://fkrt.co/tqNU6A",
-    "date_iso": "2025-12-15T09:20:57+00:00"
   }
 ]
