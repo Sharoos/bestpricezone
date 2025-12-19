@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21690",
+    "title": "44% Off Saffola Honey Active, 1kg @275",
+    "description": "Amazon | 44% Off : Saffola Honey Active, 1kg @275. https://www.amazon.in/dp/B08B44K4YS?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B08B44K4YS?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B08B44K4YS?th=1&tag=bestpricezo0f-21",
+        "label": "44% Off : Saffola Honey Active, 1kg @275"
+      }
+    ],
+    "raw_text": "Amazon | 44% Off : Saffola Honey Active, 1kg @275.\n\nhttps://www.amazon.in/dp/B08B44K4YS?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B08B44K4YS?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_21690.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-19T15:16:17+00:00",
+    "buy_link": "https://www.amazon.in/dp/B08B44K4YS?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-19T15:16:17+00:00"
+  },
+  {
     "id": "msg21684",
     "title": "Arrow Min 55 + Extra Up to 10% Off 🔥",
     "description": "Ajio | Arrow Min 55 + Extra upto 10% Off  🔥 🔗 Link : https://ajiio.co/J7XokR + 10% EXTRA AJIO CASH",
@@ -9702,65 +9722,5 @@
     "date_obj": "2025-12-16T11:25:03+00:00",
     "buy_link": "https://extp.in/6tVpI7",
     "date_iso": "2025-12-16T11:25:03+00:00"
-  },
-  {
-    "id": "msg21265",
-    "title": "24% Off on",
-    "description": "Myntra |  LOreal Professionnel Xtenso Care Shampoo - 250ml 🔗 15% Off on LOreal Professionnel Xtenso Care Hair Masque - 196 g 🔗 9% Off on LOreal Professionnel Absolut Repair Shampoo for Dry Hair - 300ml 🔗 11% Off on…",
-    "shortlink": "https://myntr.in/PkTrSf",
-    "urls": [
-      {
-        "url": "",
-        "label": "24% Off on"
-      },
-      {
-        "url": "https://myntr.in/PkTrSf",
-        "label": "250ml"
-      },
-      {
-        "url": "",
-        "label": "15% Off on"
-      },
-      {
-        "url": "https://myntr.in/vOJfj2",
-        "label": "LOreal Professionnel Xtenso Care Hair Masque - 196 g"
-      },
-      {
-        "url": "",
-        "label": "9% Off on"
-      },
-      {
-        "url": "https://myntr.in/nAfJ47",
-        "label": "LOreal Professionnel Absolut Repair Shampoo for Dry Hair - 300ml"
-      },
-      {
-        "url": "",
-        "label": "11% Off on"
-      },
-      {
-        "url": "https://myntr.in/t7Y2Fe",
-        "label": "350ml"
-      },
-      {
-        "url": "",
-        "label": "10% Off on"
-      },
-      {
-        "url": "https://myntr.in/5zjhnu",
-        "label": "MATRIX Mega Smooth Professional Conditioner - 100ml"
-      },
-      {
-        "url": "https://myntr.in/EswUiO",
-        "label": "98 g"
-      }
-    ],
-    "raw_text": "Myntra | 24% Off on \nLOreal Professionnel Xtenso Care Shampoo - 250ml  \n🔗 https://myntr.in/PkTrSf\n\n15% Off on \nLOreal Professionnel Xtenso Care Hair Masque - 196 g  \n🔗 https://myntr.in/vOJfj2\n\n9% Off on \nLOreal Professionnel Absolut Repair Shampoo for Dry Hair - 300ml \n🔗 https://myntr.in/nAfJ47\n\n11% Off on \nMATRIX Mega Smooth Professional Shampoo - 350ml  \n🔗 https://myntr.in/t7Y2Fe\n\n10% Off on \nMATRIX Mega Smooth Professional Conditioner - 100ml  \n🔗 https://myntr.in/5zjhnu\n\n15% Off on \nBiolage Smoothproof Conditioner - 98 g  \n🔗 https://myntr.in/EswUiO",
-    "final_url": "https://myntr.in/PkTrSf",
-    "local_image": "assets/images/tgmsg_21265.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-16T10:47:23+00:00",
-    "buy_link": "https://myntr.in/PkTrSf",
-    "date_iso": "2025-12-16T10:47:23+00:00"
   }
 ]
