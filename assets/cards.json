@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg21708",
+    "title": "🧥 Sweatshirts & Jackets — Min 30% OFF",
+    "description": "🧥AJIO | Hot Apparel & Accessories Deals  👉 👜 Premium Handbags — Min 40% OFF 👉 🕶️ Premium Sunglasses — Min 40% OFF 👉",
+    "shortlink": "https://ajiio.co/NsUxPz",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧥AJIO | Hot Apparel & Accessories Deals"
+      },
+      {
+        "url": "https://ajiio.co/NsUxPz",
+        "label": "🧥 Sweatshirts & Jackets — Min 30% OFF"
+      },
+      {
+        "url": "https://ajiio.co/kEe2LG",
+        "label": "👜 Premium Handbags — Min 40% OFF"
+      },
+      {
+        "url": "https://ajiio.co/8ybqPC",
+        "label": "🕶️ Premium Sunglasses — Min 40% OFF"
+      }
+    ],
+    "raw_text": "🧥AJIO | Hot Apparel & Accessories Deals\n\n🧥 Sweatshirts & Jackets — Min 30% OFF\n👉 https://ajiio.co/NsUxPz\n\n👜 Premium Handbags — Min 40% OFF\n👉 https://ajiio.co/kEe2LG\n\n🕶️ Premium Sunglasses — Min 40% OFF\n👉 https://ajiio.co/8ybqPC",
+    "final_url": "https://ajiio.co/NsUxPz",
+    "local_image": "assets/images/tgmsg_21708.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-19T17:34:06+00:00",
+    "buy_link": "https://ajiio.co/NsUxPz",
+    "date_iso": "2025-12-19T17:34:06+00:00"
+  },
+  {
     "id": "msg21707",
     "title": "👩‍🦰 ASOS Women — Flat 70% OFF",
     "description": "AJIO |👚 ASOS Fashion Deals  👉 👕 ASOS Shirts & T-shirts — Flat 70% OFF 👉 👗 ASOS Topwear — Flat 65% OFF 👉",
@@ -9662,61 +9694,5 @@
     "date_obj": "2025-12-16T12:58:26+00:00",
     "buy_link": "https://www.amazon.in/dp/B0G2HJQ1DX?social_share=cm_sw_r_cso_wa_apin_dp_V1Z6PSQV73YTWDKH8ZG4&tag=bestpricezo0f-21",
     "date_iso": "2025-12-16T12:58:26+00:00"
-  },
-  {
-    "id": "msg21288",
-    "title": "💸 Extra ₹1,250 OFF on prepaid orde",
-    "description": "🪙 Ajio Silver Shining Deal Alert! ✨ Grab BRPL Silver Bar – 500g at a super discounted price on AJIO 🔥 ✅ AJIO Price : ₹1,01,521 ❌ Market Price : ₹1,11,600 💥 Instant Savings : ₹10,000+ 🎁 Extra Benefits : • Apply coupon…",
-    "shortlink": "https://ajiio.co/7cqESC",
-    "urls": [
-      {
-        "url": "",
-        "label": "🪙 Ajio Silver Shining Deal Alert! ✨"
-      },
-      {
-        "url": "",
-        "label": "Grab BRPL Silver Bar – 500g at a super discounted price on AJIO 🔥"
-      },
-      {
-        "url": "",
-        "label": "✅ AJIO Price : ₹1,01,521"
-      },
-      {
-        "url": "",
-        "label": "❌ Market Price : ₹1,11,600"
-      },
-      {
-        "url": "",
-        "label": "💥 Instant Savings : ₹10,000+"
-      },
-      {
-        "url": "",
-        "label": "🎁 Extra Benefits"
-      },
-      {
-        "url": "",
-        "label": "💸 Extra ₹1,250 OFF on prepaid orders"
-      },
-      {
-        "url": "",
-        "label": "💳 ICICI Credit/Debit Card offers available"
-      },
-      {
-        "url": "https://ajiio.co/7cqESC",
-        "label": "🧾 Additional 3% benefit with GST invoice (share GST number)"
-      },
-      {
-        "url": "",
-        "label": "⏰ Limited Time Offer – Don’t Miss Out!"
-      }
-    ],
-    "raw_text": "🪙 Ajio Silver Shining Deal Alert! ✨\n\nGrab BRPL Silver Bar – 500g at a super discounted price on AJIO 🔥\n\n✅ AJIO Price : ₹1,01,521\n❌ Market Price : ₹1,11,600\n💥 Instant Savings : ₹10,000+\n\n🎁 Extra Benefits :\n• Apply coupon DHANVARSHA2 – 2% off up to ₹2,000\n• 💸 Extra ₹1,250 OFF on prepaid orders\n• 💳 ICICI Credit/Debit Card offers available\n• 🧾 Additional 3% benefit with GST invoice (share GST number)\n\n🔗 Buy Now : https://ajiio.co/7cqESC\n\n⏰ Limited Time Offer – Don’t Miss Out!",
-    "final_url": "https://ajiio.co/7cqESC",
-    "local_image": "assets/images/tgmsg_21288.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-16T13:04:13+00:00",
-    "buy_link": "https://ajiio.co/7cqESC",
-    "date_iso": "2025-12-16T13:04:13+00:00"
   }
 ]
