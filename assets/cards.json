@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21605",
+    "title": "boAt 10000 mAh 22.5W Power Bank @999",
+    "description": "Flipkart | boAt 10000 mAh 22.5W Power Bank @999 👉https://fkrt.co/WD8ZxR",
+    "shortlink": "https://fkrt.co/WD8ZxR",
+    "urls": [
+      {
+        "url": "https://fkrt.co/WD8ZxR",
+        "label": "boAt 10000 mAh 22.5W Power Bank @999"
+      }
+    ],
+    "raw_text": "Flipkart | boAt 10000 mAh 22.5W Power Bank @999\n\n👉https://fkrt.co/WD8ZxR",
+    "final_url": "https://fkrt.co/WD8ZxR",
+    "local_image": "assets/images/tgmsg_21605.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-19T04:21:10+00:00",
+    "buy_link": "https://fkrt.co/WD8ZxR",
+    "date_iso": "2025-12-19T04:21:10+00:00"
+  },
+  {
     "id": "msg21602",
     "title": "Mast Harbour Handbags Up to 70% Off",
     "description": "Flipkart | Mast Harbour Handbags Upto 70% Off Upto 83% off Hrx By Hrithik Roshan Backpacks",
@@ -9714,25 +9734,5 @@
     "date_obj": "2025-12-15T09:20:57+00:00",
     "buy_link": "https://fkrt.co/tqNU6A",
     "date_iso": "2025-12-15T09:20:57+00:00"
-  },
-  {
-    "id": "msg21146",
-    "title": "Campus Sutra Men Jackets @379",
-    "description": "Myntra | Campus Sutra Men Jackets @379 🔗 https://myntr.in/MaXY17",
-    "shortlink": "https://myntr.in/MaXY17",
-    "urls": [
-      {
-        "url": "https://myntr.in/MaXY17",
-        "label": "Campus Sutra Men Jackets @379"
-      }
-    ],
-    "raw_text": "Myntra | Campus Sutra Men Jackets @379\n\n🔗 https://myntr.in/MaXY17",
-    "final_url": "https://myntr.in/MaXY17",
-    "local_image": "assets/images/tgmsg_21146.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-15T09:25:03+00:00",
-    "buy_link": "https://myntr.in/MaXY17",
-    "date_iso": "2025-12-15T09:25:03+00:00"
   }
 ]
