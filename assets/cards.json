@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21615",
+    "title": "Biotique Fruit Brightening Face Wash 200mlx2 @288",
+    "description": "Amazon | Biotique Fruit Brightening Face Wash 200mlx2 @288 https://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Biotique Fruit Brightening Face Wash 200mlx2 @288"
+      }
+    ],
+    "raw_text": "Amazon | Biotique Fruit Brightening Face Wash 200mlx2 @288\n\nhttps://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_21615.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-19T06:53:22+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-19T06:53:22+00:00"
+  },
+  {
     "id": "msg21611",
     "title": "Set of 2 Door Curtains @ 299 Only!",
     "description": "Myntra | Set of 2 Door Curtains @ 299 Only! 👉https://myntr.in/F61dJC",
@@ -9790,29 +9810,5 @@
     "date_obj": "2025-12-15T11:18:56+00:00",
     "buy_link": "https://bitli.in/cpDWSiW",
     "date_iso": "2025-12-15T11:18:56+00:00"
-  },
-  {
-    "id": "msg21160",
-    "title": "💥Up to 75% Off on Mufti Clothing",
-    "description": "💥Myntra : Upto 75% Off on Mufti Clothing. From 649🔥 🔗https://myntr.in/C3tn6l",
-    "shortlink": "https://myntr.in/C3tn6l",
-    "urls": [
-      {
-        "url": "",
-        "label": "💥Myntra : Upto 75% Off on Mufti Clothing"
-      },
-      {
-        "url": "https://myntr.in/C3tn6l",
-        "label": "From 649🔥"
-      }
-    ],
-    "raw_text": "💥Myntra : Upto 75% Off on Mufti Clothing.\n\nFrom 649🔥\n\n🔗https://myntr.in/C3tn6l",
-    "final_url": "https://myntr.in/C3tn6l",
-    "local_image": "assets/images/tgmsg_21160.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-15T11:20:20+00:00",
-    "buy_link": "https://myntr.in/C3tn6l",
-    "date_iso": "2025-12-15T11:20:20+00:00"
   }
 ]
