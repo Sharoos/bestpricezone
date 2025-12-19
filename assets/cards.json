@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg21610",
+    "title": "Up to 80% Off On Oversized T",
+    "description": "AJIO Upto 80% Off On Oversized T-Shirts Start @82 Men’s : Women’s : Polo T-Shirts : Jeans : Branded Innerwears : Men's Blazers & Waistcoat : + 10% AJIO Extra CASH",
+    "shortlink": "https://ajiio.co/CMkw7L",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 80% Off On Oversized T-Shirts Start @82"
+      },
+      {
+        "url": "https://ajiio.co/CMkw7L",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/algGY1",
+        "label": "Women’s"
+      },
+      {
+        "url": "https://ajiio.co/lzMSx0",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/mRVcba",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/Viehhq",
+        "label": "Branded Innerwears"
+      },
+      {
+        "url": "https://ajiio.co/9wRtEh",
+        "label": "Men's Blazers & Waistcoat"
+      },
+      {
+        "url": "",
+        "label": "+ 10% AJIO Extra CASH"
+      }
+    ],
+    "raw_text": "AJIO  Upto 80% Off On Oversized T-Shirts Start @82\n\nMen’s : https://ajiio.co/CMkw7L\nWomen’s : https://ajiio.co/algGY1\n\nPolo T-Shirts : https://ajiio.co/lzMSx0\nJeans : https://ajiio.co/mRVcba\nBranded Innerwears : https://ajiio.co/Viehhq\nMen's Blazers & Waistcoat : https://ajiio.co/9wRtEh\n\n+ 10% AJIO Extra CASH",
+    "final_url": "https://ajiio.co/CMkw7L",
+    "local_image": "assets/images/tgmsg_21610.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-19T05:51:11+00:00",
+    "buy_link": "https://ajiio.co/CMkw7L",
+    "date_iso": "2025-12-19T05:51:11+00:00"
+  },
+  {
     "id": "msg21607",
     "title": "USPA & Hellcat and More Up to 80% Off",
     "description": "AJIO: USPA & Hellcat and More Upto 80% Off 👉Link : https://ajiio.co/wJujiR + 10% EXTRA AJIO CASH",
@@ -9738,33 +9786,5 @@
     "date_obj": "2025-12-15T10:00:01+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CQLX2G6M?tag=bestpricezo0f-21",
     "date_iso": "2025-12-15T10:00:01+00:00"
-  },
-  {
-    "id": "msg21153",
-    "title": "Boat audio at 15% off",
-    "description": "Myntra | Boat audio at 15% off 👉 https://myntr.in/MNsxJi Jbl at 10% off 👉 https://myntr.in/W5dBzq Boat Smartwatches at 10% off 👉 https://myntr.in/i0DcVP",
-    "shortlink": "https://myntr.in/MNsxJi",
-    "urls": [
-      {
-        "url": "https://myntr.in/MNsxJi",
-        "label": "Boat audio at 15% off"
-      },
-      {
-        "url": "https://myntr.in/W5dBzq",
-        "label": "Jbl at 10% off"
-      },
-      {
-        "url": "https://myntr.in/i0DcVP",
-        "label": "Boat Smartwatches at 10% off"
-      }
-    ],
-    "raw_text": "Myntra | Boat audio at 15% off\n👉 https://myntr.in/MNsxJi\n\nJbl at 10% off\n👉 https://myntr.in/W5dBzq\n\nBoat Smartwatches at 10% off\n👉 https://myntr.in/i0DcVP",
-    "final_url": "https://myntr.in/MNsxJi",
-    "local_image": "assets/images/tgmsg_21153.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-15T10:10:18+00:00",
-    "buy_link": "https://myntr.in/MNsxJi",
-    "date_iso": "2025-12-15T10:10:18+00:00"
   }
 ]
