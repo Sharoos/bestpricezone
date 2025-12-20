@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg21754",
+    "title": "+ 10% SUPERCASH",
+    "description": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 80🔥 🔗🔗Link : + 10% AJIO SUPERCASH",
+    "shortlink": "https://ajiio.co/sKNwTO",
+    "urls": [
+      {
+        "url": "https://ajiio.co/sKNwTO",
+        "label": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 80🔥"
+      },
+      {
+        "url": "",
+        "label": "+ 10% AJIO SUPERCASH"
+      }
+    ],
+    "raw_text": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 80🔥 \n \n🔗🔗Link : https://ajiio.co/sKNwTO\n\n+ 10% AJIO SUPERCASH",
+    "final_url": "https://ajiio.co/sKNwTO",
+    "local_image": "assets/images/tgmsg_21754.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-20T07:31:21+00:00",
+    "buy_link": "https://ajiio.co/sKNwTO",
+    "date_iso": "2025-12-20T07:31:21+00:00"
+  },
+  {
     "id": "msg21752",
     "title": "Steve Madden, Dune London min 50%",
     "description": "Ajio | Steve Madden, Dune London min 50% https://ajiio.co/9GYc58 Guess Min 40% https://ajiio.co/66TxLw",
@@ -9598,25 +9622,5 @@
     "date_obj": "2025-12-16T18:44:55+00:00",
     "buy_link": "https://fkrt.co/D737Uu",
     "date_iso": "2025-12-16T18:44:55+00:00"
-  },
-  {
-    "id": "msg21328",
-    "title": "Kotty Men's Jeans Up to 82% Off starting @343",
-    "description": "Flipkart | Kotty Men's Jeans upto 82% Off starting @343 https://fkrt.co/yOvqGJ",
-    "shortlink": "https://fkrt.co/yOvqGJ",
-    "urls": [
-      {
-        "url": "https://fkrt.co/yOvqGJ",
-        "label": "Kotty Men's Jeans upto 82% Off starting @343"
-      }
-    ],
-    "raw_text": "Flipkart | Kotty Men's Jeans upto 82% Off starting @343\n\n     https://fkrt.co/yOvqGJ",
-    "final_url": "https://fkrt.co/yOvqGJ",
-    "local_image": "assets/images/tgmsg_21328.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-16T18:45:42+00:00",
-    "buy_link": "https://fkrt.co/yOvqGJ",
-    "date_iso": "2025-12-16T18:45:42+00:00"
   }
 ]
