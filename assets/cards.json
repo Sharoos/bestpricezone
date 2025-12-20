@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21747",
+    "title": "Story@Home Carpets Up to 70% Off",
+    "description": "Myntra | Story@Home Carpets Upto 70% Off 👉https://myntr.in/Tdhtya",
+    "shortlink": "https://myntr.in/Tdhtya",
+    "urls": [
+      {
+        "url": "https://myntr.in/Tdhtya",
+        "label": "Story@Home Carpets Upto 70% Off"
+      }
+    ],
+    "raw_text": "Myntra | Story@Home Carpets Upto 70% Off\n\n👉https://myntr.in/Tdhtya",
+    "final_url": "https://myntr.in/Tdhtya",
+    "local_image": "assets/images/tgmsg_21747.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-20T05:02:02+00:00",
+    "buy_link": "https://myntr.in/Tdhtya",
+    "date_iso": "2025-12-20T05:02:02+00:00"
+  },
+  {
     "id": "msg21745",
     "title": "80% Off On Lee Cooper Men’s Clothing🔥",
     "description": "AJIO . Master Link : T-Shirt : Shirts : Jeans : Shorts : Sweatshirts & Hoodies : Women’s Clothing👇. Master Link : T-Shirt : Top & Shirt : Jeans : Shorts : Sweatshirt & Hoodies : + Extra 10% AJIO Super Cash.",
@@ -9566,33 +9586,5 @@
     "date_obj": "2025-12-16T17:47:08+00:00",
     "buy_link": "https://ajiio.co/nPM527",
     "date_iso": "2025-12-16T17:47:08+00:00"
-  },
-  {
-    "id": "msg21309",
-    "title": "Ketch Clothing Starts @119",
-    "description": "Myntra  Ketch Clothing Starts @119. Women : https://myntr.in/7fQHut Men : https://myntr.in/ZBYrv5",
-    "shortlink": "https://myntr.in/7fQHut",
-    "urls": [
-      {
-        "url": "",
-        "label": "Myntra Ketch Clothing Starts @119"
-      },
-      {
-        "url": "https://myntr.in/7fQHut",
-        "label": "Women"
-      },
-      {
-        "url": "https://myntr.in/ZBYrv5",
-        "label": "Men"
-      }
-    ],
-    "raw_text": "Myntra  Ketch Clothing Starts @119.\n\nWomen : https://myntr.in/7fQHut\nMen : https://myntr.in/ZBYrv5",
-    "final_url": "https://myntr.in/7fQHut",
-    "local_image": "assets/images/tgmsg_21309.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-16T17:20:47+00:00",
-    "buy_link": "https://myntr.in/7fQHut",
-    "date_iso": "2025-12-16T17:20:47+00:00"
   }
 ]
