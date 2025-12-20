@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg21768",
+    "title": "+ 10% Cashback",
+    "description": "Ajio | Branded Men's T-Shirts from Rs.100 👉 Branded Men's Shirts from Rs.180 👉 + 10% Ajio Cashback",
+    "shortlink": "https://ajiio.co/QsdfTP",
+    "urls": [
+      {
+        "url": "https://ajiio.co/QsdfTP",
+        "label": "Branded Men's T-Shirts from Rs.100"
+      },
+      {
+        "url": "https://ajiio.co/XCt7Va",
+        "label": "Branded Men's Shirts from Rs.180"
+      },
+      {
+        "url": "",
+        "label": "+ 10% Ajio Cashback"
+      }
+    ],
+    "raw_text": "Ajio | Branded Men's T-Shirts from Rs.100\n\n👉https://ajiio.co/QsdfTP \n\n Branded Men's Shirts from Rs.180\n\n👉https://ajiio.co/XCt7Va\n\n+ 10% Ajio Cashback",
+    "final_url": "https://ajiio.co/QsdfTP",
+    "local_image": "assets/images/tgmsg_21768.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-20T10:48:35+00:00",
+    "buy_link": "https://ajiio.co/QsdfTP",
+    "date_iso": "2025-12-20T10:48:35+00:00"
+  },
+  {
     "id": "msg21766",
     "title": "Sale is Live !!!",
     "description": "Ajio  AX Min 40%: Superdry Min 50%: Tommy Hilfiger Calvin Klein Min 40%: USPA Min 55% Levis Min 60%",
@@ -9750,33 +9778,5 @@
     "date_obj": "2025-12-17T06:41:06+00:00",
     "buy_link": "https://myntr.in/bWoxxE",
     "date_iso": "2025-12-17T06:41:06+00:00"
-  },
-  {
-    "id": "msg21346",
-    "title": "🏆Up to 80% Off On Roadster Clothing",
-    "description": "🏆Myntra : Upto 80% Off On Roadster Clothing. 👉Men’s : https://myntr.in/GZ0eBT 👉Women’s :https://myntr.in/ys80dN",
-    "shortlink": "https://myntr.in/GZ0eBT",
-    "urls": [
-      {
-        "url": "",
-        "label": "🏆Myntra : Upto 80% Off On Roadster Clothing"
-      },
-      {
-        "url": "https://myntr.in/GZ0eBT",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://myntr.in/ys80dN",
-        "label": "Women’s"
-      }
-    ],
-    "raw_text": "🏆Myntra : Upto 80% Off On Roadster Clothing.\n\n👉Men’s : https://myntr.in/GZ0eBT\n\n👉Women’s :https://myntr.in/ys80dN",
-    "final_url": "https://myntr.in/GZ0eBT",
-    "local_image": "assets/images/tgmsg_21346.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-17T05:51:18+00:00",
-    "buy_link": "https://myntr.in/GZ0eBT",
-    "date_iso": "2025-12-17T05:51:18+00:00"
   }
 ]
