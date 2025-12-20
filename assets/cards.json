@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg21800",
+    "title": "🔥Up to 70% Off On John Players Brand Clothing",
+    "description": "🔥AJIO : Upto 70% Off On John Players Brand Clothing T-Shirts : Jeans : Shirts : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/kGjRcy",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥AJIO : Upto 70% Off On John Players Brand Clothing"
+      },
+      {
+        "url": "https://ajiio.co/kGjRcy",
+        "label": "T-Shirts"
+      },
+      {
+        "url": "https://ajiio.co/432Tj8",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/XxvULi",
+        "label": "Shirts"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "🔥AJIO : Upto 70% Off On John Players Brand Clothing  \n \nT-Shirts : https://ajiio.co/kGjRcy \nJeans : https://ajiio.co/432Tj8 \nShirts : https://ajiio.co/XxvULi\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/kGjRcy",
+    "local_image": "assets/images/tgmsg_21800.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-20T15:28:36+00:00",
+    "buy_link": "https://ajiio.co/kGjRcy",
+    "date_iso": "2025-12-20T15:28:36+00:00"
+  },
+  {
     "id": "msg21798",
     "title": "It's mCaffeine's LAST SALE of 2025 🎅🏽🎁",
     "description": "Buy 1 Get 1 + Extra Gifts! Its the last chance to grab your mCaffeine favourites. Hurry up - the clock is ticking ⏰ ⚡",
@@ -9870,25 +9906,5 @@
     "date_obj": "2025-12-17T11:12:42+00:00",
     "buy_link": "https://extp.in/g7TAMN",
     "date_iso": "2025-12-17T11:12:42+00:00"
-  },
-  {
-    "id": "msg21385",
-    "title": "Tokyo Talkies Women Sweatshirts Starts @146",
-    "description": "Myntra : Tokyo Talkies Women Sweatshirts Starts @146. 🔗https://myntr.in/5oXy01",
-    "shortlink": "https://myntr.in/5oXy01",
-    "urls": [
-      {
-        "url": "https://myntr.in/5oXy01",
-        "label": "Tokyo Talkies Women Sweatshirts Starts @146"
-      }
-    ],
-    "raw_text": "Myntra : Tokyo Talkies Women Sweatshirts Starts @146.\n\n🔗https://myntr.in/5oXy01",
-    "final_url": "https://myntr.in/5oXy01",
-    "local_image": "assets/images/tgmsg_21385.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-17T11:22:30+00:00",
-    "buy_link": "https://myntr.in/5oXy01",
-    "date_iso": "2025-12-17T11:22:30+00:00"
   }
 ]
