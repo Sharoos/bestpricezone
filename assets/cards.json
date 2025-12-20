@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg21755",
+    "title": "🛍 Up to 80% OFF on selected collection",
+    "description": "🎄🔥 SAVANA Christmas Sale is LIVE! 🔥🎄 ✨ Upgrade your winter wardrobe with trendy styles at MASSIVE DISCOUNTS ✨ s 🧥 Coats & Jackets for everyday chic 👗 Fashion-forward styles for every mood ❄️ Perfect picks for winter &…",
+    "shortlink": "https://extp.in/BDrwnO",
+    "urls": [
+      {
+        "url": "",
+        "label": "🎄🔥 SAVANA Christmas Sale is LIVE! 🔥🎄"
+      },
+      {
+        "url": "",
+        "label": "✨ Upgrade your winter wardrobe with trendy styles at MASSIVE DISCOUNTS ✨"
+      },
+      {
+        "url": "",
+        "label": "🛍 Up to 80% OFF on selected collections"
+      },
+      {
+        "url": "",
+        "label": "🧥 Coats & Jackets for everyday chic"
+      },
+      {
+        "url": "",
+        "label": "👗 Fashion-forward styles for every mood"
+      },
+      {
+        "url": "",
+        "label": "❄️ Perfect picks for winter & party season"
+      },
+      {
+        "url": "https://extp.in/BDrwnO",
+        "label": "🔗 Shop Now"
+      },
+      {
+        "url": "",
+        "label": "⏳ Limited Time Sale – Don’t Miss Out!"
+      }
+    ],
+    "raw_text": "🎄🔥 SAVANA Christmas Sale is LIVE! 🔥🎄\n\n✨ Upgrade your winter wardrobe with trendy styles at MASSIVE DISCOUNTS ✨\n\n🛍 Up to 80% OFF on selected collections\n🧥 Coats & Jackets for everyday chic\n👗 Fashion-forward styles for every mood\n❄️ Perfect picks for winter & party season\n\n🔗 Shop Now : https://extp.in/BDrwnO\n\n⏳ Limited Time Sale – Don’t Miss Out!",
+    "final_url": "https://extp.in/BDrwnO",
+    "local_image": "assets/images/tgmsg_21755.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-20T07:34:27+00:00",
+    "buy_link": "https://extp.in/BDrwnO",
+    "date_iso": "2025-12-20T07:34:27+00:00"
+  },
+  {
     "id": "msg21754",
     "title": "+ 10% SUPERCASH",
     "description": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 80🔥 🔗🔗Link : + 10% AJIO SUPERCASH",
@@ -9598,29 +9646,5 @@
     "date_obj": "2025-12-16T18:43:51+00:00",
     "buy_link": "https://ajiio.co/5vC5fA",
     "date_iso": "2025-12-16T18:43:51+00:00"
-  },
-  {
-    "id": "msg21327",
-    "title": "Prestige Spinner Mop Set @ 699",
-    "description": "Flipkart | Prestige Spinner Mop Set @ 699 https://fkrt.co/D737Uu Regular Price 900+",
-    "shortlink": "https://fkrt.co/D737Uu",
-    "urls": [
-      {
-        "url": "https://fkrt.co/D737Uu",
-        "label": "Prestige Spinner Mop Set @ 699"
-      },
-      {
-        "url": "",
-        "label": "Regular Price 900+"
-      }
-    ],
-    "raw_text": "Flipkart | Prestige Spinner Mop Set @ 699\n\n  https://fkrt.co/D737Uu\n\nRegular Price 900+",
-    "final_url": "https://fkrt.co/D737Uu",
-    "local_image": "assets/images/tgmsg_21327.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-16T18:44:55+00:00",
-    "buy_link": "https://fkrt.co/D737Uu",
-    "date_iso": "2025-12-16T18:44:55+00:00"
   }
 ]
