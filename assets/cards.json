@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg21822",
+    "title": "Up to 85% Off On Campus Sutra Clothing",
+    "description": "Myntra  | Upto 85% Off On Campus Sutra Clothing. Men : https://myntr.in/ZCxCwp Women : https://myntr.in/Vigjpa",
+    "shortlink": "https://myntr.in/ZCxCwp",
+    "urls": [
+      {
+        "url": "https://myntr.in/ZCxCwp",
+        "label": "Upto 85% Off On Campus Sutra Clothing"
+      },
+      {
+        "url": "https://myntr.in/Vigjpa",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra  | Upto 85% Off On Campus Sutra Clothing.\n\nMen : https://myntr.in/ZCxCwp\nWomen : https://myntr.in/Vigjpa",
+    "final_url": "https://myntr.in/ZCxCwp",
+    "local_image": "assets/images/tgmsg_21822.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-20T18:05:58+00:00",
+    "buy_link": "https://myntr.in/ZCxCwp",
+    "date_iso": "2025-12-20T18:05:58+00:00"
+  },
+  {
     "id": "msg21820",
     "title": "BHIM",
     "description": "* Loot* : Tip to win a MacBook Air or Samsung Smartwatch Link : *How to Win :* ➤ The top 10 transacting users on the  Payments App will win a MacBook Air or a Samsung Smartwatch. ➤ Validity: 7th Dec – 31st Dec 2025 ➤…",
@@ -10018,29 +10042,5 @@
     "date_obj": "2025-12-17T12:40:15+00:00",
     "buy_link": "https://extp.in/1xzp8M",
     "date_iso": "2025-12-17T12:40:15+00:00"
-  },
-  {
-    "id": "msg21403",
-    "title": "USPA & Hellcat and More Up to 83% Off",
-    "description": "AJIO: USPA & Hellcat and More Upto 83% Off 👉Link : https://ajiio.co/MxOvxS + 10% EXTRA AJIO CASH",
-    "shortlink": "https://ajiio.co/MxOvxS",
-    "urls": [
-      {
-        "url": "https://ajiio.co/MxOvxS",
-        "label": "USPA & Hellcat and More Upto 83% Off"
-      },
-      {
-        "url": "",
-        "label": "+ 10% EXTRA AJIO CASH"
-      }
-    ],
-    "raw_text": "AJIO: USPA & Hellcat and More Upto 83% Off\n\n👉Link : https://ajiio.co/MxOvxS\n\n+ 10% EXTRA AJIO CASH",
-    "final_url": "https://ajiio.co/MxOvxS",
-    "local_image": "assets/images/tgmsg_21403.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-17T12:42:55+00:00",
-    "buy_link": "https://ajiio.co/MxOvxS",
-    "date_iso": "2025-12-17T12:42:55+00:00"
   }
 ]
