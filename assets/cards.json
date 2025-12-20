@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg21752",
+    "title": "Steve Madden, Dune London min 50%",
+    "description": "Ajio | Steve Madden, Dune London min 50% https://ajiio.co/9GYc58 Guess Min 40% https://ajiio.co/66TxLw",
+    "shortlink": "https://ajiio.co/9GYc58",
+    "urls": [
+      {
+        "url": "https://ajiio.co/9GYc58",
+        "label": "Steve Madden, Dune London min 50%"
+      },
+      {
+        "url": "https://ajiio.co/66TxLw",
+        "label": "Guess Min 40%"
+      }
+    ],
+    "raw_text": "Ajio | Steve Madden, Dune London min 50%\nhttps://ajiio.co/9GYc58\n\nGuess Min 40%\nhttps://ajiio.co/66TxLw",
+    "final_url": "https://ajiio.co/9GYc58",
+    "local_image": "assets/images/tgmsg_21752.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-20T06:35:59+00:00",
+    "buy_link": "https://ajiio.co/9GYc58",
+    "date_iso": "2025-12-20T06:35:59+00:00"
+  },
+  {
+    "id": "msg21753",
+    "title": "Miraggio Min 50%",
+    "description": "Ajio | Miraggio Min 50% https://ajiio.co/RupLUj Soch Min 60 https://ajiio.co/KgZNqa",
+    "shortlink": "https://ajiio.co/RupLUj",
+    "urls": [
+      {
+        "url": "https://ajiio.co/RupLUj",
+        "label": "Miraggio Min 50%"
+      },
+      {
+        "url": "https://ajiio.co/KgZNqa",
+        "label": "Soch Min 60"
+      }
+    ],
+    "raw_text": "Ajio | Miraggio Min 50%\nhttps://ajiio.co/RupLUj\n\nSoch Min 60\nhttps://ajiio.co/KgZNqa",
+    "final_url": "https://ajiio.co/RupLUj",
+    "local_image": "assets/images/tgmsg_21753.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-20T06:51:04+00:00",
+    "buy_link": "https://ajiio.co/RupLUj",
+    "date_iso": "2025-12-20T06:51:04+00:00"
+  },
+  {
     "id": "msg21750",
     "title": "Up to 80% Off On PUMA",
     "description": "AJIO Upto 80% Off On PUMA. Mens : Womens : Shoes . Master Link : Mens : Womens : Kids :",
@@ -9570,53 +9618,5 @@
     "date_obj": "2025-12-16T18:45:42+00:00",
     "buy_link": "https://fkrt.co/yOvqGJ",
     "date_iso": "2025-12-16T18:45:42+00:00"
-  },
-  {
-    "id": "msg21331",
-    "title": "Wrogn Laptop Bags Up to 85% Off From @384",
-    "description": "Flipkart | Wrogn Laptop Bags upto 85% Off From @384 https://fkrt.co/LNgfW1",
-    "shortlink": "https://fkrt.co/LNgfW1",
-    "urls": [
-      {
-        "url": "https://fkrt.co/LNgfW1",
-        "label": "Wrogn Laptop Bags upto 85% Off From @384"
-      }
-    ],
-    "raw_text": "Flipkart | Wrogn Laptop Bags upto 85% Off From @384\n\n     https://fkrt.co/LNgfW1",
-    "final_url": "https://fkrt.co/LNgfW1",
-    "local_image": "assets/images/tgmsg_21331.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-16T18:49:35+00:00",
-    "buy_link": "https://fkrt.co/LNgfW1",
-    "date_iso": "2025-12-16T18:49:35+00:00"
-  },
-  {
-    "id": "msg21332",
-    "title": "Flat 80% Off On Gear Backpacks + Extra 20% Off",
-    "description": "Myntra  Flat 80% Off On Gear Backpacks + Extra 20% Off. https://myntr.in/odSpLb Masterlink : https://myntr.in/guu78I Apply Code : ACCEXTRA20",
-    "shortlink": "https://myntr.in/odSpLb",
-    "urls": [
-      {
-        "url": "https://myntr.in/odSpLb",
-        "label": "Myntra Flat 80% Off On Gear Backpacks + Extra 20% Off"
-      },
-      {
-        "url": "https://myntr.in/guu78I",
-        "label": "Masterlink"
-      },
-      {
-        "url": "",
-        "label": "ACCEXTRA20"
-      }
-    ],
-    "raw_text": "Myntra  Flat 80% Off On Gear Backpacks + Extra 20% Off.\n\nhttps://myntr.in/odSpLb\n\nMasterlink : https://myntr.in/guu78I\n\nApply Code : ACCEXTRA20",
-    "final_url": "https://myntr.in/odSpLb",
-    "local_image": "assets/images/tgmsg_21332.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-16T18:54:35+00:00",
-    "buy_link": "https://myntr.in/odSpLb",
-    "date_iso": "2025-12-16T18:54:35+00:00"
   }
 ]
