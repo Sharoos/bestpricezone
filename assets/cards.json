@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg21742",
+    "title": "Footwears Starts @99",
+    "description": "AJIO Loot : . Shoes from 99 : Sandals from 99 : Flip-Flops from 99 : Formal Shoes from 149 : Sandals from 99 : Flip-Flops from 99 :",
+    "shortlink": "https://ajiio.in/vF8lGrH",
+    "urls": [
+      {
+        "url": "",
+        "label": "Footwears Starts @99"
+      },
+      {
+        "url": "https://ajiio.in/vF8lGrH",
+        "label": "Shoes from 99"
+      },
+      {
+        "url": "https://ajiio.in/a4etUy1",
+        "label": "Sandals from 99"
+      },
+      {
+        "url": "https://ajiio.in/axj5zgQ",
+        "label": "Flops from 99"
+      },
+      {
+        "url": "https://ajiio.in/UkdG4gv",
+        "label": "Formal Shoes from 149"
+      },
+      {
+        "url": "https://ajiio.in/8XvKwm7",
+        "label": "Sandals from 99"
+      },
+      {
+        "url": "https://ajiio.in/zgtI98y",
+        "label": "Flops from 99"
+      }
+    ],
+    "raw_text": "AJIO Loot : Footwears Starts @99.\n\nShoes from 99 : https://ajiio.in/vF8lGrH\nSandals from 99 : https://ajiio.in/a4etUy1\nFlip-Flops from 99 : https://ajiio.in/axj5zgQ\n\nFormal Shoes from 149 : https://ajiio.in/UkdG4gv\nSandals from 99 : https://ajiio.in/8XvKwm7\nFlip-Flops from 99 : https://ajiio.in/zgtI98y",
+    "final_url": "https://ajiio.in/vF8lGrH",
+    "local_image": "assets/images/tgmsg_21742.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-20T03:43:50+00:00",
+    "buy_link": "https://ajiio.in/vF8lGrH",
+    "date_iso": "2025-12-20T03:43:50+00:00"
+  },
+  {
     "id": "msg21739",
     "title": "CF DHT Blocker with Biotin",
     "description": "Amazon Grab : CF DHT Blocker with Biotin - 60 Caps @ 332/- 🔗https://www.amazon.in/dp/B0FL26Q48W?tag=bestpricezo0f-21 Supports Hair Growth - Pharma Grade",
@@ -9510,25 +9554,5 @@
     "date_obj": "2025-12-16T16:29:37+00:00",
     "buy_link": "https://myntr.in/blfKid",
     "date_iso": "2025-12-16T16:29:37+00:00"
-  },
-  {
-    "id": "msg21306",
-    "title": "Levis Jeans Flat Rs.1099",
-    "description": "Flipkart | Levis Jeans Flat Rs.1099 - https://fkrt.co/4z9EB0",
-    "shortlink": "https://fkrt.co/4z9EB0",
-    "urls": [
-      {
-        "url": "https://fkrt.co/4z9EB0",
-        "label": "Levis Jeans Flat Rs.1099"
-      }
-    ],
-    "raw_text": "Flipkart | Levis Jeans Flat Rs.1099\n\n- https://fkrt.co/4z9EB0",
-    "final_url": "https://fkrt.co/4z9EB0",
-    "local_image": "assets/images/tgmsg_21306.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-16T16:46:35+00:00",
-    "buy_link": "https://fkrt.co/4z9EB0",
-    "date_iso": "2025-12-16T16:46:35+00:00"
   }
 ]
