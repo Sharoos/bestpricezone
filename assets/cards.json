@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg21750",
+    "title": "Up to 80% Off On PUMA",
+    "description": "AJIO Upto 80% Off On PUMA. Mens : Womens : Shoes . Master Link : Mens : Womens : Kids :",
+    "shortlink": "https://ajiio.co/YAyYId",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 80% Off On PUMA"
+      },
+      {
+        "url": "https://ajiio.co/YAyYId",
+        "label": "Mens"
+      },
+      {
+        "url": "https://ajiio.co/4f6mCe",
+        "label": "Womens"
+      },
+      {
+        "url": "https://ajiio.co/pFXwtU",
+        "label": "Master"
+      },
+      {
+        "url": "https://ajiio.co/15lFsP",
+        "label": "Mens"
+      },
+      {
+        "url": "https://ajiio.co/JlrkeV",
+        "label": "Womens"
+      },
+      {
+        "url": "https://ajiio.co/WkVFLv",
+        "label": "Kids"
+      }
+    ],
+    "raw_text": "AJIO  Upto 80% Off On PUMA.\n\nMens : https://ajiio.co/YAyYId\nWomens : https://ajiio.co/4f6mCe\n\nShoes .\n\nMaster Link : https://ajiio.co/pFXwtU\n\nMens : https://ajiio.co/15lFsP\nWomens : https://ajiio.co/JlrkeV\nKids : https://ajiio.co/WkVFLv",
+    "final_url": "https://ajiio.co/YAyYId",
+    "local_image": "assets/images/tgmsg_21750.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-20T06:23:01+00:00",
+    "buy_link": "https://ajiio.co/YAyYId",
+    "date_iso": "2025-12-20T06:23:01+00:00"
+  },
+  {
     "id": "msg21748",
     "title": "GN6yiJXNY_Pyd_Ssq5nI&dib_tag=se&keywords=90%25%2Boff%2Bdeals&qid=1725278699&sprefix=90%25%2BOff%2B%2Caps%2C250&sr=8",
     "description": "Amazon | UV Protected Aviator Unisex Sunglasses 🛒Deal Price 389 Regular Price 1,499❌❌ 🔗",
@@ -9574,25 +9618,5 @@
     "date_obj": "2025-12-16T18:54:35+00:00",
     "buy_link": "https://myntr.in/odSpLb",
     "date_iso": "2025-12-16T18:54:35+00:00"
-  },
-  {
-    "id": "msg21314",
-    "title": "70% Off",
-    "description": "Myntra | Dove, Tresemme 1L Shampoos 60 - 70% Off 👉Link : https://myntr.in/5Spg3j",
-    "shortlink": "https://myntr.in/5Spg3j",
-    "urls": [
-      {
-        "url": "https://myntr.in/5Spg3j",
-        "label": "Dove, Tresemme 1L Shampoos 60 - 70% Off"
-      }
-    ],
-    "raw_text": "Myntra | Dove, Tresemme 1L Shampoos 60 - 70% Off\n\n👉Link : https://myntr.in/5Spg3j",
-    "final_url": "https://myntr.in/5Spg3j",
-    "local_image": "assets/images/tgmsg_21314.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-16T18:01:12+00:00",
-    "buy_link": "https://myntr.in/5Spg3j",
-    "date_iso": "2025-12-16T18:01:12+00:00"
   }
 ]
