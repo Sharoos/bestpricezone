@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21895",
+    "title": "👕 THE BEAR HOUSE Slim Fit Tie & Dye Crew",
+    "description": "👕 AJIO : THE BEAR HOUSE Slim Fit Tie & Dye Crew-Neck T-Shirt starting at ₹455 🔗 https://ajiio.co/os0tNX",
+    "shortlink": "https://ajiio.co/os0tNX",
+    "urls": [
+      {
+        "url": "https://ajiio.co/os0tNX",
+        "label": "👕 AJIO : THE BEAR HOUSE Slim Fit Tie & Dye Crew-Neck T-Shirt starting at ₹455"
+      }
+    ],
+    "raw_text": "👕 AJIO : THE BEAR HOUSE Slim Fit Tie & Dye Crew-Neck T-Shirt starting at ₹455\n\n🔗 https://ajiio.co/os0tNX",
+    "final_url": "https://ajiio.co/os0tNX",
+    "local_image": "assets/images/tgmsg_21895.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-21T11:26:32+00:00",
+    "buy_link": "https://ajiio.co/os0tNX",
+    "date_iso": "2025-12-21T11:26:32+00:00"
+  },
+  {
     "id": "msg21894",
     "title": "🛍 + Extra 10% Super Cash! 🎉",
     "description": "AJIO Min 60% Off On PUMA. Shoes : Men : Women : Kids : 🛍 + Extra 10% AJIO Super Cash! 🎉",
@@ -10146,25 +10166,5 @@
     "date_obj": "2025-12-18T05:54:24+00:00",
     "buy_link": "https://bitli.in/tYjfl1q",
     "date_iso": "2025-12-18T05:54:24+00:00"
-  },
-  {
-    "id": "msg21475",
-    "title": "73% Off",
-    "description": "Flipkart | 73% Off - Tefal Air Fryer(3.2 L) at Rs 1999 https://fkrt.co/zSTe2t",
-    "shortlink": "https://fkrt.co/zSTe2t",
-    "urls": [
-      {
-        "url": "https://fkrt.co/zSTe2t",
-        "label": "73% Off - Tefal Air Fryer(3.2 L) at Rs 1999"
-      }
-    ],
-    "raw_text": "Flipkart | 73% Off - Tefal Air Fryer(3.2 L) at Rs 1999 \n\n    https://fkrt.co/zSTe2t",
-    "final_url": "https://fkrt.co/zSTe2t",
-    "local_image": "assets/images/tgmsg_21475.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-18T04:46:23+00:00",
-    "buy_link": "https://fkrt.co/zSTe2t",
-    "date_iso": "2025-12-18T04:46:23+00:00"
   }
 ]
