@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg21861",
+    "title": "Up to 70% Off On CLARKS Footwea",
+    "description": "AJIO : Upto 70% Off On CLARKS Footwears. Women : https://ajiio.co/aPPnlh Men : https://ajiio.co/r2pINM",
+    "shortlink": "https://ajiio.co/aPPnlh",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70% Off On CLARKS Footwears"
+      },
+      {
+        "url": "https://ajiio.co/aPPnlh",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/r2pINM",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "AJIO : Upto 70% Off On CLARKS Footwears.\n\nWomen : https://ajiio.co/aPPnlh\nMen : https://ajiio.co/r2pINM",
+    "final_url": "https://ajiio.co/aPPnlh",
+    "local_image": "assets/images/tgmsg_21861.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-21T05:01:33+00:00",
+    "buy_link": "https://ajiio.co/aPPnlh",
+    "date_iso": "2025-12-21T05:01:33+00:00"
+  },
+  {
     "id": "msg21857",
     "title": "Kenstar 3 L Instant Water Geyser @ 2099",
     "description": "Flipkart | Kenstar 3 L Instant Water Geyser @ 2099. 👉https://fkrt.co/FSRlZC 5.5 L @ 2899 : https://fkrt.co/BpY6DH",
@@ -9998,25 +10026,5 @@
     "date_obj": "2025-12-17T17:46:33+00:00",
     "buy_link": "https://fkrt.co/MSXJ3N",
     "date_iso": "2025-12-17T17:46:33+00:00"
-  },
-  {
-    "id": "msg21429",
-    "title": "Glass Oil Spray Dispenser, 200ml @179",
-    "description": "Amazon | Glass Oil Spray Dispenser, 200ml @179. https://www.amazon.in/dp/B0F9GBWP2B?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F9GBWP2B?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F9GBWP2B?tag=bestpricezo0f-21",
-        "label": "Glass Oil Spray Dispenser, 200ml @179"
-      }
-    ],
-    "raw_text": "Amazon | Glass Oil Spray Dispenser, 200ml @179.\n\nhttps://www.amazon.in/dp/B0F9GBWP2B?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F9GBWP2B?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_21429.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-17T17:01:42+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F9GBWP2B?tag=bestpricezo0f-21",
-    "date_iso": "2025-12-17T17:01:42+00:00"
   }
 ]
