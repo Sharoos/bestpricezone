@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg21915",
+    "title": "Up to 85% Off On Campus Sutra Clothing",
+    "description": "Myntra  | Upto 85% Off On Campus Sutra Clothing. Men : https://myntr.in/Bji7Ia Women : https://myntr.in/13oDzv",
+    "shortlink": "https://myntr.in/Bji7Ia",
+    "urls": [
+      {
+        "url": "https://myntr.in/Bji7Ia",
+        "label": "Upto 85% Off On Campus Sutra Clothing"
+      },
+      {
+        "url": "https://myntr.in/13oDzv",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra  | Upto 85% Off On Campus Sutra Clothing.\n\nMen : https://myntr.in/Bji7Ia\nWomen : https://myntr.in/13oDzv",
+    "final_url": "https://myntr.in/Bji7Ia",
+    "local_image": "assets/images/tgmsg_21915.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-21T13:36:54+00:00",
+    "buy_link": "https://myntr.in/Bji7Ia",
+    "date_iso": "2025-12-21T13:36:54+00:00"
+  },
+  {
     "id": "msg21907",
     "title": "Pexpo Bottles Starts 299/",
     "description": "Myntra | Pexpo Bottles Starts 299/- 👉Link : https://myntr.in/38jFmZ",
@@ -10166,25 +10190,5 @@
     "date_obj": "2025-12-18T07:50:13+00:00",
     "buy_link": "https://myntr.in/GMxHje",
     "date_iso": "2025-12-18T07:50:13+00:00"
-  },
-  {
-    "id": "msg21489",
-    "title": "Marks and Spencer Flat 75% off",
-    "description": "Ajio | Marks and Spencer Flat 75% off https://ajiio.co/4FQkAD",
-    "shortlink": "https://ajiio.co/4FQkAD",
-    "urls": [
-      {
-        "url": "https://ajiio.co/4FQkAD",
-        "label": "Marks and Spencer Flat 75% off"
-      }
-    ],
-    "raw_text": "Ajio | Marks and Spencer Flat 75% off\n\nhttps://ajiio.co/4FQkAD",
-    "final_url": "https://ajiio.co/4FQkAD",
-    "local_image": "assets/images/tgmsg_21489.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-18T07:21:09+00:00",
-    "buy_link": "https://ajiio.co/4FQkAD",
-    "date_iso": "2025-12-18T07:21:09+00:00"
   }
 ]
