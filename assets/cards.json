@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21916",
+    "title": "Up to 65% Off On Boroplus Beauty Product",
+    "description": "Myntra | Upto 65% Off On Boroplus Beauty Products. 👉https://myntr.in/Dc5tbQ",
+    "shortlink": "https://myntr.in/Dc5tbQ",
+    "urls": [
+      {
+        "url": "https://myntr.in/Dc5tbQ",
+        "label": "Upto 65% Off On Boroplus Beauty Products"
+      }
+    ],
+    "raw_text": "Myntra | Upto 65% Off On Boroplus Beauty Products.\n\n👉https://myntr.in/Dc5tbQ",
+    "final_url": "https://myntr.in/Dc5tbQ",
+    "local_image": "assets/images/tgmsg_21916.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-21T13:51:32+00:00",
+    "buy_link": "https://myntr.in/Dc5tbQ",
+    "date_iso": "2025-12-21T13:51:32+00:00"
+  },
+  {
     "id": "msg21915",
     "title": "Up to 85% Off On Campus Sutra Clothing",
     "description": "Myntra  | Upto 85% Off On Campus Sutra Clothing. Men : https://myntr.in/Bji7Ia Women : https://myntr.in/13oDzv",
@@ -10170,25 +10190,5 @@
     "date_obj": "2025-12-18T08:19:11+00:00",
     "buy_link": "https://fkrt.co/wYYp3K",
     "date_iso": "2025-12-18T08:19:11+00:00"
-  },
-  {
-    "id": "msg21493",
-    "title": "GAP Sweatshirts Up to 50% Off starting @999",
-    "description": "Myntra | GAP Sweatshirts upto 50% Off starting @999 👉https://myntr.in/GMxHje",
-    "shortlink": "https://myntr.in/GMxHje",
-    "urls": [
-      {
-        "url": "https://myntr.in/GMxHje",
-        "label": "GAP Sweatshirts upto 50% Off starting @999"
-      }
-    ],
-    "raw_text": "Myntra | GAP Sweatshirts upto 50% Off starting @999\n\n👉https://myntr.in/GMxHje",
-    "final_url": "https://myntr.in/GMxHje",
-    "local_image": "assets/images/tgmsg_21493.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-18T07:50:13+00:00",
-    "buy_link": "https://myntr.in/GMxHje",
-    "date_iso": "2025-12-18T07:50:13+00:00"
   }
 ]
