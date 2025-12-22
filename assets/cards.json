@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22015",
+    "title": "Up to 87% Off",
+    "description": "Flipkart | Upto 87% Off -  Msm Zone Kids Tents Starting From @Rs.254 🔗https://fkrt.co/SnoztY",
+    "shortlink": "https://fkrt.co/SnoztY",
+    "urls": [
+      {
+        "url": "https://fkrt.co/SnoztY",
+        "label": "Upto 87% Off - Msm Zone Kids Tents Starting From @Rs.254"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 87% Off -  Msm Zone Kids Tents Starting From @Rs.254\n\n🔗https://fkrt.co/SnoztY",
+    "final_url": "https://fkrt.co/SnoztY",
+    "local_image": "assets/images/tgmsg_22015.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-22T11:50:12+00:00",
+    "buy_link": "https://fkrt.co/SnoztY",
+    "date_iso": "2025-12-22T11:50:12+00:00"
+  },
+  {
     "id": "msg22013",
     "title": "💰 Open Kotak 811 Savings Account now & get ₹6,000 Cashback + 5.75% Interest 😍",
     "description": "📣 SMART BANKING, BIGGER SAVINGS!📣  🌟Benefits You Get : ✔️ ₹6,000 Cashback with 811 Super ✔️ 5.75%* Interest with ActivMoney ✔️ 100% Digital Process (No Branch Visit) ✔️ Quick & Secure Online KYC 🧧 Open your account with…",
@@ -9730,29 +9750,5 @@
     "date_obj": "2025-12-18T19:29:07+00:00",
     "buy_link": "https://ajiio.co/XnlcTq",
     "date_iso": "2025-12-18T19:29:07+00:00"
-  },
-  {
-    "id": "msg21590",
-    "title": "Being human Min 65%",
-    "description": "Ajio | Monte Carlo- Min 30% https://ajiio.co/prttcc Being human Min 65% https://ajiio.co/nwyGu2",
-    "shortlink": "https://ajiio.co/prttcc",
-    "urls": [
-      {
-        "url": "https://ajiio.co/prttcc",
-        "label": "Monte Carlo- Min 30%"
-      },
-      {
-        "url": "https://ajiio.co/nwyGu2",
-        "label": "Being human Min 65%"
-      }
-    ],
-    "raw_text": "Ajio | Monte Carlo- Min 30%\nhttps://ajiio.co/prttcc\n\nBeing human Min 65%\nhttps://ajiio.co/nwyGu2",
-    "final_url": "https://ajiio.co/prttcc",
-    "local_image": "assets/images/tgmsg_21590.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-18T19:33:00+00:00",
-    "buy_link": "https://ajiio.co/prttcc",
-    "date_iso": "2025-12-18T19:33:00+00:00"
   }
 ]
