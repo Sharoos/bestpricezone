@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22003",
+    "title": "Up to 80% Off on Gear Travel Rucksack",
+    "description": "Flipkart | Upto 80% Off on Gear Travel Rucksacks 🔗https://fkrt.co/j60MrQ",
+    "shortlink": "https://fkrt.co/j60MrQ",
+    "urls": [
+      {
+        "url": "https://fkrt.co/j60MrQ",
+        "label": "Upto 80% Off on Gear Travel Rucksacks"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 80% Off on Gear Travel Rucksacks\n\n🔗https://fkrt.co/j60MrQ",
+    "final_url": "https://fkrt.co/j60MrQ",
+    "local_image": "assets/images/tgmsg_22003.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-22T09:45:13+00:00",
+    "buy_link": "https://fkrt.co/j60MrQ",
+    "date_iso": "2025-12-22T09:45:13+00:00"
+  },
+  {
     "id": "msg21995",
     "title": "Shopsy Arm Sleeve @ ₹38",
     "description": "Shopsy  Arm Sleeve @ ₹38 🔗https://extp.in/GE6cKo Min Buy 3 Qnty...",
@@ -9858,25 +9878,5 @@
     "date_obj": "2025-12-18T18:01:44+00:00",
     "buy_link": "https://fkrt.co/BW2lFr",
     "date_iso": "2025-12-18T18:01:44+00:00"
-  },
-  {
-    "id": "msg21567",
-    "title": "Lakme Liquid Eyeconic Eye Regime Kit @ 399",
-    "description": "Amazon | Lakme Liquid Eyeconic Eye Regime Kit @ 399. https://www.amazon.in/dp/B0CHW3BNXF?psc=1&th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CHW3BNXF?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CHW3BNXF?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "Lakme Liquid Eyeconic Eye Regime Kit @ 399"
-      }
-    ],
-    "raw_text": "Amazon | Lakme Liquid Eyeconic Eye Regime Kit @ 399.\n\nhttps://www.amazon.in/dp/B0CHW3BNXF?psc=1&th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CHW3BNXF?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_21567.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-18T18:06:07+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CHW3BNXF?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-18T18:06:07+00:00"
   }
 ]
