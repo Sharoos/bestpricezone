@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg21975",
+    "title": "Sweatshirts under ₹600, steal deal Limited Period Only!",
+    "description": "Ajio | Sweatshirts under ₹600, steal deal | Limited Period Only! https://ajiio.co/ikwdOc",
+    "shortlink": "https://ajiio.co/ikwdOc",
+    "urls": [
+      {
+        "url": "https://ajiio.co/ikwdOc",
+        "label": "Sweatshirts under ₹600, steal deal | Limited Period Only!"
+      }
+    ],
+    "raw_text": "Ajio | Sweatshirts under ₹600, steal deal | Limited Period Only!\n\nhttps://ajiio.co/ikwdOc",
+    "final_url": "https://ajiio.co/ikwdOc",
+    "local_image": "assets/images/tgmsg_21975.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-22T05:28:31+00:00",
+    "buy_link": "https://ajiio.co/ikwdOc",
+    "date_iso": "2025-12-22T05:28:31+00:00"
+  },
+  {
     "id": "msg21972",
     "title": "Up to 75% Off On Branded Men's Shoe",
     "description": "Ajio : Upto 75% Off On Branded Men's Shoes. https://ajiio.co/p2xpk7",
@@ -10046,37 +10066,5 @@
     "date_obj": "2025-12-18T16:17:47+00:00",
     "buy_link": "https://extp.in/BncIK7",
     "date_iso": "2025-12-18T16:17:47+00:00"
-  },
-  {
-    "id": "msg21552",
-    "title": "ONDC Portronics Flash Deals @ Rs.99 + Free Shipping 🔥🔥",
-    "description": "✅ Mobile Holder Stand with Metal Body At 99 Link: ✅ Griplet Best for Flat Surface - 3 Soft Silicone Rubber At 99 ✅ Cable USB to Micro 3A At 99",
-    "shortlink": "https://extp.in/pitIWE",
-    "urls": [
-      {
-        "url": "",
-        "label": "ONDC Portronics Flash Deals @ Rs.99 + Free Shipping 🔥🔥"
-      },
-      {
-        "url": "https://extp.in/pitIWE",
-        "label": "✅ Mobile Holder Stand with Metal Body At 99"
-      },
-      {
-        "url": "https://extp.in/OQQ1ef",
-        "label": "✅ Griplet Best for Flat Surface - 3 Soft Silicone Rubber At 99"
-      },
-      {
-        "url": "https://extp.in/zn8gWw",
-        "label": "✅ Cable USB to Micro 3A At 99"
-      }
-    ],
-    "raw_text": "ONDC Portronics Flash Deals @ Rs.99 + Free Shipping  🔥🔥\n\n✅ Mobile Holder Stand with Metal Body At 99\nLink: https://extp.in/pitIWE\n\n✅ Griplet Best for Flat Surface - 3 Soft Silicone Rubber At 99\nhttps://extp.in/OQQ1ef\n\n✅ Cable USB to Micro 3A At 99\nhttps://extp.in/zn8gWw",
-    "final_url": "https://extp.in/pitIWE",
-    "local_image": "assets/images/tgmsg_21552.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-18T16:23:03+00:00",
-    "buy_link": "https://extp.in/pitIWE",
-    "date_iso": "2025-12-18T16:23:03+00:00"
   }
 ]
