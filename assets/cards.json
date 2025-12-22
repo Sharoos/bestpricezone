@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg22047",
+    "title": "Jack & Jones Min 50% Off",
+    "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/RAjade",
+    "urls": [
+      {
+        "url": "https://ajiio.co/RAjade",
+        "label": "🔥AJIO | Jeans & Shorts Under ₹499"
+      },
+      {
+        "url": "https://ajiio.co/ktXAGM",
+        "label": "Performax Under ₹699"
+      },
+      {
+        "url": "https://ajiio.co/af9nQs",
+        "label": "Jack & Jones Min 50% Off"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "🔥AJIO | Jeans & Shorts Under ₹499\n👉https://ajiio.co/RAjade\n\nPerformax Under ₹699\n👉https://ajiio.co/ktXAGM\n\nJack & Jones Min 50% Off\n👉https://ajiio.co/af9nQs\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/RAjade",
+    "local_image": "assets/images/tgmsg_22047.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-22T15:06:05+00:00",
+    "buy_link": "https://ajiio.co/RAjade",
+    "date_iso": "2025-12-22T15:06:05+00:00"
+  },
+  {
+    "id": "msg22048",
+    "title": "Doormats & Curtains Starts @107",
+    "description": "Myntra : Doormats & Curtains Starts @107 👉https://myntr.in/FJLui2",
+    "shortlink": "https://myntr.in/FJLui2",
+    "urls": [
+      {
+        "url": "https://myntr.in/FJLui2",
+        "label": "Doormats & Curtains Starts @107"
+      }
+    ],
+    "raw_text": "Myntra : Doormats & Curtains Starts @107\n\n👉https://myntr.in/FJLui2",
+    "final_url": "https://myntr.in/FJLui2",
+    "local_image": "assets/images/tgmsg_22048.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-22T15:16:45+00:00",
+    "buy_link": "https://myntr.in/FJLui2",
+    "date_iso": "2025-12-22T15:16:45+00:00"
+  },
+  {
     "id": "msg22042",
     "title": "Fitness Mantra Yoga Mats Up to 80% Off",
     "description": "Flipkart | Fitness Mantra Yoga Mats Upto 80% Off 👉 https://fkrt.co/73inIQ",
@@ -9506,45 +9558,5 @@
     "date_obj": "2025-12-19T07:25:34+00:00",
     "buy_link": "https://extp.in/PFhFxo",
     "date_iso": "2025-12-19T07:25:34+00:00"
-  },
-  {
-    "id": "msg21615",
-    "title": "Biotique Fruit Brightening Face Wash 200mlx2 @288",
-    "description": "Amazon | Biotique Fruit Brightening Face Wash 200mlx2 @288 https://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Biotique Fruit Brightening Face Wash 200mlx2 @288"
-      }
-    ],
-    "raw_text": "Amazon | Biotique Fruit Brightening Face Wash 200mlx2 @288\n\nhttps://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_21615.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-19T06:53:22+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-19T06:53:22+00:00"
-  },
-  {
-    "id": "msg21611",
-    "title": "Set of 2 Door Curtains @ 299 Only!",
-    "description": "Myntra | Set of 2 Door Curtains @ 299 Only! 👉https://myntr.in/F61dJC",
-    "shortlink": "https://myntr.in/F61dJC",
-    "urls": [
-      {
-        "url": "https://myntr.in/F61dJC",
-        "label": "Set of 2 Door Curtains @ 299 Only!"
-      }
-    ],
-    "raw_text": "Myntra | Set of 2 Door Curtains @ 299 Only!\n\n👉https://myntr.in/F61dJC",
-    "final_url": "https://myntr.in/F61dJC",
-    "local_image": "assets/images/tgmsg_21611.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-19T06:06:07+00:00",
-    "buy_link": "https://myntr.in/F61dJC",
-    "date_iso": "2025-12-19T06:06:07+00:00"
   }
 ]
