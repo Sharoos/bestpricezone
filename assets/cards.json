@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22083",
+    "title": "USB Rechargeable Milk Frother At 288",
+    "description": "Flipkart GRAB : USB Rechargeable Milk Frother At 288 https://fkrt.co/ZJHtWm",
+    "shortlink": "https://fkrt.co/ZJHtWm",
+    "urls": [
+      {
+        "url": "https://fkrt.co/ZJHtWm",
+        "label": "USB Rechargeable Milk Frother At 288"
+      }
+    ],
+    "raw_text": "Flipkart GRAB : USB Rechargeable Milk Frother At 288\n\n  https://fkrt.co/ZJHtWm",
+    "final_url": "https://fkrt.co/ZJHtWm",
+    "local_image": "assets/images/tgmsg_22083.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-22T19:09:25+00:00",
+    "buy_link": "https://fkrt.co/ZJHtWm",
+    "date_iso": "2025-12-22T19:09:25+00:00"
+  },
+  {
     "id": "msg22072",
     "title": "Beanie Cap , Muffler & Gloves @ ₹80",
     "description": "Beanie Cap , Muffler & Gloves @ ₹80 https://extp.in/Sk284L Min Buy - 2",
@@ -9626,29 +9646,5 @@
     "date_obj": "2025-12-19T10:05:15+00:00",
     "buy_link": "https://extp.in/h2rN2R",
     "date_iso": "2025-12-19T10:05:15+00:00"
-  },
-  {
-    "id": "msg21641",
-    "title": "USPA & Hellcat and More Up to 82% Off",
-    "description": "AJIO : USPA & Hellcat and More Upto 82% Off 👉Link : https://ajiio.co/zUzNn8 + 10% EXTRA AJIO CASH",
-    "shortlink": "https://ajiio.co/zUzNn8",
-    "urls": [
-      {
-        "url": "https://ajiio.co/zUzNn8",
-        "label": "USPA & Hellcat and More Upto 82% Off"
-      },
-      {
-        "url": "",
-        "label": "+ 10% EXTRA AJIO CASH"
-      }
-    ],
-    "raw_text": "AJIO : USPA & Hellcat and More Upto 82% Off\n\n👉Link : https://ajiio.co/zUzNn8\n\n+ 10% EXTRA AJIO CASH",
-    "final_url": "https://ajiio.co/zUzNn8",
-    "local_image": "assets/images/tgmsg_21641.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-19T10:10:30+00:00",
-    "buy_link": "https://ajiio.co/zUzNn8",
-    "date_iso": "2025-12-19T10:10:30+00:00"
   }
 ]
