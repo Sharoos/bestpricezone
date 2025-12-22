@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg21991",
+    "title": "68% Off",
+    "description": "Flipkart | 68% Off - PHILIPS Buds At Rs.1049 🔗 https://fkrt.co/3CTYat",
+    "shortlink": "https://fkrt.co/3CTYat",
+    "urls": [
+      {
+        "url": "https://fkrt.co/3CTYat",
+        "label": "68% Off - PHILIPS Buds At Rs.1049"
+      }
+    ],
+    "raw_text": "Flipkart | 68% Off - PHILIPS Buds At Rs.1049\n\n🔗 https://fkrt.co/3CTYat",
+    "final_url": "https://fkrt.co/3CTYat",
+    "local_image": "assets/images/tgmsg_21991.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-22T08:10:10+00:00",
+    "buy_link": "https://fkrt.co/3CTYat",
+    "date_iso": "2025-12-22T08:10:10+00:00"
+  },
+  {
+    "id": "msg21992",
+    "title": "Up to 86% Off On Locomotive Clothing",
+    "description": "Myntra : Upto 86% Off On Locomotive Clothing. Tshirt : Shirts : Jeans : Sweatshirts : Trackpants : More :",
+    "shortlink": "https://myntr.in/XrnPr2",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 86% Off On Locomotive Clothing"
+      },
+      {
+        "url": "https://myntr.in/XrnPr2",
+        "label": "Tshirt"
+      },
+      {
+        "url": "https://myntr.in/QFkyDE",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://myntr.in/A4qJeu",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://myntr.in/n7h73H",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "https://myntr.in/nIMXQM",
+        "label": "Trackpants"
+      },
+      {
+        "url": "https://myntr.in/DkLNvO",
+        "label": "More"
+      }
+    ],
+    "raw_text": "Myntra : Upto 86% Off On Locomotive Clothing.\n\nTshirt : https://myntr.in/XrnPr2\nShirts : https://myntr.in/QFkyDE\nJeans : https://myntr.in/A4qJeu\nSweatshirts : https://myntr.in/n7h73H\nTrackpants : https://myntr.in/nIMXQM\nMore : https://myntr.in/DkLNvO",
+    "final_url": "https://myntr.in/XrnPr2",
+    "local_image": "assets/images/tgmsg_21992.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-22T08:20:12+00:00",
+    "buy_link": "https://myntr.in/XrnPr2",
+    "date_iso": "2025-12-22T08:20:12+00:00"
+  },
+  {
     "id": "msg21990",
     "title": "Up to 90% Off",
     "description": "Flipkart | Upto 90% Off - Sunglasses For Men & Women Starting From @Rs.169 🔗 https://fkrt.co/gjp0oE",
@@ -9926,45 +9990,5 @@
     "date_obj": "2025-12-18T18:39:45+00:00",
     "buy_link": "https://ajiio.in/b5sS82O",
     "date_iso": "2025-12-18T18:39:45+00:00"
-  },
-  {
-    "id": "msg21562",
-    "title": "Up to 75% OFF",
-    "description": "🔥Myntra | 👕 Snitch Men's Clothing - Up to 75% OFF https://myntr.in/hdSFac",
-    "shortlink": "https://myntr.in/hdSFac",
-    "urls": [
-      {
-        "url": "https://myntr.in/hdSFac",
-        "label": "🔥Myntra | 👕 Snitch Men's Clothing - Up to 75% OFF"
-      }
-    ],
-    "raw_text": "🔥Myntra | 👕 Snitch Men's Clothing - Up to 75% OFF\n\nhttps://myntr.in/hdSFac",
-    "final_url": "https://myntr.in/hdSFac",
-    "local_image": "assets/images/tgmsg_21562.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-18T17:51:10+00:00",
-    "buy_link": "https://myntr.in/hdSFac",
-    "date_iso": "2025-12-18T17:51:10+00:00"
-  },
-  {
-    "id": "msg21563",
-    "title": "💣WOW Skin Science Charcoal Face Wash – Pack of 2 (100 ml each) @ just Rs 159🔥🔥",
-    "description": "🛒 🤜 🤜 Note: Add to cart → Final payable amount shows 159 & Same products selling 400+ on other websites.",
-    "shortlink": "https://extp.in/o5SIxr",
-    "urls": [
-      {
-        "url": "https://extp.in/o5SIxr",
-        "label": "💣WOW Skin Science Charcoal Face Wash – Pack of 2 (100 ml each) @ just Rs 159🔥🔥"
-      }
-    ],
-    "raw_text": "💣WOW Skin Science Charcoal Face Wash – Pack of 2 (100 ml each) @ just Rs 159🔥🔥\n\n🛒https://extp.in/o5SIxr\n\n🤜 🤜 Note: Add to cart → Final payable amount shows  159 & Same products selling 400+ on other websites.",
-    "final_url": "https://extp.in/o5SIxr",
-    "local_image": "assets/images/tgmsg_21563.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-18T17:51:35+00:00",
-    "buy_link": "https://extp.in/o5SIxr",
-    "date_iso": "2025-12-18T17:51:35+00:00"
   }
 ]
