@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22125",
+    "title": "Dandruff Shampoo, Removes Dandruff fro... @₹185",
+    "description": "Amazon | Scalpe Pro Daily Anti-Dandruff Shampoo, Removes Dandruff fro... @₹185 🔗https://www.amazon.in/dp/B0BLM3Q44F?psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0BLM3Q44F?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0BLM3Q44F?psc=1&tag=bestpricezo0f-21",
+        "label": "Scalpe Pro Daily Anti-Dandruff Shampoo, Removes Dandruff fro... @₹185"
+      }
+    ],
+    "raw_text": "Amazon | Scalpe Pro Daily Anti-Dandruff Shampoo, Removes Dandruff fro... @₹185 \n\n🔗https://www.amazon.in/dp/B0BLM3Q44F?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0BLM3Q44F?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_22125.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-23T10:45:30+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0BLM3Q44F?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-23T10:45:30+00:00"
+  },
+  {
     "id": "msg22120",
     "title": "Shopsy Window Curtain From ₹85",
     "description": "Shopsy | Window Curtain From ₹85 🔗 https://extp.in/qCX0gB Min Buy - 2",
@@ -9702,29 +9722,5 @@
     "date_obj": "2025-12-19T13:46:26+00:00",
     "buy_link": "https://www.amazon.in/dp/B0BHTQPTRK?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-12-19T13:46:26+00:00"
-  },
-  {
-    "id": "msg21675",
-    "title": "The indian garage Flat 75% Off 🔥",
-    "description": "Ajio | The indian garage Flat 75% Off  🔥 🔗 Link : https://ajiio.co/8B9Myq + 10% EXTRA AJIO CASH",
-    "shortlink": "https://ajiio.co/8B9Myq",
-    "urls": [
-      {
-        "url": "https://ajiio.co/8B9Myq",
-        "label": "The indian garage Flat 75% Off 🔥"
-      },
-      {
-        "url": "",
-        "label": "+ 10% EXTRA AJIO CASH"
-      }
-    ],
-    "raw_text": "Ajio | The indian garage Flat 75% Off  🔥\n\n🔗 Link : https://ajiio.co/8B9Myq\n\n+ 10% EXTRA AJIO CASH",
-    "final_url": "https://ajiio.co/8B9Myq",
-    "local_image": "assets/images/tgmsg_21675.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-19T13:50:12+00:00",
-    "buy_link": "https://ajiio.co/8B9Myq",
-    "date_iso": "2025-12-19T13:50:12+00:00"
   }
 ]
