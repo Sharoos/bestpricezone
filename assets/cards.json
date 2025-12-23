@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22093",
+    "title": "tax%3A27060456031&s=price",
+    "description": "Amazon | boAt USB Cables Starts @149. https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
+    "shortlink": "https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
+        "label": "boAt USB Cables Starts @149"
+      }
+    ],
+    "raw_text": "Amazon | boAt USB Cables Starts @149. \n\nhttps://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
+    "final_url": "https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
+    "local_image": "assets/images/tgmsg_22093.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-23T05:01:32+00:00",
+    "buy_link": "https://www.amazon.in/s?k=boat+cable&rh=n%3A976392031%2Cp_89%3AboAt%2Cp_n_pct-off-with-tax%3A27060456031&s=price-asc-rank&i=computers&tag=bestpricezo0f-21&",
+    "date_iso": "2025-12-23T05:01:32+00:00"
+  },
+  {
     "id": "msg22090",
     "title": "rank&dc=&ds=v1%3AI%2BzfR1ACpGKM%2FPT0T9%2FEtHLh%2FtxqVIzNya%2FC4vUCZv4&qid=1766462265&tag=bestpricezo0f",
     "description": "Safari Backpacks Starts @411…",
@@ -9626,41 +9646,5 @@
     "date_obj": "2025-12-19T11:16:41+00:00",
     "buy_link": "https://extp.in/WVLOrG",
     "date_iso": "2025-12-19T11:16:41+00:00"
-  },
-  {
-    "id": "msg21649",
-    "title": "🤜 Add to cart → Final payable amount shows ₹159 & Same products selling ₹300+ on other website",
-    "description": "ONDC Portronics Flash Deals @ Rs.159 + Free Shipping 🔥🔥 Ruffpad 8.5 : Mport Mino A - USB 3.0 : Universal Mobile Stand with 360 Rotatable : Mouse 2400 DPI : 🤜 Note: Add to cart → Final payable amount shows ₹159 & Same…",
-    "shortlink": "https://extp.in/1zC2eO",
-    "urls": [
-      {
-        "url": "",
-        "label": "ONDC Portronics Flash Deals @ Rs.159 + Free Shipping 🔥🔥"
-      },
-      {
-        "url": "https://extp.in/1zC2eO",
-        "label": "Ruffpad 8.5"
-      },
-      {
-        "url": "https://extp.in/62Z2Ef",
-        "label": "USB 3.0"
-      },
-      {
-        "url": "https://extp.in/1BNLM2",
-        "label": "Universal Mobile Stand with 360 Rotatable"
-      },
-      {
-        "url": "https://extp.in/XZLobG",
-        "label": "Mouse 2400 DPI"
-      }
-    ],
-    "raw_text": "ONDC Portronics Flash Deals @ Rs.159 + Free Shipping 🔥🔥\n\nRuffpad 8.5 : https://extp.in/1zC2eO\nMport Mino A - USB 3.0 : https://extp.in/62Z2Ef\nUniversal Mobile Stand with 360 Rotatable :\nhttps://extp.in/1BNLM2\nMouse 2400 DPI : https://extp.in/XZLobG\n\n🤜 Note: Add to cart → Final payable amount shows ₹159 & Same products selling ₹300+ on other websites.",
-    "final_url": "https://extp.in/1zC2eO",
-    "local_image": "assets/images/tgmsg_21649.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-19T11:24:45+00:00",
-    "buy_link": "https://extp.in/1zC2eO",
-    "date_iso": "2025-12-19T11:24:45+00:00"
   }
 ]
