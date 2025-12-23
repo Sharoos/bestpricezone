@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg22170",
+    "title": "80% Off On Highlander Men Clothing",
+    "description": "Myntra : 70-80% Off On Highlander Men Clothing. T-Shirts :  https://myntr.in/1msSj4 Shirts : https://myntr.in/C34cJB Sweatshirts : https://myntr.in/2DXdSv Sweaters : https://myntr.in/yexLkO Jackets :…",
+    "shortlink": "https://myntr.in/1msSj4",
+    "urls": [
+      {
+        "url": "",
+        "label": "70-80% Off On Highlander Men Clothing"
+      },
+      {
+        "url": "https://myntr.in/1msSj4",
+        "label": "T-Shirts"
+      },
+      {
+        "url": "https://myntr.in/C34cJB",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://myntr.in/2DXdSv",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "https://myntr.in/yexLkO",
+        "label": "Sweaters"
+      },
+      {
+        "url": "https://myntr.in/eFiY5B",
+        "label": "Jackets"
+      },
+      {
+        "url": "https://myntr.in/V0s0mT",
+        "label": "Shackets"
+      }
+    ],
+    "raw_text": "Myntra : 70-80% Off On Highlander Men Clothing.\n\nT-Shirts :  https://myntr.in/1msSj4\nShirts : https://myntr.in/C34cJB\nSweatshirts : https://myntr.in/2DXdSv\nSweaters : https://myntr.in/yexLkO\nJackets : https://myntr.in/eFiY5B\nShackets : https://myntr.in/V0s0mT",
+    "final_url": "https://myntr.in/1msSj4",
+    "local_image": "assets/images/tgmsg_22170.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-23T17:35:50+00:00",
+    "buy_link": "https://myntr.in/1msSj4",
+    "date_iso": "2025-12-23T17:35:50+00:00"
+  },
+  {
     "id": "msg22168",
     "title": "🔥Wrogn Rucksacks Starts ₹439",
     "description": "Flipkart | 🔥Wrogn Rucksacks Starts ₹439 👉https://fkrt.co/hjPutR",
@@ -9926,25 +9970,5 @@
     "date_obj": "2025-12-19T18:46:48+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DCGDK9H2?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-12-19T18:46:48+00:00"
-  },
-  {
-    "id": "msg21726",
-    "title": "Apply ₹1000 off",
-    "description": "Amazon | Hisense 126cm (50 inches) E63N Series 4K Ultra HD Smart Google LED TV 50E63N @22999  coupon",
-    "shortlink": "https://www.amazon.in/dp/B0FDL1Z751?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FDL1Z751?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Hisense 126cm (50 inches) E63N Series 4K Ultra HD Smart Google LED TV 50E63N @22999"
-      }
-    ],
-    "raw_text": "Amazon | Hisense 126cm (50 inches) E63N Series 4K Ultra HD Smart Google LED TV 50E63N @22999\n\nApply ₹1000 off coupon\n\nhttps://www.amazon.in/dp/B0FDL1Z751?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FDL1Z751?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_21726.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-19T18:49:17+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FDL1Z751?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-19T18:49:17+00:00"
   }
 ]
