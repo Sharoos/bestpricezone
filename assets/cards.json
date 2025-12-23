@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg22103",
+    "title": "Up to 75% Off On Levi's Clothing",
+    "description": "Ajio | Upto 75% Off On Levi's Clothing Women's : Jeans : Men's : Jeans : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!",
+    "shortlink": "https://ajiio.co/IGXaVd",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On Levi's Clothing"
+      },
+      {
+        "url": "https://ajiio.co/IGXaVd",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/OTxgym",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/T2hUjJ",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/6j7r6A",
+        "label": "Jeans"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!"
+      }
+    ],
+    "raw_text": "Ajio  | Upto 75% Off On Levi's Clothing\n\nWomen's : https://ajiio.co/IGXaVd\nJeans : https://ajiio.co/OTxgym\n\nMen's : https://ajiio.co/T2hUjJ\nJeans : https://ajiio.co/6j7r6A\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!",
+    "final_url": "https://ajiio.co/IGXaVd",
+    "local_image": "assets/images/tgmsg_22103.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-23T06:46:18+00:00",
+    "buy_link": "https://ajiio.co/IGXaVd",
+    "date_iso": "2025-12-23T06:46:18+00:00"
+  },
+  {
     "id": "msg22098",
     "title": "Invictus Shirts Up to 83% Off",
     "description": "Myntra | Invictus Shirts Upto 83% Off 👉https://myntr.in/hDiWKd",
@@ -9618,41 +9658,5 @@
     "date_obj": "2025-12-19T12:10:25+00:00",
     "buy_link": "https://extp.in/Oonmg1",
     "date_iso": "2025-12-19T12:10:25+00:00"
-  },
-  {
-    "id": "msg21657",
-    "title": "Dropping Deal (Exclusive & Limited Time)",
-    "description": "🚨 AJIO UPCOMING ALERT🚨 🔥 Jaw- 👟 Branded Shoes at just ₹960* ⏰ GOING LIVE AT 6 PM - Apply Code - STEAL2",
-    "shortlink": "https://ajiio.co/VJkxbG",
-    "urls": [
-      {
-        "url": "",
-        "label": "🚨 AJIO UPCOMING ALERT🚨"
-      },
-      {
-        "url": "",
-        "label": "🔥 Jaw-Dropping Deal (Exclusive & Limited Time)"
-      },
-      {
-        "url": "",
-        "label": "👟 Branded Shoes at just ₹960*"
-      },
-      {
-        "url": "https://ajiio.co/VJkxbG",
-        "label": "⏰ GOING LIVE AT 6 PM"
-      },
-      {
-        "url": "",
-        "label": "STEAL2"
-      }
-    ],
-    "raw_text": "🚨 AJIO UPCOMING  ALERT🚨\n\n🔥 Jaw-Dropping Deal (Exclusive & Limited Time)\n\n👟 Branded Shoes at just ₹960*\n\n⏰ GOING LIVE AT 6 PM - https://ajiio.co/VJkxbG\n\nApply Code - STEAL2",
-    "final_url": "https://ajiio.co/VJkxbG",
-    "local_image": "assets/images/tgmsg_21657.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-19T12:20:04+00:00",
-    "buy_link": "https://ajiio.co/VJkxbG",
-    "date_iso": "2025-12-19T12:20:04+00:00"
   }
 ]
