@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg22235",
+    "title": "Shirts Starts @131",
+    "description": "Myntra | Oversized T-Shirts Starts @131 Men's : https://myntr.in/jcHsRh Women : https://myntr.in/pklIfY",
+    "shortlink": "https://myntr.in/jcHsRh",
+    "urls": [
+      {
+        "url": "",
+        "label": "Oversized T-Shirts Starts @131"
+      },
+      {
+        "url": "https://myntr.in/jcHsRh",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/pklIfY",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | Oversized T-Shirts Starts @131\n\nMen's : https://myntr.in/jcHsRh\nWomen : https://myntr.in/pklIfY",
+    "final_url": "https://myntr.in/jcHsRh",
+    "local_image": "assets/images/tgmsg_22235.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-24T10:51:19+00:00",
+    "buy_link": "https://myntr.in/jcHsRh",
+    "date_iso": "2025-12-24T10:51:19+00:00"
+  },
+  {
     "id": "msg22231",
     "title": "66% Off",
     "description": "Flipkart | 66% Off - Roadster Men Jeans At Rs.508 👉 https://fkrt.co/M0hUPC Master Link -  https://fkrt.co/6Do6O3",
@@ -9922,37 +9950,5 @@
     "date_obj": "2025-12-20T12:41:12+00:00",
     "buy_link": "https://www.amazon.in/s?k=High%20Star&rh=p_n_pct-off-with-tax%3A80-100&s=price-asc-rank&d_f_save=80-100&filter-by=0&primestatus=yes&search-term=High%20Star&shortby=2&topbrands=yes&tag=bestpricezo0f-21",
     "date_iso": "2025-12-20T12:41:12+00:00"
-  },
-  {
-    "id": "msg21778",
-    "title": "50gm At 110",
-    "description": "ONDC Love of India Gold Coffee - 5 cups At 29 🔥🔥 🤜 Link: ✅ Use Code : 30 👉🏻 Himalayan Shilajit Coffee At 55 : 👉🏻Instant Coffee -  :",
-    "shortlink": "https://extp.in/GXw8uC",
-    "urls": [
-      {
-        "url": "https://extp.in/GXw8uC",
-        "label": "5 cups At 29 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "✅ Use Code : 30"
-      },
-      {
-        "url": "https://extp.in/nWy9Zu",
-        "label": "🏻 Himalayan Shilajit Coffee At 55"
-      },
-      {
-        "url": "https://extp.in/fn8ob4",
-        "label": "🏻Instant Coffee - 50gm At 110"
-      }
-    ],
-    "raw_text": "ONDC  Love of India Gold Coffee - 5 cups At 29 🔥🔥\n\n🤜 Link: https://extp.in/GXw8uC\n\n✅ Use Code : 30\n\n👉🏻 Himalayan Shilajit Coffee At 55 : https://extp.in/nWy9Zu\n👉🏻Instant Coffee - 50gm At 110 : https://extp.in/fn8ob4",
-    "final_url": "https://extp.in/GXw8uC",
-    "local_image": "assets/images/tgmsg_21778.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-20T12:46:15+00:00",
-    "buy_link": "https://extp.in/GXw8uC",
-    "date_iso": "2025-12-20T12:46:15+00:00"
   }
 ]
