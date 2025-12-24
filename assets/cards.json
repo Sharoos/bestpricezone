@@ -1,5 +1,101 @@
 [
   {
+    "id": "msg22215",
+    "title": "🛒 Deal Price Up to 85% Off",
+    "description": "Flipkart | ⌚️ Lee Cooper Watch Steals! Lee Cooper Watches for Women 🛒 Deal Price: Up to 85% Off 👉 Lee Cooper Watches for Men 🛒 Deal Price: Up to 83% Off 👉",
+    "shortlink": "https://fkrt.co/LbJcOZ",
+    "urls": [
+      {
+        "url": "",
+        "label": "⌚️ Lee Cooper Watch Steals!"
+      },
+      {
+        "url": "",
+        "label": "Lee Cooper Watches for Women"
+      },
+      {
+        "url": "https://fkrt.co/LbJcOZ",
+        "label": "🛒 Deal Price: Up to 85% Off"
+      },
+      {
+        "url": "",
+        "label": "Lee Cooper Watches for Men"
+      },
+      {
+        "url": "https://fkrt.co/v29RMP",
+        "label": "🛒 Deal Price: Up to 83% Off"
+      }
+    ],
+    "raw_text": "Flipkart | ⌚️ Lee Cooper Watch Steals!\n\nLee Cooper Watches for Women\n\n🛒 Deal Price: Up to 85% Off\n\n👉 https://fkrt.co/LbJcOZ\n\nLee Cooper Watches for Men\n\n🛒 Deal Price: Up to 83% Off\n\n👉 https://fkrt.co/v29RMP",
+    "final_url": "https://fkrt.co/LbJcOZ",
+    "local_image": "assets/images/tgmsg_22215.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-24T07:01:29+00:00",
+    "buy_link": "https://fkrt.co/LbJcOZ",
+    "date_iso": "2025-12-24T07:01:29+00:00"
+  },
+  {
+    "id": "msg22216",
+    "title": "➤Pay Via Cred & Get Up to ₹200 Cashback",
+    "description": "MediBuddy Flat ₹4100 Off On MediBuddy Health Check-up 🔥🔥🔥 Full Body Check-up + Vitamin D + HbA1c Sugar Test + Thyroid (T3/T4/TSH) @ Rs.899 Link : Apply Coupon : MED50 ➤Worth ₹4,380 | Limited Time Offer. ➤Includes 64…",
+    "shortlink": "https://extp.in/bMf9js",
+    "urls": [
+      {
+        "url": "",
+        "label": "MediBuddy Flat ₹4100 Off On MediBuddy Health Check-up 🔥🔥🔥"
+      },
+      {
+        "url": "https://extp.in/bMf9js",
+        "label": "up + Vitamin D + HbA1c Sugar Test + Thyroid (T3/T4/TSH) @ Rs.899"
+      },
+      {
+        "url": "",
+        "label": "➤Worth ₹4,380 | Limited Time Offer"
+      },
+      {
+        "url": "",
+        "label": "➤Includes 64 Tests: CBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Thyroid (T3/T4/TSH), Vitamin D & more"
+      },
+      {
+        "url": "",
+        "label": "➤Bonus : Get JioSaavn Pro Subscription (1 Month) - Worth ₹299 for Free"
+      },
+      {
+        "url": "",
+        "label": "➤Pay Via Cred & Get Upto ₹200 Cashback"
+      }
+    ],
+    "raw_text": "MediBuddy  Flat ₹4100 Off On MediBuddy Health Check-up 🔥🔥🔥\n\nFull Body Check-up + Vitamin D + HbA1c Sugar Test + Thyroid (T3/T4/TSH) @ Rs.899\n\nLink : https://extp.in/bMf9js\n\nApply Coupon : MED50\n\n➤Worth ₹4,380 | Limited Time Offer.\n➤Includes 64 Tests: CBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Thyroid (T3/T4/TSH), Vitamin D & more.\n\n➤Bonus : Get JioSaavn Pro Subscription (1 Month) - Worth ₹299 for Free\n\n➤Pay Via Cred & Get Upto ₹200 Cashback",
+    "final_url": "https://extp.in/bMf9js",
+    "local_image": "assets/images/tgmsg_22216.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-24T07:04:20+00:00",
+    "buy_link": "https://extp.in/bMf9js",
+    "date_iso": "2025-12-24T07:04:20+00:00"
+  },
+  {
+    "id": "msg22218",
+    "title": "Branded Blankets From 749",
+    "description": "GRAB : Branded Blankets From 749. https://fkrt.co/8ARLAJ",
+    "shortlink": "https://fkrt.co/8ARLAJ",
+    "urls": [
+      {
+        "url": "https://fkrt.co/8ARLAJ",
+        "label": "Branded Blankets From 749"
+      }
+    ],
+    "raw_text": "GRAB : Branded Blankets From 749.\n\nhttps://fkrt.co/8ARLAJ",
+    "final_url": "https://fkrt.co/8ARLAJ",
+    "local_image": "assets/images/tgmsg_22218.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-24T07:29:27+00:00",
+    "buy_link": "https://fkrt.co/8ARLAJ",
+    "date_iso": "2025-12-24T07:29:27+00:00"
+  },
+  {
     "id": "msg22213",
     "title": "💥 Just ₹699 (⚡91% OFF)",
     "description": "Flipkart | 🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar 💥 Just ₹699 (⚡91% OFF) https://fkrt.co/kdmhet",
@@ -9918,177 +10014,5 @@
     "date_obj": "2025-12-20T09:50:00+00:00",
     "buy_link": "https://bitli.in/fKsBWzg",
     "date_iso": "2025-12-20T09:50:00+00:00"
-  },
-  {
-    "id": "msg21764",
-    "title": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre",
-    "description": "-approved limit. Apply Now - 💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀 ⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping. ⿢ Easy EMIs : Flexible repayment with no foreclosure charges. ⿣ Wide…",
-    "shortlink": "https://extp.in/ngYepf",
-    "urls": [
-      {
-        "url": "",
-        "label": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre-approved limit"
-      },
-      {
-        "url": "https://extp.in/ngYepf",
-        "label": "Apply Now"
-      },
-      {
-        "url": "",
-        "label": "💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀"
-      },
-      {
-        "url": "",
-        "label": "⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping"
-      },
-      {
-        "url": "",
-        "label": "⿢ Easy EMIs : Flexible repayment with no foreclosure charges"
-      },
-      {
-        "url": "",
-        "label": "⿣ Wide Usage : Accepted at 1.5+ lakh partner stores"
-      },
-      {
-        "url": "",
-        "label": "⿤ Quick Application : Apply, verify, and activate in minutes"
-      },
-      {
-        "url": "",
-        "label": "⿥ Hassle-Free Access : Manage everything on the Bajaj Finserv app"
-      },
-      {
-        "url": "",
-        "label": "Join thousands enjoying easy EMIs!"
-      }
-    ],
-    "raw_text": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre-approved limit.\n\nApply Now - https://extp.in/ngYepf\n\n💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀\n\n⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping.\n⿢ Easy EMIs : Flexible repayment with no foreclosure charges.\n⿣ Wide Usage : Accepted at 1.5+ lakh partner stores.\n⿤ Quick Application : Apply, verify, and activate in minutes.\n⿥ Hassle-Free Access : Manage everything on the Bajaj Finserv app\n\nJoin thousands enjoying easy EMIs!",
-    "final_url": "https://extp.in/ngYepf",
-    "local_image": "assets/images/tgmsg_21764.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-20T09:35:35+00:00",
-    "buy_link": "https://extp.in/ngYepf",
-    "date_iso": "2025-12-20T09:35:35+00:00"
-  },
-  {
-    "id": "msg21761",
-    "title": "Up to 70% Off On Premium Brands Clothing + Extra 10% Super Cash",
-    "description": "AJIO Upto 70% Off On Premium Brands Clothing + Extra 10% Super Cash. 70% Off On GAS : Men : Women : Upto 68% Off On SUPERDRY : Men : Women : Min. 50% Off On GAP : Women : Men : Boys : Girls : Upto 65% Off On Calvin…",
-    "shortlink": "https://ajiio.co/xdSduP",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 70% Off On Premium Brands Clothing + Extra 10% Super Cash"
-      },
-      {
-        "url": "https://ajiio.co/xdSduP",
-        "label": "70% Off On GAS"
-      },
-      {
-        "url": "https://ajiio.co/Pbd9wm",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/PRFD7g",
-        "label": "Upto 68% Off On SUPERDRY"
-      },
-      {
-        "url": "https://ajiio.co/sSlzwB",
-        "label": "Women"
-      },
-      {
-        "url": "",
-        "label": "Min. 50% Off On GAP"
-      },
-      {
-        "url": "https://ajiio.co/fNEkPl",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/V2hj8B",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.co/hMEtPo",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/IcPyds",
-        "label": "Girls"
-      },
-      {
-        "url": "https://ajiio.co/1cKvmg",
-        "label": "Upto 65% Off On Calvin Klein"
-      },
-      {
-        "url": "https://ajiio.co/dyRh0N",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/kGLGpE",
-        "label": "60% Off On Tommy Hilfiger"
-      },
-      {
-        "url": "https://ajiio.co/Au6pAt",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/2asIM6",
-        "label": "55% Off On Armani Exchange"
-      },
-      {
-        "url": "https://ajiio.co/9BCkpK",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "AJIO  Upto 70% Off On Premium Brands Clothing + Extra 10% Super Cash.\n\n70% Off On GAS :\nMen : https://ajiio.co/xdSduP\nWomen : https://ajiio.co/Pbd9wm\n\nUpto 68% Off On SUPERDRY :\nMen : https://ajiio.co/PRFD7g\nWomen : https://ajiio.co/sSlzwB\n\nMin. 50% Off On GAP :\nWomen : https://ajiio.co/fNEkPl\nMen : https://ajiio.co/V2hj8B\nBoys : https://ajiio.co/hMEtPo\nGirls : https://ajiio.co/IcPyds\n\nUpto 65% Off On Calvin Klein : \nMen : https://ajiio.co/1cKvmg\nWomen : https://ajiio.co/dyRh0N\n\n60% Off On Tommy Hilfiger : \nMen : https://ajiio.co/kGLGpE\nWomen : https://ajiio.co/Au6pAt\n\n55% Off On Armani Exchange :\nMen : https://ajiio.co/2asIM6\nWomen : https://ajiio.co/9BCkpK",
-    "final_url": "https://ajiio.co/xdSduP",
-    "local_image": "assets/images/tgmsg_21761.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-20T09:00:15+00:00",
-    "buy_link": "https://ajiio.co/xdSduP",
-    "date_iso": "2025-12-20T09:00:15+00:00"
-  },
-  {
-    "id": "msg21760",
-    "title": "➤Pay Via Cred & Get Up to ₹200 Cashback",
-    "description": "MediBuddy Flat ₹4100 Off On MediBuddy Health Check-up 🔥🔥🔥 Full Body Check-up + Vitamin D + HbA1c Sugar Test + Thyroid (T3/T4/TSH) @ Rs.899 Link : Apply Coupon : MED50 ➤Worth ₹4,380 | Limited Time Offer. ➤Includes 64…",
-    "shortlink": "https://extp.in/iNVPZX",
-    "urls": [
-      {
-        "url": "",
-        "label": "MediBuddy Flat ₹4100 Off On MediBuddy Health Check-up 🔥🔥🔥"
-      },
-      {
-        "url": "https://extp.in/iNVPZX",
-        "label": "up + Vitamin D + HbA1c Sugar Test + Thyroid (T3/T4/TSH) @ Rs.899"
-      },
-      {
-        "url": "",
-        "label": "➤Worth ₹4,380 | Limited Time Offer"
-      },
-      {
-        "url": "",
-        "label": "➤Includes 64 Tests: CBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Thyroid (T3/T4/TSH), Vitamin D & more"
-      },
-      {
-        "url": "",
-        "label": "➤Bonus : Get JioSaavn Pro Subscription (1 Month) - Worth ₹299 for Free"
-      },
-      {
-        "url": "",
-        "label": "➤Pay Via Cred & Get Upto ₹200 Cashback"
-      }
-    ],
-    "raw_text": "MediBuddy  Flat ₹4100 Off On MediBuddy Health Check-up 🔥🔥🔥\n\nFull Body Check-up + Vitamin D + HbA1c Sugar Test + Thyroid (T3/T4/TSH) @ Rs.899\n\nLink : https://extp.in/iNVPZX\n\nApply Coupon : MED50\n\n➤Worth ₹4,380 | Limited Time Offer.\n➤Includes 64 Tests: CBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Thyroid (T3/T4/TSH), Vitamin D & more.\n\n➤Bonus : Get JioSaavn Pro Subscription (1 Month) - Worth ₹299 for Free\n\n➤Pay Via Cred & Get Upto ₹200 Cashback",
-    "final_url": "https://extp.in/iNVPZX",
-    "local_image": "assets/images/tgmsg_21760.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-20T08:49:34+00:00",
-    "buy_link": "https://extp.in/iNVPZX",
-    "date_iso": "2025-12-20T08:49:34+00:00"
   }
 ]
