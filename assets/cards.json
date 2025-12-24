@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22223",
+    "title": "139",
+    "description": "139 : https://www.amazon.in/dp/B0FS3YRQXN?social_share=cm_sw_r_cso_wa_apin_dp_72XJW9NVM5T73N373S8N&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FS3YRQXN?social_share=cm_sw_r_cso_wa_apin_dp_72XJW9NVM5T73N373S8N&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FS3YRQXN?social_share=cm_sw_r_cso_wa_apin_dp_72XJW9NVM5T73N373S8N&tag=bestpricezo0f-21",
+        "label": "139"
+      }
+    ],
+    "raw_text": "139 : https://www.amazon.in/dp/B0FS3YRQXN?social_share=cm_sw_r_cso_wa_apin_dp_72XJW9NVM5T73N373S8N&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FS3YRQXN?social_share=cm_sw_r_cso_wa_apin_dp_72XJW9NVM5T73N373S8N&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_22223.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-24T07:50:11+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FS3YRQXN?social_share=cm_sw_r_cso_wa_apin_dp_72XJW9NVM5T73N373S8N&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-24T07:50:11+00:00"
+  },
+  {
     "id": "msg22219",
     "title": "25% discount on movie tickets (maximum ₹100)",
     "description": "IDFC FIRST Lifetime Free Credit Card. 📌Apply Now: • Lifetime Free – No Joining or Annual Fee • ₹500 Gift Voucher on spending ₹5,000 within 90 days • Reward Points with no expiry •  • Discounts on 300+ brands including…",
@@ -9974,33 +9994,5 @@
     "date_obj": "2025-12-20T11:28:44+00:00",
     "buy_link": "https://extp.in/gKvig1",
     "date_iso": "2025-12-20T11:28:44+00:00"
-  },
-  {
-    "id": "msg21768",
-    "title": "+ 10% Cashback",
-    "description": "Ajio | Branded Men's T-Shirts from Rs.100 👉 Branded Men's Shirts from Rs.180 👉 + 10% Ajio Cashback",
-    "shortlink": "https://ajiio.co/QsdfTP",
-    "urls": [
-      {
-        "url": "https://ajiio.co/QsdfTP",
-        "label": "Branded Men's T-Shirts from Rs.100"
-      },
-      {
-        "url": "https://ajiio.co/XCt7Va",
-        "label": "Branded Men's Shirts from Rs.180"
-      },
-      {
-        "url": "",
-        "label": "+ 10% Ajio Cashback"
-      }
-    ],
-    "raw_text": "Ajio | Branded Men's T-Shirts from Rs.100\n\n👉https://ajiio.co/QsdfTP \n\n Branded Men's Shirts from Rs.180\n\n👉https://ajiio.co/XCt7Va\n\n+ 10% Ajio Cashback",
-    "final_url": "https://ajiio.co/QsdfTP",
-    "local_image": "assets/images/tgmsg_21768.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-20T10:48:35+00:00",
-    "buy_link": "https://ajiio.co/QsdfTP",
-    "date_iso": "2025-12-20T10:48:35+00:00"
   }
 ]
