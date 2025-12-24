@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22230",
+    "title": "56% Off",
+    "description": "Flipkart | 56% Off - Sharp 197 L Refrigerator At Rs.10990 👉 https://fkrt.co/0C27ye",
+    "shortlink": "https://fkrt.co/0C27ye",
+    "urls": [
+      {
+        "url": "https://fkrt.co/0C27ye",
+        "label": "56% Off - Sharp 197 L Refrigerator At Rs.10990"
+      }
+    ],
+    "raw_text": "Flipkart | 56% Off - Sharp 197 L Refrigerator At Rs.10990\n\n👉 https://fkrt.co/0C27ye",
+    "final_url": "https://fkrt.co/0C27ye",
+    "local_image": "assets/images/tgmsg_22230.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-24T09:45:13+00:00",
+    "buy_link": "https://fkrt.co/0C27ye",
+    "date_iso": "2025-12-24T09:45:13+00:00"
+  },
+  {
     "id": "msg22227",
     "title": "85% Off",
     "description": "Flipkart | 85% Off -  Watch - For Men At Rs.2164 👉 https://fkrt.co/R5FgUN Master Link -  https://fkrt.co/4HJtce",
@@ -9926,45 +9946,5 @@
     "date_obj": "2025-12-20T12:10:53+00:00",
     "buy_link": "https://ajiio.co/Ojs2sA",
     "date_iso": "2025-12-20T12:10:53+00:00"
-  },
-  {
-    "id": "msg21772",
-    "title": "Up to 80% Off On Only Women's Clothing",
-    "description": "Flipkart | Upto 80% Off On Only Women's Clothing. Tops & T-Shirt : Sweaters : Jeans : Dresses : Jumpsuits :",
-    "shortlink": "https://fkrt.co/7pMcWc",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Only Women's Clothing"
-      },
-      {
-        "url": "https://fkrt.co/7pMcWc",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://fkrt.co/tWLuKP",
-        "label": "Sweaters"
-      },
-      {
-        "url": "https://fkrt.co/7KuU4B",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://fkrt.co/e3RGIj",
-        "label": "Dresses"
-      },
-      {
-        "url": "https://fkrt.co/GqxLO6",
-        "label": "Jumpsuits"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 80% Off On Only Women's Clothing.\n\nTops & T-Shirt : https://fkrt.co/7pMcWc\nSweaters : https://fkrt.co/tWLuKP\nJeans : https://fkrt.co/7KuU4B\nDresses : https://fkrt.co/e3RGIj\nJumpsuits : https://fkrt.co/GqxLO6",
-    "final_url": "https://fkrt.co/7pMcWc",
-    "local_image": "assets/images/tgmsg_21772.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-20T11:45:56+00:00",
-    "buy_link": "https://fkrt.co/7pMcWc",
-    "date_iso": "2025-12-20T11:45:56+00:00"
   }
 ]
