@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg22227",
+    "title": "85% Off",
+    "description": "Flipkart | 85% Off -  Watch - For Men At Rs.2164 👉 https://fkrt.co/R5FgUN Master Link -  https://fkrt.co/4HJtce",
+    "shortlink": "https://fkrt.co/R5FgUN",
+    "urls": [
+      {
+        "url": "https://fkrt.co/R5FgUN",
+        "label": "85% Off - Watch - For Men At Rs.2164"
+      },
+      {
+        "url": "https://fkrt.co/4HJtce",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Flipkart | 85% Off -  Watch - For Men At Rs.2164\n\n👉 https://fkrt.co/R5FgUN\n\nMaster Link -  https://fkrt.co/4HJtce",
+    "final_url": "https://fkrt.co/R5FgUN",
+    "local_image": "assets/images/tgmsg_22227.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-24T09:00:08+00:00",
+    "buy_link": "https://fkrt.co/R5FgUN",
+    "date_iso": "2025-12-24T09:00:08+00:00"
+  },
+  {
     "id": "msg22225",
     "title": "₹3500 Off with ICICI Credit Card",
     "description": "Mumbai Available 23,990 https://fktr.in/9kFFxrK 28,490 https://fktr.in/vsgMrr4 ₹3500 Off with ICICI Credit Cards",
@@ -9942,29 +9966,5 @@
     "date_obj": "2025-12-20T11:45:56+00:00",
     "buy_link": "https://fkrt.co/7pMcWc",
     "date_iso": "2025-12-20T11:45:56+00:00"
-  },
-  {
-    "id": "msg21770",
-    "title": "Up to 70% Off on Branded Belts @ 120💥💥💥💥",
-    "description": "Ajio | Upto 70% Off on Branded Belts @ 120💥💥💥💥 🔗🔗Link : 👉Earn 10% AJIO Super Cash on Every Order",
-    "shortlink": "https://ajiio.co/l7YOUl",
-    "urls": [
-      {
-        "url": "https://ajiio.co/l7YOUl",
-        "label": "Upto 70% Off on Branded Belts @ 120💥💥💥💥"
-      },
-      {
-        "url": "",
-        "label": "Earn 10% AJIO Super Cash on Every Order"
-      }
-    ],
-    "raw_text": "Ajio | Upto 70% Off on Branded Belts @ 120💥💥💥💥 \n \n🔗🔗Link : https://ajiio.co/l7YOUl\n\n👉Earn 10% AJIO Super Cash on Every Order",
-    "final_url": "https://ajiio.co/l7YOUl",
-    "local_image": "assets/images/tgmsg_21770.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-20T11:31:15+00:00",
-    "buy_link": "https://ajiio.co/l7YOUl",
-    "date_iso": "2025-12-20T11:31:15+00:00"
   }
 ]
