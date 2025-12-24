@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg22241",
+    "title": "69% Off",
+    "description": "Flipkart | 69% Off - PUMA Men Flip Flops At Rs.512 👉https://fkrt.co/kOMgJ0 Master Link -  https://fkrt.co/V0FRTE",
+    "shortlink": "https://fkrt.co/kOMgJ0",
+    "urls": [
+      {
+        "url": "https://fkrt.co/kOMgJ0",
+        "label": "69% Off - PUMA Men Flip Flops At Rs.512"
+      },
+      {
+        "url": "https://fkrt.co/V0FRTE",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Flipkart | 69% Off - PUMA Men Flip Flops At Rs.512\n\n 👉https://fkrt.co/kOMgJ0\n\nMaster Link -  https://fkrt.co/V0FRTE",
+    "final_url": "https://fkrt.co/kOMgJ0",
+    "local_image": "assets/images/tgmsg_22241.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-24T12:01:11+00:00",
+    "buy_link": "https://fkrt.co/kOMgJ0",
+    "date_iso": "2025-12-24T12:01:11+00:00"
+  },
+  {
     "id": "msg22240",
     "title": "HAMMER Drop 5W Bluetooth Wireless Speaker @398",
     "description": "Amazon | HAMMER Drop 5W Bluetooth Wireless Speaker @398…",
@@ -9842,37 +9866,5 @@
     "date_obj": "2025-12-20T13:27:10+00:00",
     "buy_link": "https://ajiio.co/uv16I9",
     "date_iso": "2025-12-20T13:27:10+00:00"
-  },
-  {
-    "id": "msg21785",
-    "title": "50gm At 110",
-    "description": "ONDC Love of India Gold Coffee - 5 cups At 29 🔥🔥 🤜 Link: ✅ Use Code : 30 👉🏻 Himalayan Shilajit Coffee At 55 : 👉🏻Instant Coffee -  :",
-    "shortlink": "https://extp.in/1dGMLR",
-    "urls": [
-      {
-        "url": "https://extp.in/1dGMLR",
-        "label": "5 cups At 29 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "✅ Use Code : 30"
-      },
-      {
-        "url": "https://extp.in/sBHUPz",
-        "label": "🏻 Himalayan Shilajit Coffee At 55"
-      },
-      {
-        "url": "https://extp.in/qDa9Vn",
-        "label": "🏻Instant Coffee - 50gm At 110"
-      }
-    ],
-    "raw_text": "ONDC  Love of India Gold Coffee - 5 cups At 29 🔥🔥\n\n🤜 Link: https://extp.in/1dGMLR\n\n✅ Use Code : 30\n\n👉🏻 Himalayan Shilajit Coffee At 55 : https://extp.in/sBHUPz\n👉🏻Instant Coffee - 50gm At 110 : https://extp.in/qDa9Vn",
-    "final_url": "https://extp.in/1dGMLR",
-    "local_image": "assets/images/tgmsg_21785.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-20T13:27:11+00:00",
-    "buy_link": "https://extp.in/1dGMLR",
-    "date_iso": "2025-12-20T13:27:11+00:00"
   }
 ]
