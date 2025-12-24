@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg22213",
+    "title": "💥 Just ₹699 (⚡91% OFF)",
+    "description": "Flipkart | 🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar 💥 Just ₹699 (⚡91% OFF) https://fkrt.co/kdmhet",
+    "shortlink": "https://fkrt.co/kdmhet",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar"
+      },
+      {
+        "url": "https://fkrt.co/kdmhet",
+        "label": "💥 Just ₹699 (⚡91% OFF)"
+      }
+    ],
+    "raw_text": "Flipkart | 🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar \n💥 Just ₹699 (⚡91% OFF)\n\nhttps://fkrt.co/kdmhet",
+    "final_url": "https://fkrt.co/kdmhet",
+    "local_image": "assets/images/tgmsg_22213.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-24T06:46:00+00:00",
+    "buy_link": "https://fkrt.co/kdmhet",
+    "date_iso": "2025-12-24T06:46:00+00:00"
+  },
+  {
     "id": "msg22209",
     "title": "🔹 Prepaid Discount Extra ₹1,500 OFF 💸",
     "description": "🚨 GOLD PRICE SURGING ⬆️ 💎 Lock the Lowest Rate NOW! ✨ Golden Sale in Vedhani ✨ 🔥 Big Savings on Pure Gold 🔥 💰 Product: PNG JEWELLERS – 3g | 24KT Vedhani 👉 Buy Now: ❌ Market Price: ₹14,105 / gram ✅ AJIO Price: ₹13,781 /…",
@@ -10066,25 +10090,5 @@
     "date_obj": "2025-12-20T08:49:34+00:00",
     "buy_link": "https://extp.in/iNVPZX",
     "date_iso": "2025-12-20T08:49:34+00:00"
-  },
-  {
-    "id": "msg21759",
-    "title": "METRONAUT Laptop Backpack at RS.300",
-    "description": "Flipkart | METRONAUT Laptop Backpack at RS.300 https://fkrt.co/nIzsH9",
-    "shortlink": "https://fkrt.co/nIzsH9",
-    "urls": [
-      {
-        "url": "https://fkrt.co/nIzsH9",
-        "label": "METRONAUT Laptop Backpack at RS.300"
-      }
-    ],
-    "raw_text": "Flipkart | METRONAUT Laptop Backpack at RS.300\n\nhttps://fkrt.co/nIzsH9",
-    "final_url": "https://fkrt.co/nIzsH9",
-    "local_image": "assets/images/tgmsg_21759.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-20T08:29:07+00:00",
-    "buy_link": "https://fkrt.co/nIzsH9",
-    "date_iso": "2025-12-20T08:29:07+00:00"
   }
 ]
