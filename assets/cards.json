@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22322",
+    "title": "Men's Footwear At Rs.310",
+    "description": "Flipkart | Men's Footwear At Rs.310. 👉Link : https://fkrt.co/O21WqB",
+    "shortlink": "https://fkrt.co/O21WqB",
+    "urls": [
+      {
+        "url": "https://fkrt.co/O21WqB",
+        "label": "Men's Footwear At Rs.310"
+      }
+    ],
+    "raw_text": "Flipkart | Men's Footwear At Rs.310.\n\n👉Link : https://fkrt.co/O21WqB",
+    "final_url": "https://fkrt.co/O21WqB",
+    "local_image": "assets/images/tgmsg_22322.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-25T05:50:57+00:00",
+    "buy_link": "https://fkrt.co/O21WqB",
+    "date_iso": "2025-12-25T05:50:57+00:00"
+  },
+  {
     "id": "msg22319",
     "title": "💥Up to 70% Off On Women Regular Top Starting From ₹90",
     "description": "💥Ajio | Upto 70% Off On Women Regular Top Starting From ₹90 👉Link : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
@@ -9726,45 +9746,5 @@
     "date_obj": "2025-12-21T05:37:27+00:00",
     "buy_link": "https://www.amazon.in/s?k=bullmer&i=apparel&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_123%3A654573%2Cp_6%3AAB57CX8LB83EF%2Cp_n_pct-off-with-tax%3A27060456031&dc=&ds=v1%3ApdR0EhD0dAlEKcEI94WJSt3gjweXkhjoVmmlNIHfTGE&crid=2QCTDGXP16M57&qid=1750662727&sprefix=bullme%2Caps%2C238&tag=bestpricezo0f-21",
     "date_iso": "2025-12-21T05:37:27+00:00"
-  },
-  {
-    "id": "msg21865",
-    "title": "Up to 80% Off On Branded Backpack",
-    "description": "Myntra | Upto 80% Off On Branded Backpacks. Master Link: Skybags: Safari: Wildcraft: Aristocrat:",
-    "shortlink": "https://myntr.in/vrkevM",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Branded Backpacks"
-      },
-      {
-        "url": "https://myntr.in/vrkevM",
-        "label": "Master"
-      },
-      {
-        "url": "https://myntr.in/brMcKS",
-        "label": "Skybags"
-      },
-      {
-        "url": "https://myntr.in/A6AitE",
-        "label": "Safari"
-      },
-      {
-        "url": "https://myntr.in/vHyJq9",
-        "label": "Wildcraft"
-      },
-      {
-        "url": "https://myntr.in/ObpEs0",
-        "label": "Aristocrat"
-      }
-    ],
-    "raw_text": "Myntra | Upto 80% Off On Branded Backpacks.\n\nMaster Link: https://myntr.in/vrkevM\n\nSkybags: https://myntr.in/brMcKS \nSafari: https://myntr.in/A6AitE \nWildcraft: https://myntr.in/vHyJq9 \nAristocrat: https://myntr.in/ObpEs0",
-    "final_url": "https://myntr.in/vrkevM",
-    "local_image": "assets/images/tgmsg_21865.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-21T05:45:55+00:00",
-    "buy_link": "https://myntr.in/vrkevM",
-    "date_iso": "2025-12-21T05:45:55+00:00"
   }
 ]
