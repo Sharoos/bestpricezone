@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg22351",
+    "title": "Up to 80% Off",
+    "description": "Flipkart | Upto 80% Off - Men's Trousers Starts Rs 492 🔗 https://fkrt.co/4RoJuk",
+    "shortlink": "https://fkrt.co/4RoJuk",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off - Men's Trousers"
+      },
+      {
+        "url": "https://fkrt.co/4RoJuk",
+        "label": "Starts Rs 492"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 80% Off - Men's Trousers\n\n Starts Rs 492\n\n🔗 https://fkrt.co/4RoJuk",
+    "final_url": "https://fkrt.co/4RoJuk",
+    "local_image": "assets/images/tgmsg_22351.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-25T11:45:16+00:00",
+    "buy_link": "https://fkrt.co/4RoJuk",
+    "date_iso": "2025-12-25T11:45:16+00:00"
+  },
+  {
     "id": "msg22350",
     "title": "MediBuddy Full Body Checkup (64 Tests) @ ₹899",
     "description": "MediBuddy Loot: Full Body Checkup (64 Tests) @ ₹899 (Worth ₹4,830) ✅Use Code: EK75 Link: Includes: (Blood • Sugar • Kidney • Liver • Thyroid • Vitamin D + more) • Win up to ₹200 Cashback via CRED UPI.",
@@ -9710,37 +9734,5 @@
     "date_obj": "2025-12-21T10:26:05+00:00",
     "buy_link": "https://ajiio.co/SmYZC6",
     "date_iso": "2025-12-21T10:26:05+00:00"
-  },
-  {
-    "id": "msg21892",
-    "title": "+ 10% EXTRA CASH",
-    "description": "AJIO  Cargo Pants Starts at 253. Men : https://ajiio.co/P6ozZ6 Women : https://ajiio.co/JAiQCp + 10% EXTRA AJIO CASH",
-    "shortlink": "https://ajiio.co/P6ozZ6",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Cargo Pants Starts at 253"
-      },
-      {
-        "url": "https://ajiio.co/P6ozZ6",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.co/JAiQCp",
-        "label": "Women"
-      },
-      {
-        "url": "",
-        "label": "+ 10% EXTRA AJIO CASH"
-      }
-    ],
-    "raw_text": "AJIO  Cargo Pants Starts at 253. \n \nMen : https://ajiio.co/P6ozZ6 \nWomen : https://ajiio.co/JAiQCp\n\n+ 10% EXTRA AJIO CASH",
-    "final_url": "https://ajiio.co/P6ozZ6",
-    "local_image": "assets/images/tgmsg_21892.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-21T10:40:58+00:00",
-    "buy_link": "https://ajiio.co/P6ozZ6",
-    "date_iso": "2025-12-21T10:40:58+00:00"
   }
 ]
