@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22379",
+    "title": "Denim Shirts Up to 79% Off",
+    "description": "Flipkart | Denim Shirts Upto 79% Off 👉https://fkrt.co/2KvueO",
+    "shortlink": "https://fkrt.co/2KvueO",
+    "urls": [
+      {
+        "url": "https://fkrt.co/2KvueO",
+        "label": "Denim Shirts Upto 79% Off"
+      }
+    ],
+    "raw_text": "Flipkart | Denim Shirts Upto 79% Off\n\n👉https://fkrt.co/2KvueO",
+    "final_url": "https://ww44.affinity.net/sssweb?enk=e760f703f8e8837aa1133871460d0e3aec5aa9a59a172c854543fc962edb2e0a65983b555d449801303b965009ca6e45e9ea5010b203523a97e62764c424d0fd&di=EPTG2905470&subid=2KvueO_p__p_&cc=IN&d=https%3A%2F%2Fdl.flipkart.com%2Fdl%2Fdl%2Fdl%2Fsearch%3Fq%3DDenim%2520Shirt%26as-show%3Don%26as%3Doff%26p%255B%255D%3Dfacets.discount_range_v1%255B%255D%253D70%2525%2520or%2520more%26&pwsvid=PW1766684520731S2KvueORcVQ3LoLJ&src=ot",
+    "local_image": "assets/images/tgmsg_22379.jpg",
+    "source_host": "ww44.affinity.net",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-25T17:31:53+00:00",
+    "buy_link": "https://fkrt.co/2KvueO",
+    "date_iso": "2025-12-25T17:31:53+00:00"
+  },
+  {
     "id": "msg22376",
     "title": "ONDC Up to 50% off on Derby Chocolates 🔥🔥",
     "description": "ONDC Upto 50% off on Derby Chocolates 🔥🔥 Caramel Eclairs Chocolate - 100 Pcs At 59 + FREE SHIPPING Use code : 30 | WOW30 Link: More: Coconut Toffees - Pack of 2 At 59 : Vitacin Orange Candy - Pack Of 2 At 63 : Sugar…",
@@ -9622,25 +9642,5 @@
     "date_obj": "2025-12-21T15:05:09+00:00",
     "buy_link": "https://ajiio.co/kDTCdv",
     "date_iso": "2025-12-21T15:05:09+00:00"
-  },
-  {
-    "id": "msg21922",
-    "title": "Towels (Pack Of 2) From 219",
-    "description": "Myntra  Towels (Pack Of 2) From 219. https://myntr.in/7FnYI1",
-    "shortlink": "https://myntr.in/7FnYI1",
-    "urls": [
-      {
-        "url": "https://myntr.in/7FnYI1",
-        "label": "Myntra Towels (Pack Of 2) From 219"
-      }
-    ],
-    "raw_text": "Myntra  Towels (Pack Of 2) From 219.\n\nhttps://myntr.in/7FnYI1",
-    "final_url": "https://myntr.in/7FnYI1",
-    "local_image": "assets/images/tgmsg_21922.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-21T14:49:23+00:00",
-    "buy_link": "https://myntr.in/7FnYI1",
-    "date_iso": "2025-12-21T14:49:23+00:00"
   }
 ]
