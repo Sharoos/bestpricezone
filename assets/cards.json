@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg22393",
+    "title": "Topwear Clothing Under at ₹199",
+    "description": "AJIO Loot : Topwear Clothing Under at  ₹199. Men's : https://ajiio.in/uq1VACp Women's : ajio.bitIy.in/sSKPbCw Boy’s : https://ajiio.in/zl3exWk Girl’s : https://ajiio.in/1rmHGEv Baby : https://ajiio.in/nQcoogU",
+    "shortlink": "https://ajiio.in/uq1VACp",
+    "urls": [
+      {
+        "url": "",
+        "label": "Topwear Clothing Under at ₹199"
+      },
+      {
+        "url": "https://ajiio.in/uq1VACp",
+        "label": "Men's"
+      },
+      {
+        "url": "",
+        "label": "Women's : ajio.bitIy.in/sSKPbCw"
+      },
+      {
+        "url": "https://ajiio.in/zl3exWk",
+        "label": "Boy’s"
+      },
+      {
+        "url": "https://ajiio.in/1rmHGEv",
+        "label": "Girl’s"
+      },
+      {
+        "url": "https://ajiio.in/nQcoogU",
+        "label": "Baby"
+      }
+    ],
+    "raw_text": "AJIO Loot : Topwear Clothing Under at  ₹199.\n\nMen's : https://ajiio.in/uq1VACp\nWomen's : ajio.bitIy.in/sSKPbCw\nBoy’s : https://ajiio.in/zl3exWk\nGirl’s : https://ajiio.in/1rmHGEv\nBaby : https://ajiio.in/nQcoogU",
+    "final_url": "https://ajiio.in/uq1VACp",
+    "local_image": "assets/images/tgmsg_22393.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-25T18:52:39+00:00",
+    "buy_link": "https://ajiio.in/uq1VACp",
+    "date_iso": "2025-12-25T18:52:39+00:00"
+  },
+  {
     "id": "msg22384",
     "title": "Ambrane 4 in 1 Wireless Charging 10000mAh Power Bank @ 1499",
     "description": "Amazon | Ambrane 4 in 1 Wireless Charging 10000mAh Power Bank @ 1499. https://www.amazon.in/dp/B0CL9H6X7L?tag=bestpricezo0f-21",
@@ -9650,45 +9690,5 @@
     "date_obj": "2025-12-21T16:08:05+00:00",
     "buy_link": "https://extp.in/OH0n1W",
     "date_iso": "2025-12-21T16:08:05+00:00"
-  },
-  {
-    "id": "msg21934",
-    "title": "➤Pay Via Cred & Get Up to ₹200 Cashback",
-    "description": "MediBuddy Flat ₹4100 Off On MediBuddy Health Check-up 🔥🔥🔥 Full Body Check-up + Vitamin D + HbA1c Sugar Test + Thyroid (T3/T4/TSH) @ Rs.899 Link : Apply Coupon : MED50 ➤Worth ₹4,380 | Limited Time Offer. ➤Includes 64…",
-    "shortlink": "https://extp.in/zseUWF",
-    "urls": [
-      {
-        "url": "",
-        "label": "MediBuddy Flat ₹4100 Off On MediBuddy Health Check-up 🔥🔥🔥"
-      },
-      {
-        "url": "https://extp.in/zseUWF",
-        "label": "up + Vitamin D + HbA1c Sugar Test + Thyroid (T3/T4/TSH) @ Rs.899"
-      },
-      {
-        "url": "",
-        "label": "➤Worth ₹4,380 | Limited Time Offer"
-      },
-      {
-        "url": "",
-        "label": "➤Includes 64 Tests: CBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Thyroid (T3/T4/TSH), Vitamin D & more"
-      },
-      {
-        "url": "",
-        "label": "➤Bonus : Get JioSaavn Pro Subscription (1 Month) - Worth ₹299 for Free"
-      },
-      {
-        "url": "",
-        "label": "➤Pay Via Cred & Get Upto ₹200 Cashback"
-      }
-    ],
-    "raw_text": "MediBuddy  Flat ₹4100 Off On MediBuddy Health Check-up 🔥🔥🔥\n\nFull Body Check-up + Vitamin D + HbA1c Sugar Test + Thyroid (T3/T4/TSH) @ Rs.899\n\nLink : https://extp.in/zseUWF\n\nApply Coupon : MED50\n\n➤Worth ₹4,380 | Limited Time Offer.\n➤Includes 64 Tests: CBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Thyroid (T3/T4/TSH), Vitamin D & more.\n\n➤Bonus : Get JioSaavn Pro Subscription (1 Month) - Worth ₹299 for Free\n\n➤Pay Via Cred & Get Upto ₹200 Cashback",
-    "final_url": "https://extp.in/zseUWF",
-    "local_image": "assets/images/tgmsg_21934.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-21T16:08:14+00:00",
-    "buy_link": "https://extp.in/zseUWF",
-    "date_iso": "2025-12-21T16:08:14+00:00"
   }
 ]
