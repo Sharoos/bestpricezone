@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg22372",
+    "title": "Up to 55% Off On Colgate Toothpaste",
+    "description": "Flipkart | Upto 55% Off On Colgate Toothpaste. 👉 https://fkrt.co/Gh1op1 Upto 55% Off On Dove Beauty. 👉 https://fkrt.co/bSZc4c",
+    "shortlink": "https://fkrt.co/Gh1op1",
+    "urls": [
+      {
+        "url": "https://fkrt.co/Gh1op1",
+        "label": "Upto 55% Off On Colgate Toothpaste"
+      },
+      {
+        "url": "https://fkrt.co/bSZc4c",
+        "label": "Upto 55% Off On Dove Beauty"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 55% Off On Colgate Toothpaste.\n\n👉 https://fkrt.co/Gh1op1\n\nUpto 55% Off On Dove Beauty.\n\n👉 https://fkrt.co/bSZc4c",
+    "final_url": "https://ww44.affinity.net/sssweb?enk=e760f703f8e8837aa1133871460d0e3aec5aa9a59a172c854543fc962edb2e0a65983b555d449801303b965009ca6e45e9ea5010b203523a97e62764c424d0fd&di=EPTG2905470&subid=Gh1op1_p__p_&cc=IN&d=https%3A%2F%2Fdl.flipkart.com%2Fdl%2Fdl%2Fbeauty-and-grooming%2Ftoothpaste%2Fpr%3Fsid%3Dg9b%252Ccey%252C7ym%26p%255B%255D%3Dfacets.discount_range_v1%25255B%25255D%253D20%252525%2520or%2520more%26p%255B%255D%3Dfacets.rating%25255B%25255D%253D4%2525E2%252598%252585%2520%252526%2520above%26p%255B%255D%3Dfacets.fulfilled_by%25255B%25255D%253DF-Assured%26q%3DColgate%26sort%3Drecency_desc%26&pwsvid=PW1766679113581SGh1op1R9Ps7kq90&src=ot",
+    "local_image": "assets/images/tgmsg_22372.jpg",
+    "source_host": "ww44.affinity.net",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-25T16:06:21+00:00",
+    "buy_link": "https://fkrt.co/Gh1op1",
+    "date_iso": "2025-12-25T16:06:21+00:00"
+  },
+  {
     "id": "msg22371",
     "title": "String Lights @ Rs.99/",
     "description": "Myntra : String Lights @ Rs.99/- https://myntr.in/chErWK",
@@ -9618,29 +9642,5 @@
     "date_obj": "2025-12-21T13:51:32+00:00",
     "buy_link": "https://myntr.in/Dc5tbQ",
     "date_iso": "2025-12-21T13:51:32+00:00"
-  },
-  {
-    "id": "msg21915",
-    "title": "Up to 85% Off On Campus Sutra Clothing",
-    "description": "Myntra  | Upto 85% Off On Campus Sutra Clothing. Men : https://myntr.in/Bji7Ia Women : https://myntr.in/13oDzv",
-    "shortlink": "https://myntr.in/Bji7Ia",
-    "urls": [
-      {
-        "url": "https://myntr.in/Bji7Ia",
-        "label": "Upto 85% Off On Campus Sutra Clothing"
-      },
-      {
-        "url": "https://myntr.in/13oDzv",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Myntra  | Upto 85% Off On Campus Sutra Clothing.\n\nMen : https://myntr.in/Bji7Ia\nWomen : https://myntr.in/13oDzv",
-    "final_url": "https://myntr.in/Bji7Ia",
-    "local_image": "assets/images/tgmsg_21915.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-21T13:36:54+00:00",
-    "buy_link": "https://myntr.in/Bji7Ia",
-    "date_iso": "2025-12-21T13:36:54+00:00"
   }
 ]
