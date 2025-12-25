@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22373",
+    "title": "Pexpo Bottles Under 299/",
+    "description": "Myntra | Pexpo Bottles Under 299/- 👉Link : https://myntr.in/XQgBIF",
+    "shortlink": "https://myntr.in/XQgBIF",
+    "urls": [
+      {
+        "url": "https://myntr.in/XQgBIF",
+        "label": "Pexpo Bottles Under 299/"
+      }
+    ],
+    "raw_text": "Myntra | Pexpo Bottles Under 299/- \n\n👉Link : https://myntr.in/XQgBIF",
+    "final_url": "https://myntr.in/XQgBIF",
+    "local_image": "assets/images/tgmsg_22373.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-25T16:17:01+00:00",
+    "buy_link": "https://myntr.in/XQgBIF",
+    "date_iso": "2025-12-25T16:17:01+00:00"
+  },
+  {
     "id": "msg22372",
     "title": "Up to 55% Off On Colgate Toothpaste",
     "description": "Flipkart | Upto 55% Off On Colgate Toothpaste. 👉 https://fkrt.co/Gh1op1 Upto 55% Off On Dove Beauty. 👉 https://fkrt.co/bSZc4c",
@@ -9622,25 +9642,5 @@
     "date_obj": "2025-12-21T14:24:06+00:00",
     "buy_link": "https://ajiio.co/IssobI",
     "date_iso": "2025-12-21T14:24:06+00:00"
-  },
-  {
-    "id": "msg21916",
-    "title": "Up to 65% Off On Boroplus Beauty Product",
-    "description": "Myntra | Upto 65% Off On Boroplus Beauty Products. 👉https://myntr.in/Dc5tbQ",
-    "shortlink": "https://myntr.in/Dc5tbQ",
-    "urls": [
-      {
-        "url": "https://myntr.in/Dc5tbQ",
-        "label": "Upto 65% Off On Boroplus Beauty Products"
-      }
-    ],
-    "raw_text": "Myntra | Upto 65% Off On Boroplus Beauty Products.\n\n👉https://myntr.in/Dc5tbQ",
-    "final_url": "https://myntr.in/Dc5tbQ",
-    "local_image": "assets/images/tgmsg_21916.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-21T13:51:32+00:00",
-    "buy_link": "https://myntr.in/Dc5tbQ",
-    "date_iso": "2025-12-21T13:51:32+00:00"
   }
 ]
