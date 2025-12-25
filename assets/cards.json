@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22400",
+    "title": "Port USB 3.0 Hub @199",
+    "description": "Amazon | Sounce 4-Port USB 3.0 Hub @199 https://www.amazon.in/dp/B0DHZBTM3R?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DHZBTM3R?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DHZBTM3R?tag=bestpricezo0f-21",
+        "label": "Sounce 4-Port USB 3.0 Hub @199"
+      }
+    ],
+    "raw_text": "Amazon | Sounce 4-Port USB 3.0 Hub @199\n\nhttps://www.amazon.in/dp/B0DHZBTM3R?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DHZBTM3R?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_22400.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-25T20:35:30+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DHZBTM3R?tag=bestpricezo0f-21",
+    "date_iso": "2025-12-25T20:35:30+00:00"
+  },
+  {
     "id": "msg22393",
     "title": "Topwear Clothing Under at ₹199",
     "description": "AJIO Loot : Topwear Clothing Under at  ₹199. Men's : https://ajiio.in/uq1VACp Women's : ajio.bitIy.in/sSKPbCw Boy’s : https://ajiio.in/zl3exWk Girl’s : https://ajiio.in/1rmHGEv Baby : https://ajiio.in/nQcoogU",
@@ -9662,33 +9682,5 @@
     "date_obj": "2025-12-21T16:07:56+00:00",
     "buy_link": "https://extp.in/G9b4kj",
     "date_iso": "2025-12-21T16:07:56+00:00"
-  },
-  {
-    "id": "msg21933",
-    "title": "Portronics Universal Travel Adapter (Suitable 180+ Countries) At ₹129 + FREE Shipping",
-    "description": "ONDC Deal 🔥 🔥  Use Code: EK30 👉 📝 Note: Add to cart, Price shows ₹159 → Apply code will be Final price ₹129",
-    "shortlink": "https://extp.in/OH0n1W",
-    "urls": [
-      {
-        "url": "",
-        "label": "ONDC Deal 🔥 🔥"
-      },
-      {
-        "url": "",
-        "label": "Portronics Universal Travel Adapter (Suitable 180+ Countries) At ₹129 + FREE Shipping"
-      },
-      {
-        "url": "https://extp.in/OH0n1W",
-        "label": "EK30"
-      }
-    ],
-    "raw_text": "ONDC  Deal 🔥 🔥 \n\nPortronics Universal Travel Adapter (Suitable 180+ Countries)  At  ₹129 + FREE Shipping\n\nUse Code: EK30\n\n👉 https://extp.in/OH0n1W\n\n📝 Note: Add to cart, Price shows ₹159  →  Apply code will be Final price ₹129",
-    "final_url": "https://extp.in/OH0n1W",
-    "local_image": "assets/images/tgmsg_21933.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-21T16:08:05+00:00",
-    "buy_link": "https://extp.in/OH0n1W",
-    "date_iso": "2025-12-21T16:08:05+00:00"
   }
 ]
