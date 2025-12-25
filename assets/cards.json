@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg22380",
+    "title": "Up to 70% Off On USPA Clothing",
+    "description": "Ajio : Upto 70% Off On USPA Clothing. Men's : https://ajiio.co/m9asqK Women's : https://ajiio.co/J9MSh5 Boys : https://ajiio.co/JJaEyD Girls : https://ajiio.co/JhKqVa",
+    "shortlink": "https://ajiio.co/m9asqK",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70% Off On USPA Clothing"
+      },
+      {
+        "url": "https://ajiio.co/m9asqK",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/J9MSh5",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/JJaEyD",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/JhKqVa",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "Ajio : Upto 70% Off On USPA Clothing.\n\nMen's : https://ajiio.co/m9asqK\nWomen's : https://ajiio.co/J9MSh5\nBoys : https://ajiio.co/JJaEyD\nGirls : https://ajiio.co/JhKqVa",
+    "final_url": "https://ajiio.co/m9asqK",
+    "local_image": "assets/images/tgmsg_22380.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-25T17:46:24+00:00",
+    "buy_link": "https://ajiio.co/m9asqK",
+    "date_iso": "2025-12-25T17:46:24+00:00"
+  },
+  {
     "id": "msg22379",
     "title": "Denim Shirts Up to 79% Off",
     "description": "Flipkart | Denim Shirts Upto 79% Off 👉https://fkrt.co/2KvueO",
@@ -9622,25 +9658,5 @@
     "date_obj": "2025-12-21T14:56:04+00:00",
     "buy_link": "https://fkrt.co/f46yaQ",
     "date_iso": "2025-12-21T14:56:04+00:00"
-  },
-  {
-    "id": "msg21924",
-    "title": "💥Topwear Min 80% OFF",
-    "description": "💥AJIO : Topwear Min 80% OFF Link : https://ajiio.co/kDTCdv",
-    "shortlink": "https://ajiio.co/kDTCdv",
-    "urls": [
-      {
-        "url": "https://ajiio.co/kDTCdv",
-        "label": "💥AJIO : Topwear Min 80% OFF"
-      }
-    ],
-    "raw_text": "💥AJIO : Topwear Min 80% OFF  \n \nLink : https://ajiio.co/kDTCdv",
-    "final_url": "https://ajiio.co/kDTCdv",
-    "local_image": "assets/images/tgmsg_21924.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-21T15:05:09+00:00",
-    "buy_link": "https://ajiio.co/kDTCdv",
-    "date_iso": "2025-12-21T15:05:09+00:00"
   }
 ]
