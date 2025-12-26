@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22402",
+    "title": "Titan Watches Up to 50% Off",
+    "description": "Myntra | Titan Watches Upto 50% Off 👉Link : https://myntr.in/IGxxoy",
+    "shortlink": "https://myntr.in/IGxxoy",
+    "urls": [
+      {
+        "url": "https://myntr.in/IGxxoy",
+        "label": "Titan Watches Upto 50% Off"
+      }
+    ],
+    "raw_text": "Myntra | Titan Watches Upto 50% Off\n\n👉Link : https://myntr.in/IGxxoy",
+    "final_url": "https://myntr.in/IGxxoy",
+    "local_image": "assets/images/tgmsg_22402.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-26T04:10:45+00:00",
+    "buy_link": "https://myntr.in/IGxxoy",
+    "date_iso": "2025-12-26T04:10:45+00:00"
+  },
+  {
     "id": "msg22401",
     "title": "Footwears Starts ₹199",
     "description": "AJIO . Shoes from 199 : Sandals from 199 : Flip-Flops from 149 : Formal Shoes from 149 : Sandals from 199 :",
@@ -9678,25 +9698,5 @@
     "date_obj": "2025-12-21T15:58:43+00:00",
     "buy_link": "https://extp.in/j1HB0f",
     "date_iso": "2025-12-21T15:58:43+00:00"
-  },
-  {
-    "id": "msg21931",
-    "title": "Up to 60% Off On Head & Shoulder Shampoo",
-    "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos. https://fkrt.co/JypUf6",
-    "shortlink": "https://fkrt.co/JypUf6",
-    "urls": [
-      {
-        "url": "https://fkrt.co/JypUf6",
-        "label": "Upto 60% Off On Head & Shoulder Shampoos"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos.\n\nhttps://fkrt.co/JypUf6",
-    "final_url": "https://fkrt.co/JypUf6",
-    "local_image": "assets/images/tgmsg_21931.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-21T15:58:45+00:00",
-    "buy_link": "https://fkrt.co/JypUf6",
-    "date_iso": "2025-12-21T15:58:45+00:00"
   }
 ]
