@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg22463",
+    "title": "Up to 75% Off On Beanie Hat",
+    "description": "Ajio | Upto 75% Off On Beanie Hat. Men : https://ajiio.co/F7D52k Women : https://ajiio.co/IOz35o Girls : https://ajiio.co/tgQVd6 Boys : https://ajiio.co/2dV7dP MasterLink : https://ajiio.co/emrnjM",
+    "shortlink": "https://ajiio.co/F7D52k",
+    "urls": [
+      {
+        "url": "https://ajiio.co/F7D52k",
+        "label": "Upto 75% Off On Beanie Hat"
+      },
+      {
+        "url": "https://ajiio.co/IOz35o",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/tgQVd6",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/2dV7dP",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/emrnjM",
+        "label": "MasterLink"
+      }
+    ],
+    "raw_text": "Ajio | Upto 75% Off On Beanie Hat.\n\nMen : https://ajiio.co/F7D52k\nWomen : https://ajiio.co/IOz35o\nGirls : https://ajiio.co/tgQVd6\nBoys : https://ajiio.co/2dV7dP\n\nMasterLink : https://ajiio.co/emrnjM",
+    "final_url": "https://ajiio.co/F7D52k",
+    "local_image": "assets/images/tgmsg_22463.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-26T17:35:50+00:00",
+    "buy_link": "https://ajiio.co/F7D52k",
+    "date_iso": "2025-12-26T17:35:50+00:00"
+  },
+  {
     "id": "msg22462",
     "title": "💥Topwear Min 80% OFF",
     "description": "💥AJIO : Topwear Min 80% OFF Link : https://ajiio.co/x4OJAl",
@@ -9934,25 +9970,5 @@
     "date_obj": "2025-12-22T10:50:13+00:00",
     "buy_link": "https://extp.in/MciBG2",
     "date_iso": "2025-12-22T10:50:13+00:00"
-  },
-  {
-    "id": "msg22005",
-    "title": "Flat 5% off on Gold & Diamond Jewellery",
-    "description": "Myntra | Flat 5% off on Gold & Diamond Jewellery Use coupon code : JWLSOFF 🔗https://myntr.in/u0ftvV",
-    "shortlink": "https://myntr.in/u0ftvV",
-    "urls": [
-      {
-        "url": "https://myntr.in/u0ftvV",
-        "label": "Flat 5% off on Gold & Diamond Jewellery"
-      }
-    ],
-    "raw_text": "Myntra | Flat 5% off on Gold & Diamond Jewellery\n\nUse coupon code : JWLSOFF\n\n🔗https://myntr.in/u0ftvV",
-    "final_url": "https://myntr.in/u0ftvV",
-    "local_image": "assets/images/tgmsg_22005.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-22T10:40:21+00:00",
-    "buy_link": "https://myntr.in/u0ftvV",
-    "date_iso": "2025-12-22T10:40:21+00:00"
   }
 ]
