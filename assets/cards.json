@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg22432",
+    "title": "For Needy @ ₹4999. 🔥🔥",
+    "description": "Amazon |  For Needy @ ₹4999.  🔥🔥 POCO C51 : https://www.amazon.in/dp/B0C1SXGSH4?psc=1&th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0C1SXGSH4?psc=1&th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "For Needy @ ₹4999. 🔥🔥"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0C1SXGSH4?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "POCO C51"
+      }
+    ],
+    "raw_text": "Amazon |  For Needy @ ₹4999.  🔥🔥\n\nPOCO C51 : https://www.amazon.in/dp/B0C1SXGSH4?psc=1&th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0C1SXGSH4?psc=1&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_22432.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-26T10:55:56+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0C1SXGSH4?psc=1&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-26T10:55:56+00:00"
+  },
+  {
     "id": "msg22430",
     "title": "Up to 80% Off On Premium Brand Shoe",
     "description": "AJIO Upto 80% Off On Premium Brand Shoes. Men's Shoes👇. Adidas : Puma : Nike : Reebok : Campus : Red Tape : Skechers : Red Chief : Women's Shoes👇. Adidas : Puma : Nike : Reebok : Campus : Red Tape : Skechers :",
@@ -9890,25 +9914,5 @@
     "date_obj": "2025-12-22T05:07:13+00:00",
     "buy_link": "https://bitli.in/1XzTG6h",
     "date_iso": "2025-12-22T05:07:13+00:00"
-  },
-  {
-    "id": "msg21969",
-    "title": "HRX Shocks Pack of 3 starts @188",
-    "description": "Myntra | HRX Shocks Pack of 3 starts @188 Link : https://myntr.in/90TfZb",
-    "shortlink": "https://myntr.in/90TfZb",
-    "urls": [
-      {
-        "url": "https://myntr.in/90TfZb",
-        "label": "HRX Shocks Pack of 3 starts @188"
-      }
-    ],
-    "raw_text": "Myntra | HRX Shocks Pack of 3 starts @188\n\nLink : https://myntr.in/90TfZb",
-    "final_url": "https://myntr.in/90TfZb",
-    "local_image": "assets/images/tgmsg_21969.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-22T04:29:10+00:00",
-    "buy_link": "https://myntr.in/90TfZb",
-    "date_iso": "2025-12-22T04:29:10+00:00"
   }
 ]
