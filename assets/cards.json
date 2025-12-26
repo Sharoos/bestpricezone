@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22436",
+    "title": "Longway 1000W Electric Sandwich Maker, Grill & Toaster @ ₹1299",
+    "description": "Amazon  | Longway 1000W Electric Sandwich Maker, Grill & Toaster @ ₹1299 🔗 https://www.amazon.in/dp/B0D5HRX15K?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0D5HRX15K?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0D5HRX15K?tag=bestpricezo0f-21",
+        "label": "Longway 1000W Electric Sandwich Maker, Grill & Toaster @ ₹1299"
+      }
+    ],
+    "raw_text": "Amazon  | Longway 1000W Electric Sandwich Maker, Grill & Toaster @ ₹1299\n\n🔗 https://www.amazon.in/dp/B0D5HRX15K?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D5HRX15K?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_22436.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-26T11:52:24+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D5HRX15K?tag=bestpricezo0f-21",
+    "date_iso": "2025-12-26T11:52:24+00:00"
+  },
+  {
     "id": "msg22435",
     "title": "Jaguar Fragrance Up to 70% off starting From @Rs.1080",
     "description": "Myntra | Jaguar Fragrance upto 70% off starting From @Rs.1080 🔗 https://myntr.in/2bmcrZ",
@@ -9894,25 +9914,5 @@
     "date_obj": "2025-12-22T05:55:46+00:00",
     "buy_link": "https://ajiio.co/wWtFAx",
     "date_iso": "2025-12-22T05:55:46+00:00"
-  },
-  {
-    "id": "msg21975",
-    "title": "Sweatshirts under ₹600, steal deal Limited Period Only!",
-    "description": "Ajio | Sweatshirts under ₹600, steal deal | Limited Period Only! https://ajiio.co/ikwdOc",
-    "shortlink": "https://ajiio.co/ikwdOc",
-    "urls": [
-      {
-        "url": "https://ajiio.co/ikwdOc",
-        "label": "Sweatshirts under ₹600, steal deal | Limited Period Only!"
-      }
-    ],
-    "raw_text": "Ajio | Sweatshirts under ₹600, steal deal | Limited Period Only!\n\nhttps://ajiio.co/ikwdOc",
-    "final_url": "https://ajiio.co/ikwdOc",
-    "local_image": "assets/images/tgmsg_21975.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-22T05:28:31+00:00",
-    "buy_link": "https://ajiio.co/ikwdOc",
-    "date_iso": "2025-12-22T05:28:31+00:00"
   }
 ]
