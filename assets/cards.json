@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg22446",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
+    "description": "Ajio | Beauty and Personal Care Under 399 👉Link : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/D406jU",
+    "urls": [
+      {
+        "url": "https://ajiio.co/D406jU",
+        "label": "Beauty and Personal Care Under 399"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "Ajio | Beauty and Personal Care Under 399\n\n👉Link : https://ajiio.co/D406jU\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/D406jU",
+    "local_image": "assets/images/tgmsg_22446.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-26T13:46:08+00:00",
+    "buy_link": "https://ajiio.co/D406jU",
+    "date_iso": "2025-12-26T13:46:08+00:00"
+  },
+  {
     "id": "msg22442",
     "title": "75% Off",
     "description": "Flipkart | 75% Off - LAYER'R Deodorant Spray For Men Pack of 2 At Rs.120 🔗 https://fkrt.co/wpoKPp",
@@ -9878,25 +9902,5 @@
     "date_obj": "2025-12-22T07:50:11+00:00",
     "buy_link": "https://fkrt.co/gjp0oE",
     "date_iso": "2025-12-22T07:50:11+00:00"
-  },
-  {
-    "id": "msg21989",
-    "title": "On Toy Car with Back Support... ₹699",
-    "description": "Amazon | Lifelong Bunny Manual Push Ride-On Toy Car with Back Support... ₹699 🔗https://www.amazon.in/dp/B0FPCJ25SR?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FPCJ25SR?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FPCJ25SR?psc=1&tag=bestpricezo0f-21",
-        "label": "Lifelong Bunny Manual Push Ride-On Toy Car with Back Support... ₹699"
-      }
-    ],
-    "raw_text": "Amazon | Lifelong Bunny Manual Push Ride-On Toy Car with Back Support... ₹699 \n\n🔗https://www.amazon.in/dp/B0FPCJ25SR?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FPCJ25SR?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_21989.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-22T07:44:48+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FPCJ25SR?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-22T07:44:48+00:00"
   }
 ]
