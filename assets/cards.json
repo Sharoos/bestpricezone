@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg22418",
+    "title": "🛍 Up to 80% OFF on selected collection",
+    "description": "🎄🔥 SAVANA Christmas Sale is LIVE! 🔥🎄 ✨ Upgrade your winter wardrobe with trendy styles at MASSIVE DISCOUNTS ✨ s 🧥 Coats & Jackets for everyday chic 👗 Fashion-forward styles for every mood ❄️ Perfect picks for winter &…",
+    "shortlink": "https://extp.in/ORCrp2",
+    "urls": [
+      {
+        "url": "",
+        "label": "🎄🔥 SAVANA Christmas Sale is LIVE! 🔥🎄"
+      },
+      {
+        "url": "",
+        "label": "✨ Upgrade your winter wardrobe with trendy styles at MASSIVE DISCOUNTS ✨"
+      },
+      {
+        "url": "",
+        "label": "🛍 Up to 80% OFF on selected collections"
+      },
+      {
+        "url": "",
+        "label": "🧥 Coats & Jackets for everyday chic"
+      },
+      {
+        "url": "",
+        "label": "👗 Fashion-forward styles for every mood"
+      },
+      {
+        "url": "",
+        "label": "❄️ Perfect picks for winter & party season"
+      },
+      {
+        "url": "https://extp.in/ORCrp2",
+        "label": "🔗 Shop Now"
+      },
+      {
+        "url": "",
+        "label": "⏳ Limited Time Sale – Don’t Miss Out!"
+      }
+    ],
+    "raw_text": "🎄🔥 SAVANA Christmas Sale is LIVE! 🔥🎄\n\n✨ Upgrade your winter wardrobe with trendy styles at MASSIVE DISCOUNTS ✨\n\n🛍 Up to 80% OFF on selected collections\n🧥 Coats & Jackets for everyday chic\n👗 Fashion-forward styles for every mood\n❄️ Perfect picks for winter & party season\n\n🔗 Shop Now : https://extp.in/ORCrp2\n\n⏳ Limited Time Sale – Don’t Miss Out!",
+    "final_url": "https://extp.in/ORCrp2",
+    "local_image": "assets/images/tgmsg_22418.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-26T07:34:44+00:00",
+    "buy_link": "https://extp.in/ORCrp2",
+    "date_iso": "2025-12-26T07:34:44+00:00"
+  },
+  {
     "id": "msg22416",
     "title": "👕 Up to 80% Off On Spykar Clothing",
     "description": "🔥 Ajio Topwear Clothing Deals Under ₹149 Men's: Women's: Boy’s: Girl’s: Baby: 👖 Levi’s Jeans Starting at ₹841 Women's: Men's:  Men's: Women's:",
@@ -9734,49 +9782,5 @@
     "date_obj": "2025-12-21T18:06:29+00:00",
     "buy_link": "https://ajiio.co/DfejdI",
     "date_iso": "2025-12-21T18:06:29+00:00"
-  },
-  {
-    "id": "msg21948",
-    "title": "Min. 70% Off On Branded Luggage",
-    "description": "Flipkart | Min. 70% Off On Branded Luggage. Master Link :  https://fkrt.co/wZY7JD Small :  https://fkrt.co/zNbwqj Medium :  https://fkrt.co/QyM3GX Large :  https://fkrt.co/WXQcDF Pack Of 2 :  https://fkrt.co/4SzZj9 Pack…",
-    "shortlink": "https://fkrt.co/wZY7JD",
-    "urls": [
-      {
-        "url": "",
-        "label": "Min. 70% Off On Branded Luggage"
-      },
-      {
-        "url": "https://fkrt.co/wZY7JD",
-        "label": "Master"
-      },
-      {
-        "url": "https://fkrt.co/zNbwqj",
-        "label": "Small"
-      },
-      {
-        "url": "https://fkrt.co/QyM3GX",
-        "label": "Medium"
-      },
-      {
-        "url": "https://fkrt.co/WXQcDF",
-        "label": "Large"
-      },
-      {
-        "url": "https://fkrt.co/4SzZj9",
-        "label": "Pack Of 2"
-      },
-      {
-        "url": "https://fkrt.co/JPVanL",
-        "label": "Pack Of 3"
-      }
-    ],
-    "raw_text": "Flipkart | Min. 70% Off On Branded Luggage.\n\nMaster Link :  https://fkrt.co/wZY7JD\n\nSmall :  https://fkrt.co/zNbwqj\nMedium :  https://fkrt.co/QyM3GX\nLarge :  https://fkrt.co/WXQcDF\n\nPack Of 2 :  https://fkrt.co/4SzZj9\nPack Of 3 :  https://fkrt.co/JPVanL",
-    "final_url": "https://fkrt.co/wZY7JD",
-    "local_image": "assets/images/tgmsg_21948.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-21T18:21:06+00:00",
-    "buy_link": "https://fkrt.co/wZY7JD",
-    "date_iso": "2025-12-21T18:21:06+00:00"
   }
 ]
