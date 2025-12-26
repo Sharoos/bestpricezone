@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg22464",
+    "title": "🛒 Deal Price ₹188",
+    "description": "Flipkart | 🖼️ Wallpaper Deal! Premium Wallpapers (500cm) 🛒 Deal Price: ₹188 https://fkrt.co/HrFyiM",
+    "shortlink": "https://fkrt.co/HrFyiM",
+    "urls": [
+      {
+        "url": "",
+        "label": "🖼️ Wallpaper Deal!"
+      },
+      {
+        "url": "",
+        "label": "Premium Wallpapers (500cm)"
+      },
+      {
+        "url": "https://fkrt.co/HrFyiM",
+        "label": "🛒 Deal Price: ₹188"
+      }
+    ],
+    "raw_text": "Flipkart | 🖼️ Wallpaper Deal!\n\nPremium Wallpapers (500cm)\n\n🛒 Deal Price: ₹188\n\nhttps://fkrt.co/HrFyiM",
+    "final_url": "https://ww44.affinity.net/sssweb?enk=e760f703f8e8837aa1133871460d0e3aec5aa9a59a172c854543fc962edb2e0a65983b555d449801303b965009ca6e45e9ea5010b203523a97e62764c424d0fd&di=EPTG2905470&subid=HrFyiM_p__p_&cc=IN&d=https%3A%2F%2Fdl.flipkart.com%2Fdl%2Farb%2Fyod%2F~cs-ig7o2ts5zi%2Fpr%3Fsid%3Darb%252Cyod%26collection-tab-name%3DWall%2520Stickers%2520%26pageCriteria%3Ddefault%26&pwsvid=PW1766771504027SHrFyiMRY6uo5Spf&src=ot",
+    "local_image": "assets/images/tgmsg_22464.jpg",
+    "source_host": "ww44.affinity.net",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-26T17:46:15+00:00",
+    "buy_link": "https://fkrt.co/HrFyiM",
+    "date_iso": "2025-12-26T17:46:15+00:00"
+  },
+  {
     "id": "msg22463",
     "title": "Up to 75% Off On Beanie Hat",
     "description": "Ajio | Upto 75% Off On Beanie Hat. Men : https://ajiio.co/F7D52k Women : https://ajiio.co/IOz35o Girls : https://ajiio.co/tgQVd6 Boys : https://ajiio.co/2dV7dP MasterLink : https://ajiio.co/emrnjM",
@@ -9946,29 +9974,5 @@
     "date_obj": "2025-12-22T11:20:13+00:00",
     "buy_link": "https://extp.in/f2caEh",
     "date_iso": "2025-12-22T11:20:13+00:00"
-  },
-  {
-    "id": "msg22007",
-    "title": "Shopsy Men's Varsity Jacket at ₹361",
-    "description": "Shopsy | Men's Varsity Jacket at ₹361 🔗https://extp.in/MciBG2 More : https://extp.in/VwSsRN",
-    "shortlink": "https://extp.in/MciBG2",
-    "urls": [
-      {
-        "url": "https://extp.in/MciBG2",
-        "label": "Men's Varsity Jacket at ₹361"
-      },
-      {
-        "url": "https://extp.in/VwSsRN",
-        "label": "More"
-      }
-    ],
-    "raw_text": "Shopsy | Men's Varsity Jacket at ₹361\n\n🔗https://extp.in/MciBG2\n\nMore : https://extp.in/VwSsRN",
-    "final_url": "https://extp.in/MciBG2",
-    "local_image": "assets/images/tgmsg_22007.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-22T10:50:13+00:00",
-    "buy_link": "https://extp.in/MciBG2",
-    "date_iso": "2025-12-22T10:50:13+00:00"
   }
 ]
