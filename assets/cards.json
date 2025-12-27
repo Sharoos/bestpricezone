@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg22502",
+    "title": "Up to 98% Off Grocerie",
+    "description": "Upto 98% Off : Groceries Selected Locations; Many Available at Price — Scroll Down & Check All",
+    "shortlink": "https://fkrt.co/Hqu7yT",
+    "urls": [
+      {
+        "url": "https://fkrt.co/Hqu7yT",
+        "label": "Upto 98% Off : Groceries"
+      },
+      {
+        "url": "",
+        "label": "Selected Locations; Many Available at Price — Scroll Down & Check All"
+      }
+    ],
+    "raw_text": "Upto 98% Off : Groceries \n\nhttps://fkrt.co/Hqu7yT\n\nSelected Locations; Many Available at  Price — Scroll Down & Check All",
+    "final_url": "https://ww44.affinity.net/sssweb?enk=e760f703f8e8837aa1133871460d0e3aec5aa9a59a172c854543fc962edb2e0a65983b555d449801303b965009ca6e45e9ea5010b203523a97e62764c424d0fd&di=EPTG2905470&subid=Hqu7yT_p__p_&cc=IN&d=https%3A%2F%2Fflipkart.com%2Fgrocery%2Fpr%3Fsid%3D73z%26marketplace%3DGROCERY%26otracker%3Dproduct_breadCrumbs_Grocery%26sort%3Dprice_asc%26p%255B%255D%3Dfacets.discount_range_v1%25255B%25255D%253D50%252525%2520or%2520more%26&pwsvid=PW1766820387484SHqu7yTRtQk2xhHe&src=ot",
+    "local_image": "assets/images/tgmsg_22502.jpg",
+    "source_host": "ww44.affinity.net",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-27T07:07:52+00:00",
+    "buy_link": "https://fkrt.co/Hqu7yT",
+    "date_iso": "2025-12-27T07:07:52+00:00"
+  },
+  {
     "id": "msg22498",
     "title": "Price Drop On Premium Brand",
     "description": "AJIO s. Armani Exchange : Replay : La Martina : G Star Raw : Clarks : GAS, G-Star Raw & GANT Clothing. Men’s : Women’s :",
@@ -9958,53 +9982,5 @@
     "date_obj": "2025-12-22T15:44:35+00:00",
     "buy_link": "https://extp.in/iqFhi1",
     "date_iso": "2025-12-22T15:44:35+00:00"
-  },
-  {
-    "id": "msg22051",
-    "title": "🔥Men's Casual Shirt Starts @199 Up to 90% Off",
-    "description": "🔥Myntra : Men's Casual Shirt Starts @199 Upto 90% Off 📌Master Link : Here & Now : Mast & Harbour : Roadster : The Indian Garage : Snitch : Campus Sutra :",
-    "shortlink": "https://myntr.in/GSqdKB",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Myntra : Men's Casual Shirt Starts @199 Upto 90% Off"
-      },
-      {
-        "url": "https://myntr.in/GSqdKB",
-        "label": "📌Master"
-      },
-      {
-        "url": "https://myntr.in/GHGCB4",
-        "label": "Here & Now"
-      },
-      {
-        "url": "https://myntr.in/AUPLof",
-        "label": "Mast & Harbour"
-      },
-      {
-        "url": "https://myntr.in/4FaELh",
-        "label": "Roadster"
-      },
-      {
-        "url": "https://myntr.in/e906vB",
-        "label": "The Indian Garage"
-      },
-      {
-        "url": "https://myntr.in/4RtJyy",
-        "label": "Snitch"
-      },
-      {
-        "url": "https://myntr.in/VbFOGC",
-        "label": "Campus Sutra"
-      }
-    ],
-    "raw_text": "🔥Myntra : Men's Casual Shirt Starts @199 Upto 90% Off\n\n📌Master Link : https://myntr.in/GSqdKB\n\nHere & Now : https://myntr.in/GHGCB4\nMast & Harbour : https://myntr.in/AUPLof\nRoadster : https://myntr.in/4FaELh\nThe Indian Garage : https://myntr.in/e906vB\nSnitch : https://myntr.in/4RtJyy\nCampus Sutra : https://myntr.in/VbFOGC",
-    "final_url": "https://myntr.in/GSqdKB",
-    "local_image": "assets/images/tgmsg_22051.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-22T15:46:16+00:00",
-    "buy_link": "https://myntr.in/GSqdKB",
-    "date_iso": "2025-12-22T15:46:16+00:00"
   }
 ]
