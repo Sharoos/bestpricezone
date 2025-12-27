@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg22556",
+    "title": "Up to 85% Off On Libas Women Clothing",
+    "description": "Myntra | Upto 85% Off On Libas Women Clothing. https://myntr.in/7F5UdK Kurta : https://myntr.in/1B5W6W Kurta Sets : https://myntr.in/ct9NOL",
+    "shortlink": "https://myntr.in/7F5UdK",
+    "urls": [
+      {
+        "url": "https://myntr.in/7F5UdK",
+        "label": "Upto 85% Off On Libas Women Clothing"
+      },
+      {
+        "url": "https://myntr.in/1B5W6W",
+        "label": "Kurta"
+      },
+      {
+        "url": "https://myntr.in/ct9NOL",
+        "label": "Kurta Sets"
+      }
+    ],
+    "raw_text": "Myntra | Upto 85% Off On Libas Women Clothing.\n\nhttps://myntr.in/7F5UdK\n\nKurta : https://myntr.in/1B5W6W\nKurta Sets : https://myntr.in/ct9NOL",
+    "final_url": "https://myntr.in/7F5UdK",
+    "local_image": "assets/images/tgmsg_22556.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-27T17:51:09+00:00",
+    "buy_link": "https://myntr.in/7F5UdK",
+    "date_iso": "2025-12-27T17:51:09+00:00"
+  },
+  {
     "id": "msg22555",
     "title": "Long Door Curtains under 799/",
     "description": "Myntra | Long Door Curtains under 799/- https://myntr.in/gMH6xG Double bed Jaipuri bedsheets under 999/- https://myntr.in/mAkK9K Towel set under 499/- https://myntr.in/eQkzoJ",
@@ -9942,25 +9970,5 @@
     "date_obj": "2025-12-23T10:16:00+00:00",
     "buy_link": "https://extp.in/8HPWRM",
     "date_iso": "2025-12-23T10:16:00+00:00"
-  },
-  {
-    "id": "msg22123",
-    "title": "Shopsy Fast Charging USB Type C Cable @ ₹79",
-    "description": "Shopsy | Fast Charging USB Type C Cable @ ₹79 🔗 https://extp.in/wrUpuW",
-    "shortlink": "https://extp.in/wrUpuW",
-    "urls": [
-      {
-        "url": "https://extp.in/wrUpuW",
-        "label": "Fast Charging USB Type C Cable @ ₹79"
-      }
-    ],
-    "raw_text": "Shopsy | Fast Charging USB Type C Cable @ ₹79\n\n🔗 https://extp.in/wrUpuW",
-    "final_url": "https://extp.in/wrUpuW",
-    "local_image": "assets/images/tgmsg_22123.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-23T10:20:19+00:00",
-    "buy_link": "https://extp.in/wrUpuW",
-    "date_iso": "2025-12-23T10:20:19+00:00"
   }
 ]
