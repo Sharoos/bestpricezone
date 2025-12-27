@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg22489",
+    "title": "+ 10% SUPERCASH",
+    "description": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 140🔥 🔗🔗Link : + 10% AJIO SUPERCASH",
+    "shortlink": "https://ajiio.co/kcHNM7",
+    "urls": [
+      {
+        "url": "https://ajiio.co/kcHNM7",
+        "label": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 140🔥"
+      },
+      {
+        "url": "",
+        "label": "+ 10% AJIO SUPERCASH"
+      }
+    ],
+    "raw_text": "💥Ajio | Branded Women-Dupattas Starting @ just ₹ 140🔥 \n \n🔗🔗Link : https://ajiio.co/kcHNM7\n\n+ 10% AJIO SUPERCASH",
+    "final_url": "https://ajiio.co/kcHNM7",
+    "local_image": "assets/images/tgmsg_22489.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-27T04:01:06+00:00",
+    "buy_link": "https://ajiio.co/kcHNM7",
+    "date_iso": "2025-12-27T04:01:06+00:00"
+  },
+  {
     "id": "msg22487",
     "title": "Snitch Mens Cargo Trousers Starts @500",
     "description": "Myntra . Trousers : Jeans : Tshirts : Shirts : Sweatshirts : Sweaters : Jackets/Shackets : Shorts :",
@@ -9982,29 +10006,5 @@
     "date_obj": "2025-12-22T14:11:30+00:00",
     "buy_link": "https://fkrt.co/WCuaax",
     "date_iso": "2025-12-22T14:11:30+00:00"
-  },
-  {
-    "id": "msg22034",
-    "title": "75% off WOW Skin Science Shea Butter Deep Moisture Cream",
-    "description": "ONDC 🔥🔥 75% off : WOW Skin Science Shea Butter Deep Moisture Cream - 100 ml At 49 + Free Shipping Use Code : 30 | CK30 👉 Link : ✅ Note : These are Effective Prices & Its Limited period Offer",
-    "shortlink": "https://extp.in/sJDtcy",
-    "urls": [
-      {
-        "url": "",
-        "label": "75% off : WOW Skin Science Shea Butter Deep Moisture Cream - 100 ml At 49 + Free Shipping"
-      },
-      {
-        "url": "https://extp.in/sJDtcy",
-        "label": "30 | CK30"
-      }
-    ],
-    "raw_text": "ONDC  🔥🔥\n\n75% off : WOW Skin Science Shea Butter Deep Moisture Cream - 100 ml At 49 + Free Shipping \n\nUse Code : 30 | CK30\n\n👉 Link : https://extp.in/sJDtcy\n\n✅ Note : These are Effective Prices & Its Limited period Offer",
-    "final_url": "https://extp.in/sJDtcy",
-    "local_image": "assets/images/tgmsg_22034.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-22T14:11:31+00:00",
-    "buy_link": "https://extp.in/sJDtcy",
-    "date_iso": "2025-12-22T14:11:31+00:00"
   }
 ]
