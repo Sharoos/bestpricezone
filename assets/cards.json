@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg22555",
+    "title": "Long Door Curtains under 799/",
+    "description": "Myntra | Long Door Curtains under 799/- https://myntr.in/gMH6xG Double bed Jaipuri bedsheets under 999/- https://myntr.in/mAkK9K Towel set under 499/- https://myntr.in/eQkzoJ",
+    "shortlink": "https://myntr.in/gMH6xG",
+    "urls": [
+      {
+        "url": "https://myntr.in/gMH6xG",
+        "label": "Long Door Curtains under 799/"
+      },
+      {
+        "url": "https://myntr.in/mAkK9K",
+        "label": "Double bed Jaipuri bedsheets under 999/"
+      },
+      {
+        "url": "https://myntr.in/eQkzoJ",
+        "label": "Towel set under 499/"
+      }
+    ],
+    "raw_text": "Myntra | Long Door Curtains under 799/- \nhttps://myntr.in/gMH6xG\n\nDouble bed Jaipuri bedsheets under 999/-\nhttps://myntr.in/mAkK9K\n\nTowel set under 499/-\nhttps://myntr.in/eQkzoJ",
+    "final_url": "https://myntr.in/gMH6xG",
+    "local_image": "assets/images/tgmsg_22555.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-27T17:21:37+00:00",
+    "buy_link": "https://myntr.in/gMH6xG",
+    "date_iso": "2025-12-27T17:21:37+00:00"
+  },
+  {
     "id": "msg22553",
     "title": "Up to 87% off on Men's Branded Clothing 🔥🔥🔥",
     "description": "Myntra Upto 87% off on Men's Branded Clothing 🔥🔥🔥 Shirts At 168 : Wedding Kurta's At 199 : Tshirts At 248 : Trousers At 250 : Jeans At 448",
@@ -9934,57 +9962,5 @@
     "date_obj": "2025-12-23T10:20:19+00:00",
     "buy_link": "https://extp.in/wrUpuW",
     "date_iso": "2025-12-23T10:20:19+00:00"
-  },
-  {
-    "id": "msg22116",
-    "title": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre",
-    "description": "-approved limit. Apply Now - 💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀 ⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping. ⿢ Easy EMIs : Flexible repayment with no foreclosure charges. ⿣ Wide…",
-    "shortlink": "https://extp.in/ds9AyC",
-    "urls": [
-      {
-        "url": "",
-        "label": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre-approved limit"
-      },
-      {
-        "url": "https://extp.in/ds9AyC",
-        "label": "Apply Now"
-      },
-      {
-        "url": "",
-        "label": "💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀"
-      },
-      {
-        "url": "",
-        "label": "⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping"
-      },
-      {
-        "url": "",
-        "label": "⿢ Easy EMIs : Flexible repayment with no foreclosure charges"
-      },
-      {
-        "url": "",
-        "label": "⿣ Wide Usage : Accepted at 1.5+ lakh partner stores"
-      },
-      {
-        "url": "",
-        "label": "⿤ Quick Application : Apply, verify, and activate in minutes"
-      },
-      {
-        "url": "",
-        "label": "⿥ Hassle-Free Access : Manage everything on the Bajaj Finserv app"
-      },
-      {
-        "url": "",
-        "label": "Join thousands enjoying easy EMIs!"
-      }
-    ],
-    "raw_text": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre-approved limit.\n\nApply Now - https://extp.in/ds9AyC\n\n💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀\n\n⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping.\n⿢ Easy EMIs : Flexible repayment with no foreclosure charges.\n⿣ Wide Usage : Accepted at 1.5+ lakh partner stores.\n⿤ Quick Application : Apply, verify, and activate in minutes.\n⿥ Hassle-Free Access : Manage everything on the Bajaj Finserv app\n\nJoin thousands enjoying easy EMIs!",
-    "final_url": "https://extp.in/ds9AyC",
-    "local_image": "assets/images/tgmsg_22116.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-23T09:33:55+00:00",
-    "buy_link": "https://extp.in/ds9AyC",
-    "date_iso": "2025-12-23T09:33:55+00:00"
   }
 ]
