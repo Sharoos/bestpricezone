@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg22515",
+    "title": "76% Off On Performax Clothing",
+    "description": "AJIO  Flat 70-76% Off On Performax Clothing. Men : https://ajiio.co/4WUtQD Shoes : https://ajiio.co/oEsSP3 Women : https://ajiio.co/g4YdpF Shoes : https://ajiio.co/OW7x5o",
+    "shortlink": "https://ajiio.co/4WUtQD",
+    "urls": [
+      {
+        "url": "https://ajiio.co/4WUtQD",
+        "label": "76% Off On Performax Clothing"
+      },
+      {
+        "url": "https://ajiio.co/oEsSP3",
+        "label": "Shoes"
+      },
+      {
+        "url": "https://ajiio.co/g4YdpF",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/OW7x5o",
+        "label": "Shoes"
+      }
+    ],
+    "raw_text": "AJIO  Flat 70-76% Off On Performax Clothing.\n\nMen : https://ajiio.co/4WUtQD\nShoes : https://ajiio.co/oEsSP3\n\nWomen : https://ajiio.co/g4YdpF\nShoes : https://ajiio.co/OW7x5o",
+    "final_url": "https://ajiio.co/4WUtQD",
+    "local_image": "assets/images/tgmsg_22515.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-27T10:13:25+00:00",
+    "buy_link": "https://ajiio.co/4WUtQD",
+    "date_iso": "2025-12-27T10:13:25+00:00"
+  },
+  {
     "id": "msg22513",
     "title": "Body Milk Nourishing Body Lotion @₹270",
     "description": "Ajio | Body Milk Nourishing Body Lotion @₹270 👉Link : https://ajiio.co/DKFGUl",
@@ -9922,33 +9954,5 @@
     "date_obj": "2025-12-22T17:38:21+00:00",
     "buy_link": "https://fkrt.co/6R5MKa",
     "date_iso": "2025-12-22T17:38:21+00:00"
-  },
-  {
-    "id": "msg22059",
-    "title": "Clothing Starts Just Rs.40",
-    "description": "Ajio Loot : Clothing Starts Just Rs.40 Men's :  https://ajiio.in/a84907V Women's :  https://ajiio.in/r8COMug",
-    "shortlink": "https://ajiio.in/a84907V",
-    "urls": [
-      {
-        "url": "",
-        "label": "Clothing Starts Just Rs.40"
-      },
-      {
-        "url": "https://ajiio.in/a84907V",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.in/r8COMug",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "Ajio Loot : Clothing Starts Just Rs.40\n\nMen's :  https://ajiio.in/a84907V\nWomen's :  https://ajiio.in/r8COMug",
-    "final_url": "https://ajiio.in/a84907V",
-    "local_image": "assets/images/tgmsg_22059.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-22T17:01:51+00:00",
-    "buy_link": "https://ajiio.in/a84907V",
-    "date_iso": "2025-12-22T17:01:51+00:00"
   }
 ]
