@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg22636",
+    "title": "Up to 80% Off On PUMA",
+    "description": "AJIO  Upto 80% Off On PUMA. Shoes : https://ajiio.co/pnz4JD Mens : https://ajiio.co/NkkLwG Womens : https://ajiio.co/v6g9Ne Kids : https://ajiio.co/LXVVI3",
+    "shortlink": "https://ajiio.co/pnz4JD",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 80% Off On PUMA"
+      },
+      {
+        "url": "https://ajiio.co/pnz4JD",
+        "label": "Shoes"
+      },
+      {
+        "url": "https://ajiio.co/NkkLwG",
+        "label": "Mens"
+      },
+      {
+        "url": "https://ajiio.co/v6g9Ne",
+        "label": "Womens"
+      },
+      {
+        "url": "https://ajiio.co/LXVVI3",
+        "label": "Kids"
+      }
+    ],
+    "raw_text": "AJIO  Upto 80% Off On PUMA.\n\nShoes : https://ajiio.co/pnz4JD\n\nMens : https://ajiio.co/NkkLwG\nWomens : https://ajiio.co/v6g9Ne\nKids : https://ajiio.co/LXVVI3",
+    "final_url": "https://ajiio.co/pnz4JD",
+    "local_image": "assets/images/tgmsg_22636.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-28T16:11:32+00:00",
+    "buy_link": "https://ajiio.co/pnz4JD",
+    "date_iso": "2025-12-28T16:11:32+00:00"
+  },
+  {
     "id": "msg22634",
     "title": "Set of 2 Door Curtains @ 309 Only!",
     "description": "Myntra | Set of 2 Door Curtains @ 309 Only! 👉https://myntr.in/OCwKib",
@@ -9622,37 +9658,5 @@
     "date_obj": "2025-12-24T06:02:11+00:00",
     "buy_link": "https://ajiio.co/lyfPpj",
     "date_iso": "2025-12-24T06:02:11+00:00"
-  },
-  {
-    "id": "msg22210",
-    "title": "99 Deal Store",
-    "description": "- Myntra Home !!! Master Link !! Doormats and Bath rugs Flat 99 !!! Storage Organizers Flat 99 !!! Kitchen Deals Flat 99 !!!",
-    "shortlink": "https://myntr.in/joQteL",
-    "urls": [
-      {
-        "url": "https://myntr.in/joQteL",
-        "label": "Myntra Home !!!"
-      },
-      {
-        "url": "https://myntr.in/Rs4PMI",
-        "label": "Doormats and Bath rugs Flat 99 !!!"
-      },
-      {
-        "url": "https://myntr.in/Je4HPD",
-        "label": "Storage Organizers Flat 99 !!!"
-      },
-      {
-        "url": "https://myntr.in/TWOfil",
-        "label": "Kitchen Deals Flat 99 !!!"
-      }
-    ],
-    "raw_text": "99 Deal Store - Myntra Home !!!\n\nMaster Link !! \nhttps://myntr.in/joQteL\n\nDoormats and Bath rugs Flat 99 !!!\nhttps://myntr.in/Rs4PMI\n\nStorage Organizers Flat 99 !!!\nhttps://myntr.in/Je4HPD\n\nKitchen Deals Flat 99 !!!\nhttps://myntr.in/TWOfil",
-    "final_url": "https://myntr.in/joQteL",
-    "local_image": "assets/images/tgmsg_22210.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-24T06:02:52+00:00",
-    "buy_link": "https://myntr.in/joQteL",
-    "date_iso": "2025-12-24T06:02:52+00:00"
   }
 ]
