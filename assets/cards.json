@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg22591",
+    "title": "🛍 Up to 80% OFF on selected collection",
+    "description": "🎄🔥 SAVANA Christmas Sale is LIVE! 🔥🎄 ✨ Upgrade your winter wardrobe with trendy styles at MASSIVE DISCOUNTS ✨ s 🧥 Coats & Jackets for everyday chic 👗 Fashion-forward styles for every mood ❄️ Perfect picks for winter &…",
+    "shortlink": "https://extp.in/5lhJeD",
+    "urls": [
+      {
+        "url": "",
+        "label": "🎄🔥 SAVANA Christmas Sale is LIVE! 🔥🎄"
+      },
+      {
+        "url": "",
+        "label": "✨ Upgrade your winter wardrobe with trendy styles at MASSIVE DISCOUNTS ✨"
+      },
+      {
+        "url": "",
+        "label": "🛍 Up to 80% OFF on selected collections"
+      },
+      {
+        "url": "",
+        "label": "🧥 Coats & Jackets for everyday chic"
+      },
+      {
+        "url": "",
+        "label": "👗 Fashion-forward styles for every mood"
+      },
+      {
+        "url": "",
+        "label": "❄️ Perfect picks for winter & party season"
+      },
+      {
+        "url": "https://extp.in/5lhJeD",
+        "label": "🔗 Shop Now"
+      },
+      {
+        "url": "",
+        "label": "⏳ Limited Time Sale – Don’t Miss Out!"
+      }
+    ],
+    "raw_text": "🎄🔥 SAVANA Christmas Sale is LIVE! 🔥🎄\n\n✨ Upgrade your winter wardrobe with trendy styles at MASSIVE DISCOUNTS ✨\n\n🛍 Up to 80% OFF on selected collections\n🧥 Coats & Jackets for everyday chic\n👗 Fashion-forward styles for every mood\n❄️ Perfect picks for winter & party season\n\n🔗 Shop Now : https://extp.in/5lhJeD\n\n⏳ Limited Time Sale – Don’t Miss Out!",
+    "final_url": "https://extp.in/5lhJeD",
+    "local_image": "assets/images/tgmsg_22591.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-28T07:34:48+00:00",
+    "buy_link": "https://extp.in/5lhJeD",
+    "date_iso": "2025-12-28T07:34:48+00:00"
+  },
+  {
     "id": "msg22588",
     "title": "99 Deal Store",
     "description": "- Myntra Home !!! Master Link !! Doormats and Bath rugs Flat 99 !!! Storage Organizers Flat 99 !!! Kitchen Deals Flat 99 !!!",
@@ -9570,49 +9618,5 @@
     "date_obj": "2025-12-23T16:09:25+00:00",
     "buy_link": "https://fkrt.co/kmeb1u",
     "date_iso": "2025-12-23T16:09:25+00:00"
-  },
-  {
-    "id": "msg22160",
-    "title": "Crazy Deals Min 50% Off On Top Brand",
-    "description": "Ajio s • GAS : • Gap : • Superdry : • Tommy Hilfiger : • Steve Madden : • Gant : Extra 10% Ajio Cashback On Every Order (100% Usable)",
-    "shortlink": "https://ajiio.co/VqQxZA",
-    "urls": [
-      {
-        "url": "https://ajiio.co/VqQxZA",
-        "label": "Ajio Crazy Deals Min 50% Off On Top Brands"
-      },
-      {
-        "url": "https://ajiio.co/8wtVaY",
-        "label": "Gap"
-      },
-      {
-        "url": "https://ajiio.co/UirFWf",
-        "label": "Superdry"
-      },
-      {
-        "url": "https://ajiio.co/5caa0c",
-        "label": "Tommy Hilfiger"
-      },
-      {
-        "url": "https://ajiio.co/q7Dd1D",
-        "label": "Steve Madden"
-      },
-      {
-        "url": "https://ajiio.co/XEvgK5",
-        "label": "Gant"
-      },
-      {
-        "url": "",
-        "label": "Extra 10% Ajio Cashback On Every Order (100% Usable)"
-      }
-    ],
-    "raw_text": "Ajio Crazy Deals Min 50% Off On Top Brands\n\n• GAS : https://ajiio.co/VqQxZA\n• Gap : https://ajiio.co/8wtVaY    \n• Superdry : https://ajiio.co/UirFWf\n• Tommy Hilfiger : https://ajiio.co/5caa0c  \n• Steve Madden : https://ajiio.co/q7Dd1D\n• Gant : https://ajiio.co/XEvgK5\n\nExtra 10% Ajio Cashback On Every Order (100% Usable)",
-    "final_url": "https://ajiio.co/VqQxZA",
-    "local_image": "assets/images/tgmsg_22160.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-23T16:16:35+00:00",
-    "buy_link": "https://ajiio.co/VqQxZA",
-    "date_iso": "2025-12-23T16:16:35+00:00"
   }
 ]
