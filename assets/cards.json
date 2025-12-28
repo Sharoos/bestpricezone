@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg22578",
+    "title": "🟢 Up to 85% off on HRX Running Shoe",
+    "description": "Myntra 💥💥 🟢 Upto 89% Off On HRX Clogs 🔥 👉 Men's : 👉 Women : 🟢 Upto 85% off on HRX Running Shoes 👉 Women : 👉 Men :",
+    "shortlink": "https://myntr.in/9QQG7F",
+    "urls": [
+      {
+        "url": "",
+        "label": "🟢 Upto 89% Off On HRX Clogs 🔥"
+      },
+      {
+        "url": "https://myntr.in/9QQG7F",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/2E0DBs",
+        "label": "Women"
+      },
+      {
+        "url": "",
+        "label": "🟢 Upto 85% off on HRX Running Shoes"
+      },
+      {
+        "url": "https://myntr.in/JzKnQG",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/rYsa58",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "Myntra   💥💥\n\n🟢 Upto 89% Off On HRX Clogs 🔥\n👉 Men's : https://myntr.in/9QQG7F\n👉 Women : https://myntr.in/2E0DBs\n\n🟢 Upto 85% off on HRX Running Shoes \n👉 Women : https://myntr.in/JzKnQG\n👉 Men : https://myntr.in/rYsa58",
+    "final_url": "https://myntr.in/9QQG7F",
+    "local_image": "assets/images/tgmsg_22578.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-28T04:45:16+00:00",
+    "buy_link": "https://myntr.in/9QQG7F",
+    "date_iso": "2025-12-28T04:45:16+00:00"
+  },
+  {
+    "id": "msg22579",
+    "title": "Redtape Footwear Up to 84% off",
+    "description": "Flipkart | Redtape Footwear upto 84% off 👉https://fkrt.co/8kn8u8",
+    "shortlink": "https://fkrt.co/8kn8u8",
+    "urls": [
+      {
+        "url": "https://fkrt.co/8kn8u8",
+        "label": "Redtape Footwear upto 84% off"
+      }
+    ],
+    "raw_text": "Flipkart | Redtape Footwear upto 84% off\n\n👉https://fkrt.co/8kn8u8",
+    "final_url": "https://fkrt.co/8kn8u8",
+    "local_image": "assets/images/tgmsg_22579.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-28T05:01:40+00:00",
+    "buy_link": "https://fkrt.co/8kn8u8",
+    "date_iso": "2025-12-28T05:01:40+00:00"
+  },
+  {
     "id": "msg22575",
     "title": "Men's T",
     "description": "Flipkart  Men's T-shirt & Boxer Starts at Rs.85. https://fkrt.co/X6CVmX https://fkrt.co/CoGctC",
@@ -9790,57 +9850,5 @@
     "date_obj": "2025-12-23T15:23:01+00:00",
     "buy_link": "https://myntr.in/OI2rIt",
     "date_iso": "2025-12-23T15:23:01+00:00"
-  },
-  {
-    "id": "msg22149",
-    "title": "Bellavita Perfume Combo (Pack of 2) @ 199",
-    "description": "Flipkart  Bellavita Perfume Combo (Pack of 2) @  199 https://fkrt.co/8yLGs2 https://fkrt.co/011VlC",
-    "shortlink": "https://fkrt.co/8yLGs2",
-    "urls": [
-      {
-        "url": "https://fkrt.co/8yLGs2",
-        "label": "Flipkart Bellavita Perfume Combo (Pack of 2) @ 199"
-      },
-      {
-        "url": "https://fkrt.co/011VlC",
-        "label": "Flipkart Bellavita Perfume Combo (Pack of 2) @ 199"
-      }
-    ],
-    "raw_text": "Flipkart  Bellavita Perfume Combo (Pack of 2) @  199\n\nhttps://fkrt.co/8yLGs2\nhttps://fkrt.co/011VlC",
-    "final_url": "https://fkrt.co/8yLGs2",
-    "local_image": "assets/images/tgmsg_22149.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-23T14:46:30+00:00",
-    "buy_link": "https://fkrt.co/8yLGs2",
-    "date_iso": "2025-12-23T14:46:30+00:00"
-  },
-  {
-    "id": "msg22148",
-    "title": "Hoodies Starts at ₹215",
-    "description": "Myntra : Hoodies Starts at  ₹215. Women : https://myntr.in/w6uay2 Men : https://myntr.in/JmVsCB",
-    "shortlink": "https://myntr.in/w6uay2",
-    "urls": [
-      {
-        "url": "",
-        "label": "Hoodies Starts at ₹215"
-      },
-      {
-        "url": "https://myntr.in/w6uay2",
-        "label": "Women"
-      },
-      {
-        "url": "https://myntr.in/JmVsCB",
-        "label": "Men"
-      }
-    ],
-    "raw_text": "Myntra : Hoodies Starts at  ₹215.\n\nWomen : https://myntr.in/w6uay2\nMen : https://myntr.in/JmVsCB",
-    "final_url": "https://myntr.in/w6uay2",
-    "local_image": "assets/images/tgmsg_22148.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-23T14:29:08+00:00",
-    "buy_link": "https://myntr.in/w6uay2",
-    "date_iso": "2025-12-23T14:29:08+00:00"
   }
 ]
