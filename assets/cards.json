@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22597",
+    "title": "Set of two pillows @271 + discount",
+    "description": "Myntra | Set of two pillows @271 + Coupon discounts 👉Link : https://myntr.in/ji0Inj",
+    "shortlink": "https://myntr.in/ji0Inj",
+    "urls": [
+      {
+        "url": "https://myntr.in/ji0Inj",
+        "label": ""
+      }
+    ],
+    "raw_text": "Myntra | Set of two pillows @271 + Coupon discounts\n\n👉Link : https://myntr.in/ji0Inj",
+    "final_url": "https://myntr.in/ji0Inj",
+    "local_image": "assets/images/tgmsg_22597.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-28T09:45:59+00:00",
+    "buy_link": "https://myntr.in/ji0Inj",
+    "date_iso": "2025-12-28T09:45:59+00:00"
+  },
+  {
     "id": "msg22595",
     "title": "Killer Rucksacks From ₹649",
     "description": "Flipkart | Killer Rucksacks From ₹649 👉https://fkrt.co/MM8d8Z",
@@ -9638,25 +9658,5 @@
     "date_obj": "2025-12-23T17:16:53+00:00",
     "buy_link": "https://myntr.in/tga9a3",
     "date_iso": "2025-12-23T17:16:53+00:00"
-  },
-  {
-    "id": "msg22163",
-    "title": "Up to 54% Off On Wild Stone Deo & Perfume",
-    "description": "Amazon | Upto 54% Off On Wild Stone Deo & Perfume.…",
-    "shortlink": "https://www.amazon.in/s?k=Wild%252BStone&rh=n%3A1355016031%2Cp_89%3AWild_Stone%7CWild_Stone_CODE%2Cp_n_pct-off-with-tax%3A2665401031&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21&",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?k=Wild%252BStone&rh=n%3A1355016031%2Cp_89%3AWild_Stone%7CWild_Stone_CODE%2Cp_n_pct-off-with-tax%3A2665401031&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21&",
-        "label": "Upto 54% Off On Wild Stone Deo & Perfume"
-      }
-    ],
-    "raw_text": "Amazon | Upto 54% Off On Wild Stone Deo & Perfume.\n\n👉https://www.amazon.in/s?k=Wild%252BStone&rh=n%3A1355016031%2Cp_89%3AWild_Stone%7CWild_Stone_CODE%2Cp_n_pct-off-with-tax%3A2665401031&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21&",
-    "final_url": "https://www.amazon.in/s?k=Wild%252BStone&rh=n%3A1355016031%2Cp_89%3AWild_Stone%7CWild_Stone_CODE%2Cp_n_pct-off-with-tax%3A2665401031&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21&",
-    "local_image": "assets/images/tgmsg_22163.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-23T16:35:16+00:00",
-    "buy_link": "https://www.amazon.in/s?k=Wild%252BStone&rh=n%3A1355016031%2Cp_89%3AWild_Stone%7CWild_Stone_CODE%2Cp_n_pct-off-with-tax%3A2665401031&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21&",
-    "date_iso": "2025-12-23T16:35:16+00:00"
   }
 ]
