@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg22641",
+    "title": "Topwear Clothing Under ₹199",
+    "description": "Ajio | Topwear Clothing Under ₹199 Men's : https://ajiio.co/tadvar Women's : https://ajiio.co/Qlp6Ib Boys : https://ajiio.co/G2Kr7Y Girls : https://ajiio.co/XQL6c8 Baby : https://ajiio.co/yWVnk4",
+    "shortlink": "https://ajiio.co/tadvar",
+    "urls": [
+      {
+        "url": "",
+        "label": "Topwear Clothing Under ₹199"
+      },
+      {
+        "url": "https://ajiio.co/tadvar",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/Qlp6Ib",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/G2Kr7Y",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/XQL6c8",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/yWVnk4",
+        "label": "Baby"
+      }
+    ],
+    "raw_text": "Ajio | Topwear Clothing Under ₹199\n\nMen's : https://ajiio.co/tadvar\nWomen's : https://ajiio.co/Qlp6Ib\nBoys : https://ajiio.co/G2Kr7Y\nGirls : https://ajiio.co/XQL6c8\nBaby : https://ajiio.co/yWVnk4",
+    "final_url": "https://ajiio.co/tadvar",
+    "local_image": "assets/images/tgmsg_22641.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-28T17:46:07+00:00",
+    "buy_link": "https://ajiio.co/tadvar",
+    "date_iso": "2025-12-28T17:46:07+00:00"
+  },
+  {
     "id": "msg22640",
     "title": "Sunsilk Shampoo 1 Ltr @ 435",
     "description": "Amazon | Sunsilk Shampoo 1 Ltr @ 435 👉https://www.amazon.in/dp/B093STTTYZ?tag=bestpricezo0f-21",
@@ -9554,41 +9594,5 @@
     "date_obj": "2025-12-24T07:45:16+00:00",
     "buy_link": "https://fkrt.co/oGBAdp",
     "date_iso": "2025-12-24T07:45:16+00:00"
-  },
-  {
-    "id": "msg22215",
-    "title": "🛒 Deal Price Up to 85% Off",
-    "description": "Flipkart | ⌚️ Lee Cooper Watch Steals! Lee Cooper Watches for Women 🛒 Deal Price: Up to 85% Off 👉 Lee Cooper Watches for Men 🛒 Deal Price: Up to 83% Off 👉",
-    "shortlink": "https://fkrt.co/LbJcOZ",
-    "urls": [
-      {
-        "url": "",
-        "label": "⌚️ Lee Cooper Watch Steals!"
-      },
-      {
-        "url": "",
-        "label": "Lee Cooper Watches for Women"
-      },
-      {
-        "url": "https://fkrt.co/LbJcOZ",
-        "label": "🛒 Deal Price: Up to 85% Off"
-      },
-      {
-        "url": "",
-        "label": "Lee Cooper Watches for Men"
-      },
-      {
-        "url": "https://fkrt.co/v29RMP",
-        "label": "🛒 Deal Price: Up to 83% Off"
-      }
-    ],
-    "raw_text": "Flipkart | ⌚️ Lee Cooper Watch Steals!\n\nLee Cooper Watches for Women\n\n🛒 Deal Price: Up to 85% Off\n\n👉 https://fkrt.co/LbJcOZ\n\nLee Cooper Watches for Men\n\n🛒 Deal Price: Up to 83% Off\n\n👉 https://fkrt.co/v29RMP",
-    "final_url": "https://fkrt.co/LbJcOZ",
-    "local_image": "assets/images/tgmsg_22215.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-24T07:01:29+00:00",
-    "buy_link": "https://fkrt.co/LbJcOZ",
-    "date_iso": "2025-12-24T07:01:29+00:00"
   }
 ]
