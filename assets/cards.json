@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg22593",
+    "title": "Up to 86% Off On HRX Luggage",
+    "description": "Flipkart | Upto 86% Off On HRX Luggage. Small : https://fkrt.co/0NmVmy Medium : https://fkrt.co/eDTT6J Large : https://fkrt.co/wP2ebM Pack Of 2/3 : https://fkrt.co/ndIpkq",
+    "shortlink": "https://fkrt.co/0NmVmy",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 86% Off On HRX Luggage"
+      },
+      {
+        "url": "https://fkrt.co/0NmVmy",
+        "label": "Small"
+      },
+      {
+        "url": "https://fkrt.co/eDTT6J",
+        "label": "Medium"
+      },
+      {
+        "url": "https://fkrt.co/wP2ebM",
+        "label": "Large"
+      },
+      {
+        "url": "https://fkrt.co/ndIpkq",
+        "label": "Pack Of 2/3"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 86% Off On HRX Luggage.\n\nSmall : https://fkrt.co/0NmVmy\nMedium : https://fkrt.co/eDTT6J\nLarge : https://fkrt.co/wP2ebM\n\nPack Of 2/3 : https://fkrt.co/ndIpkq",
+    "final_url": "https://fkrt.co/0NmVmy",
+    "local_image": "assets/images/tgmsg_22593.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-28T08:33:16+00:00",
+    "buy_link": "https://fkrt.co/0NmVmy",
+    "date_iso": "2025-12-28T08:33:16+00:00"
+  },
+  {
     "id": "msg22591",
     "title": "🛍 Up to 80% OFF on selected collection",
     "description": "🎄🔥 SAVANA Christmas Sale is LIVE! 🔥🎄 ✨ Upgrade your winter wardrobe with trendy styles at MASSIVE DISCOUNTS ✨ s 🧥 Coats & Jackets for everyday chic 👗 Fashion-forward styles for every mood ❄️ Perfect picks for winter &…",
@@ -9598,25 +9634,5 @@
     "date_obj": "2025-12-23T16:47:28+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DWMJ14Q7?psc=1&th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-12-23T16:47:28+00:00"
-  },
-  {
-    "id": "msg22158",
-    "title": "Roadster watches for men Up to 81% Off",
-    "description": "Flipkart | Roadster watches for men upto 81% Off 👉Link : https://fkrt.co/kmeb1u",
-    "shortlink": "https://fkrt.co/kmeb1u",
-    "urls": [
-      {
-        "url": "https://fkrt.co/kmeb1u",
-        "label": "Roadster watches for men upto 81% Off"
-      }
-    ],
-    "raw_text": "Flipkart | Roadster watches for men upto 81% Off\n\n👉Link : https://fkrt.co/kmeb1u",
-    "final_url": "https://fkrt.co/kmeb1u",
-    "local_image": "assets/images/tgmsg_22158.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-23T16:09:25+00:00",
-    "buy_link": "https://fkrt.co/kmeb1u",
-    "date_iso": "2025-12-23T16:09:25+00:00"
   }
 ]
