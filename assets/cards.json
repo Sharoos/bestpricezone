@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22640",
+    "title": "Sunsilk Shampoo 1 Ltr @ 435",
+    "description": "Amazon | Sunsilk Shampoo 1 Ltr @ 435 👉https://www.amazon.in/dp/B093STTTYZ?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B093STTTYZ?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B093STTTYZ?tag=bestpricezo0f-21",
+        "label": "Sunsilk Shampoo 1 Ltr @ 435"
+      }
+    ],
+    "raw_text": "Amazon | Sunsilk Shampoo 1 Ltr @ 435\n\n👉https://www.amazon.in/dp/B093STTTYZ?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B093STTTYZ?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_22640.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-28T17:36:00+00:00",
+    "buy_link": "https://www.amazon.in/dp/B093STTTYZ?tag=bestpricezo0f-21",
+    "date_iso": "2025-12-28T17:36:00+00:00"
+  },
+  {
     "id": "msg22638",
     "title": "Miraggio Min 50%",
     "description": "Ajio | Miraggio Min 50% https://ajiio.co/nebN8m Soch Min 60 https://ajiio.co/gOw9Ct",
@@ -9570,45 +9590,5 @@
     "date_obj": "2025-12-24T07:01:29+00:00",
     "buy_link": "https://fkrt.co/LbJcOZ",
     "date_iso": "2025-12-24T07:01:29+00:00"
-  },
-  {
-    "id": "msg22216",
-    "title": "➤Pay Via Cred & Get Up to ₹200 Cashback",
-    "description": "MediBuddy Flat ₹4100 Off On MediBuddy Health Check-up 🔥🔥🔥 Full Body Check-up + Vitamin D + HbA1c Sugar Test + Thyroid (T3/T4/TSH) @ Rs.899 Link : Apply Coupon : MED50 ➤Worth ₹4,380 | Limited Time Offer. ➤Includes 64…",
-    "shortlink": "https://extp.in/bMf9js",
-    "urls": [
-      {
-        "url": "",
-        "label": "MediBuddy Flat ₹4100 Off On MediBuddy Health Check-up 🔥🔥🔥"
-      },
-      {
-        "url": "https://extp.in/bMf9js",
-        "label": "up + Vitamin D + HbA1c Sugar Test + Thyroid (T3/T4/TSH) @ Rs.899"
-      },
-      {
-        "url": "",
-        "label": "➤Worth ₹4,380 | Limited Time Offer"
-      },
-      {
-        "url": "",
-        "label": "➤Includes 64 Tests: CBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Thyroid (T3/T4/TSH), Vitamin D & more"
-      },
-      {
-        "url": "",
-        "label": "➤Bonus : Get JioSaavn Pro Subscription (1 Month) - Worth ₹299 for Free"
-      },
-      {
-        "url": "",
-        "label": "➤Pay Via Cred & Get Upto ₹200 Cashback"
-      }
-    ],
-    "raw_text": "MediBuddy  Flat ₹4100 Off On MediBuddy Health Check-up 🔥🔥🔥\n\nFull Body Check-up + Vitamin D + HbA1c Sugar Test + Thyroid (T3/T4/TSH) @ Rs.899\n\nLink : https://extp.in/bMf9js\n\nApply Coupon : MED50\n\n➤Worth ₹4,380 | Limited Time Offer.\n➤Includes 64 Tests: CBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Thyroid (T3/T4/TSH), Vitamin D & more.\n\n➤Bonus : Get JioSaavn Pro Subscription (1 Month) - Worth ₹299 for Free\n\n➤Pay Via Cred & Get Upto ₹200 Cashback",
-    "final_url": "https://extp.in/bMf9js",
-    "local_image": "assets/images/tgmsg_22216.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-24T07:04:20+00:00",
-    "buy_link": "https://extp.in/bMf9js",
-    "date_iso": "2025-12-24T07:04:20+00:00"
   }
 ]
