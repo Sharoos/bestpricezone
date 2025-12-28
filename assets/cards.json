@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22634",
+    "title": "Set of 2 Door Curtains @ 309 Only!",
+    "description": "Myntra | Set of 2 Door Curtains @ 309 Only! 👉https://myntr.in/OCwKib",
+    "shortlink": "https://myntr.in/OCwKib",
+    "urls": [
+      {
+        "url": "https://myntr.in/OCwKib",
+        "label": "Set of 2 Door Curtains @ 309 Only!"
+      }
+    ],
+    "raw_text": "Myntra | Set of 2 Door Curtains @ 309 Only!\n\n👉https://myntr.in/OCwKib",
+    "final_url": "https://myntr.in/OCwKib",
+    "local_image": "assets/images/tgmsg_22634.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-28T15:53:24+00:00",
+    "buy_link": "https://myntr.in/OCwKib",
+    "date_iso": "2025-12-28T15:53:24+00:00"
+  },
+  {
     "id": "msg22631",
     "title": "Campus Men’s Casual Shoes Starts @ 487",
     "description": "Flipkart | Campus Men’s Casual Shoes Starts @ 487 👉https://fkrt.co/3ddlrS",
@@ -9634,25 +9654,5 @@
     "date_obj": "2025-12-24T06:02:52+00:00",
     "buy_link": "https://myntr.in/joQteL",
     "date_iso": "2025-12-24T06:02:52+00:00"
-  },
-  {
-    "id": "msg22211",
-    "title": "ELECTRA Wireless Headphone @ 499",
-    "description": "Flipkart | Zoook ZB-ELECTRA Wireless Headphone @ 499. https://fkrt.co/sUBw5n",
-    "shortlink": "https://fkrt.co/sUBw5n",
-    "urls": [
-      {
-        "url": "https://fkrt.co/sUBw5n",
-        "label": "Zoook ZB-ELECTRA Wireless Headphone @ 499"
-      }
-    ],
-    "raw_text": "Flipkart | Zoook ZB-ELECTRA Wireless Headphone @ 499.\n\nhttps://fkrt.co/sUBw5n",
-    "final_url": "https://fkrt.co/sUBw5n",
-    "local_image": "assets/images/tgmsg_22211.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-24T06:16:20+00:00",
-    "buy_link": "https://fkrt.co/sUBw5n",
-    "date_iso": "2025-12-24T06:16:20+00:00"
   }
 ]
