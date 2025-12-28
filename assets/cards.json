@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg22638",
+    "title": "Miraggio Min 50%",
+    "description": "Ajio | Miraggio Min 50% https://ajiio.co/nebN8m Soch Min 60 https://ajiio.co/gOw9Ct",
+    "shortlink": "https://ajiio.co/nebN8m",
+    "urls": [
+      {
+        "url": "https://ajiio.co/nebN8m",
+        "label": "Miraggio Min 50%"
+      },
+      {
+        "url": "https://ajiio.co/gOw9Ct",
+        "label": "Soch Min 60"
+      }
+    ],
+    "raw_text": "Ajio | Miraggio Min 50%\nhttps://ajiio.co/nebN8m\n\nSoch Min 60\nhttps://ajiio.co/gOw9Ct",
+    "final_url": "https://ajiio.co/nebN8m",
+    "local_image": "assets/images/tgmsg_22638.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-28T17:05:32+00:00",
+    "buy_link": "https://ajiio.co/nebN8m",
+    "date_iso": "2025-12-28T17:05:32+00:00"
+  },
+  {
+    "id": "msg22639",
+    "title": "🛒 Deal Price ₹750",
+    "description": "Ajio | 👕 USPA Shirts - AJIO ! USPA Shirts 🛒 Deal Price: ₹750 🔗 https://ajiio.co/9CUkjz",
+    "shortlink": "https://ajiio.co/9CUkjz",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 USPA Shirts - AJIO !"
+      },
+      {
+        "url": "",
+        "label": "USPA Shirts"
+      },
+      {
+        "url": "https://ajiio.co/9CUkjz",
+        "label": "🛒 Deal Price: ₹750"
+      }
+    ],
+    "raw_text": "Ajio | 👕 USPA Shirts - AJIO !\n\nUSPA Shirts\n\n🛒 Deal Price: ₹750\n\n🔗 https://ajiio.co/9CUkjz",
+    "final_url": "https://ajiio.co/9CUkjz",
+    "local_image": "assets/images/tgmsg_22639.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-28T17:16:37+00:00",
+    "buy_link": "https://ajiio.co/9CUkjz",
+    "date_iso": "2025-12-28T17:16:37+00:00"
+  },
+  {
     "id": "msg22637",
     "title": "Red Tape Shoes Up to 85% off",
     "description": "Flipkart | Red Tape Shoes Upto 85% off 👉https://fkrt.co/sRIoZj",
@@ -9558,49 +9610,5 @@
     "date_obj": "2025-12-24T07:04:20+00:00",
     "buy_link": "https://extp.in/bMf9js",
     "date_iso": "2025-12-24T07:04:20+00:00"
-  },
-  {
-    "id": "msg22218",
-    "title": "Branded Blankets From 749",
-    "description": "GRAB : Branded Blankets From 749. https://fkrt.co/8ARLAJ",
-    "shortlink": "https://fkrt.co/8ARLAJ",
-    "urls": [
-      {
-        "url": "https://fkrt.co/8ARLAJ",
-        "label": "Branded Blankets From 749"
-      }
-    ],
-    "raw_text": "GRAB : Branded Blankets From 749.\n\nhttps://fkrt.co/8ARLAJ",
-    "final_url": "https://fkrt.co/8ARLAJ",
-    "local_image": "assets/images/tgmsg_22218.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-24T07:29:27+00:00",
-    "buy_link": "https://fkrt.co/8ARLAJ",
-    "date_iso": "2025-12-24T07:29:27+00:00"
-  },
-  {
-    "id": "msg22213",
-    "title": "💥 Just ₹699 (⚡91% OFF)",
-    "description": "Flipkart | 🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar 💥 Just ₹699 (⚡91% OFF) https://fkrt.co/kdmhet",
-    "shortlink": "https://fkrt.co/kdmhet",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar"
-      },
-      {
-        "url": "https://fkrt.co/kdmhet",
-        "label": "💥 Just ₹699 (⚡91% OFF)"
-      }
-    ],
-    "raw_text": "Flipkart | 🔥 SnapUp Boom Edge 🎶 16W RGB Soundbar \n💥 Just ₹699 (⚡91% OFF)\n\nhttps://fkrt.co/kdmhet",
-    "final_url": "https://fkrt.co/kdmhet",
-    "local_image": "assets/images/tgmsg_22213.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-24T06:46:00+00:00",
-    "buy_link": "https://fkrt.co/kdmhet",
-    "date_iso": "2025-12-24T06:46:00+00:00"
   }
 ]
