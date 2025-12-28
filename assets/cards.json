@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg22607",
+    "title": "Crazy Deals Min 50% Off On Top Brand",
+    "description": "Ajio s • GAS : • Gap : • Superdry : • Tommy Hilfiger : • Steve Madden : • Gant : Extra 10% Ajio Cashback On Every Order (100% Usable)",
+    "shortlink": "https://ajiio.co/HMJnbf",
+    "urls": [
+      {
+        "url": "https://ajiio.co/HMJnbf",
+        "label": "Ajio Crazy Deals Min 50% Off On Top Brands"
+      },
+      {
+        "url": "https://ajiio.co/WzcpOK",
+        "label": "Gap"
+      },
+      {
+        "url": "https://ajiio.co/e6Vkje",
+        "label": "Superdry"
+      },
+      {
+        "url": "https://ajiio.co/wSpp1h",
+        "label": "Tommy Hilfiger"
+      },
+      {
+        "url": "https://ajiio.co/bTkD25",
+        "label": "Steve Madden"
+      },
+      {
+        "url": "https://ajiio.co/1bx82S",
+        "label": "Gant"
+      },
+      {
+        "url": "",
+        "label": "Extra 10% Ajio Cashback On Every Order (100% Usable)"
+      }
+    ],
+    "raw_text": "Ajio Crazy Deals Min 50% Off On Top Brands\n\n• GAS : https://ajiio.co/HMJnbf\n• Gap : https://ajiio.co/WzcpOK    \n• Superdry : https://ajiio.co/e6Vkje\n• Tommy Hilfiger : https://ajiio.co/wSpp1h  \n• Steve Madden : https://ajiio.co/bTkD25\n• Gant : https://ajiio.co/1bx82S\n\nExtra 10% Ajio Cashback On Every Order (100% Usable)",
+    "final_url": "https://ajiio.co/HMJnbf",
+    "local_image": "assets/images/tgmsg_22607.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-28T11:16:03+00:00",
+    "buy_link": "https://ajiio.co/HMJnbf",
+    "date_iso": "2025-12-28T11:16:03+00:00"
+  },
+  {
     "id": "msg22604",
     "title": "🛍 + Extra 10% Super Cash! 🎉",
     "description": "Ajio | WOMEN'S Sarees Starting @ just 198 Links : 🛍 + Extra 10% AJIO Super Cash! 🎉",
@@ -9594,25 +9638,5 @@
     "date_obj": "2025-12-23T18:47:57+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FZKSHFGV?tag=bestpricezo0f-21",
     "date_iso": "2025-12-23T18:47:57+00:00"
-  },
-  {
-    "id": "msg22191",
-    "title": "Teakwood Leathers Trolley Bag Starting From Rs.1198",
-    "description": "Myntra | Teakwood Leathers Trolley Bag Starting From Rs.1198 https://myntr.in/wPqBT6",
-    "shortlink": "https://myntr.in/wPqBT6",
-    "urls": [
-      {
-        "url": "https://myntr.in/wPqBT6",
-        "label": "Teakwood Leathers Trolley Bag Starting From Rs.1198"
-      }
-    ],
-    "raw_text": "Myntra | Teakwood Leathers Trolley Bag Starting From Rs.1198\n\nhttps://myntr.in/wPqBT6",
-    "final_url": "https://myntr.in/wPqBT6",
-    "local_image": "assets/images/tgmsg_22191.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-23T18:49:40+00:00",
-    "buy_link": "https://myntr.in/wPqBT6",
-    "date_iso": "2025-12-23T18:49:40+00:00"
   }
 ]
