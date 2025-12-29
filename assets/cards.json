@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg22709",
+    "title": "Vero Moda & Only Min 60% off",
+    "description": "Ajio | Vero Moda & Only Min 60% off https://ajiio.co/e8b5pC Largerst Trends Collection Min 65%  Netplay , DNMX and more https://ajiio.co/9Twiht",
+    "shortlink": "https://ajiio.co/e8b5pC",
+    "urls": [
+      {
+        "url": "https://ajiio.co/e8b5pC",
+        "label": "Vero Moda & Only Min 60% off"
+      },
+      {
+        "url": "https://ajiio.co/9Twiht",
+        "label": "Largerst Trends Collection Min 65% Netplay , DNMX and more"
+      }
+    ],
+    "raw_text": "Ajio | Vero Moda & Only Min 60% off \nhttps://ajiio.co/e8b5pC\n\nLargerst Trends Collection Min 65%  Netplay , DNMX and more\nhttps://ajiio.co/9Twiht",
+    "final_url": "https://ajiio.co/e8b5pC",
+    "local_image": "assets/images/tgmsg_22709.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-29T15:05:13+00:00",
+    "buy_link": "https://ajiio.co/e8b5pC",
+    "date_iso": "2025-12-29T15:05:13+00:00"
+  },
+  {
     "id": "msg22707",
     "title": "Lotoo Up to 70% Off On Branded Shampoo",
     "description": "Flipkart Lotoo | Upto 70% Off On Branded Shampoos. DOVE : Tresemme : L'Oreal Paris : More :",
@@ -9566,33 +9590,5 @@
     "date_obj": "2025-12-24T17:06:44+00:00",
     "buy_link": "https://ajiio.co/fk4Kgp",
     "date_iso": "2025-12-24T17:06:44+00:00"
-  },
-  {
-    "id": "msg22282",
-    "title": "🛒 Deal Price ₹750",
-    "description": "Ajio | 👕 USPA Shirts - AJIO ! USPA Shirts 🛒 Deal Price: ₹750 🔗 https://ajiio.co/nHhBE0",
-    "shortlink": "https://ajiio.co/nHhBE0",
-    "urls": [
-      {
-        "url": "",
-        "label": "👕 USPA Shirts - AJIO !"
-      },
-      {
-        "url": "",
-        "label": "USPA Shirts"
-      },
-      {
-        "url": "https://ajiio.co/nHhBE0",
-        "label": "🛒 Deal Price: ₹750"
-      }
-    ],
-    "raw_text": "Ajio | 👕 USPA Shirts - AJIO !\n\nUSPA Shirts\n\n🛒 Deal Price: ₹750\n\n🔗 https://ajiio.co/nHhBE0",
-    "final_url": "https://ajiio.co/nHhBE0",
-    "local_image": "assets/images/tgmsg_22282.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-24T16:51:46+00:00",
-    "buy_link": "https://ajiio.co/nHhBE0",
-    "date_iso": "2025-12-24T16:51:46+00:00"
   }
 ]
