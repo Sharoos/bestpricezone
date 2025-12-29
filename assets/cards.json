@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22719",
+    "title": "Philips 4W 400",
+    "description": "Amazon | Philips 4W 400-lumen Frosted Candle (Pack Of 6) @358. 👉https://www.amazon.in/dp/B086GSB7ZB?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B086GSB7ZB?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B086GSB7ZB?th=1&tag=bestpricezo0f-21",
+        "label": "Philips 4W 400-lumen Frosted Candle (Pack Of 6) @358"
+      }
+    ],
+    "raw_text": "Amazon | Philips 4W 400-lumen Frosted Candle (Pack Of 6) @358.\n\n👉https://www.amazon.in/dp/B086GSB7ZB?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B086GSB7ZB?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_22719.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-29T16:46:41+00:00",
+    "buy_link": "https://www.amazon.in/dp/B086GSB7ZB?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-29T16:46:41+00:00"
+  },
+  {
     "id": "msg22716",
     "title": "Up to 55% Off On Head & Shoulders Shampoo",
     "description": "Amazon | Upto 55% Off On Head & Shoulders Shampoo.…",
@@ -9630,25 +9650,5 @@
     "date_obj": "2025-12-24T19:17:15+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F84FBWQM?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-12-24T19:17:15+00:00"
-  },
-  {
-    "id": "msg22300",
-    "title": "Thomson Alphabeat120, Bass Woofer At Rs.3299",
-    "description": "Flipkart | Thomson Alphabeat120, Bass Woofer At Rs.3299 https://fkrt.co/1p98Sy",
-    "shortlink": "https://fkrt.co/1p98Sy",
-    "urls": [
-      {
-        "url": "https://fkrt.co/1p98Sy",
-        "label": "Thomson Alphabeat120, Bass Woofer At Rs.3299"
-      }
-    ],
-    "raw_text": "Flipkart | Thomson Alphabeat120, Bass Woofer At Rs.3299\n\n https://fkrt.co/1p98Sy",
-    "final_url": "https://ww44.affinity.net/sssweb?enk=e760f703f8e8837aa1133871460d0e3aec5aa9a59a172c854543fc962edb2e0a65983b555d449801303b965009ca6e45e9ea5010b203523a97e62764c424d0fd&di=EPTG2905470&subid=1p98Sy_p__p_&cc=IN&d=https%3A%2F%2Fdl.flipkart.com%2Fdl%2Fdealsmagnet%2Fp%2Fdealsmagnet_deals%3Fpid%3DACCHC38KAFEWP2YJ%26&pwsvid=PW1766603989121S1p98SyRV6DrO2_0&src=ot",
-    "local_image": "assets/images/tgmsg_22300.jpg",
-    "source_host": "ww44.affinity.net",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-24T19:19:03+00:00",
-    "buy_link": "https://fkrt.co/1p98Sy",
-    "date_iso": "2025-12-24T19:19:03+00:00"
   }
 ]
