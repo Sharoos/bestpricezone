@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg22728",
+    "title": "Branded Cargo Trousers Starts @269",
+    "description": "Myntra : Branded Cargo Trousers Starts @269 Men : https://myntr.in/Tfovjh Women : https://myntr.in/xiBB3e",
+    "shortlink": "https://myntr.in/Tfovjh",
+    "urls": [
+      {
+        "url": "",
+        "label": "Branded Cargo Trousers Starts @269"
+      },
+      {
+        "url": "https://myntr.in/Tfovjh",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/xiBB3e",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra : Branded Cargo Trousers Starts @269\n\nMen : https://myntr.in/Tfovjh\nWomen : https://myntr.in/xiBB3e",
+    "final_url": "https://myntr.in/Tfovjh",
+    "local_image": "assets/images/tgmsg_22728.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-29T18:02:05+00:00",
+    "buy_link": "https://myntr.in/Tfovjh",
+    "date_iso": "2025-12-29T18:02:05+00:00"
+  },
+  {
     "id": "msg22724",
     "title": "🏻 Car Water Wiper Window Glass At 102",
     "description": "ONDC Under Rs.110 Deals 🔥🔥 ✅ Apply Code : EXTRA30 🤜 Anti-skid Rubber Bath Mat At 101 : More Deals : 👉🏻 Car AC Outlet Internal Cleaner At 69 : 👉🏻 Silicon body scruber belt At 72 : 👉🏻 Transparent Adhesive Wall Hooks -…",
@@ -9730,25 +9758,5 @@
     "date_obj": "2025-12-25T03:41:10+00:00",
     "buy_link": "https://ajiio.co/oZcS2H",
     "date_iso": "2025-12-25T03:41:10+00:00"
-  },
-  {
-    "id": "msg22314",
-    "title": "Kook N Keech Tshirts Up to 82% Off Starts Rs.179",
-    "description": "Myntra  Kook N Keech Tshirts Upto 82% Off | Starts Rs.179 👉https://myntr.in/YqXAcC",
-    "shortlink": "https://myntr.in/YqXAcC",
-    "urls": [
-      {
-        "url": "https://myntr.in/YqXAcC",
-        "label": "Myntra Kook N Keech Tshirts Upto 82% Off | Starts Rs.179"
-      }
-    ],
-    "raw_text": "Myntra  Kook N Keech Tshirts Upto 82% Off | Starts Rs.179\n\n👉https://myntr.in/YqXAcC",
-    "final_url": "https://myntr.in/YqXAcC",
-    "local_image": "assets/images/tgmsg_22314.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-25T03:50:53+00:00",
-    "buy_link": "https://myntr.in/YqXAcC",
-    "date_iso": "2025-12-25T03:50:53+00:00"
   }
 ]
