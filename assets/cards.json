@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg22702",
+    "title": "Allen solly Min 40%",
+    "description": "Ajio | Allen solly  Min 40% https://ajiio.co/CIqcJX Jack & Jones Min 60% https://ajiio.co/SuAA8i",
+    "shortlink": "https://ajiio.co/CIqcJX",
+    "urls": [
+      {
+        "url": "https://ajiio.co/CIqcJX",
+        "label": "Allen solly Min 40%"
+      },
+      {
+        "url": "https://ajiio.co/SuAA8i",
+        "label": "Jack & Jones Min 60%"
+      }
+    ],
+    "raw_text": "Ajio | Allen solly  Min 40% \nhttps://ajiio.co/CIqcJX\n\nJack & Jones Min 60%\nhttps://ajiio.co/SuAA8i",
+    "final_url": "https://ajiio.co/CIqcJX",
+    "local_image": "assets/images/tgmsg_22702.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-29T13:46:31+00:00",
+    "buy_link": "https://ajiio.co/CIqcJX",
+    "date_iso": "2025-12-29T13:46:31+00:00"
+  },
+  {
     "id": "msg22694",
     "title": "Up to 75% Off On Shirts For Men",
     "description": "Ajio | Upto 75% Off On Shirts For Men 🔗 Link : https://ajiio.co/eopGKT",
@@ -9594,25 +9618,5 @@
     "date_obj": "2025-12-24T16:37:09+00:00",
     "buy_link": "https://extp.in/zcnPIp",
     "date_iso": "2025-12-24T16:37:09+00:00"
-  },
-  {
-    "id": "msg22275",
-    "title": "Up to 61% Off On Titan Watche",
-    "description": "Flipkart | Upto 61% Off On Titan Watches. https://fkrt.co/hZ8qoa",
-    "shortlink": "https://fkrt.co/hZ8qoa",
-    "urls": [
-      {
-        "url": "https://fkrt.co/hZ8qoa",
-        "label": "Upto 61% Off On Titan Watches"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 61% Off On Titan Watches.\n\nhttps://fkrt.co/hZ8qoa",
-    "final_url": "https://ww44.affinity.net/sssweb?enk=e760f703f8e8837aa1133871460d0e3aec5aa9a59a172c854543fc962edb2e0a65983b555d449801303b965009ca6e45e9ea5010b203523a97e62764c424d0fd&di=EPTG2905470&subid=hZ8qoa_p__p_&cc=IN&d=https%3A%2F%2Fdl.flipkart.com%2Fdl%2Fwatches%2Fwrist-watches%2Ftitan~brand%2Fpr%3Fsid%3Dr18%252Cf13%26marketplace%3DFLIPKART%26otracker%3Dproduct_breadCrumbs_Titan%2520Wrist%2520Watches%26sort%3Dprice_asc%26p%255B%255D%3Dfacets.discount_range_v1%25255B%25255D%253D60%252525%2520or%2520more%26p%255B%255D%3Dfacets.discount_range_v1%25255B%25255D%253D50%252525%2520or%2520more%26p%255B%255D%3Dfacets.brand%25255B%25255D%253DTitan%26&pwsvid=PW1766592712976ShZ8qoaRXgrrJyJT&src=ot",
-    "local_image": "assets/images/tgmsg_22275.jpg",
-    "source_host": "ww44.affinity.net",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-24T15:51:33+00:00",
-    "buy_link": "https://fkrt.co/hZ8qoa",
-    "date_iso": "2025-12-24T15:51:33+00:00"
   }
 ]
