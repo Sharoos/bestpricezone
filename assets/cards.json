@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg22723",
+    "title": "3. Ponds Min. 50% Off",
+    "description": "Myntra | Cosmetics Products sale is Live 1. Lakme Makeup Min. 50 - 65% Off: 2. Lakme Skin Care Min. 45 - 55% Off: :",
+    "shortlink": "https://myntr.in/ZWvtne",
+    "urls": [
+      {
+        "url": "",
+        "label": "Cosmetics Products sale is Live"
+      },
+      {
+        "url": "https://myntr.in/ZWvtne",
+        "label": "1. Lakme Makeup Min. 50 - 65% Off"
+      },
+      {
+        "url": "https://myntr.in/VuXlPP",
+        "label": "2. Lakme Skin Care Min. 45 - 55% Off"
+      },
+      {
+        "url": "https://myntr.in/hXq3mg",
+        "label": "3. Ponds Min. 50% Off"
+      }
+    ],
+    "raw_text": "Myntra | Cosmetics Products  sale is Live\n\n1. Lakme Makeup Min. 50 - 65% Off: https://myntr.in/ZWvtne\n2. Lakme Skin Care Min. 45 - 55% Off: https://myntr.in/VuXlPP\n3. Ponds Min. 50% Off: \nhttps://myntr.in/hXq3mg",
+    "final_url": "https://myntr.in/ZWvtne",
+    "local_image": "assets/images/tgmsg_22723.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-29T17:35:01+00:00",
+    "buy_link": "https://myntr.in/ZWvtne",
+    "date_iso": "2025-12-29T17:35:01+00:00"
+  },
+  {
     "id": "msg22720",
     "title": "+ 10% EXTRA CASH",
     "description": "Ajio | Rugs, Carpets & Dhurries Starting @ just ₹120 👉Link : + 10% EXTRA AJIO CASH",
@@ -9638,25 +9670,5 @@
     "date_obj": "2025-12-24T19:06:57+00:00",
     "buy_link": "https://myntr.in/bjg0QZ",
     "date_iso": "2025-12-24T19:06:57+00:00"
-  },
-  {
-    "id": "msg22297",
-    "title": "🔥Nakpro Creatine 250G (83 servings) @ 459/",
-    "description": "Amazon | 🔥Nakpro Creatine 250G (83 servings) @ 459/- 🔗https://www.amazon.in/dp/B07WN552H2?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07WN552H2?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07WN552H2?tag=bestpricezo0f-21",
-        "label": "🔥Nakpro Creatine 250G (83 servings) @ 459/"
-      }
-    ],
-    "raw_text": "Amazon | 🔥Nakpro Creatine 250G (83 servings) @ 459/-\n\n🔗https://www.amazon.in/dp/B07WN552H2?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07WN552H2?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_22297.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-24T19:09:21+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07WN552H2?tag=bestpricezo0f-21",
-    "date_iso": "2025-12-24T19:09:21+00:00"
   }
 ]
