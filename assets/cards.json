@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg22720",
+    "title": "+ 10% EXTRA CASH",
+    "description": "Ajio | Rugs, Carpets & Dhurries Starting @ just ₹120 👉Link : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/5Li29W",
+    "urls": [
+      {
+        "url": "https://ajiio.co/5Li29W",
+        "label": "Rugs, Carpets & Dhurries Starting @ just ₹120"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "Ajio | Rugs, Carpets & Dhurries Starting @ just ₹120\n \n👉Link : https://ajiio.co/5Li29W\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/5Li29W",
+    "local_image": "assets/images/tgmsg_22720.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-29T17:05:36+00:00",
+    "buy_link": "https://ajiio.co/5Li29W",
+    "date_iso": "2025-12-29T17:05:36+00:00"
+  },
+  {
+    "id": "msg22722",
+    "title": "50% Off",
+    "description": "Flipkart | 50% Off -HAVELLS Trimmer At Rs.999 👉 Link : https://fkrt.co/LC2N7G NOVA NHT  Trimmer @785 👉 Link : https://fkrt.co/BFtry5",
+    "shortlink": "https://fkrt.co/LC2N7G",
+    "urls": [
+      {
+        "url": "https://fkrt.co/LC2N7G",
+        "label": "50% Off -HAVELLS Trimmer At Rs.999"
+      },
+      {
+        "url": "https://fkrt.co/BFtry5",
+        "label": "NOVA NHT Trimmer @785"
+      }
+    ],
+    "raw_text": "Flipkart | 50% Off -HAVELLS Trimmer At Rs.999\n\n👉 Link : https://fkrt.co/LC2N7G\n\nNOVA NHT  Trimmer @785\n\n👉 Link : https://fkrt.co/BFtry5",
+    "final_url": "https://ww44.affinity.net/sssweb?enk=e760f703f8e8837aa1133871460d0e3aec5aa9a59a172c854543fc962edb2e0a65983b555d449801303b965009ca6e45e9ea5010b203523a97e62764c424d0fd&di=EPTG2905470&subid=LC2N7G_p__p_&cc=IN&d=https%3A%2F%2Fdl.flipkart.com%2Fdl%2Fhavells-bt5301-trimmer-100-min-runtime-20-length-settings%2Fp%2Fitm907e3f01dba63%3Fpid%3DTMRFVAZ6GHQHMKFH%26itx%3Dthedea1app%26qllm%3D1743677112957%26&pwsvid=PW1767028740782SLC2N7GRYpRdbXhe&src=ot",
+    "local_image": "assets/images/tgmsg_22722.jpg",
+    "source_host": "ww44.affinity.net",
+    "merchant_label": "Flipkart",
+    "date_obj": "2025-12-29T17:16:54+00:00",
+    "buy_link": "https://fkrt.co/LC2N7G",
+    "date_iso": "2025-12-29T17:16:54+00:00"
+  },
+  {
     "id": "msg22719",
     "title": "Philips 4W 400",
     "description": "Amazon | Philips 4W 400-lumen Frosted Candle (Pack Of 6) @358. 👉https://www.amazon.in/dp/B086GSB7ZB?th=1&tag=bestpricezo0f-21",
@@ -9610,45 +9658,5 @@
     "date_obj": "2025-12-24T19:09:21+00:00",
     "buy_link": "https://www.amazon.in/dp/B07WN552H2?tag=bestpricezo0f-21",
     "date_iso": "2025-12-24T19:09:21+00:00"
-  },
-  {
-    "id": "msg22298",
-    "title": "AGARO Royal Beard Trimmer 120 Minutes Usage @799",
-    "description": "Amazon | AGARO Royal Beard Trimmer | 120 Minutes Usage @799 https://www.amazon.in/dp/B0CSPCQ1KS?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CSPCQ1KS?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CSPCQ1KS?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "AGARO Royal Beard Trimmer | 120 Minutes Usage @799"
-      }
-    ],
-    "raw_text": "Amazon | AGARO Royal Beard Trimmer | 120 Minutes Usage @799\n\nhttps://www.amazon.in/dp/B0CSPCQ1KS?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CSPCQ1KS?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_22298.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-24T19:16:59+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CSPCQ1KS?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-24T19:16:59+00:00"
-  },
-  {
-    "id": "msg22299",
-    "title": "Samsung 80 cm (32 inches) HD Smart LED TV ₹12490",
-    "description": "Amazon | Samsung 80 cm (32 inches) HD Smart LED TV  ₹12490 https://www.amazon.in/dp/B0F84FBWQM?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F84FBWQM?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F84FBWQM?psc=1&tag=bestpricezo0f-21",
-        "label": "Samsung 80 cm (32 inches) HD Smart LED TV ₹12490"
-      }
-    ],
-    "raw_text": "Amazon | Samsung 80 cm (32 inches) HD Smart LED TV  ₹12490\n\nhttps://www.amazon.in/dp/B0F84FBWQM?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F84FBWQM?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_22299.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-24T19:17:15+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F84FBWQM?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-24T19:17:15+00:00"
   }
 ]
