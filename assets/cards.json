@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg22784",
+    "title": "Formal Shoes from 149",
+    "description": "AJIO Footwears Starts @99. Shoes from 99 : Sandals from 99 : Flip-Flops from 99 :  : Sandals from 99 : Flip-Flops from 99 :",
+    "shortlink": "https://ajiio.co/RVAkL9",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Footwears Starts @99"
+      },
+      {
+        "url": "https://ajiio.co/RVAkL9",
+        "label": "Shoes from 99"
+      },
+      {
+        "url": "https://ajiio.co/8DlH8b",
+        "label": "Sandals from 99"
+      },
+      {
+        "url": "https://ajiio.co/KL4dle",
+        "label": "Flops from 99"
+      },
+      {
+        "url": "https://ajiio.co/esrtdE",
+        "label": "Formal Shoes from 149"
+      },
+      {
+        "url": "https://ajiio.co/uwYQNe",
+        "label": "Sandals from 99"
+      },
+      {
+        "url": "https://ajiio.co/uk00sl",
+        "label": "Flops from 99"
+      }
+    ],
+    "raw_text": "AJIO  Footwears Starts @99.\n\nShoes from 99 : https://ajiio.co/RVAkL9\nSandals from 99 : https://ajiio.co/8DlH8b\nFlip-Flops from 99 : https://ajiio.co/KL4dle\n\nFormal Shoes from 149 : https://ajiio.co/esrtdE\nSandals from 99 : https://ajiio.co/uwYQNe\nFlip-Flops from 99 : https://ajiio.co/uk00sl",
+    "final_url": "https://ajiio.co/RVAkL9",
+    "local_image": "assets/images/tgmsg_22784.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-30T11:03:10+00:00",
+    "buy_link": "https://ajiio.co/RVAkL9",
+    "date_iso": "2025-12-30T11:03:10+00:00"
+  },
+  {
     "id": "msg22782",
     "title": "💰 Extra 2% OFF up to ₹2,000 – Use Code DHANVARSHA2",
     "description": "🔥 Ajio Offer on Gold – Only Today! 🔥 Buy P N Gadgil 3g | 24K (995) Yellow Gold Vedhani 💛 💹 Market Rate : ₹13,860/gm 🔥 AJIO Price : ₹12,834/gm 🎁 Extra Savings 💸 ₹1,500 OFF on Prepaid or ₹1,750 OFF on UPI  📄 Additional 3%…",
@@ -9782,29 +9826,5 @@
     "date_obj": "2025-12-25T12:31:25+00:00",
     "buy_link": "https://extp.in/kiTwl9",
     "date_iso": "2025-12-25T12:31:25+00:00"
-  },
-  {
-    "id": "msg22351",
-    "title": "Up to 80% Off",
-    "description": "Flipkart | Upto 80% Off - Men's Trousers Starts Rs 492 🔗 https://fkrt.co/4RoJuk",
-    "shortlink": "https://fkrt.co/4RoJuk",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off - Men's Trousers"
-      },
-      {
-        "url": "https://fkrt.co/4RoJuk",
-        "label": "Starts Rs 492"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 80% Off - Men's Trousers\n\n Starts Rs 492\n\n🔗 https://fkrt.co/4RoJuk",
-    "final_url": "https://fkrt.co/4RoJuk",
-    "local_image": "assets/images/tgmsg_22351.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-25T11:45:16+00:00",
-    "buy_link": "https://fkrt.co/4RoJuk",
-    "date_iso": "2025-12-25T11:45:16+00:00"
   }
 ]
