@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22814",
+    "title": "URBN Power Bank 20000mAh (22.5W) @ 999",
+    "description": "Amazon | URBN Power Bank 20000mAh (22.5W) @ 999. 👉https://www.amazon.in/dp/B0DQ4Q8SGG?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DQ4Q8SGG?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DQ4Q8SGG?th=1&tag=bestpricezo0f-21",
+        "label": "URBN Power Bank 20000mAh (22.5W) @ 999"
+      }
+    ],
+    "raw_text": "Amazon | URBN Power Bank 20000mAh (22.5W) @ 999.\n\n👉https://www.amazon.in/dp/B0DQ4Q8SGG?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DQ4Q8SGG?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_22814.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-30T16:48:44+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DQ4Q8SGG?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-30T16:48:44+00:00"
+  },
+  {
     "id": "msg22813",
     "title": "Up to 85% Off On Premium Brand Men's & Women's Shoe",
     "description": "Ajio : Upto 85% Off On Premium Brand Men's & Women's Shoe *Men's Shoes Adidas : Puma : Nike : Reebok : Campus : Red Tape : Skechers : Red Chief : *Women's Shoes Adidas : Puma : Nike : Reebok : Campus : Red Tape :…",
@@ -9850,45 +9870,5 @@
     "date_obj": "2025-12-25T17:16:33+00:00",
     "buy_link": "https://ajiio.co/IExghE",
     "date_iso": "2025-12-25T17:16:33+00:00"
-  },
-  {
-    "id": "msg22375",
-    "title": "Up to 80% Off On Chemistry Women's Clothing",
-    "description": "Flipkart | Upto 80% Off On Chemistry Women's Clothing. Topwear : Bottomwear : Dresses : Blazers : Co-Ords :",
-    "shortlink": "https://fkrt.co/nd1mzn",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Chemistry Women's Clothing"
-      },
-      {
-        "url": "https://fkrt.co/nd1mzn",
-        "label": "Topwear"
-      },
-      {
-        "url": "https://fkrt.co/elLewB",
-        "label": "Bottomwear"
-      },
-      {
-        "url": "https://fkrt.co/gGaCSW",
-        "label": "Dresses"
-      },
-      {
-        "url": "https://fkrt.co/rUHcay",
-        "label": "Blazers"
-      },
-      {
-        "url": "https://fkrt.co/RWPqI8",
-        "label": "Ords"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 80% Off On Chemistry Women's Clothing.\n\nTopwear : https://fkrt.co/nd1mzn\nBottomwear : https://fkrt.co/elLewB\nDresses : https://fkrt.co/gGaCSW\nBlazers : https://fkrt.co/rUHcay\nCo-Ords : https://fkrt.co/RWPqI8",
-    "final_url": "https://ww44.affinity.net/sssweb?enk=e760f703f8e8837aa1133871460d0e3aec5aa9a59a172c854543fc962edb2e0a65983b555d449801303b965009ca6e45e9ea5010b203523a97e62764c424d0fd&di=EPTG2905470&subid=nd1mzn_p__p_&cc=IN&d=https%3A%2F%2Fdl.flipkart.com%2Fdl%2Fdl%2Fdl%2Fdl%2Fclothing-and-accessories%2Ftopwear%2Fpr%3Fsid%3Dclo%252Cash%26p%255B%255D%3Dfacets.discount_range_v1%25255B%25255D%253D70%252525%252Bor%252Bmore%26p%255B%255D%3Dfacets.brand%25255B%25255D%253DCHEMISTRY%26p%255B%255D%3Dfacets.ideal_for%25255B%25255D%253DWomen%26sort%3Dprice_asc%26source%3DDefault%26&pwsvid=PW1766681940016Snd1mznRWoNrEcwi&src=ot",
-    "local_image": "assets/images/tgmsg_22375.jpg",
-    "source_host": "ww44.affinity.net",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-25T16:46:31+00:00",
-    "buy_link": "https://fkrt.co/nd1mzn",
-    "date_iso": "2025-12-25T16:46:31+00:00"
   }
 ]
