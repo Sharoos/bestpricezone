@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg22751",
+    "title": "+ 10% EXTRA CASH",
+    "description": "Ajio | Sunglasses Starts At Rs.490 👉Link : https://ajiio.co/A1BpeX + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/A1BpeX",
+    "urls": [
+      {
+        "url": "https://ajiio.co/A1BpeX",
+        "label": "Sunglasses Starts At Rs.490"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "Ajio | Sunglasses Starts At Rs.490\n \n👉Link : https://ajiio.co/A1BpeX\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/A1BpeX",
+    "local_image": "assets/images/tgmsg_22751.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-30T05:11:04+00:00",
+    "buy_link": "https://ajiio.co/A1BpeX",
+    "date_iso": "2025-12-30T05:11:04+00:00"
+  },
+  {
     "id": "msg22749",
     "title": "Shirts Starts @199",
     "description": "Ajio Men Polo T- Oversized T-Shirts Starts @60. Women's : Men's : Kids Clothing Boys : Girls : Infants :",
@@ -9650,49 +9674,5 @@
     "date_obj": "2025-12-25T07:26:14+00:00",
     "buy_link": "https://www.amazon.in/s?rh=n%3A1380395031%2Cp_89%3AAmazon_Brand_-_Solimo&s=price-asc-rank&i=kitchen&srs=1380395031&tag=bestpricezo0f-21",
     "date_iso": "2025-12-25T07:26:14+00:00"
-  },
-  {
-    "id": "msg22326",
-    "title": "25% discount on movie tickets (maximum ₹100)",
-    "description": "IDFC FIRST Lifetime Free Credit Card. 📌Apply Now: • Lifetime Free – No Joining or Annual Fee • ₹500 Gift Voucher on spending ₹5,000 within 90 days • Reward Points with no expiry •  • Discounts on 300+ brands including…",
-    "shortlink": "https://bitli.in/YItddVs",
-    "urls": [
-      {
-        "url": "",
-        "label": "IDFC FIRST Lifetime Free Credit Card"
-      },
-      {
-        "url": "https://bitli.in/YItddVs",
-        "label": "📌Apply Now"
-      },
-      {
-        "url": "",
-        "label": "Lifetime Free – No Joining or Annual Fee"
-      },
-      {
-        "url": "",
-        "label": "₹500 Gift Voucher on spending ₹5,000 within 90 days"
-      },
-      {
-        "url": "",
-        "label": "Reward Points with no expiry"
-      },
-      {
-        "url": "",
-        "label": "Discounts on 300+ brands including Flipkart, Myntra, AJIO, Zomato and more"
-      },
-      {
-        "url": "",
-        "label": "Lounge and travel benefits on select variants"
-      }
-    ],
-    "raw_text": "IDFC FIRST Lifetime Free Credit Card.\n\n📌Apply Now: https://bitli.in/YItddVs\n\n • Lifetime Free – No Joining or Annual Fee\n • ₹500 Gift Voucher on spending ₹5,000 within 90 days\n • Reward Points with no expiry\n • 25% discount on movie tickets (maximum ₹100)\n • Discounts on 300+ brands including Flipkart, Myntra, AJIO, Zomato and more\n • 1% fuel surcharge waiver\n • Lounge and travel benefits on select variants",
-    "final_url": "https://bitli.in/YItddVs",
-    "local_image": "assets/images/tgmsg_22326.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-12-25T06:54:00+00:00",
-    "buy_link": "https://bitli.in/YItddVs",
-    "date_iso": "2025-12-25T06:54:00+00:00"
   }
 ]
