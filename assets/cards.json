@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg22818",
+    "title": "🔥Up to 70% Off On John Players Brand Clothing",
+    "description": "🔥AJIO : Upto 70% Off On John Players Brand Clothing T-Shirts : Jeans : Shirts : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/Y4YmDr",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥AJIO : Upto 70% Off On John Players Brand Clothing"
+      },
+      {
+        "url": "https://ajiio.co/Y4YmDr",
+        "label": "T-Shirts"
+      },
+      {
+        "url": "https://ajiio.co/4LrLl7",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/6CJWLZ",
+        "label": "Shirts"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "🔥AJIO : Upto 70% Off On John Players Brand Clothing  \n \nT-Shirts : https://ajiio.co/Y4YmDr \nJeans : https://ajiio.co/4LrLl7 \nShirts : https://ajiio.co/6CJWLZ\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/Y4YmDr",
+    "local_image": "assets/images/tgmsg_22818.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-30T17:50:44+00:00",
+    "buy_link": "https://ajiio.co/Y4YmDr",
+    "date_iso": "2025-12-30T17:50:44+00:00"
+  },
+  {
     "id": "msg22816",
     "title": "Up to 75% Off on Buda Jeans Co Clothing",
     "description": "AJIO -  T-Shirts : Trousers : Shirts : Jeans : Sweatshirts : Jackets : Trackpants : *10% Ajio Super Cash On Every Order.",
@@ -9826,45 +9862,5 @@
     "date_obj": "2025-12-25T17:31:53+00:00",
     "buy_link": "https://fkrt.co/2KvueO",
     "date_iso": "2025-12-25T17:31:53+00:00"
-  },
-  {
-    "id": "msg22376",
-    "title": "ONDC Up to 50% off on Derby Chocolates 🔥🔥",
-    "description": "ONDC Upto 50% off on Derby Chocolates 🔥🔥 Caramel Eclairs Chocolate - 100 Pcs At 59 + FREE SHIPPING Use code : 30 | WOW30 Link: More: Coconut Toffees - Pack of 2 At 59 : Vitacin Orange Candy - Pack Of 2 At 63 : Sugar…",
-    "shortlink": "https://extp.in/S4uHz9",
-    "urls": [
-      {
-        "url": "",
-        "label": "ONDC Upto 50% off on Derby Chocolates 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "100 Pcs At 59 + FREE SHIPPING"
-      },
-      {
-        "url": "https://extp.in/S4uHz9",
-        "label": "30 | WOW30"
-      },
-      {
-        "url": "https://extp.in/mwAwss",
-        "label": "Pack of 2 At 59"
-      },
-      {
-        "url": "https://extp.in/ZEFyPf",
-        "label": "Pack Of 2 At 63"
-      },
-      {
-        "url": "https://extp.in/GfIvFI",
-        "label": "Pack of 1 At 63"
-      }
-    ],
-    "raw_text": "ONDC  Upto 50% off on Derby Chocolates 🔥🔥\n\nCaramel Eclairs Chocolate - 100 Pcs At 59 + FREE SHIPPING\n\nUse code : 30 | WOW30\n\nLink: https://extp.in/S4uHz9\n\nMore:\nCoconut Toffees - Pack of 2 At 59 : https://extp.in/mwAwss\nVitacin Orange Candy - Pack Of 2 At 63 : https://extp.in/ZEFyPf\nSugar Free Candy - Pack of 1 At 63 : https://extp.in/GfIvFI",
-    "final_url": "https://extp.in/S4uHz9",
-    "local_image": "assets/images/tgmsg_22376.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-25T17:01:48+00:00",
-    "buy_link": "https://extp.in/S4uHz9",
-    "date_iso": "2025-12-25T17:01:48+00:00"
   }
 ]
