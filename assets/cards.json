@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg22755",
+    "title": "Bajaj Brahmi Amla Hair Oil 400ml @126",
+    "description": "Amazon | Bajaj Brahmi Amla Hair Oil 400ml @126. 👉https://www.amazon.in/dp/B002ZVD0QI?psc=1&th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B002ZVD0QI?psc=1&th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B002ZVD0QI?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "Bajaj Brahmi Amla Hair Oil 400ml @126"
+      }
+    ],
+    "raw_text": "Amazon | Bajaj Brahmi Amla Hair Oil 400ml @126.\n \n👉https://www.amazon.in/dp/B002ZVD0QI?psc=1&th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B002ZVD0QI?psc=1&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_22755.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-30T05:51:03+00:00",
+    "buy_link": "https://www.amazon.in/dp/B002ZVD0QI?psc=1&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-30T05:51:03+00:00"
+  },
+  {
     "id": "msg22752",
     "title": "Beardo perfumes at Up to 77% off",
     "description": "Myntra | Beardo perfumes at Upto 77% off Link : https://myntr.in/qpDpKo",
@@ -9650,29 +9670,5 @@
     "date_obj": "2025-12-25T07:01:44+00:00",
     "buy_link": "https://ajiio.co/s5b0hw",
     "date_iso": "2025-12-25T07:01:44+00:00"
-  },
-  {
-    "id": "msg22329",
-    "title": "Monte Carlo blanket and bedsheets min 50% off",
-    "description": "Myntra  🔥🔥 Story@home Upto 70% off 👉https://myntr.in/UouCba Monte Carlo blanket and bedsheets min 50% off. 👉https://myntr.in/MXnwOK",
-    "shortlink": "https://myntr.in/UouCba",
-    "urls": [
-      {
-        "url": "https://myntr.in/UouCba",
-        "label": "Story@home Upto 70% off"
-      },
-      {
-        "url": "https://myntr.in/MXnwOK",
-        "label": "Monte Carlo blanket and bedsheets min 50% off"
-      }
-    ],
-    "raw_text": "Myntra  🔥🔥\n\nStory@home Upto 70% off \n👉https://myntr.in/UouCba\n\nMonte Carlo blanket and bedsheets min 50% off.\n👉https://myntr.in/MXnwOK",
-    "final_url": "https://myntr.in/UouCba",
-    "local_image": "assets/images/tgmsg_22329.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-25T07:11:10+00:00",
-    "buy_link": "https://myntr.in/UouCba",
-    "date_iso": "2025-12-25T07:11:10+00:00"
   }
 ]
