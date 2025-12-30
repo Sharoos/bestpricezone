@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg22774",
+    "title": "💡Eveready 30W LED Bulb at ₹256",
+    "description": "Amazon | 💡Eveready 30W LED Bulb at ₹256 👉https://www.amazon.in/dp/B076DNJMCV?th=1&tag=bestpricezo0f-21 💡Orient 30W LED Bulb at ₹299 👉https://www.amazon.in/dp/B0D8L67DHF?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B076DNJMCV?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B076DNJMCV?th=1&tag=bestpricezo0f-21",
+        "label": "💡Eveready 30W LED Bulb at ₹256"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0D8L67DHF?tag=bestpricezo0f-21",
+        "label": "💡Orient 30W LED Bulb at ₹299"
+      }
+    ],
+    "raw_text": "Amazon | 💡Eveready 30W LED Bulb at ₹256\n👉https://www.amazon.in/dp/B076DNJMCV?th=1&tag=bestpricezo0f-21\n\n💡Orient 30W LED Bulb at ₹299\n👉https://www.amazon.in/dp/B0D8L67DHF?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B076DNJMCV?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_22774.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-30T09:03:51+00:00",
+    "buy_link": "https://www.amazon.in/dp/B076DNJMCV?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-30T09:03:51+00:00"
+  },
+  {
     "id": "msg22772",
     "title": "Up to 61% Off",
     "description": "Flipkart | Upto 61% Off - Wrogn Men's T Shirts Starting  Rs.349 🔗 https://fkrt.co/Ndxpj6",
@@ -9710,25 +9734,5 @@
     "date_obj": "2025-12-25T10:45:06+00:00",
     "buy_link": "https://myntr.in/YXdq2F",
     "date_iso": "2025-12-25T10:45:06+00:00"
-  },
-  {
-    "id": "msg22343",
-    "title": "88% Off",
-    "description": "Flipkart | 88% Off - Sturlite Jesko 6W Rechargeable LED At Rs.329 👉 https://fkrt.co/r4RHT9",
-    "shortlink": "https://fkrt.co/r4RHT9",
-    "urls": [
-      {
-        "url": "https://fkrt.co/r4RHT9",
-        "label": "88% Off - Sturlite Jesko 6W Rechargeable LED At Rs.329"
-      }
-    ],
-    "raw_text": "Flipkart | 88% Off - Sturlite Jesko 6W Rechargeable LED At Rs.329\n\n👉 https://fkrt.co/r4RHT9",
-    "final_url": "https://fkrt.co/r4RHT9",
-    "local_image": "assets/images/tgmsg_22343.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-25T10:37:20+00:00",
-    "buy_link": "https://fkrt.co/r4RHT9",
-    "date_iso": "2025-12-25T10:37:20+00:00"
   }
 ]
