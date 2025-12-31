@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg22890",
+    "title": "Additional Coupons + Card Discount",
+    "description": "AJIO Price Drop On Premium Brands. Armani Exchange : Replay : La Martina : G Star Raw : Clarks : GAS, G-Star Raw & GANT Clothing. Men’s : Women’s : *s.",
+    "shortlink": "https://ajiio.co/ugcI4J",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Price Drop On Premium Brands"
+      },
+      {
+        "url": "https://ajiio.co/ugcI4J",
+        "label": "Armani Exchange"
+      },
+      {
+        "url": "https://ajiio.co/uzsubZ",
+        "label": "Replay"
+      },
+      {
+        "url": "https://ajiio.co/G2HA0h",
+        "label": "La Martina"
+      },
+      {
+        "url": "https://ajiio.co/KWYPEA",
+        "label": "G Star Raw"
+      },
+      {
+        "url": "https://ajiio.co/1NZXHc",
+        "label": "Clarks"
+      },
+      {
+        "url": "",
+        "label": "GAS, G-Star Raw & GANT Clothing"
+      },
+      {
+        "url": "https://ajiio.co/bS6iKq",
+        "label": "Men’s"
+      },
+      {
+        "url": "https://ajiio.co/cLgRUG",
+        "label": "Women’s"
+      },
+      {
+        "url": "",
+        "label": "Additional Coupons + Card Discounts"
+      }
+    ],
+    "raw_text": "AJIO  Price Drop On Premium Brands. \n\nArmani Exchange : https://ajiio.co/ugcI4J\nReplay : https://ajiio.co/uzsubZ\nLa Martina : https://ajiio.co/G2HA0h\nG Star Raw : https://ajiio.co/KWYPEA\nClarks : https://ajiio.co/1NZXHc\n\nGAS, G-Star Raw & GANT Clothing.\n\nMen’s : https://ajiio.co/bS6iKq\nWomen’s : https://ajiio.co/cLgRUG\n\n*Additional Coupons + Card Discounts.",
+    "final_url": "https://ajiio.co/ugcI4J",
+    "local_image": "assets/images/tgmsg_22890.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-31T15:51:46+00:00",
+    "buy_link": "https://ajiio.co/ugcI4J",
+    "date_iso": "2025-12-31T15:51:46+00:00"
+  },
+  {
     "id": "msg22889",
     "title": "✅Deal price RS.8999",
     "description": "Amazon | acer 80 cm (32 inches) G Plus Series HD Ready LED Smart Google TV 🔗  💥💥💥SBI CC OFFER",
@@ -9814,37 +9870,5 @@
     "date_obj": "2025-12-26T13:20:18+00:00",
     "buy_link": "https://extp.in/IUVEcW",
     "date_iso": "2025-12-26T13:20:18+00:00"
-  },
-  {
-    "id": "msg22437",
-    "title": "💰Bonus Earn 10% Super Cash on Every Order!!!",
-    "description": "🔥AJIO Clogs Start ₹187 🔥 Men's : Women's : 💰Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "shortlink": "https://ajiio.co/7dtUYe",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥AJIO Clogs Start ₹187 🔥"
-      },
-      {
-        "url": "https://ajiio.co/7dtUYe",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/1p8DnM",
-        "label": "Women's"
-      },
-      {
-        "url": "",
-        "label": "💰Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "🔥AJIO  Clogs Start ₹187 🔥\n\nMen's : https://ajiio.co/7dtUYe\nWomen's : https://ajiio.co/1p8DnM\n\n💰Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/7dtUYe",
-    "local_image": "assets/images/tgmsg_22437.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-26T12:00:44+00:00",
-    "buy_link": "https://ajiio.co/7dtUYe",
-    "date_iso": "2025-12-26T12:00:44+00:00"
   }
 ]
