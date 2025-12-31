@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg22893",
+    "title": "Levis Min 60% Extra 10%",
+    "description": "Ajio Sale is Live !!! AX Min 40%: Superdry Min 50%: Tommy Hilfiger Calvin Klein Min 40%: USPA Min 55% Extra 10%: :",
+    "shortlink": "https://ajiio.co/xQeN5C",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Sale is Live !!!"
+      },
+      {
+        "url": "https://ajiio.co/xQeN5C",
+        "label": "AX Min 40%"
+      },
+      {
+        "url": "https://ajiio.co/olWVrP",
+        "label": "Superdry Min 50%"
+      },
+      {
+        "url": "https://ajiio.co/wHdGQB",
+        "label": "Tommy Hilfiger Calvin Klein Min 40%"
+      },
+      {
+        "url": "https://ajiio.co/kTSOEC",
+        "label": "USPA Min 55% Extra 10%"
+      },
+      {
+        "url": "https://ajiio.co/uMWAJc",
+        "label": "Levis Min 60% Extra 10%"
+      }
+    ],
+    "raw_text": "Ajio Sale is Live !!!\nAX Min 40%: \nhttps://ajiio.co/xQeN5C\n\nSuperdry Min 50%: \nhttps://ajiio.co/olWVrP\n\nTommy Hilfiger Calvin Klein Min 40%: \nhttps://ajiio.co/wHdGQB\n\nUSPA Min 55% Extra 10%: \nhttps://ajiio.co/kTSOEC\n\nLevis Min 60% Extra 10%: \nhttps://ajiio.co/uMWAJc",
+    "final_url": "https://ajiio.co/xQeN5C",
+    "local_image": "assets/images/tgmsg_22893.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-31T16:28:44+00:00",
+    "buy_link": "https://ajiio.co/xQeN5C",
+    "date_iso": "2025-12-31T16:28:44+00:00"
+  },
+  {
     "id": "msg22892",
     "title": "Fragnance Starting @ just 185",
     "description": "Ajio | Home-Fragnance Starting @ just 185 Link : https://ajiio.co/6ub4x5",
@@ -9826,49 +9866,5 @@
     "date_obj": "2025-12-26T13:03:46+00:00",
     "buy_link": "https://extp.in/NmbhON",
     "date_iso": "2025-12-26T13:03:46+00:00"
-  },
-  {
-    "id": "msg22444",
-    "title": "ONDC Up to 93% Off on By Naked Fact Beauty Products + FREE SHIPPING 🔥🔥",
-    "description": "ONDC Upto 93% Off on By Naked Fact Beauty Products + FREE SHIPPING 🔥🔥 Use Code : DEAL35 Premium Rose water At 65 : Pure Aloevera Gel At 65 : Vitamin C Serum At 80 : Black Soil Shampoo At 90 : SPF Sunscreen + Lip Balm At…",
-    "shortlink": "https://extp.in/GBG3Wz",
-    "urls": [
-      {
-        "url": "",
-        "label": "ONDC Upto 93% Off on By Naked Fact Beauty Products + FREE SHIPPING 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "DEAL35"
-      },
-      {
-        "url": "https://extp.in/GBG3Wz",
-        "label": "Premium Rose water At 65"
-      },
-      {
-        "url": "https://extp.in/JBB2ca",
-        "label": "Pure Aloevera Gel At 65"
-      },
-      {
-        "url": "https://extp.in/TLC1Et",
-        "label": "Vitamin C Serum At 80"
-      },
-      {
-        "url": "https://extp.in/MI4yPp",
-        "label": "Black Soil Shampoo At 90"
-      },
-      {
-        "url": "https://extp.in/Drxa1b",
-        "label": "SPF Sunscreen + Lip Balm At 124"
-      }
-    ],
-    "raw_text": "ONDC  Upto 93% Off on By Naked Fact Beauty Products + FREE SHIPPING 🔥🔥\n\nUse Code : DEAL35\n\nPremium Rose water At 65 :  https://extp.in/GBG3Wz\nPure Aloevera Gel  At 65 :  https://extp.in/JBB2ca\nVitamin C Serum  At  80 :  https://extp.in/TLC1Et\nBlack Soil Shampoo At 90 : https://extp.in/MI4yPp\nSPF Sunscreen + Lip Balm At 124: https://extp.in/Drxa1b",
-    "final_url": "https://extp.in/GBG3Wz",
-    "local_image": "assets/images/tgmsg_22444.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-26T13:12:32+00:00",
-    "buy_link": "https://extp.in/GBG3Wz",
-    "date_iso": "2025-12-26T13:12:32+00:00"
   }
 ]
