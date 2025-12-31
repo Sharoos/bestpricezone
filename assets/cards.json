@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg22874",
+    "title": "✅ Use Code DHANVARSHA2 (2% off up to ₹2,000)",
+    "description": "AJIO: 24K (995) 3gm Vedhani @ ₹13,476/gm Market ₹13,750/gm ✅ Use Code : DHANVARSHA2 (2% off up to ₹2,000) 🔗 Link : • ₹1,500 Prepaid OFF OR ₹1,750 UPI OFF • Extra 3% GST Invoice benefit (with GSTIN)",
+    "shortlink": "https://ajiio.co/SzT3ou",
+    "urls": [
+      {
+        "url": "",
+        "label": "24K (995) 3gm Vedhani @ ₹13,476/gm"
+      },
+      {
+        "url": "",
+        "label": "Market ₹13,750/gm"
+      },
+      {
+        "url": "https://ajiio.co/SzT3ou",
+        "label": "✅ Use Code : DHANVARSHA2 (2% off up to ₹2,000)"
+      },
+      {
+        "url": "",
+        "label": "₹1,500 Prepaid OFF OR ₹1,750 UPI OFF"
+      },
+      {
+        "url": "",
+        "label": "Extra 3% GST Invoice benefit (with GSTIN)"
+      }
+    ],
+    "raw_text": "AJIO: 24K (995) 3gm Vedhani @ ₹13,476/gm\nMarket ₹13,750/gm\n\n✅ Use Code : DHANVARSHA2 (2% off up to ₹2,000)\n\n🔗 Link : https://ajiio.co/SzT3ou\n\n• ₹1,500 Prepaid OFF OR ₹1,750 UPI OFF\n\n• Extra 3% GST Invoice benefit (with GSTIN)",
+    "final_url": "https://ajiio.co/SzT3ou",
+    "local_image": "assets/images/tgmsg_22874.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-31T12:49:48+00:00",
+    "buy_link": "https://ajiio.co/SzT3ou",
+    "date_iso": "2025-12-31T12:49:48+00:00"
+  },
+  {
     "id": "msg22869",
     "title": "ONDC Up to 85% off on Bevzilla Coffee Products + FREE SHIPPING 🔥🔥",
     "description": "ONDC Upto 85% off on Bevzilla Coffee Products + FREE SHIPPING 🔥🔥 73% off : 25 Flavoured Coffee Sachets + Shaker At 119 Link: Use Code : EXTRA30 More: 70% off : Premium Strong Coffee - 50gms At 69 : 80% off : Reusable…",
@@ -9890,29 +9926,5 @@
     "date_obj": "2025-12-26T10:38:59+00:00",
     "buy_link": "https://extp.in/Tc84xV",
     "date_iso": "2025-12-26T10:38:59+00:00"
-  },
-  {
-    "id": "msg22429",
-    "title": "Shopsy Neck Pillow & Eye Mask @ ₹143",
-    "description": "Shopsy | Neck Pillow & Eye Mask @ ₹143 🔗https://extp.in/3CtpWo 🔗https://extp.in/3dYvoE",
-    "shortlink": "https://extp.in/3CtpWo",
-    "urls": [
-      {
-        "url": "https://extp.in/3CtpWo",
-        "label": "Neck Pillow & Eye Mask @ ₹143"
-      },
-      {
-        "url": "https://extp.in/3dYvoE",
-        "label": "Neck Pillow & Eye Mask @ ₹143"
-      }
-    ],
-    "raw_text": "Shopsy | Neck Pillow & Eye Mask @ ₹143\n\n🔗https://extp.in/3CtpWo\n🔗https://extp.in/3dYvoE",
-    "final_url": "https://extp.in/3CtpWo",
-    "local_image": "assets/images/tgmsg_22429.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-26T10:40:19+00:00",
-    "buy_link": "https://extp.in/3CtpWo",
-    "date_iso": "2025-12-26T10:40:19+00:00"
   }
 ]
