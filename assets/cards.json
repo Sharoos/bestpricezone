@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg22841",
+    "title": "Up to 65% Off On Beauty Item",
+    "description": "Myntra : Upto 65% Off On Beauty Items. Lakmé : Pond's : BoroPlus : Livon : Vaseline : Master Link :",
+    "shortlink": "https://myntr.in/lkJbvn",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 65% Off On Beauty Items"
+      },
+      {
+        "url": "https://myntr.in/lkJbvn",
+        "label": "Lakmé"
+      },
+      {
+        "url": "https://myntr.in/owUied",
+        "label": "Pond's"
+      },
+      {
+        "url": "https://myntr.in/Opx7Mz",
+        "label": "BoroPlus"
+      },
+      {
+        "url": "https://myntr.in/I9hReP",
+        "label": "Livon"
+      },
+      {
+        "url": "https://myntr.in/15EJj9",
+        "label": "Vaseline"
+      },
+      {
+        "url": "https://myntr.in/CBDd15",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Myntra : Upto 65% Off On Beauty Items. \n\nLakmé : https://myntr.in/lkJbvn\nPond's : https://myntr.in/owUied\nBoroPlus : https://myntr.in/Opx7Mz\nLivon : https://myntr.in/I9hReP\nVaseline : https://myntr.in/15EJj9\n\nMaster Link : https://myntr.in/CBDd15",
+    "final_url": "https://myntr.in/lkJbvn",
+    "local_image": "assets/images/tgmsg_22841.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2025-12-31T05:02:50+00:00",
+    "buy_link": "https://myntr.in/lkJbvn",
+    "date_iso": "2025-12-31T05:02:50+00:00"
+  },
+  {
     "id": "msg22839",
     "title": "Flat 75% Off On Jack & Jones Clothing",
     "description": "AJIO . Upto 75% Off On USPA Clothing. Men : Women : Boys : Girls : Upto 80% Off On Spykar Clothing. Men : Women : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
@@ -9866,25 +9910,5 @@
     "date_obj": "2025-12-26T04:40:49+00:00",
     "buy_link": "https://fkrt.co/hxKQtb",
     "date_iso": "2025-12-26T04:40:49+00:00"
-  },
-  {
-    "id": "msg22402",
-    "title": "Titan Watches Up to 50% Off",
-    "description": "Myntra | Titan Watches Upto 50% Off 👉Link : https://myntr.in/IGxxoy",
-    "shortlink": "https://myntr.in/IGxxoy",
-    "urls": [
-      {
-        "url": "https://myntr.in/IGxxoy",
-        "label": "Titan Watches Upto 50% Off"
-      }
-    ],
-    "raw_text": "Myntra | Titan Watches Upto 50% Off\n\n👉Link : https://myntr.in/IGxxoy",
-    "final_url": "https://myntr.in/IGxxoy",
-    "local_image": "assets/images/tgmsg_22402.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-26T04:10:45+00:00",
-    "buy_link": "https://myntr.in/IGxxoy",
-    "date_iso": "2025-12-26T04:10:45+00:00"
   }
 ]
