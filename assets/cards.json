@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg22838",
+    "title": "ONDC Up to 70% off on Beauty Products + FREE SHIPPING",
+    "description": "ONDC Upto 70% off on Beauty Products + FREE SHIPPING ✅Buy Rose Water At 20 : Use code : EXTRA30 👉🏻 Multani Mitti - 100gm At 20 : 👉🏻 Aloe Vera Face Pack -100gm At 20 : 👉🏻 Sandal Face Pack - 100gm At 20 : 👉🏻 Mehendi…",
+    "shortlink": "https://extp.in/w0YUMz",
+    "urls": [
+      {
+        "url": "",
+        "label": "ONDC Upto 70% off on Beauty Products + FREE SHIPPING"
+      },
+      {
+        "url": "https://extp.in/w0YUMz",
+        "label": "✅ Rose Water At 20"
+      },
+      {
+        "url": "",
+        "label": "EXTRA30"
+      },
+      {
+        "url": "https://extp.in/FtkS1t",
+        "label": "🏻 Multani Mitti - 100gm At 20"
+      },
+      {
+        "url": "https://extp.in/WXukHx",
+        "label": "🏻 Aloe Vera Face Pack -100gm At 20"
+      },
+      {
+        "url": "https://extp.in/e4rUcT",
+        "label": "🏻 Sandal Face Pack - 100gm At 20"
+      },
+      {
+        "url": "https://extp.in/fcT8f5",
+        "label": "🏻 Mehendi Powder (Pack of 2) At 30"
+      },
+      {
+        "url": "https://extp.in/geCuBI",
+        "label": "🏻 Henna Powder (Pack of 10) At 70"
+      }
+    ],
+    "raw_text": "ONDC  Upto 70% off on Beauty Products + FREE SHIPPING \n\n✅Buy Rose Water At 20 : https://extp.in/w0YUMz\n\nUse code : EXTRA30\n\n👉🏻 Multani Mitti  - 100gm At 20 : https://extp.in/FtkS1t\n👉🏻 Aloe Vera Face Pack -100gm At 20 : https://extp.in/WXukHx\n👉🏻 Sandal Face Pack - 100gm At 20 : https://extp.in/e4rUcT\n👉🏻 Mehendi Powder (Pack of 2) At 30 : https://extp.in/fcT8f5\n👉🏻 Henna Powder (Pack of 10) At 70 : https://extp.in/geCuBI",
+    "final_url": "https://extp.in/w0YUMz",
+    "local_image": "assets/images/tgmsg_22838.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2025-12-31T03:27:20+00:00",
+    "buy_link": "https://extp.in/w0YUMz",
+    "date_iso": "2025-12-31T03:27:20+00:00"
+  },
+  {
     "id": "msg22831",
     "title": "✂️ Wahl Corded Trimmer – ₹499",
     "description": "Amazon | ✂️ Wahl Corded Trimmer – ₹499 👉 https://www.amazon.in/dp/B07V4NXRQ6?th=1&psc=1&tag=bestpricezo0f-21",
@@ -9826,45 +9874,5 @@
     "date_obj": "2025-12-25T20:35:30+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DHZBTM3R?tag=bestpricezo0f-21",
     "date_iso": "2025-12-25T20:35:30+00:00"
-  },
-  {
-    "id": "msg22393",
-    "title": "Topwear Clothing Under at ₹199",
-    "description": "AJIO Loot : Topwear Clothing Under at  ₹199. Men's : https://ajiio.in/uq1VACp Women's : ajio.bitIy.in/sSKPbCw Boy’s : https://ajiio.in/zl3exWk Girl’s : https://ajiio.in/1rmHGEv Baby : https://ajiio.in/nQcoogU",
-    "shortlink": "https://ajiio.in/uq1VACp",
-    "urls": [
-      {
-        "url": "",
-        "label": "Topwear Clothing Under at ₹199"
-      },
-      {
-        "url": "https://ajiio.in/uq1VACp",
-        "label": "Men's"
-      },
-      {
-        "url": "",
-        "label": "Women's : ajio.bitIy.in/sSKPbCw"
-      },
-      {
-        "url": "https://ajiio.in/zl3exWk",
-        "label": "Boy’s"
-      },
-      {
-        "url": "https://ajiio.in/1rmHGEv",
-        "label": "Girl’s"
-      },
-      {
-        "url": "https://ajiio.in/nQcoogU",
-        "label": "Baby"
-      }
-    ],
-    "raw_text": "AJIO Loot : Topwear Clothing Under at  ₹199.\n\nMen's : https://ajiio.in/uq1VACp\nWomen's : ajio.bitIy.in/sSKPbCw\nBoy’s : https://ajiio.in/zl3exWk\nGirl’s : https://ajiio.in/1rmHGEv\nBaby : https://ajiio.in/nQcoogU",
-    "final_url": "https://ajiio.in/uq1VACp",
-    "local_image": "assets/images/tgmsg_22393.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-25T18:52:39+00:00",
-    "buy_link": "https://ajiio.in/uq1VACp",
-    "date_iso": "2025-12-25T18:52:39+00:00"
   }
 ]
