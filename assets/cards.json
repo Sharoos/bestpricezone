@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg22884",
+    "title": "🛍 + Extra 10% Super Cash! 🎉",
+    "description": "Ajio | TRESEMME Conditioner Starting @ ₹102 👉 Link : 🛍 + Extra 10% AJIO Super Cash! 🎉",
+    "shortlink": "https://ajiio.co/b6DcD0",
+    "urls": [
+      {
+        "url": "https://ajiio.co/b6DcD0",
+        "label": "TRESEMME Conditioner Starting @ ₹102"
+      },
+      {
+        "url": "",
+        "label": "🛍 + Extra 10% AJIO Super Cash! 🎉"
+      }
+    ],
+    "raw_text": "Ajio | TRESEMME Conditioner Starting @ ₹102\n \n👉 Link : https://ajiio.co/b6DcD0\n\n🛍 + Extra 10% AJIO Super Cash! 🎉",
+    "final_url": "https://ajiio.co/b6DcD0",
+    "local_image": "assets/images/tgmsg_22884.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2025-12-31T14:36:35+00:00",
+    "buy_link": "https://ajiio.co/b6DcD0",
+    "date_iso": "2025-12-31T14:36:35+00:00"
+  },
+  {
     "id": "msg22882",
     "title": "Dove, Tresemme 1L Shampoo Combos at 70% Off",
     "description": "Myntra | Dove, Tresemme 1L Shampoo Combos at 70% Off 👉Link : https://myntr.in/cE0vx7",
@@ -9810,57 +9834,5 @@
     "date_obj": "2025-12-26T11:40:10+00:00",
     "buy_link": "https://myntr.in/2bmcrZ",
     "date_iso": "2025-12-26T11:40:10+00:00"
-  },
-  {
-    "id": "msg22434",
-    "title": "💰 Open Kotak 811 Savings Account now & get ₹6,000 Cashback + 5.75% Interest 😍",
-    "description": "📣 SMART BANKING, BIGGER SAVINGS!📣  🌟Benefits You Get : ✔️ ₹6,000 Cashback with 811 Super ✔️ 5.75%* Interest with ActivMoney ✔️ 100% Digital Process (No Branch Visit) ✔️ Quick & Secure Online KYC 🧧 Open your account with…",
-    "shortlink": "https://extp.in/VrLlJZ",
-    "urls": [
-      {
-        "url": "",
-        "label": "📣 SMART BANKING, BIGGER SAVINGS!📣"
-      },
-      {
-        "url": "",
-        "label": "💰 Open Kotak 811 Savings Account now & get ₹6,000 Cashback + 5.75% Interest 😍"
-      },
-      {
-        "url": "",
-        "label": "🌟Benefits You Get"
-      },
-      {
-        "url": "",
-        "label": "✔️ ₹6,000 Cashback with 811 Super"
-      },
-      {
-        "url": "",
-        "label": "✔️ 5.75%* Interest with ActivMoney"
-      },
-      {
-        "url": "",
-        "label": "✔️ Quick & Secure Online KYC"
-      },
-      {
-        "url": "",
-        "label": "🧧 Open your account with just a one-time ₹2,000 deposit!"
-      },
-      {
-        "url": "https://extp.in/VrLlJZ",
-        "label": "🔗 Open Account Now"
-      },
-      {
-        "url": "",
-        "label": "🎉 Best for Students, New Job Holders, Freelancers & Online Earners!"
-      }
-    ],
-    "raw_text": "📣 SMART BANKING, BIGGER SAVINGS!📣\n\n💰 Open Kotak 811 Savings Account now & get ₹6,000 Cashback + 5.75% Interest 😍\n\n🌟Benefits You Get :\n✔️ ₹6,000 Cashback with 811 Super\n✔️ 5.75%* Interest with ActivMoney\n✔️ 100% Digital Process (No Branch Visit)\n✔️ Quick & Secure Online KYC\n\n🧧 Open your account with just a one-time ₹2,000 deposit!\n\n🔗 Open Account Now : https://extp.in/VrLlJZ\n\n🎉 Best for Students, New Job Holders, Freelancers & Online Earners!",
-    "final_url": "https://extp.in/VrLlJZ",
-    "local_image": "assets/images/tgmsg_22434.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-26T11:33:32+00:00",
-    "buy_link": "https://extp.in/VrLlJZ",
-    "date_iso": "2025-12-26T11:33:32+00:00"
   }
 ]
