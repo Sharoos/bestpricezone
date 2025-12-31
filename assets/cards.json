@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg22862",
+    "title": "🎁Deal Price ₹1619",
+    "description": "Amazon | Luggero- Film Classic Light-Weight & Durable Polycarbonate 🎁Deal Price: ₹1619 🔗 Buy Here:",
+    "shortlink": "https://www.amazon.in/dp/B0F67J5S83?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Luggero- Film Classic Light-Weight & Durable Polycarbonate"
+      },
+      {
+        "url": "",
+        "label": "🎁Deal Price: ₹1619"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0F67J5S83?th=1&language=en_IN&tag=bestpricezo0f-21",
+        "label": "🔗 Here"
+      }
+    ],
+    "raw_text": "Amazon | Luggero- Film Classic Light-Weight & Durable Polycarbonate\n\n🎁Deal Price: ₹1619\n\n🔗 Buy Here: https://www.amazon.in/dp/B0F67J5S83?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F67J5S83?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_22862.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2025-12-31T10:45:18+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F67J5S83?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "date_iso": "2025-12-31T10:45:18+00:00"
+  },
+  {
     "id": "msg22861",
     "title": "Milestone Vouchers up to ₹4,000/yea",
     "description": "BEST: SBI SimplyCLICK Credit Card — No Joining Fee (Effectively) 🔥 🎁 ₹500 Amazon Voucher on joining. 📌 Top Benefits: • 10X Reward Points on Amazon, Swiggy, BookMyShow & more • r • 1% Fuel Surcharge Waiver 💳 Fees:…",
@@ -9902,53 +9930,5 @@
     "date_obj": "2025-12-26T07:45:12+00:00",
     "buy_link": "https://bitli.in/UDtpyks",
     "date_iso": "2025-12-26T07:45:12+00:00"
-  },
-  {
-    "id": "msg22418",
-    "title": "🛍 Up to 80% OFF on selected collection",
-    "description": "🎄🔥 SAVANA Christmas Sale is LIVE! 🔥🎄 ✨ Upgrade your winter wardrobe with trendy styles at MASSIVE DISCOUNTS ✨ s 🧥 Coats & Jackets for everyday chic 👗 Fashion-forward styles for every mood ❄️ Perfect picks for winter &…",
-    "shortlink": "https://extp.in/ORCrp2",
-    "urls": [
-      {
-        "url": "",
-        "label": "🎄🔥 SAVANA Christmas Sale is LIVE! 🔥🎄"
-      },
-      {
-        "url": "",
-        "label": "✨ Upgrade your winter wardrobe with trendy styles at MASSIVE DISCOUNTS ✨"
-      },
-      {
-        "url": "",
-        "label": "🛍 Up to 80% OFF on selected collections"
-      },
-      {
-        "url": "",
-        "label": "🧥 Coats & Jackets for everyday chic"
-      },
-      {
-        "url": "",
-        "label": "👗 Fashion-forward styles for every mood"
-      },
-      {
-        "url": "",
-        "label": "❄️ Perfect picks for winter & party season"
-      },
-      {
-        "url": "https://extp.in/ORCrp2",
-        "label": "🔗 Shop Now"
-      },
-      {
-        "url": "",
-        "label": "⏳ Limited Time Sale – Don’t Miss Out!"
-      }
-    ],
-    "raw_text": "🎄🔥 SAVANA Christmas Sale is LIVE! 🔥🎄\n\n✨ Upgrade your winter wardrobe with trendy styles at MASSIVE DISCOUNTS ✨\n\n🛍 Up to 80% OFF on selected collections\n🧥 Coats & Jackets for everyday chic\n👗 Fashion-forward styles for every mood\n❄️ Perfect picks for winter & party season\n\n🔗 Shop Now : https://extp.in/ORCrp2\n\n⏳ Limited Time Sale – Don’t Miss Out!",
-    "final_url": "https://extp.in/ORCrp2",
-    "local_image": "assets/images/tgmsg_22418.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-26T07:34:44+00:00",
-    "buy_link": "https://extp.in/ORCrp2",
-    "date_iso": "2025-12-26T07:34:44+00:00"
   }
 ]
