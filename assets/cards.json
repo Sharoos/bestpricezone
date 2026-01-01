@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg22955",
+    "title": "+ 10% EXTRA CASH",
+    "description": "AJIO Cargo Pants , Shorts And Many more Starts at 299. Women : Men : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/SlgvqL",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Cargo Pants , Shorts And Many more Starts at 299"
+      },
+      {
+        "url": "https://ajiio.co/SlgvqL",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/0myEBn",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO  Cargo Pants , Shorts And Many more  Starts at 299. \n \nWomen : https://ajiio.co/SlgvqL\n\nMen : https://ajiio.co/0myEBn\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/SlgvqL",
+    "local_image": "assets/images/tgmsg_22955.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-01T17:06:11+00:00",
+    "buy_link": "https://ajiio.co/SlgvqL",
+    "date_iso": "2026-01-01T17:06:11+00:00"
+  },
+  {
     "id": "msg22953",
     "title": "Up to 80% Off John Players Clothing",
     "description": "AJIO : Upto 80% Off : John Players Clothing Jeans – Shirts – T-Shirts – Trousers – Sweatshirts – Sweaters – Jackets – Waistcoats & Blazers –",
@@ -9778,29 +9810,5 @@
     "date_obj": "2025-12-27T07:38:12+00:00",
     "buy_link": "https://www.amazon.in/det-com/s?k=Fiama+Shower+Gel&i=beauty&rh=n%3A1355016031%2Cp_89%3AFiama%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&tag=bestpricezo0f-21&",
     "date_iso": "2025-12-27T07:38:12+00:00"
-  },
-  {
-    "id": "msg22502",
-    "title": "Up to 98% Off Grocerie",
-    "description": "Upto 98% Off : Groceries Selected Locations; Many Available at Price — Scroll Down & Check All",
-    "shortlink": "https://fkrt.co/Hqu7yT",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Hqu7yT",
-        "label": "Upto 98% Off : Groceries"
-      },
-      {
-        "url": "",
-        "label": "Selected Locations; Many Available at Price — Scroll Down & Check All"
-      }
-    ],
-    "raw_text": "Upto 98% Off : Groceries \n\nhttps://fkrt.co/Hqu7yT\n\nSelected Locations; Many Available at  Price — Scroll Down & Check All",
-    "final_url": "https://ww44.affinity.net/sssweb?enk=e760f703f8e8837aa1133871460d0e3aec5aa9a59a172c854543fc962edb2e0a65983b555d449801303b965009ca6e45e9ea5010b203523a97e62764c424d0fd&di=EPTG2905470&subid=Hqu7yT_p__p_&cc=IN&d=https%3A%2F%2Fflipkart.com%2Fgrocery%2Fpr%3Fsid%3D73z%26marketplace%3DGROCERY%26otracker%3Dproduct_breadCrumbs_Grocery%26sort%3Dprice_asc%26p%255B%255D%3Dfacets.discount_range_v1%25255B%25255D%253D50%252525%2520or%2520more%26&pwsvid=PW1766820387484SHqu7yTRtQk2xhHe&src=ot",
-    "local_image": "assets/images/tgmsg_22502.jpg",
-    "source_host": "ww44.affinity.net",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-27T07:07:52+00:00",
-    "buy_link": "https://fkrt.co/Hqu7yT",
-    "date_iso": "2025-12-27T07:07:52+00:00"
   }
 ]
