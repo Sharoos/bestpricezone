@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg22928",
+    "title": "🔥Up to 70% Off On John Players Brand Clothing",
+    "description": "🔥AJIO : Upto 70% Off On John Players Brand Clothing T-Shirts : https://ajiio.co/IaToCE Jeans : https://ajiio.co/Vt3btx Shirts : https://ajiio.co/aLXMqI",
+    "shortlink": "https://ajiio.co/IaToCE",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥AJIO : Upto 70% Off On John Players Brand Clothing"
+      },
+      {
+        "url": "https://ajiio.co/IaToCE",
+        "label": "T-Shirts"
+      },
+      {
+        "url": "https://ajiio.co/Vt3btx",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/aLXMqI",
+        "label": "Shirts"
+      }
+    ],
+    "raw_text": "🔥AJIO : Upto 70% Off On John Players Brand Clothing  \n \nT-Shirts : https://ajiio.co/IaToCE \nJeans : https://ajiio.co/Vt3btx \nShirts : https://ajiio.co/aLXMqI",
+    "final_url": "https://ajiio.co/IaToCE",
+    "local_image": "assets/images/tgmsg_22928.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-01T11:17:17+00:00",
+    "buy_link": "https://ajiio.co/IaToCE",
+    "date_iso": "2026-01-01T11:17:17+00:00"
+  },
+  {
     "id": "msg22926",
     "title": "💥OverSized Tshirts Starts @180",
     "description": "💥Ajio | OverSized Tshirts Starts @180. 👉Link : https://ajiio.co/Pucobe",
@@ -9698,25 +9730,5 @@
     "date_obj": "2025-12-26T18:34:01+00:00",
     "buy_link": "https://fkrt.co/UMtwZH",
     "date_iso": "2025-12-26T18:34:01+00:00"
-  },
-  {
-    "id": "msg22472",
-    "title": "Campus Sneakers Starts 532",
-    "description": "Flipkart | Campus Sneakers Starts 532. https://fkrt.co/oXSEbW",
-    "shortlink": "https://fkrt.co/oXSEbW",
-    "urls": [
-      {
-        "url": "https://fkrt.co/oXSEbW",
-        "label": "Campus Sneakers Starts 532"
-      }
-    ],
-    "raw_text": "Flipkart | Campus Sneakers Starts 532.\n\n    https://fkrt.co/oXSEbW",
-    "final_url": "https://ww44.affinity.net/sssweb?enk=e760f703f8e8837aa1133871460d0e3aec5aa9a59a172c854543fc962edb2e0a65983b555d449801303b965009ca6e45e9ea5010b203523a97e62764c424d0fd&di=EPTG2905470&subid=oXSEbW_p__p_&cc=IN&d=https%3A%2F%2Fdl.flipkart.com%2Fdl%2Fmens-footwear%2Fmens-casual-shoes%2Fcampus~brand%2Fpr%3Fsid%3Dosp%252Ccil%252Ce1f%26marketplace%3DFLIPKART%26otracker%3Dproduct_breadCrumbs_CAMPUS%2520Men%25E2%2580%2599s%2520Casual%2520Shoes%26sort%3Dprice_asc%26&pwsvid=PW1766774841185SoXSEbWRIumvUOJP&src=ot",
-    "local_image": "assets/images/tgmsg_22472.jpg",
-    "source_host": "ww44.affinity.net",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-26T18:36:23+00:00",
-    "buy_link": "https://fkrt.co/oXSEbW",
-    "date_iso": "2025-12-26T18:36:23+00:00"
   }
 ]
