@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg22957",
+    "title": "Men's Jeans Starting From 299",
+    "description": "Flipkart On Men's Fashion 🔥🔥 Trackpants, Shorts Under 499 👉 Casual Shirts Under 499 👉  👉",
+    "shortlink": "https://fkrt.co/cmYjgj",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart On Men's Fashion 🔥🔥"
+      },
+      {
+        "url": "https://fkrt.co/cmYjgj",
+        "label": "Trackpants, Shorts Under 499"
+      },
+      {
+        "url": "https://fkrt.co/xoFZmU",
+        "label": "Casual Shirts Under 499"
+      },
+      {
+        "url": "https://fkrt.co/XQsnzq",
+        "label": "Men's Jeans Starting From 299"
+      }
+    ],
+    "raw_text": "Flipkart  On Men's Fashion 🔥🔥\n\nTrackpants, Shorts Under 499\n👉https://fkrt.co/cmYjgj\n\nCasual Shirts Under 499\n👉https://fkrt.co/xoFZmU\n\nMen's Jeans Starting From 299\n👉https://fkrt.co/XQsnzq",
+    "final_url": "https://fkrt.co/cmYjgj",
+    "local_image": "assets/images/tgmsg_22957.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-01T17:38:10+00:00",
+    "buy_link": "https://fkrt.co/cmYjgj",
+    "date_iso": "2026-01-01T17:38:10+00:00"
+  },
+  {
     "id": "msg22955",
     "title": "+ 10% EXTRA CASH",
     "description": "AJIO Cargo Pants , Shorts And Many more Starts at 299. Women : Men : + 10% EXTRA AJIO CASH",
@@ -9790,25 +9822,5 @@
     "date_obj": "2025-12-27T07:31:25+00:00",
     "buy_link": "https://extp.in/dK5O0B",
     "date_iso": "2025-12-27T07:31:25+00:00"
-  },
-  {
-    "id": "msg22504",
-    "title": "com/s?k=Fiama+Shower+Gel&i=beauty&rh=n%3A1355016031%2Cp_89%3AFiama%2Cp_n_pct",
-    "description": "Amazon | Fiama Shower Gel Starts @ 98. 👉https://www.amazon.in/det-com/s?k=Fiama+Shower+Gel&i=beauty&rh=n%3A1355016031%2Cp_89%3AFiama%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&tag=bestpricezo0f-21&",
-    "shortlink": "https://www.amazon.in/det-com/s?k=Fiama+Shower+Gel&i=beauty&rh=n%3A1355016031%2Cp_89%3AFiama%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&tag=bestpricezo0f-21&",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/det-com/s?k=Fiama+Shower+Gel&i=beauty&rh=n%3A1355016031%2Cp_89%3AFiama%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&tag=bestpricezo0f-21&",
-        "label": "Fiama Shower Gel Starts @ 98"
-      }
-    ],
-    "raw_text": "Amazon | Fiama Shower Gel Starts @ 98.\n\n👉https://www.amazon.in/det-com/s?k=Fiama+Shower+Gel&i=beauty&rh=n%3A1355016031%2Cp_89%3AFiama%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&tag=bestpricezo0f-21&",
-    "final_url": "https://www.amazon.in/det-com/s?k=Fiama+Shower+Gel&i=beauty&rh=n%3A1355016031%2Cp_89%3AFiama%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&tag=bestpricezo0f-21&",
-    "local_image": "assets/images/tgmsg_22504.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-27T07:38:12+00:00",
-    "buy_link": "https://www.amazon.in/det-com/s?k=Fiama+Shower+Gel&i=beauty&rh=n%3A1355016031%2Cp_89%3AFiama%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&tag=bestpricezo0f-21&",
-    "date_iso": "2025-12-27T07:38:12+00:00"
   }
 ]
