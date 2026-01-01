@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg22917",
+    "title": "Beauty Product",
+    "description": "AJIO : Beauty Products. Cetaphil : https://ajiio.co/rgYJ4K Lakme : https://ajiio.co/bAVpjE More Products : https://ajiio.co/EVKFI0",
+    "shortlink": "https://ajiio.co/rgYJ4K",
+    "urls": [
+      {
+        "url": "",
+        "label": "Beauty Products"
+      },
+      {
+        "url": "https://ajiio.co/rgYJ4K",
+        "label": "Cetaphil"
+      },
+      {
+        "url": "https://ajiio.co/bAVpjE",
+        "label": "Lakme"
+      },
+      {
+        "url": "https://ajiio.co/EVKFI0",
+        "label": "More Products"
+      }
+    ],
+    "raw_text": "AJIO : Beauty Products. \n\nCetaphil : https://ajiio.co/rgYJ4K\nLakme : https://ajiio.co/bAVpjE\nMore Products : https://ajiio.co/EVKFI0",
+    "final_url": "https://ajiio.co/rgYJ4K",
+    "local_image": "assets/images/tgmsg_22917.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-01T04:34:26+00:00",
+    "buy_link": "https://ajiio.co/rgYJ4K",
+    "date_iso": "2026-01-01T04:34:26+00:00"
+  },
+  {
+    "id": "msg22918",
+    "title": "Up to 70% Off on Laundry",
+    "description": "Ajio | Upto 70% Off on Laundry-Baskets-and-Dryers Starting @ just 325 Link : https://ajiio.co/fGruSh",
+    "shortlink": "https://ajiio.co/fGruSh",
+    "urls": [
+      {
+        "url": "https://ajiio.co/fGruSh",
+        "label": "Upto 70% Off on Laundry-Baskets-and-Dryers Starting @ just 325"
+      }
+    ],
+    "raw_text": "Ajio | Upto 70% Off on Laundry-Baskets-and-Dryers Starting @ just 325\n \nLink : https://ajiio.co/fGruSh",
+    "final_url": "https://ajiio.co/fGruSh",
+    "local_image": "assets/images/tgmsg_22918.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-01T04:50:45+00:00",
+    "buy_link": "https://ajiio.co/fGruSh",
+    "date_iso": "2026-01-01T04:50:45+00:00"
+  },
+  {
     "id": "msg22912",
     "title": "American Tourister Polyester Harp Duffle Bag @899",
     "description": "Amazon | American Tourister Polyester Harp Duffle Bag @899 https://www.amazon.in/dp/B0BTHP5LS1?th=1&tag=bestpricezo0f-21",
@@ -9622,69 +9674,5 @@
     "date_obj": "2025-12-26T18:44:16+00:00",
     "buy_link": "https://fkrt.co/SMeMKW",
     "date_iso": "2025-12-26T18:44:16+00:00"
-  },
-  {
-    "id": "msg22481",
-    "title": "boAt Stone 135 Bluetooth Speaker Rs.699",
-    "description": "Flipkart | boAt Stone 135 Bluetooth Speaker Rs.699 https://fkrt.co/M5IMSP",
-    "shortlink": "https://fkrt.co/M5IMSP",
-    "urls": [
-      {
-        "url": "https://fkrt.co/M5IMSP",
-        "label": "boAt Stone 135 Bluetooth Speaker Rs.699"
-      }
-    ],
-    "raw_text": "Flipkart | boAt Stone 135 Bluetooth Speaker Rs.699\n\n  https://fkrt.co/M5IMSP",
-    "final_url": "https://ww44.affinity.net/sssweb?enk=e760f703f8e8837aa1133871460d0e3aec5aa9a59a172c854543fc962edb2e0a65983b555d449801303b965009ca6e45e9ea5010b203523a97e62764c424d0fd&di=EPTG2905470&subid=M5IMSP_p__p_&cc=IN&d=https%3A%2F%2Fdl.flipkart.com%2Fdl%2Fboat-stone-135-5w-rms-upto-11-hours-playback-tws-feature-5-rms-bluetooth-speaker%2Fp%2Fitm29a2c2a431c97%3Fpid%3DACCGEF647CHZS7RT%26lid%3DLSTACCGEF647CHZS7RTKFNL1B%26marketplace%3DFLIPKART%26q%3DSpeakers%26store%3D0pm%252F0o7%26srno%3Ds_1_1%26otracker%3Dsearch%26otracker1%3Dsearch%26fm%3DSearch%26iid%3D578d9219-e0a5-4654-8f88-a17200d6435c.ACCGEF647CHZS7RT.SEARCH%26ppt%3Dsp%26ppn%3Dsp%26ssid%3Dt4w3fskl1s0000001753214859491%26qH%3Df656ccbdbb703fc0%26&pwsvid=PW1766774837273SM5IMSPRGsRWzYvU&src=ot",
-    "local_image": "assets/images/tgmsg_22481.jpg",
-    "source_host": "ww44.affinity.net",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-26T18:45:01+00:00",
-    "buy_link": "https://fkrt.co/M5IMSP",
-    "date_iso": "2025-12-26T18:45:01+00:00"
-  },
-  {
-    "id": "msg22465",
-    "title": "ONDC Up to 65% Off on Rajdhani Grocery Items + Free Shipping 🔥🔥",
-    "description": "ONDC Upto 65% Off on Rajdhani Grocery Items + Free Shipping 🔥🔥 Roasted Chana, 200g at 30 : Chana Dal, 500g at 42 : Besan, 500g at 42 : Oats, 400g at 59 : Masala Oats, 400g at 69 : Use Code - SNACK30 (Valid 5 Times)",
-    "shortlink": "https://extp.in/PtePIL",
-    "urls": [
-      {
-        "url": "",
-        "label": "ONDC Upto 65% Off on Rajdhani Grocery Items + Free Shipping 🔥🔥"
-      },
-      {
-        "url": "https://extp.in/PtePIL",
-        "label": "Roasted Chana, 200g at 30"
-      },
-      {
-        "url": "https://extp.in/iAZ1a3",
-        "label": "Chana Dal, 500g at 42"
-      },
-      {
-        "url": "https://extp.in/jPpB0k",
-        "label": "Besan, 500g at 42"
-      },
-      {
-        "url": "https://extp.in/tIO0sy",
-        "label": "Oats, 400g at 59"
-      },
-      {
-        "url": "https://extp.in/AV7VxE",
-        "label": "Masala Oats, 400g at 69"
-      },
-      {
-        "url": "",
-        "label": "SNACK30 (Valid 5 Times)"
-      }
-    ],
-    "raw_text": "ONDC  Upto 65% Off on Rajdhani Grocery Items + Free Shipping 🔥🔥\n\nRoasted Chana, 200g at 30 : https://extp.in/PtePIL\nChana Dal, 500g at 42 : https://extp.in/iAZ1a3\nBesan, 500g at 42 : https://extp.in/jPpB0k\nOats, 400g at 59 : https://extp.in/tIO0sy\nMasala Oats, 400g at 69 : https://extp.in/AV7VxE\n\nUse Code - SNACK30 (Valid 5 Times)",
-    "final_url": "https://extp.in/PtePIL",
-    "local_image": "assets/images/tgmsg_22465.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-26T17:52:02+00:00",
-    "buy_link": "https://extp.in/PtePIL",
-    "date_iso": "2025-12-26T17:52:02+00:00"
   }
 ]
