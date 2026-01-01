@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg22929",
+    "title": "🎁Deal Price ₹349",
+    "description": "Amazon | AADHIK Tea Pan Stainless Steel Copper Bottom Sauce Pan 🎁Deal Price: ₹349 🔗 Buy Here:",
+    "shortlink": "https://www.amazon.in/dp/B0CSWHYFZ2?smid=AXOGFIT0PZZ7G&psc=1&th=1&language=en_IN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "AADHIK Tea Pan Stainless Steel Copper Bottom Sauce Pan"
+      },
+      {
+        "url": "",
+        "label": "🎁Deal Price: ₹349"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0CSWHYFZ2?smid=AXOGFIT0PZZ7G&psc=1&th=1&language=en_IN&tag=bestpricezo0f-21",
+        "label": "🔗 Here"
+      }
+    ],
+    "raw_text": "Amazon | AADHIK Tea Pan Stainless Steel Copper Bottom Sauce Pan \n\n🎁Deal Price: ₹349\n\n🔗 Buy Here: https://www.amazon.in/dp/B0CSWHYFZ2?smid=AXOGFIT0PZZ7G&psc=1&th=1&language=en_IN&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CSWHYFZ2?smid=AXOGFIT0PZZ7G&psc=1&th=1&language=en_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_22929.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-01T11:32:00+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CSWHYFZ2?smid=AXOGFIT0PZZ7G&psc=1&th=1&language=en_IN&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-01T11:32:00+00:00"
+  },
+  {
     "id": "msg22928",
     "title": "🔥Up to 70% Off On John Players Brand Clothing",
     "description": "🔥AJIO : Upto 70% Off On John Players Brand Clothing T-Shirts : https://ajiio.co/IaToCE Jeans : https://ajiio.co/Vt3btx Shirts : https://ajiio.co/aLXMqI",
@@ -9710,25 +9738,5 @@
     "date_obj": "2025-12-26T18:32:39+00:00",
     "buy_link": "https://fkrt.co/pkXBbh",
     "date_iso": "2025-12-26T18:32:39+00:00"
-  },
-  {
-    "id": "msg22470",
-    "title": "Voltas Beko 1000W Dry Iron @ ₹399",
-    "description": "Flipkart | Voltas Beko 1000W Dry Iron @ ₹399. https://fkrt.co/UMtwZH",
-    "shortlink": "https://fkrt.co/UMtwZH",
-    "urls": [
-      {
-        "url": "https://fkrt.co/UMtwZH",
-        "label": "Voltas Beko 1000W Dry Iron @ ₹399"
-      }
-    ],
-    "raw_text": "Flipkart | Voltas Beko 1000W Dry Iron @ ₹399.\n\nhttps://fkrt.co/UMtwZH",
-    "final_url": "https://ww44.affinity.net/sssweb?enk=e760f703f8e8837aa1133871460d0e3aec5aa9a59a172c854543fc962edb2e0a65983b555d449801303b965009ca6e45e9ea5010b203523a97e62764c424d0fd&di=EPTG2905470&subid=UMtwZH_p__p_&cc=IN&d=https%3A%2F%2Fdl.flipkart.com%2Fdl%2Fflipkart%2Fp%2Fitem%3Fpid%3DIRNH769YHTZGPUMN%26&pwsvid=PW1766774842077SUMtwZHRajkPz6oG&src=ot",
-    "local_image": "assets/images/tgmsg_22470.jpg",
-    "source_host": "ww44.affinity.net",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-26T18:34:01+00:00",
-    "buy_link": "https://fkrt.co/UMtwZH",
-    "date_iso": "2025-12-26T18:34:01+00:00"
   }
 ]
