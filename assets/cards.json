@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23039",
+    "title": "Jewellery under ₹199 — Dressberry, Anouk, Sangria",
+    "description": "Myntra | Jewellery under ₹199 — Dressberry, Anouk, Sangria 👉 https://myntr.in/pG5V68",
+    "shortlink": "https://myntr.in/pG5V68",
+    "urls": [
+      {
+        "url": "https://myntr.in/pG5V68",
+        "label": "Jewellery under ₹199 — Dressberry, Anouk, Sangria"
+      }
+    ],
+    "raw_text": "Myntra | Jewellery under ₹199 — Dressberry, Anouk, Sangria\n\n👉 https://myntr.in/pG5V68",
+    "final_url": "https://myntr.in/pG5V68",
+    "local_image": "assets/images/tgmsg_23039.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-02T15:26:09+00:00",
+    "buy_link": "https://myntr.in/pG5V68",
+    "date_iso": "2026-01-02T15:26:09+00:00"
+  },
+  {
     "id": "msg23033",
     "title": "Up to 85% Off On Jack & Jones Clothing",
     "description": "AJIO Upto 85% Off On Jack & Jones Clothing. Master Link : T-Shirts : Shirts : Jeans : Sweatshirts & Sweaters : Jackets : Shorts : Trackpants : Trousers :",
@@ -9762,33 +9782,5 @@
     "date_obj": "2025-12-27T18:21:14+00:00",
     "buy_link": "https://www.amazon.in/s?rh=n%3A1374295031%2Cp_123%3A254825%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665400031&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
     "date_iso": "2025-12-27T18:21:14+00:00"
-  },
-  {
-    "id": "msg22556",
-    "title": "Up to 85% Off On Libas Women Clothing",
-    "description": "Myntra | Upto 85% Off On Libas Women Clothing. https://myntr.in/7F5UdK Kurta : https://myntr.in/1B5W6W Kurta Sets : https://myntr.in/ct9NOL",
-    "shortlink": "https://myntr.in/7F5UdK",
-    "urls": [
-      {
-        "url": "https://myntr.in/7F5UdK",
-        "label": "Upto 85% Off On Libas Women Clothing"
-      },
-      {
-        "url": "https://myntr.in/1B5W6W",
-        "label": "Kurta"
-      },
-      {
-        "url": "https://myntr.in/ct9NOL",
-        "label": "Kurta Sets"
-      }
-    ],
-    "raw_text": "Myntra | Upto 85% Off On Libas Women Clothing.\n\nhttps://myntr.in/7F5UdK\n\nKurta : https://myntr.in/1B5W6W\nKurta Sets : https://myntr.in/ct9NOL",
-    "final_url": "https://myntr.in/7F5UdK",
-    "local_image": "assets/images/tgmsg_22556.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-27T17:51:09+00:00",
-    "buy_link": "https://myntr.in/7F5UdK",
-    "date_iso": "2025-12-27T17:51:09+00:00"
   }
 ]
