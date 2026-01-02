@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg23006",
+    "title": "Flat 37% off on Ddecor bedsheets and curtain",
+    "description": "Myntra | Flat 37% off on Ddecor bedsheets and curtains. https://myntr.in/TxeKgA Min 50% off on Cello and Larah by Borosil dinner set https://myntr.in/JI103X",
+    "shortlink": "https://myntr.in/TxeKgA",
+    "urls": [
+      {
+        "url": "https://myntr.in/TxeKgA",
+        "label": "Flat 37% off on Ddecor bedsheets and curtains"
+      },
+      {
+        "url": "https://myntr.in/JI103X",
+        "label": "Min 50% off on Cello and Larah by Borosil dinner set"
+      }
+    ],
+    "raw_text": "Myntra | Flat 37% off on Ddecor bedsheets and curtains.\n\nhttps://myntr.in/TxeKgA\n\nMin 50% off on Cello and Larah by Borosil dinner set\n\nhttps://myntr.in/JI103X",
+    "final_url": "https://myntr.in/TxeKgA",
+    "local_image": "assets/images/tgmsg_23006.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-02T09:46:07+00:00",
+    "buy_link": "https://myntr.in/TxeKgA",
+    "date_iso": "2026-01-02T09:46:07+00:00"
+  },
+  {
     "id": "msg23000",
     "title": "Up to 82% Off On Handbags Starting From Rs.125",
     "description": "Flipkart | Upto 82% Off On Handbags Starting From Rs.125 👉Link : https://fkrt.co/Hg8nMP",
@@ -9886,45 +9910,5 @@
     "date_obj": "2025-12-27T13:19:04+00:00",
     "buy_link": "https://extp.in/LZ07Op",
     "date_iso": "2025-12-27T13:19:04+00:00"
-  },
-  {
-    "id": "msg22531",
-    "title": "50% off Nourishing Lip Balm At 69",
-    "description": "ONDC Khadi Natural Ayurvedic Rose Water Soap (Pack Of 2) At 69 + FREE SHIPPING 🔥🔥 Use code : EXTRA30 Link : More: 50% off : Nourishing Lip Balm At 69 : 50% off : Skin Cream - 100gm At 69 : 50% off : Chandan Haldi Soap -…",
-    "shortlink": "https://extp.in/RyRaQd",
-    "urls": [
-      {
-        "url": "",
-        "label": "ONDC Khadi Natural Ayurvedic Rose Water Soap (Pack Of 2) At 69 + FREE SHIPPING 🔥🔥"
-      },
-      {
-        "url": "https://extp.in/RyRaQd",
-        "label": "EXTRA30"
-      },
-      {
-        "url": "https://extp.in/OlB8VD",
-        "label": "50% off : Nourishing Lip Balm At 69"
-      },
-      {
-        "url": "https://extp.in/oNe3Dy",
-        "label": "50% off : Skin Cream - 100gm At 69"
-      },
-      {
-        "url": "https://extp.in/JXq7jI",
-        "label": "50% off : Chandan Haldi Soap - Pack Of 3 At 119"
-      },
-      {
-        "url": "https://extp.in/xlCXJR",
-        "label": "50% off : Sandalwood Soap - Pack Of 3 At 119"
-      }
-    ],
-    "raw_text": "ONDC  Khadi Natural Ayurvedic Rose Water Soap (Pack Of 2) At 69 + FREE SHIPPING  🔥🔥\n\nUse code : EXTRA30\n\nLink : https://extp.in/RyRaQd\n\nMore:\n50% off : Nourishing Lip Balm At 69 : https://extp.in/OlB8VD\n50% off : Skin Cream - 100gm At 69 : https://extp.in/oNe3Dy\n50% off : Chandan Haldi Soap - Pack Of 3 At 119 : https://extp.in/JXq7jI\n50% off : Sandalwood Soap - Pack Of 3 At 119 : https://extp.in/xlCXJR",
-    "final_url": "https://extp.in/RyRaQd",
-    "local_image": "assets/images/tgmsg_22531.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-27T13:21:55+00:00",
-    "buy_link": "https://extp.in/RyRaQd",
-    "date_iso": "2025-12-27T13:21:55+00:00"
   }
 ]
