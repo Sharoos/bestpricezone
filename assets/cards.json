@@ -1,5 +1,101 @@
 [
   {
+    "id": "msg22972",
+    "title": "T",
+    "description": "AJIO : T-shirts Starts . Women : https://ajiio.co/lQAKRB Men : https://ajiio.co/2j3gVN Cargo Pants. Men : https://ajiio.co/OsPbMd Women : https://ajiio.co/rG28Im",
+    "shortlink": "https://ajiio.co/lQAKRB",
+    "urls": [
+      {
+        "url": "",
+        "label": "T-shirts Starts"
+      },
+      {
+        "url": "https://ajiio.co/lQAKRB",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/2j3gVN",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Cargo Pants"
+      },
+      {
+        "url": "https://ajiio.co/OsPbMd",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/rG28Im",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "AJIO : T-shirts Starts .\n \nWomen : https://ajiio.co/lQAKRB \nMen : https://ajiio.co/2j3gVN\n\nCargo Pants. \nMen : https://ajiio.co/OsPbMd \nWomen : https://ajiio.co/rG28Im",
+    "final_url": "https://ajiio.co/lQAKRB",
+    "local_image": "assets/images/tgmsg_22972.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-02T03:35:13+00:00",
+    "buy_link": "https://ajiio.co/lQAKRB",
+    "date_iso": "2026-01-02T03:35:13+00:00"
+  },
+  {
+    "id": "msg22973",
+    "title": "👖 Men’s Trousers starting from ₹279",
+    "description": "Myntra Mega Fashion Deals 🔥🔥 👕 Shirts starting from ₹199 👉  👉 🕺 Kurtas starting from ₹299 👉 🧥 Blazers starting from ₹1199 👉",
+    "shortlink": "https://myntr.in/BBEq9l",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Mega Fashion Deals 🔥🔥"
+      },
+      {
+        "url": "https://myntr.in/BBEq9l",
+        "label": "👕 Shirts starting from ₹199"
+      },
+      {
+        "url": "https://myntr.in/1g9P6U",
+        "label": "👖 Men’s Trousers starting from ₹279"
+      },
+      {
+        "url": "https://myntr.in/RjS6dX",
+        "label": "🕺 Kurtas starting from ₹299"
+      },
+      {
+        "url": "https://myntr.in/qTP5Fy",
+        "label": "🧥 Blazers starting from ₹1199"
+      }
+    ],
+    "raw_text": "Myntra   Mega Fashion Deals 🔥🔥\n\n👕 Shirts starting from ₹199\n👉 https://myntr.in/BBEq9l\n\n👖 Men’s Trousers starting from ₹279\n👉 https://myntr.in/1g9P6U\n\n🕺 Kurtas starting from ₹299\n👉 https://myntr.in/RjS6dX\n\n🧥 Blazers starting from ₹1199\n👉 https://myntr.in/qTP5Fy",
+    "final_url": "https://myntr.in/BBEq9l",
+    "local_image": "assets/images/tgmsg_22973.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-02T03:50:50+00:00",
+    "buy_link": "https://myntr.in/BBEq9l",
+    "date_iso": "2026-01-02T03:50:50+00:00"
+  },
+  {
+    "id": "msg22974",
+    "title": "Hp Laptop Bags Up to 75% off starting From Rs.309",
+    "description": "Flipkart | Hp Laptop Bags upto 75% off starting From Rs.309 https://fkrt.co/78Y5XL",
+    "shortlink": "https://fkrt.co/78Y5XL",
+    "urls": [
+      {
+        "url": "https://fkrt.co/78Y5XL",
+        "label": "Hp Laptop Bags upto 75% off starting From Rs.309"
+      }
+    ],
+    "raw_text": "Flipkart | Hp Laptop Bags upto 75% off starting From Rs.309\n\nhttps://fkrt.co/78Y5XL",
+    "final_url": "https://fkrt.co/78Y5XL",
+    "local_image": "assets/images/tgmsg_22974.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-02T04:05:37+00:00",
+    "buy_link": "https://fkrt.co/78Y5XL",
+    "date_iso": "2026-01-02T04:05:37+00:00"
+  },
+  {
     "id": "msg22969",
     "title": "Bajaj Ivora Compact Downlight (Cool Day Light, Pack of 6) @582",
     "description": "Amazon | Bajaj Ivora Compact Downlight (Cool Day Light, Pack of 6) @582 https://www.amazon.in/dp/B0DVGLR7TW?th=1&psc=1&tag=bestpricezo0f-21",
@@ -9714,81 +9810,5 @@
     "date_obj": "2025-12-27T09:06:30+00:00",
     "buy_link": "https://myntr.in/YBGIbO",
     "date_iso": "2025-12-27T09:06:30+00:00"
-  },
-  {
-    "id": "msg22507",
-    "title": "Dove, Tresemme 1L Shampoo Combos at 63% Off",
-    "description": "Myntra | Dove, Tresemme 1L Shampoo Combos at 63% Off 👉Link : https://myntr.in/SIaXil",
-    "shortlink": "https://myntr.in/SIaXil",
-    "urls": [
-      {
-        "url": "https://myntr.in/SIaXil",
-        "label": "Dove, Tresemme 1L Shampoo Combos at 63% Off"
-      }
-    ],
-    "raw_text": "Myntra | Dove, Tresemme 1L Shampoo Combos at 63% Off \n\n👉Link : https://myntr.in/SIaXil",
-    "final_url": "https://myntr.in/SIaXil",
-    "local_image": "assets/images/tgmsg_22507.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-27T08:06:11+00:00",
-    "buy_link": "https://myntr.in/SIaXil",
-    "date_iso": "2025-12-27T08:06:11+00:00"
-  },
-  {
-    "id": "msg22508",
-    "title": "Jack & Jones Min 50% Off",
-    "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "shortlink": "https://ajiio.co/hK1nGD",
-    "urls": [
-      {
-        "url": "https://ajiio.co/hK1nGD",
-        "label": "🔥AJIO | Jeans & Shorts Under ₹499"
-      },
-      {
-        "url": "https://ajiio.co/JQsHue",
-        "label": "Performax Under ₹699"
-      },
-      {
-        "url": "https://ajiio.co/JjyQxI",
-        "label": "Jack & Jones Min 50% Off"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "🔥AJIO | Jeans & Shorts Under ₹499\n👉https://ajiio.co/hK1nGD\n\nPerformax Under ₹699\n👉https://ajiio.co/JQsHue\n\nJack & Jones Min 50% Off\n👉https://ajiio.co/JjyQxI\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/hK1nGD",
-    "local_image": "assets/images/tgmsg_22508.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-27T08:21:10+00:00",
-    "buy_link": "https://ajiio.co/hK1nGD",
-    "date_iso": "2025-12-27T08:21:10+00:00"
-  },
-  {
-    "id": "msg22509",
-    "title": "💰 Bonus Earn 10% Super Cash on Every Order!!!",
-    "description": "🔥AJIO: Men Flip Flops & Slippers from ₹49 👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "shortlink": "https://ajiio.co/JSIw9U",
-    "urls": [
-      {
-        "url": "https://ajiio.co/JSIw9U",
-        "label": "🔥AJIO: Men Flip Flops & Slippers from ₹49"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "🔥AJIO: Men Flip Flops & Slippers from ₹49\n\n👉https://ajiio.co/JSIw9U\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/JSIw9U",
-    "local_image": "assets/images/tgmsg_22509.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-27T08:36:06+00:00",
-    "buy_link": "https://ajiio.co/JSIw9U",
-    "date_iso": "2025-12-27T08:36:06+00:00"
   }
 ]
