@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23011",
+    "title": "Alena Clothing Up to 75% Off",
+    "description": "Myntra | Alena Clothing Upto 75% Off 👉https://myntr.in/Z0s75Y",
+    "shortlink": "https://myntr.in/Z0s75Y",
+    "urls": [
+      {
+        "url": "https://myntr.in/Z0s75Y",
+        "label": "Alena Clothing Upto 75% Off"
+      }
+    ],
+    "raw_text": "Myntra | Alena Clothing Upto 75% Off \n\n👉https://myntr.in/Z0s75Y",
+    "final_url": "https://myntr.in/Z0s75Y",
+    "local_image": "assets/images/tgmsg_23011.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-02T10:46:15+00:00",
+    "buy_link": "https://myntr.in/Z0s75Y",
+    "date_iso": "2026-01-02T10:46:15+00:00"
+  },
+  {
     "id": "msg23008",
     "title": "Up to 75% Off On Styli Clothing",
     "description": "Myntra | Upto 75% Off On Styli Clothing Men : https://myntr.in/oaM53w Women : https://myntr.in/z6Nsvl",
@@ -9878,29 +9898,5 @@
     "date_obj": "2025-12-27T14:06:36+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
     "date_iso": "2025-12-27T14:06:36+00:00"
-  },
-  {
-    "id": "msg22535",
-    "title": "Min. 80% Off On Lee Cooper Watche",
-    "description": "AJIO  Min. 80% Off On Lee Cooper Watches. Link : https://ajiio.co/2UiSKZ + Extra 10% AJIO Super Cash.",
-    "shortlink": "https://ajiio.co/2UiSKZ",
-    "urls": [
-      {
-        "url": "https://ajiio.co/2UiSKZ",
-        "label": "AJIO Min. 80% Off On Lee Cooper Watches"
-      },
-      {
-        "url": "",
-        "label": "+ Extra 10% AJIO Super Cash"
-      }
-    ],
-    "raw_text": "AJIO  Min. 80% Off On Lee Cooper Watches. \n\nLink : https://ajiio.co/2UiSKZ\n\n+ Extra 10% AJIO Super Cash.",
-    "final_url": "https://ajiio.co/2UiSKZ",
-    "local_image": "assets/images/tgmsg_22535.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-27T13:46:28+00:00",
-    "buy_link": "https://ajiio.co/2UiSKZ",
-    "date_iso": "2025-12-27T13:46:28+00:00"
   }
 ]
