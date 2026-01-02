@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg23012",
+    "title": "Jack & Jones Min 50% Off",
+    "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/XCG1uu",
+    "urls": [
+      {
+        "url": "https://ajiio.co/XCG1uu",
+        "label": "🔥AJIO | Jeans & Shorts Under ₹499"
+      },
+      {
+        "url": "https://ajiio.co/RxIjev",
+        "label": "Performax Under ₹699"
+      },
+      {
+        "url": "https://ajiio.co/C2d2MB",
+        "label": "Jack & Jones Min 50% Off"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "🔥AJIO | Jeans & Shorts Under ₹499\n👉https://ajiio.co/XCG1uu\n\nPerformax Under ₹699\n👉https://ajiio.co/RxIjev\n\nJack & Jones Min 50% Off\n👉https://ajiio.co/C2d2MB\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/XCG1uu",
+    "local_image": "assets/images/tgmsg_23012.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-02T11:03:31+00:00",
+    "buy_link": "https://ajiio.co/XCG1uu",
+    "date_iso": "2026-01-02T11:03:31+00:00"
+  },
+  {
     "id": "msg23011",
     "title": "Alena Clothing Up to 75% Off",
     "description": "Myntra | Alena Clothing Upto 75% Off 👉https://myntr.in/Z0s75Y",
@@ -9878,25 +9910,5 @@
     "date_obj": "2025-12-27T14:29:55+00:00",
     "buy_link": "https://extp.in/u5ok7F",
     "date_iso": "2025-12-27T14:29:55+00:00"
-  },
-  {
-    "id": "msg22537",
-    "title": "RR Signature 150 mm Exhaust Fan @699",
-    "description": "Amazon | RR Signature 150 mm Exhaust Fan @699. 👉https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
-        "label": "RR Signature 150 mm Exhaust Fan @699"
-      }
-    ],
-    "raw_text": "Amazon | RR Signature 150 mm Exhaust Fan @699.\n\n👉https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_22537.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-27T14:06:36+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-27T14:06:36+00:00"
   }
 ]
