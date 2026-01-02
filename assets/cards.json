@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg22980",
+    "title": "Men's Jeans Starting From 299",
+    "description": "Flipkart On Men's Fashion 🔥🔥 Trackpants, Shorts Under 499 👉 Casual Shirts Under 499 👉  👉",
+    "shortlink": "https://fkrt.co/CoSh6s",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart On Men's Fashion 🔥🔥"
+      },
+      {
+        "url": "https://fkrt.co/CoSh6s",
+        "label": "Trackpants, Shorts Under 499"
+      },
+      {
+        "url": "https://fkrt.co/hkRgQJ",
+        "label": "Casual Shirts Under 499"
+      },
+      {
+        "url": "https://fkrt.co/CmjAjq",
+        "label": "Men's Jeans Starting From 299"
+      }
+    ],
+    "raw_text": "Flipkart  On Men's Fashion 🔥🔥\n\nTrackpants, Shorts Under 499\n👉https://fkrt.co/CoSh6s\n\nCasual Shirts Under 499\n👉https://fkrt.co/hkRgQJ\n\nMen's Jeans Starting From 299\n👉https://fkrt.co/CmjAjq",
+    "final_url": "https://fkrt.co/CoSh6s",
+    "local_image": "assets/images/tgmsg_22980.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-02T05:34:55+00:00",
+    "buy_link": "https://fkrt.co/CoSh6s",
+    "date_iso": "2026-01-02T05:34:55+00:00"
+  },
+  {
     "id": "msg22975",
     "title": "John Jacobs Min 60% Off🔥",
     "description": "Myntra | ⏰ Limited Time Deal ⏰ John Jacobs Min 60% Off🔥 👉 https://myntr.in/eonQGG Vincent Chase Under 799 🔥 👉 https://myntr.in/Omvvx1",
@@ -9806,37 +9838,5 @@
     "date_obj": "2025-12-27T10:35:56+00:00",
     "buy_link": "https://myntr.in/nKRPmB",
     "date_iso": "2025-12-27T10:35:56+00:00"
-  },
-  {
-    "id": "msg22515",
-    "title": "76% Off On Performax Clothing",
-    "description": "AJIO  Flat 70-76% Off On Performax Clothing. Men : https://ajiio.co/4WUtQD Shoes : https://ajiio.co/oEsSP3 Women : https://ajiio.co/g4YdpF Shoes : https://ajiio.co/OW7x5o",
-    "shortlink": "https://ajiio.co/4WUtQD",
-    "urls": [
-      {
-        "url": "https://ajiio.co/4WUtQD",
-        "label": "76% Off On Performax Clothing"
-      },
-      {
-        "url": "https://ajiio.co/oEsSP3",
-        "label": "Shoes"
-      },
-      {
-        "url": "https://ajiio.co/g4YdpF",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/OW7x5o",
-        "label": "Shoes"
-      }
-    ],
-    "raw_text": "AJIO  Flat 70-76% Off On Performax Clothing.\n\nMen : https://ajiio.co/4WUtQD\nShoes : https://ajiio.co/oEsSP3\n\nWomen : https://ajiio.co/g4YdpF\nShoes : https://ajiio.co/OW7x5o",
-    "final_url": "https://ajiio.co/4WUtQD",
-    "local_image": "assets/images/tgmsg_22515.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-27T10:13:25+00:00",
-    "buy_link": "https://ajiio.co/4WUtQD",
-    "date_iso": "2025-12-27T10:13:25+00:00"
   }
 ]
