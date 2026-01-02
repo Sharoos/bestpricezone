@@ -1,5 +1,105 @@
 [
   {
+    "id": "msg23022",
+    "title": "Women's Garments Under ₹399",
+    "description": "AJIO | Women's Garments Under ₹399 Women : https://ajiio.co/F2745v Girls : https://ajiio.co/KujsJw",
+    "shortlink": "https://ajiio.co/F2745v",
+    "urls": [
+      {
+        "url": "",
+        "label": "Women's Garments Under ₹399"
+      },
+      {
+        "url": "https://ajiio.co/F2745v",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/KujsJw",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "AJIO | Women's Garments Under ₹399 \n\nWomen : https://ajiio.co/F2745v\n\nGirls : https://ajiio.co/KujsJw",
+    "final_url": "https://ajiio.co/F2745v",
+    "local_image": "assets/images/tgmsg_23022.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-02T12:29:10+00:00",
+    "buy_link": "https://ajiio.co/F2745v",
+    "date_iso": "2026-01-02T12:29:10+00:00"
+  },
+  {
+    "id": "msg23023",
+    "title": "Apply 10% Off + Extra 5% Subscriber & Save",
+    "description": "Grab Max Qnty : Tetley Green Tea Bags (Ginger, Mint & Lemon Flavour) 100 Pieces At 390 Apply 10% Coupon Off + Extra 5% Subscriber & Save.",
+    "shortlink": "https://www.amazon.in/dp/B00MGFZEVW?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Tetley Green Tea Bags (Ginger, Mint & Lemon Flavour)"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B00MGFZEVW?tag=bestpricezo0f-21",
+        "label": "100 Pieces At 390"
+      }
+    ],
+    "raw_text": "Grab Max Qnty : Tetley Green Tea Bags (Ginger, Mint & Lemon Flavour) \n100 Pieces At 390\n\nhttps://www.amazon.in/dp/B00MGFZEVW?tag=bestpricezo0f-21\n\nApply 10% Coupon Off + Extra 5% Subscriber & Save.",
+    "final_url": "https://www.amazon.in/dp/B00MGFZEVW?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_23023.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-02T12:29:12+00:00",
+    "buy_link": "https://www.amazon.in/dp/B00MGFZEVW?tag=bestpricezo0f-21",
+    "date_iso": "2026-01-02T12:29:12+00:00"
+  },
+  {
+    "id": "msg23024",
+    "title": "Up to 78% Off",
+    "description": "Flipkart | Upto 78% Off - Snitch Men's Shirts Starting From @Rs.380 🔗  https://fkrt.co/7W3uYv",
+    "shortlink": "https://fkrt.co/7W3uYv",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 78% Off - Snitch Men's Shirts"
+      },
+      {
+        "url": "https://fkrt.co/7W3uYv",
+        "label": "Starting From @Rs.380"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 78% Off - Snitch Men's Shirts \n\nStarting From @Rs.380\n\n🔗  https://fkrt.co/7W3uYv",
+    "final_url": "https://fkrt.co/7W3uYv",
+    "local_image": "assets/images/tgmsg_23024.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-02T12:45:20+00:00",
+    "buy_link": "https://fkrt.co/7W3uYv",
+    "date_iso": "2026-01-02T12:45:20+00:00"
+  },
+  {
+    "id": "msg23025",
+    "title": "Being human Min 65%",
+    "description": "Ajio | Monte Carlo- Min 30% https://ajiio.co/XSJGfX Being human Min 65% https://ajiio.co/EDtX6L",
+    "shortlink": "https://ajiio.co/XSJGfX",
+    "urls": [
+      {
+        "url": "https://ajiio.co/XSJGfX",
+        "label": "Monte Carlo- Min 30%"
+      },
+      {
+        "url": "https://ajiio.co/EDtX6L",
+        "label": "Being human Min 65%"
+      }
+    ],
+    "raw_text": "Ajio | Monte Carlo- Min 30%\nhttps://ajiio.co/XSJGfX\n\nBeing human Min 65%\nhttps://ajiio.co/EDtX6L",
+    "final_url": "https://ajiio.co/XSJGfX",
+    "local_image": "assets/images/tgmsg_23025.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-02T13:03:06+00:00",
+    "buy_link": "https://ajiio.co/XSJGfX",
+    "date_iso": "2026-01-02T13:03:06+00:00"
+  },
+  {
     "id": "msg23019",
     "title": "🔥Havells 5L Instant Geyser at ₹3704",
     "description": "Amazon | 🔥Havells 5L Instant Geyser at ₹3704 👉https://www.amazon.in/dp/B0FBLWPTN3?th=1&tag=bestpricezo0f-21 🔥Crompton 5L Instant Geyser at ₹3399 👉https://www.amazon.in/dp/B0FGXLWKC8?th=1&tag=bestpricezo0f-21",
@@ -9742,141 +9842,5 @@
     "date_obj": "2025-12-27T15:29:09+00:00",
     "buy_link": "https://fkrt.co/IiC2FB",
     "date_iso": "2025-12-27T15:29:09+00:00"
-  },
-  {
-    "id": "msg22544",
-    "title": "Min 80% Off On Safari Suitcase",
-    "description": "Flipkart | Min 80% Off On Safari Suitcases 👉Link : https://fkrt.co/Bgm1Sc",
-    "shortlink": "https://fkrt.co/Bgm1Sc",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Bgm1Sc",
-        "label": "Min 80% Off On Safari Suitcases"
-      }
-    ],
-    "raw_text": "Flipkart | Min 80% Off On Safari Suitcases\n\n👉Link : https://fkrt.co/Bgm1Sc",
-    "final_url": "https://fkrt.co/Bgm1Sc",
-    "local_image": "assets/images/tgmsg_22544.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-27T15:05:44+00:00",
-    "buy_link": "https://fkrt.co/Bgm1Sc",
-    "date_iso": "2025-12-27T15:05:44+00:00"
-  },
-  {
-    "id": "msg22545",
-    "title": "Longway Fan Room Heater at ₹799",
-    "description": "Amazon | Longway Fan Room Heater at ₹799. https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
-        "label": "Longway Fan Room Heater at ₹799"
-      }
-    ],
-    "raw_text": "Amazon | Longway Fan Room Heater at ₹799.\n\nhttps://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_22545.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-27T15:19:27+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CFVN8ZJZ?tag=bestpricezo0f-21",
-    "date_iso": "2025-12-27T15:19:27+00:00"
-  },
-  {
-    "id": "msg22543",
-    "title": "Up to 87% off on Men's Branded Clothing 🔥🔥🔥",
-    "description": "Myntra Upto 87% off on Men's Branded Clothing 🔥🔥🔥 Shirts At 168 : Wedding Kurta's At 199 : Tshirts At 248 : Trousers At 250 : Jeans At 448",
-    "shortlink": "https://myntr.in/vVS5I1",
-    "urls": [
-      {
-        "url": "",
-        "label": "Myntra Upto 87% off on Men's Branded Clothing 🔥🔥🔥"
-      },
-      {
-        "url": "https://myntr.in/vVS5I1",
-        "label": "Shirts At 168"
-      },
-      {
-        "url": "https://myntr.in/m2YO6h",
-        "label": "Wedding Kurta's At 199"
-      },
-      {
-        "url": "https://myntr.in/B5ll6b",
-        "label": "Tshirts At 248"
-      },
-      {
-        "url": "https://myntr.in/vlX6Ju",
-        "label": "Trousers At 250"
-      },
-      {
-        "url": "https://myntr.in/IVhgkZ",
-        "label": "Jeans At 448"
-      }
-    ],
-    "raw_text": "Myntra  Upto 87% off on Men's Branded Clothing  🔥🔥🔥\n\nShirts At 168 : https://myntr.in/vVS5I1\nWedding Kurta's At 199 : https://myntr.in/m2YO6h\nTshirts At 248 : https://myntr.in/B5ll6b\nTrousers At 250 : https://myntr.in/vlX6Ju\nJeans At 448 https://myntr.in/IVhgkZ",
-    "final_url": "https://myntr.in/vVS5I1",
-    "local_image": "assets/images/tgmsg_22543.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-27T14:51:40+00:00",
-    "buy_link": "https://myntr.in/vVS5I1",
-    "date_iso": "2025-12-27T14:51:40+00:00"
-  },
-  {
-    "id": "msg22541",
-    "title": "Up to 85% Off On Branded Women’sFootwear (Inc 5.,Buda Jeans Co, Etc)",
-    "description": "AJIO Upto 85% Off On Branded Women’sFootwear (Inc 5.,Buda Jeans Co, Etc). Master Link : Heels : Flats : Sandals : Casual Shoes : Sneakers & Sports Shoes : Sliders & Flipflops : INC.5 : + Extra 10% AJIO CASHBACK",
-    "shortlink": "https://ajiio.co/p3RPL5",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 85% Off On Branded Women’sFootwear (Inc 5.,Buda Jeans Co, Etc)"
-      },
-      {
-        "url": "https://ajiio.co/p3RPL5",
-        "label": "Master"
-      },
-      {
-        "url": "https://ajiio.co/wEg7UG",
-        "label": "Heels"
-      },
-      {
-        "url": "https://ajiio.co/uvOLql",
-        "label": "Flats"
-      },
-      {
-        "url": "https://ajiio.co/1es8NK",
-        "label": "Sandals"
-      },
-      {
-        "url": "https://ajiio.co/A4mTgB",
-        "label": "Casual Shoes"
-      },
-      {
-        "url": "https://ajiio.co/2uFxyd",
-        "label": "Sneakers & Sports Shoes"
-      },
-      {
-        "url": "https://ajiio.co/00VdmC",
-        "label": "Sliders & Flipflops"
-      },
-      {
-        "url": "https://ajiio.co/8x1N9M",
-        "label": "INC.5"
-      },
-      {
-        "url": "",
-        "label": "+ Extra 10% AJIO CASHBACK"
-      }
-    ],
-    "raw_text": "AJIO  Upto 85% Off On Branded Women’sFootwear (Inc 5.,Buda Jeans Co, Etc).\n\nMaster Link : https://ajiio.co/p3RPL5\n\nHeels : https://ajiio.co/wEg7UG\nFlats : https://ajiio.co/uvOLql\nSandals : https://ajiio.co/1es8NK\nCasual Shoes : https://ajiio.co/A4mTgB\nSneakers & Sports Shoes : https://ajiio.co/2uFxyd\nSliders & Flipflops : https://ajiio.co/00VdmC\n\nINC.5 : https://ajiio.co/8x1N9M\n\n+ Extra 10% AJIO CASHBACK",
-    "final_url": "https://ajiio.co/p3RPL5",
-    "local_image": "assets/images/tgmsg_22541.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-27T14:35:32+00:00",
-    "buy_link": "https://ajiio.co/p3RPL5",
-    "date_iso": "2025-12-27T14:35:32+00:00"
   }
 ]
