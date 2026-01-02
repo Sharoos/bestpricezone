@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg22994",
+    "title": "Up to 85% Off On Branded Backpacks Starting @ ₹ 329",
+    "description": "Flipkart | Upto 85% Off On Branded Backpacks Starting @ ₹ 329 Skybags : Safari : Wildcraft : Gear : Lavie : American Tourister :",
+    "shortlink": "https://fkrt.co/S3No0k",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% Off On Branded Backpacks Starting @ ₹ 329"
+      },
+      {
+        "url": "https://fkrt.co/S3No0k",
+        "label": "Skybags"
+      },
+      {
+        "url": "https://fkrt.co/ACC5jH",
+        "label": "Safari"
+      },
+      {
+        "url": "https://fkrt.co/LfzKv1",
+        "label": "Wildcraft"
+      },
+      {
+        "url": "https://fkrt.co/W4MInS",
+        "label": "Gear"
+      },
+      {
+        "url": "https://fkrt.co/yFfUZe",
+        "label": "Lavie"
+      },
+      {
+        "url": "https://fkrt.co/EhCYza",
+        "label": "American Tourister"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 85% Off On Branded Backpacks Starting @ ₹ 329\n\nSkybags :https://fkrt.co/S3No0k\nSafari :https://fkrt.co/ACC5jH \nWildcraft :https://fkrt.co/LfzKv1\nGear :https://fkrt.co/W4MInS\nLavie :https://fkrt.co/yFfUZe\nAmerican Tourister :https://fkrt.co/EhCYza",
+    "final_url": "https://fkrt.co/S3No0k",
+    "local_image": "assets/images/tgmsg_22994.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-02T07:56:00+00:00",
+    "buy_link": "https://fkrt.co/S3No0k",
+    "date_iso": "2026-01-02T07:56:00+00:00"
+  },
+  {
     "id": "msg22988",
     "title": "Highlander Men's Cargos Up to 77% off",
     "description": "Flipkart | Highlander Men's Cargos upto 77% off 👉https://fkrt.co/KcRixo",
@@ -9782,29 +9826,5 @@
     "date_obj": "2025-12-27T13:02:29+00:00",
     "buy_link": "https://ajiio.co/ZgN4ij",
     "date_iso": "2025-12-27T13:02:29+00:00"
-  },
-  {
-    "id": "msg22521",
-    "title": "Being human Min 65%",
-    "description": "Ajio | Monte Carlo- Min 30% https://ajiio.co/EUIx3e Being human Min 65% https://ajiio.co/crqDKm",
-    "shortlink": "https://ajiio.co/EUIx3e",
-    "urls": [
-      {
-        "url": "https://ajiio.co/EUIx3e",
-        "label": "Monte Carlo- Min 30%"
-      },
-      {
-        "url": "https://ajiio.co/crqDKm",
-        "label": "Being human Min 65%"
-      }
-    ],
-    "raw_text": "Ajio | Monte Carlo- Min 30%\nhttps://ajiio.co/EUIx3e\n\nBeing human Min 65%\nhttps://ajiio.co/crqDKm",
-    "final_url": "https://ajiio.co/EUIx3e",
-    "local_image": "assets/images/tgmsg_22521.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-27T12:01:51+00:00",
-    "buy_link": "https://ajiio.co/EUIx3e",
-    "date_iso": "2025-12-27T12:01:51+00:00"
   }
 ]
