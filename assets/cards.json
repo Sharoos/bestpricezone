@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg23111",
+    "title": "Men Jeans Starts @ 331",
+    "description": "Myntra | Men Jeans Starts @ 331 👉https://myntr.in/axFHPL Women : https://myntr.in/NJGckC",
+    "shortlink": "https://myntr.in/axFHPL",
+    "urls": [
+      {
+        "url": "https://myntr.in/axFHPL",
+        "label": "Men Jeans Starts @ 331"
+      },
+      {
+        "url": "https://myntr.in/NJGckC",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | Men Jeans Starts @ 331\n\n👉https://myntr.in/axFHPL\n\nWomen : https://myntr.in/NJGckC",
+    "final_url": "https://myntr.in/axFHPL",
+    "local_image": "assets/images/tgmsg_23111.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-03T09:45:58+00:00",
+    "buy_link": "https://myntr.in/axFHPL",
+    "date_iso": "2026-01-03T09:45:58+00:00"
+  },
+  {
     "id": "msg23108",
     "title": "Polyester Curtains for Door ( 7ft ) @799",
     "description": "Amazon | Polyester Curtains for Door ( 7ft ) @799 https://www.amazon.in/dp/B0F2J1LXR7?tag=bestpricezo0f-21",
@@ -9698,57 +9722,5 @@
     "date_obj": "2025-12-28T12:45:52+00:00",
     "buy_link": "https://fkrt.co/irmfAC",
     "date_iso": "2025-12-28T12:45:52+00:00"
-  },
-  {
-    "id": "msg22618",
-    "title": "65% Off On U.S. Polo Assn. Men's Clothing",
-    "description": "Myntra : Flat 60-. Tshirts : Shirts : Jeans : Trousers : Shorts : Sweatshirts : Trackpants : Footwears :",
-    "shortlink": "https://myntr.in/8WtgRM",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flat 60-65% Off On U.S. Polo Assn. Men's Clothing"
-      },
-      {
-        "url": "https://myntr.in/8WtgRM",
-        "label": "Tshirts"
-      },
-      {
-        "url": "https://myntr.in/WZjsAx",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://myntr.in/V9IjZi",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://myntr.in/8AfNSK",
-        "label": "Trousers"
-      },
-      {
-        "url": "https://myntr.in/qUzrnU",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://myntr.in/M3vIAW",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://myntr.in/Wvss5k",
-        "label": "Trackpants"
-      },
-      {
-        "url": "https://myntr.in/dn3kZp",
-        "label": "Footwears"
-      }
-    ],
-    "raw_text": "Myntra : Flat 60-65% Off On U.S. Polo Assn. Men's Clothing.\n\nTshirts : https://myntr.in/8WtgRM\nShirts : https://myntr.in/WZjsAx\nJeans : https://myntr.in/V9IjZi\nTrousers : https://myntr.in/8AfNSK\nShorts : https://myntr.in/qUzrnU\nSweatshirts : https://myntr.in/M3vIAW\nTrackpants : https://myntr.in/Wvss5k\nFootwears : https://myntr.in/dn3kZp",
-    "final_url": "https://myntr.in/8WtgRM",
-    "local_image": "assets/images/tgmsg_22618.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-28T13:01:26+00:00",
-    "buy_link": "https://myntr.in/8WtgRM",
-    "date_iso": "2025-12-28T13:01:26+00:00"
   }
 ]
