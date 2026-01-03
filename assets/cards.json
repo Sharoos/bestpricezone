@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg23119",
+    "title": "Up to 85% Off On Women Jewellery💥💥",
+    "description": "Ajio | Upto 85% Off On Women Jewellery💥💥 👉Link : Upto 60% Off on Kitchen Tools Starting @ just 199 👉Link : Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/PAJVsP",
+    "urls": [
+      {
+        "url": "https://ajiio.co/PAJVsP",
+        "label": "Upto 85% Off On Women Jewellery💥💥"
+      },
+      {
+        "url": "https://ajiio.co/HpMPLl",
+        "label": "Upto 60% Off on Kitchen Tools Starting @ just 199"
+      },
+      {
+        "url": "",
+        "label": "Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "Ajio | Upto 85% Off On Women Jewellery💥💥\n\n👉Link : https://ajiio.co/PAJVsP\n\nUpto 60% Off on Kitchen Tools Starting @ just 199\n \n👉Link : https://ajiio.co/HpMPLl\n\nBonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/PAJVsP",
+    "local_image": "assets/images/tgmsg_23119.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-03T11:11:05+00:00",
+    "buy_link": "https://ajiio.co/PAJVsP",
+    "date_iso": "2026-01-03T11:11:05+00:00"
+  },
+  {
     "id": "msg23118",
     "title": "🎁 Deal Price ₹356",
     "description": "🔥AJIO 🔥RIO Women Graphic Print Regular Fit Hoodie 🎁 Deal Price : ₹356 Buy Here : More :",
@@ -9690,29 +9718,5 @@
     "date_obj": "2025-12-28T14:29:20+00:00",
     "buy_link": "https://bitli.in/U5H9zKN",
     "date_iso": "2025-12-28T14:29:20+00:00"
-  },
-  {
-    "id": "msg22624",
-    "title": "Up to 70% Off on Branded Belts @ 180💥💥💥💥",
-    "description": "Ajio | Upto 70% Off on Branded Belts @ 180💥💥💥💥 🔗🔗Link : 👉Earn 10% AJIO Super Cash on Every Order",
-    "shortlink": "https://ajiio.co/GxiexT",
-    "urls": [
-      {
-        "url": "https://ajiio.co/GxiexT",
-        "label": "Upto 70% Off on Branded Belts @ 180💥💥💥💥"
-      },
-      {
-        "url": "",
-        "label": "Earn 10% AJIO Super Cash on Every Order"
-      }
-    ],
-    "raw_text": "Ajio | Upto 70% Off on Branded Belts @ 180💥💥💥💥 \n \n🔗🔗Link : https://ajiio.co/GxiexT\n\n👉Earn 10% AJIO Super Cash on Every Order",
-    "final_url": "https://ajiio.co/GxiexT",
-    "local_image": "assets/images/tgmsg_22624.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-28T14:05:58+00:00",
-    "buy_link": "https://ajiio.co/GxiexT",
-    "date_iso": "2025-12-28T14:05:58+00:00"
   }
 ]
