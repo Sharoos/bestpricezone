@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg23143",
+    "title": "Up to 90% off on Men's Branded Clothing 🔥🔥",
+    "description": "Myntra Upto 90% off on Men's Branded Clothing 🔥🔥 Shirts At 168 : Trousers At 250 : Wedding Kurtas At 198 : T-shirts At 248 :",
+    "shortlink": "https://myntr.in/I9Sb0g",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Upto 90% off on Men's Branded Clothing 🔥🔥"
+      },
+      {
+        "url": "https://myntr.in/I9Sb0g",
+        "label": "Shirts At 168"
+      },
+      {
+        "url": "https://myntr.in/WQCs74",
+        "label": "Trousers At 250"
+      },
+      {
+        "url": "https://myntr.in/3yOXe5",
+        "label": "Wedding Kurtas At 198"
+      },
+      {
+        "url": "https://myntr.in/r5QizL",
+        "label": "T-shirts At 248"
+      }
+    ],
+    "raw_text": "Myntra  Upto 90% off on Men's Branded Clothing 🔥🔥\n\nShirts At 168 :  https://myntr.in/I9Sb0g\nTrousers At 250 :https://myntr.in/WQCs74\nWedding Kurtas At 198 : https://myntr.in/3yOXe5\nT-shirts At 248 : https://myntr.in/r5QizL",
+    "final_url": "https://myntr.in/I9Sb0g",
+    "local_image": "assets/images/tgmsg_23143.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-03T15:44:09+00:00",
+    "buy_link": "https://myntr.in/I9Sb0g",
+    "date_iso": "2026-01-03T15:44:09+00:00"
+  },
+  {
     "id": "msg23142",
     "title": "Odonil Air Freshener (Pack Of 😎 @209",
     "description": "Amazon | Odonil Air Freshener (Pack Of 😎 @209. https://www.amazon.in/dp/B0F4RHPBYK?th=1&psc=1&tag=bestpricezo0f-21",
@@ -9714,53 +9750,5 @@
     "date_obj": "2025-12-29T04:02:07+00:00",
     "buy_link": "https://ajiio.co/tBgY5Q",
     "date_iso": "2025-12-29T04:02:07+00:00"
-  },
-  {
-    "id": "msg22651",
-    "title": "Up to 80% Off On Branded Clothing",
-    "description": "AJIO Upto 80% Off On Branded Clothing. Men's : Shirts : Jeans : T-shirts : Jackets : Sweatshirts : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "shortlink": "https://ajiio.co/jVk50O",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 80% Off On Branded Clothing"
-      },
-      {
-        "url": "https://ajiio.co/jVk50O",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/IXvYeC",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/gP9wYx",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/bCN01S",
-        "label": "T-shirts"
-      },
-      {
-        "url": "https://ajiio.co/IkgbMD",
-        "label": "Jackets"
-      },
-      {
-        "url": "https://ajiio.co/9DwaMD",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On Branded Clothing.\n\nMen's : https://ajiio.co/jVk50O\n\nShirts : https://ajiio.co/IXvYeC\nJeans : https://ajiio.co/gP9wYx\nT-shirts : https://ajiio.co/bCN01S\nJackets : https://ajiio.co/IkgbMD\nSweatshirts : https://ajiio.co/9DwaMD\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "final_url": "https://ajiio.co/jVk50O",
-    "local_image": "assets/images/tgmsg_22651.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-29T04:21:13+00:00",
-    "buy_link": "https://ajiio.co/jVk50O",
-    "date_iso": "2025-12-29T04:21:13+00:00"
   }
 ]
