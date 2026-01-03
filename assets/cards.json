@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23098",
+    "title": "Up to 84% off on Ketch Casual Shirts From ₹180",
+    "description": "Flipkart : Upto 84% off on Ketch Casual Shirts From ₹180 Link: https://fkrt.co/1lhX37",
+    "shortlink": "https://fkrt.co/1lhX37",
+    "urls": [
+      {
+        "url": "https://fkrt.co/1lhX37",
+        "label": "Upto 84% off on Ketch Casual Shirts From ₹180"
+      }
+    ],
+    "raw_text": "Flipkart : Upto 84% off on Ketch Casual Shirts From ₹180\n\nLink: https://fkrt.co/1lhX37",
+    "final_url": "https://fkrt.co/1lhX37",
+    "local_image": "assets/images/tgmsg_23098.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-03T06:51:10+00:00",
+    "buy_link": "https://fkrt.co/1lhX37",
+    "date_iso": "2026-01-03T06:51:10+00:00"
+  },
+  {
     "id": "msg23093",
     "title": "Up to 89% Off On Tokyo Talkies Women Clothing",
     "description": "Flipkart | Upto 89% Off On Tokyo Talkies Women Clothing. Tops. : Sweatshirts : Dresses : Jeans : Trousers : Blazers : Jumpsuits :",
@@ -9782,29 +9802,5 @@
     "date_obj": "2025-12-28T11:07:20+00:00",
     "buy_link": "https://bitli.in/qSVdOUT",
     "date_iso": "2025-12-28T11:07:20+00:00"
-  },
-  {
-    "id": "msg22606",
-    "title": "Lakme Min. 60% Off",
-    "description": "MYNTRA Year end Limited Time Offer only for today Lakme Min. 60% Off: https://myntr.in/tf2oVx",
-    "shortlink": "https://myntr.in/tf2oVx",
-    "urls": [
-      {
-        "url": "",
-        "label": "MYNTRA Year end Limited Time Offer only for today"
-      },
-      {
-        "url": "https://myntr.in/tf2oVx",
-        "label": "Lakme Min. 60% Off"
-      }
-    ],
-    "raw_text": "MYNTRA Year end Limited Time Offer only for today\n\nLakme Min. 60% Off: \n\nhttps://myntr.in/tf2oVx",
-    "final_url": "https://myntr.in/tf2oVx",
-    "local_image": "assets/images/tgmsg_22606.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-28T11:07:35+00:00",
-    "buy_link": "https://myntr.in/tf2oVx",
-    "date_iso": "2025-12-28T11:07:35+00:00"
   }
 ]
