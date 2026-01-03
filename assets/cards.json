@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg23149",
+    "title": "🛒 Deal Price From ₹329",
+    "description": "Myntra | 🔥 Winter Wear Deals Roadster Sweaters 🛒 Deal Price: From ₹329 Men: Roadster Sweatshirts 🛒 Deal Price: From ₹259 Men: Women:",
+    "shortlink": "https://myntr.in/0zmmuz",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Winter Wear Deals"
+      },
+      {
+        "url": "",
+        "label": "Roadster Sweaters"
+      },
+      {
+        "url": "",
+        "label": "🛒 Deal Price: From ₹329"
+      },
+      {
+        "url": "https://myntr.in/0zmmuz",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Roadster Sweatshirts"
+      },
+      {
+        "url": "",
+        "label": "🛒 Deal Price: From ₹259"
+      },
+      {
+        "url": "https://myntr.in/Co4peh",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/rksY2H",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | 🔥 Winter Wear Deals\n\nRoadster Sweaters\n\n🛒 Deal Price: From ₹329\n\nMen: https://myntr.in/0zmmuz\n\nRoadster Sweatshirts\n\n🛒 Deal Price: From ₹259\n\nMen: https://myntr.in/Co4peh\nWomen: https://myntr.in/rksY2H",
+    "final_url": "https://myntr.in/0zmmuz",
+    "local_image": "assets/images/tgmsg_23149.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-03T17:46:06+00:00",
+    "buy_link": "https://myntr.in/0zmmuz",
+    "date_iso": "2026-01-03T17:46:06+00:00"
+  },
+  {
     "id": "msg23147",
     "title": "Up to 89% Off On Tokyo Talkies Women Clothing",
     "description": "Flipkart | Upto 89% Off On Tokyo Talkies Women Clothing. Tops. : Sweatshirts : Dresses : Jeans : Trousers : Blazers : Jumpsuits :",
@@ -9706,25 +9754,5 @@
     "date_obj": "2025-12-29T06:30:40+00:00",
     "buy_link": "https://bitli.in/75G3AL4",
     "date_iso": "2025-12-29T06:30:40+00:00"
-  },
-  {
-    "id": "msg22661",
-    "title": "Up to 74% Off On Branded Men's Shoe",
-    "description": "Ajio : Upto 74% Off On Branded Men's Shoes. https://ajiio.co/WNZnWL",
-    "shortlink": "https://ajiio.co/WNZnWL",
-    "urls": [
-      {
-        "url": "https://ajiio.co/WNZnWL",
-        "label": "Upto 74% Off On Branded Men's Shoes"
-      }
-    ],
-    "raw_text": "Ajio : Upto 74% Off On Branded Men's Shoes.\n\nhttps://ajiio.co/WNZnWL",
-    "final_url": "https://ajiio.co/WNZnWL",
-    "local_image": "assets/images/tgmsg_22661.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-29T06:02:26+00:00",
-    "buy_link": "https://ajiio.co/WNZnWL",
-    "date_iso": "2025-12-29T06:02:26+00:00"
   }
 ]
