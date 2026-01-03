@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg23134",
+    "title": "Up to 80% Off On Branded Clothing",
+    "description": "AJIO Upto 80% Off On Branded Clothing. Men's : Shirts : Jeans : T-shirts : Jackets : Sweatshirts : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/fPShkR",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 80% Off On Branded Clothing"
+      },
+      {
+        "url": "https://ajiio.co/fPShkR",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/79JmZX",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/F9JyEV",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/OtBSuF",
+        "label": "T-shirts"
+      },
+      {
+        "url": "https://ajiio.co/ve5t8c",
+        "label": "Jackets"
+      },
+      {
+        "url": "https://ajiio.co/otZCbZ",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "AJIO  Upto 80% Off On Branded Clothing.\n\nMen's : https://ajiio.co/fPShkR\n\nShirts : https://ajiio.co/79JmZX\nJeans : https://ajiio.co/F9JyEV\nT-shirts : https://ajiio.co/OtBSuF\nJackets : https://ajiio.co/ve5t8c\nSweatshirts : https://ajiio.co/otZCbZ\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/fPShkR",
+    "local_image": "assets/images/tgmsg_23134.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-03T13:56:07+00:00",
+    "buy_link": "https://ajiio.co/fPShkR",
+    "date_iso": "2026-01-03T13:56:07+00:00"
+  },
+  {
     "id": "msg23132",
     "title": "🚩Up to 85% Off on the Branded Men Textured Belts Starting from just ₹149💥💥💥",
     "description": "🚩Myntra | Upto 85% Off on the Branded Men Textured Belts Starting from just ₹149💥💥💥 🔗🔗Master Link : 👍Suggestion : 🔗Roadster : 🔗Provogue :",
@@ -9762,25 +9810,5 @@
     "date_obj": "2025-12-28T17:46:07+00:00",
     "buy_link": "https://ajiio.co/tadvar",
     "date_iso": "2025-12-28T17:46:07+00:00"
-  },
-  {
-    "id": "msg22640",
-    "title": "Sunsilk Shampoo 1 Ltr @ 435",
-    "description": "Amazon | Sunsilk Shampoo 1 Ltr @ 435 👉https://www.amazon.in/dp/B093STTTYZ?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B093STTTYZ?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B093STTTYZ?tag=bestpricezo0f-21",
-        "label": "Sunsilk Shampoo 1 Ltr @ 435"
-      }
-    ],
-    "raw_text": "Amazon | Sunsilk Shampoo 1 Ltr @ 435\n\n👉https://www.amazon.in/dp/B093STTTYZ?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B093STTTYZ?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_22640.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-28T17:36:00+00:00",
-    "buy_link": "https://www.amazon.in/dp/B093STTTYZ?tag=bestpricezo0f-21",
-    "date_iso": "2025-12-28T17:36:00+00:00"
   }
 ]
