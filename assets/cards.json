@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg23104",
+    "title": "Up to 80% Off On John Players Clothing",
+    "description": "AJIO Loot : Upto 80% Off On John Players Clothing Jeans : Shirts : T-Shirts : Trousers : Sweatshirts : Sweaters : Jackets : Waistcoat & Blazers :",
+    "shortlink": "https://ajiio.in/yKp2lOH",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On John Players Clothing"
+      },
+      {
+        "url": "https://ajiio.in/yKp2lOH",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.in/1kX2Zjc",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.in/VUXsrN0",
+        "label": "T-Shirts"
+      },
+      {
+        "url": "https://ajiio.in/7uuK7m8",
+        "label": "Trousers"
+      },
+      {
+        "url": "https://ajiio.in/7FUZ9MO",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "https://ajiio.in/1r0Y0mv",
+        "label": "Sweaters"
+      },
+      {
+        "url": "https://ajiio.in/jYHxZfx",
+        "label": "Jackets"
+      },
+      {
+        "url": "https://ajiio.in/uDwhecC",
+        "label": "Waistcoat & Blazers"
+      }
+    ],
+    "raw_text": "AJIO Loot : Upto 80% Off On John Players Clothing\n\nJeans : https://ajiio.in/yKp2lOH\nShirts : https://ajiio.in/1kX2Zjc\nT-Shirts : https://ajiio.in/VUXsrN0\nTrousers : https://ajiio.in/7uuK7m8\nSweatshirts : https://ajiio.in/7FUZ9MO\nSweaters : https://ajiio.in/1r0Y0mv\nJackets : https://ajiio.in/jYHxZfx\nWaistcoat & Blazers : https://ajiio.in/uDwhecC",
+    "final_url": "https://ajiio.in/yKp2lOH",
+    "local_image": "assets/images/tgmsg_23104.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-03T07:48:48+00:00",
+    "buy_link": "https://ajiio.in/yKp2lOH",
+    "date_iso": "2026-01-03T07:48:48+00:00"
+  },
+  {
     "id": "msg23102",
     "title": "Branded Dry Irons Starts at Rs.453",
     "description": "Flipkart | Branded Dry Irons Starts at Rs.453 👉Link : https://fkrt.co/aww4wB",
@@ -9690,33 +9742,5 @@
     "date_obj": "2025-12-28T12:32:34+00:00",
     "buy_link": "https://extp.in/K7c075",
     "date_iso": "2025-12-28T12:32:34+00:00"
-  },
-  {
-    "id": "msg22609",
-    "title": "Up to 70% Off On Wildcraft Clothing",
-    "description": "Flipkart | Upto 70% Off On Wildcraft Clothing https://fkrt.co/vK7Ppl FILA Clothing : https://fkrt.co/2X8pZf Numero Uno : https://fkrt.co/094oOX",
-    "shortlink": "https://fkrt.co/vK7Ppl",
-    "urls": [
-      {
-        "url": "https://fkrt.co/vK7Ppl",
-        "label": "Upto 70% Off On Wildcraft Clothing"
-      },
-      {
-        "url": "https://fkrt.co/2X8pZf",
-        "label": "FILA Clothing"
-      },
-      {
-        "url": "https://fkrt.co/094oOX",
-        "label": "Numero Uno"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 70% Off On Wildcraft Clothing\nhttps://fkrt.co/vK7Ppl\n\nFILA Clothing : \nhttps://fkrt.co/2X8pZf\n\nNumero Uno :  \nhttps://fkrt.co/094oOX",
-    "final_url": "https://fkrt.co/vK7Ppl",
-    "local_image": "assets/images/tgmsg_22609.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-28T11:45:48+00:00",
-    "buy_link": "https://fkrt.co/vK7Ppl",
-    "date_iso": "2025-12-28T11:45:48+00:00"
   }
 ]
