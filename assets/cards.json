@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg23165",
+    "title": "🚨WOW New Year Mega Deal! 🚨",
+    "description": "👉 Buy ANY 8 Products @ just ₹1399 💰 Worth ₹3000+ | No hidden conditions ⏳ Limited-time only — Don’t miss out! Link -",
+    "shortlink": "https://bitli.in/PRF28Fz",
+    "urls": [
+      {
+        "url": "",
+        "label": "🚨WOW New Year Mega Deal! 🚨"
+      },
+      {
+        "url": "",
+        "label": "💰 Worth ₹3000+ | No hidden conditions"
+      },
+      {
+        "url": "https://bitli.in/PRF28Fz",
+        "label": "⏳ Limited-time only — Don’t miss out!"
+      }
+    ],
+    "raw_text": "🚨WOW New Year Mega Deal! 🚨\n\n👉 Buy ANY 8 Products @ just ₹1399\n💰 Worth ₹3000+ | No hidden conditions\n⏳ Limited-time only — Don’t miss out!\n\nLink - https://bitli.in/PRF28Fz",
+    "final_url": "https://bitli.in/PRF28Fz",
+    "local_image": "assets/images/tgmsg_23165.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2026-01-04T06:00:44+00:00",
+    "buy_link": "https://bitli.in/PRF28Fz",
+    "date_iso": "2026-01-04T06:00:44+00:00"
+  },
+  {
     "id": "msg23164",
     "title": "Up to 78% Off",
     "description": "Myntra | 👕 Ducati Clothing - Up to 78% Off https://myntr.in/fPlQVt",
@@ -9662,33 +9690,5 @@
     "date_obj": "2025-12-29T07:50:31+00:00",
     "buy_link": "https://www.amazon.in/dp/B0G52NWHJH?tag=bestpricezo0f-21",
     "date_iso": "2025-12-29T07:50:31+00:00"
-  },
-  {
-    "id": "msg22669",
-    "title": "Get Extra 5% Off On Prepaid Payment",
-    "description": "TMC: NEW YEAR CLEARANCE SALE. ✅ USE CODE: FLAT50 https://bitli.in/pcWfXHy • Get Extra 5% Off On Prepaid Payment.",
-    "shortlink": "https://bitli.in/pcWfXHy",
-    "urls": [
-      {
-        "url": "",
-        "label": "NEW YEAR CLEARANCE SALE"
-      },
-      {
-        "url": "https://bitli.in/pcWfXHy",
-        "label": "✅ USE CODE: FLAT50"
-      },
-      {
-        "url": "",
-        "label": "Get Extra 5% Off On Prepaid Payment"
-      }
-    ],
-    "raw_text": "TMC: NEW YEAR CLEARANCE SALE.\n\n✅ USE CODE: FLAT50\n\nhttps://bitli.in/pcWfXHy\n\n• Get Extra 5% Off On Prepaid Payment.",
-    "final_url": "https://bitli.in/pcWfXHy",
-    "local_image": "assets/images/tgmsg_22669.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-12-29T07:56:04+00:00",
-    "buy_link": "https://bitli.in/pcWfXHy",
-    "date_iso": "2025-12-29T07:56:04+00:00"
   }
 ]
