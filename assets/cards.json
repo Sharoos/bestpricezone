@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23164",
+    "title": "Up to 78% Off",
+    "description": "Myntra | 👕 Ducati Clothing - Up to 78% Off https://myntr.in/fPlQVt",
+    "shortlink": "https://myntr.in/fPlQVt",
+    "urls": [
+      {
+        "url": "https://myntr.in/fPlQVt",
+        "label": "👕 Ducati Clothing - Up to 78% Off"
+      }
+    ],
+    "raw_text": "Myntra | 👕 Ducati Clothing - Up to 78% Off\n\nhttps://myntr.in/fPlQVt",
+    "final_url": "https://myntr.in/fPlQVt",
+    "local_image": "assets/images/tgmsg_23164.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-04T03:29:08+00:00",
+    "buy_link": "https://myntr.in/fPlQVt",
+    "date_iso": "2026-01-04T03:29:08+00:00"
+  },
+  {
     "id": "msg23159",
     "title": "CELLO Airlock Canister Set of 6 pcs @599",
     "description": "Amazon | CELLO Airlock Canister Set of 6 pcs @599 Apply 20% Coupon https://www.amazon.in/dp/B0FTZB3N91?th=1&psc=1&tag=bestpricezo0f-21",
@@ -9670,29 +9690,5 @@
     "date_obj": "2025-12-29T07:56:04+00:00",
     "buy_link": "https://bitli.in/pcWfXHy",
     "date_iso": "2025-12-29T07:56:04+00:00"
-  },
-  {
-    "id": "msg22667",
-    "title": "90% Off",
-    "description": "Flipkart | 90% Off - Women Art Silk Kurta Pant Set At Rs.295 🔗 https://fkrt.co/MjV6yu Master Link -  https://fkrt.co/e2WeP1",
-    "shortlink": "https://fkrt.co/MjV6yu",
-    "urls": [
-      {
-        "url": "https://fkrt.co/MjV6yu",
-        "label": "90% Off - Women Art Silk Kurta Pant Set At Rs.295"
-      },
-      {
-        "url": "https://fkrt.co/e2WeP1",
-        "label": "Master"
-      }
-    ],
-    "raw_text": "Flipkart | 90% Off - Women Art Silk Kurta Pant Set At Rs.295\n\n🔗 https://fkrt.co/MjV6yu\n\nMaster Link -  https://fkrt.co/e2WeP1",
-    "final_url": "https://ww44.affinity.net/sssweb?enk=e760f703f8e8837aa1133871460d0e3aec5aa9a59a172c854543fc962edb2e0a65983b555d449801303b965009ca6e45e9ea5010b203523a97e62764c424d0fd&di=EPTG2905470&subid=MjV6yu_p__p_&cc=IN&d=https%3A%2F%2Fdl.flipkart.com%2Fdl%2Fv-tradition-women-kurta-pant-set%2Fp%2Fitm13cc8be33c885%3Fpid%3DETHGH42AX3XZ2WY3%26lid%3DLSTETHGH42AX3XZ2WY3H0JAL6%26marketplace%3DFLIPKART%26&pwsvid=PW1766994617952SMjV6yuRLg9CpdzO&src=ot",
-    "local_image": "assets/images/tgmsg_22667.jpg",
-    "source_host": "ww44.affinity.net",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-29T07:40:16+00:00",
-    "buy_link": "https://fkrt.co/MjV6yu",
-    "date_iso": "2025-12-29T07:40:16+00:00"
   }
 ]
