@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23219",
+    "title": "Sunfeast Dark Fantasy Yumfills Whoopie Pie Chocolate Chip, 253g @94",
+    "description": "Amazon | Sunfeast Dark Fantasy Yumfills Whoopie Pie Chocolate Chip, 253g @94 https://www.amazon.in/dp/B06WGM2HK2?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B06WGM2HK2?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B06WGM2HK2?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Sunfeast Dark Fantasy Yumfills Whoopie Pie Chocolate Chip, 253g @94"
+      }
+    ],
+    "raw_text": "Amazon | Sunfeast Dark Fantasy Yumfills Whoopie Pie Chocolate Chip, 253g @94\n\nhttps://www.amazon.in/dp/B06WGM2HK2?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B06WGM2HK2?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_23219.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-05T17:31:57+00:00",
+    "buy_link": "https://www.amazon.in/dp/B06WGM2HK2?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-05T17:31:57+00:00"
+  },
+  {
     "id": "msg23206",
     "title": "BBD SALE LIVE 🔥",
     "description": "FLIPKART:  👉 Shop Now: Top Picks: • New Year Deals: • Jackets: • Shirts & T-Shirts: • Jeans: • Trolley Bags: • Sports Shoes:",
@@ -9742,37 +9762,5 @@
     "date_obj": "2025-12-29T09:24:43+00:00",
     "buy_link": "https://www.amazon.in/Silicone-Dishwashing-Heat-Resistant-Reusable-Scrubbing/dp/B0G8JZ7HN5/ref=pd_rhf_ee_s_pd_sbs_rvi_d_sccl_1_4/525-8991589-2992645?pd_rd_w=ap1dG&content-id=amzn1.sym.ed04a9b6-f1e8-467f-8e81-e050db1b5151&pf_rd_p=ed04a9b6-f1e8-467f-8e81-e050db1b5151&pf_rd_r=BKT137HHBNNN4JQWPZ4C&pd_rd_wg=1DJSf&pd_rd_r=5addd480-36af-4deb-83c5-d2949f7c9015&pd_rd_i=B0G8JZ7HN5&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2025-12-29T09:24:43+00:00"
-  },
-  {
-    "id": "msg22680",
-    "title": "💳 Extra 5% Off on Prepaid Orde",
-    "description": "Innovist: End of Year Sale 🎉 BUY 1 GET 1 FREE 🎉 BUY 2 GET 3 FREE ✅ No Code Required rs 👉 Shop Now:",
-    "shortlink": "https://bitli.in/rTCmWKl",
-    "urls": [
-      {
-        "url": "",
-        "label": "End of Year Sale"
-      },
-      {
-        "url": "",
-        "label": "✅ No Code Required"
-      },
-      {
-        "url": "",
-        "label": "💳 Extra 5% Off on Prepaid Orders"
-      },
-      {
-        "url": "https://bitli.in/rTCmWKl",
-        "label": "Shop Now"
-      }
-    ],
-    "raw_text": "Innovist: End of Year Sale\n\n🎉 BUY 1 GET 1 FREE\n🎉 BUY 2 GET 3 FREE\n\n✅ No Code Required\n\n💳 Extra 5% Off on Prepaid Orders\n\n👉 Shop Now:\nhttps://bitli.in/rTCmWKl",
-    "final_url": "https://bitli.in/rTCmWKl",
-    "local_image": "assets/images/tgmsg_22680.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-12-29T09:37:39+00:00",
-    "buy_link": "https://bitli.in/rTCmWKl",
-    "date_iso": "2025-12-29T09:37:39+00:00"
   }
 ]
