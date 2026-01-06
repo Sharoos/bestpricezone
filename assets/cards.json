@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23288",
+    "title": "(Pack Of 5) Ankle Socks ₹88",
+    "description": "Myntra  (Pack Of 5) Ankle Socks ₹88 🔗 https://myntr.in/Uj3v9f",
+    "shortlink": "https://myntr.in/Uj3v9f",
+    "urls": [
+      {
+        "url": "https://myntr.in/Uj3v9f",
+        "label": "Myntra (Pack Of 5) Ankle Socks ₹88"
+      }
+    ],
+    "raw_text": "Myntra  (Pack Of 5) Ankle Socks ₹88\n\n 🔗 https://myntr.in/Uj3v9f",
+    "final_url": "https://myntr.in/Uj3v9f",
+    "local_image": "assets/images/tgmsg_23288.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-06T11:10:32+00:00",
+    "buy_link": "https://myntr.in/Uj3v9f",
+    "date_iso": "2026-01-06T11:10:32+00:00"
+  },
+  {
     "id": "msg23285",
     "title": "SINGER Strom ES 1200 MM (48\") Star Rated Ceiling Fans at ₹1099",
     "description": "Amazon | SINGER Strom ES 1200 MM (48\") Star Rated Ceiling Fans  at ₹1099 🔗 https://www.amazon.in/dp/B0DH5XVSN1?psc=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
@@ -9470,25 +9490,5 @@
     "date_obj": "2025-12-30T04:25:06+00:00",
     "buy_link": "https://ajiio.co/YbCLDY",
     "date_iso": "2025-12-30T04:25:06+00:00"
-  },
-  {
-    "id": "msg22746",
-    "title": "Furniture Portable Laptop Table Starts At Rs.259",
-    "description": "Flipkart | Furniture Portable Laptop Table Starts At Rs.259 https://fkrt.co/Mlj5Wv",
-    "shortlink": "https://fkrt.co/Mlj5Wv",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Mlj5Wv",
-        "label": "Furniture Portable Laptop Table Starts At Rs.259"
-      }
-    ],
-    "raw_text": "Flipkart | Furniture Portable Laptop Table Starts At Rs.259\n\nhttps://fkrt.co/Mlj5Wv",
-    "final_url": "https://ww44.affinity.net/sssweb?enk=e760f703f8e8837aa1133871460d0e3aec5aa9a59a172c854543fc962edb2e0a65983b555d449801303b965009ca6e45e9ea5010b203523a97e62764c424d0fd&di=EPTG2905470&subid=Mlj5Wv_p__p_&cc=IN&d=https%3A%2F%2Fdl.flipkart.com%2Fdl%2Fwwe%2F~cs-7idy55qg6m%2Fpr%3Fsid%3Dwwe%26collection-tab-name%3DUnder%2520999%26pageCriteria%3Ddefault%26pageUID%3D1739678516076%26sort%3Dprice_asc%26&pwsvid=PW1767068000705SMlj5WvRLh1yExL5&src=ot",
-    "local_image": "assets/images/tgmsg_22746.jpg",
-    "source_host": "ww44.affinity.net",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-30T03:43:27+00:00",
-    "buy_link": "https://fkrt.co/Mlj5Wv",
-    "date_iso": "2025-12-30T03:43:27+00:00"
   }
 ]
