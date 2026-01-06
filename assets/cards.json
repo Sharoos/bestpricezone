@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23314",
+    "title": "Aeropostale Men's T Shirts Up to 65% Off",
+    "description": "Flipkart | Aeropostale Men's T Shirts Upto 65% Off 👉Link : https://fkrt.co/GVaC92",
+    "shortlink": "https://fkrt.co/GVaC92",
+    "urls": [
+      {
+        "url": "https://fkrt.co/GVaC92",
+        "label": "Aeropostale Men's T Shirts Upto 65% Off"
+      }
+    ],
+    "raw_text": "Flipkart | Aeropostale Men's T Shirts Upto 65% Off\n\n👉Link : https://fkrt.co/GVaC92",
+    "final_url": "https://ww44.affinity.net/sssweb?enk=e760f703f8e8837aa1133871460d0e3aec5aa9a59a172c854543fc962edb2e0a65983b555d449801303b965009ca6e45e9ea5010b203523a97e62764c424d0fd&di=EPTG2905470&subid=GVaC92_p__p_&cc=IN&d=https%3A%2F%2Fdl.flipkart.com%2Fdl%2Fmens-tshirts%2Faeropostale~brand%2Fpr%3Fsid%3Dclo%252Cash%252Cank%252Cedy%26marketplace%3DFLIPKART%26otracker%3Dproduct_breadCrumbs_AEROPOSTALE%2520Men*s%2520T-shirts%26scgv%3D1738665641183%26xkn%3Ddea1app%26sort%3Dprice_asc%26&pwsvid=PW1767711012718SGVaC92RtC2ogcZT&src=ot",
+    "local_image": "assets/images/tgmsg_23314.jpg",
+    "source_host": "ww44.affinity.net",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-06T14:35:13+00:00",
+    "buy_link": "https://fkrt.co/GVaC92",
+    "date_iso": "2026-01-06T14:35:13+00:00"
+  },
+  {
     "id": "msg23307",
     "title": "Zandu Himalayan Pure Shilajit Resin (10 g) at ₹320",
     "description": "Loot: Zandu Himalayan Pure Shilajit Resin (10 g) at ₹320 https://bitli.in/6v8S7Wp",
@@ -9334,57 +9354,5 @@
     "date_obj": "2025-12-30T10:50:19+00:00",
     "buy_link": "https://myntr.in/nNgjrd",
     "date_iso": "2025-12-30T10:50:19+00:00"
-  },
-  {
-    "id": "msg22777",
-    "title": "Ketch, Locomotive, Highlander Clothing Starts @109",
-    "description": "Myntra Loot : . Tshirts from 109 : Shirts from 169 : Jeans from 239 : Jackets from 499 : Trackpants from 239 : Sweatshirts : Trousers : Shorts :",
-    "shortlink": "https://myntr.it/kJrOk9E",
-    "urls": [
-      {
-        "url": "",
-        "label": "Ketch, Locomotive, Highlander Clothing Starts @109"
-      },
-      {
-        "url": "https://myntr.it/kJrOk9E",
-        "label": "Tshirts from 109"
-      },
-      {
-        "url": "https://myntr.it/9wk8duY",
-        "label": "Shirts from 169"
-      },
-      {
-        "url": "https://myntr.it/66r9LK8",
-        "label": "Jeans from 239"
-      },
-      {
-        "url": "https://myntr.it/2vXKv3v",
-        "label": "Jackets from 499"
-      },
-      {
-        "url": "https://myntr.it/phIj9QG",
-        "label": "Trackpants from 239"
-      },
-      {
-        "url": "https://myntr.it/DV5taw0",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://myntr.it/ui4GdBV",
-        "label": "Trousers"
-      },
-      {
-        "url": "https://myntr.it/twgMVh3",
-        "label": "Shorts"
-      }
-    ],
-    "raw_text": "Myntra Loot : Ketch, Locomotive, Highlander Clothing Starts @109.\n\nTshirts from 109 : https://myntr.it/kJrOk9E\nShirts from 169 : https://myntr.it/9wk8duY\nJeans from 239 : https://myntr.it/66r9LK8\nJackets from 499 : https://myntr.it/2vXKv3v\nTrackpants from 239 : https://myntr.it/phIj9QG\nSweatshirts : https://myntr.it/DV5taw0\nTrousers : https://myntr.it/ui4GdBV\nShorts : https://myntr.it/twgMVh3",
-    "final_url": "https://myntr.it/kJrOk9E",
-    "local_image": "assets/images/tgmsg_22777.jpg",
-    "source_host": "myntr.it",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-30T10:04:13+00:00",
-    "buy_link": "https://myntr.it/kJrOk9E",
-    "date_iso": "2025-12-30T10:04:13+00:00"
   }
 ]
