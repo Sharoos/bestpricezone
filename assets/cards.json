@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23325",
+    "title": "Milton Spin Mop Set @ ₹799",
+    "description": "Flipkart  Milton Spin Mop Set @  ₹799. https://fkrt.co/nYHLb4",
+    "shortlink": "https://fkrt.co/nYHLb4",
+    "urls": [
+      {
+        "url": "https://fkrt.co/nYHLb4",
+        "label": "Flipkart Milton Spin Mop Set @ ₹799"
+      }
+    ],
+    "raw_text": "Flipkart  Milton Spin Mop Set @  ₹799.\n\n https://fkrt.co/nYHLb4",
+    "final_url": "https://fkrt.co/nYHLb4",
+    "local_image": "assets/images/tgmsg_23325.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-06T16:54:21+00:00",
+    "buy_link": "https://fkrt.co/nYHLb4",
+    "date_iso": "2026-01-06T16:54:21+00:00"
+  },
+  {
     "id": "msg23321",
     "title": "Up to 75% Off On HRX Clothing",
     "description": "Myntra : Upto 75% Off On HRX Clothing. Men's : Low To High : Trackpants : Tracksuits : Women's : Low To High : Trackpants : Tracksuits :",
@@ -9314,33 +9334,5 @@
     "date_obj": "2025-12-30T12:20:17+00:00",
     "buy_link": "https://extp.in/p4TfJA",
     "date_iso": "2025-12-30T12:20:17+00:00"
-  },
-  {
-    "id": "msg22792",
-    "title": "Fitspire Fit Super Prime Whey – Dutch Chocolate @1199",
-    "description": "Fitspire Fit Super Prime Whey – Dutch Chocolate @1199 ✅USE CODE: CK077 https://bitli.in/lokrglp • +Get Energy Bar Pack Of 4 Free.",
-    "shortlink": "https://bitli.in/lokrglp",
-    "urls": [
-      {
-        "url": "",
-        "label": "Fitspire Fit Super Prime Whey – Dutch Chocolate @1199"
-      },
-      {
-        "url": "https://bitli.in/lokrglp",
-        "label": "✅USE CODE: CK077"
-      },
-      {
-        "url": "",
-        "label": "+Get Energy Bar Pack Of 4 Free"
-      }
-    ],
-    "raw_text": "Fitspire Fit Super Prime Whey – Dutch Chocolate @1199\n\n✅USE CODE: CK077\n\nhttps://bitli.in/lokrglp\n\n• +Get Energy Bar Pack Of 4 Free.",
-    "final_url": "https://bitli.in/lokrglp",
-    "local_image": "assets/images/tgmsg_22792.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2025-12-30T12:25:17+00:00",
-    "buy_link": "https://bitli.in/lokrglp",
-    "date_iso": "2025-12-30T12:25:17+00:00"
   }
 ]
