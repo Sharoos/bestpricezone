@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg23259",
+    "title": "Up to 81% Off On Spykar Clothing and Footwea",
+    "description": "Ajio  Upto 81% Off On Spykar Clothing and Footwear Men's : https://ajiio.co/OHf79V Women's : https://ajiio.co/DFWSdC",
+    "shortlink": "https://ajiio.co/OHf79V",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Upto 81% Off On Spykar Clothing and Footwear"
+      },
+      {
+        "url": "https://ajiio.co/OHf79V",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/DFWSdC",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Ajio  Upto 81% Off On Spykar Clothing and Footwear\n\nMen's : https://ajiio.co/OHf79V \nWomen's : https://ajiio.co/DFWSdC",
+    "final_url": "https://ajiio.co/OHf79V",
+    "local_image": "assets/images/tgmsg_23259.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-06T04:32:46+00:00",
+    "buy_link": "https://ajiio.co/OHf79V",
+    "date_iso": "2026-01-06T04:32:46+00:00"
+  },
+  {
     "id": "msg23254",
     "title": "Up to 80% Off",
     "description": "Flipkart | Upto 80% Off - Wiplk Kid Seating Sofa Starting Rs.396 https://fkrt.co/iROBjS",
@@ -9502,29 +9530,5 @@
     "date_obj": "2025-12-29T17:05:36+00:00",
     "buy_link": "https://ajiio.co/5Li29W",
     "date_iso": "2025-12-29T17:05:36+00:00"
-  },
-  {
-    "id": "msg22722",
-    "title": "50% Off",
-    "description": "Flipkart | 50% Off -HAVELLS Trimmer At Rs.999 👉 Link : https://fkrt.co/LC2N7G NOVA NHT  Trimmer @785 👉 Link : https://fkrt.co/BFtry5",
-    "shortlink": "https://fkrt.co/LC2N7G",
-    "urls": [
-      {
-        "url": "https://fkrt.co/LC2N7G",
-        "label": "50% Off -HAVELLS Trimmer At Rs.999"
-      },
-      {
-        "url": "https://fkrt.co/BFtry5",
-        "label": "NOVA NHT Trimmer @785"
-      }
-    ],
-    "raw_text": "Flipkart | 50% Off -HAVELLS Trimmer At Rs.999\n\n👉 Link : https://fkrt.co/LC2N7G\n\nNOVA NHT  Trimmer @785\n\n👉 Link : https://fkrt.co/BFtry5",
-    "final_url": "https://ww44.affinity.net/sssweb?enk=e760f703f8e8837aa1133871460d0e3aec5aa9a59a172c854543fc962edb2e0a65983b555d449801303b965009ca6e45e9ea5010b203523a97e62764c424d0fd&di=EPTG2905470&subid=LC2N7G_p__p_&cc=IN&d=https%3A%2F%2Fdl.flipkart.com%2Fdl%2Fhavells-bt5301-trimmer-100-min-runtime-20-length-settings%2Fp%2Fitm907e3f01dba63%3Fpid%3DTMRFVAZ6GHQHMKFH%26itx%3Dthedea1app%26qllm%3D1743677112957%26&pwsvid=PW1767028740782SLC2N7GRYpRdbXhe&src=ot",
-    "local_image": "assets/images/tgmsg_22722.jpg",
-    "source_host": "ww44.affinity.net",
-    "merchant_label": "Flipkart",
-    "date_obj": "2025-12-29T17:16:54+00:00",
-    "buy_link": "https://fkrt.co/LC2N7G",
-    "date_iso": "2025-12-29T17:16:54+00:00"
   }
 ]
