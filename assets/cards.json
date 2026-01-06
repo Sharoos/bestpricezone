@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23285",
+    "title": "SINGER Strom ES 1200 MM (48\") Star Rated Ceiling Fans at ₹1099",
+    "description": "Amazon | SINGER Strom ES 1200 MM (48\") Star Rated Ceiling Fans  at ₹1099 🔗 https://www.amazon.in/dp/B0DH5XVSN1?psc=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DH5XVSN1?psc=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DH5XVSN1?psc=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
+        "label": "SINGER Strom ES 1200 MM (48\") Star Rated Ceiling Fans at ₹1099"
+      }
+    ],
+    "raw_text": "Amazon | SINGER Strom ES 1200 MM (48\") Star Rated Ceiling Fans  at ₹1099\n\n🔗 https://www.amazon.in/dp/B0DH5XVSN1?psc=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DH5XVSN1?psc=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_23285.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-06T10:46:12+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DH5XVSN1?psc=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-06T10:46:12+00:00"
+  },
+  {
     "id": "msg23283",
     "title": "71% Off",
     "description": "Flipkart | 71% Off - PHILIPS Headphones 35H Play Time At Rs.2599 🔗  https://fkrt.co/JSfws4",
@@ -9470,25 +9490,5 @@
     "date_obj": "2025-12-30T03:43:27+00:00",
     "buy_link": "https://fkrt.co/Mlj5Wv",
     "date_iso": "2025-12-30T03:43:27+00:00"
-  },
-  {
-    "id": "msg22747",
-    "title": "Dove, Tresemme 1L Shampoo Combos at 70% Off",
-    "description": "Myntra | Dove, Tresemme 1L Shampoo Combos at 70% Off 👉Link : https://myntr.in/KK0PWI",
-    "shortlink": "https://myntr.in/KK0PWI",
-    "urls": [
-      {
-        "url": "https://myntr.in/KK0PWI",
-        "label": "Dove, Tresemme 1L Shampoo Combos at 70% Off"
-      }
-    ],
-    "raw_text": "Myntra | Dove, Tresemme 1L Shampoo Combos at 70% Off \n\n👉Link : https://myntr.in/KK0PWI",
-    "final_url": "https://myntr.in/KK0PWI",
-    "local_image": "assets/images/tgmsg_22747.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-30T03:54:04+00:00",
-    "buy_link": "https://myntr.in/KK0PWI",
-    "date_iso": "2025-12-30T03:54:04+00:00"
   }
 ]
