@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg23265",
+    "title": "Flat 75% Off On Cantabil Men's Clothing",
+    "description": "Myntra . Jackets : Sweatshirts : Sweaters : Tshirts : Jeans : Trousers : Shirts : Trackpants : Sports Shoes :",
+    "shortlink": "https://myntr.in/g5JM4i",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Flat 75% Off On Cantabil Men's Clothing"
+      },
+      {
+        "url": "https://myntr.in/g5JM4i",
+        "label": "Jackets"
+      },
+      {
+        "url": "https://myntr.in/FmmcN0",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "https://myntr.in/tqQ3Q1",
+        "label": "Sweaters"
+      },
+      {
+        "url": "https://myntr.in/r8ecsB",
+        "label": "Tshirts"
+      },
+      {
+        "url": "https://myntr.in/tuV8iu",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://myntr.in/ozzGWA",
+        "label": "Trousers"
+      },
+      {
+        "url": "https://myntr.in/T0khaf",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://myntr.in/OczNFs",
+        "label": "Trackpants"
+      },
+      {
+        "url": "https://myntr.in/HbF5JC",
+        "label": "Sports Shoes"
+      }
+    ],
+    "raw_text": "Myntra  Flat 75% Off On Cantabil Men's Clothing.\n\nJackets :  https://myntr.in/g5JM4i\nSweatshirts :  https://myntr.in/FmmcN0\nSweaters :  https://myntr.in/tqQ3Q1\nTshirts :  https://myntr.in/r8ecsB\nJeans :  https://myntr.in/tuV8iu\nTrousers :  https://myntr.in/ozzGWA\nShirts :  https://myntr.in/T0khaf\nTrackpants :  https://myntr.in/OczNFs\n\nSports Shoes :  https://myntr.in/HbF5JC",
+    "final_url": "https://myntr.in/g5JM4i",
+    "local_image": "assets/images/tgmsg_23265.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-06T05:46:24+00:00",
+    "buy_link": "https://myntr.in/g5JM4i",
+    "date_iso": "2026-01-06T05:46:24+00:00"
+  },
+  {
     "id": "msg23263",
     "title": "Mens Shoes Under @ 599",
     "description": "Flipkart | Mens Shoes Under @ 599₹ 👉https://fkrt.co/xtiO6K",
@@ -9466,53 +9522,5 @@
     "date_obj": "2025-12-29T17:41:04+00:00",
     "buy_link": "https://extp.in/3eL0bv",
     "date_iso": "2025-12-29T17:41:04+00:00"
-  },
-  {
-    "id": "msg22727",
-    "title": "Up to 80% Off On Oversized T",
-    "description": "AJIO Upto 80% Off On Oversized T-Shirts Start @50 Men’s : Women’s : Polo T-Shirts : Jeans : Branded Innerwears : Men's Blazers & Waistcoat : + 15% XTRA AJIO CASH",
-    "shortlink": "https://ajiio.co/I19BJK",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 80% Off On Oversized T-Shirts Start @50"
-      },
-      {
-        "url": "https://ajiio.co/I19BJK",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.co/GDykC7",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://ajiio.co/Og3kTF",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/MXbg0r",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/rJsZgR",
-        "label": "Branded Innerwears"
-      },
-      {
-        "url": "https://ajiio.co/xmbCq6",
-        "label": "Men's Blazers & Waistcoat"
-      },
-      {
-        "url": "",
-        "label": "+ 15% XTRA AJIO CASH"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On Oversized T-Shirts Start @50\n\nMen’s : https://ajiio.co/I19BJK\nWomen’s : https://ajiio.co/GDykC7\n\nPolo T-Shirts : https://ajiio.co/Og3kTF\nJeans : https://ajiio.co/MXbg0r\nBranded Innerwears : https://ajiio.co/rJsZgR\nMen's Blazers & Waistcoat : https://ajiio.co/xmbCq6\n\n+ 15% XTRA AJIO CASH",
-    "final_url": "https://ajiio.co/I19BJK",
-    "local_image": "assets/images/tgmsg_22727.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-29T17:46:31+00:00",
-    "buy_link": "https://ajiio.co/I19BJK",
-    "date_iso": "2025-12-29T17:46:31+00:00"
   }
 ]
