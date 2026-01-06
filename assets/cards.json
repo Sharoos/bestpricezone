@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23263",
+    "title": "Mens Shoes Under @ 599",
+    "description": "Flipkart | Mens Shoes Under @ 599₹ 👉https://fkrt.co/xtiO6K",
+    "shortlink": "https://fkrt.co/xtiO6K",
+    "urls": [
+      {
+        "url": "https://fkrt.co/xtiO6K",
+        "label": "Mens Shoes Under @ 599₹"
+      }
+    ],
+    "raw_text": "Flipkart | Mens Shoes Under @ 599₹\n\n👉https://fkrt.co/xtiO6K",
+    "final_url": "https://fkrt.co/xtiO6K",
+    "local_image": "assets/images/tgmsg_23263.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-06T05:29:19+00:00",
+    "buy_link": "https://fkrt.co/xtiO6K",
+    "date_iso": "2026-01-06T05:29:19+00:00"
+  },
+  {
     "id": "msg23262",
     "title": "Upto75% Off on Women",
     "description": "Myntra | Upto75% Off on Women-Sunglasses Starting @ just 500 Link : https://myntr.in/8b3DU9",
@@ -9494,37 +9514,5 @@
     "date_obj": "2025-12-29T17:46:31+00:00",
     "buy_link": "https://ajiio.co/I19BJK",
     "date_iso": "2025-12-29T17:46:31+00:00"
-  },
-  {
-    "id": "msg22723",
-    "title": "3. Ponds Min. 50% Off",
-    "description": "Myntra | Cosmetics Products sale is Live 1. Lakme Makeup Min. 50 - 65% Off: 2. Lakme Skin Care Min. 45 - 55% Off: :",
-    "shortlink": "https://myntr.in/ZWvtne",
-    "urls": [
-      {
-        "url": "",
-        "label": "Cosmetics Products sale is Live"
-      },
-      {
-        "url": "https://myntr.in/ZWvtne",
-        "label": "1. Lakme Makeup Min. 50 - 65% Off"
-      },
-      {
-        "url": "https://myntr.in/VuXlPP",
-        "label": "2. Lakme Skin Care Min. 45 - 55% Off"
-      },
-      {
-        "url": "https://myntr.in/hXq3mg",
-        "label": "3. Ponds Min. 50% Off"
-      }
-    ],
-    "raw_text": "Myntra | Cosmetics Products  sale is Live\n\n1. Lakme Makeup Min. 50 - 65% Off: https://myntr.in/ZWvtne\n2. Lakme Skin Care Min. 45 - 55% Off: https://myntr.in/VuXlPP\n3. Ponds Min. 50% Off: \nhttps://myntr.in/hXq3mg",
-    "final_url": "https://myntr.in/ZWvtne",
-    "local_image": "assets/images/tgmsg_22723.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-29T17:35:01+00:00",
-    "buy_link": "https://myntr.in/ZWvtne",
-    "date_iso": "2025-12-29T17:35:01+00:00"
   }
 ]
