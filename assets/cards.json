@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg23266",
+    "title": "Flat 5% off on Gold & Diamond Jewellery",
+    "description": "Myntra |  Use coupon code: JWLSOFF Flat 7% off on Silver coins Use coupon code: JWLOFF15",
+    "shortlink": "https://myntr.in/OxzyHU",
+    "urls": [
+      {
+        "url": "https://myntr.in/OxzyHU",
+        "label": "Flat 5% off on Gold & Diamond Jewellery"
+      },
+      {
+        "url": "https://myntr.in/KfSCLS",
+        "label": "Flat 7% off on Silver coins"
+      }
+    ],
+    "raw_text": "Myntra | Flat 5% off on Gold & Diamond Jewellery\nUse coupon code: JWLSOFF\nhttps://myntr.in/OxzyHU\n\nFlat 7% off on Silver coins\nUse coupon code: JWLOFF15\nhttps://myntr.in/KfSCLS",
+    "final_url": "https://myntr.in/OxzyHU",
+    "local_image": "assets/images/tgmsg_23266.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-06T06:29:14+00:00",
+    "buy_link": "https://myntr.in/OxzyHU",
+    "date_iso": "2026-01-06T06:29:14+00:00"
+  },
+  {
     "id": "msg23265",
     "title": "Flat 75% Off On Cantabil Men's Clothing",
     "description": "Myntra . Jackets : Sweatshirts : Sweaters : Tshirts : Jeans : Trousers : Shirts : Trackpants : Sports Shoes :",
@@ -9474,53 +9498,5 @@
     "date_obj": "2025-12-29T17:40:37+00:00",
     "buy_link": "https://extp.in/33cZiL",
     "date_iso": "2025-12-29T17:40:37+00:00"
-  },
-  {
-    "id": "msg22726",
-    "title": "🏻 Car Water Wiper Window Glass At 102",
-    "description": "ONDC Under Rs.110 Deals + FREE SHIPPING 🔥🔥 ✅ Apply Code : EXTRA30 🤜 Anti-skid Rubber Bath Mat At 101 : More Deals : 👉🏻 Car AC Outlet Internal Cleaner At 69 : 👉🏻 Silicon body scruber belt At 72 : 👉🏻 Transparent Adhesive…",
-    "shortlink": "https://extp.in/3eL0bv",
-    "urls": [
-      {
-        "url": "",
-        "label": "ONDC Under Rs.110 Deals + FREE SHIPPING 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "✅ Apply Code : EXTRA30"
-      },
-      {
-        "url": "https://extp.in/3eL0bv",
-        "label": "🤜 Anti-skid Rubber Bath Mat At 101"
-      },
-      {
-        "url": "",
-        "label": "More Deals"
-      },
-      {
-        "url": "https://extp.in/3W8Zbj",
-        "label": "🏻 Car AC Outlet Internal Cleaner At 69"
-      },
-      {
-        "url": "https://extp.in/fNeaLk",
-        "label": "🏻 Silicon body scruber belt At 72"
-      },
-      {
-        "url": "https://extp.in/uE8PlV",
-        "label": "🏻 Transparent Adhesive Wall Hooks - (Pack Of 10) At 81"
-      },
-      {
-        "url": "https://extp.in/tBHkjr",
-        "label": "🏻 Car Water Wiper Window Glass At 102"
-      }
-    ],
-    "raw_text": "ONDC  Under Rs.110 Deals + FREE SHIPPING 🔥🔥\n\n✅ Apply Code : EXTRA30\n\n🤜 Anti-skid Rubber Bath Mat At 101 : https://extp.in/3eL0bv\n\nMore Deals : \n👉🏻 Car AC Outlet Internal Cleaner At 69 : https://extp.in/3W8Zbj\n👉🏻 Silicon body scruber belt At 72 : https://extp.in/fNeaLk\n👉🏻 Transparent Adhesive Wall Hooks - (Pack Of 10) At 81 : https://extp.in/uE8PlV\n👉🏻 Car Water Wiper Window Glass At 102 : https://extp.in/tBHkjr",
-    "final_url": "https://extp.in/3eL0bv",
-    "local_image": "assets/images/tgmsg_22726.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-29T17:41:04+00:00",
-    "buy_link": "https://extp.in/3eL0bv",
-    "date_iso": "2025-12-29T17:41:04+00:00"
   }
 ]
