@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg23338",
+    "title": "Roadster Jeans Starts @329",
+    "description": "Myntra | Roadster Jeans Starts @329 Women's : https://myntr.in/MiVpWB& Men's : https://myntr.in/CmCyh1&",
+    "shortlink": "https://myntr.in/MiVpWB&",
+    "urls": [
+      {
+        "url": "",
+        "label": "Roadster Jeans Starts @329"
+      },
+      {
+        "url": "https://myntr.in/MiVpWB&",
+        "label": "Women's"
+      },
+      {
+        "url": "https://myntr.in/CmCyh1&",
+        "label": "Men's"
+      }
+    ],
+    "raw_text": "Myntra | Roadster Jeans Starts @329\n\nWomen's : https://myntr.in/MiVpWB&\nMen's : https://myntr.in/CmCyh1&",
+    "final_url": "https://myntr.in/MiVpWB&",
+    "local_image": "assets/images/tgmsg_23338.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-06T18:59:43+00:00",
+    "buy_link": "https://myntr.in/MiVpWB&",
+    "date_iso": "2026-01-06T18:59:43+00:00"
+  },
+  {
+    "id": "msg23341",
+    "title": "RR Signature 25L Water Heater @5499",
+    "description": "Amazon | RR Signature 25L Water Heater @5499. https://www.amazon.in/dp/B0DP9Q4NJ9?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DP9Q4NJ9?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DP9Q4NJ9?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "RR Signature 25L Water Heater @5499"
+      }
+    ],
+    "raw_text": "Amazon | RR Signature 25L Water Heater @5499.\n\nhttps://www.amazon.in/dp/B0DP9Q4NJ9?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DP9Q4NJ9?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_23341.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-06T19:12:31+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DP9Q4NJ9?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-06T19:12:31+00:00"
+  },
+  {
     "id": "msg23330",
     "title": "Fire‑Boltt Smartwatch With Bluetooth Calling @999",
     "description": "Amazon | Fire‑Boltt Smartwatch With Bluetooth Calling @999. https://www.amazon.in/dp/B0DY7XN96V?th=1&psc=1&tag=bestpricezo0f-21 https://www.amazon.in/dp/B0DY7YPBJL?th=1&psc=1&tag=bestpricezo0f-21",
@@ -9298,45 +9346,5 @@
     "date_obj": "2025-12-30T13:02:41+00:00",
     "buy_link": "https://extp.in/4tyMwH",
     "date_iso": "2025-12-30T13:02:41+00:00"
-  },
-  {
-    "id": "msg22800",
-    "title": "Up to 75% Off On Skechers Shoe",
-    "description": "Myntra | Upto 75% Off On Skechers Shoes. 🔗 https://myntr.in/4c8IKH&",
-    "shortlink": "https://myntr.in/4c8IKH&",
-    "urls": [
-      {
-        "url": "https://myntr.in/4c8IKH&",
-        "label": "Upto 75% Off On Skechers Shoes"
-      }
-    ],
-    "raw_text": "Myntra | Upto 75% Off On Skechers Shoes.\n\n🔗 https://myntr.in/4c8IKH&",
-    "final_url": "https://myntr.in/4c8IKH&",
-    "local_image": "assets/images/tgmsg_22800.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-30T13:10:14+00:00",
-    "buy_link": "https://myntr.in/4c8IKH&",
-    "date_iso": "2025-12-30T13:10:14+00:00"
-  },
-  {
-    "id": "msg22802",
-    "title": "Shopsy 🔥 Tracking Bag Starts @ ₹318",
-    "description": "Shopsy | 🔥  Tracking Bag Starts @ ₹318 🔗 https://extp.in/JiM2lN",
-    "shortlink": "https://extp.in/JiM2lN",
-    "urls": [
-      {
-        "url": "https://extp.in/JiM2lN",
-        "label": "🔥 Tracking Bag Starts @ ₹318"
-      }
-    ],
-    "raw_text": "Shopsy | 🔥  Tracking Bag Starts @ ₹318\n\n🔗 https://extp.in/JiM2lN",
-    "final_url": "https://extp.in/JiM2lN",
-    "local_image": "assets/images/tgmsg_22802.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-30T13:20:10+00:00",
-    "buy_link": "https://extp.in/JiM2lN",
-    "date_iso": "2025-12-30T13:20:10+00:00"
   }
 ]
