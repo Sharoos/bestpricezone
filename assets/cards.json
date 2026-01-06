@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg23270",
+    "title": "65% Off",
+    "description": "Flipkart |  - LAYER'R Shot Forest Spice Body Spray Pack Of 2 At Rs.172 🔗 Master Link -",
+    "shortlink": "https://fkrt.co/QggHba",
+    "urls": [
+      {
+        "url": "https://fkrt.co/QggHba",
+        "label": "65% Off - LAYER'R Shot Forest Spice Body Spray Pack Of 2 At Rs.172"
+      },
+      {
+        "url": "https://fkrt.co/1Zxd6G",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Flipkart | 65% Off - LAYER'R Shot Forest Spice Body Spray Pack Of 2 At Rs.172\n\n🔗 https://fkrt.co/QggHba\n\nMaster Link -  https://fkrt.co/1Zxd6G",
+    "final_url": "https://fkrt.co/QggHba",
+    "local_image": "assets/images/tgmsg_23270.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-06T07:15:25+00:00",
+    "buy_link": "https://fkrt.co/QggHba",
+    "date_iso": "2026-01-06T07:15:25+00:00"
+  },
+  {
     "id": "msg23267",
     "title": "Noise Airwave Max XR @₹3499",
     "description": "Noise Airwave Max XR @₹3499 https://myntr.in/OgTz6R Get Free Noise Earbuds at Checkout.",
@@ -9426,33 +9450,5 @@
     "date_obj": "2025-12-29T18:39:34+00:00",
     "buy_link": "https://fkrt.co/e8qdmC",
     "date_iso": "2025-12-29T18:39:34+00:00"
-  },
-  {
-    "id": "msg22728",
-    "title": "Branded Cargo Trousers Starts @269",
-    "description": "Myntra : Branded Cargo Trousers Starts @269 Men : https://myntr.in/Tfovjh Women : https://myntr.in/xiBB3e",
-    "shortlink": "https://myntr.in/Tfovjh",
-    "urls": [
-      {
-        "url": "",
-        "label": "Branded Cargo Trousers Starts @269"
-      },
-      {
-        "url": "https://myntr.in/Tfovjh",
-        "label": "Men"
-      },
-      {
-        "url": "https://myntr.in/xiBB3e",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Myntra : Branded Cargo Trousers Starts @269\n\nMen : https://myntr.in/Tfovjh\nWomen : https://myntr.in/xiBB3e",
-    "final_url": "https://myntr.in/Tfovjh",
-    "local_image": "assets/images/tgmsg_22728.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-29T18:02:05+00:00",
-    "buy_link": "https://myntr.in/Tfovjh",
-    "date_iso": "2025-12-29T18:02:05+00:00"
   }
 ]
