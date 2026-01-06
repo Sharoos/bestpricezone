@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23283",
+    "title": "71% Off",
+    "description": "Flipkart | 71% Off - PHILIPS Headphones 35H Play Time At Rs.2599 🔗  https://fkrt.co/JSfws4",
+    "shortlink": "https://fkrt.co/JSfws4",
+    "urls": [
+      {
+        "url": "https://fkrt.co/JSfws4",
+        "label": "71% Off - PHILIPS Headphones 35H Play Time At Rs.2599"
+      }
+    ],
+    "raw_text": "Flipkart | 71% Off - PHILIPS Headphones 35H Play Time At Rs.2599\n\n🔗  https://fkrt.co/JSfws4",
+    "final_url": "https://fkrt.co/JSfws4",
+    "local_image": "assets/images/tgmsg_23283.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-06T10:02:33+00:00",
+    "buy_link": "https://fkrt.co/JSfws4",
+    "date_iso": "2026-01-06T10:02:33+00:00"
+  },
+  {
     "id": "msg23280",
     "title": "🔥Shopsy Under Rs.149 Store 🔥",
     "description": "🔥Shopsy Under Rs.149 Store 🔥 🔗 https://extp.in/tZftk7",
@@ -9470,41 +9490,5 @@
     "date_obj": "2025-12-30T03:54:04+00:00",
     "buy_link": "https://myntr.in/KK0PWI",
     "date_iso": "2025-12-30T03:54:04+00:00"
-  },
-  {
-    "id": "msg22748",
-    "title": "👕 Fabflee X AG – ₹243 only",
-    "description": "🔥 AJIOGRAM HOT DEALS 🔥 Budget fashion steals you can’t miss 👇  💸 Apply Coupon: AG15 🔗 👕 Fabflee X AG – ₹245 only 💸 Apply Coupon: AG15 🔗 👕 TROMKO – ₹245 only 💸 Apply Coupon: AG15 🔗",
-    "shortlink": "https://ajiio.co/1oDYfz",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 AJIOGRAM HOT DEALS 🔥"
-      },
-      {
-        "url": "",
-        "label": "Budget fashion steals you can’t miss 👇"
-      },
-      {
-        "url": "https://ajiio.co/1oDYfz",
-        "label": "👕 Fabflee X AG – ₹243 only"
-      },
-      {
-        "url": "https://ajiio.co/xtQBgE",
-        "label": "👕 Fabflee X AG – ₹245 only"
-      },
-      {
-        "url": "https://ajiio.co/u0w3EX",
-        "label": "👕 TROMKO – ₹245 only"
-      }
-    ],
-    "raw_text": "🔥 AJIOGRAM HOT DEALS 🔥\nBudget fashion steals you can’t miss 👇\n\n👕 Fabflee X AG – ₹243 only\n💸 Apply Coupon: AG15\n🔗 https://ajiio.co/1oDYfz\n\n👕 Fabflee X AG – ₹245 only\n💸 Apply Coupon: AG15\n🔗 https://ajiio.co/xtQBgE\n\n👕 TROMKO – ₹245 only\n💸 Apply Coupon: AG15\n🔗 https://ajiio.co/u0w3EX",
-    "final_url": "https://ajiio.co/1oDYfz",
-    "local_image": "assets/images/tgmsg_22748.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-30T04:10:43+00:00",
-    "buy_link": "https://ajiio.co/1oDYfz",
-    "date_iso": "2025-12-30T04:10:43+00:00"
   }
 ]
