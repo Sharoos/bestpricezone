@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23372",
+    "title": "shirts Starts @₹181",
+    "description": "Myntra | Roadster Men Polo T-shirts Starts @₹181 🔗 https://myntr.in/8ElItR",
+    "shortlink": "https://myntr.in/8ElItR",
+    "urls": [
+      {
+        "url": "https://myntr.in/8ElItR",
+        "label": "Roadster Men Polo T-shirts Starts @₹181"
+      }
+    ],
+    "raw_text": "Myntra | Roadster Men Polo T-shirts Starts @₹181\n\n🔗 https://myntr.in/8ElItR",
+    "final_url": "https://myntr.in/8ElItR",
+    "local_image": "assets/images/tgmsg_23372.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-07T09:45:29+00:00",
+    "buy_link": "https://myntr.in/8ElItR",
+    "date_iso": "2026-01-07T09:45:29+00:00"
+  },
+  {
     "id": "msg23370",
     "title": "C to C Cable @139",
     "description": "Amazon | Hammer 60W Type-C to C Cable @139 🔗 https://www.amazon.in/dp/B0F9F9CRQK?th=1&tag=bestpricezo0f-21 65W : https://www.amazon.in/dp/B0CXM7FCHC?th=1&tag=bestpricezo0f-21 100W :…",
@@ -9286,25 +9306,5 @@
     "date_obj": "2025-12-30T18:57:25+00:00",
     "buy_link": "https://www.amazon.in/s?k=3-d+pen+3-d&adgrpid=145995952217&hvadid=655454493338&hvdev=m&hvlocphy=1007788&hvnetw=g&hvqmt=b&hvrand=13634156189673145426&hvtargid=kwd-2282255921032&hydadcr=20779_2228963&language=en_IN&tag=bestpricezo0f-21&",
     "date_iso": "2025-12-30T18:57:25+00:00"
-  },
-  {
-    "id": "msg22834",
-    "title": "🛍 Portable Mini Sealing Machine – ₹179",
-    "description": "Amazon | 🛍 Portable Mini Sealing Machine – ₹179 👉 https://www.amazon.in/dp/B0FHHXFDBL?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FHHXFDBL?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FHHXFDBL?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "🛍 Portable Mini Sealing Machine – ₹179"
-      }
-    ],
-    "raw_text": "Amazon | 🛍 Portable Mini Sealing Machine – ₹179\n\n👉 https://www.amazon.in/dp/B0FHHXFDBL?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FHHXFDBL?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_22834.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-30T18:58:28+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FHHXFDBL?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-30T18:58:28+00:00"
   }
 ]
