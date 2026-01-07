@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg23344",
+    "title": "Up to 76% Off On Styli Clothing",
+    "description": "Myntra | Upto 76% Off On Styli Clothing Men : https://myntr.in/fEecoM Women : https://myntr.in/4RfZD0",
+    "shortlink": "https://myntr.in/fEecoM",
+    "urls": [
+      {
+        "url": "https://myntr.in/fEecoM",
+        "label": "Upto 76% Off On Styli Clothing"
+      },
+      {
+        "url": "https://myntr.in/4RfZD0",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | Upto 76% Off On Styli Clothing\n\nMen : https://myntr.in/fEecoM\nWomen : https://myntr.in/4RfZD0",
+    "final_url": "https://myntr.in/fEecoM",
+    "local_image": "assets/images/tgmsg_23344.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-07T03:46:31+00:00",
+    "buy_link": "https://myntr.in/fEecoM",
+    "date_iso": "2026-01-07T03:46:31+00:00"
+  },
+  {
     "id": "msg23338",
     "title": "Roadster Jeans Starts @329",
     "description": "Myntra | Roadster Jeans Starts @329 Women's : https://myntr.in/MiVpWB& Men's : https://myntr.in/CmCyh1&",
@@ -9302,49 +9326,5 @@
     "date_obj": "2025-12-30T12:58:28+00:00",
     "buy_link": "https://extp.in/xyWe2w",
     "date_iso": "2025-12-30T12:58:28+00:00"
-  },
-  {
-    "id": "msg22798",
-    "title": "🎉 Up to 63% OFF",
-    "description": "🔥 BEWAKOOF DEAL ALERT 🔥 👕 Stranger Things Official Merchandise  👉 T-shirts, hoodies & more 👉 Perfect for Stranger Things fans 🧇⚡️ 👉 Limited-time discounts 🛒 Shop Now :",
-    "shortlink": "https://extp.in/4tyMwH",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 BEWAKOOF DEAL ALERT 🔥"
-      },
-      {
-        "url": "",
-        "label": "👕 Stranger Things Official Merchandise"
-      },
-      {
-        "url": "",
-        "label": "🎉 Up to 63% OFF"
-      },
-      {
-        "url": "",
-        "label": "T-shirts, hoodies & more"
-      },
-      {
-        "url": "",
-        "label": "Perfect for Stranger Things fans 🧇⚡️"
-      },
-      {
-        "url": "",
-        "label": "time discounts"
-      },
-      {
-        "url": "https://extp.in/4tyMwH",
-        "label": "🛒 Shop Now"
-      }
-    ],
-    "raw_text": "🔥 BEWAKOOF DEAL ALERT 🔥\n\n👕 Stranger Things Official Merchandise\n🎉 Up to 63% OFF\n\n👉 T-shirts, hoodies & more\n👉 Perfect for Stranger Things fans 🧇⚡️\n👉 Limited-time discounts\n\n🛒 Shop Now : https://extp.in/4tyMwH",
-    "final_url": "https://extp.in/4tyMwH",
-    "local_image": "assets/images/tgmsg_22798.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-30T13:02:41+00:00",
-    "buy_link": "https://extp.in/4tyMwH",
-    "date_iso": "2025-12-30T13:02:41+00:00"
   }
 ]
