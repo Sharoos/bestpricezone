@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg23414",
+    "title": "Up to 75% Off On Wildcraft Clothing",
+    "description": "Flipkart | Upto 75% Off On Wildcraft Clothing https://fkrt.co/aCv5im FILA Clothing : https://fkrt.co/aCNcU1 Numero Uno : https://fkrt.co/aYxkAS",
+    "shortlink": "https://fkrt.co/aCv5im",
+    "urls": [
+      {
+        "url": "https://fkrt.co/aCv5im",
+        "label": "Upto 75% Off On Wildcraft Clothing"
+      },
+      {
+        "url": "https://fkrt.co/aCNcU1",
+        "label": "FILA Clothing"
+      },
+      {
+        "url": "https://fkrt.co/aYxkAS",
+        "label": "Numero Uno"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 75% Off On Wildcraft Clothing\nhttps://fkrt.co/aCv5im\n\nFILA Clothing : \nhttps://fkrt.co/aCNcU1\n\nNumero Uno :  \nhttps://fkrt.co/aYxkAS",
+    "final_url": "https://fkrt.co/aCv5im",
+    "local_image": "assets/images/tgmsg_23414.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-07T17:16:40+00:00",
+    "buy_link": "https://fkrt.co/aCv5im",
+    "date_iso": "2026-01-07T17:16:40+00:00"
+  },
+  {
     "id": "msg23412",
     "title": "Crazy Deals Min 50% Off On Top Brand",
     "description": "Ajio s • GAS : • Gap : • Superdry : • Tommy Hilfiger : • Steve Madden : • Gant : Extra 10% Ajio Cashback On Every Order (100% Usable)",
@@ -9054,53 +9082,5 @@
     "date_obj": "2025-12-31T13:34:24+00:00",
     "buy_link": "https://www.amazon.in/dp/B00CBRJ5MO?tag=bestpricezo0f-21",
     "date_iso": "2025-12-31T13:34:24+00:00"
-  },
-  {
-    "id": "msg22878",
-    "title": "ONDC Up to 85% off on Bevzilla Coffee Products + FREE SHIPPING 🔥🔥",
-    "description": "ONDC Upto 85% off on Bevzilla Coffee Products + FREE SHIPPING 🔥🔥 73% off : 25 Flavoured Coffee Sachets + Shaker At 119 Link: Use Code : EXTRA30 More: 70% off : Premium Strong Coffee - 50gms At 69 : 80% off : Reusable…",
-    "shortlink": "https://extp.in/hUMeug",
-    "urls": [
-      {
-        "url": "",
-        "label": "ONDC Upto 85% off on Bevzilla Coffee Products + FREE SHIPPING 🔥🔥"
-      },
-      {
-        "url": "https://extp.in/hUMeug",
-        "label": "73% off : 25 Flavoured Coffee Sachets + Shaker At 119"
-      },
-      {
-        "url": "",
-        "label": "EXTRA30"
-      },
-      {
-        "url": "https://extp.in/gaM0XA",
-        "label": "70% off : Premium Strong Coffee - 50gms At 69"
-      },
-      {
-        "url": "https://extp.in/xz5arG",
-        "label": "80% off : Reusable Coffee Tumbler - 300ml At 69"
-      },
-      {
-        "url": "https://extp.in/7sYmAL",
-        "label": "70% off : English Butterscotch Coffee At 119"
-      },
-      {
-        "url": "https://extp.in/xaF65u",
-        "label": "70% off : French Vanilla Coffee At 119"
-      },
-      {
-        "url": "https://extp.in/BUEAng",
-        "label": "55% off : 48 Sachets Assorted Coffee At 145"
-      }
-    ],
-    "raw_text": "ONDC  Upto 85% off on Bevzilla Coffee Products + FREE SHIPPING 🔥🔥\n\n73% off : 25 Flavoured Coffee Sachets + Shaker At 119\n\nLink: https://extp.in/hUMeug\n\nUse Code : EXTRA30\n\nMore:\n70% off : Premium Strong Coffee - 50gms At 69 : https://extp.in/gaM0XA\n80% off : Reusable Coffee Tumbler - 300ml At 69 : https://extp.in/xz5arG\n70% off : English Butterscotch Coffee At 119 : https://extp.in/7sYmAL\n70% off : French Vanilla Coffee At 119 : https://extp.in/xaF65u\n55% off : 48 Sachets Assorted Coffee At 145 : https://extp.in/BUEAng",
-    "final_url": "https://extp.in/hUMeug",
-    "local_image": "assets/images/tgmsg_22878.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2025-12-31T13:37:16+00:00",
-    "buy_link": "https://extp.in/hUMeug",
-    "date_iso": "2025-12-31T13:37:16+00:00"
   }
 ]
