@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23346",
+    "title": "Dust Decorative Ceiling Fan @ 1099",
+    "description": "Amazon | LONGWAY Anti-Dust Decorative Ceiling Fan @ 1099. https://www.amazon.in/dp/B0BMFDYX7Y?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0BMFDYX7Y?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0BMFDYX7Y?tag=bestpricezo0f-21",
+        "label": "LONGWAY Anti-Dust Decorative Ceiling Fan @ 1099"
+      }
+    ],
+    "raw_text": "Amazon | LONGWAY Anti-Dust Decorative Ceiling Fan @ 1099.\n\nhttps://www.amazon.in/dp/B0BMFDYX7Y?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0BMFDYX7Y?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_23346.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-07T04:46:41+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0BMFDYX7Y?tag=bestpricezo0f-21",
+    "date_iso": "2026-01-07T04:46:41+00:00"
+  },
+  {
     "id": "msg23345",
     "title": "Up to 60% Off On The Bear House Clothing",
     "description": "Flipkart | Upto 60% Off On The Bear House Clothing. Shirts https://fkrt.co/Y6xYNi Tshirts https://fkrt.co/qFemZ3 Jeans https://fkrt.co/JYc47D",
@@ -9290,37 +9310,5 @@
     "date_obj": "2025-12-30T14:24:59+00:00",
     "buy_link": "https://extp.in/3bEMUc",
     "date_iso": "2025-12-30T14:24:59+00:00"
-  },
-  {
-    "id": "msg22806",
-    "title": "+ 10% EXTRA CASH",
-    "description": "AJIO Cargo Pants , Shorts And Many more Starts at 160 Women : Men : + 10% EXTRA AJIO CASH",
-    "shortlink": "https://ajiio.co/QMGk2A",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Cargo Pants , Shorts And Many more Starts at 160"
-      },
-      {
-        "url": "https://ajiio.co/QMGk2A",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/sGLoS3",
-        "label": "Men"
-      },
-      {
-        "url": "",
-        "label": "+ 10% EXTRA AJIO CASH"
-      }
-    ],
-    "raw_text": "AJIO  Cargo Pants , Shorts And Many more  Starts at 160\n \nWomen : https://ajiio.co/QMGk2A\n\nMen : https://ajiio.co/sGLoS3\n\n+ 10% EXTRA AJIO CASH",
-    "final_url": "https://ajiio.co/QMGk2A",
-    "local_image": "assets/images/tgmsg_22806.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-30T14:34:19+00:00",
-    "buy_link": "https://ajiio.co/QMGk2A",
-    "date_iso": "2025-12-30T14:34:19+00:00"
   }
 ]
