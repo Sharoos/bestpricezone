@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg23412",
+    "title": "Crazy Deals Min 50% Off On Top Brand",
+    "description": "Ajio s • GAS : • Gap : • Superdry : • Tommy Hilfiger : • Steve Madden : • Gant : Extra 10% Ajio Cashback On Every Order (100% Usable)",
+    "shortlink": "https://ajiio.co/0ptrAI",
+    "urls": [
+      {
+        "url": "https://ajiio.co/0ptrAI",
+        "label": "Ajio Crazy Deals Min 50% Off On Top Brands"
+      },
+      {
+        "url": "https://ajiio.co/FpuIMb",
+        "label": "Gap"
+      },
+      {
+        "url": "https://ajiio.co/p1myvw",
+        "label": "Superdry"
+      },
+      {
+        "url": "https://ajiio.co/kEQbwm",
+        "label": "Tommy Hilfiger"
+      },
+      {
+        "url": "https://ajiio.co/tXHw2u",
+        "label": "Steve Madden"
+      },
+      {
+        "url": "https://ajiio.co/ETvOBC",
+        "label": "Gant"
+      },
+      {
+        "url": "",
+        "label": "Extra 10% Ajio Cashback On Every Order (100% Usable)"
+      }
+    ],
+    "raw_text": "Ajio Crazy Deals Min 50% Off On Top Brands\n\n• GAS : https://ajiio.co/0ptrAI\n• Gap : https://ajiio.co/FpuIMb    \n• Superdry : https://ajiio.co/p1myvw\n• Tommy Hilfiger : https://ajiio.co/kEQbwm  \n• Steve Madden : https://ajiio.co/tXHw2u\n• Gant : https://ajiio.co/ETvOBC\n\nExtra 10% Ajio Cashback On Every Order (100% Usable)",
+    "final_url": "https://ajiio.co/0ptrAI",
+    "local_image": "assets/images/tgmsg_23412.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-07T17:01:43+00:00",
+    "buy_link": "https://ajiio.co/0ptrAI",
+    "date_iso": "2026-01-07T17:01:43+00:00"
+  },
+  {
     "id": "msg23410",
     "title": "+ 10% EXTRA CASH",
     "description": "Ajio | Branded Sunglasses Starts At Rs.490 👉Link : https://ajiio.co/mRbG2u + 10% EXTRA AJIO CASH",
@@ -9058,37 +9102,5 @@
     "date_obj": "2025-12-31T13:37:16+00:00",
     "buy_link": "https://extp.in/hUMeug",
     "date_iso": "2025-12-31T13:37:16+00:00"
-  },
-  {
-    "id": "msg22881",
-    "title": "99 Deal Store",
-    "description": "- Myntra Home !!! Master Link !! Doormats and Bath rugs Flat 99 !!! Storage Organizers Flat 99 !!! Kitchen Deals Flat 99 !!!",
-    "shortlink": "https://myntr.in/hGz7X3",
-    "urls": [
-      {
-        "url": "https://myntr.in/hGz7X3",
-        "label": "Myntra Home !!!"
-      },
-      {
-        "url": "https://myntr.in/Cy96eA",
-        "label": "Doormats and Bath rugs Flat 99 !!!"
-      },
-      {
-        "url": "https://myntr.in/GRW83z",
-        "label": "Storage Organizers Flat 99 !!!"
-      },
-      {
-        "url": "https://myntr.in/Ueb4QB",
-        "label": "Kitchen Deals Flat 99 !!!"
-      }
-    ],
-    "raw_text": "99 Deal Store - Myntra Home !!!\n\nMaster Link !! \nhttps://myntr.in/hGz7X3\n\nDoormats and Bath rugs Flat 99 !!!\nhttps://myntr.in/Cy96eA\n\nStorage Organizers Flat 99 !!!\nhttps://myntr.in/GRW83z\n\nKitchen Deals Flat 99 !!!\nhttps://myntr.in/Ueb4QB",
-    "final_url": "https://myntr.in/hGz7X3",
-    "local_image": "assets/images/tgmsg_22881.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2025-12-31T13:46:27+00:00",
-    "buy_link": "https://myntr.in/hGz7X3",
-    "date_iso": "2025-12-31T13:46:27+00:00"
   }
 ]
