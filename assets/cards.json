@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg23410",
+    "title": "+ 10% EXTRA CASH",
+    "description": "Ajio | Branded Sunglasses Starts At Rs.490 👉Link : https://ajiio.co/mRbG2u + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/mRbG2u",
+    "urls": [
+      {
+        "url": "https://ajiio.co/mRbG2u",
+        "label": "Branded Sunglasses Starts At Rs.490"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "Ajio | Branded Sunglasses Starts At Rs.490\n \n👉Link : https://ajiio.co/mRbG2u\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/mRbG2u",
+    "local_image": "assets/images/tgmsg_23410.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-07T16:01:59+00:00",
+    "buy_link": "https://ajiio.co/mRbG2u",
+    "date_iso": "2026-01-07T16:01:59+00:00"
+  },
+  {
     "id": "msg23407",
     "title": "Men's Footwear Starts at ₹99",
     "description": "AJIO:  Men's Footwear Starts at ₹99 👉https://ajiio.co/ivkOBW Sports Shoes : https://ajiio.co/gmPfTL Casual Shoes : https://ajiio.co/nysIKx Sandals : https://ajiio.co/IugERk",
@@ -9066,41 +9090,5 @@
     "date_obj": "2025-12-31T13:46:27+00:00",
     "buy_link": "https://myntr.in/hGz7X3",
     "date_iso": "2025-12-31T13:46:27+00:00"
-  },
-  {
-    "id": "msg22874",
-    "title": "✅ Use Code DHANVARSHA2 (2% off up to ₹2,000)",
-    "description": "AJIO: 24K (995) 3gm Vedhani @ ₹13,476/gm Market ₹13,750/gm ✅ Use Code : DHANVARSHA2 (2% off up to ₹2,000) 🔗 Link : • ₹1,500 Prepaid OFF OR ₹1,750 UPI OFF • Extra 3% GST Invoice benefit (with GSTIN)",
-    "shortlink": "https://ajiio.co/SzT3ou",
-    "urls": [
-      {
-        "url": "",
-        "label": "24K (995) 3gm Vedhani @ ₹13,476/gm"
-      },
-      {
-        "url": "",
-        "label": "Market ₹13,750/gm"
-      },
-      {
-        "url": "https://ajiio.co/SzT3ou",
-        "label": "✅ Use Code : DHANVARSHA2 (2% off up to ₹2,000)"
-      },
-      {
-        "url": "",
-        "label": "₹1,500 Prepaid OFF OR ₹1,750 UPI OFF"
-      },
-      {
-        "url": "",
-        "label": "Extra 3% GST Invoice benefit (with GSTIN)"
-      }
-    ],
-    "raw_text": "AJIO: 24K (995) 3gm Vedhani @ ₹13,476/gm\nMarket ₹13,750/gm\n\n✅ Use Code : DHANVARSHA2 (2% off up to ₹2,000)\n\n🔗 Link : https://ajiio.co/SzT3ou\n\n• ₹1,500 Prepaid OFF OR ₹1,750 UPI OFF\n\n• Extra 3% GST Invoice benefit (with GSTIN)",
-    "final_url": "https://ajiio.co/SzT3ou",
-    "local_image": "assets/images/tgmsg_22874.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2025-12-31T12:49:48+00:00",
-    "buy_link": "https://ajiio.co/SzT3ou",
-    "date_iso": "2025-12-31T12:49:48+00:00"
   }
 ]
