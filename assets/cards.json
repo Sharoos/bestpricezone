@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23521",
+    "title": "Yatra x Woohoo Get ₹1000 Yatra HOTEL Gift Card @49",
+    "description": "Loot : Yatra x Woohoo | Get ₹1000 Yatra HOTEL Gift Card @49 Link : Apply Coupon : FLAT49 Note : EGV is Valid for booking of Domestic Hotels Only.",
+    "shortlink": "https://bitli.in/xRjHMnS",
+    "urls": [
+      {
+        "url": "https://bitli.in/xRjHMnS",
+        "label": "Yatra x Woohoo | Get ₹1000 Yatra HOTEL Gift Card @49"
+      }
+    ],
+    "raw_text": "Loot : Yatra x Woohoo | Get ₹1000 Yatra HOTEL Gift Card @49\n \nLink : https://bitli.in/xRjHMnS\n \nApply Coupon : FLAT49\n \nNote : EGV is Valid for booking of Domestic Hotels Only.",
+    "final_url": "https://bitli.in/xRjHMnS",
+    "local_image": "assets/images/tgmsg_23521.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2026-01-08T15:05:04+00:00",
+    "buy_link": "https://bitli.in/xRjHMnS",
+    "date_iso": "2026-01-08T15:05:04+00:00"
+  },
+  {
     "id": "msg23508",
     "title": "Tripods – Starting at just ₹186",
     "description": "Flipkart | GRAB 💥💥 Tripods – Starting at just ₹186 🔗 https://fkrt.co/g3g3L1",
@@ -9362,33 +9382,5 @@
     "date_obj": "2026-01-02T05:34:55+00:00",
     "buy_link": "https://fkrt.co/CoSh6s",
     "date_iso": "2026-01-02T05:34:55+00:00"
-  },
-  {
-    "id": "msg22975",
-    "title": "John Jacobs Min 60% Off🔥",
-    "description": "Myntra | ⏰ Limited Time Deal ⏰ John Jacobs Min 60% Off🔥 👉 https://myntr.in/eonQGG Vincent Chase Under 799 🔥 👉 https://myntr.in/Omvvx1",
-    "shortlink": "https://myntr.in/eonQGG",
-    "urls": [
-      {
-        "url": "",
-        "label": "⏰ Limited Time Deal ⏰"
-      },
-      {
-        "url": "https://myntr.in/eonQGG",
-        "label": "John Jacobs Min 60% Off🔥"
-      },
-      {
-        "url": "https://myntr.in/Omvvx1",
-        "label": "Vincent Chase Under 799 🔥"
-      }
-    ],
-    "raw_text": "Myntra | ⏰ Limited Time Deal ⏰\n\nJohn Jacobs Min 60% Off🔥\n👉 https://myntr.in/eonQGG\n\nVincent Chase Under 799 🔥\n👉 https://myntr.in/Omvvx1",
-    "final_url": "https://myntr.in/eonQGG",
-    "local_image": "assets/images/tgmsg_22975.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-02T04:20:57+00:00",
-    "buy_link": "https://myntr.in/eonQGG",
-    "date_iso": "2026-01-02T04:20:57+00:00"
   }
 ]
