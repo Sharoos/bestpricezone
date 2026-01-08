@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg23448",
+    "title": "Up to 70% Off On Hair Care",
+    "description": "Myntra : Upto 70% Off On Hair Care. Dove : Tresemme : LOréal Paris : Pantene : Head & Shoulders : Patanjali : Clinic Plus :",
+    "shortlink": "https://myntr.in/yEaIn9",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70% Off On Hair Care"
+      },
+      {
+        "url": "https://myntr.in/yEaIn9",
+        "label": "Dove"
+      },
+      {
+        "url": "https://myntr.in/7g6UVa",
+        "label": "Tresemme"
+      },
+      {
+        "url": "https://myntr.in/hU1pV7",
+        "label": "LOréal Paris"
+      },
+      {
+        "url": "https://myntr.in/3L4lAE",
+        "label": "Pantene"
+      },
+      {
+        "url": "https://myntr.in/8XXpc0",
+        "label": "Head & Shoulders"
+      },
+      {
+        "url": "https://myntr.in/hID8U4",
+        "label": "Patanjali"
+      },
+      {
+        "url": "https://myntr.in/oQSg8s",
+        "label": "Clinic Plus"
+      }
+    ],
+    "raw_text": "Myntra : Upto 70% Off On Hair Care.\n\nDove : https://myntr.in/yEaIn9\nTresemme : https://myntr.in/7g6UVa\nLOréal Paris : https://myntr.in/hU1pV7\nPantene : https://myntr.in/3L4lAE\nHead & Shoulders : https://myntr.in/8XXpc0\nPatanjali : https://myntr.in/hID8U4\nClinic Plus : https://myntr.in/oQSg8s",
+    "final_url": "https://myntr.in/yEaIn9",
+    "local_image": "assets/images/tgmsg_23448.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-08T03:13:55+00:00",
+    "buy_link": "https://myntr.in/yEaIn9",
+    "date_iso": "2026-01-08T03:13:55+00:00"
+  },
+  {
     "id": "msg23445",
     "title": "Shoe Racks Starts At Rs.499",
     "description": "Flipkart | Shoe Racks Starts At Rs.499 https://fkrt.co/Rwymz2",
@@ -9174,25 +9222,5 @@
     "date_obj": "2025-12-31T18:37:49+00:00",
     "buy_link": "https://fkrt.co/FPfhBa",
     "date_iso": "2025-12-31T18:37:49+00:00"
-  },
-  {
-    "id": "msg22901",
-    "title": "Apply ₹1500 off + ₹6000 off with ICICI Bank Debit Card",
-    "description": "Amazon | Samsung 8 kg Fully-Automatic Front Load Washing Machine @26990. Apply ₹1500 off Coupon + ₹6000 off with ICICI Bank Debit Card",
-    "shortlink": "https://www.amazon.in/dp/B0CPJG92ZS?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CPJG92ZS?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Samsung 8 kg Fully-Automatic Front Load Washing Machine @26990"
-      }
-    ],
-    "raw_text": "Amazon | Samsung 8 kg Fully-Automatic Front Load Washing Machine @26990.\n\nhttps://www.amazon.in/dp/B0CPJG92ZS?th=1&psc=1&tag=bestpricezo0f-21\n\nApply ₹1500 off Coupon + ₹6000 off with ICICI Bank Debit Card",
-    "final_url": "https://www.amazon.in/dp/B0CPJG92ZS?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_22901.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2025-12-31T18:41:57+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CPJG92ZS?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2025-12-31T18:41:57+00:00"
   }
 ]
