@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg23470",
+    "title": "Min 50% off on Carpets and Rug",
+    "description": "Myntra | Winter Offers - Blankets at min 70% Off 🔗 Min 60% off on Winter Bedsheets 🔗 Min 70% off on Doormats 🔗 s 🔗",
+    "shortlink": "https://myntr.in/oOKBw6",
+    "urls": [
+      {
+        "url": "",
+        "label": "Winter Offers"
+      },
+      {
+        "url": "https://myntr.in/oOKBw6",
+        "label": "Blankets at min 70% Off"
+      },
+      {
+        "url": "https://myntr.in/IrKL2X",
+        "label": "Min 60% off on Winter Bedsheets"
+      },
+      {
+        "url": "https://myntr.in/v68vY3",
+        "label": "Min 70% off on Doormats"
+      },
+      {
+        "url": "https://myntr.in/JuA8LA",
+        "label": "Min 50% off on Carpets and Rugs"
+      }
+    ],
+    "raw_text": "Myntra | Winter Offers - \nBlankets at min 70% Off\n🔗https://myntr.in/oOKBw6\n\nMin 60% off on Winter Bedsheets\n🔗https://myntr.in/IrKL2X\n\nMin 70% off on Doormats\n🔗https://myntr.in/v68vY3\n\nMin 50% off on Carpets and Rugs\n🔗https://myntr.in/JuA8LA",
+    "final_url": "https://myntr.in/oOKBw6",
+    "local_image": "assets/images/tgmsg_23470.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-08T07:31:36+00:00",
+    "buy_link": "https://myntr.in/oOKBw6",
+    "date_iso": "2026-01-08T07:31:36+00:00"
+  },
+  {
     "id": "msg23468",
     "title": "✅ Minimum 65% OFF",
     "description": "FLIPKART TODAY’S TOP FASHION DEALS – DON’T MISS OUT! 🔥 👟 PUMA, ADIDAS & More Sports Shoes  👗 Trendy Kurtis Collection 💰 Under ₹299 👕 Snitch | The Bear House & More 🔥 Minimum 60% OFF",
@@ -9306,49 +9342,5 @@
     "date_obj": "2026-01-01T08:01:03+00:00",
     "buy_link": "https://ajiio.co/Pucobe",
     "date_iso": "2026-01-01T08:01:03+00:00"
-  },
-  {
-    "id": "msg22925",
-    "title": "Up to 85% Off On Branded Backpacks Starting @ ₹ 329",
-    "description": "Flipkart | Upto 85% Off On Branded Backpacks Starting @ ₹ 329 Skybags : Safari : Wildcraft : Gear : Lavie : American Tourister :",
-    "shortlink": "https://fkrt.co/vgGS1s",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On Branded Backpacks Starting @ ₹ 329"
-      },
-      {
-        "url": "https://fkrt.co/vgGS1s",
-        "label": "Skybags"
-      },
-      {
-        "url": "https://fkrt.co/iLHd5e",
-        "label": "Safari"
-      },
-      {
-        "url": "https://fkrt.co/INp5hm",
-        "label": "Wildcraft"
-      },
-      {
-        "url": "https://fkrt.co/N5L0Ze",
-        "label": "Gear"
-      },
-      {
-        "url": "https://fkrt.co/c8ftUP",
-        "label": "Lavie"
-      },
-      {
-        "url": "https://fkrt.co/lTz41g",
-        "label": "American Tourister"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 85% Off On Branded Backpacks Starting @ ₹ 329\n\nSkybags :https://fkrt.co/vgGS1s\nSafari :https://fkrt.co/iLHd5e \nWildcraft :https://fkrt.co/INp5hm\nGear :https://fkrt.co/N5L0Ze\nLavie :https://fkrt.co/c8ftUP\nAmerican Tourister :https://fkrt.co/lTz41g",
-    "final_url": "https://fkrt.co/vgGS1s",
-    "local_image": "assets/images/tgmsg_22925.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-01T07:45:57+00:00",
-    "buy_link": "https://fkrt.co/vgGS1s",
-    "date_iso": "2026-01-01T07:45:57+00:00"
   }
 ]
