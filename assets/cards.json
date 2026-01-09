@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23535",
+    "title": "75% Off on Deodorants & Perfume",
+    "description": "Flipkart  75% Off on Deodorants & Perfumes https://fkrt.co/UId9mn",
+    "shortlink": "https://fkrt.co/UId9mn",
+    "urls": [
+      {
+        "url": "https://fkrt.co/UId9mn",
+        "label": "Flipkart 75% Off on Deodorants & Perfumes"
+      }
+    ],
+    "raw_text": "Flipkart  75% Off on Deodorants & Perfumes\n\n  https://fkrt.co/UId9mn",
+    "final_url": "https://fkrt.co/UId9mn",
+    "local_image": "assets/images/tgmsg_23535.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-09T05:41:22+00:00",
+    "buy_link": "https://fkrt.co/UId9mn",
+    "date_iso": "2026-01-09T05:41:22+00:00"
+  },
+  {
     "id": "msg23532",
     "title": "Pack of 5 Socks @ ₹85",
     "description": "Myntra : Pack of 5 Socks @ ₹85 👉https://myntr.in/BGfk4I",
@@ -9298,25 +9318,5 @@
     "date_obj": "2026-01-02T06:05:58+00:00",
     "buy_link": "https://ajiio.co/8dQg8q",
     "date_iso": "2026-01-02T06:05:58+00:00"
-  },
-  {
-    "id": "msg22986",
-    "title": "Adofys Travel Pillow Premium Memory Foam @₹650",
-    "description": "Amazon | Adofys Travel Pillow Premium Memory Foam @₹650 👉Link : https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
-        "label": "Adofys Travel Pillow Premium Memory Foam @₹650"
-      }
-    ],
-    "raw_text": "Amazon | Adofys Travel Pillow Premium Memory Foam @₹650\n\n👉Link : https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_22986.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-02T06:26:53+00:00",
-    "buy_link": "https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2026-01-02T06:26:53+00:00"
   }
 ]
