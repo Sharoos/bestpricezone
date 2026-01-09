@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23560",
+    "title": "Murphy LED Outdoor Up/Down Wall Light",
+    "description": "Amazon | Murphy LED Outdoor Up/Down Wall Light - 6W @₹299 🔗 https://www.amazon.in/dp/B09VDMY158?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B09VDMY158?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B09VDMY158?tag=bestpricezo0f-21",
+        "label": "Murphy LED Outdoor Up/Down Wall Light - 6W @₹299"
+      }
+    ],
+    "raw_text": "Amazon | Murphy LED Outdoor Up/Down Wall Light - 6W @₹299\n\n🔗 https://www.amazon.in/dp/B09VDMY158?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B09VDMY158?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_23560.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-09T10:52:29+00:00",
+    "buy_link": "https://www.amazon.in/dp/B09VDMY158?tag=bestpricezo0f-21",
+    "date_iso": "2026-01-09T10:52:29+00:00"
+  },
+  {
     "id": "msg23558",
     "title": "✈️🏨 Holiday cheer is here — Get an EXTRA 15% OFF this Double Day Sale! 💙❄️",
     "description": "🎉 Agoda 12.12 Festive Sale is LIVE! 🎉  🔥 Why Book Now? ✨ Extra 15% OFF on hotels & stays ✨ Perfect time to plan your year-end or New Year trips ✨ Deals available across top destinations worldwide 💥 Limited-Time Festive…",
@@ -9258,29 +9278,5 @@
     "date_obj": "2026-01-02T10:46:15+00:00",
     "buy_link": "https://myntr.in/Z0s75Y",
     "date_iso": "2026-01-02T10:46:15+00:00"
-  },
-  {
-    "id": "msg23008",
-    "title": "Up to 75% Off On Styli Clothing",
-    "description": "Myntra | Upto 75% Off On Styli Clothing Men : https://myntr.in/oaM53w Women : https://myntr.in/z6Nsvl",
-    "shortlink": "https://myntr.in/oaM53w",
-    "urls": [
-      {
-        "url": "https://myntr.in/oaM53w",
-        "label": "Upto 75% Off On Styli Clothing"
-      },
-      {
-        "url": "https://myntr.in/z6Nsvl",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Myntra | Upto 75% Off On Styli Clothing\n\nMen : https://myntr.in/oaM53w\nWomen : https://myntr.in/z6Nsvl",
-    "final_url": "https://myntr.in/oaM53w",
-    "local_image": "assets/images/tgmsg_23008.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-02T10:19:46+00:00",
-    "buy_link": "https://myntr.in/oaM53w",
-    "date_iso": "2026-01-02T10:19:46+00:00"
   }
 ]
