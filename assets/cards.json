@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg23583",
+    "title": "Bath & Body works Up to 72%Off",
+    "description": "Myntra | Bath & Body works Upto 72%Off https://myntr.in/NToasW",
+    "shortlink": "https://myntr.in/NToasW",
+    "urls": [
+      {
+        "url": "https://myntr.in/NToasW",
+        "label": "Bath & Body works Upto 72%Off"
+      }
+    ],
+    "raw_text": "Myntra | Bath & Body works Upto 72%Off\n\nhttps://myntr.in/NToasW",
+    "final_url": "https://myntr.in/NToasW",
+    "local_image": "assets/images/tgmsg_23583.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-09T16:32:55+00:00",
+    "buy_link": "https://myntr.in/NToasW",
+    "date_iso": "2026-01-09T16:32:55+00:00"
+  },
+  {
+    "id": "msg23585",
+    "title": "Up to 60% Off On Head & Shoulder Shampoo",
+    "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos. https://fkrt.co/hTYFVt",
+    "shortlink": "https://fkrt.co/hTYFVt",
+    "urls": [
+      {
+        "url": "https://fkrt.co/hTYFVt",
+        "label": "Upto 60% Off On Head & Shoulder Shampoos"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos.\n\nhttps://fkrt.co/hTYFVt",
+    "final_url": "https://fkrt.co/hTYFVt",
+    "local_image": "assets/images/tgmsg_23585.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-09T16:46:32+00:00",
+    "buy_link": "https://fkrt.co/hTYFVt",
+    "date_iso": "2026-01-09T16:46:32+00:00"
+  },
+  {
     "id": "msg23581",
     "title": "🔥 CRAZY DEAL ALERT 🔥",
     "description": "Myntra 🔥 CRAZY DEAL ALERT 🔥 😷 Qubo Air Purifier 💰 Just ₹6,099 ONLY! ✅👉 Buy Now: https://myntr.in/SJZovT",
@@ -9238,53 +9278,5 @@
     "date_obj": "2026-01-02T12:29:12+00:00",
     "buy_link": "https://www.amazon.in/dp/B00MGFZEVW?tag=bestpricezo0f-21",
     "date_iso": "2026-01-02T12:29:12+00:00"
-  },
-  {
-    "id": "msg23024",
-    "title": "Up to 78% Off",
-    "description": "Flipkart | Upto 78% Off - Snitch Men's Shirts Starting From @Rs.380 🔗  https://fkrt.co/7W3uYv",
-    "shortlink": "https://fkrt.co/7W3uYv",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 78% Off - Snitch Men's Shirts"
-      },
-      {
-        "url": "https://fkrt.co/7W3uYv",
-        "label": "Starting From @Rs.380"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 78% Off - Snitch Men's Shirts \n\nStarting From @Rs.380\n\n🔗  https://fkrt.co/7W3uYv",
-    "final_url": "https://fkrt.co/7W3uYv",
-    "local_image": "assets/images/tgmsg_23024.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-02T12:45:20+00:00",
-    "buy_link": "https://fkrt.co/7W3uYv",
-    "date_iso": "2026-01-02T12:45:20+00:00"
-  },
-  {
-    "id": "msg23025",
-    "title": "Being human Min 65%",
-    "description": "Ajio | Monte Carlo- Min 30% https://ajiio.co/XSJGfX Being human Min 65% https://ajiio.co/EDtX6L",
-    "shortlink": "https://ajiio.co/XSJGfX",
-    "urls": [
-      {
-        "url": "https://ajiio.co/XSJGfX",
-        "label": "Monte Carlo- Min 30%"
-      },
-      {
-        "url": "https://ajiio.co/EDtX6L",
-        "label": "Being human Min 65%"
-      }
-    ],
-    "raw_text": "Ajio | Monte Carlo- Min 30%\nhttps://ajiio.co/XSJGfX\n\nBeing human Min 65%\nhttps://ajiio.co/EDtX6L",
-    "final_url": "https://ajiio.co/XSJGfX",
-    "local_image": "assets/images/tgmsg_23025.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-02T13:03:06+00:00",
-    "buy_link": "https://ajiio.co/XSJGfX",
-    "date_iso": "2026-01-02T13:03:06+00:00"
   }
 ]
