@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg23581",
+    "title": "🔥 CRAZY DEAL ALERT 🔥",
+    "description": "Myntra 🔥 CRAZY DEAL ALERT 🔥 😷 Qubo Air Purifier 💰 Just ₹6,099 ONLY! ✅👉 Buy Now: https://myntr.in/SJZovT",
+    "shortlink": "https://myntr.in/SJZovT",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra 🔥 CRAZY DEAL ALERT 🔥"
+      },
+      {
+        "url": "",
+        "label": "😷 Qubo Air Purifier"
+      },
+      {
+        "url": "https://myntr.in/SJZovT",
+        "label": "💰 Just ₹6,099 ONLY!"
+      }
+    ],
+    "raw_text": "Myntra 🔥 CRAZY DEAL ALERT 🔥\n😷 Qubo Air Purifier\n💰 Just ₹6,099 ONLY!\n\n✅👉 Buy Now: https://myntr.in/SJZovT",
+    "final_url": "https://myntr.in/SJZovT",
+    "local_image": "assets/images/tgmsg_23581.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-09T16:11:54+00:00",
+    "buy_link": "https://myntr.in/SJZovT",
+    "date_iso": "2026-01-09T16:11:54+00:00"
+  },
+  {
     "id": "msg23577",
     "title": "Low Forex Charges Only 1.5%Markup",
     "description": "BEST : Lifetime Free IndusInd Tiger Credit Card. Benefits👇. •0₹ Joining & Annual Fee. •8 Domestic & 2 International Lounge Excess. •1% Surcharge Waiver On Fuel Transaction Between ₹400-4000. •Low Forex Charges | Only…",
@@ -9258,29 +9286,5 @@
     "date_obj": "2026-01-02T13:03:06+00:00",
     "buy_link": "https://ajiio.co/XSJGfX",
     "date_iso": "2026-01-02T13:03:06+00:00"
-  },
-  {
-    "id": "msg23019",
-    "title": "🔥Havells 5L Instant Geyser at ₹3704",
-    "description": "Amazon | 🔥Havells 5L Instant Geyser at ₹3704 👉https://www.amazon.in/dp/B0FBLWPTN3?th=1&tag=bestpricezo0f-21 🔥Crompton 5L Instant Geyser at ₹3399 👉https://www.amazon.in/dp/B0FGXLWKC8?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FBLWPTN3?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FBLWPTN3?th=1&tag=bestpricezo0f-21",
-        "label": "🔥Havells 5L Instant Geyser at ₹3704"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0FGXLWKC8?th=1&tag=bestpricezo0f-21",
-        "label": "🔥Crompton 5L Instant Geyser at ₹3399"
-      }
-    ],
-    "raw_text": "Amazon | 🔥Havells 5L Instant Geyser at ₹3704\n👉https://www.amazon.in/dp/B0FBLWPTN3?th=1&tag=bestpricezo0f-21\n\n🔥Crompton 5L Instant Geyser at ₹3399\n👉https://www.amazon.in/dp/B0FGXLWKC8?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FBLWPTN3?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_23019.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-02T12:03:22+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FBLWPTN3?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-01-02T12:03:22+00:00"
   }
 ]
