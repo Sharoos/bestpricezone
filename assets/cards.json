@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23532",
+    "title": "Pack of 5 Socks @ ₹85",
+    "description": "Myntra : Pack of 5 Socks @ ₹85 👉https://myntr.in/BGfk4I",
+    "shortlink": "https://myntr.in/BGfk4I",
+    "urls": [
+      {
+        "url": "https://myntr.in/BGfk4I",
+        "label": "Pack of 5 Socks @ ₹85"
+      }
+    ],
+    "raw_text": "Myntra : Pack of 5 Socks @ ₹85\n\n👉https://myntr.in/BGfk4I",
+    "final_url": "https://myntr.in/BGfk4I",
+    "local_image": "assets/images/tgmsg_23532.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-09T05:13:09+00:00",
+    "buy_link": "https://myntr.in/BGfk4I",
+    "date_iso": "2026-01-09T05:13:09+00:00"
+  },
+  {
     "id": "msg23529",
     "title": "Up to 76% OFF",
     "description": "🔥Myntra | 👕 Snitch Men's Clothing - Up to 76% OFF https://myntr.in/Y6dVus",
@@ -9298,25 +9318,5 @@
     "date_obj": "2026-01-02T06:26:53+00:00",
     "buy_link": "https://www.amazon.in/gp/product/B07WCZM3LN?th=1&language=en_IN&tag=bestpricezo0f-21",
     "date_iso": "2026-01-02T06:26:53+00:00"
-  },
-  {
-    "id": "msg22987",
-    "title": "Up to 60% Off On Park Avenue Soap",
-    "description": "Myntra : Upto 60% Off On Park Avenue Soaps. https://myntr.in/9Kv41q",
-    "shortlink": "https://myntr.in/9Kv41q",
-    "urls": [
-      {
-        "url": "https://myntr.in/9Kv41q",
-        "label": "Upto 60% Off On Park Avenue Soaps"
-      }
-    ],
-    "raw_text": "Myntra : Upto 60% Off On Park Avenue Soaps.\n\nhttps://myntr.in/9Kv41q",
-    "final_url": "https://myntr.in/9Kv41q",
-    "local_image": "assets/images/tgmsg_22987.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-02T06:41:19+00:00",
-    "buy_link": "https://myntr.in/9Kv41q",
-    "date_iso": "2026-01-02T06:41:19+00:00"
   }
 ]
