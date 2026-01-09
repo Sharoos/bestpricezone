@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg23528",
+    "title": "Up to 80% Off On Ducati Men's Shoe",
+    "description": "Flipkart | Upto 80% Off On Ducati Men's Shoe. Upto 86% Off On HRX Shoes. Men's : Women's :",
+    "shortlink": "https://fkrt.co/FFkLYA",
+    "urls": [
+      {
+        "url": "https://fkrt.co/FFkLYA",
+        "label": "Upto 80% Off On Ducati Men's Shoe"
+      },
+      {
+        "url": "",
+        "label": "Upto 86% Off On HRX Shoes"
+      },
+      {
+        "url": "https://fkrt.co/UJen9J",
+        "label": "Men's"
+      },
+      {
+        "url": "https://fkrt.co/9FNZMM",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 80% Off On Ducati Men's Shoe.\n\nhttps://fkrt.co/FFkLYA\n\nUpto 86% Off On HRX Shoes. \n\nMen's : https://fkrt.co/UJen9J\nWomen's : https://fkrt.co/9FNZMM",
+    "final_url": "https://fkrt.co/FFkLYA",
+    "local_image": "assets/images/tgmsg_23528.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-09T04:00:10+00:00",
+    "buy_link": "https://fkrt.co/FFkLYA",
+    "date_iso": "2026-01-09T04:00:10+00:00"
+  },
+  {
     "id": "msg23521",
     "title": "Yatra x Woohoo Get ₹1000 Yatra HOTEL Gift Card @49",
     "description": "Loot : Yatra x Woohoo | Get ₹1000 Yatra HOTEL Gift Card @49 Link : Apply Coupon : FLAT49 Note : EGV is Valid for booking of Domestic Hotels Only.",
@@ -9350,37 +9382,5 @@
     "date_obj": "2026-01-02T05:51:03+00:00",
     "buy_link": "https://ajiio.co/B3Vdzr",
     "date_iso": "2026-01-02T05:51:03+00:00"
-  },
-  {
-    "id": "msg22980",
-    "title": "Men's Jeans Starting From 299",
-    "description": "Flipkart On Men's Fashion 🔥🔥 Trackpants, Shorts Under 499 👉 Casual Shirts Under 499 👉  👉",
-    "shortlink": "https://fkrt.co/CoSh6s",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart On Men's Fashion 🔥🔥"
-      },
-      {
-        "url": "https://fkrt.co/CoSh6s",
-        "label": "Trackpants, Shorts Under 499"
-      },
-      {
-        "url": "https://fkrt.co/hkRgQJ",
-        "label": "Casual Shirts Under 499"
-      },
-      {
-        "url": "https://fkrt.co/CmjAjq",
-        "label": "Men's Jeans Starting From 299"
-      }
-    ],
-    "raw_text": "Flipkart  On Men's Fashion 🔥🔥\n\nTrackpants, Shorts Under 499\n👉https://fkrt.co/CoSh6s\n\nCasual Shirts Under 499\n👉https://fkrt.co/hkRgQJ\n\nMen's Jeans Starting From 299\n👉https://fkrt.co/CmjAjq",
-    "final_url": "https://fkrt.co/CoSh6s",
-    "local_image": "assets/images/tgmsg_22980.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-02T05:34:55+00:00",
-    "buy_link": "https://fkrt.co/CoSh6s",
-    "date_iso": "2026-01-02T05:34:55+00:00"
   }
 ]
