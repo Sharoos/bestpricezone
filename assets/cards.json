@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg23540",
+    "title": "Men’s Sports Shoes up to 94% off",
+    "description": "Men’s Sports Shoes up to 94% off https://fktr.in/aJ2efuj",
+    "shortlink": "https://fktr.in/aJ2efuj",
+    "urls": [
+      {
+        "url": "https://fktr.in/aJ2efuj",
+        "label": "Men’s Sports Shoes up to 94% off"
+      }
+    ],
+    "raw_text": "Men’s Sports Shoes up to 94% off\n\nhttps://fktr.in/aJ2efuj",
+    "final_url": "https://fktr.in/aJ2efuj",
+    "local_image": "assets/images/tgmsg_23540.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-09T06:49:07+00:00",
+    "buy_link": "https://fktr.in/aJ2efuj",
+    "date_iso": "2026-01-09T06:49:07+00:00"
+  },
+  {
+    "id": "msg23542",
+    "title": "Killer Shoes Up to 91% off",
+    "description": "Loot Killer Shoes Upto 91% off https://fktr.in/QGESfkG",
+    "shortlink": "https://fktr.in/QGESfkG",
+    "urls": [
+      {
+        "url": "https://fktr.in/QGESfkG",
+        "label": "Loot Killer Shoes Upto 91% off"
+      }
+    ],
+    "raw_text": "Loot Killer Shoes Upto 91% off\n\nhttps://fktr.in/QGESfkG",
+    "final_url": "https://fktr.in/QGESfkG",
+    "local_image": "assets/images/tgmsg_23542.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-09T06:55:38+00:00",
+    "buy_link": "https://fktr.in/QGESfkG",
+    "date_iso": "2026-01-09T06:55:38+00:00"
+  },
+  {
     "id": "msg23536",
     "title": "Stepupp Grow Kids Tricycles From ₹887",
     "description": "Flipkart | Stepupp Grow Kids Tricycles From ₹887 👉 https://fkrt.co/a2axNK",
@@ -9250,69 +9290,5 @@
     "date_obj": "2026-01-02T08:33:51+00:00",
     "buy_link": "https://extp.in/dM2Wad/",
     "date_iso": "2026-01-02T08:33:51+00:00"
-  },
-  {
-    "id": "msg22994",
-    "title": "Up to 85% Off On Branded Backpacks Starting @ ₹ 329",
-    "description": "Flipkart | Upto 85% Off On Branded Backpacks Starting @ ₹ 329 Skybags : Safari : Wildcraft : Gear : Lavie : American Tourister :",
-    "shortlink": "https://fkrt.co/S3No0k",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On Branded Backpacks Starting @ ₹ 329"
-      },
-      {
-        "url": "https://fkrt.co/S3No0k",
-        "label": "Skybags"
-      },
-      {
-        "url": "https://fkrt.co/ACC5jH",
-        "label": "Safari"
-      },
-      {
-        "url": "https://fkrt.co/LfzKv1",
-        "label": "Wildcraft"
-      },
-      {
-        "url": "https://fkrt.co/W4MInS",
-        "label": "Gear"
-      },
-      {
-        "url": "https://fkrt.co/yFfUZe",
-        "label": "Lavie"
-      },
-      {
-        "url": "https://fkrt.co/EhCYza",
-        "label": "American Tourister"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 85% Off On Branded Backpacks Starting @ ₹ 329\n\nSkybags :https://fkrt.co/S3No0k\nSafari :https://fkrt.co/ACC5jH \nWildcraft :https://fkrt.co/LfzKv1\nGear :https://fkrt.co/W4MInS\nLavie :https://fkrt.co/yFfUZe\nAmerican Tourister :https://fkrt.co/EhCYza",
-    "final_url": "https://fkrt.co/S3No0k",
-    "local_image": "assets/images/tgmsg_22994.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-02T07:56:00+00:00",
-    "buy_link": "https://fkrt.co/S3No0k",
-    "date_iso": "2026-01-02T07:56:00+00:00"
-  },
-  {
-    "id": "msg22988",
-    "title": "Highlander Men's Cargos Up to 77% off",
-    "description": "Flipkart | Highlander Men's Cargos upto 77% off 👉https://fkrt.co/KcRixo",
-    "shortlink": "https://fkrt.co/KcRixo",
-    "urls": [
-      {
-        "url": "https://fkrt.co/KcRixo",
-        "label": "Highlander Men's Cargos upto 77% off"
-      }
-    ],
-    "raw_text": "Flipkart | Highlander Men's Cargos upto 77% off\n\n👉https://fkrt.co/KcRixo",
-    "final_url": "https://fkrt.co/KcRixo",
-    "local_image": "assets/images/tgmsg_22988.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-02T06:51:08+00:00",
-    "buy_link": "https://fkrt.co/KcRixo",
-    "date_iso": "2026-01-02T06:51:08+00:00"
   }
 ]
