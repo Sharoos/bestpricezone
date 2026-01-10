@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg23609",
+    "title": "Up to 75% Off On Priority Bag",
+    "description": "AJIO : Upto 75% Off On Priority Bags. 👉Link : https://ajiio.co/zr3Vgx Many Options Available*",
+    "shortlink": "https://ajiio.co/zr3Vgx",
+    "urls": [
+      {
+        "url": "https://ajiio.co/zr3Vgx",
+        "label": "Upto 75% Off On Priority Bags"
+      },
+      {
+        "url": "",
+        "label": "Many Options Available*"
+      }
+    ],
+    "raw_text": "AJIO : Upto 75% Off On Priority Bags. \n\n👉Link : https://ajiio.co/zr3Vgx \n\nMany Options Available*",
+    "final_url": "https://ajiio.co/zr3Vgx",
+    "local_image": "assets/images/tgmsg_23609.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-10T09:46:47+00:00",
+    "buy_link": "https://ajiio.co/zr3Vgx",
+    "date_iso": "2026-01-10T09:46:47+00:00"
+  },
+  {
     "id": "msg23607",
     "title": "🔥 DEAL OF THE DAY 🔥",
     "description": "🛒 FLIPKART GROCERY – EVERYDAY ESSENTIALS 🛒 🔗EVERYDAY ESSENTIALS: https://fkrt.co/MfWJyv 🔥 DEAL OF THE DAY 🔥 https://fkrt.co/KxrJOk",
@@ -9426,25 +9450,5 @@
     "date_obj": "2026-01-02T17:05:33+00:00",
     "buy_link": "https://fkrt.co/zyhbuU",
     "date_iso": "2026-01-02T17:05:33+00:00"
-  },
-  {
-    "id": "msg23043",
-    "title": "Oversized and Dressess Up to 80% Off",
-    "description": "Flipkart | Oversized and Dressess Upto 80% Off 🔗Link : https://fkrt.co/VK5DZr",
-    "shortlink": "https://fkrt.co/VK5DZr",
-    "urls": [
-      {
-        "url": "https://fkrt.co/VK5DZr",
-        "label": "Oversized and Dressess Upto 80% Off"
-      }
-    ],
-    "raw_text": "Flipkart | Oversized and Dressess Upto 80% Off \n\n🔗Link : https://fkrt.co/VK5DZr",
-    "final_url": "https://fkrt.co/VK5DZr",
-    "local_image": "assets/images/tgmsg_23043.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-02T16:31:03+00:00",
-    "buy_link": "https://fkrt.co/VK5DZr",
-    "date_iso": "2026-01-02T16:31:03+00:00"
   }
 ]
