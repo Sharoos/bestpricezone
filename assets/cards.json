@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg23653",
+    "title": "Shopsy 🔥 Men's Avengers Hoodie at ₹248",
+    "description": "Shopsy | 🔥  Men's Avengers Hoodie at ₹248 🔗 https://extp.in/Tjmk3i 🔗 https://extp.in/uOWOcG",
+    "shortlink": "https://extp.in/Tjmk3i",
+    "urls": [
+      {
+        "url": "https://extp.in/Tjmk3i",
+        "label": "🔥 Men's Avengers Hoodie at ₹248"
+      },
+      {
+        "url": "https://extp.in/uOWOcG",
+        "label": "🔥 Men's Avengers Hoodie at ₹248"
+      }
+    ],
+    "raw_text": "Shopsy | 🔥  Men's Avengers Hoodie at ₹248\n\n🔗 https://extp.in/Tjmk3i\n🔗 https://extp.in/uOWOcG",
+    "final_url": "https://extp.in/Tjmk3i",
+    "local_image": "assets/images/tgmsg_23653.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-01-10T17:01:57+00:00",
+    "buy_link": "https://extp.in/Tjmk3i",
+    "date_iso": "2026-01-10T17:01:57+00:00"
+  },
+  {
     "id": "msg23651",
     "title": "HORNBULL Denial Navy Leather Wallet for Men",
     "description": "Amazon | HORNBULL Denial Navy Leather Wallet for Men ₹439 🔗 https://www.amazon.in/dp/B085LFPKQB/ref=cm_sw_r_as_gl_apa_gl_i_dl_ACXNTDBGT5X2R14ZBTFC?tag=bestpricezo0f-21",
@@ -9494,25 +9518,5 @@
     "date_obj": "2026-01-03T04:25:39+00:00",
     "buy_link": "https://ajiio.co/EAuYPp",
     "date_iso": "2026-01-03T04:25:39+00:00"
-  },
-  {
-    "id": "msg23085",
-    "title": "🔥Oneplus Trimmers at ₹588",
-    "description": "🔥Flipkart | Oneplus Trimmers at ₹588 https://fkrt.co/iKr1XE",
-    "shortlink": "https://fkrt.co/iKr1XE",
-    "urls": [
-      {
-        "url": "https://fkrt.co/iKr1XE",
-        "label": "🔥Flipkart | Oneplus Trimmers at ₹588"
-      }
-    ],
-    "raw_text": "🔥Flipkart | Oneplus Trimmers at ₹588\n\nhttps://fkrt.co/iKr1XE",
-    "final_url": "https://fkrt.co/iKr1XE",
-    "local_image": "assets/images/tgmsg_23085.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-03T04:40:54+00:00",
-    "buy_link": "https://fkrt.co/iKr1XE",
-    "date_iso": "2026-01-03T04:40:54+00:00"
   }
 ]
