@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg23641",
+    "title": "\"Branded Polos Under 599\"",
+    "description": "Flipkart | \"Branded Polos Under 599\" https://fkrt.co/S7xrau \"Branded Shirts Under 749\" https://fkrt.co/omNhtD \"Branded Formalwear under 849\" https://fkrt.co/fL1rdZ",
+    "shortlink": "https://fkrt.co/S7xrau",
+    "urls": [
+      {
+        "url": "https://fkrt.co/S7xrau",
+        "label": "\"Branded Polos Under 599\""
+      },
+      {
+        "url": "https://fkrt.co/omNhtD",
+        "label": "\"Branded Shirts Under 749\""
+      },
+      {
+        "url": "https://fkrt.co/fL1rdZ",
+        "label": "\"Branded Formalwear under 849\""
+      }
+    ],
+    "raw_text": "Flipkart | \"Branded Polos Under 599\"\nhttps://fkrt.co/S7xrau\n\n\"Branded Shirts Under 749\"\nhttps://fkrt.co/omNhtD\n\n\"Branded Formalwear under 849\"\nhttps://fkrt.co/fL1rdZ",
+    "final_url": "https://fkrt.co/S7xrau",
+    "local_image": "assets/images/tgmsg_23641.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-10T15:33:32+00:00",
+    "buy_link": "https://fkrt.co/S7xrau",
+    "date_iso": "2026-01-10T15:33:32+00:00"
+  },
+  {
     "id": "msg23637",
     "title": "Skechers Min 55% Off",
     "description": "Flipkart | Skechers Min 55% Off https://fkrt.co/5aLJ44 ADIDAS Min 60% Off https://fkrt.co/ABoBbn New Balance Min 50% Off https://fkrt.co/MC6XPa",
@@ -9506,25 +9534,5 @@
     "date_obj": "2026-01-03T03:55:46+00:00",
     "buy_link": "https://myntr.in/szVwsx",
     "date_iso": "2026-01-03T03:55:46+00:00"
-  },
-  {
-    "id": "msg23077",
-    "title": "Voltas 1000 W Dry Iron @425",
-    "description": "Flipkart | Voltas 1000 W Dry Iron  @425 https://fkrt.co/ANAFsf",
-    "shortlink": "https://fkrt.co/ANAFsf",
-    "urls": [
-      {
-        "url": "https://fkrt.co/ANAFsf",
-        "label": "Voltas 1000 W Dry Iron @425"
-      }
-    ],
-    "raw_text": "Flipkart | Voltas 1000 W Dry Iron  @425\n\n https://fkrt.co/ANAFsf",
-    "final_url": "https://fkrt.co/ANAFsf",
-    "local_image": "assets/images/tgmsg_23077.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-02T19:32:13+00:00",
-    "buy_link": "https://fkrt.co/ANAFsf",
-    "date_iso": "2026-01-02T19:32:13+00:00"
   }
 ]
