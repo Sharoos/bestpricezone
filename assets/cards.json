@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg23661",
+    "title": "🔰Proceed to the Payment Page & Final Price = Just ₹999! 🤑",
+    "description": "👕 XYXX Premium Innerwear ! 🔥 Buy Any 5 Innerwears for Just ₹999! 😍 🛒 Choose from : ▶️ Trunks : ▶️ Briefs : ▶️ Vests : 🔰 Add Any 5 Items from the above links  🔥 Hurry! Limited Time Offer – Don’t Miss Out!",
+    "shortlink": "https://extp.in/ddWc3A",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 XYXX Premium Innerwear ! 🔥"
+      },
+      {
+        "url": "",
+        "label": "🛒 Choose from"
+      },
+      {
+        "url": "https://extp.in/ddWc3A",
+        "label": "️ Trunks"
+      },
+      {
+        "url": "https://extp.in/VvafXZ",
+        "label": "️ Briefs"
+      },
+      {
+        "url": "https://extp.in/Y5gzBB",
+        "label": "️ Vests"
+      },
+      {
+        "url": "",
+        "label": "🔰Proceed to the Payment Page & Final Price = Just ₹999! 🤑"
+      },
+      {
+        "url": "",
+        "label": "🔥 Hurry! Limited Time Offer – Don’t Miss Out!"
+      }
+    ],
+    "raw_text": "👕 XYXX Premium Innerwear ! 🔥\n\nBuy Any 5 Innerwears for Just ₹999! 😍\n\n🛒 Choose from :\n▶️ Trunks : https://extp.in/ddWc3A\n▶️ Briefs : https://extp.in/VvafXZ\n▶️ Vests : https://extp.in/Y5gzBB\n\n🔰 Add Any 5 Items from the above links\n🔰Proceed to the Payment Page & Final Price = Just ₹999! 🤑\n\n🔥 Hurry! Limited Time Offer – Don’t Miss Out!",
+    "final_url": "https://extp.in/ddWc3A",
+    "local_image": "assets/images/tgmsg_23661.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-01-10T18:10:48+00:00",
+    "buy_link": "https://extp.in/ddWc3A",
+    "date_iso": "2026-01-10T18:10:48+00:00"
+  },
+  {
     "id": "msg23659",
     "title": "@ 1",
     "description": "@ 1 https://www.amazon.in/dp/B01K1M9HU0?th=1&tag=bestpricezo0f-21",
@@ -9478,33 +9522,5 @@
     "date_obj": "2026-01-03T05:25:56+00:00",
     "buy_link": "https://ajiio.co/Q34bmh",
     "date_iso": "2026-01-03T05:25:56+00:00"
-  },
-  {
-    "id": "msg23086",
-    "title": "🔥 Minimum 60% OFF on Rare Rabbit Shirts, T",
-    "description": "FLIPKART BIG OFFS 🔥 Minimum 60% OFF on Rare Rabbit Shirts, T-shirts & Trousers 👉 Grab yours: https://fkrt.co/Y5XVhJ",
-    "shortlink": "https://fkrt.co/Y5XVhJ",
-    "urls": [
-      {
-        "url": "",
-        "label": "FLIPKART BIG OFFS"
-      },
-      {
-        "url": "",
-        "label": "🔥 Minimum 60% OFF on Rare Rabbit Shirts, T-shirts & Trousers"
-      },
-      {
-        "url": "https://fkrt.co/Y5XVhJ",
-        "label": "Grab yours"
-      }
-    ],
-    "raw_text": "FLIPKART BIG OFFS\n\n🔥 Minimum 60% OFF on Rare Rabbit Shirts, T-shirts & Trousers\n\n👉 Grab yours: https://fkrt.co/Y5XVhJ",
-    "final_url": "https://fkrt.co/Y5XVhJ",
-    "local_image": "assets/images/tgmsg_23086.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-03T04:45:24+00:00",
-    "buy_link": "https://fkrt.co/Y5XVhJ",
-    "date_iso": "2026-01-03T04:45:24+00:00"
   }
 ]
