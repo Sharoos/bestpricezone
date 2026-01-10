@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23630",
+    "title": "Redmi Buds 6 @2 ,999",
+    "description": "Amazon | Redmi Buds 6 @2 ,999 https://www.amazon.in/dp/B0DN6S19M8?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DN6S19M8?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DN6S19M8?th=1&tag=bestpricezo0f-21",
+        "label": "Redmi Buds 6 @2 ,999"
+      }
+    ],
+    "raw_text": "Amazon | Redmi Buds 6 @2 ,999\n\nhttps://www.amazon.in/dp/B0DN6S19M8?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DN6S19M8?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_23630.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-10T14:02:44+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DN6S19M8?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-10T14:02:44+00:00"
+  },
+  {
     "id": "msg23629",
     "title": "💫 Veet Creams & Hair Removal Kits — 45% Off (Today Only!)",
     "description": "🧴 Myntra | Personal Care Mega Sale! 💥 ✨ Boroplus Soaps & Creams — 60–70% Off! 🔗 🌿 Dabur Amla & Dabur Vatika — Min. 55% Off!! 🔗  🔗 🧴 Kesh King Shampoo — Upto 70% Off! 🔗",
@@ -9494,25 +9514,5 @@
     "date_obj": "2026-01-02T19:03:56+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FDW1QWNC?th=1&tag=bestpricezo0f-21",
     "date_iso": "2026-01-02T19:03:56+00:00"
-  },
-  {
-    "id": "msg23073",
-    "title": "realme Buds T110 @1299",
-    "description": "Flipkart | realme Buds T110 @1299 https://fkrt.co/jopB9x",
-    "shortlink": "https://fkrt.co/jopB9x",
-    "urls": [
-      {
-        "url": "https://fkrt.co/jopB9x",
-        "label": "realme Buds T110 @1299"
-      }
-    ],
-    "raw_text": "Flipkart | realme Buds T110 @1299\n\nhttps://fkrt.co/jopB9x",
-    "final_url": "https://fkrt.co/jopB9x",
-    "local_image": "assets/images/tgmsg_23073.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-02T19:05:36+00:00",
-    "buy_link": "https://fkrt.co/jopB9x",
-    "date_iso": "2026-01-02T19:05:36+00:00"
   }
 ]
