@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg23607",
+    "title": "🔥 DEAL OF THE DAY 🔥",
+    "description": "🛒 FLIPKART GROCERY – EVERYDAY ESSENTIALS 🛒 🔗EVERYDAY ESSENTIALS: https://fkrt.co/MfWJyv 🔥 DEAL OF THE DAY 🔥 https://fkrt.co/KxrJOk",
+    "shortlink": "https://fkrt.co/MfWJyv",
+    "urls": [
+      {
+        "url": "",
+        "label": "🛒 FLIPKART GROCERY – EVERYDAY ESSENTIALS 🛒"
+      },
+      {
+        "url": "https://fkrt.co/MfWJyv",
+        "label": "🔗EVERYDAY ESSENTIALS"
+      },
+      {
+        "url": "https://fkrt.co/KxrJOk",
+        "label": "🔥 DEAL OF THE DAY 🔥"
+      }
+    ],
+    "raw_text": "🛒 FLIPKART GROCERY – EVERYDAY ESSENTIALS 🛒\n\n🔗EVERYDAY ESSENTIALS:\nhttps://fkrt.co/MfWJyv\n\n🔥 DEAL OF THE DAY 🔥\nhttps://fkrt.co/KxrJOk",
+    "final_url": "https://fkrt.co/MfWJyv",
+    "local_image": "assets/images/tgmsg_23607.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-10T09:32:26+00:00",
+    "buy_link": "https://fkrt.co/MfWJyv",
+    "date_iso": "2026-01-10T09:32:26+00:00"
+  },
+  {
     "id": "msg23605",
     "title": "Asian Shoes ₹396",
     "description": "Flipkart | Asian Shoes  ₹396 👉Link : https://fkrt.co/sfbjbe",
@@ -9418,61 +9446,5 @@
     "date_obj": "2026-01-02T16:31:03+00:00",
     "buy_link": "https://fkrt.co/VK5DZr",
     "date_iso": "2026-01-02T16:31:03+00:00"
-  },
-  {
-    "id": "msg23044",
-    "title": "Milestone Vouchers ₹2,000 on ₹1L + extra ₹2,000 on ₹2L online spend",
-    "description": "APPLY NOW: SBI Simply Click Credit Card 🔥 📌 Apply Now: Top Benefits: • 2.5% Rewards on Amazon, BookMyShow, Cleartrip, Swiggy & more • 1.25% Rewards on other online spends • 0.25% Rewards on offline spends • Fuel…",
-    "shortlink": "https://bitli.in/kPt02Wb",
-    "urls": [
-      {
-        "url": "",
-        "label": "SBI Simply Click Credit Card 🔥"
-      },
-      {
-        "url": "https://bitli.in/kPt02Wb",
-        "label": "📌 Apply Now"
-      },
-      {
-        "url": "",
-        "label": "Top Benefits"
-      },
-      {
-        "url": "",
-        "label": "2.5% Rewards on Amazon, BookMyShow, Cleartrip, Swiggy & more"
-      },
-      {
-        "url": "",
-        "label": "1.25% Rewards on other online spends"
-      },
-      {
-        "url": "",
-        "label": "0.25% Rewards on offline spends"
-      },
-      {
-        "url": "",
-        "label": "Fuel Surcharge Waiver (1% | up to ₹100/month)"
-      },
-      {
-        "url": "",
-        "label": "₹2,000 on ₹1L + extra ₹2,000 on ₹2L online spends"
-      },
-      {
-        "url": "",
-        "label": "🎁 Welcome Benefit: ₹500 Amazon Voucher"
-      },
-      {
-        "url": "",
-        "label": "💳 Fees: ₹499 + GST (Joining & Annual) — Annual fee waived on ₹1L spend"
-      }
-    ],
-    "raw_text": "APPLY NOW: SBI Simply Click Credit Card 🔥\n\n📌 Apply Now: https://bitli.in/kPt02Wb\n\nTop Benefits:\n• 2.5% Rewards on Amazon, BookMyShow, Cleartrip, Swiggy & more\n• 1.25% Rewards on other online spends\n• 0.25% Rewards on offline spends\n• Fuel Surcharge Waiver (1% | up to ₹100/month)\n• Milestone Vouchers: ₹2,000 on ₹1L + extra ₹2,000 on ₹2L online spends\n\n🎁 Welcome Benefit: ₹500 Amazon Voucher\n\n💳 Fees: ₹499 + GST (Joining & Annual) — Annual fee waived on ₹1L spend\n\n📌 Note: Activate the card with a ₹100+ transaction within 30 days.",
-    "final_url": "https://bitli.in/kPt02Wb",
-    "local_image": "assets/images/tgmsg_23044.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-01-02T16:40:55+00:00",
-    "buy_link": "https://bitli.in/kPt02Wb",
-    "date_iso": "2026-01-02T16:40:55+00:00"
   }
 ]
