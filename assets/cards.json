@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg23637",
+    "title": "Skechers Min 55% Off",
+    "description": "Flipkart | Skechers Min 55% Off https://fkrt.co/5aLJ44 ADIDAS Min 60% Off https://fkrt.co/ABoBbn New Balance Min 50% Off https://fkrt.co/MC6XPa",
+    "shortlink": "https://fkrt.co/5aLJ44",
+    "urls": [
+      {
+        "url": "https://fkrt.co/5aLJ44",
+        "label": "Skechers Min 55% Off"
+      },
+      {
+        "url": "https://fkrt.co/ABoBbn",
+        "label": "ADIDAS Min 60% Off"
+      },
+      {
+        "url": "https://fkrt.co/MC6XPa",
+        "label": "New Balance Min 50% Off"
+      }
+    ],
+    "raw_text": "Flipkart | Skechers Min 55% Off\nhttps://fkrt.co/5aLJ44\n\nADIDAS Min 60% Off\nhttps://fkrt.co/ABoBbn\n\nNew Balance Min 50% Off\nhttps://fkrt.co/MC6XPa",
+    "final_url": "https://fkrt.co/5aLJ44",
+    "local_image": "assets/images/tgmsg_23637.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-10T15:06:14+00:00",
+    "buy_link": "https://fkrt.co/5aLJ44",
+    "date_iso": "2026-01-10T15:06:14+00:00"
+  },
+  {
+    "id": "msg23639",
+    "title": "Under Rs. 799",
+    "description": "Flipkart | Allen Solly, T-shirt, Shirt.. Under Rs. 799 https://fkrt.co/lpes1i",
+    "shortlink": "https://fkrt.co/lpes1i",
+    "urls": [
+      {
+        "url": "",
+        "label": "Allen Solly, T-shirt, Shirt"
+      },
+      {
+        "url": "https://fkrt.co/lpes1i",
+        "label": "Under Rs. 799"
+      }
+    ],
+    "raw_text": "Flipkart | Allen Solly, T-shirt, Shirt..\nUnder Rs. 799\n\nhttps://fkrt.co/lpes1i",
+    "final_url": "https://fkrt.co/lpes1i",
+    "local_image": "assets/images/tgmsg_23639.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-10T15:17:12+00:00",
+    "buy_link": "https://fkrt.co/lpes1i",
+    "date_iso": "2026-01-10T15:17:12+00:00"
+  },
+  {
     "id": "msg23631",
     "title": "TIARAA Get Any 3 Necklace or Bracelet @ 199 IN",
     "description": "TIARAA Loot : Get Any 3 Necklace or Bracelet @ 199 INR Shipping free Apply Coupon : LOOT3 Link :",
@@ -9474,45 +9526,5 @@
     "date_obj": "2026-01-02T19:32:13+00:00",
     "buy_link": "https://fkrt.co/ANAFsf",
     "date_iso": "2026-01-02T19:32:13+00:00"
-  },
-  {
-    "id": "msg23078",
-    "title": "Men's Comfort Scandals @259",
-    "description": "Myntra | Men's Comfort Scandals @259 - https://myntr.in/wG1jBS",
-    "shortlink": "https://myntr.in/wG1jBS",
-    "urls": [
-      {
-        "url": "https://myntr.in/wG1jBS",
-        "label": "Men's Comfort Scandals @259"
-      }
-    ],
-    "raw_text": "Myntra | Men's Comfort Scandals @259 \n\n- https://myntr.in/wG1jBS",
-    "final_url": "https://myntr.in/wG1jBS",
-    "local_image": "assets/images/tgmsg_23078.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-02T19:33:44+00:00",
-    "buy_link": "https://myntr.in/wG1jBS",
-    "date_iso": "2026-01-02T19:33:44+00:00"
-  },
-  {
-    "id": "msg23076",
-    "title": "Lifelong Muse BT Calling Smart Watch Rs.759",
-    "description": "Flipkart | Lifelong Muse  BT Calling Smart Watch Rs.759 Link : https://fkrt.co/6EaBwx",
-    "shortlink": "https://fkrt.co/6EaBwx",
-    "urls": [
-      {
-        "url": "https://fkrt.co/6EaBwx",
-        "label": "Lifelong Muse BT Calling Smart Watch Rs.759"
-      }
-    ],
-    "raw_text": "Flipkart | Lifelong Muse  BT Calling Smart Watch Rs.759\n\nLink : https://fkrt.co/6EaBwx",
-    "final_url": "https://fkrt.co/6EaBwx",
-    "local_image": "assets/images/tgmsg_23076.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-02T19:17:32+00:00",
-    "buy_link": "https://fkrt.co/6EaBwx",
-    "date_iso": "2026-01-02T19:17:32+00:00"
   }
 ]
