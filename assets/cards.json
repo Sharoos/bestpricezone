@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg23616",
+    "title": "Up to 85% Off On Men’s Jean",
+    "description": "Ajio Upto 85% Off On Men’s Jeans. Jack & Jones : John Players : DNMX : Buda Jeans Co : Lee Cooper : Spykar : Allen Cooper : U.S. Polo Assn. : Pepe Jeans :",
+    "shortlink": "https://ajiio.co/yn5LLK",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Upto 85% Off On Men’s Jeans"
+      },
+      {
+        "url": "https://ajiio.co/yn5LLK",
+        "label": "Jack & Jones"
+      },
+      {
+        "url": "https://ajiio.co/bVjzfX",
+        "label": "John Players"
+      },
+      {
+        "url": "https://ajiio.co/tSMPOE",
+        "label": "DNMX"
+      },
+      {
+        "url": "https://ajiio.co/Ris86Y",
+        "label": "Buda Jeans Co"
+      },
+      {
+        "url": "https://ajiio.co/fDJctx",
+        "label": "Lee Cooper"
+      },
+      {
+        "url": "https://ajiio.co/zyjJzB",
+        "label": "Spykar"
+      },
+      {
+        "url": "https://ajiio.co/KRzTHF",
+        "label": "Allen Cooper"
+      },
+      {
+        "url": "https://ajiio.co/VHi6jY",
+        "label": "U.S. Polo Assn"
+      },
+      {
+        "url": "https://ajiio.co/aYjiEr",
+        "label": "Pepe Jeans"
+      }
+    ],
+    "raw_text": "Ajio  Upto 85% Off On Men’s Jeans. \n\nJack & Jones : https://ajiio.co/yn5LLK\nJohn Players : https://ajiio.co/bVjzfX\nDNMX : https://ajiio.co/tSMPOE\nBuda Jeans Co : https://ajiio.co/Ris86Y\nLee Cooper : https://ajiio.co/fDJctx\nSpykar : https://ajiio.co/zyjJzB\nAllen Cooper : https://ajiio.co/KRzTHF\nU.S. Polo Assn. : https://ajiio.co/VHi6jY\nPepe Jeans : https://ajiio.co/aYjiEr",
+    "final_url": "https://ajiio.co/yn5LLK",
+    "local_image": "assets/images/tgmsg_23616.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-10T12:03:31+00:00",
+    "buy_link": "https://ajiio.co/yn5LLK",
+    "date_iso": "2026-01-10T12:03:31+00:00"
+  },
+  {
     "id": "msg23613",
     "title": "Yogabar Muesli (Fruits Nuts & Seeds), 1.5Kg at 419",
     "description": "Flipkart GRAB : Yogabar Muesli (Fruits Nuts & Seeds), 1.5Kg at 419. https://fkrt.co/G4Frdu",
@@ -9458,29 +9514,5 @@
     "date_obj": "2026-01-02T18:22:21+00:00",
     "buy_link": "https://www.amazon.in/s?k=Fiama%20Shower%20Gel&rh=n%3A1355016031%2Cp_89%3AFiama%2Cp_n_pct-off-with-tax%3A44-&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21",
     "date_iso": "2026-01-02T18:22:21+00:00"
-  },
-  {
-    "id": "msg23048",
-    "title": "₹999 Off With HDFC Credit Card",
-    "description": "Amazon | JBL Cinema SB510, Dolby Audio Soundbar @9999. https://www.amazon.in/dp/B0D45Y8313?tag=bestpricezo0f-21 ₹999 Off With HDFC Credit Card",
-    "shortlink": "https://www.amazon.in/dp/B0D45Y8313?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0D45Y8313?tag=bestpricezo0f-21",
-        "label": "JBL Cinema SB510, Dolby Audio Soundbar @9999"
-      },
-      {
-        "url": "",
-        "label": "₹999 Off With HDFC Credit Card"
-      }
-    ],
-    "raw_text": "Amazon | JBL Cinema SB510, Dolby Audio Soundbar @9999.\n\nhttps://www.amazon.in/dp/B0D45Y8313?tag=bestpricezo0f-21\n\n₹999 Off With HDFC Credit Card",
-    "final_url": "https://www.amazon.in/dp/B0D45Y8313?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_23048.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-02T17:46:15+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D45Y8313?tag=bestpricezo0f-21",
-    "date_iso": "2026-01-02T17:46:15+00:00"
   }
 ]
