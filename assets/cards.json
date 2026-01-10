@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23605",
+    "title": "Asian Shoes ₹396",
+    "description": "Flipkart | Asian Shoes  ₹396 👉Link : https://fkrt.co/sfbjbe",
+    "shortlink": "https://fkrt.co/sfbjbe",
+    "urls": [
+      {
+        "url": "https://fkrt.co/sfbjbe",
+        "label": "Asian Shoes ₹396"
+      }
+    ],
+    "raw_text": "Flipkart | Asian Shoes  ₹396\n\n👉Link : https://fkrt.co/sfbjbe",
+    "final_url": "https://fkrt.co/sfbjbe",
+    "local_image": "assets/images/tgmsg_23605.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-10T08:05:50+00:00",
+    "buy_link": "https://fkrt.co/sfbjbe",
+    "date_iso": "2026-01-10T08:05:50+00:00"
+  },
+  {
     "id": "msg23603",
     "title": "🔹 Extra 3% benefit using GST Invoice (share GST number)",
     "description": "💎 Grab Gold at the Lowest Rate! 💎 ✨ Golden Sale in Vedhani ✨ 🔥 BIG SAVINGS ALERT 🔥 💰 Check out PNG JEWELLERS – 3G 24 KT Vedhani 👉 ❌ Market Rate: ₹14,300 / gram ✅ AJIO Rate: ₹14,063 / gram 🎉 EXTRA BENEFITS 🎉 🔹 Apply…",
@@ -9454,33 +9474,5 @@
     "date_obj": "2026-01-02T16:40:55+00:00",
     "buy_link": "https://bitli.in/kPt02Wb",
     "date_iso": "2026-01-02T16:40:55+00:00"
-  },
-  {
-    "id": "msg23040",
-    "title": "WOW New Year Mega Deal! 🚨",
-    "description": "👉 Buy ANY 8 Products @ just ₹1399 💰 Worth ₹3000+ | No hidden conditions ⏳ Limited-time only — Don’t miss out! 🔗Link -",
-    "shortlink": "https://extp.in/3DlVSp",
-    "urls": [
-      {
-        "url": "",
-        "label": "WOW New Year Mega Deal! 🚨"
-      },
-      {
-        "url": "",
-        "label": "💰 Worth ₹3000+ | No hidden conditions"
-      },
-      {
-        "url": "https://extp.in/3DlVSp",
-        "label": "⏳ Limited-time only — Don’t miss out!"
-      }
-    ],
-    "raw_text": "WOW New Year Mega Deal! 🚨\n\n👉 Buy ANY 8 Products @ just ₹1399\n💰 Worth ₹3000+ | No hidden conditions\n⏳ Limited-time only — Don’t miss out!\n\n🔗Link - https://extp.in/3DlVSp",
-    "final_url": "https://extp.in/3DlVSp",
-    "local_image": "assets/images/tgmsg_23040.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-02T16:05:37+00:00",
-    "buy_link": "https://extp.in/3DlVSp",
-    "date_iso": "2026-01-02T16:05:37+00:00"
   }
 ]
