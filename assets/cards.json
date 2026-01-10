@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23659",
+    "title": "@ 1",
+    "description": "@ 1 https://www.amazon.in/dp/B01K1M9HU0?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B01K1M9HU0?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B01K1M9HU0?th=1&tag=bestpricezo0f-21",
+        "label": ""
+      }
+    ],
+    "raw_text": "@ 1\n\nhttps://www.amazon.in/dp/B01K1M9HU0?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B01K1M9HU0?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_23659.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-10T17:58:55+00:00",
+    "buy_link": "https://www.amazon.in/dp/B01K1M9HU0?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-10T17:58:55+00:00"
+  },
+  {
     "id": "msg23658",
     "title": "Ondc Up to 75% off Happilo Dry Fruits + Free Shipping 🔥🔥",
     "description": "Ondc Upto 75% off Happilo Dry Fruits + Free Shipping 🔥🔥 ✓ Coupon Code : SALE40 * Chia Seeds At 59 : * Arabian Dates 500g At 79 : * Seedless Dates 500g At 89 : * Californian Inshell Walnuts At 109 : * Californian Almonds…",
@@ -9486,25 +9506,5 @@
     "date_obj": "2026-01-03T04:45:24+00:00",
     "buy_link": "https://fkrt.co/Y5XVhJ",
     "date_iso": "2026-01-03T04:45:24+00:00"
-  },
-  {
-    "id": "msg23087",
-    "title": "KUHL BLDC Ceiling Fan With Remote @₹1899",
-    "description": "Amazon | KUHL BLDC Ceiling Fan With Remote @₹1899 👉 https://www.amazon.in/dp/B0FVX4TVMR?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FVX4TVMR?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FVX4TVMR?tag=bestpricezo0f-21",
-        "label": "KUHL BLDC Ceiling Fan With Remote @₹1899"
-      }
-    ],
-    "raw_text": "Amazon | KUHL BLDC Ceiling Fan With Remote @₹1899\n\n👉 https://www.amazon.in/dp/B0FVX4TVMR?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FVX4TVMR?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_23087.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-03T04:55:43+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FVX4TVMR?tag=bestpricezo0f-21",
-    "date_iso": "2026-01-03T04:55:43+00:00"
   }
 ]
