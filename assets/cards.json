@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg23645",
+    "title": "Sweatshirt Under @299",
+    "description": "Flipkart  Sweatshirt Under @299 🔗 https://fkrt.co/c12VCr Hoodies Under @399 🔗 https://fkrt.co/wprcNr Tracksuit Under @499 🔗 https://fkrt.co/iyx8wX",
+    "shortlink": "https://fkrt.co/c12VCr",
+    "urls": [
+      {
+        "url": "https://fkrt.co/c12VCr",
+        "label": "Flipkart Sweatshirt Under @299"
+      },
+      {
+        "url": "https://fkrt.co/wprcNr",
+        "label": "Hoodies Under @399"
+      },
+      {
+        "url": "https://fkrt.co/iyx8wX",
+        "label": "Tracksuit Under @499"
+      }
+    ],
+    "raw_text": "Flipkart  Sweatshirt Under @299\n🔗 https://fkrt.co/c12VCr\n\nHoodies Under @399\n🔗 https://fkrt.co/wprcNr\n\nTracksuit Under @499\n🔗 https://fkrt.co/iyx8wX",
+    "final_url": "https://fkrt.co/c12VCr",
+    "local_image": "assets/images/tgmsg_23645.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-10T16:03:09+00:00",
+    "buy_link": "https://fkrt.co/c12VCr",
+    "date_iso": "2026-01-10T16:03:09+00:00"
+  },
+  {
     "id": "msg23641",
     "title": "\"Branded Polos Under 599\"",
     "description": "Flipkart | \"Branded Polos Under 599\" https://fkrt.co/S7xrau \"Branded Shirts Under 749\" https://fkrt.co/omNhtD \"Branded Formalwear under 849\" https://fkrt.co/fL1rdZ",
@@ -9482,57 +9510,5 @@
     "date_obj": "2026-01-03T03:40:18+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CKBVK23V/ref=cm_sw_r_as_gl_apa_gl_i_P5W268FH0VF083KGPQD5?tag=bestpricezo0f-21",
     "date_iso": "2026-01-03T03:40:18+00:00"
-  },
-  {
-    "id": "msg23081",
-    "title": "🔥Min 75% Off On Branded Trolleys/Suitcases + Bank Offe",
-    "description": "🔥Myntra : Min 75% Off On Branded Trolleys/Suitcases + Bank Offers Brandwise 🔽🔽 •Verage : •Aristocrat : •Teakwood Leathers : •Safari : •Skybags : •VIP : •Nasher Miles : •Wildcraft :",
-    "shortlink": "https://myntr.in/szVwsx",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Myntra : Min 75% Off On Branded Trolleys/Suitcases + Bank Offers"
-      },
-      {
-        "url": "https://myntr.in/szVwsx",
-        "label": "Verage"
-      },
-      {
-        "url": "https://myntr.in/vDVnWN",
-        "label": "Aristocrat"
-      },
-      {
-        "url": "https://myntr.in/3wY2hl",
-        "label": "Teakwood Leathers"
-      },
-      {
-        "url": "https://myntr.in/bF5vgm",
-        "label": "Safari"
-      },
-      {
-        "url": "https://myntr.in/MlWaTX",
-        "label": "Skybags"
-      },
-      {
-        "url": "https://myntr.in/HU3I9W",
-        "label": "VIP"
-      },
-      {
-        "url": "https://myntr.in/9yKkLp",
-        "label": "Nasher Miles"
-      },
-      {
-        "url": "https://myntr.in/MYSdpp",
-        "label": "Wildcraft"
-      }
-    ],
-    "raw_text": "🔥Myntra   : Min 75% Off On Branded Trolleys/Suitcases + Bank Offers \n\nBrandwise 🔽🔽\n•Verage : https://myntr.in/szVwsx\n•Aristocrat : https://myntr.in/vDVnWN\n•Teakwood Leathers : https://myntr.in/3wY2hl\n•Safari : https://myntr.in/bF5vgm\n•Skybags : https://myntr.in/MlWaTX\n•VIP : https://myntr.in/HU3I9W\n•Nasher Miles : https://myntr.in/9yKkLp\n•Wildcraft : https://myntr.in/MYSdpp",
-    "final_url": "https://myntr.in/szVwsx",
-    "local_image": "assets/images/tgmsg_23081.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-03T03:55:46+00:00",
-    "buy_link": "https://myntr.in/szVwsx",
-    "date_iso": "2026-01-03T03:55:46+00:00"
   }
 ]
