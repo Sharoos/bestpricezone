@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg23629",
+    "title": "💫 Veet Creams & Hair Removal Kits — 45% Off (Today Only!)",
+    "description": "🧴 Myntra | Personal Care Mega Sale! 💥 ✨ Boroplus Soaps & Creams — 60–70% Off! 🔗 🌿 Dabur Amla & Dabur Vatika — Min. 55% Off!! 🔗  🔗 🧴 Kesh King Shampoo — Upto 70% Off! 🔗",
+    "shortlink": "https://myntr.in/bkvkev",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧴 Myntra | Personal Care Mega Sale! 💥"
+      },
+      {
+        "url": "https://myntr.in/bkvkev",
+        "label": "✨ Boroplus Soaps & Creams — 60–70% Off!"
+      },
+      {
+        "url": "https://myntr.in/LZyAUh",
+        "label": "🌿 Dabur Amla & Dabur Vatika — Min. 55% Off!!"
+      },
+      {
+        "url": "https://myntr.in/X80gYI",
+        "label": "💫 Veet Creams & Hair Removal Kits — 45% Off (Today Only!)"
+      },
+      {
+        "url": "https://myntr.in/mPPmUJ",
+        "label": "🧴 Kesh King Shampoo — Upto 70% Off!"
+      }
+    ],
+    "raw_text": "🧴 Myntra | Personal Care Mega Sale! 💥\n\n✨ Boroplus Soaps & Creams — 60–70% Off!\n🔗 https://myntr.in/bkvkev\n\n🌿 Dabur Amla & Dabur Vatika — Min. 55% Off!!\n🔗 https://myntr.in/LZyAUh\n\n💫 Veet Creams & Hair Removal Kits — 45% Off (Today Only!)\n🔗 https://myntr.in/X80gYI\n\n🧴 Kesh King Shampoo — Upto 70% Off!\n🔗 https://myntr.in/mPPmUJ",
+    "final_url": "https://myntr.in/bkvkev",
+    "local_image": "assets/images/tgmsg_23629.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-10T13:46:41+00:00",
+    "buy_link": "https://myntr.in/bkvkev",
+    "date_iso": "2026-01-10T13:46:41+00:00"
+  },
+  {
     "id": "msg23625",
     "title": "",
     "description": "Loot https://fktr.in/t5DKg5C",
@@ -9478,25 +9514,5 @@
     "date_obj": "2026-01-02T19:05:36+00:00",
     "buy_link": "https://fkrt.co/jopB9x",
     "date_iso": "2026-01-02T19:05:36+00:00"
-  },
-  {
-    "id": "msg23074",
-    "title": "Ariel Liquid Detergent Top Load , 3.2L @410",
-    "description": "Amazon | Ariel Liquid Detergent Top Load , 3.2L @410 https://www.amazon.in/dp/B0CBBTPQT3?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CBBTPQT3?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0CBBTPQT3?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Ariel Liquid Detergent Top Load , 3.2L @410"
-      }
-    ],
-    "raw_text": "Amazon | Ariel Liquid Detergent Top Load , 3.2L @410\n\nhttps://www.amazon.in/dp/B0CBBTPQT3?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CBBTPQT3?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_23074.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-02T19:07:07+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CBBTPQT3?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-01-02T19:07:07+00:00"
   }
 ]
