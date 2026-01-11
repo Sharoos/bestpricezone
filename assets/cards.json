@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23714",
+    "title": "Straplt Laptop Bags starting From Rs.184",
+    "description": "Flipkart | Straplt Laptop Bags starting From Rs.184 🔗 https://fkrt.co/CNjHbw",
+    "shortlink": "https://fkrt.co/CNjHbw",
+    "urls": [
+      {
+        "url": "https://fkrt.co/CNjHbw",
+        "label": "Straplt Laptop Bags starting From Rs.184"
+      }
+    ],
+    "raw_text": "Flipkart | Straplt Laptop Bags starting From Rs.184\n\n🔗 https://fkrt.co/CNjHbw",
+    "final_url": "https://fkrt.co/CNjHbw",
+    "local_image": "assets/images/tgmsg_23714.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-11T14:06:17+00:00",
+    "buy_link": "https://fkrt.co/CNjHbw",
+    "date_iso": "2026-01-11T14:06:17+00:00"
+  },
+  {
     "id": "msg23713",
     "title": "💳 Extra 5% OFF on Prepaid Orde",
     "description": "🎉 NEW YEAR MEGA SALE – MEN’S GROOMING ! 🎉 🛍 Buy ANY 5 Products @ just ₹999 🎁 FREE Hair Removal Cream Spray rs ✨ Top Picks from The Man Company Perfumes • Face Wash • Body Wash • Roll-On • Skincare & More 👉 Shop Now : ⏳…",
@@ -9574,37 +9594,5 @@
     "date_obj": "2026-01-03T12:34:21+00:00",
     "buy_link": "https://myntr.in/oIkuLk",
     "date_iso": "2026-01-03T12:34:21+00:00"
-  },
-  {
-    "id": "msg23128",
-    "title": "Up to 89% Off On HRX Footwea",
-    "description": "Myntra : Upto 89% Off On HRX Footwear. Men's : https://myntr.in/9DIt4y Women's : https://myntr.in/qY3g53 Shoes : https://myntr.in/dD1Kpk",
-    "shortlink": "https://myntr.in/9DIt4y",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 89% Off On HRX Footwear"
-      },
-      {
-        "url": "https://myntr.in/9DIt4y",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/qY3g53",
-        "label": "Women's"
-      },
-      {
-        "url": "https://myntr.in/dD1Kpk",
-        "label": "Shoes"
-      }
-    ],
-    "raw_text": "Myntra : Upto 89% Off On HRX Footwear.\n\nMen's : https://myntr.in/9DIt4y\nWomen's : https://myntr.in/qY3g53\nShoes : https://myntr.in/dD1Kpk",
-    "final_url": "https://myntr.in/9DIt4y",
-    "local_image": "assets/images/tgmsg_23128.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-03T12:41:00+00:00",
-    "buy_link": "https://myntr.in/9DIt4y",
-    "date_iso": "2026-01-03T12:41:00+00:00"
   }
 ]
