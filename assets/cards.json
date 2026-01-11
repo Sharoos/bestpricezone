@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23668",
+    "title": "XYXX Men’s Pack Of 5 Solid Trunks At 399",
+    "description": "XYXX Men’s Pack Of 5 Solid Trunks At 399 https://myntr.in/04fINt",
+    "shortlink": "https://myntr.in/04fINt",
+    "urls": [
+      {
+        "url": "https://myntr.in/04fINt",
+        "label": "XYXX Men’s Pack Of 5 Solid Trunks At 399"
+      }
+    ],
+    "raw_text": "XYXX Men’s Pack Of 5 Solid Trunks At 399\n\nhttps://myntr.in/04fINt",
+    "final_url": "https://myntr.in/04fINt",
+    "local_image": "assets/images/tgmsg_23668.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-11T02:02:54+00:00",
+    "buy_link": "https://myntr.in/04fINt",
+    "date_iso": "2026-01-11T02:02:54+00:00"
+  },
+  {
     "id": "msg23661",
     "title": "🔰Proceed to the Payment Page & Final Price = Just ₹999! 🤑",
     "description": "👕 XYXX Premium Innerwear ! 🔥 Buy Any 5 Innerwears for Just ₹999! 😍 🛒 Choose from : ▶️ Trunks : ▶️ Briefs : ▶️ Vests : 🔰 Add Any 5 Items from the above links  🔥 Hurry! Limited Time Offer – Don’t Miss Out!",
@@ -9470,57 +9490,5 @@
     "date_obj": "2026-01-03T05:10:40+00:00",
     "buy_link": "https://fkrt.co/iHI5l5",
     "date_iso": "2026-01-03T05:10:40+00:00"
-  },
-  {
-    "id": "msg23089",
-    "title": "Up to 85% Off Vero Moda & ONLY Women's Clothing",
-    "description": "AJIO : Upto 85% Off Vero Moda & ONLY Women's Clothing Dresses : Tops : T-Shirts : Sweatshirts : Jeans : Trackpants : Shorts : Trousers :",
-    "shortlink": "https://ajiio.co/Q34bmh",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off Vero Moda & ONLY Women's Clothing"
-      },
-      {
-        "url": "https://ajiio.co/Q34bmh",
-        "label": "Dresses"
-      },
-      {
-        "url": "https://ajiio.co/Hj5zrg",
-        "label": "Tops"
-      },
-      {
-        "url": "https://ajiio.co/sCi0iK",
-        "label": "T-Shirts"
-      },
-      {
-        "url": "https://ajiio.co/DO3YDJ",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://ajiio.co/FYckZc",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/TNaJPM",
-        "label": "Trackpants"
-      },
-      {
-        "url": "https://ajiio.co/Nmg44d",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.co/t6qFqH",
-        "label": "Trousers"
-      }
-    ],
-    "raw_text": "AJIO : Upto 85% Off Vero Moda & ONLY Women's Clothing \n\nDresses : https://ajiio.co/Q34bmh\nTops : https://ajiio.co/Hj5zrg\nT-Shirts : https://ajiio.co/sCi0iK\nSweatshirts : https://ajiio.co/DO3YDJ\nJeans : https://ajiio.co/FYckZc\nTrackpants : https://ajiio.co/TNaJPM\nShorts : https://ajiio.co/Nmg44d\nTrousers : https://ajiio.co/t6qFqH",
-    "final_url": "https://ajiio.co/Q34bmh",
-    "local_image": "assets/images/tgmsg_23089.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-03T05:25:56+00:00",
-    "buy_link": "https://ajiio.co/Q34bmh",
-    "date_iso": "2026-01-03T05:25:56+00:00"
   }
 ]
