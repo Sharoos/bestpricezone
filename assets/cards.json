@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23722",
+    "title": "Premium Bedsheets From 179",
+    "description": "Myntra  Premium Bedsheets From 179. https://myntr.in/LyNYxu",
+    "shortlink": "https://myntr.in/LyNYxu",
+    "urls": [
+      {
+        "url": "https://myntr.in/LyNYxu",
+        "label": "Myntra Premium Bedsheets From 179"
+      }
+    ],
+    "raw_text": "Myntra  Premium Bedsheets From 179.\n\nhttps://myntr.in/LyNYxu",
+    "final_url": "https://myntr.in/LyNYxu",
+    "local_image": "assets/images/tgmsg_23722.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-11T15:46:17+00:00",
+    "buy_link": "https://myntr.in/LyNYxu",
+    "date_iso": "2026-01-11T15:46:17+00:00"
+  },
+  {
     "id": "msg23718",
     "title": "Noise Newly Launched Buds @₹999",
     "description": "Amazon | Noise Newly Launched Buds @₹999 https://www.amazon.in/dp/B0DQ8CXFZF?th=1&tag=bestpricezo0f-21",
@@ -9518,25 +9538,5 @@
     "date_obj": "2026-01-03T12:55:14+00:00",
     "buy_link": "https://myntr.in/Mb8UJ2",
     "date_iso": "2026-01-03T12:55:14+00:00"
-  },
-  {
-    "id": "msg23124",
-    "title": "Socks Combo Up to 80% Off",
-    "description": "Grab : Socks Combo Upto 80% Off. https://www.amazon.in/promotion/psp/AZU3KMZ7U47MR?redirectAsin=B0DX8HWFH9&redirectMerchantId=A2EPOXJ6B6J6RG&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/promotion/psp/AZU3KMZ7U47MR?redirectAsin=B0DX8HWFH9&redirectMerchantId=A2EPOXJ6B6J6RG&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/promotion/psp/AZU3KMZ7U47MR?redirectAsin=B0DX8HWFH9&redirectMerchantId=A2EPOXJ6B6J6RG&tag=bestpricezo0f-21",
-        "label": "Socks Combo Upto 80% Off"
-      }
-    ],
-    "raw_text": "Grab : Socks Combo Upto 80% Off.\n\nhttps://www.amazon.in/promotion/psp/AZU3KMZ7U47MR?redirectAsin=B0DX8HWFH9&redirectMerchantId=A2EPOXJ6B6J6RG&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/promotion/psp/AZU3KMZ7U47MR?redirectAsin=B0DX8HWFH9&redirectMerchantId=A2EPOXJ6B6J6RG&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_23124.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-03T12:02:28+00:00",
-    "buy_link": "https://www.amazon.in/promotion/psp/AZU3KMZ7U47MR?redirectAsin=B0DX8HWFH9&redirectMerchantId=A2EPOXJ6B6J6RG&tag=bestpricezo0f-21",
-    "date_iso": "2026-01-03T12:02:28+00:00"
   }
 ]
