@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg23685",
+    "title": "Flat 5%+ Extra 5% off on Real Gold & Diamond Jewellery!!",
+    "description": "Myntra | Flat 5%+ Extra 5% off on Real Gold & Diamond Jewellery!! Use coupon code JWLSOFF: https://myntr.in/BiGxeC Use Coupon code JWLSOFF5: https://myntr.in/lnhBmd",
+    "shortlink": "https://myntr.in/BiGxeC",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flat 5%+ Extra 5% off on Real Gold & Diamond Jewellery!!"
+      },
+      {
+        "url": "https://myntr.in/BiGxeC",
+        "label": "Use code JWLSOFF"
+      },
+      {
+        "url": "https://myntr.in/lnhBmd",
+        "label": "Use code JWLSOFF5"
+      }
+    ],
+    "raw_text": "Myntra | Flat 5%+ Extra 5% off on Real Gold & Diamond Jewellery!!\n\nUse coupon code JWLSOFF: https://myntr.in/BiGxeC\n\nUse Coupon code JWLSOFF5: https://myntr.in/lnhBmd",
+    "final_url": "https://myntr.in/BiGxeC",
+    "local_image": "assets/images/tgmsg_23685.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-11T08:06:41+00:00",
+    "buy_link": "https://myntr.in/BiGxeC",
+    "date_iso": "2026-01-11T08:06:41+00:00"
+  },
+  {
     "id": "msg23674",
     "title": "🔥XENOR Men Cotton Shirt From ₹199",
     "description": "Myntra | 🔥XENOR Men Cotton Shirt From ₹199 👉 https://myntr.in/bSBDuH",
@@ -9502,25 +9530,5 @@
     "date_obj": "2026-01-03T07:06:47+00:00",
     "buy_link": "https://fkrt.co/kbmUyC",
     "date_iso": "2026-01-03T07:06:47+00:00"
-  },
-  {
-    "id": "msg23101",
-    "title": "Up to 87% off on Invictus Footwear 🔥",
-    "description": "Myntra : Upto 87% off on Invictus Footwear 🔥 👉 https://myntr.in/Fls9pQ",
-    "shortlink": "https://myntr.in/Fls9pQ",
-    "urls": [
-      {
-        "url": "https://myntr.in/Fls9pQ",
-        "label": "Upto 87% off on Invictus Footwear 🔥"
-      }
-    ],
-    "raw_text": "Myntra : Upto 87% off on Invictus Footwear 🔥\n\n👉 https://myntr.in/Fls9pQ",
-    "final_url": "https://myntr.in/Fls9pQ",
-    "local_image": "assets/images/tgmsg_23101.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-03T07:23:06+00:00",
-    "buy_link": "https://myntr.in/Fls9pQ",
-    "date_iso": "2026-01-03T07:23:06+00:00"
   }
 ]
