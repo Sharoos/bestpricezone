@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23693",
+    "title": "Milton Spin Mop Set @ ₹799",
+    "description": "Flipkart  Milton Spin Mop Set @  ₹799. https://fkrt.co/X2lKFA",
+    "shortlink": "https://fkrt.co/X2lKFA",
+    "urls": [
+      {
+        "url": "https://fkrt.co/X2lKFA",
+        "label": "Flipkart Milton Spin Mop Set @ ₹799"
+      }
+    ],
+    "raw_text": "Flipkart  Milton Spin Mop Set @  ₹799.\n\n https://fkrt.co/X2lKFA",
+    "final_url": "https://fkrt.co/X2lKFA",
+    "local_image": "assets/images/tgmsg_23693.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-11T09:46:19+00:00",
+    "buy_link": "https://fkrt.co/X2lKFA",
+    "date_iso": "2026-01-11T09:46:19+00:00"
+  },
+  {
     "id": "msg23691",
     "title": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre",
     "description": "-approved limit. Apply Now - 💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀 ⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping. ⿢ Easy EMIs : Flexible repayment with no foreclosure charges. ⿣ Wide…",
@@ -9502,29 +9522,5 @@
     "date_obj": "2026-01-03T09:32:59+00:00",
     "buy_link": "https://extp.in/4tXDap",
     "date_iso": "2026-01-03T09:32:59+00:00"
-  },
-  {
-    "id": "msg23105",
-    "title": "🛍 + Extra 10% Super Cash! 🎉",
-    "description": "Ajio | TRESEMME Conditioner Starting @ ₹102 👉 Link : 🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "shortlink": "https://ajiio.co/lGfpu0",
-    "urls": [
-      {
-        "url": "https://ajiio.co/lGfpu0",
-        "label": "TRESEMME Conditioner Starting @ ₹102"
-      },
-      {
-        "url": "",
-        "label": "🛍 + Extra 10% AJIO Super Cash! 🎉"
-      }
-    ],
-    "raw_text": "Ajio | TRESEMME Conditioner Starting @ ₹102\n \n👉 Link : https://ajiio.co/lGfpu0\n\n🛍 + Extra 10% AJIO Super Cash! 🎉",
-    "final_url": "https://ajiio.co/lGfpu0",
-    "local_image": "assets/images/tgmsg_23105.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-03T08:32:15+00:00",
-    "buy_link": "https://ajiio.co/lGfpu0",
-    "date_iso": "2026-01-03T08:32:15+00:00"
   }
 ]
