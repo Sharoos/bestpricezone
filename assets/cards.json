@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg23724",
+    "title": "🔰Proceed to the Payment Page & Final Price = Just ₹999! 🤑",
+    "description": "👕 XYXX Premium Innerwear ! 🔥 Buy Any 5 Innerwears for Just ₹999! 😍 🛒 Choose from : ▶️ Trunks : ▶️ Briefs : ▶️ Vests : 🔰 Add Any 5 Items from the above links  🔥 Hurry! Limited Time Offer – Don’t Miss Out!",
+    "shortlink": "https://extp.in/k2Gri6",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 XYXX Premium Innerwear ! 🔥"
+      },
+      {
+        "url": "",
+        "label": "🛒 Choose from"
+      },
+      {
+        "url": "https://extp.in/k2Gri6",
+        "label": "️ Trunks"
+      },
+      {
+        "url": "https://extp.in/Hf3QBr",
+        "label": "️ Briefs"
+      },
+      {
+        "url": "https://extp.in/ynNGmf",
+        "label": "️ Vests"
+      },
+      {
+        "url": "",
+        "label": "🔰Proceed to the Payment Page & Final Price = Just ₹999! 🤑"
+      },
+      {
+        "url": "",
+        "label": "🔥 Hurry! Limited Time Offer – Don’t Miss Out!"
+      }
+    ],
+    "raw_text": "👕 XYXX Premium Innerwear ! 🔥\n\nBuy Any 5 Innerwears for Just ₹999! 😍\n\n🛒 Choose from :\n▶️ Trunks : https://extp.in/k2Gri6\n▶️ Briefs : https://extp.in/Hf3QBr\n▶️ Vests : https://extp.in/ynNGmf\n\n🔰 Add Any 5 Items from the above links\n🔰Proceed to the Payment Page & Final Price = Just ₹999! 🤑\n\n🔥 Hurry! Limited Time Offer – Don’t Miss Out!",
+    "final_url": "https://extp.in/k2Gri6",
+    "local_image": "assets/images/tgmsg_23724.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-01-11T16:20:37+00:00",
+    "buy_link": "https://extp.in/k2Gri6",
+    "date_iso": "2026-01-11T16:20:37+00:00"
+  },
+  {
     "id": "msg23722",
     "title": "Premium Bedsheets From 179",
     "description": "Myntra  Premium Bedsheets From 179. https://myntr.in/LyNYxu",
@@ -9518,25 +9562,5 @@
     "date_obj": "2026-01-03T13:28:26+00:00",
     "buy_link": "https://myntr.in/xnP3s6",
     "date_iso": "2026-01-03T13:28:26+00:00"
-  },
-  {
-    "id": "msg23129",
-    "title": "Up to 65% Off On Pond's Beauty Product",
-    "description": "Myntra : Upto 65% Off On Pond's Beauty Products. https://myntr.in/Mb8UJ2",
-    "shortlink": "https://myntr.in/Mb8UJ2",
-    "urls": [
-      {
-        "url": "https://myntr.in/Mb8UJ2",
-        "label": "Upto 65% Off On Pond's Beauty Products"
-      }
-    ],
-    "raw_text": "Myntra : Upto 65% Off On Pond's Beauty Products.\n\nhttps://myntr.in/Mb8UJ2",
-    "final_url": "https://myntr.in/Mb8UJ2",
-    "local_image": "assets/images/tgmsg_23129.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-03T12:55:14+00:00",
-    "buy_link": "https://myntr.in/Mb8UJ2",
-    "date_iso": "2026-01-03T12:55:14+00:00"
   }
 ]
