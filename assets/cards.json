@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg23672",
+    "title": "Footwears @199",
+    "description": "Ajio  Footwears @199. Men's : https://ajiio.co/qjJqPV Women's : https://ajiio.co/p21bxE",
+    "shortlink": "https://ajiio.co/qjJqPV",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Footwears @199"
+      },
+      {
+        "url": "https://ajiio.co/qjJqPV",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/p21bxE",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Ajio  Footwears @199.\n\nMen's : https://ajiio.co/qjJqPV\nWomen's : https://ajiio.co/p21bxE",
+    "final_url": "https://ajiio.co/qjJqPV",
+    "local_image": "assets/images/tgmsg_23672.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-11T05:06:16+00:00",
+    "buy_link": "https://ajiio.co/qjJqPV",
+    "date_iso": "2026-01-11T05:06:16+00:00"
+  },
+  {
     "id": "msg23668",
     "title": "XYXX Men’s Pack Of 5 Solid Trunks At 399",
     "description": "XYXX Men’s Pack Of 5 Solid Trunks At 399 https://myntr.in/04fINt",
@@ -9470,25 +9498,5 @@
     "date_obj": "2026-01-03T05:50:12+00:00",
     "buy_link": "https://bitli.in/9J17l1t",
     "date_iso": "2026-01-03T05:50:12+00:00"
-  },
-  {
-    "id": "msg23088",
-    "title": "Voroxy Casual Shirts Starts at 243",
-    "description": "Flipkart | Voroxy Casual Shirts Starts at 243 👉https://fkrt.co/iHI5l5",
-    "shortlink": "https://fkrt.co/iHI5l5",
-    "urls": [
-      {
-        "url": "https://fkrt.co/iHI5l5",
-        "label": "Voroxy Casual Shirts Starts at 243"
-      }
-    ],
-    "raw_text": "Flipkart | Voroxy Casual Shirts Starts at 243\n\n👉https://fkrt.co/iHI5l5",
-    "final_url": "https://fkrt.co/iHI5l5",
-    "local_image": "assets/images/tgmsg_23088.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-03T05:10:40+00:00",
-    "buy_link": "https://fkrt.co/iHI5l5",
-    "date_iso": "2026-01-03T05:10:40+00:00"
   }
 ]
