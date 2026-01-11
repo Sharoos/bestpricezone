@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg23687",
+    "title": "Pack of 5 Socks @ ₹78",
+    "description": "Myntra : Pack of 5 Socks @ ₹78 👉https://myntr.in/FkSzFK",
+    "shortlink": "https://myntr.in/FkSzFK",
+    "urls": [
+      {
+        "url": "https://myntr.in/FkSzFK",
+        "label": "Pack of 5 Socks @ ₹78"
+      }
+    ],
+    "raw_text": "Myntra : Pack of 5 Socks @ ₹78\n\n👉https://myntr.in/FkSzFK",
+    "final_url": "https://myntr.in/FkSzFK",
+    "local_image": "assets/images/tgmsg_23687.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-11T08:30:20+00:00",
+    "buy_link": "https://myntr.in/FkSzFK",
+    "date_iso": "2026-01-11T08:30:20+00:00"
+  },
+  {
+    "id": "msg23688",
+    "title": "💥 Flat 40% OFF + Extra 15% OFF on ₹4499+",
+    "description": "🔥ADIDAS END OF SEASON SALE is LIVE! 🔥 👕👜👟 Shop your favourites before the season ends  👨‍👩‍👧‍👦 Deals on Men • Women • Kids 🔗 Link : ⏰ Hurry! Best styles selling fast – grab yours now! 🛍",
+    "shortlink": "https://extp.in/ZA260I/",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥ADIDAS END OF SEASON SALE is LIVE! 🔥"
+      },
+      {
+        "url": "",
+        "label": "👕👜👟 Shop your favourites before the season ends"
+      },
+      {
+        "url": "",
+        "label": "💥 Flat 40% OFF + Extra 15% OFF on ₹4499+"
+      },
+      {
+        "url": "https://extp.in/ZA260I/",
+        "label": "👨‍👩‍👧‍👦 Deals on Men • Women • Kids"
+      },
+      {
+        "url": "",
+        "label": "⏰ Hurry! Best styles selling fast – grab yours now! 🛍"
+      }
+    ],
+    "raw_text": "🔥ADIDAS END OF SEASON SALE is LIVE! 🔥\n\n👕👜👟 Shop your favourites before the season ends\n💥 Flat 40% OFF + Extra 15% OFF on ₹4499+\n👨‍👩‍👧‍👦 Deals on Men • Women • Kids\n\n🔗 Link : https://extp.in/ZA260I/\n\n⏰ Hurry! Best styles selling fast – grab yours now! 🛍",
+    "final_url": "https://extp.in/ZA260I/",
+    "local_image": "assets/images/tgmsg_23688.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-01-11T08:31:02+00:00",
+    "buy_link": "https://extp.in/ZA260I/",
+    "date_iso": "2026-01-11T08:31:02+00:00"
+  },
+  {
     "id": "msg23685",
     "title": "Flat 5%+ Extra 5% off on Real Gold & Diamond Jewellery!!",
     "description": "Myntra | Flat 5%+ Extra 5% off on Real Gold & Diamond Jewellery!! Use coupon code JWLSOFF: https://myntr.in/BiGxeC Use Coupon code JWLSOFF5: https://myntr.in/lnhBmd",
@@ -9490,45 +9546,5 @@
     "date_obj": "2026-01-03T07:25:49+00:00",
     "buy_link": "https://fkrt.co/aww4wB",
     "date_iso": "2026-01-03T07:25:49+00:00"
-  },
-  {
-    "id": "msg23103",
-    "title": "Up to 82% Off On THOMAS SCOTT Shirts Starting From Rs.529",
-    "description": "AJIO | Upto 82% Off On THOMAS SCOTT Shirts Starting From Rs.529 👉Link : https://ajiio.co/fOXWru",
-    "shortlink": "https://ajiio.co/fOXWru",
-    "urls": [
-      {
-        "url": "https://ajiio.co/fOXWru",
-        "label": "Upto 82% Off On THOMAS SCOTT Shirts Starting From Rs.529"
-      }
-    ],
-    "raw_text": "AJIO | Upto 82% Off On THOMAS SCOTT Shirts Starting From Rs.529\n\n👉Link : https://ajiio.co/fOXWru",
-    "final_url": "https://ajiio.co/fOXWru",
-    "local_image": "assets/images/tgmsg_23103.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-03T07:29:10+00:00",
-    "buy_link": "https://ajiio.co/fOXWru",
-    "date_iso": "2026-01-03T07:29:10+00:00"
-  },
-  {
-    "id": "msg23099",
-    "title": "Highlander Men's Cargos Up to 82% off",
-    "description": "Flipkart | Highlander Men's Cargos upto 82% off 👉 https://fkrt.co/kbmUyC",
-    "shortlink": "https://fkrt.co/kbmUyC",
-    "urls": [
-      {
-        "url": "https://fkrt.co/kbmUyC",
-        "label": "Highlander Men's Cargos upto 82% off"
-      }
-    ],
-    "raw_text": "Flipkart | Highlander Men's Cargos upto 82% off\n\n👉 https://fkrt.co/kbmUyC",
-    "final_url": "https://fkrt.co/kbmUyC",
-    "local_image": "assets/images/tgmsg_23099.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-03T07:06:47+00:00",
-    "buy_link": "https://fkrt.co/kbmUyC",
-    "date_iso": "2026-01-03T07:06:47+00:00"
   }
 ]
