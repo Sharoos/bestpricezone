@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg23726",
+    "title": "Pigeon Nonstick Tawa + Pan at ₹599",
+    "description": "Amazon | Pigeon Nonstick Tawa + Pan at ₹599 👉 https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21 Pigeon Knife Set - 4pcs at ₹105 👉 https://www.amazon.in/dp/B0CYZ48MDL?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "Pigeon Nonstick Tawa + Pan at ₹599"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0CYZ48MDL?th=1&tag=bestpricezo0f-21",
+        "label": "4pcs at ₹105"
+      }
+    ],
+    "raw_text": "Amazon | Pigeon Nonstick Tawa + Pan at ₹599\n\n👉 https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21\n\nPigeon Knife Set - 4pcs at ₹105\n\n👉 https://www.amazon.in/dp/B0CYZ48MDL?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_23726.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-11T17:16:42+00:00",
+    "buy_link": "https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-11T17:16:42+00:00"
+  },
+  {
     "id": "msg23725",
     "title": "2️⃣ Dove Intense Repair Shampoo 1L + Hair Fall Rescue Conditioner – Flat 64% OFF",
     "description": "🧴 Myntra – Hair Care Essentials 1️⃣ TRESemme Keratin Smooth Shampoo + Conditioner – Flat 63% OFF 👉  👉 3️⃣ Dove Intense Repair Shampoo 1L + Conditioner 175ml – Flat 64% OFF 👉 4️⃣ Dove Hair Fall Rescue Shampoo 1L +…",
@@ -9522,53 +9546,5 @@
     "date_obj": "2026-01-03T14:38:17+00:00",
     "buy_link": "https://bitli.in/QSxIuqs",
     "date_iso": "2026-01-03T14:38:17+00:00"
-  },
-  {
-    "id": "msg23134",
-    "title": "Up to 80% Off On Branded Clothing",
-    "description": "AJIO Upto 80% Off On Branded Clothing. Men's : Shirts : Jeans : T-shirts : Jackets : Sweatshirts : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "shortlink": "https://ajiio.co/fPShkR",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 80% Off On Branded Clothing"
-      },
-      {
-        "url": "https://ajiio.co/fPShkR",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/79JmZX",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/F9JyEV",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/OtBSuF",
-        "label": "T-shirts"
-      },
-      {
-        "url": "https://ajiio.co/ve5t8c",
-        "label": "Jackets"
-      },
-      {
-        "url": "https://ajiio.co/otZCbZ",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On Branded Clothing.\n\nMen's : https://ajiio.co/fPShkR\n\nShirts : https://ajiio.co/79JmZX\nJeans : https://ajiio.co/F9JyEV\nT-shirts : https://ajiio.co/OtBSuF\nJackets : https://ajiio.co/ve5t8c\nSweatshirts : https://ajiio.co/otZCbZ\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "final_url": "https://ajiio.co/fPShkR",
-    "local_image": "assets/images/tgmsg_23134.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-03T13:56:07+00:00",
-    "buy_link": "https://ajiio.co/fPShkR",
-    "date_iso": "2026-01-03T13:56:07+00:00"
   }
 ]
