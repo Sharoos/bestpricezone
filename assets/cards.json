@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23718",
+    "title": "Noise Newly Launched Buds @₹999",
+    "description": "Amazon | Noise Newly Launched Buds @₹999 https://www.amazon.in/dp/B0DQ8CXFZF?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DQ8CXFZF?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DQ8CXFZF?th=1&tag=bestpricezo0f-21",
+        "label": "Noise Newly Launched Buds @₹999"
+      }
+    ],
+    "raw_text": "Amazon | Noise Newly Launched Buds @₹999\n\nhttps://www.amazon.in/dp/B0DQ8CXFZF?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DQ8CXFZF?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_23718.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-11T15:21:42+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DQ8CXFZF?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-11T15:21:42+00:00"
+  },
+  {
     "id": "msg23716",
     "title": "Foam Spray Cleaner @189",
     "description": "Foam Spray Cleaner @189 https://fkrt.co/HRkDaz",
@@ -9518,29 +9538,5 @@
     "date_obj": "2026-01-03T12:02:28+00:00",
     "buy_link": "https://www.amazon.in/promotion/psp/AZU3KMZ7U47MR?redirectAsin=B0DX8HWFH9&redirectMerchantId=A2EPOXJ6B6J6RG&tag=bestpricezo0f-21",
     "date_iso": "2026-01-03T12:02:28+00:00"
-  },
-  {
-    "id": "msg23125",
-    "title": "Set of 8 Cushion Covers starting @ 589 only!",
-    "description": "Myntra | Set of 8 Cushion Covers starting @ 589 only! 👉https://myntr.in/1UjC4F Set of 5 Cushion Covers starting @ 346 Only! 👉https://myntr.in/2Uc3lJ",
-    "shortlink": "https://myntr.in/1UjC4F",
-    "urls": [
-      {
-        "url": "https://myntr.in/1UjC4F",
-        "label": "Set of 8 Cushion Covers starting @ 589 only!"
-      },
-      {
-        "url": "https://myntr.in/2Uc3lJ",
-        "label": "Set of 5 Cushion Covers starting @ 346 Only!"
-      }
-    ],
-    "raw_text": "Myntra | Set of 8 Cushion Covers starting @ 589 only!\n👉https://myntr.in/1UjC4F\n\nSet of 5 Cushion Covers starting @ 346 Only!\n👉https://myntr.in/2Uc3lJ",
-    "final_url": "https://myntr.in/1UjC4F",
-    "local_image": "assets/images/tgmsg_23125.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-03T12:13:19+00:00",
-    "buy_link": "https://myntr.in/1UjC4F",
-    "date_iso": "2026-01-03T12:13:19+00:00"
   }
 ]
