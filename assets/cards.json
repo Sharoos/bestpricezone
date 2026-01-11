@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg23698",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
+    "description": "Ajio | Beauty and Personal Care Under 399 👉Link : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/rhzYwB",
+    "urls": [
+      {
+        "url": "https://ajiio.co/rhzYwB",
+        "label": "Beauty and Personal Care Under 399"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "Ajio | Beauty and Personal Care Under 399\n\n👉Link : https://ajiio.co/rhzYwB\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/rhzYwB",
+    "local_image": "assets/images/tgmsg_23698.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-11T11:06:39+00:00",
+    "buy_link": "https://ajiio.co/rhzYwB",
+    "date_iso": "2026-01-11T11:06:39+00:00"
+  },
+  {
     "id": "msg23696",
     "title": "Up to 89% Off On Roadster Sports Shoe",
     "description": "Myntra : Upto 89% Off On Roadster Sports Shoes https://myntr.in/27BjwU",
@@ -9470,25 +9494,5 @@
     "date_obj": "2026-01-03T09:45:58+00:00",
     "buy_link": "https://myntr.in/axFHPL",
     "date_iso": "2026-01-03T09:45:58+00:00"
-  },
-  {
-    "id": "msg23108",
-    "title": "Polyester Curtains for Door ( 7ft ) @799",
-    "description": "Amazon | Polyester Curtains for Door ( 7ft ) @799 https://www.amazon.in/dp/B0F2J1LXR7?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F2J1LXR7?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F2J1LXR7?tag=bestpricezo0f-21",
-        "label": "Polyester Curtains for Door ( 7ft ) @799"
-      }
-    ],
-    "raw_text": "Amazon | Polyester Curtains for Door ( 7ft ) @799\n\nhttps://www.amazon.in/dp/B0F2J1LXR7?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F2J1LXR7?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_23108.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-03T09:29:19+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F2J1LXR7?tag=bestpricezo0f-21",
-    "date_iso": "2026-01-03T09:29:19+00:00"
   }
 ]
