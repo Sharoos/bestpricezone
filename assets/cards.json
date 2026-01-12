@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23760",
+    "title": "Flat 12% Discount on Eyewear Top Brand",
+    "description": "Myntra | Flat 12% Coupon Discount on Eyewear Top Brands Use Coupon code : EYEWAEROFF",
+    "shortlink": "https://myntr.in/ID2uTL",
+    "urls": [
+      {
+        "url": "https://myntr.in/ID2uTL",
+        "label": ""
+      }
+    ],
+    "raw_text": "Myntra | Flat 12% Coupon Discount on Eyewear Top Brands\nUse Coupon code : EYEWAEROFF\n\nhttps://myntr.in/ID2uTL",
+    "final_url": "https://myntr.in/ID2uTL",
+    "local_image": "assets/images/tgmsg_23760.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-12T06:15:50+00:00",
+    "buy_link": "https://myntr.in/ID2uTL",
+    "date_iso": "2026-01-12T06:15:50+00:00"
+  },
+  {
     "id": "msg23757",
     "title": "Sanfe Instant Tan & Dead Skin Removal Exfoliating Gel 100g @159",
     "description": "Loot:  ✅ USE CODE: CKTAN50 • Extra 20% UPI DISCOUNT • Get Upto 200 Cashback On CRED UPI.",
@@ -9590,61 +9610,5 @@
     "date_obj": "2026-01-05T10:25:29+00:00",
     "buy_link": "https://bitli.in/tZuIHcS",
     "date_iso": "2026-01-05T10:25:29+00:00"
-  },
-  {
-    "id": "msg23202",
-    "title": "HyugaLife New Year Transformation Sale 💪Up to 70% OFF",
-    "description": "HyugaLife: New Year Transformation Sale 💪Up to 70% OFF ✅Extra 8% OFF — Use Code: DHAMAKA8 🔗 Shop Now: Quick Picks: • Whey Protein: • Peanut Butter: • Creatine: • Protein Bars: • BCAA: ✅ 100% Authentic | Free Shipping |…",
-    "shortlink": "https://bitli.in/nXUAvZf",
-    "urls": [
-      {
-        "url": "",
-        "label": "New Year Transformation Sale 💪Up to 70% OFF"
-      },
-      {
-        "url": "",
-        "label": "✅Extra 8% OFF — Use Code: DHAMAKA8"
-      },
-      {
-        "url": "https://bitli.in/nXUAvZf",
-        "label": "🔗 Shop Now"
-      },
-      {
-        "url": "",
-        "label": "Quick Picks"
-      },
-      {
-        "url": "https://bitli.in/YwKaKnb",
-        "label": "Whey Protein"
-      },
-      {
-        "url": "https://bitli.in/n5V64h4",
-        "label": "Peanut Butter"
-      },
-      {
-        "url": "https://bitli.in/9xoiI8d",
-        "label": "Creatine"
-      },
-      {
-        "url": "https://bitli.in/4lnRHb2",
-        "label": "Protein Bars"
-      },
-      {
-        "url": "https://bitli.in/9JJ8Qj0",
-        "label": "BCAA"
-      },
-      {
-        "url": "",
-        "label": "✅ 100% Authentic | Free Shipping | Lab Tested"
-      }
-    ],
-    "raw_text": "HyugaLife: New Year Transformation Sale 💪Up to 70% OFF \n\n✅Extra 8% OFF — Use Code: DHAMAKA8\n\n🔗 Shop Now: https://bitli.in/nXUAvZf\n\nQuick Picks:\n• Whey Protein: https://bitli.in/YwKaKnb\n• Peanut Butter: https://bitli.in/n5V64h4\n• Creatine: https://bitli.in/9xoiI8d\n• Protein Bars: https://bitli.in/4lnRHb2\n• BCAA: https://bitli.in/9JJ8Qj0\n\n✅ 100% Authentic | Free Shipping | Lab Tested",
-    "final_url": "https://bitli.in/nXUAvZf",
-    "local_image": "assets/images/tgmsg_23202.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-01-05T07:09:12+00:00",
-    "buy_link": "https://bitli.in/nXUAvZf",
-    "date_iso": "2026-01-05T07:09:12+00:00"
   }
 ]
