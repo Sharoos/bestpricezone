@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23809",
+    "title": "Up to 90% Off on Kotty Clothing",
+    "description": "Flipkart | Up to 90% Off on Kotty Clothing. 👉 https://fkrt.co/RpDgBG",
+    "shortlink": "https://fkrt.co/RpDgBG",
+    "urls": [
+      {
+        "url": "https://fkrt.co/RpDgBG",
+        "label": "Up to 90% Off on Kotty Clothing"
+      }
+    ],
+    "raw_text": "Flipkart | Up to 90% Off on Kotty Clothing.\n\n👉 https://fkrt.co/RpDgBG",
+    "final_url": "https://fkrt.co/RpDgBG",
+    "local_image": "assets/images/tgmsg_23809.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-12T16:21:48+00:00",
+    "buy_link": "https://fkrt.co/RpDgBG",
+    "date_iso": "2026-01-12T16:21:48+00:00"
+  },
+  {
     "id": "msg23807",
     "title": "60% Off On Wild Stone Beauty Product",
     "description": "Amazon | 50-60% Off On Wild Stone Beauty Products.…",
@@ -9794,25 +9814,5 @@
     "date_obj": "2026-01-05T19:35:33+00:00",
     "buy_link": "https://fkrt.co/a1FtK3",
     "date_iso": "2026-01-05T19:35:33+00:00"
-  },
-  {
-    "id": "msg23237",
-    "title": "PHILIPS TAS1400GY Wireless Bluetooth Speaker @1129",
-    "description": "Amazon | PHILIPS TAS1400GY Wireless Bluetooth Speaker @1129 https://www.amazon.in/dp/B0F8W3KX6J?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F8W3KX6J?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F8W3KX6J?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "PHILIPS TAS1400GY Wireless Bluetooth Speaker @1129"
-      }
-    ],
-    "raw_text": "Amazon | PHILIPS TAS1400GY Wireless Bluetooth Speaker @1129\n\nhttps://www.amazon.in/dp/B0F8W3KX6J?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F8W3KX6J?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_23237.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-05T18:58:13+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F8W3KX6J?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-01-05T18:58:13+00:00"
   }
 ]
