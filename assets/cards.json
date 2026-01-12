@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23746",
+    "title": "Mrp Error Daawat Basmati Rice 3kg At 165",
+    "description": "Mrp Error : Daawat Basmati Rice 3kg At 165: https://www.amazon.in/dp/B00XW5HRI8?psc=1&aod=1&tag=bestpricezo0f-21 *Buy in Maximum Quantity",
+    "shortlink": "https://www.amazon.in/dp/B00XW5HRI8?psc=1&aod=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B00XW5HRI8?psc=1&aod=1&tag=bestpricezo0f-21",
+        "label": "Daawat Basmati Rice 3kg At 165"
+      }
+    ],
+    "raw_text": "Mrp Error : Daawat Basmati Rice 3kg At 165: \n\nhttps://www.amazon.in/dp/B00XW5HRI8?psc=1&aod=1&tag=bestpricezo0f-21\n\n*Buy in Maximum Quantity",
+    "final_url": "https://www.amazon.in/dp/B00XW5HRI8?psc=1&aod=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_23746.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-12T00:47:58+00:00",
+    "buy_link": "https://www.amazon.in/dp/B00XW5HRI8?psc=1&aod=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-12T00:47:58+00:00"
+  },
+  {
     "id": "msg23743",
     "title": "Up to 80% Off On The Indian Garage Clothing",
     "description": "Myntra : Upto 80% Off On The Indian Garage Clothing. Jeans : Shirt : Sweatshirt : Jackets : Tshirt : Trousers : Shorts : Sweaters : Blazers :",
@@ -9530,53 +9550,5 @@
     "date_obj": "2026-01-03T18:41:06+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FCMHPPK5?tag=bestpricezo0f-21",
     "date_iso": "2026-01-03T18:41:06+00:00"
-  },
-  {
-    "id": "msg23149",
-    "title": "🛒 Deal Price From ₹329",
-    "description": "Myntra | 🔥 Winter Wear Deals Roadster Sweaters 🛒 Deal Price: From ₹329 Men: Roadster Sweatshirts 🛒 Deal Price: From ₹259 Men: Women:",
-    "shortlink": "https://myntr.in/0zmmuz",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Winter Wear Deals"
-      },
-      {
-        "url": "",
-        "label": "Roadster Sweaters"
-      },
-      {
-        "url": "",
-        "label": "🛒 Deal Price: From ₹329"
-      },
-      {
-        "url": "https://myntr.in/0zmmuz",
-        "label": "Men"
-      },
-      {
-        "url": "",
-        "label": "Roadster Sweatshirts"
-      },
-      {
-        "url": "",
-        "label": "🛒 Deal Price: From ₹259"
-      },
-      {
-        "url": "https://myntr.in/Co4peh",
-        "label": "Men"
-      },
-      {
-        "url": "https://myntr.in/rksY2H",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Myntra | 🔥 Winter Wear Deals\n\nRoadster Sweaters\n\n🛒 Deal Price: From ₹329\n\nMen: https://myntr.in/0zmmuz\n\nRoadster Sweatshirts\n\n🛒 Deal Price: From ₹259\n\nMen: https://myntr.in/Co4peh\nWomen: https://myntr.in/rksY2H",
-    "final_url": "https://myntr.in/0zmmuz",
-    "local_image": "assets/images/tgmsg_23149.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-03T17:46:06+00:00",
-    "buy_link": "https://myntr.in/0zmmuz",
-    "date_iso": "2026-01-03T17:46:06+00:00"
   }
 ]
