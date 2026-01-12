@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg23812",
+    "title": "🔥Clothing Starts ₹60",
+    "description": "🔥AJIO  Clothing Starts ₹60 Tshirt : https://ajiio.co/hLXjUF Shirt : https://ajiio.co/Aau544 Jeans : https://ajiio.co/TOrms4",
+    "shortlink": "https://ajiio.co/hLXjUF",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥AJIO Clothing Starts ₹60"
+      },
+      {
+        "url": "https://ajiio.co/hLXjUF",
+        "label": "Tshirt"
+      },
+      {
+        "url": "https://ajiio.co/Aau544",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://ajiio.co/TOrms4",
+        "label": "Jeans"
+      }
+    ],
+    "raw_text": "🔥AJIO  Clothing Starts ₹60\n\nTshirt : https://ajiio.co/hLXjUF\nShirt : https://ajiio.co/Aau544\nJeans : https://ajiio.co/TOrms4",
+    "final_url": "https://ajiio.co/hLXjUF",
+    "local_image": "assets/images/tgmsg_23812.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-12T16:51:31+00:00",
+    "buy_link": "https://ajiio.co/hLXjUF",
+    "date_iso": "2026-01-12T16:51:31+00:00"
+  },
+  {
     "id": "msg23809",
     "title": "Up to 90% Off on Kotty Clothing",
     "description": "Flipkart | Up to 90% Off on Kotty Clothing. 👉 https://fkrt.co/RpDgBG",
@@ -9794,25 +9826,5 @@
     "date_obj": "2026-01-05T19:34:15+00:00",
     "buy_link": "https://fkrt.co/GClJjX",
     "date_iso": "2026-01-05T19:34:15+00:00"
-  },
-  {
-    "id": "msg23253",
-    "title": "68% Off",
-    "description": "Flipkart | 68% Off - Sansui Warmix Fan Room Heater At Rs.1099 https://fkrt.co/a1FtK3",
-    "shortlink": "https://fkrt.co/a1FtK3",
-    "urls": [
-      {
-        "url": "https://fkrt.co/a1FtK3",
-        "label": "68% Off - Sansui Warmix Fan Room Heater At Rs.1099"
-      }
-    ],
-    "raw_text": "Flipkart | 68% Off - Sansui Warmix Fan Room Heater At Rs.1099\n\n  https://fkrt.co/a1FtK3",
-    "final_url": "https://fkrt.co/a1FtK3",
-    "local_image": "assets/images/tgmsg_23253.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-05T19:35:33+00:00",
-    "buy_link": "https://fkrt.co/a1FtK3",
-    "date_iso": "2026-01-05T19:35:33+00:00"
   }
 ]
