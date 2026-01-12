@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg23804",
+    "title": "essence Premium Age lux eye serum & applicator at 50% flat discount",
+    "description": "Myntra | Bio-essence Premium Age lux eye serum & applicator at 50% flat discount + Additional coupons applicable. https://myntr.in/SvRb3c",
+    "shortlink": "https://myntr.in/SvRb3c",
+    "urls": [
+      {
+        "url": "",
+        "label": "Bio-essence Premium Age lux eye serum & applicator at 50% flat discount"
+      },
+      {
+        "url": "https://myntr.in/SvRb3c",
+        "label": "+ Additional coupons applicable"
+      }
+    ],
+    "raw_text": "Myntra | Bio-essence Premium Age lux eye serum & applicator at 50% flat discount \n\n+ Additional coupons applicable.\n\nhttps://myntr.in/SvRb3c",
+    "final_url": "https://myntr.in/SvRb3c",
+    "local_image": "assets/images/tgmsg_23804.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-12T15:08:44+00:00",
+    "buy_link": "https://myntr.in/SvRb3c",
+    "date_iso": "2026-01-12T15:08:44+00:00"
+  },
+  {
     "id": "msg23802",
     "title": "Sale goes live tomorrow, 12 noon on",
     "description": "POCO M8 5G- Flipkart Starting at just ₹15,999 Flipkart Includes combined bank offers (SBI, HDFC, ICICI), exchange bonus & 6 Month No Cost EMI. Includes 1K coupon live for 12 hours Key Highlights: - Segment's Most…",
@@ -9790,25 +9814,5 @@
     "date_obj": "2026-01-05T19:08:10+00:00",
     "buy_link": "https://myntr.in/ry3XPF?",
     "date_iso": "2026-01-05T19:08:10+00:00"
-  },
-  {
-    "id": "msg23240",
-    "title": "PHILIPS Audio Wireless Bluetooth Speaker @1129",
-    "description": "Amazon | PHILIPS Audio Wireless Bluetooth Speaker @1129 https://www.amazon.in/dp/B0F8W13YTS?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F8W13YTS?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F8W13YTS?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "PHILIPS Audio Wireless Bluetooth Speaker @1129"
-      }
-    ],
-    "raw_text": "Amazon | PHILIPS Audio Wireless Bluetooth Speaker @1129\n\nhttps://www.amazon.in/dp/B0F8W13YTS?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F8W13YTS?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_23240.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-05T19:08:54+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F8W13YTS?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-01-05T19:08:54+00:00"
   }
 ]
