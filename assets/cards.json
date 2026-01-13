@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg23853",
+    "title": "Sale is live on",
+    "description": "POCO M8 5G- Flipkart Starting at just ₹15,999 Flipkart - Includes combined bank offers (SBI, HDFC, ICICI), exchange bonus & 6 Month No Cost EMI. Includes 1K coupon live for 12 hours Key Highlights: - Segment's Most…",
+    "shortlink": "https://fkrt.co/ufCRd7",
+    "urls": [
+      {
+        "url": "",
+        "label": "Sale is live on Flipkart"
+      },
+      {
+        "url": "",
+        "label": "Starting at just ₹15,999"
+      },
+      {
+        "url": "https://fkrt.co/ufCRd7",
+        "label": "Flipkart"
+      },
+      {
+        "url": "",
+        "label": "Key Highlights"
+      },
+      {
+        "url": "",
+        "label": "Segment's Most Durable 3D Curved AMOLED- MILITARY-GRADE CERTIFIED"
+      },
+      {
+        "url": "",
+        "label": "7.35mm slim and 178g light"
+      },
+      {
+        "url": "",
+        "label": "825K+ AnTuTu Score"
+      }
+    ],
+    "raw_text": "POCO M8 5G-Sale is live on Flipkart\n\nStarting at just ₹15,999\n\nFlipkart - https://fkrt.co/ufCRd7\n\nIncludes combined bank offers (SBI, HDFC, ICICI), exchange bonus & 6 Month  No Cost EMI. Includes 1K coupon live for 12 hours\n\nKey Highlights:\n- Segment's Most Durable 3D Curved AMOLED- MILITARY-GRADE CERTIFIED\n- Slimmest and Lightest in the Segment- 7.35mm slim and 178g light\n- SNAPDRAGON 6 GEN 3 PROCESSOR- 825K+ AnTuTu Score",
+    "final_url": "https://fkrt.co/ufCRd7",
+    "local_image": "assets/images/tgmsg_23853.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-13T08:51:05+00:00",
+    "buy_link": "https://fkrt.co/ufCRd7",
+    "date_iso": "2026-01-13T08:51:05+00:00"
+  },
+  {
     "id": "msg23852",
     "title": "₹200 OFF on ₹1,999 (SBI Card)",
     "description": "GROCERY DEALS – STARTING FROM Rs.19 Rs.19 : Rs.23 : Rs.25 : Rs.45 : Rs.55 : Rs.57 : Rs.64 : Rs.79 : Rs.82 : Rs.199 : Rs.1058 : 👉 MASTER GROCERY LINK: ✅ TOP CATEGORIES: • Atta / Rice – • Oil / Ghee – • Snacks – • Oral…",
@@ -9954,25 +9998,5 @@
     "date_obj": "2026-01-06T13:00:51+00:00",
     "buy_link": "https://myntr.in/mqy1CO",
     "date_iso": "2026-01-06T13:00:51+00:00"
-  },
-  {
-    "id": "msg23299",
-    "title": "5 mm Yoga Mats @199",
-    "description": "Amazon | 5 mm Yoga Mats @199 🔗 https://www.amazon.in/dp/B0DX1QJFK4?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DX1QJFK4?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DX1QJFK4?tag=bestpricezo0f-21",
-        "label": "5 mm Yoga Mats @199"
-      }
-    ],
-    "raw_text": "Amazon | 5 mm Yoga Mats @199\n\n🔗 https://www.amazon.in/dp/B0DX1QJFK4?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DX1QJFK4?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_23299.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-06T13:10:25+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DX1QJFK4?tag=bestpricezo0f-21",
-    "date_iso": "2026-01-06T13:10:25+00:00"
   }
 ]
