@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg23838",
+    "title": "🔥HRX Tracksuits Starts @ ₹701",
+    "description": "🔥Myntra : HRX Tracksuits Starts @ ₹701. Women : Men : Trackpants Starts @ ₹391. Men : Women :",
+    "shortlink": "https://myntr.in/UKYbsH",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥Myntra : HRX Tracksuits Starts @ ₹701"
+      },
+      {
+        "url": "https://myntr.in/UKYbsH",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/mhHOCb",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Trackpants Starts @ ₹391"
+      },
+      {
+        "url": "https://myntr.in/EM68a2",
+        "label": "Men"
+      },
+      {
+        "url": "https://myntr.in/o96pZV",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "🔥Myntra : HRX Tracksuits Starts @ ₹701.\n\nWomen : https://myntr.in/UKYbsH\nMen : https://myntr.in/mhHOCb\n\nTrackpants Starts @ ₹391.\n\nMen : https://myntr.in/EM68a2\nWomen : https://myntr.in/o96pZV",
+    "final_url": "https://myntr.in/UKYbsH",
+    "local_image": "assets/images/tgmsg_23838.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-13T04:39:08+00:00",
+    "buy_link": "https://myntr.in/UKYbsH",
+    "date_iso": "2026-01-13T04:39:08+00:00"
+  },
+  {
     "id": "msg23837",
     "title": "HamaraMall – Up to 85% OFF WOW Skin Science + Free Shipping 🔥",
     "description": "HamaraMall – Upto 85% OFF WOW Skin Science + Free Shipping 🔥 Shea Butter Moisture Cream 100ml ₹54. 🔗 💥 Code: DEAL45 [Apply Multiple times] Buy Other Deals ₹79👇 • Vitamin C Face Wash (Pack of 2) 🔗 • Himalayan Body Lotion…",
@@ -9806,49 +9846,5 @@
     "date_obj": "2026-01-06T08:34:21+00:00",
     "buy_link": "https://myntr.in/CTSoQW",
     "date_iso": "2026-01-06T08:34:21+00:00"
-  },
-  {
-    "id": "msg23276",
-    "title": "👗 New Year’s Magic – Up to 70% OFF on trendy fashion!",
-    "description": "✨ SAVANA New Year Sale is LIVE! ✨  🚚 Free Shipping on orders above ₹990 ⚡️ Fast delivery on 4000+ styles 🔄 Easy returns – stress free shopping 👉 Shop Now : 🛍 Grab your favourites before stocks run out!",
-    "shortlink": "https://extp.in/f07jLS/",
-    "urls": [
-      {
-        "url": "",
-        "label": "✨ SAVANA New Year Sale is LIVE! ✨"
-      },
-      {
-        "url": "",
-        "label": "👗 New Year’s Magic – Up to 70% OFF on trendy fashion!"
-      },
-      {
-        "url": "",
-        "label": "🚚 Free Shipping on orders above ₹990"
-      },
-      {
-        "url": "",
-        "label": "⚡️ Fast delivery on 4000+ styles"
-      },
-      {
-        "url": "",
-        "label": "🔄 Easy returns – stress free shopping"
-      },
-      {
-        "url": "https://extp.in/f07jLS/",
-        "label": "Shop Now"
-      },
-      {
-        "url": "",
-        "label": "🛍 Grab your favourites before stocks run out!"
-      }
-    ],
-    "raw_text": "✨ SAVANA New Year Sale is LIVE! ✨\n\n👗 New Year’s Magic – Up to 70% OFF on trendy fashion!\n🚚 Free Shipping on orders above ₹990\n⚡️ Fast delivery on 4000+ styles\n🔄 Easy returns – stress free shopping\n\n👉 Shop Now : https://extp.in/f07jLS/\n\n🛍 Grab your favourites before stocks run out!",
-    "final_url": "https://extp.in/f07jLS/",
-    "local_image": "assets/images/tgmsg_23276.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-06T08:34:32+00:00",
-    "buy_link": "https://extp.in/f07jLS/",
-    "date_iso": "2026-01-06T08:34:32+00:00"
   }
 ]
