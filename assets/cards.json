@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg23884",
+    "title": "Up to 80% Off On Branded Clothing",
+    "description": "AJIO Upto 80% Off On Branded Clothing. Men's : Shirts : Jeans : T-shirts : Jackets : Sweatshirts : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/jjjxUZ",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 80% Off On Branded Clothing"
+      },
+      {
+        "url": "https://ajiio.co/jjjxUZ",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/FTDzXi",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/uoA1l9",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/XeB4Ku",
+        "label": "T-shirts"
+      },
+      {
+        "url": "https://ajiio.co/ZvS7zp",
+        "label": "Jackets"
+      },
+      {
+        "url": "https://ajiio.co/gJS5GI",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "AJIO  Upto 80% Off On Branded Clothing.\n\nMen's : https://ajiio.co/jjjxUZ\n\nShirts : https://ajiio.co/FTDzXi\nJeans : https://ajiio.co/uoA1l9\nT-shirts : https://ajiio.co/XeB4Ku\nJackets : https://ajiio.co/ZvS7zp\nSweatshirts : https://ajiio.co/gJS5GI\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/jjjxUZ",
+    "local_image": "assets/images/tgmsg_23884.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-13T17:04:25+00:00",
+    "buy_link": "https://ajiio.co/jjjxUZ",
+    "date_iso": "2026-01-13T17:04:25+00:00"
+  },
+  {
     "id": "msg23883",
     "title": "🔥🔥Foot Rest for Office Chair. @1295",
     "description": "Amazon | 🔥🔥Foot Rest for Office Chair. @1295 Buy Here :…",
@@ -10070,25 +10118,5 @@
     "date_obj": "2026-01-06T16:06:43+00:00",
     "buy_link": "https://myntr.in/NPd3Ys",
     "date_iso": "2026-01-06T16:06:43+00:00"
-  },
-  {
-    "id": "msg23318",
-    "title": "TIARAA Get Any 3 Necklace or Bracelet @ 199 INR (Shipping free)",
-    "description": "TIARAA Loot : Get Any 3 Necklace or Bracelet @ 199 INR (Shipping free) Apply Coupon : LOOT3 Link :",
-    "shortlink": "https://bitli.in/bbxw7kE",
-    "urls": [
-      {
-        "url": "https://bitli.in/bbxw7kE",
-        "label": "Get Any 3 Necklace or Bracelet @ 199 INR (Shipping free)"
-      }
-    ],
-    "raw_text": "TIARAA  Loot : Get Any 3 Necklace or Bracelet @ 199 INR (Shipping free)\n\nApply Coupon : LOOT3\n\nLink : https://bitli.in/bbxw7kE",
-    "final_url": "https://bitli.in/bbxw7kE",
-    "local_image": "assets/images/tgmsg_23318.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-01-06T15:35:10+00:00",
-    "buy_link": "https://bitli.in/bbxw7kE",
-    "date_iso": "2026-01-06T15:35:10+00:00"
   }
 ]
