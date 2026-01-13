@@ -1,5 +1,81 @@
 [
   {
+    "id": "msg23851",
+    "title": "Lowest Price Guaranteed Up to 80% Off",
+    "description": "Flipkart: Lowest Price Guaranteed Upto 80% Off 🔗 Shop Now: Top Offers: | Combos: Category Deals: • Atta / Rice / Dal: • Oil & Ghee: • Noodles & Pasta: • Snacks: • Oral Care: • Personal Care: Special Offers: • Add to…",
+    "shortlink": "https://fktr.in/mahn97P",
+    "urls": [
+      {
+        "url": "",
+        "label": "Lowest Price Guaranteed Upto 80% Off"
+      },
+      {
+        "url": "https://fktr.in/mahn97P",
+        "label": "🔗 Shop Now"
+      },
+      {
+        "url": "https://fktr.in/G50QhJU",
+        "label": "Top Offers"
+      },
+      {
+        "url": "https://fktr.in/t0Dx6t1",
+        "label": "Combos"
+      },
+      {
+        "url": "",
+        "label": "Category Deals"
+      },
+      {
+        "url": "https://fktr.in/g9GVuzg",
+        "label": "Atta / Rice / Dal"
+      },
+      {
+        "url": "https://fktr.in/R2aSE78",
+        "label": "Oil & Ghee"
+      },
+      {
+        "url": "https://fktr.in/RlXbqTk",
+        "label": "Noodles & Pasta"
+      },
+      {
+        "url": "https://fktr.in/cqh76Uz",
+        "label": "Snacks"
+      },
+      {
+        "url": "https://fktr.in/p84CG7u",
+        "label": "Oral Care"
+      },
+      {
+        "url": "https://fktr.in/l3iq0st",
+        "label": "Personal Care"
+      },
+      {
+        "url": "",
+        "label": "Special Offers"
+      },
+      {
+        "url": "",
+        "label": "Add to cart & unlock ₹1 deals"
+      },
+      {
+        "url": "",
+        "label": "₹200 OFF on ₹1,999 (SBI Card)"
+      },
+      {
+        "url": "",
+        "label": "Extra ₹250 OFF on cart"
+      }
+    ],
+    "raw_text": "Flipkart: Lowest Price Guaranteed Upto 80% Off\n\n🔗 Shop Now: https://fktr.in/mahn97P\nTop Offers: https://fktr.in/G50QhJU | \nCombos: https://fktr.in/t0Dx6t1\n\nCategory Deals:\n• Atta / Rice / Dal: https://fktr.in/g9GVuzg\n• Oil & Ghee: https://fktr.in/R2aSE78\n• Noodles & Pasta: https://fktr.in/RlXbqTk\n• Snacks: https://fktr.in/cqh76Uz\n• Oral Care: https://fktr.in/p84CG7u\n• Personal Care: https://fktr.in/l3iq0st\n\nSpecial Offers: \n• Add to cart & unlock ₹1 deals\n• ₹200 OFF on ₹1,999 (SBI Card)\n• Extra ₹250 OFF on cart",
+    "final_url": "https://fktr.in/mahn97P",
+    "local_image": "assets/images/tgmsg_23851.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-13T07:38:47+00:00",
+    "buy_link": "https://fktr.in/mahn97P",
+    "date_iso": "2026-01-13T07:38:47+00:00"
+  },
+  {
     "id": "msg23849",
     "title": "Grocery Up to 90% Off",
     "description": "Flipkart Grocery Loot : Upto 90% Off Link 1 :   https://fktr.in/74C99p9 Link 2 :   https://fktr.in/6CaOjfJ Link 3 :   https://fktr.in/9bOfFtQ Loot Fast",
@@ -9854,29 +9930,5 @@
     "date_obj": "2026-01-06T12:00:08+00:00",
     "buy_link": "https://extp.in/7oc1F2",
     "date_iso": "2026-01-06T12:00:08+00:00"
-  },
-  {
-    "id": "msg23292",
-    "title": "Shopsy 🔥 SURYA GARAM MASALA, 500g @ 166",
-    "description": "Shopsy | 🔥  SURYA GARAM MASALA, 500g @ 166. 🔗 https://extp.in/C2Fdkt CHIRAG Jeera, 500g @ ₹177 🔗 https://extp.in/P4quip",
-    "shortlink": "https://extp.in/C2Fdkt",
-    "urls": [
-      {
-        "url": "https://extp.in/C2Fdkt",
-        "label": "🔥 SURYA GARAM MASALA, 500g @ 166"
-      },
-      {
-        "url": "https://extp.in/P4quip",
-        "label": "CHIRAG Jeera, 500g @ ₹177"
-      }
-    ],
-    "raw_text": "Shopsy | 🔥  SURYA GARAM MASALA, 500g @ 166.\n\n🔗 https://extp.in/C2Fdkt\n\nCHIRAG Jeera, 500g @ ₹177\n\n🔗 https://extp.in/P4quip",
-    "final_url": "https://extp.in/C2Fdkt",
-    "local_image": "assets/images/tgmsg_23292.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-06T12:10:37+00:00",
-    "buy_link": "https://extp.in/C2Fdkt",
-    "date_iso": "2026-01-06T12:10:37+00:00"
   }
 ]
