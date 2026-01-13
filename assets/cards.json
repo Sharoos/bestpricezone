@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg23849",
+    "title": "Grocery Up to 90% Off",
+    "description": "Flipkart Grocery Loot : Upto 90% Off Link 1 :   https://fktr.in/74C99p9 Link 2 :   https://fktr.in/6CaOjfJ Link 3 :   https://fktr.in/9bOfFtQ Loot Fast",
+    "shortlink": "https://fktr.in/74C99p9",
+    "urls": [
+      {
+        "url": "https://fktr.in/74C99p9",
+        "label": "Upto 90% Off"
+      },
+      {
+        "url": "https://fktr.in/6CaOjfJ",
+        "label": "Upto 90% Off"
+      },
+      {
+        "url": "https://fktr.in/9bOfFtQ",
+        "label": "Upto 90% Off"
+      },
+      {
+        "url": "",
+        "label": "Loot Fast"
+      }
+    ],
+    "raw_text": "Flipkart Grocery Loot : Upto 90% Off\n\nLink 1 :   https://fktr.in/74C99p9\nLink 2 :   https://fktr.in/6CaOjfJ\nLink 3 :   https://fktr.in/9bOfFtQ\n\nLoot Fast",
+    "final_url": "https://fktr.in/74C99p9",
+    "local_image": "assets/images/tgmsg_23849.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-13T07:18:18+00:00",
+    "buy_link": "https://fktr.in/74C99p9",
+    "date_iso": "2026-01-13T07:18:18+00:00"
+  },
+  {
     "id": "msg23842",
     "title": "Min 60% Off !!!",
     "description": "Myntra | Premium Bedsheet Deals !!! 1. Raymond Home Bedsheets Under 499 !!! 2. MYTRIDENT Bedsheets -  3. Spaces Bedsheets - Min 65% Off !!! 4. Portico Bedsheets - Min 50% Off !!!",
@@ -9846,25 +9878,5 @@
     "date_obj": "2026-01-06T12:10:37+00:00",
     "buy_link": "https://extp.in/C2Fdkt",
     "date_iso": "2026-01-06T12:10:37+00:00"
-  },
-  {
-    "id": "msg23293",
-    "title": "Safari Pentagon Pro 8 Wheels Cabin Trolley Bag @₹1,376",
-    "description": "Amazon | Safari Pentagon Pro 8 Wheels Cabin Trolley Bag @₹1,376 🔗 https://www.amazon.in/dp/B097BH338H?th=1&smid=AXOGFIT0PZZ7G&language=en_IN&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B097BH338H?th=1&smid=AXOGFIT0PZZ7G&language=en_IN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B097BH338H?th=1&smid=AXOGFIT0PZZ7G&language=en_IN&tag=bestpricezo0f-21",
-        "label": "Safari Pentagon Pro 8 Wheels Cabin Trolley Bag @₹1,376"
-      }
-    ],
-    "raw_text": "Amazon | Safari Pentagon Pro 8 Wheels Cabin Trolley Bag @₹1,376 \n\n🔗 https://www.amazon.in/dp/B097BH338H?th=1&smid=AXOGFIT0PZZ7G&language=en_IN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B097BH338H?th=1&smid=AXOGFIT0PZZ7G&language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_23293.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-06T12:20:24+00:00",
-    "buy_link": "https://www.amazon.in/dp/B097BH338H?th=1&smid=AXOGFIT0PZZ7G&language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2026-01-06T12:20:24+00:00"
   }
 ]
