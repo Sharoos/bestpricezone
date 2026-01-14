@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg23967",
+    "title": "Up to 75% Off On Puma Clothing",
+    "description": "Ajio  Upto 75% Off On Puma Clothing Men's : https://ajiio.co/Aju0zf Women's : https://ajiio.co/eRXlz5",
+    "shortlink": "https://ajiio.co/Aju0zf",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Upto 75% Off On Puma Clothing"
+      },
+      {
+        "url": "https://ajiio.co/Aju0zf",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/eRXlz5",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Ajio  Upto 75% Off On Puma Clothing \n\nMen's : https://ajiio.co/Aju0zf \nWomen's : https://ajiio.co/eRXlz5",
+    "final_url": "https://ajiio.co/Aju0zf",
+    "local_image": "assets/images/tgmsg_23967.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-14T17:46:54+00:00",
+    "buy_link": "https://ajiio.co/Aju0zf",
+    "date_iso": "2026-01-14T17:46:54+00:00"
+  },
+  {
     "id": "msg23963",
     "title": "Up to 89% Off On Buda Jeans Co Clothing",
     "description": "Ajio Upto 89% Off On Buda Jeans Co Clothing. T-Shirt : Trousers : Shirt : Jeans : Sweatshirts & Sweaters : Jackets : Trackpants & Shorts :",
@@ -10270,25 +10298,5 @@
     "date_obj": "2026-01-07T14:16:42+00:00",
     "buy_link": "https://fkrt.co/FblfrH",
     "date_iso": "2026-01-07T14:16:42+00:00"
-  },
-  {
-    "id": "msg23393",
-    "title": "Min 80% Off On Safari Suitcase",
-    "description": "Flipkart | Min 80% Off On Safari Suitcases 👉Link : https://fkrt.co/c4ztLG",
-    "shortlink": "https://fkrt.co/c4ztLG",
-    "urls": [
-      {
-        "url": "https://fkrt.co/c4ztLG",
-        "label": "Min 80% Off On Safari Suitcases"
-      }
-    ],
-    "raw_text": "Flipkart | Min 80% Off On Safari Suitcases\n\n👉Link : https://fkrt.co/c4ztLG",
-    "final_url": "https://fkrt.co/c4ztLG",
-    "local_image": "assets/images/tgmsg_23393.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-07T13:46:31+00:00",
-    "buy_link": "https://fkrt.co/c4ztLG",
-    "date_iso": "2026-01-07T13:46:31+00:00"
   }
 ]
