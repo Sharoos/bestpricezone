@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg23942",
+    "title": "🎉 WOW Birthday Flash Sale 🎉",
+    "description": "₹1 DEAL ALERT! Pay ₹1 + ₹99 shipping ⚡ First 100 orders only Hurry before stock runs out!\"",
+    "shortlink": "https://bitli.in/s77A0oy",
+    "urls": [
+      {
+        "url": "",
+        "label": "🎉 WOW Birthday Flash Sale 🎉"
+      },
+      {
+        "url": "",
+        "label": "₹1 DEAL ALERT!"
+      },
+      {
+        "url": "https://bitli.in/s77A0oy",
+        "label": "Pay ₹1 + ₹99 shipping"
+      },
+      {
+        "url": "",
+        "label": "⚡ First 100 orders only"
+      },
+      {
+        "url": "",
+        "label": "Hurry before stock runs out!\""
+      }
+    ],
+    "raw_text": "🎉 WOW Birthday Flash Sale 🎉\n\n ₹1 DEAL ALERT!\n Pay ₹1 + ₹99 shipping\n\nhttps://bitli.in/s77A0oy\n\n ⚡ First 100 orders only\n Hurry before stock runs out!\"",
+    "final_url": "https://bitli.in/s77A0oy",
+    "local_image": "assets/images/tgmsg_23942.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2026-01-14T13:34:00+00:00",
+    "buy_link": "https://bitli.in/s77A0oy",
+    "date_iso": "2026-01-14T13:34:00+00:00"
+  },
+  {
     "id": "msg23938",
     "title": "₹200 OFF on ₹1999 (SBI Card)",
     "description": "Grocery Loot [Check Your Location] 39 : 42 : 48 : 68 : 87 : 95 : 103 : 189 : Master Link : Top Categories : • Atta / Rice : • Oil / Ghee : • Snacks : • Oral Care : • Tea / Coffee : Extra Savings : • Add to cart & unlock…",
@@ -10182,49 +10218,5 @@
     "date_obj": "2026-01-07T08:40:17+00:00",
     "buy_link": "https://myntr.in/wcrhg5",
     "date_iso": "2026-01-07T08:40:17+00:00"
-  },
-  {
-    "id": "msg23367",
-    "title": "MediBuddy Flat ₹4,200 OFF on Complete Health Package At Rs.799 🔥🔥🔥",
-    "description": "🩺 Full Body Check-up, Vitamin D Test,HbA1c (Sugar) Test + Thyroid Profile (T3 / T4 / TSH) 👉 Book Now : 🎟 Apply Coupon: MED84 ✅ Includes 64 Tests: CBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Thyroid, Vitamin D &…",
-    "shortlink": "https://extp.in/YbRU39",
-    "urls": [
-      {
-        "url": "",
-        "label": "MediBuddy Flat ₹4,200 OFF on Complete Health Package At Rs.799 🔥🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "🩺 Full Body Check-up, Vitamin D Test,HbA1c (Sugar) Test + Thyroid Profile (T3 / T4 / TSH)"
-      },
-      {
-        "url": "https://extp.in/YbRU39",
-        "label": "Book Now"
-      },
-      {
-        "url": "",
-        "label": "✅ Includes 64 Tests: CBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Thyroid, Vitamin D & more"
-      },
-      {
-        "url": "",
-        "label": "🎁 Bonus: Free JioSaavn Pro Subscription"
-      },
-      {
-        "url": "",
-        "label": "💳 Extra: Pay via CRED & get up to ₹250 cashback"
-      },
-      {
-        "url": "",
-        "label": "⏳ Limited period offer | Slots may fill fast 🚀"
-      }
-    ],
-    "raw_text": "MediBuddy  Flat ₹4,200 OFF on Complete Health Package At Rs.799 🔥🔥🔥\n\n🩺 Full Body Check-up, Vitamin D Test,HbA1c (Sugar) Test + Thyroid Profile (T3 / T4 / TSH)\n\n👉 Book Now : https://extp.in/YbRU39\n\n🎟 Apply Coupon: MED84\n\n✅ Includes 64 Tests: CBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Thyroid, Vitamin D & more\n\n🎁 Bonus: Free JioSaavn Pro Subscription\n💳 Extra: Pay via CRED & get up to ₹250 cashback\n\n⏳ Limited period offer | Slots may fill fast 🚀",
-    "final_url": "https://extp.in/YbRU39",
-    "local_image": "assets/images/tgmsg_23367.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-07T08:56:13+00:00",
-    "buy_link": "https://extp.in/YbRU39",
-    "date_iso": "2026-01-07T08:56:13+00:00"
   }
 ]
