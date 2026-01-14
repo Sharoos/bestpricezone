@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg23916",
+    "title": "🔥 Denver Perfumes & Deodorants – Up to 55% OFF 🔥",
+    "description": "🔥 Myntra | Denver Perfumes & Deodorants – Up to 55% OFF 🔥 🔗 Shop here: https://myntr.in/JcSSx1",
+    "shortlink": "https://myntr.in/JcSSx1",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Myntra | Denver Perfumes & Deodorants – Up to 55% OFF 🔥"
+      },
+      {
+        "url": "https://myntr.in/JcSSx1",
+        "label": "🔗 Shop here"
+      }
+    ],
+    "raw_text": "🔥 Myntra | Denver Perfumes & Deodorants – Up to 55% OFF 🔥\n\n🔗 Shop here: https://myntr.in/JcSSx1",
+    "final_url": "https://myntr.in/JcSSx1",
+    "local_image": "assets/images/tgmsg_23916.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-14T05:46:08+00:00",
+    "buy_link": "https://myntr.in/JcSSx1",
+    "date_iso": "2026-01-14T05:46:08+00:00"
+  },
+  {
     "id": "msg23912",
     "title": "Up to 60% Off On Head & Shoulder Shampoo",
     "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos. https://fkrt.co/PTI7Xe",
@@ -10162,25 +10186,5 @@
     "date_obj": "2026-01-07T05:01:40+00:00",
     "buy_link": "https://fkrt.co/IIZq4F",
     "date_iso": "2026-01-07T05:01:40+00:00"
-  },
-  {
-    "id": "msg23346",
-    "title": "Dust Decorative Ceiling Fan @ 1099",
-    "description": "Amazon | LONGWAY Anti-Dust Decorative Ceiling Fan @ 1099. https://www.amazon.in/dp/B0BMFDYX7Y?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0BMFDYX7Y?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BMFDYX7Y?tag=bestpricezo0f-21",
-        "label": "LONGWAY Anti-Dust Decorative Ceiling Fan @ 1099"
-      }
-    ],
-    "raw_text": "Amazon | LONGWAY Anti-Dust Decorative Ceiling Fan @ 1099.\n\nhttps://www.amazon.in/dp/B0BMFDYX7Y?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0BMFDYX7Y?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_23346.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-07T04:46:41+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BMFDYX7Y?tag=bestpricezo0f-21",
-    "date_iso": "2026-01-07T04:46:41+00:00"
   }
 ]
