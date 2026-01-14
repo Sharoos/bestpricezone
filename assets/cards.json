@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23953",
+    "title": "💥Up to 75% Off on OverSized Tshirts Starts @390",
+    "description": "💥Ajio | Upto 75% Off on OverSized Tshirts Starts @390. 👉Link : https://ajiio.co/zcz1ta",
+    "shortlink": "https://ajiio.co/zcz1ta",
+    "urls": [
+      {
+        "url": "https://ajiio.co/zcz1ta",
+        "label": "💥Ajio | Upto 75% Off on OverSized Tshirts Starts @390"
+      }
+    ],
+    "raw_text": "💥Ajio | Upto 75% Off on OverSized Tshirts Starts @390.\n\n👉Link : https://ajiio.co/zcz1ta",
+    "final_url": "https://ajiio.co/zcz1ta",
+    "local_image": "assets/images/tgmsg_23953.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-14T15:07:02+00:00",
+    "buy_link": "https://ajiio.co/zcz1ta",
+    "date_iso": "2026-01-14T15:07:02+00:00"
+  },
+  {
     "id": "msg23946",
     "title": "🎉 WOW Birthday Flash Sale 🎉",
     "description": "₹1 DEAL ALERT! Pay ₹1 + ₹99 shipping 🔗 ⚡ First 100 orders only Hurry before stock runs out!\"",
@@ -10246,29 +10266,5 @@
     "date_obj": "2026-01-07T10:10:44+00:00",
     "buy_link": "https://myntr.in/zvEOKm",
     "date_iso": "2026-01-07T10:10:44+00:00"
-  },
-  {
-    "id": "msg23375",
-    "title": "Up to 79% Off",
-    "description": "Flipkart | Upto 79% Off - Maxima Wrist Watches Starting Rs.319 🔗 https://fkrt.co/wKErQw",
-    "shortlink": "https://fkrt.co/wKErQw",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 79% Off - Maxima Wrist Watches"
-      },
-      {
-        "url": "https://fkrt.co/wKErQw",
-        "label": "Starting Rs.319"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 79% Off - Maxima Wrist Watches\n\nStarting Rs.319 \n\n🔗 https://fkrt.co/wKErQw",
-    "final_url": "https://fkrt.co/wKErQw",
-    "local_image": "assets/images/tgmsg_23375.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-07T10:20:30+00:00",
-    "buy_link": "https://fkrt.co/wKErQw",
-    "date_iso": "2026-01-07T10:20:30+00:00"
   }
 ]
