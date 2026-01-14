@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg23962",
+    "title": "Miraggio Min 50%",
+    "description": "Ajio | Miraggio Min 50% https://ajiio.co/87sfSj Soch Min 60% https://ajiio.co/FafJVI",
+    "shortlink": "https://ajiio.co/87sfSj",
+    "urls": [
+      {
+        "url": "https://ajiio.co/87sfSj",
+        "label": "Miraggio Min 50%"
+      },
+      {
+        "url": "https://ajiio.co/FafJVI",
+        "label": "Soch Min 60%"
+      }
+    ],
+    "raw_text": "Ajio | Miraggio Min 50%\nhttps://ajiio.co/87sfSj\n\nSoch Min 60%\nhttps://ajiio.co/FafJVI",
+    "final_url": "https://ajiio.co/87sfSj",
+    "local_image": "assets/images/tgmsg_23962.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-14T16:47:12+00:00",
+    "buy_link": "https://ajiio.co/87sfSj",
+    "date_iso": "2026-01-14T16:47:12+00:00"
+  },
+  {
     "id": "msg23958",
     "title": "Mix Dryfruits 500g @ ₹276",
     "description": "Flipkart | Mix Dryfruits 500g @ ₹276 👉https://fkrt.co/wgHFli",
@@ -10286,29 +10310,5 @@
     "date_obj": "2026-01-07T12:10:52+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FVSCYXND?th=1&ck&tag=bestpricezo0f-21",
     "date_iso": "2026-01-07T12:10:52+00:00"
-  },
-  {
-    "id": "msg23384",
-    "title": "Unibic Danish Coconut Cookies, 270/300g (weight may vary)",
-    "description": "Amazon | Unibic Danish Coconut Cookies, 270/300g (weight may vary) ₹64 🔗 https://www.amazon.in/dp/B0CG8TB6JB/ref=cm_sw_r_as_gl_apa_gl_i_8VDSCCP83YRVDW3KYWED?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0CG8TB6JB/ref=cm_sw_r_as_gl_apa_gl_i_8VDSCCP83YRVDW3KYWED?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Unibic Danish Coconut Cookies, 270/300g (weight may vary)"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0CG8TB6JB/ref=cm_sw_r_as_gl_apa_gl_i_8VDSCCP83YRVDW3KYWED?tag=bestpricezo0f-21",
-        "label": "₹64 🔗"
-      }
-    ],
-    "raw_text": "Amazon | Unibic Danish Coconut Cookies, 270/300g (weight may vary)\n\n₹64 🔗 https://www.amazon.in/dp/B0CG8TB6JB/ref=cm_sw_r_as_gl_apa_gl_i_8VDSCCP83YRVDW3KYWED?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CG8TB6JB/ref=cm_sw_r_as_gl_apa_gl_i_8VDSCCP83YRVDW3KYWED?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_23384.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-07T12:22:25+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CG8TB6JB/ref=cm_sw_r_as_gl_apa_gl_i_8VDSCCP83YRVDW3KYWED?tag=bestpricezo0f-21",
-    "date_iso": "2026-01-07T12:22:25+00:00"
   }
 ]
