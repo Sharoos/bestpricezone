@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg23923",
+    "title": "✨ SAVANA New Year Sale 2026 ✨",
+    "description": "🌸 Glow Ups Hit Different! 🔥 Up to 50% OFF on trending fashion styles 🎟 Extra ₹1000 Coupon available 🚚 Free Shipping on orders ₹990+ | Easy Returns 🔗 Link : 🛒 Don’t wait – refresh your wardrobe now! 💃",
+    "shortlink": "https://extp.in/PgbrZX",
+    "urls": [
+      {
+        "url": "",
+        "label": "✨ SAVANA New Year Sale 2026 ✨"
+      },
+      {
+        "url": "",
+        "label": "🌸 Glow Ups Hit Different!"
+      },
+      {
+        "url": "",
+        "label": "🔥 Up to 50% OFF on trending fashion styles"
+      },
+      {
+        "url": "https://extp.in/PgbrZX",
+        "label": "🚚 Free Shipping on orders ₹990+ | Easy Returns"
+      },
+      {
+        "url": "",
+        "label": "🛒 Don’t wait – refresh your wardrobe now! 💃"
+      }
+    ],
+    "raw_text": "✨ SAVANA New Year Sale 2026 ✨\n\n🌸 Glow Ups Hit Different!\n\n🔥 Up to 50% OFF on trending fashion styles\n🎟 Extra ₹1000 Coupon available\n🚚 Free Shipping on orders ₹990+ | Easy Returns\n\n🔗 Link : https://extp.in/PgbrZX\n\n🛒 Don’t wait – refresh your wardrobe now! 💃",
+    "final_url": "https://extp.in/PgbrZX",
+    "local_image": "assets/images/tgmsg_23923.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-01-14T07:31:41+00:00",
+    "buy_link": "https://extp.in/PgbrZX",
+    "date_iso": "2026-01-14T07:31:41+00:00"
+  },
+  {
     "id": "msg23916",
     "title": "🔥 Denver Perfumes & Deodorants – Up to 55% OFF 🔥",
     "description": "🔥 Myntra | Denver Perfumes & Deodorants – Up to 55% OFF 🔥 🔗 Shop here: https://myntr.in/JcSSx1",
@@ -10142,49 +10178,5 @@
     "date_obj": "2026-01-07T05:35:23+00:00",
     "buy_link": "https://myntr.in/IhUhP5",
     "date_iso": "2026-01-07T05:35:23+00:00"
-  },
-  {
-    "id": "msg23347",
-    "title": "Up to 82% Off On Branded Backpacks Starting @ ₹ 329",
-    "description": "Flipkart | Upto 82% Off On Branded Backpacks Starting @ ₹ 329 Skybags : Safari : Wildcraft : Gear : Lavie : American Tourister :",
-    "shortlink": "https://fkrt.co/IIZq4F",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 82% Off On Branded Backpacks Starting @ ₹ 329"
-      },
-      {
-        "url": "https://fkrt.co/IIZq4F",
-        "label": "Skybags"
-      },
-      {
-        "url": "https://fkrt.co/tmBpET",
-        "label": "Safari"
-      },
-      {
-        "url": "https://fkrt.co/kPGdqY",
-        "label": "Wildcraft"
-      },
-      {
-        "url": "https://fkrt.co/s8fb7V",
-        "label": "Gear"
-      },
-      {
-        "url": "https://fkrt.co/yO1jog",
-        "label": "Lavie"
-      },
-      {
-        "url": "https://fkrt.co/meRT60",
-        "label": "American Tourister"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 82% Off On Branded Backpacks Starting @ ₹ 329\n\nSkybags :https://fkrt.co/IIZq4F\nSafari :https://fkrt.co/tmBpET \nWildcraft :https://fkrt.co/kPGdqY\nGear :https://fkrt.co/s8fb7V\nLavie :https://fkrt.co/yO1jog\nAmerican Tourister :https://fkrt.co/meRT60",
-    "final_url": "https://fkrt.co/IIZq4F",
-    "local_image": "assets/images/tgmsg_23347.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-07T05:01:40+00:00",
-    "buy_link": "https://fkrt.co/IIZq4F",
-    "date_iso": "2026-01-07T05:01:40+00:00"
   }
 ]
