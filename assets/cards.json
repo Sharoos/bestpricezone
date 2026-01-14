@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg23933",
+    "title": "PONGUM PONGAL DEAL",
+    "description": "Flipkart | PONGUM PONGAL DEALS 👉 https://fkrt.co/bELdr9",
+    "shortlink": "https://fkrt.co/bELdr9",
+    "urls": [
+      {
+        "url": "https://fkrt.co/bELdr9",
+        "label": "PONGUM PONGAL DEALS"
+      }
+    ],
+    "raw_text": "Flipkart | PONGUM PONGAL DEALS \n\n👉 https://fkrt.co/bELdr9",
+    "final_url": "https://fkrt.co/bELdr9",
+    "local_image": "assets/images/tgmsg_23933.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-14T09:45:36+00:00",
+    "buy_link": "https://fkrt.co/bELdr9",
+    "date_iso": "2026-01-14T09:45:36+00:00"
+  },
+  {
     "id": "msg23930",
     "title": "Lowest Price Guaranteed Up to 80% Off",
     "description": "Flipkart: Lowest Price Guaranteed Upto 80% Off 🔗 Shop Now: Top Offers: | Combos: Category Deals: • Atta / Rice / Dal: • Oil & Ghee: • Noodles & Pasta: • Snacks: • Oral Care: • Personal Care: Special Offers: • Add to…",
@@ -10142,33 +10162,5 @@
     "date_obj": "2026-01-07T08:24:51+00:00",
     "buy_link": "https://extp.in/Rrl0Un",
     "date_iso": "2026-01-07T08:24:51+00:00"
-  },
-  {
-    "id": "msg23359",
-    "title": "Min 70% off on Winter Bedsheet",
-    "description": "Myntra | Premium Urban Space Bedsheets starting @ 599 Only 🔗 s 🔗 Min 60% off on Winter Blankets 🔗",
-    "shortlink": "https://myntr.in/jTY1nB",
-    "urls": [
-      {
-        "url": "https://myntr.in/jTY1nB",
-        "label": "Premium Urban Space Bedsheets starting @ 599 Only"
-      },
-      {
-        "url": "https://myntr.in/ZfC5F0",
-        "label": "Min 70% off on Winter Bedsheets"
-      },
-      {
-        "url": "https://myntr.in/moiyxV",
-        "label": "Min 60% off on Winter Blankets"
-      }
-    ],
-    "raw_text": "Myntra | Premium Urban Space Bedsheets starting @ 599 Only\n🔗 https://myntr.in/jTY1nB\n\nMin 70% off on Winter Bedsheets\n🔗 https://myntr.in/ZfC5F0\n\nMin 60% off on Winter Blankets \n🔗 https://myntr.in/moiyxV",
-    "final_url": "https://myntr.in/jTY1nB",
-    "local_image": "assets/images/tgmsg_23359.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-07T07:34:41+00:00",
-    "buy_link": "https://myntr.in/jTY1nB",
-    "date_iso": "2026-01-07T07:34:41+00:00"
   }
 ]
