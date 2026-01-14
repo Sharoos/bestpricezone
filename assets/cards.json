@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg23935",
+    "title": "Clothing Starting from ₹50",
+    "description": "Ajio Loot : Clothing Starting from ₹50 Men : https://ajiio.in/VpW0ZO9 Women : https://ajiio.in/98VLucx",
+    "shortlink": "https://ajiio.in/VpW0ZO9",
+    "urls": [
+      {
+        "url": "",
+        "label": "Clothing Starting from ₹50"
+      },
+      {
+        "url": "https://ajiio.in/VpW0ZO9",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.in/98VLucx",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Ajio Loot : Clothing Starting from ₹50\n\nMen : https://ajiio.in/VpW0ZO9\nWomen : https://ajiio.in/98VLucx",
+    "final_url": "https://ajiio.in/VpW0ZO9",
+    "local_image": "assets/images/tgmsg_23935.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-14T10:04:31+00:00",
+    "buy_link": "https://ajiio.in/VpW0ZO9",
+    "date_iso": "2026-01-14T10:04:31+00:00"
+  },
+  {
     "id": "msg23933",
     "title": "PONGUM PONGAL DEAL",
     "description": "Flipkart | PONGUM PONGAL DEALS 👉 https://fkrt.co/bELdr9",
@@ -10142,25 +10170,5 @@
     "date_obj": "2026-01-07T08:02:45+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DZXTVL6V?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2026-01-07T08:02:45+00:00"
-  },
-  {
-    "id": "msg23365",
-    "title": "Shopsy Saffola Honey 1 Kg ₹165",
-    "description": "Shopsy |   Saffola Honey 1 Kg ₹165 🔗 https://extp.in/Rrl0Un",
-    "shortlink": "https://extp.in/Rrl0Un",
-    "urls": [
-      {
-        "url": "https://extp.in/Rrl0Un",
-        "label": "Saffola Honey 1 Kg ₹165"
-      }
-    ],
-    "raw_text": "Shopsy |   Saffola Honey 1 Kg ₹165\n\n🔗 https://extp.in/Rrl0Un",
-    "final_url": "https://extp.in/Rrl0Un",
-    "local_image": "assets/images/tgmsg_23365.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-07T08:24:51+00:00",
-    "buy_link": "https://extp.in/Rrl0Un",
-    "date_iso": "2026-01-07T08:24:51+00:00"
   }
 ]
