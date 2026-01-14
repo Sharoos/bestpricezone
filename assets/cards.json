@@ -1,5 +1,77 @@
 [
   {
+    "id": "msg23912",
+    "title": "Up to 60% Off On Head & Shoulder Shampoo",
+    "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos. https://fkrt.co/PTI7Xe",
+    "shortlink": "https://fkrt.co/PTI7Xe",
+    "urls": [
+      {
+        "url": "https://fkrt.co/PTI7Xe",
+        "label": "Upto 60% Off On Head & Shoulder Shampoos"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos.\n\nhttps://fkrt.co/PTI7Xe",
+    "final_url": "https://fkrt.co/PTI7Xe",
+    "local_image": "assets/images/tgmsg_23912.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-14T05:01:14+00:00",
+    "buy_link": "https://fkrt.co/PTI7Xe",
+    "date_iso": "2026-01-14T05:01:14+00:00"
+  },
+  {
+    "id": "msg23913",
+    "title": "Up to 90% Off On Tokyo Talkies Women Clothing",
+    "description": "Myntra Upto 90% Off On Tokyo Talkies Women Clothing. Dresses : Jeans : Tops : Sweatshirts : Sweaters : Shirt : Co-Ords & Jumpsuit Trousers :",
+    "shortlink": "https://myntr.in/mSzQhD",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Upto 90% Off On Tokyo Talkies Women Clothing"
+      },
+      {
+        "url": "https://myntr.in/mSzQhD",
+        "label": "Dresses"
+      },
+      {
+        "url": "https://myntr.in/Sl9hYx",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://myntr.in/ccbHFU",
+        "label": "Tops"
+      },
+      {
+        "url": "https://myntr.in/mQZ7Rk",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "https://myntr.in/XVCjip",
+        "label": "Sweaters"
+      },
+      {
+        "url": "https://myntr.in/YQNMuJ",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://myntr.in/JEjZPR",
+        "label": "Ords & Jumpsuit"
+      },
+      {
+        "url": "https://myntr.in/HoqTQH",
+        "label": "Trousers"
+      }
+    ],
+    "raw_text": "Myntra  Upto 90% Off On Tokyo Talkies Women Clothing.\n\nDresses : https://myntr.in/mSzQhD\nJeans : https://myntr.in/Sl9hYx\nTops : https://myntr.in/ccbHFU\nSweatshirts : https://myntr.in/mQZ7Rk\nSweaters : https://myntr.in/XVCjip\nShirt : https://myntr.in/YQNMuJ\nCo-Ords & Jumpsuit https://myntr.in/JEjZPR\nTrousers : https://myntr.in/HoqTQH",
+    "final_url": "https://myntr.in/mSzQhD",
+    "local_image": "assets/images/tgmsg_23913.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-14T05:18:31+00:00",
+    "buy_link": "https://myntr.in/mSzQhD",
+    "date_iso": "2026-01-14T05:18:31+00:00"
+  },
+  {
     "id": "msg23908",
     "title": "MediBuddy Flat ₹4,200 OFF on Complete Health Package At Rs.799 🔥🔥🔥",
     "description": "🩺 Full Body Check-up, Vitamin D Test,HbA1c (Sugar) Test + Thyroid Profile (T3 / T4 / TSH) 👉 Book Now : 🎟 Apply Coupon: MED84 ✅ Includes 64 Tests: CBC, HbA1c, Iron Studies, KFT, LFT, Lipid Profile, Thyroid, Vitamin D &…",
@@ -10110,61 +10182,5 @@
     "date_obj": "2026-01-07T04:46:41+00:00",
     "buy_link": "https://www.amazon.in/dp/B0BMFDYX7Y?tag=bestpricezo0f-21",
     "date_iso": "2026-01-07T04:46:41+00:00"
-  },
-  {
-    "id": "msg23345",
-    "title": "Up to 60% Off On The Bear House Clothing",
-    "description": "Flipkart | Upto 60% Off On The Bear House Clothing. Shirts https://fkrt.co/Y6xYNi Tshirts https://fkrt.co/qFemZ3 Jeans https://fkrt.co/JYc47D",
-    "shortlink": "https://fkrt.co/Y6xYNi",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 60% Off On The Bear House Clothing"
-      },
-      {
-        "url": "https://fkrt.co/Y6xYNi",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://fkrt.co/qFemZ3",
-        "label": "Tshirts"
-      },
-      {
-        "url": "https://fkrt.co/JYc47D",
-        "label": "Jeans"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 60% Off On The Bear House Clothing.\n\nShirts https://fkrt.co/Y6xYNi\nTshirts https://fkrt.co/qFemZ3\nJeans https://fkrt.co/JYc47D",
-    "final_url": "https://fkrt.co/Y6xYNi",
-    "local_image": "assets/images/tgmsg_23345.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-07T04:18:49+00:00",
-    "buy_link": "https://fkrt.co/Y6xYNi",
-    "date_iso": "2026-01-07T04:18:49+00:00"
-  },
-  {
-    "id": "msg23344",
-    "title": "Up to 76% Off On Styli Clothing",
-    "description": "Myntra | Upto 76% Off On Styli Clothing Men : https://myntr.in/fEecoM Women : https://myntr.in/4RfZD0",
-    "shortlink": "https://myntr.in/fEecoM",
-    "urls": [
-      {
-        "url": "https://myntr.in/fEecoM",
-        "label": "Upto 76% Off On Styli Clothing"
-      },
-      {
-        "url": "https://myntr.in/4RfZD0",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Myntra | Upto 76% Off On Styli Clothing\n\nMen : https://myntr.in/fEecoM\nWomen : https://myntr.in/4RfZD0",
-    "final_url": "https://myntr.in/fEecoM",
-    "local_image": "assets/images/tgmsg_23344.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-07T03:46:31+00:00",
-    "buy_link": "https://myntr.in/fEecoM",
-    "date_iso": "2026-01-07T03:46:31+00:00"
   }
 ]
