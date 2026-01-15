@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg23994",
+    "title": "Flat 70% Off",
+    "description": "Myntra | 👟 Puma Shoe Steal Deals Flat 70% Off Men's: https://myntr.in/MGcvgM",
+    "shortlink": "https://myntr.in/MGcvgM",
+    "urls": [
+      {
+        "url": "",
+        "label": "👟 Puma Shoe Steal Deals"
+      },
+      {
+        "url": "",
+        "label": "Flat 70% Off"
+      },
+      {
+        "url": "https://myntr.in/MGcvgM",
+        "label": "Men's"
+      }
+    ],
+    "raw_text": "Myntra | 👟 Puma Shoe Steal Deals\n\nFlat 70% Off\n\nMen's: https://myntr.in/MGcvgM",
+    "final_url": "https://myntr.in/MGcvgM",
+    "local_image": "assets/images/tgmsg_23994.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-15T04:31:33+00:00",
+    "buy_link": "https://myntr.in/MGcvgM",
+    "date_iso": "2026-01-15T04:31:33+00:00"
+  },
+  {
+    "id": "msg23995",
+    "title": "Aristocrat Duffel Bags @₹469",
+    "description": "Flipkart | Aristocrat Duffel Bags @₹469 https://fkrt.co/QGWZkb",
+    "shortlink": "https://fkrt.co/QGWZkb",
+    "urls": [
+      {
+        "url": "https://fkrt.co/QGWZkb",
+        "label": "Aristocrat Duffel Bags @₹469"
+      }
+    ],
+    "raw_text": "Flipkart | Aristocrat Duffel Bags @₹469\n\nhttps://fkrt.co/QGWZkb",
+    "final_url": "https://fkrt.co/QGWZkb",
+    "local_image": "assets/images/tgmsg_23995.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-15T04:46:18+00:00",
+    "buy_link": "https://fkrt.co/QGWZkb",
+    "date_iso": "2026-01-15T04:46:18+00:00"
+  },
+  {
     "id": "msg23991",
     "title": "Footwears @199",
     "description": "Loot Footwears @199. Men's : https://ajiio.in/2Ue0dqO Women's : https://ajiio.in/aiIrKOs",
@@ -10190,73 +10238,5 @@
     "date_obj": "2026-01-07T17:16:40+00:00",
     "buy_link": "https://fkrt.co/aCv5im",
     "date_iso": "2026-01-07T17:16:40+00:00"
-  },
-  {
-    "id": "msg23412",
-    "title": "Crazy Deals Min 50% Off On Top Brand",
-    "description": "Ajio s • GAS : • Gap : • Superdry : • Tommy Hilfiger : • Steve Madden : • Gant : Extra 10% Ajio Cashback On Every Order (100% Usable)",
-    "shortlink": "https://ajiio.co/0ptrAI",
-    "urls": [
-      {
-        "url": "https://ajiio.co/0ptrAI",
-        "label": "Ajio Crazy Deals Min 50% Off On Top Brands"
-      },
-      {
-        "url": "https://ajiio.co/FpuIMb",
-        "label": "Gap"
-      },
-      {
-        "url": "https://ajiio.co/p1myvw",
-        "label": "Superdry"
-      },
-      {
-        "url": "https://ajiio.co/kEQbwm",
-        "label": "Tommy Hilfiger"
-      },
-      {
-        "url": "https://ajiio.co/tXHw2u",
-        "label": "Steve Madden"
-      },
-      {
-        "url": "https://ajiio.co/ETvOBC",
-        "label": "Gant"
-      },
-      {
-        "url": "",
-        "label": "Extra 10% Ajio Cashback On Every Order (100% Usable)"
-      }
-    ],
-    "raw_text": "Ajio Crazy Deals Min 50% Off On Top Brands\n\n• GAS : https://ajiio.co/0ptrAI\n• Gap : https://ajiio.co/FpuIMb    \n• Superdry : https://ajiio.co/p1myvw\n• Tommy Hilfiger : https://ajiio.co/kEQbwm  \n• Steve Madden : https://ajiio.co/tXHw2u\n• Gant : https://ajiio.co/ETvOBC\n\nExtra 10% Ajio Cashback On Every Order (100% Usable)",
-    "final_url": "https://ajiio.co/0ptrAI",
-    "local_image": "assets/images/tgmsg_23412.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-07T17:01:43+00:00",
-    "buy_link": "https://ajiio.co/0ptrAI",
-    "date_iso": "2026-01-07T17:01:43+00:00"
-  },
-  {
-    "id": "msg23410",
-    "title": "+ 10% EXTRA CASH",
-    "description": "Ajio | Branded Sunglasses Starts At Rs.490 👉Link : https://ajiio.co/mRbG2u + 10% EXTRA AJIO CASH",
-    "shortlink": "https://ajiio.co/mRbG2u",
-    "urls": [
-      {
-        "url": "https://ajiio.co/mRbG2u",
-        "label": "Branded Sunglasses Starts At Rs.490"
-      },
-      {
-        "url": "",
-        "label": "+ 10% EXTRA AJIO CASH"
-      }
-    ],
-    "raw_text": "Ajio | Branded Sunglasses Starts At Rs.490\n \n👉Link : https://ajiio.co/mRbG2u\n\n+ 10% EXTRA AJIO CASH",
-    "final_url": "https://ajiio.co/mRbG2u",
-    "local_image": "assets/images/tgmsg_23410.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-07T16:01:59+00:00",
-    "buy_link": "https://ajiio.co/mRbG2u",
-    "date_iso": "2026-01-07T16:01:59+00:00"
   }
 ]
