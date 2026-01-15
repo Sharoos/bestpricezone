@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg24026",
+    "title": "65% Off",
+    "description": "Myntra | Dove, Tresemme 1L Shampoos Min. 60 -  🔗 Limited Time Deal valid till 4pm",
+    "shortlink": "https://myntr.in/7A0xrO",
+    "urls": [
+      {
+        "url": "https://myntr.in/7A0xrO",
+        "label": "Dove, Tresemme 1L Shampoos Min. 60 - 65% Off"
+      },
+      {
+        "url": "",
+        "label": "Limited Time Deal valid till 4pm"
+      }
+    ],
+    "raw_text": "Myntra | Dove, Tresemme 1L Shampoos Min. 60 - 65% Off\n\n🔗 https://myntr.in/7A0xrO\n\nLimited Time Deal valid till 4pm",
+    "final_url": "https://myntr.in/7A0xrO",
+    "local_image": "assets/images/tgmsg_24026.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-15T10:10:11+00:00",
+    "buy_link": "https://myntr.in/7A0xrO",
+    "date_iso": "2026-01-15T10:10:11+00:00"
+  },
+  {
     "id": "msg24024",
     "title": "Up to 60% Off On Household Care Product",
     "description": "Flipkart | Upto 60% Off On Household Care Products 🔗 Link : https://fkrt.co/Wq7QDU",
@@ -10146,25 +10170,5 @@
     "date_obj": "2026-01-08T03:13:55+00:00",
     "buy_link": "https://myntr.in/yEaIn9",
     "date_iso": "2026-01-08T03:13:55+00:00"
-  },
-  {
-    "id": "msg23445",
-    "title": "Shoe Racks Starts At Rs.499",
-    "description": "Flipkart | Shoe Racks Starts At Rs.499 https://fkrt.co/Rwymz2",
-    "shortlink": "https://fkrt.co/Rwymz2",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Rwymz2",
-        "label": "Shoe Racks Starts At Rs.499"
-      }
-    ],
-    "raw_text": "Flipkart | Shoe Racks Starts At Rs.499\n\n  https://fkrt.co/Rwymz2",
-    "final_url": "https://fkrt.co/Rwymz2",
-    "local_image": "assets/images/tgmsg_23445.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-07T19:35:29+00:00",
-    "buy_link": "https://fkrt.co/Rwymz2",
-    "date_iso": "2026-01-07T19:35:29+00:00"
   }
 ]
