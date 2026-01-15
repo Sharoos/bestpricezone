@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg24016",
+    "title": "Footwears @199",
+    "description": "Ajio   | Footwears @199. Men's : https://ajiio.co/tspG0V Women's : https://ajiio.co/0OvphJ",
+    "shortlink": "https://ajiio.co/tspG0V",
+    "urls": [
+      {
+        "url": "",
+        "label": "Footwears @199"
+      },
+      {
+        "url": "https://ajiio.co/tspG0V",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/0OvphJ",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Ajio   | Footwears @199.\n\nMen's : https://ajiio.co/tspG0V\nWomen's : https://ajiio.co/0OvphJ",
+    "final_url": "https://ajiio.co/tspG0V",
+    "local_image": "assets/images/tgmsg_24016.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-15T08:10:24+00:00",
+    "buy_link": "https://ajiio.co/tspG0V",
+    "date_iso": "2026-01-15T08:10:24+00:00"
+  },
+  {
+    "id": "msg24019",
+    "title": "Sleepycat Mattress starting from 7769",
+    "description": "Myntra | Sleepycat Mattress starting from 7769. 🔗 https://myntr.in/hm6hyh",
+    "shortlink": "https://myntr.in/hm6hyh",
+    "urls": [
+      {
+        "url": "https://myntr.in/hm6hyh",
+        "label": "Sleepycat Mattress starting from 7769"
+      }
+    ],
+    "raw_text": "Myntra | Sleepycat Mattress starting from 7769.\n\n🔗 https://myntr.in/hm6hyh",
+    "final_url": "https://myntr.in/hm6hyh",
+    "local_image": "assets/images/tgmsg_24019.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-15T08:40:12+00:00",
+    "buy_link": "https://myntr.in/hm6hyh",
+    "date_iso": "2026-01-15T08:40:12+00:00"
+  },
+  {
     "id": "msg24011",
     "title": "✨ SAVANA New Year Sale 2026 ✨",
     "description": "🌸 Glow Ups Hit Different! 🔥 Up to 50% OFF on trending fashion styles 🎟 Extra ₹1000 Coupon available 🚚 Free Shipping on orders ₹990+ | Easy Returns 🔗 Link : 🛒 Don’t wait – refresh your wardrobe now! 💃",
@@ -10094,77 +10142,5 @@
     "date_obj": "2026-01-07T19:09:51+00:00",
     "buy_link": "https://ajiio.co/JhrkUU",
     "date_iso": "2026-01-07T19:09:51+00:00"
-  },
-  {
-    "id": "msg23438",
-    "title": "Bank Offer ₹1,500 Off On HDFC Credit Card EMI Txn",
-    "description": "Amazon | Samsung 183 L, 4 Star, Digital Inverter, Direct-Cool Single Door Refrigerator @13,940 Apply ₹750 off Coupon Bank Offer : ₹1,500 Off On HDFC Credit Card EMI Txn",
-    "shortlink": "https://www.amazon.in/dp/B0BXDLBSG7?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0BXDLBSG7?th=1&tag=bestpricezo0f-21",
-        "label": "Samsung 183 L, 4 Star, Digital Inverter, Direct-Cool Single Door Refrigerator @13,940"
-      },
-      {
-        "url": "",
-        "label": "₹1,500 Off On HDFC Credit Card EMI Txn"
-      }
-    ],
-    "raw_text": "Amazon | Samsung 183 L, 4 Star, Digital Inverter, Direct-Cool Single Door Refrigerator @13,940\n\nApply ₹750 off Coupon\n\nhttps://www.amazon.in/dp/B0BXDLBSG7?th=1&tag=bestpricezo0f-21\n\nBank Offer : ₹1,500 Off On HDFC Credit Card EMI Txn",
-    "final_url": "https://www.amazon.in/dp/B0BXDLBSG7?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_23438.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-07T19:13:17+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0BXDLBSG7?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-01-07T19:13:17+00:00"
-  },
-  {
-    "id": "msg23439",
-    "title": "Up to 90% off on Yousta Clothing!",
-    "description": "Ajio |  T-Shirts : Shirts : Sweatshirts & Hoodies : Sweaters : Trousers: Jeans: Women’s Collection :",
-    "shortlink": "https://ajiio.co/WSXzMt",
-    "urls": [
-      {
-        "url": "",
-        "label": "Up to 90% off on Yousta Clothing!"
-      },
-      {
-        "url": "https://ajiio.co/WSXzMt",
-        "label": "T-Shirts"
-      },
-      {
-        "url": "https://ajiio.co/g4GfUh",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/HugHVE",
-        "label": "Sweatshirts & Hoodies"
-      },
-      {
-        "url": "https://ajiio.co/DAkkld",
-        "label": "Sweaters"
-      },
-      {
-        "url": "https://ajiio.co/ZgMV38",
-        "label": "Trousers"
-      },
-      {
-        "url": "https://ajiio.co/vtSvOB",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/SVtJ45",
-        "label": "Women’s Collection"
-      }
-    ],
-    "raw_text": "Ajio | Up to 90% off on Yousta Clothing! \n\nT-Shirts : https://ajiio.co/WSXzMt\nShirts :  https://ajiio.co/g4GfUh\nSweatshirts & Hoodies : https://ajiio.co/HugHVE\nSweaters : https://ajiio.co/DAkkld\nTrousers: https://ajiio.co/ZgMV38\nJeans: https://ajiio.co/vtSvOB\n\nWomen’s Collection : https://ajiio.co/SVtJ45",
-    "final_url": "https://ajiio.co/WSXzMt",
-    "local_image": "assets/images/tgmsg_23439.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-07T19:15:30+00:00",
-    "buy_link": "https://ajiio.co/WSXzMt",
-    "date_iso": "2026-01-07T19:15:30+00:00"
   }
 ]
