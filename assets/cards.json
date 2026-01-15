@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg23990",
+    "title": "Great Republic Day Sale Starts On 16th January",
+    "description": "Amazon Great Republic Day Sale Starts On 16th January. 👉…",
+    "shortlink": "https://www.amazon.in/events/greatrepublicdaysale/?content-id=amzn1.sym.bb93287d-1107-46dd-a512-0f6e9f8c9169&pd_rd_r=d976b87d-5c5f-4edb-a451-55b9333dc3b2&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/events/greatrepublicdaysale/?content-id=amzn1.sym.bb93287d-1107-46dd-a512-0f6e9f8c9169&pd_rd_r=d976b87d-5c5f-4edb-a451-55b9333dc3b2&tag=bestpricezo0f-21",
+        "label": "Amazon Great Republic Day Sale Starts On 16th January"
+      },
+      {
+        "url": "https://www.amazon.in/amazonprime?primeCaignId=primeMobileSignupWhite&renderingType=mobile&showLandingPage=1&ck=&tag=bestpricezo0f-21",
+        "label": "Join Prime"
+      },
+      {
+        "url": "https://www.amazon.in/b?ie=UTF8&node=15307611031&tag=bestpricezo0f-21",
+        "label": "Youth Offer"
+      }
+    ],
+    "raw_text": "Amazon Great Republic Day Sale Starts On 16th January.\n\n👉 https://www.amazon.in/events/greatrepublicdaysale/?content-id=amzn1.sym.bb93287d-1107-46dd-a512-0f6e9f8c9169&pd_rd_r=d976b87d-5c5f-4edb-a451-55b9333dc3b2&tag=bestpricezo0f-21\n\nJoin Prime : https://www.amazon.in/amazonprime?primeCaignId=primeMobileSignupWhite&renderingType=mobile&showLandingPage=1&ck=&tag=bestpricezo0f-21\n\nYouth Offer : https://www.amazon.in/b?ie=UTF8&node=15307611031&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/events/greatrepublicdaysale/?content-id=amzn1.sym.bb93287d-1107-46dd-a512-0f6e9f8c9169&pd_rd_r=d976b87d-5c5f-4edb-a451-55b9333dc3b2&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_23990.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-15T02:02:04+00:00",
+    "buy_link": "https://www.amazon.in/events/greatrepublicdaysale/?content-id=amzn1.sym.bb93287d-1107-46dd-a512-0f6e9f8c9169&pd_rd_r=d976b87d-5c5f-4edb-a451-55b9333dc3b2&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-15T02:02:04+00:00"
+  },
+  {
     "id": "msg23986",
     "title": "Roadster Men Jeans from @442",
     "description": "Flipkart | Roadster Men Jeans from @442 https://fkrt.co/L4E8jQ",
@@ -10218,25 +10246,5 @@
     "date_obj": "2026-01-07T15:51:24+00:00",
     "buy_link": "https://bitli.in/9n47s80",
     "date_iso": "2026-01-07T15:51:24+00:00"
-  },
-  {
-    "id": "msg23405",
-    "title": "Fitness Mantra Yoga Mats Up to 80% Off",
-    "description": "Flipkart | Fitness Mantra Yoga Mats Upto 80% Off 👉 https://fkrt.co/BDo2gH",
-    "shortlink": "https://fkrt.co/BDo2gH",
-    "urls": [
-      {
-        "url": "https://fkrt.co/BDo2gH",
-        "label": "Fitness Mantra Yoga Mats Upto 80% Off"
-      }
-    ],
-    "raw_text": "Flipkart | Fitness Mantra Yoga Mats Upto 80% Off\n\n👉 https://fkrt.co/BDo2gH",
-    "final_url": "https://fkrt.co/BDo2gH",
-    "local_image": "assets/images/tgmsg_23405.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-07T15:33:05+00:00",
-    "buy_link": "https://fkrt.co/BDo2gH",
-    "date_iso": "2026-01-07T15:33:05+00:00"
   }
 ]
