@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg24031",
+    "title": "Use Code OPJAN7 To Get Extra 7% Off!",
+    "description": "Myntra | 🔥 Nords budS 3r Back in Stock🔥 ONLY 5K PIECES OnePlus Nord Buds 3r Only at Rs. 1394+ Bank offers!! Use Coupon Code : OPJAN7 To Get Extra 7% Off! 🔗",
+    "shortlink": "https://myntr.in/h9JWw5",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Nords budS 3r Back in Stock🔥"
+      },
+      {
+        "url": "",
+        "label": "ONLY 5K PIECES"
+      },
+      {
+        "url": "https://myntr.in/h9JWw5",
+        "label": "OnePlus Nord Buds 3r Only at Rs. 1394+ Bank offers!!"
+      }
+    ],
+    "raw_text": "Myntra | 🔥 Nords budS 3r Back in Stock🔥 \nONLY 5K PIECES\n\nOnePlus Nord Buds 3r Only at Rs. 1394+ Bank offers!!\nUse Coupon Code : OPJAN7 To Get Extra 7% Off!\n\n🔗 https://myntr.in/h9JWw5",
+    "final_url": "https://myntr.in/h9JWw5",
+    "local_image": "assets/images/tgmsg_24031.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-15T11:10:28+00:00",
+    "buy_link": "https://myntr.in/h9JWw5",
+    "date_iso": "2026-01-15T11:10:28+00:00"
+  },
+  {
     "id": "msg24027",
     "title": "PONGUM PONGAL DEAL",
     "description": "Flipkart | PONGUM PONGAL DEALS 🔗 https://fkrt.co/bj5eNF",
@@ -10082,29 +10110,5 @@
     "date_obj": "2026-01-08T04:54:41+00:00",
     "buy_link": "https://ajiio.in/bhpObS7",
     "date_iso": "2026-01-08T04:54:41+00:00"
-  },
-  {
-    "id": "msg23449",
-    "title": "Flat 5% off on Gold & Diamond Jewellery",
-    "description": "Myntra |  Use coupon code: JWLSOFF Flat 7% off on Silver coins Use coupon code: JWLOFF15",
-    "shortlink": "https://myntr.in/7V9uGh",
-    "urls": [
-      {
-        "url": "https://myntr.in/7V9uGh",
-        "label": "Flat 5% off on Gold & Diamond Jewellery"
-      },
-      {
-        "url": "https://myntr.in/0RNrxb",
-        "label": "Flat 7% off on Silver coins"
-      }
-    ],
-    "raw_text": "Myntra | Flat 5% off on Gold & Diamond Jewellery\nUse coupon code: JWLSOFF\nhttps://myntr.in/7V9uGh\n\nFlat 7% off on Silver coins\nUse coupon code: JWLOFF15\nhttps://myntr.in/0RNrxb",
-    "final_url": "https://myntr.in/7V9uGh",
-    "local_image": "assets/images/tgmsg_23449.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-08T04:17:28+00:00",
-    "buy_link": "https://myntr.in/7V9uGh",
-    "date_iso": "2026-01-08T04:17:28+00:00"
   }
 ]
