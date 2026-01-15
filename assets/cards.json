@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg24113",
+    "title": "Premium Cashews, 5Kg at ₹3,592 1Kg at ₹718 (Effectively)",
+    "description": "Loot: Premium Cashews, 5Kg at ₹3,592 | 1Kg at ₹718 (Effectively). Add 5 Qty: *Buy More Save More + Use Supercoins*",
+    "shortlink": "https://fktr.in/DidxkAN",
+    "urls": [
+      {
+        "url": "",
+        "label": "Premium Cashews, 5Kg at ₹3,592 | 1Kg at ₹718 (Effectively)"
+      },
+      {
+        "url": "https://fktr.in/DidxkAN",
+        "label": "Add 5 Qty"
+      }
+    ],
+    "raw_text": "Loot: Premium Cashews, 5Kg at ₹3,592 | 1Kg at ₹718 (Effectively). \n\nAdd 5 Qty: https://fktr.in/DidxkAN\n\n*Buy More Save More + Use Supercoins*",
+    "final_url": "https://fktr.in/DidxkAN",
+    "local_image": "assets/images/tgmsg_24113.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-15T19:03:53+00:00",
+    "buy_link": "https://fktr.in/DidxkAN",
+    "date_iso": "2026-01-15T19:03:53+00:00"
+  },
+  {
     "id": "msg24068",
     "title": "Up to 80% Off On Branded Clothing",
     "description": "AJIO Upto 80% Off On Branded Clothing. Men's : Shirts : Jeans : T-shirts : Jackets : Sweatshirts : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
@@ -10018,41 +10042,5 @@
     "date_obj": "2026-01-08T09:20:43+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F6Y92BSH?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2026-01-08T09:20:43+00:00"
-  },
-  {
-    "id": "msg23485",
-    "title": "🏻 Instant Coffee Combo ( Hazelnut & Caramel) At 174",
-    "description": "ONDC Love of India Gold Coffee - 5 cups At 30 🔥🔥 🤜 Link: ✅ Use Code : 25 👉🏻 Himalayan Shilajit Coffee At 60 : 👉🏻 Instant Coffee - 50gm At 110 : 👉 :",
-    "shortlink": "https://extp.in/qhPPv9",
-    "urls": [
-      {
-        "url": "https://extp.in/qhPPv9",
-        "label": "5 cups At 30 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "✅ Use Code : 25"
-      },
-      {
-        "url": "https://extp.in/n2RdQj",
-        "label": "🏻 Himalayan Shilajit Coffee At 60"
-      },
-      {
-        "url": "https://extp.in/W1tdho",
-        "label": "🏻 Instant Coffee - 50gm At 110"
-      },
-      {
-        "url": "https://extp.in/BeB9Tp",
-        "label": "🏻 Instant Coffee Combo ( Hazelnut & Caramel) At 174"
-      }
-    ],
-    "raw_text": "ONDC  Love of India Gold Coffee - 5 cups At 30 🔥🔥\n\n🤜 Link: https://extp.in/qhPPv9\n\n✅ Use Code : 25\n\n👉🏻 Himalayan Shilajit Coffee At 60 : https://extp.in/n2RdQj\n👉🏻 Instant Coffee - 50gm At 110 : https://extp.in/W1tdho\n👉🏻 Instant Coffee Combo ( Hazelnut & Caramel) At 174 : https://extp.in/BeB9Tp",
-    "final_url": "https://extp.in/qhPPv9",
-    "local_image": "assets/images/tgmsg_23485.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-08T09:26:42+00:00",
-    "buy_link": "https://extp.in/qhPPv9",
-    "date_iso": "2026-01-08T09:26:42+00:00"
   }
 ]
