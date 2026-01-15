@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg24005",
+    "title": "Flat 17% Discount on Sunglasses Guess, Police, Idee, Irus by Idee",
+    "description": "Myntra | Flat 17% Coupon Discount on Sunglasses : Guess, Police, Idee, Irus by Idee Use Coupon code : EYEWAEROFF",
+    "shortlink": "https://myntr.in/8RxGlN",
+    "urls": [
+      {
+        "url": "https://myntr.in/8RxGlN",
+        "label": ""
+      }
+    ],
+    "raw_text": "Myntra | Flat 17% Coupon Discount on Sunglasses : Guess, Police, Idee, Irus by Idee\n\nUse Coupon code : EYEWAEROFF\n\nhttps://myntr.in/8RxGlN",
+    "final_url": "https://myntr.in/8RxGlN",
+    "local_image": "assets/images/tgmsg_24005.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-15T06:45:16+00:00",
+    "buy_link": "https://myntr.in/8RxGlN",
+    "date_iso": "2026-01-15T06:45:16+00:00"
+  },
+  {
     "id": "msg24001",
     "title": "Flat 78% Off On The Indian Garage Clothing",
     "description": "AJIO . Tshirts : Shirts : Jeans : Sweatshirts & Hoodies : Trousers : Trackpants : Jackets : Sweaters : Blazers & Coats : Kurta : Shorts :",
@@ -10146,29 +10166,5 @@
     "date_obj": "2026-01-07T18:37:19+00:00",
     "buy_link": "https://ajiio.in/Xc1P1p4",
     "date_iso": "2026-01-07T18:37:19+00:00"
-  },
-  {
-    "id": "msg23417",
-    "title": "🔥💍🎊Jewellery Rubans, Panash & More Min 80% Off",
-    "description": "🔥Ajio |💍🎊Jewellery Rubans, Panash & More Min 80% Off 🖇 🔥Ethnic Elegance on a Budget Necklace and Jewellery Sets under 499 🖇",
-    "shortlink": "https://ajiio.co/1xTbec",
-    "urls": [
-      {
-        "url": "https://ajiio.co/1xTbec",
-        "label": "🔥Ajio |💍🎊Jewellery Rubans, Panash & More Min 80% Off"
-      },
-      {
-        "url": "https://ajiio.co/Yg6wr0",
-        "label": "🔥Ethnic Elegance on a Budget Necklace and Jewellery Sets under 499"
-      }
-    ],
-    "raw_text": "🔥Ajio |💍🎊Jewellery Rubans, Panash & More Min 80% Off\n🖇https://ajiio.co/1xTbec\n\n🔥Ethnic Elegance on a Budget Necklace and Jewellery Sets under 499\n🖇https://ajiio.co/Yg6wr0",
-    "final_url": "https://ajiio.co/1xTbec",
-    "local_image": "assets/images/tgmsg_23417.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-07T18:03:56+00:00",
-    "buy_link": "https://ajiio.co/1xTbec",
-    "date_iso": "2026-01-07T18:03:56+00:00"
   }
 ]
