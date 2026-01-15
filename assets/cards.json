@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg23991",
+    "title": "Footwears @199",
+    "description": "Loot Footwears @199. Men's : https://ajiio.in/2Ue0dqO Women's : https://ajiio.in/aiIrKOs",
+    "shortlink": "https://ajiio.in/2Ue0dqO",
+    "urls": [
+      {
+        "url": "",
+        "label": "Loot Footwears @199"
+      },
+      {
+        "url": "https://ajiio.in/2Ue0dqO",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.in/aiIrKOs",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Loot Footwears @199.\n\nMen's : https://ajiio.in/2Ue0dqO\nWomen's : https://ajiio.in/aiIrKOs",
+    "final_url": "https://ajiio.in/2Ue0dqO",
+    "local_image": "assets/images/tgmsg_23991.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-15T04:12:38+00:00",
+    "buy_link": "https://ajiio.in/2Ue0dqO",
+    "date_iso": "2026-01-15T04:12:38+00:00"
+  },
+  {
+    "id": "msg23992",
+    "title": "👖 Men’s Trousers starting from ₹279",
+    "description": "Myntra Mega Fashion Deals 🔥🔥 👕 Shirts starting from ₹199 👉  👉 🕺 Kurtas starting from ₹299 👉 🧥 Blazers starting from ₹1199 👉",
+    "shortlink": "https://myntr.in/yNe1qd",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Mega Fashion Deals 🔥🔥"
+      },
+      {
+        "url": "https://myntr.in/yNe1qd",
+        "label": "👕 Shirts starting from ₹199"
+      },
+      {
+        "url": "https://myntr.in/5OG2Fi",
+        "label": "👖 Men’s Trousers starting from ₹279"
+      },
+      {
+        "url": "https://myntr.in/TP03iG",
+        "label": "🕺 Kurtas starting from ₹299"
+      },
+      {
+        "url": "https://myntr.in/j0rIVQ",
+        "label": "🧥 Blazers starting from ₹1199"
+      }
+    ],
+    "raw_text": "Myntra   Mega Fashion Deals 🔥🔥\n\n👕 Shirts starting from ₹199\n👉 https://myntr.in/yNe1qd\n\n👖 Men’s Trousers starting from ₹279\n👉 https://myntr.in/5OG2Fi\n\n🕺 Kurtas starting from ₹299\n👉 https://myntr.in/TP03iG\n\n🧥 Blazers starting from ₹1199\n👉 https://myntr.in/j0rIVQ",
+    "final_url": "https://myntr.in/yNe1qd",
+    "local_image": "assets/images/tgmsg_23992.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-15T04:16:02+00:00",
+    "buy_link": "https://myntr.in/yNe1qd",
+    "date_iso": "2026-01-15T04:16:02+00:00"
+  },
+  {
     "id": "msg23990",
     "title": "Great Republic Day Sale Starts On 16th January",
     "description": "Amazon Great Republic Day Sale Starts On 16th January. 👉…",
@@ -10194,57 +10258,5 @@
     "date_obj": "2026-01-07T16:01:59+00:00",
     "buy_link": "https://ajiio.co/mRbG2u",
     "date_iso": "2026-01-07T16:01:59+00:00"
-  },
-  {
-    "id": "msg23407",
-    "title": "Men's Footwear Starts at ₹99",
-    "description": "AJIO:  Men's Footwear Starts at ₹99 👉https://ajiio.co/ivkOBW Sports Shoes : https://ajiio.co/gmPfTL Casual Shoes : https://ajiio.co/nysIKx Sandals : https://ajiio.co/IugERk",
-    "shortlink": "https://ajiio.co/ivkOBW",
-    "urls": [
-      {
-        "url": "https://ajiio.co/ivkOBW",
-        "label": "Men's Footwear Starts at ₹99"
-      },
-      {
-        "url": "https://ajiio.co/gmPfTL",
-        "label": "Sports Shoes"
-      },
-      {
-        "url": "https://ajiio.co/nysIKx",
-        "label": "Casual Shoes"
-      },
-      {
-        "url": "https://ajiio.co/IugERk",
-        "label": "Sandals"
-      }
-    ],
-    "raw_text": "AJIO:  Men's Footwear Starts at ₹99\n\n👉https://ajiio.co/ivkOBW \n\nSports Shoes : https://ajiio.co/gmPfTL \nCasual Shoes : https://ajiio.co/nysIKx \nSandals : https://ajiio.co/IugERk",
-    "final_url": "https://ajiio.co/ivkOBW",
-    "local_image": "assets/images/tgmsg_23407.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-07T15:46:45+00:00",
-    "buy_link": "https://ajiio.co/ivkOBW",
-    "date_iso": "2026-01-07T15:46:45+00:00"
-  },
-  {
-    "id": "msg23409",
-    "title": "Yatra x Woohoo Get ₹1000 Yatra HOTEL Gift Card @49",
-    "description": "Loot : Yatra x Woohoo | Get ₹1000 Yatra HOTEL Gift Card @49 Link : Apply Coupon : FLAT49 Note : EGV is Valid for booking of Domestic Hotels Only.",
-    "shortlink": "https://bitli.in/9n47s80",
-    "urls": [
-      {
-        "url": "https://bitli.in/9n47s80",
-        "label": "Yatra x Woohoo | Get ₹1000 Yatra HOTEL Gift Card @49"
-      }
-    ],
-    "raw_text": "Loot : Yatra x Woohoo | Get ₹1000 Yatra HOTEL Gift Card @49\n \nLink : https://bitli.in/9n47s80\n \nApply Coupon : FLAT49\n \nNote : EGV is Valid for booking of Domestic Hotels Only.",
-    "final_url": "https://bitli.in/9n47s80",
-    "local_image": "assets/images/tgmsg_23409.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-01-07T15:51:24+00:00",
-    "buy_link": "https://bitli.in/9n47s80",
-    "date_iso": "2026-01-07T15:51:24+00:00"
   }
 ]
