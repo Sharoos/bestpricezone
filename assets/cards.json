@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg24220",
+    "title": "Double Bedsheets At 183",
+    "description": "Double Bedsheets At 183. https://www.amazon.in/dp/B08JKQN5P3?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B08JKQN5P3?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B08JKQN5P3?th=1&tag=bestpricezo0f-21",
+        "label": "Double Bedsheets At 183"
+      }
+    ],
+    "raw_text": "Double Bedsheets At 183.\n\nhttps://www.amazon.in/dp/B08JKQN5P3?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B08JKQN5P3?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_24220.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-16T15:21:00+00:00",
+    "buy_link": "https://www.amazon.in/dp/B08JKQN5P3?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-16T15:21:00+00:00"
+  },
+  {
+    "id": "msg24221",
+    "title": "89% Off Detergent Powder ( 1000g ) @149",
+    "description": "89% Off : Detergent Powder ( 1000g ) @149 https://fkrt.co/5jJLvP",
+    "shortlink": "https://fkrt.co/5jJLvP",
+    "urls": [
+      {
+        "url": "https://fkrt.co/5jJLvP",
+        "label": "89% Off : Detergent Powder ( 1000g ) @149"
+      }
+    ],
+    "raw_text": "89% Off : Detergent Powder ( 1000g ) @149\n\nhttps://fkrt.co/5jJLvP",
+    "final_url": "https://fkrt.co/5jJLvP",
+    "local_image": "assets/images/tgmsg_24221.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-16T15:22:29+00:00",
+    "buy_link": "https://fkrt.co/5jJLvP",
+    "date_iso": "2026-01-16T15:22:29+00:00"
+  },
+  {
     "id": "msg24212",
     "title": "Flat 4% OFF on Myntra Gift Cards + 5% Extra Savings 🔥🔥🔥",
     "description": "Flipkart:  Link : More Giftcards : 👇👇Extra Benefits: ✓ 5% Cashback with SBI Cashback Card ✓ Upto 5% Off via Flipkart UPI ✓ Use your Supercoins too",
@@ -9978,53 +10018,5 @@
     "date_obj": "2026-01-09T06:13:07+00:00",
     "buy_link": "https://fkrt.co/a2axNK",
     "date_iso": "2026-01-09T06:13:07+00:00"
-  },
-  {
-    "id": "msg23538",
-    "title": "More Up to 90% off",
-    "description": "Flipkart ✅  Vokka Perfume (100 ml) @ 232 https://fkrt.co/zA9p6I 245   https://fkrt.co/nDS0yK More Upto 90% off :   https://fkrt.co/WWqgWB",
-    "shortlink": "https://fkrt.co/zA9p6I",
-    "urls": [
-      {
-        "url": "https://fkrt.co/zA9p6I",
-        "label": "Flipkart ✅ Vokka Perfume (100 ml) @ 232"
-      },
-      {
-        "url": "https://fkrt.co/nDS0yK",
-        "label": "245"
-      },
-      {
-        "url": "https://fkrt.co/WWqgWB",
-        "label": "More Upto 90% off"
-      }
-    ],
-    "raw_text": "Flipkart ✅  Vokka Perfume (100 ml) @ 232\n\n   https://fkrt.co/zA9p6I\n245   https://fkrt.co/nDS0yK\n\nMore Upto 90% off :   https://fkrt.co/WWqgWB",
-    "final_url": "https://fkrt.co/zA9p6I",
-    "local_image": "assets/images/tgmsg_23538.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-09T06:30:44+00:00",
-    "buy_link": "https://fkrt.co/zA9p6I",
-    "date_iso": "2026-01-09T06:30:44+00:00"
-  },
-  {
-    "id": "msg23535",
-    "title": "75% Off on Deodorants & Perfume",
-    "description": "Flipkart  75% Off on Deodorants & Perfumes https://fkrt.co/UId9mn",
-    "shortlink": "https://fkrt.co/UId9mn",
-    "urls": [
-      {
-        "url": "https://fkrt.co/UId9mn",
-        "label": "Flipkart 75% Off on Deodorants & Perfumes"
-      }
-    ],
-    "raw_text": "Flipkart  75% Off on Deodorants & Perfumes\n\n  https://fkrt.co/UId9mn",
-    "final_url": "https://fkrt.co/UId9mn",
-    "local_image": "assets/images/tgmsg_23535.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-09T05:41:22+00:00",
-    "buy_link": "https://fkrt.co/UId9mn",
-    "date_iso": "2026-01-09T05:41:22+00:00"
   }
 ]
