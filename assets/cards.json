@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg24207",
+    "title": "Ai+ Pulse (6GB 128GB) @5,999",
+    "description": "Loot:  Ai+ NOVA 5G (6GB 128GB) @6,999 • Get Upto 1000 Discount Using Bank Offers. Loot Fast | Before Out Of Stock.",
+    "shortlink": "https://fktr.in/g4zIxwy",
+    "urls": [
+      {
+        "url": "https://fktr.in/g4zIxwy",
+        "label": "Ai+ Pulse (6GB 128GB) @5,999"
+      },
+      {
+        "url": "https://fktr.in/cvs1Hk2",
+        "label": "Ai+ NOVA 5G (6GB 128GB) @6,999"
+      },
+      {
+        "url": "",
+        "label": "Get Upto 1000 Discount Using Bank Offers"
+      },
+      {
+        "url": "",
+        "label": "Before Out Of Stock"
+      }
+    ],
+    "raw_text": "Loot: Ai+ Pulse (6GB 128GB) @5,999\nhttps://fktr.in/g4zIxwy\n\nAi+ NOVA 5G (6GB 128GB) @6,999\nhttps://fktr.in/cvs1Hk2\n\n• Get Upto 1000 Discount Using Bank Offers.\n\nLoot Fast | Before Out Of Stock.",
+    "final_url": "https://fktr.in/g4zIxwy",
+    "local_image": "assets/images/tgmsg_24207.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-16T14:03:23+00:00",
+    "buy_link": "https://fktr.in/g4zIxwy",
+    "date_iso": "2026-01-16T14:03:23+00:00"
+  },
+  {
     "id": "msg24192",
     "title": "💰 Just ₹14,055 with SBI Flat Offer 💳",
     "description": "Amazon | 🔥 Back in Stock – Hurry! 🔥 🪙 PNG 1 GM Gold Coin ✨ 24K (995) Pure Gold  📈 Perfect time to buy & invest 🔗 Grab it fast: 👉 ⏳ Limited stock — don’t miss out! 💛",
@@ -9974,25 +10006,5 @@
     "date_obj": "2026-01-09T05:13:09+00:00",
     "buy_link": "https://myntr.in/BGfk4I",
     "date_iso": "2026-01-09T05:13:09+00:00"
-  },
-  {
-    "id": "msg23529",
-    "title": "Up to 76% OFF",
-    "description": "🔥Myntra | 👕 Snitch Men's Clothing - Up to 76% OFF https://myntr.in/Y6dVus",
-    "shortlink": "https://myntr.in/Y6dVus",
-    "urls": [
-      {
-        "url": "https://myntr.in/Y6dVus",
-        "label": "🔥Myntra | 👕 Snitch Men's Clothing - Up to 76% OFF"
-      }
-    ],
-    "raw_text": "🔥Myntra | 👕 Snitch Men's Clothing - Up to 76% OFF\n\nhttps://myntr.in/Y6dVus",
-    "final_url": "https://myntr.in/Y6dVus",
-    "local_image": "assets/images/tgmsg_23529.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-09T04:15:42+00:00",
-    "buy_link": "https://myntr.in/Y6dVus",
-    "date_iso": "2026-01-09T04:15:42+00:00"
   }
 ]
