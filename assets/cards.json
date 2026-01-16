@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg24189",
+    "title": "💳 ₹1,250 OFF with SBI Card",
+    "description": "✨ Amazon Gold Coin Pendant Deal! ✨ 🪙 Bangalore Refinery 1gm Gold Coin Pendant 💎 24K (999) Pure Gold s 🔥 Perfect for gifting & investment 🔗 Buy now: 👉 ⏳ Hurry! Limited-time golden offer 💛",
+    "shortlink": "https://www.amazon.in/dp/B0DBM5KPR7/ref=cm_sw_r_as_gl_apa_gl_i_V3EC9KHS11DY19CDVA8M?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "✨ Amazon Gold Coin Pendant Deal! ✨"
+      },
+      {
+        "url": "",
+        "label": "🪙 Bangalore Refinery 1gm Gold Coin Pendant"
+      },
+      {
+        "url": "",
+        "label": "💎 24K (999) Pure Gold"
+      },
+      {
+        "url": "",
+        "label": "💳 ₹1,250 OFF with SBI Cards"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0DBM5KPR7/ref=cm_sw_r_as_gl_apa_gl_i_V3EC9KHS11DY19CDVA8M?tag=bestpricezo0f-21",
+        "label": "🔥 Perfect for gifting & investment"
+      },
+      {
+        "url": "",
+        "label": "⏳ Hurry! Limited-time golden offer 💛"
+      }
+    ],
+    "raw_text": "✨ Amazon Gold Coin Pendant Deal! ✨\n\n🪙 Bangalore Refinery 1gm Gold Coin Pendant\n💎 24K (999) Pure Gold\n\n💳 ₹1,250 OFF with SBI Cards\n🔥 Perfect for gifting & investment\n\n🔗 Buy now:\n👉 https://www.amazon.in/dp/B0DBM5KPR7/ref=cm_sw_r_as_gl_apa_gl_i_V3EC9KHS11DY19CDVA8M?tag=bestpricezo0f-21\n\n⏳ Hurry! Limited-time golden offer 💛",
+    "final_url": "https://www.amazon.in/dp/B0DBM5KPR7/ref=cm_sw_r_as_gl_apa_gl_i_V3EC9KHS11DY19CDVA8M?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_24189.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-16T11:50:14+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DBM5KPR7/ref=cm_sw_r_as_gl_apa_gl_i_V3EC9KHS11DY19CDVA8M?tag=bestpricezo0f-21",
+    "date_iso": "2026-01-16T11:50:14+00:00"
+  },
+  {
     "id": "msg24186",
     "title": "Get Up to 850 Discount Using Bank Offe",
     "description": "Lowest: Samsung Galaxy F36 (6GB,128GB) @16,149* • Get Upto 850 Discount Using Bank Offers.",
@@ -9930,25 +9970,5 @@
     "date_obj": "2026-01-08T13:20:17+00:00",
     "buy_link": "https://fkrt.co/g3g3L1",
     "date_iso": "2026-01-08T13:20:17+00:00"
-  },
-  {
-    "id": "msg23509",
-    "title": "LOWEST Realme P3 Lite 5G (4GB 128GB) @11,749",
-    "description": "LOWEST: Realme P3 Lite 5G (4GB 128GB) @11,749* https://fktr.in/e7yA8Vu",
-    "shortlink": "https://fktr.in/e7yA8Vu",
-    "urls": [
-      {
-        "url": "https://fktr.in/e7yA8Vu",
-        "label": "Realme P3 Lite 5G (4GB 128GB) @11,749*"
-      }
-    ],
-    "raw_text": "LOWEST: Realme P3 Lite 5G (4GB 128GB) @11,749*\n\nhttps://fktr.in/e7yA8Vu",
-    "final_url": "https://fktr.in/e7yA8Vu",
-    "local_image": "assets/images/tgmsg_23509.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-08T13:30:46+00:00",
-    "buy_link": "https://fktr.in/e7yA8Vu",
-    "date_iso": "2026-01-08T13:30:46+00:00"
   }
 ]
