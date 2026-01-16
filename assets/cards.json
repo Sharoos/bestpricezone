@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg24180",
+    "title": "Ai+ Pulse (6GB 128GB) @5,999",
+    "description": "Loot:  Ai+ NOVA 5G (6GB 128GB) @6,999 • Get Upto 1000 Discount Using Bank Offers. Loot Fast | Before Out Of Stock.",
+    "shortlink": "https://fktr.in/RlH1vkT",
+    "urls": [
+      {
+        "url": "https://fktr.in/RlH1vkT",
+        "label": "Ai+ Pulse (6GB 128GB) @5,999"
+      },
+      {
+        "url": "https://fktr.in/ApaMdSu",
+        "label": "Ai+ NOVA 5G (6GB 128GB) @6,999"
+      },
+      {
+        "url": "",
+        "label": "Get Upto 1000 Discount Using Bank Offers"
+      },
+      {
+        "url": "",
+        "label": "Before Out Of Stock"
+      }
+    ],
+    "raw_text": "Loot: Ai+ Pulse (6GB 128GB) @5,999\nhttps://fktr.in/RlH1vkT\n\nAi+ NOVA 5G (6GB 128GB) @6,999\nhttps://fktr.in/ApaMdSu\n\n• Get Upto 1000 Discount Using Bank Offers.\n\nLoot Fast | Before Out Of Stock.",
+    "final_url": "https://fktr.in/RlH1vkT",
+    "local_image": "assets/images/tgmsg_24180.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-16T09:35:35+00:00",
+    "buy_link": "https://fktr.in/RlH1vkT",
+    "date_iso": "2026-01-16T09:35:35+00:00"
+  },
+  {
     "id": "msg24167",
     "title": "Grocery Up to 92% Off",
     "description": "Flipkart Grocery Loot : Upto 92% Off Link 1 : Link 2 : Link 3 : Check All Locations",
@@ -9898,65 +9930,5 @@
     "date_obj": "2026-01-08T12:20:23+00:00",
     "buy_link": "https://www.amazon.in/dp/B0G13YQ76H/ref=cm_sw_r_as_gl_apa_gl_i_AA9BJ472MBP68RANMBWS?tag=bestpricezo0f-21",
     "date_iso": "2026-01-08T12:20:23+00:00"
-  },
-  {
-    "id": "msg23503",
-    "title": "Sirf ₹100 mein ghar baithe digital bank account kholke paaye cashback aur amazing features!",
-    "description": "Airtel Payment Bank - Sirf ₹100 Mein Account Kholein! 💸💵 Apply Link :  Benefits : ✅ Cashback on every transaction ✅ Zero balance account ✅ 24x7 Mobile Banking 3 Easy Steps! 1) Airtel Thanks App download karein 2) KYC…",
-    "shortlink": "https://extp.in/Xw42zx",
-    "urls": [
-      {
-        "url": "",
-        "label": "Sirf ₹100 Mein Account Kholein! 💸💵"
-      },
-      {
-        "url": "https://extp.in/Xw42zx",
-        "label": "Apply"
-      },
-      {
-        "url": "",
-        "label": "Sirf ₹100 mein ghar baithe digital bank account kholke paaye cashback aur amazing features!"
-      },
-      {
-        "url": "",
-        "label": "✅ Cashback on every transaction"
-      },
-      {
-        "url": "",
-        "label": "✅ Zero balance account"
-      },
-      {
-        "url": "",
-        "label": "✅ 24x7 Mobile Banking"
-      },
-      {
-        "url": "",
-        "label": "3 Easy Steps!"
-      },
-      {
-        "url": "",
-        "label": "1) Airtel Thanks App download karein"
-      },
-      {
-        "url": "",
-        "label": "2) KYC verify karein"
-      },
-      {
-        "url": "",
-        "label": "3) Sirf ₹100 mein account activate karein"
-      },
-      {
-        "url": "",
-        "label": "4) Aaj hi kholien aur faayda uthayein!"
-      }
-    ],
-    "raw_text": "Airtel Payment Bank - Sirf ₹100 Mein Account Kholein! 💸💵\n\nApply Link : https://extp.in/Xw42zx\n\nSirf ₹100 mein ghar baithe digital bank account kholke paaye cashback aur amazing features!\n\nBenefits :\n✅ Cashback on every transaction\n✅ Zero balance account\n✅ 24x7 Mobile Banking\n\n3 Easy Steps!\n1) Airtel Thanks App download karein\n2) KYC verify karein\n3) Sirf ₹100 mein account activate karein\n4) Aaj hi kholien aur faayda uthayein!",
-    "final_url": "https://extp.in/Xw42zx",
-    "local_image": "assets/images/tgmsg_23503.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-08T12:34:34+00:00",
-    "buy_link": "https://extp.in/Xw42zx",
-    "date_iso": "2026-01-08T12:34:34+00:00"
   }
 ]
