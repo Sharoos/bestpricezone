@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg24228",
+    "title": "Up to 65% Off On Cooking Essential",
+    "description": "Flipkart Grocery 🥳 Upto 65% Off On Cooking Essentials 🔗EVERYDAY ESSENTIALS: 🔥 DEAL OF THE DAY 🔥",
+    "shortlink": "https://fkrt.co/W6yXA1",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart Grocery 🥳"
+      },
+      {
+        "url": "https://fkrt.co/W6yXA1",
+        "label": "Upto 65% Off On Cooking Essentials"
+      },
+      {
+        "url": "https://fkrt.co/kokHXA",
+        "label": "🔗EVERYDAY ESSENTIALS"
+      },
+      {
+        "url": "https://fkrt.co/117tJI",
+        "label": "🔥 DEAL OF THE DAY 🔥"
+      }
+    ],
+    "raw_text": "Flipkart Grocery 🥳\n\nUpto 65% Off On Cooking Essentials \n https://fkrt.co/W6yXA1\n\n🔗EVERYDAY ESSENTIALS:\nhttps://fkrt.co/kokHXA\n\n🔥 DEAL OF THE DAY 🔥\nhttps://fkrt.co/117tJI",
+    "final_url": "https://fkrt.co/W6yXA1",
+    "local_image": "assets/images/tgmsg_24228.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-16T16:07:34+00:00",
+    "buy_link": "https://fkrt.co/W6yXA1",
+    "date_iso": "2026-01-16T16:07:34+00:00"
+  },
+  {
     "id": "msg24220",
     "title": "Double Bedsheets At 183",
     "description": "Double Bedsheets At 183. https://www.amazon.in/dp/B08JKQN5P3?th=1&tag=bestpricezo0f-21",
@@ -9998,25 +10030,5 @@
     "date_obj": "2026-01-09T06:55:38+00:00",
     "buy_link": "https://fktr.in/QGESfkG",
     "date_iso": "2026-01-09T06:55:38+00:00"
-  },
-  {
-    "id": "msg23536",
-    "title": "Stepupp Grow Kids Tricycles From ₹887",
-    "description": "Flipkart | Stepupp Grow Kids Tricycles From ₹887 👉 https://fkrt.co/a2axNK",
-    "shortlink": "https://fkrt.co/a2axNK",
-    "urls": [
-      {
-        "url": "https://fkrt.co/a2axNK",
-        "label": "Stepupp Grow Kids Tricycles From ₹887"
-      }
-    ],
-    "raw_text": "Flipkart | Stepupp Grow Kids Tricycles From ₹887\n\n👉 https://fkrt.co/a2axNK",
-    "final_url": "https://fkrt.co/a2axNK",
-    "local_image": "assets/images/tgmsg_23536.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-09T06:13:07+00:00",
-    "buy_link": "https://fkrt.co/a2axNK",
-    "date_iso": "2026-01-09T06:13:07+00:00"
   }
 ]
