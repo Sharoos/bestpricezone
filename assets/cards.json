@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg24212",
+    "title": "Flat 4% OFF on Myntra Gift Cards + 5% Extra Savings 🔥🔥🔥",
+    "description": "Flipkart:  Link : More Giftcards : 👇👇Extra Benefits: ✓ 5% Cashback with SBI Cashback Card ✓ Upto 5% Off via Flipkart UPI ✓ Use your Supercoins too",
+    "shortlink": "https://fkrt.co/NLLQyN",
+    "urls": [
+      {
+        "url": "https://fkrt.co/NLLQyN",
+        "label": "Flat 4% OFF on Myntra Gift Cards + 5% Extra Savings 🔥🔥🔥"
+      },
+      {
+        "url": "https://fkrt.co/5o7L9c",
+        "label": "More Giftcards"
+      },
+      {
+        "url": "",
+        "label": "👇👇Extra Benefits"
+      },
+      {
+        "url": "",
+        "label": "✓ 5% Cashback with SBI Cashback Card"
+      },
+      {
+        "url": "",
+        "label": "✓ Upto 5% Off via Flipkart UPI"
+      },
+      {
+        "url": "",
+        "label": "✓ Use your Supercoins too"
+      }
+    ],
+    "raw_text": "Flipkart: Flat 4% OFF on Myntra Gift Cards + 5% Extra Savings  🔥🔥🔥\n\nLink : https://fkrt.co/NLLQyN\n\nMore Giftcards : https://fkrt.co/5o7L9c\n\n👇👇Extra Benefits:\n✓ 5% Cashback with SBI Cashback Card \n✓ Upto 5% Off via Flipkart UPI\n✓ Use your Supercoins too",
+    "final_url": "https://fkrt.co/NLLQyN",
+    "local_image": "assets/images/tgmsg_24212.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-01-16T14:37:50+00:00",
+    "buy_link": "https://fkrt.co/NLLQyN",
+    "date_iso": "2026-01-16T14:37:50+00:00"
+  },
+  {
     "id": "msg24207",
     "title": "Ai+ Pulse (6GB 128GB) @5,999",
     "description": "Loot:  Ai+ NOVA 5G (6GB 128GB) @6,999 • Get Upto 1000 Discount Using Bank Offers. Loot Fast | Before Out Of Stock.",
@@ -9986,25 +10026,5 @@
     "date_obj": "2026-01-09T05:41:22+00:00",
     "buy_link": "https://fkrt.co/UId9mn",
     "date_iso": "2026-01-09T05:41:22+00:00"
-  },
-  {
-    "id": "msg23532",
-    "title": "Pack of 5 Socks @ ₹85",
-    "description": "Myntra : Pack of 5 Socks @ ₹85 👉https://myntr.in/BGfk4I",
-    "shortlink": "https://myntr.in/BGfk4I",
-    "urls": [
-      {
-        "url": "https://myntr.in/BGfk4I",
-        "label": "Pack of 5 Socks @ ₹85"
-      }
-    ],
-    "raw_text": "Myntra : Pack of 5 Socks @ ₹85\n\n👉https://myntr.in/BGfk4I",
-    "final_url": "https://myntr.in/BGfk4I",
-    "local_image": "assets/images/tgmsg_23532.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-09T05:13:09+00:00",
-    "buy_link": "https://myntr.in/BGfk4I",
-    "date_iso": "2026-01-09T05:13:09+00:00"
   }
 ]
