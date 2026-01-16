@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg24167",
+    "title": "Grocery Up to 92% Off",
+    "description": "Flipkart Grocery Loot : Upto 92% Off Link 1 : Link 2 : Link 3 : Check All Locations",
+    "shortlink": "https://fktr.in/4npuJ9y",
+    "urls": [
+      {
+        "url": "https://fktr.in/4npuJ9y",
+        "label": "Upto 92% Off"
+      },
+      {
+        "url": "https://fktr.in/13mdkrN",
+        "label": "Upto 92% Off"
+      },
+      {
+        "url": "https://fktr.in/qwH6kh3",
+        "label": "Upto 92% Off"
+      },
+      {
+        "url": "",
+        "label": "Check All Locations"
+      }
+    ],
+    "raw_text": "Flipkart Grocery Loot : Upto 92% Off\n\nLink 1 :   https://fktr.in/4npuJ9y\nLink 2 :   https://fktr.in/13mdkrN\nLink 3 :   https://fktr.in/qwH6kh3\n\nCheck All Locations",
+    "final_url": "https://fktr.in/4npuJ9y",
+    "local_image": "assets/images/tgmsg_24167.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-16T07:05:52+00:00",
+    "buy_link": "https://fktr.in/4npuJ9y",
+    "date_iso": "2026-01-16T07:05:52+00:00"
+  },
+  {
     "id": "msg24160",
     "title": "3 Seater Quilted Velvet Sofa Cover At 349",
     "description": "Grab : 3 Seater Quilted Velvet Sofa Cover At 349. https://www.amazon.in/dp/B0GDQCJ9FX?th=1&tag=bestpricezo0f-21",
@@ -9926,49 +9958,5 @@
     "date_obj": "2026-01-08T12:34:34+00:00",
     "buy_link": "https://extp.in/Xw42zx",
     "date_iso": "2026-01-08T12:34:34+00:00"
-  },
-  {
-    "id": "msg23504",
-    "title": "ONDC Up to 45% off on Derby Chocolates 🔥🔥",
-    "description": "ONDC Upto 45% off on Derby Chocolates 🔥🔥 Use code : WOW25 Coconut Toffees (Pack of 2) At 64 : Caramel Eclairs Chocolate (100 Pcs) At 64 : Vitacin Orange Candy (Pack Of 2) At 68 : Sugar Free Candy (Pack of 1) At 68 :…",
-    "shortlink": "https://extp.in/Mj2d84",
-    "urls": [
-      {
-        "url": "",
-        "label": "ONDC Upto 45% off on Derby Chocolates 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "WOW25"
-      },
-      {
-        "url": "https://extp.in/Mj2d84",
-        "label": "Coconut Toffees (Pack of 2) At 64"
-      },
-      {
-        "url": "https://extp.in/EdJEb1",
-        "label": "Caramel Eclairs Chocolate (100 Pcs) At 64"
-      },
-      {
-        "url": "https://extp.in/kgd1Rb",
-        "label": "Vitacin Orange Candy (Pack Of 2) At 68"
-      },
-      {
-        "url": "https://extp.in/om27YM",
-        "label": "Sugar Free Candy (Pack of 1) At 68"
-      },
-      {
-        "url": "https://extp.in/T5sknN",
-        "label": "Premium Toffees Butter At 191"
-      }
-    ],
-    "raw_text": "ONDC  Upto 45% off on Derby Chocolates 🔥🔥\n\nUse code : WOW25\n\nCoconut Toffees (Pack of 2) At 64 : https://extp.in/Mj2d84\nCaramel Eclairs Chocolate (100 Pcs) At 64 : https://extp.in/EdJEb1\nVitacin Orange Candy (Pack Of 2) At 68 : https://extp.in/kgd1Rb\nSugar Free Candy (Pack of 1) At 68 : https://extp.in/om27YM\nPremium Toffees Butter At 191 : https://extp.in/T5sknN",
-    "final_url": "https://extp.in/Mj2d84",
-    "local_image": "assets/images/tgmsg_23504.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-08T12:43:15+00:00",
-    "buy_link": "https://extp.in/Mj2d84",
-    "date_iso": "2026-01-08T12:43:15+00:00"
   }
 ]
