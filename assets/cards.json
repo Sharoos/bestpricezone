@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg24362",
+    "title": "Pillow At 189",
+    "description": "Pillow At 189. https://www.amazon.in/dp/B0FBMDWQ1B?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FBMDWQ1B?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FBMDWQ1B?tag=bestpricezo0f-21",
+        "label": "Pillow At 189"
+      }
+    ],
+    "raw_text": "Pillow At 189.\n\nhttps://www.amazon.in/dp/B0FBMDWQ1B?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FBMDWQ1B?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_24362.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-17T13:49:17+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FBMDWQ1B?tag=bestpricezo0f-21",
+    "date_iso": "2026-01-17T13:49:17+00:00"
+  },
+  {
     "id": "msg24358",
     "title": "Remap Oven/Gas Stove/Chimney Cleaner Kitchen Cleaner @141",
     "description": "Remap Oven/Gas Stove/Chimney  Cleaner Kitchen Cleaner @141 https://fkrt.co/gGTaCP",
@@ -9854,33 +9874,5 @@
     "date_obj": "2026-01-10T09:46:47+00:00",
     "buy_link": "https://ajiio.co/zr3Vgx",
     "date_iso": "2026-01-10T09:46:47+00:00"
-  },
-  {
-    "id": "msg23607",
-    "title": "🔥 DEAL OF THE DAY 🔥",
-    "description": "🛒 FLIPKART GROCERY – EVERYDAY ESSENTIALS 🛒 🔗EVERYDAY ESSENTIALS: https://fkrt.co/MfWJyv 🔥 DEAL OF THE DAY 🔥 https://fkrt.co/KxrJOk",
-    "shortlink": "https://fkrt.co/MfWJyv",
-    "urls": [
-      {
-        "url": "",
-        "label": "🛒 FLIPKART GROCERY – EVERYDAY ESSENTIALS 🛒"
-      },
-      {
-        "url": "https://fkrt.co/MfWJyv",
-        "label": "🔗EVERYDAY ESSENTIALS"
-      },
-      {
-        "url": "https://fkrt.co/KxrJOk",
-        "label": "🔥 DEAL OF THE DAY 🔥"
-      }
-    ],
-    "raw_text": "🛒 FLIPKART GROCERY – EVERYDAY ESSENTIALS 🛒\n\n🔗EVERYDAY ESSENTIALS:\nhttps://fkrt.co/MfWJyv\n\n🔥 DEAL OF THE DAY 🔥\nhttps://fkrt.co/KxrJOk",
-    "final_url": "https://fkrt.co/MfWJyv",
-    "local_image": "assets/images/tgmsg_23607.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-10T09:32:26+00:00",
-    "buy_link": "https://fkrt.co/MfWJyv",
-    "date_iso": "2026-01-10T09:32:26+00:00"
   }
 ]
