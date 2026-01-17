@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg24318",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
+    "description": "🔥AJIO Men's Footwear Starts @₹99 👉 Sports Shoes : Casual Shoes : Sandals : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/87v8ZY",
+    "urls": [
+      {
+        "url": "https://ajiio.co/87v8ZY",
+        "label": "🔥AJIO Men's Footwear Starts @₹99"
+      },
+      {
+        "url": "https://ajiio.co/WtQGDp",
+        "label": "Sports Shoes"
+      },
+      {
+        "url": "https://ajiio.co/qil0HK",
+        "label": "Casual Shoes"
+      },
+      {
+        "url": "https://ajiio.co/jXtcRc",
+        "label": "Sandals"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "🔥AJIO  Men's Footwear Starts @₹99\n\n👉https://ajiio.co/87v8ZY\n\nSports Shoes : https://ajiio.co/WtQGDp\nCasual Shoes : https://ajiio.co/qil0HK\nSandals : https://ajiio.co/jXtcRc\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/87v8ZY",
+    "local_image": "assets/images/tgmsg_24318.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-17T07:01:16+00:00",
+    "buy_link": "https://ajiio.co/87v8ZY",
+    "date_iso": "2026-01-17T07:01:16+00:00"
+  },
+  {
     "id": "msg24317",
     "title": "Grocery Up to 92% Off",
     "description": "Flipkart Grocery Loot : Upto 92% Off Link 1 : Link 2 : Link 3 : Check All Locations",
@@ -9906,41 +9942,5 @@
     "date_obj": "2026-01-09T17:02:22+00:00",
     "buy_link": "https://ajiio.co/B9wscX",
     "date_iso": "2026-01-09T17:02:22+00:00"
-  },
-  {
-    "id": "msg23588",
-    "title": "Min 60% Off !!!",
-    "description": "Myntra | Premium Bedsheet Deals !!! 1. Raymond Home Bedsheets Under 499 !!! 2. MYTRIDENT Bedsheets -  3. Spaces Bedsheets - Min 65% Off !!! 4. Portico Bedsheets - Min 50% Off !!!",
-    "shortlink": "https://myntr.in/0t14Jd",
-    "urls": [
-      {
-        "url": "",
-        "label": "Premium Bedsheet Deals !!!"
-      },
-      {
-        "url": "https://myntr.in/0t14Jd",
-        "label": "1. Raymond Home Bedsheets Under 499 !!!"
-      },
-      {
-        "url": "https://myntr.in/JyF6yL",
-        "label": "2. MYTRIDENT Bedsheets - Min 60% Off !!!"
-      },
-      {
-        "url": "https://myntr.in/Hgkbr8",
-        "label": "3. Spaces Bedsheets - Min 65% Off !!!"
-      },
-      {
-        "url": "https://myntr.in/UJVKA3",
-        "label": "4. Portico Bedsheets - Min 50% Off !!!"
-      }
-    ],
-    "raw_text": "Myntra | Premium Bedsheet Deals !!!\n\n1. Raymond Home Bedsheets Under 499 !!!\nhttps://myntr.in/0t14Jd\n\n2. MYTRIDENT Bedsheets - Min 60% Off !!!\nhttps://myntr.in/JyF6yL\n\n3. Spaces Bedsheets - Min 65% Off !!!\nhttps://myntr.in/Hgkbr8\n\n4. Portico Bedsheets - Min 50% Off !!!\nhttps://myntr.in/UJVKA3",
-    "final_url": "https://myntr.in/0t14Jd",
-    "local_image": "assets/images/tgmsg_23588.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-09T17:18:43+00:00",
-    "buy_link": "https://myntr.in/0t14Jd",
-    "date_iso": "2026-01-09T17:18:43+00:00"
   }
 ]
