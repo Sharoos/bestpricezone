@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg24333",
+    "title": "Clogs Start @ ₹187",
+    "description": "AJIO LOOT : Clogs Start @ ₹187 Men's : https://ajiio.in/9SXjzwJ Women's : https://ajiio.in/Y3807wP Bonus : Earn 10% AJIO Super Cash on Every Order",
+    "shortlink": "https://ajiio.in/9SXjzwJ",
+    "urls": [
+      {
+        "url": "https://ajiio.in/9SXjzwJ",
+        "label": "Clogs Start @ ₹187"
+      },
+      {
+        "url": "https://ajiio.in/Y3807wP",
+        "label": "Clogs Start @ ₹187"
+      },
+      {
+        "url": "",
+        "label": "Earn 10% AJIO Super Cash on Every Order"
+      }
+    ],
+    "raw_text": "AJIO LOOT : Clogs Start @ ₹187\n\nMen's : \nhttps://ajiio.in/9SXjzwJ\nWomen's : \nhttps://ajiio.in/Y3807wP\n\nBonus : Earn 10% AJIO Super Cash on Every Order",
+    "final_url": "https://ajiio.in/9SXjzwJ",
+    "local_image": "assets/images/tgmsg_24333.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-17T10:43:53+00:00",
+    "buy_link": "https://ajiio.in/9SXjzwJ",
+    "date_iso": "2026-01-17T10:43:53+00:00"
+  },
+  {
     "id": "msg24329",
     "title": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre",
     "description": "-approved limit. Apply Now - 💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀 ⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping. ⿢ Easy EMIs : Flexible repayment with no foreclosure charges. ⿣ Wide…",
@@ -9838,37 +9866,5 @@
     "date_obj": "2026-01-10T07:18:48+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DYYRP9LZ?th=1&tag=bestpricezo0f-21",
     "date_iso": "2026-01-10T07:18:48+00:00"
-  },
-  {
-    "id": "msg23597",
-    "title": "Up to 69% Off On The Bear House Clothing",
-    "description": "Flipkart | Upto 69% Off On The Bear House Clothing. Shirts https://fkrt.co/Bz6sMq Tshirts https://fkrt.co/jyhaIb Jeans https://fkrt.co/f8geeP",
-    "shortlink": "https://fkrt.co/Bz6sMq",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 69% Off On The Bear House Clothing"
-      },
-      {
-        "url": "https://fkrt.co/Bz6sMq",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://fkrt.co/jyhaIb",
-        "label": "Tshirts"
-      },
-      {
-        "url": "https://fkrt.co/f8geeP",
-        "label": "Jeans"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 69% Off On The Bear House Clothing.\n\nShirts https://fkrt.co/Bz6sMq\nTshirts https://fkrt.co/jyhaIb\nJeans https://fkrt.co/f8geeP",
-    "final_url": "https://fkrt.co/Bz6sMq",
-    "local_image": "assets/images/tgmsg_23597.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-10T06:52:04+00:00",
-    "buy_link": "https://fkrt.co/Bz6sMq",
-    "date_iso": "2026-01-10T06:52:04+00:00"
   }
 ]
