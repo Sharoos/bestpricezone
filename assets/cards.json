@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg24377",
+    "title": "Cotton Double Bedsheet At 229",
+    "description": "Cotton Double Bedsheet At 229. https://www.amazon.in/dp/B0GFDQ5PYC?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0GFDQ5PYC?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0GFDQ5PYC?th=1&tag=bestpricezo0f-21",
+        "label": "Cotton Double Bedsheet At 229"
+      }
+    ],
+    "raw_text": "Cotton Double Bedsheet At 229.\n\nhttps://www.amazon.in/dp/B0GFDQ5PYC?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0GFDQ5PYC?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_24377.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-17T14:47:53+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0GFDQ5PYC?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-17T14:47:53+00:00"
+  },
+  {
     "id": "msg24368",
     "title": "Up to 85% Off On Men’s Jean",
     "description": "Ajio Upto 85% Off On Men’s Jeans. Jack & Jones : John Players : DNMX : Buda Jeans Co : Lee Cooper : Spykar : Allen Cooper : U.S. Polo Assn. : Pepe Jeans :",
@@ -9814,25 +9834,5 @@
     "date_obj": "2026-01-10T12:03:31+00:00",
     "buy_link": "https://ajiio.co/yn5LLK",
     "date_iso": "2026-01-10T12:03:31+00:00"
-  },
-  {
-    "id": "msg23613",
-    "title": "Yogabar Muesli (Fruits Nuts & Seeds), 1.5Kg at 419",
-    "description": "Flipkart GRAB : Yogabar Muesli (Fruits Nuts & Seeds), 1.5Kg at 419. https://fkrt.co/G4Frdu",
-    "shortlink": "https://fkrt.co/G4Frdu",
-    "urls": [
-      {
-        "url": "https://fkrt.co/G4Frdu",
-        "label": "Yogabar Muesli (Fruits Nuts & Seeds), 1.5Kg at 419"
-      }
-    ],
-    "raw_text": "Flipkart GRAB : Yogabar Muesli (Fruits Nuts & Seeds), 1.5Kg at 419.\n\nhttps://fkrt.co/G4Frdu",
-    "final_url": "https://fkrt.co/G4Frdu",
-    "local_image": "assets/images/tgmsg_23613.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-10T11:16:53+00:00",
-    "buy_link": "https://fkrt.co/G4Frdu",
-    "date_iso": "2026-01-10T11:16:53+00:00"
   }
 ]
