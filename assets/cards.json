@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg24402",
+    "title": "Up to 75% Off On Branded Men's Clothing",
+    "description": "Ajio : Upto 75% Off On Branded Men's Clothing. T-Shirt : Shirt : Jeans : Jacket : Sweatshirt :",
+    "shortlink": "https://ajiio.co/UAEdHg",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On Branded Men's Clothing"
+      },
+      {
+        "url": "https://ajiio.co/UAEdHg",
+        "label": "T-Shirt"
+      },
+      {
+        "url": "https://ajiio.co/8gVaMo",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://ajiio.co/KxPkJP",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/MjaGdN",
+        "label": "Jacket"
+      },
+      {
+        "url": "https://ajiio.co/Fy79NN",
+        "label": "Sweatshirt"
+      }
+    ],
+    "raw_text": "Ajio : Upto 75% Off On Branded Men's Clothing.\n\nT-Shirt : https://ajiio.co/UAEdHg\nShirt : https://ajiio.co/8gVaMo\nJeans : https://ajiio.co/KxPkJP\nJacket : https://ajiio.co/MjaGdN\nSweatshirt : https://ajiio.co/Fy79NN",
+    "final_url": "https://ajiio.co/UAEdHg",
+    "local_image": "assets/images/tgmsg_24402.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-17T16:06:42+00:00",
+    "buy_link": "https://ajiio.co/UAEdHg",
+    "date_iso": "2026-01-17T16:06:42+00:00"
+  },
+  {
     "id": "msg24397",
     "title": "Butter paper (Pack Of 200) At 217",
     "description": "Butter paper (Pack Of 200) At 217 https://fkrt.co/gsYWfr",
@@ -9746,25 +9786,5 @@
     "date_obj": "2026-01-10T12:29:07+00:00",
     "buy_link": "https://myntr.in/dsKED6",
     "date_iso": "2026-01-10T12:29:07+00:00"
-  },
-  {
-    "id": "msg23619",
-    "title": "Up to 90% Off on Kotty Clothing",
-    "description": "Flipkart | Up to 90% Off on Kotty Clothing. 👉 https://fkrt.co/Kc3hhz",
-    "shortlink": "https://fkrt.co/Kc3hhz",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Kc3hhz",
-        "label": "Up to 90% Off on Kotty Clothing"
-      }
-    ],
-    "raw_text": "Flipkart | Up to 90% Off on Kotty Clothing.\n\n👉 https://fkrt.co/Kc3hhz",
-    "final_url": "https://fkrt.co/Kc3hhz",
-    "local_image": "assets/images/tgmsg_23619.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-10T12:34:03+00:00",
-    "buy_link": "https://fkrt.co/Kc3hhz",
-    "date_iso": "2026-01-10T12:34:03+00:00"
   }
 ]
