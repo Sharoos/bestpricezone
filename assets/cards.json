@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg24334",
+    "title": "Up to 60% Off on Branded Belts @ 80💥💥💥💥",
+    "description": "Ajio | Upto 60% Off on Branded Belts @ 80💥💥💥💥 🔗🔗Link : 👉Earn 10% AJIO Super Cash on Every Order",
+    "shortlink": "https://ajiio.co/2wKIjQ",
+    "urls": [
+      {
+        "url": "https://ajiio.co/2wKIjQ",
+        "label": "Upto 60% Off on Branded Belts @ 80💥💥💥💥"
+      },
+      {
+        "url": "",
+        "label": "Earn 10% AJIO Super Cash on Every Order"
+      }
+    ],
+    "raw_text": "Ajio | Upto 60% Off on Branded Belts @ 80💥💥💥💥 \n \n🔗🔗Link : https://ajiio.co/2wKIjQ\n\n👉Earn 10% AJIO Super Cash on Every Order",
+    "final_url": "https://ajiio.co/2wKIjQ",
+    "local_image": "assets/images/tgmsg_24334.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-17T11:11:06+00:00",
+    "buy_link": "https://ajiio.co/2wKIjQ",
+    "date_iso": "2026-01-17T11:11:06+00:00"
+  },
+  {
     "id": "msg24333",
     "title": "Clogs Start @ ₹187",
     "description": "AJIO LOOT : Clogs Start @ ₹187 Men's : https://ajiio.in/9SXjzwJ Women's : https://ajiio.in/Y3807wP Bonus : Earn 10% AJIO Super Cash on Every Order",
@@ -9842,29 +9866,5 @@
     "date_obj": "2026-01-10T07:06:37+00:00",
     "buy_link": "https://fkrt.co/6G9qAb",
     "date_iso": "2026-01-10T07:06:37+00:00"
-  },
-  {
-    "id": "msg23602",
-    "title": "🛒 Deal Price ₹129",
-    "description": "Amazon | AirPods 4 Case Cover 🛒 Deal Price: ₹129 👉 https://www.amazon.in/dp/B0DYYRP9LZ?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DYYRP9LZ?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "AirPods 4 Case Cover"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0DYYRP9LZ?th=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹129"
-      }
-    ],
-    "raw_text": "Amazon | AirPods 4 Case Cover\n\n🛒 Deal Price: ₹129\n\n👉 https://www.amazon.in/dp/B0DYYRP9LZ?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DYYRP9LZ?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_23602.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-10T07:18:48+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DYYRP9LZ?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-01-10T07:18:48+00:00"
   }
 ]
