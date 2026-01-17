@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg24328",
+    "title": "🛒 Deal Price ₹10998",
+    "description": "Amazon | 💻 Gaming Monitor Deals Zebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate 🛒 Deal Price: ₹10998",
+    "shortlink": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "💻 Gaming Monitor Deals"
+      },
+      {
+        "url": "",
+        "label": "Zebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹10998"
+      }
+    ],
+    "raw_text": "Amazon | 💻 Gaming Monitor Deals\n\nZebronics 27inch FHD Gaming Monitor, 220Hz Refresh Rate\n🛒 Deal Price: ₹10998\n\nhttps://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_24328.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-17T08:41:26+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FH71VR4X?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-17T08:41:26+00:00"
+  },
+  {
     "id": "msg24323",
     "title": "Kenstar 8L Water Purifier at 5090",
     "description": "Kenstar 8L Water Purifier at 5090. https://fkrt.co/zU0u5q",
@@ -9810,89 +9838,5 @@
     "date_obj": "2026-01-10T06:54:30+00:00",
     "buy_link": "https://fkrt.co/r01HRE",
     "date_iso": "2026-01-10T06:54:30+00:00"
-  },
-  {
-    "id": "msg23599",
-    "title": "Up to 85% Off Vero Moda & ONLY Women's Clothing",
-    "description": "AJIO Upto 80% Off On Levi's Clothing. Men's : Women's : Upto 75% Off On UCB Clothing. Men's : Women’s : Boy's : Girl's : AJIO Upto 85% Off Vero Moda & ONLY Women's Clothing. Dresses : Tops : T-shirts : Sweatshirts :…",
-    "shortlink": "https://ajiio.co/oWgklW",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 80% Off On Levi's Clothing"
-      },
-      {
-        "url": "https://ajiio.co/oWgklW",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/LtGkgE",
-        "label": "Women's"
-      },
-      {
-        "url": "",
-        "label": "Upto 75% Off On UCB Clothing"
-      },
-      {
-        "url": "https://ajiio.co/wS1f8D",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/kM2IMJ",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://ajiio.co/RfCZdJ",
-        "label": "Boy's"
-      },
-      {
-        "url": "https://ajiio.co/3CmiMj",
-        "label": "Girl's"
-      },
-      {
-        "url": "",
-        "label": "AJIO Upto 85% Off Vero Moda & ONLY Women's Clothing"
-      },
-      {
-        "url": "https://ajiio.co/5kQSWp",
-        "label": "Dresses"
-      },
-      {
-        "url": "https://ajiio.co/6j0Ceu",
-        "label": "Tops"
-      },
-      {
-        "url": "https://ajiio.co/gsGfad",
-        "label": "T-shirts"
-      },
-      {
-        "url": "https://ajiio.co/Mh34PY",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://ajiio.co/PwStMk",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/kY189f",
-        "label": "Trackpants"
-      },
-      {
-        "url": "https://ajiio.co/SmN121",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.co/9DZLJK",
-        "label": "Trousers"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On Levi's Clothing.\n\nMen's : https://ajiio.co/oWgklW\nWomen's : https://ajiio.co/LtGkgE\n\nUpto 75% Off On UCB Clothing.\n\nMen's : https://ajiio.co/wS1f8D\nWomen’s : https://ajiio.co/kM2IMJ\nBoy's : https://ajiio.co/RfCZdJ\nGirl's : https://ajiio.co/3CmiMj\n\nAJIO  Upto 85% Off Vero Moda & ONLY Women's Clothing.\n\nDresses : https://ajiio.co/5kQSWp\nTops : https://ajiio.co/6j0Ceu\nT-shirts : https://ajiio.co/gsGfad\nSweatshirts : https://ajiio.co/Mh34PY\nJeans : https://ajiio.co/PwStMk\nTrackpants : https://ajiio.co/kY189f\nShorts : https://ajiio.co/SmN121\nTrousers : https://ajiio.co/9DZLJK",
-    "final_url": "https://ajiio.co/oWgklW",
-    "local_image": "assets/images/tgmsg_23599.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-10T06:58:49+00:00",
-    "buy_link": "https://ajiio.co/oWgklW",
-    "date_iso": "2026-01-10T06:58:49+00:00"
   }
 ]
