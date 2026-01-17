@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg24317",
+    "title": "Grocery Up to 92% Off",
+    "description": "Flipkart Grocery Loot : Upto 92% Off Link 1 : Link 2 : Link 3 : Check All Locations",
+    "shortlink": "https://fktr.in/7wtzq3a",
+    "urls": [
+      {
+        "url": "https://fktr.in/7wtzq3a",
+        "label": "Upto 92% Off"
+      },
+      {
+        "url": "https://fktr.in/muzerPs",
+        "label": "Upto 92% Off"
+      },
+      {
+        "url": "https://fktr.in/u9VE7Rz",
+        "label": "Upto 92% Off"
+      },
+      {
+        "url": "",
+        "label": "Check All Locations"
+      }
+    ],
+    "raw_text": "Flipkart Grocery Loot : Upto 92% Off\n\nLink 1 :   https://fktr.in/7wtzq3a\nLink 2 :   https://fktr.in/muzerPs\nLink 3 :   https://fktr.in/u9VE7Rz\n\nCheck All Locations",
+    "final_url": "https://fktr.in/7wtzq3a",
+    "local_image": "assets/images/tgmsg_24317.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-17T06:45:10+00:00",
+    "buy_link": "https://fktr.in/7wtzq3a",
+    "date_iso": "2026-01-17T06:45:10+00:00"
+  },
+  {
     "id": "msg24314",
     "title": "✔️₹500 Instant Discount",
     "description": "🔥 TimesPrime – 1 Year @ ₹0 + ₹50 Profit 🔥 💳 Pay ₹799 via Credit Card 🏷 Apply Code : TPEP50 (Mandatory) 🔗Link : 💰 You Get Back :  ✔️₹400 Amazon Gift Card ✔️₹50 Card Offer 👉 Total = ₹950 🎁 SonyLIV, Spotify, Swiggy One,…",
@@ -9910,25 +9942,5 @@
     "date_obj": "2026-01-09T17:18:43+00:00",
     "buy_link": "https://myntr.in/0t14Jd",
     "date_iso": "2026-01-09T17:18:43+00:00"
-  },
-  {
-    "id": "msg23583",
-    "title": "Bath & Body works Up to 72%Off",
-    "description": "Myntra | Bath & Body works Upto 72%Off https://myntr.in/NToasW",
-    "shortlink": "https://myntr.in/NToasW",
-    "urls": [
-      {
-        "url": "https://myntr.in/NToasW",
-        "label": "Bath & Body works Upto 72%Off"
-      }
-    ],
-    "raw_text": "Myntra | Bath & Body works Upto 72%Off\n\nhttps://myntr.in/NToasW",
-    "final_url": "https://myntr.in/NToasW",
-    "local_image": "assets/images/tgmsg_23583.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-09T16:32:55+00:00",
-    "buy_link": "https://myntr.in/NToasW",
-    "date_iso": "2026-01-09T16:32:55+00:00"
   }
 ]
