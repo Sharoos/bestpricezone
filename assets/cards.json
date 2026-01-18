@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg24459",
+    "title": "Harpic 3L Liquid Detergent @393",
+    "description": "Harpic 3L Liquid Detergent @393 https://fkrt.co/XhGlU6",
+    "shortlink": "https://fkrt.co/XhGlU6",
+    "urls": [
+      {
+        "url": "https://fkrt.co/XhGlU6",
+        "label": "Harpic 3L Liquid Detergent @393"
+      }
+    ],
+    "raw_text": "Harpic 3L Liquid Detergent @393\n\nhttps://fkrt.co/XhGlU6",
+    "final_url": "https://fkrt.co/XhGlU6",
+    "local_image": "assets/images/tgmsg_24459.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-18T11:33:43+00:00",
+    "buy_link": "https://fkrt.co/XhGlU6",
+    "date_iso": "2026-01-18T11:33:43+00:00"
+  },
+  {
     "id": "msg24458",
     "title": "🧳 Up to 90% OFF on Top Brands (Safari, American Tourister, VIP & more)",
     "description": "Flipkart – Branded Trolley Bags 🧳 Upto 90% OFF on Top Brands (Safari, American Tourister, VIP & more) 👉 Grab Now:",
@@ -10030,53 +10050,5 @@
     "date_obj": "2026-01-11T06:20:40+00:00",
     "buy_link": "https://fkrt.co/9UWzxJ",
     "date_iso": "2026-01-11T06:20:40+00:00"
-  },
-  {
-    "id": "msg23673",
-    "title": "Woodland Footwear — Min 50% Off",
-    "description": "Flipkart: Republic Day Early Bird Sale 🇮🇳 🔗 Main Link: Top Deals Live: • USPA & More — Min 60% Off • Skincare — Under ₹299 • vivo T4 Ultra 5G — From ₹32,999 • SONY HT-S40R Home Theatre — @ ₹23,990 • Smart TVs — From…",
-    "shortlink": "https://fktr.in/X7CSVKm",
-    "urls": [
-      {
-        "url": "https://fktr.in/X7CSVKm",
-        "label": "Republic Day Early Bird Sale 🇮🇳"
-      },
-      {
-        "url": "",
-        "label": "Top Deals Live"
-      },
-      {
-        "url": "https://fktr.in/4lLihkV",
-        "label": "USPA & More — Min 60% Off"
-      },
-      {
-        "url": "https://fktr.in/5MOJBtK",
-        "label": "Skincare — Under ₹299"
-      },
-      {
-        "url": "https://fktr.in/3m86FmA",
-        "label": "vivo T4 Ultra 5G — From ₹32,999"
-      },
-      {
-        "url": "https://fktr.in/eckrLG8",
-        "label": "S40R Home Theatre — @ ₹23,990"
-      },
-      {
-        "url": "https://fktr.in/18zn7hf",
-        "label": "Smart TVs — From ₹6,999"
-      },
-      {
-        "url": "https://fktr.in/68h5zeZ",
-        "label": "Woodland Footwear — Min 50% Off"
-      }
-    ],
-    "raw_text": "Flipkart: Republic Day Early Bird Sale 🇮🇳\n\n🔗 Main Link:\nhttps://fktr.in/X7CSVKm\n\nTop Deals Live:\n• USPA & More — Min 60% Off\nhttps://fktr.in/4lLihkV\n\n• Skincare — Under ₹299\nhttps://fktr.in/5MOJBtK\n\n• vivo T4 Ultra 5G — From ₹32,999\nhttps://fktr.in/3m86FmA\n\n• SONY HT-S40R Home Theatre — @ ₹23,990\nhttps://fktr.in/eckrLG8\n\n• Smart TVs — From ₹6,999\nhttps://fktr.in/18zn7hf\n\n• Woodland Footwear — Min 50% Off\nhttps://fktr.in/68h5zeZ",
-    "final_url": "https://fktr.in/X7CSVKm",
-    "local_image": "assets/images/tgmsg_23673.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-11T05:40:13+00:00",
-    "buy_link": "https://fktr.in/X7CSVKm",
-    "date_iso": "2026-01-11T05:40:13+00:00"
   }
 ]
