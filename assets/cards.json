@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg24437",
+    "title": "🛒 Deal Price ₹750",
+    "description": "Ajio | 👕 USPA Shirts - AJIO ! USPA Shirts 🛒 Deal Price: ₹750 🔗 https://ajiio.co/XErGjt",
+    "shortlink": "https://ajiio.co/XErGjt",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 USPA Shirts - AJIO !"
+      },
+      {
+        "url": "",
+        "label": "USPA Shirts"
+      },
+      {
+        "url": "https://ajiio.co/XErGjt",
+        "label": "🛒 Deal Price: ₹750"
+      }
+    ],
+    "raw_text": "Ajio | 👕 USPA Shirts - AJIO !\n\nUSPA Shirts\n\n🛒 Deal Price: ₹750\n\n🔗 https://ajiio.co/XErGjt",
+    "final_url": "https://ajiio.co/XErGjt",
+    "local_image": "assets/images/tgmsg_24437.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-18T04:34:27+00:00",
+    "buy_link": "https://ajiio.co/XErGjt",
+    "date_iso": "2026-01-18T04:34:27+00:00"
+  },
+  {
     "id": "msg24423",
     "title": "🔥 Yogabar High Protein Oats (Variety Pack of 7) @ 129/",
     "description": "🔥 Amazon : Yogabar High Protein Oats (Variety Pack of 7) @ 129/- 🔗 With Zero Added Sugar & 26g protein. Try All Flavours",
@@ -9798,29 +9826,5 @@
     "date_obj": "2026-01-10T15:06:14+00:00",
     "buy_link": "https://fkrt.co/5aLJ44",
     "date_iso": "2026-01-10T15:06:14+00:00"
-  },
-  {
-    "id": "msg23639",
-    "title": "Under Rs. 799",
-    "description": "Flipkart | Allen Solly, T-shirt, Shirt.. Under Rs. 799 https://fkrt.co/lpes1i",
-    "shortlink": "https://fkrt.co/lpes1i",
-    "urls": [
-      {
-        "url": "",
-        "label": "Allen Solly, T-shirt, Shirt"
-      },
-      {
-        "url": "https://fkrt.co/lpes1i",
-        "label": "Under Rs. 799"
-      }
-    ],
-    "raw_text": "Flipkart | Allen Solly, T-shirt, Shirt..\nUnder Rs. 799\n\nhttps://fkrt.co/lpes1i",
-    "final_url": "https://fkrt.co/lpes1i",
-    "local_image": "assets/images/tgmsg_23639.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-10T15:17:12+00:00",
-    "buy_link": "https://fkrt.co/lpes1i",
-    "date_iso": "2026-01-10T15:17:12+00:00"
   }
 ]
