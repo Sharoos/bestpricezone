@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg24458",
+    "title": "🧳 Up to 90% OFF on Top Brands (Safari, American Tourister, VIP & more)",
+    "description": "Flipkart – Branded Trolley Bags 🧳 Upto 90% OFF on Top Brands (Safari, American Tourister, VIP & more) 👉 Grab Now:",
+    "shortlink": "https://fkrt.co/ClxeSs",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart – Branded Trolley Bags"
+      },
+      {
+        "url": "",
+        "label": "🧳 Upto 90% OFF on Top Brands (Safari, American Tourister, VIP & more)"
+      },
+      {
+        "url": "https://fkrt.co/ClxeSs",
+        "label": "Grab Now"
+      }
+    ],
+    "raw_text": "Flipkart  – Branded Trolley Bags\n\n🧳 Upto 90% OFF on Top Brands (Safari, American Tourister, VIP & more)\n\n👉 Grab Now: https://fkrt.co/ClxeSs",
+    "final_url": "https://fkrt.co/ClxeSs",
+    "local_image": "assets/images/tgmsg_24458.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-18T11:05:13+00:00",
+    "buy_link": "https://fkrt.co/ClxeSs",
+    "date_iso": "2026-01-18T11:05:13+00:00"
+  },
+  {
     "id": "msg24455",
     "title": "🔥 GROCERY",
     "description": "LOOT - CHECK YOUR PINCODE ₹93 : ₹33 : ₹50 : ₹32 : ₹102 : ₹36 : ₹93 : ₹149 : ₹194 : ₹493 : Master Link : Link 1 : Link 2 : Link 3 :",
@@ -10050,33 +10078,5 @@
     "date_obj": "2026-01-11T05:40:13+00:00",
     "buy_link": "https://fktr.in/X7CSVKm",
     "date_iso": "2026-01-11T05:40:13+00:00"
-  },
-  {
-    "id": "msg23672",
-    "title": "Footwears @199",
-    "description": "Ajio  Footwears @199. Men's : https://ajiio.co/qjJqPV Women's : https://ajiio.co/p21bxE",
-    "shortlink": "https://ajiio.co/qjJqPV",
-    "urls": [
-      {
-        "url": "",
-        "label": "Ajio Footwears @199"
-      },
-      {
-        "url": "https://ajiio.co/qjJqPV",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/p21bxE",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "Ajio  Footwears @199.\n\nMen's : https://ajiio.co/qjJqPV\nWomen's : https://ajiio.co/p21bxE",
-    "final_url": "https://ajiio.co/qjJqPV",
-    "local_image": "assets/images/tgmsg_23672.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-11T05:06:16+00:00",
-    "buy_link": "https://ajiio.co/qjJqPV",
-    "date_iso": "2026-01-11T05:06:16+00:00"
   }
 ]
