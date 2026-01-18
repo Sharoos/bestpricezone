@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg24448",
+    "title": "Flat 50% OFF on premium men’s grooming essentials! 💪✨",
+    "description": "🔥 New Year Clearance Sale – The Man Company 🔥  Perfumes, Haircare, Beardcare & more – now at crazy prices 🏷 🎟 Use Code : FLAT50 👉 Shop now : ⏰ Limited stock – Grab it before it’s gone!",
+    "shortlink": "https://extp.in/YPvLjF",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 New Year Clearance Sale – The Man Company 🔥"
+      },
+      {
+        "url": "",
+        "label": "Flat 50% OFF on premium men’s grooming essentials! 💪✨"
+      },
+      {
+        "url": "",
+        "label": "Perfumes, Haircare, Beardcare & more – now at crazy prices 🏷"
+      },
+      {
+        "url": "",
+        "label": "🎟 Use Code : FLAT50"
+      },
+      {
+        "url": "https://extp.in/YPvLjF",
+        "label": "Shop now"
+      },
+      {
+        "url": "",
+        "label": "⏰ Limited stock – Grab it before it’s gone!"
+      }
+    ],
+    "raw_text": "🔥 New Year Clearance Sale – The Man Company 🔥\n\nFlat 50% OFF on premium men’s grooming essentials! 💪✨\n\nPerfumes, Haircare, Beardcare & more – now at crazy prices 🏷\n\n🎟 Use Code : FLAT50\n\n👉 Shop now : https://extp.in/YPvLjF\n\n⏰ Limited stock – Grab it before it’s gone!",
+    "final_url": "https://extp.in/YPvLjF",
+    "local_image": "assets/images/tgmsg_24448.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-01-18T08:34:36+00:00",
+    "buy_link": "https://extp.in/YPvLjF",
+    "date_iso": "2026-01-18T08:34:36+00:00"
+  },
+  {
     "id": "msg24446",
     "title": "🔥Oneplus Trimmers at ₹490",
     "description": "🔥Flipkart | Oneplus Trimmers at ₹490 https://fkrt.co/NjQuc0",
@@ -9922,25 +9962,5 @@
     "date_obj": "2026-01-10T17:46:28+00:00",
     "buy_link": "https://extp.in/9ZgaNS",
     "date_iso": "2026-01-10T17:46:28+00:00"
-  },
-  {
-    "id": "msg23656",
-    "title": "🔥XENOR Men Cotton Shirt From ₹199",
-    "description": "Myntra | 🔥XENOR Men Cotton Shirt From ₹199 👉 https://myntr.in/jsPzxa",
-    "shortlink": "https://myntr.in/jsPzxa",
-    "urls": [
-      {
-        "url": "https://myntr.in/jsPzxa",
-        "label": "🔥XENOR Men Cotton Shirt From ₹199"
-      }
-    ],
-    "raw_text": "Myntra | 🔥XENOR Men Cotton Shirt From ₹199\n\n👉 https://myntr.in/jsPzxa",
-    "final_url": "https://myntr.in/jsPzxa",
-    "local_image": "assets/images/tgmsg_23656.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-10T17:32:43+00:00",
-    "buy_link": "https://myntr.in/jsPzxa",
-    "date_iso": "2026-01-10T17:32:43+00:00"
   }
 ]
