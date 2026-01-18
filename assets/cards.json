@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg24446",
+    "title": "🔥Oneplus Trimmers at ₹490",
+    "description": "🔥Flipkart | Oneplus Trimmers at ₹490 https://fkrt.co/NjQuc0",
+    "shortlink": "https://fkrt.co/NjQuc0",
+    "urls": [
+      {
+        "url": "https://fkrt.co/NjQuc0",
+        "label": "🔥Flipkart | Oneplus Trimmers at ₹490"
+      }
+    ],
+    "raw_text": "🔥Flipkart | Oneplus Trimmers at ₹490\n\nhttps://fkrt.co/NjQuc0",
+    "final_url": "https://fkrt.co/NjQuc0",
+    "local_image": "assets/images/tgmsg_24446.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-18T07:46:31+00:00",
+    "buy_link": "https://fkrt.co/NjQuc0",
+    "date_iso": "2026-01-18T07:46:31+00:00"
+  },
+  {
     "id": "msg24444",
     "title": "👕 Up to 80% Off On Spykar Clothing",
     "description": "🔥 Ajio Topwear Clothing Deals Under ₹149 Men's: Women's: Boy’s: Girl’s: Baby: 👖 Levi’s Jeans Starting at ₹696 Women's: Men's:  Men's: Women's:",
@@ -9922,29 +9942,5 @@
     "date_obj": "2026-01-10T17:32:43+00:00",
     "buy_link": "https://myntr.in/jsPzxa",
     "date_iso": "2026-01-10T17:32:43+00:00"
-  },
-  {
-    "id": "msg23653",
-    "title": "Shopsy 🔥 Men's Avengers Hoodie at ₹248",
-    "description": "Shopsy | 🔥  Men's Avengers Hoodie at ₹248 🔗 https://extp.in/Tjmk3i 🔗 https://extp.in/uOWOcG",
-    "shortlink": "https://extp.in/Tjmk3i",
-    "urls": [
-      {
-        "url": "https://extp.in/Tjmk3i",
-        "label": "🔥 Men's Avengers Hoodie at ₹248"
-      },
-      {
-        "url": "https://extp.in/uOWOcG",
-        "label": "🔥 Men's Avengers Hoodie at ₹248"
-      }
-    ],
-    "raw_text": "Shopsy | 🔥  Men's Avengers Hoodie at ₹248\n\n🔗 https://extp.in/Tjmk3i\n🔗 https://extp.in/uOWOcG",
-    "final_url": "https://extp.in/Tjmk3i",
-    "local_image": "assets/images/tgmsg_23653.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-10T17:01:57+00:00",
-    "buy_link": "https://extp.in/Tjmk3i",
-    "date_iso": "2026-01-10T17:01:57+00:00"
   }
 ]
