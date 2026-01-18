@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg24500",
+    "title": "Deal GNC Protein Wafer (Pack of 10) @ 369/",
+    "description": "Amazon  Deal: GNC Protein Wafer (Pack of 10) @ 369/- 🔗 https://www.amazon.in/dp/B0FGQ6GM9P?tag=bestpricezo0f-21 Lowest✔️ Regular: 600+",
+    "shortlink": "https://www.amazon.in/dp/B0FGQ6GM9P?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FGQ6GM9P?tag=bestpricezo0f-21",
+        "label": "GNC Protein Wafer (Pack of 10) @ 369/"
+      },
+      {
+        "url": "",
+        "label": "Lowest✔️ Regular: 600+"
+      }
+    ],
+    "raw_text": "Amazon  Deal: GNC Protein Wafer (Pack of 10) @ 369/-\n\n🔗 https://www.amazon.in/dp/B0FGQ6GM9P?tag=bestpricezo0f-21\n\nLowest✔️ Regular: 600+",
+    "final_url": "https://www.amazon.in/dp/B0FGQ6GM9P?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_24500.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-18T15:35:21+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FGQ6GM9P?tag=bestpricezo0f-21",
+    "date_iso": "2026-01-18T15:35:21+00:00"
+  },
+  {
     "id": "msg24494",
     "title": "Lowest Himalaya Happy Baby Gift Basket (9",
     "description": "Flipkart Lowest : Himalaya Happy Baby Gift Basket (9-In-1) at 740. 🔗 https://fkrt.co/f77hRJ",
@@ -9942,25 +9966,5 @@
     "date_obj": "2026-01-11T10:46:02+00:00",
     "buy_link": "https://myntr.in/27BjwU",
     "date_iso": "2026-01-11T10:46:02+00:00"
-  },
-  {
-    "id": "msg23693",
-    "title": "Milton Spin Mop Set @ ₹799",
-    "description": "Flipkart  Milton Spin Mop Set @  ₹799. https://fkrt.co/X2lKFA",
-    "shortlink": "https://fkrt.co/X2lKFA",
-    "urls": [
-      {
-        "url": "https://fkrt.co/X2lKFA",
-        "label": "Flipkart Milton Spin Mop Set @ ₹799"
-      }
-    ],
-    "raw_text": "Flipkart  Milton Spin Mop Set @  ₹799.\n\n https://fkrt.co/X2lKFA",
-    "final_url": "https://fkrt.co/X2lKFA",
-    "local_image": "assets/images/tgmsg_23693.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-11T09:46:19+00:00",
-    "buy_link": "https://fkrt.co/X2lKFA",
-    "date_iso": "2026-01-11T09:46:19+00:00"
   }
 ]
