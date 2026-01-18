@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg24524",
+    "title": "✔️ Flat ₹17,790 off With SBI Credit Card",
+    "description": "Amazon | Samsung 653 L, 3 Star, Frost Free, Double Door, Convertible 5-in-1 Digital Inverter, Side By Side AI Enabled Smart Refrigerator with WiFi @ ₹59,200 (Effective Price) 🔗 👉 Apply ₹3,000 off Coupon",
+    "shortlink": "https://www.amazon.in/dp/B0CCYNFC1F/ref=cm_sw_r_as_gl_apa_gl_i_dl_H7E4XCCSB9A07JE6DX6N?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Samsung 653 L, 3 Star, Frost Free, Double Door, Convertible 5-in-1 Digital Inverter, Side By Side AI Enabled Smart Refrigerator with WiFi"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0CCYNFC1F/ref=cm_sw_r_as_gl_apa_gl_i_dl_H7E4XCCSB9A07JE6DX6N?tag=bestpricezo0f-21",
+        "label": "@ ₹59,200 (Effective Price)"
+      },
+      {
+        "url": "",
+        "label": "✔️ Flat ₹17,790 off With SBI Credit Card"
+      }
+    ],
+    "raw_text": "Amazon | Samsung 653 L, 3 Star, Frost Free, Double Door, Convertible 5-in-1 Digital Inverter, Side By Side AI Enabled Smart Refrigerator with WiFi\n\n@ ₹59,200 (Effective Price)\n\n🔗 https://www.amazon.in/dp/B0CCYNFC1F/ref=cm_sw_r_as_gl_apa_gl_i_dl_H7E4XCCSB9A07JE6DX6N?tag=bestpricezo0f-21\n\n👉 Apply ₹3,000 off Coupon \n\n✔️ Flat ₹17,790 off With SBI Credit Card",
+    "final_url": "https://www.amazon.in/dp/B0CCYNFC1F/ref=cm_sw_r_as_gl_apa_gl_i_dl_H7E4XCCSB9A07JE6DX6N?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_24524.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-18T18:34:58+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CCYNFC1F/ref=cm_sw_r_as_gl_apa_gl_i_dl_H7E4XCCSB9A07JE6DX6N?tag=bestpricezo0f-21",
+    "date_iso": "2026-01-18T18:34:58+00:00"
+  },
+  {
     "id": "msg24518",
     "title": "🛍️ Louis Devin Women’s Analog Wrist Watch @ ₹331 +",
     "description": "Amazon | 🛍️ Louis Devin Women’s Analog Wrist Watch @ ₹331 + Coupon Buy:- https://www.amazon.in/dp/B0BQRNY6FM?th=1&tag=bestpricezo0f-21",
@@ -9898,33 +9926,5 @@
     "date_obj": "2026-01-11T12:06:15+00:00",
     "buy_link": "https://fkrt.co/uwBlj5",
     "date_iso": "2026-01-11T12:06:15+00:00"
-  },
-  {
-    "id": "msg23704",
-    "title": "Up to 80% Off On Kid’s Clothing",
-    "description": "Myntra : Upto 80% Off On Kid’s Clothing. Boys : https://myntr.in/u4Uobg Girls : https://myntr.in/a69krL",
-    "shortlink": "https://myntr.in/u4Uobg",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Kid’s Clothing"
-      },
-      {
-        "url": "https://myntr.in/u4Uobg",
-        "label": "Boys"
-      },
-      {
-        "url": "https://myntr.in/a69krL",
-        "label": "Girls"
-      }
-    ],
-    "raw_text": "Myntra : Upto 80% Off On Kid’s Clothing. \n\nBoys : https://myntr.in/u4Uobg\nGirls : https://myntr.in/a69krL",
-    "final_url": "https://myntr.in/u4Uobg",
-    "local_image": "assets/images/tgmsg_23704.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-11T12:21:44+00:00",
-    "buy_link": "https://myntr.in/u4Uobg",
-    "date_iso": "2026-01-11T12:21:44+00:00"
   }
 ]
