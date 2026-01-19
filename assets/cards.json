@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg24643",
+    "title": "Hoodies & SweatShirts Up to 90% Off",
+    "description": "AJIO : Hoodies & SweatShirts Upto 90% Off Mens Sweatshirts - https://ajiio.co/BW8Rt8 Womens - https://ajiio.co/0TKppb",
+    "shortlink": "https://ajiio.co/BW8Rt8",
+    "urls": [
+      {
+        "url": "",
+        "label": "Hoodies & SweatShirts Upto 90% Off"
+      },
+      {
+        "url": "https://ajiio.co/BW8Rt8",
+        "label": "Mens Sweatshirts"
+      },
+      {
+        "url": "https://ajiio.co/0TKppb",
+        "label": "Womens"
+      }
+    ],
+    "raw_text": "AJIO : Hoodies & SweatShirts Upto 90% Off\n\nMens Sweatshirts - https://ajiio.co/BW8Rt8\nWomens - https://ajiio.co/0TKppb",
+    "final_url": "https://ajiio.co/BW8Rt8",
+    "local_image": "assets/images/tgmsg_24643.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-19T19:38:05+00:00",
+    "buy_link": "https://ajiio.co/BW8Rt8",
+    "date_iso": "2026-01-19T19:38:05+00:00"
+  },
+  {
     "id": "msg24638",
     "title": "Spigen Total 65w(45w+20w) Fast Charging Car Charger Adapter, USB",
     "description": "Amazon | Spigen Total 65w(45w+20w) Fast Charging Car Charger Adapter, USB-C Dual Port @881₹ https://www.amazon.in/dp/B08PRZ815M?th=1&ck&tag=bestpricezo0f-21",
@@ -10070,25 +10098,5 @@
     "date_obj": "2026-01-12T18:32:23+00:00",
     "buy_link": "https://myntr.in/AVFTUf",
     "date_iso": "2026-01-12T18:32:23+00:00"
-  },
-  {
-    "id": "msg23823",
-    "title": "Boroplus Doodh Kesar Body Lotion @143",
-    "description": "Flipkart | Boroplus Doodh Kesar Body Lotion @143 https://fkrt.co/Bw6UFj",
-    "shortlink": "https://fkrt.co/Bw6UFj",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Bw6UFj",
-        "label": "Boroplus Doodh Kesar Body Lotion @143"
-      }
-    ],
-    "raw_text": "Flipkart | Boroplus Doodh Kesar Body Lotion @143\n\n https://fkrt.co/Bw6UFj",
-    "final_url": "https://fkrt.co/Bw6UFj",
-    "local_image": "assets/images/tgmsg_23823.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-12T18:42:04+00:00",
-    "buy_link": "https://fkrt.co/Bw6UFj",
-    "date_iso": "2026-01-12T18:42:04+00:00"
   }
 ]
