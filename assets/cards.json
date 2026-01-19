@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg24617",
+    "title": "+ 10% EXTRA CASH",
+    "description": "AJIO Flat 70-76% Off On Performax Clothing. Men : Shoes : Women : Shoes : + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/fP07sy",
+    "urls": [
+      {
+        "url": "https://ajiio.co/fP07sy",
+        "label": "76% Off On Performax Clothing"
+      },
+      {
+        "url": "https://ajiio.co/dRu4Va",
+        "label": "Shoes"
+      },
+      {
+        "url": "https://ajiio.co/L7NDLk",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/KafH6y",
+        "label": "Shoes"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO  Flat 70-76% Off On Performax Clothing.\n\nMen : https://ajiio.co/fP07sy\nShoes : https://ajiio.co/dRu4Va\n\nWomen : https://ajiio.co/L7NDLk\nShoes : https://ajiio.co/KafH6y\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/fP07sy",
+    "local_image": "assets/images/tgmsg_24617.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-19T17:16:50+00:00",
+    "buy_link": "https://ajiio.co/fP07sy",
+    "date_iso": "2026-01-19T17:16:50+00:00"
+  },
+  {
     "id": "msg24612",
     "title": "Shopsy Hour Deals",
     "description": "Shopsy Loot Hour Deals : Chikankari Kurta ₹116 : Yoke Printed Kurta from ₹122 : Blouse from ₹107 : Sarees from ₹180 : Ethnic Sets from ₹136 : Floral Print Fabric from ₹91 :",
@@ -9978,33 +10014,5 @@
     "date_obj": "2026-01-12T12:23:41+00:00",
     "buy_link": "https://extp.in/p3ajXw",
     "date_iso": "2026-01-12T12:23:41+00:00"
-  },
-  {
-    "id": "msg23785",
-    "title": "Deal Price 571 Rs. ✅",
-    "description": "LOUIS DEVIN Women Brass Patterned Dial and Bracelet Style Straps Anal.. Deal Price:571 Rs. ✅ Discount:78% Off",
-    "shortlink": "https://myntr.in/DFsoVO",
-    "urls": [
-      {
-        "url": "",
-        "label": "LOUIS DEVIN Women Brass Patterned Dial and Bracelet Style Straps Anal"
-      },
-      {
-        "url": "",
-        "label": "571 Rs. ✅"
-      },
-      {
-        "url": "https://myntr.in/DFsoVO",
-        "label": "78% Off"
-      }
-    ],
-    "raw_text": "LOUIS DEVIN Women Brass Patterned Dial and Bracelet Style Straps Anal.. \n\nDeal Price:571 Rs. ✅ \n\nDiscount:78% Off\n\nhttps://myntr.in/DFsoVO",
-    "final_url": "https://myntr.in/DFsoVO",
-    "local_image": "assets/images/tgmsg_23785.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-12T11:03:58+00:00",
-    "buy_link": "https://myntr.in/DFsoVO",
-    "date_iso": "2026-01-12T11:03:58+00:00"
   }
 ]
