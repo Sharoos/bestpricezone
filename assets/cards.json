@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg24634",
+    "title": "💳 ₹1,500 OFF with HDFC Bank Card",
+    "description": "AI+ 5G (6GB RAM | 128GB Storage) At ₹6,653 🔥🔥 💥 Price reduced by ₹500  👉 Now ₹500 cheaper than BBD price ⏰ Valid only for today – hurry up! 🔗 Buy now:",
+    "shortlink": "https://fkrt.co/IhKFI1",
+    "urls": [
+      {
+        "url": "",
+        "label": "AI+ 5G (6GB RAM | 128GB Storage) At ₹6,653 🔥🔥"
+      },
+      {
+        "url": "",
+        "label": "💥 Price reduced by ₹500"
+      },
+      {
+        "url": "",
+        "label": "💳 ₹1,500 OFF with HDFC Bank Card"
+      },
+      {
+        "url": "",
+        "label": "Now ₹500 cheaper than BBD price"
+      },
+      {
+        "url": "https://fkrt.co/IhKFI1",
+        "label": "⏰ Valid only for today – hurry up!"
+      }
+    ],
+    "raw_text": "AI+ 5G (6GB RAM | 128GB Storage) At ₹6,653 🔥🔥\n\n💥 Price reduced by ₹500\n💳 ₹1,500 OFF with HDFC Bank Card\n\n👉 Now ₹500 cheaper than BBD price\n⏰ Valid only for today – hurry up!\n\n🔗 Buy now:\nhttps://fkrt.co/IhKFI1",
+    "final_url": "https://fkrt.co/IhKFI1",
+    "local_image": "assets/images/tgmsg_24634.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-19T18:50:48+00:00",
+    "buy_link": "https://fkrt.co/IhKFI1",
+    "date_iso": "2026-01-19T18:50:48+00:00"
+  },
+  {
     "id": "msg24624",
     "title": "✅Up to 85% Off On Buda Jeans Co Clothing",
     "description": "✅Ajio | Upto 85% Off On Buda Jeans Co Clothing. T-Shirt : Trousers : Shirt : Jeans : Sweatshirts & Sweaters : Jackets : Trackpants & Shorts :",
@@ -10090,25 +10126,5 @@
     "date_obj": "2026-01-12T18:52:47+00:00",
     "buy_link": "https://fkrt.co/W8I9ZA",
     "date_iso": "2026-01-12T18:52:47+00:00"
-  },
-  {
-    "id": "msg23815",
-    "title": "Highlander Men’s Jeans from @311",
-    "description": "Flipkart | Highlander Men’s Jeans from @311 👉https://fkrt.co/FwrP4b",
-    "shortlink": "https://fkrt.co/FwrP4b",
-    "urls": [
-      {
-        "url": "https://fkrt.co/FwrP4b",
-        "label": "Highlander Men’s Jeans from @311"
-      }
-    ],
-    "raw_text": "Flipkart | Highlander Men’s Jeans from @311\n\n👉https://fkrt.co/FwrP4b",
-    "final_url": "https://fkrt.co/FwrP4b",
-    "local_image": "assets/images/tgmsg_23815.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-12T17:56:45+00:00",
-    "buy_link": "https://fkrt.co/FwrP4b",
-    "date_iso": "2026-01-12T17:56:45+00:00"
   }
 ]
