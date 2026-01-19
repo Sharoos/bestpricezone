@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg24646",
+    "title": "Pack of 15 x 2 @ 342/",
+    "description": "Amazon 🔥 Coupon: CF ACV Tabs - - 🔗 With NagarMotha + Moringa - Helps in Weight Loss",
+    "shortlink": "https://www.amazon.in/dp/B0DQH555KZ?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DQH555KZ?tag=bestpricezo0f-21",
+        "label": ""
+      },
+      {
+        "url": "",
+        "label": "With NagarMotha + Moringa - Helps in Weight Loss"
+      }
+    ],
+    "raw_text": "Amazon 🔥 Coupon: CF ACV Tabs - Pack of 15 x 2 @ 342/-\n\n🔗https://www.amazon.in/dp/B0DQH555KZ?tag=bestpricezo0f-21\n\nWith NagarMotha + Moringa - Helps in Weight Loss",
+    "final_url": "https://www.amazon.in/dp/B0DQH555KZ?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_24646.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-19T19:43:59+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DQH555KZ?tag=bestpricezo0f-21",
+    "date_iso": "2026-01-19T19:43:59+00:00"
+  },
+  {
     "id": "msg24643",
     "title": "Hoodies & SweatShirts Up to 90% Off",
     "description": "AJIO : Hoodies & SweatShirts Upto 90% Off Mens Sweatshirts - https://ajiio.co/BW8Rt8 Womens - https://ajiio.co/0TKppb",
@@ -10062,41 +10086,5 @@
     "date_obj": "2026-01-12T18:29:26+00:00",
     "buy_link": "https://myntr.in/YKc5m3",
     "date_iso": "2026-01-12T18:29:26+00:00"
-  },
-  {
-    "id": "msg23820",
-    "title": "Highlander Min 75% Off",
-    "description": "Myntra | Vishudh Ethnic Wear Under 399 👉 Tokyo Talkies Under 199 👉 Tokyo Talkies Under 299 👉  👉 Highlander Min 80% Off 👉",
-    "shortlink": "https://myntr.in/AVFTUf",
-    "urls": [
-      {
-        "url": "https://myntr.in/AVFTUf",
-        "label": "Vishudh Ethnic Wear Under 399"
-      },
-      {
-        "url": "https://myntr.in/I6f3To",
-        "label": "Tokyo Talkies Under 199"
-      },
-      {
-        "url": "https://myntr.in/NvawXR",
-        "label": "Tokyo Talkies Under 299"
-      },
-      {
-        "url": "https://myntr.in/cILpf3",
-        "label": "Highlander Min 75% Off"
-      },
-      {
-        "url": "https://myntr.in/MZfv43",
-        "label": "Highlander Min 80% Off"
-      }
-    ],
-    "raw_text": "Myntra | Vishudh Ethnic Wear Under 399\n👉https://myntr.in/AVFTUf\n\nTokyo Talkies Under 199\n👉https://myntr.in/I6f3To\n\nTokyo Talkies Under 299 \n👉https://myntr.in/NvawXR\n\nHighlander Min 75% Off\n👉https://myntr.in/cILpf3\n\nHighlander Min 80% Off\n👉https://myntr.in/MZfv43",
-    "final_url": "https://myntr.in/AVFTUf",
-    "local_image": "assets/images/tgmsg_23820.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-12T18:32:23+00:00",
-    "buy_link": "https://myntr.in/AVFTUf",
-    "date_iso": "2026-01-12T18:32:23+00:00"
   }
 ]
