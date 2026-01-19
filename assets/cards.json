@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg24535",
+    "title": "Gold ₹1750 Cashback + 5% Cashback with ICICI Credit Card",
+    "description": "Gold ₹1750 Cashback + 5% Cashback with Amazon ICICI Credit Card. 1) Collect Offer : 2) Then Buy :",
+    "shortlink": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.CE5LYDL5WZQCC?rdpf=en&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Gold ₹1750 Cashback + 5% Cashback with Amazon ICICI Credit Card"
+      },
+      {
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.CE5LYDL5WZQCC?rdpf=en&tag=bestpricezo0f-21",
+        "label": "1) Collect Offer"
+      },
+      {
+        "url": "https://www.amazon.in/b?node=215474638031&tag=bestpricezo0f-21",
+        "label": "2) Then"
+      }
+    ],
+    "raw_text": "Gold  ₹1750 Cashback + 5% Cashback with Amazon ICICI Credit Card.\n\n1) Collect Offer : https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.CE5LYDL5WZQCC?rdpf=en&tag=bestpricezo0f-21\n\n2) Then Buy : https://www.amazon.in/b?node=215474638031&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.CE5LYDL5WZQCC?rdpf=en&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_24535.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-19T02:29:39+00:00",
+    "buy_link": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.CE5LYDL5WZQCC?rdpf=en&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-19T02:29:39+00:00"
+  },
+  {
     "id": "msg24531",
     "title": "Sansui Bigsole 1000 W Dry Iron@399",
     "description": "Flipkart | Sansui Bigsole 1000 W Dry Iron@399 https://fkrt.co/8ZAb9X",
@@ -9882,49 +9910,5 @@
     "date_obj": "2026-01-11T14:06:17+00:00",
     "buy_link": "https://fkrt.co/CNjHbw",
     "date_iso": "2026-01-11T14:06:17+00:00"
-  },
-  {
-    "id": "msg23713",
-    "title": "💳 Extra 5% OFF on Prepaid Orde",
-    "description": "🎉 NEW YEAR MEGA SALE – MEN’S GROOMING ! 🎉 🛍 Buy ANY 5 Products @ just ₹999 🎁 FREE Hair Removal Cream Spray rs ✨ Top Picks from The Man Company Perfumes • Face Wash • Body Wash • Roll-On • Skincare & More 👉 Shop Now : ⏳…",
-    "shortlink": "https://extp.in/nkmkhQ",
-    "urls": [
-      {
-        "url": "",
-        "label": "🎉 NEW YEAR MEGA SALE – MEN’S GROOMING ! 🎉"
-      },
-      {
-        "url": "",
-        "label": "🎁 FREE Hair Removal Cream Spray"
-      },
-      {
-        "url": "",
-        "label": "💳 Extra 5% OFF on Prepaid Orders"
-      },
-      {
-        "url": "",
-        "label": "✨ Top Picks from The Man Company"
-      },
-      {
-        "url": "",
-        "label": "Perfumes • Face Wash • Body Wash • Roll-On • Skincare & More"
-      },
-      {
-        "url": "https://extp.in/nkmkhQ",
-        "label": "Shop Now"
-      },
-      {
-        "url": "",
-        "label": "⏳ Limited Time Offer – Don’t Miss This Deal!"
-      }
-    ],
-    "raw_text": "🎉 NEW YEAR MEGA SALE – MEN’S GROOMING ! 🎉\n\n🛍 Buy ANY 5 Products @ just ₹999\n🎁 FREE Hair Removal Cream Spray\n💳 Extra 5% OFF on Prepaid Orders\n\n✨ Top Picks from The Man Company\nPerfumes • Face Wash • Body Wash • Roll-On • Skincare & More\n\n👉 Shop Now : https://extp.in/nkmkhQ\n\n⏳ Limited Time Offer – Don’t Miss This Deal!",
-    "final_url": "https://extp.in/nkmkhQ",
-    "local_image": "assets/images/tgmsg_23713.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-11T13:31:19+00:00",
-    "buy_link": "https://extp.in/nkmkhQ",
-    "date_iso": "2026-01-11T13:31:19+00:00"
   }
 ]
