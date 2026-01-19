@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg24600",
+    "title": "Fila Footwear from ₹540",
+    "description": "Flipkart | Fila Footwear from ₹540 👉https://fkrt.co/mmCqRC",
+    "shortlink": "https://fkrt.co/mmCqRC",
+    "urls": [
+      {
+        "url": "https://fkrt.co/mmCqRC",
+        "label": "Fila Footwear from ₹540"
+      }
+    ],
+    "raw_text": "Flipkart | Fila Footwear from ₹540\n\n👉https://fkrt.co/mmCqRC",
+    "final_url": "https://fkrt.co/mmCqRC",
+    "local_image": "assets/images/tgmsg_24600.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-19T15:03:31+00:00",
+    "buy_link": "https://fkrt.co/mmCqRC",
+    "date_iso": "2026-01-19T15:03:31+00:00"
+  },
+  {
     "id": "msg24593",
     "title": "Shopsy 🔥 HP 128GB Pen Drive + 2in1 OTG @ ₹300",
     "description": "Shopsy | 🔥  HP 128GB Pen Drive + 2in1 OTG @ ₹300 🔗 https://extp.in/1ddO2y 256 GB : 🔗 https://extp.in/mXye7J",
@@ -10038,69 +10058,5 @@
     "date_obj": "2026-01-12T09:31:58+00:00",
     "buy_link": "https://extp.in/9hVB7p",
     "date_iso": "2026-01-12T09:31:58+00:00"
-  },
-  {
-    "id": "msg23780",
-    "title": "Grocery Up to 80% OFF",
-    "description": "Flipkart Grocery LOOT: Up to 80% OFF 👉 Master Link: Top Categories: • Atta / Rice: • Oil / Ghee: • Snacks: • Oral Care: • Tea / Coffee: Extra Savings: • Add to cart & unlock ₹1 deals • ₹200 OFF on ₹1,999 (SBI Card) •…",
-    "shortlink": "https://fktr.in/tjtm4Xu",
-    "urls": [
-      {
-        "url": "",
-        "label": "Up to 80% OFF"
-      },
-      {
-        "url": "https://fktr.in/tjtm4Xu",
-        "label": "Master"
-      },
-      {
-        "url": "",
-        "label": "Top Categories"
-      },
-      {
-        "url": "https://fktr.in/hNrqmAI",
-        "label": "Atta / Rice"
-      },
-      {
-        "url": "https://fktr.in/3b7lxXN",
-        "label": "Oil / Ghee"
-      },
-      {
-        "url": "https://fktr.in/P8rs0cR",
-        "label": "Snacks"
-      },
-      {
-        "url": "https://fktr.in/l7H85ms",
-        "label": "Oral Care"
-      },
-      {
-        "url": "https://fktr.in/X1bhwvr",
-        "label": "Tea / Coffee"
-      },
-      {
-        "url": "",
-        "label": "Extra Savings"
-      },
-      {
-        "url": "",
-        "label": "Add to cart & unlock ₹1 deals"
-      },
-      {
-        "url": "",
-        "label": "₹200 OFF on ₹1,999 (SBI Card)"
-      },
-      {
-        "url": "",
-        "label": "Extra ₹250 OFF on cart"
-      }
-    ],
-    "raw_text": "Flipkart Grocery LOOT: Up to 80% OFF\n\n👉 Master Link: https://fktr.in/tjtm4Xu\n\nTop Categories: \n• Atta / Rice: https://fktr.in/hNrqmAI\n• Oil / Ghee: https://fktr.in/3b7lxXN\n• Snacks: https://fktr.in/P8rs0cR\n• Oral Care: https://fktr.in/l7H85ms\n• Tea / Coffee: https://fktr.in/X1bhwvr\n\nExtra Savings: \n• Add to cart & unlock ₹1 deals\n• ₹200 OFF on ₹1,999 (SBI Card)\n• Extra ₹250 OFF on cart",
-    "final_url": "https://fktr.in/tjtm4Xu",
-    "local_image": "assets/images/tgmsg_23780.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-12T09:34:48+00:00",
-    "buy_link": "https://fktr.in/tjtm4Xu",
-    "date_iso": "2026-01-12T09:34:48+00:00"
   }
 ]
