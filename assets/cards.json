@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg24766",
+    "title": "🏻 Nuts & Dry Fruits at 27",
+    "description": "🔥🔥 Shopsy Deals 🔥🔥 👉 : 👉🏻 Toys from ₹31 : 👉🏻 Moisturizers from ₹32 : 👉🏻 Facewashes from ₹26 : 👉🏻 TWS Earbuds from ₹63 :",
+    "shortlink": "https://extp.in/w7Cg3y",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥🔥 Shopsy Deals 🔥🔥"
+      },
+      {
+        "url": "https://extp.in/w7Cg3y",
+        "label": "🏻 Nuts & Dry Fruits at 27"
+      },
+      {
+        "url": "https://extp.in/ZFLS4A",
+        "label": "🏻 Toys from ₹31"
+      },
+      {
+        "url": "https://extp.in/rGgNyT",
+        "label": "🏻 Moisturizers from ₹32"
+      },
+      {
+        "url": "https://extp.in/UDEGOx",
+        "label": "🏻 Facewashes from ₹26"
+      },
+      {
+        "url": "https://extp.in/YbMCMW",
+        "label": "🏻 TWS Earbuds from ₹63"
+      }
+    ],
+    "raw_text": "🔥🔥 Shopsy  Deals 🔥🔥\n\n👉🏻 Nuts & Dry Fruits at 27 : https://extp.in/w7Cg3y\n👉🏻 Toys from ₹31 : https://extp.in/ZFLS4A\n👉🏻 Moisturizers from ₹32 : https://extp.in/rGgNyT\n👉🏻 Facewashes from ₹26 : https://extp.in/UDEGOx\n👉🏻 TWS Earbuds from ₹63 : https://extp.in/YbMCMW",
+    "final_url": "https://extp.in/w7Cg3y",
+    "local_image": "assets/images/tgmsg_24766.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-01-20T23:32:48+00:00",
+    "buy_link": "https://extp.in/w7Cg3y",
+    "date_iso": "2026-01-20T23:32:48+00:00"
+  },
+  {
     "id": "msg24759",
     "title": "Boltt Aero TWS Ear Buds Custom EQ @799",
     "description": "Amazon | Fire-Boltt Aero TWS Ear Buds Custom EQ @799. https://www.amazon.in/dp/B0FVS6LDCT?tag=bestpricezo0f-21",
@@ -9674,29 +9714,5 @@
     "date_obj": "2026-01-14T17:34:15+00:00",
     "buy_link": "https://myntr.in/6RCtab",
     "date_iso": "2026-01-14T17:34:15+00:00"
-  },
-  {
-    "id": "msg23962",
-    "title": "Miraggio Min 50%",
-    "description": "Ajio | Miraggio Min 50% https://ajiio.co/87sfSj Soch Min 60% https://ajiio.co/FafJVI",
-    "shortlink": "https://ajiio.co/87sfSj",
-    "urls": [
-      {
-        "url": "https://ajiio.co/87sfSj",
-        "label": "Miraggio Min 50%"
-      },
-      {
-        "url": "https://ajiio.co/FafJVI",
-        "label": "Soch Min 60%"
-      }
-    ],
-    "raw_text": "Ajio | Miraggio Min 50%\nhttps://ajiio.co/87sfSj\n\nSoch Min 60%\nhttps://ajiio.co/FafJVI",
-    "final_url": "https://ajiio.co/87sfSj",
-    "local_image": "assets/images/tgmsg_23962.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-14T16:47:12+00:00",
-    "buy_link": "https://ajiio.co/87sfSj",
-    "date_iso": "2026-01-14T16:47:12+00:00"
   }
 ]
