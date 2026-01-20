@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg24655",
+    "title": "Shopsy Hour Deal",
+    "description": "Shopsy Loot Hour Deals Chikankari Kurta From ₹116 Yoke Printed Kurta from ₹122 Blouse from ₹107 Sarees from ₹180 Ethnic Sets from ₹136 Floral Print Fabric from ₹91 Check Min Buy Qnty",
+    "shortlink": "https://bitli.in/y8E8cfn",
+    "urls": [
+      {
+        "url": "",
+        "label": "Shopsy Loot Hour Deals"
+      },
+      {
+        "url": "https://bitli.in/y8E8cfn",
+        "label": "Chikankari Kurta From ₹116"
+      },
+      {
+        "url": "https://bitli.in/2wWU8OF",
+        "label": "Yoke Printed Kurta from ₹122"
+      },
+      {
+        "url": "https://bitli.in/uBCgviY",
+        "label": "Blouse from ₹107"
+      },
+      {
+        "url": "https://bitli.in/1o8Q1aa",
+        "label": "Sarees from ₹180"
+      },
+      {
+        "url": "https://bitli.in/J8XNhxp",
+        "label": "Ethnic Sets from ₹136"
+      },
+      {
+        "url": "https://bitli.in/ozKolso",
+        "label": "Floral Print Fabric from ₹91"
+      }
+    ],
+    "raw_text": "Shopsy Loot Hour Deals\n\nChikankari Kurta From ₹116 \n https://bitli.in/y8E8cfn\n\nYoke Printed Kurta from ₹122 \n https://bitli.in/2wWU8OF\n\nBlouse from ₹107  \n https://bitli.in/uBCgviY\n\nSarees from ₹180 \n https://bitli.in/1o8Q1aa\n\nEthnic Sets from ₹136 \n https://bitli.in/J8XNhxp\n\nFloral Print Fabric from ₹91 \n https://bitli.in/ozKolso\n\nCheck Min Buy Qnty",
+    "final_url": "https://bitli.in/y8E8cfn",
+    "local_image": "assets/images/tgmsg_24655.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2026-01-20T04:59:13+00:00",
+    "buy_link": "https://bitli.in/y8E8cfn",
+    "date_iso": "2026-01-20T04:59:13+00:00"
+  },
+  {
     "id": "msg24652",
     "title": "Up to 70% Off On Premium Brands Clothing + Extra 10% Super Cash",
     "description": "AJIO Upto 70% Off On Premium Brands Clothing + Extra 10% Super Cash. 70% Off On GAS : Men : Women : Upto 68% Off On SUPERDRY : Men : Women : Min. 50% Off On GAP : Women : Men : Boys : Girls : Upto 65% Off On Calvin…",
@@ -10150,25 +10194,5 @@
     "date_obj": "2026-01-12T19:08:07+00:00",
     "buy_link": "https://fkrt.co/S0clOE",
     "date_iso": "2026-01-12T19:08:07+00:00"
-  },
-  {
-    "id": "msg23831",
-    "title": "inch Ultragear Full HD Gaming Monitor @ 8499",
-    "description": "Amazon | LG 24-inch Ultragear Full HD Gaming Monitor @ 8499 https://www.amazon.in/dp/B0FWK4YFP7?psc=1&th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FWK4YFP7?psc=1&th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FWK4YFP7?psc=1&th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
-        "label": "LG 24-inch Ultragear Full HD Gaming Monitor @ 8499"
-      }
-    ],
-    "raw_text": "Amazon | LG 24-inch Ultragear Full HD Gaming Monitor @ 8499\n \nhttps://www.amazon.in/dp/B0FWK4YFP7?psc=1&th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FWK4YFP7?psc=1&th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_23831.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-12T19:09:09+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FWK4YFP7?psc=1&th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
-    "date_iso": "2026-01-12T19:09:09+00:00"
   }
 ]
