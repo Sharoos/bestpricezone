@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg24659",
+    "title": "Lakme Liquid Eyeconic Eye Regime Kit @ 420",
+    "description": "Amazon | Lakme Liquid Eyeconic Eye Regime Kit @ 420. https://www.amazon.in/dp/B0CHW3BNXF?psc=1&th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CHW3BNXF?psc=1&th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CHW3BNXF?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "Lakme Liquid Eyeconic Eye Regime Kit @ 420"
+      }
+    ],
+    "raw_text": "Amazon | Lakme Liquid Eyeconic Eye Regime Kit @ 420.\n\nhttps://www.amazon.in/dp/B0CHW3BNXF?psc=1&th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CHW3BNXF?psc=1&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_24659.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-20T05:53:11+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CHW3BNXF?psc=1&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-20T05:53:11+00:00"
+  },
+  {
     "id": "msg24658",
     "title": "Grocery Up to 92% Off",
     "description": "Flipkart Grocery Loot : Upto 92% Off Link 1 : Link 2 : Link 3 : Check All Locations",
@@ -10186,25 +10206,5 @@
     "date_obj": "2026-01-12T19:00:15+00:00",
     "buy_link": "https://fkrt.co/gAEIzd",
     "date_iso": "2026-01-12T19:00:15+00:00"
-  },
-  {
-    "id": "msg23829",
-    "title": "🧔 OnePlus Trimmers – Starting at ₹495",
-    "description": "Flipkart | 🧔 OnePlus Trimmers – Starting at ₹495 🔗  https://fkrt.co/vRTWD0",
-    "shortlink": "https://fkrt.co/vRTWD0",
-    "urls": [
-      {
-        "url": "https://fkrt.co/vRTWD0",
-        "label": "🧔 OnePlus Trimmers – Starting at ₹495"
-      }
-    ],
-    "raw_text": "Flipkart | 🧔 OnePlus Trimmers – Starting at ₹495\n\n🔗  https://fkrt.co/vRTWD0",
-    "final_url": "https://fkrt.co/vRTWD0",
-    "local_image": "assets/images/tgmsg_23829.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-12T19:00:41+00:00",
-    "buy_link": "https://fkrt.co/vRTWD0",
-    "date_iso": "2026-01-12T19:00:41+00:00"
   }
 ]
