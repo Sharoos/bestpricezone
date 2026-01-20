@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg24651",
+    "title": "Up to 80% Off John Players Clothing",
+    "description": "AJIO : Upto 80% Off : John Players Clothing Jeans – Shirts – T-Shirts – Trousers – Sweatshirts – Sweaters – Jackets – Waistcoats & Blazers –",
+    "shortlink": "https://ajiio.co/11pZKO",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off : John Players Clothing"
+      },
+      {
+        "url": "https://ajiio.co/11pZKO",
+        "label": "Jeans –"
+      },
+      {
+        "url": "https://ajiio.co/B7N1ua",
+        "label": "Shirts –"
+      },
+      {
+        "url": "https://ajiio.co/o0vlua",
+        "label": "T-Shirts –"
+      },
+      {
+        "url": "https://ajiio.co/tqMj0q",
+        "label": "Trousers –"
+      },
+      {
+        "url": "https://ajiio.co/nekfz0",
+        "label": "Sweatshirts –"
+      },
+      {
+        "url": "https://ajiio.co/vBd4zq",
+        "label": "Sweaters –"
+      },
+      {
+        "url": "https://ajiio.co/0MvQaQ",
+        "label": "Jackets –"
+      },
+      {
+        "url": "https://ajiio.co/f5Mosq",
+        "label": "Waistcoats & Blazers –"
+      }
+    ],
+    "raw_text": "AJIO : Upto 80% Off : John Players Clothing \n\nJeans – https://ajiio.co/11pZKO\nShirts – https://ajiio.co/B7N1ua\nT-Shirts – https://ajiio.co/o0vlua\nTrousers – https://ajiio.co/tqMj0q\nSweatshirts – https://ajiio.co/nekfz0\nSweaters – https://ajiio.co/vBd4zq\nJackets – https://ajiio.co/0MvQaQ\nWaistcoats & Blazers – https://ajiio.co/f5Mosq",
+    "final_url": "https://ajiio.co/11pZKO",
+    "local_image": "assets/images/tgmsg_24651.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-20T03:46:58+00:00",
+    "buy_link": "https://ajiio.co/11pZKO",
+    "date_iso": "2026-01-20T03:46:58+00:00"
+  },
+  {
     "id": "msg24646",
     "title": "Pack of 15 x 2 @ 342/",
     "description": "Amazon 🔥 Coupon: CF ACV Tabs - - 🔗 With NagarMotha + Moringa - Helps in Weight Loss",
@@ -10058,33 +10110,5 @@
     "date_obj": "2026-01-12T19:10:33+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CMXQN2B4?th=1&tag=bestpricezo0f-21",
     "date_iso": "2026-01-12T19:10:33+00:00"
-  },
-  {
-    "id": "msg23818",
-    "title": "Branded Cargo Trousers Starts @345",
-    "description": "Myntra : Branded Cargo Trousers Starts @345 Men : https://myntr.in/YKc5m3 Women : https://myntr.in/LneXY2",
-    "shortlink": "https://myntr.in/YKc5m3",
-    "urls": [
-      {
-        "url": "",
-        "label": "Branded Cargo Trousers Starts @345"
-      },
-      {
-        "url": "https://myntr.in/YKc5m3",
-        "label": "Men"
-      },
-      {
-        "url": "https://myntr.in/LneXY2",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Myntra : Branded Cargo Trousers Starts @345\n\nMen : https://myntr.in/YKc5m3\nWomen : https://myntr.in/LneXY2",
-    "final_url": "https://myntr.in/YKc5m3",
-    "local_image": "assets/images/tgmsg_23818.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-12T18:29:26+00:00",
-    "buy_link": "https://myntr.in/YKc5m3",
-    "date_iso": "2026-01-12T18:29:26+00:00"
   }
 ]
