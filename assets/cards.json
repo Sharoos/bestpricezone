@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg24658",
+    "title": "Grocery Up to 92% Off",
+    "description": "Flipkart Grocery Loot : Upto 92% Off Link 1 : Link 2 : Link 3 : Check All Locations",
+    "shortlink": "https://fktr.in/LX4pgz6",
+    "urls": [
+      {
+        "url": "https://fktr.in/LX4pgz6",
+        "label": "Upto 92% Off"
+      },
+      {
+        "url": "https://fktr.in/MCEkCH8",
+        "label": "Upto 92% Off"
+      },
+      {
+        "url": "https://fktr.in/auyi5uk",
+        "label": "Upto 92% Off"
+      },
+      {
+        "url": "",
+        "label": "Check All Locations"
+      }
+    ],
+    "raw_text": "Flipkart Grocery Loot : Upto 92% Off\n\nLink 1 :   https://fktr.in/LX4pgz6\nLink 2 :   https://fktr.in/MCEkCH8\nLink 3 :   https://fktr.in/auyi5uk\n\nCheck All Locations",
+    "final_url": "https://fktr.in/LX4pgz6",
+    "local_image": "assets/images/tgmsg_24658.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-20T05:48:21+00:00",
+    "buy_link": "https://fktr.in/LX4pgz6",
+    "date_iso": "2026-01-20T05:48:21+00:00"
+  },
+  {
     "id": "msg24655",
     "title": "Shopsy Hour Deal",
     "description": "Shopsy Loot Hour Deals Chikankari Kurta From ₹116 Yoke Printed Kurta from ₹122 Blouse from ₹107 Sarees from ₹180 Ethnic Sets from ₹136 Floral Print Fabric from ₹91 Check Min Buy Qnty",
@@ -10174,25 +10206,5 @@
     "date_obj": "2026-01-12T19:00:41+00:00",
     "buy_link": "https://fkrt.co/vRTWD0",
     "date_iso": "2026-01-12T19:00:41+00:00"
-  },
-  {
-    "id": "msg23830",
-    "title": "1 Magnetic Screwdriver Tool Set – Just ₹181",
-    "description": "Flipkart | 🧰 Mcare 24-in-1 Magnetic Screwdriver Tool Set – Just ₹181 👉  https://fkrt.co/S0clOE",
-    "shortlink": "https://fkrt.co/S0clOE",
-    "urls": [
-      {
-        "url": "https://fkrt.co/S0clOE",
-        "label": "🧰 Mcare 24-in-1 Magnetic Screwdriver Tool Set – Just ₹181"
-      }
-    ],
-    "raw_text": "Flipkart | 🧰 Mcare 24-in-1 Magnetic Screwdriver Tool Set – Just ₹181\n\n👉  https://fkrt.co/S0clOE",
-    "final_url": "https://fkrt.co/S0clOE",
-    "local_image": "assets/images/tgmsg_23830.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-12T19:08:07+00:00",
-    "buy_link": "https://fkrt.co/S0clOE",
-    "date_iso": "2026-01-12T19:08:07+00:00"
   }
 ]
