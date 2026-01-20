@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg24665",
+    "title": "Men's Track Pants From ₹189",
+    "description": "Shopsy - Super Saver Offers Stylish Tees From ₹99 Trendy Shoes From ₹169  Apply Coupon & Check Min. Buy Qnty",
+    "shortlink": "https://bitli.in/X04HKzl",
+    "urls": [
+      {
+        "url": "",
+        "label": "Super Saver Offers"
+      },
+      {
+        "url": "https://bitli.in/X04HKzl",
+        "label": "Stylish Tees From ₹99"
+      },
+      {
+        "url": "https://bitli.in/kei2ma8",
+        "label": "Trendy Shoes From ₹169"
+      },
+      {
+        "url": "https://bitli.in/lRKUmkw",
+        "label": "Men's Track Pants From ₹189"
+      }
+    ],
+    "raw_text": "Shopsy - Super Saver Offers\n\nStylish Tees From ₹99\n https://bitli.in/X04HKzl  \n\nTrendy Shoes From ₹169\n https://bitli.in/kei2ma8  \n\nMen's Track Pants From ₹189\n https://bitli.in/lRKUmkw  \n\nApply Coupon & Check Min. Buy Qnty",
+    "final_url": "https://bitli.in/X04HKzl",
+    "local_image": "assets/images/tgmsg_24665.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2026-01-20T07:52:52+00:00",
+    "buy_link": "https://bitli.in/X04HKzl",
+    "date_iso": "2026-01-20T07:52:52+00:00"
+  },
+  {
     "id": "msg24662",
     "title": "71% Off",
     "description": "Flipkart | 71% Off - boAt Nirvana Crown Buds At Rs.2799 🔗 https://fkrt.co/4yxZzs",
@@ -10142,69 +10174,5 @@
     "date_obj": "2026-01-13T04:58:30+00:00",
     "buy_link": "https://ajiio.co/V06V0I",
     "date_iso": "2026-01-13T04:58:30+00:00"
-  },
-  {
-    "id": "msg23841",
-    "title": "Grocery Up to 80% OFF 🎉🔥",
-    "description": "Flipkart Grocery LOOT: Up to 80% OFF 🎉🔥 👉 Master Link: ✅Top Categories: • Atta / Rice: • Oil / Ghee: • Snacks: • Oral Care: • Tea / Coffee: 📌Extra Savings: • Add to cart & unlock ₹1 deals • ₹200 OFF on ₹1,999 (SBI Card)…",
-    "shortlink": "https://fktr.in/RkqdHMH",
-    "urls": [
-      {
-        "url": "",
-        "label": "Up to 80% OFF 🎉🔥"
-      },
-      {
-        "url": "https://fktr.in/RkqdHMH",
-        "label": "Master"
-      },
-      {
-        "url": "",
-        "label": "✅Top Categories"
-      },
-      {
-        "url": "https://fktr.in/nrLuzws",
-        "label": "Atta / Rice"
-      },
-      {
-        "url": "https://fktr.in/jvrgZl2",
-        "label": "Oil / Ghee"
-      },
-      {
-        "url": "https://fktr.in/eAWmVjG",
-        "label": "Snacks"
-      },
-      {
-        "url": "https://fktr.in/wzmPpkn",
-        "label": "Oral Care"
-      },
-      {
-        "url": "https://fktr.in/FRYBnry",
-        "label": "Tea / Coffee"
-      },
-      {
-        "url": "",
-        "label": "📌Extra Savings"
-      },
-      {
-        "url": "",
-        "label": "Add to cart & unlock ₹1 deals"
-      },
-      {
-        "url": "",
-        "label": "₹200 OFF on ₹1,999 (SBI Card)"
-      },
-      {
-        "url": "",
-        "label": "Extra ₹250 OFF on cart"
-      }
-    ],
-    "raw_text": "Flipkart Grocery LOOT: Up to 80% OFF 🎉🔥\n\n👉 Master Link: https://fktr.in/RkqdHMH\n\n✅Top Categories: \n• Atta / Rice: https://fktr.in/nrLuzws\n• Oil / Ghee: https://fktr.in/jvrgZl2\n• Snacks: https://fktr.in/eAWmVjG\n• Oral Care: https://fktr.in/wzmPpkn\n• Tea / Coffee: https://fktr.in/FRYBnry\n\n📌Extra Savings: \n• Add to cart & unlock ₹1 deals\n• ₹200 OFF on ₹1,999 (SBI Card)\n• Extra ₹250 OFF on cart",
-    "final_url": "https://fktr.in/RkqdHMH",
-    "local_image": "assets/images/tgmsg_23841.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-13T05:05:34+00:00",
-    "buy_link": "https://fktr.in/RkqdHMH",
-    "date_iso": "2026-01-13T05:05:34+00:00"
   }
 ]
