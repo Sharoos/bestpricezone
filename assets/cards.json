@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg24662",
+    "title": "71% Off",
+    "description": "Flipkart | 71% Off - boAt Nirvana Crown Buds At Rs.2799 🔗 https://fkrt.co/4yxZzs",
+    "shortlink": "https://fkrt.co/4yxZzs",
+    "urls": [
+      {
+        "url": "https://fkrt.co/4yxZzs",
+        "label": "71% Off - boAt Nirvana Crown Buds At Rs.2799"
+      }
+    ],
+    "raw_text": "Flipkart | 71% Off - boAt Nirvana Crown Buds At Rs.2799\n\n🔗 https://fkrt.co/4yxZzs",
+    "final_url": "https://fkrt.co/4yxZzs",
+    "local_image": "assets/images/tgmsg_24662.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-20T07:17:20+00:00",
+    "buy_link": "https://fkrt.co/4yxZzs",
+    "date_iso": "2026-01-20T07:17:20+00:00"
+  },
+  {
     "id": "msg24660",
     "title": "BOGO Movie Offer – 2nd ticket FREE (Up to ₹200 per month)",
     "description": "Axis MyZone Credit Card – Lifetime Free + FREE SonyLIV Premium worth ₹1,499 (First transaction within 30 days) Top Benefits: •  • Swiggy ₹120 Off × 2 every month (Save 2,880/year) • 4 EDGE Reward Points on every ₹200…",
@@ -10186,45 +10206,5 @@
     "date_obj": "2026-01-13T05:05:34+00:00",
     "buy_link": "https://fktr.in/RkqdHMH",
     "date_iso": "2026-01-13T05:05:34+00:00"
-  },
-  {
-    "id": "msg23838",
-    "title": "🔥HRX Tracksuits Starts @ ₹701",
-    "description": "🔥Myntra : HRX Tracksuits Starts @ ₹701. Women : Men : Trackpants Starts @ ₹391. Men : Women :",
-    "shortlink": "https://myntr.in/UKYbsH",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Myntra : HRX Tracksuits Starts @ ₹701"
-      },
-      {
-        "url": "https://myntr.in/UKYbsH",
-        "label": "Women"
-      },
-      {
-        "url": "https://myntr.in/mhHOCb",
-        "label": "Men"
-      },
-      {
-        "url": "",
-        "label": "Trackpants Starts @ ₹391"
-      },
-      {
-        "url": "https://myntr.in/EM68a2",
-        "label": "Men"
-      },
-      {
-        "url": "https://myntr.in/o96pZV",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "🔥Myntra : HRX Tracksuits Starts @ ₹701.\n\nWomen : https://myntr.in/UKYbsH\nMen : https://myntr.in/mhHOCb\n\nTrackpants Starts @ ₹391.\n\nMen : https://myntr.in/EM68a2\nWomen : https://myntr.in/o96pZV",
-    "final_url": "https://myntr.in/UKYbsH",
-    "local_image": "assets/images/tgmsg_23838.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-13T04:39:08+00:00",
-    "buy_link": "https://myntr.in/UKYbsH",
-    "date_iso": "2026-01-13T04:39:08+00:00"
   }
 ]
