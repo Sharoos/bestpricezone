@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg24779",
+    "title": "Jack & Jones Min 50% Off",
+    "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/3bwsBO",
+    "urls": [
+      {
+        "url": "https://ajiio.co/3bwsBO",
+        "label": "🔥AJIO | Jeans & Shorts Under ₹499"
+      },
+      {
+        "url": "https://ajiio.co/a8IMZe",
+        "label": "Performax Under ₹699"
+      },
+      {
+        "url": "https://ajiio.co/mDYWxb",
+        "label": "Jack & Jones Min 50% Off"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "🔥AJIO | Jeans & Shorts Under ₹499\n👉https://ajiio.co/3bwsBO\n\nPerformax Under ₹699\n👉https://ajiio.co/a8IMZe\n\nJack & Jones Min 50% Off\n👉https://ajiio.co/mDYWxb\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/3bwsBO",
+    "local_image": "assets/images/tgmsg_24779.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-21T05:25:59+00:00",
+    "buy_link": "https://ajiio.co/3bwsBO",
+    "date_iso": "2026-01-21T05:25:59+00:00"
+  },
+  {
     "id": "msg24775",
     "title": "Pigeon High Grade Stainless Steel 4 Pcs Kitchen Knife Set",
     "description": "Amazon | Pigeon High Grade Stainless Steel 4 Pcs Kitchen Knife Set ₹95 🔗 https://www.amazon.in/dp/B0CYZ48MDL?smid=&th=1&language=en_IN&tag=bestpricezo0f-21",
@@ -9750,25 +9782,5 @@
     "date_obj": "2026-01-14T19:45:16+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FGCNS7BN?tag=bestpricezo0f-21",
     "date_iso": "2026-01-14T19:45:16+00:00"
-  },
-  {
-    "id": "msg23984",
-    "title": "Metronaut Belts starting From Rs.99",
-    "description": "Flipkart | Metronaut Belts starting From Rs.99 https://fkrt.co/hiLqj5",
-    "shortlink": "https://fkrt.co/hiLqj5",
-    "urls": [
-      {
-        "url": "https://fkrt.co/hiLqj5",
-        "label": "Metronaut Belts starting From Rs.99"
-      }
-    ],
-    "raw_text": "Flipkart | Metronaut Belts starting From Rs.99\n\n  https://fkrt.co/hiLqj5",
-    "final_url": "https://fkrt.co/hiLqj5",
-    "local_image": "assets/images/tgmsg_23984.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-14T19:45:50+00:00",
-    "buy_link": "https://fkrt.co/hiLqj5",
-    "date_iso": "2026-01-14T19:45:50+00:00"
   }
 ]
