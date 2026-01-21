@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg24814",
+    "title": "Shopsy Men Casual Sneakers @₹336",
+    "description": "Shopsy | Men Casual Sneakers @₹336 🔗 https://extp.in/ormbea Men Casual Sneakers @₹336 🔗 https://extp.in/nMDoc6",
+    "shortlink": "https://extp.in/ormbea",
+    "urls": [
+      {
+        "url": "https://extp.in/ormbea",
+        "label": "Men Casual Sneakers @₹336"
+      },
+      {
+        "url": "https://extp.in/nMDoc6",
+        "label": "Men Casual Sneakers @₹336"
+      }
+    ],
+    "raw_text": "Shopsy | Men Casual Sneakers @₹336\n🔗 https://extp.in/ormbea\n\nMen Casual Sneakers @₹336\n🔗 https://extp.in/nMDoc6",
+    "final_url": "https://extp.in/ormbea",
+    "local_image": "assets/images/tgmsg_24814.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-01-21T10:50:38+00:00",
+    "buy_link": "https://extp.in/ormbea",
+    "date_iso": "2026-01-21T10:50:38+00:00"
+  },
+  {
     "id": "msg24813",
     "title": "Shopsy Men Checkered Half Shirt @₹151",
     "description": "Shopsy | Men Checkered Half Shirt @₹151 Note: Minimum 2 units must be purchased. 🔗 🔗",
@@ -9738,53 +9762,5 @@
     "date_obj": "2026-01-15T09:40:22+00:00",
     "buy_link": "https://fkrt.co/Wq7QDU",
     "date_iso": "2026-01-15T09:40:22+00:00"
-  },
-  {
-    "id": "msg24025",
-    "title": "Winterwear Up to 70% OFF",
-    "description": "Bewakoof Sale – Mad in India 🇮🇳 🔥 🛒 Top Deals: • Buy 2 Joggers @ 1699 👉 • Buy 3 Classic Fit T-Shirts @ 1099 👉 • Winterwear Upto 70% OFF 👉 • Jeans Upto 70% OFF 👉 • Oversized T-Shirts – Buy 2 @ 1099 👉 📌Shop Now:",
-    "shortlink": "https://bitli.in/qI03bTI",
-    "urls": [
-      {
-        "url": "",
-        "label": "Bewakoof Sale – Mad in India 🇮🇳 🔥"
-      },
-      {
-        "url": "",
-        "label": "🛒 Top Deals"
-      },
-      {
-        "url": "https://bitli.in/qI03bTI",
-        "label": "2 Joggers @ 1699 👉"
-      },
-      {
-        "url": "https://bitli.in/QMOUtln",
-        "label": "Shirts @ 1099 👉"
-      },
-      {
-        "url": "https://bitli.in/wPPXRTJ",
-        "label": "Winterwear Upto 70% OFF 👉"
-      },
-      {
-        "url": "https://bitli.in/AvSvOGi",
-        "label": "Jeans Upto 70% OFF 👉"
-      },
-      {
-        "url": "https://bitli.in/m52PdBh",
-        "label": "Shirts – 2 @ 1099 👉"
-      },
-      {
-        "url": "https://bitli.in/ml7U953",
-        "label": "📌Shop Now"
-      }
-    ],
-    "raw_text": "Bewakoof Sale – Mad in India 🇮🇳 🔥\n\n🛒 Top Deals:\n• Buy 2 Joggers @ 1699 👉 https://bitli.in/qI03bTI\n\n• Buy 3 Classic Fit T-Shirts @ 1099 👉 https://bitli.in/QMOUtln\n\n• Winterwear Upto 70% OFF 👉 https://bitli.in/wPPXRTJ\n\n• Jeans Upto 70% OFF 👉 https://bitli.in/AvSvOGi\n\n• Oversized T-Shirts – Buy 2 @ 1099 👉 https://bitli.in/m52PdBh\n\n📌Shop Now: https://bitli.in/ml7U953",
-    "final_url": "https://bitli.in/qI03bTI",
-    "local_image": "assets/images/tgmsg_24025.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-01-15T09:41:36+00:00",
-    "buy_link": "https://bitli.in/qI03bTI",
-    "date_iso": "2026-01-15T09:41:36+00:00"
   }
 ]
