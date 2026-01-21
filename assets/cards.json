@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg24792",
+    "title": "Shopsy 🔥 Women Jewellery Sets From ₹72",
+    "description": "Shopsy | 🔥  Women Jewellery Sets From ₹72 🔗 https://extp.in/DeVgCU",
+    "shortlink": "https://extp.in/DeVgCU",
+    "urls": [
+      {
+        "url": "https://extp.in/DeVgCU",
+        "label": "🔥 Women Jewellery Sets From ₹72"
+      }
+    ],
+    "raw_text": "Shopsy | 🔥  Women Jewellery Sets From ₹72\n\n🔗 https://extp.in/DeVgCU",
+    "final_url": "https://extp.in/DeVgCU",
+    "local_image": "assets/images/tgmsg_24792.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-01-21T07:20:25+00:00",
+    "buy_link": "https://extp.in/DeVgCU",
+    "date_iso": "2026-01-21T07:20:25+00:00"
+  },
+  {
+    "id": "msg24793",
+    "title": "Up to 91% Off Tokyo Talkies Women's Clothing",
+    "description": "Flipkart | Upto 91% Off : Tokyo Talkies Women's Clothing 🔗 https://fkrt.co/tDnxGP",
+    "shortlink": "https://fkrt.co/tDnxGP",
+    "urls": [
+      {
+        "url": "https://fkrt.co/tDnxGP",
+        "label": "Upto 91% Off : Tokyo Talkies Women's Clothing"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 91% Off : Tokyo Talkies Women's Clothing \n\n🔗 https://fkrt.co/tDnxGP",
+    "final_url": "https://fkrt.co/tDnxGP",
+    "local_image": "assets/images/tgmsg_24793.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-21T07:40:19+00:00",
+    "buy_link": "https://fkrt.co/tDnxGP",
+    "date_iso": "2026-01-21T07:40:19+00:00"
+  },
+  {
     "id": "msg24783",
     "title": "Shopsy 🔥 Pack of 2 Badminton Racquet with 5 Shuttle Cock at ₹210",
     "description": "Shopsy | 🔥  Pack of 2 Badminton Racquet with 5 Shuttle Cock at ₹210 🔗 https://extp.in/Tw1nTA More : 🔗 https://extp.in/OEsuiQ",
@@ -9798,53 +9838,5 @@
     "date_obj": "2026-01-15T04:31:33+00:00",
     "buy_link": "https://myntr.in/MGcvgM",
     "date_iso": "2026-01-15T04:31:33+00:00"
-  },
-  {
-    "id": "msg23995",
-    "title": "Aristocrat Duffel Bags @₹469",
-    "description": "Flipkart | Aristocrat Duffel Bags @₹469 https://fkrt.co/QGWZkb",
-    "shortlink": "https://fkrt.co/QGWZkb",
-    "urls": [
-      {
-        "url": "https://fkrt.co/QGWZkb",
-        "label": "Aristocrat Duffel Bags @₹469"
-      }
-    ],
-    "raw_text": "Flipkart | Aristocrat Duffel Bags @₹469\n\nhttps://fkrt.co/QGWZkb",
-    "final_url": "https://fkrt.co/QGWZkb",
-    "local_image": "assets/images/tgmsg_23995.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-15T04:46:18+00:00",
-    "buy_link": "https://fkrt.co/QGWZkb",
-    "date_iso": "2026-01-15T04:46:18+00:00"
-  },
-  {
-    "id": "msg23991",
-    "title": "Footwears @199",
-    "description": "Loot Footwears @199. Men's : https://ajiio.in/2Ue0dqO Women's : https://ajiio.in/aiIrKOs",
-    "shortlink": "https://ajiio.in/2Ue0dqO",
-    "urls": [
-      {
-        "url": "",
-        "label": "Loot Footwears @199"
-      },
-      {
-        "url": "https://ajiio.in/2Ue0dqO",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.in/aiIrKOs",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "Loot Footwears @199.\n\nMen's : https://ajiio.in/2Ue0dqO\nWomen's : https://ajiio.in/aiIrKOs",
-    "final_url": "https://ajiio.in/2Ue0dqO",
-    "local_image": "assets/images/tgmsg_23991.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-15T04:12:38+00:00",
-    "buy_link": "https://ajiio.in/2Ue0dqO",
-    "date_iso": "2026-01-15T04:12:38+00:00"
   }
 ]
