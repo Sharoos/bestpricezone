@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg24813",
+    "title": "Shopsy Men Checkered Half Shirt @₹151",
+    "description": "Shopsy | Men Checkered Half Shirt @₹151 Note: Minimum 2 units must be purchased. 🔗 🔗",
+    "shortlink": "https://extp.in/8mDmfr",
+    "urls": [
+      {
+        "url": "https://extp.in/8mDmfr",
+        "label": "Men Checkered Half Shirt @₹151"
+      },
+      {
+        "url": "https://extp.in/nAIHob",
+        "label": "Men Checkered Half Shirt @₹151"
+      }
+    ],
+    "raw_text": "Shopsy | Men Checkered Half Shirt @₹151\n\nNote: Minimum 2 units must be purchased.\n\n🔗 https://extp.in/8mDmfr\n🔗 https://extp.in/nAIHob",
+    "final_url": "https://extp.in/8mDmfr",
+    "local_image": "assets/images/tgmsg_24813.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-01-21T10:40:38+00:00",
+    "buy_link": "https://extp.in/8mDmfr",
+    "date_iso": "2026-01-21T10:40:38+00:00"
+  },
+  {
     "id": "msg24805",
     "title": "Shopsy 🔥 Casual Sneakers @ ₹250",
     "description": "Shopsy   🔥  Casual Sneakers @ ₹250 🔗 https://extp.in/iqqryq Regular price 750+",
@@ -9762,29 +9786,5 @@
     "date_obj": "2026-01-15T09:41:36+00:00",
     "buy_link": "https://bitli.in/qI03bTI",
     "date_iso": "2026-01-15T09:41:36+00:00"
-  },
-  {
-    "id": "msg24021",
-    "title": "Up to 75% Off On Fort Collins Jackets Starts @416",
-    "description": "AJIO  Upto 75% Off On Fort Collins Jackets Starts @416 Men : https://ajiio.co/GrH142 Women : https://ajiio.co/OHzrB7",
-    "shortlink": "https://ajiio.co/GrH142",
-    "urls": [
-      {
-        "url": "https://ajiio.co/GrH142",
-        "label": "AJIO Upto 75% Off On Fort Collins Jackets Starts @416"
-      },
-      {
-        "url": "https://ajiio.co/OHzrB7",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "AJIO  Upto 75% Off On Fort Collins Jackets Starts @416\n\nMen : https://ajiio.co/GrH142\nWomen : https://ajiio.co/OHzrB7",
-    "final_url": "https://ajiio.co/GrH142",
-    "local_image": "assets/images/tgmsg_24021.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-15T09:03:08+00:00",
-    "buy_link": "https://ajiio.co/GrH142",
-    "date_iso": "2026-01-15T09:03:08+00:00"
   }
 ]
