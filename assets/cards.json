@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg24794",
+    "title": "Formal Shoes from ₹149",
+    "description": "AJIO Footwears Starts at Rs.99. Shoes from ₹99 : Sandals from ₹99 : Flip-Flops from ₹99 :  : Sandals from ₹99 : Flip-Flops from ₹99 :",
+    "shortlink": "https://ajiio.co/zQnPbi",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Footwears Starts at Rs.99"
+      },
+      {
+        "url": "https://ajiio.co/zQnPbi",
+        "label": "Shoes from ₹99"
+      },
+      {
+        "url": "https://ajiio.co/BK5ykO",
+        "label": "Sandals from ₹99"
+      },
+      {
+        "url": "https://ajiio.co/3alQ0b",
+        "label": "Flops from ₹99"
+      },
+      {
+        "url": "https://ajiio.co/FdwrQj",
+        "label": "Formal Shoes from ₹149"
+      },
+      {
+        "url": "https://ajiio.co/2uetpR",
+        "label": "Sandals from ₹99"
+      },
+      {
+        "url": "https://ajiio.co/tWXEgk",
+        "label": "Flops from ₹99"
+      }
+    ],
+    "raw_text": "AJIO  Footwears Starts at Rs.99.\n\nShoes from ₹99 :     https://ajiio.co/zQnPbi\nSandals from ₹99 :     https://ajiio.co/BK5ykO\nFlip-Flops from ₹99 :     https://ajiio.co/3alQ0b\n\nFormal Shoes from ₹149 :     https://ajiio.co/FdwrQj\nSandals from ₹99 :     https://ajiio.co/2uetpR\nFlip-Flops from ₹99 :     https://ajiio.co/tWXEgk",
+    "final_url": "https://ajiio.co/zQnPbi",
+    "local_image": "assets/images/tgmsg_24794.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-21T07:50:19+00:00",
+    "buy_link": "https://ajiio.co/zQnPbi",
+    "date_iso": "2026-01-21T07:50:19+00:00"
+  },
+  {
     "id": "msg24792",
     "title": "Shopsy 🔥 Women Jewellery Sets From ₹72",
     "description": "Shopsy | 🔥  Women Jewellery Sets From ₹72 🔗 https://extp.in/DeVgCU",
@@ -9810,33 +9854,5 @@
     "date_obj": "2026-01-15T05:25:52+00:00",
     "buy_link": "https://myntr.in/uuKBLz",
     "date_iso": "2026-01-15T05:25:52+00:00"
-  },
-  {
-    "id": "msg23994",
-    "title": "Flat 70% Off",
-    "description": "Myntra | 👟 Puma Shoe Steal Deals Flat 70% Off Men's: https://myntr.in/MGcvgM",
-    "shortlink": "https://myntr.in/MGcvgM",
-    "urls": [
-      {
-        "url": "",
-        "label": "👟 Puma Shoe Steal Deals"
-      },
-      {
-        "url": "",
-        "label": "Flat 70% Off"
-      },
-      {
-        "url": "https://myntr.in/MGcvgM",
-        "label": "Men's"
-      }
-    ],
-    "raw_text": "Myntra | 👟 Puma Shoe Steal Deals\n\nFlat 70% Off\n\nMen's: https://myntr.in/MGcvgM",
-    "final_url": "https://myntr.in/MGcvgM",
-    "local_image": "assets/images/tgmsg_23994.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-01-15T04:31:33+00:00",
-    "buy_link": "https://myntr.in/MGcvgM",
-    "date_iso": "2026-01-15T04:31:33+00:00"
   }
 ]
