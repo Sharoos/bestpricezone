@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg24974",
+    "title": "Noise Republic Day Sale Up to 80% Off 🔥🔥",
+    "description": "Noise : Republic Day Sale Upto 80% Off 🔥🔥 🔗 Link : • Extra 10% Discount On HDFC Credit card",
+    "shortlink": "https://extp.in/ABWdkM",
+    "urls": [
+      {
+        "url": "https://extp.in/ABWdkM",
+        "label": "Republic Day Sale Upto 80% Off 🔥🔥"
+      },
+      {
+        "url": "",
+        "label": "Extra 10% Discount On HDFC Credit card"
+      }
+    ],
+    "raw_text": "Noise : Republic Day Sale Upto 80% Off 🔥🔥\n\n🔗 Link : https://extp.in/ABWdkM\n\n• Extra 10% Discount On HDFC Credit card",
+    "final_url": "https://extp.in/ABWdkM",
+    "local_image": "assets/images/tgmsg_24974.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-01-22T11:05:05+00:00",
+    "buy_link": "https://extp.in/ABWdkM",
+    "date_iso": "2026-01-22T11:05:05+00:00"
+  },
+  {
     "id": "msg24971",
     "title": "77% Off",
     "description": "Flipkart | 77% Off - Laptop Sleeve & Cover At Rs.897 🔗 https://fkrt.co/cXSS8V Master Link -  https://fkrt.co/oMVU09",
@@ -9986,45 +10010,5 @@
     "date_obj": "2026-01-17T16:21:44+00:00",
     "buy_link": "https://bitli.in/rAHOjPn",
     "date_iso": "2026-01-17T16:21:44+00:00"
-  },
-  {
-    "id": "msg24402",
-    "title": "Up to 75% Off On Branded Men's Clothing",
-    "description": "Ajio : Upto 75% Off On Branded Men's Clothing. T-Shirt : Shirt : Jeans : Jacket : Sweatshirt :",
-    "shortlink": "https://ajiio.co/UAEdHg",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 75% Off On Branded Men's Clothing"
-      },
-      {
-        "url": "https://ajiio.co/UAEdHg",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://ajiio.co/8gVaMo",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://ajiio.co/KxPkJP",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/MjaGdN",
-        "label": "Jacket"
-      },
-      {
-        "url": "https://ajiio.co/Fy79NN",
-        "label": "Sweatshirt"
-      }
-    ],
-    "raw_text": "Ajio : Upto 75% Off On Branded Men's Clothing.\n\nT-Shirt : https://ajiio.co/UAEdHg\nShirt : https://ajiio.co/8gVaMo\nJeans : https://ajiio.co/KxPkJP\nJacket : https://ajiio.co/MjaGdN\nSweatshirt : https://ajiio.co/Fy79NN",
-    "final_url": "https://ajiio.co/UAEdHg",
-    "local_image": "assets/images/tgmsg_24402.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-17T16:06:42+00:00",
-    "buy_link": "https://ajiio.co/UAEdHg",
-    "date_iso": "2026-01-17T16:06:42+00:00"
   }
 ]
