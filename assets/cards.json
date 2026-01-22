@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg24971",
+    "title": "77% Off",
+    "description": "Flipkart | 77% Off - Laptop Sleeve & Cover At Rs.897 🔗 https://fkrt.co/cXSS8V Master Link -  https://fkrt.co/oMVU09",
+    "shortlink": "https://fkrt.co/cXSS8V",
+    "urls": [
+      {
+        "url": "https://fkrt.co/cXSS8V",
+        "label": "77% Off - Laptop Sleeve & Cover At Rs.897"
+      },
+      {
+        "url": "https://fkrt.co/oMVU09",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Flipkart | 77% Off - Laptop Sleeve & Cover At Rs.897\n\n 🔗 https://fkrt.co/cXSS8V\n\nMaster Link -  https://fkrt.co/oMVU09",
+    "final_url": "https://fkrt.co/cXSS8V",
+    "local_image": "assets/images/tgmsg_24971.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-22T10:40:15+00:00",
+    "buy_link": "https://fkrt.co/cXSS8V",
+    "date_iso": "2026-01-22T10:40:15+00:00"
+  },
+  {
+    "id": "msg24973",
+    "title": "✅ Flat ₹4,200 OFF on Complete Health Package At Rs.799",
+    "description": "MediBuddy 🔥🔥  🩺 Full Body Checkup + Vitamin D + Sugar Test [HbA1c] + Thyroid [T3/T4/TSH] 👉 🎟 Coupon: MED84 ✅ 64 Tests included 🎁 Free JioSaavn Pro 💳 Pay via CRED & get upto ₹250 cashback",
+    "shortlink": "https://extp.in/P61xRb",
+    "urls": [
+      {
+        "url": "",
+        "label": "✅ Flat ₹4,200 OFF on Complete Health Package At Rs.799"
+      },
+      {
+        "url": "https://extp.in/P61xRb",
+        "label": "🩺 Full Body Checkup + Vitamin D + Sugar Test [HbA1c] + Thyroid [T3/T4/TSH]"
+      },
+      {
+        "url": "",
+        "label": "✅ 64 Tests included"
+      },
+      {
+        "url": "",
+        "label": "🎁 Free JioSaavn Pro"
+      },
+      {
+        "url": "",
+        "label": "💳 Pay via CRED & get upto ₹250 cashback"
+      }
+    ],
+    "raw_text": "MediBuddy  🔥🔥\n\n✅ Flat ₹4,200 OFF on Complete Health Package At Rs.799\n\n🩺 Full Body Checkup + Vitamin D + Sugar Test [HbA1c] + Thyroid [T3/T4/TSH]\n\n👉 https://extp.in/P61xRb\n\n🎟 Coupon: MED84\n\n✅ 64 Tests included\n🎁 Free JioSaavn Pro\n💳 Pay via CRED & get upto ₹250 cashback",
+    "final_url": "https://extp.in/P61xRb",
+    "local_image": "assets/images/tgmsg_24973.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-01-22T10:56:05+00:00",
+    "buy_link": "https://extp.in/P61xRb",
+    "date_iso": "2026-01-22T10:56:05+00:00"
+  },
+  {
     "id": "msg24962",
     "title": "Noise Republic Day Sale Up to 80% Off",
     "description": "Noise: Republic Day Sale Upto 80% Off Link: • Extra 10% Discount On HDFC Credit card",
@@ -9966,45 +10026,5 @@
     "date_obj": "2026-01-17T16:06:42+00:00",
     "buy_link": "https://ajiio.co/UAEdHg",
     "date_iso": "2026-01-17T16:06:42+00:00"
-  },
-  {
-    "id": "msg24397",
-    "title": "Butter paper (Pack Of 200) At 217",
-    "description": "Butter paper (Pack Of 200) At 217 https://fkrt.co/gsYWfr",
-    "shortlink": "https://fkrt.co/gsYWfr",
-    "urls": [
-      {
-        "url": "https://fkrt.co/gsYWfr",
-        "label": "Butter paper (Pack Of 200) At 217"
-      }
-    ],
-    "raw_text": "Butter paper (Pack Of 200) At 217\n\nhttps://fkrt.co/gsYWfr",
-    "final_url": "https://fkrt.co/gsYWfr",
-    "local_image": "assets/images/tgmsg_24397.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-17T15:47:29+00:00",
-    "buy_link": "https://fkrt.co/gsYWfr",
-    "date_iso": "2026-01-17T15:47:29+00:00"
-  },
-  {
-    "id": "msg24390",
-    "title": "Crazy deals On Pepperfry From 152",
-    "description": "Crazy deals On Pepperfry From 152 https://fkrt.co/ERtZUE",
-    "shortlink": "https://fkrt.co/ERtZUE",
-    "urls": [
-      {
-        "url": "https://fkrt.co/ERtZUE",
-        "label": "Crazy deals On Pepperfry From 152"
-      }
-    ],
-    "raw_text": "Crazy deals On Pepperfry From 152\n\nhttps://fkrt.co/ERtZUE",
-    "final_url": "https://fkrt.co/ERtZUE",
-    "local_image": "assets/images/tgmsg_24390.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-17T15:29:26+00:00",
-    "buy_link": "https://fkrt.co/ERtZUE",
-    "date_iso": "2026-01-17T15:29:26+00:00"
   }
 ]
