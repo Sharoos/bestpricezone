@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg25009",
+    "title": "149",
+    "description": "149 : https://www.amazon.in/dp/B0GH22W3XF?language=en_IN&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0GH22W3XF?language=en_IN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0GH22W3XF?language=en_IN&tag=bestpricezo0f-21",
+        "label": "149"
+      }
+    ],
+    "raw_text": "149 : https://www.amazon.in/dp/B0GH22W3XF?language=en_IN&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0GH22W3XF?language=en_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_25009.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-22T15:40:46+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0GH22W3XF?language=en_IN&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-22T15:40:46+00:00"
+  },
+  {
+    "id": "msg25012",
+    "title": "Up to. 70% Off On Raymond, Park Avenue & Parx Clothing",
+    "description": "Ajio | Upto. 70% Off On Raymond, Park Avenue & Parx Clothing. Shirts : Trousers : Tshirts : Jeans : Women : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/gM2fkv",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto. 70% Off On Raymond, Park Avenue & Parx Clothing"
+      },
+      {
+        "url": "https://ajiio.co/gM2fkv",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/VU84Ah",
+        "label": "Trousers"
+      },
+      {
+        "url": "https://ajiio.co/dlW37O",
+        "label": "Tshirts"
+      },
+      {
+        "url": "https://ajiio.co/GOIhbI",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/XELL6n",
+        "label": "Women"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "Ajio | Upto. 70% Off On Raymond, Park Avenue & Parx Clothing.\n\nShirts : https://ajiio.co/gM2fkv\nTrousers : https://ajiio.co/VU84Ah\nTshirts : https://ajiio.co/dlW37O\nJeans : https://ajiio.co/GOIhbI\n\nWomen : https://ajiio.co/XELL6n\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/gM2fkv",
+    "local_image": "assets/images/tgmsg_25012.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-22T15:46:54+00:00",
+    "buy_link": "https://ajiio.co/gM2fkv",
+    "date_iso": "2026-01-22T15:46:54+00:00"
+  },
+  {
     "id": "msg25003",
     "title": "🖱 Zebronics Mouse Deal",
     "description": "Flipkart | 🖱 Zebronics Mouse Deals 🛒 Deal Price: ₹99 👉 https://fkrt.co/kTAOTE",
@@ -9838,53 +9902,5 @@
     "date_obj": "2026-01-18T12:16:12+00:00",
     "buy_link": "https://ajiio.co/HzdK5E",
     "date_iso": "2026-01-18T12:16:12+00:00"
-  },
-  {
-    "id": "msg24459",
-    "title": "Harpic 3L Liquid Detergent @393",
-    "description": "Harpic 3L Liquid Detergent @393 https://fkrt.co/XhGlU6",
-    "shortlink": "https://fkrt.co/XhGlU6",
-    "urls": [
-      {
-        "url": "https://fkrt.co/XhGlU6",
-        "label": "Harpic 3L Liquid Detergent @393"
-      }
-    ],
-    "raw_text": "Harpic 3L Liquid Detergent @393\n\nhttps://fkrt.co/XhGlU6",
-    "final_url": "https://fkrt.co/XhGlU6",
-    "local_image": "assets/images/tgmsg_24459.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-18T11:33:43+00:00",
-    "buy_link": "https://fkrt.co/XhGlU6",
-    "date_iso": "2026-01-18T11:33:43+00:00"
-  },
-  {
-    "id": "msg24458",
-    "title": "🧳 Up to 90% OFF on Top Brands (Safari, American Tourister, VIP & more)",
-    "description": "Flipkart – Branded Trolley Bags 🧳 Upto 90% OFF on Top Brands (Safari, American Tourister, VIP & more) 👉 Grab Now:",
-    "shortlink": "https://fkrt.co/ClxeSs",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart – Branded Trolley Bags"
-      },
-      {
-        "url": "",
-        "label": "🧳 Upto 90% OFF on Top Brands (Safari, American Tourister, VIP & more)"
-      },
-      {
-        "url": "https://fkrt.co/ClxeSs",
-        "label": "Grab Now"
-      }
-    ],
-    "raw_text": "Flipkart  – Branded Trolley Bags\n\n🧳 Upto 90% OFF on Top Brands (Safari, American Tourister, VIP & more)\n\n👉 Grab Now: https://fkrt.co/ClxeSs",
-    "final_url": "https://fkrt.co/ClxeSs",
-    "local_image": "assets/images/tgmsg_24458.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-18T11:05:13+00:00",
-    "buy_link": "https://fkrt.co/ClxeSs",
-    "date_iso": "2026-01-18T11:05:13+00:00"
   }
 ]
