@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg24929",
+    "title": "🔥Shopsy Everything Under ₹199",
+    "description": "🔥Shopsy Everything Under ₹199 Women's Jewellery Set ₹60 https://bitli.in/4Fp2jjC Kitchen Bestsellers ₹62 https://bitli.in/zH9O4eF Saree & Kurti ₹57 https://bitli.in/3yh2B4t",
+    "shortlink": "https://bitli.in/4Fp2jjC",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥Shopsy Everything Under ₹199"
+      },
+      {
+        "url": "https://bitli.in/4Fp2jjC",
+        "label": "Women's Jewellery Set ₹60"
+      },
+      {
+        "url": "https://bitli.in/zH9O4eF",
+        "label": "Kitchen Bestsellers ₹62"
+      },
+      {
+        "url": "https://bitli.in/3yh2B4t",
+        "label": "Saree & Kurti ₹57"
+      }
+    ],
+    "raw_text": "🔥Shopsy Everything Under ₹199\n\nWomen's Jewellery Set ₹60\nhttps://bitli.in/4Fp2jjC\n\nKitchen Bestsellers ₹62\nhttps://bitli.in/zH9O4eF\n\nSaree & Kurti ₹57\nhttps://bitli.in/3yh2B4t",
+    "final_url": "https://bitli.in/4Fp2jjC",
+    "local_image": "assets/images/tgmsg_24929.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2026-01-22T04:46:09+00:00",
+    "buy_link": "https://bitli.in/4Fp2jjC",
+    "date_iso": "2026-01-22T04:46:09+00:00"
+  },
+  {
     "id": "msg24923",
     "title": "Grooming Gadgets Starts at 126",
     "description": "🔥🔥 Shopsy Deals 🔥🔥 RedTape Shoes & Slides : Wipes Starts at 39 : Deodorants Starts at 44: Dry Fruits at 27 : Cleaning Combos at 54 :  :",
@@ -10034,37 +10066,5 @@
     "date_obj": "2026-01-17T05:21:10+00:00",
     "buy_link": "https://fkrt.co/9ks43v",
     "date_iso": "2026-01-17T05:21:10+00:00"
-  },
-  {
-    "id": "msg24309",
-    "title": "Ai+ Pulse (6GB 128GB) @5,999",
-    "description": "Loot:  Ai+ NOVA 5G (6GB 128GB) @6,999 • Get Upto 1000 Discount Using Bank Offers. Loot Fast | Before Out Of Stock.",
-    "shortlink": "https://fktr.in/A2iurgS",
-    "urls": [
-      {
-        "url": "https://fktr.in/A2iurgS",
-        "label": "Ai+ Pulse (6GB 128GB) @5,999"
-      },
-      {
-        "url": "https://fktr.in/q8nBvOF",
-        "label": "Ai+ NOVA 5G (6GB 128GB) @6,999"
-      },
-      {
-        "url": "",
-        "label": "Get Upto 1000 Discount Using Bank Offers"
-      },
-      {
-        "url": "",
-        "label": "Before Out Of Stock"
-      }
-    ],
-    "raw_text": "Loot: Ai+ Pulse (6GB 128GB) @5,999\nhttps://fktr.in/A2iurgS\n\nAi+ NOVA 5G (6GB 128GB) @6,999\nhttps://fktr.in/q8nBvOF\n\n• Get Upto 1000 Discount Using Bank Offers.\n\nLoot Fast | Before Out Of Stock.",
-    "final_url": "https://fktr.in/A2iurgS",
-    "local_image": "assets/images/tgmsg_24309.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-17T05:21:57+00:00",
-    "buy_link": "https://fktr.in/A2iurgS",
-    "date_iso": "2026-01-17T05:21:57+00:00"
   }
 ]
