@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg25055",
+    "title": "🔥Women's Saaree Starts @449",
+    "description": "🔥Flipkart: Women's Saaree Starts @449 Silk Sarees: Kanjivaram: Daily Wear: Organza Saaree: Sequin Saaree: Blouse:",
+    "shortlink": "https://fkrt.co/pZvixH",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥Flipkart: Women's Saaree Starts @449"
+      },
+      {
+        "url": "https://fkrt.co/pZvixH",
+        "label": "Silk Sarees"
+      },
+      {
+        "url": "https://fkrt.co/CEFlsV",
+        "label": "Kanjivaram"
+      },
+      {
+        "url": "https://fkrt.co/3EHMnU",
+        "label": "Daily Wear"
+      },
+      {
+        "url": "https://fkrt.co/dnmrpl",
+        "label": "Organza Saaree"
+      },
+      {
+        "url": "https://fkrt.co/m0276q",
+        "label": "Sequin Saaree"
+      },
+      {
+        "url": "https://fkrt.co/fMsa03",
+        "label": "Blouse"
+      }
+    ],
+    "raw_text": "🔥Flipkart: Women's Saaree Starts @449\n\nSilk Sarees: https://fkrt.co/pZvixH\nKanjivaram: https://fkrt.co/CEFlsV\nDaily Wear: https://fkrt.co/3EHMnU\nOrganza Saaree: https://fkrt.co/dnmrpl\nSequin Saaree: https://fkrt.co/m0276q\nBlouse: https://fkrt.co/fMsa03",
+    "final_url": "https://fkrt.co/pZvixH",
+    "local_image": "assets/images/tgmsg_25055.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-23T03:45:53+00:00",
+    "buy_link": "https://fkrt.co/pZvixH",
+    "date_iso": "2026-01-23T03:45:53+00:00"
+  },
+  {
     "id": "msg25052",
     "title": "Shopsy 🔥Aloevera gel from ₹35",
     "description": "Shopsy | 🔥Aloevera gel from ₹35 👉https://extp.in/b0z25I",
@@ -9530,25 +9574,5 @@
     "date_obj": "2026-01-19T07:24:38+00:00",
     "buy_link": "https://extp.in/bOop64",
     "date_iso": "2026-01-19T07:24:38+00:00"
-  },
-  {
-    "id": "msg24545",
-    "title": "Portronics Mobile Cables Up to 70% Off Starting From @179",
-    "description": "Flipkart | Portronics Mobile Cables Upto 70% Off Starting From @179 👉https://fkrt.co/uHsZHB",
-    "shortlink": "https://fkrt.co/uHsZHB",
-    "urls": [
-      {
-        "url": "https://fkrt.co/uHsZHB",
-        "label": "Portronics Mobile Cables Upto 70% Off Starting From @179"
-      }
-    ],
-    "raw_text": "Flipkart | Portronics Mobile Cables Upto 70% Off Starting From @179\n\n👉https://fkrt.co/uHsZHB",
-    "final_url": "https://fkrt.co/uHsZHB",
-    "local_image": "assets/images/tgmsg_24545.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-19T06:19:15+00:00",
-    "buy_link": "https://fkrt.co/uHsZHB",
-    "date_iso": "2026-01-19T06:19:15+00:00"
   }
 ]
