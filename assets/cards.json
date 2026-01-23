@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg25099",
+    "title": "ord Set From ₹251",
+    "description": "Shopsy | 🔥  Co-ord Set From ₹251 🔗 https://extp.in/D4J3jk",
+    "shortlink": "https://extp.in/D4J3jk",
+    "urls": [
+      {
+        "url": "https://extp.in/D4J3jk",
+        "label": "🔥 Co-ord Set From ₹251"
+      }
+    ],
+    "raw_text": "Shopsy | 🔥  Co-ord Set From ₹251\n\n🔗 https://extp.in/D4J3jk",
+    "final_url": "https://extp.in/D4J3jk",
+    "local_image": "assets/images/tgmsg_25099.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-01-23T11:50:18+00:00",
+    "buy_link": "https://extp.in/D4J3jk",
+    "date_iso": "2026-01-23T11:50:18+00:00"
+  },
+  {
     "id": "msg25098",
     "title": "Laptop Tabletop Stand @199",
     "description": "Amazon | Laptop Tabletop Stand @199 🔗 https://www.amazon.in/dp/B08PFSZ7FH?tag=bestpricezo0f-21",
@@ -9618,25 +9638,5 @@
     "date_obj": "2026-01-19T15:41:57+00:00",
     "buy_link": "https://ajiio.co/axREf1",
     "date_iso": "2026-01-19T15:41:57+00:00"
-  },
-  {
-    "id": "msg24600",
-    "title": "Fila Footwear from ₹540",
-    "description": "Flipkart | Fila Footwear from ₹540 👉https://fkrt.co/mmCqRC",
-    "shortlink": "https://fkrt.co/mmCqRC",
-    "urls": [
-      {
-        "url": "https://fkrt.co/mmCqRC",
-        "label": "Fila Footwear from ₹540"
-      }
-    ],
-    "raw_text": "Flipkart | Fila Footwear from ₹540\n\n👉https://fkrt.co/mmCqRC",
-    "final_url": "https://fkrt.co/mmCqRC",
-    "local_image": "assets/images/tgmsg_24600.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-19T15:03:31+00:00",
-    "buy_link": "https://fkrt.co/mmCqRC",
-    "date_iso": "2026-01-19T15:03:31+00:00"
   }
 ]
