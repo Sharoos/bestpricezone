@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg25089",
+    "title": "🛒 Deal Price Starting from ₹466",
+    "description": "Ajio | 🧥 Fort Collins Jackets Deal! Fort Collins Jackets for Men 🛒 Deal Price: Starting from ₹466 Fort Collins Jackets for Women 🛒 Deal Price: Starting from ₹466",
+    "shortlink": "https://ajiio.co/zg3lXl",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧥 Fort Collins Jackets Deal!"
+      },
+      {
+        "url": "",
+        "label": "Fort Collins Jackets for Men"
+      },
+      {
+        "url": "https://ajiio.co/zg3lXl",
+        "label": "🛒 Deal Price: Starting from ₹466"
+      },
+      {
+        "url": "",
+        "label": "Fort Collins Jackets for Women"
+      },
+      {
+        "url": "https://ajiio.co/yjQPXV",
+        "label": "🛒 Deal Price: Starting from ₹466"
+      }
+    ],
+    "raw_text": "Ajio | 🧥 Fort Collins Jackets Deal!\n\nFort Collins Jackets for Men\n🛒 Deal Price: Starting from ₹466\nhttps://ajiio.co/zg3lXl\n\nFort Collins Jackets for Women\n🛒 Deal Price: Starting from ₹466\nhttps://ajiio.co/yjQPXV",
+    "final_url": "https://ajiio.co/zg3lXl",
+    "local_image": "assets/images/tgmsg_25089.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-23T10:00:18+00:00",
+    "buy_link": "https://ajiio.co/zg3lXl",
+    "date_iso": "2026-01-23T10:00:18+00:00"
+  },
+  {
     "id": "msg25087",
     "title": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre",
     "description": "-approved limit. Apply Now - 💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀 ⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping. ⿢ Easy EMIs : Flexible repayment with no foreclosure charges. ⿣ Wide…",
@@ -9614,25 +9650,5 @@
     "date_obj": "2026-01-19T14:51:14+00:00",
     "buy_link": "https://extp.in/51F0Mj",
     "date_iso": "2026-01-19T14:51:14+00:00"
-  },
-  {
-    "id": "msg24597",
-    "title": "Shopsy Multicolor Door Mat @ ₹118",
-    "description": "Shopsy | Multicolor Door Mat @ ₹118 🔗 https://extp.in/G3HBbg Min 2 Buy",
-    "shortlink": "https://extp.in/G3HBbg",
-    "urls": [
-      {
-        "url": "https://extp.in/G3HBbg",
-        "label": "Multicolor Door Mat @ ₹118"
-      }
-    ],
-    "raw_text": "Shopsy | Multicolor Door Mat @ ₹118\n\n🔗 https://extp.in/G3HBbg\n\nMin 2 Buy",
-    "final_url": "https://extp.in/G3HBbg",
-    "local_image": "assets/images/tgmsg_24597.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-19T14:56:42+00:00",
-    "buy_link": "https://extp.in/G3HBbg",
-    "date_iso": "2026-01-19T14:56:42+00:00"
   }
 ]
