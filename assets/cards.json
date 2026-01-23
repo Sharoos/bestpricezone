@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg25096",
+    "title": "HAVELLS Dekor 15W LED Decorative Bulb @254",
+    "description": "Amazon | HAVELLS Dekor 15W LED Decorative Bulb @254 🔗 https://www.amazon.in/dp/B0D9QLXSQ5?psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0D9QLXSQ5?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0D9QLXSQ5?psc=1&tag=bestpricezo0f-21",
+        "label": "HAVELLS Dekor 15W LED Decorative Bulb @254"
+      }
+    ],
+    "raw_text": "Amazon | HAVELLS Dekor 15W LED Decorative Bulb @254\n\n🔗 https://www.amazon.in/dp/B0D9QLXSQ5?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D9QLXSQ5?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_25096.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-01-23T11:10:18+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D9QLXSQ5?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-01-23T11:10:18+00:00"
+  },
+  {
     "id": "msg25093",
     "title": "Shopsy 🔥 Women Stylish Slides @ ₹148",
     "description": "Shopsy | 🔥  Women Stylish Slides @ ₹148 🔗 https://extp.in/S5nM3L",
@@ -9622,29 +9642,5 @@
     "date_obj": "2026-01-19T14:43:43+00:00",
     "buy_link": "https://extp.in/1ddO2y",
     "date_iso": "2026-01-19T14:43:43+00:00"
-  },
-  {
-    "id": "msg24594",
-    "title": "Shopsy 🔥 SURYA GARAM MASALA, 500g @ 166",
-    "description": "Shopsy | 🔥  SURYA GARAM MASALA, 500g @ 166. 🔗 https://extp.in/aCbJPj CHIRAG Jeera, 500g @ ₹177 🔗 https://extp.in/ZmFkci",
-    "shortlink": "https://extp.in/aCbJPj",
-    "urls": [
-      {
-        "url": "https://extp.in/aCbJPj",
-        "label": "🔥 SURYA GARAM MASALA, 500g @ 166"
-      },
-      {
-        "url": "https://extp.in/ZmFkci",
-        "label": "CHIRAG Jeera, 500g @ ₹177"
-      }
-    ],
-    "raw_text": "Shopsy | 🔥  SURYA GARAM MASALA, 500g @ 166.\n\n🔗 https://extp.in/aCbJPj\n\nCHIRAG Jeera, 500g @ ₹177\n\n🔗 https://extp.in/ZmFkci",
-    "final_url": "https://extp.in/aCbJPj",
-    "local_image": "assets/images/tgmsg_24594.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-19T14:48:59+00:00",
-    "buy_link": "https://extp.in/aCbJPj",
-    "date_iso": "2026-01-19T14:48:59+00:00"
   }
 ]
