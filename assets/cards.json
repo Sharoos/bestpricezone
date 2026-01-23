@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg25150",
+    "title": "Up to 75% Off On Chemistry Women's Clothing",
+    "description": "Flipkart | Upto 75% Off On Chemistry Women's Clothing. Topwear : Bottomwear : Dresses : Blazers : Co-Ords :",
+    "shortlink": "https://fkrt.co/Tarq6B",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On Chemistry Women's Clothing"
+      },
+      {
+        "url": "https://fkrt.co/Tarq6B",
+        "label": "Topwear"
+      },
+      {
+        "url": "https://fkrt.co/ehSuWd",
+        "label": "Bottomwear"
+      },
+      {
+        "url": "https://fkrt.co/Jq1Jzd",
+        "label": "Dresses"
+      },
+      {
+        "url": "https://fkrt.co/RJ80Zz",
+        "label": "Blazers"
+      },
+      {
+        "url": "https://fkrt.co/NLGjwn",
+        "label": "Ords"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 75% Off On Chemistry Women's Clothing.\n\nTopwear : https://fkrt.co/Tarq6B\nBottomwear : https://fkrt.co/ehSuWd\nDresses : https://fkrt.co/Jq1Jzd\nBlazers : https://fkrt.co/RJ80Zz\nCo-Ords : https://fkrt.co/NLGjwn",
+    "final_url": "https://fkrt.co/Tarq6B",
+    "local_image": "assets/images/tgmsg_25150.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-23T15:41:21+00:00",
+    "buy_link": "https://fkrt.co/Tarq6B",
+    "date_iso": "2026-01-23T15:41:21+00:00"
+  },
+  {
     "id": "msg25144",
     "title": "Get instant cashback Up to ₹150 on paying via Bhim UPI App on above merchant",
     "description": "*BHIM App: Republic Day Offer* Get instant cashback upto ₹150 on paying via Bhim UPI App on above merchants Download Now:",
@@ -9678,33 +9718,5 @@
     "date_obj": "2026-01-19T19:43:59+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DQH555KZ?tag=bestpricezo0f-21",
     "date_iso": "2026-01-19T19:43:59+00:00"
-  },
-  {
-    "id": "msg24643",
-    "title": "Hoodies & SweatShirts Up to 90% Off",
-    "description": "AJIO : Hoodies & SweatShirts Upto 90% Off Mens Sweatshirts - https://ajiio.co/BW8Rt8 Womens - https://ajiio.co/0TKppb",
-    "shortlink": "https://ajiio.co/BW8Rt8",
-    "urls": [
-      {
-        "url": "",
-        "label": "Hoodies & SweatShirts Upto 90% Off"
-      },
-      {
-        "url": "https://ajiio.co/BW8Rt8",
-        "label": "Mens Sweatshirts"
-      },
-      {
-        "url": "https://ajiio.co/0TKppb",
-        "label": "Womens"
-      }
-    ],
-    "raw_text": "AJIO : Hoodies & SweatShirts Upto 90% Off\n\nMens Sweatshirts - https://ajiio.co/BW8Rt8\nWomens - https://ajiio.co/0TKppb",
-    "final_url": "https://ajiio.co/BW8Rt8",
-    "local_image": "assets/images/tgmsg_24643.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-19T19:38:05+00:00",
-    "buy_link": "https://ajiio.co/BW8Rt8",
-    "date_iso": "2026-01-19T19:38:05+00:00"
   }
 ]
