@@ -2845,35 +2845,30 @@ def main():
         except:
             pass
 
-# --- THE FINAL RESTORATION BLOCK ---
+async def fetch_and_build():
+    # This is just a placeholder to show you 
+    # that this function MUST exist above the code below.
+    pass
+
+# --- PASTE EVERYTHING BELOW AT THE VERY END OF YOUR FILE ---
 
 async def run_bot():
-    # 1. Login with the token (Fixes the GitHub Action crash)
     await client.start(bot_token=TG_BOT_TOKEN)
     logging.info("Bot started successfully!")
-    
     try:
-        # 2. Check the channel
         entity = await client.get_entity(CHANNEL)
         logging.info(f"Connected to channel: {entity.title}")
         
-        # 3. RE-ACTIVATE THE SCRAPER
-        # This function is defined above in your file. 
-        # Calling it here resumes the 300-card fetch and image downloads.
+        # This will now work because Python has read the 
+        # entire file before executing this.
         await fetch_and_build() 
         
     except Exception as e:
         logging.error(f"Error during execution: {e}")
     finally:
-        # 4. Clean exit
         await client.disconnect()
 
 if __name__ == "__main__":
-    # Initialize the database so it's ready for the scraper
     init_db()
-    
-    # Create the images folder if it's missing
     pathlib.Path(IMGS_DIR).mkdir(parents=True, exist_ok=True)
-    
-    # Start the bot loop
     client.loop.run_until_complete(run_bot())
