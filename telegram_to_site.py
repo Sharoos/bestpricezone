@@ -66,6 +66,7 @@ if os.path.exists(DOTENV_PATH):
 TG_API_ID = int(os.environ.get("TG_API_ID", "0"))
 TG_API_HASH = os.environ.get("TG_API_HASH")
 TG_STRING_SESSION = os.environ.get("TG_STRING_SESSION")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN")
 CHANNEL = os.environ.get("CHANNEL_USERNAME")
 
 TARGET_CARDS = int(os.environ.get("TARGET_CARDS", "100"))
@@ -2842,7 +2843,29 @@ def main():
         except:
             pass
 
-if __name__ == "__main__":
-    main()
+async def run_bot():
+    # This is the "Magic Fix" for GitHub Actions EOFError
+    await client.start(bot_token=TG_BOT_TOKEN)
+    
+    logging.info("Bot started successfully!")
+    
+    # Verify the channel is accessible
+    try:
+        entity = await client.get_entity(CHANNEL)
+        logging.info(f"Connected to channel: {entity.title}")
+    except Exception as e:
+        logging.error(f"Could not access channel {CHANNEL}. Is the bot an Admin? {e}")
+        return
 
+    # Call your existing logic here (fetching messages and building HTML)
+    # Ensure your message fetching logic is wrapped in 'async def'
+    # await fetch_and_build() 
+
+if __name__ == "__main__":
+    init_db()
+    if CLEAN_DB_ON_RUN:
+        clear_db()
+    
+    # Use the client's loop to run the bot
+    client.loop.run_until_complete(run_bot())
 
