@@ -2846,21 +2846,30 @@ def main():
             pass
 
 async def run_bot():
-    # 1. This handles the login (Fixes the EOFError)
+    # 1. Login (This is the part that fixed the previous crash)
     await client.start(bot_token=TG_BOT_TOKEN)
     logging.info("Bot started successfully!")
     
     try:
-        # 2. This checks your channel
+        # 2. Check the channel
         entity = await client.get_entity(CHANNEL)
         logging.info(f"Connected to channel: {entity.title}")
         
-        # 3. THIS IS THE LINE YOU MUST UNCOMMENT:
-        # This triggers the actual scraping and image downloading
+        # 3. RESTORE THE SCRAPER (This was the missing piece!)
+        # This calls your main logic to fetch messages and download images
         await fetch_and_build() 
         
     except Exception as e:
-        logging.info(f"Finished or Error: {e}")
+        logging.error(f"Error during execution: {e}")
     finally:
-        # 4. This closes the connection cleanly
+        # 4. Clean disconnect so GitHub Actions can finish
         await client.disconnect()
+
+if __name__ == "__main__":
+    # Ensure folders exist
+    init_db()
+    if CLEAN_DB_ON_RUN:
+        clear_db()
+    
+    # Run the bot and the scraper
+    client.loop.run_until_complete(run_bot())
