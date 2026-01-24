@@ -21,7 +21,7 @@ Optional env:
   HERO_HEIGHT (CSS height value, default '160px')
 
 Added env:
-  MAX_KEEP (default 200) -> keep exactly this many cards/images after each run
+  MAX_KEEP (default 500) -> keep exactly this many cards/images after each run
 """
 import os
 import re
@@ -68,11 +68,11 @@ TG_API_HASH = os.environ.get("TG_API_HASH")
 TG_STRING_SESSION = os.environ.get("TG_STRING_SESSION")
 CHANNEL = os.environ.get("CHANNEL_USERNAME")
 
-TARGET_CARDS = int(os.environ.get("TARGET_CARDS", "100"))
-MAX_SCAN_MESSAGES = int(os.environ.get("MAX_SCAN_MESSAGES", "1000"))
+TARGET_CARDS = int(os.environ.get("TARGET_CARDS", "500"))
+MAX_SCAN_MESSAGES = int(os.environ.get("MAX_SCAN_MESSAGES", "3000"))
 
 # NEW: how many cards to keep on every run (default 200)
-MAX_KEEP = int(os.environ.get("MAX_KEEP", "200"))
+MAX_KEEP = int(os.environ.get("MAX_KEEP", "500"))
 
 CLEAN_IMAGES_ON_RUN = os.environ.get("CLEAN_IMAGES_ON_RUN", "1") == "1"
 CLEAN_DB_ON_RUN = os.environ.get("CLEAN_DB_ON_RUN", "0") == "1"
@@ -190,14 +190,24 @@ def clean_message_text(text: str, shortlink: Optional[str] = None) -> str:
     chosen = re.sub(r'\bUpto\b', 'Up to', chosen, flags=re.I)
     merchant = normalize_merchant(chosen, shortlink)
     if merchant:
-        chosen = re.sub(r'(?i)\b' + re.escape(merchant) + r'\b[:\s\-]*', '', chosen).strip()
-        final = f"{merchant} | {chosen}".strip()
-    else:
-        final = chosen
+        # remove merchant name if it appears in the line
+        chosen = re.sub(r'(?i)\b' + re.escape(merchant) + r'\b[:\s\-|]*', '', chosen).strip()
+    # no merchant prefix anymore
+    final = chosen
+    # remove junk phrases
+    final = re.sub(r'\b(grab here|grab now|grab|link|loot:?|buy now|click here)\b','', final, flags=re.I)
+    # cleanup stray leading/trailing separators like "|" or ":" or "-"
+    final = re.sub(r'^[\|\-:]+', '', final).strip()
+    final = re.sub(r'[\|\-:]+$', '', final).strip()
+    final = re.sub(r'\s*[\|\-:]+\s*', ' ', final)  # turn " | " or " - " into single space
+    final = re.sub(r'\s+', ' ', final).strip()
+    # collapse spaces
     final = re.sub(r'\s+', ' ', final).strip()
     if len(final) > 160:
         final = final[:157].rsplit(' ', 1)[0] + '…'
+
     return final
+
 
 def safe_filename(base: str) -> str:
     name = os.path.basename(base) or "img"
@@ -209,6 +219,193 @@ def safe_filename(base: str) -> str:
 REQ = requests.Session()
 REQ.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "en-IN,en;q=0.9"})
 REQ.max_redirects = 8
+
+def extract_url_labels(raw_text: str, urls: list) -> list:
+    """
+    Return list of {"url":..., "label":...} in reading order.
+    This version:
+      - merges duplicate URLs (keep first occurrence, prefer first non-empty label)
+      - removes duplicate header-only labels (keeps first)
+      - normalizes / strips trivial 'buy now' noise from labels
+      - ensures every original url appears at least once
+    """
+    out = []
+    lines = [ln for ln in re.split(r'[\r\n]+', raw_text)]
+
+    def only_urls_and_arrows(s: str) -> bool:
+        if not s: return False
+        found = URL_RE.findall(s)
+        if not found: return False
+        without_urls = s
+        for u in found:
+            without_urls = without_urls.replace(u, '')
+        without_urls = re.sub(r'^[\s\-\u25B6👉\*•…\:\|]+|[\s\-\u25B6👉\*•…\:\|]+$', '', without_urls).strip()
+        return len(without_urls) < 4
+
+    def is_header_line(s: str) -> bool:
+        if not s: return False
+        s2 = s.strip()
+        if URL_RE.search(s2): return False
+        if NOISE_WORDS_RE.search(s2): return False
+        if re.search(r'[,&]| and | & ', s2, flags=re.I) and re.search(r'[A-Za-z]{2,}', s2):
+            return True
+        words = re.findall(r"[A-Za-z0-9&'-]{2,}", s2)
+        if len(words) >= 2:
+            upper_words = sum(1 for w in words if w and w[0].isupper())
+            if upper_words >= 1:
+                return True
+        return False
+
+    def clean_label_candidate(s: str) -> str:
+        if not s: return ""
+        s = s.strip()
+        s = re.sub(r'^[\s\-\u25B6👉\*•…\:\|]+', '', s)
+        s = re.sub(r'[\|\-\:\s]+$', '', s)
+        s = NOISE_WORDS_RE.sub('', s)
+        s = re.sub(r'\s+', ' ', s).strip()
+        s = s.rstrip('.').strip()
+        if not s or CURRENCY_ONLY_RE.match(s) or len(re.findall(r'[A-Za-z0-9]{2,}', s)) < 1:
+            return ""
+        s = re.sub(r'^[A-Za-z0-9&\s]{2,40}\s*[:\-\|]+\s*', '', s).strip()
+        return s
+
+    discount_re = re.compile(r'\b(upto|up to|off|discount|% off|%|sale|save|flat)\b', re.I)
+
+    current_header = ""
+    i = 0
+    while i < len(lines):
+        ln = lines[i]
+        if not ln or not ln.strip():
+            i += 1
+            continue
+        stripped = ln.strip()
+
+        # header lookahead and merge-with-next-url behaviour
+        if is_header_line(stripped):
+            candidate = clean_label_candidate(stripped)
+            j = i + 1
+            next_line = ""
+            while j < len(lines):
+                if lines[j] and lines[j].strip():
+                    next_line = lines[j].strip()
+                    break
+                j += 1
+
+            if candidate and discount_re.search(candidate) and next_line and only_urls_and_arrows(next_line):
+                found_urls = URL_RE.findall(next_line)
+                if found_urls:
+                    for fu in found_urls:
+                        matched = None
+                        for u in urls:
+                            if fu.strip() == u.strip() or fu.strip() in u or u in fu.strip():
+                                matched = u
+                                break
+                        if not matched:
+                            matched = fu
+                        out.append({"url": matched, "label": candidate})
+                    i = j + 1
+                    continue
+                else:
+                    out.append({"url": "", "label": candidate})
+                    current_header = candidate
+                    i += 1
+                    continue
+            else:
+                if candidate:
+                    out.append({"url": "", "label": candidate})
+                    current_header = candidate
+                i += 1
+                continue
+
+        # normal url-bearing line
+        found_urls = URL_RE.findall(stripped)
+        if found_urls:
+            for fu in found_urls:
+                matched = None
+                for u in urls:
+                    if fu.strip() == u.strip() or fu.strip() in u or u in fu.strip():
+                        matched = u
+                        break
+                if not matched:
+                    matched = fu
+
+                left = stripped.split(fu, 1)[0].strip()
+                left_clean = clean_label_candidate(left)
+                label = ""
+                if left_clean:
+                    label = left_clean
+                elif current_header:
+                    label = current_header
+                else:
+                    whole_no_url = URL_RE.sub('', stripped).strip()
+                    whole_clean = clean_label_candidate(whole_no_url)
+                    if whole_clean:
+                        label = whole_clean
+
+                out.append({"url": matched, "label": label})
+            i += 1
+            continue
+
+        i += 1
+
+    # ensure each original url appears at least once
+    for u in urls:
+        if not any(entry.get("url") == u for entry in out):
+            out.append({"url": u, "label": ""})
+
+    # --- Post-process and normalize labels ---
+    # remove trivial label words and normalize whitespace
+    def normalize_label(lbl: str) -> str:
+        if not lbl:
+            return ""
+        s = lbl.strip()
+        # remove very common noise short phrases that serve only as "buy" markers
+        s = re.sub(r'\b(Buy now|Buy|buy now|Click here|Shop full collection here)\b', '', s, flags=re.I).strip()
+        s = re.sub(r'\s+', ' ', s).strip()
+        return s
+
+    # merge duplicate urls (prefer first occ; if later label is non-empty and first was empty, fill it)
+    merged = []
+    seen_url_to_index = {}
+    seen_headers = set()
+    for entry in out:
+        u = (entry.get("url") or "").strip()
+        lbl = normalize_label(entry.get("label") or "")
+        if not u:
+            # header-only
+            key = (lbl or "").lower()
+            if not lbl:
+                continue
+            if key in seen_headers:
+                # skip duplicates of header labels anywhere (keep first)
+                continue
+            # if a later url entry has the same label as its label, prefer the url-lined row and skip header
+            # (we check original out list for presence)
+            label_used_by_url = any((e.get("url") and (e.get("label") or "").strip().lower() == key) for e in out)
+            if label_used_by_url:
+                # skip header-only if it's just repeating a labeled url (avoid header then same label repeated)
+                seen_headers.add(key)
+                continue
+            seen_headers.add(key)
+            merged.append({"url": "", "label": lbl})
+            continue
+
+        # url present
+        if u in seen_url_to_index:
+            idx = seen_url_to_index[u]
+            existing = merged[idx]
+            existing_lbl = (existing.get("label") or "").strip()
+            if not existing_lbl and lbl:
+                existing["label"] = lbl
+            # otherwise keep first
+            continue
+        # new url
+        merged.append({"url": u, "label": lbl})
+        seen_url_to_index[u] = len(merged) - 1
+
+    return merged
+
+
 
 # ---------- Telegram media downloader ----------
 import asyncio as _asyncio
@@ -385,6 +582,9 @@ def build_index(cards, show_relative=True, banner_rel: Optional[str] = None, her
     # JSON for embedding — default safe conversion ensured above
     cards_json = json.dumps(serializable, ensure_ascii=False)
 
+    # protect against accidentally closing the <script> tag when we embed JSON
+    cards_json_safe = cards_json.replace("</", "<\\/")
+
     # banner HTML fragment if we have a banner
     banner_html = ""
     if banner_rel:
@@ -401,7 +601,7 @@ def build_index(cards, show_relative=True, banner_rel: Optional[str] = None, her
 
     # Build HTML (JS inside the string only)
     # NOTE: Small pager CSS added to make nice buttons
-    html_template = """<!doctype html>
+    html_template = r"""<!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8" />
@@ -432,7 +632,7 @@ def build_index(cards, show_relative=True, banner_rel: Optional[str] = None, her
   --accent:#111827;
   --primary:#0f62fe;
   --pill:#eef2ff;
-  --hero-height:__HERO_HEIGHT__;
+  --hero-height:__HERO_HEIGHT__; /* preserved for optional max-height */
   --max-width:1200px;
   --gutter:12px;
   --card-radius:12px;
@@ -445,183 +645,745 @@ body{
   margin:0; background:var(--bg); color:var(--accent); -webkit-font-smoothing:antialiased;
   -moz-osx-font-smoothing:grayscale;
 }
+
+/* ---------- Header (kept compact & stable) ---------- */
 .header{
   background:linear-gradient(90deg,#fff 0%, #f9fbff 100%);
-  padding:14px var(--gutter); border-bottom:1px solid rgba(0,0,0,0.04);
-  position:sticky; top:0; z-index:60; backdrop-filter:saturate(120%) blur(4px);
+  padding:14px var(--gutter);
+  border-bottom:1px solid rgba(0,0,0,0.04);
+  position:sticky;
+  top:0;
+  z-index:80;
+  backdrop-filter:saturate(120%) blur(4px);
 }
+
+/* use space-between so left brand and right controls stay aligned */
 .header .wrap{
-  max-width:var(--max-width); margin:0 auto; display:flex; gap:12px; align-items:center;
+  max-width:var(--max-width);
+  margin:0 auto;
+  display:flex;
+  gap:12px;
+  align-items:center;
+  justify-content:space-between;
+  padding-top:6px;
+  padding-bottom:6px;
 }
-.brand{font-weight:800;font-size:18px; letter-spacing:-0.4px}
-.controls{margin-left:auto; display:flex; gap:10px; align-items:center}
+
+/* brand area (left) */
+.brand-wrap{
+  display:flex;
+  align-items:center;
+  min-width:0;
+  flex:1 1 auto;
+}
+
+/* title + tagline stack but don't overflow */
+.site-header {
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+  gap:2px;
+  min-width:0;
+  margin:0;
+  padding:0;
+}
+
+/* constrain title so search/control won't wrap underneath */
+.site-title {
+  font-weight:800;
+  font-size:32.5px;
+  line-height:1.2;
+  color:var(--accent);
+  margin:0;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  max-width: calc(100vw - 340px); /* leave room for controls (tweak if needed) */
+}
+
+/* tagline */
+.site-tagline {
+  font-size:14px;
+  font-weight:500;
+  color:var(--muted);
+  margin:0;
+  line-height:1.3;
+  white-space:normal;
+}
+
+/* controls area (right) stays fixed size and does not grow */
+.controls{
+  flex:0 0 auto;
+  display:flex;
+  gap:10px;
+  align-items:center;
+}
+
+/* search box: keep compact and never force header wrap */
 .search{
-  display:flex; align-items:center; background:#fff; padding:8px; border-radius:12px;
-  box-shadow:0 6px 18px rgba(16,24,40,0.04); min-width:0;
+  display:flex;
+  align-items:center;
+  background:#fff;
+  padding:8px;
+  border-radius:12px;
+  box-shadow:0 6px 18px rgba(16,24,40,0.04);
+  min-width:0;
 }
 .search input{
-  border:0; outline:0; font-size:14px; padding:6px 8px; width:260px;
-  min-width:0; background:transparent;
-}
-.brand-wrap { min-width: 0; }
-
-.site-header {
-  display: flex;
-  flex-direction: column;   /* ⬅️ stack vertically */
-  align-items: flex-start;  /* ⬅️ left align (use center if you want centered) */
-  gap: 2px;                 /* small space between title and tagline */
-  min-width: 0;
-  margin: 0;
-  padding: 0;
+  border:0;
+  outline:0;
+  font-size:14px;
+  padding:6px 8px;
+  width:260px;
+  max-width: calc(100vw - 360px);
+  min-width:0;
+  background:transparent;
 }
 
-.site-title {
-  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-  font-weight: 800;
-  font-size: 32.5px;   /* ⬅️ increase size (was 18px) */
-  line-height: 1.2;
-  color: var(--accent);
-  margin: 0;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+/* ---------- Banner (responsive, no crop, centered) ---------- */
+/* banner container keeps full-width centering */
+.banner-wrap{
+  width:100%;
+  display:flex;
+  justify-content:center;
+  padding:0 8px;
+  margin:12px 0;
+  box-sizing:border-box;
 }
 
-/* Mobile adjustment: slightly smaller so it doesn’t overflow */
-@media (max-width: 768px) {
-  .site-title {
-    font-size: 30px;  /* instead of 17px */
-    white-space: normal;
-  }
-}
-
-.site-tagline {
-  font-size: 14px;      /* slightly bigger for readability */
-  font-weight: 500;
-  color: var(--muted);
-  margin: 0;
-  line-height: 1.3;     /* better line spacing */
-  white-space: normal;  /* ⬅️ allow multi-line wrapping */
-  overflow: visible;
-  text-overflow: unset;
-}
-
-/* reduce vertical gap in header */
-.header .wrap { padding-top: 6px; padding-bottom: 6px; }
-
-/* Mobile: stack vertically and allow wrapping */
-@media (max-width: 768px) {
-  .site-header {
-    flex-direction: column;
-    align-items: flex-start; /* change to 'flex-start' if you want left-aligned on mobile */
-    gap: 4px;
-  }
-  .site-title { font-size: 17px; white-space: normal; }
-  .site-tagline { font-size: 13px; white-space: normal; }
-  .search input { width: 140px; } /* prevents search pushing header off-screen */
-}
-/* banner */
-.banner-wrap{width:100%; display:flex; justify-content:center; padding:0 8px; margin:12px 0}
+/* image: show whole image, keep natural height, but cap max-height on very large screens */
 .banner-wrap img{
-  max-width:var(--max-width); width:100%; height:var(--hero-height); object-fit:cover; display:block;
-  border-radius:var(--card-radius); border-bottom:6px solid rgba(255,255,255,0.04);
+  display:block;
+  width:100%;
+  max-width:var(--max-width);
+  height:auto;               /* natural height; no forced cropping */
+  object-fit:contain;        /* show whole image without crop */
+  object-position:center;
+  border-radius:var(--card-radius);
+  border-bottom:6px solid rgba(255,255,255,0.04);
+  margin:0 auto;
+  /* optional visual cap so banner doesn't grow excessively tall on very wide screens */
+  max-height: calc(var(--hero-height, 300px) * 1.15);
 }
 
-/* hero & filter */
+/* ---------- Hero & filters: hug the banner, reduce big gaps ---------- */
 .hero{
-  max-width:var(--max-width); margin:18px auto 8px; padding:16px; border-radius:var(--card-radius);
-  background:linear-gradient(90deg,#ffffff,#f7fbff); display:flex; gap:12px; align-items:center;
+  max-width:var(--max-width);
+  margin:8px auto 12px;   /* tighter spacing so hero hugs banner */
+  padding:14px 16px;
+  border-radius:var(--card-radius);
+  background:linear-gradient(90deg,#ffffff,#f7fbff);
+  display:flex;
+  gap:12px;
+  align-items:center;
   flex-wrap:wrap;
 }
-.hero .h{font-size:18px;font-weight:800}
-.filter-bar{
-  max-width:var(--max-width); margin:12px auto; display:flex; gap:12px; align-items:center;
-  padding:0 var(--gutter); flex-wrap:wrap;
-}
-.filter-bar select{ padding:8px; border-radius:10px; border:1px solid rgba(16,24,40,0.06); background:#fff}
+.hero .h{ font-size:18px; font-weight:800; margin:0; }
 
-/* merchant chips */
+/* filter bar layout */
+.filter-bar{
+  max-width:var(--max-width);
+  margin:12px auto;
+  display:flex;
+  gap:12px;
+  align-items:center;
+  padding:0 var(--gutter);
+  box-sizing:border-box;
+  flex-wrap:wrap;
+}
+
+/* keep the left label + chips in a single flow block that can shrink */
+.filter-bar > div:first-child{
+  display:flex;
+  gap:12px;
+  align-items:center;
+  flex:1 1 auto;
+  min-width:0;
+}
+
+/* right-side controls (sort / perpage) anchored */
+.filter-bar > div:last-child{
+  flex:0 0 auto;
+  display:flex;
+  align-items:center;
+  gap:8px;
+}
+
+/* merchant chips wrap and behave predictably */
 .filter-bar .chips {
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
+  display:flex;
+  gap:8px;
+  flex-wrap:wrap;
+  align-items:center;
 }
 .filter-bar .chips button {
-  appearance: none;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  font-size: 13px;
-  font-weight: 600;
-  padding: 8px 16px;
-  border-radius: 999px;
-  background: #f9fafb;        /* lighter base */
-  color: #111827;             /* near black for better contrast */
-  transition: all 0.25s ease;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  appearance:none;
+  border:0;
+  outline:0;
+  cursor:pointer;
+  font-size:13px;
+  font-weight:600;
+  padding:8px 14px;
+  border-radius:999px;
+  background:#f9fafb;
+  color:#111827;
+  transition:all .22s;
+  box-shadow:0 1px 3px rgba(0,0,0,0.06);
+}
+.filter-bar .chips button:hover{ transform:translateY(-1px); background:#eef2ff; color:#1e3a8a; }
+.filter-bar .chips button.active{ background:linear-gradient(90deg,#2563eb,#0f62fe); color:#fff; box-shadow:0 6px 18px rgba(37,99,235,0.12); }
+
+/* select / controls small tweaks */
+.filter-bar select{ padding:8px; border-radius:10px; border:1px solid rgba(16,24,40,0.06); background:#fff; }
+
+/* ---------- Responsive tweaks ---------- */
+@media (max-width: 980px) {
+  .site-title { font-size: 26px; max-width: calc(100vw - 240px); }
+  .search input { width: 180px; max-width: calc(100vw - 260px); }
+
+  /* keep banner under control on medium screens */
+  .banner-wrap img { max-height: calc(var(--hero-height, 260px) * 1.0); }
+
+  .hero { padding: 14px; margin: 10px 12px; gap: 10px; }
+  .filter-bar { padding-left: 10px; padding-right: 10px; gap: 10px; }
+  .grid { gap: 14px; }
 }
 
-.filter-bar .chips button:hover {
-  background: #e0e7ff;        /* soft indigo tint on hover */
-  color: #1e3a8a;             /* deep indigo text */
-  box-shadow: 0 2px 6px rgba(0,0,0,0.12);
-  transform: translateY(-1px);
+@media (max-width: 720px) {
+  .site-title { font-size: 20px; max-width: calc(100vw - 140px); white-space: normal; }
+  .search input { width: 140px; max-width: calc(100vw - 160px); }
+
+  .banner-wrap { padding-left: 10px; padding-right: 10px; margin: 10px 0; }
+  /* keep whole banner visible but cap height on phones */
+  .banner-wrap img { border-radius: 10px; max-height: calc(var(--hero-height, 220px) * 0.95); }
+
+  .hero { padding: 12px; margin: 6px 8px 10px; gap: 8px; }
+  .filter-bar { padding-left: 10px; padding-right: 10px; gap: 8px; }
+
+  /* force the right controls (sort/perpage) to the next line and align right */
+  .filter-bar > div:last-child { width: 100%; justify-content: flex-end; margin-top: 6px; display: flex; }
+  .filter-bar > div:first-child { min-width: 0; flex: 1 1 auto; }
+  .grid { grid-template-columns: repeat(auto-fill, minmax(clamp(140px, 42%, 260px), 1fr)); gap: 12px; }
+  #modal-image { height: 320px; }
+
+  /* Slightly taller thumb on medium-narrow screens to reduce blank padding */
+  .thumb {
+    position: relative;
+    aspect-ratio: 4 / 3;
+    border-radius: 10px;
+    overflow: hidden;
+    background: #fff;
+  }
 }
 
-.filter-bar .chips button.active {
-  background: linear-gradient(90deg, #2563eb, #0f62fe); /* bright blue gradient */
-  color: #ffffff;
-  box-shadow: 0 3px 8px rgba(37,99,235,0.35);
-  transform: translateY(-2px);
+@media (max-width: 520px) {
+  .share-popup { min-width: 92vw; max-width: 92vw; left: 4vw !important; right: 4vw !important; }
+  .share-preview .img { width: 56px; height: 56px; }
 }
 
-/* grid and cards */
-.container{max-width:var(--max-width); margin:0 auto; padding:8px var(--gutter) 100px}
-.grid{
-  display:grid;
-  gap:16px;
+@media (max-width: 420px) {
+  .site-title { font-size: 18px; }
+  .search input { width: 92px; }
+
+  /* very small phones: make the banner compact but still whole */
+  .banner-wrap img { border-radius: 8px; max-height: 140px; height: auto; object-fit: contain; }
+
+  .hero { padding: 10px; margin: 6px 8px 10px; gap: 8px; }
+  .filter-bar { gap: 6px; padding-left: 8px; padding-right: 8px; }
+  .filter-bar .chips button { padding: 7px 12px; font-size: 13px; }
+
+  .grid { grid-template-columns: repeat(auto-fill, minmax(clamp(140px, 45%, 220px), 1fr)); gap: 12px; }
+
+  /* make thumbs less tall on smallest screens but keep aspect-ratio to reduce blank space */
+  .thumb {
+    position: relative;
+    aspect-ratio: 4 / 3;
+    border-radius: 10px;
+    overflow: hidden;
+    background: #fff;
+  }
+}
+
+/* Small utility: ensure header/hero/filter layering doesn't obscure interactive elements */
+.header, .banner-wrap, .hero, .filter-bar { position: relative; z-index: 10; }
+
+
+/* ---------- grid and cards (cleaned) ---------- */
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 8px var(--gutter) 100px;
+  box-sizing: border-box;
+}
+
+.grid {
+  display: grid;
+  gap: 16px;
   grid-template-columns: repeat(auto-fill, minmax(clamp(160px, 42%, 320px), 1fr));
 }
 
 /* card */
-.card{
-  background:var(--card); border-radius:12px; padding:12px; box-shadow:var(--shadow);
-  display:flex; flex-direction:column; transition:transform .18s, box-shadow .18s; min-height:unset;
+.card {
+  background: var(--card);
+  border-radius: 12px;
+  padding: 12px;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  transition: transform .18s, box-shadow .18s;
+  min-height: unset;
 }
-.card:hover{ transform:translateY(-4px); box-shadow:0 14px 28px rgba(16,24,40,0.08) }
+.card:hover { transform: translateY(-4px); box-shadow: 0 14px 28px rgba(16,24,40,0.08); }
 
-/* thumbnail container: keeps aspect ratio via padding-top */
-.thumb{
+/* thumbnail container: prefer aspect-ratio (modern) fallback to padding-top if needed */
+.thumb {
   position: relative;
-  padding-top: 56.25%;    /* 16:9 box — change if you want a different ratio */
-  border-radius:10px;
+  aspect-ratio: 4 / 3;
+  border-radius: 10px;
   overflow: hidden;
-  background: #fff;       /* nice neutral backdrop for images */
+  background: #fff;
 }
 
 /* thumbnail image: centered and fully visible (no cropping) */
-.thumb img{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%); /* center the image */
-  max-width: 100%;
-  max-height: 100%;
-  width: auto;
-  height: auto;
-  object-fit: contain;    /* <-- important: shows whole image without crop */
+.thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;    /* show whole image without crop */
   object-position: center;
   display: block;
+  /* absolute centering removed — simpler and more predictable */
+}
+
+/* meta / text */
+.meta { display: flex; align-items: center; justify-content: space-between; margin-top: 10px; }
+.title { font-weight: 700; font-size: 14px; margin: 8px 0; line-height: 1.18; min-height: 42px; overflow: hidden; }
+.badge { display: inline-block; background: var(--pill); color: var(--primary); padding: 6px 10px; border-radius: 999px; font-weight: 700; font-size: 12px; }
+
+
+/* ---------- Card actions: ensure View + Share always inline; Buy can drop ---------- */
+/* Desktop: single-row layout */
+.card .actions {
+  margin-top: auto;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: nowrap; /* desktop: do not wrap */
+  box-sizing: border-box;
+}
+
+/* View button: now wide/flexible like Buy used to be */
+.card .actions .view-btn {
+  flex: 1 1 auto;          /* grow & shrink */
+  min-width: 0;            /* allow shrinking */
+  max-width: 100%;         /* don’t artificially cap */
+  padding: 10px 12px;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  background: #2563eb;     /* blue, primary */
+  border: 1px solid rgba(16,24,40,0.06);
+  font-weight: 700;
+  box-sizing: border-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Share: unchanged */
+.card .actions .share-btn {
+  flex: 0 0 44px;
+  width: 44px;
+  height: 44px;
+  padding: 8px;
+  border-radius: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;
+  border: 1px solid rgba(16,24,40,0.06);
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+
+/* Buy: now compact/fixed like old View */
+.card .actions .buy {
+  flex: 0 0 auto;          /* no growth */
+  min-width: 96px;         /* fixed base width */
+  padding: 10px 14px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  background: #2563eb;
+  color: #fff;
+  box-shadow: 0 2px 6px rgba(37,99,235,0.25);
+  box-sizing: border-box;
+  white-space: nowrap;
+  text-align: center;     /* centers the text */
+}
+
+/* ---------- Small screens: force View+Share inline, Buy full width below ---------- */
+@media (max-width: 720px) {
+  .card .actions {
+    /* allow wrapping so Buy can go to its own row when needed */
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+  }
+
+  /* Force VIEW first and let it shrink to fit next to SHARE.
+     Keep it single-line (no wrapping) — truncate if too long. */
+  .card .actions .view-btn {
+    order: 1;
+    flex: 1 1 calc(100% - 56px); /* leave room for share (44) + small gap */
+    min-width: 0;
+    max-width: 100%;
+    white-space: nowrap;         /* CRITICAL: prevent wrapping */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 8px 10px;
+    font-size: 14px;
+    background: #2563eb;
+    color: #fff;
+  }
+
+  /* SHARE to the right of VIEW, fixed size */
+  .card .actions .share-btn {
+    order: 2;
+    flex: 0 0 44px;
+    width: 44px;
+    height: 44px;
+    margin-left: 8px;
+  }
+
+  /* BUY on its own full-width row below */
+  .card .actions .buy {
+    order: 3;
+    flex: 1 1 100%;
+    width: 100%;
+    margin-top: 8px;
+    text-align: center;
+    font-size: 14px;
+    padding: 8px 10px;
+    text-align: center;     /* centers the text */
+  }
+}
+
+/* Extra-tight phones: tiny tweaks so View stays single-line and Share keeps size */
+@media (max-width: 420px) {
+  .card .actions .view-btn {
+    flex: 1 1 calc(100% - 52px);
+    padding: 7px 10px;
+    font-size: 13px;
+  }
+  .card .actions .share-btn {
+    flex: 0 0 40px;
+    width: 40px;
+    height: 40px;
+    margin-left: 6px;
+  }
+  .card .actions .buy {
+    padding: 8px 10px;
+    font-size: 13px;
+  }
+}
+
+/* force a two-column first row: left area for View, right for Share.
+   Buy will wrap below when needed. This avoids calc() problems. */
+@media (max-width: 720px) {
+  .card .actions {
+    display: grid;
+    grid-template-columns: 1fr 44px;
+    grid-auto-rows: auto;
+    gap: 8px;
+    align-items: center;
+  }
+
+  /* place the Buy button on the next row and make it full width */
+  .card .actions .buy {
+    grid-column: 1 / -1;
+    width: 100%;
+    order: unset; /* ensure CSS Grid handles placement */
+    justify-self: stretch;
+    text-align: center;     /* centers the text */
+  }
+
+  /* View spans the left cell */
+  .card .actions .view-btn {
+    grid-column: 1 / 2;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  /* Share goes to the right column */
+  .card .actions .share-btn {
+    grid-column: 2 / 3;
+    justify-self: end;
+  }
+}
+
+/* ---------- FORCE SWAP: on desktop make BUY expand, VIEW fixed ---------- */
+@media (min-width: 721px) {
+  /* Make Buy take remaining space (wide) */
+  .card .actions .buy {
+    flex: 1 1 auto !important;
+    min-width: 0 !important;
+    width: auto !important;
+    max-width: 100% !important;
+    padding: 10px 12px !important;
+    box-sizing: border-box !important;
+    text-align: center;     /* centers the text */
+  }
+
+  /* Make View a smaller fixed button (narrow) */
+  .card .actions .view-btn {
+    flex: 0 0 auto !important;
+    min-width: 96px !important;
+    width: 96px !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    padding: 10px 12px !important;
+    box-sizing: border-box !important;
+    text-align: center;     /* centers the text */
+    justify-content: center; /* if flex is applied somewhere */
+    display: flex;          /* make it flex so justify works */
+    align-items: center;    /* vertically centers text */
+  }
+
+  /* Keep share fixed */
+  .card .actions .share-btn {
+    flex: 0 0 44px !important;
+    width: 44px !important;
+    height: 44px !important;
+  }
+
+  /* Ensure layout spacing is sane */
+  .card .actions { gap: 12px !important; align-items: center !important; }
 }
 
 
-/* meta / text */
-.meta{display:flex; align-items:center; justify-content:space-between; margin-top:10px}
-.title{font-weight:700;font-size:14px;margin:8px 0; line-height:1.18; min-height:42px; overflow:hidden}
-.badge{display:inline-block;background:var(--pill); color:var(--primary); padding:6px 10px; border-radius:999px; font-weight:700; font-size:12px}
-.actions{margin-top:auto; display:flex; gap:8px; align-items:center; flex-wrap:wrap}
-.buy {
-  background: #2563eb; /* solid indigo/blue */
+/* ---------- Share popup, modal, footer, pagination unchanged (kept for completeness) ---------- */
+.share-popup {
+  position: absolute;
+  z-index: 10010;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 20px 40px rgba(2,6,23,0.18);
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 320px;
+  max-width: 420px;
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+.share-preview { display: flex; gap: 10px; align-items: center; }
+.share-preview .img { width: 64px; height: 64px; border-radius: 8px; overflow: hidden; flex: 0 0 64px; background: #f6f7fb; display:flex; align-items:center; justify-content:center; }
+.share-preview .img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.share-preview .meta { flex: 1; min-width: 0; }
+.share-preview .meta .title { font-weight: 700; font-size: 14px; line-height: 1.2; color: #0f1724; max-height: 3.6em; overflow: hidden; }
+
+.share-row { display: flex; gap: 8px; align-items: center; justify-content: space-between; flex-wrap: wrap; }
+.share-row .url { font-size: 13px; color: #475569; word-break: break-all; flex: 1; min-width: 0; }
+.actions-inline { display: flex; gap: 8px; align-items: center; flex: 0 0 auto; }
+.share-btn-inline { background: #0f62fe; color: #fff; border: 0; padding: 8px 10px; border-radius: 8px; font-weight: 700; font-size: 13px; cursor: pointer; box-shadow: 0 6px 18px rgba(15,98,254,0.12); }
+.copy-btn { background: transparent; border: 1px solid rgba(15,23,42,0.06); padding: 8px 10px; border-radius: 8px; cursor: pointer; font-weight: 600; }
+.social-links { display: flex; gap: 6px; align-items: center; }
+.social-links a { padding: 8px 10px; border-radius: 8px; text-decoration: none; font-weight: 700; font-size: 13px; border: 1px solid rgba(0,0,0,0.06); color: #0f1724; }
+
+.share-toast { position: fixed; bottom: 22px; left: 50%; transform: translateX(-50%); background: #0f1724; color: white; padding: 8px 12px; border-radius: 999px; font-weight: 700; z-index: 12000; opacity: 0; transition: opacity .18s; }
+.share-toast.show { opacity: 1; }
+
+.modal-backdrop { position: fixed; inset: 0; background: rgba(2,6,23,0.6); display: none; align-items: center; justify-content: center; z-index: 140; }
+.modal { background: #fff; border-radius: 12px; max-width: 920px; width: calc(100% - 32px); max-height: 92vh; overflow: auto; padding: 18px; display: flex; gap: 18px; flex-wrap: wrap; }
+.modal .left { flex: 1; min-width: 220px; }
+.modal .right { width: 360px; max-width: 100%; display: flex; flex-direction: column; }
+.close-btn { background: transparent; border: 0; font-size: 18px; cursor: pointer; color: #666; padding: 6px 8px; border-radius: 8px; }
+#modal-image { width: 100%; height: 420px; object-fit: contain; background: #fff; }
+
+.modal .modal-link-row { width: 100%; box-sizing: border-box; display: flex; align-items: center; gap: 12px; margin-top: 8px; flex-wrap: wrap; }
+.modal .modal-link-row > div { flex: 1 1 auto; word-break: break-word; white-space: normal; max-width: calc(100% - 120px); }
+.modal .modal-link-row .buy { flex: 0 0 auto; min-width: 96px; margin-left: auto; flex-shrink: 0; }
+#modal-links-wrap { width: 100%; display: flex; flex-direction: column; gap: 8px; }
+
+.footer { background: #fff; border-top: 1px solid rgba(0,0,0,0.04); padding: 28px 12px; color: var(--muted); margin-top: 30px; }
+.footer .wrap { max-width: var(--max-width); margin: 0 auto; display: flex; gap: 16px; align-items: flex-start; flex-wrap: wrap; }
+.footer .col { flex: 1; min-width: 160px; }
+.footer h4 { margin: 0 0 8px 0; font-size: 14px; }
+.footer p, .footer a { color: var(--muted); text-decoration: none; font-size: 13px; }
+.footer .bottom { max-width: var(--max-width); margin: 18px auto 0; text-align: center; font-size: 13px; color: var(--muted); }
+
+/* Footer: make layout stack on small screens and add share button styles */
+.footer .wrap {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  flex-wrap: wrap; /* allow wrapping on small screens */
+}
+
+/* Footer share button (matches site button language, smaller visual weight) */
+.footer .share-page {
+  appearance: none;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+  font-weight: 700;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: #fff;
+  color: #000;
+  box-shadow: 0 6px 18px rgba(37,99,235,0.12);
+  font-size: 14px;
+}
+
+/* Place share control in footer bottom area for compact screens */
+@media (max-width: 720px) {
+  .footer .wrap {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 12px;
+    padding: 12px;
+  }
+  .footer .col { width: 100%; }
+  .footer .share-row { display:flex; gap:8px; justify-content:center; margin-top:6px; }
+}
+
+/* very small phones: slightly smaller share button */
+@media (max-width: 420px) {
+  .footer .share-page { padding: 8px 12px; font-size: 13px; border-radius: 9px; }
+}
+
+.pagination { display: flex; gap: 8px; justify-content: center; margin: 18px 0; }
+.pagination button { background: #fff; border: 1px solid rgba(16,24,40,0.08); padding: 8px 12px; border-radius: 10px; cursor: pointer; font-weight: 600; box-shadow: 0 6px 12px rgba(16,24,40,0.03); }
+.pagination button:hover { transform: translateY(-2px); }
+.pagination button.active { background: var(--primary); color: #fff; border-color: transparent; box-shadow: 0 10px 20px rgba(15,98,254,0.14); }
+
+/* ---------- Modal (restored, tightened, and consistent with site buttons) ---------- */
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(2,6,23,0.6);
+  display: none;               /* toggled via JS */
+  align-items: center;
+  justify-content: center;
+  z-index: 140;
+}
+
+/* modal shell */
+.modal {
+  background: #fff;
+  border-radius: 12px;
+  max-width: 920px;
+  width: calc(100% - 32px);
+  max-height: 92vh;
+  overflow: auto;
+  padding: 18px;
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  align-items: flex-start;
+}
+
+/* left (image) / right (meta) columns */
+.modal .left {
+  flex: 1 1 0;
+  min-width: 220px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.modal .right {
+  flex: 0 0 360px;
+  max-width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  box-sizing: border-box;
+}
+
+/* close button */
+.close-btn {
+  background: transparent;
+  border: 0;
+  font-size: 18px;
+  cursor: pointer;
+  color: #666;
+  padding: 6px 8px;
+  border-radius: 8px;
+}
+.close-btn:hover { background: rgba(0,0,0,0.03); }
+
+/* Modal image: preserve aspect, avoid stretching */
+#modal-image {
+  width: 100%;
+  height: 420px;
+  object-fit: contain;
+  background: #fff;
+  border-radius: 8px;
+  display: block;
+}
+
+/* header row inside modal right column: title + actions (close/share) */
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.modal-header .modal-title,
+.modal-title {
+  margin: 0;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.2;
+  flex: 1 1 auto;
+  white-space: normal;
+  word-break: break-word;
+}
+
+/* Ensure the header buttons stay aligned right and do not wrap */
+.modal-header > * { flex-shrink: 0; }
+
+/* modal link rows (for multiple buy links): label left, buy button right */
+.modal .modal-link-row {
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-top: 8px;
+  flex-wrap: wrap;
+}
+.modal .modal-link-row > div {
+  flex: 1 1 auto;
+  word-break: break-word;
+  white-space: normal;
+  max-width: calc(100% - 120px);
+}
+
+/* container for multiple link rows */
+#modal-links-wrap {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  box-sizing: border-box;
+}
+
+/* ---------- Buttons inside modal (match site buttons) ---------- */
+
+/* Shared buy button style (applies to rows and standalone buy buttons) */
+.modal .modal-link-row .buy,
+.modal .right .buy,
+.modal .buy {
+  background: #2563eb;
   color: #fff;
   padding: 10px 14px;
   border-radius: 8px;
@@ -632,75 +1394,123 @@ body{
   text-align: center;
   transition: background 0.2s ease, transform 0.15s ease;
   box-shadow: 0 2px 6px rgba(37, 99, 235, 0.25);
+
+  flex: 0 0 auto;
+  min-width: 96px;
+  margin-left: auto;
+  flex-shrink: 0;
 }
-.buy:hover {
-  background: #1d4ed8; /* darker on hover */
+.modal .modal-link-row .buy:hover,
+.modal .right .buy:hover,
+.modal .buy:hover {
+  background: #1d4ed8;
   transform: translateY(-2px);
   box-shadow: 0 4px 12px rgba(37, 99, 235, 0.3);
 }
 
-/* modal */
-.modal-backdrop{position:fixed; inset:0; background:rgba(2,6,23,0.6); display:none; align-items:center; justify-content:center; z-index:140}
-.modal{
-  background:#fff; border-radius:12px; max-width:920px; width:calc(100% - 32px); max-height:92vh; overflow:auto;
-  padding:18px; display:flex; gap:18px; flex-wrap:wrap;
+/* Share button inside modal link rows (matches .share-btn look from main site) */
+.modal .modal-link-row .share-btn,
+.modal .modal-header .share-btn,
+#modal-share {
+  background: #ffffff;
+  color: #0f1724;
+  padding: 10px 12px;
+  border-radius: 8px;
+  border: 1px solid rgba(16,24,40,0.06);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 2px 6px rgba(2,6,23,0.06);
+  transition: background 0.18s ease, transform 0.12s ease, color 0.18s ease;
+  font-weight: 600;
+  min-width: 44px;
+  height: 44px;
 }
-.modal .left{flex:1; min-width:220px}
-.modal .right{width:360px; max-width:100%; display:flex; flex-direction:column}
-.close-btn{background:transparent;border:0;font-size:18px;cursor:pointer;color:#666; float:right}
-#modal-image{width:100%; height:420px; object-fit:contain; background:#fff}
-
-/* footer */
-.footer{background:#fff;border-top:1px solid rgba(0,0,0,0.04); padding:28px 12px; color:var(--muted); margin-top:30px}
-.footer .wrap{max-width:var(--max-width); margin:0 auto; display:flex; gap:16px; align-items:flex-start; flex-wrap:wrap}
-.footer .col{flex:1; min-width:160px}
-.footer h4{margin:0 0 8px 0; font-size:14px}
-.footer p, .footer a{color:var(--muted); text-decoration:none; font-size:13px}
-.footer .bottom{max-width:var(--max-width); margin:18px auto 0; text-align:center; font-size:13px; color:var(--muted)}
-
-/* pagination */
-.pagination{display:flex; gap:8px; justify-content:center; margin:18px 0}
-.pagination button{background:#fff;border:1px solid rgba(16,24,40,0.08); padding:8px 12px; border-radius:10px; cursor:pointer; font-weight:600; box-shadow:0 6px 12px rgba(16,24,40,0.03)}
-.pagination button:hover{transform:translateY(-2px)}
-.pagination button.active{background:var(--primary); color:#fff; border-color:transparent; box-shadow:0 10px 20px rgba(15,98,254,0.14)}
-
-/* responsive tweaks */
-@media (max-width:980px){
-  .hero{padding:14px}
-  .search input{width:180px}
-  .grid{grid-template-columns: repeat(auto-fill, minmax(clamp(150px, 40%, 260px), 1fr)); gap:12px}
-  #modal-image{height:320px}
-  .thumb{padding-top:60%}
+.modal .modal-link-row .share-btn:hover,
+.modal .modal-header .share-btn:hover,
+#modal-share:hover {
+  background: #1d4ed8;
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(15,98,254,0.12);
 }
-@media (max-width:720px){
-  .header{padding:10px 10px}
-  .brand{font-size:16px}
-  .hero .h{font-size:16px}
-  .search input{width:120px}
-  .grid{grid-template-columns:repeat(auto-fill,minmax(140px, 1fr)); gap:10px}
-  .thumb{padding-top:66%}
-  .title{font-size:13px}
-  .desc{font-size:12px}
-  .modal{padding:12px}
-  .modal .left, .modal .right{width:100%}
-  #modal-image{height:260px}
-  .buy{flex:1; width:100%}
-  .actions{display:flex; flex-direction:column; gap:8px}
-  .filter-bar{padding:0 10px}
-  .banner-wrap img{height:calc(var(--hero-height) * 0.55); border-radius:10px}
+
+/* If you want icon-only variant in header to be a bit smaller */
+.modal .modal-header .share-btn.icon,
+#modal-share.icon {
+  padding: 8px;
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+}
+
+/* ---------- Small-screen adjustments: modal stacks ---------- */
+@media (max-width: 720px) {
+  .modal {
+    padding: 14px;
+    gap: 12px;
+  }
+  .modal .left { min-width: 0; }
+  .modal .right { flex: 1 1 100%; width: 100%; }
+  #modal-image { height: 320px; }
+
+  /* ensure modal header actions remain in one row */
+  .modal-header { gap: 8px; }
+
+  /* keep buy/share rows tidy */
+  .modal .modal-link-row { align-items: center; }
+  .modal .modal-link-row .buy { margin-top: 0; }
 }
 
 /* very small phones */
-@media (max-width:420px){
-  .search input{width:92px}
-  .brand{font-size:15px}
-  .hero{gap:8px}
-  .banner-wrap img{height:calc(var(--hero-height) * 0.45)}
-  .thumb{padding-top:72%}
-  .title{min-height:36px}
-  .desc{min-height:28px}
-  .container{padding-left:10px;padding-right:10px}
+@media (max-width: 420px) {
+  .modal { padding: 12px; gap: 10px; }
+  #modal-image { height: 260px; }
+  .modal .modal-link-row > div { max-width: calc(100% - 96px); }
+  .modal .modal-link-row .share-btn { min-width: 40px; height: 40px; }
 }
+
+/* Footer share button styling */
+.footer .share-page {
+  appearance: none;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+  font-weight: 700;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: #fff;
+  color: #000;
+  box-shadow: 0 6px 18px rgba(37,99,235,0.12);
+  font-size: 14px;
+  transition: background 0.2s ease, transform 0.15s ease;
+}
+.footer .share-page:hover {
+  background: #1d4ed8;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 20px rgba(37,99,235,0.25);
+}
+
+/* Mobile-friendly footer */
+@media (max-width: 720px) {
+  .footer .wrap {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 14px;
+    padding: 12px;
+  }
+  .footer .col { width: 100%; }
+  .footer .share-page { width: auto; }
+}
+
+/* Very small screens: shrink buttons a bit */
+@media (max-width: 420px) {
+  .footer .share-page { padding: 8px 12px; font-size: 13px; border-radius: 9px; }
+}
+
+
 </style>
 
 </head>
@@ -728,8 +1538,8 @@ body{
 __BANNER_HTML__
   <div class="hero" role="region" aria-label="Latest deals">
     <div style="flex:1">
-      <div class="h">Latest curated deals — handpicked for shoppers</div>
-      <div style="color:var(--muted);margin-top:6px;font-size:13px">Filter by merchant, sort by newest or price, click a product to view details and buy.</div>
+      <div class="h">Curated online shopping deals in India</div>
+      <div style="color:var(--muted);margin-top:6px;font-size:13px">Find the best prices from Amazon, Flipkart, Myntra, Ajio & more. Filter offers, sort by lowest price or latest arrivals, and click to shop securely.</div>
     </div>
     <div style="min-width:200px;text-align:right">
       <div style="font-size:13px;color:var(--muted)">Items per page</div>
@@ -778,26 +1588,42 @@ __BANNER_HTML__
       <h4>Don’t miss a deal 👇</h4>
       <p><a href="https://t.me/bestpricezone" target="_blank">Follow BestPriceZone on Telegram</a></p>
     </div>
+    <div class="col">
+    <h4>Share this page</h4>
+      <button id="share-page" class="share-page" aria-label="Share this page">
+        Share
+      </button>
+    </div>
+
   </div>
-  <div class="bottom">© 2025 BestPriceZone. All rights reserved.</div>
+  </div>
+  <div class="bottom">Deals are collected from other stores — not sold here. Please shop carefully. © 2025 BestPriceZone. All rights reserved.</div>
 </footer>
 
   <!-- modal -->
   <div id="modal-back" class="modal-backdrop" aria-hidden="true">
     <div class="modal" role="dialog" aria-modal="true">
       <div class="left">
-        <button class="close-btn" id="modal-close" aria-label="Close">✕</button>
         <div style="border-radius:10px;overflow:hidden;margin-top:6px" id="modal-image-wrap">
           <img id="modal-image" src="" style="width:100%;height:420px;object-fit:contain;background:#fff" />
         </div>
       </div>
       <div class="right">
         <div style="display:flex;flex-direction:column;gap:10px">
-          <div style="font-weight:800;font-size:18px" id="modal-title"></div>
+          <!-- title row with close button -->
+          <div class="modal-header">
+            <h2 id="modal-title" class="modal-title"></h2>
+            <div style="display:flex;gap:8px;align-items:center">
+              <button class="share-btn icon" id="modal-share" aria-label="Share this deal (modal)"></button>
+              <button class="close-btn" id="modal-close" aria-label="Close">✕</button>
+            </div>
+          </div>
+
           <div style="display:flex;align-items:center;gap:10px">
             <div id="modal-merchant" style="font-weight:700"></div>
             <div id="modal-time" style="margin-left:auto" class="small"></div>
-          </div>          
+          </div>
+
           <div style="display:flex;gap:10px;align-items:center;margin-top:12px">
             <a id="modal-buy" class="buy" target="_blank" rel="noopener">Buy now</a>
             <!-- affiliate link text removed to avoid showing shortlink -->
@@ -806,6 +1632,7 @@ __BANNER_HTML__
       </div>
     </div>
   </div>
+
 
 <script>
   // embed cards snapshot
@@ -845,15 +1672,19 @@ __BANNER_HTML__
     return Math.floor(s/86400) + 'd ago';
   }
 
+// (duplicate old shareCard removed — using improved shareCardById / openShareMenu below)
+
   let cards = (window.CARDS || []).map(c => {
     return {
       id: c.id || (c.shortlink||'') + Math.random().toString(36).slice(2,8),
       title: c.title || '',
       description: c.description || '',
+      raw_text: c.raw_text || c.description || c.title || '',   // <-- added
       merchant_label: c.merchant_label || (c.source_host || ''),
       local_image: c.local_image || '',
       date_iso: c.date_iso || c.date_obj || '',
       buy_link: c.buy_link || c.shortlink || '',
+      urls: Array.isArray(c.urls) ? c.urls : (c.urls ? [c.urls] : []),
       price_raw: parsePrice((c.title || '') + ' ' + (c.description || '')) || ''
     };
   });
@@ -934,19 +1765,35 @@ __BANNER_HTML__
       // compute relative time or full time depending on SHOW_RELATIVE
       const timeStr = (typeof SHOW_RELATIVE !== 'undefined' && SHOW_RELATIVE) ? timeAgo(c.date_iso) : (c.date_iso ? new Date(c.date_iso).toLocaleString() : '');
 
-      el.innerHTML = `
-  <div class="thumb"><img loading="lazy" src="${c.local_image}" alt="${escapeHtml(c.title)}" /></div>
-  <div class="meta" style="display:flex;justify-content:space-between;align-items:center;margin-top:10px">
-  <div class="badge">${escapeHtml(c.merchant_label||'')}</div>
-  <div class="small" style="color:var(--muted)">${escapeHtml(timeStr)}</div>
-</div>
-<div class="title">${escapeHtml(c.title)}</div>
-<div class="actions">
-  <a class="buy view-btn" href="javascript:void(0)" data-id="${c.id}">View</a>
-  <a class="buy" href="${c.buy_link}" target="_blank" rel="noopener">Buy Now</a>
-</div>
+el.innerHTML = `
+  <div class="thumb">
+    <img loading="lazy" src="${c.local_image}" alt="${escapeHtml(c.title)}" />
+  </div>
 
+  <div class="meta" style="display:flex;justify-content:space-between;align-items:center;margin-top:10px">
+    <div class="badge">${escapeHtml(c.merchant_label||'')}</div>
+    <div class="small" style="color:var(--muted)">${escapeHtml(timeStr)}</div>
+  </div>
+
+  <div class="title">${escapeHtml(c.title)}</div>
+
+  <div class="actions">
+    <!-- Buy (only .buy has blue/full-width behavior on small screens) -->
+    <a class="buy" href="${c.buy_link}" target="_blank" rel="noopener noreferrer">Buy Now</a>
+    <!-- View (only view-btn class) -->
+    <a class="view-btn" href="javascript:void(0)" data-id="${c.id}" aria-label="View details">View</a>
+
+    <!-- Share placed immediately after View so they remain on the same row -->
+    <button class="share-btn" onclick="openShareMenu(this, '${encodeURIComponent(c.id)}')" aria-label="Share this deal">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path>
+        <polyline points="16 6 12 2 8 6"></polyline>
+        <line x1="12" y1="2" x2="12" y2="15"></line>
+      </svg>
+    </button>
+  </div>
 `;
+
 
       const viewBtn = el.querySelector('.view-btn');
       if (viewBtn) viewBtn.addEventListener('click', ()=>openModal(c));
@@ -995,30 +1842,790 @@ __BANNER_HTML__
   document.getElementById('modal-close').addEventListener('click', closeModal);
   modalBack.addEventListener('click', (e)=>{ if(e.target === modalBack) closeModal(); });
 
-  function openModal(card) {
-    modalImage.src = card.local_image;
-    modalTitle.textContent = card.title;    
-    modalMerchant.textContent = card.merchant_label;
-    modalTime.textContent = timeAgo(card.date_iso);
-    modalBuy.href = card.buy_link || '#';
-    modalBack.style.display = 'flex';
-    modalBack.setAttribute('aria-hidden','false');
+function openModal(card) {
+  // set main modal image
+  modalImage.src = card.local_image || "";
+
+  // Clean title so merchant prefixes like "Myntra | ..." never appear
+  let cleanTitle = card.title || "";
+  if (card.merchant_label) {
+    // strip merchant name at start like "Myntra | " or "Myntra - " (case-insensitive)
+    const re = new RegExp(
+      "^\\s*" +
+        card.merchant_label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") +
+        "\\s*[:\\-|\\|]+\\s*",
+      "i"
+    );
+    cleanTitle = cleanTitle.replace(re, "").trim();
   }
-  function closeModal() {
-    modalBack.style.display = 'none';
-    modalBack.setAttribute('aria-hidden','true');
-    modalImage.src = '';
+  // strip stray leading separators
+  cleanTitle = cleanTitle.replace(/^[\|\-:]+/, "").trim();
+  // remove noisy phrases
+  cleanTitle = cleanTitle
+    .replace(/\b(grab here|grab now|grab|link|loot:?|buy now|click here)\b/gi, "")
+    .trim();
+  // final cleanup of duplicate separators/spaces
+  cleanTitle = cleanTitle.replace(/\s*[\|\-:]+\s*/g, " ").replace(/\s+/g, " ").trim();
+
+  modalTitle.textContent = cleanTitle || card.merchant_label || "";
+
+  modalMerchant.textContent = card.merchant_label || "";
+  modalTime.textContent =
+    typeof SHOW_RELATIVE !== "undefined" && SHOW_RELATIVE
+      ? timeAgo(card.date_iso)
+      : card.date_iso
+      ? new Date(card.date_iso).toLocaleString()
+      : "";
+
+  // remove previous multi-link container
+  let linksWrap = document.getElementById("modal-links-wrap");
+  if (linksWrap) {
+    linksWrap.remove();
+    linksWrap = null;
   }
 
-  function escapeHtml(s) {
-    if(!s) return '';
-    return String(s)
-      .replace(/&/g,'&amp;')
-      .replace(/</g,'&lt;')
-      .replace(/>/g,'&gt;')
-      .replace(/"/g,'&quot;')
-      .replace(/'/g,'&#39;');
+  // helper to clean labels
+  function cleanLabelText(txt) {
+    if (!txt) return "";
+    return txt
+      .replace(/\b(grab here|grab now|grab|link|loot:?|buy now|click here)\b/gi, "")
+      .replace(/[:\-–—]+$/g, "")
+      .trim();
   }
+
+  function guessLabelFromUrl(url, cardObj) {
+    const raw = String(cardObj.raw_text || cardObj.description || cardObj.title || "");
+    const lines = raw.split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
+
+    // helper: determine if a line is likely a merchant/header or otherwise noisy
+    function isNoiseLine(s) {
+      if (!s) return true;
+      // strip emojis and arrows for the check
+      const stripped = s.replace(/^[\p{Emoji}_\s👉\->•\*…—–:]+|[\p{Emoji}_\s👉\->•\*…—–:]+$/gu, "").trim();
+      if (!stripped) return true;
+      // common single-word merchants / headings to ignore
+      if (/^(myntra|amazon|flipkart|ajio|snapdeal|flipkart\W*)$/i.test(stripped)) return true;
+      // if the line is very short and contains no letters (or just a single word), treat as noise
+      if (stripped.length < 3) return true;
+      // if line is mostly punctuation / currency / link text, treat as noise
+      if (/^[\W\d_]+$/.test(stripped)) return true;
+      return false;
+    }
+
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i];
+      if (!line) continue;
+      if (line.indexOf(url) !== -1) {
+        const idx = line.indexOf(url);
+        const left = line
+          .slice(0, idx)
+          .replace(/^[👉\-\:\s]+/, "")
+          .replace(/[:\-\u2014\u2013\.\s]+$/, "")
+          .trim();
+
+        if (left && !left.match(/^https?:\/\//i)) {
+          const leftClean = cleanLabelText(left);
+          // if leftClean is not just noise, use it
+          if (leftClean && !isNoiseLine(leftClean)) return leftClean;
+        }
+
+        // look at previous non-empty line but skip it when it's likely a merchant/header/noise
+        if (i > 0) {
+          // scan backwards to find the nearest non-empty previous line
+          for (let j = i - 1; j >= 0; j--) {
+            const prev = lines[j].trim();
+            if (!prev) continue;
+            if (prev.match(/^https?:\/\//i)) break; // if previous is a link, don't use it
+            const prevClean = cleanLabelText(prev);
+            if (prevClean && !isNoiseLine(prevClean)) {
+              return prevClean;
+            } else {
+              // if prev line is noisy, don't keep falling back to earlier lines blindly;
+              // allow one more earlier line as a last attempt (helps when list has a header + empty line + product)
+              if (j - 1 >= 0) {
+                const prev2 = cleanLabelText(lines[j - 1] || "");
+                if (prev2 && !isNoiseLine(prev2)) return prev2;
+              }
+            }
+            break;
+          }
+        }
+
+        const withoutUrl = line
+          .replace(url, "")
+          .replace(/^[👉\-\:\s]+/, "")
+          .replace(/[:\-\u2014\u2013]+$/, "")
+          .trim();
+        if (withoutUrl) {
+          const wClean = cleanLabelText(withoutUrl);
+          if (wClean && !isNoiseLine(wClean)) return wClean;
+        }
+
+        try {
+          const u = new URL(url);
+          return u.hostname.replace("www.", "");
+        } catch (e) {
+          return url;
+        }
+      }
+    }
+
+    try {
+      const u = new URL(url);
+      return u.hostname.replace("www.", "");
+    } catch (e) {
+      return url;
+    }
+  }
+
+
+  // if card.urls exists and has items, render multiple buy rows
+    // if card.urls exists and has items, render multiple buy rows
+  if (Array.isArray(card.urls) && card.urls.length > 0) {
+    if (modalBuy) modalBuy.style.display = "none";
+
+    // create linksWrap container
+    linksWrap = document.createElement("div");
+    linksWrap.id = "modal-links-wrap";
+    linksWrap.style.display = "flex";
+    linksWrap.style.flexDirection = "column";
+    linksWrap.style.alignItems = "stretch";
+    linksWrap.style.marginTop = "12px";
+    const parentForBuy =
+      modalBuy && modalBuy.parentNode
+        ? modalBuy.parentNode
+        : document.querySelector(".modal .right") || document.body;
+    parentForBuy.appendChild(linksWrap);
+
+    // ---------- NORMALIZE card.urls into {url,label} objects ----------
+    const rawUrls = Array.isArray(card.urls) ? card.urls.slice() : [];
+    const unified = rawUrls.map(it => {
+      if (!it) return { url: "", label: "" };
+      if (typeof it === "string") return { url: it.trim(), label: "" };
+      // object expected: {url:..., label:...} or custom shape
+      return { url: (it.url || "").toString().trim(), label: (it.label || "").toString().trim() };
+    });
+
+    // dedupe exact pairs (preserve first occurrence)
+    const seenPairs = new Set();
+    const deduped = [];
+    for (const obj of unified) {
+      const key = (obj.url || "") + "||" + (obj.label || "");
+      if (seenPairs.has(key)) continue;
+      seenPairs.add(key);
+      deduped.push(obj);
+    }
+
+    // If a header-only row (no url) is immediately followed by a buy row with the same label,
+    // clear the buy-row label to avoid "header then same label repeated".
+    for (let i = 0; i < deduped.length - 1; i++) {
+      const cur = deduped[i];
+      const nxt = deduped[i + 1];
+      if ((!cur.url || cur.url.trim() === "") && nxt && nxt.url) {
+        const h = (cur.label || "").trim().toLowerCase();
+        const l = (nxt.label || "").trim().toLowerCase();
+        if (h && l && h === l) {
+          nxt.label = "";
+        }
+      }
+    }
+
+    // Render rows from deduped list. Use a for-loop so we can continue cleanly.
+    for (const itemObj of deduped) {
+      if (!itemObj) continue;
+      const url = (itemObj.url || "").trim();
+      let labelText = (itemObj.label || "").trim();
+
+      // If no label from Python, try to guess from message text
+      if (!labelText && url) {
+        try {
+          labelText = guessLabelFromUrl(url, card) || "";
+        } catch (e) {
+          labelText = "";
+        }
+      }
+
+      // If header-only row (no URL) -> render as label-only row
+      if (!url) {
+        // avoid adding an identical consecutive header-only row
+        const last = linksWrap.lastElementChild;
+        const lastText = last ? (last.textContent || "").trim().toLowerCase() : "";
+        const curText = (labelText || "").trim().toLowerCase();
+        if (curText && curText === lastText) {
+          continue;
+        }
+
+        const row = document.createElement("div");
+        row.className = "modal-link-row";
+        row.style.display = "flex";
+        row.style.alignItems = "center";
+        row.style.gap = "12px";
+        row.style.marginTop = "8px";
+        row.style.width = "100%";
+        row.style.flexWrap = "wrap";
+
+        const labelOnly = document.createElement("div");
+        labelOnly.style.flex = "1 1 auto";
+        labelOnly.style.fontSize = "14px";
+        labelOnly.style.fontWeight = "700";
+        labelOnly.style.wordBreak = "break-word";
+        labelOnly.style.whiteSpace = "normal";
+        labelOnly.style.maxWidth = "100%";
+        labelOnly.textContent = labelText || "";
+        row.appendChild(labelOnly);
+
+        linksWrap.appendChild(row);
+        continue;
+      }
+
+      // Defensive label cleanups: drop domain-like labels, strip merchant prefix, sanitize text
+      const domainLike = /^[a-z0-9-]+(\.[a-z0-9-]+)+$/i;
+      if (labelText && domainLike.test(labelText)) labelText = "";
+
+      if (labelText) {
+        if (card.merchant_label) {
+          const merchantEsc = card.merchant_label.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+          const re = new RegExp("^\\s*" + merchantEsc + "\\s*[:\\-|\\|]+\\s*", "i");
+          labelText = labelText.replace(re, "").trim();
+        }
+        labelText = labelText.replace(/^[A-Za-z0-9&\s]{2,40}\s*[:\-\|]+\s*/i, "").trim();
+        labelText = labelText
+          .replace(/\b(grab here|grab now|grab|link|loot:?|buy now|click here)\b/gi, "")
+          .replace(/^[\|\-:]+/, "")
+          .replace(/[:\-–—]+$/g, "")
+          .replace(/\s*[\|\-:]+\s*/g, " ")
+          .replace(/\s+/g, " ")
+          .trim();
+        labelText = labelText.replace(/\b(MasterLink|Master)\b/gi, "Visit merchant site");
+      }
+
+      // Create UI row: label + buy button
+      const row = document.createElement("div");
+      row.className = "modal-link-row";
+      row.style.display = "flex";
+      row.style.alignItems = "center";
+      row.style.gap = "12px";
+      row.style.marginTop = "8px";
+      row.style.width = "100%";
+      row.style.flexWrap = "wrap";
+
+      const label = document.createElement("div");
+      label.style.flex = "1 1 auto";
+      label.style.fontSize = "14px";
+      label.style.fontWeight = "600";
+      label.style.wordBreak = "break-word";
+      label.style.whiteSpace = "normal";
+      label.style.maxWidth = "calc(100% - 120px)";
+      label.textContent = labelText || "";
+      row.appendChild(label);
+
+      const a = document.createElement("a");
+      a.className = "buy";
+      a.href = url;
+      a.target = "_blank";
+      a.rel = "noopener";
+      a.textContent = "Buy now";
+      a.style.flex = "0 0 auto";
+      a.style.marginLeft = "auto";
+      a.style.padding = "8px 12px";
+      a.style.fontSize = "13px";
+      a.style.minWidth = "96px";
+      row.appendChild(a);
+
+      linksWrap.appendChild(row);
+    }
+
+  } else {
+    if (modalBuy) {
+      modalBuy.style.display = "";
+      modalBuy.href = card.buy_link || card.shortlink || "#";
+    }
+  }
+
+
+  // open the modal
+  modalBack.style.display = "flex";
+  modalBack.setAttribute("aria-hidden", "false");
+
+  // === setup modal share button & currentModalCard ===
+  currentModalCard = card;
+  const modalShareBtn = document.getElementById("modal-share");
+  if (modalShareBtn) {
+    modalShareBtn.innerHTML = `
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+           width="16" height="16" fill="none" stroke="currentColor"
+           stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M4 12v7a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-7"></path>
+        <polyline points="16 6 12 2 8 6"></polyline>
+        <line x1="12" y1="2" x2="12" y2="15"></line>
+      </svg>`;
+    modalShareBtn.title = "Share this deal";
+    modalShareBtn.style.display = ""; // ensure visible
+  }
+}
+
+function closeModal() {
+  modalBack.style.display = "none";
+  modalBack.setAttribute("aria-hidden", "true");
+  modalImage.src = "";
+}
+
+function escapeHtml(s) {
+  if (!s) return "";
+  return String(s)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#39;");
+}
+
+// ----------------- Unified improved share helpers -----------------
+/* ---------- Improved share helpers: share product image for cards/modal,
+   and banner image for footer share (never expose affiliate links) ---------- */
+
+function getCardUrl(card) {
+  // Always share the site permalink that references the card id.
+  // This avoids exposing affiliate/buy links.
+  try {
+    const base = window.location.origin + window.location.pathname;
+    return base + (base.indexOf('?') === -1 ? '?' : '&') + 'id=' + encodeURIComponent(card.id || '');
+  } catch (e) {
+    return window.location.href;
+  }
+}
+
+// Show small toast (reuse if already defined)
+function showShareToastSafe(msg) {
+  if (typeof showShareToast === "function") {
+    showShareToast(msg);
+    return;
+  }
+  const t = document.createElement("div");
+  t.className = "share-toast show";
+  t.textContent = msg;
+  document.body.appendChild(t);
+  setTimeout(() => t.classList.remove("show"), 1800);
+  setTimeout(() => t.remove(), 2400);
+}
+
+// Try to fetch an image URL and convert to a File or Blob usable by navigator.share
+// Improved fetchImageAsFile: 1) fetch+blob 2) image->canvas fallback 3) final fetch fallback
+async function fetchImageAsFile(imgUrl, filenameHint = "image") {
+  try {
+    if (!imgUrl) return null;
+    // resolve relative URLs
+    try { imgUrl = (new URL(imgUrl, window.location.href)).toString(); } catch(e){}
+
+    console.debug("fetchImageAsFile: fetching", imgUrl);
+    showShareToastSafe("Preparing image...");
+
+    // 1) Try fetch with CORS mode
+    try {
+      const res = await fetch(imgUrl, { mode: 'cors' });
+      if (res.ok) {
+        const blob = await res.blob();
+        if (blob && blob.type && blob.type.startsWith("image/")) {
+          const ext = (blob.type.split('/')[1] || "jpg").split('+')[0];
+          const fname = (filenameHint || "img") + "." + ext;
+          try { return new File([blob], fname, { type: blob.type }); }
+          catch (e) { blob.name = fname; return blob; }
+        } else {
+          console.debug("fetchImageAsFile: fetch returned non-image blob/type:", blob && blob.type);
+        }
+      } else {
+        console.debug("fetchImageAsFile: fetch returned not ok:", res.status);
+      }
+    } catch (errFetch) {
+      console.debug("fetchImageAsFile: fetch(err) (CORS or network):", errFetch);
+    }
+
+    // 2) Try image -> canvas route (may be tainted by CORS)
+    try {
+      const img = document.createElement('img');
+      img.crossOrigin = "anonymous";
+      const p = new Promise((resolve, reject) => {
+        img.onload = () => resolve(true);
+        img.onerror = (e) => reject(e);
+      });
+      img.src = imgUrl;
+      await p;
+      // draw into canvas
+      const canvas = document.createElement('canvas');
+      canvas.width = img.naturalWidth || img.width || 800;
+      canvas.height = img.naturalHeight || img.height || 600;
+      const ctx = canvas.getContext('2d');
+      ctx.drawImage(img, 0, 0);
+      const blob = await new Promise(resolve => {
+        try {
+          canvas.toBlob(b => resolve(b), 'image/jpeg', 0.92);
+        } catch (e) {
+          resolve(null);
+        }
+      });
+      if (blob) {
+        const fname = (filenameHint || "img") + ".jpg";
+        try { return new File([blob], fname, { type: blob.type || 'image/jpeg' }); }
+        catch (e) { blob.name = fname; return blob; }
+      } else {
+        console.debug("fetchImageAsFile: canvas.toBlob returned null (tainted?)");
+      }
+    } catch (errCanvas) {
+      console.debug("fetchImageAsFile: image->canvas failed (likely CORS):", errCanvas);
+    }
+
+    // 3) Last-chance fetch (no CORS mode) — may be blocked
+    try {
+      const res2 = await fetch(imgUrl);
+      if (res2.ok) {
+        const blob2 = await res2.blob();
+        if (blob2 && blob2.type && blob2.type.startsWith("image/")) {
+          const ext = (blob2.type.split('/')[1] || "jpg").split('+')[0];
+          const fname = (filenameHint || "img") + "." + ext;
+          try { return new File([blob2], fname, { type: blob2.type }); }
+          catch (e) { blob2.name = fname; return blob2; }
+        }
+      }
+    } catch (errFallback) {
+      console.debug("fetchImageAsFile: final fetch fallback failed:", errFallback);
+    }
+
+  } catch (err) {
+    console.debug("fetchImageAsFile: unexpected error:", err);
+
+  }
+  // give user a short toast so they know image attach failed and link-only share will be used
+  showShareToastSafe("Image unavailable — sharing link only");
+  return null;
+}
+
+// Main share entry for cards/modal: attempts image+text share, falls back to text share or desktop popup
+// ---------- NO-CLIPBOARD share handlers (paste to replace existing) ----------
+
+const SHARE_PREFIX = "I just found this deal on BestPriceZone.in";
+
+/* Helper: robust card lookup by encoded id, raw id, shortlink, buy_link, or substring */
+function findCardById(encodedOrRaw) {
+  try {
+    const key = (encodedOrRaw || "").toString();
+    let decoded = key;
+    try { decoded = decodeURIComponent(key || ""); } catch (e) { /* ignore */ }
+
+    // exact id match
+    let c = cards.find(x => (x.id || "") === decoded || (x.id || "") === key);
+    if (c) return c;
+
+    // match against shortlink/buy_link
+    c = cards.find(x => (x.shortlink || "").toString() === decoded || (x.buy_link || "").toString() === decoded || (x.shortlink || "").toString() === key || (x.buy_link || "").toString() === key);
+    if (c) return c;
+
+    // fallback: substring match in title or merchant
+    const lower = decoded.toLowerCase();
+    return cards.find(x => (((x.title||"") + " " + (x.merchant_label||"")).toLowerCase().includes(lower))) || null;
+  } catch (e) {
+    console.debug("findCardById error:", e);
+    return null;
+  }
+}
+
+async function tryOpenSocialIntent(permalink, title, imgSrc) {
+  // Preferred order: WhatsApp -> Telegram -> Twitter -> Facebook
+  // Text includes product image URL as well (so apps can preview it if they fetch it)
+  const text = `${SHARE_PREFIX}\n${title}\n${permalink}\n${imgSrc || ''}`.trim();
+  // WhatsApp mobile intent generally opens app on mobile
+  const wa = `https://wa.me/?text=${encodeURIComponent(text)}`;
+  const tg = `https://t.me/share/url?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(SHARE_PREFIX + "\n" + title)}`;
+  const tw = `https://twitter.com/intent/tweet?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(SHARE_PREFIX + " " + title)}`;
+  const fb = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(permalink)}`;
+
+
+
+  try {
+
+
+    const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+    if (isMobile) {
+      // open WhatsApp first (best mobile reach)
+      window.open(wa, '_blank');
+      return true;
+    } else {
+      // desktop: don't auto-open external intents; let popup handle it
+      return false;
+    }
+  } catch (e) {
+    return false;
+  }
+}
+
+/* Unified share flow for card/modal that prioritizes product image + title.
+   This preserves the footer/page share behavior while ensuring modal & card
+   share attach the product image (when supported). */
+async function shareCardById(encodedCardId, anchorEl) {
+  try {
+    const card = findCardById(encodedCardId);
+    if (!card) {
+      // no card found — fallback to showing page share popup
+      openDesktopSharePopup({ id: '', title: document.title || '', merchant_label: '', local_image: (document.querySelector('.banner-wrap img')||{}).src || '' }, anchorEl || document.body, true);
+      return;
+    }
+
+    const permalink = getCardUrl(card) || window.location.href;
+    const title = (card.title || "Check this deal").trim();
+    const text = `${SHARE_PREFIX}\n${title}\n${permalink}`;
+    let imgSrc = card.local_image || '';
+
+    // If no product image on card, try to fall back to banner (like page share)
+    if (!imgSrc) {
+      const bannerImg = document.querySelector('.banner-wrap img');
+      if (bannerImg && bannerImg.src) imgSrc = bannerImg.src;
+    }
+
+    // 1) Try Web Share Level 2 (files) with product image attached
+    try {
+      if (navigator && navigator.share && navigator.canShare) {
+        if (imgSrc) {
+          const file = await fetchImageAsFile(imgSrc, "product");
+          if (file && navigator.canShare({ files: [file] })) {
+            await navigator.share({ title, text, files: [file], url: permalink });
+            return; // DONE: native sheet with image
+          }
+        }
+      }
+    } catch (err) {
+      console.warn("Web Share with files failed:", err);
+      // fallthrough to next step
+    }
+
+
+
+
+
+    // 2) Try native share with text+url (no image attach)
+    try {
+      if (navigator && navigator.share) {
+        await navigator.share({ title, text, url: permalink });
+        return; // DONE: native sheet (may be without image)
+      }
+    } catch (err) {
+      console.warn("Native text share failed/cancelled:", err);
+      // fallthrough to social intents / popup (no clipboard)
+    }
+
+    // 3) If on mobile, directly open social intent (WhatsApp/Telegram) — avoids clipboard entirely.
+    const openedIntent = await tryOpenSocialIntent(permalink, title, imgSrc);
+    if (openedIntent) return;
+
+    // 4) Desktop fallback: open desktop share popup (no clipboard). The popup has social links
+    //    and also shows the product image/title/permalink so the user can click the social links.
+    openDesktopSharePopup(card, anchorEl, /* preferImage */ true);
+
+  } catch (err) {
+    console.warn("shareCardById unexpected error:", err);
+    // Final fallback: show page share popup with banner image
+    try {
+      const bannerSrc = (document.querySelector('.banner-wrap img')||{}).src || "";
+      openDesktopSharePopup({ id: "", title: document.title || "BestPriceZone", merchant_label: "", local_image: bannerSrc }, anchorEl || document.body, true);
+    } catch (e) {
+      console.warn("Final share fallback failed:", e);
+    }
+  }
+
+
+
+
+
+
+
+
+}
+
+// openShareMenu wrapper used by card buttons
+function openShareMenu(el, cardId) {
+  shareCardById(cardId, el).catch((err) => {
+    console.warn("shareCardById failed:", err);
+    // As a final fallback we still show the desktop popup UI (explicit) so user can share manually.
+    try {
+      const card = findCardById(cardId);
+      if (card) {
+        openDesktopSharePopup(card, el, true);
+      } else {
+        // if findCardById fails (rare), open page share popup with banner
+        openDesktopSharePopup({ id: '', title: document.title || '', merchant_label: '', local_image: (document.querySelector('.banner-wrap img')||{}).src || '' }, el, true);
+      }
+    } catch (e) {
+      console.warn("Final fallback popup failed:", e);
+    }
+  });
+}
+
+// Modify openDesktopSharePopup slightly so social links include the full multiline text
+// and openDesktopSharePopup can be used as the desktop/manual UI (no clipboard).
+function openDesktopSharePopup(card, anchorEl, preferImage = true) {
+  // remove existing first
+  const existing = document.getElementById("share-popup");
+  if (existing) existing.remove();
+
+  const rect = (anchorEl && anchorEl.getBoundingClientRect) ? anchorEl.getBoundingClientRect() : { left: 20, bottom: 80 };
+  let imgSrc = "";
+  if (preferImage && card && card.local_image) imgSrc = card.local_image;
+  if (!imgSrc) {
+    const bannerImg = document.querySelector('.banner-wrap img');
+    if (bannerImg && bannerImg.src) imgSrc = bannerImg.src;
+  }
+
+  const permalink = getCardUrl(card);
+  const titleText = card.title || card.merchant_label || "BestPriceZone Deal";
+  const fullText = `${SHARE_PREFIX}\n${titleText}\n${permalink}\n${imgSrc || ''}`.trim();
+
+  const popup = document.createElement("div");
+  popup.className = "share-popup";
+  popup.id = "share-popup";
+  popup.style.minWidth = "320px";
+  popup.style.maxWidth = "420px";
+  popup.style.top = Math.max(8, window.scrollY + (rect.bottom || 80) + 8) + "px";
+  popup.style.left = Math.min(Math.max(8, rect.left || 8), Math.max(8, window.innerWidth - 440)) + "px";
+  popup.style.zIndex = 12001;
+
+  popup.innerHTML = `
+    <div style="display:flex;flex-direction:column;gap:10px;font-family:Inter,system-ui,Arial;">
+      <div style="display:flex;gap:12px;align-items:center">
+        <div style="flex:0 0 72px; width:72px; height:72px; border-radius:8px; overflow:hidden; background:#f6f7fb; display:flex;align-items:center;justify-content:center;">
+          ${imgSrc ? `<img src="${imgSrc}" alt="${escapeHtml(titleText)}" style="width:100%;height:100%;object-fit:cover;display:block" />` : `<div style="width:100%;height:100%;display:flex;align-items:center;justify-content:center;color:#94a3b8">No image</div>`}
+        </div>
+        <div style="flex:1;min-width:0;">
+          <div style="font-weight:700;font-size:15px;line-height:1.2;color:#0f1724;word-break:break-word;">${escapeHtml(titleText)}</div>
+          <div style="font-size:13px;color:#64748b;margin-top:6px;">${escapeHtml(card.merchant_label || "")}</div>
+        </div>
+      </div>
+
+      <div style="display:flex;flex-direction:column;gap:8px">
+        <div style="display:flex;gap:8px;align-items:center;flex-wrap:wrap">
+          <div class="url" style="flex:1;min-width:0;font-size:13px;color:#475569;word-break:break-all;">${escapeHtml(permalink)}</div>
+          <button class="share-btn-inline" id="share-copy-btn" style="flex:0 0 auto;padding:8px 12px;border-radius:8px;border:0;background:#0f62fe;color:#fff;font-weight:700;cursor:pointer">Open share options</button>
+        </div>
+
+        <div style="display:flex;gap:8px;flex-wrap:wrap">
+          <a class="social-links" id="popup-wa" href="https://wa.me/?text=${encodeURIComponent(fullText)}" target="_blank" rel="noopener">WhatsApp</a>
+          <a class="social-links" id="popup-tg" href="https://t.me/share/url?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(SHARE_PREFIX + "\\n" + titleText)}" target="_blank" rel="noopener">Telegram</a>
+          <a class="social-links" id="popup-fb" href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(permalink)}" target="_blank" rel="noopener">Facebook</a>
+          <a class="social-links" id="popup-tw" href="https://twitter.com/intent/tweet?url=${encodeURIComponent(permalink)}&text=${encodeURIComponent(SHARE_PREFIX + " " + titleText)}" target="_blank" rel="noopener">Twitter</a>
+        </div>
+      </div>
+    </div>
+  `;
+
+  document.body.appendChild(popup);
+
+  // When user clicks "Open share options" we try to open WhatsApp/Telegram directly (mobile-first)
+  const copyBtn = popup.querySelector("#share-copy-btn");
+  if (copyBtn) {
+    copyBtn.addEventListener("click", async () => {
+      // Try to open mobile intent first
+      const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+      if (isMobile) {
+        // open whatsapp intent
+        window.open(`https://wa.me/?text=${encodeURIComponent(fullText)}`, '_blank');
+      } else {
+        // on desktop, just visually show the social links (user clicks)
+        // optionally focus first link
+        const waLink = popup.querySelector("#popup-wa");
+        if (waLink) waLink.focus();
+      }
+    });
+  }
+
+  // close popup when clicking outside / on scroll / resize
+  const closeFn = () => {
+    const el = document.getElementById("share-popup");
+    if (el) el.remove();
+    window.removeEventListener("scroll", closeFn, true);
+    window.removeEventListener("resize", closeFn);
+  };
+  setTimeout(() => {
+    window.addEventListener("scroll", closeFn, true);
+    window.addEventListener("resize", closeFn);
+    document.addEventListener("click", closeFn, { once: true, capture: true });
+  }, 10);
+
+  popup.addEventListener("click", (ev) => ev.stopPropagation());
+}
+
+
+
+// Wire modal share button
+(function wireModalShare() {
+  const modalShareBtn = document.getElementById("modal-share");
+  if (modalShareBtn) {
+    modalShareBtn.addEventListener("click", () => {
+      if (typeof currentModalCard !== "undefined" && currentModalCard) {
+        const encoded = encodeURIComponent(currentModalCard.id || currentModalCard.shortlink || "");
+        shareCardById(encoded, modalShareBtn);
+      }
+    });
+  }
+})();
+
+// Footer "Share page" button - NO CLIPBOARD fallback
+(function wireFooterShare() {
+  const shareBtn = document.getElementById('share-page');
+  if (!shareBtn) return;
+
+  shareBtn.addEventListener('click', async function() {
+    const url = window.location.href;
+    const title = document.title || 'BestPriceZone — check this out';
+    const SHARE_PREFIX = "I just found this deal on BestPriceZone.in";
+    const text = `${SHARE_PREFIX}\n${title}\n${url}`;
+
+    const bannerImgEl = document.querySelector('.banner-wrap img');
+    let bannerSrc = bannerImgEl ? (bannerImgEl.src || '') : '';
+
+    // Try Web Share Level 2 with banner image (mobile Android)
+    if (navigator && navigator.share && navigator.canShare && bannerSrc) {
+      const file = await fetchImageAsFile(bannerSrc, "banner");
+      try {
+        if (file && navigator.canShare({ files: [file] })) {
+          await navigator.share({ title, text, files: [file], url });
+          return;
+        }
+      } catch (e) {
+        console.warn("Footer share with files failed:", e);
+      }
+    }
+
+    // Try native share with text+url (no image)
+    if (navigator && navigator.share) {
+      try {
+        await navigator.share({ title, text, url });
+        return;
+      } catch (e) {
+        console.warn("Footer native share failed:", e);
+      }
+    }
+
+    // Desktop: show the desktop share popup (social links + preview) — NO clipboard
+    const dummyCard = { id: "", title, merchant_label: "", local_image: bannerSrc };
+    openDesktopSharePopup(dummyCard, shareBtn, true);
+  });
+})();
+
+
+// Keep the global openShareMenu
+window.openShareMenu = function(el, cardId) {
+  try {
+    openShareMenu(el, cardId);
+  } catch (e) {
+    try {
+      const permalink = getCardUrl({ id: decodeURIComponent(cardId) });
+      navigator.clipboard && navigator.clipboard.writeText(permalink);
+      showShareToastSafe("Link copied!");
+    } catch (x) {
+      showShareToastSafe("Link copied!");
+    }
+  }
+};
+
+window.shareCardById = shareCardById;
+
 
   // initial render
   render();
@@ -1030,10 +2637,16 @@ __BANNER_HTML__
 """
 
     # replace placeholders and return
-    html = html_template.replace("__CARDS_JSON__", cards_json)
+    html = html_template
+    html = html.replace("__CARDS_JSON__", cards_json_safe)
     html = html.replace("__BANNER_HTML__", banner_html)
     html = html.replace("__HERO_HEIGHT__", hero_height)
     html = html.replace("__GEN_TS__", gen_ts)
+
+    # set OG/Twitter image to banner if present, else empty to avoid leaking placeholder
+    og_img = banner_rel or ""
+    html = html.replace("__BANNER_IMAGE__", og_img)
+
     # inject SHOW_RELATIVE boolean literal into the HTML for client-side JS
     html = html.replace("__SHOW_RELATIVE__", "true" if show_relative else "false")
     return html
@@ -1169,19 +2782,46 @@ def main():
 
                 title = clean_message_text(raw, shortlink)[:140]
                 merchant_label = normalize_merchant(title, shortlink) or ""
-                if merchant_label and not title.lower().startswith(merchant_label.lower()):
-                    title = f"{merchant_label} | {title}"
+                #if merchant_label and not title.lower().startswith(merchant_label.lower()):
+                #    title = f"{merchant_label} | {title}"
 
                 title_norm = re.sub(r'\W+', ' ', title).strip().lower()
                 if title_norm in seen_titles and not treat_as_new:
                     mark_processed(msg_id_str, shortlink)
                     continue
 
-                description = re.sub(r'\s+', ' ', raw).strip()
+                # Build description from raw message but strip URLs and collapse repeated lines
+                description = raw
+                # remove inline URLs (we keep labeled urls separately)
                 description = URL_RE.sub('', description).strip()
-                description = re.sub(re.escape(title), '', description, flags=re.I).strip()
+                # collapse multiple whitespace to single spaces
+                description = re.sub(r'\s+', ' ', description).strip()
+                # remove the chosen title from the description (case-insensitive)
+                try:
+                    description = re.sub(re.escape(title), '', description, flags=re.I).strip()
+                except Exception:
+                    pass
+
+                # collapse repeated identical lines from the raw message (helps with duplicate lines)
+                lines = [ln.strip() for ln in re.split(r'[\r\n]+', raw) if ln and ln.strip()]
+                seen_lines = set()
+                dedup_lines = []
+                for ln in lines:
+                    key = ln.strip().lower()
+                    if key in seen_lines:
+                        continue
+                    seen_lines.add(key)
+                    dedup_lines.append(ln.strip())
+                if dedup_lines:
+                    description_from_lines = " ".join(dedup_lines)
+                    # prefer the shorter/cleaner of the two or use deduped if original was small
+                    if len(description_from_lines) < len(description) or len(description) < 80:
+                        description = description_from_lines
+
+                # final trim to sensible length
                 if len(description) > 220:
                     description = description[:220].rsplit(' ',1)[0] + '…'
+
 
                 final = shortlink
                 try:
@@ -1198,18 +2838,137 @@ def main():
 
                 buy_link = shortlink
 
+                # raw extraction (preserve reading order & heuristics)
+                _raw_urls = extract_url_labels(raw, urls)
+
+                # Final pass: clean trivial labels and dedupe predictable duplicates.
+                # - remove pure "Buy now" / "Shop full collection here" noise
+                # - collapse duplicate header-only rows
+                # - collapse duplicate URLs (prefer first occurrence, fill empty labels)
+                cleaned_urls = []
+                seen_url = set()
+                seen_header = set()
+
+                for it in _raw_urls:
+                    u = (it.get("url") or "").strip()
+                    lbl = (it.get("label") or "").strip()
+
+                    # Normalize trivial labels (remove pure "Buy now" etc.)
+                    lbl = re.sub(r'\b(Buy now|Buy|buy now|Click here|Shop full collection here)\b', '', lbl, flags=re.I).strip()
+                    lbl = re.sub(r'\s+', ' ', lbl).strip()
+
+                    if not u:
+                        # header-only row
+                        key = lbl.lower()
+                        if not lbl:
+                            continue
+                        if key in seen_header:
+                            continue
+                        # if some url row already used this label, skip header-only repeat
+                        if any((x.get("url") and (x.get("label") or "").strip().lower() == key) for x in _raw_urls):
+                            seen_header.add(key)
+                            continue
+                        seen_header.add(key)
+                        cleaned_urls.append({"url": "", "label": lbl})
+                        continue
+
+                    # url row: collapse duplicates by URL, prefer first non-empty label
+                    if u in seen_url:
+                        for ex in cleaned_urls:
+                            if ex.get("url") == u:
+                                if not ex.get("label") and lbl:
+                                    ex["label"] = lbl
+                                break
+                        continue
+
+                    seen_url.add(u)
+                    cleaned_urls.append({"url": u, "label": lbl})
+
+                    # ---------- Improved: preserve possessive labels (Men's) and ignore coupon lines ----------
+                    COUPON_HDR_RE = re.compile(r'\b(apply\s*code|code|use\s*code|coupon|apply coupon|offer code|use coupon)\b', flags=re.I)
+
+                    def _normalize_label_token(tok: str) -> str:
+                        """Normalize a candidate token: preserve ASCII and curly apostrophes, ampersand;
+                          strip surrounding junk, return normalized string or ''."""
+                        if not tok:
+                            return ""
+                        tok = tok.strip()
+                        tok = tok.replace("’", "'")   # normalize curly apostrophe to ASCII
+                        # strip only surrounding characters that are not letters, digits, apostrophe or ampersand
+                        tok = re.sub(r'^[^A-Za-z0-9\'&]+|[^A-Za-z0-9\'&]+$', '', tok).strip()
+                        return tok
+
+                    def infer_left_short_label_v2(url, raw_text):
+                        """Return a short label (like "Men's", "Women", "Kids & Co") found immediately left of URL.
+                          Avoids coupon/header lines and rejects very-short garbage tokens.
+                        """
+                        try:
+                            lines = [ln for ln in re.split(r'[\r\n]+', raw_text)]
+                            # same-line search first
+                            for ln in lines:
+                                if url in ln:
+                                    # try "Label : url" or "Label - url"
+                                    m = re.search(r'(.{1,60}?)\s*[:\-\|]\s*' + re.escape(url), ln, flags=re.I)
+                                    if m:
+                                        cand = m.group(1).strip()
+                                        # take last token-ish candidate (but allow apostrophes & ampersand)
+                                        tok = cand.split()[-1] if cand.split() else cand
+                                        tok = _normalize_label_token(tok)
+
+                                        # reject coupon-like tokens or pure codes
+                                        if not tok or COUPON_HDR_RE.search(tok):
+                                            pass
+                                        else:
+                                            # require length >= 2 and at least one letter (so "s" or pure codes are rejected)
+                                            if len(tok) >= 2 and re.search(r'[A-Za-z\u00C0-\u024F]', tok):
+                                                return tok
+
+                                    # fallback: token immediately left of url on same line
+                                    left = ln.split(url, 1)[0].strip()
+                                    left = re.sub(r'^[👉\-\:\s]+', '', left)
+                                    left = re.sub(r'[:\-\u2014\u2013\.\s]+$', '', left).strip()
+                                    if left:
+                                        tok = left.split()[-1]
+                                        tok = _normalize_label_token(tok)
+                                        if tok and not COUPON_HDR_RE.search(tok) and len(tok) >= 2 and re.search(r'[A-Za-z\u00C0-\u024F]', tok):
+                                            return tok
+
+                            # not on same line: look 1-2 lines above
+                            for i, ln in enumerate(lines):
+                                if url in ln:
+                                    for j in (i-1, i-2):
+                                        if j >= 0:
+                                            candidate = lines[j].strip()
+                                            candidate = re.sub(r'^[👉\-\:\s]+', '', candidate)
+                                            candidate = re.sub(r'[:\-\u2014\u2013\.\s]+$', '', candidate).strip()
+                                            if candidate and len(candidate) <= 40 and not COUPON_HDR_RE.search(candidate):
+                                                tokens = candidate.split()
+                                                if tokens and len(tokens) <= 4:
+                                                    tok = tokens[-1]
+                                                    tok = _normalize_label_token(tok)
+                                                    if tok and len(tok) >= 2 and re.search(r'[A-Za-z\u00C0-\u024F]', tok):
+                                                        return tok
+                        except Exception:
+                            pass
+                        return ""
+
+
                 card = {
-                    "id": f"msg{msg_id_str}",
-                    "title": title,
-                    "description": description,
-                    "shortlink": shortlink,
-                    "final_url": final,
-                    "local_image": local_img.replace("\\", "/"),
-                    "source_host": urlparse(final).netloc if final else urlparse(shortlink).netloc,
-                    "merchant_label": merchant_label,
-                    "date_obj": msg_date,
-                    "buy_link": buy_link
+                  "id": f"msg{msg_id_str}",
+                  "title": title,
+                  "description": description,
+                  "shortlink": shortlink,
+                  "urls": cleaned_urls,
+                  "raw_text": raw,        # <-- keep raw for client-side heuristics
+                  "final_url": final,
+                  "local_image": local_img.replace("\\", "/"),
+                  "source_host": urlparse(final).netloc if final else urlparse(shortlink).netloc,
+                  "merchant_label": merchant_label,
+                  "date_obj": msg_date,
+                  "buy_link": buy_link
                 }
+
+
 
                 # insert at start (newest first)
                 cards.insert(0, card)
