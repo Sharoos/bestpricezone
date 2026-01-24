@@ -2604,7 +2604,7 @@ def main():
         if t_norm:
             seen_titles.add(t_norm)
 
-    client = TelegramClient(StringSession(7628682418:AAFCo8flsRuk1YbT92j8saDf33_VwsfICYw)
+    client = TelegramClient(StringSession(TG_STRING_SESSION), TG_API_ID, TG_API_HASH)
     client.start()
     logging.info("Connected to Telegram. Fetching up to %d messages (cap %d) from %s", TARGET_CARDS, MAX_SCAN_MESSAGES, CHANNEL)
 
@@ -2844,4 +2844,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
