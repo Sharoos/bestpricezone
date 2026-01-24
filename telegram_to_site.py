@@ -69,6 +69,8 @@ TG_STRING_SESSION = os.environ.get("TG_STRING_SESSION")
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN")
 CHANNEL = os.environ.get("CHANNEL_USERNAME")
 
+client = TelegramClient(StringSession(TG_STRING_SESSION), TG_API_ID, TG_API_HASH)
+
 TARGET_CARDS = int(os.environ.get("TARGET_CARDS", "100"))
 MAX_SCAN_MESSAGES = int(os.environ.get("MAX_SCAN_MESSAGES", "1000"))
 
@@ -2866,6 +2868,6 @@ if __name__ == "__main__":
     if CLEAN_DB_ON_RUN:
         clear_db()
     
-    # Use the client's loop to run the bot
+    # Now 'client' is defined, so this line will work!
     client.loop.run_until_complete(run_bot())
 
