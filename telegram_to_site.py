@@ -2846,28 +2846,35 @@ def main():
             pass
 
 async def run_bot():
-    # This is the "Magic Fix" for GitHub Actions EOFError
+    # 1. Login
     await client.start(bot_token=TG_BOT_TOKEN)
-    
     logging.info("Bot started successfully!")
     
-    # Verify the channel is accessible
     try:
+        # 2. Check if the channel is valid
         entity = await client.get_entity(CHANNEL)
         logging.info(f"Connected to channel: {entity.title}")
+        
+        # 3. ACTIVATE THE SCRAPER (This was likely commented out)
+        # We call fetch_and_build() which is your main logic function
+        await fetch_and_build()
+        
     except Exception as e:
-        logging.error(f"Could not access channel {CHANNEL}. Is the bot an Admin? {e}")
-        return
-
-    # Call your existing logic here (fetching messages and building HTML)
-    # Ensure your message fetching logic is wrapped in 'async def'
-    # await fetch_and_build() 
+        logging.error(f"Error during execution: {e}")
+    finally:
+        # 4. Always disconnect so the GitHub Action can finish
+        await client.disconnect()
 
 if __name__ == "__main__":
+    # Ensure the database and folders exist before starting
     init_db()
     if CLEAN_DB_ON_RUN:
         clear_db()
     
-    # Now 'client' is defined, so this line will work!
+    # Create the assets/images folder if it doesn't exist
+    pathlib.Path(IMGS_DIR).mkdir(parents=True, exist_ok=True)
+    
+    # Run the bot
     client.loop.run_until_complete(run_bot())
+
 
