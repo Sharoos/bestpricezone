@@ -2846,28 +2846,21 @@ def main():
             pass
 
 async def run_bot():
-    # Login
     await client.start(bot_token=TG_BOT_TOKEN)
     logging.info("Bot started successfully!")
-    
     try:
-        # Check channel
         entity = await client.get_entity(CHANNEL)
         logging.info(f"Connected to channel: {entity.title}")
         
-        # Now Python knows what this is because it was defined above!
+        # This will now work because fetch_and_build is defined ABOVE this line
         await fetch_and_build() 
         
     except Exception as e:
-        # This will catch and print the error if it fails
         logging.error(f"Error during execution: {e}")
     finally:
         await client.disconnect()
 
 if __name__ == "__main__":
-    # Setup
     init_db()
     pathlib.Path(IMGS_DIR).mkdir(parents=True, exist_ok=True)
-    
-    # Run
     client.loop.run_until_complete(run_bot())
