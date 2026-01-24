@@ -30,24 +30,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install telethon requests  # Added explicitly to ensure they exist
-
-      - name: Create .env
-        env:
-          TG_API_ID: ${{ secrets.TG_API_ID }}
-          TG_API_HASH: ${{ secrets.TG_API_HASH }}
-          TG_STRING_SESSION: ${{ secrets.TG_STRING_SESSION }}
-          CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
-        run: |
-          printf 'TG_API_ID=%s\n' "$TG_API_ID" > .env
-          printf 'TG_API_HASH=%s\n' "$TG_API_HASH" >> .env
-          printf 'TG_STRING_SESSION=%s\n' "$TG_STRING_SESSION" >> .env
-          printf 'CHANNEL_USERNAME=%s\n' "$CHANNEL_USERNAME" >> .env
-          printf 'HERO_BANNER=banner.jpg\n' >> .env
-          printf 'HERO_HEIGHT=300px\n' >> .env
-          printf 'MAX_KEEP=300\n' >> .env
-          printf 'CLEAN_IMAGES_ON_RUN=0\n' >> .env
-          echo ".env created without Bot Token."
+          pip install telethon requests
 
       - name: Run site build script
         env:
@@ -56,6 +39,16 @@ jobs:
           TG_STRING_SESSION: ${{ secrets.TG_STRING_SESSION }}
           CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
         run: |
+          # 1. Force remove any lingering .env file to prevent "Bot" mode override
+          rm -f .env
+          
+          # 2. Inject parameters directly as environment variables
+          export HERO_BANNER=banner.jpg
+          export HERO_HEIGHT=300px
+          export MAX_KEEP=300
+          export CLEAN_IMAGES_ON_RUN=0
+          
+          # 3. Execute the script
           python telegram_to_site.py
 
       - name: Commit & push persisted assets
@@ -63,9 +56,16 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Force add assets even if ignored by .gitignore
           git add -f assets/state.db assets/cards.json assets/images/ || true
-          git commit -m "Update deals and state [skip ci]" || echo "No changes"
-          git push origin main || echo "Push failed"
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update deals and state [skip ci]"
+            git push origin main
+          fi
 
       - name: Prepare site folder
         run: |
