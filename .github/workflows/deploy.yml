@@ -30,123 +30,42 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install telethon requests  # Added explicitly to ensure they exist
 
-      - name: Show .gitignore + repo listing (debug)
-        run: |
-          echo "---- .gitignore ----"
-          sed -n '1,200p' .gitignore || true
-          echo "---- repo root ----"
-          ls -la
-
-      - name: Check origin branches for persisted assets (debug)
-        run: |
-          # fetch refs (shallow)
-          git fetch origin main --depth=1 || true
-          git fetch origin site-state --depth=1 || true
-          echo "Files under origin/main:"
-          git ls-tree -r origin/main --name-only | grep '^assets/' || echo "(none in origin/main)"
-          echo "Files under origin/site-state:"
-          git ls-tree -r origin/site-state --name-only | grep '^assets/' || echo "(none in origin/site-state)"
-          if git ls-tree -r origin/main --name-only | grep -q '^assets/state.db'; then
-            echo "FOUND: assets/state.db in origin/main"
-          else
-            echo "NOT FOUND: assets/state.db in origin/main"
-          fi
-          if git ls-tree -r origin/site-state --name-only | grep -q '^assets/state.db'; then
-            echo "FOUND: assets/state.db in origin/site-state"
-          else
-            echo "NOT FOUND: assets/state.db in origin/site-state"
-          fi
-
-      - name: Show assets snapshot (workdir) (debug)
-        run: |
-          echo "Assets listing in working directory:"
-          ls -la assets || echo "assets missing in workdir"
-
-      - name: Create .env (safe method)
+      - name: Create .env
         env:
           TG_API_ID: ${{ secrets.TG_API_ID }}
           TG_API_HASH: ${{ secrets.TG_API_HASH }}
           TG_STRING_SESSION: ${{ secrets.TG_STRING_SESSION }}
-          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
         run: |
           printf 'TG_API_ID=%s\n' "$TG_API_ID" > .env
           printf 'TG_API_HASH=%s\n' "$TG_API_HASH" >> .env
           printf 'TG_STRING_SESSION=%s\n' "$TG_STRING_SESSION" >> .env
-          printf 'TG_BOT_TOKEN=%s\n' "$TG_BOT_TOKEN" >> .env
           printf 'CHANNEL_USERNAME=%s\n' "$CHANNEL_USERNAME" >> .env
           printf 'HERO_BANNER=banner.jpg\n' >> .env
           printf 'HERO_HEIGHT=300px\n' >> .env
           printf 'MAX_KEEP=300\n' >> .env
           printf 'CLEAN_IMAGES_ON_RUN=0\n' >> .env
-          echo ".env created."
+          echo ".env created without Bot Token."
 
       - name: Run site build script
         env:
           TG_API_ID: ${{ secrets.TG_API_ID }}
           TG_API_HASH: ${{ secrets.TG_API_HASH }}
           TG_STRING_SESSION: ${{ secrets.TG_STRING_SESSION }}
-          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
           CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
-          MAX_KEEP: '300'
-          CLEAN_IMAGES_ON_RUN: '0'
         run: |
-          echo "Running telegram_to_site.py (MAX_KEEP=$MAX_KEEP)"
           python telegram_to_site.py
 
-      - name: Show assets AFTER build (debug)
-        run: |
-          echo "---- assets (after) ----"
-          ls -la assets || echo "assets missing"
-          echo "image count:"
-          find assets/images -type f | wc -l || true
-          if [ -f assets/state.db ]; then
-            echo "state.db exists (workdir)"
-            if command -v sqlite3 >/dev/null 2>&1; then
-              echo "cards count:"
-              sqlite3 assets/state.db "SELECT count(*) FROM processed;" || echo "sqlite read failed"
-            fi
-          else
-            echo "state.db missing (workdir)"
-          fi
-          echo "---- head of assets/cards.json ----"
-          head -n 50 assets/cards.json || true
-
-      - name: Commit & push persisted assets (try main, fallback to site-state)
+      - name: Commit & push persisted assets
         if: ${{ github.event_name != 'pull_request' }}
-        env:
-          GIT_AUTHOR_NAME: github-actions
-          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
         run: |
-          set -euo pipefail
-          git config user.name "${GIT_AUTHOR_NAME}"
-          git config user.email "${GIT_AUTHOR_EMAIL}"
-          echo "Current branch: $(git branch --show-current || true)"
-          
-          # Stage assets (force in case .gitignore previously blocked)
-          git add -f assets || true
-          git add -f assets/state.db assets/cards.json || true
-          git add -f assets/images || true
-          
-          if git diff --staged --quiet; then
-            echo "No assets changes to commit."
-          else
-            git commit -m "Update persisted state and images [skip ci]" || true
-            echo "Attempting to push to origin/main..."
-            if git push origin HEAD:main; then
-              echo "PUSH TO main succeeded."
-            else
-              echo "Push to main failed — trying to push to site-state branch instead."
-              if git push origin HEAD:site-state; then
-                echo "PUSH TO site-state succeeded."
-              else
-                echo "Both pushes failed."
-                exit 1
-              fi
-            fi
-          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -f assets/state.db assets/cards.json assets/images/ || true
+          git commit -m "Update deals and state [skip ci]" || echo "No changes"
+          git push origin main || echo "Push failed"
 
       - name: Prepare site folder
         run: |
