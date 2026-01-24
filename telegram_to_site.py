@@ -2846,30 +2846,28 @@ def main():
             pass
 
 async def run_bot():
-    # 1. Login (This fix prevents the GitHub Action crash)
+    # Login
     await client.start(bot_token=TG_BOT_TOKEN)
     logging.info("Bot started successfully!")
     
     try:
-        # 2. Check if the channel is accessible
+        # Check channel
         entity = await client.get_entity(CHANNEL)
         logging.info(f"Connected to channel: {entity.title}")
         
-        # 3. RE-ACTIVATE THE SCRAPER (This was the missing piece!)
-        # This function fetches the latest messages and downloads images
+        # Now Python knows what this is because it was defined above!
         await fetch_and_build() 
         
     except Exception as e:
+        # This will catch and print the error if it fails
         logging.error(f"Error during execution: {e}")
     finally:
-        # 4. Cleanly disconnect so GitHub Actions can finish
         await client.disconnect()
 
 if __name__ == "__main__":
-    # Ensure the database and asset folders are ready
+    # Setup
     init_db()
-    if CLEAN_DB_ON_RUN:
-        clear_db()
+    pathlib.Path(IMGS_DIR).mkdir(parents=True, exist_ok=True)
     
-    # Run the bot loop
+    # Run
     client.loop.run_until_complete(run_bot())
