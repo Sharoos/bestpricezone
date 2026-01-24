@@ -2846,18 +2846,21 @@ def main():
             pass
 
 async def run_bot():
-    # This is the "Magic Fix" for GitHub Actions EOFError
+    # 1. This handles the login (Fixes the EOFError)
     await client.start(bot_token=TG_BOT_TOKEN)
-    
     logging.info("Bot started successfully!")
     
-    # Verify the channel is accessible
     try:
+        # 2. This checks your channel
         entity = await client.get_entity(CHANNEL)
         logging.info(f"Connected to channel: {entity.title}")
+        
+        # 3. THIS IS THE LINE YOU MUST UNCOMMENT:
+        # This triggers the actual scraping and image downloading
+        await fetch_and_build() 
+        
     except Exception as e:
-        logging.error(f"Could not access channel {CHANNEL}. {e}")
-        return
-
-    # THE FIX: REMOVE THE '#' FROM THE START OF THE NEXT LINE
-    await fetch_and_build()
+        logging.info(f"Finished or Error: {e}")
+    finally:
+        # 4. This closes the connection cleanly
+        await client.disconnect()
