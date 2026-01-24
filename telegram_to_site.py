@@ -606,7 +606,10 @@ def build_index(cards, show_relative=True, banner_rel: Optional[str] = None, her
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>BestPriceZone | Today's Best Online Deals & Discounts in India</title>
+<title>BestPriceZone | Today's Best Online Shopping Deals & Discounts in India</title>
+
+<link rel="icon" type="image/png" href="assets/favicon.png">
+
 <meta name="title" content="BestPriceZone — Best Online Deals & Discounts" />
 <meta name="description" content="BestPriceZone brings you the latest discounts from Amazon, Flipkart, Ajio, Myntra & more. Save money with daily updated deals, offers, and coupons.">
 
@@ -3031,3 +3034,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
