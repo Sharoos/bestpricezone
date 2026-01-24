@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg25170",
+    "title": "Up to 70% Off On Engage Deodorant",
+    "description": "Flipkart | Upto 70% Off On Engage Deodorant 👉https://fkrt.co/vaus66",
+    "shortlink": "https://fkrt.co/vaus66",
+    "urls": [
+      {
+        "url": "https://fkrt.co/vaus66",
+        "label": "Upto 70% Off On Engage Deodorant"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 70% Off On Engage Deodorant\n\n👉https://fkrt.co/vaus66",
+    "final_url": "https://fkrt.co/vaus66",
+    "local_image": "assets/images/tgmsg_25170.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-24T04:03:17+00:00",
+    "buy_link": "https://fkrt.co/vaus66",
+    "date_iso": "2026-01-24T04:03:17+00:00"
+  },
+  {
     "id": "msg25168",
     "title": "✅ Extra 5% Off — Use Code CK5",
     "description": "Dot & Key – Hello Glow Sale is LIVE! 💛 Buy 2 @ ₹699 💖 Buy 3 @ ₹999 + Free Gift Top Picks: • Sunscreen → • Moisturizer → • Serum → • Face Wash → • Lip Care → • Body Care → • Hair Care → 📌 Shop All: ✅ Extra 5% Off — Use…",
@@ -9678,37 +9698,5 @@
     "date_obj": "2026-01-20T08:36:48+00:00",
     "buy_link": "https://extp.in/YqeHEL",
     "date_iso": "2026-01-20T08:36:48+00:00"
-  },
-  {
-    "id": "msg24665",
-    "title": "Men's Track Pants From ₹189",
-    "description": "Shopsy - Super Saver Offers Stylish Tees From ₹99 Trendy Shoes From ₹169  Apply Coupon & Check Min. Buy Qnty",
-    "shortlink": "https://bitli.in/X04HKzl",
-    "urls": [
-      {
-        "url": "",
-        "label": "Super Saver Offers"
-      },
-      {
-        "url": "https://bitli.in/X04HKzl",
-        "label": "Stylish Tees From ₹99"
-      },
-      {
-        "url": "https://bitli.in/kei2ma8",
-        "label": "Trendy Shoes From ₹169"
-      },
-      {
-        "url": "https://bitli.in/lRKUmkw",
-        "label": "Men's Track Pants From ₹189"
-      }
-    ],
-    "raw_text": "Shopsy - Super Saver Offers\n\nStylish Tees From ₹99\n https://bitli.in/X04HKzl  \n\nTrendy Shoes From ₹169\n https://bitli.in/kei2ma8  \n\nMen's Track Pants From ₹189\n https://bitli.in/lRKUmkw  \n\nApply Coupon & Check Min. Buy Qnty",
-    "final_url": "https://bitli.in/X04HKzl",
-    "local_image": "assets/images/tgmsg_24665.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-01-20T07:52:52+00:00",
-    "buy_link": "https://bitli.in/X04HKzl",
-    "date_iso": "2026-01-20T07:52:52+00:00"
   }
 ]
