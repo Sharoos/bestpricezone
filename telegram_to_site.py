@@ -610,6 +610,12 @@ def build_index(cards, show_relative=True, banner_rel: Optional[str] = None, her
 
 <link rel="icon" type="image/png" href="assets/favicon.png">
 
+<link rel="icon" type="image/png" sizes="48x48" href="assets/favicon-48x48.png">
+<link rel="icon" type="image/png" sizes="96x96" href="assets/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="144x144" href="assets/favicon-144x144.png">
+
+<link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png">
+
 <meta name="title" content="BestPriceZone — Best Online Deals & Discounts" />
 <meta name="description" content="BestPriceZone brings you the latest discounts from Amazon, Flipkart, Ajio, Myntra & more. Save money with daily updated deals, offers, and coupons.">
 
@@ -3034,6 +3040,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
