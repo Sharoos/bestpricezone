@@ -2994,10 +2994,13 @@ def main():
                 logging.debug("Error processing message: %s", e)
                 continue
 
+        # --- ADD THIS LINE HERE TO FIX THE ORDERING ---
+        cards.sort(key=lambda x: int(x.get('id', 0)) if str(x.get('id', '')).isdigit() else 0, reverse=True)
+
         # Trim cards to MAX_KEEP if needed and remove corresponding images
         try:
             if len(cards) > MAX_KEEP:
-                # Items to remove are the oldest ones: after position MAX_KEEP-1
+                # After sorting, the ones AFTER MAX_KEEP are guaranteed to be the oldest
                 to_remove = cards[MAX_KEEP:]
                 logging.info("Trimming %d old cards to respect MAX_KEEP=%d", len(to_remove), MAX_KEEP)
                 for rem in to_remove:
@@ -3052,6 +3055,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
