@@ -2774,7 +2774,8 @@ def main():
                 if shortlink in seen_shortlinks:
                     # if we already have this shortlink from snapshot, ensure it's marked processed (best-effort)
                     mark_processed(msg_id_str, shortlink)
-                    continue
+                    logging.info("Reached already processed deals. Stopping scan.")
+                    break
 
                 treat_as_new = False
                 if last_run_time and msg_date:
@@ -3056,6 +3057,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
