@@ -3024,14 +3024,25 @@ def main():
         except Exception as e:
             logging.debug("Error trimming cards/images: %s", e)
 
+        # --- NEW SORTING AND TRIMMING LOGIC ---
         if not cards:
             logging.info("No cards built.")
         else:
+            # 1. Sort the cards by Telegram ID (highest/newest first)
+            # This ensures the most recent deals appear at the top of your site
+            cards.sort(key=lambda x: int(x.get('id', 0)) if str(x.get('id', '')).isdigit() else 0, reverse=True)
+
+            # 2. Trim the list to your MAX_KEEP limit (default is 500 in your script)
+            cards = cards[:MAX_KEEP]
+
+            # 3. Build the index with the correctly sorted list
             html = build_index(cards, show_relative=SHOW_RELATIVE, banner_rel=BANNER_TARGET_REL, hero_height=HERO_HEIGHT)
+            
             with open(OUT_FILE, "w", encoding="utf8") as f:
                 f.write(html)
-            # also ensure the cards.json written by build_index contains only the trimmed cards
-            logging.info("Wrote %s with %d cards (images in %s). Scanned %d messages. New added: %d", OUT_FILE, len(cards), IMGS_DIR, scanned, new_added)
+            
+            logging.info("Wrote %s with %d cards (Sorted Newest-First). Scanned %d messages. New added: %d", 
+                         OUT_FILE, len(cards), scanned, new_added)
 
     finally:
         try:
@@ -3041,6 +3052,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
