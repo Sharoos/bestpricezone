@@ -606,6 +606,7 @@ def build_index(cards, show_relative=True, banner_rel: Optional[str] = None, her
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="google-site-verification" content="NItxRY7xmwWh_Uh0Jxx_6JQ5AqE7g9FTsYG85PLU-Cw" />
 <title>BestPriceZone | Today's Best Online Shopping Deals & Discounts in India</title>
 
 <link rel="icon" type="image/png" href="assets/favicon.png">
@@ -3040,6 +3041,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
