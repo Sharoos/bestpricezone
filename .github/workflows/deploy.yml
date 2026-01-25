@@ -16,7 +16,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           persist-credentials: true
@@ -39,31 +39,32 @@ jobs:
           TG_STRING_SESSION: ${{ secrets.TG_STRING_SESSION }}
           CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
         run: |
-          # 1. Force remove any lingering .env file to prevent "Bot" mode override
+          # 1. Prevent Bot Mode override
           rm -f .env
           
-          # 2. Inject parameters directly as environment variables
+          # 2. Set script parameters
           export HERO_BANNER=banner.jpg
           export HERO_HEIGHT=300px
           export MAX_KEEP=300
           export CLEAN_IMAGES_ON_RUN=0
           
-          # 3. Execute the script
+          # 3. Execute
           python telegram_to_site.py
 
-      - name: Commit & push persisted assets
+      - name: Commit and Push changes
         if: ${{ github.event_name != 'pull_request' }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Force add assets even if ignored by .gitignore
-          git add -f assets/state.db assets/cards.json assets/images/ || true
+          # Force add the files that store your state and the new site
+          git add -f assets/state.db assets/cards.json assets/images/ index.html || true
           
+          # Commit only if there are changes; [skip ci] prevents the action from triggering itself
           if git diff --staged --quiet; then
-            echo "No changes to commit."
+            echo "No new deals found. Skipping commit."
           else
-            git commit -m "Update deals and state [skip ci]"
+            git commit -m "Update deals and database [skip ci]"
             git push origin main
           fi
 
