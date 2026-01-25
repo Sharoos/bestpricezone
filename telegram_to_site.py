@@ -68,11 +68,11 @@ TG_API_HASH = os.environ.get("TG_API_HASH")
 TG_STRING_SESSION = os.environ.get("TG_STRING_SESSION")
 CHANNEL = os.environ.get("CHANNEL_USERNAME")
 
-TARGET_CARDS = int(os.environ.get("TARGET_CARDS", "500"))
+TARGET_CARDS = int(os.environ.get("TARGET_CARDS", "200"))
 MAX_SCAN_MESSAGES = int(os.environ.get("MAX_SCAN_MESSAGES", "3000"))
 
 # NEW: how many cards to keep on every run (default 200)
-MAX_KEEP = int(os.environ.get("MAX_KEEP", "500"))
+MAX_KEEP = int(os.environ.get("MAX_KEEP", "200"))
 
 CLEAN_IMAGES_ON_RUN = os.environ.get("CLEAN_IMAGES_ON_RUN", "1") == "1"
 CLEAN_DB_ON_RUN = os.environ.get("CLEAN_DB_ON_RUN", "0") == "1"
@@ -3034,4 +3034,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
