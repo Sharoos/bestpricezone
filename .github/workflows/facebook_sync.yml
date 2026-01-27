@@ -1,0 +1,44 @@
+name: Facebook Auto Post
+
+on:
+  push:
+    paths:
+      - 'assets/cards.json' # Triggers only when your Telegram script updates the data
+
+jobs:
+  post-to-fb:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Extract Latest Deal from JSON
+        id: deal
+        run: |
+          # 1. Path to your JSON file
+          JSON_FILE="assets/cards.json"
+          
+          # 2. Extract data using jq (raw output)
+          TITLE=$(jq -r '.[0].title' $JSON_FILE)
+          LINK=$(jq -r '.[0].buy_link' $JSON_FILE)
+          IMG_PATH=$(jq -r '.[0].local_image' $JSON_FILE)
+          
+          # 3. Construct the full URL for the image
+          # This assumes your site is hosted at bestpricezone.in
+          IMG_URL="https://bestpricezone.in/$IMG_PATH"
+          
+          # 4. Save to output variables for the next step
+          echo "title=$TITLE" >> $GITHUB_OUTPUT
+          echo "link=$LINK" >> $GITHUB_OUTPUT
+          echo "img=$IMG_URL" >> $GITHUB_OUTPUT
+
+      - name: Post to Facebook Page
+        run: |
+          # We wait 60 seconds to ensure the image is live on your website 
+          # so Facebook doesn't get a 404 error when trying to download it.
+          sleep 60
+          
+          curl -X POST "https://graph.facebook.com/v18.0/${{ secrets.FB_PAGE_ID }}/photos" \
+          -d "url=${{ steps.deal.outputs.img }}" \
+          -d "caption=${{ steps.deal.outputs.title }} %0A%0A🛒 Shop Now: ${{ steps.deal.outputs.link }} %0A%0A#BestPriceZone #Deals #Shopping" \
+          -d "access_token=${{ secrets.FB_PAGE_TOKEN }}"
