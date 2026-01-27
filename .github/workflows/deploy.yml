@@ -31,6 +31,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install telethon requests
+          sudo apt-get install jq -y # ADDED: Required to read the JSON deal data
 
       - name: Run site build script
         env:
@@ -39,34 +40,49 @@ jobs:
           TG_STRING_SESSION: ${{ secrets.TG_STRING_SESSION }}
           CHANNEL_USERNAME: ${{ secrets.CHANNEL_USERNAME }}
         run: |
-          # 1. Prevent Bot Mode override
           rm -f .env
-          
-          # 2. Set script parameters
           export HERO_BANNER=banner.jpg
           export HERO_HEIGHT=300px
           export MAX_KEEP=300
           export CLEAN_IMAGES_ON_RUN=0
-          
-          # 3. Execute
           python telegram_to_site.py
 
       - name: Commit and Push changes
+        id: git_commit # ADDED: ID so the next step knows if a deal was found
         if: ${{ github.event_name != 'pull_request' }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Force add the files that store your state and the new site
           git add -f assets/state.db assets/cards.json assets/images/ index.html || true
           
-          # Commit only if there are changes; [skip ci] prevents the action from triggering itself
           if git diff --staged --quiet; then
             echo "No new deals found. Skipping commit."
+            echo "pushed=false" >> $GITHUB_OUTPUT
           else
-            git commit -m "Update deals and database [skip ci]"
+            # REMOVED [skip ci] so the post logic can see the change
+            git commit -m "Update deals and database"
             git push origin main
+            echo "pushed=true" >> $GITHUB_OUTPUT
           fi
+
+      # --- NEW: FACEBOOK POSTING SECTION ---
+      - name: Post to Facebook
+        # Only runs if the previous step actually pushed a new deal
+        if: steps.git_commit.outputs.pushed == 'true'
+        run: |
+          echo "Waiting 60s for GitHub Pages to refresh the image..."
+          sleep 60
+          
+          # Read the latest deal from your cards.json
+          TITLE=$(jq -r '.[0].title' assets/cards.json)
+          LINK=$(jq -r '.[0].buy_link' assets/cards.json)
+          IMG_PATH=$(jq -r '.[0].local_image' assets/cards.json)
+          IMG_URL="https://bestpricezone.in/$IMG_PATH"
+          
+          curl -X POST "https://graph.facebook.com/v18.0/${{ secrets.FB_PAGE_ID }}/photos" \
+          -d "url=$IMG_URL" \
+          -d "caption=$TITLE %0A%0A🛒 Shop Now: $LINK %0A%0A#BestPriceZone #Deals" \
+          -d "access_token=${{ secrets.FB_PAGE_TOKEN }}"
 
       - name: Prepare site folder
         run: |
