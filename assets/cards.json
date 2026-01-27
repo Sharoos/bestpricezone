@@ -1,5 +1,73 @@
 [
   {
+    "id": "msg25306",
+    "title": "Cello Pack of 3 Casserole at 449",
+    "description": "Flipkart | Cello Pack of 3 Casserole at 449 https://fktr.in/Tq8rt9L",
+    "shortlink": "https://fktr.in/Tq8rt9L",
+    "urls": [
+      {
+        "url": "https://fktr.in/Tq8rt9L",
+        "label": "Cello Pack of 3 Casserole at 449"
+      }
+    ],
+    "raw_text": "Flipkart | Cello Pack of 3 Casserole at 449\n\n    https://fktr.in/Tq8rt9L",
+    "final_url": "https://fktr.in/Tq8rt9L",
+    "local_image": "assets/images/tgmsg_25306.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-27T16:55:41+00:00",
+    "buy_link": "https://fktr.in/Tq8rt9L",
+    "date_iso": "2026-01-27T16:55:41+00:00"
+  },
+  {
+    "id": "msg25307",
+    "title": "Offer Min 60 Percent Off",
+    "description": "Ajio | 💥 Gant 👉Offer: Min 60 Percent Off ⚡https://ajiio.in/9Fj1wRk 💥 Shein 👉Offer: Under Rs 399 ⚡https://ajiio.in/PW8btXz",
+    "shortlink": "https://ajiio.in/9Fj1wRk",
+    "urls": [
+      {
+        "url": "",
+        "label": "💥 Gant"
+      },
+      {
+        "url": "https://ajiio.in/9Fj1wRk",
+        "label": "Min 60 Percent Off"
+      },
+      {
+        "url": "https://ajiio.in/PW8btXz",
+        "label": "Under Rs 399"
+      }
+    ],
+    "raw_text": "Ajio | 💥 Gant \n👉Offer: Min 60 Percent Off \n⚡https://ajiio.in/9Fj1wRk\n\n💥 Shein \n👉Offer: Under Rs 399 \n⚡https://ajiio.in/PW8btXz",
+    "final_url": "https://ajiio.in/9Fj1wRk",
+    "local_image": "assets/images/tgmsg_25307.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-27T16:59:10+00:00",
+    "buy_link": "https://ajiio.in/9Fj1wRk",
+    "date_iso": "2026-01-27T16:59:10+00:00"
+  },
+  {
+    "id": "msg25308",
+    "title": "Branded Smartwatch Starts @ ₹1099",
+    "description": "Flipkart | Branded Smartwatch Starts @ ₹1099. 👉https://fktr.in/trlShNj",
+    "shortlink": "https://fktr.in/trlShNj",
+    "urls": [
+      {
+        "url": "https://fktr.in/trlShNj",
+        "label": "Branded Smartwatch Starts @ ₹1099"
+      }
+    ],
+    "raw_text": "Flipkart | Branded Smartwatch Starts @ ₹1099.\n\n👉https://fktr.in/trlShNj",
+    "final_url": "https://fktr.in/trlShNj",
+    "local_image": "assets/images/tgmsg_25308.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-27T16:59:14+00:00",
+    "buy_link": "https://fktr.in/trlShNj",
+    "date_iso": "2026-01-27T16:59:14+00:00"
+  },
+  {
     "id": "msg25304",
     "title": "Crazy Deals Min 50% Off On Top Brand",
     "description": "Ajio s • GAS : • Gap : • Superdry : • Tommy Hilfiger : • Steve Madden : • Gant : Extra 10% Ajio Cashback On Every Order (100% Usable)",
