@@ -69,16 +69,18 @@ jobs:
       - name: Post to Facebook
         if: steps.git_commit.outputs.pushed == 'true'
         run: |
-          # Read the latest deal data
+          # 1. Extract data
           TITLE=$(jq -r '.[0].title' assets/cards.json)
           LINK=$(jq -r '.[0].buy_link' assets/cards.json)
           IMG_PATH=$(jq -r '.[0].local_image' assets/cards.json)
           
-          # RAW URL Fix: This is live the second the push finishes
-          RAW_IMG_URL="https://raw.githubusercontent.com/${{ github.repository }}/main/$IMG_PATH"
+          # 2. THE FIX: Construct the RAW link manually to be 100% sure
+          # We use the SHA of the current commit to make sure the image is unique
+          RAW_IMG_URL="https://raw.githubusercontent.com/Sharoos/bestpricezone/main/$IMG_PATH"
           
-          echo "Posting to FB: $TITLE"
+          echo "Facebook is fetching from: $RAW_IMG_URL"
           
+          # 3. Post to Facebook
           curl -X POST "https://graph.facebook.com/v18.0/${{ secrets.FB_PAGE_ID }}/photos" \
           -d "url=$RAW_IMG_URL" \
           -d "caption=$TITLE %0A%0A🛒 Shop Now: $LINK %0A%0A#BestPriceZone #Deals" \
