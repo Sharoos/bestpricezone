@@ -69,22 +69,31 @@ jobs:
       - name: Post to Facebook
         if: steps.git_commit.outputs.pushed == 'true'
         run: |
-          # 1. Extract data
-          TITLE=$(jq -r '.[0].title' assets/cards.json)
-          LINK=$(jq -r '.[0].buy_link' assets/cards.json)
-          IMG_PATH=$(jq -r '.[0].local_image' assets/cards.json)
+          # 1. Get the number of new deals from the git diff
+          # This counts how many "title" lines were added to the JSON
+          NEW_COUNT=$(git diff HEAD^ HEAD assets/cards.json | grep '+    "title":' | wc -l)
           
-          # 2. THE FIX: Construct the RAW link manually to be 100% sure
-          # We use the SHA of the current commit to make sure the image is unique
-          RAW_IMG_URL="https://raw.githubusercontent.com/Sharoos/bestpricezone/main/$IMG_PATH"
-          
-          echo "Facebook is fetching from: $RAW_IMG_URL"
-          
-          # 3. Post to Facebook
-          curl -X POST "https://graph.facebook.com/v18.0/${{ secrets.FB_PAGE_ID }}/photos" \
-          -d "url=$RAW_IMG_URL" \
-          -d "caption=$TITLE %0A%0A🛒 Shop Now: $LINK %0A%0A#BestPriceZone #Deals" \
-          -d "access_token=${{ secrets.FB_PAGE_TOKEN }}"
+          echo "Found $NEW_COUNT new deals. Posting them to Facebook..."
+
+          # 2. Loop through each new deal (from newest to oldest)
+          # Note: index 0 is the newest.
+          for (( i=0; i<$NEW_COUNT; i++ ))
+          do
+            TITLE=$(jq -r ".[$i].title" assets/cards.json)
+            LINK=$(jq -r ".[$i].buy_link" assets/cards.json)
+            IMG_PATH=$(jq -r ".[$i].local_image" assets/cards.json)
+            IMG_URL="https://raw.githubusercontent.com/Sharoos/bestpricezone/main/$IMG_PATH"
+
+            echo "Posting ($((i+1))/$NEW_COUNT): $TITLE"
+
+            curl -X POST "https://graph.facebook.com/v18.0/${{ secrets.FB_PAGE_ID }}/photos" \
+            -d "url=$IMG_URL" \
+            -d "caption=$TITLE %0A%0A🛒 Shop Now: $LINK %0A%0A#BestPriceZone #Deals" \
+            -d "access_token=${{ secrets.FB_PAGE_TOKEN }}"
+            
+            # Small 2-second sleep between posts to prevent Facebook spam filters
+            sleep 2
+          done
 
       - name: Prepare site folder
         run: |
