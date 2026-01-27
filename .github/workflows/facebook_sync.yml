@@ -2,8 +2,11 @@ name: Facebook Auto Post
 
 on:
   push:
+    branches:
+      - main
     paths:
-      - 'assets/cards.json' # Triggers only when your Telegram script updates the data
+      - 'assets/cards.json' # The script only runs when this file is updated
+  workflow_dispatch: # This adds the "Run workflow" button in GitHub Actions!
 
 jobs:
   post-to-fb:
@@ -12,33 +15,27 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Extract Latest Deal from JSON
+      - name: Extract Data from JSON
         id: deal
         run: |
-          # 1. Path to your JSON file
-          JSON_FILE="assets/cards.json"
+          # Use jq to grab the latest deal (index 0)
+          TITLE=$(jq -r '.[0].title' assets/cards.json)
+          LINK=$(jq -r '.[0].buy_link' assets/cards.json)
+          IMG_PATH=$(jq -r '.[0].local_image' assets/cards.json)
           
-          # 2. Extract data using jq (raw output)
-          TITLE=$(jq -r '.[0].title' $JSON_FILE)
-          LINK=$(jq -r '.[0].buy_link' $JSON_FILE)
-          IMG_PATH=$(jq -r '.[0].local_image' $JSON_FILE)
-          
-          # 3. Construct the full URL for the image
-          # This assumes your site is hosted at bestpricezone.in
+          # Construct the absolute URL for the image
           IMG_URL="https://bestpricezone.in/$IMG_PATH"
           
-          # 4. Save to output variables for the next step
           echo "title=$TITLE" >> $GITHUB_OUTPUT
           echo "link=$LINK" >> $GITHUB_OUTPUT
           echo "img=$IMG_URL" >> $GITHUB_OUTPUT
 
-      - name: Post to Facebook Page
+      - name: Post to Facebook
         run: |
-          # We wait 60 seconds to ensure the image is live on your website 
-          # so Facebook doesn't get a 404 error when trying to download it.
+          # Wait 60 seconds for GitHub Pages to deploy the image
           sleep 60
           
           curl -X POST "https://graph.facebook.com/v18.0/${{ secrets.FB_PAGE_ID }}/photos" \
           -d "url=${{ steps.deal.outputs.img }}" \
-          -d "caption=${{ steps.deal.outputs.title }} %0A%0A🛒 Shop Now: ${{ steps.deal.outputs.link }} %0A%0A#BestPriceZone #Deals #Shopping" \
+          -d "caption=${{ steps.deal.outputs.title }} %0A%0A🛒 Shop Now: ${{ steps.deal.outputs.link }} %0A%0A#BestPriceZone #Deals" \
           -d "access_token=${{ secrets.FB_PAGE_TOKEN }}"
