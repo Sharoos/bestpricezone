@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg25271",
+    "title": "Grocery Up to 92% Off",
+    "description": "Flipkart Grocery Loot : Upto 92% Off Link 1 : Link 2 : Link 3 : Check All Locations",
+    "shortlink": "https://fktr.in/X8ec9r6",
+    "urls": [
+      {
+        "url": "https://fktr.in/X8ec9r6",
+        "label": "Upto 92% Off"
+      },
+      {
+        "url": "https://fktr.in/jU84snq",
+        "label": "Upto 92% Off"
+      },
+      {
+        "url": "https://fktr.in/pdY3OyN",
+        "label": "Upto 92% Off"
+      },
+      {
+        "url": "",
+        "label": "Check All Locations"
+      }
+    ],
+    "raw_text": "Flipkart Grocery Loot : Upto 92% Off\n\nLink 1 :   https://fktr.in/X8ec9r6\nLink 2 :   https://fktr.in/jU84snq\nLink 3 :   https://fktr.in/pdY3OyN\n\nCheck All Locations",
+    "final_url": "https://fktr.in/X8ec9r6",
+    "local_image": "assets/images/tgmsg_25271.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-01-27T07:31:29+00:00",
+    "buy_link": "https://fktr.in/X8ec9r6",
+    "date_iso": "2026-01-27T07:31:29+00:00"
+  },
+  {
     "id": "msg25269",
     "title": "Fitness Hand Grips @ ₹199",
     "description": "Shopsy Deals – Budget Picks 🔥 Chargers @ ₹195  Mop Sets @ ₹370 Wallet, Belt & Combo @ ₹135 Men’s Shirts @ ₹222 Floral Kurtis @ ₹299 Shop All:",
