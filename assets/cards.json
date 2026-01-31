@@ -1,5 +1,77 @@
 [
   {
+    "id": "msg25521",
+    "title": "Min. 70% Off On USPA Clothing",
+    "description": "Ajio | Min. 70% Off On USPA Clothing. Men's : https://ajiio.co/Iy8EBR Women’s : https://ajiio.co/YCWGgm",
+    "shortlink": "https://ajiio.co/Iy8EBR",
+    "urls": [
+      {
+        "url": "",
+        "label": "Min. 70% Off On USPA Clothing"
+      },
+      {
+        "url": "https://ajiio.co/Iy8EBR",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/YCWGgm",
+        "label": "Women’s"
+      }
+    ],
+    "raw_text": "Ajio | Min. 70% Off On USPA Clothing.\n\nMen's : https://ajiio.co/Iy8EBR\nWomen’s : https://ajiio.co/YCWGgm",
+    "final_url": "https://ajiio.co/Iy8EBR",
+    "local_image": "assets/images/tgmsg_25521.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-31T18:03:01+00:00",
+    "buy_link": "https://ajiio.co/Iy8EBR",
+    "date_iso": "2026-01-31T18:03:01+00:00"
+  },
+  {
+    "id": "msg25522",
+    "title": "Yatra x Woohoo Get ₹2000 Yatra HOTEL Gift Card @89",
+    "description": "Loot : Yatra x Woohoo | Get ₹2000 Yatra HOTEL Gift Card @89 Link : Apply Coupon : FLAT89 Note : EGV is Valid for booking of Domestic Hotels Only.",
+    "shortlink": "https://bitli.in/SqUqzq8",
+    "urls": [
+      {
+        "url": "https://bitli.in/SqUqzq8",
+        "label": "Yatra x Woohoo | Get ₹2000 Yatra HOTEL Gift Card @89"
+      }
+    ],
+    "raw_text": "Loot : Yatra x Woohoo | Get ₹2000 Yatra HOTEL Gift Card @89\n \nLink : https://bitli.in/SqUqzq8\n\nApply Coupon : FLAT89\n\nNote : EGV is Valid for booking of Domestic Hotels Only.",
+    "final_url": "https://bitli.in/SqUqzq8",
+    "local_image": "assets/images/tgmsg_25522.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2026-01-31T18:13:47+00:00",
+    "buy_link": "https://bitli.in/SqUqzq8",
+    "date_iso": "2026-01-31T18:13:47+00:00"
+  },
+  {
+    "id": "msg25523",
+    "title": "Up to 80% Off On Men segment only",
+    "description": "Ajio | Upto 80% Off On Men segment only 👉Link : 👉Earn 10% AJIO Super Cash on Every Order",
+    "shortlink": "https://ajiio.co/HV1neM",
+    "urls": [
+      {
+        "url": "https://ajiio.co/HV1neM",
+        "label": "Upto 80% Off On Men segment only"
+      },
+      {
+        "url": "",
+        "label": "Earn 10% AJIO Super Cash on Every Order"
+      }
+    ],
+    "raw_text": "Ajio | Upto 80% Off On Men segment only\n\n👉Link : https://ajiio.co/HV1neM\n\n👉Earn 10% AJIO Super Cash on Every Order",
+    "final_url": "https://ajiio.co/HV1neM",
+    "local_image": "assets/images/tgmsg_25523.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-01-31T18:29:07+00:00",
+    "buy_link": "https://ajiio.co/HV1neM",
+    "date_iso": "2026-01-31T18:29:07+00:00"
+  },
+  {
     "id": "msg25520",
     "title": "Up to 85% Off on Mosquito Net",
     "description": "Flipkart | Upto 85% Off on Mosquito Nets https://fkrt.co/yOUPrj",
