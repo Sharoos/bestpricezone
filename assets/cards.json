@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg25641",
+    "title": "🎁 Deal Price ₹445",
+    "description": "Amazon | Eveready 9W LED Bulb, Cool Day Light (6500K), B22 Base - Pack of 10 🎁 Deal Price : ₹445 Buy Here :",
+    "shortlink": "https://www.amazon.in/dp/B0743BLWWD?th=1&ck&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Eveready 9W LED Bulb, Cool Day Light (6500K), B22 Base - Pack of 10"
+      },
+      {
+        "url": "",
+        "label": "🎁 Deal Price : ₹445"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0743BLWWD?th=1&ck&tag=bestpricezo0f-21",
+        "label": "Here"
+      }
+    ],
+    "raw_text": "Amazon | Eveready 9W LED Bulb, Cool Day Light (6500K), B22 Base - Pack of 10\n\n🎁 Deal Price : ₹445\n\nBuy Here : https://www.amazon.in/dp/B0743BLWWD?th=1&ck&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0743BLWWD?th=1&ck&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_25641.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-01T15:56:38+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0743BLWWD?th=1&ck&tag=bestpricezo0f-21",
+    "date_iso": "2026-02-01T15:56:38+00:00"
+  },
+  {
+    "id": "msg25642",
+    "title": "More Up to 90% off",
+    "description": "Flipkart ✅  Vokka Perfume (100 ml) @ 203 https://fkrt.co/jyq2FN 245   https://fkrt.co/FnX2oo More Upto 90% off :   https://fkrt.co/C7CqjY",
+    "shortlink": "https://fkrt.co/jyq2FN",
+    "urls": [
+      {
+        "url": "https://fkrt.co/jyq2FN",
+        "label": "Flipkart ✅ Vokka Perfume (100 ml) @ 203"
+      },
+      {
+        "url": "https://fkrt.co/FnX2oo",
+        "label": "245"
+      },
+      {
+        "url": "https://fkrt.co/C7CqjY",
+        "label": "More Upto 90% off"
+      }
+    ],
+    "raw_text": "Flipkart ✅  Vokka Perfume (100 ml) @ 203\n\n   https://fkrt.co/jyq2FN\n245   https://fkrt.co/FnX2oo\n\nMore Upto 90% off :   https://fkrt.co/C7CqjY",
+    "final_url": "https://fkrt.co/jyq2FN",
+    "local_image": "assets/images/tgmsg_25642.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-01T16:11:29+00:00",
+    "buy_link": "https://fkrt.co/jyq2FN",
+    "date_iso": "2026-02-01T16:11:29+00:00"
+  },
+  {
     "id": "msg25636",
     "title": "Up to 52% Off On Titan Watche",
     "description": "Flipkart | Upto 52% Off On Titan Watches. https://fkrt.co/9oH37Y",
@@ -9814,93 +9870,5 @@
     "date_obj": "2026-01-23T15:27:18+00:00",
     "buy_link": "https://fktr.in/zNvr10H",
     "date_iso": "2026-01-23T15:27:18+00:00"
-  },
-  {
-    "id": "msg25149",
-    "title": "ONDC Up to 85% Off On TMC Products + Free Shipping 🔥🔥",
-    "description": "ONDC Upto 85% Off On TMC Products + Free Shipping 🔥🔥 Use code : DEAL65 [Multiple times Apply] 80% off : Eau De Parfum (Pack Of 2) @ Rs.104 : 75% off : TMC Body Deodorant @ 71 : 70% off : Tan Removal Face Scrub @ 85 :…",
-    "shortlink": "https://extp.in/rWyvZ6",
-    "urls": [
-      {
-        "url": "",
-        "label": "ONDC Upto 85% Off On TMC Products + Free Shipping 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "DEAL65 [Multiple times Apply]"
-      },
-      {
-        "url": "https://extp.in/rWyvZ6",
-        "label": "80% off : Eau De Parfum (Pack Of 2) @ Rs.104"
-      },
-      {
-        "url": "https://extp.in/UgIabv",
-        "label": "75% off : TMC Body Deodorant @ 71"
-      },
-      {
-        "url": "https://extp.in/hZk9l0",
-        "label": "70% off : Tan Removal Face Scrub @ 85"
-      },
-      {
-        "url": "https://extp.in/uG9EiR",
-        "label": "70% off : TMC Deodorant Rollon @ 99"
-      },
-      {
-        "url": "https://extp.in/m0DyAC",
-        "label": "79% off : Eau De Parfum (EDP) @ 125"
-      },
-      {
-        "url": "https://extp.in/sAoQER",
-        "label": "92% off : TMC Eau De Toilette (EDT)@ 199"
-      }
-    ],
-    "raw_text": "ONDC  Upto 85% Off On TMC Products + Free Shipping 🔥🔥\n\nUse code : DEAL65 [Multiple times Apply]\n\n80% off : Eau De Parfum (Pack Of 2) @ Rs.104 : https://extp.in/rWyvZ6\n75% off : TMC Body  Deodorant  @ 71 : https://extp.in/UgIabv\n70% off : Tan Removal Face Scrub @ 85 : https://extp.in/hZk9l0\n70% off : TMC Deodorant Rollon @ 99 : https://extp.in/uG9EiR\n79% off : Eau De Parfum (EDP) @ 125 : https://extp.in/m0DyAC\n92% off : TMC Eau De Toilette (EDT)@ 199 : https://extp.in/sAoQER",
-    "final_url": "https://extp.in/rWyvZ6",
-    "local_image": "assets/images/tgmsg_25149.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-23T15:28:56+00:00",
-    "buy_link": "https://extp.in/rWyvZ6",
-    "date_iso": "2026-01-23T15:28:56+00:00"
-  },
-  {
-    "id": "msg25150",
-    "title": "Up to 75% Off On Chemistry Women's Clothing",
-    "description": "Flipkart | Upto 75% Off On Chemistry Women's Clothing. Topwear : Bottomwear : Dresses : Blazers : Co-Ords :",
-    "shortlink": "https://fkrt.co/Tarq6B",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 75% Off On Chemistry Women's Clothing"
-      },
-      {
-        "url": "https://fkrt.co/Tarq6B",
-        "label": "Topwear"
-      },
-      {
-        "url": "https://fkrt.co/ehSuWd",
-        "label": "Bottomwear"
-      },
-      {
-        "url": "https://fkrt.co/Jq1Jzd",
-        "label": "Dresses"
-      },
-      {
-        "url": "https://fkrt.co/RJ80Zz",
-        "label": "Blazers"
-      },
-      {
-        "url": "https://fkrt.co/NLGjwn",
-        "label": "Ords"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 75% Off On Chemistry Women's Clothing.\n\nTopwear : https://fkrt.co/Tarq6B\nBottomwear : https://fkrt.co/ehSuWd\nDresses : https://fkrt.co/Jq1Jzd\nBlazers : https://fkrt.co/RJ80Zz\nCo-Ords : https://fkrt.co/NLGjwn",
-    "final_url": "https://fkrt.co/Tarq6B",
-    "local_image": "assets/images/tgmsg_25150.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-23T15:41:21+00:00",
-    "buy_link": "https://fkrt.co/Tarq6B",
-    "date_iso": "2026-01-23T15:41:21+00:00"
   }
 ]
