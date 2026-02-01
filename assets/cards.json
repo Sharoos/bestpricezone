@@ -1,5 +1,137 @@
 [
   {
+    "id": "msg25581",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
+    "description": "Ajio | Beauty and Personal Care Under 399 👉Link : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/jcqEP0",
+    "urls": [
+      {
+        "url": "https://ajiio.co/jcqEP0",
+        "label": "Beauty and Personal Care Under 399"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "Ajio | Beauty and Personal Care Under 399\n\n👉Link : https://ajiio.co/jcqEP0\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/jcqEP0",
+    "local_image": "assets/images/tgmsg_25581.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-01T07:11:04+00:00",
+    "buy_link": "https://ajiio.co/jcqEP0",
+    "date_iso": "2026-02-01T07:11:04+00:00"
+  },
+  {
+    "id": "msg25582",
+    "title": "KUHL BLDC Ceiling Fan With Remote @₹2199",
+    "description": "Amazon | KUHL BLDC Ceiling Fan With Remote @₹2199 👉 https://www.amazon.in/dp/B0FVX4TVMR?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FVX4TVMR?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FVX4TVMR?tag=bestpricezo0f-21",
+        "label": "KUHL BLDC Ceiling Fan With Remote @₹2199"
+      }
+    ],
+    "raw_text": "Amazon | KUHL BLDC Ceiling Fan With Remote @₹2199\n\n👉 https://www.amazon.in/dp/B0FVX4TVMR?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FVX4TVMR?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_25582.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-01T07:25:53+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FVX4TVMR?tag=bestpricezo0f-21",
+    "date_iso": "2026-02-01T07:25:53+00:00"
+  },
+  {
+    "id": "msg25583",
+    "title": "🧥 Winterwear Deals Starting at ₹231",
+    "description": "Flipkart | 🧥 Winterwear Deals Starting at ₹231 Extra Discount Using Supercoins Women : https://fkrt.co/O6F9Mp Men : https://fkrt.co/iunC8F",
+    "shortlink": "https://fkrt.co/O6F9Mp",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧥 Winterwear Deals Starting at ₹231"
+      },
+      {
+        "url": "",
+        "label": "Extra Discount Using Supercoins"
+      },
+      {
+        "url": "https://fkrt.co/O6F9Mp",
+        "label": "Women"
+      },
+      {
+        "url": "https://fkrt.co/iunC8F",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "Flipkart | 🧥 Winterwear Deals Starting at ₹231\n\nExtra Discount Using Supercoins\n\nWomen : https://fkrt.co/O6F9Mp\nMen : https://fkrt.co/iunC8F",
+    "final_url": "https://fkrt.co/O6F9Mp",
+    "local_image": "assets/images/tgmsg_25583.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-01T07:41:07+00:00",
+    "buy_link": "https://fkrt.co/O6F9Mp",
+    "date_iso": "2026-02-01T07:41:07+00:00"
+  },
+  {
+    "id": "msg25584",
+    "title": "Shirts @1099",
+    "description": "Bewakoof: Buy 2 Oversized T-Shirts @1099 https://extp.in/AOYEO9 Men's: https://extp.in/BFn1ti Women's: https://extp.in/KgKgg1",
+    "shortlink": "https://extp.in/AOYEO9",
+    "urls": [
+      {
+        "url": "https://extp.in/AOYEO9",
+        "label": ""
+      },
+      {
+        "url": "https://extp.in/BFn1ti",
+        "label": "Men's"
+      },
+      {
+        "url": "https://extp.in/KgKgg1",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Bewakoof: Buy 2 Oversized T-Shirts @1099\n\nhttps://extp.in/AOYEO9\n\nMen's: https://extp.in/BFn1ti\nWomen's: https://extp.in/KgKgg1",
+    "final_url": "https://extp.in/AOYEO9",
+    "local_image": "assets/images/tgmsg_25584.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-02-01T07:46:19+00:00",
+    "buy_link": "https://extp.in/AOYEO9",
+    "date_iso": "2026-02-01T07:46:19+00:00"
+  },
+  {
+    "id": "msg25585",
+    "title": "Shirts @1099",
+    "description": "Bewakoof: Buy 2 Oversized T-Shirts @1099 https://bitli.in/mwzl7pg Men's: https://bitli.in/f4A48nP Women's: https://bitli.in/t1Z85a1",
+    "shortlink": "https://bitli.in/mwzl7pg",
+    "urls": [
+      {
+        "url": "https://bitli.in/mwzl7pg",
+        "label": ""
+      },
+      {
+        "url": "https://bitli.in/f4A48nP",
+        "label": "Men's"
+      },
+      {
+        "url": "https://bitli.in/t1Z85a1",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "Bewakoof: Buy 2 Oversized T-Shirts @1099\n\nhttps://bitli.in/mwzl7pg\n\nMen's: https://bitli.in/f4A48nP\nWomen's: https://bitli.in/t1Z85a1",
+    "final_url": "https://bitli.in/mwzl7pg",
+    "local_image": "assets/images/tgmsg_25585.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2026-02-01T07:46:52+00:00",
+    "buy_link": "https://bitli.in/mwzl7pg",
+    "date_iso": "2026-02-01T07:46:52+00:00"
+  },
+  {
     "id": "msg25574",
     "title": "Up to 80% Off On Men segment only",
     "description": "Ajio | Upto 80% Off On Men segment only 👉Link : 👉Earn 10% AJIO Super Cash on Every Order",
@@ -9882,145 +10014,5 @@
     "date_obj": "2026-01-24T08:03:27+00:00",
     "buy_link": "https://ajiio.co/d6wYRJ",
     "date_iso": "2026-01-24T08:03:27+00:00"
-  },
-  {
-    "id": "msg25193",
-    "title": "➡️ Mens Track Pants At 105",
-    "description": "Shopsy Deals 🔥🔥 ➡️ Men's Tshirt At 65 : ➡️ Mens Sweatshirts At 85: ➡️ Men's Shirt At 102 :  : ➡️ Men's Kurtas At 167 : ➡️ Mens Jeans At 198 :",
-    "shortlink": "https://extp.in/aTXfLg",
-    "urls": [
-      {
-        "url": "",
-        "label": "Shopsy Deals 🔥🔥"
-      },
-      {
-        "url": "https://extp.in/aTXfLg",
-        "label": "➡️ Men's Tshirt At 65"
-      },
-      {
-        "url": "https://extp.in/7u9FoL",
-        "label": "➡️ Mens Sweatshirts At 85"
-      },
-      {
-        "url": "https://extp.in/WQVWWo",
-        "label": "➡️ Men's Shirt At 102"
-      },
-      {
-        "url": "https://extp.in/G5rPxE",
-        "label": "➡️ Mens Track Pants At 105"
-      },
-      {
-        "url": "https://extp.in/YLGnKJ",
-        "label": "➡️ Men's Kurtas At 167"
-      },
-      {
-        "url": "https://extp.in/pQxLnz",
-        "label": "➡️ Mens Jeans At 198"
-      }
-    ],
-    "raw_text": "Shopsy  Deals 🔥🔥\n\n➡️ Men's Tshirt At 65 : https://extp.in/aTXfLg\n➡️ Mens Sweatshirts At 85: https://extp.in/7u9FoL\n➡️ Men's Shirt At 102 : https://extp.in/WQVWWo\n➡️ Mens Track Pants At 105 : https://extp.in/G5rPxE\n➡️ Men's Kurtas At 167 : https://extp.in/YLGnKJ\n➡️ Mens Jeans At 198 : https://extp.in/pQxLnz",
-    "final_url": "https://extp.in/aTXfLg",
-    "local_image": "assets/images/tgmsg_25193.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-24T08:32:07+00:00",
-    "buy_link": "https://extp.in/aTXfLg",
-    "date_iso": "2026-01-24T08:32:07+00:00"
-  },
-  {
-    "id": "msg25194",
-    "title": "Clothing Starts @80",
-    "description": "AJIO : Clothing Starts @80 Tshirt : https://ajiio.in/XlniPnz Shirt : https://ajiio.in/jn6zQYH Jeans : https://ajiio.in/j6LztiD",
-    "shortlink": "https://ajiio.in/XlniPnz",
-    "urls": [
-      {
-        "url": "",
-        "label": "Clothing Starts @80"
-      },
-      {
-        "url": "https://ajiio.in/XlniPnz",
-        "label": "Tshirt"
-      },
-      {
-        "url": "https://ajiio.in/jn6zQYH",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://ajiio.in/j6LztiD",
-        "label": "Jeans"
-      }
-    ],
-    "raw_text": "AJIO : Clothing Starts @80\n\nTshirt : https://ajiio.in/XlniPnz\nShirt : https://ajiio.in/jn6zQYH\nJeans : https://ajiio.in/j6LztiD",
-    "final_url": "https://ajiio.in/XlniPnz",
-    "local_image": "assets/images/tgmsg_25194.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-24T08:35:40+00:00",
-    "buy_link": "https://ajiio.in/XlniPnz",
-    "date_iso": "2026-01-24T08:35:40+00:00"
-  },
-  {
-    "id": "msg25195",
-    "title": "🔥🔥 @₹199",
-    "description": "🔥🔥GRAB @₹199 ➡️https://bitli.in/6LztyuB",
-    "shortlink": "https://bitli.in/6LztyuB",
-    "urls": [
-      {
-        "url": "https://bitli.in/6LztyuB",
-        "label": "🔥🔥GRAB @₹199"
-      }
-    ],
-    "raw_text": "🔥🔥GRAB @₹199\n\n➡️https://bitli.in/6LztyuB",
-    "final_url": "https://bitli.in/6LztyuB",
-    "local_image": "assets/images/tgmsg_25195.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-01-24T08:37:47+00:00",
-    "buy_link": "https://bitli.in/6LztyuB",
-    "date_iso": "2026-01-24T08:37:47+00:00"
-  },
-  {
-    "id": "msg25196",
-    "title": "Weighing Scales Up to 60% Off",
-    "description": "Flipkart | Weighing Scales  Upto 60% Off 👉https://fkrt.co/Hz1js7",
-    "shortlink": "https://fkrt.co/Hz1js7",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Hz1js7",
-        "label": "Weighing Scales Upto 60% Off"
-      }
-    ],
-    "raw_text": "Flipkart | Weighing Scales  Upto 60% Off\n\n👉https://fkrt.co/Hz1js7",
-    "final_url": "https://fkrt.co/Hz1js7",
-    "local_image": "assets/images/tgmsg_25196.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-24T08:46:05+00:00",
-    "buy_link": "https://fkrt.co/Hz1js7",
-    "date_iso": "2026-01-24T08:46:05+00:00"
-  },
-  {
-    "id": "msg25208",
-    "title": "🔥 Gardening Tool Kit (Pack Of 5) @ ₹195",
-    "description": "🔥  Gardening Tool Kit (Pack Of 5) @ ₹195 🔗 https://bitli.in/YyZrU35 More : 🔗 https://bitli.in/y91sl3H",
-    "shortlink": "https://bitli.in/YyZrU35",
-    "urls": [
-      {
-        "url": "https://bitli.in/YyZrU35",
-        "label": "🔥 Gardening Tool Kit (Pack Of 5) @ ₹195"
-      },
-      {
-        "url": "https://bitli.in/y91sl3H",
-        "label": "🔗"
-      }
-    ],
-    "raw_text": "🔥  Gardening Tool Kit (Pack Of 5) @ ₹195\n\n🔗 https://bitli.in/YyZrU35\n\nMore : 🔗 https://bitli.in/y91sl3H",
-    "final_url": "https://bitli.in/YyZrU35",
-    "local_image": "assets/images/tgmsg_25208.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-01-24T12:43:46+00:00",
-    "buy_link": "https://bitli.in/YyZrU35",
-    "date_iso": "2026-01-24T12:43:46+00:00"
   }
 ]
