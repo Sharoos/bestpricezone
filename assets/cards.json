@@ -1,5 +1,97 @@
 [
   {
+    "id": "msg25590",
+    "title": "Shopsy Valentine Day's Deals Starting at 5",
+    "description": "Shopsy: Valentine Day's Deals Starting at 5 Link: Teddy Bear: Chocolate: Gift Hampers: Coffee Mug:",
+    "shortlink": "https://bitli.in/nLiyhJu",
+    "urls": [
+      {
+        "url": "https://bitli.in/nLiyhJu",
+        "label": "Valentine Day's Deals Starting at 5"
+      },
+      {
+        "url": "https://bitli.in/3RagaHm",
+        "label": "Teddy Bear"
+      },
+      {
+        "url": "https://bitli.in/yGjwt2r",
+        "label": "Chocolate"
+      },
+      {
+        "url": "https://bitli.in/3HqH1jd",
+        "label": "Gift Hampers"
+      },
+      {
+        "url": "https://bitli.in/9hv1DB9",
+        "label": "Coffee Mug"
+      }
+    ],
+    "raw_text": "Shopsy: Valentine Day's Deals Starting at 5\n\nLink: https://bitli.in/nLiyhJu\n\nTeddy Bear: https://bitli.in/3RagaHm\nChocolate: https://bitli.in/yGjwt2r\nGift Hampers: https://bitli.in/3HqH1jd\nCoffee Mug: https://bitli.in/9hv1DB9",
+    "final_url": "https://bitli.in/nLiyhJu",
+    "local_image": "assets/images/tgmsg_25590.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2026-02-01T08:37:28+00:00",
+    "buy_link": "https://bitli.in/nLiyhJu",
+    "date_iso": "2026-02-01T08:37:28+00:00"
+  },
+  {
+    "id": "msg25591",
+    "title": "Shopsy Valentine Day's Deals Starting at 5",
+    "description": "Shopsy: Valentine Day's Deals Starting at 5 Link: Teddy Bear: Chocolate: Gift Hampers: Coffee Mug:",
+    "shortlink": "https://extp.in/PUXhri",
+    "urls": [
+      {
+        "url": "https://extp.in/PUXhri",
+        "label": "Valentine Day's Deals Starting at 5"
+      },
+      {
+        "url": "https://extp.in/cre9Cd",
+        "label": "Teddy Bear"
+      },
+      {
+        "url": "https://extp.in/q44sWb",
+        "label": "Chocolate"
+      },
+      {
+        "url": "https://extp.in/MdSCtn",
+        "label": "Gift Hampers"
+      },
+      {
+        "url": "https://extp.in/Y3KLeF",
+        "label": "Coffee Mug"
+      }
+    ],
+    "raw_text": "Shopsy: Valentine Day's Deals Starting at 5\n\nLink: https://extp.in/PUXhri\n\nTeddy Bear: https://extp.in/cre9Cd\nChocolate: https://extp.in/q44sWb\nGift Hampers: https://extp.in/MdSCtn\nCoffee Mug: https://extp.in/Y3KLeF",
+    "final_url": "https://extp.in/PUXhri",
+    "local_image": "assets/images/tgmsg_25591.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-02-01T08:39:08+00:00",
+    "buy_link": "https://extp.in/PUXhri",
+    "date_iso": "2026-02-01T08:39:08+00:00"
+  },
+  {
+    "id": "msg25592",
+    "title": "86% Off",
+    "description": "Flipkart | 86% Off -Earboss TWS EARBUDS Rs.367 🛒 https://fkrt.co/DWe9rF",
+    "shortlink": "https://fkrt.co/DWe9rF",
+    "urls": [
+      {
+        "url": "https://fkrt.co/DWe9rF",
+        "label": "86% Off -Earboss TWS EARBUDS Rs.367"
+      }
+    ],
+    "raw_text": "Flipkart | 86% Off -Earboss TWS EARBUDS Rs.367\n\n🛒 https://fkrt.co/DWe9rF",
+    "final_url": "https://fkrt.co/DWe9rF",
+    "local_image": "assets/images/tgmsg_25592.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-01T08:41:19+00:00",
+    "buy_link": "https://fkrt.co/DWe9rF",
+    "date_iso": "2026-02-01T08:41:19+00:00"
+  },
+  {
     "id": "msg25586",
     "title": "Veeba Eggless Mayonnaise (875g) @146",
     "description": "Amazon | Veeba Eggless Mayonnaise (875g) @146 👉 https://www.amazon.in/dp/B079953Q1Y?psc=1&th=1&tag=bestpricezo0f-21 Veeba Chef's Special Veg Mayonnaise (750g) @155 👉…",
@@ -9858,101 +9950,5 @@
     "date_obj": "2026-01-24T06:18:13+00:00",
     "buy_link": "https://fkrt.co/Tc8Rpv",
     "date_iso": "2026-01-24T06:18:13+00:00"
-  },
-  {
-    "id": "msg25186",
-    "title": "Wonderchef Electric Kettle 1.5 Ltr @549",
-    "description": "Amazon | Wonderchef Electric Kettle | 1.5 Ltr @549. https://www.amazon.in/dp/B0DRVZBH4S?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DRVZBH4S?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DRVZBH4S?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Wonderchef Electric Kettle | 1.5 Ltr @549"
-      }
-    ],
-    "raw_text": "Amazon | Wonderchef Electric Kettle | 1.5 Ltr @549. \n\nhttps://www.amazon.in/dp/B0DRVZBH4S?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DRVZBH4S?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_25186.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-01-24T06:31:22+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DRVZBH4S?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-01-24T06:31:22+00:00"
-  },
-  {
-    "id": "msg25187",
-    "title": "✔️₹500 Instant Discount",
-    "description": "🔥 TimesPrime – 1 Year @ ₹0 + ₹50 Profit 🔥 💳 Pay ₹799 via Credit Card 🏷 Apply Code : TPEP50 (Mandatory) 🔗Link : 💰 You Get Back :  ✔️₹400 Amazon Gift Card ✔️₹50 Card Offer 👉 Total = ₹950 🎁 SonyLIV, Spotify, Swiggy One,…",
-    "shortlink": "https://extp.in/f3TKR6",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 TimesPrime – 1 Year @ ₹0 + ₹50 Profit 🔥"
-      },
-      {
-        "url": "",
-        "label": "💳 Pay ₹799 via Credit Card"
-      },
-      {
-        "url": "https://extp.in/f3TKR6",
-        "label": "🏷 Apply Code : TPEP50 (Mandatory)"
-      },
-      {
-        "url": "",
-        "label": "💰 You Get Back"
-      },
-      {
-        "url": "",
-        "label": "✔️₹500 Instant Discount"
-      },
-      {
-        "url": "",
-        "label": "✔️₹400 Amazon Gift Card"
-      },
-      {
-        "url": "",
-        "label": "✔️₹50 Card Offer"
-      },
-      {
-        "url": "",
-        "label": "Total = ₹950"
-      },
-      {
-        "url": "",
-        "label": "🎁 SonyLIV, Spotify, Swiggy One, Lenskart Gold & more!"
-      },
-      {
-        "url": "",
-        "label": "🎉 Effectively FREE"
-      }
-    ],
-    "raw_text": "🔥 TimesPrime  – 1 Year @ ₹0 + ₹50 Profit 🔥\n\n💳 Pay ₹799 via Credit Card\n🏷 Apply Code : TPEP50 (Mandatory)\n\n🔗Link : https://extp.in/f3TKR6\n\n💰 You Get Back :\n✔️₹500 Instant Discount\n✔️₹400 Amazon Gift Card\n✔️₹50 Card Offer\n👉 Total = ₹950\n\n🎁 SonyLIV, Spotify, Swiggy One, Lenskart Gold & more!\n\n🎉 Effectively FREE",
-    "final_url": "https://extp.in/f3TKR6",
-    "local_image": "assets/images/tgmsg_25187.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-24T06:31:34+00:00",
-    "buy_link": "https://extp.in/f3TKR6",
-    "date_iso": "2026-01-24T06:31:34+00:00"
-  },
-  {
-    "id": "msg25188",
-    "title": "ord Set From ₹251",
-    "description": "Shopsy | 🔥  Co-ord Set From ₹251 🔗 https://extp.in/Oh2GvY",
-    "shortlink": "https://extp.in/Oh2GvY",
-    "urls": [
-      {
-        "url": "https://extp.in/Oh2GvY",
-        "label": "🔥 Co-ord Set From ₹251"
-      }
-    ],
-    "raw_text": "Shopsy | 🔥  Co-ord Set From ₹251\n\n🔗 https://extp.in/Oh2GvY",
-    "final_url": "https://extp.in/Oh2GvY",
-    "local_image": "assets/images/tgmsg_25188.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-24T07:21:28+00:00",
-    "buy_link": "https://extp.in/Oh2GvY",
-    "date_iso": "2026-01-24T07:21:28+00:00"
   }
 ]
