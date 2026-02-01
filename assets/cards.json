@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg25646",
+    "title": "Up to 84% Off On Safari Suitcase",
+    "description": "Flipkart | Upto 84% Off On Safari Suitcases 👉Link : https://fkrt.co/Uy4zIT",
+    "shortlink": "https://fkrt.co/Uy4zIT",
+    "urls": [
+      {
+        "url": "https://fkrt.co/Uy4zIT",
+        "label": "Upto 84% Off On Safari Suitcases"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 84% Off On Safari Suitcases\n\n👉Link : https://fkrt.co/Uy4zIT",
+    "final_url": "https://fkrt.co/Uy4zIT",
+    "local_image": "assets/images/tgmsg_25646.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-01T17:41:39+00:00",
+    "buy_link": "https://fkrt.co/Uy4zIT",
+    "date_iso": "2026-02-01T17:41:39+00:00"
+  },
+  {
     "id": "msg25643",
     "title": "Up to 85% Off On Red Tape Shoe",
     "description": "AJIO : Upto 85% Off On Red Tape Shoes Men's : Women's : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
@@ -9786,49 +9806,5 @@
     "date_obj": "2026-01-23T15:00:13+00:00",
     "buy_link": "https://bitli.in/zxyGLvU",
     "date_iso": "2026-01-23T15:00:13+00:00"
-  },
-  {
-    "id": "msg25145",
-    "title": "🔥GROCERY DEALS – STARTING FROM ₹21",
-    "description": "🔥GROCERY DEALS – STARTING FROM ₹21 Rs.25 :  https://fkrt.co/agQzv7 Rs.21 :  https://fkrt.co/e3sgdS Rs.25 :  https://fkrt.co/rtZVIp Rs.45 :  https://fkrt.co/9jX4P0 Rs.55 :  https://fkrt.co/xxTyrt Rs.79 : …",
-    "shortlink": "https://fkrt.co/agQzv7",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥GROCERY DEALS – STARTING FROM ₹21"
-      },
-      {
-        "url": "https://fkrt.co/agQzv7",
-        "label": "Rs.25"
-      },
-      {
-        "url": "https://fkrt.co/e3sgdS",
-        "label": "Rs.21"
-      },
-      {
-        "url": "https://fkrt.co/rtZVIp",
-        "label": "Rs.25"
-      },
-      {
-        "url": "https://fkrt.co/9jX4P0",
-        "label": "Rs.45"
-      },
-      {
-        "url": "https://fkrt.co/xxTyrt",
-        "label": "Rs.55"
-      },
-      {
-        "url": "https://fkrt.co/szQ2a1",
-        "label": "Rs.79"
-      }
-    ],
-    "raw_text": "🔥GROCERY DEALS – STARTING FROM ₹21\n\nRs.25 :  https://fkrt.co/agQzv7\nRs.21 :  https://fkrt.co/e3sgdS\nRs.25 :  https://fkrt.co/rtZVIp\nRs.45 :  https://fkrt.co/9jX4P0\nRs.55 :  https://fkrt.co/xxTyrt\nRs.79 :  https://fkrt.co/szQ2a1",
-    "final_url": "https://fkrt.co/agQzv7",
-    "local_image": "assets/images/tgmsg_25145.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-23T15:04:01+00:00",
-    "buy_link": "https://fkrt.co/agQzv7",
-    "date_iso": "2026-01-23T15:04:01+00:00"
   }
 ]
