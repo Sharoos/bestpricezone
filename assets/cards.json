@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg25594",
+    "title": "Women's Kurta Starts at ₹90",
+    "description": "AJIO  Women's Kurta Starts at ₹90. 🔗https://ajiio.co/s03lSn",
+    "shortlink": "https://ajiio.co/s03lSn",
+    "urls": [
+      {
+        "url": "https://ajiio.co/s03lSn",
+        "label": "AJIO Women's Kurta Starts at ₹90"
+      }
+    ],
+    "raw_text": "AJIO  Women's Kurta Starts at ₹90.\n\n🔗https://ajiio.co/s03lSn",
+    "final_url": "https://ajiio.co/s03lSn",
+    "local_image": "assets/images/tgmsg_25594.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-01T09:34:41+00:00",
+    "buy_link": "https://ajiio.co/s03lSn",
+    "date_iso": "2026-02-01T09:34:41+00:00"
+  },
+  {
     "id": "msg25590",
     "title": "Shopsy Valentine Day's Deals Starting at 5",
     "description": "Shopsy: Valentine Day's Deals Starting at 5 Link: Teddy Bear: Chocolate: Gift Hampers: Coffee Mug:",
@@ -9918,37 +9938,5 @@
     "date_obj": "2026-01-24T06:10:52+00:00",
     "buy_link": "https://extp.in/R3yhit",
     "date_iso": "2026-01-24T06:10:52+00:00"
-  },
-  {
-    "id": "msg25184",
-    "title": "Men's Jeans Starting From 299",
-    "description": "Flipkart On Men's Fashion 🔥🔥 Trackpants, Shorts Under 499 👉 Casual Shirts Under 499 👉  👉",
-    "shortlink": "https://fkrt.co/Tc8Rpv",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flipkart On Men's Fashion 🔥🔥"
-      },
-      {
-        "url": "https://fkrt.co/Tc8Rpv",
-        "label": "Trackpants, Shorts Under 499"
-      },
-      {
-        "url": "https://fkrt.co/HWKqpg",
-        "label": "Casual Shirts Under 499"
-      },
-      {
-        "url": "https://fkrt.co/2zD4Ws",
-        "label": "Men's Jeans Starting From 299"
-      }
-    ],
-    "raw_text": "Flipkart  On Men's Fashion 🔥🔥\n\nTrackpants, Shorts Under 499\n👉https://fkrt.co/Tc8Rpv\n\nCasual Shirts Under 499\n👉https://fkrt.co/HWKqpg\n\nMen's Jeans Starting From 299\n👉https://fkrt.co/2zD4Ws",
-    "final_url": "https://fkrt.co/Tc8Rpv",
-    "local_image": "assets/images/tgmsg_25184.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-24T06:18:13+00:00",
-    "buy_link": "https://fkrt.co/Tc8Rpv",
-    "date_iso": "2026-01-24T06:18:13+00:00"
   }
 ]
