@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg25768",
+    "title": "Cello Opalware Dazzle Series 'Tree of Life' 18 Piece Dinner Set @1299",
+    "description": "Amazon | Cello Opalware Dazzle Series 'Tree of Life' 18 Piece Dinner Set @1299 👉https://www.amazon.in/dp/B0CPYN5WQK?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CPYN5WQK?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CPYN5WQK?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Cello Opalware Dazzle Series 'Tree of Life' 18 Piece Dinner Set @1299"
+      }
+    ],
+    "raw_text": "Amazon | Cello Opalware Dazzle Series 'Tree of Life' 18 Piece Dinner Set @1299\n\n👉https://www.amazon.in/dp/B0CPYN5WQK?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CPYN5WQK?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_25768.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-02T16:04:00+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CPYN5WQK?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-02-02T16:04:00+00:00"
+  },
+  {
     "id": "msg25763",
     "title": "92% Off",
     "description": "*92% Off :* Fire-Boltt Aero Pro TWS Earbuds @ 749 https://www.amazon.in/dp/B0FM6B9Z45?tag=bestpricezo0f-21 *Price Valid Only Till 11 P.M ✅.*",
@@ -9570,53 +9590,5 @@
     "date_obj": "2026-01-26T08:57:49+00:00",
     "buy_link": "https://fktr.in/c21OBxK",
     "date_iso": "2026-01-26T08:57:49+00:00"
-  },
-  {
-    "id": "msg25238",
-    "title": "Shopsy Deals Start @16",
-    "description": "Shopsy: Loot Deals Start @16 Extension Cords @ ₹98 Cotton Kurtis Under ₹299 Socks @ ₹20 Chains & Necklaces @ ₹39 Leather Sandals @ ₹195 Toilet Cleaner @ ₹99 Shop All Deals:",
-    "shortlink": "https://bitli.in/SErzmml",
-    "urls": [
-      {
-        "url": "",
-        "label": "Loot Deals Start @16"
-      },
-      {
-        "url": "https://bitli.in/SErzmml",
-        "label": "Extension Cords @ ₹98"
-      },
-      {
-        "url": "https://bitli.in/Q1Tpavs",
-        "label": "Cotton Kurtis Under ₹299"
-      },
-      {
-        "url": "https://bitli.in/LIIfdlp",
-        "label": "Socks @ ₹20"
-      },
-      {
-        "url": "https://bitli.in/OwLL4iH",
-        "label": "Chains & Necklaces @ ₹39"
-      },
-      {
-        "url": "https://bitli.in/9k5opc7",
-        "label": "Leather Sandals @ ₹195"
-      },
-      {
-        "url": "https://bitli.in/nj7FYv2",
-        "label": "Toilet Cleaner @ ₹99"
-      },
-      {
-        "url": "https://bitli.in/uwqKnsl",
-        "label": "Shop All Deals"
-      }
-    ],
-    "raw_text": "Shopsy: Loot Deals Start @16\n\nExtension Cords @ ₹98\nhttps://bitli.in/SErzmml\n\nCotton Kurtis Under ₹299\nhttps://bitli.in/Q1Tpavs\n\nSocks @ ₹20\nhttps://bitli.in/LIIfdlp\n\nChains & Necklaces @ ₹39\nhttps://bitli.in/OwLL4iH\n\nLeather Sandals @ ₹195\nhttps://bitli.in/9k5opc7\n\nToilet Cleaner @ ₹99\nhttps://bitli.in/nj7FYv2\n\nShop All Deals: https://bitli.in/uwqKnsl",
-    "final_url": "https://bitli.in/SErzmml",
-    "local_image": "assets/images/tgmsg_25238.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-01-26T08:21:58+00:00",
-    "buy_link": "https://bitli.in/SErzmml",
-    "date_iso": "2026-01-26T08:21:58+00:00"
   }
 ]
