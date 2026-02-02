@@ -1,5 +1,137 @@
 [
   {
+    "id": "msg25724",
+    "title": "From Bazar Section",
+    "description": "Fast 5 https://www.amazon.in/dp/B0GL2SJKYC?tag=bestpricezo0f-21 Buy From Amazon Bazar Section",
+    "shortlink": "https://www.amazon.in/dp/B0GL2SJKYC?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0GL2SJKYC?tag=bestpricezo0f-21",
+        "label": ""
+      }
+    ],
+    "raw_text": "Fast 5\nhttps://www.amazon.in/dp/B0GL2SJKYC?tag=bestpricezo0f-21\n\nBuy From Amazon Bazar Section",
+    "final_url": "https://www.amazon.in/dp/B0GL2SJKYC?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_25724.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-02T10:48:09+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0GL2SJKYC?tag=bestpricezo0f-21",
+    "date_iso": "2026-02-02T10:48:09+00:00"
+  },
+  {
+    "id": "msg25725",
+    "title": "Big On Footwears Up to 90% Off",
+    "description": "Myntra Big  On Footwears Upto 90% Off Mochi - https://myntr.in/tP4ssj& Fila - https://myntr.in/IA2URi& Metro - https://myntr.in/Ey4yS2&",
+    "shortlink": "https://myntr.in/tP4ssj&",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Big On Footwears Upto 90% Off"
+      },
+      {
+        "url": "https://myntr.in/tP4ssj&",
+        "label": "Mochi"
+      },
+      {
+        "url": "https://myntr.in/IA2URi&",
+        "label": "Fila"
+      },
+      {
+        "url": "https://myntr.in/Ey4yS2&",
+        "label": "Metro"
+      }
+    ],
+    "raw_text": "Myntra Big  On Footwears Upto 90% Off \n\nMochi - https://myntr.in/tP4ssj&\nFila - https://myntr.in/IA2URi&\nMetro - https://myntr.in/Ey4yS2&",
+    "final_url": "https://myntr.in/tP4ssj&",
+    "local_image": "assets/images/tgmsg_25725.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-02T10:50:19+00:00",
+    "buy_link": "https://myntr.in/tP4ssj&",
+    "date_iso": "2026-02-02T10:50:19+00:00"
+  },
+  {
+    "id": "msg25726",
+    "title": "Shopsy Stainless Steel Cup Stand ₹158",
+    "description": "Shopsy | Stainless Steel Cup Stand  ₹158 🔗 https://extp.in/BBmC6C",
+    "shortlink": "https://extp.in/BBmC6C",
+    "urls": [
+      {
+        "url": "https://extp.in/BBmC6C",
+        "label": "Stainless Steel Cup Stand ₹158"
+      }
+    ],
+    "raw_text": "Shopsy | Stainless Steel Cup Stand  ₹158\n\n🔗 https://extp.in/BBmC6C",
+    "final_url": "https://extp.in/BBmC6C",
+    "local_image": "assets/images/tgmsg_25726.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-02-02T11:03:28+00:00",
+    "buy_link": "https://extp.in/BBmC6C",
+    "date_iso": "2026-02-02T11:03:28+00:00"
+  },
+  {
+    "id": "msg25731",
+    "title": "Shopsy Pack of 3 Perfume ₹176",
+    "description": "Shopsy | Pack of 3 Perfume  ₹176 🔗 https://extp.in/XBQQtw",
+    "shortlink": "https://extp.in/XBQQtw",
+    "urls": [
+      {
+        "url": "https://extp.in/XBQQtw",
+        "label": "Pack of 3 Perfume ₹176"
+      }
+    ],
+    "raw_text": "Shopsy | Pack of 3 Perfume  ₹176\n\n🔗 https://extp.in/XBQQtw",
+    "final_url": "https://extp.in/XBQQtw",
+    "local_image": "assets/images/tgmsg_25731.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-02-02T11:10:25+00:00",
+    "buy_link": "https://extp.in/XBQQtw",
+    "date_iso": "2026-02-02T11:10:25+00:00"
+  },
+  {
+    "id": "msg25732",
+    "title": "BSC Deodorant Pack Of 2 @150",
+    "description": "GRAB: BSC Deodorant Pack Of 2 @150 https://fkrt.co/w0NxPt",
+    "shortlink": "https://fkrt.co/w0NxPt",
+    "urls": [
+      {
+        "url": "https://fkrt.co/w0NxPt",
+        "label": "BSC Deodorant Pack Of 2 @150"
+      }
+    ],
+    "raw_text": "GRAB: BSC Deodorant Pack Of 2 @150\n\nhttps://fkrt.co/w0NxPt",
+    "final_url": "https://fkrt.co/w0NxPt",
+    "local_image": "assets/images/tgmsg_25732.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-02T11:23:55+00:00",
+    "buy_link": "https://fkrt.co/w0NxPt",
+    "date_iso": "2026-02-02T11:23:55+00:00"
+  },
+  {
+    "id": "msg25733",
+    "title": "BSC Deodorant Pack Of 2 @150",
+    "description": "GRAB: BSC Deodorant Pack Of 2 @150 https://fktr.in/3wB4bCF",
+    "shortlink": "https://fktr.in/3wB4bCF",
+    "urls": [
+      {
+        "url": "https://fktr.in/3wB4bCF",
+        "label": "BSC Deodorant Pack Of 2 @150"
+      }
+    ],
+    "raw_text": "GRAB: BSC Deodorant Pack Of 2 @150\n\nhttps://fktr.in/3wB4bCF",
+    "final_url": "https://fktr.in/3wB4bCF",
+    "local_image": "assets/images/tgmsg_25733.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-02T11:24:27+00:00",
+    "buy_link": "https://fktr.in/3wB4bCF",
+    "date_iso": "2026-02-02T11:24:27+00:00"
+  },
+  {
     "id": "msg25716",
     "title": "Livguard Neugen 900 VA/12V Square Wave Inverter @₹3504",
     "description": "Amazon | Livguard Neugen 900 VA/12V Square Wave Inverter @₹3504 🔗 https://www.amazon.in/dp/B0G4WMDZR1?th=1&tag=bestpricezo0f-21",
@@ -9430,265 +9562,5 @@
     "date_obj": "2026-01-23T05:15:55+00:00",
     "buy_link": "https://ajiio.co/SQOzYW",
     "date_iso": "2026-01-23T05:15:55+00:00"
-  },
-  {
-    "id": "msg25068",
-    "title": "Up to 80% Off On Branded Watche",
-    "description": "Flipkart | Upto 80% Off On Branded Watches. Casio : Van Heusen : Allen Solly : Peter England : Maxima : Fastrack : FCUK :",
-    "shortlink": "https://fkrt.co/Sox7Je",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Branded Watches"
-      },
-      {
-        "url": "https://fkrt.co/Sox7Je",
-        "label": "Casio"
-      },
-      {
-        "url": "https://fkrt.co/EiiDcg",
-        "label": "Van Heusen"
-      },
-      {
-        "url": "https://fkrt.co/1gxXzE",
-        "label": "Allen Solly"
-      },
-      {
-        "url": "https://fkrt.co/8G7rwX",
-        "label": "Peter England"
-      },
-      {
-        "url": "https://fkrt.co/4W3Q1E",
-        "label": "Maxima"
-      },
-      {
-        "url": "https://fkrt.co/Ks0pz0",
-        "label": "Fastrack"
-      },
-      {
-        "url": "https://fkrt.co/cnNtmX",
-        "label": "FCUK"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 80% Off On Branded Watches.\n\nCasio : https://fkrt.co/Sox7Je\nVan Heusen : https://fkrt.co/EiiDcg\nAllen Solly : https://fkrt.co/1gxXzE\nPeter England : https://fkrt.co/8G7rwX\nMaxima : https://fkrt.co/4W3Q1E\nFastrack : https://fkrt.co/Ks0pz0\nFCUK : https://fkrt.co/cnNtmX",
-    "final_url": "https://fkrt.co/Sox7Je",
-    "local_image": "assets/images/tgmsg_25068.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-23T05:46:00+00:00",
-    "buy_link": "https://fkrt.co/Sox7Je",
-    "date_iso": "2026-01-23T05:46:00+00:00"
-  },
-  {
-    "id": "msg25069",
-    "title": "✅ Extra 5% Off — Use Code CK5",
-    "description": "Dot & Key – Hello Glow Sale is LIVE! 💛 Buy 2 @ ₹699 💖 Buy 3 @ ₹999 + Free Gift Top Picks: • Sunscreen → • Moisturizer → • Serum → • Face Wash → • Lip Care → • Body Care → • Hair Care → 📌 Shop All: ✅ Extra 5% Off — Use…",
-    "shortlink": "https://bitli.in/5JIwVlN",
-    "urls": [
-      {
-        "url": "",
-        "label": "Dot & Key – Hello Glow Sale is LIVE!"
-      },
-      {
-        "url": "",
-        "label": "Top Picks"
-      },
-      {
-        "url": "https://bitli.in/5JIwVlN",
-        "label": "Sunscreen →"
-      },
-      {
-        "url": "https://bitli.in/khB15de",
-        "label": "Moisturizer →"
-      },
-      {
-        "url": "https://bitli.in/Sw1ex9t",
-        "label": "Serum →"
-      },
-      {
-        "url": "https://bitli.in/87JspEo",
-        "label": "Face Wash →"
-      },
-      {
-        "url": "https://bitli.in/gL323Cd",
-        "label": "Lip Care →"
-      },
-      {
-        "url": "https://bitli.in/mnOyHk2",
-        "label": "Body Care →"
-      },
-      {
-        "url": "https://bitli.in/jaZPQzE",
-        "label": "Hair Care →"
-      },
-      {
-        "url": "https://bitli.in/QeWsl8A",
-        "label": "📌 Shop All"
-      },
-      {
-        "url": "",
-        "label": "✅ Extra 5% Off — Use Code: CK5"
-      },
-      {
-        "url": "",
-        "label": "+5% Prepaid Discount"
-      }
-    ],
-    "raw_text": "Dot & Key – Hello Glow Sale is LIVE!\n\n💛 Buy 2 @ ₹699\n💖 Buy 3 @ ₹999 + Free Gift\n\nTop Picks:\n• Sunscreen → https://bitli.in/5JIwVlN\n• Moisturizer → https://bitli.in/khB15de\n• Serum → https://bitli.in/Sw1ex9t\n• Face Wash → https://bitli.in/87JspEo\n• Lip Care → https://bitli.in/gL323Cd\n• Body Care → https://bitli.in/mnOyHk2\n• Hair Care → https://bitli.in/jaZPQzE\n\n📌 Shop All: https://bitli.in/QeWsl8A\n\n✅ Extra 5% Off — Use Code: CK5 \n+5% Prepaid Discount",
-    "final_url": "https://bitli.in/5JIwVlN",
-    "local_image": "assets/images/tgmsg_25069.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-01-23T06:18:40+00:00",
-    "buy_link": "https://bitli.in/5JIwVlN",
-    "date_iso": "2026-01-23T06:18:40+00:00"
-  },
-  {
-    "id": "msg25070",
-    "title": "Shopsy Women Regular Fit Trousers (Pack of 2) @₹314",
-    "description": "Shopsy | Women Regular Fit Trousers (Pack of 2)  @₹314 🔗 https://extp.in/qu1nfs 🔗 https://extp.in/xfrgH1",
-    "shortlink": "https://extp.in/qu1nfs",
-    "urls": [
-      {
-        "url": "https://extp.in/qu1nfs",
-        "label": "Women Regular Fit Trousers (Pack of 2) @₹314"
-      },
-      {
-        "url": "https://extp.in/xfrgH1",
-        "label": "Women Regular Fit Trousers (Pack of 2) @₹314"
-      }
-    ],
-    "raw_text": "Shopsy | Women Regular Fit Trousers (Pack of 2)  @₹314\n\n🔗 https://extp.in/qu1nfs  \n🔗 https://extp.in/xfrgH1",
-    "final_url": "https://extp.in/qu1nfs",
-    "local_image": "assets/images/tgmsg_25070.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-23T06:21:15+00:00",
-    "buy_link": "https://extp.in/qu1nfs",
-    "date_iso": "2026-01-23T06:21:15+00:00"
-  },
-  {
-    "id": "msg25071",
-    "title": "Shirt @ ₹121",
-    "description": "Shopsy | Men’s Sports T-Shirt @ ₹121 🔗 https://extp.in/FLoMcW 🔗 https://extp.in/Ckey5c Min 2 Buy",
-    "shortlink": "https://extp.in/FLoMcW",
-    "urls": [
-      {
-        "url": "https://extp.in/FLoMcW",
-        "label": "Men’s Sports T-Shirt @ ₹121"
-      },
-      {
-        "url": "https://extp.in/Ckey5c",
-        "label": "Men’s Sports T-Shirt @ ₹121"
-      }
-    ],
-    "raw_text": "Shopsy | Men’s Sports T-Shirt @ ₹121\n\n🔗 https://extp.in/FLoMcW\n🔗 https://extp.in/Ckey5c\n\nMin 2 Buy",
-    "final_url": "https://extp.in/FLoMcW",
-    "local_image": "assets/images/tgmsg_25071.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-23T06:26:13+00:00",
-    "buy_link": "https://extp.in/FLoMcW",
-    "date_iso": "2026-01-23T06:26:13+00:00"
-  },
-  {
-    "id": "msg25072",
-    "title": "✔️₹500 Instant Discount",
-    "description": "🔥 TimesPrime – 1 Year @ ₹0 + ₹50 Profit 🔥 💳 Pay ₹799 via Credit Card 🏷 Apply Code : TPEP50 (Mandatory) 🔗Link : 💰 You Get Back :  ✔️₹400 Amazon Gift Card ✔️₹50 Card Offer 👉 Total = ₹950 🎁 SonyLIV, Spotify, Swiggy One,…",
-    "shortlink": "https://extp.in/QpXDqb",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 TimesPrime – 1 Year @ ₹0 + ₹50 Profit 🔥"
-      },
-      {
-        "url": "",
-        "label": "💳 Pay ₹799 via Credit Card"
-      },
-      {
-        "url": "https://extp.in/QpXDqb",
-        "label": "🏷 Apply Code : TPEP50 (Mandatory)"
-      },
-      {
-        "url": "",
-        "label": "💰 You Get Back"
-      },
-      {
-        "url": "",
-        "label": "✔️₹500 Instant Discount"
-      },
-      {
-        "url": "",
-        "label": "✔️₹400 Amazon Gift Card"
-      },
-      {
-        "url": "",
-        "label": "✔️₹50 Card Offer"
-      },
-      {
-        "url": "",
-        "label": "Total = ₹950"
-      },
-      {
-        "url": "",
-        "label": "🎁 SonyLIV, Spotify, Swiggy One, Lenskart Gold & more!"
-      },
-      {
-        "url": "",
-        "label": "🎉 Effectively FREE"
-      }
-    ],
-    "raw_text": "🔥 TimesPrime  – 1 Year @ ₹0 + ₹50 Profit 🔥\n\n💳 Pay ₹799 via Credit Card\n🏷 Apply Code : TPEP50 (Mandatory)\n\n🔗Link : https://extp.in/QpXDqb\n\n💰 You Get Back :\n✔️₹500 Instant Discount\n✔️₹400 Amazon Gift Card\n✔️₹50 Card Offer\n👉 Total = ₹950\n\n🎁 SonyLIV, Spotify, Swiggy One, Lenskart Gold & more!\n\n🎉 Effectively FREE",
-    "final_url": "https://extp.in/QpXDqb",
-    "local_image": "assets/images/tgmsg_25072.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-01-23T06:33:11+00:00",
-    "buy_link": "https://extp.in/QpXDqb",
-    "date_iso": "2026-01-23T06:33:11+00:00"
-  },
-  {
-    "id": "msg25073",
-    "title": "Up to 80% Off On PUMA",
-    "description": "AJIO : Upto 80% Off On PUMA. Mens : Womens : Shoes Master Link : Mens : Womens : Kids :",
-    "shortlink": "https://ajiio.co/DlFflP",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On PUMA"
-      },
-      {
-        "url": "https://ajiio.co/DlFflP",
-        "label": "Mens"
-      },
-      {
-        "url": "https://ajiio.co/I4qca0",
-        "label": "Womens"
-      },
-      {
-        "url": "https://ajiio.co/P8wL9U",
-        "label": "Master"
-      },
-      {
-        "url": "https://ajiio.co/sVCr9Q",
-        "label": "Mens"
-      },
-      {
-        "url": "https://ajiio.co/UomOkU",
-        "label": "Womens"
-      },
-      {
-        "url": "https://ajiio.co/Y7KpTa",
-        "label": "Kids"
-      }
-    ],
-    "raw_text": "AJIO : Upto 80% Off On PUMA. \n\nMens :  https://ajiio.co/DlFflP\nWomens :  https://ajiio.co/I4qca0\n\nShoes\n\nMaster Link :  https://ajiio.co/P8wL9U\n\nMens :  https://ajiio.co/sVCr9Q\nWomens :  https://ajiio.co/UomOkU\nKids :  https://ajiio.co/Y7KpTa",
-    "final_url": "https://ajiio.co/DlFflP",
-    "local_image": "assets/images/tgmsg_25073.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-23T06:46:09+00:00",
-    "buy_link": "https://ajiio.co/DlFflP",
-    "date_iso": "2026-01-23T06:46:09+00:00"
   }
 ]
