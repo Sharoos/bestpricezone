@@ -1,5 +1,97 @@
 [
   {
+    "id": "msg25828",
+    "title": "Shopsy Women Jewel Combo Set",
+    "description": "Shopsy | Women Jewel Combo Set ₹146 : https://extp.in/GjKIE2 ₹148 : https://extp.in/XZhyWq",
+    "shortlink": "https://extp.in/GjKIE2",
+    "urls": [
+      {
+        "url": "",
+        "label": "Women Jewel Combo Set"
+      },
+      {
+        "url": "https://extp.in/GjKIE2",
+        "label": "₹146"
+      },
+      {
+        "url": "https://extp.in/XZhyWq",
+        "label": "₹148"
+      }
+    ],
+    "raw_text": "Shopsy | Women Jewel Combo Set \n\n₹146 : https://extp.in/GjKIE2\n\n₹148 : https://extp.in/XZhyWq",
+    "final_url": "https://extp.in/GjKIE2",
+    "local_image": "assets/images/tgmsg_25828.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-02-03T09:00:39+00:00",
+    "buy_link": "https://extp.in/GjKIE2",
+    "date_iso": "2026-02-03T09:00:39+00:00"
+  },
+  {
+    "id": "msg25829",
+    "title": "Women's Kurta Set Of 2 Start @71",
+    "description": ": Women's Kurta Set Of 2 Start @71 https://fkrt.co/izqFUb",
+    "shortlink": "https://fkrt.co/izqFUb",
+    "urls": [
+      {
+        "url": "https://fkrt.co/izqFUb",
+        "label": "Women's Kurta Set Of 2 Start @71"
+      }
+    ],
+    "raw_text": ": Women's Kurta Set Of 2 Start @71\n\nhttps://fkrt.co/izqFUb",
+    "final_url": "https://fkrt.co/izqFUb",
+    "local_image": "assets/images/tgmsg_25829.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-03T09:07:33+00:00",
+    "buy_link": "https://fkrt.co/izqFUb",
+    "date_iso": "2026-02-03T09:07:33+00:00"
+  },
+  {
+    "id": "msg25830",
+    "title": "Flat ₹2000 Off With HDFC Credit Card",
+    "description": "Amazon | Xiaomi (43 inch) Ultra HD 4K Smart LED Fire TV  @₹19499 Flat ₹2000 Off With HDFC Credit Card 🔗 https://www.amazon.in/dp/B0F3JP4TWW?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0F3JP4TWW?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Xiaomi (43 inch) Ultra HD 4K Smart LED Fire TV @₹19499"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0F3JP4TWW?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Flat ₹2000 Off With HDFC Credit Card"
+      }
+    ],
+    "raw_text": "Amazon | Xiaomi (43 inch) Ultra HD 4K Smart LED Fire TV  @₹19499  \nFlat ₹2000 Off With HDFC Credit Card  \n\n🔗 https://www.amazon.in/dp/B0F3JP4TWW?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F3JP4TWW?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_25830.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-03T09:20:26+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F3JP4TWW?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-02-03T09:20:26+00:00"
+  },
+  {
+    "id": "msg25832",
+    "title": "199",
+    "description": "199 : https://www.amazon.in/dp/B0GJFL4NL7?social_share=cm_sw_r_cso_wa_apan_dp_CNS7B3CE3W01QRCJDNH5&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0GJFL4NL7?social_share=cm_sw_r_cso_wa_apan_dp_CNS7B3CE3W01QRCJDNH5&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0GJFL4NL7?social_share=cm_sw_r_cso_wa_apan_dp_CNS7B3CE3W01QRCJDNH5&tag=bestpricezo0f-21",
+        "label": "199"
+      }
+    ],
+    "raw_text": "199 : https://www.amazon.in/dp/B0GJFL4NL7?social_share=cm_sw_r_cso_wa_apan_dp_CNS7B3CE3W01QRCJDNH5&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0GJFL4NL7?social_share=cm_sw_r_cso_wa_apan_dp_CNS7B3CE3W01QRCJDNH5&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_25832.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-03T09:50:58+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0GJFL4NL7?social_share=cm_sw_r_cso_wa_apan_dp_CNS7B3CE3W01QRCJDNH5&tag=bestpricezo0f-21",
+    "date_iso": "2026-02-03T09:50:58+00:00"
+  },
+  {
     "id": "msg25819",
     "title": "Longway Orion Mixer Grinder 900W (4 Jars) @1999",
     "description": "Amazon | Longway Orion Mixer Grinder 900W (4 Jars) @1999 🔗 https://www.amazon.in/dp/B09VZ7QNXG?th=1&psc=1&tag=bestpricezo0f-21",
@@ -9130,157 +9222,5 @@
     "date_obj": "2026-01-27T16:07:36+00:00",
     "buy_link": "https://fktr.in/8pnJeyM",
     "date_iso": "2026-01-27T16:07:36+00:00"
-  },
-  {
-    "id": "msg25302",
-    "title": "Up to 75% Off On Levi's Clothing",
-    "description": "Ajio Loot : Upto 75% Off On Levi's Clothing Women's : https://ajiio.in/H2QQMtY Jeans : https://ajiio.in/ER5zz7m Men's : https://ajiio.in/h67X4Q7 Jeans : https://ajiio.in/hf49ud0",
-    "shortlink": "https://ajiio.in/H2QQMtY",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 75% Off On Levi's Clothing"
-      },
-      {
-        "url": "https://ajiio.in/H2QQMtY",
-        "label": "Women's"
-      },
-      {
-        "url": "https://ajiio.in/ER5zz7m",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.in/h67X4Q7",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.in/hf49ud0",
-        "label": "Jeans"
-      }
-    ],
-    "raw_text": "Ajio Loot : Upto 75% Off On Levi's Clothing\n\nWomen's : https://ajiio.in/H2QQMtY\nJeans : https://ajiio.in/ER5zz7m\n\nMen's : https://ajiio.in/h67X4Q7\nJeans : https://ajiio.in/hf49ud0",
-    "final_url": "https://ajiio.in/H2QQMtY",
-    "local_image": "assets/images/tgmsg_25302.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-27T16:07:36+00:00",
-    "buy_link": "https://ajiio.in/H2QQMtY",
-    "date_iso": "2026-01-27T16:07:36+00:00"
-  },
-  {
-    "id": "msg25303",
-    "title": "Powerbank Starts @300",
-    "description": "Flipkart | Loot : Powerbank Starts @300. 🔗 https://fktr.in/e1p9rDf 🔗  https://fktr.in/1M28ij3",
-    "shortlink": "https://fktr.in/e1p9rDf",
-    "urls": [
-      {
-        "url": "https://fktr.in/e1p9rDf",
-        "label": "Loot : Powerbank Starts @300"
-      },
-      {
-        "url": "https://fktr.in/1M28ij3",
-        "label": "Loot : Powerbank Starts @300"
-      }
-    ],
-    "raw_text": "Flipkart | Loot : Powerbank Starts @300.\n\n🔗 https://fktr.in/e1p9rDf\n🔗  https://fktr.in/1M28ij3",
-    "final_url": "https://fktr.in/e1p9rDf",
-    "local_image": "assets/images/tgmsg_25303.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-27T16:07:37+00:00",
-    "buy_link": "https://fktr.in/e1p9rDf",
-    "date_iso": "2026-01-27T16:07:37+00:00"
-  },
-  {
-    "id": "msg25282",
-    "title": "🔥 Clothing Starts ₹200",
-    "description": "🔥AJIO Loot : Clothing Starts ₹200 Tshirt : https://ajiio.co/KivxxD Shirt : https://ajiio.co/wEyB1Z Jeans : https://ajiio.co/3XfEIh",
-    "shortlink": "https://ajiio.co/KivxxD",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥AJIO Loot : Clothing Starts ₹200"
-      },
-      {
-        "url": "https://ajiio.co/KivxxD",
-        "label": "Tshirt"
-      },
-      {
-        "url": "https://ajiio.co/wEyB1Z",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://ajiio.co/3XfEIh",
-        "label": "Jeans"
-      }
-    ],
-    "raw_text": "🔥AJIO Loot : Clothing Starts ₹200\n\nTshirt : https://ajiio.co/KivxxD\nShirt : https://ajiio.co/wEyB1Z\nJeans : https://ajiio.co/3XfEIh",
-    "final_url": "https://ajiio.co/KivxxD",
-    "local_image": "assets/images/tgmsg_25282.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-01-27T14:40:12+00:00",
-    "buy_link": "https://ajiio.co/KivxxD",
-    "date_iso": "2026-01-27T14:40:12+00:00"
-  },
-  {
-    "id": "msg25280",
-    "title": "Max cashback ₹5,000/month (save up to ₹60,000/year)",
-    "description": "SBI Cashback Credit Card 💳 Flat 5% Cashback on all online spends ✅ Key Highlights: • 5% cashback on online spends (all sites & apps) • 1% cashback on offline spends •  • Cashback credited within 2 working days • 1% fuel…",
-    "shortlink": "https://bitli.in/bf93Kgq",
-    "urls": [
-      {
-        "url": "",
-        "label": "SBI Cashback Credit Card 💳"
-      },
-      {
-        "url": "",
-        "label": "Flat 5% Cashback on all online spends"
-      },
-      {
-        "url": "",
-        "label": "✅ Key Highlights"
-      },
-      {
-        "url": "",
-        "label": "5% cashback on online spends (all sites & apps)"
-      },
-      {
-        "url": "",
-        "label": "Max cashback ₹5,000/month (save up to ₹60,000/year)"
-      },
-      {
-        "url": "",
-        "label": "Cashback credited within 2 working days"
-      },
-      {
-        "url": "",
-        "label": "1% fuel surcharge waiver (₹500–₹3,000)"
-      },
-      {
-        "url": "",
-        "label": "₹999 + GST (Joining & Annual)"
-      },
-      {
-        "url": "",
-        "label": "Annual fee waived on ₹2L yearly spend"
-      },
-      {
-        "url": "https://bitli.in/bf93Kgq",
-        "label": "📌 Apply Now"
-      },
-      {
-        "url": "",
-        "label": "Do a minimum ₹100 transaction within 30 days of card issuance"
-      }
-    ],
-    "raw_text": "SBI Cashback Credit Card 💳\nFlat 5% Cashback on all online spends\n\n✅ Key Highlights:\n• 5% cashback on online spends (all sites & apps)\n• 1% cashback on offline spends\n• Max cashback ₹5,000/month (save up to ₹60,000/year)\n• Cashback credited within 2 working days\n• 1% fuel surcharge waiver (₹500–₹3,000)\n\nFees: ₹999 + GST (Joining & Annual)\n👉 Annual fee waived on ₹2L yearly spend\n\n📌 Apply Now: https://bitli.in/bf93Kgq\n\n📌 Activation:\nDo a minimum ₹100 transaction within 30 days of card issuance.",
-    "final_url": "https://bitli.in/bf93Kgq",
-    "local_image": "assets/images/tgmsg_25280.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-01-27T12:16:26+00:00",
-    "buy_link": "https://bitli.in/bf93Kgq",
-    "date_iso": "2026-01-27T12:16:26+00:00"
   }
 ]
