@@ -918,6 +918,42 @@ body{
 /* Small utility: ensure header/hero/filter layering doesn't obscure interactive elements */
 .header, .banner-wrap, .hero, .filter-bar { position: relative; z-index: 10; }
 
+/* --- PAGINATION FIX FOR MOBILE --- */
+.pager {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin: 30px auto;
+  flex-wrap: wrap; 
+  padding: 0 10px;
+}
+
+.pager button {
+  padding: 10px 14px;
+  min-width: 44px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  background: white;
+  cursor: pointer;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.pager button.active {
+  background: var(--primary);
+  color: white;
+  border-color: var(--primary);
+}
+
+@media (max-width: 600px) {
+  /* This is the part that was missing or mismatched */
+  .pager button.page-num {
+    display: none;
+  }
+  .pager button.page-num.active {
+    display: inline-block;
+  }
+}
 
 /* ---------- grid and cards (cleaned) ---------- */
 .container {
@@ -1727,6 +1763,38 @@ __BANNER_HTML__
   }
 
   let currentPage = 1;
+
+  function renderPager() {
+        const pager = document.getElementById('pager');
+        if (!pager) return;
+        pager.innerHTML = '';
+
+        const totalPages = Math.ceil(filteredCards.length / perPage);
+        if (totalPages <= 1) return;
+
+        // Previous Button
+        const prevBtn = document.createElement('button');
+        prevBtn.innerText = '« Prev';
+        prevBtn.disabled = currentPage === 1;
+        prevBtn.onclick = () => { currentPage--; render(); window.scrollTo(0,0); };
+        pager.appendChild(prevBtn);
+
+        // Page Numbers
+        for (let i = 1; i <= totalPages; i++) {
+          const btn = document.createElement('button');
+          btn.innerText = i;
+          btn.className = (i === currentPage) ? 'active page-num' : 'page-num';
+          btn.onclick = () => { currentPage = i; render(); window.scrollTo(0,0); };
+          pager.appendChild(btn);
+        }
+
+        // Next Button
+        const nextBtn = document.createElement('button');
+        nextBtn.innerText = 'Next »';
+        nextBtn.disabled = currentPage === totalPages;
+        nextBtn.onclick = () => { currentPage++; render(); window.scrollTo(0,0); };
+        pager.appendChild(nextBtn);
+      }
 
   function render() {
     const q = (qInput.value||'').toLowerCase();
@@ -3057,12 +3125,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
-
-
