@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg25989",
+    "title": "URBN 10000 mAh 22.5 W Power Bank @539",
+    "description": "Flipkart | URBN 10000 mAh 22.5 W Power Bank @539 🔗 https://fkrt.co/SxkNUE",
+    "shortlink": "https://fkrt.co/SxkNUE",
+    "urls": [
+      {
+        "url": "https://fkrt.co/SxkNUE",
+        "label": "URBN 10000 mAh 22.5 W Power Bank @539"
+      }
+    ],
+    "raw_text": "Flipkart | URBN 10000 mAh 22.5 W Power Bank @539\n\n🔗 https://fkrt.co/SxkNUE",
+    "final_url": "https://fkrt.co/SxkNUE",
+    "local_image": "assets/images/tgmsg_25989.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-04T11:50:11+00:00",
+    "buy_link": "https://fkrt.co/SxkNUE",
+    "date_iso": "2026-02-04T11:50:11+00:00"
+  },
+  {
     "id": "msg25987",
     "title": "Shopsy 🔥Urban Carrier Luggage at ₹1000",
     "description": "Shopsy | 🔥Urban Carrier Luggage at ₹1000 👉https://extp.in/sxOzMx 👉https://extp.in/y3QiRd",
@@ -9354,29 +9374,5 @@
     "date_obj": "2026-01-30T16:51:41+00:00",
     "buy_link": "https://fktr.in/DmPf2Tc",
     "date_iso": "2026-01-30T16:51:41+00:00"
-  },
-  {
-    "id": "msg25445",
-    "title": "72% off PUMA Cell Vive Bright Running Shoes For Men(Black , 6) at ₹1528",
-    "description": "Flipkart | 72% off : PUMA Cell Vive Bright Running Shoes For Men(Black , 6) at ₹1528 Buy Now: All Sellers:",
-    "shortlink": "https://fktr.in/Sdhp4T0",
-    "urls": [
-      {
-        "url": "https://fktr.in/Sdhp4T0",
-        "label": "72% off : PUMA Cell Vive Bright Running Shoes For Men(Black , 6) at ₹1528"
-      },
-      {
-        "url": "https://fktr.in/6YW9tUu",
-        "label": "All Sellers"
-      }
-    ],
-    "raw_text": "Flipkart | 72% off : PUMA Cell Vive Bright Running Shoes For Men(Black , 6) at ₹1528\n\nBuy Now:    https://fktr.in/Sdhp4T0\nAll Sellers:    https://fktr.in/6YW9tUu",
-    "final_url": "https://fktr.in/Sdhp4T0",
-    "local_image": "assets/images/tgmsg_25445.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-30T16:51:46+00:00",
-    "buy_link": "https://fktr.in/Sdhp4T0",
-    "date_iso": "2026-01-30T16:51:46+00:00"
   }
 ]
