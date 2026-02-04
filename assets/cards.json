@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg25990",
+    "title": "Up to 75% off on TIMEX Men's & Women's Wrist Watche",
+    "description": "Flipkart | 👉 Upto 75% off on TIMEX Men's & Women's Wrist Watches 🔗 ✔️ Surf All the Pages",
+    "shortlink": "https://fkrt.co/tFMey4",
+    "urls": [
+      {
+        "url": "https://fkrt.co/tFMey4",
+        "label": "👉 Upto 75% off on TIMEX Men's & Women's Wrist Watches"
+      },
+      {
+        "url": "",
+        "label": "✔️ Surf All the Pages"
+      }
+    ],
+    "raw_text": "Flipkart | 👉 Upto 75% off on TIMEX Men's & Women's Wrist Watches \n\n🔗 https://fkrt.co/tFMey4\n\n✔️ Surf All the Pages",
+    "final_url": "https://fkrt.co/tFMey4",
+    "local_image": "assets/images/tgmsg_25990.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-04T12:04:58+00:00",
+    "buy_link": "https://fkrt.co/tFMey4",
+    "date_iso": "2026-02-04T12:04:58+00:00"
+  },
+  {
     "id": "msg25989",
     "title": "URBN 10000 mAh 22.5 W Power Bank @539",
     "description": "Flipkart | URBN 10000 mAh 22.5 W Power Bank @539 🔗 https://fkrt.co/SxkNUE",
@@ -9353,26 +9377,6 @@
     "merchant_label": "Flipkart",
     "date_obj": "2026-01-30T16:51:41+00:00",
     "buy_link": "https://fktr.in/shz78Bt",
-    "date_iso": "2026-01-30T16:51:41+00:00"
-  },
-  {
-    "id": "msg25444",
-    "title": "Branded Adult Cycles Starts at ₹3509",
-    "description": "Flipkart | Branded Adult Cycles Starts at ₹3509 https://fktr.in/DmPf2Tc",
-    "shortlink": "https://fktr.in/DmPf2Tc",
-    "urls": [
-      {
-        "url": "https://fktr.in/DmPf2Tc",
-        "label": "Branded Adult Cycles Starts at ₹3509"
-      }
-    ],
-    "raw_text": "Flipkart | Branded Adult Cycles Starts at ₹3509\n\n  https://fktr.in/DmPf2Tc",
-    "final_url": "https://fktr.in/DmPf2Tc",
-    "local_image": "assets/images/tgmsg_25444.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-30T16:51:41+00:00",
-    "buy_link": "https://fktr.in/DmPf2Tc",
     "date_iso": "2026-01-30T16:51:41+00:00"
   }
 ]
