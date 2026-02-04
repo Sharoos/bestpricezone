@@ -71,10 +71,8 @@ jobs:
         run: |
           # 1. Get the number of new deals
           NEW_COUNT=$(git diff HEAD^ HEAD assets/cards.json | grep '+    "title":' | wc -l)
-          
-          echo "Found $NEW_COUNT new deals. Posting them to Facebook..."
+          echo "Found $NEW_COUNT new deals. Posting..."
 
-          # 2. Loop through each new deal
           for (( i=0; i<$NEW_COUNT; i++ ))
           do
             TITLE=$(jq -r ".[$i].title" assets/cards.json)
@@ -82,31 +80,41 @@ jobs:
             IMG_PATH=$(jq -r ".[$i].local_image" assets/cards.json)
             IMG_URL="https://raw.githubusercontent.com/Sharoos/bestpricezone/main/$IMG_PATH"
 
-            # 3. Enhanced 2026 India Market Hashtag Research
-            # Mixing broad reach tags with specific Indian buyer intent
+            # 2. Advanced Keyword Research Logic based on your site (bestpricezone.in)
             EXTRAS=""
-            if [[ "$TITLE" =~ "Samsung"|"Phone"|"Watch"|"Mobile"|"Earbuds"|"TV" ]]; then 
-                EXTRAS="%23TechDealsIndia %23GadgetLoot %23SmartphoneOffers"
-            elif [[ "$TITLE" =~ "Shirt"|"Wear"|"Fashion"|"Cloth"|"Shoes"|"Vintage" ]]; then 
-                EXTRAS="%23StreetwearIndia %23FashionDeals %23OOTDIndia"
-            elif [[ "$TITLE" =~ "Kitchen"|"Home"|"Cooker"|"Decor" ]]; then 
-                EXTRAS="%23IndianHome %23KitchenHacks %23HomeEssentials"
+            
+            # Category: Tech & Electronics (e.g., Ant Esports, Gaming Mouse, Buds)
+            if [[ "$TITLE" =~ "Mouse"|"Gaming"|"Buds"|"Earbuds"|"Fan"|"TV"|"Phone"|"Laptop" ]]; then
+                EXTRAS="%23TechDealsIndia %23GadgetLoot %23GamingDealsIndia"
+            
+            # Category: Beauty & Personal Care (e.g., Lakme, Maybelline)
+            elif [[ "$TITLE" =~ "Lakme"|"Beauty"|"Skin"|"Serum"|"Lipstick"|"Cream" ]]; then
+                EXTRAS="%23BeautyDeals %23SkincareIndia %23MakeupLoot"
+
+            # Category: Fashion & Footwear (e.g., Spykar, Kurta, Topwear, Shoes, Shirts)
+            elif [[ "$TITLE" =~ "Kurta"|"Shirt"|"Topwear"|"Jean"|"Shoe"|"Backpack"|"Clothing" ]]; then
+                EXTRAS="%23FashionDealsIndia %23MyntraSale %23AjioLoot %23OOTDIndia"
+
+            # Category: Grocery & Household (e.g., Veeba, Mayonnaise, Food)
+            elif [[ "$TITLE" =~ "Veeba"|"Food"|"Grocery"|"Kitchen"|"Bottle" ]]; then
+                EXTRAS="%23GroceryDeals %23HomeEssentials %23KitchenHacks"
             fi
 
-            # Top trending 'Loot' tags for Indian shopping groups in 2026
-            VIRAL_TAGS="%23LootAlert %23OnlineShoppingIndia %23BestPriceZone %23AmazonFindsIndia"
+            # 3. India-Specific High Reach Viral Set
+            # Including "Shopsy" and "Flipkart" keywords as they are trending in India right now
+            VIRAL_TAGS="%23LootAlert %23OnlineShoppingIndia %23BestPriceZone %23AmazonFindsIndia %23FlipkartDeals"
+            
             HASHTAGS="$VIRAL_TAGS $EXTRAS"
 
             echo "Posting ($((i+1))/$NEW_COUNT): $TITLE"
 
-            # 4. Execute Post with optimized stop-the-scroll caption
-            # Added emoji triggers: 🔥, 💸, 🛒, ⚡
+            # 4. Optimized Caption for Reach
+            # Note: Using %0A for line breaks to make it look professional on mobile
             curl -X POST "https://graph.facebook.com/v18.0/${{ secrets.FB_PAGE_ID }}/photos" \
             -d "url=$IMG_URL" \
-            -d "caption=🔥 NEW PRICE DROP: $TITLE %0A%0A💸 Best price guaranteed. Grab it before the deal expires! %0A%0A🛒 Shop Now: $LINK %0A%0A$HASHTAGS" \
+            -d "caption=🚨 BIG SAVINGS: $TITLE %0A%0A✨ Don't pay full price! Grab this deal now on Best Price Zone. %0A%0A🛒 Shop Here: $LINK %0A%0A$HASHTAGS" \
             -d "access_token=${{ secrets.FB_PAGE_TOKEN }}"
             
-            # 5. Anti-Spam Safety: 10s sleep is safer for high-volume pushes in 2026
             sleep 10
           done
 
