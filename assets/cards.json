@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg25991",
+    "title": "Up to 65% Off On Rexona Product",
+    "description": "Myntra | Upto 65% Off On Rexona Products 🔗 https://myntr.in/1G4iiK&",
+    "shortlink": "https://myntr.in/1G4iiK&",
+    "urls": [
+      {
+        "url": "https://myntr.in/1G4iiK&",
+        "label": "Upto 65% Off On Rexona Products"
+      }
+    ],
+    "raw_text": "Myntra | Upto 65% Off On Rexona Products\n\n🔗 https://myntr.in/1G4iiK&",
+    "final_url": "https://myntr.in/1G4iiK&",
+    "local_image": "assets/images/tgmsg_25991.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-04T12:10:13+00:00",
+    "buy_link": "https://myntr.in/1G4iiK&",
+    "date_iso": "2026-02-04T12:10:13+00:00"
+  },
+  {
     "id": "msg25990",
     "title": "Up to 75% off on TIMEX Men's & Women's Wrist Watche",
     "description": "Flipkart | 👉 Upto 75% off on TIMEX Men's & Women's Wrist Watches 🔗 ✔️ Surf All the Pages",
@@ -9357,26 +9377,6 @@
     "merchant_label": "Ajiio",
     "date_obj": "2026-01-30T16:51:41+00:00",
     "buy_link": "https://ajiio.in/tv2uwEc",
-    "date_iso": "2026-01-30T16:51:41+00:00"
-  },
-  {
-    "id": "msg25443",
-    "title": "boAt Wave Fury with 1.83'' HD Display, Bluetooth Calling & Functional Crown Smartwatch @1399",
-    "description": "Flipkart | boAt Wave Fury with 1.83'' HD Display, Bluetooth Calling & Functional Crown Smartwatch @1399 https://fktr.in/shz78Bt",
-    "shortlink": "https://fktr.in/shz78Bt",
-    "urls": [
-      {
-        "url": "https://fktr.in/shz78Bt",
-        "label": "boAt Wave Fury with 1.83'' HD Display, Bluetooth Calling & Functional Crown Smartwatch @1399"
-      }
-    ],
-    "raw_text": "Flipkart | boAt Wave Fury with 1.83'' HD Display, Bluetooth Calling & Functional Crown Smartwatch @1399\n\nhttps://fktr.in/shz78Bt",
-    "final_url": "https://fktr.in/shz78Bt",
-    "local_image": "assets/images/tgmsg_25443.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-30T16:51:41+00:00",
-    "buy_link": "https://fktr.in/shz78Bt",
     "date_iso": "2026-01-30T16:51:41+00:00"
   }
 ]
