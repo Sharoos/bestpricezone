@@ -69,12 +69,12 @@ jobs:
       - name: Post to Facebook
         if: steps.git_commit.outputs.pushed == 'true'
         run: |
-          # 1. Get the number of new deals from the git diff
+          # 1. Get the number of new deals
           NEW_COUNT=$(git diff HEAD^ HEAD assets/cards.json | grep '+    "title":' | wc -l)
           
           echo "Found $NEW_COUNT new deals. Posting them to Facebook..."
 
-          # 2. Loop through each new deal (from newest to oldest)
+          # 2. Loop through each new deal
           for (( i=0; i<$NEW_COUNT; i++ ))
           do
             TITLE=$(jq -r ".[$i].title" assets/cards.json)
@@ -82,34 +82,32 @@ jobs:
             IMG_PATH=$(jq -r ".[$i].local_image" assets/cards.json)
             IMG_URL="https://raw.githubusercontent.com/Sharoos/bestpricezone/main/$IMG_PATH"
 
-            # 3. Dynamic Hashtag Research & Selection
-            # We use URL-encoded hashtags (%23 for #) to ensure the API accepts them
+            # 3. Enhanced 2026 India Market Hashtag Research
+            # Mixing broad reach tags with specific Indian buyer intent
             EXTRAS=""
-            # Tech & Gadgets logic
             if [[ "$TITLE" =~ "Samsung"|"Phone"|"Watch"|"Mobile"|"Earbuds"|"TV" ]]; then 
-                EXTRAS="%23TechDealsIndia %23SmartphoneOffers"
-            # Fashion & Streetwear logic
+                EXTRAS="%23TechDealsIndia %23GadgetLoot %23SmartphoneOffers"
             elif [[ "$TITLE" =~ "Shirt"|"Wear"|"Fashion"|"Cloth"|"Shoes"|"Vintage" ]]; then 
-                EXTRAS="%23StreetwearIndia %23FashionBloggerIndia %23OOTD"
-            # Home & Kitchen logic
+                EXTRAS="%23StreetwearIndia %23FashionDeals %23OOTDIndia"
             elif [[ "$TITLE" =~ "Kitchen"|"Home"|"Cooker"|"Decor" ]]; then 
-                EXTRAS="%23IndianHome %23KitchenDeals"
+                EXTRAS="%23IndianHome %23KitchenHacks %23HomeEssentials"
             fi
 
-            # Combining Viral Tags with Category Tags
-            # #BestPriceZone #OnlineShoppingIndia #LootDeals #SaleAlertIndia
-            HASHTAGS="%23BestPriceZone %23OnlineShoppingIndia %23LootDeals %23SaleAlertIndia $EXTRAS"
+            # Top trending 'Loot' tags for Indian shopping groups in 2026
+            VIRAL_TAGS="%23LootAlert %23OnlineShoppingIndia %23BestPriceZone %23AmazonFindsIndia"
+            HASHTAGS="$VIRAL_TAGS $EXTRAS"
 
             echo "Posting ($((i+1))/$NEW_COUNT): $TITLE"
 
-            # 4. Execute Post with optimized Caption
+            # 4. Execute Post with optimized stop-the-scroll caption
+            # Added emoji triggers: 🔥, 💸, 🛒, ⚡
             curl -X POST "https://graph.facebook.com/v18.0/${{ secrets.FB_PAGE_ID }}/photos" \
             -d "url=$IMG_URL" \
-            -d "caption=🔥 NEW DEAL: $TITLE %0A%0A⚡ Grab it before the price changes! %0A%0A🛒 Shop Now: $LINK %0A%0A$HASHTAGS" \
+            -d "caption=🔥 NEW PRICE DROP: $TITLE %0A%0A💸 Best price guaranteed. Grab it before the deal expires! %0A%0A🛒 Shop Now: $LINK %0A%0A$HASHTAGS" \
             -d "access_token=${{ secrets.FB_PAGE_TOKEN }}"
             
-            # Small 5-second sleep (increased slightly for better safety against FB spam filters)
-            sleep 5
+            # 5. Anti-Spam Safety: 10s sleep is safer for high-volume pushes in 2026
+            sleep 10
           done
 
       - name: Prepare site folder
