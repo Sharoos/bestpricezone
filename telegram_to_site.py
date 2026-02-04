@@ -944,13 +944,14 @@ body{
 
 /* --- THE MOBILE HIDE LOGIC --- */
 @media (max-width: 600px) {
-  /* This hides buttons with 'page-num' class */
+  /* We add !important to force the browser to hide them */
   .pager button.page-num { 
-    display: none; 
+    display: none !important; 
   }
-  /* This keeps the active page number visible */
+  
+  /* We force the active one to show */
   .pager button.page-num.active { 
-    display: inline-block; 
+    display: inline-block !important; 
   }
 }
 
@@ -1779,13 +1780,20 @@ __BANNER_HTML__
         pager.appendChild(prevBtn);
 
         // Page Numbers
-        for (let i = 1; i <= totalPages; i++) {
-          const btn = document.createElement('button');
-          btn.innerText = i;
-          btn.className = (i === currentPage) ? 'active page-num' : 'page-num';
-          btn.onclick = () => { currentPage = i; render(); window.scrollTo(0,0); };
-          pager.appendChild(btn);
-        }
+          for (let i = 1; i <= totalPages; i++) {
+            const btn = document.createElement('button');
+            btn.innerText = i;
+            
+            // THIS LINE IS THE FIX: It must add 'page-num'
+            if (i === currentPage) {
+              btn.className = 'active page-num';
+            } else {
+              btn.className = 'page-num';
+            }
+            
+            btn.onclick = () => { currentPage = i; render(); window.scrollTo(0,0); };
+            pager.appendChild(btn);
+          }
 
         // Next Button
         const nextBtn = document.createElement('button');
@@ -3124,5 +3132,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
