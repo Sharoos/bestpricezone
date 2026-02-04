@@ -1618,7 +1618,7 @@ __BANNER_HTML__
   <main class="container" role="main">
     <div id="grid" class="grid" aria-live="polite"></div>
     <div id="empty" class="empty" style="display:none">No deals found.</div>
-    <div id="pager" class="pagination"></div>
+    <div id="pager" class="pager"></div>
   </main>
 
   <footer class="footer" role="contentinfo">
@@ -3125,3 +3125,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
