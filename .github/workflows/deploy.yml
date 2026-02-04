@@ -70,13 +70,11 @@ jobs:
         if: steps.git_commit.outputs.pushed == 'true'
         run: |
           # 1. Get the number of new deals from the git diff
-          # This counts how many "title" lines were added to the JSON
           NEW_COUNT=$(git diff HEAD^ HEAD assets/cards.json | grep '+    "title":' | wc -l)
           
           echo "Found $NEW_COUNT new deals. Posting them to Facebook..."
 
           # 2. Loop through each new deal (from newest to oldest)
-          # Note: index 0 is the newest.
           for (( i=0; i<$NEW_COUNT; i++ ))
           do
             TITLE=$(jq -r ".[$i].title" assets/cards.json)
@@ -84,15 +82,34 @@ jobs:
             IMG_PATH=$(jq -r ".[$i].local_image" assets/cards.json)
             IMG_URL="https://raw.githubusercontent.com/Sharoos/bestpricezone/main/$IMG_PATH"
 
+            # 3. Dynamic Hashtag Research & Selection
+            # We use URL-encoded hashtags (%23 for #) to ensure the API accepts them
+            EXTRAS=""
+            # Tech & Gadgets logic
+            if [[ "$TITLE" =~ "Samsung"|"Phone"|"Watch"|"Mobile"|"Earbuds"|"TV" ]]; then 
+                EXTRAS="%23TechDealsIndia %23SmartphoneOffers"
+            # Fashion & Streetwear logic
+            elif [[ "$TITLE" =~ "Shirt"|"Wear"|"Fashion"|"Cloth"|"Shoes"|"Vintage" ]]; then 
+                EXTRAS="%23StreetwearIndia %23FashionBloggerIndia %23OOTD"
+            # Home & Kitchen logic
+            elif [[ "$TITLE" =~ "Kitchen"|"Home"|"Cooker"|"Decor" ]]; then 
+                EXTRAS="%23IndianHome %23KitchenDeals"
+            fi
+
+            # Combining Viral Tags with Category Tags
+            # #BestPriceZone #OnlineShoppingIndia #LootDeals #SaleAlertIndia
+            HASHTAGS="%23BestPriceZone %23OnlineShoppingIndia %23LootDeals %23SaleAlertIndia $EXTRAS"
+
             echo "Posting ($((i+1))/$NEW_COUNT): $TITLE"
 
+            # 4. Execute Post with optimized Caption
             curl -X POST "https://graph.facebook.com/v18.0/${{ secrets.FB_PAGE_ID }}/photos" \
             -d "url=$IMG_URL" \
-            -d "caption=$TITLE %0A%0A🛒 Shop Now: $LINK %0A%0A#BestPriceZone #Deals" \
+            -d "caption=🔥 NEW DEAL: $TITLE %0A%0A⚡ Grab it before the price changes! %0A%0A🛒 Shop Now: $LINK %0A%0A$HASHTAGS" \
             -d "access_token=${{ secrets.FB_PAGE_TOKEN }}"
             
-            # Small 2-second sleep between posts to prevent Facebook spam filters
-            sleep 2
+            # Small 5-second sleep (increased slightly for better safety against FB spam filters)
+            sleep 5
           done
 
       - name: Prepare site folder
