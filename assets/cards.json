@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg26067",
+    "title": "Up to 85% Off On HRX Luggage",
+    "description": "Flipkart | Upto 85% Off On HRX Luggage. Small : https://fkrt.co/pBcdLO Medium : https://fkrt.co/2Mfhlt Large : https://fkrt.co/NbTbZi Pack Of 2/3 : https://fkrt.co/UePxQW",
+    "shortlink": "https://fkrt.co/pBcdLO",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% Off On HRX Luggage"
+      },
+      {
+        "url": "https://fkrt.co/pBcdLO",
+        "label": "Small"
+      },
+      {
+        "url": "https://fkrt.co/2Mfhlt",
+        "label": "Medium"
+      },
+      {
+        "url": "https://fkrt.co/NbTbZi",
+        "label": "Large"
+      },
+      {
+        "url": "https://fkrt.co/UePxQW",
+        "label": "Pack Of 2/3"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 85% Off On HRX Luggage.\n\nSmall : https://fkrt.co/pBcdLO\nMedium : https://fkrt.co/2Mfhlt\nLarge : https://fkrt.co/NbTbZi\n\nPack Of 2/3 : https://fkrt.co/UePxQW",
+    "final_url": "https://fkrt.co/pBcdLO",
+    "local_image": "assets/images/tgmsg_26067.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-05T04:16:01+00:00",
+    "buy_link": "https://fkrt.co/pBcdLO",
+    "date_iso": "2026-02-05T04:16:01+00:00"
+  },
+  {
     "id": "msg26060",
     "title": "Furniture Up to 90% OFF",
     "description": "Amazon | Furniture Upto 90% OFF https://www.amazon.in/s?k=Home%20Centre&rh=n%3A976442031%2Cp_89%3AHome_Centre%2Cp_6%3AAXOGFIT0PZZ7G%2Cp_n_pct-off-with-tax%3A79-&i=kitchen&refresh=2&tag=bestpricezo0f-21 Slected pIncodes.",
@@ -9113,26 +9149,6 @@
     "merchant_label": "Extp",
     "date_obj": "2026-01-31T14:07:25+00:00",
     "buy_link": "https://extp.in/g5vbUq",
-    "date_iso": "2026-01-31T14:07:25+00:00"
-  },
-  {
-    "id": "msg25499",
-    "title": "Curtains Up to 89% Off 🔥",
-    "description": "Flipkart | Curtains Upto 89% Off 🔥 🛒https://fkrt.co/Y5VRHL",
-    "shortlink": "https://fkrt.co/Y5VRHL",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Y5VRHL",
-        "label": "Curtains Upto 89% Off 🔥"
-      }
-    ],
-    "raw_text": "Flipkart | Curtains Upto 89% Off 🔥\n\n🛒https://fkrt.co/Y5VRHL",
-    "final_url": "https://fkrt.co/Y5VRHL",
-    "local_image": "assets/images/tgmsg_25499.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-01-31T14:07:25+00:00",
-    "buy_link": "https://fkrt.co/Y5VRHL",
     "date_iso": "2026-01-31T14:07:25+00:00"
   }
 ]
