@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg26220",
+    "title": "Miraggio Min 50%",
+    "description": "Ajio | Miraggio Min 50% https://ajiio.co/UWppiY Soch Min 60% https://ajiio.co/ooqMTh",
+    "shortlink": "https://ajiio.co/UWppiY",
+    "urls": [
+      {
+        "url": "https://ajiio.co/UWppiY",
+        "label": "Miraggio Min 50%"
+      },
+      {
+        "url": "https://ajiio.co/ooqMTh",
+        "label": "Soch Min 60%"
+      }
+    ],
+    "raw_text": "Ajio | Miraggio Min 50%\nhttps://ajiio.co/UWppiY\n\nSoch Min 60%\nhttps://ajiio.co/ooqMTh",
+    "final_url": "https://ajiio.co/UWppiY",
+    "local_image": "assets/images/tgmsg_26220.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-06T03:49:37+00:00",
+    "buy_link": "https://ajiio.co/UWppiY",
+    "date_iso": "2026-02-06T03:49:37+00:00"
+  },
+  {
+    "id": "msg26221",
+    "title": "Up to 80% Off On Raymond, Park Avenue & Parx Clothing",
+    "description": "Ajio Upto 80% Off On Raymond, Park Avenue & Parx Clothing. Shirt : Trousers : T-shirt : Jeans : Womens :",
+    "shortlink": "https://ajiio.co/uXq8lc",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Upto 80% Off On Raymond, Park Avenue & Parx Clothing"
+      },
+      {
+        "url": "https://ajiio.co/uXq8lc",
+        "label": "Shirt"
+      },
+      {
+        "url": "https://ajiio.co/unah6g",
+        "label": "Trousers"
+      },
+      {
+        "url": "https://ajiio.co/unW6kd",
+        "label": "T-shirt"
+      },
+      {
+        "url": "https://ajiio.co/8C5z6R",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/TLj8uo",
+        "label": "Womens"
+      }
+    ],
+    "raw_text": "Ajio  Upto 80% Off On Raymond, Park Avenue & Parx Clothing.\n\nShirt : https://ajiio.co/uXq8lc\nTrousers : https://ajiio.co/unah6g\nT-shirt : https://ajiio.co/unW6kd\nJeans : https://ajiio.co/8C5z6R\n\nWomens : https://ajiio.co/TLj8uo",
+    "final_url": "https://ajiio.co/uXq8lc",
+    "local_image": "assets/images/tgmsg_26221.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-06T04:35:50+00:00",
+    "buy_link": "https://ajiio.co/uXq8lc",
+    "date_iso": "2026-02-06T04:35:50+00:00"
+  },
+  {
     "id": "msg26206",
     "title": "Footwears @199",
     "description": "Loot Footwears @199. Men's : https://ajiio.in/UADwTjJ Women's : https://ajiio.in/b7HKVtw",
@@ -9682,49 +9746,5 @@
     "date_obj": "2026-02-01T14:11:38+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FKBRGT1B?tag=bestpricezo0f-21",
     "date_iso": "2026-02-01T14:11:38+00:00"
-  },
-  {
-    "id": "msg25620",
-    "title": "Double Bedsheets + Cushion Cover Set 440",
-    "description": "Double Bedsheets + Cushion Cover Set 440. https://fkrt.co/XGV1Ws",
-    "shortlink": "https://fkrt.co/XGV1Ws",
-    "urls": [
-      {
-        "url": "https://fkrt.co/XGV1Ws",
-        "label": "Double Bedsheets + Cushion Cover Set 440"
-      }
-    ],
-    "raw_text": "Double Bedsheets + Cushion Cover Set 440.\n\nhttps://fkrt.co/XGV1Ws",
-    "final_url": "https://fkrt.co/XGV1Ws",
-    "local_image": "assets/images/tgmsg_25620.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-01T14:11:48+00:00",
-    "buy_link": "https://fkrt.co/XGV1Ws",
-    "date_iso": "2026-02-01T14:11:48+00:00"
-  },
-  {
-    "id": "msg25621",
-    "title": "Deal Price ₹369",
-    "description": "Amazon | ANT Flora Bud Digital Weighing Scale, Highly Accurate Digital Deal Price : ₹369 👉",
-    "shortlink": "https://www.amazon.in/dp/B0CFXZFTJJ?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "ANT Flora Bud Digital Weighing Scale, Highly Accurate Digital"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0CFXZFTJJ?psc=1&tag=bestpricezo0f-21",
-        "label": "₹369"
-      }
-    ],
-    "raw_text": "Amazon | ANT Flora Bud Digital Weighing Scale, Highly Accurate Digital\n\nDeal Price : ₹369\n\n👉 https://www.amazon.in/dp/B0CFXZFTJJ?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0CFXZFTJJ?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_25621.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-02-01T14:26:27+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0CFXZFTJJ?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-02-01T14:26:27+00:00"
   }
 ]
