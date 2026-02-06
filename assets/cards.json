@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg26380",
+    "title": "Roadster Men Sweatshirts at Flat ₹199",
+    "description": "Myntra  Roadster Men Sweatshirts at Flat ₹199. https://myntr.in/g4F8S8 Mast & Harbour : https://myntr.in/vBChu1",
+    "shortlink": "https://myntr.in/g4F8S8",
+    "urls": [
+      {
+        "url": "https://myntr.in/g4F8S8",
+        "label": "Myntra Roadster Men Sweatshirts at Flat ₹199"
+      },
+      {
+        "url": "https://myntr.in/vBChu1",
+        "label": "Mast & Harbour"
+      }
+    ],
+    "raw_text": "Myntra  Roadster Men Sweatshirts at Flat ₹199.\n\nhttps://myntr.in/g4F8S8\n\nMast & Harbour : https://myntr.in/vBChu1",
+    "final_url": "https://myntr.in/g4F8S8",
+    "local_image": "assets/images/tgmsg_26380.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-06T18:36:10+00:00",
+    "buy_link": "https://myntr.in/g4F8S8",
+    "date_iso": "2026-02-06T18:36:10+00:00"
+  },
+  {
+    "id": "msg26386",
+    "title": "Dabur Almond Hair Oil (2 x 290ml) @186",
+    "description": "Amazon | Dabur Almond Hair Oil (2 x 290ml) @186 https://www.amazon.in/dp/B0B2918K5R?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0B2918K5R?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0B2918K5R?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Dabur Almond Hair Oil (2 x 290ml) @186"
+      }
+    ],
+    "raw_text": "Amazon | Dabur Almond Hair Oil (2 x 290ml) @186\n\nhttps://www.amazon.in/dp/B0B2918K5R?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0B2918K5R?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_26386.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-06T19:23:21+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0B2918K5R?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-02-06T19:23:21+00:00"
+  },
+  {
     "id": "msg26364",
     "title": "🛒 Deal Price Starts @ ₹83",
     "description": "Flipkart | 💄 Makeup Brush Sets 🛒 Deal Price: Starts @ ₹83 👉 https://fkrt.co/gRLD3O",
@@ -9850,45 +9894,5 @@
     "date_obj": "2026-02-03T04:25:27+00:00",
     "buy_link": "https://fktr.in/8wmCgv0",
     "date_iso": "2026-02-03T04:25:27+00:00"
-  },
-  {
-    "id": "msg25792",
-    "title": "",
-    "description": "https://fkrt.co/7Lh3ri",
-    "shortlink": "https://fkrt.co/7Lh3ri",
-    "urls": [
-      {
-        "url": "https://fkrt.co/7Lh3ri",
-        "label": ""
-      }
-    ],
-    "raw_text": "https://fkrt.co/7Lh3ri",
-    "final_url": "https://fkrt.co/7Lh3ri",
-    "local_image": "assets/images/tgmsg_25792.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-03T04:27:39+00:00",
-    "buy_link": "https://fkrt.co/7Lh3ri",
-    "date_iso": "2026-02-03T04:27:39+00:00"
-  },
-  {
-    "id": "msg25793",
-    "title": "",
-    "description": "LOOT https://fktr.in/mbmqG72",
-    "shortlink": "https://fktr.in/mbmqG72",
-    "urls": [
-      {
-        "url": "https://fktr.in/mbmqG72",
-        "label": ""
-      }
-    ],
-    "raw_text": "LOOT\n\nhttps://fktr.in/mbmqG72",
-    "final_url": "https://fktr.in/mbmqG72",
-    "local_image": "assets/images/tgmsg_25793.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-03T04:28:07+00:00",
-    "buy_link": "https://fktr.in/mbmqG72",
-    "date_iso": "2026-02-03T04:28:07+00:00"
   }
 ]
