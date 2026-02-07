@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg26420",
+    "title": "RR Signature 150 mm Exhaust Fan @699",
+    "description": "Amazon | RR Signature 150 mm Exhaust Fan @699. 👉https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
+        "label": "RR Signature 150 mm Exhaust Fan @699"
+      }
+    ],
+    "raw_text": "Amazon | RR Signature 150 mm Exhaust Fan @699.\n\n👉https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_26420.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-07T08:34:43+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DK9WVY8C?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-02-07T08:34:43+00:00"
+  },
+  {
     "id": "msg26411",
     "title": "65% Off On U.S. Polo Assn. Men's Clothing",
     "description": "Myntra : Flat 60-. Tshirts : Shirts : Jeans : Trousers : Shorts : Sweatshirts : Trackpants : Footwears :",
@@ -10034,25 +10054,5 @@
     "date_obj": "2026-02-03T10:03:18+00:00",
     "buy_link": "https://extp.in/7MY3Tv",
     "date_iso": "2026-02-03T10:03:18+00:00"
-  },
-  {
-    "id": "msg25836",
-    "title": "Dabur Gulabari Shower Gel",
-    "description": "Amazon | Dabur Gulabari Shower Gel - 500 ml @₹188 🔗 https://www.amazon.in/dp/B0FNW4PYQG?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FNW4PYQG?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FNW4PYQG?th=1&tag=bestpricezo0f-21",
-        "label": "Dabur Gulabari Shower Gel - 500 ml @₹188"
-      }
-    ],
-    "raw_text": "Amazon | Dabur Gulabari Shower Gel - 500 ml @₹188\n\n🔗 https://www.amazon.in/dp/B0FNW4PYQG?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FNW4PYQG?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_25836.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-02-03T10:10:25+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FNW4PYQG?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-02-03T10:10:25+00:00"
   }
 ]
