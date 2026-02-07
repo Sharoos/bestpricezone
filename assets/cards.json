@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg26511",
+    "title": "Puma Trousers min. 60% off",
+    "description": "Flipkart | Puma Trousers min. 60% off Men  :  https://fkrt.co/cKKYc8 Women  :  https://fkrt.co/Gio900",
+    "shortlink": "https://fkrt.co/cKKYc8",
+    "urls": [
+      {
+        "url": "https://fkrt.co/cKKYc8",
+        "label": "Puma Trousers min. 60% off"
+      },
+      {
+        "url": "https://fkrt.co/Gio900",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Flipkart | Puma Trousers min. 60% off\n\nMen  :  https://fkrt.co/cKKYc8\n\nWomen  :  https://fkrt.co/Gio900",
+    "final_url": "https://fkrt.co/cKKYc8",
+    "local_image": "assets/images/tgmsg_26511.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-07T17:06:07+00:00",
+    "buy_link": "https://fkrt.co/cKKYc8",
+    "date_iso": "2026-02-07T17:06:07+00:00"
+  },
+  {
     "id": "msg26508",
     "title": "🔗 Daily Moisturising Body Lotion (Set of 3) At 33",
     "description": "ONDC Daily Moisturising Body Lotion -100ml At 13 🔥🔥 👉🏻 Link : ✅ Use Code : DEAL36  : 🔗 Kumkumadi Skin Lightening Face Cream At 33 : 🔗 Sunscreen Hydra Gel for All Skin At 43 :",
@@ -9986,29 +10010,5 @@
     "date_obj": "2026-02-04T02:17:16+00:00",
     "buy_link": "https://www.amazon.in/dp/B0B2QMWTKR?tag=bestpricezo0f-21",
     "date_iso": "2026-02-04T02:17:16+00:00"
-  },
-  {
-    "id": "msg25901",
-    "title": "Min 70% Off On Women T",
-    "description": "Ajio -shirts Starting From @75🔥🔥🔥🔥 🔗Links : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "shortlink": "https://ajiio.co/KPe6pU",
-    "urls": [
-      {
-        "url": "https://ajiio.co/KPe6pU",
-        "label": "Ajio Min 70% Off On Women T-shirts Starting From @75🔥🔥🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
-      }
-    ],
-    "raw_text": "Ajio  Min 70% Off On Women T-shirts Starting From @75🔥🔥🔥🔥 \n \n🔗Links : https://ajiio.co/KPe6pU\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
-    "final_url": "https://ajiio.co/KPe6pU",
-    "local_image": "assets/images/tgmsg_25901.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-02-03T18:16:18+00:00",
-    "buy_link": "https://ajiio.co/KPe6pU",
-    "date_iso": "2026-02-03T18:16:18+00:00"
   }
 ]
