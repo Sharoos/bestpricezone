@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg26439",
+    "title": "Up to 75% Off",
+    "description": "Flipkart | Upto 75% Off - Women's Casual Jackets Starting Rs.266 🔗 https://fkrt.co/uqBDzp",
+    "shortlink": "https://fkrt.co/uqBDzp",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off - Women's Casual Jackets"
+      },
+      {
+        "url": "https://fkrt.co/uqBDzp",
+        "label": "Starting Rs.266"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 75% Off - Women's Casual Jackets\n\nStarting Rs.266\n\n🔗 https://fkrt.co/uqBDzp",
+    "final_url": "https://www.shopsy.in/clothing-and-accessories/winter-wear/jackets/womens-jackets/pr?sid=clo%2Cqvw%2Cz0g%2Crwo&otracker=categorytree&p%5B%5D=facets.type%255B%255D%3DCasual%2BJacket&p%5B%5D=facets.price_range.from%3DMin&p%5B%5D=facets.price_range.to%3D349&&affid=shopsyhaulpack&affExtParam1=HPHC2905470_2171_uqBDzp&affExtParam2=uqBDzp_p__p_&cmpid=AFF_shopsyhaulpack&_refId=PP.ff3936aa-4f0e-4baf-a67f-023b7d287b35.MRUGHGDAVJTMBX9Y&_appId=WA&pwsvid=PW1770463409508SuqBDzpRlZEsTrGp&src=ot",
+    "local_image": "assets/images/tgmsg_26439.jpg",
+    "source_host": "www.shopsy.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-07T11:03:36+00:00",
+    "buy_link": "https://fkrt.co/uqBDzp",
+    "date_iso": "2026-02-07T11:03:36+00:00"
+  },
+  {
     "id": "msg26434",
     "title": "Pack Of 2 The Sleep Company Plush Pillow at 999",
     "description": "Amazon | Pack Of 2 The Sleep Company Plush Pillow at 999. https://www.amazon.in/dp/B0DWH5BXZ9?th=1&tag=bestpricezo0f-21",
@@ -10138,29 +10162,5 @@
     "date_obj": "2026-02-03T12:40:17+00:00",
     "buy_link": "https://extp.in/vGL8YC",
     "date_iso": "2026-02-03T12:40:17+00:00"
-  },
-  {
-    "id": "msg25863",
-    "title": "Shopsy Floor Mat (Set of 2) at ₹135/₹149",
-    "description": "Shopsy | Floor Mat (Set of 2) at ₹135/₹149 🔗 https://extp.in/sXyiQF 🔗 https://extp.in/J6uAfK",
-    "shortlink": "https://extp.in/sXyiQF",
-    "urls": [
-      {
-        "url": "https://extp.in/sXyiQF",
-        "label": "Floor Mat (Set of 2) at ₹135/₹149"
-      },
-      {
-        "url": "https://extp.in/J6uAfK",
-        "label": "Floor Mat (Set of 2) at ₹135/₹149"
-      }
-    ],
-    "raw_text": "Shopsy | Floor Mat (Set of 2) at ₹135/₹149\n\n🔗 https://extp.in/sXyiQF\n🔗 https://extp.in/J6uAfK",
-    "final_url": "https://extp.in/sXyiQF",
-    "local_image": "assets/images/tgmsg_25863.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-02-03T13:00:54+00:00",
-    "buy_link": "https://extp.in/sXyiQF",
-    "date_iso": "2026-02-03T13:00:54+00:00"
   }
 ]
