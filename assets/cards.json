@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg26615",
+    "title": "Raymond , Park Avenue & Parx Min 60%",
+    "description": "Ajio | Raymond , Park Avenue & Parx Min 60% https://ajiio.co/nIQ8qd Under armour Min 45% https://ajiio.co/AVLp3B",
+    "shortlink": "https://ajiio.co/nIQ8qd",
+    "urls": [
+      {
+        "url": "https://ajiio.co/nIQ8qd",
+        "label": "Raymond , Park Avenue & Parx Min 60%"
+      },
+      {
+        "url": "https://ajiio.co/AVLp3B",
+        "label": "Under armour Min 45%"
+      }
+    ],
+    "raw_text": "Ajio | Raymond , Park Avenue & Parx Min 60%\nhttps://ajiio.co/nIQ8qd\n\nUnder armour Min 45% \nhttps://ajiio.co/AVLp3B",
+    "final_url": "https://ajiio.co/nIQ8qd",
+    "local_image": "assets/images/tgmsg_26615.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-08T17:46:23+00:00",
+    "buy_link": "https://ajiio.co/nIQ8qd",
+    "date_iso": "2026-02-08T17:46:23+00:00"
+  },
+  {
     "id": "msg26611",
     "title": "👜 Men & Women Brown Messenger Bag – Just ₹449 😍",
     "description": "Flipkart |👜 Men & Women Brown Messenger Bag – Just ₹449 😍 👉  https://fkrt.co/rNHJv6",
@@ -10214,25 +10238,5 @@
     "date_obj": "2026-02-04T16:05:28+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FBMDWQ1B?tag=bestpricezo0f-21",
     "date_iso": "2026-02-04T16:05:28+00:00"
-  },
-  {
-    "id": "msg26036",
-    "title": "Yatra x Woohoo Get ₹2000 Yatra HOTEL Gift Card @89",
-    "description": "Loot : Yatra x Woohoo | Get ₹2000 Yatra HOTEL Gift Card @89 Link : Apply Coupon : FLAT89 Note : EGV is Valid for booking of Domestic Hotels Only.",
-    "shortlink": "https://bitli.in/VQK2HuS",
-    "urls": [
-      {
-        "url": "https://bitli.in/VQK2HuS",
-        "label": "Yatra x Woohoo | Get ₹2000 Yatra HOTEL Gift Card @89"
-      }
-    ],
-    "raw_text": "Loot : Yatra x Woohoo | Get ₹2000 Yatra HOTEL Gift Card @89\n \nLink : https://bitli.in/VQK2HuS\n\nApply Coupon : FLAT89\n\nNote : EGV is Valid for booking of Domestic Hotels Only.",
-    "final_url": "https://bitli.in/VQK2HuS",
-    "local_image": "assets/images/tgmsg_26036.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-02-04T16:06:16+00:00",
-    "buy_link": "https://bitli.in/VQK2HuS",
-    "date_iso": "2026-02-04T16:06:16+00:00"
   }
 ]
