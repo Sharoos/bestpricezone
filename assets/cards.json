@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg26599",
+    "title": "Yousta Under 399",
+    "description": "Ajio | Yousta Under 399 https://ajiio.co/5cTOBM JP & LC Min 70% https://ajiio.co/h4i1se",
+    "shortlink": "https://ajiio.co/5cTOBM",
+    "urls": [
+      {
+        "url": "https://ajiio.co/5cTOBM",
+        "label": "Yousta Under 399"
+      },
+      {
+        "url": "https://ajiio.co/h4i1se",
+        "label": "JP & LC Min 70%"
+      }
+    ],
+    "raw_text": "Ajio | Yousta Under 399\nhttps://ajiio.co/5cTOBM\n\nJP & LC Min 70%\nhttps://ajiio.co/h4i1se",
+    "final_url": "https://ajiio.co/5cTOBM",
+    "local_image": "assets/images/tgmsg_26599.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-08T15:05:38+00:00",
+    "buy_link": "https://ajiio.co/5cTOBM",
+    "date_iso": "2026-02-08T15:05:38+00:00"
+  },
+  {
     "id": "msg26598",
     "title": "Red Tape Shoes at Up to 83% Discount",
     "description": "Ajio | Red Tape Shoes at Upto 83% Discount https://ajiio.co/ZxEPpX",
@@ -10166,25 +10190,5 @@
     "date_obj": "2026-02-04T15:46:30+00:00",
     "buy_link": "https://www.amazon.in/dp/B002ZVD0QI?psc=1&th=1&tag=bestpricezo0f-21",
     "date_iso": "2026-02-04T15:46:30+00:00"
-  },
-  {
-    "id": "msg26013",
-    "title": "Up to 55% Off on Bata Sandal",
-    "description": "Amazon | Upto 55% Off on Bata Sandals. 👉https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
-        "label": "Upto 55% Off on Bata Sandals"
-      }
-    ],
-    "raw_text": "Amazon | Upto 55% Off on Bata Sandals.\n\n👉https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_26013.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-02-04T14:46:20+00:00",
-    "buy_link": "https://www.amazon.in/s?k=batasandals&rh=p_n_pct-off-with-tax%3A50-99&tag=bestpricezo0f-21",
-    "date_iso": "2026-02-04T14:46:20+00:00"
   }
 ]
