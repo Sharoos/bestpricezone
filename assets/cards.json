@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg26574",
+    "title": "Up to 60% Off On Beauty Item",
+    "description": "Myntra : Upto 60% Off On Beauty Items. Lakmé : Pond's : BoroPlus : Livon : Vaseline : Master Link :",
+    "shortlink": "https://myntr.in/TMvrsM",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 60% Off On Beauty Items"
+      },
+      {
+        "url": "https://myntr.in/TMvrsM",
+        "label": "Lakmé"
+      },
+      {
+        "url": "https://myntr.in/1FsO3q",
+        "label": "Pond's"
+      },
+      {
+        "url": "https://myntr.in/NICFYl",
+        "label": "BoroPlus"
+      },
+      {
+        "url": "https://myntr.in/4MShFh",
+        "label": "Livon"
+      },
+      {
+        "url": "https://myntr.in/aaO12q",
+        "label": "Vaseline"
+      },
+      {
+        "url": "https://myntr.in/9fPC93",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Myntra : Upto 60% Off On Beauty Items. \n\nLakmé : https://myntr.in/TMvrsM\nPond's : https://myntr.in/1FsO3q\nBoroPlus : https://myntr.in/NICFYl\nLivon : https://myntr.in/4MShFh\nVaseline : https://myntr.in/aaO12q\n\nMaster Link : https://myntr.in/9fPC93",
+    "final_url": "https://myntr.in/TMvrsM",
+    "local_image": "assets/images/tgmsg_26574.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-08T11:25:55+00:00",
+    "buy_link": "https://myntr.in/TMvrsM",
+    "date_iso": "2026-02-08T11:25:55+00:00"
+  },
+  {
+    "id": "msg26579",
+    "title": "Mokshi Women Kurta Up to 88% off",
+    "description": "Flipkart | Mokshi Women Kurta Upto 88% off 👉Link : https://fkrt.co/CNjfmZ",
+    "shortlink": "https://fkrt.co/CNjfmZ",
+    "urls": [
+      {
+        "url": "https://fkrt.co/CNjfmZ",
+        "label": "Mokshi Women Kurta Upto 88% off"
+      }
+    ],
+    "raw_text": "Flipkart | Mokshi Women Kurta Upto 88% off \n\n👉Link : https://fkrt.co/CNjfmZ",
+    "final_url": "https://fkrt.co/CNjfmZ",
+    "local_image": "assets/images/tgmsg_26579.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-08T11:41:07+00:00",
+    "buy_link": "https://fkrt.co/CNjfmZ",
+    "date_iso": "2026-02-08T11:41:07+00:00"
+  },
+  {
     "id": "msg26571",
     "title": "65% Off On U.S. Polo Assn. Men's Clothing",
     "description": "Myntra : Flat 60-. Tshirts : Shirts : Jeans : Trousers : Shorts : Sweatshirts : Trackpants : Footwears :",
@@ -9970,49 +10034,5 @@
     "date_obj": "2026-02-04T12:04:58+00:00",
     "buy_link": "https://fkrt.co/tFMey4",
     "date_iso": "2026-02-04T12:04:58+00:00"
-  },
-  {
-    "id": "msg25989",
-    "title": "URBN 10000 mAh 22.5 W Power Bank @539",
-    "description": "Flipkart | URBN 10000 mAh 22.5 W Power Bank @539 🔗 https://fkrt.co/SxkNUE",
-    "shortlink": "https://fkrt.co/SxkNUE",
-    "urls": [
-      {
-        "url": "https://fkrt.co/SxkNUE",
-        "label": "URBN 10000 mAh 22.5 W Power Bank @539"
-      }
-    ],
-    "raw_text": "Flipkart | URBN 10000 mAh 22.5 W Power Bank @539\n\n🔗 https://fkrt.co/SxkNUE",
-    "final_url": "https://fkrt.co/SxkNUE",
-    "local_image": "assets/images/tgmsg_25989.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-04T11:50:11+00:00",
-    "buy_link": "https://fkrt.co/SxkNUE",
-    "date_iso": "2026-02-04T11:50:11+00:00"
-  },
-  {
-    "id": "msg25987",
-    "title": "Shopsy 🔥Urban Carrier Luggage at ₹1000",
-    "description": "Shopsy | 🔥Urban Carrier Luggage at ₹1000 👉https://extp.in/sxOzMx 👉https://extp.in/y3QiRd",
-    "shortlink": "https://extp.in/sxOzMx",
-    "urls": [
-      {
-        "url": "https://extp.in/sxOzMx",
-        "label": "🔥Urban Carrier Luggage at ₹1000"
-      },
-      {
-        "url": "https://extp.in/y3QiRd",
-        "label": "🔥Urban Carrier Luggage at ₹1000"
-      }
-    ],
-    "raw_text": "Shopsy | 🔥Urban Carrier Luggage at ₹1000\n\n👉https://extp.in/sxOzMx\n👉https://extp.in/y3QiRd",
-    "final_url": "https://extp.in/sxOzMx",
-    "local_image": "assets/images/tgmsg_25987.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-02-04T11:20:21+00:00",
-    "buy_link": "https://extp.in/sxOzMx",
-    "date_iso": "2026-02-04T11:20:21+00:00"
   }
 ]
