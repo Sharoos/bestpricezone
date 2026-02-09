@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg26659",
+    "title": "Shirt ₹104",
+    "description": "Shopsy | Polo T-Shirt  ₹104 🔗 https://extp.in/A4zMoj",
+    "shortlink": "https://extp.in/A4zMoj",
+    "urls": [
+      {
+        "url": "https://extp.in/A4zMoj",
+        "label": "Polo T-Shirt ₹104"
+      }
+    ],
+    "raw_text": "Shopsy | Polo T-Shirt  ₹104\n\n🔗 https://extp.in/A4zMoj",
+    "final_url": "https://extp.in/A4zMoj",
+    "local_image": "assets/images/tgmsg_26659.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-02-09T11:20:32+00:00",
+    "buy_link": "https://extp.in/A4zMoj",
+    "date_iso": "2026-02-09T11:20:32+00:00"
+  },
+  {
     "id": "msg26651",
     "title": "Shopsy 89% Off",
     "description": "Shopsy | 89% Off - Remorse Women Fit and Flare Beige Dress At Rs.263 🔗 Master Link -",
@@ -10314,25 +10334,5 @@
     "date_obj": "2026-02-05T07:37:04+00:00",
     "buy_link": "https://bitli.in/YSlpJaM",
     "date_iso": "2026-02-05T07:37:04+00:00"
-  },
-  {
-    "id": "msg26077",
-    "title": "Up to 56% Off On Wild Stone Deo & Perfume",
-    "description": "Amazon | Upto 56% Off On Wild Stone Deo & Perfume.…",
-    "shortlink": "https://www.amazon.in/s?k=Wild%252BStone&rh=n%3A1355016031%2Cp_89%3AWild_Stone%7CWild_Stone_CODE%2Cp_n_pct-off-with-tax%3A2665401031&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21&",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?k=Wild%252BStone&rh=n%3A1355016031%2Cp_89%3AWild_Stone%7CWild_Stone_CODE%2Cp_n_pct-off-with-tax%3A2665401031&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21&",
-        "label": "Upto 56% Off On Wild Stone Deo & Perfume"
-      }
-    ],
-    "raw_text": "Amazon | Upto 56% Off On Wild Stone Deo & Perfume.\n\n👉https://www.amazon.in/s?k=Wild%252BStone&rh=n%3A1355016031%2Cp_89%3AWild_Stone%7CWild_Stone_CODE%2Cp_n_pct-off-with-tax%3A2665401031&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21&",
-    "final_url": "https://www.amazon.in/s?k=Wild%252BStone&rh=n%3A1355016031%2Cp_89%3AWild_Stone%7CWild_Stone_CODE%2Cp_n_pct-off-with-tax%3A2665401031&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21&",
-    "local_image": "assets/images/tgmsg_26077.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-02-05T05:46:12+00:00",
-    "buy_link": "https://www.amazon.in/s?k=Wild%252BStone&rh=n%3A1355016031%2Cp_89%3AWild_Stone%7CWild_Stone_CODE%2Cp_n_pct-off-with-tax%3A2665401031&s=price-asc-rank&i=beauty&tag=bestpricezo0f-21&",
-    "date_iso": "2026-02-05T05:46:12+00:00"
   }
 ]
