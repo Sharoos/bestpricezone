@@ -1,5 +1,109 @@
 [
   {
+    "id": "msg26958",
+    "title": "351",
+    "description": "351 https://www.amazon.in/dp/B0FNNB768S?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FNNB768S?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FNNB768S?th=1&tag=bestpricezo0f-21",
+        "label": "351"
+      }
+    ],
+    "raw_text": "351 https://www.amazon.in/dp/B0FNNB768S?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FNNB768S?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_26958.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-12T11:39:13+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FNNB768S?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-02-12T11:39:13+00:00"
+  },
+  {
+    "id": "msg26959",
+    "title": "Get Extra 1500 Off Using 1 Supercoin+Bank Offe",
+    "description": "Pre-order: Oppo K14X 5G @14,999 https://fktr.in/Mrb08t0 • Get Extra 1500 Off Using 1 Supercoin+Bank Offers.",
+    "shortlink": "https://fktr.in/Mrb08t0",
+    "urls": [
+      {
+        "url": "https://fktr.in/Mrb08t0",
+        "label": "order: Oppo K14X 5G @14,999"
+      },
+      {
+        "url": "",
+        "label": "Get Extra 1500 Off Using 1 Supercoin+Bank Offers"
+      }
+    ],
+    "raw_text": "Pre-order: Oppo K14X 5G @14,999\n\nhttps://fktr.in/Mrb08t0\n\n• Get Extra 1500 Off Using 1 Supercoin+Bank Offers.",
+    "final_url": "https://fktr.in/Mrb08t0",
+    "local_image": "assets/images/tgmsg_26959.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-12T11:44:38+00:00",
+    "buy_link": "https://fktr.in/Mrb08t0",
+    "date_iso": "2026-02-12T11:44:38+00:00"
+  },
+  {
+    "id": "msg26960",
+    "title": "68% Off",
+    "description": "Flipkart | 68% Off - adidas Shoes For Men At Rs.1023 🔗 https://fkrt.co/jzwuOA Master Link -  https://fkrt.co/fjixwB",
+    "shortlink": "https://fkrt.co/jzwuOA",
+    "urls": [
+      {
+        "url": "https://fkrt.co/jzwuOA",
+        "label": "68% Off - adidas Shoes For Men At Rs.1023"
+      },
+      {
+        "url": "https://fkrt.co/fjixwB",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Flipkart | 68% Off - adidas Shoes For Men At Rs.1023\n\n 🔗 https://fkrt.co/jzwuOA\n\nMaster Link -  https://fkrt.co/fjixwB",
+    "final_url": "https://fkrt.co/jzwuOA",
+    "local_image": "assets/images/tgmsg_26960.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-12T11:47:20+00:00",
+    "buy_link": "https://fkrt.co/jzwuOA",
+    "date_iso": "2026-02-12T11:47:20+00:00"
+  },
+  {
+    "id": "msg26961",
+    "title": "Shopsy Valentine Day's Deals Starting at 29",
+    "description": "Shopsy: Valentine Day's Deals Starting at 29 Link: Teddy Bear: Chocolate: Gift Hampers: Coffee Mug:",
+    "shortlink": "https://bitli.in/9lbyweI",
+    "urls": [
+      {
+        "url": "https://bitli.in/9lbyweI",
+        "label": "Valentine Day's Deals Starting at 29"
+      },
+      {
+        "url": "https://bitli.in/heauORa",
+        "label": "Teddy Bear"
+      },
+      {
+        "url": "https://bitli.in/y7aTRs4",
+        "label": "Chocolate"
+      },
+      {
+        "url": "https://bitli.in/thML2uc",
+        "label": "Gift Hampers"
+      },
+      {
+        "url": "https://bitli.in/WODSwcY",
+        "label": "Coffee Mug"
+      }
+    ],
+    "raw_text": "Shopsy: Valentine Day's Deals Starting at 29\n\nLink: https://bitli.in/9lbyweI\n\nTeddy Bear: https://bitli.in/heauORa\nChocolate: https://bitli.in/y7aTRs4\nGift Hampers: https://bitli.in/thML2uc\nCoffee Mug: https://bitli.in/WODSwcY",
+    "final_url": "https://bitli.in/9lbyweI",
+    "local_image": "assets/images/tgmsg_26961.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2026-02-12T11:50:16+00:00",
+    "buy_link": "https://bitli.in/9lbyweI",
+    "date_iso": "2026-02-12T11:50:16+00:00"
+  },
+  {
     "id": "msg26947",
     "title": "TVS Racing Full Face Helmet @1450",
     "description": "Amazon | TVS Racing Full Face Helmet @1450 🔗 https://www.amazon.in/dp/B0F1MMXYZT?th=1&psc=1&tag=bestpricezo0f-21",
@@ -9734,113 +9838,5 @@
     "date_obj": "2026-02-07T11:58:36+00:00",
     "buy_link": "https://www.amazon.in/Secret-Alchemist-Parfum-Lasting-Perfume/dp/B0FBRZFGH8?tag=bestpricezo0f-21",
     "date_iso": "2026-02-07T11:58:36+00:00"
-  },
-  {
-    "id": "msg26449",
-    "title": "USPA & Hellcat and More Up to 83% Off",
-    "description": "AJIO: USPA & Hellcat and More Upto 83% Off 👉Link : https://ajiio.co/pdqvKJ + 10% EXTRA AJIO CASH",
-    "shortlink": "https://ajiio.co/pdqvKJ",
-    "urls": [
-      {
-        "url": "https://ajiio.co/pdqvKJ",
-        "label": "USPA & Hellcat and More Upto 83% Off"
-      },
-      {
-        "url": "",
-        "label": "+ 10% EXTRA AJIO CASH"
-      }
-    ],
-    "raw_text": "AJIO: USPA & Hellcat and More Upto 83% Off\n\n👉Link : https://ajiio.co/pdqvKJ\n\n+ 10% EXTRA AJIO CASH",
-    "final_url": "https://ajiio.co/pdqvKJ",
-    "local_image": "assets/images/tgmsg_26449.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-02-07T12:15:40+00:00",
-    "buy_link": "https://ajiio.co/pdqvKJ",
-    "date_iso": "2026-02-07T12:15:40+00:00"
-  },
-  {
-    "id": "msg26440",
-    "title": "50% Off Adidas India Cricket Jersey @499",
-    "description": "GRAB 50% Off: Adidas India Cricket Jersey @499 https://fktr.in/wYxaMh7",
-    "shortlink": "https://fktr.in/wYxaMh7",
-    "urls": [
-      {
-        "url": "https://fktr.in/wYxaMh7",
-        "label": "GRAB 50% Off: Adidas India Cricket Jersey @499"
-      }
-    ],
-    "raw_text": "GRAB 50% Off: Adidas India Cricket Jersey @499\n\nhttps://fktr.in/wYxaMh7",
-    "final_url": "https://fktr.in/wYxaMh7",
-    "local_image": "assets/images/tgmsg_26440.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-07T11:30:49+00:00",
-    "buy_link": "https://fktr.in/wYxaMh7",
-    "date_iso": "2026-02-07T11:30:49+00:00"
-  },
-  {
-    "id": "msg26443",
-    "title": "⚡ Deal Price ₹500 only (Flat 50% OFF 😱)",
-    "description": "🔥 Flipkart Lowest Price Ever – Adidas Official India Cricket Jersey 🇮🇳 🔥 👕 Adidas India T20 International Fan Jersey 💙 Official Team India Look ✨ Premium Polyester | Striped V-Neck 💰 MRP: ₹999 ⚡ Deal Price: ₹500 only…",
-    "shortlink": "https://fkrt.co/yxx12D",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Flipkart Lowest Price Ever – Adidas Official India Cricket Jersey 🇮🇳 🔥"
-      },
-      {
-        "url": "",
-        "label": "👕 Adidas India T20 International Fan Jersey"
-      },
-      {
-        "url": "",
-        "label": "💙 Official Team India Look"
-      },
-      {
-        "url": "",
-        "label": "✨ Premium Polyester | Striped V-Neck"
-      },
-      {
-        "url": "",
-        "label": "💰 MRP: ₹999"
-      },
-      {
-        "url": "",
-        "label": "⚡ Deal Price: ₹500 only (Flat 50% OFF 😱)"
-      },
-      {
-        "url": "https://fkrt.co/yxx12D",
-        "label": "⏳ Limited Stock – Don’t Miss!"
-      }
-    ],
-    "raw_text": "🔥 Flipkart Lowest Price Ever – Adidas Official India Cricket Jersey 🇮🇳 🔥\n\n👕 Adidas India T20 International Fan Jersey\n💙 Official Team India Look\n✨ Premium Polyester | Striped V-Neck\n\n💰 MRP: ₹999\n⚡ Deal Price: ₹500 only (Flat 50% OFF 😱)\n\n⏳ Limited Stock – Don’t Miss!\n\n👉 Buy Now: https://fkrt.co/yxx12D",
-    "final_url": "https://www.shopsy.in/adidas-striped-men-v-neck-blue-t-shirt/p/itmb37de58f59012?pid=TSHHGH29KH9ET3RS&lid=LSTTSHHGH29KH9ET3RSNJO6KZ&marketplace=FLIPKART&&affid=extrape&affExtParam1=EPTG2905470_2169_yxx12D&affExtParam2=yxx12D_p__p_&pwsvid=PW1770464875102Syxx12DRPRaJQvYa&src=ot",
-    "local_image": "assets/images/tgmsg_26443.jpg",
-    "source_host": "www.shopsy.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-07T11:34:09+00:00",
-    "buy_link": "https://fkrt.co/yxx12D",
-    "date_iso": "2026-02-07T11:34:09+00:00"
-  },
-  {
-    "id": "msg26444",
-    "title": "Flat 50% off on Adidas India Cricket Jersey @ 499",
-    "description": "Flipkart : Flat 50% off on Adidas India Cricket Jersey @ 499 👉🏻 Link: https://fkrt.co/HHEnyF",
-    "shortlink": "https://fkrt.co/HHEnyF",
-    "urls": [
-      {
-        "url": "https://fkrt.co/HHEnyF",
-        "label": "Flat 50% off on Adidas India Cricket Jersey @ 499"
-      }
-    ],
-    "raw_text": "Flipkart : Flat 50% off on Adidas India Cricket Jersey @ 499\n\n👉🏻 Link: https://fkrt.co/HHEnyF",
-    "final_url": "https://www.shopsy.in/adidas-striped-men-v-neck-blue-t-shirt/p/itmb37de58f59012?pid=TSHHGH29KH9ET3RS&&affid=extrape&affExtParam1=EPTG2905470_2169_HHEnyF&affExtParam2=HHEnyF_p__p_&pwsvid=PW1770464770724SHHEnyFRWoqT5VqM&src=ot",
-    "local_image": "assets/images/tgmsg_26444.jpg",
-    "source_host": "www.shopsy.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-07T11:40:15+00:00",
-    "buy_link": "https://fkrt.co/HHEnyF",
-    "date_iso": "2026-02-07T11:40:15+00:00"
   }
 ]
