@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg27137",
+    "title": "Up to 60% Off On Head & Shoulder Shampoo",
+    "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos. https://fkrt.co/dgxP69",
+    "shortlink": "https://fkrt.co/dgxP69",
+    "urls": [
+      {
+        "url": "https://fkrt.co/dgxP69",
+        "label": "Upto 60% Off On Head & Shoulder Shampoos"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos.\n\nhttps://fkrt.co/dgxP69",
+    "final_url": "https://fkrt.co/dgxP69",
+    "local_image": "assets/images/tgmsg_27137.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-13T16:34:17+00:00",
+    "buy_link": "https://fkrt.co/dgxP69",
+    "date_iso": "2026-02-13T16:34:17+00:00"
+  },
+  {
     "id": "msg27133",
     "title": "Mokshi Women Kurta Up to 88% off",
     "description": "Flipkart | Mokshi Women Kurta Upto 88% off 👉Link : https://fkrt.co/svi2s3",
@@ -9730,41 +9750,5 @@
     "date_obj": "2026-02-08T13:56:05+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DSLNZJDQ?tag=bestpricezo0f-21",
     "date_iso": "2026-02-08T13:56:05+00:00"
-  },
-  {
-    "id": "msg26594",
-    "title": "👖 Men’s Trousers starting from ₹279",
-    "description": "Myntra Mega Fashion Deals 🔥🔥 👕 Shirts starting from ₹199 👉  👉 🕺 Kurtas starting from ₹299 👉 🧥 Blazers starting from ₹1199 👉",
-    "shortlink": "https://myntr.in/i3SnDX",
-    "urls": [
-      {
-        "url": "",
-        "label": "Myntra Mega Fashion Deals 🔥🔥"
-      },
-      {
-        "url": "https://myntr.in/i3SnDX",
-        "label": "👕 Shirts starting from ₹199"
-      },
-      {
-        "url": "https://myntr.in/0hd3JM",
-        "label": "👖 Men’s Trousers starting from ₹279"
-      },
-      {
-        "url": "https://myntr.in/MQccR8",
-        "label": "🕺 Kurtas starting from ₹299"
-      },
-      {
-        "url": "https://myntr.in/Ou3WVY",
-        "label": "🧥 Blazers starting from ₹1199"
-      }
-    ],
-    "raw_text": "Myntra   Mega Fashion Deals 🔥🔥\n\n👕 Shirts starting from ₹199\n👉 https://myntr.in/i3SnDX\n\n👖 Men’s Trousers starting from ₹279\n👉 https://myntr.in/0hd3JM\n\n🕺 Kurtas starting from ₹299\n👉 https://myntr.in/MQccR8\n\n🧥 Blazers starting from ₹1199\n👉 https://myntr.in/Ou3WVY",
-    "final_url": "https://myntr.in/i3SnDX",
-    "local_image": "assets/images/tgmsg_26594.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-08T14:11:25+00:00",
-    "buy_link": "https://myntr.in/i3SnDX",
-    "date_iso": "2026-02-08T14:11:25+00:00"
   }
 ]
