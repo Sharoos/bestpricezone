@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg27139",
+    "title": "Min 60% Off !!!",
+    "description": "Myntra | Premium Bedsheet Deals !!! 1. Raymond Home Bedsheets Under 499 !!! 2. MYTRIDENT Bedsheets -  3. Spaces Bedsheets - Min 65% Off !!! 4. Portico Bedsheets - Min 50% Off !!!",
+    "shortlink": "https://myntr.in/6Vox4A",
+    "urls": [
+      {
+        "url": "",
+        "label": "Premium Bedsheet Deals !!!"
+      },
+      {
+        "url": "https://myntr.in/6Vox4A",
+        "label": "1. Raymond Home Bedsheets Under 499 !!!"
+      },
+      {
+        "url": "https://myntr.in/cDOAyG",
+        "label": "2. MYTRIDENT Bedsheets - Min 60% Off !!!"
+      },
+      {
+        "url": "https://myntr.in/oUwIaj",
+        "label": "3. Spaces Bedsheets - Min 65% Off !!!"
+      },
+      {
+        "url": "https://myntr.in/OTTKwh",
+        "label": "4. Portico Bedsheets - Min 50% Off !!!"
+      }
+    ],
+    "raw_text": "Myntra | Premium Bedsheet Deals !!!\n\n1. Raymond Home Bedsheets Under 499 !!!\nhttps://myntr.in/6Vox4A\n\n2. MYTRIDENT Bedsheets - Min 60% Off !!!\nhttps://myntr.in/cDOAyG\n\n3. Spaces Bedsheets - Min 65% Off !!!\nhttps://myntr.in/oUwIaj\n\n4. Portico Bedsheets - Min 50% Off !!!\nhttps://myntr.in/OTTKwh",
+    "final_url": "https://myntr.in/6Vox4A",
+    "local_image": "assets/images/tgmsg_27139.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-13T17:03:30+00:00",
+    "buy_link": "https://myntr.in/6Vox4A",
+    "date_iso": "2026-02-13T17:03:30+00:00"
+  },
+  {
     "id": "msg27137",
     "title": "Up to 60% Off On Head & Shoulder Shampoo",
     "description": "Flipkart | Upto 60% Off On Head & Shoulder Shampoos. https://fkrt.co/dgxP69",
@@ -9730,25 +9766,5 @@
     "date_obj": "2026-02-08T14:39:08+00:00",
     "buy_link": "https://ajiio.co/ZxEPpX",
     "date_iso": "2026-02-08T14:39:08+00:00"
-  },
-  {
-    "id": "msg26593",
-    "title": "🔥71% Off Naturaltein B12+ Folic Acid 60 Caps @ 412/",
-    "description": "Amazon | 🔥71% Off: Naturaltein B12+ Folic Acid 60 Caps @ 412/- 🔗: https://www.amazon.in/dp/B0DSLNZJDQ?tag=bestpricezo0f-21 Apply Coupon✅",
-    "shortlink": "https://www.amazon.in/dp/B0DSLNZJDQ?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DSLNZJDQ?tag=bestpricezo0f-21",
-        "label": "🔥71% Off: Naturaltein B12+ Folic Acid 60 Caps @ 412/"
-      }
-    ],
-    "raw_text": "Amazon | 🔥71% Off: Naturaltein B12+ Folic Acid 60 Caps @ 412/-\n\n🔗: https://www.amazon.in/dp/B0DSLNZJDQ?tag=bestpricezo0f-21\n\nApply Coupon✅",
-    "final_url": "https://www.amazon.in/dp/B0DSLNZJDQ?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_26593.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-02-08T13:56:05+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DSLNZJDQ?tag=bestpricezo0f-21",
-    "date_iso": "2026-02-08T13:56:05+00:00"
   }
 ]
