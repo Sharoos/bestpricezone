@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg27122",
+    "title": "Up to 80% Off On Branded Men's Shoe",
+    "description": "Ajio : Upto 80% Off On Branded Men's Shoes. https://ajiio.co/1ELOun",
+    "shortlink": "https://ajiio.co/1ELOun",
+    "urls": [
+      {
+        "url": "https://ajiio.co/1ELOun",
+        "label": "Upto 80% Off On Branded Men's Shoes"
+      }
+    ],
+    "raw_text": "Ajio : Upto 80% Off On Branded Men's Shoes.\n\nhttps://ajiio.co/1ELOun",
+    "final_url": "https://ajiio.co/1ELOun",
+    "local_image": "assets/images/tgmsg_27122.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-13T14:02:05+00:00",
+    "buy_link": "https://ajiio.co/1ELOun",
+    "date_iso": "2026-02-13T14:02:05+00:00"
+  },
+  {
     "id": "msg27102",
     "title": "Hot and Cold Bottle At 190",
     "description": "Grab : Hot and Cold Bottle At 190. https://www.amazon.in/dp/B0D5VFT66F?psc=1&th=1&tag=bestpricezo0f-21",
@@ -9854,33 +9874,5 @@
     "date_obj": "2026-02-08T13:43:56+00:00",
     "buy_link": "https://fkrt.co/zCDdkw",
     "date_iso": "2026-02-08T13:43:56+00:00"
-  },
-  {
-    "id": "msg26580",
-    "title": "shirt Starts @123",
-    "description": "🔥Myntra : Branded T-shirt Starts @₹89 Women's T-shirt Starts @89 👉https://myntr.in/KVDKJV Men's T-shirt Starts @123 👉https://myntr.in/RFZ9go",
-    "shortlink": "https://myntr.in/KVDKJV",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Myntra : Branded T-shirt Starts @₹89"
-      },
-      {
-        "url": "https://myntr.in/KVDKJV",
-        "label": "Women's T-shirt Starts @89"
-      },
-      {
-        "url": "https://myntr.in/RFZ9go",
-        "label": "Men's T-shirt Starts @123"
-      }
-    ],
-    "raw_text": "🔥Myntra : Branded T-shirt Starts @₹89\n\nWomen's T-shirt Starts @89\n👉https://myntr.in/KVDKJV\n\nMen's T-shirt Starts @123\n👉https://myntr.in/RFZ9go",
-    "final_url": "https://myntr.in/KVDKJV",
-    "local_image": "assets/images/tgmsg_26580.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-08T11:56:06+00:00",
-    "buy_link": "https://myntr.in/KVDKJV",
-    "date_iso": "2026-02-08T11:56:06+00:00"
   }
 ]
