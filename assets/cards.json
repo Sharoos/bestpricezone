@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg27044",
+    "title": "65% Off On Louis Philippe",
+    "description": "Myntra : Flat 60-65% Off On Louis Philippe. Shoes : https://myntr.in/DVfp0q& Belts : https://myntr.in/8jCeVH& Wallets : https://myntr.in/tv7kll&",
+    "shortlink": "https://myntr.in/DVfp0q&",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flat 60-65% Off On Louis Philippe"
+      },
+      {
+        "url": "https://myntr.in/DVfp0q&",
+        "label": "Shoes"
+      },
+      {
+        "url": "https://myntr.in/8jCeVH&",
+        "label": "Belts"
+      },
+      {
+        "url": "https://myntr.in/tv7kll&",
+        "label": "Wallets"
+      }
+    ],
+    "raw_text": "Myntra : Flat 60-65% Off On Louis Philippe.\n\nShoes : https://myntr.in/DVfp0q&\nBelts : https://myntr.in/8jCeVH&\nWallets : https://myntr.in/tv7kll&",
+    "final_url": "https://myntr.in/DVfp0q&",
+    "local_image": "assets/images/tgmsg_27044.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-13T00:45:07+00:00",
+    "buy_link": "https://myntr.in/DVfp0q&",
+    "date_iso": "2026-02-13T00:45:07+00:00"
+  },
+  {
     "id": "msg27038",
     "title": "Up to 81% Off On Levi’s Clothing",
     "description": "AJIO Upto 81% Off On Levi’s Clothing. Women's : Jeans from 560 : Men's : Jeans from 700 : Min. 70% Off On U.S. Polo Assn. Clothing. Men's : Women’s : Boy’s : Girl’s : Upto 81% Off On Spykar Clothing. Men's : Women's :",
@@ -9886,49 +9918,5 @@
     "date_obj": "2026-02-08T04:05:45+00:00",
     "buy_link": "https://ajiio.co/8TWL5s",
     "date_iso": "2026-02-08T04:05:45+00:00"
-  },
-  {
-    "id": "msg26535",
-    "title": "Footwears Starts at Rs.99",
-    "description": "AJIO Loot : . Shoes from ₹99 : Sandals from ₹99 : Flip-Flops from ₹99 : Formal Shoes from ₹149 : Sandals from ₹99 : Flip-Flops from ₹99 :",
-    "shortlink": "https://ajiio.in/6m01Lj0",
-    "urls": [
-      {
-        "url": "",
-        "label": "Footwears Starts at Rs.99"
-      },
-      {
-        "url": "https://ajiio.in/6m01Lj0",
-        "label": "Shoes from ₹99"
-      },
-      {
-        "url": "https://ajiio.in/8120hSd",
-        "label": "Sandals from ₹99"
-      },
-      {
-        "url": "https://ajiio.in/cg6lxhz",
-        "label": "Flops from ₹99"
-      },
-      {
-        "url": "https://ajiio.in/dZSTXb3",
-        "label": "Formal Shoes from ₹149"
-      },
-      {
-        "url": "https://ajiio.in/PK4y0LV",
-        "label": "Sandals from ₹99"
-      },
-      {
-        "url": "https://ajiio.in/OaQ2qpK",
-        "label": "Flops from ₹99"
-      }
-    ],
-    "raw_text": "AJIO Loot : Footwears Starts at Rs.99.\n\nShoes from ₹99 : https://ajiio.in/6m01Lj0\nSandals from ₹99 : https://ajiio.in/8120hSd\nFlip-Flops from ₹99 : https://ajiio.in/cg6lxhz\n\nFormal Shoes from ₹149 : https://ajiio.in/dZSTXb3\nSandals from ₹99 : https://ajiio.in/PK4y0LV\nFlip-Flops from ₹99 : https://ajiio.in/OaQ2qpK",
-    "final_url": "https://ajiio.in/6m01Lj0",
-    "local_image": "assets/images/tgmsg_26535.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-02-08T04:06:09+00:00",
-    "buy_link": "https://ajiio.in/6m01Lj0",
-    "date_iso": "2026-02-08T04:06:09+00:00"
   }
 ]
