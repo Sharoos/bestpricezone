@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg27047",
+    "title": "Up to 70% Off On Engage Deodorant",
+    "description": "Flipkart | Upto 70% Off On Engage Deodorants. https://fkrt.co/W4bHpG",
+    "shortlink": "https://fkrt.co/W4bHpG",
+    "urls": [
+      {
+        "url": "https://fkrt.co/W4bHpG",
+        "label": "Upto 70% Off On Engage Deodorants"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 70% Off On Engage Deodorants.\n\nhttps://fkrt.co/W4bHpG",
+    "final_url": "https://fkrt.co/W4bHpG",
+    "local_image": "assets/images/tgmsg_27047.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-13T04:32:50+00:00",
+    "buy_link": "https://fkrt.co/W4bHpG",
+    "date_iso": "2026-02-13T04:32:50+00:00"
+  },
+  {
     "id": "msg27044",
     "title": "65% Off On Louis Philippe",
     "description": "Myntra : Flat 60-65% Off On Louis Philippe. Shoes : https://myntr.in/DVfp0q& Belts : https://myntr.in/8jCeVH& Wallets : https://myntr.in/tv7kll&",
@@ -9894,29 +9914,5 @@
     "date_obj": "2026-02-08T04:04:28+00:00",
     "buy_link": "https://ajiio.co/ZTltd4",
     "date_iso": "2026-02-08T04:04:28+00:00"
-  },
-  {
-    "id": "msg26534",
-    "title": "American Eagle Min 50%",
-    "description": "Ajio | American Eagle Min 50% https://ajiio.co/8TWL5s CLARKS Min 60% https://ajiio.co/P7I8vy",
-    "shortlink": "https://ajiio.co/8TWL5s",
-    "urls": [
-      {
-        "url": "https://ajiio.co/8TWL5s",
-        "label": "American Eagle Min 50%"
-      },
-      {
-        "url": "https://ajiio.co/P7I8vy",
-        "label": "CLARKS Min 60%"
-      }
-    ],
-    "raw_text": "Ajio | American Eagle Min 50%\nhttps://ajiio.co/8TWL5s\n\nCLARKS Min 60%\nhttps://ajiio.co/P7I8vy",
-    "final_url": "https://ajiio.co/8TWL5s",
-    "local_image": "assets/images/tgmsg_26534.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-02-08T04:05:45+00:00",
-    "buy_link": "https://ajiio.co/8TWL5s",
-    "date_iso": "2026-02-08T04:05:45+00:00"
   }
 ]
