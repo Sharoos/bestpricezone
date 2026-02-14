@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg27162",
+    "title": "Up to 81% Off On Styli Clothing",
+    "description": "Myntra | Upto 81% Off On Styli Clothing Men : https://myntr.in/dyrb0U Women : https://myntr.in/HwU8M1",
+    "shortlink": "https://myntr.in/dyrb0U",
+    "urls": [
+      {
+        "url": "https://myntr.in/dyrb0U",
+        "label": "Upto 81% Off On Styli Clothing"
+      },
+      {
+        "url": "https://myntr.in/HwU8M1",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra | Upto 81% Off On Styli Clothing\n\nMen : https://myntr.in/dyrb0U\nWomen : https://myntr.in/HwU8M1",
+    "final_url": "https://myntr.in/dyrb0U",
+    "local_image": "assets/images/tgmsg_27162.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-14T06:25:50+00:00",
+    "buy_link": "https://myntr.in/dyrb0U",
+    "date_iso": "2026-02-14T06:25:50+00:00"
+  },
+  {
     "id": "msg27156",
     "title": "👕 Up to 80% Off On Spykar Clothing",
     "description": "🔥 Ajio Topwear Clothing Deals Under ₹149 Men's: Women's: Boy’s: Girl’s: Baby: 👖 Levi’s Jeans Starting at ₹754 Women's: Men's:  Men's: Women's:",
@@ -9762,25 +9786,5 @@
     "date_obj": "2026-02-08T17:46:23+00:00",
     "buy_link": "https://ajiio.co/nIQ8qd",
     "date_iso": "2026-02-08T17:46:23+00:00"
-  },
-  {
-    "id": "msg26611",
-    "title": "👜 Men & Women Brown Messenger Bag – Just ₹449 😍",
-    "description": "Flipkart |👜 Men & Women Brown Messenger Bag – Just ₹449 😍 👉  https://fkrt.co/rNHJv6",
-    "shortlink": "https://fkrt.co/rNHJv6",
-    "urls": [
-      {
-        "url": "https://fkrt.co/rNHJv6",
-        "label": "👜 Men & Women Brown Messenger Bag – Just ₹449 😍"
-      }
-    ],
-    "raw_text": "Flipkart |👜 Men & Women Brown Messenger Bag – Just ₹449 😍\n\n👉  https://fkrt.co/rNHJv6",
-    "final_url": "https://fkrt.co/rNHJv6",
-    "local_image": "assets/images/tgmsg_26611.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-08T17:05:42+00:00",
-    "buy_link": "https://fkrt.co/rNHJv6",
-    "date_iso": "2026-02-08T17:05:42+00:00"
   }
 ]
