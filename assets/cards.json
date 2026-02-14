@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg27184",
+    "title": "Instamart ₹20 off on ₹199+",
+    "description": "Bhim App: Valentine's Day shopping spree 🤑! - Nykaa: ₹100 cashback on ₹200 min. spend - Myntra: ₹100 cashback on ₹300 min. order - Meesho: ₹5 off on ₹99+ - Urban Company: ₹100 cashback on ₹199+ services - Instamart: ₹20…",
+    "shortlink": "https://bitli.in/Hl29fhn",
+    "urls": [
+      {
+        "url": "",
+        "label": "Valentine's Day shopping spree 🤑!"
+      },
+      {
+        "url": "",
+        "label": "₹100 cashback on ₹200 min. spend"
+      },
+      {
+        "url": "",
+        "label": "₹100 cashback on ₹300 min. order"
+      },
+      {
+        "url": "",
+        "label": "₹5 off on ₹99+"
+      },
+      {
+        "url": "",
+        "label": "₹100 cashback on ₹199+ services"
+      },
+      {
+        "url": "",
+        "label": "₹20 off on ₹199+"
+      },
+      {
+        "url": "",
+        "label": "₹25 off on ₹299+"
+      },
+      {
+        "url": "https://bitli.in/Hl29fhn",
+        "label": "Download Now"
+      }
+    ],
+    "raw_text": "Bhim App: Valentine's Day shopping spree 🤑! \n\n- Nykaa: ₹100 cashback on ₹200 min. spend\n- Myntra: ₹100 cashback on ₹300 min. order\n- Meesho: ₹5 off on ₹99+\n- Urban Company: ₹100 cashback on ₹199+ services\n- Instamart: ₹20 off on ₹199+\n- Zepto: ₹25 off on ₹299+\n\nDownload Now: https://bitli.in/Hl29fhn",
+    "final_url": "https://bitli.in/Hl29fhn",
+    "local_image": "assets/images/tgmsg_27184.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2026-02-14T11:46:22+00:00",
+    "buy_link": "https://bitli.in/Hl29fhn",
+    "date_iso": "2026-02-14T11:46:22+00:00"
+  },
+  {
     "id": "msg27182",
     "title": "Up to 80% Off John Players Clothing",
     "description": "AJIO : Upto 80% Off : John Players Clothing Jeans – Shirts – T-Shirts – Trousers – Sweatshirts – Sweaters – Jackets – Waistcoats & Blazers –",
@@ -9770,53 +9818,5 @@
     "date_obj": "2026-02-09T05:46:22+00:00",
     "buy_link": "https://ajiio.co/f2abhi",
     "date_iso": "2026-02-09T05:46:22+00:00"
-  },
-  {
-    "id": "msg26634",
-    "title": "Shopsy Electronics & Gadgets Up to 80% Off",
-    "description": "Shopsy: Electronics & Gadgets Upto 80% Off Earphones @599 Grooming Products @399 Smartwatch @999 Mobiles Case @99 Camera Gear @99 Power Banks Upto 70% Off Master Link:",
-    "shortlink": "https://bitli.in/LY18KkL",
-    "urls": [
-      {
-        "url": "",
-        "label": "Electronics & Gadgets Upto 80% Off"
-      },
-      {
-        "url": "https://bitli.in/LY18KkL",
-        "label": "Earphones @599"
-      },
-      {
-        "url": "https://bitli.in/td9DZce",
-        "label": "Grooming Products @399"
-      },
-      {
-        "url": "https://bitli.in/HDT3Mw1",
-        "label": "Smartwatch @999"
-      },
-      {
-        "url": "https://bitli.in/EjIRycq",
-        "label": "Mobiles Case @99"
-      },
-      {
-        "url": "https://bitli.in/KK3OamH",
-        "label": "Camera Gear @99"
-      },
-      {
-        "url": "https://bitli.in/j5Nz2e0",
-        "label": "Power Banks Upto 70% Off"
-      },
-      {
-        "url": "https://bitli.in/hMYkMg2",
-        "label": "Master"
-      }
-    ],
-    "raw_text": "Shopsy: Electronics & Gadgets Upto 80% Off\n\nEarphones @599\nhttps://bitli.in/LY18KkL\n\nGrooming Products @399\nhttps://bitli.in/td9DZce\n\nSmartwatch @999\nhttps://bitli.in/HDT3Mw1\n\nMobiles Case @99\nhttps://bitli.in/EjIRycq\n\nCamera Gear @99\nhttps://bitli.in/KK3OamH\n\nPower Banks Upto 70% Off\nhttps://bitli.in/j5Nz2e0\n\nMaster Link: https://bitli.in/hMYkMg2",
-    "final_url": "https://bitli.in/LY18KkL",
-    "local_image": "assets/images/tgmsg_26634.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-02-09T05:49:00+00:00",
-    "buy_link": "https://bitli.in/LY18KkL",
-    "date_iso": "2026-02-09T05:49:00+00:00"
   }
 ]
