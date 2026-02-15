@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg27322",
+    "title": "Leader Beast 26T Multispeed (7 Speed) Mountain Bike at ₹5,759",
+    "description": "Amazon : Leader Beast 26T Multispeed (7 Speed) Mountain Bike at ₹5,759 https://www.amazon.in/dp/B0BHPBZSY8?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0BHPBZSY8?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0BHPBZSY8?tag=bestpricezo0f-21",
+        "label": "Leader Beast 26T Multispeed (7 Speed) Mountain Bike at ₹5,759"
+      }
+    ],
+    "raw_text": "Amazon : Leader Beast 26T Multispeed (7 Speed) Mountain Bike at ₹5,759\n\nhttps://www.amazon.in/dp/B0BHPBZSY8?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0BHPBZSY8?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_27322.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-15T18:29:27+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0BHPBZSY8?tag=bestpricezo0f-21",
+    "date_iso": "2026-02-15T18:29:27+00:00"
+  },
+  {
     "id": "msg27319",
     "title": "Up to 91% Off On Men's Clothing from @40",
     "description": "AJIO Upto 91% Off On Men's Clothing from @40. Shirt/Polo from @40. Shirt from @120. Trouser from @120. Jeans from @199. Sweatshirt from @189. Women's :",
@@ -9406,25 +9426,5 @@
     "date_obj": "2026-02-10T13:36:02+00:00",
     "buy_link": "https://fktr.in/5koDYdn",
     "date_iso": "2026-02-10T13:36:02+00:00"
-  },
-  {
-    "id": "msg26770",
-    "title": "Women's Kurta Starts at ₹80",
-    "description": "AJIO  Women's Kurta Starts at ₹80. 🔗https://ajiio.co/ZddkEU",
-    "shortlink": "https://ajiio.co/ZddkEU",
-    "urls": [
-      {
-        "url": "https://ajiio.co/ZddkEU",
-        "label": "AJIO Women's Kurta Starts at ₹80"
-      }
-    ],
-    "raw_text": "AJIO  Women's Kurta Starts at ₹80.\n\n🔗https://ajiio.co/ZddkEU",
-    "final_url": "https://ajiio.co/ZddkEU",
-    "local_image": "assets/images/tgmsg_26770.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-02-10T13:46:02+00:00",
-    "buy_link": "https://ajiio.co/ZddkEU",
-    "date_iso": "2026-02-10T13:46:02+00:00"
   }
 ]
