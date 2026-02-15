@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg27306",
+    "title": "Up to 70% Off On Bracelet",
+    "description": "Myntra | Upto 70% Off On  Bracelets 👉Link : https://myntr.in/9HRGLO",
+    "shortlink": "https://myntr.in/9HRGLO",
+    "urls": [
+      {
+        "url": "https://myntr.in/9HRGLO",
+        "label": "Upto 70% Off On Bracelets"
+      }
+    ],
+    "raw_text": "Myntra | Upto 70% Off On  Bracelets\n\n👉Link : https://myntr.in/9HRGLO",
+    "final_url": "https://myntr.in/9HRGLO",
+    "local_image": "assets/images/tgmsg_27306.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-15T14:33:56+00:00",
+    "buy_link": "https://myntr.in/9HRGLO",
+    "date_iso": "2026-02-15T14:33:56+00:00"
+  },
+  {
     "id": "msg27297",
     "title": "300 TC King Size Cotton Bedsheets At 499",
     "description": "300 TC King Size Cotton Bedsheets At 499. https://www.amazon.in/dp/B0GHK7BVR7?th=1&tag=bestpricezo0f-21",
@@ -9422,25 +9442,5 @@
     "date_obj": "2026-02-10T12:00:48+00:00",
     "buy_link": "https://extp.in/xEwv22",
     "date_iso": "2026-02-10T12:00:48+00:00"
-  },
-  {
-    "id": "msg26742",
-    "title": "Use Code Gourmet10 for extra Discount",
-    "description": "Myntra - Crazy Deals on Valentine Gift sets 🔗 Use Coupon Code : Gourmet10 for extra Discount",
-    "shortlink": "https://myntr.in/pD7Jza",
-    "urls": [
-      {
-        "url": "https://myntr.in/pD7Jza",
-        "label": "Crazy Deals on Valentine Gift sets"
-      }
-    ],
-    "raw_text": "Myntra  - Crazy Deals on Valentine Gift sets \n\n🔗 https://myntr.in/pD7Jza\n\n Use Coupon Code : Gourmet10 for extra Discount",
-    "final_url": "https://myntr.in/pD7Jza",
-    "local_image": "assets/images/tgmsg_26742.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-10T10:20:25+00:00",
-    "buy_link": "https://myntr.in/pD7Jza",
-    "date_iso": "2026-02-10T10:20:25+00:00"
   }
 ]
