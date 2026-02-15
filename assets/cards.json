@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg27323",
+    "title": "Shopsy Women Fit and Flare Black Ankle Length Dress @₹699",
+    "description": "Shopsy | Women Fit and Flare Black Ankle Length Dress @₹699 https://extp.in/dSX3Lj",
+    "shortlink": "https://extp.in/dSX3Lj",
+    "urls": [
+      {
+        "url": "https://extp.in/dSX3Lj",
+        "label": "Women Fit and Flare Black Ankle Length Dress @₹699"
+      }
+    ],
+    "raw_text": "Shopsy | Women Fit and Flare Black Ankle Length Dress @₹699\n\nhttps://extp.in/dSX3Lj",
+    "final_url": "https://extp.in/dSX3Lj",
+    "local_image": "assets/images/tgmsg_27323.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-02-15T19:47:43+00:00",
+    "buy_link": "https://extp.in/dSX3Lj",
+    "date_iso": "2026-02-15T19:47:43+00:00"
+  },
+  {
     "id": "msg27322",
     "title": "Leader Beast 26T Multispeed (7 Speed) Mountain Bike at ₹5,759",
     "description": "Amazon : Leader Beast 26T Multispeed (7 Speed) Mountain Bike at ₹5,759 https://www.amazon.in/dp/B0BHPBZSY8?tag=bestpricezo0f-21",
@@ -9402,29 +9422,5 @@
     "date_obj": "2026-02-10T13:32:06+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FGCNS7BN?tag=bestpricezo0f-21",
     "date_iso": "2026-02-10T13:32:06+00:00"
-  },
-  {
-    "id": "msg26769",
-    "title": "Use Supercoins To Get Extra Discount",
-    "description": "GRAB: 4 Feet Huggable Cute Pink Teddy Bear @389 https://fktr.in/5koDYdn • Use Supercoins To Get Extra Discount.",
-    "shortlink": "https://fktr.in/5koDYdn",
-    "urls": [
-      {
-        "url": "https://fktr.in/5koDYdn",
-        "label": "4 Feet Huggable Cute Pink Teddy Bear @389"
-      },
-      {
-        "url": "",
-        "label": "Use Supercoins To Get Extra Discount"
-      }
-    ],
-    "raw_text": "GRAB: 4 Feet Huggable Cute Pink Teddy Bear @389\n\nhttps://fktr.in/5koDYdn\n\n• Use Supercoins To Get Extra Discount.",
-    "final_url": "https://fktr.in/5koDYdn",
-    "local_image": "assets/images/tgmsg_26769.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-10T13:36:02+00:00",
-    "buy_link": "https://fktr.in/5koDYdn",
-    "date_iso": "2026-02-10T13:36:02+00:00"
   }
 ]
