@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg27282",
+    "title": "Peter England Min 40%",
+    "description": "Ajio | Peter England Min 40% https://ajiio.co/ZtgdoD LP Min 40% https://ajiio.co/yDjVjT",
+    "shortlink": "https://ajiio.co/ZtgdoD",
+    "urls": [
+      {
+        "url": "https://ajiio.co/ZtgdoD",
+        "label": "Peter England Min 40%"
+      },
+      {
+        "url": "https://ajiio.co/yDjVjT",
+        "label": "LP Min 40%"
+      }
+    ],
+    "raw_text": "Ajio | Peter England Min 40%\nhttps://ajiio.co/ZtgdoD\n\nLP Min 40% \nhttps://ajiio.co/yDjVjT",
+    "final_url": "https://ajiio.co/ZtgdoD",
+    "local_image": "assets/images/tgmsg_27282.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-15T11:46:13+00:00",
+    "buy_link": "https://ajiio.co/ZtgdoD",
+    "date_iso": "2026-02-15T11:46:13+00:00"
+  },
+  {
     "id": "msg27277",
     "title": "Biotique Fruit Brightening Face Wash 200mlx2 @288",
     "description": "Amazon | Biotique Fruit Brightening Face Wash 200mlx2 @288 https://www.amazon.in/dp/B0C3D1VM89?th=1&psc=1&tag=bestpricezo0f-21",
@@ -9282,57 +9306,5 @@
     "date_obj": "2026-02-10T09:10:20+00:00",
     "buy_link": "https://www.amazon.in/dp/B0GGDGRQD7?tag=bestpricezo0f-21",
     "date_iso": "2026-02-10T09:10:20+00:00"
-  },
-  {
-    "id": "msg26738",
-    "title": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre",
-    "description": "-approved limit. Apply Now - 💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀 ⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping. ⿢ Easy EMIs : Flexible repayment with no foreclosure charges. ⿣ Wide…",
-    "shortlink": "https://extp.in/Ote3iJ",
-    "urls": [
-      {
-        "url": "",
-        "label": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre-approved limit"
-      },
-      {
-        "url": "https://extp.in/Ote3iJ",
-        "label": "Apply Now"
-      },
-      {
-        "url": "",
-        "label": "💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀"
-      },
-      {
-        "url": "",
-        "label": "⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping"
-      },
-      {
-        "url": "",
-        "label": "⿢ Easy EMIs : Flexible repayment with no foreclosure charges"
-      },
-      {
-        "url": "",
-        "label": "⿣ Wide Usage : Accepted at 1.5+ lakh partner stores"
-      },
-      {
-        "url": "",
-        "label": "⿤ Quick Application : Apply, verify, and activate in minutes"
-      },
-      {
-        "url": "",
-        "label": "⿥ Hassle-Free Access : Manage everything on the Bajaj Finserv app"
-      },
-      {
-        "url": "",
-        "label": "Join thousands enjoying easy EMIs!"
-      }
-    ],
-    "raw_text": "Unlock financial freedom with the Bajaj Finserv Insta EMI Card! Enjoy up to 3 lakh pre-approved limit.\n\nApply Now - https://extp.in/Ote3iJ\n\n💳 Bajaj Finserv Insta EMI Card – Your Financial Freedom! 🚀\n\n⿡ ₹3 Lakh Limit : Pre-approved limit for instant shopping.\n⿢ Easy EMIs : Flexible repayment with no foreclosure charges.\n⿣ Wide Usage : Accepted at 1.5+ lakh partner stores.\n⿤ Quick Application : Apply, verify, and activate in minutes.\n⿥ Hassle-Free Access : Manage everything on the Bajaj Finserv app\n\nJoin thousands enjoying easy EMIs!",
-    "final_url": "https://extp.in/Ote3iJ",
-    "local_image": "assets/images/tgmsg_26738.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-02-10T09:31:33+00:00",
-    "buy_link": "https://extp.in/Ote3iJ",
-    "date_iso": "2026-02-10T09:31:33+00:00"
   }
 ]
