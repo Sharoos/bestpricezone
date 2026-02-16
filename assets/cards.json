@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg27340",
+    "title": "Shopsy Deals Under @99",
+    "description": "Shopsy: Deals Under @99 Floor Mats @99 Men's Brief @99 Kid's Socks @99 Master Link:",
+    "shortlink": "https://bitli.in/MXS1zp5",
+    "urls": [
+      {
+        "url": "",
+        "label": "Deals Under @99"
+      },
+      {
+        "url": "https://bitli.in/MXS1zp5",
+        "label": "Floor Mats @99"
+      },
+      {
+        "url": "https://bitli.in/jp04EQn",
+        "label": "Men's Brief @99"
+      },
+      {
+        "url": "https://bitli.in/0HDBFp2",
+        "label": "Kid's Socks @99"
+      },
+      {
+        "url": "https://bitli.in/Obxp3m0",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Shopsy: Deals Under @99\n\nFloor Mats @99\nhttps://bitli.in/MXS1zp5\n\nMen's Brief @99\nhttps://bitli.in/jp04EQn\n\nKid's Socks @99\nhttps://bitli.in/0HDBFp2\n\nMaster Link: https://bitli.in/Obxp3m0",
+    "final_url": "https://bitli.in/MXS1zp5",
+    "local_image": "assets/images/tgmsg_27340.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2026-02-16T07:28:43+00:00",
+    "buy_link": "https://bitli.in/MXS1zp5",
+    "date_iso": "2026-02-16T07:28:43+00:00"
+  },
+  {
     "id": "msg27339",
     "title": "1kg Peanut Butter @ ₹249",
     "description": "Amazon | 1kg Peanut Butter @ ₹249 👉https://www.amazon.in/dp/B0D3HR194F?tag=bestpricezo0f-21",
@@ -9418,29 +9454,5 @@
     "date_obj": "2026-02-10T15:46:31+00:00",
     "buy_link": "https://ajiio.co/kYCSyD",
     "date_iso": "2026-02-10T15:46:31+00:00"
-  },
-  {
-    "id": "msg26781",
-    "title": "American Eagle Min 50%",
-    "description": "Ajio | American Eagle Min 50% https://ajiio.co/0L6wkr CLARKS Min 60% https://ajiio.co/Knkh4V",
-    "shortlink": "https://ajiio.co/0L6wkr",
-    "urls": [
-      {
-        "url": "https://ajiio.co/0L6wkr",
-        "label": "American Eagle Min 50%"
-      },
-      {
-        "url": "https://ajiio.co/Knkh4V",
-        "label": "CLARKS Min 60%"
-      }
-    ],
-    "raw_text": "Ajio | American Eagle Min 50%\nhttps://ajiio.co/0L6wkr\n\nCLARKS Min 60%\nhttps://ajiio.co/Knkh4V",
-    "final_url": "https://ajiio.co/0L6wkr",
-    "local_image": "assets/images/tgmsg_26781.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-02-10T16:06:03+00:00",
-    "buy_link": "https://ajiio.co/0L6wkr",
-    "date_iso": "2026-02-10T16:06:03+00:00"
   }
 ]
