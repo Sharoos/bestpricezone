@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg27398",
+    "title": "Women’s Fit & Flare Dress – Starts at ₹263",
+    "description": "Shopsy Fashion Deals 🔥🔥🔥  👉🏻 Women’s Bodycon Dress – Starts at ₹125 👉🏻 Printed Flare Dress – Starts at ₹240 👉🏻 More Options:",
+    "shortlink": "https://extp.in/U1CRnR",
+    "urls": [
+      {
+        "url": "",
+        "label": "Shopsy Fashion Deals 🔥🔥🔥"
+      },
+      {
+        "url": "https://extp.in/U1CRnR",
+        "label": "Women’s Fit & Flare Dress – Starts at ₹263"
+      },
+      {
+        "url": "https://extp.in/li0kd5",
+        "label": "Women’s Bodycon Dress – Starts at ₹125"
+      },
+      {
+        "url": "https://extp.in/R1jPA2",
+        "label": "Printed Flare Dress – Starts at ₹240"
+      },
+      {
+        "url": "https://extp.in/AoWNKN",
+        "label": "More Options"
+      }
+    ],
+    "raw_text": "Shopsy Fashion Deals 🔥🔥🔥\n\nWomen’s Fit & Flare Dress – Starts at ₹263\n👉🏻 https://extp.in/U1CRnR\n\nWomen’s Bodycon Dress – Starts at ₹125\n👉🏻 https://extp.in/li0kd5\n\nPrinted Flare Dress – Starts at ₹240\n👉🏻 https://extp.in/R1jPA2\n\nMore Options:\nhttps://extp.in/AoWNKN",
+    "final_url": "https://extp.in/U1CRnR",
+    "local_image": "assets/images/tgmsg_27398.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-02-16T15:11:18+00:00",
+    "buy_link": "https://extp.in/U1CRnR",
+    "date_iso": "2026-02-16T15:11:18+00:00"
+  },
+  {
     "id": "msg27392",
     "title": "Aluminium Food Foil (Pack Of 2) At 170",
     "description": "GRAB: Aluminium Food Foil (Pack Of 2) At 170. https://fkrt.co/WB8yZE",
@@ -9378,49 +9414,5 @@
     "date_obj": "2026-02-11T06:46:03+00:00",
     "buy_link": "https://ajiio.co/6YYAcL",
     "date_iso": "2026-02-11T06:46:03+00:00"
-  },
-  {
-    "id": "msg26829",
-    "title": "Up to 60% Off On Beauty Item",
-    "description": "Myntra : Upto 60% Off On Beauty Items. Lakmé : Pond's : BoroPlus : Livon : Vaseline : Master Link :",
-    "shortlink": "https://myntr.in/QZQzQA",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 60% Off On Beauty Items"
-      },
-      {
-        "url": "https://myntr.in/QZQzQA",
-        "label": "Lakmé"
-      },
-      {
-        "url": "https://myntr.in/aOXCj2",
-        "label": "Pond's"
-      },
-      {
-        "url": "https://myntr.in/oaq887",
-        "label": "BoroPlus"
-      },
-      {
-        "url": "https://myntr.in/zwwZV1",
-        "label": "Livon"
-      },
-      {
-        "url": "https://myntr.in/SKMduu",
-        "label": "Vaseline"
-      },
-      {
-        "url": "https://myntr.in/u5Q6tA",
-        "label": "Master"
-      }
-    ],
-    "raw_text": "Myntra : Upto 60% Off On Beauty Items. \n\nLakmé : https://myntr.in/QZQzQA\nPond's : https://myntr.in/aOXCj2\nBoroPlus : https://myntr.in/oaq887\nLivon : https://myntr.in/zwwZV1\nVaseline : https://myntr.in/SKMduu\n\nMaster Link : https://myntr.in/u5Q6tA",
-    "final_url": "https://myntr.in/QZQzQA",
-    "local_image": "assets/images/tgmsg_26829.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-11T07:04:55+00:00",
-    "buy_link": "https://myntr.in/QZQzQA",
-    "date_iso": "2026-02-11T07:04:55+00:00"
   }
 ]
