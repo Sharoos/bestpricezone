@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg27428",
+    "title": "Up to 73% Off On Killer Blaze",
+    "description": "Upto 73% Off On Killer Blazers https://fkrt.co/5kSgMG",
+    "shortlink": "https://fkrt.co/5kSgMG",
+    "urls": [
+      {
+        "url": "https://fkrt.co/5kSgMG",
+        "label": "Upto 73% Off On Killer Blazers"
+      }
+    ],
+    "raw_text": "Upto 73% Off On Killer Blazers \n\nhttps://fkrt.co/5kSgMG",
+    "final_url": "https://fkrt.co/5kSgMG",
+    "local_image": "assets/images/tgmsg_27428.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-16T18:41:25+00:00",
+    "buy_link": "https://fkrt.co/5kSgMG",
+    "date_iso": "2026-02-16T18:41:25+00:00"
+  },
+  {
+    "id": "msg27430",
+    "title": "199",
+    "description": "Amazon | 199 : https://www.amazon.in/dp/B0BM4MB6B5?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0BM4MB6B5?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0BM4MB6B5?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "199"
+      }
+    ],
+    "raw_text": "Amazon | 199 : https://www.amazon.in/dp/B0BM4MB6B5?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0BM4MB6B5?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_27430.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-16T18:48:18+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0BM4MB6B5?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-02-16T18:48:18+00:00"
+  },
+  {
     "id": "msg27415",
     "title": "Key Rings – Starts at ₹46",
     "description": "Shopsy Decor Deals 🔥🔥  👉🏻 Gift Items – Starts at ₹80 👉🏻 Wall Posters – Starts at ₹80 👉🏻",
@@ -9350,61 +9390,5 @@
     "date_obj": "2026-02-11T10:40:23+00:00",
     "buy_link": "https://myntr.in/xzRcFV",
     "date_iso": "2026-02-11T10:40:23+00:00"
-  },
-  {
-    "id": "msg26857",
-    "title": "Reynolds Ball Pen (Pack of 70) ₹180",
-    "description": "Shopsy Deals 🔥🔥 Analog Wall Clock Starts ₹134 Link: Men's Flip Flops ₹88 Link:  Link: Gym Water Bottle - 2 Litre ₹140 Link:",
-    "shortlink": "https://extp.in/bARTRa",
-    "urls": [
-      {
-        "url": "",
-        "label": "Shopsy Deals 🔥🔥"
-      },
-      {
-        "url": "https://extp.in/bARTRa",
-        "label": "Analog Wall Clock Starts ₹134"
-      },
-      {
-        "url": "https://extp.in/7Keip3",
-        "label": "Men's Flip Flops ₹88"
-      },
-      {
-        "url": "https://extp.in/zCkq91",
-        "label": "Reynolds Ball Pen (Pack of 70) ₹180"
-      },
-      {
-        "url": "https://extp.in/50zPai",
-        "label": "2 Litre ₹140"
-      }
-    ],
-    "raw_text": "Shopsy  Deals 🔥🔥\n\nAnalog Wall Clock  Starts ₹134\nLink: https://extp.in/bARTRa\n\nMen's Flip Flops ₹88\nLink: https://extp.in/7Keip3\n\nReynolds Ball Pen (Pack of 70) ₹180\nLink: https://extp.in/zCkq91\n\nGym Water Bottle - 2 Litre ₹140\nLink: https://extp.in/50zPai",
-    "final_url": "https://extp.in/bARTRa",
-    "local_image": "assets/images/tgmsg_26857.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-02-11T10:41:55+00:00",
-    "buy_link": "https://extp.in/bARTRa",
-    "date_iso": "2026-02-11T10:41:55+00:00"
-  },
-  {
-    "id": "msg26859",
-    "title": "Valentines gifting starting from 109 + 10%",
-    "description": "Myntra | Valentines gifting starting from 109 + 10%coupon. 🔗 https://myntr.in/bdQsuk",
-    "shortlink": "https://myntr.in/bdQsuk",
-    "urls": [
-      {
-        "url": "https://myntr.in/bdQsuk",
-        "label": ""
-      }
-    ],
-    "raw_text": "Myntra | Valentines gifting starting from 109 + 10%coupon.\n\n🔗 https://myntr.in/bdQsuk",
-    "final_url": "https://myntr.in/bdQsuk",
-    "local_image": "assets/images/tgmsg_26859.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-11T11:01:49+00:00",
-    "buy_link": "https://myntr.in/bdQsuk",
-    "date_iso": "2026-02-11T11:01:49+00:00"
   }
 ]
