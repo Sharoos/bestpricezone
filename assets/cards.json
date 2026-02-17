@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg27537",
+    "title": "💥Topwear Min 80% OFF",
+    "description": "💥AJIO : Topwear Min 80% OFF Link : https://ajiio.co/MYKY2L",
+    "shortlink": "https://ajiio.co/MYKY2L",
+    "urls": [
+      {
+        "url": "https://ajiio.co/MYKY2L",
+        "label": "💥AJIO : Topwear Min 80% OFF"
+      }
+    ],
+    "raw_text": "💥AJIO : Topwear Min 80% OFF  \n \nLink : https://ajiio.co/MYKY2L",
+    "final_url": "https://ajiio.co/MYKY2L",
+    "local_image": "assets/images/tgmsg_27537.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-17T17:33:14+00:00",
+    "buy_link": "https://ajiio.co/MYKY2L",
+    "date_iso": "2026-02-17T17:33:14+00:00"
+  },
+  {
     "id": "msg27524",
     "title": "TIARAA Get Any 3 Bracelets @ 199 INR (Shipping free)",
     "description": "TIARAA Loot : Get Any 3 Bracelets @ 199 INR (Shipping free) ✅ Apply Coupon : LOOT3 Link :",
@@ -9346,25 +9366,5 @@
     "date_obj": "2026-02-12T11:01:21+00:00",
     "buy_link": "https://ajiio.co/lIfKjK",
     "date_iso": "2026-02-12T11:01:21+00:00"
-  },
-  {
-    "id": "msg26942",
-    "title": "Gift studio valentines gifting starting from 349 + 15%",
-    "description": "Myntra | Gift studio valentines gifting starting from 349 + 15% coupon. 🔗 https://myntr.in/xmMg4t",
-    "shortlink": "https://myntr.in/xmMg4t",
-    "urls": [
-      {
-        "url": "https://myntr.in/xmMg4t",
-        "label": ""
-      }
-    ],
-    "raw_text": "Myntra | Gift studio valentines gifting starting from 349 + 15% coupon.\n\n🔗 https://myntr.in/xmMg4t",
-    "final_url": "https://myntr.in/xmMg4t",
-    "local_image": "assets/images/tgmsg_26942.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-12T09:04:24+00:00",
-    "buy_link": "https://myntr.in/xmMg4t",
-    "date_iso": "2026-02-12T09:04:24+00:00"
   }
 ]
