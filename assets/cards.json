@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg27654",
+    "title": "Jack & Jones Min 50% Off",
+    "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "shortlink": "https://ajiio.co/0RNvOw",
+    "urls": [
+      {
+        "url": "https://ajiio.co/0RNvOw",
+        "label": "🔥AJIO | Jeans & Shorts Under ₹499"
+      },
+      {
+        "url": "https://ajiio.co/chhEkl",
+        "label": "Performax Under ₹699"
+      },
+      {
+        "url": "https://ajiio.co/kR3K8j",
+        "label": "Jack & Jones Min 50% Off"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
+      }
+    ],
+    "raw_text": "🔥AJIO | Jeans & Shorts Under ₹499\n👉https://ajiio.co/0RNvOw\n\nPerformax Under ₹699\n👉https://ajiio.co/chhEkl\n\nJack & Jones Min 50% Off\n👉https://ajiio.co/kR3K8j\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
+    "final_url": "https://ajiio.co/0RNvOw",
+    "local_image": "assets/images/tgmsg_27654.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-18T17:51:23+00:00",
+    "buy_link": "https://ajiio.co/0RNvOw",
+    "date_iso": "2026-02-18T17:51:23+00:00"
+  },
+  {
     "id": "msg27648",
     "title": "Up to 70% Off on Top Beauty Products 🔥🔥",
     "description": "Flipkart : Upto 70% Off on Top Beauty Products 🔥🔥 Nivea: Ponds: Vaseline: Lakme: Park Avenue: Clean & Clear: Everyuth: Yardley London: Denver:",
@@ -9390,29 +9422,5 @@
     "date_obj": "2026-02-13T07:40:24+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DGHZWBYB?th=1&psc=1&tag=bestpricezo0f-21",
     "date_iso": "2026-02-13T07:40:24+00:00"
-  },
-  {
-    "id": "msg27074",
-    "title": "Boltt Aero Glide Open Ear Wireless TWS Earbuds @1299",
-    "description": "Fire-Boltt Aero Glide Open Ear Wireless TWS Earbuds @1299. https://www.amazon.in/dp/B0GHQLDYMF?tag=bestpricezo0f-21 *Price Valid Only For 3 Hours.",
-    "shortlink": "https://www.amazon.in/dp/B0GHQLDYMF?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0GHQLDYMF?tag=bestpricezo0f-21",
-        "label": "Boltt Aero Glide Open Ear Wireless TWS Earbuds @1299"
-      },
-      {
-        "url": "",
-        "label": "Price Valid Only For 3 Hours"
-      }
-    ],
-    "raw_text": "Fire-Boltt Aero Glide Open Ear Wireless TWS Earbuds @1299.\n\nhttps://www.amazon.in/dp/B0GHQLDYMF?tag=bestpricezo0f-21\n\n*Price Valid Only For 3 Hours.",
-    "final_url": "https://www.amazon.in/dp/B0GHQLDYMF?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_27074.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-02-13T07:50:35+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0GHQLDYMF?tag=bestpricezo0f-21",
-    "date_iso": "2026-02-13T07:50:35+00:00"
   }
 ]
