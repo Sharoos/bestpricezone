@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg27675",
+    "title": "76% Off",
+    "description": "Flipkart  76% Off - Men Cargos At Rs.799 🔗  https://fkrt.co/S89HRN Master Link -    https://fkrt.co/LDv14H",
+    "shortlink": "https://fkrt.co/S89HRN",
+    "urls": [
+      {
+        "url": "https://fkrt.co/S89HRN",
+        "label": "Flipkart 76% Off - Men Cargos At Rs.799"
+      },
+      {
+        "url": "https://fkrt.co/LDv14H",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Flipkart  76% Off - Men Cargos At Rs.799\n\n🔗  https://fkrt.co/S89HRN\n\nMaster Link -    https://fkrt.co/LDv14H",
+    "final_url": "https://fkrt.co/S89HRN",
+    "local_image": "assets/images/tgmsg_27675.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-18T20:28:28+00:00",
+    "buy_link": "https://fkrt.co/S89HRN",
+    "date_iso": "2026-02-18T20:28:28+00:00"
+  },
+  {
     "id": "msg27661",
     "title": "7 Speed Gear Cycle",
     "description": "Myntra | 7 Speed Gear Cycle 🔗 https://myntr.in/zwSIVO 4699 Coupon : SPORTS20OFF",
@@ -9434,25 +9458,5 @@
     "date_obj": "2026-02-13T08:33:45+00:00",
     "buy_link": "https://extp.in/QyCqSU",
     "date_iso": "2026-02-13T08:33:45+00:00"
-  },
-  {
-    "id": "msg27081",
-    "title": "Shopsy 🧴 Refreshing Face Wash Deals Starts ₹38",
-    "description": "Shopsy | 🧴 Refreshing Face Wash Deals Starts ₹38 🔗 https://extp.in/d8dqJn",
-    "shortlink": "https://extp.in/d8dqJn",
-    "urls": [
-      {
-        "url": "https://extp.in/d8dqJn",
-        "label": "🧴 Refreshing Face Wash Deals Starts ₹38"
-      }
-    ],
-    "raw_text": "Shopsy | 🧴 Refreshing Face Wash Deals Starts ₹38\n\n🔗 https://extp.in/d8dqJn",
-    "final_url": "https://extp.in/d8dqJn",
-    "local_image": "assets/images/tgmsg_27081.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-02-13T08:43:55+00:00",
-    "buy_link": "https://extp.in/d8dqJn",
-    "date_iso": "2026-02-13T08:43:55+00:00"
   }
 ]
