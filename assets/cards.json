@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg27848",
+    "title": "👕 Up to 80% Off On Spykar Clothing",
+    "description": "🔥 Ajio Topwear Clothing Deals Under ₹149 Men's: Women's: Boy’s: Girl’s: Baby: 👖 Levi’s Jeans Starting at ₹754 Women's: Men's:  Men's: Women's:",
+    "shortlink": "https://ajiio.co/6XiS34",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Ajio Topwear Clothing Deals Under ₹149"
+      },
+      {
+        "url": "https://ajiio.co/6XiS34",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/ioCKIE",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/eUiIov",
+        "label": "Boy’s"
+      },
+      {
+        "url": "https://ajiio.co/Rvhn4l",
+        "label": "Girl’s"
+      },
+      {
+        "url": "https://ajiio.co/SBPoiP",
+        "label": "Baby"
+      },
+      {
+        "url": "",
+        "label": "👖 Levi’s Jeans Starting at ₹754"
+      },
+      {
+        "url": "https://ajiio.co/ljfGvR",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/eF9RG6",
+        "label": "Men's"
+      },
+      {
+        "url": "",
+        "label": "👕 Up to 80% Off On Spykar Clothing"
+      },
+      {
+        "url": "https://ajiio.co/pw4PUG",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/WmbyLS",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "🔥 Ajio Topwear Clothing Deals Under ₹149\n\nMen's: https://ajiio.co/6XiS34\nWomen's: https://ajiio.co/ioCKIE\nBoy’s: https://ajiio.co/eUiIov\nGirl’s: https://ajiio.co/Rvhn4l\nBaby: https://ajiio.co/SBPoiP\n\n👖 Levi’s Jeans Starting at ₹754\n\nWomen's: https://ajiio.co/ljfGvR\nMen's: https://ajiio.co/eF9RG6\n\n👕 Up to 80% Off On Spykar Clothing\n\nMen's: https://ajiio.co/pw4PUG\nWomen's: https://ajiio.co/WmbyLS",
+    "final_url": "https://ajiio.co/6XiS34",
+    "local_image": "assets/images/tgmsg_27848.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-20T17:46:08+00:00",
+    "buy_link": "https://ajiio.co/6XiS34",
+    "date_iso": "2026-02-20T17:46:08+00:00"
+  },
+  {
     "id": "msg27847",
     "title": "🔥Min 75% Off On Branded Trolleys/Suitcases + Bank Offe",
     "description": "🔥Myntra : Min 75% Off On Branded Trolleys/Suitcases + Bank Offers Brandwise 🔽🔽 •Verage : •Aristocrat : •Teakwood Leathers : •Safari : •Skybags : •VIP : •Nasher Miles : •Wildcraft :",
@@ -9682,33 +9746,5 @@
     "date_obj": "2026-02-15T05:05:23+00:00",
     "buy_link": "https://myntr.in/aEeVpl",
     "date_iso": "2026-02-15T05:05:23+00:00"
-  },
-  {
-    "id": "msg27250",
-    "title": "Up to 80% Off On Spykar Clothing",
-    "description": "Ajio  Upto 80% Off On Spykar Clothing. Men's : https://ajiio.co/vQCcNc Women's : https://ajiio.co/09wKSh",
-    "shortlink": "https://ajiio.co/vQCcNc",
-    "urls": [
-      {
-        "url": "",
-        "label": "Ajio Upto 80% Off On Spykar Clothing"
-      },
-      {
-        "url": "https://ajiio.co/vQCcNc",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/09wKSh",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "Ajio  Upto 80% Off On Spykar Clothing.\n\nMen's : https://ajiio.co/vQCcNc \nWomen's : https://ajiio.co/09wKSh",
-    "final_url": "https://ajiio.co/vQCcNc",
-    "local_image": "assets/images/tgmsg_27250.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-02-15T05:16:06+00:00",
-    "buy_link": "https://ajiio.co/vQCcNc",
-    "date_iso": "2026-02-15T05:16:06+00:00"
   }
 ]
