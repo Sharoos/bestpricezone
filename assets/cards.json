@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg27874",
+    "title": "💥OverSized Tshirts Starts @360",
+    "description": "💥Ajio | OverSized Tshirts Starts @360. 👉Link : https://ajiio.co/66YoK3",
+    "shortlink": "https://ajiio.co/66YoK3",
+    "urls": [
+      {
+        "url": "https://ajiio.co/66YoK3",
+        "label": "💥Ajio | OverSized Tshirts Starts @360"
+      }
+    ],
+    "raw_text": "💥Ajio | OverSized Tshirts Starts @360.\n\n👉Link : https://ajiio.co/66YoK3",
+    "final_url": "https://ajiio.co/66YoK3",
+    "local_image": "assets/images/tgmsg_27874.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-21T06:31:49+00:00",
+    "buy_link": "https://ajiio.co/66YoK3",
+    "date_iso": "2026-02-21T06:31:49+00:00"
+  },
+  {
     "id": "msg27865",
     "title": "Up to 84% Off on Gym Fitness Kits Starting @₹92🔥🔥🔥🔥",
     "description": "Flipkart | UPTO 84% Off on Gym Fitness Kits Starting @₹92🔥🔥🔥🔥 🔗🔗Links : https://fkrt.co/4B3DSo",
@@ -9574,41 +9594,5 @@
     "date_obj": "2026-02-15T10:46:01+00:00",
     "buy_link": "https://ajiio.co/PWnPpv",
     "date_iso": "2026-02-15T10:46:01+00:00"
-  },
-  {
-    "id": "msg27272",
-    "title": "Lee & Wrangler Min 60% off 🔥",
-    "description": "Ajio | Lee & Wrangler Min 60% off 🔥 Master Link : https://ajiio.co/pRr53h Men : https://ajiio.co/suq5FU Women : https://ajiio.co/AfPZ5P + 10% EXTRA AJIO CASH",
-    "shortlink": "https://ajiio.co/pRr53h",
-    "urls": [
-      {
-        "url": "",
-        "label": "Lee & Wrangler Min 60% off 🔥"
-      },
-      {
-        "url": "https://ajiio.co/pRr53h",
-        "label": "Master"
-      },
-      {
-        "url": "https://ajiio.co/suq5FU",
-        "label": "Men"
-      },
-      {
-        "url": "https://ajiio.co/AfPZ5P",
-        "label": "Women"
-      },
-      {
-        "url": "",
-        "label": "+ 10% EXTRA AJIO CASH"
-      }
-    ],
-    "raw_text": "Ajio | Lee & Wrangler Min 60% off 🔥\n\nMaster Link : https://ajiio.co/pRr53h\n\nMen : https://ajiio.co/suq5FU\nWomen : https://ajiio.co/AfPZ5P\n\n+ 10% EXTRA AJIO CASH",
-    "final_url": "https://ajiio.co/pRr53h",
-    "local_image": "assets/images/tgmsg_27272.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-02-15T10:03:58+00:00",
-    "buy_link": "https://ajiio.co/pRr53h",
-    "date_iso": "2026-02-15T10:03:58+00:00"
   }
 ]
