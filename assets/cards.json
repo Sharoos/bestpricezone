@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg27923",
+    "title": "Hair & Care with Almond, Non",
+    "description": "Amazon | Hair & Care with Almond, Non-Sticky Hair Oil, 500ml @99 Min. Buy 2 : https://www.amazon.in/dp/B07S2SKYTH?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B07S2SKYTH?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Hair & Care with Almond, Non-Sticky Hair Oil, 500ml @99"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B07S2SKYTH?tag=bestpricezo0f-21",
+        "label": "Min. 2"
+      }
+    ],
+    "raw_text": "Amazon | Hair & Care with Almond, Non-Sticky Hair Oil, 500ml @99\n\nMin. Buy 2 : https://www.amazon.in/dp/B07S2SKYTH?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B07S2SKYTH?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_27923.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-21T17:46:22+00:00",
+    "buy_link": "https://www.amazon.in/dp/B07S2SKYTH?tag=bestpricezo0f-21",
+    "date_iso": "2026-02-21T17:46:22+00:00"
+  },
+  {
     "id": "msg27920",
     "title": "Up to 85% Off On Branded Backpacks Starting @ ₹ 299",
     "description": "Flipkart | Upto 85% Off On Branded Backpacks Starting @ ₹ 299 Skybags : Safari : Wildcraft : Gear : Lavie : American Tourister :",
@@ -9538,25 +9562,5 @@
     "date_obj": "2026-02-16T08:32:03+00:00",
     "buy_link": "https://extp.in/mLqu3M",
     "date_iso": "2026-02-16T08:32:03+00:00"
-  },
-  {
-    "id": "msg27345",
-    "title": "Sided Trolley Bags @5394",
-    "description": "Aristocrat Set Of 3 Drift Printed Soft-Sided Trolley Bags @5394 https://myntr.in/AGPH43",
-    "shortlink": "https://myntr.in/AGPH43",
-    "urls": [
-      {
-        "url": "https://myntr.in/AGPH43",
-        "label": "Sided Trolley Bags @5394"
-      }
-    ],
-    "raw_text": "Aristocrat Set Of 3 Drift Printed Soft-Sided Trolley Bags @5394\n\nhttps://myntr.in/AGPH43",
-    "final_url": "https://myntr.in/AGPH43",
-    "local_image": "assets/images/tgmsg_27345.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-16T08:41:07+00:00",
-    "buy_link": "https://myntr.in/AGPH43",
-    "date_iso": "2026-02-16T08:41:07+00:00"
   }
 ]
