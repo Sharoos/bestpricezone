@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg27863",
+    "title": "Perfora Purple Teeth Whitening Serum at 20% OFF 🦷",
+    "description": "✨ Get a Brighter Smile in Just 2 Weeks! Grab  Don’t miss this limited-time deal 👇",
+    "shortlink": "https://fkrt.co/0murFk",
+    "urls": [
+      {
+        "url": "",
+        "label": "✨ Get a Brighter Smile in Just 2 Weeks!"
+      },
+      {
+        "url": "",
+        "label": "Grab Perfora Purple Teeth Whitening Serum at 20% OFF 🦷"
+      },
+      {
+        "url": "https://fkrt.co/0murFk",
+        "label": "Don’t miss this limited-time deal 👇"
+      }
+    ],
+    "raw_text": "✨ Get a Brighter Smile in Just 2 Weeks!\n\nGrab Perfora Purple Teeth Whitening Serum at 20% OFF 🦷\n\nDon’t miss this limited-time deal 👇\n\nhttps://fkrt.co/0murFk",
+    "final_url": "https://fkrt.co/0murFk",
+    "local_image": "assets/images/tgmsg_27863.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-21T03:21:06+00:00",
+    "buy_link": "https://fkrt.co/0murFk",
+    "date_iso": "2026-02-21T03:21:06+00:00"
+  },
+  {
     "id": "msg27849",
     "title": "Up to 85% Off On Vero Moda & ONLY Women Clothing",
     "description": "Ajio | Upto 85% Off On Vero Moda & ONLY Women Clothing. 👉https://ajiio.co/DQleu0 👉https://ajiio.co/gC0RLv Jeans : https://ajiio.co/Mw7CRT",
@@ -9610,45 +9638,5 @@
     "date_obj": "2026-02-15T09:16:14+00:00",
     "buy_link": "https://ajiio.co/TvxTx0",
     "date_iso": "2026-02-15T09:16:14+00:00"
-  },
-  {
-    "id": "msg27265",
-    "title": "🌟Up to 85% Off On Bewakoof Clothing",
-    "description": "🌟Myntra : Upto 85% Off On Bewakoof Clothing. Men's : Women's : Upto 83% Off On HRX Sweatshirt & Hoodies. Women : Men :",
-    "shortlink": "https://myntr.in/fbVAKP",
-    "urls": [
-      {
-        "url": "",
-        "label": "🌟Myntra : Upto 85% Off On Bewakoof Clothing"
-      },
-      {
-        "url": "https://myntr.in/fbVAKP",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/YPqW2J",
-        "label": "Women's"
-      },
-      {
-        "url": "",
-        "label": "Upto 83% Off On HRX Sweatshirt & Hoodies"
-      },
-      {
-        "url": "https://myntr.in/itDFbz",
-        "label": "Women"
-      },
-      {
-        "url": "https://myntr.in/3JOpmP",
-        "label": "Men"
-      }
-    ],
-    "raw_text": "🌟Myntra : Upto 85% Off On Bewakoof Clothing.\n\nMen's : https://myntr.in/fbVAKP\nWomen's : https://myntr.in/YPqW2J\n\nUpto 83% Off On HRX Sweatshirt & Hoodies.\n\nWomen : https://myntr.in/itDFbz\nMen : https://myntr.in/3JOpmP",
-    "final_url": "https://myntr.in/fbVAKP",
-    "local_image": "assets/images/tgmsg_27265.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-15T08:04:43+00:00",
-    "buy_link": "https://myntr.in/fbVAKP",
-    "date_iso": "2026-02-15T08:04:43+00:00"
   }
 ]
