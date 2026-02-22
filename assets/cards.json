@@ -1,5 +1,105 @@
 [
   {
+    "id": "msg27965",
+    "title": "Boldfit Knee Supporter @ 205",
+    "description": "Amazon | Boldfit Knee Supporter @ 205. https://www.amazon.in/dp/B0D7HRQLHW?th=1&tag=bestpricezo0f-21 200 : https://www.amazon.in/dp/B0BRD4KMCR?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0D7HRQLHW?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0D7HRQLHW?th=1&tag=bestpricezo0f-21",
+        "label": "Boldfit Knee Supporter @ 205"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0BRD4KMCR?th=1&tag=bestpricezo0f-21",
+        "label": "200"
+      }
+    ],
+    "raw_text": "Amazon | Boldfit Knee Supporter @ 205.\n\nhttps://www.amazon.in/dp/B0D7HRQLHW?th=1&tag=bestpricezo0f-21 \n\n200 : https://www.amazon.in/dp/B0BRD4KMCR?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D7HRQLHW?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_27965.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-22T09:04:13+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D7HRQLHW?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-02-22T09:04:13+00:00"
+  },
+  {
+    "id": "msg27966",
+    "title": "Jeans & Trousers Under @₹699",
+    "description": "AJIO : Jeans & Trousers Under @₹699 Women : https://ajiio.co/OxzoOW Men : https://ajiio.co/CVprK6",
+    "shortlink": "https://ajiio.co/OxzoOW",
+    "urls": [
+      {
+        "url": "",
+        "label": "Jeans & Trousers Under @₹699"
+      },
+      {
+        "url": "https://ajiio.co/OxzoOW",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/CVprK6",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "AJIO : Jeans & Trousers Under @₹699  \n\nWomen : https://ajiio.co/OxzoOW\n\nMen : https://ajiio.co/CVprK6",
+    "final_url": "https://ajiio.co/OxzoOW",
+    "local_image": "assets/images/tgmsg_27966.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-22T09:15:47+00:00",
+    "buy_link": "https://ajiio.co/OxzoOW",
+    "date_iso": "2026-02-22T09:15:47+00:00"
+  },
+  {
+    "id": "msg27969",
+    "title": "Flat 85% Off On Jack & Jones Clothing",
+    "description": "AJIO . Upto 75% Off On USPA Clothing. Men : Women : Boys : Girls : Upto 80% Off On Spykar Clothing. Men : Women : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/qGPLeH",
+    "urls": [
+      {
+        "url": "https://ajiio.co/qGPLeH",
+        "label": "AJIO Flat 85% Off On Jack & Jones Clothing"
+      },
+      {
+        "url": "https://ajiio.co/RnOmu4",
+        "label": "Upto 75% Off On USPA Clothing"
+      },
+      {
+        "url": "https://ajiio.co/OHZVpe",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/fKIXvx",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/GvdQQy",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/xtRzs0",
+        "label": "Upto 80% Off On Spykar Clothing"
+      },
+      {
+        "url": "https://ajiio.co/VfNkDD",
+        "label": "Women"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "AJIO  Flat 85% Off On Jack & Jones Clothing.\n\nhttps://ajiio.co/qGPLeH\n\nUpto 75% Off On USPA Clothing.\n\nMen : https://ajiio.co/RnOmu4\nWomen : https://ajiio.co/OHZVpe\nBoys : https://ajiio.co/fKIXvx\nGirls : https://ajiio.co/GvdQQy\n\nUpto 80% Off On Spykar Clothing.\n\nMen : https://ajiio.co/xtRzs0\nWomen : https://ajiio.co/VfNkDD\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/qGPLeH",
+    "local_image": "assets/images/tgmsg_27969.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-22T09:45:53+00:00",
+    "buy_link": "https://ajiio.co/qGPLeH",
+    "date_iso": "2026-02-22T09:45:53+00:00"
+  },
+  {
     "id": "msg27964",
     "title": "Up to 60% Off on Fragrances & Deodorants Starting @ Just ₹200",
     "description": "Ajio | Upto 60% Off on Fragrances & Deodorants Starting @ Just ₹200 Link : https://ajiio.co/8If6lP",
@@ -9390,81 +9490,5 @@
     "date_obj": "2026-02-16T12:35:09+00:00",
     "buy_link": "https://extp.in/PAkjT7",
     "date_iso": "2026-02-16T12:35:09+00:00"
-  },
-  {
-    "id": "msg27378",
-    "title": "3 pcs kurta sets under 899",
-    "description": "Myntra  | 3 pcs kurta sets under 899 🔗 https://myntr.in/U7C2SE Kurtas and Kurtis under 499 🔗 https://myntr.in/8mUVpJ",
-    "shortlink": "https://myntr.in/U7C2SE",
-    "urls": [
-      {
-        "url": "https://myntr.in/U7C2SE",
-        "label": "3 pcs kurta sets under 899"
-      },
-      {
-        "url": "https://myntr.in/8mUVpJ",
-        "label": "Kurtas and Kurtis under 499"
-      }
-    ],
-    "raw_text": "Myntra  | 3 pcs kurta sets under 899\n🔗 https://myntr.in/U7C2SE\n\nKurtas and Kurtis under 499\n🔗 https://myntr.in/8mUVpJ",
-    "final_url": "https://myntr.in/U7C2SE",
-    "local_image": "assets/images/tgmsg_27378.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-16T12:40:07+00:00",
-    "buy_link": "https://myntr.in/U7C2SE",
-    "date_iso": "2026-02-16T12:40:07+00:00"
-  },
-  {
-    "id": "msg27379",
-    "title": "Shopsy Men Trendy Clogs ₹179",
-    "description": "Shopsy | Men Trendy Clogs  ₹179 🔗 https://extp.in/oSV0g9",
-    "shortlink": "https://extp.in/oSV0g9",
-    "urls": [
-      {
-        "url": "https://extp.in/oSV0g9",
-        "label": "Men Trendy Clogs ₹179"
-      }
-    ],
-    "raw_text": "Shopsy | Men Trendy Clogs  ₹179\n\n🔗 https://extp.in/oSV0g9",
-    "final_url": "https://extp.in/oSV0g9",
-    "local_image": "assets/images/tgmsg_27379.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-02-16T12:50:20+00:00",
-    "buy_link": "https://extp.in/oSV0g9",
-    "date_iso": "2026-02-16T12:50:20+00:00"
-  },
-  {
-    "id": "msg27381",
-    "title": "🔥 Shopsy Deal",
-    "description": "🔥 Shopsy Loot Deals Urban Carrier Luggage @ ₹1000 🔗 Harrison Padlock with 3 Keys @ ₹70 🔗 Key Holder @ ₹80 🔗",
-    "shortlink": "https://bitli.in/b2wmnTa",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Shopsy Loot Deals"
-      },
-      {
-        "url": "https://bitli.in/b2wmnTa",
-        "label": "Urban Carrier Luggage @ ₹1000"
-      },
-      {
-        "url": "https://bitli.in/aQtusa8",
-        "label": "Harrison Padlock with 3 Keys @ ₹70"
-      },
-      {
-        "url": "https://bitli.in/1CS9JYU",
-        "label": "Key Holder @ ₹80"
-      }
-    ],
-    "raw_text": "🔥  Shopsy Loot Deals\n\nUrban Carrier Luggage @ ₹1000\n🔗 https://bitli.in/b2wmnTa\n\nHarrison Padlock with 3 Keys @ ₹70\n🔗 https://bitli.in/aQtusa8\n\nKey Holder @ ₹80\n🔗 https://bitli.in/1CS9JYU",
-    "final_url": "https://bitli.in/b2wmnTa",
-    "local_image": "assets/images/tgmsg_27381.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-02-16T13:03:49+00:00",
-    "buy_link": "https://bitli.in/b2wmnTa",
-    "date_iso": "2026-02-16T13:03:49+00:00"
   }
 ]
