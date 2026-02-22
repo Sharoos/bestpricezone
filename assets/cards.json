@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg27978",
+    "title": "Little Rides Battery Operated Jeep For Kid's @5,999",
+    "description": "Loot: Little Rides Battery Operated Jeep For Kid's @5,999 https://fktr.in/y0cih91",
+    "shortlink": "https://fktr.in/y0cih91",
+    "urls": [
+      {
+        "url": "https://fktr.in/y0cih91",
+        "label": "Little Rides Battery Operated Jeep For Kid's @5,999"
+      }
+    ],
+    "raw_text": "Loot: Little Rides Battery Operated Jeep For Kid's @5,999\n\nhttps://fktr.in/y0cih91",
+    "final_url": "https://fktr.in/y0cih91",
+    "local_image": "assets/images/tgmsg_27978.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-22T11:34:56+00:00",
+    "buy_link": "https://fktr.in/y0cih91",
+    "date_iso": "2026-02-22T11:34:56+00:00"
+  },
+  {
     "id": "msg27975",
     "title": "Fragnance Starting @ just 185",
     "description": "Ajio | Home-Fragnance Starting @ just 185 Link : https://ajiio.co/spf1ER",
@@ -9430,37 +9450,5 @@
     "date_obj": "2026-02-16T13:51:31+00:00",
     "buy_link": "https://extp.in/ikkV95",
     "date_iso": "2026-02-16T13:51:31+00:00"
-  },
-  {
-    "id": "msg27389",
-    "title": "Shopsy Deals Under @99",
-    "description": "Shopsy: Loot Deals Under @99 Link: Wrist Watch @69 Men's Slippers @99 Cotton Sarees @199",
-    "shortlink": "https://bitli.in/P1tA0qH",
-    "urls": [
-      {
-        "url": "https://bitli.in/P1tA0qH",
-        "label": "Loot Deals Under @99"
-      },
-      {
-        "url": "https://bitli.in/7una6YI",
-        "label": "Wrist Watch @69"
-      },
-      {
-        "url": "https://bitli.in/W4s4K1m",
-        "label": "Men's Slippers @99"
-      },
-      {
-        "url": "https://bitli.in/9nHGVvs",
-        "label": "Cotton Sarees @199"
-      }
-    ],
-    "raw_text": "Shopsy: Loot Deals Under @99\n\nLink: https://bitli.in/P1tA0qH\n\nWrist Watch @69\nhttps://bitli.in/7una6YI\n\nMen's Slippers @99\nhttps://bitli.in/W4s4K1m\n\nCotton Sarees @199\nhttps://bitli.in/9nHGVvs",
-    "final_url": "https://bitli.in/P1tA0qH",
-    "local_image": "assets/images/tgmsg_27389.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-02-16T14:00:34+00:00",
-    "buy_link": "https://bitli.in/P1tA0qH",
-    "date_iso": "2026-02-16T14:00:34+00:00"
   }
 ]
