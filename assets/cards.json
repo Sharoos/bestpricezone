@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg27997",
+    "title": "shirts Starts @₹197",
+    "description": "Myntra | Roadster Men Polo T-shirts Starts @₹197 🔗 https://myntr.in/laLGpE",
+    "shortlink": "https://myntr.in/laLGpE",
+    "urls": [
+      {
+        "url": "https://myntr.in/laLGpE",
+        "label": "Roadster Men Polo T-shirts Starts @₹197"
+      }
+    ],
+    "raw_text": "Myntra | Roadster Men Polo T-shirts Starts @₹197\n\n🔗 https://myntr.in/laLGpE",
+    "final_url": "https://myntr.in/laLGpE",
+    "local_image": "assets/images/tgmsg_27997.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-22T15:04:44+00:00",
+    "buy_link": "https://myntr.in/laLGpE",
+    "date_iso": "2026-02-22T15:04:44+00:00"
+  },
+  {
     "id": "msg27995",
     "title": "Naturoz California Almonds, 1Kg at ₹931",
     "description": "Flipkart | Naturoz California Almonds, 1Kg at ₹931 Link : https://fkrt.co/Xruyvv",
@@ -9554,89 +9574,5 @@
     "date_obj": "2026-02-16T17:16:48+00:00",
     "buy_link": "https://myntr.in/excFeE",
     "date_iso": "2026-02-16T17:16:48+00:00"
-  },
-  {
-    "id": "msg27413",
-    "title": "Up to 80% Off On USPA Clothing",
-    "description": "AJIO Upto 80% Off On USPA Clothing. Men’s : Women’s : Boys : Girls : Marks & Spencer. Women’s : Men’s : Girls : Boys : Upto 80% Off On Allen Cooper Clothing. Master Link : T-Shirt : Jeans : Shirts : Jacket : Shoes :",
-    "shortlink": "https://ajiio.co/VLSe2v",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 80% Off On USPA Clothing"
-      },
-      {
-        "url": "https://ajiio.co/VLSe2v",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.co/c7ZmIa",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://ajiio.co/D0Oxs9",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/EjResJ",
-        "label": "Girls"
-      },
-      {
-        "url": "",
-        "label": "Marks & Spencer"
-      },
-      {
-        "url": "https://ajiio.co/HR9RkK",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://ajiio.co/UOILAw",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.co/6sL1Ca",
-        "label": "Girls"
-      },
-      {
-        "url": "https://ajiio.co/SHKwqB",
-        "label": "Boys"
-      },
-      {
-        "url": "",
-        "label": "Upto 80% Off On Allen Cooper Clothing"
-      },
-      {
-        "url": "https://ajiio.co/jj3w2h",
-        "label": "Master"
-      },
-      {
-        "url": "https://ajiio.co/XL3S95",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://ajiio.co/cSckLT",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/rqHMyU",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/RcaNoX",
-        "label": "Jacket"
-      },
-      {
-        "url": "https://ajiio.co/S4ck1E",
-        "label": "Shoes"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On USPA Clothing. \n\nMen’s : https://ajiio.co/VLSe2v\nWomen’s : https://ajiio.co/c7ZmIa\nBoys : https://ajiio.co/D0Oxs9\nGirls : https://ajiio.co/EjResJ\n\nMarks & Spencer. \nWomen’s : https://ajiio.co/HR9RkK\nMen’s : https://ajiio.co/UOILAw\nGirls : https://ajiio.co/6sL1Ca\nBoys : https://ajiio.co/SHKwqB\n\n Upto 80% Off On Allen Cooper Clothing.\n\nMaster Link : https://ajiio.co/jj3w2h\n\nT-Shirt : https://ajiio.co/XL3S95\nJeans : https://ajiio.co/cSckLT\nShirts : https://ajiio.co/rqHMyU\nJacket : https://ajiio.co/RcaNoX\nShoes : https://ajiio.co/S4ck1E",
-    "final_url": "https://ajiio.co/VLSe2v",
-    "local_image": "assets/images/tgmsg_27413.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-02-16T17:33:53+00:00",
-    "buy_link": "https://ajiio.co/VLSe2v",
-    "date_iso": "2026-02-16T17:33:53+00:00"
   }
 ]
