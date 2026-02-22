@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg27999",
+    "title": "Up to 85% Off On Men’s Jean",
+    "description": "Ajio Upto 85% Off On Men’s Jeans. Jack & Jones : John Players : DNMX : Buda Jeans Co : Lee Cooper : Spykar : Allen Cooper : U.S. Polo Assn. : Pepe Jeans :",
+    "shortlink": "https://ajiio.co/YpBt0Y",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Upto 85% Off On Men’s Jeans"
+      },
+      {
+        "url": "https://ajiio.co/YpBt0Y",
+        "label": "Jack & Jones"
+      },
+      {
+        "url": "https://ajiio.co/77esaq",
+        "label": "John Players"
+      },
+      {
+        "url": "https://ajiio.co/Zxv3xG",
+        "label": "DNMX"
+      },
+      {
+        "url": "https://ajiio.co/9uvA5e",
+        "label": "Buda Jeans Co"
+      },
+      {
+        "url": "https://ajiio.co/6ThIlh",
+        "label": "Lee Cooper"
+      },
+      {
+        "url": "https://ajiio.co/ZaOO6P",
+        "label": "Spykar"
+      },
+      {
+        "url": "https://ajiio.co/cSp9uQ",
+        "label": "Allen Cooper"
+      },
+      {
+        "url": "https://ajiio.co/rvFjm4",
+        "label": "U.S. Polo Assn"
+      },
+      {
+        "url": "https://ajiio.co/8jVD2b",
+        "label": "Pepe Jeans"
+      }
+    ],
+    "raw_text": "Ajio  Upto 85% Off On Men’s Jeans. \n\nJack & Jones : https://ajiio.co/YpBt0Y\nJohn Players : https://ajiio.co/77esaq\nDNMX : https://ajiio.co/Zxv3xG\nBuda Jeans Co : https://ajiio.co/9uvA5e\nLee Cooper : https://ajiio.co/6ThIlh\nSpykar : https://ajiio.co/ZaOO6P\nAllen Cooper : https://ajiio.co/cSp9uQ\nU.S. Polo Assn. : https://ajiio.co/rvFjm4\nPepe Jeans : https://ajiio.co/8jVD2b",
+    "final_url": "https://ajiio.co/YpBt0Y",
+    "local_image": "assets/images/tgmsg_27999.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-22T15:46:51+00:00",
+    "buy_link": "https://ajiio.co/YpBt0Y",
+    "date_iso": "2026-02-22T15:46:51+00:00"
+  },
+  {
     "id": "msg27997",
     "title": "shirts Starts @₹197",
     "description": "Myntra | Roadster Men Polo T-shirts Starts @₹197 🔗 https://myntr.in/laLGpE",
@@ -9550,29 +9606,5 @@
     "date_obj": "2026-02-16T17:11:45+00:00",
     "buy_link": "https://extp.in/tF9RTp",
     "date_iso": "2026-02-16T17:11:45+00:00"
-  },
-  {
-    "id": "msg27412",
-    "title": "Flat 35% off on Ddecor bedsheets and curtain",
-    "description": "Myntra | Flat 35% off on Ddecor bedsheets and curtains. https://myntr.in/excFeE Min 50% off on Cello and Larah by Borosil dinner set https://myntr.in/JktWQ4",
-    "shortlink": "https://myntr.in/excFeE",
-    "urls": [
-      {
-        "url": "https://myntr.in/excFeE",
-        "label": "Flat 35% off on Ddecor bedsheets and curtains"
-      },
-      {
-        "url": "https://myntr.in/JktWQ4",
-        "label": "Min 50% off on Cello and Larah by Borosil dinner set"
-      }
-    ],
-    "raw_text": "Myntra | Flat 35% off on Ddecor bedsheets and curtains.\n\nhttps://myntr.in/excFeE\n\nMin 50% off on Cello and Larah by Borosil dinner set\n\nhttps://myntr.in/JktWQ4",
-    "final_url": "https://myntr.in/excFeE",
-    "local_image": "assets/images/tgmsg_27412.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-16T17:16:48+00:00",
-    "buy_link": "https://myntr.in/excFeE",
-    "date_iso": "2026-02-16T17:16:48+00:00"
   }
 ]
