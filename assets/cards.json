@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg27979",
+    "title": "Wellcore Micronised Creatine Monohydrate (Tropical Tango), 122g at 509",
+    "description": "Flipkart | Wellcore Micronised Creatine Monohydrate (Tropical Tango), 122g at 509. https://fkrt.co/6Oz9Nn Lowest : Premium Mixed Dry Fruits, 500g at 288. https://fkrt.co/3JCmNB",
+    "shortlink": "https://fkrt.co/6Oz9Nn",
+    "urls": [
+      {
+        "url": "https://fkrt.co/6Oz9Nn",
+        "label": "Wellcore Micronised Creatine Monohydrate (Tropical Tango), 122g at 509"
+      },
+      {
+        "url": "https://fkrt.co/3JCmNB",
+        "label": "Premium Mixed Dry Fruits, 500g at 288"
+      }
+    ],
+    "raw_text": "Flipkart | Wellcore Micronised Creatine Monohydrate (Tropical Tango), 122g at 509. \n\nhttps://fkrt.co/6Oz9Nn\n\nLowest : Premium Mixed Dry Fruits, 500g at 288.\n\nhttps://fkrt.co/3JCmNB",
+    "final_url": "https://fkrt.co/6Oz9Nn",
+    "local_image": "assets/images/tgmsg_27979.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-22T11:45:58+00:00",
+    "buy_link": "https://fkrt.co/6Oz9Nn",
+    "date_iso": "2026-02-22T11:45:58+00:00"
+  },
+  {
     "id": "msg27978",
     "title": "Little Rides Battery Operated Jeep For Kid's @5,999",
     "description": "Loot: Little Rides Battery Operated Jeep For Kid's @5,999 https://fktr.in/y0cih91",
@@ -9414,41 +9438,5 @@
     "date_obj": "2026-02-16T13:46:22+00:00",
     "buy_link": "https://fkrt.co/tAyJWN",
     "date_iso": "2026-02-16T13:46:22+00:00"
-  },
-  {
-    "id": "msg27388",
-    "title": "Novel Baby Wipes (Pack of 3) At 145",
-    "description": "Shopsy Deals 🔥🔥  Link: Hot & Cold Flask At 68 Link: Brij Gwala Ghee - 1L At 296 Link: Door Mat Large - (Pack Of 2) At 159 Link:",
-    "shortlink": "https://extp.in/ikkV95",
-    "urls": [
-      {
-        "url": "",
-        "label": "Shopsy Deals 🔥🔥"
-      },
-      {
-        "url": "https://extp.in/ikkV95",
-        "label": "Novel Baby Wipes (Pack of 3) At 145"
-      },
-      {
-        "url": "https://extp.in/pCEMAs",
-        "label": "Hot & Cold Flask At 68"
-      },
-      {
-        "url": "https://extp.in/BLVTIe",
-        "label": "1L At 296"
-      },
-      {
-        "url": "https://extp.in/qsAQ27",
-        "label": "(Pack Of 2) At 159"
-      }
-    ],
-    "raw_text": "Shopsy  Deals 🔥🔥\n\nNovel Baby Wipes (Pack of 3) At 145\nLink: https://extp.in/ikkV95\n\nHot & Cold Flask  At 68\nLink: https://extp.in/pCEMAs\n\nBrij Gwala Ghee - 1L At 296\nLink:  https://extp.in/BLVTIe\n\nDoor Mat Large - (Pack Of 2) At 159\nLink: https://extp.in/qsAQ27",
-    "final_url": "https://extp.in/ikkV95",
-    "local_image": "assets/images/tgmsg_27388.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-02-16T13:51:31+00:00",
-    "buy_link": "https://extp.in/ikkV95",
-    "date_iso": "2026-02-16T13:51:31+00:00"
   }
 ]
