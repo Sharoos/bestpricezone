@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg28015",
+    "title": "RR SIGNATURE NEOAIR DECO Ceiling Fan 1200 MM @1799",
+    "description": "Amazon | RR SIGNATURE NEOAIR DECO Ceiling Fan 1200 MM @1799 https://www.amazon.in/dp/B0FC2Q9HVV?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FC2Q9HVV?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FC2Q9HVV?th=1&tag=bestpricezo0f-21",
+        "label": "RR SIGNATURE NEOAIR DECO Ceiling Fan 1200 MM @1799"
+      }
+    ],
+    "raw_text": "Amazon | RR SIGNATURE NEOAIR DECO Ceiling Fan 1200 MM @1799\n\nhttps://www.amazon.in/dp/B0FC2Q9HVV?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FC2Q9HVV?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_28015.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-23T03:45:34+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FC2Q9HVV?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-02-23T03:45:34+00:00"
+  },
+  {
+    "id": "msg28016",
+    "title": "Solimo Ceramic Bowl, Set of 4 @395",
+    "description": "Amazon | Solimo Ceramic Bowl, Set of 4 @395. https://www.amazon.in/dp/B0D3327BJN?psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0D3327BJN?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0D3327BJN?psc=1&tag=bestpricezo0f-21",
+        "label": "Solimo Ceramic Bowl, Set of 4 @395"
+      }
+    ],
+    "raw_text": "Amazon | Solimo Ceramic Bowl, Set of 4 @395.\n\nhttps://www.amazon.in/dp/B0D3327BJN?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D3327BJN?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_28016.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-23T04:15:49+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D3327BJN?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-02-23T04:15:49+00:00"
+  },
+  {
     "id": "msg28009",
     "title": "4,250₹ Off With HDFC Credit Card",
     "description": "Amazon | FAAAAASSSSTTTT 🔥 27,440₹ 1,000₹ Coupon  Hitachi 1.5 Ton 3 Star 😝andable+ Inverter Split AC",
@@ -9630,45 +9670,5 @@
     "date_obj": "2026-02-17T04:31:38+00:00",
     "buy_link": "https://ajiio.co/AYRzig",
     "date_iso": "2026-02-17T04:31:38+00:00"
-  },
-  {
-    "id": "msg27443",
-    "title": "Vegetable Chopper at 101",
-    "description": "Amazon | Vegetable Chopper at 101 https://www.amazon.in/dp/B07ND68YR5?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07ND68YR5?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07ND68YR5?tag=bestpricezo0f-21",
-        "label": "Vegetable Chopper at 101"
-      }
-    ],
-    "raw_text": "Amazon | Vegetable Chopper at 101\n\nhttps://www.amazon.in/dp/B07ND68YR5?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07ND68YR5?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_27443.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-02-17T04:46:36+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07ND68YR5?tag=bestpricezo0f-21",
-    "date_iso": "2026-02-17T04:46:36+00:00"
-  },
-  {
-    "id": "msg27444",
-    "title": "Sparx Men's Footwear Starts @ 199🔥",
-    "description": "Flipkart | Sparx Men's Footwear Starts @ 199🔥 https://fkrt.co/VSo4ho",
-    "shortlink": "https://fkrt.co/VSo4ho",
-    "urls": [
-      {
-        "url": "https://fkrt.co/VSo4ho",
-        "label": "Sparx Men's Footwear Starts @ 199🔥"
-      }
-    ],
-    "raw_text": "Flipkart | Sparx Men's Footwear Starts @ 199🔥 \n\nhttps://fkrt.co/VSo4ho",
-    "final_url": "https://fkrt.co/VSo4ho",
-    "local_image": "assets/images/tgmsg_27444.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-17T05:01:42+00:00",
-    "buy_link": "https://fkrt.co/VSo4ho",
-    "date_iso": "2026-02-17T05:01:42+00:00"
   }
 ]
