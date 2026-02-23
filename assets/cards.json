@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg28080",
+    "title": "Doormats & Curtains Starts @111",
+    "description": "Myntra : Doormats & Curtains Starts @111 👉https://myntr.in/2IHxFV",
+    "shortlink": "https://myntr.in/2IHxFV",
+    "urls": [
+      {
+        "url": "https://myntr.in/2IHxFV",
+        "label": "Doormats & Curtains Starts @111"
+      }
+    ],
+    "raw_text": "Myntra : Doormats & Curtains Starts @111\n\n👉https://myntr.in/2IHxFV",
+    "final_url": "https://myntr.in/2IHxFV",
+    "local_image": "assets/images/tgmsg_28080.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-23T16:05:44+00:00",
+    "buy_link": "https://myntr.in/2IHxFV",
+    "date_iso": "2026-02-23T16:05:44+00:00"
+  },
+  {
+    "id": "msg28081",
+    "title": "Up to 70% Off On Lifebuoy Bodywash",
+    "description": "Myntra | Upto 70% Off On Lifebuoy Bodywash. 👉https://myntr.in/IwRFJA",
+    "shortlink": "https://myntr.in/IwRFJA",
+    "urls": [
+      {
+        "url": "https://myntr.in/IwRFJA",
+        "label": "Upto 70% Off On Lifebuoy Bodywash"
+      }
+    ],
+    "raw_text": "Myntra | Upto 70% Off On Lifebuoy Bodywash.\n\n👉https://myntr.in/IwRFJA",
+    "final_url": "https://myntr.in/IwRFJA",
+    "local_image": "assets/images/tgmsg_28081.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-23T17:02:34+00:00",
+    "buy_link": "https://myntr.in/IwRFJA",
+    "date_iso": "2026-02-23T17:02:34+00:00"
+  },
+  {
     "id": "msg28075",
     "title": "BEST Get ₹2500 Yatra HOTEL Gift Card at Rs.98",
     "description": "BEST : Get ₹2500 Yatra HOTEL Gift Card at Rs.98 Apply Coupon : FLAT98 Benefits: 1. Applicable on Hotel Bookings only. 2. Book any no. of room nights with No of pax, No minimum night conditions. 3. Book room with…",
@@ -9734,45 +9774,5 @@
     "date_obj": "2026-02-17T13:17:15+00:00",
     "buy_link": "https://extp.in/Qo5U9S",
     "date_iso": "2026-02-17T13:17:15+00:00"
-  },
-  {
-    "id": "msg27501",
-    "title": "Cello Travel Star Plastic Insulated Water Jug @₹349",
-    "description": "Amazon | Cello Travel Star Plastic Insulated Water Jug  @₹349 🔗 https://www.amazon.in/dp/B071RQ2D62?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B071RQ2D62?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B071RQ2D62?th=1&tag=bestpricezo0f-21",
-        "label": "Cello Travel Star Plastic Insulated Water Jug @₹349"
-      }
-    ],
-    "raw_text": "Amazon | Cello Travel Star Plastic Insulated Water Jug  @₹349  \n\n🔗 https://www.amazon.in/dp/B071RQ2D62?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B071RQ2D62?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_27501.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-02-17T13:20:15+00:00",
-    "buy_link": "https://www.amazon.in/dp/B071RQ2D62?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-02-17T13:20:15+00:00"
-  },
-  {
-    "id": "msg27502",
-    "title": "65% on Ponds Facewashes, Day cream & Moisturize",
-    "description": "Myntra | 65% on Ponds Facewashes, Day cream & Moisturizers. 🔗 https://myntr.in/08t5Xj",
-    "shortlink": "https://myntr.in/08t5Xj",
-    "urls": [
-      {
-        "url": "https://myntr.in/08t5Xj",
-        "label": "65% on Ponds Facewashes, Day cream & Moisturizers"
-      }
-    ],
-    "raw_text": "Myntra | 65% on Ponds Facewashes, Day cream & Moisturizers.\n\n🔗 https://myntr.in/08t5Xj",
-    "final_url": "https://myntr.in/08t5Xj",
-    "local_image": "assets/images/tgmsg_27502.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-17T13:25:14+00:00",
-    "buy_link": "https://myntr.in/08t5Xj",
-    "date_iso": "2026-02-17T13:25:14+00:00"
   }
 ]
