@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg28028",
+    "title": "💰 Bonus Earn 10% Super Cash on Every Order!",
+    "description": "Ajio | Beauty and Personal Care Under 399 👉Link : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "shortlink": "https://ajiio.co/pM6kI7",
+    "urls": [
+      {
+        "url": "https://ajiio.co/pM6kI7",
+        "label": "Beauty and Personal Care Under 399"
+      },
+      {
+        "url": "",
+        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!"
+      }
+    ],
+    "raw_text": "Ajio | Beauty and Personal Care Under 399\n\n👉Link : https://ajiio.co/pM6kI7\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!",
+    "final_url": "https://ajiio.co/pM6kI7",
+    "local_image": "assets/images/tgmsg_28028.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-23T06:35:16+00:00",
+    "buy_link": "https://ajiio.co/pM6kI7",
+    "date_iso": "2026-02-23T06:35:16+00:00"
+  },
+  {
     "id": "msg28017",
     "title": "Roadster Clothing Starts @115",
     "description": "Myntra : Roadster Clothing Starts @115 Men's : https://myntr.in/I5mJHR& Jeans : https://myntr.in/fTryoc& Winterwear : https://myntr.in/OefQxh& Women's : https://myntr.in/7ir1gf& Jeans : https://myntr.in/e7Z7lu&…",
@@ -9754,25 +9778,5 @@
     "date_obj": "2026-02-17T06:46:43+00:00",
     "buy_link": "https://ajiio.co/Vv4lbU",
     "date_iso": "2026-02-17T06:46:43+00:00"
-  },
-  {
-    "id": "msg27446",
-    "title": "Roadster Sneakers Up to 86% off 😱",
-    "description": "Myntra | Roadster Sneakers Upto 86% off 😱 🔗https://myntr.in/HNDxQY",
-    "shortlink": "https://myntr.in/HNDxQY",
-    "urls": [
-      {
-        "url": "https://myntr.in/HNDxQY",
-        "label": "Roadster Sneakers Upto 86% off 😱"
-      }
-    ],
-    "raw_text": "Myntra | Roadster Sneakers Upto 86% off 😱\n\n🔗https://myntr.in/HNDxQY",
-    "final_url": "https://myntr.in/HNDxQY",
-    "local_image": "assets/images/tgmsg_27446.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-17T05:16:16+00:00",
-    "buy_link": "https://myntr.in/HNDxQY",
-    "date_iso": "2026-02-17T05:16:16+00:00"
   }
 ]
