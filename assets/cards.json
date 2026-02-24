@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg28146",
+    "title": "SmartBuy 4 UNIVERSAL SOCKET Rs.120",
+    "description": "Flipkart | SmartBuy 4 UNIVERSAL SOCKET Rs.120 https://fkrt.co/jlsXMO",
+    "shortlink": "https://fkrt.co/jlsXMO",
+    "urls": [
+      {
+        "url": "https://fkrt.co/jlsXMO",
+        "label": "SmartBuy 4 UNIVERSAL SOCKET Rs.120"
+      }
+    ],
+    "raw_text": "Flipkart | SmartBuy 4 UNIVERSAL SOCKET Rs.120\n\nhttps://fkrt.co/jlsXMO",
+    "final_url": "https://fkrt.co/jlsXMO",
+    "local_image": "assets/images/tgmsg_28146.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-24T14:46:07+00:00",
+    "buy_link": "https://fkrt.co/jlsXMO",
+    "date_iso": "2026-02-24T14:46:07+00:00"
+  },
+  {
     "id": "msg28143",
     "title": "Up to 60% Off on Kitchen Tools Starting @ just 139",
     "description": "Ajio | Upto 60% Off on Kitchen Tools Starting @ just 139 Link : + 10% Extra Ajio Cash",
@@ -9762,25 +9782,5 @@
     "date_obj": "2026-02-18T03:51:44+00:00",
     "buy_link": "https://bitli.in/oGnDayk",
     "date_iso": "2026-02-18T03:51:44+00:00"
-  },
-  {
-    "id": "msg27568",
-    "title": "Highlander Men's Cargos Up to 80% off",
-    "description": "Flipkart | Highlander Men's Cargos upto 80% off 👉https://fkrt.co/6DtScp",
-    "shortlink": "https://fkrt.co/6DtScp",
-    "urls": [
-      {
-        "url": "https://fkrt.co/6DtScp",
-        "label": "Highlander Men's Cargos upto 80% off"
-      }
-    ],
-    "raw_text": "Flipkart | Highlander Men's Cargos upto 80% off\n\n👉https://fkrt.co/6DtScp",
-    "final_url": "https://fkrt.co/6DtScp",
-    "local_image": "assets/images/tgmsg_27568.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-18T04:15:40+00:00",
-    "buy_link": "https://fkrt.co/6DtScp",
-    "date_iso": "2026-02-18T04:15:40+00:00"
   }
 ]
