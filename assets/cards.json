@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg28273",
+    "title": "Up to 55% Off On Park Avenue Soap",
+    "description": "Myntra | Upto 55% Off On Park Avenue Soaps. 👉 https://myntr.in/wNUEMN",
+    "shortlink": "https://myntr.in/wNUEMN",
+    "urls": [
+      {
+        "url": "https://myntr.in/wNUEMN",
+        "label": "Upto 55% Off On Park Avenue Soaps"
+      }
+    ],
+    "raw_text": "Myntra | Upto 55% Off On Park Avenue Soaps.\n\n👉 https://myntr.in/wNUEMN",
+    "final_url": "https://myntr.in/wNUEMN",
+    "local_image": "assets/images/tgmsg_28273.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-26T05:45:50+00:00",
+    "buy_link": "https://myntr.in/wNUEMN",
+    "date_iso": "2026-02-26T05:45:50+00:00"
+  },
+  {
     "id": "msg28266",
     "title": "65% off",
     "description": "Myntra | L’Oréal, Maybelline and Garnier 40% - 65% off 👉Link : https://myntr.in/DGxXHD",
@@ -9890,29 +9910,5 @@
     "date_obj": "2026-02-19T05:01:58+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CC5666P7?smid=&tag=bestpricezo0f-21",
     "date_iso": "2026-02-19T05:01:58+00:00"
-  },
-  {
-    "id": "msg27675",
-    "title": "76% Off",
-    "description": "Flipkart  76% Off - Men Cargos At Rs.799 🔗  https://fkrt.co/S89HRN Master Link -    https://fkrt.co/LDv14H",
-    "shortlink": "https://fkrt.co/S89HRN",
-    "urls": [
-      {
-        "url": "https://fkrt.co/S89HRN",
-        "label": "Flipkart 76% Off - Men Cargos At Rs.799"
-      },
-      {
-        "url": "https://fkrt.co/LDv14H",
-        "label": "Master"
-      }
-    ],
-    "raw_text": "Flipkart  76% Off - Men Cargos At Rs.799\n\n🔗  https://fkrt.co/S89HRN\n\nMaster Link -    https://fkrt.co/LDv14H",
-    "final_url": "https://fkrt.co/S89HRN",
-    "local_image": "assets/images/tgmsg_27675.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-18T20:28:28+00:00",
-    "buy_link": "https://fkrt.co/S89HRN",
-    "date_iso": "2026-02-18T20:28:28+00:00"
   }
 ]
