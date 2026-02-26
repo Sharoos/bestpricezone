@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg28264",
+    "title": "65% off",
+    "description": "Myntra | L’Oréal, Maybelline and Garnier 40% - 65% off 👉Link : https://myntr.in/PfI9Dk",
+    "shortlink": "https://myntr.in/PfI9Dk",
+    "urls": [
+      {
+        "url": "https://myntr.in/PfI9Dk",
+        "label": "L’Oréal, Maybelline and Garnier 40% - 65% off"
+      }
+    ],
+    "raw_text": "Myntra | L’Oréal, Maybelline and Garnier 40% - 65% off\n\n👉Link : https://myntr.in/PfI9Dk",
+    "final_url": "https://myntr.in/PfI9Dk",
+    "local_image": "assets/images/tgmsg_28264.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-26T02:22:57+00:00",
+    "buy_link": "https://myntr.in/PfI9Dk",
+    "date_iso": "2026-02-26T02:22:57+00:00"
+  },
+  {
     "id": "msg28261",
     "title": "🔥Up to 94% Off On Buda Jeans Co Clothing",
     "description": "🔥AJIO  Upto 94% Off On Buda Jeans Co Clothing. Men : https://ajiio.co/KS12yr Women : https://ajiio.co/SI4g1l",
@@ -9938,37 +9958,5 @@
     "date_obj": "2026-02-18T18:59:17+00:00",
     "buy_link": "https://bitli.in/pkvkW8a",
     "date_iso": "2026-02-18T18:59:17+00:00"
-  },
-  {
-    "id": "msg27654",
-    "title": "Jack & Jones Min 50% Off",
-    "description": "🔥AJIO | Jeans & Shorts Under ₹499 👉 Performax Under ₹699 👉  👉 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "shortlink": "https://ajiio.co/0RNvOw",
-    "urls": [
-      {
-        "url": "https://ajiio.co/0RNvOw",
-        "label": "🔥AJIO | Jeans & Shorts Under ₹499"
-      },
-      {
-        "url": "https://ajiio.co/chhEkl",
-        "label": "Performax Under ₹699"
-      },
-      {
-        "url": "https://ajiio.co/kR3K8j",
-        "label": "Jack & Jones Min 50% Off"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "🔥AJIO | Jeans & Shorts Under ₹499\n👉https://ajiio.co/0RNvOw\n\nPerformax Under ₹699\n👉https://ajiio.co/chhEkl\n\nJack & Jones Min 50% Off\n👉https://ajiio.co/kR3K8j\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/0RNvOw",
-    "local_image": "assets/images/tgmsg_27654.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-02-18T17:51:23+00:00",
-    "buy_link": "https://ajiio.co/0RNvOw",
-    "date_iso": "2026-02-18T17:51:23+00:00"
   }
 ]
