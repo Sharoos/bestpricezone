@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg28266",
+    "title": "65% off",
+    "description": "Myntra | L’Oréal, Maybelline and Garnier 40% - 65% off 👉Link : https://myntr.in/DGxXHD",
+    "shortlink": "https://myntr.in/DGxXHD",
+    "urls": [
+      {
+        "url": "https://myntr.in/DGxXHD",
+        "label": "L’Oréal, Maybelline and Garnier 40% - 65% off"
+      }
+    ],
+    "raw_text": "Myntra | L’Oréal, Maybelline and Garnier 40% - 65% off\n\n👉Link : https://myntr.in/DGxXHD",
+    "final_url": "https://myntr.in/DGxXHD",
+    "local_image": "assets/images/tgmsg_28266.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-26T04:35:19+00:00",
+    "buy_link": "https://myntr.in/DGxXHD",
+    "date_iso": "2026-02-26T04:35:19+00:00"
+  },
+  {
+    "id": "msg28267",
+    "title": "Zebronics Wireless Keyboard & Mouse Combo @799",
+    "description": "Amazon | Zebronics Wireless Keyboard & Mouse Combo @799 https://www.amazon.in/dp/B0FN85DGBZ?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FN85DGBZ?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FN85DGBZ?th=1&tag=bestpricezo0f-21",
+        "label": "Zebronics Wireless Keyboard & Mouse Combo @799"
+      }
+    ],
+    "raw_text": "Amazon | Zebronics Wireless Keyboard & Mouse Combo @799\n\nhttps://www.amazon.in/dp/B0FN85DGBZ?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FN85DGBZ?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_28267.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-26T04:45:32+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FN85DGBZ?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-02-26T04:45:32+00:00"
+  },
+  {
+    "id": "msg28269",
+    "title": "🚗✨ Dirtgo Microfiber Duster – Car Cleaning Kit Only ₹176",
+    "description": "Flipkart | 🚗✨ Dirtgo Microfiber Duster – Car Cleaning Kit Only ₹176 🔗   https://fkrt.co/dYxJOc",
+    "shortlink": "https://fkrt.co/dYxJOc",
+    "urls": [
+      {
+        "url": "https://fkrt.co/dYxJOc",
+        "label": "🚗✨ Dirtgo Microfiber Duster – Car Cleaning Kit Only ₹176"
+      }
+    ],
+    "raw_text": "Flipkart | 🚗✨ Dirtgo Microfiber Duster – Car Cleaning Kit Only ₹176\n\n🔗   https://fkrt.co/dYxJOc",
+    "final_url": "https://fkrt.co/dYxJOc",
+    "local_image": "assets/images/tgmsg_28269.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-26T05:03:06+00:00",
+    "buy_link": "https://fkrt.co/dYxJOc",
+    "date_iso": "2026-02-26T05:03:06+00:00"
+  },
+  {
     "id": "msg28264",
     "title": "65% off",
     "description": "Myntra | L’Oréal, Maybelline and Garnier 40% - 65% off 👉Link : https://myntr.in/PfI9Dk",
@@ -9854,109 +9914,5 @@
     "date_obj": "2026-02-18T20:28:28+00:00",
     "buy_link": "https://fkrt.co/S89HRN",
     "date_iso": "2026-02-18T20:28:28+00:00"
-  },
-  {
-    "id": "msg27661",
-    "title": "7 Speed Gear Cycle",
-    "description": "Myntra | 7 Speed Gear Cycle 🔗 https://myntr.in/zwSIVO 4699 Coupon : SPORTS20OFF",
-    "shortlink": "https://myntr.in/zwSIVO",
-    "urls": [
-      {
-        "url": "https://myntr.in/zwSIVO",
-        "label": "7 Speed Gear Cycle"
-      }
-    ],
-    "raw_text": "Myntra | 7 Speed Gear Cycle\n\n 🔗 https://myntr.in/zwSIVO 4699\n\nCoupon : SPORTS20OFF",
-    "final_url": "https://myntr.in/zwSIVO",
-    "local_image": "assets/images/tgmsg_27661.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-18T18:38:01+00:00",
-    "buy_link": "https://myntr.in/zwSIVO",
-    "date_iso": "2026-02-18T18:38:01+00:00"
-  },
-  {
-    "id": "msg27667",
-    "title": "Apply ₹2000 Off",
-    "description": "Amazon | Boat Aavante 5.2.4 Prime Bluetooth Speaker at ₹ 14,777 Apply ₹2000 Off Coupon https://www.amazon.in/dp/B0FDFR7K1T?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FDFR7K1T?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FDFR7K1T?th=1&tag=bestpricezo0f-21",
-        "label": "Boat Aavante 5.2.4 Prime Bluetooth Speaker at ₹ 14,777"
-      }
-    ],
-    "raw_text": "Amazon | Boat Aavante 5.2.4 Prime Bluetooth Speaker at ₹ 14,777\n\nApply ₹2000 Off Coupon\n\nhttps://www.amazon.in/dp/B0FDFR7K1T?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FDFR7K1T?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_27667.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-02-18T18:55:33+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FDFR7K1T?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-02-18T18:55:33+00:00"
-  },
-  {
-    "id": "msg27668",
-    "title": "✅ Extra 5% Off — Use Code CK5",
-    "description": "Dot & Key – Hello Glow Sale is LIVE! 💛 Buy 2 @ ₹699 💖 Buy 3 @ ₹999 + Free Gift Top Picks: • Sunscreen → • Moisturizer → • Serum → • Face Wash → • Lip Care → • Body Care → • Hair Care → 📌 Shop All: ✅ Extra 5% Off — Use…",
-    "shortlink": "https://bitli.in/pkvkW8a",
-    "urls": [
-      {
-        "url": "",
-        "label": "Dot & Key – Hello Glow Sale is LIVE!"
-      },
-      {
-        "url": "",
-        "label": "Top Picks"
-      },
-      {
-        "url": "https://bitli.in/pkvkW8a",
-        "label": "Sunscreen →"
-      },
-      {
-        "url": "https://bitli.in/t9jpuxG",
-        "label": "Moisturizer →"
-      },
-      {
-        "url": "https://bitli.in/R5v9x7f",
-        "label": "Serum →"
-      },
-      {
-        "url": "https://bitli.in/RrFcjPm",
-        "label": "Face Wash →"
-      },
-      {
-        "url": "https://bitli.in/wwf3bxJ",
-        "label": "Lip Care →"
-      },
-      {
-        "url": "https://bitli.in/vz2GqcL",
-        "label": "Body Care →"
-      },
-      {
-        "url": "https://bitli.in/xs6C4tR",
-        "label": "Hair Care →"
-      },
-      {
-        "url": "https://bitli.in/5Ge01Wt",
-        "label": "📌 Shop All"
-      },
-      {
-        "url": "",
-        "label": "✅ Extra 5% Off — Use Code: CK5"
-      },
-      {
-        "url": "",
-        "label": "+5% Prepaid Discount"
-      }
-    ],
-    "raw_text": "Dot & Key – Hello Glow Sale is LIVE!\n\n💛 Buy 2 @ ₹699\n💖 Buy 3 @ ₹999 + Free Gift\n\nTop Picks:\n• Sunscreen → https://bitli.in/pkvkW8a\n• Moisturizer → https://bitli.in/t9jpuxG\n• Serum → https://bitli.in/R5v9x7f\n• Face Wash → https://bitli.in/RrFcjPm\n• Lip Care → https://bitli.in/wwf3bxJ\n• Body Care → https://bitli.in/vz2GqcL\n• Hair Care → https://bitli.in/xs6C4tR\n\n📌 Shop All: https://bitli.in/5Ge01Wt\n\n✅ Extra 5% Off — Use Code: CK5 \n+5% Prepaid Discount",
-    "final_url": "https://bitli.in/pkvkW8a",
-    "local_image": "assets/images/tgmsg_27668.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-02-18T18:59:17+00:00",
-    "buy_link": "https://bitli.in/pkvkW8a",
-    "date_iso": "2026-02-18T18:59:17+00:00"
   }
 ]
