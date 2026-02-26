@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg28261",
+    "title": "🔥Up to 94% Off On Buda Jeans Co Clothing",
+    "description": "🔥AJIO  Upto 94% Off On Buda Jeans Co Clothing. Men : https://ajiio.co/KS12yr Women : https://ajiio.co/SI4g1l",
+    "shortlink": "https://ajiio.co/KS12yr",
+    "urls": [
+      {
+        "url": "https://ajiio.co/KS12yr",
+        "label": "🔥AJIO Upto 94% Off On Buda Jeans Co Clothing"
+      },
+      {
+        "url": "https://ajiio.co/SI4g1l",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "🔥AJIO  Upto 94% Off On Buda Jeans Co Clothing.\n\nMen : https://ajiio.co/KS12yr\nWomen : https://ajiio.co/SI4g1l",
+    "final_url": "https://ajiio.co/KS12yr",
+    "local_image": "assets/images/tgmsg_28261.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-26T01:20:15+00:00",
+    "buy_link": "https://ajiio.co/KS12yr",
+    "date_iso": "2026-02-26T01:20:15+00:00"
+  },
+  {
     "id": "msg28251",
     "title": "Topwear Clothing Under @199",
     "description": "Topwear Clothing Under @199: Men's → https://ajiio.in/HPXROzv Women's → https://ajiio.in/KwAQerK Boys → https://ajiio.in/Wfgj7fc Girls → https://ajiio.in/CEpB7Ia Baby → https://ajiio.in/oaF8Eo2",
@@ -9946,61 +9970,5 @@
     "date_obj": "2026-02-18T17:51:23+00:00",
     "buy_link": "https://ajiio.co/0RNvOw",
     "date_iso": "2026-02-18T17:51:23+00:00"
-  },
-  {
-    "id": "msg27648",
-    "title": "Up to 70% Off on Top Beauty Products 🔥🔥",
-    "description": "Flipkart : Upto 70% Off on Top Beauty Products 🔥🔥 Nivea: Ponds: Vaseline: Lakme: Park Avenue: Clean & Clear: Everyuth: Yardley London: Denver:",
-    "shortlink": "https://fkrt.co/DPEIxU",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 70% Off on Top Beauty Products 🔥🔥"
-      },
-      {
-        "url": "https://fkrt.co/DPEIxU",
-        "label": "Nivea"
-      },
-      {
-        "url": "https://fkrt.co/YZ6WYB",
-        "label": "Ponds"
-      },
-      {
-        "url": "https://fkrt.co/r0XxJZ",
-        "label": "Vaseline"
-      },
-      {
-        "url": "https://fkrt.co/BG5Ota",
-        "label": "Lakme"
-      },
-      {
-        "url": "https://fkrt.co/GhXAa9",
-        "label": "Park Avenue"
-      },
-      {
-        "url": "https://fkrt.co/NBFcGS",
-        "label": "Clean & Clear"
-      },
-      {
-        "url": "https://fkrt.co/a8dPef",
-        "label": "Everyuth"
-      },
-      {
-        "url": "https://fkrt.co/S0tAJT",
-        "label": "Yardley London"
-      },
-      {
-        "url": "https://fkrt.co/fINh28",
-        "label": "Denver"
-      }
-    ],
-    "raw_text": "Flipkart : Upto 70% Off on Top Beauty Products 🔥🔥\n\nNivea: https://fkrt.co/DPEIxU\nPonds: https://fkrt.co/YZ6WYB\nVaseline: https://fkrt.co/r0XxJZ\nLakme: https://fkrt.co/BG5Ota\nPark Avenue: https://fkrt.co/GhXAa9\nClean & Clear: https://fkrt.co/NBFcGS\nEveryuth: https://fkrt.co/a8dPef\nYardley London: https://fkrt.co/S0tAJT\nDenver: https://fkrt.co/fINh28",
-    "final_url": "https://fkrt.co/DPEIxU",
-    "local_image": "assets/images/tgmsg_27648.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-18T16:19:54+00:00",
-    "buy_link": "https://fkrt.co/DPEIxU",
-    "date_iso": "2026-02-18T16:19:54+00:00"
   }
 ]
