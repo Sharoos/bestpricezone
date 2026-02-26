@@ -1,5 +1,89 @@
 [
   {
+    "id": "msg28327",
+    "title": "🌿 Dabur Amla & Dabur Vatika — Up to 57% Off!!",
+    "description": "🧴 Myntra | Personal Care Mega Sale! 💥 🌿 Dabur Amla & Dabur Vatika — Upto 57% Off!! 🔗 🧴 Kesh King Shampoo — Upto 55% Off! 🔗",
+    "shortlink": "https://myntr.in/kiJwjt",
+    "urls": [
+      {
+        "url": "",
+        "label": "🧴 Myntra | Personal Care Mega Sale! 💥"
+      },
+      {
+        "url": "https://myntr.in/kiJwjt",
+        "label": "🌿 Dabur Amla & Dabur Vatika — Upto 57% Off!!"
+      },
+      {
+        "url": "https://myntr.in/WJruA2",
+        "label": "🧴 Kesh King Shampoo — Upto 55% Off!"
+      }
+    ],
+    "raw_text": "🧴 Myntra | Personal Care Mega Sale! 💥\n\n🌿 Dabur Amla & Dabur Vatika — Upto 57% Off!!\n🔗 https://myntr.in/kiJwjt\n\n🧴 Kesh King Shampoo — Upto 55% Off!\n🔗 https://myntr.in/WJruA2",
+    "final_url": "https://myntr.in/kiJwjt",
+    "local_image": "assets/images/tgmsg_28327.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-26T15:51:27+00:00",
+    "buy_link": "https://myntr.in/kiJwjt",
+    "date_iso": "2026-02-26T15:51:27+00:00"
+  },
+  {
+    "id": "msg28330",
+    "title": "Min 70% off on Double Bed Cotton Bedsheet",
+    "description": "Myntra | s 🔗 Min 70% off on Newly Launched Winter Bedsheets 🔗 Winter Blankets starting @ 299 🔗 Best Rated bed sheets starting @179 🔗 Popular Doormats staring @ 109 only 🔗",
+    "shortlink": "https://myntr.in/mR7Hz2",
+    "urls": [
+      {
+        "url": "https://myntr.in/mR7Hz2",
+        "label": "Min 70% off on Double Bed Cotton Bedsheets"
+      },
+      {
+        "url": "https://myntr.in/fm7k6l",
+        "label": "Min 70% off on Newly Launched Winter Bedsheets"
+      },
+      {
+        "url": "https://myntr.in/fiqGch",
+        "label": "Winter Blankets starting @ 299"
+      },
+      {
+        "url": "https://myntr.in/8t4jQK",
+        "label": "Best Rated bed sheets starting @179"
+      },
+      {
+        "url": "https://myntr.in/WlffPa",
+        "label": "Popular Doormats staring @ 109 only"
+      }
+    ],
+    "raw_text": "Myntra | Min 70% off on Double Bed Cotton Bedsheets\n🔗 https://myntr.in/mR7Hz2\n\nMin 70% off on Newly Launched Winter Bedsheets \n🔗 https://myntr.in/fm7k6l\n\nWinter Blankets starting @ 299\n🔗 https://myntr.in/fiqGch\n\nBest Rated bed sheets  starting @179\n🔗 https://myntr.in/8t4jQK\n\nPopular Doormats staring @ 109 only\n🔗 https://myntr.in/WlffPa",
+    "final_url": "https://myntr.in/mR7Hz2",
+    "local_image": "assets/images/tgmsg_28330.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-26T16:07:34+00:00",
+    "buy_link": "https://myntr.in/mR7Hz2",
+    "date_iso": "2026-02-26T16:07:34+00:00"
+  },
+  {
+    "id": "msg28331",
+    "title": "Pillow At 199",
+    "description": "Myntra  Pillow At 199. https://myntr.in/BZEMjy",
+    "shortlink": "https://myntr.in/BZEMjy",
+    "urls": [
+      {
+        "url": "https://myntr.in/BZEMjy",
+        "label": "Myntra Pillow At 199"
+      }
+    ],
+    "raw_text": "Myntra  Pillow At 199.\n\nhttps://myntr.in/BZEMjy",
+    "final_url": "https://myntr.in/BZEMjy",
+    "local_image": "assets/images/tgmsg_28331.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-26T16:14:00+00:00",
+    "buy_link": "https://myntr.in/BZEMjy",
+    "date_iso": "2026-02-26T16:14:00+00:00"
+  },
+  {
     "id": "msg28317",
     "title": "Sweatshirts Start @90",
     "description": "Ajio | Sweatshirts Start @90 https://ajiio.co/ASHXq7",
@@ -9770,145 +9854,5 @@
     "date_obj": "2026-02-19T14:32:20+00:00",
     "buy_link": "https://ajiio.co/WMdt1t",
     "date_iso": "2026-02-19T14:32:20+00:00"
-  },
-  {
-    "id": "msg27725",
-    "title": "🔥 Shopsy Budget Finds Starting ₹115 Only! 🔥",
-    "description": "👜 Makeup Pouch Set – ₹134 👉 🌞 SPF 50+++ PA++ Sunscreen (120g) – ₹118 👉 👗 Women Embroidered Kurta – ₹142 (Min. 2 Qty) 👉 🎀 Women Pink Sling Bag – ₹150 👉 💥 Limited stock at crazy prices! Grab yours now 🛒✨",
-    "shortlink": "https://extp.in/XCc2xi",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Shopsy Budget Finds Starting ₹115 Only! 🔥"
-      },
-      {
-        "url": "https://extp.in/XCc2xi",
-        "label": "👜 Makeup Pouch Set – ₹134"
-      },
-      {
-        "url": "https://extp.in/HlH4BS",
-        "label": "🌞 SPF 50+++ PA++ Sunscreen (120g) – ₹118"
-      },
-      {
-        "url": "https://extp.in/XiCzta",
-        "label": "👗 Women Embroidered Kurta – ₹142 (Min. 2 Qty)"
-      },
-      {
-        "url": "https://extp.in/mNoHEM",
-        "label": "🎀 Women Pink Sling Bag – ₹150"
-      },
-      {
-        "url": "",
-        "label": "💥 Limited stock at crazy prices! Grab yours now 🛒✨"
-      }
-    ],
-    "raw_text": "🔥 Shopsy Budget Finds Starting ₹115 Only! 🔥\n\n👜 Makeup Pouch Set – ₹134\n👉 https://extp.in/XCc2xi\n\n🌞 SPF 50+++ PA++ Sunscreen (120g) – ₹118\n👉 https://extp.in/HlH4BS\n\n👗 Women Embroidered Kurta – ₹142 (Min. 2 Qty)\n👉 https://extp.in/XiCzta\n\n🎀 Women Pink Sling Bag – ₹150\n👉 https://extp.in/mNoHEM\n\n💥 Limited stock at crazy prices! Grab yours now 🛒✨",
-    "final_url": "https://extp.in/XCc2xi",
-    "local_image": "assets/images/tgmsg_27725.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-02-19T13:10:17+00:00",
-    "buy_link": "https://extp.in/XCc2xi",
-    "date_iso": "2026-02-19T13:10:17+00:00"
-  },
-  {
-    "id": "msg27726",
-    "title": "✅ Extra 5% Off — Use Code CK5",
-    "description": "Dot & Key – Hello Glow Sale is LIVE! 💛 Buy 2 @ ₹699 💖 Buy 3 @ ₹999 + Free Gift Top Picks: • Sunscreen → • Moisturizer → • Serum → • Face Wash → • Lip Care → • Body Care → • Hair Care → 📌 Shop All: ✅ Extra 5% Off — Use…",
-    "shortlink": "https://bitli.in/76rjIhF",
-    "urls": [
-      {
-        "url": "",
-        "label": "Dot & Key – Hello Glow Sale is LIVE!"
-      },
-      {
-        "url": "",
-        "label": "Top Picks"
-      },
-      {
-        "url": "https://bitli.in/76rjIhF",
-        "label": "Sunscreen →"
-      },
-      {
-        "url": "https://bitli.in/fxeNvk8",
-        "label": "Moisturizer →"
-      },
-      {
-        "url": "https://bitli.in/VtdD6vq",
-        "label": "Serum →"
-      },
-      {
-        "url": "https://bitli.in/CW5ydez",
-        "label": "Face Wash →"
-      },
-      {
-        "url": "https://bitli.in/mrAiOb5",
-        "label": "Lip Care →"
-      },
-      {
-        "url": "https://bitli.in/3dhLYg1",
-        "label": "Body Care →"
-      },
-      {
-        "url": "https://bitli.in/G59dqto",
-        "label": "Hair Care →"
-      },
-      {
-        "url": "https://bitli.in/LmPFjDa",
-        "label": "📌 Shop All"
-      },
-      {
-        "url": "",
-        "label": "✅ Extra 5% Off — Use Code: CK5"
-      },
-      {
-        "url": "",
-        "label": "+5% Prepaid Discount"
-      }
-    ],
-    "raw_text": "Dot & Key – Hello Glow Sale is LIVE!\n\n💛 Buy 2 @ ₹699\n💖 Buy 3 @ ₹999 + Free Gift\n\nTop Picks:\n• Sunscreen → https://bitli.in/76rjIhF\n• Moisturizer → https://bitli.in/fxeNvk8\n• Serum → https://bitli.in/VtdD6vq\n• Face Wash → https://bitli.in/CW5ydez\n• Lip Care → https://bitli.in/mrAiOb5\n• Body Care → https://bitli.in/3dhLYg1\n• Hair Care → https://bitli.in/G59dqto\n\n📌 Shop All: https://bitli.in/LmPFjDa\n\n✅ Extra 5% Off — Use Code: CK5 \n+5% Prepaid Discount",
-    "final_url": "https://bitli.in/76rjIhF",
-    "local_image": "assets/images/tgmsg_27726.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-02-19T13:13:05+00:00",
-    "buy_link": "https://bitli.in/76rjIhF",
-    "date_iso": "2026-02-19T13:13:05+00:00"
-  },
-  {
-    "id": "msg27728",
-    "title": "🔥 Up to 50% OFF (16th–22nd Feb)",
-    "description": "💖 SSBeauty Beauty Spotlight Sale is LIVE! 💖 Shop luxe picks from SSBeauty ✨  🛍 Glow up your beauty stash now 💄✨ 🔗 Link : Top brands. Best prices. Limited time!",
-    "shortlink": "https://extp.in/axm2ks",
-    "urls": [
-      {
-        "url": "",
-        "label": "💖 SSBeauty Beauty Spotlight Sale is LIVE! 💖"
-      },
-      {
-        "url": "",
-        "label": "Shop luxe picks from SSBeauty ✨"
-      },
-      {
-        "url": "",
-        "label": "🔥 Up to 50% OFF (16th–22nd Feb)"
-      },
-      {
-        "url": "https://extp.in/axm2ks",
-        "label": "🛍 Glow up your beauty stash now 💄✨"
-      },
-      {
-        "url": "",
-        "label": "Top brands. Best prices. Limited time!"
-      }
-    ],
-    "raw_text": "💖 SSBeauty Beauty Spotlight Sale is LIVE! 💖\n\nShop luxe picks from SSBeauty ✨\n🔥 Up to 50% OFF (16th–22nd Feb)\n\n🛍 Glow up your beauty stash now 💄✨\n\n🔗 Link : https://extp.in/axm2ks\n\nTop brands. Best prices. Limited time!",
-    "final_url": "https://extp.in/axm2ks",
-    "local_image": "assets/images/tgmsg_27728.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-02-19T13:20:18+00:00",
-    "buy_link": "https://extp.in/axm2ks",
-    "date_iso": "2026-02-19T13:20:18+00:00"
   }
 ]
