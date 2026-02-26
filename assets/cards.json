@@ -1,5 +1,73 @@
 [
   {
+    "id": "msg28300",
+    "title": "Up to 80% Off On Allen Cooper Clothing",
+    "description": "Ajio : Upto 80% Off On Allen Cooper Clothing. Master Link : T-Shirt : Jeans : Shirts : Jacket : Shoes : Spykar Clothing. Men's : Women's : Puma Clothing. Mens : Womens :",
+    "shortlink": "https://ajiio.co/g7ndoQ",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off On Allen Cooper Clothing"
+      },
+      {
+        "url": "https://ajiio.co/g7ndoQ",
+        "label": "Master"
+      },
+      {
+        "url": "https://ajiio.co/UuHKaO",
+        "label": "T-Shirt"
+      },
+      {
+        "url": "https://ajiio.co/8CrqL7",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/QSmxIS",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/oab9ow",
+        "label": "Jacket"
+      },
+      {
+        "url": "https://ajiio.co/5zfUA0",
+        "label": "Shoes"
+      },
+      {
+        "url": "",
+        "label": "Spykar Clothing"
+      },
+      {
+        "url": "https://ajiio.co/PYjyPu",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/bgYv7q",
+        "label": "Women's"
+      },
+      {
+        "url": "",
+        "label": "Puma Clothing"
+      },
+      {
+        "url": "https://ajiio.co/YOIL6A",
+        "label": "Mens"
+      },
+      {
+        "url": "https://ajiio.co/EKCfge",
+        "label": "Womens"
+      }
+    ],
+    "raw_text": "Ajio : Upto 80% Off On Allen Cooper Clothing.\n\nMaster Link : https://ajiio.co/g7ndoQ\n\nT-Shirt : https://ajiio.co/UuHKaO\nJeans : https://ajiio.co/8CrqL7\nShirts : https://ajiio.co/QSmxIS\nJacket : https://ajiio.co/oab9ow\nShoes : https://ajiio.co/5zfUA0\n\nSpykar Clothing.\nMen's : https://ajiio.co/PYjyPu\nWomen's : https://ajiio.co/bgYv7q\n\nPuma Clothing. \nMens : https://ajiio.co/YOIL6A\nWomens : https://ajiio.co/EKCfge",
+    "final_url": "https://ajiio.co/g7ndoQ",
+    "local_image": "assets/images/tgmsg_28300.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-26T10:50:26+00:00",
+    "buy_link": "https://ajiio.co/g7ndoQ",
+    "date_iso": "2026-02-26T10:50:26+00:00"
+  },
+  {
     "id": "msg28295",
     "title": "Kook N Keech Clothing Under ₹299",
     "description": "Myntra . Sweatshirts | Men : Women : Trackpants | Men : Women : Tshirts | Men : Women :",
@@ -9890,29 +9958,5 @@
     "date_obj": "2026-02-19T07:26:10+00:00",
     "buy_link": "https://myntr.in/PUMcpw",
     "date_iso": "2026-02-19T07:26:10+00:00"
-  },
-  {
-    "id": "msg27697",
-    "title": "Get 1000 Off Using Bank Offe",
-    "description": "GRAB: Moto Edge 60 Pro (8GB 256GB) @26,986 https://fktr.in/70JiKId • Get 1000 Off Using Bank Offers",
-    "shortlink": "https://fktr.in/70JiKId",
-    "urls": [
-      {
-        "url": "https://fktr.in/70JiKId",
-        "label": "Moto Edge 60 Pro (8GB 256GB) @26,986"
-      },
-      {
-        "url": "",
-        "label": "Get 1000 Off Using Bank Offers"
-      }
-    ],
-    "raw_text": "GRAB: Moto Edge 60 Pro (8GB 256GB) @26,986\n\nhttps://fktr.in/70JiKId\n\n• Get 1000 Off Using Bank Offers",
-    "final_url": "https://fktr.in/70JiKId",
-    "local_image": "assets/images/tgmsg_27697.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-19T07:31:16+00:00",
-    "buy_link": "https://fktr.in/70JiKId",
-    "date_iso": "2026-02-19T07:31:16+00:00"
   }
 ]
