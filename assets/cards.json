@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg28539",
+    "title": "Up to 85% Off On Branded Backpacks Starting @ ₹ 329",
+    "description": "Flipkart | Upto 85% Off On Branded Backpacks Starting @ ₹ 329 Skybags : Safari : Wildcraft : Gear : Lavie : American Tourister :",
+    "shortlink": "https://fkrt.co/QH7GXc",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% Off On Branded Backpacks Starting @ ₹ 329"
+      },
+      {
+        "url": "https://fkrt.co/QH7GXc",
+        "label": "Skybags"
+      },
+      {
+        "url": "https://fkrt.co/1U0e3q",
+        "label": "Safari"
+      },
+      {
+        "url": "https://fkrt.co/dO8Ss9",
+        "label": "Wildcraft"
+      },
+      {
+        "url": "https://fkrt.co/bj7CdP",
+        "label": "Gear"
+      },
+      {
+        "url": "https://fkrt.co/WfqZwY",
+        "label": "Lavie"
+      },
+      {
+        "url": "https://fkrt.co/bSRS3X",
+        "label": "American Tourister"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 85% Off On Branded Backpacks Starting @ ₹ 329\n\nSkybags :https://fkrt.co/QH7GXc\nSafari :https://fkrt.co/1U0e3q \nWildcraft :https://fkrt.co/dO8Ss9\nGear :https://fkrt.co/bj7CdP\nLavie :https://fkrt.co/WfqZwY\nAmerican Tourister :https://fkrt.co/bSRS3X",
+    "final_url": "https://fkrt.co/QH7GXc",
+    "local_image": "assets/images/tgmsg_28539.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-27T16:51:38+00:00",
+    "buy_link": "https://fkrt.co/QH7GXc",
+    "date_iso": "2026-02-27T16:51:38+00:00"
+  },
+  {
     "id": "msg28533",
     "title": "Up to 85% Off On Clothing",
     "description": "Ajio Upto 85% Off On Clothing. *Men’s Clothing 👇👇 T-Shirt : Shirt : Jeans : Trouser : SweatShirt : Sweater : Jacket : Kurta : Trackpant : *Women’s Clothing 👇👇 T-Shirt : Tops : Shirt : Dresses : Jeans & Jeggings :…",
@@ -9822,25 +9866,5 @@
     "date_obj": "2026-02-22T11:34:56+00:00",
     "buy_link": "https://fktr.in/y0cih91",
     "date_iso": "2026-02-22T11:34:56+00:00"
-  },
-  {
-    "id": "msg27975",
-    "title": "Fragnance Starting @ just 185",
-    "description": "Ajio | Home-Fragnance Starting @ just 185 Link : https://ajiio.co/spf1ER",
-    "shortlink": "https://ajiio.co/spf1ER",
-    "urls": [
-      {
-        "url": "https://ajiio.co/spf1ER",
-        "label": "Home-Fragnance Starting @ just 185"
-      }
-    ],
-    "raw_text": "Ajio | Home-Fragnance Starting @ just 185\n \nLink : https://ajiio.co/spf1ER",
-    "final_url": "https://ajiio.co/spf1ER",
-    "local_image": "assets/images/tgmsg_27975.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-02-22T11:04:36+00:00",
-    "buy_link": "https://ajiio.co/spf1ER",
-    "date_iso": "2026-02-22T11:04:36+00:00"
   }
 ]
