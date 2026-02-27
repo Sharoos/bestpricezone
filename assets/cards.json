@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg28472",
+    "title": "@ 83",
+    "description": "Loot@ 83 https://fktr.in/0OnXF8r M Size",
+    "shortlink": "https://fktr.in/0OnXF8r",
+    "urls": [
+      {
+        "url": "https://fktr.in/0OnXF8r",
+        "label": "Loot@ 83"
+      }
+    ],
+    "raw_text": "Loot@ 83\n\nhttps://fktr.in/0OnXF8r\n\nM Size",
+    "final_url": "https://fktr.in/0OnXF8r",
+    "local_image": "assets/images/tgmsg_28472.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-27T10:57:45+00:00",
+    "buy_link": "https://fktr.in/0OnXF8r",
+    "date_iso": "2026-02-27T10:57:45+00:00"
+  },
+  {
+    "id": "msg28476",
+    "title": "Under 350",
+    "description": "Flipkart : Max Tshirt - Under 350 🔗 Link : https://fkrt.co/hktLWz",
+    "shortlink": "https://fkrt.co/hktLWz",
+    "urls": [
+      {
+        "url": "https://fkrt.co/hktLWz",
+        "label": "Max Tshirt - Under 350"
+      }
+    ],
+    "raw_text": "Flipkart : Max Tshirt - Under 350\n\n🔗 Link : https://fkrt.co/hktLWz",
+    "final_url": "https://fkrt.co/hktLWz",
+    "local_image": "assets/images/tgmsg_28476.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-27T11:35:25+00:00",
+    "buy_link": "https://fkrt.co/hktLWz",
+    "date_iso": "2026-02-27T11:35:25+00:00"
+  },
+  {
     "id": "msg28462",
     "title": "Up to 88% Off",
     "description": "Loot: Top Branded Luggage - Upto 88% Off Safari : Aristocrat : VIP : S Size : M Size : L Size : Pack Of 2 : Pack Of 3 :",
@@ -9686,57 +9726,5 @@
     "date_obj": "2026-02-21T10:16:02+00:00",
     "buy_link": "https://fkrt.co/aSRgtJ",
     "date_iso": "2026-02-21T10:16:02+00:00"
-  },
-  {
-    "id": "msg27891",
-    "title": "Toyco Monster RC Car With Remote Controller @698",
-    "description": "GRAB: Toyco Monster RC Car With Remote Controller @698 https://fktr.in/r8ofTuX",
-    "shortlink": "https://fktr.in/r8ofTuX",
-    "urls": [
-      {
-        "url": "https://fktr.in/r8ofTuX",
-        "label": "Toyco Monster RC Car With Remote Controller @698"
-      }
-    ],
-    "raw_text": "GRAB: Toyco Monster RC Car With Remote Controller @698\n\nhttps://fktr.in/r8ofTuX",
-    "final_url": "https://fktr.in/r8ofTuX",
-    "local_image": "assets/images/tgmsg_27891.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-21T10:32:45+00:00",
-    "buy_link": "https://fktr.in/r8ofTuX",
-    "date_iso": "2026-02-21T10:32:45+00:00"
-  },
-  {
-    "id": "msg27882",
-    "title": "BOGO Special Deal 🔥🔥",
-    "description": "💝Beardo -  😍Buy 1 & Get 1 FREE ✨Best time to surprise someone special Shop Now : ❤️Offer valid for a limited time only!",
-    "shortlink": "https://extp.in/LwesOH",
-    "urls": [
-      {
-        "url": "",
-        "label": "💝Beardo - BOGO Special Deal 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "✨Best time to surprise someone special"
-      },
-      {
-        "url": "https://extp.in/LwesOH",
-        "label": "Shop Now"
-      },
-      {
-        "url": "",
-        "label": "❤️Offer valid for a limited time only!"
-      }
-    ],
-    "raw_text": "💝Beardo - BOGO Special Deal 🔥🔥\n\n😍Buy 1 & Get 1 FREE\n✨Best time to surprise someone special\n\nShop Now : https://extp.in/LwesOH\n\n❤️Offer valid for a limited time only!",
-    "final_url": "https://extp.in/LwesOH",
-    "local_image": "assets/images/tgmsg_27882.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-02-21T09:00:06+00:00",
-    "buy_link": "https://extp.in/LwesOH",
-    "date_iso": "2026-02-21T09:00:06+00:00"
   }
 ]
