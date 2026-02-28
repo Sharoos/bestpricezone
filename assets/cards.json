@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg28609",
+    "title": "American Eagle Min 50%",
+    "description": "Ajio | American Eagle Min 50% https://ajiio.co/Cen2pq CLARKS Min 60% https://ajiio.co/AJHkE8",
+    "shortlink": "https://ajiio.co/Cen2pq",
+    "urls": [
+      {
+        "url": "https://ajiio.co/Cen2pq",
+        "label": "American Eagle Min 50%"
+      },
+      {
+        "url": "https://ajiio.co/AJHkE8",
+        "label": "CLARKS Min 60%"
+      }
+    ],
+    "raw_text": "Ajio | American Eagle Min 50%\nhttps://ajiio.co/Cen2pq\n\nCLARKS Min 60%\nhttps://ajiio.co/AJHkE8",
+    "final_url": "https://ajiio.co/Cen2pq",
+    "local_image": "assets/images/tgmsg_28609.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-02-28T06:45:58+00:00",
+    "buy_link": "https://ajiio.co/Cen2pq",
+    "date_iso": "2026-02-28T06:45:58+00:00"
+  },
+  {
+    "id": "msg28611",
+    "title": "Cello and Larah by Borosil dinner set at min 50%",
+    "description": "Myntra | Cello and Larah by Borosil dinner set at min 50% https://myntr.in/zgYMeF Pexpo water bottle at min 50% https://myntr.in/CSYXvE Kettles Starting at 649/- https://myntr.in/HyRmLx",
+    "shortlink": "https://myntr.in/zgYMeF",
+    "urls": [
+      {
+        "url": "https://myntr.in/zgYMeF",
+        "label": "Cello and Larah by Borosil dinner set at min 50%"
+      },
+      {
+        "url": "https://myntr.in/CSYXvE",
+        "label": "Pexpo water bottle at min 50%"
+      },
+      {
+        "url": "https://myntr.in/HyRmLx",
+        "label": "Kettles Starting at 649/"
+      }
+    ],
+    "raw_text": "Myntra | Cello and Larah by Borosil dinner set at min 50%\n\nhttps://myntr.in/zgYMeF\n\nPexpo water bottle at min 50%\n\nhttps://myntr.in/CSYXvE\n\nKettles Starting at 649/- \n\nhttps://myntr.in/HyRmLx",
+    "final_url": "https://myntr.in/zgYMeF",
+    "local_image": "assets/images/tgmsg_28611.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-02-28T07:06:03+00:00",
+    "buy_link": "https://myntr.in/zgYMeF",
+    "date_iso": "2026-02-28T07:06:03+00:00"
+  },
+  {
     "id": "msg28605",
     "title": "Up to 88% OFF On Women's Jackets & Sweatshirt",
     "description": "Amazon | Upto 88% OFF On Women's Jackets & Sweatshirt…",
@@ -9538,61 +9590,5 @@
     "date_obj": "2026-02-23T17:24:24+00:00",
     "buy_link": "https://extp.in/RqxhIz",
     "date_iso": "2026-02-23T17:24:24+00:00"
-  },
-  {
-    "id": "msg28085",
-    "title": "● Fountain Pen from 120",
-    "description": "Shopsy – Pens & Pencils Starting at Just ₹34 🔥 ● Pensils from ₹34 - ● Ball pen sets from 38- ● Color Pencils from 85 - -",
-    "shortlink": "https://extp.in/brJkWS",
-    "urls": [
-      {
-        "url": "",
-        "label": "Shopsy – Pens & Pencils Starting at Just ₹34 🔥"
-      },
-      {
-        "url": "https://extp.in/brJkWS",
-        "label": "● Pensils from ₹34"
-      },
-      {
-        "url": "https://extp.in/Kq4WFS",
-        "label": "● Ball pen sets from 38"
-      },
-      {
-        "url": "https://extp.in/F1mGRR",
-        "label": "● Color Pencils from 85"
-      },
-      {
-        "url": "https://extp.in/kP9Vr9",
-        "label": "● Fountain Pen from 120"
-      }
-    ],
-    "raw_text": "Shopsy  – Pens & Pencils Starting at Just ₹34 🔥\n\n● Pensils from ₹34 - https://extp.in/brJkWS\n● Ball pen sets  from 38- https://extp.in/Kq4WFS\n● Color Pencils from 85 - https://extp.in/F1mGRR\n● Fountain Pen from 120- https://extp.in/kP9Vr9",
-    "final_url": "https://extp.in/brJkWS",
-    "local_image": "assets/images/tgmsg_28085.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-02-23T18:01:38+00:00",
-    "buy_link": "https://extp.in/brJkWS",
-    "date_iso": "2026-02-23T18:01:38+00:00"
-  },
-  {
-    "id": "msg28080",
-    "title": "Doormats & Curtains Starts @111",
-    "description": "Myntra : Doormats & Curtains Starts @111 👉https://myntr.in/2IHxFV",
-    "shortlink": "https://myntr.in/2IHxFV",
-    "urls": [
-      {
-        "url": "https://myntr.in/2IHxFV",
-        "label": "Doormats & Curtains Starts @111"
-      }
-    ],
-    "raw_text": "Myntra : Doormats & Curtains Starts @111\n\n👉https://myntr.in/2IHxFV",
-    "final_url": "https://myntr.in/2IHxFV",
-    "local_image": "assets/images/tgmsg_28080.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-23T16:05:44+00:00",
-    "buy_link": "https://myntr.in/2IHxFV",
-    "date_iso": "2026-02-23T16:05:44+00:00"
   }
 ]
