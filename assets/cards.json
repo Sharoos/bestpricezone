@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg28699",
+    "title": "Fast Up to 86% Off On HRX Luggage Starts @1199",
+    "description": "Fast : Upto 86% Off On HRX Luggage Starts @1199. Small : Medium : Large : Pack Of 2/3 :",
+    "shortlink": "https://fkrt.co/KFBkdY",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 86% Off On HRX Luggage Starts @1199"
+      },
+      {
+        "url": "https://fkrt.co/KFBkdY",
+        "label": "Small"
+      },
+      {
+        "url": "https://fkrt.co/RZsZ4q",
+        "label": "Medium"
+      },
+      {
+        "url": "https://fkrt.co/6lxGDy",
+        "label": "Large"
+      },
+      {
+        "url": "https://fkrt.co/kbIXkn",
+        "label": "Pack Of 2/3"
+      }
+    ],
+    "raw_text": "Fast : Upto 86% Off On HRX Luggage Starts @1199.\n\nSmall : https://fkrt.co/KFBkdY\nMedium : https://fkrt.co/RZsZ4q\nLarge : https://fkrt.co/6lxGDy\n\nPack Of 2/3 : https://fkrt.co/kbIXkn",
+    "final_url": "https://fkrt.co/KFBkdY",
+    "local_image": "assets/images/tgmsg_28699.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-28T18:35:34+00:00",
+    "buy_link": "https://fkrt.co/KFBkdY",
+    "date_iso": "2026-02-28T18:35:34+00:00"
+  },
+  {
     "id": "msg28690",
     "title": "👗🔥WOMEN’S CRAZY DEALS – STARTING ₹129 ONLY! 🔥👖",
     "description": "👗🔥MYNTRA WOMEN’S CRAZY DEALS – STARTING ₹129 ONLY! 🔥👖 👕 T-Shirts Under ₹129 🤯 👉 👗 Dresses Under ₹299 👉 👖 Jeans Under ₹349 👉",
@@ -9558,25 +9594,5 @@
     "date_obj": "2026-02-25T11:46:08+00:00",
     "buy_link": "https://extp.in/9uaTEf",
     "date_iso": "2026-02-25T11:46:08+00:00"
-  },
-  {
-    "id": "msg28195",
-    "title": "🛍 Up to 90% off on Caprese Handbag",
-    "description": "🛍 Myntra | Upto 90% off on Caprese Handbags. 🔗 https://myntr.in/Xbek6u",
-    "shortlink": "https://myntr.in/Xbek6u",
-    "urls": [
-      {
-        "url": "https://myntr.in/Xbek6u",
-        "label": "🛍 Myntra | Upto 90% off on Caprese Handbags"
-      }
-    ],
-    "raw_text": "🛍 Myntra | Upto 90% off on Caprese Handbags.\n\n 🔗 https://myntr.in/Xbek6u",
-    "final_url": "https://myntr.in/Xbek6u",
-    "local_image": "assets/images/tgmsg_28195.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-25T10:15:23+00:00",
-    "buy_link": "https://myntr.in/Xbek6u",
-    "date_iso": "2026-02-25T10:15:23+00:00"
   }
 ]
