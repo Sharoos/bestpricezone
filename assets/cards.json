@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg28600",
+    "title": "Up to 70% Off On Nike Shoes (Combine All Offers)",
+    "description": "Upto 70% Off On Nike Shoes (Combine All Offers). Link - + 20% Off On Adding Any 3 Shoes. *Approx 30% Bank Discount Using Multiple Bank Cards.",
+    "shortlink": "https://fkrt.co/pcK61R",
+    "urls": [
+      {
+        "url": "https://fkrt.co/pcK61R",
+        "label": "Upto 70% Off On Nike Shoes (Combine All Offers)"
+      },
+      {
+        "url": "",
+        "label": "+ 20% Off On Adding Any 3 Shoes"
+      },
+      {
+        "url": "",
+        "label": "Approx 30% Bank Discount Using Multiple Bank Cards"
+      }
+    ],
+    "raw_text": "Upto 70% Off On Nike Shoes (Combine All Offers). \n\nLink -  https://fkrt.co/pcK61R\n\n+ 20% Off On Adding Any 3 Shoes. \n\n*Approx 30% Bank Discount Using Multiple Bank Cards.",
+    "final_url": "https://fkrt.co/pcK61R",
+    "local_image": "assets/images/tgmsg_28600.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-28T02:06:57+00:00",
+    "buy_link": "https://fkrt.co/pcK61R",
+    "date_iso": "2026-02-28T02:06:57+00:00"
+  },
+  {
     "id": "msg28597",
     "title": "ONDC Flash SALE 🔥🔥🔥",
     "description": "✅Buy Any Masala Items at Price + Free Shipping ● Kitchen King (Pack of 5) at 9 : ● Pav Bhaji (Pack of 5) at 9 : ● Sambar (Pack of 5) at 14 : ● Chole (Pack of 5) At 14 : ● Chaat (Pack of 5) At 14 : Apply Coupon : DEAL36…",
@@ -9530,53 +9558,5 @@
     "date_obj": "2026-02-23T15:46:48+00:00",
     "buy_link": "https://bitli.in/51CRe2I",
     "date_iso": "2026-02-23T15:46:48+00:00"
-  },
-  {
-    "id": "msg28070",
-    "title": "Up to 85% Off On Tokyo Talkies Women Clothing",
-    "description": "Flipkart | Upto 85% Off On Tokyo Talkies Women Clothing. Tops. : Sweatshirts : Dresses : Jeans : Trousers : Blazers : Jumpsuits :",
-    "shortlink": "https://fkrt.co/qGlE76",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On Tokyo Talkies Women Clothing"
-      },
-      {
-        "url": "https://fkrt.co/qGlE76",
-        "label": "Tops"
-      },
-      {
-        "url": "https://fkrt.co/EqeOLB",
-        "label": "Sweatshirts"
-      },
-      {
-        "url": "https://fkrt.co/FRhrvN",
-        "label": "Dresses"
-      },
-      {
-        "url": "https://fkrt.co/NzjPut",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://fkrt.co/g1eGCo",
-        "label": "Trousers"
-      },
-      {
-        "url": "https://fkrt.co/zjH2Qg",
-        "label": "Blazers"
-      },
-      {
-        "url": "https://fkrt.co/XSH0TU",
-        "label": "Jumpsuits"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 85% Off On Tokyo Talkies Women Clothing. \n\nTops. :https://fkrt.co/qGlE76 \nSweatshirts : https://fkrt.co/EqeOLB \nDresses : https://fkrt.co/FRhrvN \nJeans : https://fkrt.co/NzjPut \nTrousers :https://fkrt.co/g1eGCo \nBlazers :https://fkrt.co/zjH2Qg \nJumpsuits : https://fkrt.co/XSH0TU",
-    "final_url": "https://fkrt.co/qGlE76",
-    "local_image": "assets/images/tgmsg_28070.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-23T14:35:26+00:00",
-    "buy_link": "https://fkrt.co/qGlE76",
-    "date_iso": "2026-02-23T14:35:26+00:00"
   }
 ]
