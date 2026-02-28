@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg28602",
+    "title": "Up to 73% Off on Men's Branded T",
+    "description": "Flipkart | Upto 73% Off on Men's Branded T-shirt 👉https://fkrt.co/wDvDKH",
+    "shortlink": "https://fkrt.co/wDvDKH",
+    "urls": [
+      {
+        "url": "https://fkrt.co/wDvDKH",
+        "label": "Upto 73% Off on Men's Branded T-shirt"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 73% Off on Men's Branded T-shirt\n\n👉https://fkrt.co/wDvDKH",
+    "final_url": "https://fkrt.co/wDvDKH",
+    "local_image": "assets/images/tgmsg_28602.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-02-28T04:12:19+00:00",
+    "buy_link": "https://fkrt.co/wDvDKH",
+    "date_iso": "2026-02-28T04:12:19+00:00"
+  },
+  {
     "id": "msg28600",
     "title": "Up to 70% Off On Nike Shoes (Combine All Offers)",
     "description": "Upto 70% Off On Nike Shoes (Combine All Offers). Link - + 20% Off On Adding Any 3 Shoes. *Approx 30% Bank Discount Using Multiple Bank Cards.",
@@ -9514,49 +9534,5 @@
     "date_obj": "2026-02-23T15:35:15+00:00",
     "buy_link": "https://www.amazon.in/dp/B09Q35RH4K?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2026-02-23T15:35:15+00:00"
-  },
-  {
-    "id": "msg28078",
-    "title": "Low Forex Charges Only 1.5%Markup",
-    "description": "BEST : Lifetime Free IndusInd Tiger Credit Card. Benefits👇. •0₹ Joining & Annual Fee. •8 Domestic & 2 International Lounge Excess. •1% Surcharge Waiver On Fuel Transaction Between ₹400-4000. •Low Forex Charges | Only…",
-    "shortlink": "https://bitli.in/51CRe2I",
-    "urls": [
-      {
-        "url": "https://bitli.in/51CRe2I",
-        "label": "Lifetime Free IndusInd Tiger Credit Card"
-      },
-      {
-        "url": "",
-        "label": "0₹ Joining & Annual Fee"
-      },
-      {
-        "url": "",
-        "label": "8 Domestic & 2 International Lounge Excess"
-      },
-      {
-        "url": "",
-        "label": "1% Surcharge Waiver On Fuel Transaction Between ₹400-4000"
-      },
-      {
-        "url": "",
-        "label": "Only 1.5%Markup"
-      },
-      {
-        "url": "",
-        "label": "One complimentary Golf Lesson per quarter"
-      },
-      {
-        "url": "",
-        "label": "2 Complimentary Movie Tickets on Book My Show Total Worth ₹1000/Year (₹500 ticket every 6 months)"
-      }
-    ],
-    "raw_text": "BEST : Lifetime Free IndusInd Tiger Credit Card.\n \nhttps://bitli.in/51CRe2I \n\nBenefits👇.\n \n•0₹ Joining & Annual Fee.\n•8 Domestic & 2 International Lounge Excess.\n•1% Surcharge Waiver On Fuel Transaction Between ₹400-4000.\n•Low Forex Charges | Only 1.5%Markup\n•One complimentary Golf Lesson per quarter\n•2 Complimentary Movie Tickets on Book My Show Total Worth ₹1000/Year (₹500 ticket every 6 months)",
-    "final_url": "https://bitli.in/51CRe2I",
-    "local_image": "assets/images/tgmsg_28078.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-02-23T15:46:48+00:00",
-    "buy_link": "https://bitli.in/51CRe2I",
-    "date_iso": "2026-02-23T15:46:48+00:00"
   }
 ]
