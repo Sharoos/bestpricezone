@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg28638",
+    "title": "🛍️ Vivel Cool Mint Soap (4 x 150g) @ ₹156",
+    "description": "Amazon | 🛍️ Vivel Cool Mint Soap (4 x 150g) @ ₹156 Buy😶 https://www.amazon.in/dp/B086LNGH5C?psc=1&th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B086LNGH5C?psc=1&th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B086LNGH5C?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "🛍️ Vivel Cool Mint Soap (4 x 150g) @ ₹156"
+      }
+    ],
+    "raw_text": "Amazon | 🛍️ Vivel Cool Mint Soap (4 x 150g) @ ₹156\n\nBuy😶 https://www.amazon.in/dp/B086LNGH5C?psc=1&th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B086LNGH5C?psc=1&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_28638.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-02-28T11:33:44+00:00",
+    "buy_link": "https://www.amazon.in/dp/B086LNGH5C?psc=1&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-02-28T11:33:44+00:00"
+  },
+  {
     "id": "msg28635",
     "title": "Get ₹50 Cashback Instantly and extra ₹250 in your credit card💥",
     "description": "*🔥 Weekend Rs.300 Cashback Alert!* Link your RuPay Credit Card on BHIM Make two payments of ₹250+ and  Download Now: Valid: 28th Feb & 1st March only ⏳ Don’t miss it!",
@@ -9714,33 +9734,5 @@
     "date_obj": "2026-02-24T11:03:39+00:00",
     "buy_link": "https://myntr.in/La1wlA",
     "date_iso": "2026-02-24T11:03:39+00:00"
-  },
-  {
-    "id": "msg28125",
-    "title": "Extra 5% Off Using Prepaid Payment",
-    "description": "Neeman's :The Wanderers Sneakers @1029 ✅Use Code : CASH300 https://bitli.in/Y7pxQgO • Extra 5% Off Using Prepaid Payment.",
-    "shortlink": "https://bitli.in/Y7pxQgO",
-    "urls": [
-      {
-        "url": "",
-        "label": "Neeman's :The Wanderers Sneakers @1029"
-      },
-      {
-        "url": "https://bitli.in/Y7pxQgO",
-        "label": "✅Use Code : CASH300"
-      },
-      {
-        "url": "",
-        "label": "Extra 5% Off Using Prepaid Payment"
-      }
-    ],
-    "raw_text": "Neeman's :The Wanderers Sneakers @1029 \n\n✅Use Code : CASH300 \n\nhttps://bitli.in/Y7pxQgO\n\n• Extra 5% Off Using Prepaid Payment.",
-    "final_url": "https://bitli.in/Y7pxQgO",
-    "local_image": "assets/images/tgmsg_28125.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-02-24T10:05:28+00:00",
-    "buy_link": "https://bitli.in/Y7pxQgO",
-    "date_iso": "2026-02-24T10:05:28+00:00"
   }
 ]
