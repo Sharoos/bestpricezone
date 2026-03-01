@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg28769",
+    "title": "👖 Men’s Trousers starting from ₹265",
+    "description": "Myntra Mega Fashion Deals 🔥🔥 👕 Shirts starting from ₹188 👉  👉 🕺 Kurtas starting from ₹299 👉 🧥 Blazers starting from ₹1199 👉",
+    "shortlink": "https://myntr.in/hsNem9",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Mega Fashion Deals 🔥🔥"
+      },
+      {
+        "url": "https://myntr.in/hsNem9",
+        "label": "👕 Shirts starting from ₹188"
+      },
+      {
+        "url": "https://myntr.in/X2jWVu",
+        "label": "👖 Men’s Trousers starting from ₹265"
+      },
+      {
+        "url": "https://myntr.in/t9UIyx",
+        "label": "🕺 Kurtas starting from ₹299"
+      },
+      {
+        "url": "https://myntr.in/bAQwJK",
+        "label": "🧥 Blazers starting from ₹1199"
+      }
+    ],
+    "raw_text": "Myntra   Mega Fashion Deals 🔥🔥\n\n👕 Shirts starting from ₹188\n👉 https://myntr.in/hsNem9\n\n👖 Men’s Trousers starting from ₹265\n👉 https://myntr.in/X2jWVu\n\n🕺 Kurtas starting from ₹299\n👉 https://myntr.in/t9UIyx\n\n🧥 Blazers starting from ₹1199\n👉 https://myntr.in/bAQwJK",
+    "final_url": "https://myntr.in/hsNem9",
+    "local_image": "assets/images/tgmsg_28769.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-01T10:11:30+00:00",
+    "buy_link": "https://myntr.in/hsNem9",
+    "date_iso": "2026-03-01T10:11:30+00:00"
+  },
+  {
     "id": "msg28767",
     "title": "🥘 Fackelmann 2 Pieces Triply Kadai with Stainless Steel Lid 3.75 L – Just ₹638",
     "description": "🍳🔥 MYNTRA Kitchen Deals – Limited Stock! 🔥🍳  👉 🔥 Greenchef Black Glass Top 2 Burner Gas Stove – ₹1131 👉 🔥 Greenchef Black Glass Top 2 Burner Gas Stove – ₹1596 👉",
@@ -9562,69 +9598,5 @@
     "date_obj": "2026-02-26T08:10:28+00:00",
     "buy_link": "https://extp.in/89U0sg",
     "date_iso": "2026-02-26T08:10:28+00:00"
-  },
-  {
-    "id": "msg28280",
-    "title": "Exclusive Armani Exchange Sale — Up to 60% Off 🔥",
-    "description": "AJIO Exclusive : Armani Exchange Sale — Upto 60% Off 🔥 Master Link : Men’s : • T-shirts → • Shirts → • Jeans → • Jackets → • Sweatshirts → Women’s : • T-shirts → • Shirts → • Sweaters → • Trackpants → • Jackets →",
-    "shortlink": "https://ajiio.co/Hhgjnm",
-    "urls": [
-      {
-        "url": "",
-        "label": "Armani Exchange Sale — Upto 60% Off 🔥"
-      },
-      {
-        "url": "https://ajiio.co/Hhgjnm",
-        "label": "Master"
-      },
-      {
-        "url": "https://ajiio.co/3qVcTu",
-        "label": "T-shirts →"
-      },
-      {
-        "url": "https://ajiio.co/GVB7ZA",
-        "label": "Shirts →"
-      },
-      {
-        "url": "https://ajiio.co/j4u11L",
-        "label": "Jeans →"
-      },
-      {
-        "url": "https://ajiio.co/o0TH0L",
-        "label": "Jackets →"
-      },
-      {
-        "url": "https://ajiio.co/SipwJr",
-        "label": "Sweatshirts →"
-      },
-      {
-        "url": "https://ajiio.co/1UTsO8",
-        "label": "T-shirts →"
-      },
-      {
-        "url": "https://ajiio.co/GEurpR",
-        "label": "Shirts →"
-      },
-      {
-        "url": "https://ajiio.co/rgJyaE",
-        "label": "Sweaters →"
-      },
-      {
-        "url": "https://ajiio.co/Kbvt83",
-        "label": "Trackpants →"
-      },
-      {
-        "url": "https://ajiio.co/l1Y4N8",
-        "label": "Jackets →"
-      }
-    ],
-    "raw_text": "AJIO Exclusive : Armani Exchange Sale — Upto 60% Off 🔥\n\nMaster Link : https://ajiio.co/Hhgjnm\n\nMen’s :\n• T-shirts → https://ajiio.co/3qVcTu\n• Shirts → https://ajiio.co/GVB7ZA\n• Jeans → https://ajiio.co/j4u11L\n• Jackets → https://ajiio.co/o0TH0L\n• Sweatshirts → https://ajiio.co/SipwJr\n\nWomen’s :\n• T-shirts → https://ajiio.co/1UTsO8\n• Shirts → https://ajiio.co/GEurpR\n• Sweaters → https://ajiio.co/rgJyaE\n• Trackpants → https://ajiio.co/Kbvt83\n• Jackets → https://ajiio.co/l1Y4N8",
-    "final_url": "https://ajiio.co/Hhgjnm",
-    "local_image": "assets/images/tgmsg_28280.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-02-26T06:46:02+00:00",
-    "buy_link": "https://ajiio.co/Hhgjnm",
-    "date_iso": "2026-02-26T06:46:02+00:00"
   }
 ]
