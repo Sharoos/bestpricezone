@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg28799",
+    "title": "Up to 85% Off",
+    "description": "Flipkart | Upto 85% Off -  Men Branded Sweatshirt Starting From @Rs.201 🔗 https://fkrt.co/GTCFVB",
+    "shortlink": "https://fkrt.co/GTCFVB",
+    "urls": [
+      {
+        "url": "https://fkrt.co/GTCFVB",
+        "label": "Upto 85% Off - Men Branded Sweatshirt Starting From @Rs.201"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 85% Off -  Men Branded Sweatshirt Starting From @Rs.201\n\n🔗 https://fkrt.co/GTCFVB",
+    "final_url": "https://fkrt.co/GTCFVB",
+    "local_image": "assets/images/tgmsg_28799.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-01T14:46:32+00:00",
+    "buy_link": "https://fkrt.co/GTCFVB",
+    "date_iso": "2026-03-01T14:46:32+00:00"
+  },
+  {
     "id": "msg28795",
     "title": "TIARAA Get Any 3 Necklace or Bracelet @ 199 INR (Shipping free)",
     "description": "TIARAA Loot : Get Any 3 Necklace or Bracelet @ 199 INR (Shipping free) Apply Coupon : LOOT3 Link :",
@@ -9442,45 +9462,5 @@
     "date_obj": "2026-02-26T13:09:34+00:00",
     "buy_link": "https://extp.in/elZ0vr",
     "date_iso": "2026-02-26T13:09:34+00:00"
-  },
-  {
-    "id": "msg28302",
-    "title": "ONDC Up to 85% off on WOW Science Skin Porducts 🔥🔥",
-    "description": "ONDC Upto 85% off on WOW Science Skin Porducts 🔥🔥 ✅ Use Code: DEAL45 ● Aloe Vera Gel For Skin & Hair - 54 : ● Onion Black Seed Hair Oil a - 54 : ● Shea ButterMoisture cream - 59 : ● Kajal (Black) - 59 :",
-    "shortlink": "https://extp.in/bf4Vez",
-    "urls": [
-      {
-        "url": "",
-        "label": "ONDC Upto 85% off on WOW Science Skin Porducts 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "✅ Use Code: DEAL45"
-      },
-      {
-        "url": "https://extp.in/bf4Vez",
-        "label": "● Aloe Vera Gel For Skin & Hair - 54"
-      },
-      {
-        "url": "https://extp.in/RSPIZA",
-        "label": "● Onion Black Seed Hair Oil a - 54"
-      },
-      {
-        "url": "https://extp.in/bzBtnh",
-        "label": "● Shea ButterMoisture cream - 59"
-      },
-      {
-        "url": "https://extp.in/gDmTHQ",
-        "label": "● Kajal (Black) - 59"
-      }
-    ],
-    "raw_text": "ONDC  Upto 85% off on WOW Science Skin Porducts 🔥🔥\n\n✅ Use Code: DEAL45\n\n● Aloe Vera Gel For Skin & Hair  - 54 : https://extp.in/bf4Vez\n● Onion Black Seed Hair Oil a - 54 : https://extp.in/RSPIZA\n● Shea ButterMoisture cream  - 59 :  https://extp.in/bzBtnh\n● Kajal (Black) - 59 : https://extp.in/gDmTHQ",
-    "final_url": "https://extp.in/bf4Vez",
-    "local_image": "assets/images/tgmsg_28302.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-02-26T11:39:14+00:00",
-    "buy_link": "https://extp.in/bf4Vez",
-    "date_iso": "2026-02-26T11:39:14+00:00"
   }
 ]
