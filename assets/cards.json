@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg28822",
+    "title": "Bontress hairfall serum Up To 52% off",
+    "description": "Myntra | Episoft - Up To 45% https://myntr.in/KAz2ee Bontress hairfall serum Up To 52% off - https://myntr.in/Ryovk0 Scalpe Pro - Upto 50% Off https://myntr.in/tkOnPG Cerave - Upto 30% Off https://myntr.in/z9Cy9b",
+    "shortlink": "https://myntr.in/KAz2ee",
+    "urls": [
+      {
+        "url": "https://myntr.in/KAz2ee",
+        "label": "Episoft - Up To 45%"
+      },
+      {
+        "url": "https://myntr.in/Ryovk0",
+        "label": "Bontress hairfall serum Up To 52% off"
+      },
+      {
+        "url": "https://myntr.in/tkOnPG",
+        "label": "Upto 50% Off"
+      },
+      {
+        "url": "https://myntr.in/z9Cy9b",
+        "label": "Upto 30% Off"
+      }
+    ],
+    "raw_text": "Myntra | Episoft - Up To 45%\nhttps://myntr.in/KAz2ee \n\nBontress hairfall serum Up To 52% off - https://myntr.in/Ryovk0\n\nScalpe Pro - Upto 50% Off\nhttps://myntr.in/tkOnPG\n\nCerave - Upto 30% Off\nhttps://myntr.in/z9Cy9b",
+    "final_url": "https://myntr.in/KAz2ee",
+    "local_image": "assets/images/tgmsg_28822.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-01T19:41:21+00:00",
+    "buy_link": "https://myntr.in/KAz2ee",
+    "date_iso": "2026-03-01T19:41:21+00:00"
+  },
+  {
     "id": "msg28819",
     "title": "Use Code OPMBB10 To get extra 10% Off",
     "description": "Myntra 🔥Oneplus MBB Exclusive Pricing🔥 OnePlus Buds 3 Pro Only At Rs. 2384 + 10% Bank Offers!! Use Coupon Code : OPMBB10 To get extra 10% Off OnePlus Bullets ANC Only At Rs. 1614 + 10% Bank Offers!! Use Coupon Code :…",
@@ -9490,45 +9522,5 @@
     "date_obj": "2026-02-26T15:06:14+00:00",
     "buy_link": "https://bitli.in/I4ltr72",
     "date_iso": "2026-02-26T15:06:14+00:00"
-  },
-  {
-    "id": "msg28324",
-    "title": "Shopsy Up to 91% OFF on Toys 🔥🔥",
-    "description": "Shopsy Upto 91% OFF on Toys 🔥🔥 ● Monster cars from ₹31 - ● Plush toys from ₹58 - ● Animal toys from ₹70 - ● Musical toys from ₹78 - ● Guns toys from ₹87 -",
-    "shortlink": "https://extp.in/5yaoqa",
-    "urls": [
-      {
-        "url": "",
-        "label": "Shopsy Upto 91% OFF on Toys 🔥🔥"
-      },
-      {
-        "url": "https://extp.in/5yaoqa",
-        "label": "● Monster cars from ₹31"
-      },
-      {
-        "url": "https://extp.in/xxXXm3",
-        "label": "● Plush toys from ₹58"
-      },
-      {
-        "url": "https://extp.in/Tyc3du",
-        "label": "● Animal toys from ₹70"
-      },
-      {
-        "url": "https://extp.in/viTK1v",
-        "label": "● Musical toys from ₹78"
-      },
-      {
-        "url": "https://extp.in/a9c4l3",
-        "label": "● Guns toys from ₹87"
-      }
-    ],
-    "raw_text": "Shopsy  Upto 91% OFF on Toys 🔥🔥\n\n● Monster cars from ₹31 - https://extp.in/5yaoqa\n● Plush toys from ₹58 -https://extp.in/xxXXm3\n● Animal toys from ₹70 - https://extp.in/Tyc3du\n● Musical toys from ₹78 -https://extp.in/viTK1v\n● Guns toys from ₹87 -https://extp.in/a9c4l3",
-    "final_url": "https://extp.in/5yaoqa",
-    "local_image": "assets/images/tgmsg_28324.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-02-26T15:11:32+00:00",
-    "buy_link": "https://extp.in/5yaoqa",
-    "date_iso": "2026-02-26T15:11:32+00:00"
   }
 ]
