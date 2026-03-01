@@ -1,5 +1,89 @@
 [
   {
+    "id": "msg28755",
+    "title": "Sweatshirts Starts @167",
+    "description": "Myntra : Sweatshirts Starts @167 Women : https://myntr.in/a82sB0 Men : https://myntr.in/OIkRUd&",
+    "shortlink": "https://myntr.in/a82sB0",
+    "urls": [
+      {
+        "url": "",
+        "label": "Sweatshirts Starts @167"
+      },
+      {
+        "url": "https://myntr.in/a82sB0",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/OIkRUd&",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "Myntra : Sweatshirts Starts @167\n\nWomen : https://myntr.in/a82sB0\nMen : https://myntr.in/OIkRUd&",
+    "final_url": "https://myntr.in/a82sB0",
+    "local_image": "assets/images/tgmsg_28755.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-01T08:35:50+00:00",
+    "buy_link": "https://myntr.in/a82sB0",
+    "date_iso": "2026-03-01T08:35:50+00:00"
+  },
+  {
+    "id": "msg28756",
+    "title": "🎁 FREE Surprise Gift (Worth up to ₹299)",
+    "description": "🌈🔥 HOLI HAI SALE – Grooming Deals for Men! 🔥🌈 Celebrate Holi with premium grooming from The Man Company 💙 🧴 4 Grooming Products @ ₹599 Only  ✨ Body Wash ✨ De-Tan Face Wash ✨ Roll On Deo ✨ Glow Pro Face Cream 👉 Shop Now…",
+    "shortlink": "https://extp.in/Bv3ciK",
+    "urls": [
+      {
+        "url": "",
+        "label": "🌈🔥 HOLI HAI SALE – Grooming Deals for Men! 🔥🌈"
+      },
+      {
+        "url": "",
+        "label": "Celebrate Holi with premium grooming from The Man Company 💙"
+      },
+      {
+        "url": "",
+        "label": "🧴 4 Grooming Products @ ₹599 Only"
+      },
+      {
+        "url": "",
+        "label": "🎁 FREE Surprise Gift (Worth up to ₹299)"
+      },
+      {
+        "url": "",
+        "label": "✨ Body Wash"
+      },
+      {
+        "url": "",
+        "label": "✨ De-Tan Face Wash"
+      },
+      {
+        "url": "",
+        "label": "✨ Roll On Deo"
+      },
+      {
+        "url": "",
+        "label": "✨ Glow Pro Face Cream"
+      },
+      {
+        "url": "https://extp.in/Bv3ciK",
+        "label": "Shop Now"
+      },
+      {
+        "url": "",
+        "label": "💥 Limited Time Holi Offer – Don’t Miss Out!"
+      }
+    ],
+    "raw_text": "🌈🔥 HOLI HAI SALE – Grooming Deals for Men! 🔥🌈\n\nCelebrate Holi with premium grooming from The Man Company 💙\n\n🧴 4 Grooming Products @ ₹599 Only\n🎁 FREE Surprise Gift (Worth up to ₹299)\n\n✨ Body Wash\n✨ De-Tan Face Wash\n✨ Roll On Deo\n✨ Glow Pro Face Cream\n\n👉 Shop Now : https://extp.in/Bv3ciK\n\n💥 Limited Time Holi Offer – Don’t Miss Out!",
+    "final_url": "https://extp.in/Bv3ciK",
+    "local_image": "assets/images/tgmsg_28756.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-03-01T08:35:52+00:00",
+    "buy_link": "https://extp.in/Bv3ciK",
+    "date_iso": "2026-03-01T08:35:52+00:00"
+  },
+  {
     "id": "msg28742",
     "title": "Scroll, many @ 72% off",
     "description": "LOOT FAST : ASICS SHOES @60-72% OFF Sports :  https://fktr.in/i59jdEp Casual :  https://fktr.in/Jf1XoOZ Scroll, many @ 72% off",
@@ -9418,57 +9502,5 @@
     "date_obj": "2026-02-25T18:43:59+00:00",
     "buy_link": "https://ajiio.in/HPXROzv",
     "date_iso": "2026-02-25T18:43:59+00:00"
-  },
-  {
-    "id": "msg28256",
-    "title": "Up to 80% Off On Branded Winterwea",
-    "description": "Ajio Loot : Upto 80% Off On Branded Winterwears. Mens :  https://ajiio.in/3B3Vk81 Womens :  https://ajiio.in/z18QJ0i",
-    "shortlink": "https://ajiio.in/3B3Vk81",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Branded Winterwears"
-      },
-      {
-        "url": "https://ajiio.in/3B3Vk81",
-        "label": "Mens"
-      },
-      {
-        "url": "https://ajiio.in/z18QJ0i",
-        "label": "Womens"
-      }
-    ],
-    "raw_text": "Ajio Loot : Upto 80% Off On Branded Winterwears.\n\nMens :  https://ajiio.in/3B3Vk81\nWomens :  https://ajiio.in/z18QJ0i",
-    "final_url": "https://ajiio.in/3B3Vk81",
-    "local_image": "assets/images/tgmsg_28256.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-02-25T18:51:25+00:00",
-    "buy_link": "https://ajiio.in/3B3Vk81",
-    "date_iso": "2026-02-25T18:51:25+00:00"
-  },
-  {
-    "id": "msg28258",
-    "title": "🔥 Up to 94% Off On Buda Jeans Co Clothing",
-    "description": "🔥AJIO Loot : Upto 94% Off On Buda Jeans Co Clothing. Men : https://ajiio.in/Mnh8Yvc Women : https://ajiio.in/dkfLIEM",
-    "shortlink": "https://ajiio.in/Mnh8Yvc",
-    "urls": [
-      {
-        "url": "https://ajiio.in/Mnh8Yvc",
-        "label": "🔥AJIO Loot : Upto 94% Off On Buda Jeans Co Clothing"
-      },
-      {
-        "url": "https://ajiio.in/dkfLIEM",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "🔥AJIO Loot : Upto 94% Off On Buda Jeans Co Clothing.\n\nMen : https://ajiio.in/Mnh8Yvc\nWomen : https://ajiio.in/dkfLIEM",
-    "final_url": "https://ajiio.in/Mnh8Yvc",
-    "local_image": "assets/images/tgmsg_28258.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-02-25T18:55:39+00:00",
-    "buy_link": "https://ajiio.in/Mnh8Yvc",
-    "date_iso": "2026-02-25T18:55:39+00:00"
   }
 ]
