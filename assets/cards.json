@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg28780",
+    "title": "up Kit – 74% OFF",
+    "description": "💄🔥 Myntra Makeup Mega – Limited Stock! 🔥💄 💋 Blue Heaven Make- 😍👉 💄 Elle 18 Make-up Kit – 72% OFF 💕👉 🧴✨ Pond's Bright Beauty Face Wash (200g × 3) – Just ₹158 ⚡ 👉",
+    "shortlink": "https://myntr.in/fZcsel",
+    "urls": [
+      {
+        "url": "",
+        "label": "💄🔥 Myntra Makeup Mega – Limited Stock! 🔥💄"
+      },
+      {
+        "url": "https://myntr.in/fZcsel",
+        "label": "💋 Blue Heaven Make-up Kit – 74% OFF"
+      },
+      {
+        "url": "https://myntr.in/n0sOWp",
+        "label": "💄 Elle 18 Make-up Kit – 72% OFF"
+      },
+      {
+        "url": "https://myntr.in/T3Y7er⁠",
+        "label": "🧴✨ Pond's Bright Beauty Face Wash (200g × 3) – Just ₹158"
+      }
+    ],
+    "raw_text": "💄🔥 Myntra Makeup Mega  – Limited Stock! 🔥💄\n\n💋 Blue Heaven Make-up Kit – 74% OFF\n😍👉 https://myntr.in/fZcsel\n\n💄 Elle 18 Make-up Kit – 72% OFF\n💕👉 https://myntr.in/n0sOWp\n\n🧴✨ Pond's Bright Beauty Face Wash (200g × 3) – Just ₹158\n⚡ 👉 https://myntr.in/T3Y7er⁠",
+    "final_url": "https://myntr.in/fZcsel",
+    "local_image": "assets/images/tgmsg_28780.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-01T11:36:17+00:00",
+    "buy_link": "https://myntr.in/fZcsel",
+    "date_iso": "2026-03-01T11:36:17+00:00"
+  },
+  {
     "id": "msg28775",
     "title": "Reebok Shoes Starting @ 720",
     "description": "Loot : Reebok Shoes Starting @ 720. https://fktr.in/7YjGz68 Puma : https://fktr.in/kWQaKGf Adidas : https://fktr.in/4Uyf49c Campus : https://fktr.in/4l87tlx RedTape : https://fktr.in/OH1pEtg Duke :…",
@@ -9634,41 +9666,5 @@
     "date_obj": "2026-02-26T09:15:08+00:00",
     "buy_link": "https://ajiio.co/LUUJTT",
     "date_iso": "2026-02-26T09:15:08+00:00"
-  },
-  {
-    "id": "msg28294",
-    "title": "Up to 75% Off On New Balance Shoes & Clothing",
-    "description": "AJIO Loot : Upto 75% Off On New Balance Shoes & Clothing. Men : Women : Upto 70% Off On Skechers Shoes. Women : Men :",
-    "shortlink": "https://ajiio.in/lcwftSo",
-    "urls": [
-      {
-        "url": "https://ajiio.in/lcwftSo",
-        "label": "Upto 75% Off On New Balance Shoes & Clothing"
-      },
-      {
-        "url": "https://ajiio.in/dwXPDBW",
-        "label": "Women"
-      },
-      {
-        "url": "",
-        "label": "Upto 70% Off On Skechers Shoes"
-      },
-      {
-        "url": "https://ajiio.in/ehbCksi",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.in/Q2Fy4Dg",
-        "label": "Men"
-      }
-    ],
-    "raw_text": "AJIO Loot : Upto 75% Off On New Balance Shoes & Clothing.\n\nMen : https://ajiio.in/lcwftSo\nWomen : https://ajiio.in/dwXPDBW\n\nUpto 70% Off On Skechers Shoes.\n\nWomen : https://ajiio.in/ehbCksi\nMen : https://ajiio.in/Q2Fy4Dg",
-    "final_url": "https://ajiio.in/lcwftSo",
-    "local_image": "assets/images/tgmsg_28294.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-02-26T09:23:51+00:00",
-    "buy_link": "https://ajiio.in/lcwftSo",
-    "date_iso": "2026-02-26T09:23:51+00:00"
   }
 ]
