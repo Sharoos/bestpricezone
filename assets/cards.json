@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg28919",
+    "title": "Branded Sneakers Up to 90% Off (Roadster, Killer, Michael Angelo, etc)",
+    "description": "Myntra | Branded Sneakers Upto 90% Off (Roadster, Killer, Michael Angelo, etc) https://myntr.in/ja3IsV",
+    "shortlink": "https://myntr.in/ja3IsV",
+    "urls": [
+      {
+        "url": "https://myntr.in/ja3IsV",
+        "label": "Branded Sneakers Upto 90% Off (Roadster, Killer, Michael Angelo, etc)"
+      }
+    ],
+    "raw_text": "Myntra | Branded Sneakers Upto 90% Off (Roadster, Killer, Michael Angelo, etc)\n\nhttps://myntr.in/ja3IsV",
+    "final_url": "https://myntr.in/ja3IsV",
+    "local_image": "assets/images/tgmsg_28919.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-02T17:32:32+00:00",
+    "buy_link": "https://myntr.in/ja3IsV",
+    "date_iso": "2026-03-02T17:32:32+00:00"
+  },
+  {
     "id": "msg28897",
     "title": "Phool Holi Gift hampers starting from Rs 99",
     "description": "Myntra | Phool | Holi Gift hampers| starting from Rs 99 🔗 https://myntr.in/R8RPit",
@@ -9474,37 +9494,5 @@
     "date_obj": "2026-02-27T05:29:12+00:00",
     "buy_link": "https://ajiio.co/KNAvyk",
     "date_iso": "2026-02-27T05:29:12+00:00"
-  },
-  {
-    "id": "msg28410",
-    "title": "Up to 85% Off On Red Tape Shoe",
-    "description": "AJIO : Upto 85% Off On Red Tape Shoes Men's : Women's : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "shortlink": "https://ajiio.co/LkurK2",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On Red Tape Shoes"
-      },
-      {
-        "url": "https://ajiio.co/LkurK2",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/1eb2jt",
-        "label": "Women's"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "AJIO : Upto 85% Off On Red Tape Shoes\n\nMen's : https://ajiio.co/LkurK2\n\nWomen's : https://ajiio.co/1eb2jt\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/LkurK2",
-    "local_image": "assets/images/tgmsg_28410.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-02-27T04:02:59+00:00",
-    "buy_link": "https://ajiio.co/LkurK2",
-    "date_iso": "2026-02-27T04:02:59+00:00"
   }
 ]
