@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg28941",
+    "title": "🔥 Sweatshirts From ₹167",
+    "description": "🔥Myntra LOOT : Sweatshirts From ₹167 Women : https://myntr.it/hga7eny Men : https://myntr.it/294M1mU",
+    "shortlink": "https://myntr.it/hga7eny",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥Myntra LOOT : Sweatshirts From ₹167"
+      },
+      {
+        "url": "https://myntr.it/hga7eny",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.it/294M1mU",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "🔥Myntra LOOT : Sweatshirts From ₹167\n\nWomen : https://myntr.it/hga7eny\nMen : https://myntr.it/294M1mU",
+    "final_url": "https://myntr.it/hga7eny",
+    "local_image": "assets/images/tgmsg_28941.jpg",
+    "source_host": "myntr.it",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-03T04:39:36+00:00",
+    "buy_link": "https://myntr.it/hga7eny",
+    "date_iso": "2026-03-03T04:39:36+00:00"
+  },
+  {
     "id": "msg28938",
     "title": "Up to 89% Off on Men's Branded Clothing 🔥🔥",
     "description": "Myntra Upto 89% Off on Men's Branded Clothing 🔥🔥 ● Shirts At 141 : ● Wedding Kurtas At 176 : ● T-Shirts At 209 : ● Formal Trousers At 215 : ● Jeans At 397 :",
@@ -9482,25 +9510,5 @@
     "date_obj": "2026-02-27T06:08:55+00:00",
     "buy_link": "https://myntr.in/nHqbIE",
     "date_iso": "2026-02-27T06:08:55+00:00"
-  },
-  {
-    "id": "msg28430",
-    "title": "20% off on Minimum Purchase of ₹799",
-    "description": "Myntra : 20% off on Minimum Purchase of ₹799 https://myntr.in/QkTpgd Apply Coupon : WHIRLDEAL",
-    "shortlink": "https://myntr.in/QkTpgd",
-    "urls": [
-      {
-        "url": "https://myntr.in/QkTpgd",
-        "label": "20% off on Minimum Purchase of ₹799"
-      }
-    ],
-    "raw_text": "Myntra : 20% off on Minimum Purchase of ₹799\n\nhttps://myntr.in/QkTpgd\n\nApply Coupon : WHIRLDEAL",
-    "final_url": "https://myntr.in/QkTpgd",
-    "local_image": "assets/images/tgmsg_28430.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-27T06:29:45+00:00",
-    "buy_link": "https://myntr.in/QkTpgd",
-    "date_iso": "2026-02-27T06:29:45+00:00"
   }
 ]
