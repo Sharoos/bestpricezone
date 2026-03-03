@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg29003",
+    "title": "🏠✨ Home Makeover Deals – Up To 70% OFF! ✨🏠",
+    "description": "🏠✨ MYNTRA Home Makeover Deals – Up To 70% OFF! ✨🏠 👗 Ankit International Saree Organisers – Min 70% OFF Keep your sarees neatly stored & dust-free 😍 👉 🍽 Table Covers – Min 70% OFF Stylish designs at throwaway prices 💥 👉…",
+    "shortlink": "https://myntr.in/24xgNz",
+    "urls": [
+      {
+        "url": "",
+        "label": "🏠✨ MYNTRA Home Makeover Deals – Up To 70% OFF! ✨🏠"
+      },
+      {
+        "url": "",
+        "label": "👗 Ankit International Saree Organisers – Min 70% OFF"
+      },
+      {
+        "url": "https://myntr.in/24xgNz",
+        "label": "free 😍"
+      },
+      {
+        "url": "",
+        "label": "🍽 Table Covers – Min 70% OFF"
+      },
+      {
+        "url": "https://myntr.in/lFKjyF",
+        "label": "Stylish designs at throwaway prices 💥"
+      },
+      {
+        "url": "",
+        "label": "🛋 Embroidered Cushion Covers – Min 60% OFF"
+      },
+      {
+        "url": "https://myntr.in/p3DfeL",
+        "label": "Premium look for your living space ✨"
+      },
+      {
+        "url": "",
+        "label": "🛋 Eyda Premium Cushion Covers – Min 50% OFF"
+      },
+      {
+        "url": "https://myntr.in/nGCPTY",
+        "label": "Upgrade your sofa game 🏡"
+      }
+    ],
+    "raw_text": "🏠✨ MYNTRA Home Makeover Deals – Up To 70% OFF! ✨🏠\n\n👗 Ankit International Saree Organisers – Min 70% OFF\nKeep your sarees neatly stored & dust-free 😍\n👉 https://myntr.in/24xgNz\n\n🍽 Table Covers – Min 70% OFF\nStylish designs at throwaway prices 💥\n👉 https://myntr.in/lFKjyF\n\n🛋 Embroidered Cushion Covers – Min 60% OFF\nPremium look for your living space ✨\n👉 https://myntr.in/p3DfeL\n\n🛋 Eyda Premium Cushion Covers – Min 50% OFF\nUpgrade your sofa game 🏡\n👉 https://myntr.in/nGCPTY",
+    "final_url": "https://myntr.in/24xgNz",
+    "local_image": "assets/images/tgmsg_29003.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-03T18:02:00+00:00",
+    "buy_link": "https://myntr.in/24xgNz",
+    "date_iso": "2026-03-03T18:02:00+00:00"
+  },
+  {
     "id": "msg29002",
     "title": "Up to 85% Off On Mens Jean",
     "description": "AJIO : Upto 85% Off On Mens Jeans. 🔗 Lee Cooper : Jack & Jones : John Players : DNMX : Buda Jeans Co : Spykar : Allen Cooper : U.S. Polo Assn. : Pepe Jeans :",
@@ -9806,41 +9858,5 @@
     "date_obj": "2026-02-27T11:50:33+00:00",
     "buy_link": "https://myntr.in/ZDUBFY",
     "date_iso": "2026-02-27T11:50:33+00:00"
-  },
-  {
-    "id": "msg28482",
-    "title": "💥 Up to 50% OFF on trending style",
-    "description": "🔥Campus Bold Moves Start Here! 🔥 Step up your style with Campus 👟 s 🛒 Shop Now : Upgrade your sneaker game now!",
-    "shortlink": "https://extp.in/xRx3kf",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Campus Bold Moves Start Here! 🔥"
-      },
-      {
-        "url": "",
-        "label": "Step up your style with Campus 👟"
-      },
-      {
-        "url": "",
-        "label": "💥 Up to 50% OFF on trending styles"
-      },
-      {
-        "url": "https://extp.in/xRx3kf",
-        "label": "🛒 Shop Now"
-      },
-      {
-        "url": "",
-        "label": "Upgrade your sneaker game now!"
-      }
-    ],
-    "raw_text": "🔥Campus Bold Moves Start Here! 🔥\n\nStep up your style with Campus 👟\n💥 Up to 50% OFF on trending styles\n\n🛒 Shop Now : https://extp.in/xRx3kf\n\nUpgrade your sneaker game now!",
-    "final_url": "https://extp.in/xRx3kf",
-    "local_image": "assets/images/tgmsg_28482.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-02-27T12:01:13+00:00",
-    "buy_link": "https://extp.in/xRx3kf",
-    "date_iso": "2026-02-27T12:01:13+00:00"
   }
 ]
