@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg29002",
+    "title": "Up to 85% Off On Mens Jean",
+    "description": "AJIO : Upto 85% Off On Mens Jeans. 🔗 Lee Cooper : Jack & Jones : John Players : DNMX : Buda Jeans Co : Spykar : Allen Cooper : U.S. Polo Assn. : Pepe Jeans :",
+    "shortlink": "https://ajiio.co/3AOEhM",
+    "urls": [
+      {
+        "url": "https://ajiio.co/3AOEhM",
+        "label": "Upto 85% Off On Mens Jeans"
+      },
+      {
+        "url": "https://ajiio.co/NWXw2r",
+        "label": "Lee Cooper"
+      },
+      {
+        "url": "https://ajiio.co/a0YjkE",
+        "label": "Jack & Jones"
+      },
+      {
+        "url": "https://ajiio.co/pqdZKy",
+        "label": "John Players"
+      },
+      {
+        "url": "https://ajiio.co/PTcOWr",
+        "label": "DNMX"
+      },
+      {
+        "url": "https://ajiio.co/uJeSPU",
+        "label": "Buda Jeans Co"
+      },
+      {
+        "url": "https://ajiio.co/MKRizU",
+        "label": "Spykar"
+      },
+      {
+        "url": "https://ajiio.co/cJy0ex",
+        "label": "Allen Cooper"
+      },
+      {
+        "url": "https://ajiio.co/gI5XMh",
+        "label": "U.S. Polo Assn"
+      },
+      {
+        "url": "https://ajiio.co/2cEFJI",
+        "label": "Pepe Jeans"
+      }
+    ],
+    "raw_text": "AJIO : Upto 85% Off On Mens Jeans. \n\n🔗 https://ajiio.co/3AOEhM\n\nLee Cooper : https://ajiio.co/NWXw2r\nJack & Jones : https://ajiio.co/a0YjkE\nJohn Players : https://ajiio.co/pqdZKy\nDNMX : https://ajiio.co/PTcOWr\nBuda Jeans Co : https://ajiio.co/uJeSPU\nSpykar : https://ajiio.co/MKRizU\nAllen Cooper : https://ajiio.co/cJy0ex\nU.S. Polo Assn. : https://ajiio.co/gI5XMh\nPepe Jeans : https://ajiio.co/2cEFJI",
+    "final_url": "https://ajiio.co/3AOEhM",
+    "local_image": "assets/images/tgmsg_29002.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-03-03T17:46:23+00:00",
+    "buy_link": "https://ajiio.co/3AOEhM",
+    "date_iso": "2026-03-03T17:46:23+00:00"
+  },
+  {
     "id": "msg28997",
     "title": "HRX Shocks Pack of 3 starts @118",
     "description": "Myntra | HRX Shocks Pack of 3 starts @118 Link : https://myntr.in/vgWOwk",
@@ -9786,25 +9842,5 @@
     "date_obj": "2026-02-27T12:01:13+00:00",
     "buy_link": "https://extp.in/xRx3kf",
     "date_iso": "2026-02-27T12:01:13+00:00"
-  },
-  {
-    "id": "msg28472",
-    "title": "@ 83",
-    "description": "Loot@ 83 https://fktr.in/0OnXF8r M Size",
-    "shortlink": "https://fktr.in/0OnXF8r",
-    "urls": [
-      {
-        "url": "https://fktr.in/0OnXF8r",
-        "label": "Loot@ 83"
-      }
-    ],
-    "raw_text": "Loot@ 83\n\nhttps://fktr.in/0OnXF8r\n\nM Size",
-    "final_url": "https://fktr.in/0OnXF8r",
-    "local_image": "assets/images/tgmsg_28472.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-27T10:57:45+00:00",
-    "buy_link": "https://fktr.in/0OnXF8r",
-    "date_iso": "2026-02-27T10:57:45+00:00"
   }
 ]
