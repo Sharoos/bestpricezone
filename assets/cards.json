@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg29007",
+    "title": "Men's Polo T Shirts Under ₹299/",
+    "description": "Flipkart Grab 💥💥⚡💥 Men's Trousers Under ₹499/- - Men's Jeans Under ₹699/- Men's Sweatshirts Under ₹299/- Men's Sweaters Under ₹499/-",
+    "shortlink": "https://fkrt.co/H3moJ2",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart Grab 💥💥⚡💥"
+      },
+      {
+        "url": "https://fkrt.co/H3moJ2",
+        "label": "Men's Trousers Under ₹499/"
+      },
+      {
+        "url": "https://fkrt.co/NoO4EV",
+        "label": "Men's Polo T Shirts Under ₹299/"
+      },
+      {
+        "url": "https://fkrt.co/hfm4Lp",
+        "label": "Men's Jeans Under ₹699/"
+      },
+      {
+        "url": "https://fkrt.co/jbuNCe",
+        "label": "Men's Sweatshirts Under ₹299/"
+      },
+      {
+        "url": "https://fkrt.co/SlHpzc",
+        "label": "Men's Sweaters Under ₹499/"
+      }
+    ],
+    "raw_text": "Flipkart Grab 💥💥⚡💥\n\nMen's Trousers Under ₹499/-\n  https://fkrt.co/H3moJ2\n\nMen's Polo T Shirts Under ₹299/-\n  https://fkrt.co/NoO4EV\n\nMen's Jeans Under ₹699/-\n  https://fkrt.co/hfm4Lp\n\nMen's Sweatshirts Under ₹299/-\n  https://fkrt.co/jbuNCe\n\nMen's Sweaters Under ₹499/-\n  https://fkrt.co/SlHpzc",
+    "final_url": "https://fkrt.co/H3moJ2",
+    "local_image": "assets/images/tgmsg_29007.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-03T20:44:54+00:00",
+    "buy_link": "https://fkrt.co/H3moJ2",
+    "date_iso": "2026-03-03T20:44:54+00:00"
+  },
+  {
     "id": "msg29003",
     "title": "🏠✨ Home Makeover Deals – Up To 70% OFF! ✨🏠",
     "description": "🏠✨ MYNTRA Home Makeover Deals – Up To 70% OFF! ✨🏠 👗 Ankit International Saree Organisers – Min 70% OFF Keep your sarees neatly stored & dust-free 😍 👉 🍽 Table Covers – Min 70% OFF Stylish designs at throwaway prices 💥 👉…",
@@ -9838,25 +9878,5 @@
     "date_obj": "2026-02-27T11:45:19+00:00",
     "buy_link": "https://myntr.in/22uPfW",
     "date_iso": "2026-02-27T11:45:19+00:00"
-  },
-  {
-    "id": "msg28481",
-    "title": "Guess, IDEE, Irus by IDEE, Police, Ray Ban and Other Branded Sunglasses at Up to 60% OFF",
-    "description": "Myntra | Guess, IDEE, Irus by IDEE, Police, Ray Ban and Other Branded Sunglasses at Upto 60% OFF 🔗 Link -",
-    "shortlink": "https://myntr.in/ZDUBFY",
-    "urls": [
-      {
-        "url": "https://myntr.in/ZDUBFY",
-        "label": "Guess, IDEE, Irus by IDEE, Police, Ray Ban and Other Branded Sunglasses at Upto 60% OFF"
-      }
-    ],
-    "raw_text": "Myntra  | Guess, IDEE, Irus by IDEE, Police, Ray Ban and Other Branded Sunglasses at Upto 60% OFF\n\n🔗 Link - https://myntr.in/ZDUBFY",
-    "final_url": "https://myntr.in/ZDUBFY",
-    "local_image": "assets/images/tgmsg_28481.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-27T11:50:33+00:00",
-    "buy_link": "https://myntr.in/ZDUBFY",
-    "date_iso": "2026-02-27T11:50:33+00:00"
   }
 ]
