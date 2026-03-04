@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg29019",
+    "title": "USPA & Hellcat and More Up to 82% Off",
+    "description": "AJIO: USPA & Hellcat and More Upto 82% Off 👉Link : https://ajiio.co/RJyN2s + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/RJyN2s",
+    "urls": [
+      {
+        "url": "https://ajiio.co/RJyN2s",
+        "label": "USPA & Hellcat and More Upto 82% Off"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "AJIO: USPA & Hellcat and More Upto 82% Off\n\n👉Link : https://ajiio.co/RJyN2s\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/RJyN2s",
+    "local_image": "assets/images/tgmsg_29019.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-03-04T06:16:14+00:00",
+    "buy_link": "https://ajiio.co/RJyN2s",
+    "date_iso": "2026-03-04T06:16:14+00:00"
+  },
+  {
+    "id": "msg29022",
+    "title": "Flat 50% Off On Royal Enfield Clothing",
+    "description": "Myntra | Flat 50% Off On Royal Enfield Clothing 🔗 https://myntr.in/GcUdPd",
+    "shortlink": "https://myntr.in/GcUdPd",
+    "urls": [
+      {
+        "url": "https://myntr.in/GcUdPd",
+        "label": "Flat 50% Off On Royal Enfield Clothing"
+      }
+    ],
+    "raw_text": "Myntra | Flat 50% Off On Royal Enfield Clothing\n\n🔗 https://myntr.in/GcUdPd",
+    "final_url": "https://myntr.in/GcUdPd",
+    "local_image": "assets/images/tgmsg_29022.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-04T06:46:11+00:00",
+    "buy_link": "https://myntr.in/GcUdPd",
+    "date_iso": "2026-03-04T06:46:11+00:00"
+  },
+  {
     "id": "msg29017",
     "title": "Men's Polo T Shirts Under ₹299/",
     "description": "Flipkart Grab 💥💥⚡💥 Men's Trousers Under ₹499/- - Men's Jeans Under ₹699/- Men's Sweatshirts Under ₹299/- Men's Sweaters Under ₹499/-",
@@ -9934,45 +9978,5 @@
     "date_obj": "2026-02-27T13:02:35+00:00",
     "buy_link": "https://bitli.in/s2gZaAH",
     "date_iso": "2026-02-27T13:02:35+00:00"
-  },
-  {
-    "id": "msg28499",
-    "title": "Flat 50% Off",
-    "description": "Myntra | Olay - Flat 50% Off 🔗 Link : https://myntr.in/3sZs66",
-    "shortlink": "https://myntr.in/3sZs66",
-    "urls": [
-      {
-        "url": "https://myntr.in/3sZs66",
-        "label": "Olay - Flat 50% Off"
-      }
-    ],
-    "raw_text": "Myntra | Olay - Flat 50% Off\n\n🔗 Link : https://myntr.in/3sZs66",
-    "final_url": "https://myntr.in/3sZs66",
-    "local_image": "assets/images/tgmsg_28499.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-27T13:10:20+00:00",
-    "buy_link": "https://myntr.in/3sZs66",
-    "date_iso": "2026-02-27T13:10:20+00:00"
-  },
-  {
-    "id": "msg28500",
-    "title": "Embroidered Cushion Covers at Min 60% Off",
-    "description": "Myntra | Embroidered Cushion Covers at Min 60% Off 🔗 Link : https://myntr.in/IgfHlU",
-    "shortlink": "https://myntr.in/IgfHlU",
-    "urls": [
-      {
-        "url": "https://myntr.in/IgfHlU",
-        "label": "Embroidered Cushion Covers at Min 60% Off"
-      }
-    ],
-    "raw_text": "Myntra | Embroidered Cushion Covers at Min 60% Off\n\n🔗 Link : https://myntr.in/IgfHlU",
-    "final_url": "https://myntr.in/IgfHlU",
-    "local_image": "assets/images/tgmsg_28500.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-27T13:15:12+00:00",
-    "buy_link": "https://myntr.in/IgfHlU",
-    "date_iso": "2026-02-27T13:15:12+00:00"
   }
 ]
