@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg29069",
+    "title": "Up to 70% Off On Engage Deodorant",
+    "description": "Flipkart | Upto 70% Off On Engage Deodorants. https://fkrt.co/lQBofX",
+    "shortlink": "https://fkrt.co/lQBofX",
+    "urls": [
+      {
+        "url": "https://fkrt.co/lQBofX",
+        "label": "Upto 70% Off On Engage Deodorants"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 70% Off On Engage Deodorants.\n\nhttps://fkrt.co/lQBofX",
+    "final_url": "https://fkrt.co/lQBofX",
+    "local_image": "assets/images/tgmsg_29069.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-04T16:16:45+00:00",
+    "buy_link": "https://fkrt.co/lQBofX",
+    "date_iso": "2026-03-04T16:16:45+00:00"
+  },
+  {
     "id": "msg29062",
     "title": "Up to 75% Off On The Bear House Clothing",
     "description": "Myntra : Upto 75% Off On The Bear House Clothing. Shirts :  https://myntr.in/XUvi6s Tshirts :  https://myntr.in/mbayI4 More :  https://myntr.in/CzxfqN",
@@ -9814,29 +9834,5 @@
     "date_obj": "2026-02-27T15:41:27+00:00",
     "buy_link": "https://ajiio.co/2eER3o",
     "date_iso": "2026-02-27T15:41:27+00:00"
-  },
-  {
-    "id": "msg28519",
-    "title": "Up to 80% Off On Hrx By Hrithik Roshan Duffel Bag",
-    "description": "Flipkart | Upto 80% Off On Hrx By Hrithik Roshan Duffel Bags 👉Link : Track Pants Starting From 282 👉",
-    "shortlink": "https://fkrt.co/B0CwKi",
-    "urls": [
-      {
-        "url": "https://fkrt.co/B0CwKi",
-        "label": "Upto 80% Off On Hrx By Hrithik Roshan Duffel Bags"
-      },
-      {
-        "url": "https://fkrt.co/7p4U3V",
-        "label": "Track Pants Starting From 282"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 80% Off On Hrx By Hrithik Roshan Duffel Bags \n\n👉Link : https://fkrt.co/B0CwKi\n\nTrack Pants Starting From 282\n\n👉 https://fkrt.co/7p4U3V",
-    "final_url": "https://fkrt.co/B0CwKi",
-    "local_image": "assets/images/tgmsg_28519.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-27T14:32:32+00:00",
-    "buy_link": "https://fkrt.co/B0CwKi",
-    "date_iso": "2026-02-27T14:32:32+00:00"
   }
 ]
