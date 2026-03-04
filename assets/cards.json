@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg29011",
+    "title": "24 Pcs Cloth Organisers at 81% Off",
+    "description": "Myntra  12-24 Pcs Cloth Organisers at 81% Off 🔗 https://myntr.in/D7Ma4s",
+    "shortlink": "https://myntr.in/D7Ma4s",
+    "urls": [
+      {
+        "url": "https://myntr.in/D7Ma4s",
+        "label": "24 Pcs Cloth Organisers at 81% Off"
+      }
+    ],
+    "raw_text": "Myntra  12-24 Pcs Cloth Organisers at 81% Off\n\n🔗 https://myntr.in/D7Ma4s",
+    "final_url": "https://myntr.in/D7Ma4s",
+    "local_image": "assets/images/tgmsg_29011.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-04T04:01:18+00:00",
+    "buy_link": "https://myntr.in/D7Ma4s",
+    "date_iso": "2026-03-04T04:01:18+00:00"
+  },
+  {
+    "id": "msg29012",
+    "title": "Up to 85% Off On Wildcraft Backpacks & Luggage",
+    "description": "Myntra  Upto 85% Off On Wildcraft Backpacks & Luggage. Backpacks : https://myntr.in/8L1MSE Luggage : https://myntr.in/HdNz09",
+    "shortlink": "https://myntr.in/8L1MSE",
+    "urls": [
+      {
+        "url": "",
+        "label": "Myntra Upto 85% Off On Wildcraft Backpacks & Luggage"
+      },
+      {
+        "url": "https://myntr.in/8L1MSE",
+        "label": "Backpacks"
+      },
+      {
+        "url": "https://myntr.in/HdNz09",
+        "label": "Luggage"
+      }
+    ],
+    "raw_text": "Myntra  Upto 85% Off On Wildcraft Backpacks & Luggage.\n\nBackpacks : https://myntr.in/8L1MSE\nLuggage : https://myntr.in/HdNz09",
+    "final_url": "https://myntr.in/8L1MSE",
+    "local_image": "assets/images/tgmsg_29012.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-04T04:15:47+00:00",
+    "buy_link": "https://myntr.in/8L1MSE",
+    "date_iso": "2026-03-04T04:15:47+00:00"
+  },
+  {
     "id": "msg29008",
     "title": "Yardley London Gentleman Luxury Grooming Kit @ 320",
     "description": "Amazon | Yardley London Gentleman Luxury Grooming Kit @ 320 https://www.amazon.in/dp/B0CLS5RJL5?tag=bestpricezo0f-21",
@@ -9838,45 +9886,5 @@
     "date_obj": "2026-02-27T13:32:08+00:00",
     "buy_link": "https://bitli.in/O3jJxem",
     "date_iso": "2026-02-27T13:32:08+00:00"
-  },
-  {
-    "id": "msg28477",
-    "title": "Shopsy 6 Shelves Shoe Stand @₹312",
-    "description": "Shopsy | 6 Shelves Shoe Stand @₹312 🔗 https://extp.in/nMORqH",
-    "shortlink": "https://extp.in/nMORqH",
-    "urls": [
-      {
-        "url": "https://extp.in/nMORqH",
-        "label": "6 Shelves Shoe Stand @₹312"
-      }
-    ],
-    "raw_text": "Shopsy | 6 Shelves Shoe Stand @₹312\n\n🔗 https://extp.in/nMORqH",
-    "final_url": "https://extp.in/nMORqH",
-    "local_image": "assets/images/tgmsg_28477.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-02-27T11:40:20+00:00",
-    "buy_link": "https://extp.in/nMORqH",
-    "date_iso": "2026-02-27T11:40:20+00:00"
-  },
-  {
-    "id": "msg28478",
-    "title": "Up to 80% Off On Campus Sutra Clothing 🔥🔥",
-    "description": "Flipkart : Upto 80% Off On Campus Sutra Clothing 🔥🔥 Link : https://fkrt.co/kt94vY",
-    "shortlink": "https://fkrt.co/kt94vY",
-    "urls": [
-      {
-        "url": "https://fkrt.co/kt94vY",
-        "label": "Upto 80% Off On Campus Sutra Clothing 🔥🔥"
-      }
-    ],
-    "raw_text": "Flipkart : Upto 80% Off On Campus Sutra Clothing 🔥🔥\n\nLink : https://fkrt.co/kt94vY",
-    "final_url": "https://fkrt.co/kt94vY",
-    "local_image": "assets/images/tgmsg_28478.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-27T11:44:59+00:00",
-    "buy_link": "https://fkrt.co/kt94vY",
-    "date_iso": "2026-02-27T11:44:59+00:00"
   }
 ]
