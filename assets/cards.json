@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg29034",
+    "title": "65% Off",
+    "description": "Flipkart | 65% Off - PHILIPS 1300 W Steam Iron Rs. 2097 🔗 https://fkrt.co/BBb9C3",
+    "shortlink": "https://fkrt.co/BBb9C3",
+    "urls": [
+      {
+        "url": "https://fkrt.co/BBb9C3",
+        "label": "65% Off - PHILIPS 1300 W Steam Iron Rs. 2097"
+      }
+    ],
+    "raw_text": "Flipkart | 65% Off - PHILIPS 1300 W Steam Iron Rs. 2097 \n\n🔗 https://fkrt.co/BBb9C3",
+    "final_url": "https://fkrt.co/BBb9C3",
+    "local_image": "assets/images/tgmsg_29034.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-04T11:40:25+00:00",
+    "buy_link": "https://fkrt.co/BBb9C3",
+    "date_iso": "2026-03-04T11:40:25+00:00"
+  },
+  {
     "id": "msg29029",
     "title": "Olay retinol min 55% and 7 in 1 min 50%off",
     "description": "Myntra | Olay retinol min 55% and 7 in 1 min 50%off 🔗 https://myntr.in/VstSlG",
@@ -9882,25 +9902,5 @@
     "date_obj": "2026-02-27T14:11:37+00:00",
     "buy_link": "https://fkrt.co/heRt3b",
     "date_iso": "2026-02-27T14:11:37+00:00"
-  },
-  {
-    "id": "msg28483",
-    "title": "wala 2 Burners Manual Gas Stove at just RS 1040",
-    "description": "Myntra  | Sigri-wala 2 Burners Manual Gas Stove at just RS 1040 🔗 Link : https://myntr.in/2o9e7q",
-    "shortlink": "https://myntr.in/2o9e7q",
-    "urls": [
-      {
-        "url": "https://myntr.in/2o9e7q",
-        "label": "Sigri-wala 2 Burners Manual Gas Stove at just RS 1040"
-      }
-    ],
-    "raw_text": "Myntra  | Sigri-wala 2 Burners Manual Gas Stove at just RS 1040\n\n🔗 Link : https://myntr.in/2o9e7q",
-    "final_url": "https://myntr.in/2o9e7q",
-    "local_image": "assets/images/tgmsg_28483.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-27T12:05:27+00:00",
-    "buy_link": "https://myntr.in/2o9e7q",
-    "date_iso": "2026-02-27T12:05:27+00:00"
   }
 ]
