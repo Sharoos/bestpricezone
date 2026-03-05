@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg29118",
+    "title": "Up to 85% Off On Campus Sutra Clothing",
+    "description": "Myntra  | Upto 85% Off On Campus Sutra Clothing. Men : https://myntr.in/cWgtGy Women : https://myntr.in/oVk7sh",
+    "shortlink": "https://myntr.in/cWgtGy",
+    "urls": [
+      {
+        "url": "https://myntr.in/cWgtGy",
+        "label": "Upto 85% Off On Campus Sutra Clothing"
+      },
+      {
+        "url": "https://myntr.in/oVk7sh",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "Myntra  | Upto 85% Off On Campus Sutra Clothing.\n\nMen : https://myntr.in/cWgtGy\nWomen : https://myntr.in/oVk7sh",
+    "final_url": "https://myntr.in/cWgtGy",
+    "local_image": "assets/images/tgmsg_29118.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-05T13:46:33+00:00",
+    "buy_link": "https://myntr.in/cWgtGy",
+    "date_iso": "2026-03-05T13:46:33+00:00"
+  },
+  {
+    "id": "msg29119",
+    "title": "Panasonic 9W LED Bulb, Pack Of 10 @489",
+    "description": "Amazon | Panasonic 9W LED Bulb, Pack Of 10 @489 https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
+        "label": "Panasonic 9W LED Bulb, Pack Of 10 @489"
+      }
+    ],
+    "raw_text": "Amazon | Panasonic 9W LED Bulb, Pack Of 10 @489\n\nhttps://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_29119.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-03-05T14:04:33+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CCLB75Q2?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-03-05T14:04:33+00:00"
+  },
+  {
     "id": "msg29115",
     "title": "57% Off",
     "description": "Flipkart | 57% Off - Levis Womens Jeans At Rs.539 🔗 https://fkrt.co/pMwO0U Master Link -  https://fkrt.co/hzPrgp",
@@ -9710,49 +9754,5 @@
     "date_obj": "2026-02-27T19:15:19+00:00",
     "buy_link": "https://myntr.in/wnAimv",
     "date_iso": "2026-02-27T19:15:19+00:00"
-  },
-  {
-    "id": "msg28564",
-    "title": "Himalaya neem face wash pack of 3 flat 66% off. deal",
-    "description": "Myntra | Himalaya neem face wash pack of 3 flat 66% off.  deal Link : https://myntr.in/mSWG32",
-    "shortlink": "https://myntr.in/mSWG32",
-    "urls": [
-      {
-        "url": "https://myntr.in/mSWG32",
-        "label": "Himalaya neem face wash pack of 3 flat 66% off. deal"
-      }
-    ],
-    "raw_text": "Myntra | Himalaya neem face wash pack of 3 flat 66% off.  deal\n\nLink : https://myntr.in/mSWG32",
-    "final_url": "https://myntr.in/mSWG32",
-    "local_image": "assets/images/tgmsg_28564.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-27T19:17:37+00:00",
-    "buy_link": "https://myntr.in/mSWG32",
-    "date_iso": "2026-02-27T19:17:37+00:00"
-  },
-  {
-    "id": "msg28565",
-    "title": "Min 60%",
-    "description": "Myntra | Wrogn, French connection  & More Men - Min 60% 🔗 https://myntr.in/6nQBdD",
-    "shortlink": "https://myntr.in/6nQBdD",
-    "urls": [
-      {
-        "url": "",
-        "label": "Wrogn, French connection & More"
-      },
-      {
-        "url": "https://myntr.in/6nQBdD",
-        "label": "Min 60%"
-      }
-    ],
-    "raw_text": "Myntra | Wrogn, French connection  & More\n\nMen - Min 60%\n\n🔗 https://myntr.in/6nQBdD",
-    "final_url": "https://myntr.in/6nQBdD",
-    "local_image": "assets/images/tgmsg_28565.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-27T19:26:38+00:00",
-    "buy_link": "https://myntr.in/6nQBdD",
-    "date_iso": "2026-02-27T19:26:38+00:00"
   }
 ]
