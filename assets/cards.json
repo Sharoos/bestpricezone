@@ -1,5 +1,109 @@
 [
   {
+    "id": "msg29105",
+    "title": "72% Off",
+    "description": "Flipkart | 72% Off - adidas Shoes for men At Rs.1483 🔗 https://fkrt.co/WDWvxF Master Link -  https://fkrt.co/TUKPLr",
+    "shortlink": "https://fkrt.co/WDWvxF",
+    "urls": [
+      {
+        "url": "https://fkrt.co/WDWvxF",
+        "label": "72% Off - adidas Shoes for men At Rs.1483"
+      },
+      {
+        "url": "https://fkrt.co/TUKPLr",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Flipkart | 72% Off - adidas Shoes for men At Rs.1483\n\n 🔗 https://fkrt.co/WDWvxF\n\nMaster Link -  https://fkrt.co/TUKPLr",
+    "final_url": "https://fkrt.co/WDWvxF",
+    "local_image": "assets/images/tgmsg_29105.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-05T10:02:18+00:00",
+    "buy_link": "https://fkrt.co/WDWvxF",
+    "date_iso": "2026-03-05T10:02:18+00:00"
+  },
+  {
+    "id": "msg29106",
+    "title": "VILLAIN Exclusive Perfumes at 80% Off",
+    "description": "Myntra | VILLAIN Exclusive Perfumes at 80% Off - 🔗 https://myntr.in/cUEQVa 🔗 https://myntr.in/gRl74S",
+    "shortlink": "https://myntr.in/cUEQVa",
+    "urls": [
+      {
+        "url": "https://myntr.in/cUEQVa",
+        "label": "VILLAIN Exclusive Perfumes at 80% Off"
+      },
+      {
+        "url": "https://myntr.in/gRl74S",
+        "label": ""
+      }
+    ],
+    "raw_text": "Myntra | VILLAIN Exclusive Perfumes at 80% Off - \n\n🔗 https://myntr.in/cUEQVa\n\n🔗 https://myntr.in/gRl74S",
+    "final_url": "https://myntr.in/cUEQVa",
+    "local_image": "assets/images/tgmsg_29106.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-05T10:10:24+00:00",
+    "buy_link": "https://myntr.in/cUEQVa",
+    "date_iso": "2026-03-05T10:10:24+00:00"
+  },
+  {
+    "id": "msg29107",
+    "title": "Up to 68% Off On The Bear House Clothing",
+    "description": "Flipkart | Upto 68% Off On The Bear House Clothing. Shirts : https://fkrt.co/s1kRUq Tshirts : https://fkrt.co/hMKEzR Jeans : https://fkrt.co/4dGDIR",
+    "shortlink": "https://fkrt.co/s1kRUq",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 68% Off On The Bear House Clothing"
+      },
+      {
+        "url": "https://fkrt.co/s1kRUq",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://fkrt.co/hMKEzR",
+        "label": "Tshirts"
+      },
+      {
+        "url": "https://fkrt.co/4dGDIR",
+        "label": "Jeans"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 68% Off On The Bear House Clothing.\n\nShirts : https://fkrt.co/s1kRUq\nTshirts : https://fkrt.co/hMKEzR\nJeans : https://fkrt.co/4dGDIR",
+    "final_url": "https://fkrt.co/s1kRUq",
+    "local_image": "assets/images/tgmsg_29107.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-05T10:20:30+00:00",
+    "buy_link": "https://fkrt.co/s1kRUq",
+    "date_iso": "2026-03-05T10:20:30+00:00"
+  },
+  {
+    "id": "msg29109",
+    "title": "57% Off",
+    "description": "Flipkart | 57% Off - Timex Watch For Men At Rs.1099 🔗  https://fkrt.co/vEW4gj Master Link -  https://fkrt.co/DHFjZ5",
+    "shortlink": "https://fkrt.co/vEW4gj",
+    "urls": [
+      {
+        "url": "https://fkrt.co/vEW4gj",
+        "label": "57% Off - Timex Watch For Men At Rs.1099"
+      },
+      {
+        "url": "https://fkrt.co/DHFjZ5",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Flipkart | 57% Off - Timex Watch For Men At Rs.1099\n\n🔗  https://fkrt.co/vEW4gj\n\nMaster Link -  https://fkrt.co/DHFjZ5",
+    "final_url": "https://fkrt.co/vEW4gj",
+    "local_image": "assets/images/tgmsg_29109.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-05T10:50:17+00:00",
+    "buy_link": "https://fkrt.co/vEW4gj",
+    "date_iso": "2026-03-05T10:50:17+00:00"
+  },
+  {
     "id": "msg29100",
     "title": "81",
     "description": "Amazon  81 : https://www.amazon.in/dp/B09268KD7J?psc=1&th=1&tag=bestpricezo0f-21",
@@ -9626,125 +9730,5 @@
     "date_obj": "2026-02-27T19:37:34+00:00",
     "buy_link": "https://myntr.in/jw3Kiu",
     "date_iso": "2026-02-27T19:37:34+00:00"
-  },
-  {
-    "id": "msg28571",
-    "title": "Tresemme Shampoo at 66% Off",
-    "description": "Myntra | Tresemme Shampoo at 66% Off 🔗 https://myntr.in/iuw2zS Dove Shampoo & Conditioner at  69% Off 🔗 https://myntr.in/RC5hb2",
-    "shortlink": "https://myntr.in/iuw2zS",
-    "urls": [
-      {
-        "url": "https://myntr.in/iuw2zS",
-        "label": "Tresemme Shampoo at 66% Off"
-      },
-      {
-        "url": "https://myntr.in/RC5hb2",
-        "label": "Dove Shampoo & Conditioner at 69% Off"
-      }
-    ],
-    "raw_text": "Myntra | Tresemme Shampoo at 66% Off\n🔗 https://myntr.in/iuw2zS\n\nDove Shampoo & Conditioner at  69% Off\n🔗 https://myntr.in/RC5hb2",
-    "final_url": "https://myntr.in/iuw2zS",
-    "local_image": "assets/images/tgmsg_28571.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-27T19:38:39+00:00",
-    "buy_link": "https://myntr.in/iuw2zS",
-    "date_iso": "2026-02-27T19:38:39+00:00"
-  },
-  {
-    "id": "msg28572",
-    "title": "Livon hair serum Up to 50% off",
-    "description": "Myntra | Livon hair serum upto 50% off Link : https://myntr.in/OHOEIX",
-    "shortlink": "https://myntr.in/OHOEIX",
-    "urls": [
-      {
-        "url": "https://myntr.in/OHOEIX",
-        "label": "Livon hair serum upto 50% off"
-      }
-    ],
-    "raw_text": "Myntra | Livon hair serum upto 50% off\n\nLink : https://myntr.in/OHOEIX",
-    "final_url": "https://myntr.in/OHOEIX",
-    "local_image": "assets/images/tgmsg_28572.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-27T19:40:01+00:00",
-    "buy_link": "https://myntr.in/OHOEIX",
-    "date_iso": "2026-02-27T19:40:01+00:00"
-  },
-  {
-    "id": "msg28573",
-    "title": "Denver Min 60% off.. now or never deal on Hamilton Green Pack + 10% Addl coupon",
-    "description": "Myntra | Pantene collagen repair conditioner @45% 🔗 Veet hair removal cream upto 50% off 🔗 Vega Appliances at Min 55% off 🔗 s 🔗 Biotique toner upto 50% off 🔗",
-    "shortlink": "https://myntr.in/UDWoDq",
-    "urls": [
-      {
-        "url": "https://myntr.in/UDWoDq",
-        "label": "Pantene collagen repair conditioner @45%"
-      },
-      {
-        "url": "https://myntr.in/WcJYi5",
-        "label": "Veet hair removal cream upto 50% off"
-      },
-      {
-        "url": "https://myntr.in/j26jGI",
-        "label": "Vega Appliances at Min 55% off"
-      },
-      {
-        "url": "https://myntr.in/OFPUr3",
-        "label": "Denver Min 60% off.. now or never deal on Hamilton Green Pack + 10% Addl coupons"
-      },
-      {
-        "url": "https://myntr.in/1PDOB3",
-        "label": "Biotique toner upto 50% off"
-      }
-    ],
-    "raw_text": "Myntra | Pantene collagen repair conditioner @45%\n🔗 https://myntr.in/UDWoDq\n\nVeet hair removal cream upto 50% off\n🔗 https://myntr.in/WcJYi5\n\nVega Appliances at Min 55% off\n🔗 https://myntr.in/j26jGI\n\nDenver Min 60% off.. now or never deal on Hamilton Green Pack + 10% Addl coupons\n🔗 https://myntr.in/OFPUr3\n\nBiotique toner upto 50% off \n🔗 https://myntr.in/1PDOB3",
-    "final_url": "https://myntr.in/UDWoDq",
-    "local_image": "assets/images/tgmsg_28573.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-27T19:42:45+00:00",
-    "buy_link": "https://myntr.in/UDWoDq",
-    "date_iso": "2026-02-27T19:42:45+00:00"
-  },
-  {
-    "id": "msg28574",
-    "title": "Everyuth Naturals Up to 65% OFF",
-    "description": "Myntra | Everyuth Naturals UPTO 65% OFF 🔗 Lacto Calamine Upto 65% off 🔗 O3 Professional at Min 25% off 🔗 Olay retinol min 55 and 7 in 1 min 50 off 🔗 Buy O3 detan pack at 35% off . One time offer . Hurry up !!!! 🔗…",
-    "shortlink": "https://myntr.in/jFgEm7",
-    "urls": [
-      {
-        "url": "https://myntr.in/jFgEm7",
-        "label": "Everyuth Naturals UPTO 65% OFF"
-      },
-      {
-        "url": "https://myntr.in/m4Egoa",
-        "label": "Lacto Calamine Upto 65% off"
-      },
-      {
-        "url": "https://myntr.in/31M6FL",
-        "label": "O3 Professional at Min 25% off"
-      },
-      {
-        "url": "https://myntr.in/lVWstz",
-        "label": "Olay retinol min 55 and 7 in 1 min 50 off"
-      },
-      {
-        "url": "https://myntr.in/pHK4Tr",
-        "label": ""
-      },
-      {
-        "url": "https://myntr.in/krjW84",
-        "label": "Pantene shampoo + conditioner min 60%"
-      }
-    ],
-    "raw_text": "Myntra | Everyuth Naturals UPTO 65% OFF\n🔗 https://myntr.in/jFgEm7\n\nLacto Calamine Upto 65% off\n🔗 https://myntr.in/m4Egoa\n\nO3 Professional at Min 25% off\n🔗 https://myntr.in/31M6FL\n\nOlay retinol min 55 and 7 in 1 min 50 off \n🔗 https://myntr.in/lVWstz\n\nBuy O3 detan pack at 35% off . One time offer . Hurry up !!!!\n🔗 https://myntr.in/pHK4Tr\n\nPantene shampoo + conditioner min 60%\n🔗 https://myntr.in/krjW84",
-    "final_url": "https://myntr.in/jFgEm7",
-    "local_image": "assets/images/tgmsg_28574.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-27T19:47:08+00:00",
-    "buy_link": "https://myntr.in/jFgEm7",
-    "date_iso": "2026-02-27T19:47:08+00:00"
   }
 ]
