@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg29110",
+    "title": "Up to 74% Off On Adidas Shoe",
+    "description": "Myntra : Upto 74% Off On Adidas Shoes. Men : https://myntr.in/hoS2EC Women : https://myntr.in/xqjIyW Kids : https://myntr.in/BQMzmU",
+    "shortlink": "https://myntr.in/hoS2EC",
+    "urls": [
+      {
+        "url": "https://myntr.in/hoS2EC",
+        "label": "Upto 74% Off On Adidas Shoes"
+      },
+      {
+        "url": "https://myntr.in/xqjIyW",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/BQMzmU",
+        "label": "Kids"
+      }
+    ],
+    "raw_text": "Myntra : Upto 74% Off On Adidas Shoes.\n\nMen : https://myntr.in/hoS2EC\nWomen : https://myntr.in/xqjIyW\nKids : https://myntr.in/BQMzmU",
+    "final_url": "https://myntr.in/hoS2EC",
+    "local_image": "assets/images/tgmsg_29110.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-05T11:03:03+00:00",
+    "buy_link": "https://myntr.in/hoS2EC",
+    "date_iso": "2026-03-05T11:03:03+00:00"
+  },
+  {
+    "id": "msg29111",
+    "title": "78% Off",
+    "description": "Flipkart | 78% Off - Eveready 20000 Mah Power Bank At Rs.1199 🔗 https://fkrt.co/Re8snm",
+    "shortlink": "https://fkrt.co/Re8snm",
+    "urls": [
+      {
+        "url": "https://fkrt.co/Re8snm",
+        "label": "78% Off - Eveready 20000 Mah Power Bank At Rs.1199"
+      }
+    ],
+    "raw_text": "Flipkart | 78% Off - Eveready 20000 Mah Power Bank At Rs.1199\n\n🔗 https://fkrt.co/Re8snm",
+    "final_url": "https://fkrt.co/Re8snm",
+    "local_image": "assets/images/tgmsg_29111.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-05T11:10:09+00:00",
+    "buy_link": "https://fkrt.co/Re8snm",
+    "date_iso": "2026-03-05T11:10:09+00:00"
+  },
+  {
     "id": "msg29105",
     "title": "72% Off",
     "description": "Flipkart | 72% Off - adidas Shoes for men At Rs.1483 🔗 https://fkrt.co/WDWvxF Master Link -  https://fkrt.co/TUKPLr",
@@ -9682,53 +9730,5 @@
     "date_obj": "2026-02-27T19:32:52+00:00",
     "buy_link": "https://myntr.in/4JSQaZ",
     "date_iso": "2026-02-27T19:32:52+00:00"
-  },
-  {
-    "id": "msg28569",
-    "title": "Min 70% Off",
-    "description": "Myntra | Invictus , Shirt code MWW - Min 70% Off 🔗 https://myntr.in/raKEmJ",
-    "shortlink": "https://myntr.in/raKEmJ",
-    "urls": [
-      {
-        "url": "",
-        "label": "Invictus , Shirt code"
-      },
-      {
-        "url": "https://myntr.in/raKEmJ",
-        "label": "Min 70% Off"
-      }
-    ],
-    "raw_text": "Myntra | Invictus , Shirt code\n\nMWW - Min 70% Off\n\n🔗 https://myntr.in/raKEmJ",
-    "final_url": "https://myntr.in/raKEmJ",
-    "local_image": "assets/images/tgmsg_28569.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-27T19:34:14+00:00",
-    "buy_link": "https://myntr.in/raKEmJ",
-    "date_iso": "2026-02-27T19:34:14+00:00"
-  },
-  {
-    "id": "msg28570",
-    "title": "Vega Hair Curler at flat 55% off",
-    "description": "Myntra | Vega Hair Curler at flat 55% off 🔗 https://myntr.in/jw3Kiu Vega Beard Trimmer at min 55% Addl coupons + Addl coupons 🔗 https://myntr.in/tvJRJz",
-    "shortlink": "https://myntr.in/jw3Kiu",
-    "urls": [
-      {
-        "url": "https://myntr.in/jw3Kiu",
-        "label": "Vega Hair Curler at flat 55% off"
-      },
-      {
-        "url": "https://myntr.in/tvJRJz",
-        "label": "Vega Beard Trimmer at min 55% Addl coupons + Addl coupons"
-      }
-    ],
-    "raw_text": "Myntra | Vega Hair Curler at flat 55% off\n🔗 https://myntr.in/jw3Kiu\n\nVega Beard Trimmer at min 55% Addl coupons + Addl coupons\n🔗 https://myntr.in/tvJRJz",
-    "final_url": "https://myntr.in/jw3Kiu",
-    "local_image": "assets/images/tgmsg_28570.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-27T19:37:34+00:00",
-    "buy_link": "https://myntr.in/jw3Kiu",
-    "date_iso": "2026-02-27T19:37:34+00:00"
   }
 ]
