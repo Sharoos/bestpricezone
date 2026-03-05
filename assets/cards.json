@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg29091",
+    "title": "Electronics Sale is Live Under 999!!!",
+    "description": "Flipkart |  Power Banks Starts @ 300 Memory Cards Starts @ 268 Mobile Cables Starts @ 79 Pen Drives Starts @ 267 Mouse Starts @ 109",
+    "shortlink": "https://fkrt.co/MsZsGT",
+    "urls": [
+      {
+        "url": "",
+        "label": "Electronics Sale is Live Under 999!!!"
+      },
+      {
+        "url": "https://fkrt.co/MsZsGT",
+        "label": "Power Banks Starts @ 300"
+      },
+      {
+        "url": "https://fkrt.co/RxqPVI",
+        "label": "Memory Cards Starts @ 268"
+      },
+      {
+        "url": "https://fkrt.co/c7JZ57",
+        "label": "Mobile Cables Starts @ 79"
+      },
+      {
+        "url": "https://fkrt.co/Jyrfel",
+        "label": "Pen Drives Starts @ 267"
+      },
+      {
+        "url": "https://fkrt.co/NDete4",
+        "label": "Mouse Starts @ 109"
+      }
+    ],
+    "raw_text": "Flipkart | Electronics Sale is Live Under 999!!!\n\nPower Banks Starts @ 300\nhttps://fkrt.co/MsZsGT\n\nMemory Cards Starts @ 268\nhttps://fkrt.co/RxqPVI\n\nMobile Cables Starts @ 79\nhttps://fkrt.co/c7JZ57\n\nPen Drives Starts @ 267\nhttps://fkrt.co/Jyrfel\n\nMouse Starts @ 109\nhttps://fkrt.co/NDete4",
+    "final_url": "https://fkrt.co/MsZsGT",
+    "local_image": "assets/images/tgmsg_29091.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-05T07:04:32+00:00",
+    "buy_link": "https://fkrt.co/MsZsGT",
+    "date_iso": "2026-03-05T07:04:32+00:00"
+  },
+  {
     "id": "msg29089",
     "title": "Apple Offers up to ₹10,000 Instant Off + 6",
     "description": "💳 IDFC FIRST Credit Cards — Lifetime Free • Zero Joining & Annual Fee • Never-Expiring Reward Points • Railway Lounge Access • ₹500 Welcome Voucher (₹5,000 spend in 30 days) • 5% Cashback on 1st EMI (up to ₹1,000) •…",
@@ -9774,25 +9814,5 @@
     "date_obj": "2026-02-27T18:48:29+00:00",
     "buy_link": "https://myntr.in/wVhPiG",
     "date_iso": "2026-02-27T18:48:29+00:00"
-  },
-  {
-    "id": "msg28554",
-    "title": "Havells Capture Mixer grinder at 1799 + extra discounts! 🔥",
-    "description": "Myntra | Havells Capture Mixer grinder at 1799 + extra coupon discounts! 🔥 https://myntr.in/kTmZO8",
-    "shortlink": "https://myntr.in/kTmZO8",
-    "urls": [
-      {
-        "url": "https://myntr.in/kTmZO8",
-        "label": ""
-      }
-    ],
-    "raw_text": "Myntra | Havells Capture Mixer grinder at 1799 + extra coupon discounts! 🔥\n\nhttps://myntr.in/kTmZO8",
-    "final_url": "https://myntr.in/kTmZO8",
-    "local_image": "assets/images/tgmsg_28554.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-27T18:50:04+00:00",
-    "buy_link": "https://myntr.in/kTmZO8",
-    "date_iso": "2026-02-27T18:50:04+00:00"
   }
 ]
