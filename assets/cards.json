@@ -1,5 +1,109 @@
 [
   {
+    "id": "msg29100",
+    "title": "81",
+    "description": "Amazon  81 : https://www.amazon.in/dp/B09268KD7J?psc=1&th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B09268KD7J?psc=1&th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B09268KD7J?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "Amazon 81"
+      }
+    ],
+    "raw_text": "Amazon  81 : https://www.amazon.in/dp/B09268KD7J?psc=1&th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B09268KD7J?psc=1&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_29100.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-03-05T09:08:52+00:00",
+    "buy_link": "https://www.amazon.in/dp/B09268KD7J?psc=1&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-03-05T09:08:52+00:00"
+  },
+  {
+    "id": "msg29102",
+    "title": "Savana Women's Artificial Nails Under @199",
+    "description": "Savana  Women's Artificial Nails Under @199 ●  ₹152 - https://extp.in/gp7xH6 ●  ₹190 - https://extp.in/riQysF ●  ₹190 -  https://extp.in/yYHnWC ●  ₹190 - https://extp.in/E98L4B Master Link : https://extp.in/osOyGg",
+    "shortlink": "https://extp.in/gp7xH6",
+    "urls": [
+      {
+        "url": "",
+        "label": "Savana Women's Artificial Nails Under @199"
+      },
+      {
+        "url": "https://extp.in/gp7xH6",
+        "label": "● ₹152"
+      },
+      {
+        "url": "https://extp.in/riQysF",
+        "label": "● ₹190"
+      },
+      {
+        "url": "https://extp.in/yYHnWC",
+        "label": "● ₹190"
+      },
+      {
+        "url": "https://extp.in/E98L4B",
+        "label": "● ₹190"
+      },
+      {
+        "url": "https://extp.in/osOyGg",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Savana  Women's Artificial Nails Under @199\n\n●  ₹152 - https://extp.in/gp7xH6\n●  ₹190 - https://extp.in/riQysF\n●  ₹190 -  https://extp.in/yYHnWC\n●  ₹190 - https://extp.in/E98L4B\n\nMaster Link : https://extp.in/osOyGg",
+    "final_url": "https://extp.in/gp7xH6",
+    "local_image": "assets/images/tgmsg_29102.jpg",
+    "source_host": "extp.in",
+    "merchant_label": "Extp",
+    "date_obj": "2026-03-05T09:20:29+00:00",
+    "buy_link": "https://extp.in/gp7xH6",
+    "date_iso": "2026-03-05T09:20:29+00:00"
+  },
+  {
+    "id": "msg29103",
+    "title": "Asian Shoe",
+    "description": "Asian Shoes https://fktr.in/kIO9pwg",
+    "shortlink": "https://fktr.in/kIO9pwg",
+    "urls": [
+      {
+        "url": "https://fktr.in/kIO9pwg",
+        "label": "Asian Shoes"
+      }
+    ],
+    "raw_text": "Asian Shoes https://fktr.in/kIO9pwg",
+    "final_url": "https://fktr.in/kIO9pwg",
+    "local_image": "assets/images/tgmsg_29103.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-05T09:47:36+00:00",
+    "buy_link": "https://fktr.in/kIO9pwg",
+    "date_iso": "2026-03-05T09:47:36+00:00"
+  },
+  {
+    "id": "msg29104",
+    "title": "Up to 80 to 85% Off On Mattress Protecto",
+    "description": "Myntra | Upto 80 to 85% Off On Mattress Protector 🔗 Upto 80 to 90% Off On Floor Mats & Dhurries 🔗",
+    "shortlink": "https://myntr.in/dwhV9V",
+    "urls": [
+      {
+        "url": "https://myntr.in/dwhV9V",
+        "label": "Upto 80 to 85% Off On Mattress Protector"
+      },
+      {
+        "url": "https://myntr.in/nRvFQJ",
+        "label": "Upto 80 to 90% Off On Floor Mats & Dhurries"
+      }
+    ],
+    "raw_text": "Myntra | Upto 80 to 85%  Off On Mattress Protector  \n🔗 https://myntr.in/dwhV9V\n\nUpto 80 to 90% Off On Floor Mats & Dhurries  \n🔗 https://myntr.in/nRvFQJ",
+    "final_url": "https://myntr.in/dwhV9V",
+    "local_image": "assets/images/tgmsg_29104.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-05T09:50:22+00:00",
+    "buy_link": "https://myntr.in/dwhV9V",
+    "date_iso": "2026-03-05T09:50:22+00:00"
+  },
+  {
     "id": "msg29097",
     "title": "Flat 10% off on Goboult 🔥",
     "description": "Myntra | Flat 10% off on Goboult 🔥 🔗 https://myntr.in/Mn0paW Flat 10% off on Noise buds 🔥 10% Off 🔗 https://myntr.in/wv8cu9",
@@ -9642,185 +9746,5 @@
     "date_obj": "2026-02-27T19:47:08+00:00",
     "buy_link": "https://myntr.in/jFgEm7",
     "date_iso": "2026-02-27T19:47:08+00:00"
-  },
-  {
-    "id": "msg28541",
-    "title": "Savlon Moisturizing Glycerin Soap (125g x Pack Of 5) @160",
-    "description": "Amazon | Savlon Moisturizing Glycerin Soap (125g x Pack Of 5) @160 https://www.amazon.in/dp/B086H6LMBM?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B086H6LMBM?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B086H6LMBM?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Savlon Moisturizing Glycerin Soap (125g x Pack Of 5) @160"
-      }
-    ],
-    "raw_text": "Amazon | Savlon Moisturizing Glycerin Soap (125g x Pack Of 5) @160\n\nhttps://www.amazon.in/dp/B086H6LMBM?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B086H6LMBM?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_28541.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-02-27T18:05:05+00:00",
-    "buy_link": "https://www.amazon.in/dp/B086H6LMBM?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-02-27T18:05:05+00:00"
-  },
-  {
-    "id": "msg28542",
-    "title": "Min 55% off + addional 10%",
-    "description": "Myntra | Handbags Legal bribe, Bandicoot Starting from 130 + additional 15% coupon Handbags and clutches Exotic, Women marks Min 65% off Handbags Anekaant and Mini Wesst  coupon Handbags Kazo and USPA Min 30-70% off…",
-    "shortlink": "https://myntr.in/u91AXk",
-    "urls": [
-      {
-        "url": "",
-        "label": "Handbags"
-      },
-      {
-        "url": "https://myntr.in/u91AXk",
-        "label": "Legal bribe, Bandicoot"
-      },
-      {
-        "url": "",
-        "label": "Handbags and clutches"
-      },
-      {
-        "url": "",
-        "label": "Exotic, Women marks"
-      },
-      {
-        "url": "https://myntr.in/1hgn57",
-        "label": "Min 65% off"
-      },
-      {
-        "url": "https://myntr.in/jWbpds",
-        "label": "Anekaant and Mini Wesst"
-      },
-      {
-        "url": "",
-        "label": "Kazo and USPA"
-      },
-      {
-        "url": "https://myntr.in/p8qwu5",
-        "label": "70% off"
-      },
-      {
-        "url": "",
-        "label": "The Tan Clan"
-      },
-      {
-        "url": "https://myntr.in/tI4duZ",
-        "label": "Min 60% off"
-      },
-      {
-        "url": "",
-        "label": "Diva dale, Haute sauce"
-      },
-      {
-        "url": "https://myntr.in/I8wG7v",
-        "label": "Min 60% off"
-      },
-      {
-        "url": "",
-        "label": "Lifestyle Brands and Styli"
-      },
-      {
-        "url": "https://myntr.in/6tpoAY",
-        "label": "Upto 60% off"
-      },
-      {
-        "url": "",
-        "label": "Clutches and potlis"
-      },
-      {
-        "url": "",
-        "label": "Toobacraft, Swisni and more"
-      },
-      {
-        "url": "https://myntr.in/WxO62L",
-        "label": "Min 60% off"
-      },
-      {
-        "url": "",
-        "label": "Crusset & Kastner"
-      },
-      {
-        "url": "",
-        "label": "Women belts"
-      },
-      {
-        "url": "https://myntr.in/nIIctp",
-        "label": "Under 500"
-      },
-      {
-        "url": "https://myntr.in/gMDvay",
-        "label": "30% off"
-      },
-      {
-        "url": "https://myntr.in/bQslOb",
-        "label": "Under 500"
-      }
-    ],
-    "raw_text": "Myntra | Handbags    \nLegal bribe, Bandicoot    \nStarting from 130 + additional 15% coupon\n\nhttps://myntr.in/u91AXk\n\nHandbags and clutches\nExotic, Women marks    \nMin 65% off\n\nhttps://myntr.in/1hgn57\n\nHandbags\nAnekaant and Mini Wesst\nMin 55% off + addional 10% coupon\n\nhttps://myntr.in/jWbpds\n\nHandbags\nKazo and USPA\nMin 30-70% off\n\nhttps://myntr.in/p8qwu5\n\nClutches\nThe Tan Clan \nMin 60% off\nhttps://myntr.in/tI4duZ\n\nHandbags\nDiva dale, Haute sauce\nMin 60% off\nhttps://myntr.in/I8wG7v\n\nHandbags\nLifestyle Brands and Styli\nUpto 60% off\nhttps://myntr.in/6tpoAY\n\nClutches and potlis\nToobacraft, Swisni and more\nMin 60% off\nhttps://myntr.in/WxO62L\n\nCrusset & Kastner\nWomen belts\nUnder 500\nhttps://myntr.in/nIIctp\n\nHandbags\nTheater\nMin 10-30% off\nhttps://myntr.in/gMDvay\n\nHandbags\nEsbeda\nMin 60% off  + addition 15% coupon\nhttps://myntr.in/bQslOb",
-    "final_url": "https://myntr.in/u91AXk",
-    "local_image": "assets/images/tgmsg_28542.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-27T18:11:22+00:00",
-    "buy_link": "https://myntr.in/u91AXk",
-    "date_iso": "2026-02-27T18:11:22+00:00"
-  },
-  {
-    "id": "msg28544",
-    "title": "Flat 15% Coupons + 10% Bank Offers🔥🔥🔥",
-    "description": "Myntra | Power Banks, Speakers, Headphones, Chargers, Mouse - Flat 15% Coupons + 10% Bank Offers🔥🔥🔥 🔗 https://myntr.in/5V0J9U",
-    "shortlink": "https://myntr.in/5V0J9U",
-    "urls": [
-      {
-        "url": "https://myntr.in/5V0J9U",
-        "label": "Power Banks, Speakers, Headphones, Chargers, Mouse - Flat 15% Coupons + 10% Bank Offers🔥🔥🔥"
-      }
-    ],
-    "raw_text": "Myntra | Power Banks, Speakers, Headphones, Chargers, Mouse - Flat 15% Coupons + 10% Bank Offers🔥🔥🔥\n\n🔗 https://myntr.in/5V0J9U",
-    "final_url": "https://myntr.in/5V0J9U",
-    "local_image": "assets/images/tgmsg_28544.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-27T18:33:09+00:00",
-    "buy_link": "https://myntr.in/5V0J9U",
-    "date_iso": "2026-02-27T18:33:09+00:00"
-  },
-  {
-    "id": "msg28545",
-    "title": "Up to 86% Off On HRX Luggage Starts at 1199",
-    "description": "Upto 86% Off On HRX Luggage Starts at 1199. Small : Medium : Large : Pack Of 2/3 :",
-    "shortlink": "https://fkrt.co/E3eFrz",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 86% Off On HRX Luggage Starts at 1199"
-      },
-      {
-        "url": "https://fkrt.co/E3eFrz",
-        "label": "Small"
-      },
-      {
-        "url": "https://fkrt.co/LHQsbP",
-        "label": "Medium"
-      },
-      {
-        "url": "https://fkrt.co/m3VD20",
-        "label": "Large"
-      },
-      {
-        "url": "https://fkrt.co/vdZPhS",
-        "label": "Pack Of 2/3"
-      }
-    ],
-    "raw_text": "Upto 86% Off On HRX Luggage Starts at 1199.\n\nSmall : https://fkrt.co/E3eFrz\nMedium : https://fkrt.co/LHQsbP\nLarge : https://fkrt.co/m3VD20\n\nPack Of 2/3 : https://fkrt.co/vdZPhS",
-    "final_url": "https://fkrt.co/E3eFrz",
-    "local_image": "assets/images/tgmsg_28545.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-27T18:34:19+00:00",
-    "buy_link": "https://fkrt.co/E3eFrz",
-    "date_iso": "2026-02-27T18:34:19+00:00"
   }
 ]
