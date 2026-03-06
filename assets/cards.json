@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg29252",
+    "title": "☕️Wonderchef Coffee Maker at ₹1299",
+    "description": "Amazon | ☕️Wonderchef Coffee Maker at ₹1299 👉https://www.amazon.in/dp/B0F1YFJ643?th=1&tag=bestpricezo0f-21 ☕️Preethi Coffee Maker at ₹1699 👉https://www.amazon.in/dp/B0098ZXQ7C?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0F1YFJ643?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0F1YFJ643?th=1&tag=bestpricezo0f-21",
+        "label": "☕️Wonderchef Coffee Maker at ₹1299"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0098ZXQ7C?th=1&tag=bestpricezo0f-21",
+        "label": "☕️Preethi Coffee Maker at ₹1699"
+      }
+    ],
+    "raw_text": "Amazon | ☕️Wonderchef Coffee Maker at ₹1299\n👉https://www.amazon.in/dp/B0F1YFJ643?th=1&tag=bestpricezo0f-21\n\n☕️Preethi Coffee Maker at ₹1699\n👉https://www.amazon.in/dp/B0098ZXQ7C?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F1YFJ643?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_29252.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-03-06T11:28:20+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F1YFJ643?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-03-06T11:28:20+00:00"
+  },
+  {
     "id": "msg29243",
     "title": "Topwear Clothing Under ₹199",
     "description": "AJIO  Men's : Women's : Boy’s : Girl’s : Baby : Men's Footwear Starts at Rs.74. 🔗 Sports Shoes : Casual Shoes : Sandals : *Surf All Links (As Per Your Need) & Fast",
@@ -9870,25 +9894,5 @@
     "date_obj": "2026-02-28T10:16:09+00:00",
     "buy_link": "https://myntr.in/xS6WSd�",
     "date_iso": "2026-02-28T10:16:09+00:00"
-  },
-  {
-    "id": "msg28627",
-    "title": "⚡Rare Rabbit Min 65% Off",
-    "description": "⚡Flipkart  Rare Rabbit Min 65% Off 🔗https://fkrt.co/6mZjYE",
-    "shortlink": "https://fkrt.co/6mZjYE",
-    "urls": [
-      {
-        "url": "https://fkrt.co/6mZjYE",
-        "label": "⚡Flipkart Rare Rabbit Min 65% Off"
-      }
-    ],
-    "raw_text": "⚡Flipkart  Rare Rabbit Min 65% Off\n🔗https://fkrt.co/6mZjYE",
-    "final_url": "https://fkrt.co/6mZjYE",
-    "local_image": "assets/images/tgmsg_28627.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-02-28T09:37:19+00:00",
-    "buy_link": "https://fkrt.co/6mZjYE",
-    "date_iso": "2026-02-28T09:37:19+00:00"
   }
 ]
