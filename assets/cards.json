@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg29345",
+    "title": "Up to 85% Off On Ove",
+    "description": "AJIO Upto 85% Off On Over-Sized T-Shirts. Men's : Women's : Polo T-Shirts : Jeans : Branded Innerwear : Men' Blazers & Waistcoat : Kids Clothing Starts From Rs.45 Boys : Girls : Infants :",
+    "shortlink": "https://ajiio.co/yJBzn7",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Upto 85% Off On Over-Sized T-Shirts"
+      },
+      {
+        "url": "https://ajiio.co/yJBzn7",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/GtNP41",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/KexNZt",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/QcJEir",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/6REnwK",
+        "label": "Branded Innerwear"
+      },
+      {
+        "url": "https://ajiio.co/4qVpIE",
+        "label": "Men' Blazers & Waistcoat"
+      },
+      {
+        "url": "",
+        "label": "Kids Clothing Starts From Rs.45"
+      },
+      {
+        "url": "https://ajiio.co/TAMvn9",
+        "label": "Boys"
+      },
+      {
+        "url": "https://ajiio.co/AxFOUs",
+        "label": "Girls"
+      },
+      {
+        "url": "https://ajiio.co/KnzK7z",
+        "label": "Infants"
+      }
+    ],
+    "raw_text": "AJIO  Upto 85% Off On Over-Sized T-Shirts. \n\nMen's : https://ajiio.co/yJBzn7\nWomen's : https://ajiio.co/GtNP41\n\nPolo T-Shirts : https://ajiio.co/KexNZt\nJeans : https://ajiio.co/QcJEir\nBranded Innerwear : https://ajiio.co/6REnwK\nMen' Blazers & Waistcoat : https://ajiio.co/4qVpIE\n\nKids Clothing Starts From Rs.45\n\nBoys : https://ajiio.co/TAMvn9\nGirls : https://ajiio.co/AxFOUs\nInfants : https://ajiio.co/KnzK7z",
+    "final_url": "https://ajiio.co/yJBzn7",
+    "local_image": "assets/images/tgmsg_29345.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-03-07T08:01:37+00:00",
+    "buy_link": "https://ajiio.co/yJBzn7",
+    "date_iso": "2026-03-07T08:01:37+00:00"
+  },
+  {
     "id": "msg29336",
     "title": "🧴 Haircare Products – Up to 67% OFF",
     "description": "💇‍♀️🔥MYNTRA Haircare & Wellness Mega Deals 🔥💇‍♂️ 🧴 Haircare Products – UPTO 67% OFF 👉 🌱 Plix The Plant Fix – Buy 1 Get 1 FREE + Coupon 👉 🌿 Mamaearth – Buy 1 Get 1 FREE + Coupon 👉",
@@ -9870,25 +9930,5 @@
     "date_obj": "2026-02-28T21:53:32+00:00",
     "buy_link": "https://myntr.in/fbMAtM",
     "date_iso": "2026-02-28T21:53:32+00:00"
-  },
-  {
-    "id": "msg28710",
-    "title": "Min 50% + Extra 20% off",
-    "description": "Myntra | Min 50% + Extra 20% off 🔗 https://myntr.in/u2IEkr",
-    "shortlink": "https://myntr.in/u2IEkr",
-    "urls": [
-      {
-        "url": "https://myntr.in/u2IEkr",
-        "label": "Min 50% + Extra 20% off"
-      }
-    ],
-    "raw_text": "Myntra | Min 50% + Extra 20% off\n\n🔗 https://myntr.in/u2IEkr",
-    "final_url": "https://myntr.in/u2IEkr",
-    "local_image": "assets/images/tgmsg_28710.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-28T21:32:15+00:00",
-    "buy_link": "https://myntr.in/u2IEkr",
-    "date_iso": "2026-02-28T21:32:15+00:00"
   }
 ]
