@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg29350",
+    "title": "Tiaraa Mega",
+    "description": "Tiaraa Mega Loot: Get any 5 products @ 299 INR including shipping ✅Use Code : LOOT5 Link : https://bitli.in/5kBCuJo",
+    "shortlink": "https://bitli.in/5kBCuJo",
+    "urls": [
+      {
+        "url": "",
+        "label": "Tiaraa Mega Loot"
+      },
+      {
+        "url": "",
+        "label": "Get any 5 products @ 299 INR including shipping"
+      },
+      {
+        "url": "https://bitli.in/5kBCuJo",
+        "label": "✅Use Code : LOOT5"
+      }
+    ],
+    "raw_text": "Tiaraa Mega Loot:\nGet any 5 products @ 299 INR including shipping \n\n✅Use Code : LOOT5 \n\nLink : https://bitli.in/5kBCuJo",
+    "final_url": "https://bitli.in/5kBCuJo",
+    "local_image": "assets/images/tgmsg_29350.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2026-03-07T09:55:25+00:00",
+    "buy_link": "https://bitli.in/5kBCuJo",
+    "date_iso": "2026-03-07T09:55:25+00:00"
+  },
+  {
     "id": "msg29347",
     "title": "🎧 Rockerz Series Deal",
     "description": "Myntra | s 🔊 Rockerz 412 (60H Playback) – ₹1099 👉 🔊 Rockerz 195 Pro – ₹669 👉 🔊 Rockerz 412 (60H Playback) – ₹1119 👉 🔊 Rockerz 195 Pro – ₹679 👉 🔊 Rockerz 245 V2 Pro – ₹729 👉 🔊 Rockerz 255 Neo – ₹899 👉",
@@ -9910,41 +9938,5 @@
     "date_obj": "2026-02-28T22:19:59+00:00",
     "buy_link": "https://myntr.in/gHKGbK",
     "date_iso": "2026-02-28T22:19:59+00:00"
-  },
-  {
-    "id": "msg28712",
-    "title": "Titan Clocks Up to 65% OFF",
-    "description": "Myntra Titan Clocks Upto 65% OFF Crosscut Floor lamps starting at just Rs.899 Ugaoo Live Plants starting at Just Rs.99 Phool Holi gift Hampers starting at Just Rs.99 Qubo Air Purifier at Just Rs.5999 with 10% Bank…",
-    "shortlink": "https://myntr.in/P48zQy",
-    "urls": [
-      {
-        "url": "https://myntr.in/P48zQy",
-        "label": "Myntra Titan Clocks Upto 65% OFF"
-      },
-      {
-        "url": "https://myntr.in/EOHG19",
-        "label": "Crosscut Floor lamps starting at just Rs.899"
-      },
-      {
-        "url": "https://myntr.in/MHaFsC",
-        "label": "Ugaoo Live Plants starting at Just Rs.99"
-      },
-      {
-        "url": "https://myntr.in/KSg5iq",
-        "label": "Phool Holi gift Hampers starting at Just Rs.99"
-      },
-      {
-        "url": "https://myntr.in/yy8LGs",
-        "label": "Qubo Air Purifier at Just Rs.5999 with 10% Bank Discounts"
-      }
-    ],
-    "raw_text": "Myntra  Titan Clocks Upto 65% OFF\n\nhttps://myntr.in/P48zQy\n\nCrosscut Floor lamps starting at just Rs.899\n\nhttps://myntr.in/EOHG19\n\nUgaoo Live Plants starting at Just Rs.99\n\nhttps://myntr.in/MHaFsC\n\nPhool Holi gift Hampers starting at Just Rs.99\n\nhttps://myntr.in/KSg5iq\n\nQubo  Air Purifier at Just Rs.5999 with 10% Bank Discounts\n\nhttps://myntr.in/yy8LGs",
-    "final_url": "https://myntr.in/P48zQy",
-    "local_image": "assets/images/tgmsg_28712.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-28T21:45:32+00:00",
-    "buy_link": "https://myntr.in/P48zQy",
-    "date_iso": "2026-02-28T21:45:32+00:00"
   }
 ]
