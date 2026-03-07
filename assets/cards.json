@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg29377",
+    "title": "Up to 68% off on Superdry Premium Clothing",
+    "description": "Ajio | Upto 68% off on Superdry Premium Clothing 👉https://ajiio.co/tLHz1l",
+    "shortlink": "https://ajiio.co/tLHz1l",
+    "urls": [
+      {
+        "url": "https://ajiio.co/tLHz1l",
+        "label": "Upto 68% off on Superdry Premium Clothing"
+      }
+    ],
+    "raw_text": "Ajio | Upto 68% off on Superdry Premium Clothing\n\n👉https://ajiio.co/tLHz1l",
+    "final_url": "https://ajiio.co/tLHz1l",
+    "local_image": "assets/images/tgmsg_29377.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-03-07T13:51:22+00:00",
+    "buy_link": "https://ajiio.co/tLHz1l",
+    "date_iso": "2026-03-07T13:51:22+00:00"
+  },
+  {
     "id": "msg29375",
     "title": "🏃 Decathlon Deal",
     "description": "Myntra |s 🔗 👕 Old Navy Sale 🔗 👖 Flying Machine Deals 🔗 👔 Highlander Collection 🔗 👗 Tokyo Talkies Deals 🔗 👚 Sassafras Collection 🔗 💄 Lavie En Rose Deals 🔗 ✨ Street 9 Fashion 🔗",
@@ -9970,29 +9990,5 @@
     "date_obj": "2026-03-01T06:54:40+00:00",
     "buy_link": "https://fktr.in/i59jdEp",
     "date_iso": "2026-03-01T06:54:40+00:00"
-  },
-  {
-    "id": "msg28744",
-    "title": "Up to 75% Off",
-    "description": "Flipkart | Upto 75% Off - adidas Shoes For Men At Rs.956 🔗 Master Link - https://fkrt.co/bvtcu5",
-    "shortlink": "https://fkrt.co/bvtcu5",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 75% Off - adidas Shoes For Men At Rs.956"
-      },
-      {
-        "url": "https://fkrt.co/bvtcu5",
-        "label": "🔗 Master"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 75% Off - adidas Shoes For Men At Rs.956\n\n 🔗 Master Link - https://fkrt.co/bvtcu5",
-    "final_url": "https://fkrt.co/bvtcu5",
-    "local_image": "assets/images/tgmsg_28744.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-01T07:02:06+00:00",
-    "buy_link": "https://fkrt.co/bvtcu5",
-    "date_iso": "2026-03-01T07:02:06+00:00"
   }
 ]
