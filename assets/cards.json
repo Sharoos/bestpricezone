@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg29450",
+    "title": "Head & Shoulders min 50% off on 1l tr shampoo and 65% off on 1.2l shampoo",
+    "description": "Myntra :  Whisper Full range @Min 50% off Olay retinol min 55% and 7 in 1 min 50%off Pantene shampoo + conditioner min 65% Gillete venus razor @57% off Gillette Min 20% off on Razor and Foams",
+    "shortlink": "https://myntr.in/VVHwcR",
+    "urls": [
+      {
+        "url": "https://myntr.in/VVHwcR",
+        "label": "Head & Shoulders min 50% off on 1l tr shampoo and 65% off on 1.2l shampoo"
+      },
+      {
+        "url": "https://myntr.in/Ezwpwj",
+        "label": "Whisper Full range @Min 50% off"
+      },
+      {
+        "url": "https://myntr.in/JoXLK5",
+        "label": "Olay retinol min 55% and 7 in 1 min 50%off"
+      },
+      {
+        "url": "https://myntr.in/x1JnFO",
+        "label": "Pantene shampoo + conditioner min 65%"
+      },
+      {
+        "url": "https://myntr.in/yU7lrS",
+        "label": "Gillete venus razor @57% off"
+      },
+      {
+        "url": "https://myntr.in/VwH4Do",
+        "label": "Gillette Min 20% off on Razor and Foams"
+      }
+    ],
+    "raw_text": "Myntra : Head & Shoulders min 50% off on 1l tr shampoo and 65% off on 1.2l shampoo \nhttps://myntr.in/VVHwcR\n\nWhisper Full range @Min 50% off \nhttps://myntr.in/Ezwpwj\n\nOlay retinol min 55% and 7 in 1 min 50%off \nhttps://myntr.in/JoXLK5\n\nPantene shampoo + conditioner min 65% \nhttps://myntr.in/x1JnFO\n\n Gillete venus razor @57% off\nhttps://myntr.in/yU7lrS\n\n Gillette Min 20% off on Razor and Foams\nhttps://myntr.in/VwH4Do",
+    "final_url": "https://myntr.in/VVHwcR",
+    "local_image": "assets/images/tgmsg_29450.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-07T19:03:19+00:00",
+    "buy_link": "https://myntr.in/VVHwcR",
+    "date_iso": "2026-03-07T19:03:19+00:00"
+  },
+  {
     "id": "msg29442",
     "title": "Shopsy Cutlery Holder Case (Holds 31 Pcs) @ ₹110",
     "description": "Shopsy | Cutlery Holder Case (Holds 31 Pcs) @ ₹110 👉 https://extp.in/rmeYyi",
@@ -10122,25 +10162,5 @@
     "date_obj": "2026-03-01T16:13:59+00:00",
     "buy_link": "https://myntr.in/eq86YH",
     "date_iso": "2026-03-01T16:13:59+00:00"
-  },
-  {
-    "id": "msg28803",
-    "title": "Swing Car for Kids @1199",
-    "description": "Amazon | Swing Car for Kids @1199 🔗 https://www.amazon.in/dp/B0D8KQS33K?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D8KQS33K?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0D8KQS33K?th=1&tag=bestpricezo0f-21",
-        "label": "Swing Car for Kids @1199"
-      }
-    ],
-    "raw_text": "Amazon | Swing Car for Kids @1199\n\n🔗 https://www.amazon.in/dp/B0D8KQS33K?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D8KQS33K?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_28803.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-03-01T15:37:05+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D8KQS33K?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-03-01T15:37:05+00:00"
   }
 ]
