@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg29379",
+    "title": "Aluminium Food Foil (Pack Of 2) At 144",
+    "description": "GRAB: Aluminium Food Foil (Pack Of 2) At 144. https://fkrt.co/N4kuTk",
+    "shortlink": "https://fkrt.co/N4kuTk",
+    "urls": [
+      {
+        "url": "https://fkrt.co/N4kuTk",
+        "label": "Aluminium Food Foil (Pack Of 2) At 144"
+      }
+    ],
+    "raw_text": "GRAB: Aluminium Food Foil (Pack Of 2) At 144.\n\nhttps://fkrt.co/N4kuTk",
+    "final_url": "https://fkrt.co/N4kuTk",
+    "local_image": "assets/images/tgmsg_29379.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-07T14:28:48+00:00",
+    "buy_link": "https://fkrt.co/N4kuTk",
+    "date_iso": "2026-03-07T14:28:48+00:00"
+  },
+  {
     "id": "msg29377",
     "title": "Up to 68% off on Superdry Premium Clothing",
     "description": "Ajio | Upto 68% off on Superdry Premium Clothing 👉https://ajiio.co/tLHz1l",
@@ -9958,37 +9978,5 @@
     "date_obj": "2026-03-01T08:35:52+00:00",
     "buy_link": "https://extp.in/Bv3ciK",
     "date_iso": "2026-03-01T08:35:52+00:00"
-  },
-  {
-    "id": "msg28742",
-    "title": "Scroll, many @ 72% off",
-    "description": "LOOT FAST : ASICS SHOES @60-72% OFF Sports :  https://fktr.in/i59jdEp Casual :  https://fktr.in/Jf1XoOZ Scroll, many @ 72% off",
-    "shortlink": "https://fktr.in/i59jdEp",
-    "urls": [
-      {
-        "url": "",
-        "label": "ASICS SHOES @60-72% OFF"
-      },
-      {
-        "url": "https://fktr.in/i59jdEp",
-        "label": "Sports"
-      },
-      {
-        "url": "https://fktr.in/Jf1XoOZ",
-        "label": "Casual"
-      },
-      {
-        "url": "",
-        "label": "Scroll, many @ 72% off"
-      }
-    ],
-    "raw_text": "LOOT FAST : ASICS SHOES @60-72% OFF\n\nSports :  https://fktr.in/i59jdEp\nCasual :  https://fktr.in/Jf1XoOZ\n\nScroll, many @ 72% off",
-    "final_url": "https://fktr.in/i59jdEp",
-    "local_image": "assets/images/tgmsg_28742.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-01T06:54:40+00:00",
-    "buy_link": "https://fktr.in/i59jdEp",
-    "date_iso": "2026-03-01T06:54:40+00:00"
   }
 ]
