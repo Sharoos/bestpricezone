@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg29375",
+    "title": "🏃 Decathlon Deal",
+    "description": "Myntra |s 🔗 👕 Old Navy Sale 🔗 👖 Flying Machine Deals 🔗 👔 Highlander Collection 🔗 👗 Tokyo Talkies Deals 🔗 👚 Sassafras Collection 🔗 💄 Lavie En Rose Deals 🔗 ✨ Street 9 Fashion 🔗",
+    "shortlink": "https://ajiio.co/qiBTIO",
+    "urls": [
+      {
+        "url": "https://ajiio.co/qiBTIO",
+        "label": "🏃 Decathlon Deals"
+      },
+      {
+        "url": "https://ajiio.co/FCfGNd",
+        "label": "👕 Old Navy Sale"
+      },
+      {
+        "url": "https://ajiio.co/w4JVLv",
+        "label": "👖 Flying Machine Deals"
+      },
+      {
+        "url": "https://ajiio.co/SQ0HeT",
+        "label": "👔 Highlander Collection"
+      },
+      {
+        "url": "https://ajiio.co/DuKR0i",
+        "label": "👗 Tokyo Talkies Deals"
+      },
+      {
+        "url": "https://ajiio.co/19n86Z",
+        "label": "👚 Sassafras Collection"
+      },
+      {
+        "url": "https://ajiio.co/sgMegt",
+        "label": "💄 Lavie En Rose Deals"
+      },
+      {
+        "url": "https://ajiio.co/UZUX49",
+        "label": "✨ Street 9 Fashion"
+      }
+    ],
+    "raw_text": "Myntra |🏃 Decathlon Deals\n🔗 https://ajiio.co/qiBTIO\n\n👕 Old Navy Sale\n🔗 https://ajiio.co/FCfGNd\n\n👖 Flying Machine Deals\n🔗 https://ajiio.co/w4JVLv\n\n👔 Highlander Collection\n🔗 https://ajiio.co/SQ0HeT\n\n👗 Tokyo Talkies Deals\n🔗 https://ajiio.co/DuKR0i\n\n👚 Sassafras Collection\n🔗 https://ajiio.co/19n86Z\n\n💄 Lavie En Rose Deals\n🔗 https://ajiio.co/sgMegt\n\n✨ Street 9 Fashion\n🔗 https://ajiio.co/UZUX49",
+    "final_url": "https://ajiio.co/qiBTIO",
+    "local_image": "assets/images/tgmsg_29375.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-03-07T13:40:05+00:00",
+    "buy_link": "https://ajiio.co/qiBTIO",
+    "date_iso": "2026-03-07T13:40:05+00:00"
+  },
+  {
     "id": "msg29363",
     "title": "Women's Kurta Starts at ₹102",
     "description": "AJIO  Women's Kurta Starts at ₹102 🔗https://ajiio.co/svxDZx",
@@ -9946,25 +9994,5 @@
     "date_obj": "2026-03-01T07:02:06+00:00",
     "buy_link": "https://fkrt.co/bvtcu5",
     "date_iso": "2026-03-01T07:02:06+00:00"
-  },
-  {
-    "id": "msg28746",
-    "title": "HE Deodorants From ₹64",
-    "description": "HE Deodorants From ₹64 https://myntr.in/1RINFn",
-    "shortlink": "https://myntr.in/1RINFn",
-    "urls": [
-      {
-        "url": "https://myntr.in/1RINFn",
-        "label": "HE Deodorants From ₹64"
-      }
-    ],
-    "raw_text": "HE Deodorants From ₹64\n\nhttps://myntr.in/1RINFn",
-    "final_url": "https://myntr.in/1RINFn",
-    "local_image": "assets/images/tgmsg_28746.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-01T07:20:27+00:00",
-    "buy_link": "https://myntr.in/1RINFn",
-    "date_iso": "2026-03-01T07:20:27+00:00"
   }
 ]
