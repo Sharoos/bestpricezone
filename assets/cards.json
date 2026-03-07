@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg29346",
+    "title": "✨ Airdopes Loop (Cool Grey) – ₹1299",
+    "description": "Myntra | 🎧 Premium TWS ✨ Airdopes Loop (Cool Grey) – ₹1299 👉 https://myntr.in/7nR1kp ✨ Nirvana X TWS – ₹1999 👉 https://myntr.in/oNesWh",
+    "shortlink": "https://myntr.in/7nR1kp",
+    "urls": [
+      {
+        "url": "",
+        "label": "🎧 Premium TWS"
+      },
+      {
+        "url": "https://myntr.in/7nR1kp",
+        "label": "✨ Airdopes Loop (Cool Grey) – ₹1299"
+      },
+      {
+        "url": "https://myntr.in/oNesWh",
+        "label": "✨ Nirvana X TWS – ₹1999"
+      }
+    ],
+    "raw_text": "Myntra | 🎧 Premium TWS\n\n✨ Airdopes Loop (Cool Grey) – ₹1299\n👉 https://myntr.in/7nR1kp\n\n✨ Nirvana X TWS – ₹1999\n👉 https://myntr.in/oNesWh",
+    "final_url": "https://myntr.in/7nR1kp",
+    "local_image": "assets/images/tgmsg_29346.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-07T08:56:11+00:00",
+    "buy_link": "https://myntr.in/7nR1kp",
+    "date_iso": "2026-03-07T08:56:11+00:00"
+  },
+  {
     "id": "msg29345",
     "title": "Up to 85% Off On Ove",
     "description": "AJIO Upto 85% Off On Over-Sized T-Shirts. Men's : Women's : Polo T-Shirts : Jeans : Branded Innerwear : Men' Blazers & Waistcoat : Kids Clothing Starts From Rs.45 Boys : Girls : Infants :",
@@ -9898,37 +9926,5 @@
     "date_obj": "2026-02-28T21:49:15+00:00",
     "buy_link": "https://myntr.in/IOvOZM",
     "date_iso": "2026-02-28T21:49:15+00:00"
-  },
-  {
-    "id": "msg28717",
-    "title": "Noise Buds Aero TWS Only At Rs. 620 + Bank Offers!!",
-    "description": "Myntra -  Noise Nero Only At Rs. 650 + Bank Offers!! Noise VS102 TWS Only At Rs. 779 + Bank Offers!! Noise Buds Trance Only At Rs. 889 + Bank Offers!!",
-    "shortlink": "https://myntr.in/fbMAtM",
-    "urls": [
-      {
-        "url": "https://myntr.in/fbMAtM",
-        "label": "Noise Buds Aero TWS Only At Rs. 620 + Bank Offers!!"
-      },
-      {
-        "url": "https://myntr.in/d16I7K",
-        "label": "Noise Nero Only At Rs. 650 + Bank Offers!!"
-      },
-      {
-        "url": "https://myntr.in/pVKwDz",
-        "label": "Noise VS102 TWS Only At Rs. 779 + Bank Offers!!"
-      },
-      {
-        "url": "https://myntr.in/jEwFMb",
-        "label": "Noise Buds Trance Only At Rs. 889 + Bank Offers!!"
-      }
-    ],
-    "raw_text": "Myntra  - Noise Buds Aero TWS Only At Rs. 620 + Bank Offers!!\nhttps://myntr.in/fbMAtM\n\nNoise Nero Only At Rs. 650 + Bank Offers!!\nhttps://myntr.in/d16I7K\n\nNoise VS102 TWS Only At Rs. 779 + Bank Offers!!\nhttps://myntr.in/pVKwDz\n\nNoise Buds Trance Only At Rs. 889 + Bank Offers!!\nhttps://myntr.in/jEwFMb",
-    "final_url": "https://myntr.in/fbMAtM",
-    "local_image": "assets/images/tgmsg_28717.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-02-28T21:53:32+00:00",
-    "buy_link": "https://myntr.in/fbMAtM",
-    "date_iso": "2026-02-28T21:53:32+00:00"
   }
 ]
