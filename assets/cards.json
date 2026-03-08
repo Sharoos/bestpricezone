@@ -1,5 +1,73 @@
 [
   {
+    "id": "msg29519",
+    "title": "💸 Min. 80% OFF",
+    "description": "🔥 Flipkart | Men’s Ethnic Wear Deals – Massive Discounts 👑 👔 Jompers & More 🛍️ Men’s Kurtas, Kurta Pajama Sets  🔗 👔 Indian Terrain & More 🛍️ Men’s Kurtas 💸 Min. 70% OFF 🔗 👔 Sojanya & More 🛍️ Kurtas, Ethnic Sets 💸 Min.…",
+    "shortlink": "https://fkrt.co/kcyW7c",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Flipkart | Men’s Ethnic Wear Deals – Massive Discounts 👑"
+      },
+      {
+        "url": "",
+        "label": "👔 Jompers & More"
+      },
+      {
+        "url": "",
+        "label": "🛍️ Men’s Kurtas, Kurta Pajama Sets"
+      },
+      {
+        "url": "https://fkrt.co/kcyW7c",
+        "label": "💸 Min. 80% OFF"
+      },
+      {
+        "url": "",
+        "label": "👔 Indian Terrain & More"
+      },
+      {
+        "url": "",
+        "label": "🛍️ Men’s Kurtas"
+      },
+      {
+        "url": "https://fkrt.co/tYXfmR",
+        "label": "💸 Min. 70% OFF"
+      },
+      {
+        "url": "",
+        "label": "👔 Sojanya & More"
+      },
+      {
+        "url": "",
+        "label": "🛍️ Kurtas, Ethnic Sets"
+      },
+      {
+        "url": "https://fkrt.co/f4c1hk",
+        "label": "💸 Min. 70% OFF"
+      },
+      {
+        "url": "",
+        "label": "👔 Ramraj Cotton & More"
+      },
+      {
+        "url": "",
+        "label": "🛍️ Dhoti Sets"
+      },
+      {
+        "url": "https://fkrt.co/eqclIk",
+        "label": "💰 Under ₹899"
+      }
+    ],
+    "raw_text": "🔥 Flipkart | Men’s Ethnic Wear Deals – Massive Discounts 👑\n\n👔 Jompers & More\n🛍️ Men’s Kurtas, Kurta Pajama Sets\n💸 Min. 80% OFF\n🔗 https://fkrt.co/kcyW7c\n\n👔 Indian Terrain & More\n🛍️ Men’s Kurtas\n💸 Min. 70% OFF\n🔗 https://fkrt.co/tYXfmR\n\n👔 Sojanya & More\n🛍️ Kurtas, Ethnic Sets\n💸 Min. 70% OFF\n🔗 https://fkrt.co/f4c1hk\n\n👔 Ramraj Cotton & More\n🛍️ Dhoti Sets\n💰 Under ₹899\n🔗 https://fkrt.co/eqclIk",
+    "final_url": "https://fkrt.co/kcyW7c",
+    "local_image": "assets/images/tgmsg_29519.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-08T13:06:21+00:00",
+    "buy_link": "https://fkrt.co/kcyW7c",
+    "date_iso": "2026-03-08T13:06:21+00:00"
+  },
+  {
     "id": "msg29511",
     "title": "Jeans Starts @169",
     "description": "AJIO Loot : Jeans Starts @169. Women : https://ajiio.in/h0s2mqV Men : https://ajiio.in/ECpbI1h",
@@ -10274,25 +10342,5 @@
     "date_obj": "2026-03-02T10:17:45+00:00",
     "buy_link": "https://fktr.in/Y8Su2Q3",
     "date_iso": "2026-03-02T10:17:45+00:00"
-  },
-  {
-    "id": "msg28865",
-    "title": "Min 60% Off",
-    "description": "Flipkart :  Rare Rabbit - Min 60% Off 🔗 https://fkrt.co/Z5VNLb",
-    "shortlink": "https://fkrt.co/Z5VNLb",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Z5VNLb",
-        "label": "Rare Rabbit - Min 60% Off"
-      }
-    ],
-    "raw_text": "Flipkart :  Rare Rabbit - Min 60% Off\n\n🔗 https://fkrt.co/Z5VNLb",
-    "final_url": "https://fkrt.co/Z5VNLb",
-    "local_image": "assets/images/tgmsg_28865.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-02T10:20:35+00:00",
-    "buy_link": "https://fkrt.co/Z5VNLb",
-    "date_iso": "2026-03-02T10:20:35+00:00"
   }
 ]
