@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg29505",
+    "title": "Crazy Deals Min 50% Off On Top Brand",
+    "description": "Ajio s • GAS : • Gap : • Superdry : • Tommy Hilfiger : • Steve Madden : • Gant : Extra 10% Ajio Cashback On Every Order (100% Usable)",
+    "shortlink": "https://ajiio.co/KP95Ph",
+    "urls": [
+      {
+        "url": "https://ajiio.co/KP95Ph",
+        "label": "Ajio Crazy Deals Min 50% Off On Top Brands"
+      },
+      {
+        "url": "https://ajiio.co/ZvmxMS",
+        "label": "Gap"
+      },
+      {
+        "url": "https://ajiio.co/MWJmtr",
+        "label": "Superdry"
+      },
+      {
+        "url": "https://ajiio.co/jq22xh",
+        "label": "Tommy Hilfiger"
+      },
+      {
+        "url": "https://ajiio.co/Qkh8D7",
+        "label": "Steve Madden"
+      },
+      {
+        "url": "https://ajiio.co/EdfZRM",
+        "label": "Gant"
+      },
+      {
+        "url": "",
+        "label": "Extra 10% Ajio Cashback On Every Order (100% Usable)"
+      }
+    ],
+    "raw_text": "Ajio Crazy Deals Min 50% Off On Top Brands\n\n• GAS : https://ajiio.co/KP95Ph\n• Gap : https://ajiio.co/ZvmxMS    \n• Superdry : https://ajiio.co/MWJmtr\n• Tommy Hilfiger : https://ajiio.co/jq22xh  \n• Steve Madden : https://ajiio.co/Qkh8D7\n• Gant : https://ajiio.co/EdfZRM\n\nExtra 10% Ajio Cashback On Every Order (100% Usable)",
+    "final_url": "https://ajiio.co/KP95Ph",
+    "local_image": "assets/images/tgmsg_29505.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-03-08T10:45:56+00:00",
+    "buy_link": "https://ajiio.co/KP95Ph",
+    "date_iso": "2026-03-08T10:45:56+00:00"
+  },
+  {
     "id": "msg29500",
     "title": "Up to 87% Off Tokyo Talkies Women's Clothing",
     "description": "Flipkart Upto 87% Off Tokyo Talkies Women's Clothing. Sweatshirt : Jacket : Dresses : Jeans : Trousers : Blazers : Jumpsuits :",
@@ -10202,57 +10246,5 @@
     "date_obj": "2026-03-02T09:40:19+00:00",
     "buy_link": "https://extp.in/VKQ2kY",
     "date_iso": "2026-03-02T09:40:19+00:00"
-  },
-  {
-    "id": "msg28858",
-    "title": "Up to 85% Off on Branded Clothing",
-    "description": "Myntra | Upto 85% Off on Branded Clothing Tops- Dresses- Shirts- Tees- Jeans- Kurta Kurtis- Kurta sets- Sarees-",
-    "shortlink": "https://myntr.in/BQfZnJ",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off on Branded Clothing"
-      },
-      {
-        "url": "https://myntr.in/BQfZnJ",
-        "label": "Tops"
-      },
-      {
-        "url": "https://myntr.in/DvV3FG",
-        "label": "Dresses"
-      },
-      {
-        "url": "https://myntr.in/XNilU4",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://myntr.in/PQAcA3",
-        "label": "Tees"
-      },
-      {
-        "url": "https://myntr.in/WkvZzo",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://myntr.in/qGSwPW",
-        "label": "Kurta Kurtis"
-      },
-      {
-        "url": "https://myntr.in/uKw1b8",
-        "label": "Kurta sets"
-      },
-      {
-        "url": "https://myntr.in/DHmPwK",
-        "label": "Sarees"
-      }
-    ],
-    "raw_text": "Myntra  | Upto 85% Off on Branded Clothing \n\nTops- https://myntr.in/BQfZnJ\n\nDresses- https://myntr.in/DvV3FG\n\nShirts- https://myntr.in/XNilU4\n\nTees- https://myntr.in/PQAcA3\n\nJeans- https://myntr.in/WkvZzo\n\nKurta Kurtis- https://myntr.in/qGSwPW\n\nKurta sets- https://myntr.in/uKw1b8\n\nSarees- https://myntr.in/DHmPwK",
-    "final_url": "https://myntr.in/BQfZnJ",
-    "local_image": "assets/images/tgmsg_28858.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-02T09:50:22+00:00",
-    "buy_link": "https://myntr.in/BQfZnJ",
-    "date_iso": "2026-03-02T09:50:22+00:00"
   }
 ]
