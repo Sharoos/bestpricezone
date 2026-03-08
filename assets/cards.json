@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg29531",
+    "title": "Anouk Mirage women's kurta at 166",
+    "description": "Myntra  Anouk Mirage women's kurta at 166 Buy:- https://myntr.in/SzrLQA",
+    "shortlink": "https://myntr.in/SzrLQA",
+    "urls": [
+      {
+        "url": "https://myntr.in/SzrLQA",
+        "label": "Myntra Anouk Mirage women's kurta at 166"
+      }
+    ],
+    "raw_text": "Myntra  Anouk Mirage women's kurta at 166\n\nBuy:- https://myntr.in/SzrLQA",
+    "final_url": "https://myntr.in/SzrLQA",
+    "local_image": "assets/images/tgmsg_29531.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-08T14:34:30+00:00",
+    "buy_link": "https://myntr.in/SzrLQA",
+    "date_iso": "2026-03-08T14:34:30+00:00"
+  },
+  {
     "id": "msg29519",
     "title": "💸 Min. 80% OFF",
     "description": "🔥 Flipkart | Men’s Ethnic Wear Deals – Massive Discounts 👑 👔 Jompers & More 🛍️ Men’s Kurtas, Kurta Pajama Sets  🔗 👔 Indian Terrain & More 🛍️ Men’s Kurtas 💸 Min. 70% OFF 🔗 👔 Sojanya & More 🛍️ Kurtas, Ethnic Sets 💸 Min.…",
@@ -10314,33 +10334,5 @@
     "date_obj": "2026-03-02T10:10:24+00:00",
     "buy_link": "https://myntr.in/HYMEhx",
     "date_iso": "2026-03-02T10:10:24+00:00"
-  },
-  {
-    "id": "msg28864",
-    "title": "Auto Accessories Start @49",
-    "description": "Flipkart: Auto Accessories Start @49 https://fktr.in/Y8Su2Q3 Bike Accessories: https://fktr.in/4eWcWvU Car Accessories: https://fktr.in/2fYkAb9",
-    "shortlink": "https://fktr.in/Y8Su2Q3",
-    "urls": [
-      {
-        "url": "https://fktr.in/Y8Su2Q3",
-        "label": "Auto Accessories Start @49"
-      },
-      {
-        "url": "https://fktr.in/4eWcWvU",
-        "label": "Bike Accessories"
-      },
-      {
-        "url": "https://fktr.in/2fYkAb9",
-        "label": "Car Accessories"
-      }
-    ],
-    "raw_text": "Flipkart: Auto Accessories Start @49\n\nhttps://fktr.in/Y8Su2Q3\n\nBike Accessories: https://fktr.in/4eWcWvU\nCar Accessories: https://fktr.in/2fYkAb9",
-    "final_url": "https://fktr.in/Y8Su2Q3",
-    "local_image": "assets/images/tgmsg_28864.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-02T10:17:45+00:00",
-    "buy_link": "https://fktr.in/Y8Su2Q3",
-    "date_iso": "2026-03-02T10:17:45+00:00"
   }
 ]
