@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg29657",
+    "title": "Up to 70% Off On Milton Product",
+    "description": "Amazon| Lee Cooper Mens Slippers Starting @750. Upto 70% Off On Milton Products.",
+    "shortlink": "https://www.amazon.in/s?k=Lee+Cooper+Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21&",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/s?k=Lee+Cooper+Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21&",
+        "label": "Lee Cooper Mens Slippers Starting @750"
+      },
+      {
+        "url": "https://www.amazon.in/s?k=Milton&rh=n%3A976442031%2Cp_6%3AA3UVJB0FRWYAMC%2Cp_n_pct-off-with-tax%3A45-&i=kitchen&xpid=qGDV-KLCV4vqf&tag=bestpricezo0f-21",
+        "label": "Upto 70% Off On Milton Products"
+      }
+    ],
+    "raw_text": "Amazon| Lee Cooper Mens Slippers Starting @750.\n\nhttps://www.amazon.in/s?k=Lee+Cooper+Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21&\n\nUpto 70% Off On Milton Products.\n\nhttps://www.amazon.in/s?k=Milton&rh=n%3A976442031%2Cp_6%3AA3UVJB0FRWYAMC%2Cp_n_pct-off-with-tax%3A45-&i=kitchen&xpid=qGDV-KLCV4vqf&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?k=Lee+Cooper+Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21&",
+    "local_image": "assets/images/tgmsg_29657.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-03-09T18:29:12+00:00",
+    "buy_link": "https://www.amazon.in/s?k=Lee+Cooper+Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21&",
+    "date_iso": "2026-03-09T18:29:12+00:00"
+  },
+  {
     "id": "msg29653",
     "title": "rank&dc=&ds=v1%3A%2B7kiLViHoZr5ZWbcrZi8euFOWjudxsHia7pHHpoLHUE&qid=1700805583&tag=bestpricezo0f",
     "description": "Amazon | POND's Bright Beauty Facewash, 200g @155 👉https://www.amazon.in/dp/B08NYD1GGK?tag=bestpricezo0f-21 Master Link :…",
@@ -10362,29 +10386,5 @@
     "date_obj": "2026-03-04T04:45:55+00:00",
     "buy_link": "https://www.amazon.in/dp/B006G84AA6?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2026-03-04T04:45:55+00:00"
-  },
-  {
-    "id": "msg29014",
-    "title": "Up to 82% Off on Wildcraft Backpack",
-    "description": "Myntra  Upto 82% Off on Wildcraft Backpacks. https://myntr.in/WMiucI 70-80% Off : https://myntr.in/hMImOe",
-    "shortlink": "https://myntr.in/WMiucI",
-    "urls": [
-      {
-        "url": "https://myntr.in/WMiucI",
-        "label": "Myntra Upto 82% Off on Wildcraft Backpacks"
-      },
-      {
-        "url": "https://myntr.in/hMImOe",
-        "label": "80% Off"
-      }
-    ],
-    "raw_text": "Myntra  Upto 82% Off on Wildcraft Backpacks.\n\nhttps://myntr.in/WMiucI\n\n70-80% Off : https://myntr.in/hMImOe",
-    "final_url": "https://myntr.in/WMiucI",
-    "local_image": "assets/images/tgmsg_29014.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-04T05:03:16+00:00",
-    "buy_link": "https://myntr.in/WMiucI",
-    "date_iso": "2026-03-04T05:03:16+00:00"
   }
 ]
