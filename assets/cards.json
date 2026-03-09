@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg29585",
+    "title": "Up to 90% Off on Kook N Keech Men's Trackpant",
+    "description": "Myntra : Upto 90% Off on Kook N Keech Men's Trackpants. 👉https://myntr.in/QxfSD9",
+    "shortlink": "https://myntr.in/QxfSD9",
+    "urls": [
+      {
+        "url": "https://myntr.in/QxfSD9",
+        "label": "Upto 90% Off on Kook N Keech Men's Trackpants"
+      }
+    ],
+    "raw_text": "Myntra : Upto 90% Off on Kook N Keech Men's Trackpants.\n\n👉https://myntr.in/QxfSD9",
+    "final_url": "https://myntr.in/QxfSD9",
+    "local_image": "assets/images/tgmsg_29585.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-09T06:46:27+00:00",
+    "buy_link": "https://myntr.in/QxfSD9",
+    "date_iso": "2026-03-09T06:46:27+00:00"
+  },
+  {
     "id": "msg29577",
     "title": "Up to 85% Off On HRX Luggage",
     "description": "Flipkart | Upto 85% Off On HRX Luggage. Small : https://fkrt.co/MTWaI3 Medium : https://fkrt.co/L1FSPw Large : https://fkrt.co/mrIjiX Pack Of 2/3 : https://fkrt.co/OREsvb",
@@ -10394,25 +10414,5 @@
     "date_obj": "2026-03-02T18:32:16+00:00",
     "buy_link": "https://ajiio.co/4qaUQE",
     "date_iso": "2026-03-02T18:32:16+00:00"
-  },
-  {
-    "id": "msg28925",
-    "title": "77% Off",
-    "description": "Flipkart | 77% Off - Goboult 20000 mAh Power Bank At Rs.999 https://fkrt.co/YJ4xHM",
-    "shortlink": "https://fkrt.co/YJ4xHM",
-    "urls": [
-      {
-        "url": "https://fkrt.co/YJ4xHM",
-        "label": "77% Off - Goboult 20000 mAh Power Bank At Rs.999"
-      }
-    ],
-    "raw_text": "Flipkart | 77% Off - Goboult 20000 mAh Power Bank At Rs.999\n\n  https://fkrt.co/YJ4xHM",
-    "final_url": "https://fkrt.co/YJ4xHM",
-    "local_image": "assets/images/tgmsg_28925.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-02T18:37:21+00:00",
-    "buy_link": "https://fkrt.co/YJ4xHM",
-    "date_iso": "2026-03-02T18:37:21+00:00"
   }
 ]
