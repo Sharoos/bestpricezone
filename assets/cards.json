@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg29684",
+    "title": "✅ Get additional 4% on gold product",
+    "description": "Flipkart  Gold Price   🔥🔥 ✅ Get additional 4% on gold products Link : https://fkrt.co/EzsyaC",
+    "shortlink": "https://fkrt.co/EzsyaC",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart Gold Price 🔥🔥"
+      },
+      {
+        "url": "https://fkrt.co/EzsyaC",
+        "label": "✅ Get additional 4% on gold products"
+      }
+    ],
+    "raw_text": "Flipkart  Gold Price   🔥🔥\n\n✅ Get additional 4% on gold products \n\nLink : https://fkrt.co/EzsyaC",
+    "final_url": "https://fkrt.co/EzsyaC",
+    "local_image": "assets/images/tgmsg_29684.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-10T07:34:25+00:00",
+    "buy_link": "https://fkrt.co/EzsyaC",
+    "date_iso": "2026-03-10T07:34:25+00:00"
+  },
+  {
     "id": "msg29680",
     "title": "💥Up to 90% Off On Branded Clothing",
     "description": "💥Myntra Upto 90% Off On Branded Clothing. ➤ Men’s Clothing 👇👇 T-Shirt : Jeans : Shirt : Trouser : Co-Ords Set : Trackpant : Sweatshirt : Jacket : ➤ Women’s Clothing 👇👇 T-Shirt : Top : Jeans : Dress : Sweatshirt : Ethnic…",
@@ -10410,25 +10434,5 @@
     "date_obj": "2026-03-04T11:00:49+00:00",
     "buy_link": "https://myntr.in/VstSlG",
     "date_iso": "2026-03-04T11:00:49+00:00"
-  },
-  {
-    "id": "msg29030",
-    "title": "Whisper Full range @Min 50% off",
-    "description": "Myntra | Whisper Full range @Min 50% off 🔗 https://myntr.in/M0B2ie",
-    "shortlink": "https://myntr.in/M0B2ie",
-    "urls": [
-      {
-        "url": "https://myntr.in/M0B2ie",
-        "label": "Whisper Full range @Min 50% off"
-      }
-    ],
-    "raw_text": "Myntra | Whisper Full range @Min 50% off \n\n🔗 https://myntr.in/M0B2ie",
-    "final_url": "https://myntr.in/M0B2ie",
-    "local_image": "assets/images/tgmsg_29030.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-04T11:10:15+00:00",
-    "buy_link": "https://myntr.in/M0B2ie",
-    "date_iso": "2026-03-04T11:10:15+00:00"
   }
 ]
