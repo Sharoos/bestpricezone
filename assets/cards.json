@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg29701",
+    "title": "199",
+    "description": "199 : https://www.amazon.in/dp/B0GQV9ZWLB?social_share=cm_sw_r_cso_wa_apin_dp_TX9PAKCESMFB38G7EECT&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0GQV9ZWLB?social_share=cm_sw_r_cso_wa_apin_dp_TX9PAKCESMFB38G7EECT&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0GQV9ZWLB?social_share=cm_sw_r_cso_wa_apin_dp_TX9PAKCESMFB38G7EECT&tag=bestpricezo0f-21",
+        "label": "199"
+      }
+    ],
+    "raw_text": "199 : https://www.amazon.in/dp/B0GQV9ZWLB?social_share=cm_sw_r_cso_wa_apin_dp_TX9PAKCESMFB38G7EECT&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0GQV9ZWLB?social_share=cm_sw_r_cso_wa_apin_dp_TX9PAKCESMFB38G7EECT&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_29701.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-03-10T10:53:08+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0GQV9ZWLB?social_share=cm_sw_r_cso_wa_apin_dp_TX9PAKCESMFB38G7EECT&tag=bestpricezo0f-21",
+    "date_iso": "2026-03-10T10:53:08+00:00"
+  },
+  {
     "id": "msg29691",
     "title": "Moda Rapido Men Washed Effect Tie & Dyed Tshirts under 279",
     "description": "Myntra | Men  🔗 Men Moda Rapido Men polo Tshirts under 239 🔗 Men Moda Rapido MenTshirts under 149 🔗",
@@ -10470,33 +10490,5 @@
     "date_obj": "2026-03-04T14:31:47+00:00",
     "buy_link": "https://fkrt.co/hZoszH",
     "date_iso": "2026-03-04T14:31:47+00:00"
-  },
-  {
-    "id": "msg29058",
-    "title": "Up to 74% Off On Adidas Shoe",
-    "description": "Myntra : Up to 74% Off On Adidas Shoes. Men's : https://myntr.in/Ltmlxn& Women's : https://myntr.in/US2dnA",
-    "shortlink": "https://myntr.in/Ltmlxn&",
-    "urls": [
-      {
-        "url": "",
-        "label": "Up to 74% Off On Adidas Shoes"
-      },
-      {
-        "url": "https://myntr.in/Ltmlxn&",
-        "label": "Men's"
-      },
-      {
-        "url": "https://myntr.in/US2dnA",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "Myntra : Up to 74% Off On Adidas Shoes.\n\nMen's : https://myntr.in/Ltmlxn&\nWomen's : https://myntr.in/US2dnA",
-    "final_url": "https://myntr.in/Ltmlxn&",
-    "local_image": "assets/images/tgmsg_29058.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-04T14:46:19+00:00",
-    "buy_link": "https://myntr.in/Ltmlxn&",
-    "date_iso": "2026-03-04T14:46:19+00:00"
   }
 ]
