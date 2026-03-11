@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg29905",
+    "title": "Flat ₹2000 Off With HDFC Credit Card",
+    "description": "Amazon | Godrej 2 Ton 3 Star, Split AC @35,490 https://www.amazon.in/dp/B0FG38QBZB?psc=1&th=1&ck&tag=bestpricezo0f-21 Flat ₹2000 Off With HDFC Credit Card.",
+    "shortlink": "https://www.amazon.in/dp/B0FG38QBZB?psc=1&th=1&ck&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FG38QBZB?psc=1&th=1&ck&tag=bestpricezo0f-21",
+        "label": "Godrej 2 Ton 3 Star, Split AC @35,490"
+      },
+      {
+        "url": "",
+        "label": "Flat ₹2000 Off With HDFC Credit Card"
+      }
+    ],
+    "raw_text": "Amazon | Godrej 2 Ton 3 Star, Split AC @35,490\n\nhttps://www.amazon.in/dp/B0FG38QBZB?psc=1&th=1&ck&tag=bestpricezo0f-21\n\nFlat ₹2000 Off With HDFC Credit Card.",
+    "final_url": "https://www.amazon.in/dp/B0FG38QBZB?psc=1&th=1&ck&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_29905.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-03-11T19:13:14+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FG38QBZB?psc=1&th=1&ck&tag=bestpricezo0f-21",
+    "date_iso": "2026-03-11T19:13:14+00:00"
+  },
+  {
     "id": "msg29889",
     "title": "MANY CLOTHING UNDER ₹199",
     "description": "Ajio   MAX OVERSIZED TSHIRTS FROM 99/- https://ajiio.co/271lfH MANY  CLOTHING UNDER ₹199 Men's https://ajiio.co/3p0KgS Women's https://ajiio.co/3qvkvM Boys https://ajiio.co/dHSZd8 Girls https://ajiio.co/V6ioZ2 Baby…",
@@ -10538,45 +10562,5 @@
     "date_obj": "2026-03-07T06:16:26+00:00",
     "buy_link": "https://myntr.in/bLBdFL",
     "date_iso": "2026-03-07T06:16:26+00:00"
-  },
-  {
-    "id": "msg29335",
-    "title": "Topwear Clothing Under @199",
-    "description": "Ajio | Topwear Clothing Under @199 Men's : https://ajiio.co/8qPDBa Women's : https://ajiio.co/5KSwwP Boy’s : https://ajiio.co/7YRGHM Girl’s : https://ajiio.co/xlMMLV Baby : https://ajiio.co/fp5Sa3",
-    "shortlink": "https://ajiio.co/8qPDBa",
-    "urls": [
-      {
-        "url": "",
-        "label": "Topwear Clothing Under @199"
-      },
-      {
-        "url": "https://ajiio.co/8qPDBa",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/5KSwwP",
-        "label": "Women's"
-      },
-      {
-        "url": "https://ajiio.co/7YRGHM",
-        "label": "Boy’s"
-      },
-      {
-        "url": "https://ajiio.co/xlMMLV",
-        "label": "Girl’s"
-      },
-      {
-        "url": "https://ajiio.co/fp5Sa3",
-        "label": "Baby"
-      }
-    ],
-    "raw_text": "Ajio | Topwear Clothing Under @199\n\nMen's : https://ajiio.co/8qPDBa\nWomen's : https://ajiio.co/5KSwwP\nBoy’s : https://ajiio.co/7YRGHM\nGirl’s : https://ajiio.co/xlMMLV\nBaby : https://ajiio.co/fp5Sa3",
-    "final_url": "https://ajiio.co/8qPDBa",
-    "local_image": "assets/images/tgmsg_29335.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-03-07T06:35:47+00:00",
-    "buy_link": "https://ajiio.co/8qPDBa",
-    "date_iso": "2026-03-07T06:35:47+00:00"
   }
 ]
