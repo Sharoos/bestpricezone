@@ -1,5 +1,109 @@
 [
   {
+    "id": "msg30170",
+    "title": "🛒 Deal Price Up to 55% Off",
+    "description": "Flipkart | 👃 Wildstone Perfume - Up to 55% Off Wildstone Perfumes 🛒 Deal Price: Up to 55% Off 👉 Wildstone Perfumes 🛒 Deal Price: Up to 53% Off 👉",
+    "shortlink": "https://fkrt.co/5mNqYe",
+    "urls": [
+      {
+        "url": "",
+        "label": "👃 Wildstone Perfume - Up to 55% Off"
+      },
+      {
+        "url": "",
+        "label": "Wildstone Perfumes"
+      },
+      {
+        "url": "https://fkrt.co/5mNqYe",
+        "label": "🛒 Deal Price: Up to 55% Off"
+      },
+      {
+        "url": "https://fkrt.co/rnSuOq",
+        "label": "🛒 Deal Price: Up to 53% Off"
+      }
+    ],
+    "raw_text": "Flipkart | 👃 Wildstone Perfume - Up to 55% Off\n\nWildstone Perfumes\n\n🛒 Deal Price: Up to 55% Off\n\n👉https://fkrt.co/5mNqYe\n\nWildstone Perfumes\n\n🛒 Deal Price: Up to 53% Off\n\n👉https://fkrt.co/rnSuOq",
+    "final_url": "https://fkrt.co/5mNqYe",
+    "local_image": "assets/images/tgmsg_30170.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-14T09:16:23+00:00",
+    "buy_link": "https://fkrt.co/5mNqYe",
+    "date_iso": "2026-03-14T09:16:23+00:00"
+  },
+  {
+    "id": "msg30171",
+    "title": "💥DNMX Clothing Starts @ Rs.101 + Bank offers 🔥",
+    "description": "💥AJIO DNMX Clothing Starts @ Rs.101 + Bank offers 🔥 Men’s : 👉T-Shirts : 👉Jeans : 👉Shirts : 👉Sweaters & Cardigans : 👉Sweatshirt & Hoodies : 👉Shorts : 👉Trousers & Jogger : Women's : 👉T-shirts : 👉Shirts & Tops : 👉Jeans &…",
+    "shortlink": "https://ajiio.co/oogHtD",
+    "urls": [
+      {
+        "url": "",
+        "label": "💥AJIO DNMX Clothing Starts @ Rs.101 + Bank offers 🔥"
+      },
+      {
+        "url": "https://ajiio.co/oogHtD",
+        "label": "T-Shirts"
+      },
+      {
+        "url": "https://ajiio.co/f2Fjdb",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/9qU5nM",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/65XCDk",
+        "label": "Sweaters & Cardigans"
+      },
+      {
+        "url": "https://ajiio.co/JXiawo",
+        "label": "Sweatshirt & Hoodies"
+      },
+      {
+        "url": "https://ajiio.co/o0WDs4",
+        "label": "Shorts"
+      },
+      {
+        "url": "https://ajiio.co/SRUr2q",
+        "label": "Trousers & Jogger"
+      },
+      {
+        "url": "https://ajiio.co/qoh1Sd",
+        "label": "T-shirts"
+      },
+      {
+        "url": "https://ajiio.co/lGEfbS",
+        "label": "Shirts & Tops"
+      },
+      {
+        "url": "https://ajiio.co/T9MHab",
+        "label": "Jeans & Jeggings"
+      },
+      {
+        "url": "https://ajiio.co/NUapcx",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "https://ajiio.co/ZDYQhf",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/WgxGk5",
+        "label": "Jackets"
+      }
+    ],
+    "raw_text": "💥AJIO  DNMX Clothing Starts @ Rs.101 + Bank offers 🔥\n\nMen’s : \n👉T-Shirts : https://ajiio.co/oogHtD \n👉Jeans : https://ajiio.co/f2Fjdb \n👉Shirts : https://ajiio.co/9qU5nM \n👉Sweaters & Cardigans : https://ajiio.co/65XCDk \n👉Sweatshirt & Hoodies : https://ajiio.co/JXiawo \n👉Shorts : https://ajiio.co/o0WDs4 \n👉Trousers & Jogger : https://ajiio.co/SRUr2q \n\nWomen's : \n👉T-shirts : https://ajiio.co/qoh1Sd \n👉Shirts & Tops : https://ajiio.co/lGEfbS \n👉Jeans & Jeggings : https://ajiio.co/T9MHab \n👉Sweatshirts : https://ajiio.co/NUapcx \n👉Shirts : https://ajiio.co/ZDYQhf \n👉Jackets : https://ajiio.co/WgxGk5",
+    "final_url": "https://ajiio.co/oogHtD",
+    "local_image": "assets/images/tgmsg_30171.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-03-14T09:46:37+00:00",
+    "buy_link": "https://ajiio.co/oogHtD",
+    "date_iso": "2026-03-14T09:46:37+00:00"
+  },
+  {
     "id": "msg30169",
     "title": "BOGO Special Deal 🔥🔥",
     "description": "💝Beardo -  😍Buy 2 & Get 2 FREE ✨Best time to surprise someone special Shop Now : ❤️Offer valid for a limited time only!",
@@ -10134,73 +10238,5 @@
     "date_obj": "2026-03-09T12:23:22+00:00",
     "buy_link": "https://bitli.in/4yg2h2r",
     "date_iso": "2026-03-09T12:23:22+00:00"
-  },
-  {
-    "id": "msg29625",
-    "title": "🎀 Korean Style Shimmer Hairband (12 Pcs) – ₹113",
-    "description": "🛍🔥 Shopsy Budget Deals – Grab Fast! 🔥🛍 👗 Women Kurta, Pyjama & Dupatta Set – ₹330 👉 🗄 4 Layer Kitchen Storage Rack – ₹285 👉 🛏 Double Bedsheet + 2 Pillow Covers – ₹174 👉 👉  👉 ☕️ 1kg Elachi Tea – ₹221 👉 💸 Lowest Prices |…",
-    "shortlink": "https://extp.in/wPsZj5",
-    "urls": [
-      {
-        "url": "",
-        "label": "🛍🔥 Shopsy Budget Deals – Grab Fast! 🔥🛍"
-      },
-      {
-        "url": "https://extp.in/wPsZj5",
-        "label": "👗 Women Kurta, Pyjama & Dupatta Set – ₹330"
-      },
-      {
-        "url": "https://extp.in/4HbflD",
-        "label": "🗄 4 Layer Kitchen Storage Rack – ₹285"
-      },
-      {
-        "url": "https://extp.in/wOLhuy",
-        "label": "🛏 Double Bedsheet + 2 Pillow Covers – ₹174"
-      },
-      {
-        "url": "https://extp.in/84prmC",
-        "label": "🛏 Double Bedsheet + 2 Pillow Covers – ₹174"
-      },
-      {
-        "url": "https://extp.in/NDYJtU",
-        "label": "🎀 Korean Style Shimmer Hairband (12 Pcs) – ₹113"
-      },
-      {
-        "url": "https://extp.in/WzsxZa",
-        "label": "☕️ 1kg Elachi Tea – ₹221"
-      },
-      {
-        "url": "",
-        "label": "💸 Lowest Prices | Limited Stock – Shop Now! 🚀"
-      }
-    ],
-    "raw_text": "🛍🔥 Shopsy Budget Deals – Grab Fast! 🔥🛍\n\n👗 Women Kurta, Pyjama & Dupatta Set – ₹330\n👉 https://extp.in/wPsZj5\n\n🗄 4 Layer Kitchen Storage Rack – ₹285\n👉 https://extp.in/4HbflD\n\n🛏 Double Bedsheet + 2 Pillow Covers – ₹174\n👉 https://extp.in/wOLhuy\n\n👉 https://extp.in/84prmC\n\n🎀 Korean Style Shimmer Hairband (12 Pcs) – ₹113\n👉 https://extp.in/NDYJtU\n\n☕️ 1kg Elachi Tea – ₹221\n👉 https://extp.in/WzsxZa\n\n💸 Lowest Prices | Limited Stock – Shop Now! 🚀",
-    "final_url": "https://extp.in/wPsZj5",
-    "local_image": "assets/images/tgmsg_29625.jpg",
-    "source_host": "extp.in",
-    "merchant_label": "Extp",
-    "date_obj": "2026-03-09T12:50:22+00:00",
-    "buy_link": "https://extp.in/wPsZj5",
-    "date_iso": "2026-03-09T12:50:22+00:00"
-  },
-  {
-    "id": "msg29626",
-    "title": "Noise Pulse2 Max Only At 830 + use code NoiseSW370+ Bank Offers!!",
-    "description": "Myntra | Noise Pulse2 Max Only At 830 + use coupon code NoiseSW370+ Bank Offers!! 🔗",
-    "shortlink": "https://myntr.in/JYVMxt",
-    "urls": [
-      {
-        "url": "https://myntr.in/JYVMxt",
-        "label": ""
-      }
-    ],
-    "raw_text": "Myntra | Noise Pulse2 Max Only At 830 + use coupon code NoiseSW370+ Bank Offers!!\n\n🔗 https://myntr.in/JYVMxt",
-    "final_url": "https://myntr.in/JYVMxt",
-    "local_image": "assets/images/tgmsg_29626.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-09T13:03:28+00:00",
-    "buy_link": "https://myntr.in/JYVMxt",
-    "date_iso": "2026-03-09T13:03:28+00:00"
   }
 ]
