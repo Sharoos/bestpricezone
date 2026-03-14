@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg30248",
+    "title": "Highlander Men's Cargos Up to 82% off",
+    "description": "Flipkart | Highlander Men's Cargos upto 82% off 👉 https://fkrt.co/JNTCey",
+    "shortlink": "https://fkrt.co/JNTCey",
+    "urls": [
+      {
+        "url": "https://fkrt.co/JNTCey",
+        "label": "Highlander Men's Cargos upto 82% off"
+      }
+    ],
+    "raw_text": "Flipkart | Highlander Men's Cargos upto 82% off\n\n👉 https://fkrt.co/JNTCey",
+    "final_url": "https://fkrt.co/JNTCey",
+    "local_image": "assets/images/tgmsg_30248.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-14T17:56:20+00:00",
+    "buy_link": "https://fkrt.co/JNTCey",
+    "date_iso": "2026-03-14T17:56:20+00:00"
+  },
+  {
     "id": "msg30240",
     "title": "Bhim App Weekend Get ₹50 Instant Cashback + Extra ₹250 On Your Credit Card",
     "description": "Bhim App Weekend Loot : Get ₹50 Instant Cashback + Extra ₹250 On Your Credit Card. Link your RuPay Credit Card on BHIM. Make 2 payments of ₹250+ each. Download Now: Valid : 14th & 15th March Only",
@@ -10346,37 +10366,5 @@
     "date_obj": "2026-03-10T09:50:19+00:00",
     "buy_link": "https://www.amazon.in/dp/B0F63H5YHM/ref=cm_sw_r_as_gl_apa_gl_i_dl_970A731N083MDRQSWKD2?tag=bestpricezo0f-21",
     "date_iso": "2026-03-10T09:50:19+00:00"
-  },
-  {
-    "id": "msg29698",
-    "title": "Men,Unisex Duffle Bag Under @ 499",
-    "description": "Myntra |  🔗 Men,Unisex Belts & Wallets @299 🔗 Men,Unisex Socks @299 🔗 Men,Unisex Rucksack @899 🔗",
-    "shortlink": "https://myntr.in/jFrxnO",
-    "urls": [
-      {
-        "url": "https://myntr.in/jFrxnO",
-        "label": "Men,Unisex Duffle Bag Under @ 499"
-      },
-      {
-        "url": "https://myntr.in/1UUWBx",
-        "label": "Men,Unisex Belts & Wallets @299"
-      },
-      {
-        "url": "https://myntr.in/fkuaXq",
-        "label": "Men,Unisex Socks @299"
-      },
-      {
-        "url": "https://myntr.in/h7FEBj",
-        "label": "Men,Unisex Rucksack @899"
-      }
-    ],
-    "raw_text": "Myntra | Men,Unisex Duffle Bag Under @ 499\n🔗 https://myntr.in/jFrxnO\n\nMen,Unisex Belts & Wallets @299\n🔗 https://myntr.in/1UUWBx\n\nMen,Unisex Socks @299\n🔗 https://myntr.in/fkuaXq\n\nMen,Unisex Rucksack @899\n🔗 https://myntr.in/h7FEBj",
-    "final_url": "https://myntr.in/jFrxnO",
-    "local_image": "assets/images/tgmsg_29698.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-10T10:02:40+00:00",
-    "buy_link": "https://myntr.in/jFrxnO",
-    "date_iso": "2026-03-10T10:02:40+00:00"
   }
 ]
