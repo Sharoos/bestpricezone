@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg30178",
+    "title": "Min 50% off on Mosquito Net",
+    "description": "Myntra | s 🔗 Double Bedsheets starting @ 199 only 🔗 Min 60% off on newly Launched Fitted Bedsheets 🔗 Doormats starting @ 99 only! 🔗 min 50% off on Popular Curtians 🔗 Min 40% off on MAFATLAL 🔗",
+    "shortlink": "https://myntr.in/bXyW2i",
+    "urls": [
+      {
+        "url": "https://myntr.in/bXyW2i",
+        "label": "Min 50% off on Mosquito Nets"
+      },
+      {
+        "url": "https://myntr.in/ZHF9gO",
+        "label": "Double Bedsheets starting @ 199 only"
+      },
+      {
+        "url": "https://myntr.in/owYW0K",
+        "label": "Min 60% off on newly Launched Fitted Bedsheets"
+      },
+      {
+        "url": "https://myntr.in/fl6h0h",
+        "label": "Doormats starting @ 99 only!"
+      },
+      {
+        "url": "https://myntr.in/9AL3ey",
+        "label": "min 50% off on Popular Curtians"
+      },
+      {
+        "url": "https://myntr.in/nhkbZc",
+        "label": "Min 40% off on MAFATLAL"
+      }
+    ],
+    "raw_text": "Myntra | Min 50% off on Mosquito Nets \n🔗 https://myntr.in/bXyW2i\n\nDouble Bedsheets starting @ 199 only\n🔗 https://myntr.in/ZHF9gO\n\nMin 60% off on newly Launched Fitted Bedsheets \n🔗 https://myntr.in/owYW0K\n\nDoormats starting @ 99 only!\n🔗 https://myntr.in/fl6h0h\n\nmin 50% off on Popular Curtians\n🔗 https://myntr.in/9AL3ey\n\nMin 40% off on MAFATLAL \n🔗 https://myntr.in/nhkbZc",
+    "final_url": "https://myntr.in/bXyW2i",
+    "local_image": "assets/images/tgmsg_30178.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-14T11:16:10+00:00",
+    "buy_link": "https://myntr.in/bXyW2i",
+    "date_iso": "2026-03-14T11:16:10+00:00"
+  },
+  {
     "id": "msg30173",
     "title": "POCO C85x 5G First Sale is live 4/64 @10,999. 3 Month No Cost EMI",
     "description": "POCO C85x 5G First Sale is live | 4/64 @10,999. | 3 Month No Cost EMI 4/128 @11,999 | 3 Month No Cost EMI",
@@ -10210,33 +10250,5 @@
     "date_obj": "2026-03-09T13:47:10+00:00",
     "buy_link": "https://myntr.in/p0g8Qx",
     "date_iso": "2026-03-09T13:47:10+00:00"
-  },
-  {
-    "id": "msg29634",
-    "title": "Tiaraa Mega",
-    "description": "Tiaraa Mega Loot: Get any 5 products @ 299 INR including shipping ✅Use Code : LOOT5 Link : https://bitli.in/u71Qy0k",
-    "shortlink": "https://bitli.in/u71Qy0k",
-    "urls": [
-      {
-        "url": "",
-        "label": "Tiaraa Mega Loot"
-      },
-      {
-        "url": "",
-        "label": "Get any 5 products @ 299 INR including shipping"
-      },
-      {
-        "url": "https://bitli.in/u71Qy0k",
-        "label": "✅Use Code : LOOT5"
-      }
-    ],
-    "raw_text": "Tiaraa Mega Loot:\nGet any 5 products @ 299 INR including shipping \n\n✅Use Code : LOOT5 \n\nLink : https://bitli.in/u71Qy0k",
-    "final_url": "https://bitli.in/u71Qy0k",
-    "local_image": "assets/images/tgmsg_29634.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-03-09T14:02:47+00:00",
-    "buy_link": "https://bitli.in/u71Qy0k",
-    "date_iso": "2026-03-09T14:02:47+00:00"
   }
 ]
