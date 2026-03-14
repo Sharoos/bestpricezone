@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg30169",
+    "title": "BOGO Special Deal 🔥🔥",
+    "description": "💝Beardo -  😍Buy 2 & Get 2 FREE ✨Best time to surprise someone special Shop Now : ❤️Offer valid for a limited time only!",
+    "shortlink": "https://bilty.co/AUxmO6",
+    "urls": [
+      {
+        "url": "",
+        "label": "💝Beardo - BOGO Special Deal 🔥🔥"
+      },
+      {
+        "url": "",
+        "label": "✨Best time to surprise someone special"
+      },
+      {
+        "url": "https://bilty.co/AUxmO6",
+        "label": "Shop Now"
+      },
+      {
+        "url": "",
+        "label": "❤️Offer valid for a limited time only!"
+      }
+    ],
+    "raw_text": "💝Beardo - BOGO Special Deal 🔥🔥\n\n😍Buy 2 & Get 2 FREE\n✨Best time to surprise someone special\n\nShop Now : https://bilty.co/AUxmO6\n\n❤️Offer valid for a limited time only!",
+    "final_url": "https://bilty.co/AUxmO6",
+    "local_image": "assets/images/tgmsg_30169.jpg",
+    "source_host": "bilty.co",
+    "merchant_label": "Bilty",
+    "date_obj": "2026-03-14T09:00:10+00:00",
+    "buy_link": "https://bilty.co/AUxmO6",
+    "date_iso": "2026-03-14T09:00:10+00:00"
+  },
+  {
     "id": "msg30165",
     "title": "✨ Boroplus Beauty Products – Up to 60% OFF",
     "description": "🔥 Personal Care Deals on Myntra 🔥  👉 🪥 Colgate Toothpaste – Up to 55% OFF 👉 🌟 Beardo Perfumes – Min 70% OFF 👉",
@@ -10170,29 +10202,5 @@
     "date_obj": "2026-03-09T13:03:28+00:00",
     "buy_link": "https://myntr.in/JYVMxt",
     "date_iso": "2026-03-09T13:03:28+00:00"
-  },
-  {
-    "id": "msg29613",
-    "title": "Up to 73% Off",
-    "description": "Flipkart | Upto 73% Off -  Beauty And Grooming Kit Starting Rs.167 🔗 https://fkrt.co/2f21kb",
-    "shortlink": "https://fkrt.co/2f21kb",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 73% Off - Beauty And Grooming Kit"
-      },
-      {
-        "url": "https://fkrt.co/2f21kb",
-        "label": "Starting Rs.167"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 73% Off -  Beauty And Grooming Kit\n\nStarting Rs.167\n\n 🔗 https://fkrt.co/2f21kb",
-    "final_url": "https://fkrt.co/2f21kb",
-    "local_image": "assets/images/tgmsg_29613.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-09T11:15:23+00:00",
-    "buy_link": "https://fkrt.co/2f21kb",
-    "date_iso": "2026-03-09T11:15:23+00:00"
   }
 ]
