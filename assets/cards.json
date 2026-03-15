@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg30304",
+    "title": "Cargo Pants Starts @199",
+    "description": "AJIO : Cargo Pants Starts @199 Men : https://ajiio.co/a1q6ke Women : https://ajiio.co/fVMMfL",
+    "shortlink": "https://ajiio.co/a1q6ke",
+    "urls": [
+      {
+        "url": "",
+        "label": "Cargo Pants Starts @199"
+      },
+      {
+        "url": "https://ajiio.co/a1q6ke",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/fVMMfL",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "AJIO : Cargo Pants Starts @199\n \nMen : https://ajiio.co/a1q6ke \nWomen : https://ajiio.co/fVMMfL",
+    "final_url": "https://ajiio.co/a1q6ke",
+    "local_image": "assets/images/tgmsg_30304.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-03-15T13:34:51+00:00",
+    "buy_link": "https://ajiio.co/a1q6ke",
+    "date_iso": "2026-03-15T13:34:51+00:00"
+  },
+  {
+    "id": "msg30306",
+    "title": "👗 Girls Dresses Special Deal",
+    "description": "🔥 Kids Fashion Price Drop on Flipkart 👕👗 💥 Kids T-Shirts, Combos & More 🛍️ Starting Under ₹199 👉  💥 Trendy Styles Under ₹199 👉",
+    "shortlink": "https://fkrt.co/XjKyco",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Kids Fashion Price Drop on Flipkart 👕👗"
+      },
+      {
+        "url": "",
+        "label": "💥 Kids T-Shirts, Combos & More"
+      },
+      {
+        "url": "https://fkrt.co/XjKyco",
+        "label": "🛍️ Starting Under ₹199"
+      },
+      {
+        "url": "",
+        "label": "👗 Girls Dresses Special Deal"
+      },
+      {
+        "url": "https://fkrt.co/08YVod",
+        "label": "💥 Trendy Styles Under ₹199"
+      }
+    ],
+    "raw_text": "🔥 Kids Fashion Price Drop on Flipkart 👕👗\n\n💥 Kids T-Shirts, Combos & More\n🛍️ Starting Under ₹199\n👉 https://fkrt.co/XjKyco\n\n👗 Girls Dresses Special Deal\n💥 Trendy Styles Under ₹199\n👉 https://fkrt.co/08YVod",
+    "final_url": "https://fkrt.co/XjKyco",
+    "local_image": "assets/images/tgmsg_30306.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-15T13:41:27+00:00",
+    "buy_link": "https://fkrt.co/XjKyco",
+    "date_iso": "2026-03-15T13:41:27+00:00"
+  },
+  {
     "id": "msg30296",
     "title": "Up to 85% Off On Premium Brand Men's & Women's Shoe",
     "description": "Ajio : Upto 85% Off On Premium Brand Men's & Women's Shoe Men's Shoes Adidas : Puma : Nike : Reebok : Campus : Red Tape : Skechers : Red Chief : Women's Shoes Adidas : Puma : Nike : Reebok : Campus : Red Tape : Skechers…",
@@ -10542,57 +10606,5 @@
     "date_obj": "2026-03-10T14:46:33+00:00",
     "buy_link": "https://fkrt.co/bcU8CY",
     "date_iso": "2026-03-10T14:46:33+00:00"
-  },
-  {
-    "id": "msg29732",
-    "title": "Up to 85% Off On Red Tape Shoe",
-    "description": "AJIO : Upto 85% Off On Red Tape Shoes Men's : Women's : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "shortlink": "https://ajiio.co/DDIqTB",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On Red Tape Shoes"
-      },
-      {
-        "url": "https://ajiio.co/DDIqTB",
-        "label": "Men's"
-      },
-      {
-        "url": "https://ajiio.co/HnC3rY",
-        "label": "Women's"
-      },
-      {
-        "url": "",
-        "label": "💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!"
-      }
-    ],
-    "raw_text": "AJIO : Upto 85% Off On Red Tape Shoes\n\nMen's : https://ajiio.co/DDIqTB\n\nWomen's : https://ajiio.co/HnC3rY\n\n💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
-    "final_url": "https://ajiio.co/DDIqTB",
-    "local_image": "assets/images/tgmsg_29732.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-03-10T14:46:43+00:00",
-    "buy_link": "https://ajiio.co/DDIqTB",
-    "date_iso": "2026-03-10T14:46:43+00:00"
-  },
-  {
-    "id": "msg29733",
-    "title": "Highlander Men's Cargos Up to 82% off",
-    "description": "Flipkart | Highlander Men's Cargos upto 82% off 👉 https://fkrt.co/V0NqLy",
-    "shortlink": "https://fkrt.co/V0NqLy",
-    "urls": [
-      {
-        "url": "https://fkrt.co/V0NqLy",
-        "label": "Highlander Men's Cargos upto 82% off"
-      }
-    ],
-    "raw_text": "Flipkart | Highlander Men's Cargos upto 82% off\n\n👉 https://fkrt.co/V0NqLy",
-    "final_url": "https://fkrt.co/V0NqLy",
-    "local_image": "assets/images/tgmsg_29733.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-10T15:01:58+00:00",
-    "buy_link": "https://fkrt.co/V0NqLy",
-    "date_iso": "2026-03-10T15:01:58+00:00"
   }
 ]
