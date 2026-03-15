@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg30286",
+    "title": "💥 Deal Price ₹549",
+    "description": "Kitchen Essentials Deals on Myntra 🔥 ⚡ Milton 1.2L Electric Kettle 💥 Deal Price: ₹549 👉 🍲 Butterfly Curve 3L Stainless Steel Pressure Cooker 💥 ₹1499 + Extra Coupon Discounts 👉 ☕ Havells Altro 1.5L Electric Kettle 💥…",
+    "shortlink": "https://myntr.in/bup1gA",
+    "urls": [
+      {
+        "url": "",
+        "label": "Kitchen Essentials Deals on Myntra 🔥"
+      },
+      {
+        "url": "",
+        "label": "⚡ Milton 1.2L Electric Kettle"
+      },
+      {
+        "url": "https://myntr.in/bup1gA",
+        "label": "💥 Deal Price: ₹549"
+      },
+      {
+        "url": "https://myntr.in/OusMUD",
+        "label": "🍲 Butterfly Curve 3L Stainless Steel Pressure Cooker"
+      },
+      {
+        "url": "https://myntr.in/EOjcLl",
+        "label": "☕ Havells Altro 1.5L Electric Kettle"
+      }
+    ],
+    "raw_text": "Kitchen Essentials Deals on Myntra 🔥\n\n⚡ Milton 1.2L Electric Kettle\n💥 Deal Price: ₹549\n👉 https://myntr.in/bup1gA\n\n🍲 Butterfly Curve 3L Stainless Steel Pressure Cooker\n💥 ₹1499 + Extra Coupon Discounts\n👉 https://myntr.in/OusMUD\n\n☕ Havells Altro 1.5L Electric Kettle\n💥 ₹1199 + Extra Coupon Discounts\n👉 https://myntr.in/EOjcLl",
+    "final_url": "https://myntr.in/bup1gA",
+    "local_image": "assets/images/tgmsg_30286.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-15T09:46:23+00:00",
+    "buy_link": "https://myntr.in/bup1gA",
+    "date_iso": "2026-03-15T09:46:23+00:00"
+  },
+  {
     "id": "msg30283",
     "title": "⚡ ASICS & SKECHERS Min 50% OFF!",
     "description": "🚨🚨FLIPKART LAST DAY! MEN’S SPORTS SHOES DEAL! 🚨🚨 ⏳Massive Price Drop – Ending Tonight! 🔥 PUMA & ADIDAS from Rs. 999! 👉  👉 💣 CAMPUS & ASIAN from Rs.399! 👉 💳 Extra Bank Offers Live! 🏃‍♂️ Final Hours! Grab Before Prices Go…",
@@ -10454,45 +10490,5 @@
     "date_obj": "2026-03-10T12:45:19+00:00",
     "buy_link": "https://fkrt.co/JCrOsK",
     "date_iso": "2026-03-10T12:45:19+00:00"
-  },
-  {
-    "id": "msg29714",
-    "title": "Min 50% off on Branded Watches + 10% Bank Offe",
-    "description": "Flipkart : Min 50% off on Branded Watches + 10% Bank Offer Fossil : https://fkrt.co/1LnJLS Titan : https://fkrt.co/bph1nv Fastrack : https://fkrt.co/Bt5wQp Casio : https://fkrt.co/OrNRvS Tommy hilfiger :…",
-    "shortlink": "https://fkrt.co/1LnJLS",
-    "urls": [
-      {
-        "url": "",
-        "label": "Min 50% off on Branded Watches + 10% Bank Offer"
-      },
-      {
-        "url": "https://fkrt.co/1LnJLS",
-        "label": "Fossil"
-      },
-      {
-        "url": "https://fkrt.co/bph1nv",
-        "label": "Titan"
-      },
-      {
-        "url": "https://fkrt.co/Bt5wQp",
-        "label": "Fastrack"
-      },
-      {
-        "url": "https://fkrt.co/OrNRvS",
-        "label": "Casio"
-      },
-      {
-        "url": "https://fkrt.co/GHHNPM",
-        "label": "Tommy hilfiger"
-      }
-    ],
-    "raw_text": "Flipkart : Min 50% off on Branded Watches + 10% Bank Offer\n\nFossil : https://fkrt.co/1LnJLS\nTitan : https://fkrt.co/bph1nv\nFastrack : https://fkrt.co/Bt5wQp\nCasio : https://fkrt.co/OrNRvS\nTommy hilfiger : https://fkrt.co/GHHNPM",
-    "final_url": "https://fkrt.co/1LnJLS",
-    "local_image": "assets/images/tgmsg_29714.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-10T12:47:18+00:00",
-    "buy_link": "https://fkrt.co/1LnJLS",
-    "date_iso": "2026-03-10T12:47:18+00:00"
   }
 ]
