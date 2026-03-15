@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg30311",
+    "title": "Purvaja Women's Lehenga Cholis Starts at Rs.656/",
+    "description": "Flipkart | Purvaja Women's Lehenga Cholis Starts at Rs.656/- 🔗 https://fkrt.co/eFRZIr",
+    "shortlink": "https://fkrt.co/eFRZIr",
+    "urls": [
+      {
+        "url": "https://fkrt.co/eFRZIr",
+        "label": "Purvaja Women's Lehenga Cholis Starts at Rs.656/"
+      }
+    ],
+    "raw_text": "Flipkart | Purvaja Women's Lehenga Cholis Starts at Rs.656/-\n\n🔗 https://fkrt.co/eFRZIr",
+    "final_url": "https://fkrt.co/eFRZIr",
+    "local_image": "assets/images/tgmsg_30311.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-15T14:32:19+00:00",
+    "buy_link": "https://fkrt.co/eFRZIr",
+    "date_iso": "2026-03-15T14:32:19+00:00"
+  },
+  {
     "id": "msg30310",
     "title": "Head & Shoulders min 50% off",
     "description": "Myntra | Episoft - Up To 40% off 🔗 Scalpe - Up To 45% 🔗 Bontress - Up To 40% 🔗 La Shield - Upto 45% off 🔗  🔗",
@@ -10550,61 +10570,5 @@
     "date_obj": "2026-03-10T16:41:44+00:00",
     "buy_link": "https://bilty.co/PkV36i",
     "date_iso": "2026-03-10T16:41:44+00:00"
-  },
-  {
-    "id": "msg29729",
-    "title": "Up to 85% Off On Jack & Jones Clothing",
-    "description": "AJIO Upto 85% Off On Jack & Jones Clothing. Master Link : T-Shirts : Shirts : Jeans : Sweatshirts & Sweaters : Jackets : Shorts : Trackpants : Trousers :",
-    "shortlink": "https://ajiio.co/akKvmI",
-    "urls": [
-      {
-        "url": "https://ajiio.co/akKvmI",
-        "label": "AJIO Upto 85% Off On Jack & Jones Clothing"
-      },
-      {
-        "url": "https://ajiio.co/CyBAhL",
-        "label": "AJIO Upto 85% Off On Jack & Jones Clothing"
-      },
-      {
-        "url": "https://ajiio.co/kffrJG",
-        "label": "T-Shirts"
-      },
-      {
-        "url": "https://ajiio.co/tWfNKI",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/vOHyq4",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/3JwJUB",
-        "label": "Sweatshirts & Sweaters"
-      },
-      {
-        "url": "https://ajiio.co/RuK8On",
-        "label": "Jackets"
-      },
-      {
-        "url": "https://ajiio.co/RgvR31",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.co/ZXdSLZ",
-        "label": "Trackpants"
-      },
-      {
-        "url": "https://ajiio.co/Jp7mFB",
-        "label": "Trousers"
-      }
-    ],
-    "raw_text": "AJIO  Upto 85% Off On Jack & Jones Clothing.\nMaster Link : \nhttps://ajiio.co/akKvmI \nhttps://ajiio.co/CyBAhL\n\nT-Shirts : https://ajiio.co/kffrJG\nShirts : https://ajiio.co/tWfNKI\nJeans : https://ajiio.co/vOHyq4\nSweatshirts & Sweaters : https://ajiio.co/3JwJUB\nJackets : https://ajiio.co/RuK8On\nShorts : https://ajiio.co/RgvR31\nTrackpants : https://ajiio.co/ZXdSLZ\nTrousers : https://ajiio.co/Jp7mFB",
-    "final_url": "https://ajiio.co/akKvmI",
-    "local_image": "assets/images/tgmsg_29729.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-03-10T14:35:17+00:00",
-    "buy_link": "https://ajiio.co/akKvmI",
-    "date_iso": "2026-03-10T14:35:17+00:00"
   }
 ]
