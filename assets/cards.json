@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg30310",
+    "title": "Head & Shoulders min 50% off",
+    "description": "Myntra | Episoft - Up To 40% off 🔗 Scalpe - Up To 45% 🔗 Bontress - Up To 40% 🔗 La Shield - Upto 45% off 🔗  🔗",
+    "shortlink": "https://myntr.in/uIDYKB",
+    "urls": [
+      {
+        "url": "https://myntr.in/uIDYKB",
+        "label": "Episoft - Up To 40% off"
+      },
+      {
+        "url": "https://myntr.in/n4zCLs",
+        "label": "Up To 45%"
+      },
+      {
+        "url": "https://myntr.in/EtdsoS",
+        "label": "Up To 40%"
+      },
+      {
+        "url": "https://myntr.in/7hrJzW",
+        "label": "Upto 45% off"
+      },
+      {
+        "url": "https://myntr.in/HJG9Db",
+        "label": "Head & Shoulders min 50% off"
+      }
+    ],
+    "raw_text": "Myntra | Episoft - Up To 40% off\n🔗https://myntr.in/uIDYKB\n\nScalpe - Up To 45%\n🔗https://myntr.in/n4zCLs \n\nBontress - Up To 40%\n🔗https://myntr.in/EtdsoS\n\nLa Shield - Upto 45% off\n🔗https://myntr.in/7hrJzW\n\nHead & Shoulders min 50% off\n🔗https://myntr.in/HJG9Db",
+    "final_url": "https://myntr.in/uIDYKB",
+    "local_image": "assets/images/tgmsg_30310.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-15T14:15:25+00:00",
+    "buy_link": "https://myntr.in/uIDYKB",
+    "date_iso": "2026-03-15T14:15:25+00:00"
+  },
+  {
     "id": "msg30304",
     "title": "Cargo Pants Starts @199",
     "description": "AJIO : Cargo Pants Starts @199 Men : https://ajiio.co/a1q6ke Women : https://ajiio.co/fVMMfL",
@@ -10570,41 +10606,5 @@
     "date_obj": "2026-03-10T14:35:17+00:00",
     "buy_link": "https://ajiio.co/akKvmI",
     "date_iso": "2026-03-10T14:35:17+00:00"
-  },
-  {
-    "id": "msg29731",
-    "title": "Up to 85% Off On HRX Luggage",
-    "description": "Flipkart | Upto 85% Off On HRX Luggage. Small : https://fkrt.co/bcU8CY Medium : https://fkrt.co/f4R2rc Large : https://fkrt.co/GxseIY Pack Of 2/3 : https://fkrt.co/3K8pCE",
-    "shortlink": "https://fkrt.co/bcU8CY",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On HRX Luggage"
-      },
-      {
-        "url": "https://fkrt.co/bcU8CY",
-        "label": "Small"
-      },
-      {
-        "url": "https://fkrt.co/f4R2rc",
-        "label": "Medium"
-      },
-      {
-        "url": "https://fkrt.co/GxseIY",
-        "label": "Large"
-      },
-      {
-        "url": "https://fkrt.co/3K8pCE",
-        "label": "Pack Of 2/3"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 85% Off On HRX Luggage.\n\nSmall : https://fkrt.co/bcU8CY\nMedium : https://fkrt.co/f4R2rc\nLarge : https://fkrt.co/GxseIY\n\nPack Of 2/3 : https://fkrt.co/3K8pCE",
-    "final_url": "https://fkrt.co/bcU8CY",
-    "local_image": "assets/images/tgmsg_29731.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-10T14:46:33+00:00",
-    "buy_link": "https://fkrt.co/bcU8CY",
-    "date_iso": "2026-03-10T14:46:33+00:00"
   }
 ]
