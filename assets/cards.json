@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg30437",
+    "title": "Up to 60% Off Adidas Originals Shoe",
+    "description": "Myntra | Upto 60% Off : Adidas Originals Shoes Men : Women : Adidas Gazelle Series : Upto 90% Off On Mast & Harbour Clothing. Women : Men :",
+    "shortlink": "https://myntr.in/TnYKoN",
+    "urls": [
+      {
+        "url": "https://myntr.in/TnYKoN",
+        "label": "Upto 60% Off : Adidas Originals Shoes"
+      },
+      {
+        "url": "https://myntr.in/6lc34r",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/eY4721",
+        "label": "Adidas Gazelle Series"
+      },
+      {
+        "url": "",
+        "label": "Upto 90% Off On Mast & Harbour Clothing"
+      },
+      {
+        "url": "https://myntr.in/s4JjJY",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/9uONgs",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "Myntra | Upto 60% Off : Adidas Originals Shoes\n\nMen : https://myntr.in/TnYKoN\nWomen : https://myntr.in/6lc34r\n\nAdidas Gazelle Series : https://myntr.in/eY4721\n\nUpto 90% Off On Mast & Harbour Clothing.\n\nWomen : https://myntr.in/s4JjJY\n\nMen : https://myntr.in/9uONgs",
+    "final_url": "https://myntr.in/TnYKoN",
+    "local_image": "assets/images/tgmsg_30437.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-17T06:38:47+00:00",
+    "buy_link": "https://myntr.in/TnYKoN",
+    "date_iso": "2026-03-17T06:38:47+00:00"
+  },
+  {
     "id": "msg30430",
     "title": "Ready to wear Sarees min 70% Off",
     "description": "Flipkart Fashion Fest 💥💥 Ethnic Sets Flat Rs.299 Festive Ethnic Sets Flat Rs.399 Kanjivaram, Banarasi sarees Flat Rs.499 Lehenga Cholis Flat Rs.599 Anarkali Kurtis Flat Rs.299",
@@ -10674,49 +10714,5 @@
     "date_obj": "2026-03-11T14:38:35+00:00",
     "buy_link": "https://fkrt.co/5SwSns⁠",
     "date_iso": "2026-03-11T14:38:35+00:00"
-  },
-  {
-    "id": "msg29868",
-    "title": "🎟️ Extra 10% Instant Bank Discount",
-    "description": "🔥 Luggage Set Sale on Flipkart 🧳 💥 3Pc Trolley Luggage Sets From ₹3449  ✅ Top Brands: Safari, HRX & More ✅ Cabin + Medium + Large (3 Bags Set) ✅ 360° Wheels | Hard Body | Travel Ready 👉 Shop Now:",
-    "shortlink": "https://fkrt.co/lYTBeO",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Luggage Set Sale on Flipkart 🧳"
-      },
-      {
-        "url": "",
-        "label": "💥 3Pc Trolley Luggage Sets From ₹3449"
-      },
-      {
-        "url": "",
-        "label": "🎟️ Extra 10% Instant Bank Discount"
-      },
-      {
-        "url": "",
-        "label": "✅ Top Brands: Safari, HRX & More"
-      },
-      {
-        "url": "",
-        "label": "✅ Cabin + Medium + Large (3 Bags Set)"
-      },
-      {
-        "url": "",
-        "label": "✅ 360° Wheels | Hard Body | Travel Ready"
-      },
-      {
-        "url": "https://fkrt.co/lYTBeO",
-        "label": "Shop Now"
-      }
-    ],
-    "raw_text": "🔥 Luggage Set Sale on Flipkart 🧳\n\n💥 3Pc Trolley Luggage Sets From ₹3449\n🎟️ Extra 10% Instant Bank Discount\n\n✅ Top Brands: Safari, HRX & More\n✅ Cabin + Medium + Large (3 Bags Set)\n✅ 360° Wheels | Hard Body | Travel Ready\n\n👉 Shop Now: https://fkrt.co/lYTBeO",
-    "final_url": "https://fkrt.co/lYTBeO",
-    "local_image": "assets/images/tgmsg_29868.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-11T14:40:49+00:00",
-    "buy_link": "https://fkrt.co/lYTBeO",
-    "date_iso": "2026-03-11T14:40:49+00:00"
   }
 ]
