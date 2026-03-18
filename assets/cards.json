@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg30619",
+    "title": "T",
+    "description": "AJIO : T-shirts Starts @80. Women : https://ajiio.co/9grNXe Men : https://ajiio.co/HHuUWk Cargo Pants. Men : https://ajiio.co/gS4aaf Women : https://ajiio.co/5xT2Id",
+    "shortlink": "https://ajiio.co/9grNXe",
+    "urls": [
+      {
+        "url": "",
+        "label": "T-shirts Starts @80"
+      },
+      {
+        "url": "https://ajiio.co/9grNXe",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/HHuUWk",
+        "label": "Men"
+      },
+      {
+        "url": "",
+        "label": "Cargo Pants"
+      },
+      {
+        "url": "https://ajiio.co/gS4aaf",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/5xT2Id",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "AJIO : T-shirts Starts @80.\n \nWomen : https://ajiio.co/9grNXe \nMen : https://ajiio.co/HHuUWk\n\nCargo Pants. \n \nMen : https://ajiio.co/gS4aaf \nWomen : https://ajiio.co/5xT2Id",
+    "final_url": "https://ajiio.co/9grNXe",
+    "local_image": "assets/images/tgmsg_30619.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-03-18T18:14:33+00:00",
+    "buy_link": "https://ajiio.co/9grNXe",
+    "date_iso": "2026-03-18T18:14:33+00:00"
+  },
+  {
     "id": "msg30611",
     "title": "Up to 80% OFF on UCB Clothing",
     "description": "Ajio | Up to 80% OFF on UCB Clothing Men’s: https://ajiio.co/ytcGcf Women’s: https://ajiio.co/DUzM20 Boy’s: https://ajiio.co/54qJ51 Girl’s: https://ajiio.co/oCuWdu *10% Ajio Super Cash On Every Order.",
@@ -10930,41 +10970,5 @@
     "date_obj": "2026-03-12T12:53:42+00:00",
     "buy_link": "https://bilty.co/xjcHoQ",
     "date_iso": "2026-03-12T12:53:42+00:00"
-  },
-  {
-    "id": "msg29969",
-    "title": "Shopsy – Grooming Essentials Deals 🔥",
-    "description": "● Men's Hair gel from ₹33 - ● Hair Conditioners from ₹38 - ● Shampoos from ₹51 - ● Hair Straightner from ₹97 -",
-    "shortlink": "https://bilty.co/0WndCV",
-    "urls": [
-      {
-        "url": "",
-        "label": "Shopsy – Grooming Essentials Deals 🔥"
-      },
-      {
-        "url": "https://bilty.co/0WndCV",
-        "label": "● Men's Hair gel from ₹33"
-      },
-      {
-        "url": "https://bilty.co/y82TAV",
-        "label": "● Hair Conditioners from ₹38"
-      },
-      {
-        "url": "https://bilty.co/xSX75l",
-        "label": "● Shampoos from ₹51"
-      },
-      {
-        "url": "https://bilty.co/SoRzDE",
-        "label": "● Hair Straightner from ₹97"
-      }
-    ],
-    "raw_text": "Shopsy  – Grooming Essentials Deals 🔥\n\n● Men's Hair gel from ₹33 - https://bilty.co/0WndCV\n● Hair Conditioners from ₹38 -https://bilty.co/y82TAV\n● Shampoos from ₹51 -https://bilty.co/xSX75l\n● Hair Straightner from ₹97 - https://bilty.co/SoRzDE",
-    "final_url": "https://bilty.co/0WndCV",
-    "local_image": "assets/images/tgmsg_29969.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-03-12T13:05:06+00:00",
-    "buy_link": "https://bilty.co/0WndCV",
-    "date_iso": "2026-03-12T13:05:06+00:00"
   }
 ]
