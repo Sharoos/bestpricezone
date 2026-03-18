@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg30554",
+    "title": "Units at ₹671",
+    "description": "Amazon | Cello Dinner Set 13-Units at ₹671. 🔗 https://www.amazon.in/dp/B07MRR615C?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B07MRR615C?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B07MRR615C?tag=bestpricezo0f-21",
+        "label": "Cello Dinner Set 13-Units at ₹671"
+      }
+    ],
+    "raw_text": "Amazon | Cello Dinner Set 13-Units at ₹671.\n\n🔗 https://www.amazon.in/dp/B07MRR615C?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B07MRR615C?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_30554.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-03-18T07:40:11+00:00",
+    "buy_link": "https://www.amazon.in/dp/B07MRR615C?tag=bestpricezo0f-21",
+    "date_iso": "2026-03-18T07:40:11+00:00"
+  },
+  {
     "id": "msg30545",
     "title": "Up to 81% Off On Clothing",
     "description": "Amazon Grab : Upto 81% Off On Clothing. Men's :…",
@@ -10990,85 +11010,5 @@
     "date_obj": "2026-03-12T07:13:37+00:00",
     "buy_link": "https://fkrt.co/nFy2Pc",
     "date_iso": "2026-03-12T07:13:37+00:00"
-  },
-  {
-    "id": "msg29938",
-    "title": "Up to 81% Off On Lee Cooper Clothing",
-    "description": "AJIO Loot : Upto 81% Off On Lee Cooper Clothing. Men's | T-Shirt : Shirt : Jeans : Shorts : Sweatshirt : Jacket : Trousers : Women's | T-Shirt : Tops & Shirt : Dresses : Jeans : Shorts : Sweatshirt : Trouser : Jacket :",
-    "shortlink": "https://ajiio.in/0rzD914",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 81% Off On Lee Cooper Clothing"
-      },
-      {
-        "url": "https://ajiio.in/0rzD914",
-        "label": "Men's | T-Shirt"
-      },
-      {
-        "url": "https://ajiio.in/m82fRFt",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://ajiio.in/ycEvytA",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.in/fWLTEbT",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.in/nwOqnUk",
-        "label": "Sweatshirt"
-      },
-      {
-        "url": "https://ajiio.in/nx62XjS",
-        "label": "Jacket"
-      },
-      {
-        "url": "https://ajiio.in/dz4z4HO",
-        "label": "Trousers"
-      },
-      {
-        "url": "https://ajiio.in/t26KTTC",
-        "label": "Women's | T-Shirt"
-      },
-      {
-        "url": "https://ajiio.in/iux9u3X",
-        "label": "Tops & Shirt"
-      },
-      {
-        "url": "https://ajiio.in/a9RfAm1",
-        "label": "Dresses"
-      },
-      {
-        "url": "https://ajiio.in/mWNrbPs",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.in/T1AcDhL",
-        "label": "Shorts"
-      },
-      {
-        "url": "https://ajiio.in/Sc5o98D",
-        "label": "Sweatshirt"
-      },
-      {
-        "url": "https://ajiio.in/H1esnt8",
-        "label": "Trouser"
-      },
-      {
-        "url": "https://ajiio.in/OlXweln",
-        "label": "Jacket"
-      }
-    ],
-    "raw_text": "AJIO Loot : Upto 81% Off On Lee Cooper Clothing.\n\nMen's | T-Shirt : https://ajiio.in/0rzD914\nShirt : https://ajiio.in/m82fRFt\nJeans : https://ajiio.in/ycEvytA\nShorts : https://ajiio.in/fWLTEbT\nSweatshirt : https://ajiio.in/nwOqnUk\nJacket : https://ajiio.in/nx62XjS\nTrousers : https://ajiio.in/dz4z4HO\n\nWomen's | T-Shirt : https://ajiio.in/t26KTTC\nTops & Shirt : https://ajiio.in/iux9u3X\nDresses : https://ajiio.in/a9RfAm1\nJeans : https://ajiio.in/mWNrbPs\nShorts : https://ajiio.in/T1AcDhL\nSweatshirt : https://ajiio.in/Sc5o98D\nTrouser : https://ajiio.in/H1esnt8\nJacket : https://ajiio.in/OlXweln",
-    "final_url": "https://ajiio.in/0rzD914",
-    "local_image": "assets/images/tgmsg_29938.jpg",
-    "source_host": "ajiio.in",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-03-12T07:24:23+00:00",
-    "buy_link": "https://ajiio.in/0rzD914",
-    "date_iso": "2026-03-12T07:24:23+00:00"
   }
 ]
