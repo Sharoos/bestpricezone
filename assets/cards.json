@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg30620",
+    "title": "Up to 73% Off On Engage Deodorant",
+    "description": "Flipkart | Upto 73% Off On Engage Deodorants. https://fkrt.co/SYHSXV",
+    "shortlink": "https://fkrt.co/SYHSXV",
+    "urls": [
+      {
+        "url": "https://fkrt.co/SYHSXV",
+        "label": "Upto 73% Off On Engage Deodorants"
+      }
+    ],
+    "raw_text": "Flipkart | Upto 73% Off On Engage Deodorants.\n\n https://fkrt.co/SYHSXV",
+    "final_url": "https://fkrt.co/SYHSXV",
+    "local_image": "assets/images/tgmsg_30620.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-18T21:34:15+00:00",
+    "buy_link": "https://fkrt.co/SYHSXV",
+    "date_iso": "2026-03-18T21:34:15+00:00"
+  },
+  {
+    "id": "msg30621",
+    "title": "70% Off",
+    "description": "Flipkart | 70% Off - Raymond Sleeping Pillow Pack of 2 At Rs.269 https://fkrt.co/ffAUQZ Master Link -  https://fkrt.co/Djaan5",
+    "shortlink": "https://fkrt.co/ffAUQZ",
+    "urls": [
+      {
+        "url": "https://fkrt.co/ffAUQZ",
+        "label": "70% Off - Raymond Sleeping Pillow Pack of 2 At Rs.269"
+      },
+      {
+        "url": "https://fkrt.co/Djaan5",
+        "label": "Master"
+      }
+    ],
+    "raw_text": "Flipkart | 70% Off - Raymond Sleeping Pillow Pack of 2 At Rs.269\n\nhttps://fkrt.co/ffAUQZ\n\nMaster Link -  https://fkrt.co/Djaan5",
+    "final_url": "https://fkrt.co/ffAUQZ",
+    "local_image": "assets/images/tgmsg_30621.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-18T21:37:29+00:00",
+    "buy_link": "https://fkrt.co/ffAUQZ",
+    "date_iso": "2026-03-18T21:37:29+00:00"
+  },
+  {
     "id": "msg30619",
     "title": "T",
     "description": "AJIO : T-shirts Starts @80. Women : https://ajiio.co/9grNXe Men : https://ajiio.co/HHuUWk Cargo Pants. Men : https://ajiio.co/gS4aaf Women : https://ajiio.co/5xT2Id",
@@ -10914,61 +10958,5 @@
     "date_obj": "2026-03-12T12:25:18+00:00",
     "buy_link": "https://fkrt.co/0jUkSX",
     "date_iso": "2026-03-12T12:25:18+00:00"
-  },
-  {
-    "id": "msg29967",
-    "title": "Up to 84% Off On Wrogn Flip Flop",
-    "description": "Myntra | Upto 84% Off On Wrogn Flip Flops. 🔗 https://myntr.in/fbvKNH .",
-    "shortlink": "https://myntr.in/fbvKNH",
-    "urls": [
-      {
-        "url": "https://myntr.in/fbvKNH",
-        "label": "Upto 84% Off On Wrogn Flip Flops"
-      }
-    ],
-    "raw_text": "Myntra | Upto 84% Off On Wrogn Flip Flops. \n\n🔗 https://myntr.in/fbvKNH .",
-    "final_url": "https://myntr.in/fbvKNH",
-    "local_image": "assets/images/tgmsg_29967.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-12T12:50:18+00:00",
-    "buy_link": "https://myntr.in/fbvKNH",
-    "date_iso": "2026-03-12T12:50:18+00:00"
-  },
-  {
-    "id": "msg29968",
-    "title": "● Travel Adapters from ₹138",
-    "description": "Shopsy Smart Tech Saver Deals 🔌🔥 ● Earphones from ₹57 - ● C-C charging cable from 70 -  - ● Laptop Stands from ₹129 -",
-    "shortlink": "https://bilty.co/xjcHoQ",
-    "urls": [
-      {
-        "url": "",
-        "label": "Shopsy Smart Tech Saver Deals 🔌🔥"
-      },
-      {
-        "url": "https://bilty.co/xjcHoQ",
-        "label": "● Earphones from ₹57"
-      },
-      {
-        "url": "https://bilty.co/NowYRt",
-        "label": "● C-C charging cable from 70"
-      },
-      {
-        "url": "https://bilty.co/XDiLV0",
-        "label": "● Travel Adapters from ₹138"
-      },
-      {
-        "url": "https://bilty.co/podpFL",
-        "label": "● Laptop Stands from ₹129"
-      }
-    ],
-    "raw_text": "Shopsy  Smart Tech Saver Deals 🔌🔥\n\n● Earphones from ₹57 - https://bilty.co/xjcHoQ\n● C-C charging cable from 70 - https://bilty.co/NowYRt\n● Travel Adapters from ₹138 - https://bilty.co/XDiLV0\n● Laptop Stands from ₹129 - https://bilty.co/podpFL",
-    "final_url": "https://bilty.co/xjcHoQ",
-    "local_image": "assets/images/tgmsg_29968.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-03-12T12:53:42+00:00",
-    "buy_link": "https://bilty.co/xjcHoQ",
-    "date_iso": "2026-03-12T12:53:42+00:00"
   }
 ]
