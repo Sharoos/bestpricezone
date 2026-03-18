@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg30537",
+    "title": "Dove Daily Shine Shampoo 340 ml @ 278",
+    "description": "Amazon | Dove Daily Shine Shampoo 340 ml @ 278 👉https://www.amazon.in/dp/B07H9YBYSK?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B07H9YBYSK?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B07H9YBYSK?tag=bestpricezo0f-21",
+        "label": "Dove Daily Shine Shampoo 340 ml @ 278"
+      }
+    ],
+    "raw_text": "Amazon | Dove Daily Shine Shampoo 340 ml @ 278\n\n👉https://www.amazon.in/dp/B07H9YBYSK?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B07H9YBYSK?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_30537.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-03-18T03:45:04+00:00",
+    "buy_link": "https://www.amazon.in/dp/B07H9YBYSK?tag=bestpricezo0f-21",
+    "date_iso": "2026-03-18T03:45:04+00:00"
+  },
+  {
     "id": "msg30512",
     "title": "RR Signature 1200mm BLDC Ceiling Fan with Remote Control @2,499",
     "description": "Amazon | RR Signature 1200mm BLDC Ceiling Fan with Remote Control @2,499₹ https://www.amazon.in/dp/B0DSW8HFX8?th=1&tag=bestpricezo0f-21",
@@ -11046,37 +11066,5 @@
     "date_obj": "2026-03-12T05:29:41+00:00",
     "buy_link": "https://fktr.in/Va4u5q8",
     "date_iso": "2026-03-12T05:29:41+00:00"
-  },
-  {
-    "id": "msg29910",
-    "title": "Flip",
-    "description": "Ajio  Flip-Flops Starts @22. Girl’s : https://ajiio.co/7qzlht Women's : https://ajiio.co/ouqdRv Men's : https://ajiio.co/ziiqbd",
-    "shortlink": "https://ajiio.co/7qzlht",
-    "urls": [
-      {
-        "url": "",
-        "label": "Flops Starts @22"
-      },
-      {
-        "url": "https://ajiio.co/7qzlht",
-        "label": "Girl’s"
-      },
-      {
-        "url": "https://ajiio.co/ouqdRv",
-        "label": "Women's"
-      },
-      {
-        "url": "https://ajiio.co/ziiqbd",
-        "label": "Men's"
-      }
-    ],
-    "raw_text": "Ajio  Flip-Flops Starts @22.\n\nGirl’s : https://ajiio.co/7qzlht\nWomen's : https://ajiio.co/ouqdRv\nMen's : https://ajiio.co/ziiqbd",
-    "final_url": "https://ajiio.co/7qzlht",
-    "local_image": "assets/images/tgmsg_29910.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-03-12T02:41:00+00:00",
-    "buy_link": "https://ajiio.co/7qzlht",
-    "date_iso": "2026-03-12T02:41:00+00:00"
   }
 ]
