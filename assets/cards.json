@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg30674",
+    "title": "Up to 90% Off",
+    "description": "Myntra | Upto 90% Off - The Dry State Clothings Mens - https://myntr.in/Hhs1TZ Womens - https://myntr.in/B2FVQv",
+    "shortlink": "https://myntr.in/Hhs1TZ",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 90% Off - The Dry State Clothings"
+      },
+      {
+        "url": "https://myntr.in/Hhs1TZ",
+        "label": "Mens"
+      },
+      {
+        "url": "https://myntr.in/B2FVQv",
+        "label": "Womens"
+      }
+    ],
+    "raw_text": "Myntra | Upto 90% Off - The Dry State Clothings\n\nMens - https://myntr.in/Hhs1TZ\n\nWomens - https://myntr.in/B2FVQv",
+    "final_url": "https://myntr.in/Hhs1TZ",
+    "local_image": "assets/images/tgmsg_30674.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-19T11:40:12+00:00",
+    "buy_link": "https://myntr.in/Hhs1TZ",
+    "date_iso": "2026-03-19T11:40:12+00:00"
+  },
+  {
     "id": "msg30667",
     "title": "✔️ 100% Online & Paperless Proce",
     "description": "📈✨ Open Your Demat Account in Minutes! ✨📈 Start investing with Bajaj Finserv Securities 🚀 ss ✔️ Invest in Stocks, IPOs, Mutual Funds & More ✔️ Easy Portfolio Tracking A Demat account works like a digital locker for your…",
@@ -10670,41 +10698,5 @@
     "date_obj": "2026-03-13T01:35:02+00:00",
     "buy_link": "https://ajiio.co/3alHiZ",
     "date_iso": "2026-03-13T01:35:02+00:00"
-  },
-  {
-    "id": "msg30034",
-    "title": "Men's Ethnic Bottoms From ₹135",
-    "description": "Shopsy – Desi Fashion Deals 🛍 Men Kurtas From ₹103 Lehenga Choli From ₹126  Women Kurta Sets From ₹177",
-    "shortlink": "https://bilty.co/WjQ16B",
-    "urls": [
-      {
-        "url": "",
-        "label": "Shopsy – Desi Fashion Deals 🛍"
-      },
-      {
-        "url": "https://bilty.co/WjQ16B",
-        "label": "Men Kurtas From ₹103"
-      },
-      {
-        "url": "https://bilty.co/7YznrJ",
-        "label": "Lehenga Choli From ₹126"
-      },
-      {
-        "url": "https://bilty.co/5TnUKM",
-        "label": "Men's Ethnic Bottoms From ₹135"
-      },
-      {
-        "url": "https://bilty.co/JdYbel",
-        "label": "Women Kurta Sets From ₹177"
-      }
-    ],
-    "raw_text": "Shopsy  – Desi Fashion Deals 🛍\n\nMen Kurtas From ₹103\nhttps://bilty.co/WjQ16B\n\nLehenga Choli From ₹126\nhttps://bilty.co/7YznrJ\n\nMen's Ethnic Bottoms From ₹135\nhttps://bilty.co/5TnUKM\n\nWomen Kurta Sets From ₹177\nhttps://bilty.co/JdYbel",
-    "final_url": "https://bilty.co/WjQ16B",
-    "local_image": "assets/images/tgmsg_30034.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-03-13T01:39:13+00:00",
-    "buy_link": "https://bilty.co/WjQ16B",
-    "date_iso": "2026-03-13T01:39:13+00:00"
   }
 ]
