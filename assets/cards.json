@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg30651",
+    "title": "💄✨Beauty Deal – EXTRA 10% OFF! ✨",
+    "description": "💄✨MYNTRA Beauty Deal – EXTRA 10% OFF! ✨ 🔥 Extra 10% OFF on Best Sellers 🎟️ Use Code: GET10OFF 👉 Shop Now: 🌟 Top Brands Included: Lakmé, Maybelline, Dove, L'Oréal, TRESemmé",
+    "shortlink": "https://myntr.in/9t3yEy",
+    "urls": [
+      {
+        "url": "",
+        "label": "💄✨MYNTRA Beauty Deal – EXTRA 10% OFF! ✨"
+      },
+      {
+        "url": "",
+        "label": "🔥 Extra 10% OFF on Best Sellers"
+      },
+      {
+        "url": "",
+        "label": "🎟️ Use Code: GET10OFF"
+      },
+      {
+        "url": "https://myntr.in/9t3yEy",
+        "label": "Shop Now"
+      },
+      {
+        "url": "",
+        "label": "🌟 Top Brands Included"
+      },
+      {
+        "url": "",
+        "label": "Lakmé, Maybelline, Dove, L'Oréal, TRESemmé"
+      }
+    ],
+    "raw_text": "💄✨MYNTRA  Beauty  Deal – EXTRA 10% OFF! ✨\n\n🔥 Extra 10% OFF on Best Sellers\n🎟️ Use Code: GET10OFF\n👉 Shop Now: https://myntr.in/9t3yEy\n\n🌟 Top Brands Included:\nLakmé, Maybelline, Dove, L'Oréal, TRESemmé",
+    "final_url": "https://myntr.in/9t3yEy",
+    "local_image": "assets/images/tgmsg_30651.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-19T07:56:41+00:00",
+    "buy_link": "https://myntr.in/9t3yEy",
+    "date_iso": "2026-03-19T07:56:41+00:00"
+  },
+  {
     "id": "msg30640",
     "title": "💥Flat 87% Off",
     "description": "💥Flipkart | Flat 87% Off - 3 Fold Fully Automatic Rain UV Protection Portable Foldable Travel Umbrella At Rs.260 👉",
@@ -10826,29 +10866,5 @@
     "date_obj": "2026-03-12T16:26:38+00:00",
     "buy_link": "https://ajiio.co/u8hoB3",
     "date_iso": "2026-03-12T16:26:38+00:00"
-  },
-  {
-    "id": "msg29985",
-    "title": "Neuherbs Hair Biotin With DHT Blocker 60 Caps @ 499/",
-    "description": "Amazon | Neuherbs Hair Biotin With DHT Blocker 60 Caps @ 499/- 🔗https://www.amazon.in/dp/B0FZKSHFGV?tag=bestpricezo0f-21 ✅Lab Tested for Hair Growth",
-    "shortlink": "https://www.amazon.in/dp/B0FZKSHFGV?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FZKSHFGV?tag=bestpricezo0f-21",
-        "label": "Neuherbs Hair Biotin With DHT Blocker 60 Caps @ 499/"
-      },
-      {
-        "url": "",
-        "label": "✅Lab Tested for Hair Growth"
-      }
-    ],
-    "raw_text": "Amazon | Neuherbs Hair Biotin With DHT Blocker 60 Caps @ 499/-\n\n🔗https://www.amazon.in/dp/B0FZKSHFGV?tag=bestpricezo0f-21\n\n✅Lab Tested for Hair Growth",
-    "final_url": "https://www.amazon.in/dp/B0FZKSHFGV?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_29985.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-03-12T14:46:15+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FZKSHFGV?tag=bestpricezo0f-21",
-    "date_iso": "2026-03-12T14:46:15+00:00"
   }
 ]
