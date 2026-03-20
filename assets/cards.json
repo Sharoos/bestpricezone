@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg30752",
+    "title": "Up to 77% Off",
+    "description": "Myntra | Upto 77% Off - Snitch Men's Clothing 🔗 https://myntr.in/zv6Zmp",
+    "shortlink": "https://myntr.in/zv6Zmp",
+    "urls": [
+      {
+        "url": "https://myntr.in/zv6Zmp",
+        "label": "Upto 77% Off - Snitch Men's Clothing"
+      }
+    ],
+    "raw_text": "Myntra | Upto 77% Off - Snitch Men's Clothing\n\n🔗 https://myntr.in/zv6Zmp",
+    "final_url": "https://myntr.in/zv6Zmp",
+    "local_image": "assets/images/tgmsg_30752.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-20T08:40:23+00:00",
+    "buy_link": "https://myntr.in/zv6Zmp",
+    "date_iso": "2026-03-20T08:40:23+00:00"
+  },
+  {
     "id": "msg30746",
     "title": "Portronics Lithius Type C Rechargeable Batteries, Pack of 2",
     "description": "Amazon | Portronics Lithius Type C Rechargeable Batteries, Pack of 2 👉 AA @ ₹399 🔗 https://www.amazon.in/dp/B0G1YLGDN2/ref=cm_sw_r_as_gl_apa_gl_i_dl_NCVA6SGFBBMT3HDSPY9F?tag=bestpricezo0f-21 👉 AAA @ ₹449 🔗…",
@@ -10678,41 +10698,5 @@
     "date_obj": "2026-03-13T14:02:50+00:00",
     "buy_link": "https://ajiio.co/uQk42S",
     "date_iso": "2026-03-13T14:02:50+00:00"
-  },
-  {
-    "id": "msg30087",
-    "title": "💥 Up to 50% OFF on trending style",
-    "description": "🔥Campus Bold Moves Start Here! 🔥 Step up your style with Campus 👟 s 🛒 Shop Now : Upgrade your sneaker game now!",
-    "shortlink": "https://bilty.co/jiepPt",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Campus Bold Moves Start Here! 🔥"
-      },
-      {
-        "url": "",
-        "label": "Step up your style with Campus 👟"
-      },
-      {
-        "url": "",
-        "label": "💥 Up to 50% OFF on trending styles"
-      },
-      {
-        "url": "https://bilty.co/jiepPt",
-        "label": "🛒 Shop Now"
-      },
-      {
-        "url": "",
-        "label": "Upgrade your sneaker game now!"
-      }
-    ],
-    "raw_text": "🔥Campus Bold Moves Start Here! 🔥\n\nStep up your style with Campus 👟\n💥 Up to 50% OFF on trending styles\n\n🛒 Shop Now : https://bilty.co/jiepPt\n\nUpgrade your sneaker game now!",
-    "final_url": "https://bilty.co/jiepPt",
-    "local_image": "assets/images/tgmsg_30087.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-03-13T12:03:10+00:00",
-    "buy_link": "https://bilty.co/jiepPt",
-    "date_iso": "2026-03-13T12:03:10+00:00"
   }
 ]
