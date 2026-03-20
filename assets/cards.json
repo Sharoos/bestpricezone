@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg30770",
+    "title": "30 L Laptop Backpack SMILE",
+    "description": "Flipkart  30 L Laptop Backpack SMILE-PRINT-1PC (Pink) 🔗 https://fkrt.co/NEfUId",
+    "shortlink": "https://fkrt.co/NEfUId",
+    "urls": [
+      {
+        "url": "https://fkrt.co/NEfUId",
+        "label": "PRINT-1PC (Pink)"
+      }
+    ],
+    "raw_text": "Flipkart  30 L Laptop Backpack SMILE-PRINT-1PC (Pink)\n\n🔗 https://fkrt.co/NEfUId",
+    "final_url": "https://fkrt.co/NEfUId",
+    "local_image": "assets/images/tgmsg_30770.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-20T11:33:38+00:00",
+    "buy_link": "https://fkrt.co/NEfUId",
+    "date_iso": "2026-03-20T11:33:38+00:00"
+  },
+  {
     "id": "msg30763",
     "title": "Longway Kitchen Weighing Scale at ₹299",
     "description": "Amazon | Longway Kitchen Weighing Scale at ₹299 🔗 https://www.amazon.in/dp/B0D14RVJ85?tag=bestpricezo0f-21",
@@ -10658,41 +10678,5 @@
     "date_obj": "2026-03-13T18:04:54+00:00",
     "buy_link": "https://ajiio.co/NruywO",
     "date_iso": "2026-03-13T18:04:54+00:00"
-  },
-  {
-    "id": "msg30130",
-    "title": "STEAL DEAL ₹2500 Yatra Hotel Gift Card @ ₹98",
-    "description": "STEAL DEAL: ₹2500 Yatra Hotel Gift Card @ ₹98 ✅Apply Coupon: FLAT98 Benefits: • Valid on Hotel Bookings only • No minimum night requirement Book any number of rooms & guests • Book room with breakfast or major meals as…",
-    "shortlink": "https://bitli.in/lynA15m",
-    "urls": [
-      {
-        "url": "https://bitli.in/lynA15m",
-        "label": "₹2500 Yatra Hotel Gift Card @ ₹98"
-      },
-      {
-        "url": "",
-        "label": "Valid on Hotel Bookings only"
-      },
-      {
-        "url": "",
-        "label": "No minimum night requirement"
-      },
-      {
-        "url": "",
-        "label": "Book any number of rooms & guests"
-      },
-      {
-        "url": "",
-        "label": "Book room with breakfast or major meals as per option listed"
-      }
-    ],
-    "raw_text": "STEAL DEAL: ₹2500 Yatra Hotel Gift Card @ ₹98\n\nhttps://bitli.in/lynA15m\n\n✅Apply Coupon: FLAT98\n\nBenefits:\n• Valid on Hotel Bookings only\n• No minimum night requirement\nBook any number of rooms & guests\n• Book room with breakfast or major meals as per option listed.",
-    "final_url": "https://bitli.in/lynA15m",
-    "local_image": "assets/images/tgmsg_30130.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-03-13T17:16:34+00:00",
-    "buy_link": "https://bitli.in/lynA15m",
-    "date_iso": "2026-03-13T17:16:34+00:00"
   }
 ]
