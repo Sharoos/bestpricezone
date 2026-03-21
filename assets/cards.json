@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg30851",
+    "title": "Steve Madden, Dune London min 50%",
+    "description": "Ajio | Steve Madden, Dune London min 50% https://ajiio.co/J2yOHn Guess Min 40% https://ajiio.co/9svcHi",
+    "shortlink": "https://ajiio.co/J2yOHn",
+    "urls": [
+      {
+        "url": "https://ajiio.co/J2yOHn",
+        "label": "Steve Madden, Dune London min 50%"
+      },
+      {
+        "url": "https://ajiio.co/9svcHi",
+        "label": "Guess Min 40%"
+      }
+    ],
+    "raw_text": "Ajio | Steve Madden, Dune London min 50%\nhttps://ajiio.co/J2yOHn\n\nGuess Min 40%\nhttps://ajiio.co/9svcHi",
+    "final_url": "https://ajiio.co/J2yOHn",
+    "local_image": "assets/images/tgmsg_30851.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-03-21T08:55:58+00:00",
+    "buy_link": "https://ajiio.co/J2yOHn",
+    "date_iso": "2026-03-21T08:55:58+00:00"
+  },
+  {
+    "id": "msg30852",
+    "title": "⚡️ Stock Limited – Don’t Miss This Crazy Deal! 🚀",
+    "description": "🔥 Summer Ready Sale by Beardo 💥 🎁 BUY 2 GET 2 FREE OR 💣 Buy Any 4 at the Price of 2! 🧴 Perfumes • Facewash • Beard Oil • Skincare & More 🔗 Link :",
+    "shortlink": "https://bilty.co/nMaR01",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Summer Ready Sale by Beardo 💥"
+      },
+      {
+        "url": "https://bilty.co/nMaR01",
+        "label": "🧴 Perfumes • Facewash • Beard Oil • Skincare & More"
+      },
+      {
+        "url": "",
+        "label": "⚡️ Stock Limited – Don’t Miss This Crazy Deal! 🚀"
+      }
+    ],
+    "raw_text": "🔥 Summer Ready Sale by Beardo 💥\n\n🎁 BUY 2 GET 2 FREE\nOR\n💣 Buy Any 4 at the Price of 2!\n\n🧴 Perfumes • Facewash • Beard Oil • Skincare & More\n\n🔗 Link : https://bilty.co/nMaR01\n\n⚡️ Stock Limited – Don’t Miss This Crazy Deal! 🚀",
+    "final_url": "https://bilty.co/nMaR01",
+    "local_image": "assets/images/tgmsg_30852.jpg",
+    "source_host": "bilty.co",
+    "merchant_label": "Bilty",
+    "date_obj": "2026-03-21T09:00:20+00:00",
+    "buy_link": "https://bilty.co/nMaR01",
+    "date_iso": "2026-03-21T09:00:20+00:00"
+  },
+  {
     "id": "msg30847",
     "title": "Up To 40% off",
     "description": "Myntra | Episoft - Up To 40% off https://myntr.in/XZh7HH",
@@ -10642,45 +10694,5 @@
     "date_obj": "2026-03-14T13:30:58+00:00",
     "buy_link": "https://bitli.in/Hw1pksf",
     "date_iso": "2026-03-14T13:30:58+00:00"
-  },
-  {
-    "id": "msg30202",
-    "title": "Up to 70% off Branded Clothing",
-    "description": "Flipkart | Upto 70% off Branded Clothing 🔗 https://fkrt.co/Db6wGV",
-    "shortlink": "https://fkrt.co/Db6wGV",
-    "urls": [
-      {
-        "url": "https://fkrt.co/Db6wGV",
-        "label": "Upto 70% off Branded Clothing"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 70% off Branded Clothing \n\n🔗 https://fkrt.co/Db6wGV",
-    "final_url": "https://fkrt.co/Db6wGV",
-    "local_image": "assets/images/tgmsg_30202.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-14T13:45:28+00:00",
-    "buy_link": "https://fkrt.co/Db6wGV",
-    "date_iso": "2026-03-14T13:45:28+00:00"
-  },
-  {
-    "id": "msg30183",
-    "title": "💥Elle18 Best Seller Makeup Kit @70% Off !!!!",
-    "description": "💥Myntra | Elle18 Best Seller Makeup Kit @70% Off !!!!* 🙌🙌 ⚡https://myntr.in/PorBgb",
-    "shortlink": "https://myntr.in/PorBgb",
-    "urls": [
-      {
-        "url": "https://myntr.in/PorBgb",
-        "label": "💥Myntra | Elle18 Best Seller Makeup Kit @70% Off !!!!* 🙌🙌"
-      }
-    ],
-    "raw_text": "💥Myntra | Elle18 Best Seller Makeup Kit @70% Off !!!!* 🙌🙌\n\n⚡https://myntr.in/PorBgb",
-    "final_url": "https://myntr.in/PorBgb",
-    "local_image": "assets/images/tgmsg_30183.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-14T11:56:02+00:00",
-    "buy_link": "https://myntr.in/PorBgb",
-    "date_iso": "2026-03-14T11:56:02+00:00"
   }
 ]
