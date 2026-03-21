@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg30924",
+    "title": "Puma Men's Razz Running Shoe 1,175",
+    "description": "Amazon | Puma Men's Razz Running Shoe 1,175₹ https://www.amazon.in/dp/B0CKYQ5ZML?psc=1&th=1&smid=A1WYWER0W24N8S&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0CKYQ5ZML?psc=1&th=1&smid=A1WYWER0W24N8S&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0CKYQ5ZML?psc=1&th=1&smid=A1WYWER0W24N8S&tag=bestpricezo0f-21",
+        "label": "Puma Men's Razz Running Shoe 1,175₹"
+      }
+    ],
+    "raw_text": "Amazon | Puma Men's Razz Running Shoe 1,175₹\n\nhttps://www.amazon.in/dp/B0CKYQ5ZML?psc=1&th=1&smid=A1WYWER0W24N8S&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CKYQ5ZML?psc=1&th=1&smid=A1WYWER0W24N8S&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_30924.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-03-21T19:27:26+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CKYQ5ZML?psc=1&th=1&smid=A1WYWER0W24N8S&tag=bestpricezo0f-21",
+    "date_iso": "2026-03-21T19:27:26+00:00"
+  },
+  {
     "id": "msg30914",
     "title": "Up to 69% Off",
     "description": "Flipkart | Top Brands at Huge Discounts - Upto 69% Off Titan & Tommy Hilfiger - Citizen Watches - Fastrack & Sonata - Fossil & Armani Exchange - + Extra Bank Offer",
@@ -10618,45 +10638,5 @@
     "date_obj": "2026-03-15T05:00:22+00:00",
     "buy_link": "https://myntr.in/cxRz26",
     "date_iso": "2026-03-15T05:00:22+00:00"
-  },
-  {
-    "id": "msg30264",
-    "title": "Min 50% Off on Pure Cotton Double Bedsheet",
-    "description": "Myntra 👉 Festive Cushion Covers starting @ 224 👉  👉 Doormats, Bathrugs starting @ 99 only! 👉 Min 50% off on Popular Organisers 👉 Towels Starting @ 337 👉 Dohars and Blankets starting @ 390 Only! 👉",
-    "shortlink": "https://myntr.in/bhxaxi",
-    "urls": [
-      {
-        "url": "https://myntr.in/bhxaxi",
-        "label": "Festive Cushion Covers starting @ 224"
-      },
-      {
-        "url": "https://myntr.in/XBvXeT",
-        "label": "Min 50% Off on Pure Cotton Double Bedsheet"
-      },
-      {
-        "url": "https://myntr.in/gtTHhU",
-        "label": "Doormats, Bathrugs starting @ 99 only!"
-      },
-      {
-        "url": "https://myntr.in/4OnqCV",
-        "label": "Min 50% off on Popular Organisers"
-      },
-      {
-        "url": "https://myntr.in/AAnx2Q",
-        "label": "Towels Starting @ 337"
-      },
-      {
-        "url": "https://myntr.in/kltupv",
-        "label": "Dohars and Blankets starting @ 390 Only!"
-      }
-    ],
-    "raw_text": "Myntra  👉\n\nFestive  Cushion Covers starting @ 224\n👉https://myntr.in/bhxaxi\n\nMin 50% Off on Pure Cotton Double Bedsheet\n👉https://myntr.in/XBvXeT\n\nDoormats, Bathrugs starting @ 99 only!\n👉https://myntr.in/gtTHhU\n\nMin 50% off on Popular Organisers\n👉https://myntr.in/4OnqCV\n\nTowels Starting @ 337\n👉https://myntr.in/AAnx2Q\n\nDohars and Blankets starting @ 390 Only!\n👉https://myntr.in/kltupv",
-    "final_url": "https://myntr.in/bhxaxi",
-    "local_image": "assets/images/tgmsg_30264.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-15T05:16:27+00:00",
-    "buy_link": "https://myntr.in/bhxaxi",
-    "date_iso": "2026-03-15T05:16:27+00:00"
   }
 ]
