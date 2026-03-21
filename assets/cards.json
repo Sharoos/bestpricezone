@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg30864",
+    "title": "🛒 Deal Price ₹111",
+    "description": "Amazon | Cipla Nicotex Stain Removal Toothpaste 100gm 🛒 Deal Price: ₹111 (56% Off)",
+    "shortlink": "https://www.amazon.in/dp/B0CYBPTCZV?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Cipla Nicotex Stain Removal Toothpaste 100gm"
+      },
+      {
+        "url": "",
+        "label": "🛒 Deal Price: ₹111"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0CYBPTCZV?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "(56% Off)"
+      }
+    ],
+    "raw_text": "Amazon | Cipla Nicotex Stain Removal Toothpaste 100gm\n\n🛒 Deal Price: ₹111\n(56% Off)\n\nhttps://www.amazon.in/dp/B0CYBPTCZV?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0CYBPTCZV?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_30864.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-03-21T11:36:08+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0CYBPTCZV?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-03-21T11:36:08+00:00"
+  },
+  {
+    "id": "msg30866",
+    "title": "●gym Bags starts at ₹491",
+    "description": "Shopsy  Gym wear ●Stringer starts at ₹ 119 : https://bilty.co/S2OsaQ ●Gym Shorts  starts at ₹ 96 : https://bilty.co/1HWXtA ●gym  Bags starts at ₹491 : https://bilty.co/76u9Cy",
+    "shortlink": "https://bilty.co/S2OsaQ",
+    "urls": [
+      {
+        "url": "",
+        "label": "Shopsy Gym wear"
+      },
+      {
+        "url": "https://bilty.co/S2OsaQ",
+        "label": "●Stringer starts at ₹ 119"
+      },
+      {
+        "url": "https://bilty.co/1HWXtA",
+        "label": "●Gym Shorts starts at ₹ 96"
+      },
+      {
+        "url": "https://bilty.co/76u9Cy",
+        "label": "●gym Bags starts at ₹491"
+      }
+    ],
+    "raw_text": "Shopsy  Gym wear    \n\n●Stringer starts at ₹ 119 : https://bilty.co/S2OsaQ\n●Gym Shorts  starts at ₹ 96 : https://bilty.co/1HWXtA\n●gym  Bags starts at ₹491 : https://bilty.co/76u9Cy",
+    "final_url": "https://bilty.co/S2OsaQ",
+    "local_image": "assets/images/tgmsg_30866.jpg",
+    "source_host": "bilty.co",
+    "merchant_label": "Bilty",
+    "date_obj": "2026-03-21T11:43:28+00:00",
+    "buy_link": "https://bilty.co/S2OsaQ",
+    "date_iso": "2026-03-21T11:43:28+00:00"
+  },
+  {
     "id": "msg30863",
     "title": "Up to 87% Off",
     "description": "Flipkart | Upto 87% Off - Biker Helmets Starting From @Rs.186 🔗  https://fkrt.co/bCv41x",
@@ -10590,93 +10650,5 @@
     "date_obj": "2026-03-14T14:02:21+00:00",
     "buy_link": "https://bitli.in/Ct21zBn",
     "date_iso": "2026-03-14T14:02:21+00:00"
-  },
-  {
-    "id": "msg30209",
-    "title": "🏇 U.S. Polo Assn. (USPA) – MIN 50% OFF on stylish shoes & fashion!",
-    "description": "🔥 Flipkart Store Deal Alert! 🔥  🛒 Shop Now: 🌞 Summer Bonanza on Flipkart – Crocs Sale! 👟 💥 Min. 50% OFF on top Crocs styles 📉 Price Crash – Best time to buy! 🛒 Buy Now: ⏳ Hurry! Deals may end anytime.",
-    "shortlink": "https://fkrt.co/lL5kJn",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Flipkart Store Deal Alert! 🔥"
-      },
-      {
-        "url": "",
-        "label": "🏇 U.S. Polo Assn. (USPA) – MIN 50% OFF on stylish shoes & fashion!"
-      },
-      {
-        "url": "https://fkrt.co/lL5kJn",
-        "label": "🛒 Shop Now"
-      },
-      {
-        "url": "",
-        "label": "🌞 Summer Bonanza on Flipkart – Crocs Sale! 👟"
-      },
-      {
-        "url": "https://fkrt.co/HC2yAm",
-        "label": "💥 Min. 50% OFF on top Crocs styles"
-      },
-      {
-        "url": "",
-        "label": "⏳ Hurry! Deals may end anytime"
-      }
-    ],
-    "raw_text": "🔥 Flipkart Store Deal Alert! 🔥\n\n🏇 U.S. Polo Assn. (USPA) – MIN 50% OFF on stylish shoes & fashion!\n\n🛒 Shop Now: https://fkrt.co/lL5kJn\n\n🌞 Summer Bonanza on Flipkart – Crocs Sale! 👟\n💥 Min. 50% OFF on top Crocs styles\n📉 Price Crash – Best time to buy!\n\n🛒 Buy Now: https://fkrt.co/HC2yAm\n\n⏳ Hurry! Deals may end anytime.",
-    "final_url": "https://fkrt.co/lL5kJn",
-    "local_image": "assets/images/tgmsg_30209.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-14T14:10:55+00:00",
-    "buy_link": "https://fkrt.co/lL5kJn",
-    "date_iso": "2026-03-14T14:10:55+00:00"
-  },
-  {
-    "id": "msg30210",
-    "title": "🔥 MIN. 50% OFF + Extra 10% OFF",
-    "description": "🚨 Flipkart Price Crash Sale! 🚨 👟 Woodland Men’s Footwear  📉 Massive price drop on premium styles! 🛒 Grab Now: 👟 Red Tape Shoes 💥 MIN. 85% OFF on trending footwear 🛒 Shop Now: ⏳ Stock running fast – Buy before the deal…",
-    "shortlink": "https://fkrt.co/DdLbhN",
-    "urls": [
-      {
-        "url": "",
-        "label": "🚨 Flipkart Price Crash Sale! 🚨"
-      },
-      {
-        "url": "",
-        "label": "👟 Woodland Men’s Footwear"
-      },
-      {
-        "url": "",
-        "label": "🔥 MIN. 50% OFF + Extra 10% OFF"
-      },
-      {
-        "url": "",
-        "label": "📉 Massive price drop on premium styles!"
-      },
-      {
-        "url": "https://fkrt.co/DdLbhN",
-        "label": "🛒 Grab Now"
-      },
-      {
-        "url": "",
-        "label": "👟 Red Tape Shoes"
-      },
-      {
-        "url": "",
-        "label": "💥 MIN. 85% OFF on trending footwear"
-      },
-      {
-        "url": "https://fkrt.co/UaAPDx",
-        "label": "🛒 Shop Now"
-      }
-    ],
-    "raw_text": "🚨 Flipkart Price Crash Sale! 🚨\n\n👟 Woodland Men’s Footwear\n🔥 MIN. 50% OFF + Extra 10% OFF\n📉 Massive price drop on premium styles!\n🛒 Grab Now: https://fkrt.co/DdLbhN\n\n👟 Red Tape Shoes\n💥 MIN. 85% OFF on trending footwear\n🛒 Shop Now: https://fkrt.co/UaAPDx\n\n⏳ Stock running fast – Buy before the deal ends!",
-    "final_url": "https://fkrt.co/DdLbhN",
-    "local_image": "assets/images/tgmsg_30210.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-14T14:16:09+00:00",
-    "buy_link": "https://fkrt.co/DdLbhN",
-    "date_iso": "2026-03-14T14:16:09+00:00"
   }
 ]
