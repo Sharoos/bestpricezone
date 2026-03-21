@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg30841",
+    "title": "🛒 Deal Price Up to 88% Off",
+    "description": "Myntra | 👚 Libas Women's Clothing - Up to 80% Off! Kurta 🛒 Deal Price: Up to 88% Off Kurta Sets 🛒 Deal Price: Up to 80% Off",
+    "shortlink": "https://myntr.in/ZAacZN",
+    "urls": [
+      {
+        "url": "",
+        "label": "👚 Libas Women's Clothing - Up to 80% Off!"
+      },
+      {
+        "url": "https://myntr.in/ZAacZN",
+        "label": "🛒 Deal Price: Up to 88% Off"
+      },
+      {
+        "url": "",
+        "label": "Kurta Sets"
+      },
+      {
+        "url": "https://myntr.in/B9D8Y9",
+        "label": "🛒 Deal Price: Up to 80% Off"
+      }
+    ],
+    "raw_text": "Myntra | 👚 Libas Women's Clothing - Up to 80% Off!\n\nKurta\n\n🛒 Deal Price: Up to 88% Off\n\nhttps://myntr.in/ZAacZN\n\nKurta Sets\n\n🛒 Deal Price: Up to 80% Off\n\nhttps://myntr.in/B9D8Y9",
+    "final_url": "https://myntr.in/ZAacZN",
+    "local_image": "assets/images/tgmsg_30841.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-21T05:41:05+00:00",
+    "buy_link": "https://myntr.in/ZAacZN",
+    "date_iso": "2026-03-21T05:41:05+00:00"
+  },
+  {
     "id": "msg30837",
     "title": "🚗 Car Vacuum Cleaner – Only ₹352",
     "description": "Flipkart | 🚗 Car Vacuum Cleaner – Only ₹352 👉   https://fkrt.co/h1HzRz",
@@ -10662,89 +10694,5 @@
     "date_obj": "2026-03-14T12:45:58+00:00",
     "buy_link": "https://bitli.in/jv3sox5",
     "date_iso": "2026-03-14T12:45:58+00:00"
-  },
-  {
-    "id": "msg30192",
-    "title": "Up to 80% Off On USPA Clothing",
-    "description": "AJIO Upto 80% Off On USPA Clothing. 👉Men’s : 👉Women’s : 👉Boys : 👉Girls : Marks & Spencer. 👉Women’s : 👉Men’s : 👉Girls : 👉Boys : Upto 80% Off On Allen Cooper Clothing. Master Link : 👉T-Shirt : 👉Jeans : 👉Shirts : 👉Jacket :…",
-    "shortlink": "https://ajiio.co/wXoXdF",
-    "urls": [
-      {
-        "url": "",
-        "label": "AJIO Upto 80% Off On USPA Clothing"
-      },
-      {
-        "url": "https://ajiio.co/wXoXdF",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.co/1zhFnd",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://ajiio.co/mGxrhZ",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/pb0j1V",
-        "label": "Girls"
-      },
-      {
-        "url": "",
-        "label": "Marks & Spencer"
-      },
-      {
-        "url": "https://ajiio.co/2yfF9O",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://ajiio.co/eg18Rw",
-        "label": "Men’s"
-      },
-      {
-        "url": "https://ajiio.co/kw0EZm",
-        "label": "Girls"
-      },
-      {
-        "url": "https://ajiio.co/IKDXTC",
-        "label": "Boys"
-      },
-      {
-        "url": "",
-        "label": "Upto 80% Off On Allen Cooper Clothing"
-      },
-      {
-        "url": "https://ajiio.co/gRjU75",
-        "label": "Master"
-      },
-      {
-        "url": "https://ajiio.co/cbV2OP",
-        "label": "T-Shirt"
-      },
-      {
-        "url": "https://ajiio.co/6t5LgW",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://ajiio.co/W1LlXo",
-        "label": "Shirts"
-      },
-      {
-        "url": "https://ajiio.co/qMFNkw",
-        "label": "Jacket"
-      },
-      {
-        "url": "https://ajiio.co/BNxOJd",
-        "label": "Shoes"
-      }
-    ],
-    "raw_text": "AJIO  Upto 80% Off On USPA Clothing. \n\n👉Men’s : https://ajiio.co/wXoXdF\n👉Women’s : https://ajiio.co/1zhFnd\n👉Boys : https://ajiio.co/mGxrhZ\n👉Girls : https://ajiio.co/pb0j1V\n\nMarks & Spencer. \n👉Women’s : https://ajiio.co/2yfF9O\n👉Men’s : https://ajiio.co/eg18Rw\n👉Girls : https://ajiio.co/kw0EZm\n👉Boys : https://ajiio.co/IKDXTC\n\n Upto 80% Off On Allen Cooper Clothing.\n\nMaster Link : https://ajiio.co/gRjU75\n\n👉T-Shirt : https://ajiio.co/cbV2OP\n👉Jeans : https://ajiio.co/6t5LgW\n👉Shirts : https://ajiio.co/W1LlXo\n👉Jacket : https://ajiio.co/qMFNkw\n👉Shoes : https://ajiio.co/BNxOJd",
-    "final_url": "https://ajiio.co/wXoXdF",
-    "local_image": "assets/images/tgmsg_30192.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-03-14T12:46:12+00:00",
-    "buy_link": "https://ajiio.co/wXoXdF",
-    "date_iso": "2026-03-14T12:46:12+00:00"
   }
 ]
