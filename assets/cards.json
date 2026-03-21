@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg30861",
+    "title": "Glass Oil Spray Dispenser, 200ml @185",
+    "description": "Amazon | Glass Oil Spray Dispenser, 200ml @185. https://www.amazon.in/dp/B0F9GBWP2B?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0F9GBWP2B?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0F9GBWP2B?tag=bestpricezo0f-21",
+        "label": "Glass Oil Spray Dispenser, 200ml @185"
+      }
+    ],
+    "raw_text": "Amazon | Glass Oil Spray Dispenser, 200ml @185.\n\nhttps://www.amazon.in/dp/B0F9GBWP2B?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F9GBWP2B?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_30861.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-03-21T10:51:17+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F9GBWP2B?tag=bestpricezo0f-21",
+    "date_iso": "2026-03-21T10:51:17+00:00"
+  },
+  {
     "id": "msg30857",
     "title": "✔️ 100% Digital Application",
     "description": "💳✨ Get Your Bajaj Finserv Insta EMI Card Today! ✨💳 Shop now & pay later easily with Bajaj Finserv ✔️ Instant Approval Process ✔️ Convert Purchases into Easy EMIs ✔️ No-Cost EMI Options on Top Brands  🚀 Apply Now : 🛍…",
@@ -10662,57 +10682,5 @@
     "date_obj": "2026-03-14T14:24:58+00:00",
     "buy_link": "https://fkrt.co/CJyg2J",
     "date_iso": "2026-03-14T14:24:58+00:00"
-  },
-  {
-    "id": "msg30197",
-    "title": "🔥Min 75% Off On Branded Trolleys/Suitcases + Bank Offe",
-    "description": "🔥Myntra : Min 75% Off On Branded Trolleys/Suitcases + Bank Offers Brandwise 🔽🔽 •Verage : •Aristocrat : •Teakwood Leathers : •Safari : •Skybags : •VIP : •Nasher Miles : •Wildcraft :",
-    "shortlink": "https://myntr.in/PtkACx",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥Myntra : Min 75% Off On Branded Trolleys/Suitcases + Bank Offers"
-      },
-      {
-        "url": "https://myntr.in/PtkACx",
-        "label": "Verage"
-      },
-      {
-        "url": "https://myntr.in/1NrX0v",
-        "label": "Aristocrat"
-      },
-      {
-        "url": "https://myntr.in/tuHD1o",
-        "label": "Teakwood Leathers"
-      },
-      {
-        "url": "https://myntr.in/OCYxd3",
-        "label": "Safari"
-      },
-      {
-        "url": "https://myntr.in/fI2pVs",
-        "label": "Skybags"
-      },
-      {
-        "url": "https://myntr.in/YXVJ87",
-        "label": "VIP"
-      },
-      {
-        "url": "https://myntr.in/rCgxDS",
-        "label": "Nasher Miles"
-      },
-      {
-        "url": "https://myntr.in/6ecwp7",
-        "label": "Wildcraft"
-      }
-    ],
-    "raw_text": "🔥Myntra   : Min 75% Off On Branded Trolleys/Suitcases + Bank Offers \n\nBrandwise 🔽🔽\n•Verage : https://myntr.in/PtkACx\n•Aristocrat : https://myntr.in/1NrX0v\n•Teakwood Leathers : https://myntr.in/tuHD1o\n•Safari : https://myntr.in/OCYxd3\n•Skybags : https://myntr.in/fI2pVs\n•VIP : https://myntr.in/YXVJ87\n•Nasher Miles : https://myntr.in/rCgxDS\n•Wildcraft : https://myntr.in/6ecwp7",
-    "final_url": "https://myntr.in/PtkACx",
-    "local_image": "assets/images/tgmsg_30197.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-14T13:05:00+00:00",
-    "buy_link": "https://myntr.in/PtkACx",
-    "date_iso": "2026-03-14T13:05:00+00:00"
   }
 ]
