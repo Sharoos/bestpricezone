@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg30952",
+    "title": "💥Up to 84% Off on OverSized Tshirts Starts @280",
+    "description": "💥Ajio | Upto 84% Off on OverSized Tshirts Starts @280. 👉Link : https://ajiio.co/XjhIQw",
+    "shortlink": "https://ajiio.co/XjhIQw",
+    "urls": [
+      {
+        "url": "https://ajiio.co/XjhIQw",
+        "label": "💥Ajio | Upto 84% Off on OverSized Tshirts Starts @280"
+      }
+    ],
+    "raw_text": "💥Ajio | Upto 84% Off on OverSized Tshirts Starts @280.\n\n👉Link : https://ajiio.co/XjhIQw",
+    "final_url": "https://ajiio.co/XjhIQw",
+    "local_image": "assets/images/tgmsg_30952.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-03-22T07:53:00+00:00",
+    "buy_link": "https://ajiio.co/XjhIQw",
+    "date_iso": "2026-03-22T07:53:00+00:00"
+  },
+  {
     "id": "msg30946",
     "title": "85% Off On Branded Luggage",
     "description": "Flipkart . Master Link : Small : Medium : Large : Pack Of 2 : Pack Of 3 : Suggestions . American Tourister & Safari : Aristocrat : VIP : Killer : Wrogn : Metronaut : Upto 85% Off On Branded Backpacks. Masterlink :…",
@@ -10458,25 +10478,5 @@
     "date_obj": "2026-03-15T11:29:21+00:00",
     "buy_link": "https://ajiio.co/fI1Ksn",
     "date_iso": "2026-03-15T11:29:21+00:00"
-  },
-  {
-    "id": "msg30294",
-    "title": "Min. 75% Off On Svaraa Clothing",
-    "description": "Ajio | Min. 75% Off On Svaraa Clothing 👉https://ajiio.co/asy0Ny",
-    "shortlink": "https://ajiio.co/asy0Ny",
-    "urls": [
-      {
-        "url": "https://ajiio.co/asy0Ny",
-        "label": "Min. 75% Off On Svaraa Clothing"
-      }
-    ],
-    "raw_text": "Ajio | Min. 75% Off On Svaraa Clothing \n\n👉https://ajiio.co/asy0Ny",
-    "final_url": "https://ajiio.co/asy0Ny",
-    "local_image": "assets/images/tgmsg_30294.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-03-15T11:46:28+00:00",
-    "buy_link": "https://ajiio.co/asy0Ny",
-    "date_iso": "2026-03-15T11:46:28+00:00"
   }
 ]
