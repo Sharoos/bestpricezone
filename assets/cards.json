@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg31010",
+    "title": "Shopsy 🔥Men's Embroidered Kurta at ₹366",
+    "description": "Shopsy | 🔥Men's Embroidered Kurta at ₹366 👉https://bilty.co/sp3A6W [4 Colors Available]",
+    "shortlink": "https://bilty.co/sp3A6W",
+    "urls": [
+      {
+        "url": "https://bilty.co/sp3A6W",
+        "label": "🔥Men's Embroidered Kurta at ₹366"
+      },
+      {
+        "url": "",
+        "label": "[4 Colors Available]"
+      }
+    ],
+    "raw_text": "Shopsy | 🔥Men's Embroidered Kurta at ₹366\n\n👉https://bilty.co/sp3A6W\n\n[4 Colors Available]",
+    "final_url": "https://bilty.co/sp3A6W",
+    "local_image": "assets/images/tgmsg_31010.jpg",
+    "source_host": "bilty.co",
+    "merchant_label": "Bilty",
+    "date_obj": "2026-03-22T17:50:24+00:00",
+    "buy_link": "https://bilty.co/sp3A6W",
+    "date_iso": "2026-03-22T17:50:24+00:00"
+  },
+  {
     "id": "msg30999",
     "title": "Mosquito Nets Starts at Rs.299",
     "description": "Flipkart | Self-spin 360 Mop Set @ Rs.499 🔗 https://fkrt.co/5Q1W5f Mosquito Nets Starts at Rs.299 🔗 https://fkrt.co/LgLczn Torches at Rs.90 🔗 https://fkrt.co/kkeOXz",
@@ -10282,61 +10306,5 @@
     "date_obj": "2026-03-16T10:10:28+00:00",
     "buy_link": "https://myntr.in/r9hGNl",
     "date_iso": "2026-03-16T10:10:28+00:00"
-  },
-  {
-    "id": "msg30364",
-    "title": "🎁 FREE Surprise Gift (Worth up to ₹299)",
-    "description": "🌈🔥 HOLI HAI SALE – Grooming Deals for Men! 🔥🌈 Celebrate Holi with premium grooming from The Man Company 💙 🧴 4 Grooming Products @ ₹599 Only  ✨ Body Wash ✨ De-Tan Face Wash ✨ Roll On Deo ✨ Glow Pro Face Cream 👉 Shop Now…",
-    "shortlink": "https://bilty.co/C0aYz9",
-    "urls": [
-      {
-        "url": "",
-        "label": "🌈🔥 HOLI HAI SALE – Grooming Deals for Men! 🔥🌈"
-      },
-      {
-        "url": "",
-        "label": "Celebrate Holi with premium grooming from The Man Company 💙"
-      },
-      {
-        "url": "",
-        "label": "🧴 4 Grooming Products @ ₹599 Only"
-      },
-      {
-        "url": "",
-        "label": "🎁 FREE Surprise Gift (Worth up to ₹299)"
-      },
-      {
-        "url": "",
-        "label": "✨ Body Wash"
-      },
-      {
-        "url": "",
-        "label": "✨ De-Tan Face Wash"
-      },
-      {
-        "url": "",
-        "label": "✨ Roll On Deo"
-      },
-      {
-        "url": "",
-        "label": "✨ Glow Pro Face Cream"
-      },
-      {
-        "url": "https://bilty.co/C0aYz9",
-        "label": "Shop Now"
-      },
-      {
-        "url": "",
-        "label": "💥 Limited Time Holi Offer – Don’t Miss Out!"
-      }
-    ],
-    "raw_text": "🌈🔥 HOLI HAI SALE – Grooming Deals for Men! 🔥🌈\n\nCelebrate Holi with premium grooming from The Man Company 💙\n\n🧴 4 Grooming Products @ ₹599 Only\n🎁 FREE Surprise Gift (Worth up to ₹299)\n\n✨ Body Wash\n✨ De-Tan Face Wash\n✨ Roll On Deo\n✨ Glow Pro Face Cream\n\n👉 Shop Now : https://bilty.co/C0aYz9\n\n💥 Limited Time Holi Offer – Don’t Miss Out!",
-    "final_url": "https://bilty.co/C0aYz9",
-    "local_image": "assets/images/tgmsg_30364.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-03-16T08:32:22+00:00",
-    "buy_link": "https://bilty.co/C0aYz9",
-    "date_iso": "2026-03-16T08:32:22+00:00"
   }
 ]
