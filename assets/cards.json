@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg30934",
+    "title": "Leader Beast 26T Multispeed (7 Speed) Mountain Bike at ₹5,759",
+    "description": "Amazon : Leader Beast 26T Multispeed (7 Speed) Mountain Bike at ₹5,759 https://www.amazon.in/dp/B0BHPBZSY8?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0BHPBZSY8?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0BHPBZSY8?tag=bestpricezo0f-21",
+        "label": "Leader Beast 26T Multispeed (7 Speed) Mountain Bike at ₹5,759"
+      }
+    ],
+    "raw_text": "Amazon : Leader Beast 26T Multispeed (7 Speed) Mountain Bike at ₹5,759\n\nhttps://www.amazon.in/dp/B0BHPBZSY8?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0BHPBZSY8?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_30934.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-03-22T04:29:27+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0BHPBZSY8?tag=bestpricezo0f-21",
+    "date_iso": "2026-03-22T04:29:27+00:00"
+  },
+  {
     "id": "msg30926",
     "title": "Chemist At Play & Bare Anatomy",
     "description": "Myntra | Chemist At Play & Bare Anatomy B1G1 + 20% https://myntr.in/y9cnLt",
@@ -10594,41 +10614,5 @@
     "date_obj": "2026-03-15T07:43:49+00:00",
     "buy_link": "https://ajiio.in/3z52qps",
     "date_iso": "2026-03-15T07:43:49+00:00"
-  },
-  {
-    "id": "msg30271",
-    "title": "💥 Extra 20% OFF",
-    "description": "👠 FLIPKART Women’s Footwear Weekend Special ✨ Stylish picks from Aldo, Theatre & Eridani  🎟️ Use Code: WFWK20 🛍️ Shop Here:",
-    "shortlink": "https://fkrt.co/TFkfGt⁠",
-    "urls": [
-      {
-        "url": "",
-        "label": "👠 FLIPKART Women’s Footwear Weekend Special ✨"
-      },
-      {
-        "url": "",
-        "label": "Stylish picks from Aldo, Theatre & Eridani"
-      },
-      {
-        "url": "",
-        "label": "💥 Extra 20% OFF"
-      },
-      {
-        "url": "",
-        "label": "🎟️ Use Code: WFWK20"
-      },
-      {
-        "url": "https://fkrt.co/TFkfGt⁠",
-        "label": "🛍️ Shop Here"
-      }
-    ],
-    "raw_text": "👠 FLIPKART Women’s Footwear Weekend Special ✨\n\nStylish picks from Aldo, Theatre & Eridani\n\n💥 Extra 20% OFF\n🎟️ Use Code: WFWK20\n\n🛍️ Shop Here: https://fkrt.co/TFkfGt⁠",
-    "final_url": "https://fkrt.co/TFkfGt%E2%81%A0",
-    "local_image": "assets/images/tgmsg_30271.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-15T07:55:47+00:00",
-    "buy_link": "https://fkrt.co/TFkfGt⁠",
-    "date_iso": "2026-03-15T07:55:47+00:00"
   }
 ]
