@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg31212",
+    "title": "💈 Philips – Min 30% Off on Beauty & Grooming Appliance",
+    "description": "🔥 Myntra Beauty & Grooming Sale is LIVE! 🔥 s 🔗 💪 Beardo – Min 65% Off on Perfumes & Grooming Kits 🔗 💅 VEGA – Min 40% Off on Beauty & Grooming Appliances 🔗",
+    "shortlink": "https://myntr.in/CDqbfS",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Myntra Beauty & Grooming Sale is LIVE! 🔥"
+      },
+      {
+        "url": "https://myntr.in/CDqbfS",
+        "label": "💈 Philips – Min 30% Off on Beauty & Grooming Appliances"
+      },
+      {
+        "url": "https://myntr.in/Gttnrh",
+        "label": "💪 Beardo – Min 65% Off on Perfumes & Grooming Kits"
+      },
+      {
+        "url": "https://myntr.in/EiCS8F",
+        "label": "💅 VEGA – Min 40% Off on Beauty & Grooming Appliances"
+      }
+    ],
+    "raw_text": "🔥 Myntra Beauty & Grooming Sale is LIVE! 🔥\n\n💈 Philips – Min 30% Off on Beauty & Grooming Appliances\n🔗 https://myntr.in/CDqbfS\n\n💪 Beardo – Min 65% Off on Perfumes & Grooming Kits\n🔗 https://myntr.in/Gttnrh\n\n💅 VEGA – Min 40% Off on Beauty & Grooming Appliances\n🔗 https://myntr.in/EiCS8F",
+    "final_url": "https://myntr.in/CDqbfS",
+    "local_image": "assets/images/tgmsg_31212.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-24T18:20:46+00:00",
+    "buy_link": "https://myntr.in/CDqbfS",
+    "date_iso": "2026-03-24T18:20:46+00:00"
+  },
+  {
     "id": "msg31206",
     "title": "MediBuddy Flat ₹4400 Off On Fullbody Health Check",
     "description": "-Up 🔥🔥 ✅ Active Life Health Package [CBC, Urine, Kidney & Liver] - (64 Tests) At ₹599 👉🏻 Use Code : MED599 🔗 🎁 Bonus: Get JioSaavn Pro worth ₹299 FREE after test completion",
@@ -10106,57 +10138,5 @@
     "date_obj": "2026-03-19T06:15:33+00:00",
     "buy_link": "https://myntr.it/6j1IRHN",
     "date_iso": "2026-03-19T06:15:33+00:00"
-  },
-  {
-    "id": "msg30644",
-    "title": "Men's Casual Shirt Starts @179",
-    "description": "Myntra : . MasterLink : Highlander : Here & Now : Mast & Harbour : Roadster : The Indian Garage : Snitch : Campus Sutra :",
-    "shortlink": "https://myntr.in/3mMUZQ",
-    "urls": [
-      {
-        "url": "",
-        "label": "Men's Casual Shirt Starts @179"
-      },
-      {
-        "url": "https://myntr.in/3mMUZQ",
-        "label": "MasterLink"
-      },
-      {
-        "url": "https://myntr.in/Z3dnX8",
-        "label": "Highlander"
-      },
-      {
-        "url": "https://myntr.in/LvtRk7",
-        "label": "Here & Now"
-      },
-      {
-        "url": "https://myntr.in/52jIHx",
-        "label": "Mast & Harbour"
-      },
-      {
-        "url": "https://myntr.in/aOlCrf",
-        "label": "Roadster"
-      },
-      {
-        "url": "https://myntr.in/LbM0Nf",
-        "label": "The Indian Garage"
-      },
-      {
-        "url": "https://myntr.in/jvp0NE",
-        "label": "Snitch"
-      },
-      {
-        "url": "https://myntr.in/neO7HS",
-        "label": "Campus Sutra"
-      }
-    ],
-    "raw_text": "Myntra : Men's Casual Shirt Starts @179.\n\nMasterLink : https://myntr.in/3mMUZQ\n\nHighlander : https://myntr.in/Z3dnX8\nHere & Now : https://myntr.in/LvtRk7\nMast & Harbour : https://myntr.in/52jIHx\nRoadster : https://myntr.in/aOlCrf\nThe Indian Garage : https://myntr.in/LbM0Nf\nSnitch : https://myntr.in/jvp0NE\nCampus Sutra : https://myntr.in/neO7HS",
-    "final_url": "https://myntr.in/3mMUZQ",
-    "local_image": "assets/images/tgmsg_30644.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-19T06:40:19+00:00",
-    "buy_link": "https://myntr.in/3mMUZQ",
-    "date_iso": "2026-03-19T06:40:19+00:00"
   }
 ]
