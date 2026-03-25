@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg31219",
+    "title": "Miraggio Min 50%",
+    "description": "Ajio | Miraggio Min 50% https://ajiio.co/lUYcgf Soch Min 60% https://ajiio.co/iInsyv",
+    "shortlink": "https://ajiio.co/lUYcgf",
+    "urls": [
+      {
+        "url": "https://ajiio.co/lUYcgf",
+        "label": "Miraggio Min 50%"
+      },
+      {
+        "url": "https://ajiio.co/iInsyv",
+        "label": "Soch Min 60%"
+      }
+    ],
+    "raw_text": "Ajio | Miraggio Min 50%\nhttps://ajiio.co/lUYcgf\n\nSoch Min 60%\nhttps://ajiio.co/iInsyv",
+    "final_url": "https://ajiio.co/lUYcgf",
+    "local_image": "assets/images/tgmsg_31219.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-03-25T03:45:51+00:00",
+    "buy_link": "https://ajiio.co/lUYcgf",
+    "date_iso": "2026-03-25T03:45:51+00:00"
+  },
+  {
+    "id": "msg31220",
+    "title": "Portronics Mobile Cables Up to 82% Off Starting From @105",
+    "description": "Flipkart | Portronics Mobile Cables Upto 82% Off Starting From @105 👉https://fkrt.co/7ywKkC",
+    "shortlink": "https://fkrt.co/7ywKkC",
+    "urls": [
+      {
+        "url": "https://fkrt.co/7ywKkC",
+        "label": "Portronics Mobile Cables Upto 82% Off Starting From @105"
+      }
+    ],
+    "raw_text": "Flipkart | Portronics Mobile Cables Upto 82% Off Starting From @105\n\n👉https://fkrt.co/7ywKkC",
+    "final_url": "https://fkrt.co/7ywKkC",
+    "local_image": "assets/images/tgmsg_31220.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-25T03:59:18+00:00",
+    "buy_link": "https://fkrt.co/7ywKkC",
+    "date_iso": "2026-03-25T03:59:18+00:00"
+  },
+  {
     "id": "msg31212",
     "title": "💈 Philips – Min 30% Off on Beauty & Grooming Appliance",
     "description": "🔥 Myntra Beauty & Grooming Sale is LIVE! 🔥 s 🔗 💪 Beardo – Min 65% Off on Perfumes & Grooming Kits 🔗 💅 VEGA – Min 40% Off on Beauty & Grooming Appliances 🔗",
@@ -10098,45 +10142,5 @@
     "date_obj": "2026-03-19T07:56:41+00:00",
     "buy_link": "https://myntr.in/9t3yEy",
     "date_iso": "2026-03-19T07:56:41+00:00"
-  },
-  {
-    "id": "msg30640",
-    "title": "💥Flat 87% Off",
-    "description": "💥Flipkart | Flat 87% Off - 3 Fold Fully Automatic Rain UV Protection Portable Foldable Travel Umbrella At Rs.260 👉",
-    "shortlink": "https://fkrt.co/cyg919",
-    "urls": [
-      {
-        "url": "https://fkrt.co/cyg919",
-        "label": "💥Flipkart | Flat 87% Off - 3 Fold Fully Automatic Rain UV Protection Portable Foldable Travel Umbrella At Rs.260"
-      }
-    ],
-    "raw_text": "💥Flipkart | Flat 87% Off - 3 Fold Fully Automatic Rain UV Protection Portable Foldable Travel Umbrella At Rs.260\n\n👉https://fkrt.co/cyg919",
-    "final_url": "https://fkrt.co/cyg919",
-    "local_image": "assets/images/tgmsg_30640.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-19T06:14:06+00:00",
-    "buy_link": "https://fkrt.co/cyg919",
-    "date_iso": "2026-03-19T06:14:06+00:00"
-  },
-  {
-    "id": "msg30641",
-    "title": "shirt From ₹103",
-    "description": "Myntra : Glitchez T-shirt From ₹103 https://myntr.it/6j1IRHN",
-    "shortlink": "https://myntr.it/6j1IRHN",
-    "urls": [
-      {
-        "url": "https://myntr.it/6j1IRHN",
-        "label": "Glitchez T-shirt From ₹103"
-      }
-    ],
-    "raw_text": "Myntra : Glitchez T-shirt From ₹103\n\nhttps://myntr.it/6j1IRHN",
-    "final_url": "https://myntr.it/6j1IRHN",
-    "local_image": "assets/images/tgmsg_30641.jpg",
-    "source_host": "myntr.it",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-19T06:15:33+00:00",
-    "buy_link": "https://myntr.it/6j1IRHN",
-    "date_iso": "2026-03-19T06:15:33+00:00"
   }
 ]
