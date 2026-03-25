@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg31232",
+    "title": "Up to 70% off Lino Perros Handbag",
+    "description": "Myntra : Upto 70% off : Lino Perros Handbags 👉Link- https://myntr.in/DvZs54",
+    "shortlink": "https://myntr.in/DvZs54",
+    "urls": [
+      {
+        "url": "https://myntr.in/DvZs54",
+        "label": "Upto 70% off : Lino Perros Handbags"
+      }
+    ],
+    "raw_text": "Myntra : Upto 70% off : Lino Perros Handbags \n \n👉Link- https://myntr.in/DvZs54",
+    "final_url": "https://myntr.in/DvZs54",
+    "local_image": "assets/images/tgmsg_31232.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-25T06:50:31+00:00",
+    "buy_link": "https://myntr.in/DvZs54",
+    "date_iso": "2026-03-25T06:50:31+00:00"
+  },
+  {
     "id": "msg31223",
     "title": "New Balance Min 50% Off",
     "description": "Flipkart Branded Footwear 🔥🔥 PUMA Min 60% Off 👉Link : ASICS Min 55% Off 👉Link : Skechers Min 55% Off 👉Link : ADIDAS Min 55% Off 👉Link :  👉Link :",
@@ -10122,57 +10142,5 @@
     "date_obj": "2026-03-19T08:04:20+00:00",
     "buy_link": "https://bilty.co/iYlzDX",
     "date_iso": "2026-03-19T08:04:20+00:00"
-  },
-  {
-    "id": "msg30654",
-    "title": "✔️ Flat ₹4,000 OFF",
-    "description": "💻 MacBook Deal Alert! 🔥 🛒 Available on Reliance Digital ✨ MacBook Air M5 💰 Price: ₹1,08,900 💸 Extra Savings:  ✔️ ₹7,000 Instant Bank Cashback (ICICI / Axis) 👉 Grab This Deal Now: ⚡️ Limited Time Offer – Don’t Miss Out! 🚀",
-    "shortlink": "https://bilty.co/m5JtCA",
-    "urls": [
-      {
-        "url": "",
-        "label": "💻 MacBook Deal Alert! 🔥"
-      },
-      {
-        "url": "",
-        "label": "🛒 Available on Reliance Digital"
-      },
-      {
-        "url": "",
-        "label": "✨ MacBook Air M5"
-      },
-      {
-        "url": "",
-        "label": "💰 Price: ₹1,08,900"
-      },
-      {
-        "url": "",
-        "label": "💸 Extra Savings"
-      },
-      {
-        "url": "",
-        "label": "✔️ Flat ₹4,000 OFF"
-      },
-      {
-        "url": "",
-        "label": "✔️ ₹7,000 Instant Bank Cashback (ICICI / Axis)"
-      },
-      {
-        "url": "https://bilty.co/m5JtCA",
-        "label": "Grab This Deal Now"
-      },
-      {
-        "url": "",
-        "label": "⚡️ Limited Time Offer – Don’t Miss Out! 🚀"
-      }
-    ],
-    "raw_text": "💻 MacBook Deal Alert! 🔥\n\n🛒 Available on Reliance Digital\n\n✨ MacBook Air M5\n💰 Price: ₹1,08,900\n\n💸 Extra Savings:\n✔️ Flat ₹4,000 OFF\n✔️ ₹7,000 Instant Bank Cashback (ICICI / Axis)\n\n👉 Grab This Deal Now:\nhttps://bilty.co/m5JtCA\n\n⚡️ Limited Time Offer – Don’t Miss Out! 🚀",
-    "final_url": "https://bilty.co/m5JtCA",
-    "local_image": "assets/images/tgmsg_30654.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-03-19T08:20:16+00:00",
-    "buy_link": "https://bilty.co/m5JtCA",
-    "date_iso": "2026-03-19T08:20:16+00:00"
   }
 ]
