@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg31309",
+    "title": "Nivea deo spray pack of 2 72% Off @ 159",
+    "description": "Flipkart | Nivea deo spray pack of 2 72% Off @ 159 Buy 2 get rs 60 off https://fkrt.co/Wdf6nv",
+    "shortlink": "https://fkrt.co/Wdf6nv",
+    "urls": [
+      {
+        "url": "https://fkrt.co/Wdf6nv",
+        "label": "Nivea deo spray pack of 2 72% Off @ 159"
+      }
+    ],
+    "raw_text": "Flipkart | Nivea deo spray pack of 2 72% Off @ 159\n\nBuy 2 get rs 60 off \n\n https://fkrt.co/Wdf6nv",
+    "final_url": "https://fkrt.co/Wdf6nv",
+    "local_image": "assets/images/tgmsg_31309.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-25T19:49:49+00:00",
+    "buy_link": "https://fkrt.co/Wdf6nv",
+    "date_iso": "2026-03-25T19:49:49+00:00"
+  },
+  {
     "id": "msg31295",
     "title": "Min. 65% Off On Raymond, Park Avenue & Parx Clothing",
     "description": "Ajio | . Shirts : Trousers : Tshirts : Jeans : Women : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
@@ -10098,25 +10118,5 @@
     "date_obj": "2026-03-20T11:33:38+00:00",
     "buy_link": "https://fkrt.co/NEfUId",
     "date_iso": "2026-03-20T11:33:38+00:00"
-  },
-  {
-    "id": "msg30763",
-    "title": "Longway Kitchen Weighing Scale at ₹299",
-    "description": "Amazon | Longway Kitchen Weighing Scale at ₹299 🔗 https://www.amazon.in/dp/B0D14RVJ85?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D14RVJ85?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0D14RVJ85?tag=bestpricezo0f-21",
-        "label": "Longway Kitchen Weighing Scale at ₹299"
-      }
-    ],
-    "raw_text": "Amazon | Longway Kitchen Weighing Scale at ₹299\n\n🔗 https://www.amazon.in/dp/B0D14RVJ85?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D14RVJ85?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_30763.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-03-20T10:10:23+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D14RVJ85?tag=bestpricezo0f-21",
-    "date_iso": "2026-03-20T10:10:23+00:00"
   }
 ]
