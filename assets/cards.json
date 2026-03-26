@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg31369",
+    "title": "Up to 65% off",
+    "description": "💥Myntra | Faces Canada - Upto 65% off ⚡https://myntr.in/salcbA",
+    "shortlink": "https://myntr.in/salcbA",
+    "urls": [
+      {
+        "url": "https://myntr.in/salcbA",
+        "label": "💥Myntra | Faces Canada - Upto 65% off"
+      }
+    ],
+    "raw_text": "💥Myntra | Faces Canada - Upto 65% off\n\n⚡https://myntr.in/salcbA",
+    "final_url": "https://myntr.in/salcbA",
+    "local_image": "assets/images/tgmsg_31369.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-26T13:46:09+00:00",
+    "buy_link": "https://myntr.in/salcbA",
+    "date_iso": "2026-03-26T13:46:09+00:00"
+  },
+  {
     "id": "msg31351",
     "title": "TVS Racing Full Face Helmet @1,559",
     "description": "Amazon | TVS Racing Full Face Helmet @1,559₹ 🔗 https://www.amazon.in/dp/B0DG2K8Z1G?psc=1&th=1&tag=bestpricezo0f-21",
@@ -9938,41 +9958,5 @@
     "date_obj": "2026-03-21T06:11:17+00:00",
     "buy_link": "https://myntr.in/5TccrW",
     "date_iso": "2026-03-21T06:11:17+00:00"
-  },
-  {
-    "id": "msg30844",
-    "title": "💄✨ MEGA Beauty Sale – Up to 65% OFF + EXTRA 10% OFF! ✨💄",
-    "description": "💄✨ Myntra MEGA Beauty Sale – Upto 65% OFF + EXTRA 10% OFF! ✨💄 🎟️ Use Coupon Code: GET10OFF 💥 Extra 10% OFF on already discounted prices 👉 Shop Now: 🌟 Top Brands Included: 💋 Lakmé, Garnier, Simple, Vaseline, Ponds,…",
-    "shortlink": "https://myntr.in/jUrvLf",
-    "urls": [
-      {
-        "url": "",
-        "label": "💄✨ Myntra MEGA Beauty Sale – Upto 65% OFF + EXTRA 10% OFF! ✨💄"
-      },
-      {
-        "url": "",
-        "label": "💥 Extra 10% OFF on already discounted prices"
-      },
-      {
-        "url": "https://myntr.in/jUrvLf",
-        "label": "Shop Now"
-      },
-      {
-        "url": "",
-        "label": "🌟 Top Brands Included"
-      },
-      {
-        "url": "",
-        "label": "💋 Lakmé, Garnier, Simple, Vaseline, Ponds, Clinic Plus, etc"
-      }
-    ],
-    "raw_text": "💄✨ Myntra MEGA Beauty Sale – Upto 65% OFF + EXTRA 10% OFF! ✨💄\n\n🎟️ Use Coupon Code: GET10OFF\n💥 Extra 10% OFF on already discounted prices\n👉 Shop Now: https://myntr.in/jUrvLf\n\n🌟 Top Brands Included:\n💋 Lakmé, Garnier, Simple, Vaseline, Ponds, Clinic Plus, etc",
-    "final_url": "https://myntr.in/jUrvLf",
-    "local_image": "assets/images/tgmsg_30844.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-21T06:43:54+00:00",
-    "buy_link": "https://myntr.in/jUrvLf",
-    "date_iso": "2026-03-21T06:43:54+00:00"
   }
 ]
