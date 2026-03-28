@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg31519",
+    "title": "🌍 Get up to 40% OFF on hotel bookings 😍",
+    "description": "🏨🔥Goindigo Hotels Mega Sale is Live!🔥  📅 Valid : 27–31 March only 🎟 Use Code : 6EMEGA ✈️ Book now : 💥 Perfect time to plan your next trip",
+    "shortlink": "https://bilty.co/kuAJcJ",
+    "urls": [
+      {
+        "url": "",
+        "label": "🏨🔥Goindigo Hotels Mega Sale is Live!🔥"
+      },
+      {
+        "url": "",
+        "label": "🌍 Get up to 40% OFF on hotel bookings 😍"
+      },
+      {
+        "url": "",
+        "label": "📅 Valid : 27–31 March only"
+      },
+      {
+        "url": "",
+        "label": "🎟 Use Code : 6EMEGA"
+      },
+      {
+        "url": "https://bilty.co/kuAJcJ",
+        "label": "✈️ Book now"
+      },
+      {
+        "url": "",
+        "label": "💥 Perfect time to plan your next trip"
+      }
+    ],
+    "raw_text": "🏨🔥Goindigo Hotels Mega Sale is Live!🔥\n\n🌍 Get up to 40% OFF on hotel bookings 😍\n\n📅 Valid : 27–31 March only\n🎟 Use Code : 6EMEGA\n\n✈️ Book now : https://bilty.co/kuAJcJ\n\n💥 Perfect time to plan your next trip",
+    "final_url": "https://bilty.co/kuAJcJ",
+    "local_image": "assets/images/tgmsg_31519.jpg",
+    "source_host": "bilty.co",
+    "merchant_label": "Bilty",
+    "date_obj": "2026-03-28T09:20:14+00:00",
+    "buy_link": "https://bilty.co/kuAJcJ",
+    "date_iso": "2026-03-28T09:20:14+00:00"
+  },
+  {
     "id": "msg31512",
     "title": "✔️ 100% Digital Application",
     "description": "💳✨ Get Your Bajaj Finserv Insta EMI Card Today! ✨💳 Shop now & pay later easily with Bajaj Finserv ✔️ Instant Approval Process ✔️ Convert Purchases into Easy EMIs ✔️ No-Cost EMI Options on Top Brands  🚀 Apply Now : 🛍…",
@@ -9738,33 +9778,5 @@
     "date_obj": "2026-03-22T17:03:52+00:00",
     "buy_link": "https://bitli.in/1AX7R41",
     "date_iso": "2026-03-22T17:03:52+00:00"
-  },
-  {
-    "id": "msg31001",
-    "title": "💥 72% OFF – Limited Time Deal!",
-    "description": "👡✨ Myntra  Stylish Women Clogs @ Just ₹283! 🔥 💥 72% OFF – Limited Time Deal! 🛍 Shop Now : https://myntr.in/A7e80q",
-    "shortlink": "https://myntr.in/A7e80q",
-    "urls": [
-      {
-        "url": "",
-        "label": "👡✨ Myntra Stylish Women Clogs @ Just ₹283! 🔥"
-      },
-      {
-        "url": "",
-        "label": "💥 72% OFF – Limited Time Deal!"
-      },
-      {
-        "url": "https://myntr.in/A7e80q",
-        "label": "🛍 Shop Now"
-      }
-    ],
-    "raw_text": "👡✨ Myntra  Stylish Women Clogs @ Just ₹283! 🔥\n\n💥 72% OFF – Limited Time Deal!\n\n🛍 Shop Now : https://myntr.in/A7e80q",
-    "final_url": "https://myntr.in/A7e80q",
-    "local_image": "assets/images/tgmsg_31001.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-22T17:10:37+00:00",
-    "buy_link": "https://myntr.in/A7e80q",
-    "date_iso": "2026-03-22T17:10:37+00:00"
   }
 ]
