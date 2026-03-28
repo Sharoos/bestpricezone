@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg31572",
+    "title": "Up to 82% Sale on branded sports shoes👟",
+    "description": "Myntra | Upto 82% Sale on branded sports shoes👟 ● Campus men shoes from 714 - ● Campus women shoes from 752 - ● Red tape women shoes from 975 - ● Adidas mens shoes from 1000 -",
+    "shortlink": "https://myntr.in/dehtnG",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 82% Sale on branded sports shoes👟"
+      },
+      {
+        "url": "https://myntr.in/dehtnG",
+        "label": "● Campus men shoes from 714"
+      },
+      {
+        "url": "https://myntr.in/6iAtKv",
+        "label": "● Campus women shoes from 752"
+      },
+      {
+        "url": "https://myntr.in/mFGJDV",
+        "label": "● Red tape women shoes from 975"
+      },
+      {
+        "url": "https://myntr.in/NP6048",
+        "label": "● Adidas mens shoes from 1000"
+      }
+    ],
+    "raw_text": "Myntra  | Upto 82% Sale on branded sports shoes👟\n\n● Campus men shoes from 714 - https://myntr.in/dehtnG\n● Campus women shoes from 752 - https://myntr.in/6iAtKv\n● Red tape women shoes from 975 - https://myntr.in/mFGJDV\n● Adidas mens shoes from 1000 - https://myntr.in/NP6048",
+    "final_url": "https://myntr.in/dehtnG",
+    "local_image": "assets/images/tgmsg_31572.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-28T17:39:03+00:00",
+    "buy_link": "https://myntr.in/dehtnG",
+    "date_iso": "2026-03-28T17:39:03+00:00"
+  },
+  {
     "id": "msg31565",
     "title": "Mobile Case Up to 94% Off Start @28",
     "description": "Amazon | Mobile Case Upto 94% Off Start @28 👉…",
@@ -9846,65 +9882,5 @@
     "date_obj": "2026-03-23T11:15:28+00:00",
     "buy_link": "https://myntr.in/fr5tQO",
     "date_iso": "2026-03-23T11:15:28+00:00"
-  },
-  {
-    "id": "msg31073",
-    "title": "💰 High interest up to ~7% p.a. + Monthly payout",
-    "description": "🏦 IDFC FIRST Bank Savings Account 🏦 Upgrade your banking with smart benefits 👇  🆓 Zero fee banking (NEFT, IMPS, RTGS free) 🏧 Unlimited FREE ATM withdrawals 💳 Free debit card with offers & cashback 🛡 Personal accident…",
-    "shortlink": "https://bilty.co/xwmHaE",
-    "urls": [
-      {
-        "url": "",
-        "label": "🏦 IDFC FIRST Bank Savings Account 🏦"
-      },
-      {
-        "url": "",
-        "label": "Upgrade your banking with smart benefits 👇"
-      },
-      {
-        "url": "",
-        "label": "💰 High interest up to ~7% p.a. + Monthly payout"
-      },
-      {
-        "url": "",
-        "label": "🆓 Zero fee banking (NEFT, IMPS, RTGS free)"
-      },
-      {
-        "url": "",
-        "label": "🏧 Unlimited FREE ATM withdrawals"
-      },
-      {
-        "url": "",
-        "label": "💳 Free debit card with offers & cashback"
-      },
-      {
-        "url": "",
-        "label": "🛡 Personal accident insurance cover"
-      },
-      {
-        "url": "",
-        "label": "📲 100% Digital Account Opening (Instant)"
-      },
-      {
-        "url": "",
-        "label": "▪️ Smart app + Pre-approved loan offers"
-      },
-      {
-        "url": "https://bilty.co/xwmHaE",
-        "label": "💥 Open now"
-      },
-      {
-        "url": "",
-        "label": "#IDFCFirstBank #SavingsAccount #ZeroBalanceAccount #DigitalBanking #HighInterest"
-      }
-    ],
-    "raw_text": "🏦 IDFC FIRST Bank Savings Account 🏦\n\nUpgrade your banking with smart benefits 👇\n\n💰 High interest up to ~7% p.a. + Monthly payout\n🆓 Zero fee banking (NEFT, IMPS, RTGS free)\n🏧 Unlimited FREE ATM withdrawals\n💳 Free debit card with offers & cashback\n🛡 Personal accident insurance cover\n\n📲 100% Digital Account Opening (Instant)\n ▪️ Smart app + Pre-approved loan offers\n\n💥 Open now : https://bilty.co/xwmHaE\n\n#IDFCFirstBank #SavingsAccount #ZeroBalanceAccount #DigitalBanking #HighInterest",
-    "final_url": "https://bilty.co/xwmHaE",
-    "local_image": "assets/images/tgmsg_31073.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-03-23T11:40:18+00:00",
-    "buy_link": "https://bilty.co/xwmHaE",
-    "date_iso": "2026-03-23T11:40:18+00:00"
   }
 ]
