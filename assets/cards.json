@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg31630",
+    "title": "Sale is Live !!!",
+    "description": "Ajio  AX Min 40%: Superdry Min 50%: Tommy Hilfiger Calvin Klein Min 40%: USPA Min 55% : Levis Min 60% :",
+    "shortlink": "https://ajiio.co/zJGUHb",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Sale is Live !!!"
+      },
+      {
+        "url": "https://ajiio.co/zJGUHb",
+        "label": "AX Min 40%"
+      },
+      {
+        "url": "https://ajiio.co/g3N6Uo",
+        "label": "Superdry Min 50%"
+      },
+      {
+        "url": "https://ajiio.co/Fq3wES",
+        "label": "Tommy Hilfiger Calvin Klein Min 40%"
+      },
+      {
+        "url": "https://ajiio.co/vtbJIX",
+        "label": "USPA Min 55%"
+      },
+      {
+        "url": "https://ajiio.co/s0MCnF",
+        "label": "Levis Min 60%"
+      }
+    ],
+    "raw_text": "Ajio Sale is Live !!!\nAX Min 40%: \nhttps://ajiio.co/zJGUHb\n\nSuperdry Min 50%: \nhttps://ajiio.co/g3N6Uo\n\nTommy Hilfiger Calvin Klein Min 40%: \nhttps://ajiio.co/Fq3wES\n\nUSPA Min 55% : \nhttps://ajiio.co/vtbJIX\n\nLevis Min 60% : \nhttps://ajiio.co/s0MCnF",
+    "final_url": "https://ajiio.co/zJGUHb",
+    "local_image": "assets/images/tgmsg_31630.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-03-29T17:46:40+00:00",
+    "buy_link": "https://ajiio.co/zJGUHb",
+    "date_iso": "2026-03-29T17:46:40+00:00"
+  },
+  {
     "id": "msg31629",
     "title": "99 Deal Store",
     "description": "- Myntra Home !!! Master Link !! Doormats and Bath rugs Flat 99 !!! Storage Organizers Flat 99 !!! Kitchen Deals Flat 99 !!!",
@@ -9974,33 +10014,5 @@
     "date_obj": "2026-03-23T18:56:30+00:00",
     "buy_link": "https://fkrt.co/soG0OD",
     "date_iso": "2026-03-23T18:56:30+00:00"
-  },
-  {
-    "id": "msg31124",
-    "title": "Tracksuits Under Rs. 499",
-    "description": "Amazon GRAB : Tracksuits Under Rs. 499 https://fkrt.co/bbcL5k Hoodies Under @399 https://fkrt.co/lQPkmt Jackets Under @499 https://fkrt.co/4lwnSk",
-    "shortlink": "https://fkrt.co/bbcL5k",
-    "urls": [
-      {
-        "url": "https://fkrt.co/bbcL5k",
-        "label": "Tracksuits Under Rs. 499"
-      },
-      {
-        "url": "https://fkrt.co/lQPkmt",
-        "label": "Hoodies Under @399"
-      },
-      {
-        "url": "https://fkrt.co/4lwnSk",
-        "label": "Jackets Under @499"
-      }
-    ],
-    "raw_text": "Amazon GRAB : Tracksuits Under Rs. 499\n https://fkrt.co/bbcL5k\n\nHoodies Under @399\n https://fkrt.co/lQPkmt\n\nJackets Under @499\n https://fkrt.co/4lwnSk",
-    "final_url": "https://fkrt.co/bbcL5k",
-    "local_image": "assets/images/tgmsg_31124.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-23T19:12:59+00:00",
-    "buy_link": "https://fkrt.co/bbcL5k",
-    "date_iso": "2026-03-23T19:12:59+00:00"
   }
 ]
