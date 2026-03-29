@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg31618",
+    "title": "Steve Madden, Dune London min 50%",
+    "description": "Ajio | Steve Madden, Dune London min 50% https://ajiio.co/iSYQ44 Guess Min 40% https://ajiio.co/FPMnkU",
+    "shortlink": "https://ajiio.co/iSYQ44",
+    "urls": [
+      {
+        "url": "https://ajiio.co/iSYQ44",
+        "label": "Steve Madden, Dune London min 50%"
+      },
+      {
+        "url": "https://ajiio.co/FPMnkU",
+        "label": "Guess Min 40%"
+      }
+    ],
+    "raw_text": "Ajio | Steve Madden, Dune London min 50%\nhttps://ajiio.co/iSYQ44\n\nGuess Min 40%\nhttps://ajiio.co/FPMnkU",
+    "final_url": "https://ajiio.co/iSYQ44",
+    "local_image": "assets/images/tgmsg_31618.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-03-29T14:02:51+00:00",
+    "buy_link": "https://ajiio.co/iSYQ44",
+    "date_iso": "2026-03-29T14:02:51+00:00"
+  },
+  {
     "id": "msg31607",
     "title": "💥 Up to 50% OFF on trending style",
     "description": "🔥Campus Bold Moves Start Here! 🔥 Step up your style with Campus 👟 s 🛒 Shop Now : Upgrade your sneaker game now!",
@@ -9906,45 +9930,5 @@
     "date_obj": "2026-03-23T17:16:50+00:00",
     "buy_link": "https://fkrt.co/gcUJe7",
     "date_iso": "2026-03-23T17:16:50+00:00"
-  },
-  {
-    "id": "msg31097",
-    "title": "💥 Min. 65% OFF + EXTRA 10% OFF!",
-    "description": "🔥FLIPKART 2-HOUR MEGA ETHNIC ! 👗✨ ⏰ Time: 6 PM – 8 PM ONLY (Limited Time!) ✨ Organza Sarees UNDER ₹799!! 🌿 👉 😱 Cotton Kurtis UNDER ₹199!! 🌸 👉 🔥 Kurta Sets & Kurtis ! 👗  👉",
-    "shortlink": "https://fkrt.co/y7Dp8T",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥FLIPKART 2-HOUR MEGA ETHNIC ! 👗✨"
-      },
-      {
-        "url": "",
-        "label": "⏰ Time: 6 PM – 8 PM ONLY (Limited Time!)"
-      },
-      {
-        "url": "https://fkrt.co/y7Dp8T",
-        "label": "✨ Organza Sarees UNDER ₹799!! 🌿"
-      },
-      {
-        "url": "https://fkrt.co/6TwG8u",
-        "label": "😱 Cotton Kurtis UNDER ₹199!! 🌸"
-      },
-      {
-        "url": "",
-        "label": "🔥 Kurta Sets & Kurtis ! 👗"
-      },
-      {
-        "url": "https://fkrt.co/QTwTZ4",
-        "label": "💥 Min. 65% OFF + EXTRA 10% OFF!"
-      }
-    ],
-    "raw_text": "🔥FLIPKART 2-HOUR MEGA ETHNIC ! 👗✨\n⏰ Time: 6 PM – 8 PM ONLY (Limited Time!)\n\n✨ Organza Sarees UNDER ₹799!! 🌿\n👉 https://fkrt.co/y7Dp8T\n\n😱 Cotton Kurtis UNDER ₹199!! 🌸\n👉 https://fkrt.co/6TwG8u\n\n🔥 Kurta Sets & Kurtis ! 👗\n💥 Min. 65% OFF + EXTRA 10% OFF!\n👉 https://fkrt.co/QTwTZ4",
-    "final_url": "https://fkrt.co/y7Dp8T",
-    "local_image": "assets/images/tgmsg_31097.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-23T15:21:52+00:00",
-    "buy_link": "https://fkrt.co/y7Dp8T",
-    "date_iso": "2026-03-23T15:21:52+00:00"
   }
 ]
