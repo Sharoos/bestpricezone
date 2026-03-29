@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg31629",
+    "title": "99 Deal Store",
+    "description": "- Myntra Home !!! Master Link !! Doormats and Bath rugs Flat 99 !!! Storage Organizers Flat 99 !!! Kitchen Deals Flat 99 !!!",
+    "shortlink": "https://myntr.in/pDNgnV",
+    "urls": [
+      {
+        "url": "https://myntr.in/pDNgnV",
+        "label": "Myntra Home !!!"
+      },
+      {
+        "url": "https://myntr.in/m5Hl5G",
+        "label": "Doormats and Bath rugs Flat 99 !!!"
+      },
+      {
+        "url": "https://myntr.in/snEAvr",
+        "label": "Storage Organizers Flat 99 !!!"
+      },
+      {
+        "url": "https://myntr.in/5vUxyZ",
+        "label": "Kitchen Deals Flat 99 !!!"
+      }
+    ],
+    "raw_text": "99 Deal Store - Myntra Home !!!\n\nMaster Link !! \nhttps://myntr.in/pDNgnV\n\nDoormats and Bath rugs Flat 99 !!!\nhttps://myntr.in/m5Hl5G\n\nStorage Organizers Flat 99 !!!\nhttps://myntr.in/snEAvr\n\nKitchen Deals Flat 99 !!!\nhttps://myntr.in/5vUxyZ",
+    "final_url": "https://myntr.in/pDNgnV",
+    "local_image": "assets/images/tgmsg_31629.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-29T17:02:26+00:00",
+    "buy_link": "https://myntr.in/pDNgnV",
+    "date_iso": "2026-03-29T17:02:26+00:00"
+  },
+  {
     "id": "msg31627",
     "title": "75% Off on Motorola 100 W Bluetooth Soundbar @2999",
     "description": "Flipkart | 75% Off on Motorola 100 W Bluetooth Soundbar @2999 https://fkrt.co/qFT9yq",
@@ -9970,33 +10002,5 @@
     "date_obj": "2026-03-23T19:12:59+00:00",
     "buy_link": "https://fkrt.co/bbcL5k",
     "date_iso": "2026-03-23T19:12:59+00:00"
-  },
-  {
-    "id": "msg31125",
-    "title": "Tracksuits Under Rs. 499",
-    "description": "Flipkart GRAB : Tracksuits Under Rs. 499 https://fkrt.co/EZc3he Hoodies Under @399 https://fkrt.co/62K5x3 Jackets Under @499 https://fkrt.co/dqZP4D",
-    "shortlink": "https://fkrt.co/EZc3he",
-    "urls": [
-      {
-        "url": "https://fkrt.co/EZc3he",
-        "label": "Tracksuits Under Rs. 499"
-      },
-      {
-        "url": "https://fkrt.co/62K5x3",
-        "label": "Hoodies Under @399"
-      },
-      {
-        "url": "https://fkrt.co/dqZP4D",
-        "label": "Jackets Under @499"
-      }
-    ],
-    "raw_text": "Flipkart GRAB : Tracksuits Under Rs. 499\n https://fkrt.co/EZc3he\n\nHoodies Under @399\n https://fkrt.co/62K5x3\n\nJackets Under @499\n https://fkrt.co/dqZP4D",
-    "final_url": "https://fkrt.co/EZc3he",
-    "local_image": "assets/images/tgmsg_31125.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-23T19:13:29+00:00",
-    "buy_link": "https://fkrt.co/EZc3he",
-    "date_iso": "2026-03-23T19:13:29+00:00"
   }
 ]
