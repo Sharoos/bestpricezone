@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg31606",
+    "title": "✅ Minimum 65% OFF",
+    "description": "FLIPKART TODAY’S TOP FASHION DEALS – DON’T MISS OUT! 🔥 👟 PUMA, ADIDAS & More Sports Shoes  👗 Trendy Kurtis Collection 💰 Under ₹299 👕 Snitch | The Bear House & More 🔥 Minimum 60% OFF",
+    "shortlink": "https://fkrt.co/6WalUE",
+    "urls": [
+      {
+        "url": "",
+        "label": "FLIPKART TODAY’S TOP FASHION DEALS – DON’T MISS OUT! 🔥"
+      },
+      {
+        "url": "",
+        "label": "👟 PUMA, ADIDAS & More Sports Shoes"
+      },
+      {
+        "url": "https://fkrt.co/6WalUE",
+        "label": "✅ Minimum 65% OFF"
+      },
+      {
+        "url": "",
+        "label": "👗 Trendy Kurtis Collection"
+      },
+      {
+        "url": "https://fkrt.co/ybSXZ8",
+        "label": "💰 Under ₹299"
+      },
+      {
+        "url": "",
+        "label": "👕 Snitch | The Bear House & More"
+      },
+      {
+        "url": "https://fkrt.co/CAKwkE",
+        "label": "🔥 Minimum 60% OFF"
+      }
+    ],
+    "raw_text": "FLIPKART TODAY’S TOP FASHION DEALS – DON’T MISS OUT! 🔥\n\n👟 PUMA, ADIDAS & More Sports Shoes\n✅ Minimum 65% OFF\nhttps://fkrt.co/6WalUE\n\n👗 Trendy Kurtis Collection\n💰 Under ₹299\nhttps://fkrt.co/ybSXZ8\n\n👕 Snitch | The Bear House & More\n🔥 Minimum 60% OFF\nhttps://fkrt.co/CAKwkE",
+    "final_url": "https://fkrt.co/6WalUE",
+    "local_image": "assets/images/tgmsg_31606.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-03-29T11:55:55+00:00",
+    "buy_link": "https://fkrt.co/6WalUE",
+    "date_iso": "2026-03-29T11:55:55+00:00"
+  },
+  {
     "id": "msg31601",
     "title": "🔥 CF Magnesium Citrate 120 tabs @ 599/",
     "description": "Amazon 🔥 Coupon : CF Magnesium Citrate 120 tabs @ 599/- 🔗 ✔️Best Form for Gym Goers",
@@ -9894,37 +9938,5 @@
     "date_obj": "2026-03-23T14:04:23+00:00",
     "buy_link": "https://www.amazon.in/dp/B0G2JB13LG?tag=bestpricezo0f-21",
     "date_iso": "2026-03-23T14:04:23+00:00"
-  },
-  {
-    "id": "msg31091",
-    "title": "Get Flat 50% OFF on Clove Dental Toothpaste & Oral Care Product",
-    "description": "Clove Flash Sale 🙈🙈 s 👉 Use Code: EW50 ✅ Link: FREE Bonus: Get ₹2000 Worth Family Dental Health Plan on every purchase",
-    "shortlink": "https://bilty.co/NHJ78E",
-    "urls": [
-      {
-        "url": "",
-        "label": "Clove Flash Sale 🙈🙈"
-      },
-      {
-        "url": "",
-        "label": "Get Flat 50% OFF on Clove Dental Toothpaste & Oral Care Products"
-      },
-      {
-        "url": "https://bilty.co/NHJ78E",
-        "label": "EW50"
-      },
-      {
-        "url": "",
-        "label": "Get ₹2000 Worth Family Dental Health Plan on every purchase"
-      }
-    ],
-    "raw_text": "Clove Flash Sale 🙈🙈\n\nGet Flat 50% OFF on Clove Dental Toothpaste & Oral Care Products\n\n👉 Use Code: EW50\n\n✅ Link:  https://bilty.co/NHJ78E\n\nFREE Bonus: Get ₹2000 Worth Family Dental Health Plan on every purchase",
-    "final_url": "https://bilty.co/NHJ78E",
-    "local_image": "assets/images/tgmsg_31091.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-03-23T14:50:45+00:00",
-    "buy_link": "https://bilty.co/NHJ78E",
-    "date_iso": "2026-03-23T14:50:45+00:00"
   }
 ]
