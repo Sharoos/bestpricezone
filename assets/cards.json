@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg31601",
+    "title": "🔥 CF Magnesium Citrate 120 tabs @ 599/",
+    "description": "Amazon 🔥 Coupon : CF Magnesium Citrate 120 tabs @ 599/- 🔗 ✔️Best Form for Gym Goers",
+    "shortlink": "https://www.amazon.in/dp/B0FGCNS7BN?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FGCNS7BN?tag=bestpricezo0f-21",
+        "label": ""
+      },
+      {
+        "url": "",
+        "label": "✔️Best Form for Gym Goers"
+      }
+    ],
+    "raw_text": "Amazon 🔥 Coupon : CF Magnesium Citrate 120 tabs @ 599/-\n\n🔗https://www.amazon.in/dp/B0FGCNS7BN?tag=bestpricezo0f-21\n\n✔️Best Form for Gym Goers",
+    "final_url": "https://www.amazon.in/dp/B0FGCNS7BN?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_31601.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-03-29T10:34:56+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FGCNS7BN?tag=bestpricezo0f-21",
+    "date_iso": "2026-03-29T10:34:56+00:00"
+  },
+  {
     "id": "msg31597",
     "title": "USPA & Hellcat and More Up to 82% Off",
     "description": "AJIO: USPA & Hellcat and More Upto 82% Off 👉Link : https://ajiio.co/ZGO1rT + 10% EXTRA AJIO CASH",
@@ -9902,41 +9926,5 @@
     "date_obj": "2026-03-23T14:50:45+00:00",
     "buy_link": "https://bilty.co/NHJ78E",
     "date_iso": "2026-03-23T14:50:45+00:00"
-  },
-  {
-    "id": "msg31092",
-    "title": "HOUR – Silk Sarees UNDER ₹499! 🥻✨",
-    "description": "💣FLIPKART 2- 🔥 Premium Look at Budget Price – Don’t Miss This! ⏰ Time: 8 PM – 10 PM ONLY 💃 Elegant • Festive Ready • Trending Designs 👉 Grab Now:",
-    "shortlink": "https://fkrt.co/shPK5P",
-    "urls": [
-      {
-        "url": "",
-        "label": "💣FLIPKART 2-HOUR – Silk Sarees UNDER ₹499! 🥻✨"
-      },
-      {
-        "url": "",
-        "label": "🔥 Premium Look at Budget Price – Don’t Miss This!"
-      },
-      {
-        "url": "",
-        "label": "⏰ Time: 8 PM – 10 PM ONLY"
-      },
-      {
-        "url": "",
-        "label": "💃 Elegant • Festive Ready • Trending Designs"
-      },
-      {
-        "url": "https://fkrt.co/shPK5P",
-        "label": "Grab Now"
-      }
-    ],
-    "raw_text": "💣FLIPKART 2-HOUR  – Silk Sarees UNDER ₹499! 🥻✨\n\n🔥 Premium Look at Budget Price – Don’t Miss This!\n⏰ Time: 8 PM – 10 PM ONLY\n\n💃 Elegant • Festive Ready • Trending Designs\n\n👉 Grab Now: https://fkrt.co/shPK5P",
-    "final_url": "https://fkrt.co/shPK5P",
-    "local_image": "assets/images/tgmsg_31092.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-23T14:51:48+00:00",
-    "buy_link": "https://fkrt.co/shPK5P",
-    "date_iso": "2026-03-23T14:51:48+00:00"
   }
 ]
