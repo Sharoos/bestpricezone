@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg31727",
+    "title": "Under 199",
+    "description": "Myntra | Jewellery - Under 99 https://myntr.in/y4rRiP Under 199 https://myntr.in/7prrjk",
+    "shortlink": "https://myntr.in/y4rRiP",
+    "urls": [
+      {
+        "url": "https://myntr.in/y4rRiP",
+        "label": "Jewellery - Under 99"
+      },
+      {
+        "url": "https://myntr.in/7prrjk",
+        "label": "Under 199"
+      }
+    ],
+    "raw_text": "Myntra | Jewellery - Under 99 \n\nhttps://myntr.in/y4rRiP\n\nUnder 199\n\nhttps://myntr.in/7prrjk",
+    "final_url": "https://myntr.in/y4rRiP",
+    "local_image": "assets/images/tgmsg_31727.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-30T16:10:18+00:00",
+    "buy_link": "https://myntr.in/y4rRiP",
+    "date_iso": "2026-03-30T16:10:18+00:00"
+  },
+  {
     "id": "msg31717",
     "title": "Crompton Blender Chopper @2612",
     "description": "Amazon | Crompton Blender Chopper @2612. 🔗 https://www.amazon.in/dp/B0G1SMYL7D?psc=1&tag=bestpricezo0f-21",
@@ -10258,25 +10282,5 @@
     "date_obj": "2026-03-24T12:25:19+00:00",
     "buy_link": "https://www.amazon.in/dp/B019IODBPY?th=1&tag=bestpricezo0f-21",
     "date_iso": "2026-03-24T12:25:19+00:00"
-  },
-  {
-    "id": "msg31168",
-    "title": "Catch Cumin Whole Jeera Whole, 200g @ ₹97",
-    "description": "Amazon | Catch Cumin Whole | Jeera Whole, 200g @ ₹97 🔗 https://www.amazon.in/dp/B071Y34HVV?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B071Y34HVV?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B071Y34HVV?tag=bestpricezo0f-21",
-        "label": "Catch Cumin Whole | Jeera Whole, 200g @ ₹97"
-      }
-    ],
-    "raw_text": "Amazon | Catch Cumin Whole | Jeera Whole, 200g @ ₹97\n\n🔗 https://www.amazon.in/dp/B071Y34HVV?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B071Y34HVV?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_31168.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-03-24T10:41:55+00:00",
-    "buy_link": "https://www.amazon.in/dp/B071Y34HVV?tag=bestpricezo0f-21",
-    "date_iso": "2026-03-24T10:41:55+00:00"
   }
 ]
