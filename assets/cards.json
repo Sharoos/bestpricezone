@@ -1,5 +1,125 @@
 [
   {
+    "id": "msg31805",
+    "title": "🛒 Deal Price ₹299",
+    "description": "Amazon | 🖱 Wireless Mouse Deals! Zebronics Wireless Mouse 🛒 Deal Price: ₹299 👉 Logitech Wireless Mouse 🛒 Deal Price: ₹599 👉",
+    "shortlink": "https://www.amazon.in/dp/B098JYT4SY?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "🖱 Wireless Mouse Deals!"
+      },
+      {
+        "url": "",
+        "label": "Zebronics Wireless Mouse"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B098JYT4SY?th=1&tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹299"
+      },
+      {
+        "url": "",
+        "label": "Logitech Wireless Mouse"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0D18192T2?tag=bestpricezo0f-21",
+        "label": "🛒 Deal Price: ₹599"
+      }
+    ],
+    "raw_text": "Amazon | 🖱 Wireless Mouse Deals!\n\nZebronics Wireless Mouse\n🛒 Deal Price: ₹299\n👉https://www.amazon.in/dp/B098JYT4SY?th=1&tag=bestpricezo0f-21\n\nLogitech Wireless Mouse\n🛒 Deal Price: ₹599\n👉https://www.amazon.in/dp/B0D18192T2?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B098JYT4SY?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_31805.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-03-31T15:46:45+00:00",
+    "buy_link": "https://www.amazon.in/dp/B098JYT4SY?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-03-31T15:46:45+00:00"
+  },
+  {
+    "id": "msg31808",
+    "title": "Up to 80% Off John Players Clothing",
+    "description": "AJIO : Upto 80% Off : John Players Clothing Jeans – Shirts – T-Shirts – Trousers – Sweatshirts – Sweaters – Jackets – Waistcoats & Blazers –",
+    "shortlink": "https://ajiio.co/A5L78o",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 80% Off : John Players Clothing"
+      },
+      {
+        "url": "https://ajiio.co/A5L78o",
+        "label": "Jeans –"
+      },
+      {
+        "url": "https://ajiio.co/kZKYIl",
+        "label": "Shirts –"
+      },
+      {
+        "url": "https://ajiio.co/I4poX9",
+        "label": "T-Shirts –"
+      },
+      {
+        "url": "https://ajiio.co/xPV9XD",
+        "label": "Trousers –"
+      },
+      {
+        "url": "https://ajiio.co/mptivB",
+        "label": "Sweatshirts –"
+      },
+      {
+        "url": "https://ajiio.co/rrkrSC",
+        "label": "Sweaters –"
+      },
+      {
+        "url": "https://ajiio.co/vpSVYl",
+        "label": "Jackets –"
+      },
+      {
+        "url": "https://ajiio.co/tWscRP",
+        "label": "Waistcoats & Blazers –"
+      }
+    ],
+    "raw_text": "AJIO : Upto 80% Off : John Players Clothing \n\nJeans – https://ajiio.co/A5L78o\nShirts – https://ajiio.co/kZKYIl\nT-Shirts – https://ajiio.co/I4poX9\nTrousers – https://ajiio.co/xPV9XD\nSweatshirts – https://ajiio.co/mptivB\nSweaters – https://ajiio.co/rrkrSC\nJackets – https://ajiio.co/vpSVYl\nWaistcoats & Blazers – https://ajiio.co/tWscRP",
+    "final_url": "https://ajiio.co/A5L78o",
+    "local_image": "assets/images/tgmsg_31808.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-03-31T16:03:48+00:00",
+    "buy_link": "https://ajiio.co/A5L78o",
+    "date_iso": "2026-03-31T16:03:48+00:00"
+  },
+  {
+    "id": "msg31809",
+    "title": "💥 Min 80% OFF + EXTRA 10% OFF 😱",
+    "description": "✨AJIO MEGA ETHNIC SALE on Gosriki! 👗🔥  🎟️ Use Coupon Code: ETHNIC4U ⏰ Event Timeline: 1st – 5th April 2026 👉 Shop Now:",
+    "shortlink": "https://ajiio.co/yQb5Sn⁠",
+    "urls": [
+      {
+        "url": "",
+        "label": "✨AJIO MEGA ETHNIC SALE on Gosriki! 👗🔥"
+      },
+      {
+        "url": "",
+        "label": "💥 Min 80% OFF + EXTRA 10% OFF 😱"
+      },
+      {
+        "url": "",
+        "label": "⏰ Event Timeline: 1st – 5th April 2026"
+      },
+      {
+        "url": "https://ajiio.co/yQb5Sn⁠",
+        "label": "Shop Now"
+      }
+    ],
+    "raw_text": "✨AJIO  MEGA ETHNIC SALE on Gosriki! 👗🔥\n\n💥 Min 80% OFF + EXTRA 10% OFF 😱\n🎟️ Use Coupon Code: ETHNIC4U\n\n⏰ Event Timeline: 1st – 5th April 2026\n\n👉 Shop Now: https://ajiio.co/yQb5Sn⁠",
+    "final_url": "https://ajiio.co/yQb5Sn⁠",
+    "local_image": "assets/images/tgmsg_31809.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-03-31T16:14:05+00:00",
+    "buy_link": "https://ajiio.co/yQb5Sn⁠",
+    "date_iso": "2026-03-31T16:14:05+00:00"
+  },
+  {
     "id": "msg31795",
     "title": "TRESemme Up to 65% Off",
     "description": "Myntra | TRESemme Upto  65% Off https://myntr.in/ezRBl2",
@@ -10182,97 +10302,5 @@
     "date_obj": "2026-03-25T09:47:36+00:00",
     "buy_link": "https://bitli.in/Qe0bxh1",
     "date_iso": "2026-03-25T09:47:36+00:00"
-  },
-  {
-    "id": "msg31251",
-    "title": "🛒 Deal Price ₹99",
-    "description": "Amazon | 🏡 Home & Kitchen Essentials Fridge Storage Box - 4Pcs 🛒 Deal Price: ₹99 🔗 2-in-1 Veges & Fruit Peeler 🛒 Deal Price: ₹55 🔗",
-    "shortlink": "https://www.amazon.in/dp/B0FVW8X8TK?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "🏡 Home & Kitchen Essentials"
-      },
-      {
-        "url": "",
-        "label": "4Pcs"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0FVW8X8TK?th=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹99"
-      },
-      {
-        "url": "",
-        "label": "2-in-1 Veges & Fruit Peeler"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B01LY6PALQ?th=1&tag=bestpricezo0f-21",
-        "label": "🛒 Deal Price: ₹55"
-      }
-    ],
-    "raw_text": "Amazon | 🏡 Home & Kitchen Essentials\n\nFridge Storage Box - 4Pcs\n🛒 Deal Price: ₹99\n🔗 https://www.amazon.in/dp/B0FVW8X8TK?th=1&tag=bestpricezo0f-21\n\n2-in-1 Veges & Fruit Peeler\n🛒 Deal Price: ₹55\n🔗 https://www.amazon.in/dp/B01LY6PALQ?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FVW8X8TK?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_31251.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-03-25T09:50:21+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FVW8X8TK?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-03-25T09:50:21+00:00"
-  },
-  {
-    "id": "msg31252",
-    "title": "MediBuddy Flat ₹4400 Off On Fullbody Health Check",
-    "description": "-Up 🔥🔥 ✅ Active Life Health Package [CBC, Urine, Kidney & Liver] - (64 Tests) At ₹599 👉🏻 Use Code : MED599 🔗 🎁 Bonus: Get JioSaavn Pro worth ₹299 FREE after test completion",
-    "shortlink": "https://bilty.co/VcBKlB",
-    "urls": [
-      {
-        "url": "",
-        "label": "MediBuddy Flat ₹4400 Off On Fullbody Health Check-Up 🔥🔥"
-      },
-      {
-        "url": "",
-        "label": "✅ Active Life Health Package [CBC, Urine, Kidney & Liver] - (64 Tests) At ₹599"
-      },
-      {
-        "url": "https://bilty.co/VcBKlB",
-        "label": "🏻 Use Code : MED599"
-      },
-      {
-        "url": "",
-        "label": "🎁 Bonus: Get JioSaavn Pro worth ₹299 FREE after test completion"
-      }
-    ],
-    "raw_text": "MediBuddy  Flat ₹4400 Off On Fullbody Health Check-Up 🔥🔥\n\n✅ Active Life Health Package [CBC, Urine, Kidney & Liver] - (64 Tests) At ₹599\n\n👉🏻 Use Code : MED599\n\n🔗https://bilty.co/VcBKlB\n\n🎁 Bonus: Get JioSaavn Pro worth ₹299 FREE after test completion",
-    "final_url": "https://bilty.co/VcBKlB",
-    "local_image": "assets/images/tgmsg_31252.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-03-25T09:56:09+00:00",
-    "buy_link": "https://bilty.co/VcBKlB",
-    "date_iso": "2026-03-25T09:56:09+00:00"
-  },
-  {
-    "id": "msg31239",
-    "title": "Up to 85% Off On Powerlook Clothing",
-    "description": "Myntra | Upto 85% Off On Powerlook Clothing. Starting From Rs.269 🔗 https://myntr.in/tkkRRG",
-    "shortlink": "https://myntr.in/tkkRRG",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On Powerlook Clothing"
-      },
-      {
-        "url": "https://myntr.in/tkkRRG",
-        "label": "Starting From Rs.269"
-      }
-    ],
-    "raw_text": "Myntra | Upto 85% Off On Powerlook Clothing.\n \nStarting From Rs.269\n\n🔗 https://myntr.in/tkkRRG",
-    "final_url": "https://myntr.in/tkkRRG",
-    "local_image": "assets/images/tgmsg_31239.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-25T08:10:24+00:00",
-    "buy_link": "https://myntr.in/tkkRRG",
-    "date_iso": "2026-03-25T08:10:24+00:00"
   }
 ]
