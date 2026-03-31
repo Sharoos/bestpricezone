@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg31826",
+    "title": "EXTRA 10% OFF all Beauty & Personal Care Best Sellers of Lakme, Dove, TRESemme, Garnier, Simple, Vaseline, Ponds, Clinic Plus & more",
+    "description": "Myntra | EXTRA 10% OFF all Beauty & Personal Care Best Sellers of Lakme, Dove, TRESemme, Garnier, Simple, Vaseline, Ponds, Clinic Plus & more.... Coupon code - GET10OFF https://myntr.in/dIw0jz",
+    "shortlink": "https://myntr.in/dIw0jz",
+    "urls": [
+      {
+        "url": "https://myntr.in/dIw0jz",
+        "label": "EXTRA 10% OFF all Beauty & Personal Care Best Sellers of Lakme, Dove, TRESemme, Garnier, Simple, Vaseline, Ponds, Clinic Plus & more"
+      }
+    ],
+    "raw_text": "Myntra | EXTRA 10% OFF all Beauty & Personal Care Best Sellers of Lakme, Dove, TRESemme, Garnier, Simple, Vaseline, Ponds, Clinic Plus & more....\n\nCoupon code - GET10OFF\n\nhttps://myntr.in/dIw0jz",
+    "final_url": "https://myntr.in/dIw0jz",
+    "local_image": "assets/images/tgmsg_31826.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-03-31T19:59:39+00:00",
+    "buy_link": "https://myntr.in/dIw0jz",
+    "date_iso": "2026-03-31T19:59:39+00:00"
+  },
+  {
+    "id": "msg31827",
+    "title": "CF Vitamin D3 + K2 (60 tabs) @ 237/",
+    "description": "Amazon | CF Vitamin D3 + K2 (60 tabs) @ 237/- 🔗: https://www.amazon.in/dp/B0G58QY7MM?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0G58QY7MM?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0G58QY7MM?tag=bestpricezo0f-21",
+        "label": "CF Vitamin D3 + K2 (60 tabs) @ 237/"
+      }
+    ],
+    "raw_text": "Amazon | CF Vitamin D3 + K2 (60 tabs) @ 237/-\n\n🔗: https://www.amazon.in/dp/B0G58QY7MM?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0G58QY7MM?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_31827.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-03-31T20:00:53+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0G58QY7MM?tag=bestpricezo0f-21",
+    "date_iso": "2026-03-31T20:00:53+00:00"
+  },
+  {
     "id": "msg31814",
     "title": "Bedsheets,Floor mats & More From 99",
     "description": "Crazy Price drop on Furnishing! Bedsheets,Floor mats & More From 99 https://fkrt.co/mfpmK8",
@@ -10174,45 +10214,5 @@
     "date_obj": "2026-03-25T10:20:29+00:00",
     "buy_link": "https://bitli.in/x4iHqH9",
     "date_iso": "2026-03-25T10:20:29+00:00"
-  },
-  {
-    "id": "msg31255",
-    "title": "Harpic 500 ml (Pack of 2)",
-    "description": "Amazon  | Harpic 500 ml (Pack of 2) - Bleach @₹209 🔗 Link : https://www.amazon.in/dp/B076ZFYXG1?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B076ZFYXG1?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B076ZFYXG1?th=1&tag=bestpricezo0f-21",
-        "label": "Harpic 500 ml (Pack of 2) - Bleach @₹209"
-      }
-    ],
-    "raw_text": "Amazon  | Harpic 500 ml (Pack of 2) - Bleach @₹209\n\n🔗 Link : https://www.amazon.in/dp/B076ZFYXG1?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B076ZFYXG1?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_31255.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-03-25T10:37:16+00:00",
-    "buy_link": "https://www.amazon.in/dp/B076ZFYXG1?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-03-25T10:37:16+00:00"
-  },
-  {
-    "id": "msg31256",
-    "title": "Pillows starting @ 199 only",
-    "description": "Myntra | Pillows starting @ 199 only 🔗 https://myntr.in/7x4dhk",
-    "shortlink": "https://myntr.in/7x4dhk",
-    "urls": [
-      {
-        "url": "https://myntr.in/7x4dhk",
-        "label": "Pillows starting @ 199 only"
-      }
-    ],
-    "raw_text": "Myntra | Pillows starting @ 199 only\n\n🔗 https://myntr.in/7x4dhk",
-    "final_url": "https://myntr.in/7x4dhk",
-    "local_image": "assets/images/tgmsg_31256.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-25T10:41:33+00:00",
-    "buy_link": "https://myntr.in/7x4dhk",
-    "date_iso": "2026-03-25T10:41:33+00:00"
   }
 ]
