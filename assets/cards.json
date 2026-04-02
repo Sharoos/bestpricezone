@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg32064",
+    "title": "Topwear Clothing Under @199",
+    "description": "Ajio | Topwear Clothing Under @199 Men's : https://ajiio.co/enRn68 Women's : https://ajiio.co/MBL1IB Boy’s : https://ajiio.co/4HYg5A Girl’s : https://ajiio.co/Eq3QOd Baby : https://ajiio.co/AfEcfz",
+    "shortlink": "https://ajiio.co/enRn68",
+    "urls": [
+      {
+        "url": "",
+        "label": "Topwear Clothing Under @199"
+      },
+      {
+        "url": "https://ajiio.co/enRn68",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.co/MBL1IB",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/4HYg5A",
+        "label": "Boy’s"
+      },
+      {
+        "url": "https://ajiio.co/Eq3QOd",
+        "label": "Girl’s"
+      },
+      {
+        "url": "https://ajiio.co/AfEcfz",
+        "label": "Baby"
+      }
+    ],
+    "raw_text": "Ajio | Topwear Clothing Under @199\n\nMen's : https://ajiio.co/enRn68\nWomen's : https://ajiio.co/MBL1IB\nBoy’s : https://ajiio.co/4HYg5A\nGirl’s : https://ajiio.co/Eq3QOd\nBaby : https://ajiio.co/AfEcfz",
+    "final_url": "https://ajiio.co/enRn68",
+    "local_image": "assets/images/tgmsg_32064.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-04-02T19:18:39+00:00",
+    "buy_link": "https://ajiio.co/enRn68",
+    "date_iso": "2026-04-02T19:18:39+00:00"
+  },
+  {
     "id": "msg32030",
     "title": "⚡🔥FLAIR Pastel 5 Shades Hi",
     "description": "⚡Amazon | 🔥FLAIR Pastel 5 Shades Hi-lighter Pouch Pack ₹112 🔗 https://www.amazon.in/FLAIR-Hi-lighter-Non-Toxic-Childrens-Smoothing/dp/B0C7NTPCWQ?language=en_IN&tag=bestpricezo0f-21",
@@ -10430,33 +10470,5 @@
     "date_obj": "2026-03-27T09:40:26+00:00",
     "buy_link": "https://myntr.in/IC4Hkr",
     "date_iso": "2026-03-27T09:40:26+00:00"
-  },
-  {
-    "id": "msg31444",
-    "title": "Newly launched Fitted Bedsheet starting @ 393",
-    "description": "Myntra |  🔗 Trndy - Double Bed Fitted Bedsheets with Frill Pillow Covers starting @ 399 only! 🔗 Double Bedsheets starting @ 188 only 🔗",
-    "shortlink": "https://myntr.in/y8iO67",
-    "urls": [
-      {
-        "url": "https://myntr.in/y8iO67",
-        "label": "Newly launched Fitted Bedsheet starting @ 393"
-      },
-      {
-        "url": "https://myntr.in/IyboaM",
-        "label": "Double Bed Fitted Bedsheets with Frill Pillow Covers starting @ 399 only!"
-      },
-      {
-        "url": "https://myntr.in/DtHLK4",
-        "label": "Double Bedsheets starting @ 188 only"
-      }
-    ],
-    "raw_text": "Myntra | Newly launched Fitted Bedsheet starting @ 393\n🔗 https://myntr.in/y8iO67\n\nTrndy - Double Bed Fitted Bedsheets with Frill Pillow Covers starting @ 399 only!\n🔗 https://myntr.in/IyboaM\n\nDouble Bedsheets starting @ 188 only\n🔗 https://myntr.in/DtHLK4",
-    "final_url": "https://myntr.in/y8iO67",
-    "local_image": "assets/images/tgmsg_31444.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-27T09:50:28+00:00",
-    "buy_link": "https://myntr.in/y8iO67",
-    "date_iso": "2026-03-27T09:50:28+00:00"
   }
 ]
