@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg31955",
+    "title": "Boat Bluetooth Tag At 499",
+    "description": "Boat Bluetooth Tag At 499 https://www.amazon.in/dp/B0DT9CT2Q5?psc=1&th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DT9CT2Q5?psc=1&th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DT9CT2Q5?psc=1&th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+        "label": "Boat Bluetooth Tag At 499"
+      }
+    ],
+    "raw_text": "Boat Bluetooth Tag At 499\n\nhttps://www.amazon.in/dp/B0DT9CT2Q5?psc=1&th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DT9CT2Q5?psc=1&th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_31955.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-02T01:45:37+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DT9CT2Q5?psc=1&th=1&smid=AJ6SIZC8YQDZX&tag=bestpricezo0f-21",
+    "date_iso": "2026-04-02T01:45:37+00:00"
+  },
+  {
     "id": "msg31952",
     "title": "3,000₹ Off With HDFC Credit Card",
     "description": "Amazon | FAAAAASSSSTTTT 🔥 28,990₹  Reg: 35K Bosch 9kg 5 Star Anti Stain & AI Active Water+ Fully Automatic Front Load Washing Machine",
@@ -10158,41 +10178,5 @@
     "date_obj": "2026-03-26T17:11:35+00:00",
     "buy_link": "https://ajiio.co/6vXyQo",
     "date_iso": "2026-03-26T17:11:35+00:00"
-  },
-  {
-    "id": "msg31383",
-    "title": "Ending Today ₹2500 Yatra Hotel Gift Card @ ₹98",
-    "description": "Ending Today: ₹2500 Yatra Hotel Gift Card @ ₹98 Apply Coupon: FLAT98 Benefits: • Valid on Hotel Bookings only • No minimum night requirement Book any number of rooms & guests • Book room with breakfast or major meals as…",
-    "shortlink": "https://bitli.in/1z24hgu",
-    "urls": [
-      {
-        "url": "https://bitli.in/1z24hgu",
-        "label": "₹2500 Yatra Hotel Gift Card @ ₹98"
-      },
-      {
-        "url": "",
-        "label": "Valid on Hotel Bookings only"
-      },
-      {
-        "url": "",
-        "label": "No minimum night requirement"
-      },
-      {
-        "url": "",
-        "label": "Book any number of rooms & guests"
-      },
-      {
-        "url": "",
-        "label": "Book room with breakfast or major meals as per option listed"
-      }
-    ],
-    "raw_text": "Ending Today: ₹2500 Yatra Hotel Gift Card @ ₹98\n\nhttps://bitli.in/1z24hgu\n\nApply Coupon: FLAT98\n\nBenefits:\n• Valid on Hotel Bookings only\n• No minimum night requirement\nBook any number of rooms & guests\n• Book room with breakfast or major meals as per option listed.",
-    "final_url": "https://bitli.in/1z24hgu",
-    "local_image": "assets/images/tgmsg_31383.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-03-26T17:28:20+00:00",
-    "buy_link": "https://bitli.in/1z24hgu",
-    "date_iso": "2026-03-26T17:28:20+00:00"
   }
 ]
