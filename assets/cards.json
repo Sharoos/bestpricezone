@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg32164",
+    "title": "56% Off",
+    "description": "Amazon  | 56% Off - Cetaphil Lotion 29ml  At Rs.98 https://www.amazon.in/dp/B0FMR7XH7W?psc=1&tag=bestpricezo0f-21 Regular Rs.178",
+    "shortlink": "https://www.amazon.in/dp/B0FMR7XH7W?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FMR7XH7W?psc=1&tag=bestpricezo0f-21",
+        "label": "56% Off - Cetaphil Lotion 29ml At Rs.98"
+      },
+      {
+        "url": "",
+        "label": "Regular Rs.178"
+      }
+    ],
+    "raw_text": "Amazon  | 56% Off - Cetaphil Lotion 29ml  At Rs.98\n\nhttps://www.amazon.in/dp/B0FMR7XH7W?psc=1&tag=bestpricezo0f-21\n\nRegular Rs.178",
+    "final_url": "https://www.amazon.in/dp/B0FMR7XH7W?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_32164.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-03T21:01:51+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FMR7XH7W?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-04-03T21:01:51+00:00"
+  },
+  {
     "id": "msg32156",
     "title": "Up to 75% Off On El Paso Footwea",
     "description": "Ajio | Upto 75% Off On El Paso Footwear 🔗 Link : https://ajiio.co/1jPX6u",
@@ -10346,37 +10370,5 @@
     "date_obj": "2026-03-28T12:20:30+00:00",
     "buy_link": "https://bilty.co/XK38Bw",
     "date_iso": "2026-03-28T12:20:30+00:00"
-  },
-  {
-    "id": "msg31545",
-    "title": "The Derma Co Up to 50% Off",
-    "description": "The Derma Co: Upto 50% Off ✅Use Code: CKF40 • Extra 10% Cashback in TDC Wallet • Min Order ₹999",
-    "shortlink": "https://bitli.in/0LGUS7o",
-    "urls": [
-      {
-        "url": "https://bitli.in/0LGUS7o",
-        "label": "Upto 50% Off"
-      },
-      {
-        "url": "",
-        "label": "✅Use Code: CKF40"
-      },
-      {
-        "url": "",
-        "label": "Extra 10% Cashback in TDC Wallet"
-      },
-      {
-        "url": "",
-        "label": "Min Order ₹999"
-      }
-    ],
-    "raw_text": "The Derma Co: Upto 50% Off\n\nhttps://bitli.in/0LGUS7o\n\n✅Use Code: CKF40\n\n• Extra 10% Cashback in TDC Wallet\n• Min Order ₹999",
-    "final_url": "https://bitli.in/0LGUS7o",
-    "local_image": "assets/images/tgmsg_31545.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-03-28T12:29:37+00:00",
-    "buy_link": "https://bitli.in/0LGUS7o",
-    "date_iso": "2026-03-28T12:29:37+00:00"
   }
 ]
