@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg32143",
+    "title": "Up to 70% Off Vero Moda & ONLY Women's Clothing",
+    "description": "Ajio | Upto 70% Off Vero Moda & ONLY Women's Clothing. Dresses : T-shirts : Sweatshirts : Jeans : Trackpants : Shorts : Trousers : Earn Extra 10% AJIO SUPERCASH",
+    "shortlink": "https://ajiio.co/RYoFci",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70% Off Vero Moda & ONLY Women's Clothing"
+      },
+      {
+        "url": "https://ajiio.co/RYoFci",
+        "label": "Dresses"
+      },
+      {
+        "url": "https://ajiio.co/GBK0QZ",
+        "label": "T-shirts"
+      },
+      {
+        "url": "https://ajiio.co/g4bRGI",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "https://ajiio.co/F7DmcF",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/1IECxe",
+        "label": "Trackpants"
+      },
+      {
+        "url": "https://ajiio.co/3izUcY",
+        "label": "Shorts"
+      },
+      {
+        "url": "https://ajiio.co/Uap8Rb",
+        "label": "Trousers"
+      },
+      {
+        "url": "",
+        "label": "Earn Extra 10% AJIO SUPERCASH"
+      }
+    ],
+    "raw_text": "Ajio | Upto 70% Off Vero Moda & ONLY Women's Clothing.\n\nDresses : https://ajiio.co/RYoFci\nT-shirts : https://ajiio.co/GBK0QZ\nSweatshirts : https://ajiio.co/g4bRGI\nJeans : https://ajiio.co/F7DmcF\nTrackpants : https://ajiio.co/1IECxe\nShorts : https://ajiio.co/3izUcY\nTrousers : https://ajiio.co/Uap8Rb\n\nEarn Extra 10% AJIO SUPERCASH",
+    "final_url": "https://ajiio.co/RYoFci",
+    "local_image": "assets/images/tgmsg_32143.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-04-03T16:29:48+00:00",
+    "buy_link": "https://ajiio.co/RYoFci",
+    "date_iso": "2026-04-03T16:29:48+00:00"
+  },
+  {
     "id": "msg32142",
     "title": "Lee Shoe At 464",
     "description": "Lee Shoe At 464 : https://fkrt.co/jJ19cR Master Link : https://fkrt.co/eFtgIO",
@@ -10422,25 +10474,5 @@
     "date_obj": "2026-03-28T10:20:21+00:00",
     "buy_link": "https://bilty.co/ZKF14H",
     "date_iso": "2026-03-28T10:20:21+00:00"
-  },
-  {
-    "id": "msg31530",
-    "title": "Apis Mixed Fruit Jam (1Kg) Jar at @149",
-    "description": "Amazon | Apis Mixed Fruit Jam (1Kg) Jar at @149. 👉Link : https://www.amazon.in/dp/B099FS5XGV?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B099FS5XGV?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B099FS5XGV?tag=bestpricezo0f-21",
-        "label": "Apis Mixed Fruit Jam (1Kg) Jar at @149"
-      }
-    ],
-    "raw_text": "Amazon | Apis Mixed Fruit Jam (1Kg) Jar at @149.\n\n👉Link : https://www.amazon.in/dp/B099FS5XGV?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B099FS5XGV?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_31530.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-03-28T10:25:55+00:00",
-    "buy_link": "https://www.amazon.in/dp/B099FS5XGV?tag=bestpricezo0f-21",
-    "date_iso": "2026-03-28T10:25:55+00:00"
   }
 ]
