@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg32088",
+    "title": "Sleepycat foam single mattress starting at 7000",
+    "description": "Myntra | Sleepycat foam single mattress starting at 7000 🔗 https://myntr.in/DPCDhh 🔗 https://myntr.in/iHwJiI",
+    "shortlink": "https://myntr.in/DPCDhh",
+    "urls": [
+      {
+        "url": "https://myntr.in/DPCDhh",
+        "label": "Sleepycat foam single mattress starting at 7000"
+      },
+      {
+        "url": "https://myntr.in/iHwJiI",
+        "label": "Sleepycat foam single mattress starting at 7000"
+      }
+    ],
+    "raw_text": "Myntra | Sleepycat foam single mattress starting at 7000 \n\n🔗 https://myntr.in/DPCDhh\n\n🔗 https://myntr.in/iHwJiI",
+    "final_url": "https://myntr.in/DPCDhh",
+    "local_image": "assets/images/tgmsg_32088.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-04-03T08:40:21+00:00",
+    "buy_link": "https://myntr.in/DPCDhh",
+    "date_iso": "2026-04-03T08:40:21+00:00"
+  },
+  {
     "id": "msg32085",
     "title": "Chemistry Women's Clothing Up to 90% Off",
     "description": "Flipkart | Chemistry Women's Clothing Upto 90% Off Jeans : Shirts : Kotty Women's Trousers Upto 92% Off 🔗",
@@ -10726,29 +10750,5 @@
     "date_obj": "2026-03-27T12:50:21+00:00",
     "buy_link": "https://myntr.in/AwZJ2F",
     "date_iso": "2026-03-27T12:50:21+00:00"
-  },
-  {
-    "id": "msg31467",
-    "title": "Up to 63% OFF HIRA Long Lasting Premium Fragrances (Pack of 4)",
-    "description": "Amazon : Upto 63% OFF HIRA Long Lasting Premium Fragrances (Pack of 4) 🔗 *Apply Coupons",
-    "shortlink": "https://www.amazon.in/s?hidden-keywords=B0FQPPCTLV%7CB0FQQ3WKN8&tag=bestpricezo0f-21&",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?hidden-keywords=B0FQPPCTLV%7CB0FQQ3WKN8&tag=bestpricezo0f-21&",
-        "label": "Upto 63% OFF HIRA Long Lasting Premium Fragrances (Pack of 4)"
-      },
-      {
-        "url": "",
-        "label": "Apply Coupons"
-      }
-    ],
-    "raw_text": "Amazon : Upto 63% OFF HIRA Long Lasting Premium Fragrances (Pack of 4)\n\n🔗 https://www.amazon.in/s?hidden-keywords=B0FQPPCTLV%7CB0FQQ3WKN8&tag=bestpricezo0f-21&\n\n*Apply Coupons",
-    "final_url": "https://www.amazon.in/s?hidden-keywords=B0FQPPCTLV%7CB0FQQ3WKN8&tag=bestpricezo0f-21&",
-    "local_image": "assets/images/tgmsg_31467.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-03-27T13:33:31+00:00",
-    "buy_link": "https://www.amazon.in/s?hidden-keywords=B0FQPPCTLV%7CB0FQQ3WKN8&tag=bestpricezo0f-21&",
-    "date_iso": "2026-03-27T13:33:31+00:00"
   }
 ]
