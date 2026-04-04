@@ -1,5 +1,105 @@
 [
   {
+    "id": "msg32178",
+    "title": "Up to 75% Off On Being Human Clothing",
+    "description": "Myntra : Upto 75% Off On Being Human Clothing Tshirts : Jeans : Shirts : Sweatshirts : Trackpants & Trousers :",
+    "shortlink": "https://myntr.in/P9JIhf",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 75% Off On Being Human Clothing"
+      },
+      {
+        "url": "https://myntr.in/P9JIhf",
+        "label": "Tshirts"
+      },
+      {
+        "url": "https://myntr.in/oSaa80",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://myntr.in/LEGasC",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://myntr.in/v6B1hr",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "https://myntr.in/t3Ng6b",
+        "label": "Trackpants & Trousers"
+      }
+    ],
+    "raw_text": "Myntra : Upto 75% Off On Being Human Clothing \n\nTshirts :  https://myntr.in/P9JIhf\nJeans :  https://myntr.in/oSaa80\nShirts :  https://myntr.in/LEGasC\nSweatshirts :  https://myntr.in/v6B1hr\nTrackpants & Trousers :  https://myntr.in/t3Ng6b",
+    "final_url": "https://myntr.in/P9JIhf",
+    "local_image": "assets/images/tgmsg_32178.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-04-04T07:11:05+00:00",
+    "buy_link": "https://myntr.in/P9JIhf",
+    "date_iso": "2026-04-04T07:11:05+00:00"
+  },
+  {
+    "id": "msg32179",
+    "title": "✨ CeraVe Skincare – Singles 15% Off Combos 20% Off",
+    "description": "⏳Myntra | High Off⏳ 🧴 Rexona Roll Ons – Upto 65% Off 👉 🚿 Dove 1L Bodywashes – Min. 55–60% Off 👉 ✨ CeraVe Skincare – Singles 15% Off | Combos 20% Off 👉",
+    "shortlink": "https://myntr.in/hR0QAa",
+    "urls": [
+      {
+        "url": "",
+        "label": "⏳Myntra | High Off⏳"
+      },
+      {
+        "url": "https://myntr.in/hR0QAa",
+        "label": "🧴 Rexona Roll Ons – Upto 65% Off"
+      },
+      {
+        "url": "https://myntr.in/eDQ7sC",
+        "label": "🚿 Dove 1L Bodywashes – Min. 55–60% Off"
+      },
+      {
+        "url": "https://myntr.in/fdUJtQ",
+        "label": "✨ CeraVe Skincare – Singles 15% Off | Combos 20% Off"
+      }
+    ],
+    "raw_text": "⏳Myntra | High Off⏳\n\n🧴 Rexona Roll Ons – Upto 65% Off\n👉 https://myntr.in/hR0QAa\n\n🚿 Dove 1L Bodywashes – Min. 55–60% Off\n👉 https://myntr.in/eDQ7sC\n\n✨ CeraVe Skincare – Singles 15% Off | Combos 20% Off\n👉 https://myntr.in/fdUJtQ",
+    "final_url": "https://myntr.in/hR0QAa",
+    "local_image": "assets/images/tgmsg_32179.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-04-04T07:11:07+00:00",
+    "buy_link": "https://myntr.in/hR0QAa",
+    "date_iso": "2026-04-04T07:11:07+00:00"
+  },
+  {
+    "id": "msg32180",
+    "title": "🎁Deal Price ₹1399",
+    "description": "Amazon | Luggero- Film Classic Light-Weight & Durable Polycarbonate 🎁Deal Price: ₹1399 🔗 Buy Here:",
+    "shortlink": "https://www.amazon.in/dp/B0F67J5S83?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Luggero- Film Classic Light-Weight & Durable Polycarbonate"
+      },
+      {
+        "url": "",
+        "label": "🎁Deal Price: ₹1399"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0F67J5S83?th=1&language=en_IN&tag=bestpricezo0f-21",
+        "label": "🔗 Here"
+      }
+    ],
+    "raw_text": "Amazon | Luggero- Film Classic Light-Weight & Durable Polycarbonate\n\n🎁Deal Price: ₹1399\n\n🔗 Buy Here: https://www.amazon.in/dp/B0F67J5S83?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F67J5S83?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_32180.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-04T07:26:13+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F67J5S83?th=1&language=en_IN&tag=bestpricezo0f-21",
+    "date_iso": "2026-04-04T07:26:13+00:00"
+  },
+  {
     "id": "msg32176",
     "title": "Up to 85% Off On Branded Luggage",
     "description": "Flipkart | Upto 85% Off On Branded Luggage. Master Link : Small : Medium : Large : Pack Of 2 : Pack Of 3 :",
@@ -10254,81 +10354,5 @@
     "date_obj": "2026-03-28T15:07:50+00:00",
     "buy_link": "https://fkrt.co/89ddQK",
     "date_iso": "2026-03-28T15:07:50+00:00"
-  },
-  {
-    "id": "msg31560",
-    "title": "Shoe Racks Starting From Rs.499",
-    "description": "Flipkart | Shoe Racks Starting From Rs.499 👉Link- https://fkrt.co/6C5t6v Wrogn Rucksacks Starts @599. https://fkrt.co/y7DwA0 Backpacks : https://fkrt.co/ffhbQD",
-    "shortlink": "https://fkrt.co/6C5t6v",
-    "urls": [
-      {
-        "url": "https://fkrt.co/6C5t6v",
-        "label": "Shoe Racks Starting From Rs.499"
-      },
-      {
-        "url": "https://fkrt.co/y7DwA0",
-        "label": "Wrogn Rucksacks Starts @599"
-      },
-      {
-        "url": "https://fkrt.co/ffhbQD",
-        "label": "Backpacks"
-      }
-    ],
-    "raw_text": "Flipkart | Shoe Racks Starting From Rs.499\n\n👉Link- https://fkrt.co/6C5t6v\n\nWrogn Rucksacks Starts @599.\n\nhttps://fkrt.co/y7DwA0\n\nBackpacks : https://fkrt.co/ffhbQD",
-    "final_url": "https://fkrt.co/6C5t6v",
-    "local_image": "assets/images/tgmsg_31560.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-28T15:16:27+00:00",
-    "buy_link": "https://fkrt.co/6C5t6v",
-    "date_iso": "2026-03-28T15:16:27+00:00"
-  },
-  {
-    "id": "msg31555",
-    "title": "💥 Extra ₹500 OFF with Code MOTOG86 🎉",
-    "description": "🚨FLIPKART LIMITED TIME DEAL on Motorola G86 Power! 📱🔥 💥 Extra ₹500 OFF with Coupon Code: MOTOG86 🎉 ⏳ Limited Quantity – Selling Fast! 👉 Apply Coupon & Buy Now:",
-    "shortlink": "https://fkrt.co/fcQnL8⁠",
-    "urls": [
-      {
-        "url": "",
-        "label": "🚨FLIPKART LIMITED TIME DEAL on Motorola G86 Power! 📱🔥"
-      },
-      {
-        "url": "https://fkrt.co/fcQnL8⁠",
-        "label": "⏳ Limited Quantity – Selling Fast!"
-      }
-    ],
-    "raw_text": "🚨FLIPKART LIMITED TIME DEAL on Motorola G86 Power! 📱🔥\n\n💥 Extra ₹500 OFF with Coupon Code: MOTOG86 🎉\n\n⏳ Limited Quantity – Selling Fast!\n\n👉 Apply Coupon & Buy Now: https://fkrt.co/fcQnL8⁠",
-    "final_url": "https://fkrt.co/fcQnL8%E2%81%A0",
-    "local_image": "assets/images/tgmsg_31555.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-28T14:19:16+00:00",
-    "buy_link": "https://fkrt.co/fcQnL8⁠",
-    "date_iso": "2026-03-28T14:19:16+00:00"
-  },
-  {
-    "id": "msg31556",
-    "title": "Allen solly Min 40%",
-    "description": "Ajio | Allen solly  Min 40% https://ajiio.co/Wx6Zj9 Jack & Jones Min 60% https://ajiio.co/m8zToC",
-    "shortlink": "https://ajiio.co/Wx6Zj9",
-    "urls": [
-      {
-        "url": "https://ajiio.co/Wx6Zj9",
-        "label": "Allen solly Min 40%"
-      },
-      {
-        "url": "https://ajiio.co/m8zToC",
-        "label": "Jack & Jones Min 60%"
-      }
-    ],
-    "raw_text": "Ajio | Allen solly  Min 40%\nhttps://ajiio.co/Wx6Zj9\n\nJack & Jones Min 60%\nhttps://ajiio.co/m8zToC",
-    "final_url": "https://ajiio.co/Wx6Zj9",
-    "local_image": "assets/images/tgmsg_31556.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-03-28T14:21:58+00:00",
-    "buy_link": "https://ajiio.co/Wx6Zj9",
-    "date_iso": "2026-03-28T14:21:58+00:00"
   }
 ]
