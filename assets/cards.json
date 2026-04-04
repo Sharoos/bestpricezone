@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg32181",
+    "title": "🔥PLIX MEGA – B1G1 + EXTRA 20% OFF! 🚨",
+    "description": "🔥MYNTRA PLIX MEGA – B1G1 + EXTRA 20% OFF! 🚨 ⏳ Limited Time Deal – Grab Fast! 👉 Shop Now:",
+    "shortlink": "https://myntr.in/OOHGap",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥MYNTRA PLIX MEGA – B1G1 + EXTRA 20% OFF! 🚨"
+      },
+      {
+        "url": "",
+        "label": "⏳ Limited Time Deal – Grab Fast!"
+      },
+      {
+        "url": "https://myntr.in/OOHGap",
+        "label": "Shop Now"
+      }
+    ],
+    "raw_text": "🔥MYNTRA PLIX MEGA  – B1G1 + EXTRA 20% OFF! 🚨\n\n⏳ Limited Time Deal – Grab Fast!\n\n👉 Shop Now: https://myntr.in/OOHGap",
+    "final_url": "https://myntr.in/OOHGap",
+    "local_image": "assets/images/tgmsg_32181.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-04-04T07:41:00+00:00",
+    "buy_link": "https://myntr.in/OOHGap",
+    "date_iso": "2026-04-04T07:41:00+00:00"
+  },
+  {
     "id": "msg32178",
     "title": "Up to 75% Off On Being Human Clothing",
     "description": "Myntra : Upto 75% Off On Being Human Clothing Tshirts : Jeans : Shirts : Sweatshirts : Trackpants & Trousers :",
@@ -10306,53 +10334,5 @@
     "date_obj": "2026-03-28T16:01:18+00:00",
     "buy_link": "https://bitli.in/s0cgw2z",
     "date_iso": "2026-03-28T16:01:18+00:00"
-  },
-  {
-    "id": "msg31559",
-    "title": "🌈 United Colors of Benetton – Min 70% OFF",
-    "description": "🎉🎉 🌞FLIPKART Kids’ Summer Branded Picks – Selling FAST! 🧒👕🔥 ⏰ Time: 9 PM – 12 Midnight (Only 3 Hours!) 👔 Allen Solly – Min 70% OFF 👉 👕 U.S. Polo Assn. – Min 70% OFF 👉  👉 👖 Pepe Jeans – Min 70% OFF 👉 🔥 Killer – Min 70%…",
-    "shortlink": "https://fkrt.co/89ddQK",
-    "urls": [
-      {
-        "url": "",
-        "label": "🎉🎉 🌞FLIPKART Kids’ Summer Branded Picks – Selling FAST! 🧒👕🔥"
-      },
-      {
-        "url": "",
-        "label": "⏰ Time: 9 PM – 12 Midnight (Only 3 Hours!)"
-      },
-      {
-        "url": "https://fkrt.co/89ddQK",
-        "label": "👔 Allen Solly – Min 70% OFF"
-      },
-      {
-        "url": "https://fkrt.co/PEdt8U",
-        "label": "👕 U.S. Polo Assn. – Min 70% OFF"
-      },
-      {
-        "url": "https://fkrt.co/9D26zE",
-        "label": "🌈 United Colors of Benetton – Min 70% OFF"
-      },
-      {
-        "url": "https://fkrt.co/6fOfxI",
-        "label": "👖 Pepe Jeans – Min 70% OFF"
-      },
-      {
-        "url": "https://fkrt.co/BNsseJ",
-        "label": "🔥 Killer – Min 70% OFF"
-      },
-      {
-        "url": "https://fkrt.co/KhWkyr",
-        "label": "🧢 Urbano Juniors – Min 70% OFF"
-      }
-    ],
-    "raw_text": "🎉🎉 🌞FLIPKART Kids’ Summer Branded Picks – Selling FAST! 🧒👕🔥\n\n⏰ Time: 9 PM – 12 Midnight (Only 3 Hours!)\n\n👔 Allen Solly – Min 70% OFF\n👉 https://fkrt.co/89ddQK\n\n👕 U.S. Polo Assn. – Min 70% OFF\n👉 https://fkrt.co/PEdt8U\n\n🌈 United Colors of Benetton – Min 70% OFF\n👉 https://fkrt.co/9D26zE\n\n👖 Pepe Jeans – Min 70% OFF\n👉 https://fkrt.co/6fOfxI\n\n🔥 Killer – Min 70% OFF\n👉 https://fkrt.co/BNsseJ\n\n🧢 Urbano Juniors – Min 70% OFF\n👉 https://fkrt.co/KhWkyr",
-    "final_url": "https://fkrt.co/89ddQK",
-    "local_image": "assets/images/tgmsg_31559.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-28T15:07:50+00:00",
-    "buy_link": "https://fkrt.co/89ddQK",
-    "date_iso": "2026-03-28T15:07:50+00:00"
   }
 ]
