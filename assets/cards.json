@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg32220",
+    "title": "Up to 75% Off!",
+    "description": "Myntra | 👟 Puma Clothing & Footwear - Up to 75% Off! Men's: https://myntr.in/FLFS6e Women's: https://myntr.in/0KlDfq Boys: https://myntr.in/gV3Ybz Girls: https://myntr.in/3HNBfD",
+    "shortlink": "https://myntr.in/FLFS6e",
+    "urls": [
+      {
+        "url": "",
+        "label": "👟 Puma Clothing & Footwear - Up to 75% Off!"
+      },
+      {
+        "url": "https://myntr.in/FLFS6e",
+        "label": "Men's"
+      },
+      {
+        "url": "https://myntr.in/0KlDfq",
+        "label": "Women's"
+      },
+      {
+        "url": "https://myntr.in/gV3Ybz",
+        "label": "Boys"
+      },
+      {
+        "url": "https://myntr.in/3HNBfD",
+        "label": "Girls"
+      }
+    ],
+    "raw_text": "Myntra | 👟 Puma Clothing & Footwear - Up to 75% Off!\n\nMen's: https://myntr.in/FLFS6e\nWomen's: https://myntr.in/0KlDfq\nBoys: https://myntr.in/gV3Ybz\nGirls: https://myntr.in/3HNBfD",
+    "final_url": "https://myntr.in/FLFS6e",
+    "local_image": "assets/images/tgmsg_32220.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-04-04T15:56:27+00:00",
+    "buy_link": "https://myntr.in/FLFS6e",
+    "date_iso": "2026-04-04T15:56:27+00:00"
+  },
+  {
     "id": "msg32215",
     "title": "🔥PLIX MEGA – B1G1 + EXTRA 20% OFF! 🚨",
     "description": "🔥MYNTRA PLIX MEGA – B1G1 + EXTRA 20% OFF! 🚨 ⏳ Limited Time Deal – Grab Fast! 👉 Shop Now:",
@@ -10222,37 +10258,5 @@
     "date_obj": "2026-03-29T12:14:03+00:00",
     "buy_link": "https://bilty.co/AIBvF8",
     "date_iso": "2026-03-29T12:14:03+00:00"
-  },
-  {
-    "id": "msg31611",
-    "title": "The Derma Co Up to 50% Off",
-    "description": "The Derma Co: Upto 50% Off ✅Use Code: CKF40 • Extra 10% Cashback in TDC Wallet • Min Order ₹999",
-    "shortlink": "https://bitli.in/VmA7H9o",
-    "urls": [
-      {
-        "url": "https://bitli.in/VmA7H9o",
-        "label": "Upto 50% Off"
-      },
-      {
-        "url": "",
-        "label": "✅Use Code: CKF40"
-      },
-      {
-        "url": "",
-        "label": "Extra 10% Cashback in TDC Wallet"
-      },
-      {
-        "url": "",
-        "label": "Min Order ₹999"
-      }
-    ],
-    "raw_text": "The Derma Co: Upto 50% Off\n\nhttps://bitli.in/VmA7H9o\n\n✅Use Code: CKF40\n\n• Extra 10% Cashback in TDC Wallet\n• Min Order ₹999",
-    "final_url": "https://bitli.in/VmA7H9o",
-    "local_image": "assets/images/tgmsg_31611.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-03-29T12:33:53+00:00",
-    "buy_link": "https://bitli.in/VmA7H9o",
-    "date_iso": "2026-03-29T12:33:53+00:00"
   }
 ]
