@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg32260",
+    "title": "Up to 45% Off Adidas Originals Shoe",
+    "description": "Myntra | Upto 45% Off : Adidas Originals Shoes Men : Women : Adidas Gazelle Series : Upto 90% Off On Mast & Harbour Clothing. Women : Men :",
+    "shortlink": "https://myntr.in/DXMEYU",
+    "urls": [
+      {
+        "url": "https://myntr.in/DXMEYU",
+        "label": "Upto 45% Off : Adidas Originals Shoes"
+      },
+      {
+        "url": "https://myntr.in/TOpfLO",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/bVBNS4",
+        "label": "Adidas Gazelle Series"
+      },
+      {
+        "url": "",
+        "label": "Upto 90% Off On Mast & Harbour Clothing"
+      },
+      {
+        "url": "https://myntr.in/51AQPL",
+        "label": "Women"
+      },
+      {
+        "url": "https://myntr.in/u2iEvo",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "Myntra | Upto 45% Off : Adidas Originals Shoes\n\nMen : https://myntr.in/DXMEYU\nWomen : https://myntr.in/TOpfLO\n\nAdidas Gazelle Series : https://myntr.in/bVBNS4\n\nUpto 90% Off On Mast & Harbour Clothing.\n\nWomen : https://myntr.in/51AQPL\n\nMen : https://myntr.in/u2iEvo",
+    "final_url": "https://myntr.in/DXMEYU",
+    "local_image": "assets/images/tgmsg_32260.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-04-05T05:20:38+00:00",
+    "buy_link": "https://myntr.in/DXMEYU",
+    "date_iso": "2026-04-05T05:20:38+00:00"
+  },
+  {
     "id": "msg32255",
     "title": "Up to 85% Off On Jack & Jones Clothing",
     "description": "AJIO Upto 85% Off On Jack & Jones Clothing. Master Link : T-Shirts : Shirts : Jeans : Sweatshirts & Sweaters : Jackets : Shorts : Trackpants : Trousers :",
@@ -10062,57 +10102,5 @@
     "date_obj": "2026-03-30T07:57:11+00:00",
     "buy_link": "https://bitli.in/J1BpsHQ",
     "date_iso": "2026-03-30T07:57:11+00:00"
-  },
-  {
-    "id": "msg31678",
-    "title": "🎯 Eligibility 21–65 yrs ₹25K+ income 650+ credit score",
-    "description": "🚀 Get Your FREE RuPay Credit Card with Kiwi! Pay via any UPI QR & earn rewards instantly 🔥 ✨ 5% Cashback on UPI payments ✨ Lifetime Free – No hidden charges ✨ Instant Virtual Card (start using right away!) ✨ Airport…",
-    "shortlink": "https://bilty.co/hjC2Ln",
-    "urls": [
-      {
-        "url": "",
-        "label": "🚀 Get Your FREE RuPay Credit Card with Kiwi!"
-      },
-      {
-        "url": "",
-        "label": "Pay via any UPI QR & earn rewards instantly 🔥"
-      },
-      {
-        "url": "",
-        "label": "✨ 5% Cashback on UPI payments"
-      },
-      {
-        "url": "",
-        "label": "✨ Lifetime Free – No hidden charges"
-      },
-      {
-        "url": "",
-        "label": "✨ Instant Virtual Card (start using right away!)"
-      },
-      {
-        "url": "",
-        "label": "✨ Airport Lounge Access on milestones"
-      },
-      {
-        "url": "",
-        "label": "⏱️ Apply in just 2 minutes – No physical card needed!"
-      },
-      {
-        "url": "https://bilty.co/hjC2Ln",
-        "label": "🎯 Eligibility : 21–65 yrs | ₹25K+ income | 650+ credit score"
-      },
-      {
-        "url": "",
-        "label": "Don’t miss out—start earning on every UPI payment today!"
-      }
-    ],
-    "raw_text": "🚀 Get Your FREE RuPay Credit Card with Kiwi!\n\nPay via any UPI QR & earn rewards instantly 🔥\n✨ 5% Cashback on UPI payments\n✨ Lifetime Free – No hidden charges\n✨ Instant Virtual Card (start using right away!)\n✨ Airport Lounge Access on milestones\n\n⏱️ Apply in just 2 minutes – No physical card needed!\n\n🎯 Eligibility : 21–65 yrs | ₹25K+ income | 650+ credit score\n\n🔗 Link : https://bilty.co/hjC2Ln\n\n👉 Don’t miss out—start earning on every UPI payment today!",
-    "final_url": "https://bilty.co/hjC2Ln",
-    "local_image": "assets/images/tgmsg_31678.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-03-30T08:31:11+00:00",
-    "buy_link": "https://bilty.co/hjC2Ln",
-    "date_iso": "2026-03-30T08:31:11+00:00"
   }
 ]
