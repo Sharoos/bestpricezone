@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg32310",
+    "title": "Up to 90% OFF on KOTTY Women Jeans, Tops & More",
+    "description": "Shopsy Women DEALS 🔥🔥 Upto 70% OFF on Anand Designer Sarees 🔗 Upto 90% OFF on KOTTY Women Jeans, Tops & More 🔗 Upto 90% OFF on Top-Selling Women Dresses, Tops & More 🔗",
+    "shortlink": "https://bilty.co/2XNOYs",
+    "urls": [
+      {
+        "url": "",
+        "label": "Shopsy Women DEALS 🔥🔥"
+      },
+      {
+        "url": "https://bilty.co/2XNOYs",
+        "label": "Upto 70% OFF on Anand Designer Sarees"
+      },
+      {
+        "url": "https://bilty.co/Z7tH51",
+        "label": "Upto 90% OFF on KOTTY Women Jeans, Tops & More"
+      },
+      {
+        "url": "https://bilty.co/RRzvbA",
+        "label": "Upto 90% OFF on Top-Selling Women Dresses, Tops & More"
+      }
+    ],
+    "raw_text": "Shopsy Women  DEALS 🔥🔥\n\nUpto 70% OFF on Anand Designer Sarees\n🔗 https://bilty.co/2XNOYs\n\nUpto 90% OFF on KOTTY Women Jeans, Tops & More\n🔗 https://bilty.co/Z7tH51\n\nUpto 90% OFF on Top-Selling Women Dresses, Tops & More\n🔗 https://bilty.co/RRzvbA",
+    "final_url": "https://bilty.co/2XNOYs",
+    "local_image": "assets/images/tgmsg_32310.jpg",
+    "source_host": "bilty.co",
+    "merchant_label": "Bilty",
+    "date_obj": "2026-04-05T20:02:47+00:00",
+    "buy_link": "https://bilty.co/2XNOYs",
+    "date_iso": "2026-04-05T20:02:47+00:00"
+  },
+  {
     "id": "msg32308",
     "title": "Best Deals for Better Hair 🔥🔥",
     "description": "Shopsy  - Best Deals for Better Hair 🔥🔥 ● Hair Oils from ₹37 - https://bilty.co/NU9PTD ● Hair Masks from ₹70- https://bilty.co/5E6gH8 ● Shampoos from ₹89 - https://bilty.co/ljr3Ws",
@@ -10006,25 +10038,5 @@
     "date_obj": "2026-03-30T13:20:23+00:00",
     "buy_link": "https://bilty.co/ICDanb",
     "date_iso": "2026-03-30T13:20:23+00:00"
-  },
-  {
-    "id": "msg31711",
-    "title": "Up to 72% OFF",
-    "description": "🔥Myntra | 👕 Snitch Men's Clothing - Up to 72% OFF https://myntr.in/T4ivDH",
-    "shortlink": "https://myntr.in/T4ivDH",
-    "urls": [
-      {
-        "url": "https://myntr.in/T4ivDH",
-        "label": "🔥Myntra | 👕 Snitch Men's Clothing - Up to 72% OFF"
-      }
-    ],
-    "raw_text": "🔥Myntra | 👕 Snitch Men's Clothing - Up to 72% OFF\n\nhttps://myntr.in/T4ivDH",
-    "final_url": "https://myntr.in/T4ivDH",
-    "local_image": "assets/images/tgmsg_31711.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-30T13:46:05+00:00",
-    "buy_link": "https://myntr.in/T4ivDH",
-    "date_iso": "2026-03-30T13:46:05+00:00"
   }
 ]
