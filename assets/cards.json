@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg32288",
+    "title": "● Laptop stands from 131",
+    "description": "Shopsy  - Monday Desk Setup 🖥🔥 ● Phone covers from 56 - https://bilty.co/mHkCHB ● Mouse from 97 - https://bilty.co/3BSy3C ● Laptop stands from 131 - https://bilty.co/dSyfKG",
+    "shortlink": "https://bilty.co/mHkCHB",
+    "urls": [
+      {
+        "url": "",
+        "label": "Monday Desk Setup 🖥🔥"
+      },
+      {
+        "url": "https://bilty.co/mHkCHB",
+        "label": "● Phone covers from 56"
+      },
+      {
+        "url": "https://bilty.co/3BSy3C",
+        "label": "● Mouse from 97"
+      },
+      {
+        "url": "https://bilty.co/dSyfKG",
+        "label": "● Laptop stands from 131"
+      }
+    ],
+    "raw_text": "Shopsy  - Monday Desk Setup 🖥🔥\n\n● Phone covers from 56 - https://bilty.co/mHkCHB\n● Mouse from 97 - https://bilty.co/3BSy3C\n● Laptop stands from 131 - https://bilty.co/dSyfKG",
+    "final_url": "https://bilty.co/mHkCHB",
+    "local_image": "assets/images/tgmsg_32288.jpg",
+    "source_host": "bilty.co",
+    "merchant_label": "Bilty",
+    "date_obj": "2026-04-05T14:01:49+00:00",
+    "buy_link": "https://bilty.co/mHkCHB",
+    "date_iso": "2026-04-05T14:01:49+00:00"
+  },
+  {
     "id": "msg32283",
     "title": "👕 Up to 80% Off On Spykar Clothing",
     "description": "🔥 Ajio Topwear Clothing Deals Under ₹149 Men's: Women's: Boy’s: Girl’s: Baby: 👖 Levi’s Jeans Starting at ₹754 Women's: Men's:  Men's: Women's:",
@@ -10078,53 +10110,5 @@
     "date_obj": "2026-03-30T10:34:40+00:00",
     "buy_link": "https://fktr.in/8ggrnjD",
     "date_iso": "2026-03-30T10:34:40+00:00"
-  },
-  {
-    "id": "msg31691",
-    "title": "✔️ 100% Online & Paperless Proce",
-    "description": "📈✨ Open Your Demat Account in Minutes! ✨📈 Start investing with Bajaj Finserv Securities 🚀 ss ✔️ Invest in Stocks, IPOs, Mutual Funds & More ✔️ Easy Portfolio Tracking A Demat account works like a digital locker for your…",
-    "shortlink": "https://bilty.co/zQRnwE",
-    "urls": [
-      {
-        "url": "",
-        "label": "📈✨ Open Your Demat Account in Minutes! ✨📈"
-      },
-      {
-        "url": "",
-        "label": "Start investing with Bajaj Finserv Securities 🚀"
-      },
-      {
-        "url": "",
-        "label": "✔️ 100% Online & Paperless Process"
-      },
-      {
-        "url": "",
-        "label": "✔️ Invest in Stocks, IPOs, Mutual Funds & More"
-      },
-      {
-        "url": "",
-        "label": "✔️ Easy Portfolio Tracking"
-      },
-      {
-        "url": "",
-        "label": "A Demat account works like a digital locker for your shares and investments, making trading simple and secure"
-      },
-      {
-        "url": "https://bilty.co/zQRnwE",
-        "label": "Open Your Account Now"
-      },
-      {
-        "url": "",
-        "label": "💰 Start your investment journey today! 🚀"
-      }
-    ],
-    "raw_text": "📈✨ Open Your Demat Account in Minutes! ✨📈\n\nStart investing with Bajaj Finserv Securities 🚀\n\n✔️ 100% Online & Paperless Process\n✔️ Invest in Stocks, IPOs, Mutual Funds & More\n✔️ Easy Portfolio Tracking\n\nA Demat account works like a digital locker for your shares and investments, making trading simple and secure.\n\n👉 Open Your Account Now : https://bilty.co/zQRnwE\n\n💰 Start your investment journey today! 🚀",
-    "final_url": "https://bilty.co/zQRnwE",
-    "local_image": "assets/images/tgmsg_31691.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-03-30T10:35:14+00:00",
-    "buy_link": "https://bilty.co/zQRnwE",
-    "date_iso": "2026-03-30T10:35:14+00:00"
   }
 ]
