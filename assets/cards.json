@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg32265",
+    "title": "+ 10% EXTRA CASH",
+    "description": "Ajio Men Clothing Starts @102 T-Shirt Starts @100: Shirt Starts @160: Jeans Starts @286: Polo T-Shirt Starts @165: + 10% EXTRA AJIO CASH",
+    "shortlink": "https://ajiio.co/jXYFp1",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Men Clothing Starts @102"
+      },
+      {
+        "url": "https://ajiio.co/jXYFp1",
+        "label": "T-Shirt Starts @100"
+      },
+      {
+        "url": "https://ajiio.co/cUeBdX",
+        "label": "Shirt Starts @160"
+      },
+      {
+        "url": "https://ajiio.co/ZjDOa5",
+        "label": "Jeans Starts @286"
+      },
+      {
+        "url": "https://ajiio.co/KrS7N9",
+        "label": "Shirt Starts @165"
+      },
+      {
+        "url": "",
+        "label": "+ 10% EXTRA AJIO CASH"
+      }
+    ],
+    "raw_text": "Ajio  Men Clothing Starts @102\n\nT-Shirt Starts @100: \nhttps://ajiio.co/jXYFp1\n\nShirt Starts @160: \nhttps://ajiio.co/cUeBdX\n\nJeans Starts @286: \nhttps://ajiio.co/ZjDOa5\n\nPolo T-Shirt Starts @165: \nhttps://ajiio.co/KrS7N9\n\n+ 10% EXTRA AJIO CASH",
+    "final_url": "https://ajiio.co/jXYFp1",
+    "local_image": "assets/images/tgmsg_32265.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-04-05T07:06:20+00:00",
+    "buy_link": "https://ajiio.co/jXYFp1",
+    "date_iso": "2026-04-05T07:06:20+00:00"
+  },
+  {
     "id": "msg32260",
     "title": "Up to 45% Off Adidas Originals Shoe",
     "description": "Myntra | Upto 45% Off : Adidas Originals Shoes Men : Women : Adidas Gazelle Series : Upto 90% Off On Mast & Harbour Clothing. Women : Men :",
@@ -10026,81 +10066,5 @@
     "date_obj": "2026-03-30T07:50:10+00:00",
     "buy_link": "https://bilty.co/UymKF5",
     "date_iso": "2026-03-30T07:50:10+00:00"
-  },
-  {
-    "id": "msg31676",
-    "title": "15% Off on EazyDine",
-    "description": "Axis Bank Flipkart Credit Card — First Year FREE! 📌 Apply Now: Top Benefits: • 7.5% Cashback on Myntra • 5% Cashback on Flipkart & Cleartrip • 4% Cashback on Swiggy, PVR, Uber, Cult Fit • 1% Cashback on all spends • r •…",
-    "shortlink": "https://bitli.in/J1BpsHQ",
-    "urls": [
-      {
-        "url": "",
-        "label": "Axis Bank Flipkart Credit Card — First Year FREE!"
-      },
-      {
-        "url": "https://bitli.in/J1BpsHQ",
-        "label": "📌 Apply Now"
-      },
-      {
-        "url": "",
-        "label": "Top Benefits"
-      },
-      {
-        "url": "",
-        "label": "7.5% Cashback on Myntra"
-      },
-      {
-        "url": "",
-        "label": "5% Cashback on Flipkart & Cleartrip"
-      },
-      {
-        "url": "",
-        "label": "4% Cashback on Swiggy, PVR, Uber, Cult Fit"
-      },
-      {
-        "url": "",
-        "label": "1% Cashback on all spends"
-      },
-      {
-        "url": "",
-        "label": "15% Off on EazyDiner"
-      },
-      {
-        "url": "",
-        "label": "Fuel surcharge waiver (₹400 cap)"
-      },
-      {
-        "url": "",
-        "label": "Welcome Benefits On Activation"
-      },
-      {
-        "url": "",
-        "label": "₹250 Flipkart Voucher"
-      },
-      {
-        "url": "",
-        "label": "₹250 BookMyShow Voucher"
-      },
-      {
-        "url": "",
-        "label": "Total ₹500 Gift Vouchers"
-      },
-      {
-        "url": "",
-        "label": "₹500 Annual After 1st Year (Waived on ₹3.5L spend)"
-      },
-      {
-        "url": "",
-        "label": "Activate with a ₹100+ transaction within 30 days"
-      }
-    ],
-    "raw_text": "Axis Bank Flipkart Credit Card — First Year FREE!\n\n📌 Apply Now: https://bitli.in/J1BpsHQ\n\nTop Benefits:\n• 7.5% Cashback on Myntra\n• 5% Cashback on Flipkart & Cleartrip\n• 4% Cashback on Swiggy, PVR, Uber, Cult Fit\n• 1% Cashback on all spends\n• 15% Off on EazyDiner\n• Fuel surcharge waiver (₹400 cap)\n\nWelcome Benefits On Activation:\n• ₹250 Flipkart Voucher\n• ₹250 BookMyShow Voucher\nTotal ₹500 Gift Vouchers\n\nFees: ₹500 Annual After 1st Year (Waived on ₹3.5L spend)\n\n• Activate with a ₹100+ transaction within 30 days.",
-    "final_url": "https://bitli.in/J1BpsHQ",
-    "local_image": "assets/images/tgmsg_31676.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-03-30T07:57:11+00:00",
-    "buy_link": "https://bitli.in/J1BpsHQ",
-    "date_iso": "2026-03-30T07:57:11+00:00"
   }
 ]
