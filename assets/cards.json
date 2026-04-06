@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg32323",
+    "title": "💥58% Off Lakme SPF50 PA++++ Sunscreen Lotion, 100 ml @281",
+    "description": "Amazon |💥58% Off : Lakme SPF50 PA++++ Sunscreen Lotion, 100 ml @281. ⚡ 💥62% Off : Pond's Facewash, 200g @217. ⚡ 💥50% Off : Colgate Charcoal Toothpaste, (120g x 4) @396. ⚡",
+    "shortlink": "https://www.amazon.in/dp/B00CS1KT96?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B00CS1KT96?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+        "label": "💥58% Off : Lakme SPF50 PA++++ Sunscreen Lotion, 100 ml @281"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B08PQ6VWPT?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+        "label": "💥62% Off : Pond's Facewash, 200g @217"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B086QDRKJ5?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "💥50% Off : Colgate Charcoal Toothpaste, (120g x 4) @396"
+      }
+    ],
+    "raw_text": "Amazon |💥58% Off : Lakme SPF50 PA++++ Sunscreen Lotion, 100 ml @281. \n⚡https://www.amazon.in/dp/B00CS1KT96?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21\n\n💥62% Off : Pond's Facewash, 200g @217.\n⚡https://www.amazon.in/dp/B08PQ6VWPT?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21\n\n💥50% Off : Colgate Charcoal Toothpaste, (120g x 4) @396.\n⚡https://www.amazon.in/dp/B086QDRKJ5?psc=1&th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B00CS1KT96?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_32323.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-06T05:51:14+00:00",
+    "buy_link": "https://www.amazon.in/dp/B00CS1KT96?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "date_iso": "2026-04-06T05:51:14+00:00"
+  },
+  {
     "id": "msg32312",
     "title": "Turn your SuperCoins into savings On Gold purchase",
     "description": "Flipkart : s. 🔸Eligibility may vary, so check your Account if You have a high SuperCoins balance.",
@@ -9978,49 +10006,5 @@
     "date_obj": "2026-03-30T13:00:33+00:00",
     "buy_link": "https://bilty.co/11KogY",
     "date_iso": "2026-03-30T13:00:33+00:00"
-  },
-  {
-    "id": "msg31705",
-    "title": "🔥 Flat 35% OFF",
-    "description": "🎉 JiViSa 5th Anniversary Sale 🎉 Celebrate clean wellness with amazing savings! 🌿✨  🏷 Use Code : RITUAL35 💖 Premium skincare, haircare & wellness essentials at unbeatable prices! 🛒 Shop now : ⏳ Sale ends March 31st –…",
-    "shortlink": "https://bilty.co/Fg9o8Y",
-    "urls": [
-      {
-        "url": "",
-        "label": "🎉 JiViSa 5th Anniversary Sale 🎉"
-      },
-      {
-        "url": "",
-        "label": "Celebrate clean wellness with amazing savings! 🌿✨"
-      },
-      {
-        "url": "",
-        "label": "🔥 Flat 35% OFF"
-      },
-      {
-        "url": "",
-        "label": "🏷 Use Code : RITUAL35"
-      },
-      {
-        "url": "",
-        "label": "💖 Premium skincare, haircare & wellness essentials at unbeatable prices!"
-      },
-      {
-        "url": "https://bilty.co/Fg9o8Y",
-        "label": "🛒 Shop now"
-      },
-      {
-        "url": "",
-        "label": "⏳ Sale ends March 31st – don’t miss out!"
-      }
-    ],
-    "raw_text": "🎉 JiViSa 5th Anniversary Sale 🎉\n\nCelebrate clean wellness with amazing savings! 🌿✨\n\n🔥 Flat 35% OFF\n🏷 Use Code : RITUAL35\n\n💖 Premium skincare, haircare & wellness essentials at unbeatable prices!\n\n🛒 Shop now : https://bilty.co/Fg9o8Y\n\n⏳ Sale ends March 31st – don’t miss out!",
-    "final_url": "https://bilty.co/Fg9o8Y",
-    "local_image": "assets/images/tgmsg_31705.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-03-30T13:10:19+00:00",
-    "buy_link": "https://bilty.co/Fg9o8Y",
-    "date_iso": "2026-03-30T13:10:19+00:00"
   }
 ]
