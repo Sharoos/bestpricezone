@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg32312",
+    "title": "Turn your SuperCoins into savings On Gold purchase",
+    "description": "Flipkart : s. 🔸Eligibility may vary, so check your Account if You have a high SuperCoins balance.",
+    "shortlink": "https://fktr.in/m6RqieA",
+    "urls": [
+      {
+        "url": "https://fktr.in/m6RqieA",
+        "label": "Turn your SuperCoins into savings On Gold purchases"
+      },
+      {
+        "url": "",
+        "label": "🔸Eligibility may vary, so check your Account if You have a high SuperCoins balance"
+      }
+    ],
+    "raw_text": "Flipkart : Turn your SuperCoins into savings On Gold purchases.\n\nhttps://fktr.in/m6RqieA\n\n🔸Eligibility may vary, so check your Account if You have a high SuperCoins balance.",
+    "final_url": "https://fktr.in/m6RqieA",
+    "local_image": "assets/images/tgmsg_32312.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-04-06T02:36:35+00:00",
+    "buy_link": "https://fktr.in/m6RqieA",
+    "date_iso": "2026-04-06T02:36:35+00:00"
+  },
+  {
     "id": "msg32310",
     "title": "Up to 90% OFF on KOTTY Women Jeans, Tops & More",
     "description": "Shopsy Women DEALS 🔥🔥 Upto 70% OFF on Anand Designer Sarees 🔗 Upto 90% OFF on KOTTY Women Jeans, Tops & More 🔗 Upto 90% OFF on Top-Selling Women Dresses, Tops & More 🔗",
@@ -9998,45 +10022,5 @@
     "date_obj": "2026-03-30T13:10:19+00:00",
     "buy_link": "https://bilty.co/Fg9o8Y",
     "date_iso": "2026-03-30T13:10:19+00:00"
-  },
-  {
-    "id": "msg31707",
-    "title": "Up to 50% OFF on premium fragrances 💥",
-    "description": "🔥 Ajmal Perfume Sale Live! 🔥 Upto 50% OFF on premium fragrances 💥 Perfect for daily wear, dates & gifting 👌 ✨ Long-lasting luxury scents ✨ Men | Women | Unisex options 💫 Ab mehenga perfume bhi budget mein 😉 🔗 Buy Now :",
-    "shortlink": "https://bilty.co/ICDanb",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Ajmal Perfume Sale Live! 🔥"
-      },
-      {
-        "url": "",
-        "label": "Upto 50% OFF on premium fragrances 💥"
-      },
-      {
-        "url": "",
-        "label": "Perfect for daily wear, dates & gifting 👌"
-      },
-      {
-        "url": "",
-        "label": "✨ Long-lasting luxury scents"
-      },
-      {
-        "url": "",
-        "label": "✨ Men | Women | Unisex options"
-      },
-      {
-        "url": "https://bilty.co/ICDanb",
-        "label": "💫 Ab mehenga perfume bhi budget mein 😉"
-      }
-    ],
-    "raw_text": "🔥 Ajmal Perfume Sale Live! 🔥\n\nUpto 50% OFF on premium fragrances 💥\nPerfect for daily wear, dates & gifting 👌\n\n✨ Long-lasting luxury scents\n✨ Men | Women | Unisex options\n\n💫 Ab mehenga perfume bhi budget mein 😉\n\n🔗 Buy Now :  https://bilty.co/ICDanb",
-    "final_url": "https://bilty.co/ICDanb",
-    "local_image": "assets/images/tgmsg_31707.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-03-30T13:20:23+00:00",
-    "buy_link": "https://bilty.co/ICDanb",
-    "date_iso": "2026-03-30T13:20:23+00:00"
   }
 ]
