@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg32418",
+    "title": "💳 ₹1,675 Off with ICICI Credit Card",
+    "description": "Grab : Samsung LED Smart Tizen TV (32 Inches) At 12,315 (Effective Price) 🔗 https://fkrt.co/ftnqq1 💳 ₹1,675 Off with ICICI Credit Card",
+    "shortlink": "https://fkrt.co/ftnqq1",
+    "urls": [
+      {
+        "url": "https://fkrt.co/ftnqq1",
+        "label": "Samsung LED Smart Tizen TV (32 Inches) At 12,315 (Effective Price)"
+      },
+      {
+        "url": "",
+        "label": "💳 ₹1,675 Off with ICICI Credit Card"
+      }
+    ],
+    "raw_text": "Grab : Samsung LED Smart Tizen TV (32 Inches) At 12,315 (Effective Price)\n\n🔗 https://fkrt.co/ftnqq1\n\n💳 ₹1,675 Off with ICICI Credit Card",
+    "final_url": "https://fkrt.co/ftnqq1",
+    "local_image": "assets/images/tgmsg_32418.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-04-07T11:19:50+00:00",
+    "buy_link": "https://fkrt.co/ftnqq1",
+    "date_iso": "2026-04-07T11:19:50+00:00"
+  },
+  {
+    "id": "msg32419",
+    "title": "From 192",
+    "description": "Lowest Prices On Furnishing! Bath Towels,Pillows & more From 192 https://fkrt.co/s2c3tw",
+    "shortlink": "https://fkrt.co/s2c3tw",
+    "urls": [
+      {
+        "url": "",
+        "label": "Lowest Prices On Furnishing!"
+      },
+      {
+        "url": "",
+        "label": "Bath Towels,Pillows & more"
+      },
+      {
+        "url": "https://fkrt.co/s2c3tw",
+        "label": "From 192"
+      }
+    ],
+    "raw_text": "Lowest Prices On Furnishing!\nBath Towels,Pillows & more\nFrom 192\n\nhttps://fkrt.co/s2c3tw",
+    "final_url": "https://fkrt.co/s2c3tw",
+    "local_image": "assets/images/tgmsg_32419.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-04-07T11:25:38+00:00",
+    "buy_link": "https://fkrt.co/s2c3tw",
+    "date_iso": "2026-04-07T11:25:38+00:00"
+  },
+  {
     "id": "msg32411",
     "title": "BSC Roll",
     "description": "Amazon |  BSC Roll-On Deo @ ₹99 🔗 https://www.amazon.in/dp/B0DZXVLSYP?tag=bestpricezo0f-21",
@@ -9886,45 +9938,5 @@
     "date_obj": "2026-03-31T18:59:02+00:00",
     "buy_link": "https://myntr.in/18uBaa",
     "date_iso": "2026-03-31T18:59:02+00:00"
-  },
-  {
-    "id": "msg31820",
-    "title": "Up to 50% Off on FOSSIL Watche",
-    "description": "🔥🔥Myntra 🔥🔥 Upto 50% Off  on FOSSIL Watches https://myntr.in/f7w4Xr",
-    "shortlink": "https://myntr.in/f7w4Xr",
-    "urls": [
-      {
-        "url": "https://myntr.in/f7w4Xr",
-        "label": "Upto 50% Off on FOSSIL Watches"
-      }
-    ],
-    "raw_text": "🔥🔥Myntra 🔥🔥\n\nUpto 50% Off  on FOSSIL Watches\n\nhttps://myntr.in/f7w4Xr",
-    "final_url": "https://myntr.in/f7w4Xr",
-    "local_image": "assets/images/tgmsg_31820.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-03-31T19:02:59+00:00",
-    "buy_link": "https://myntr.in/f7w4Xr",
-    "date_iso": "2026-03-31T19:02:59+00:00"
-  },
-  {
-    "id": "msg31811",
-    "title": "Corner Rack Shelf Starts @824",
-    "description": "Flipkart | Corner Rack Shelf Starts @824. https://fkrt.co/sy3RTd",
-    "shortlink": "https://fkrt.co/sy3RTd",
-    "urls": [
-      {
-        "url": "https://fkrt.co/sy3RTd",
-        "label": "Corner Rack Shelf Starts @824"
-      }
-    ],
-    "raw_text": "Flipkart | Corner Rack Shelf Starts @824.\n\nhttps://fkrt.co/sy3RTd",
-    "final_url": "https://fkrt.co/sy3RTd",
-    "local_image": "assets/images/tgmsg_31811.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-03-31T17:06:14+00:00",
-    "buy_link": "https://fkrt.co/sy3RTd",
-    "date_iso": "2026-03-31T17:06:14+00:00"
   }
 ]
