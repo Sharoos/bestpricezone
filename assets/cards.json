@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg32546",
+    "title": "Deal Price ₹192",
+    "description": "Amazon | EITHEO Geometric Angle Blocks for Kids | 26 Pcs Montessori S... Deal Price : ₹192 🔗",
+    "shortlink": "https://www.amazon.in/dp/B0FFSXZ5YG?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "EITHEO Geometric Angle Blocks for Kids | 26 Pcs Montessori S"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0FFSXZ5YG?psc=1&tag=bestpricezo0f-21",
+        "label": "₹192"
+      }
+    ],
+    "raw_text": "Amazon  | EITHEO Geometric Angle Blocks for Kids | 26 Pcs Montessori S...\n\nDeal Price : ₹192\n\n🔗 https://www.amazon.in/dp/B0FFSXZ5YG?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FFSXZ5YG?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_32546.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-08T18:29:14+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FFSXZ5YG?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-04-08T18:29:14+00:00"
+  },
+  {
     "id": "msg32544",
     "title": "Up to 80% Off Lee Mens Clothing",
     "description": "Myntra | Upto 80% Off : Lee Mens Clothing. https://myntr.in/2n3SLA&",
@@ -9702,53 +9726,5 @@
     "date_obj": "2026-04-01T17:35:53+00:00",
     "buy_link": "https://myntr.in/HbIAlI",
     "date_iso": "2026-04-01T17:35:53+00:00"
-  },
-  {
-    "id": "msg31921",
-    "title": "🎟️ Use Code NOISESW370 → Extra ₹370 OFF",
-    "description": "🔥MYNTRA NOISE MEGA DEALS – LIMITED TIME! 🎧⌚ ⌚ Noise Smartwatch Pulse 2 Max 💰 Only ₹850 + 10% Bank Offers 😱 🎟️ Use Code: NOISESW370 → Extra ₹370 OFF 👉 🎧 Noise Buds Aero TWS 💰 Only ₹649 + Bank Offers 🔥 👉 🎧 Noise Buds…",
-    "shortlink": "https://myntr.in/Huh926",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥MYNTRA NOISE MEGA DEALS – LIMITED TIME! 🎧⌚"
-      },
-      {
-        "url": "",
-        "label": "⌚ Noise Smartwatch Pulse 2 Max"
-      },
-      {
-        "url": "",
-        "label": "💰 Only ₹850 + 10% Bank Offers 😱"
-      },
-      {
-        "url": "https://myntr.in/Huh926",
-        "label": "🎟️ Use Code: NOISESW370 → Extra ₹370 OFF"
-      },
-      {
-        "url": "",
-        "label": "🎧 Noise Buds Aero TWS"
-      },
-      {
-        "url": "https://myntr.in/5b2aBg",
-        "label": "💰 Only ₹649 + Bank Offers 🔥"
-      },
-      {
-        "url": "",
-        "label": "🎧 Noise Buds Trance"
-      },
-      {
-        "url": "https://myntr.in/g0xhwg⁠",
-        "label": "💰 Only ₹889 + Bank Offers ⚡"
-      }
-    ],
-    "raw_text": "🔥MYNTRA NOISE MEGA DEALS – LIMITED TIME! 🎧⌚\n\n⌚ Noise Smartwatch Pulse 2 Max\n💰 Only ₹850 + 10% Bank Offers 😱\n🎟️ Use Code: NOISESW370 → Extra ₹370 OFF\n👉 https://myntr.in/Huh926\n\n🎧 Noise Buds Aero TWS\n💰 Only ₹649 + Bank Offers 🔥\n👉 https://myntr.in/5b2aBg\n\n🎧 Noise Buds Trance\n💰 Only ₹889 + Bank Offers ⚡\n👉 https://myntr.in/g0xhwg⁠",
-    "final_url": "https://myntr.in/Huh926",
-    "local_image": "assets/images/tgmsg_31921.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-04-01T16:16:21+00:00",
-    "buy_link": "https://myntr.in/Huh926",
-    "date_iso": "2026-04-01T16:16:21+00:00"
   }
 ]
