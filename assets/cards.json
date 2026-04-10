@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg32751",
+    "title": "Up to 85% Off On Jack & Jones Clothing",
+    "description": "AJIO Upto 85% Off On Jack & Jones Clothing. Master Link : T-Shirts : Shirts : Jeans : Sweatshirts & Sweaters : Jackets : Shorts : Trackpants : Trousers :",
+    "shortlink": "https://ajiio.co/SsKDy1",
+    "urls": [
+      {
+        "url": "https://ajiio.co/SsKDy1",
+        "label": "AJIO Upto 85% Off On Jack & Jones Clothing"
+      },
+      {
+        "url": "https://ajiio.co/GZd79u",
+        "label": "AJIO Upto 85% Off On Jack & Jones Clothing"
+      },
+      {
+        "url": "https://ajiio.co/zIMUrQ",
+        "label": "T-Shirts"
+      },
+      {
+        "url": "https://ajiio.co/ZL0jEN",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/0hyijk",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/bB1DIF",
+        "label": "Sweatshirts & Sweaters"
+      },
+      {
+        "url": "https://ajiio.co/G5IGp2",
+        "label": "Jackets"
+      },
+      {
+        "url": "https://ajiio.co/6XHoQL",
+        "label": "Shorts"
+      },
+      {
+        "url": "https://ajiio.co/mHURFU",
+        "label": "Trackpants"
+      },
+      {
+        "url": "https://ajiio.co/hoALvk",
+        "label": "Trousers"
+      }
+    ],
+    "raw_text": "AJIO  Upto 85% Off On Jack & Jones Clothing.\nMaster Link : \nhttps://ajiio.co/SsKDy1 \nhttps://ajiio.co/GZd79u\n\nT-Shirts : https://ajiio.co/zIMUrQ\nShirts : https://ajiio.co/ZL0jEN\nJeans : https://ajiio.co/0hyijk\nSweatshirts & Sweaters : https://ajiio.co/bB1DIF\nJackets : https://ajiio.co/G5IGp2\nShorts : https://ajiio.co/6XHoQL\nTrackpants : https://ajiio.co/mHURFU\nTrousers : https://ajiio.co/hoALvk",
+    "final_url": "https://ajiio.co/SsKDy1",
+    "local_image": "assets/images/tgmsg_32751.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-04-10T18:01:36+00:00",
+    "buy_link": "https://ajiio.co/SsKDy1",
+    "date_iso": "2026-04-10T18:01:36+00:00"
+  },
+  {
     "id": "msg32741",
     "title": "Up to 90% OFF on Storite Sling Bags & Holde",
     "description": "Grab : Upto 90% OFF on Storite Sling Bags & Holders 🔗…",
@@ -9306,25 +9362,5 @@
     "date_obj": "2026-04-03T13:46:42+00:00",
     "buy_link": "https://www.amazon.in/dp/B0BG62HMDJ?tag=bestpricezo0f-21",
     "date_iso": "2026-04-03T13:46:42+00:00"
-  },
-  {
-    "id": "msg32130",
-    "title": "Flat 70% OFF on RAMA Stainless Steel Leakproof Water Bottle (950 ml)",
-    "description": "Flat 70% OFF on RAMA Stainless Steel Leakproof Water Bottle (950 ml) Link: https://www.amazon.in/dp/B0G5QFNM5G?tag=bestpricezo0f-21 * Apply 5% Off Coupon",
-    "shortlink": "https://www.amazon.in/dp/B0G5QFNM5G?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0G5QFNM5G?tag=bestpricezo0f-21",
-        "label": "Flat 70% OFF on RAMA Stainless Steel Leakproof Water Bottle (950 ml)"
-      }
-    ],
-    "raw_text": "Flat 70% OFF on RAMA Stainless Steel Leakproof Water Bottle (950 ml)\n\nLink: https://www.amazon.in/dp/B0G5QFNM5G?tag=bestpricezo0f-21\n\n* Apply 5% Off Coupon",
-    "final_url": "https://www.amazon.in/dp/B0G5QFNM5G?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_32130.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-03T13:48:02+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0G5QFNM5G?tag=bestpricezo0f-21",
-    "date_iso": "2026-04-03T13:48:02+00:00"
   }
 ]
