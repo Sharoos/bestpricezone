@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg32665",
+    "title": "Ready to wear Sarees min 70% Off",
+    "description": "Flipkart Fashion Fest 💥💥 Ethnic Sets Flat Rs.299 Festive Ethnic Sets Flat Rs.399 Kanjivaram, Banarasi sarees Flat Rs.499 Lehenga Cholis Flat Rs.599 Anarkali Kurtis Flat Rs.299",
+    "shortlink": "https://fkrt.co/cLBA0A",
+    "urls": [
+      {
+        "url": "",
+        "label": "Flipkart Fashion Fest 💥💥"
+      },
+      {
+        "url": "https://fkrt.co/cLBA0A",
+        "label": "Ethnic Sets Flat Rs.299"
+      },
+      {
+        "url": "https://fkrt.co/OnEr8E",
+        "label": "Festive Ethnic Sets Flat Rs.399"
+      },
+      {
+        "url": "https://fkrt.co/smDcep",
+        "label": "Kanjivaram, Banarasi sarees Flat Rs.499"
+      },
+      {
+        "url": "https://fkrt.co/uwggmP",
+        "label": "Lehenga Cholis Flat Rs.599"
+      },
+      {
+        "url": "https://fkrt.co/g4gyQG",
+        "label": "Anarkali Kurtis Flat Rs.299"
+      },
+      {
+        "url": "https://fkrt.co/VmAimr",
+        "label": "Ready to wear Sarees min 70% Off"
+      }
+    ],
+    "raw_text": "Flipkart Fashion Fest 💥💥\n\nEthnic Sets Flat Rs.299 https://fkrt.co/cLBA0A\n\nFestive Ethnic Sets Flat Rs.399 https://fkrt.co/OnEr8E\n\nKanjivaram, Banarasi sarees Flat Rs.499 https://fkrt.co/smDcep\n\nLehenga Cholis Flat Rs.599 https://fkrt.co/uwggmP\n\nAnarkali Kurtis Flat Rs.299 https://fkrt.co/g4gyQG\n\nReady to wear Sarees min 70% Off https://fkrt.co/VmAimr",
+    "final_url": "https://fkrt.co/cLBA0A",
+    "local_image": "assets/images/tgmsg_32665.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-04-10T04:03:25+00:00",
+    "buy_link": "https://fkrt.co/cLBA0A",
+    "date_iso": "2026-04-10T04:03:25+00:00"
+  },
+  {
     "id": "msg32651",
     "title": "Spacious, 65L @636",
     "description": "Amazon | Wincey Wincey_Berlin - Spacious, 65L @636 https://www.amazon.in/dp/B0G43FFXRH?th=1&tag=bestpricezo0f-21",
@@ -9562,25 +9606,5 @@
     "date_obj": "2026-04-02T17:56:14+00:00",
     "buy_link": "https://ajiio.co/0Oo4es",
     "date_iso": "2026-04-02T17:56:14+00:00"
-  },
-  {
-    "id": "msg32022",
-    "title": "Up to 78% Off On Lee Cooper Men's Sandals / Shoe",
-    "description": "Amazon | Upto 78% Off On Lee Cooper Men's Sandals / Shoes https://www.amazon.in/s?k=Lee%20Cooper%20Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/s?k=Lee%20Cooper%20Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?k=Lee%20Cooper%20Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21",
-        "label": "Upto 78% Off On Lee Cooper Men's Sandals / Shoes"
-      }
-    ],
-    "raw_text": "Amazon | Upto 78% Off On Lee Cooper Men's Sandals / Shoes \n\nhttps://www.amazon.in/s?k=Lee%20Cooper%20Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/s?k=Lee%20Cooper%20Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_32022.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-02T16:26:40+00:00",
-    "buy_link": "https://www.amazon.in/s?k=Lee%20Cooper%20Men%27s&rh=n%3A1571283031%2Cp_n_pct-off-with-tax%3A27060457031&s=price-asc-rank&i=shoes&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-02T16:26:40+00:00"
   }
 ]
