@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg32799",
+    "title": "Sale is Live !!!",
+    "description": "Ajio  AX Min 40%: Superdry Min 50%: Tommy Hilfiger Calvin Klein Min 40%: USPA Min 55% : Levis Min 60% :",
+    "shortlink": "https://ajiio.co/YLZ6rO",
+    "urls": [
+      {
+        "url": "",
+        "label": "Ajio Sale is Live !!!"
+      },
+      {
+        "url": "https://ajiio.co/YLZ6rO",
+        "label": "AX Min 40%"
+      },
+      {
+        "url": "https://ajiio.co/SYqRzc",
+        "label": "Superdry Min 50%"
+      },
+      {
+        "url": "https://ajiio.co/17KgO7",
+        "label": "Tommy Hilfiger Calvin Klein Min 40%"
+      },
+      {
+        "url": "https://ajiio.co/So4WgV",
+        "label": "USPA Min 55%"
+      },
+      {
+        "url": "https://ajiio.co/dh9sBp",
+        "label": "Levis Min 60%"
+      }
+    ],
+    "raw_text": "Ajio Sale is Live !!!\nAX Min 40%: \nhttps://ajiio.co/YLZ6rO\n\nSuperdry Min 50%: \nhttps://ajiio.co/SYqRzc\n\nTommy Hilfiger Calvin Klein Min 40%: \nhttps://ajiio.co/17KgO7\n\nUSPA Min 55% : \nhttps://ajiio.co/So4WgV\n\nLevis Min 60% :\nhttps://ajiio.co/dh9sBp",
+    "final_url": "https://ajiio.co/YLZ6rO",
+    "local_image": "assets/images/tgmsg_32799.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-04-11T06:02:38+00:00",
+    "buy_link": "https://ajiio.co/YLZ6rO",
+    "date_iso": "2026-04-11T06:02:38+00:00"
+  },
+  {
     "id": "msg32789",
     "title": "Min 70% OFF on Branded Women’s Shoes 🔥🔥",
     "description": "Myntra  Min 70% OFF on Branded Women’s Shoes 🔥🔥 Redtape : https://myntr.in/NmPKxH Roadster : https://myntr.in/836vnS Mast & Harbour : https://myntr.in/uPPDan HRX :  https://myntr.in/WsLgza Birde : https://myntr.in/nExZ0i",
@@ -9426,25 +9466,5 @@
     "date_obj": "2026-04-03T15:26:44+00:00",
     "buy_link": "https://fkrt.co/jJ19cR",
     "date_iso": "2026-04-03T15:26:44+00:00"
-  },
-  {
-    "id": "msg32132",
-    "title": "🔥Lifelong Drone with Camera at ₹4999",
-    "description": "Amazon | 🔥Lifelong Drone with Camera at ₹4999 👉https://www.amazon.in/dp/B0G93JPXP2?social_share=cm_sw_r_apan_dp_8PCCTM09P4TNPC3ZNBXK&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0G93JPXP2?social_share=cm_sw_r_apan_dp_8PCCTM09P4TNPC3ZNBXK&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0G93JPXP2?social_share=cm_sw_r_apan_dp_8PCCTM09P4TNPC3ZNBXK&tag=bestpricezo0f-21",
-        "label": "🔥Lifelong Drone with Camera at ₹4999"
-      }
-    ],
-    "raw_text": "Amazon | 🔥Lifelong Drone with Camera at ₹4999\n\n👉https://www.amazon.in/dp/B0G93JPXP2?social_share=cm_sw_r_apan_dp_8PCCTM09P4TNPC3ZNBXK&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0G93JPXP2?social_share=cm_sw_r_apan_dp_8PCCTM09P4TNPC3ZNBXK&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_32132.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-03T14:11:20+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0G93JPXP2?social_share=cm_sw_r_apan_dp_8PCCTM09P4TNPC3ZNBXK&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-03T14:11:20+00:00"
   }
 ]
