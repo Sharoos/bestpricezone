@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg32830",
+    "title": "Sunfeast Dark Fantasy Yumfills Whoopie Pie Chocolate Chip, 253g @96",
+    "description": "Amazon | Sunfeast Dark Fantasy Yumfills Whoopie Pie Chocolate Chip, 253g @96 https://www.amazon.in/dp/B06WGM2HK2?th=1&psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B06WGM2HK2?th=1&psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B06WGM2HK2?th=1&psc=1&tag=bestpricezo0f-21",
+        "label": "Sunfeast Dark Fantasy Yumfills Whoopie Pie Chocolate Chip, 253g @96"
+      }
+    ],
+    "raw_text": "Amazon | Sunfeast Dark Fantasy Yumfills Whoopie Pie Chocolate Chip, 253g @96\n\nhttps://www.amazon.in/dp/B06WGM2HK2?th=1&psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B06WGM2HK2?th=1&psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_32830.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-11T12:03:40+00:00",
+    "buy_link": "https://www.amazon.in/dp/B06WGM2HK2?th=1&psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-04-11T12:03:40+00:00"
+  },
+  {
+    "id": "msg32831",
+    "title": "Campus Men’s Casual Shoes Starts @ 603",
+    "description": "Flipkart | Campus Men’s Casual Shoes Starts @ 603. 👉https://fkrt.co/obJkvd",
+    "shortlink": "https://fkrt.co/obJkvd",
+    "urls": [
+      {
+        "url": "https://fkrt.co/obJkvd",
+        "label": "Campus Men’s Casual Shoes Starts @ 603"
+      }
+    ],
+    "raw_text": "Flipkart | Campus Men’s Casual Shoes Starts @ 603.\n\n👉https://fkrt.co/obJkvd",
+    "final_url": "https://fkrt.co/obJkvd",
+    "local_image": "assets/images/tgmsg_32831.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-04-11T12:20:55+00:00",
+    "buy_link": "https://fkrt.co/obJkvd",
+    "date_iso": "2026-04-11T12:20:55+00:00"
+  },
+  {
     "id": "msg32824",
     "title": "💰 ₹1614 + Extra 10% Bank Offe",
     "description": "🔥Myntra | OnePlus Audio – Neckbands & TWS at Crazy Prices! 🎧⚡ 🎧 OnePlus Bullets Z2 ANC r 🎟 Code: OPAPR15 (Extra 15% OFF) 🔗 🎧 OnePlus Nord Buds 3 Pro 💰 ₹2358 + Extra 10% Bank Offer 🎟 Code: OPAPR11 (Extra 11% OFF) 🔗 🎧…",
@@ -9534,53 +9574,5 @@
     "date_obj": "2026-04-04T09:36:19+00:00",
     "buy_link": "https://fkrt.co/Q3IRYQ",
     "date_iso": "2026-04-04T09:36:19+00:00"
-  },
-  {
-    "id": "msg32191",
-    "title": "✨ Rare Rabbit – Min 60% OFF",
-    "description": "🔥FLIPKART MEN’S FASHION STEAL DEALS – GRAB FAST! 👕👖💥 ✨ Rare Rabbit – Min 60% OFF 👉 https://fkrt.co/eMEOhI",
-    "shortlink": "https://fkrt.co/eMEOhI",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥FLIPKART MEN’S FASHION STEAL DEALS – GRAB FAST! 👕👖💥"
-      },
-      {
-        "url": "https://fkrt.co/eMEOhI",
-        "label": "✨ Rare Rabbit – Min 60% OFF"
-      }
-    ],
-    "raw_text": "🔥FLIPKART MEN’S FASHION STEAL DEALS – GRAB FAST! 👕👖💥\n\n✨ Rare Rabbit – Min 60% OFF\n👉 https://fkrt.co/eMEOhI",
-    "final_url": "https://fkrt.co/eMEOhI",
-    "local_image": "assets/images/tgmsg_32191.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-04-04T09:46:19+00:00",
-    "buy_link": "https://fkrt.co/eMEOhI",
-    "date_iso": "2026-04-04T09:46:19+00:00"
-  },
-  {
-    "id": "msg32183",
-    "title": "Steve Madden, Dune London min 50%",
-    "description": "Ajio | Steve Madden, Dune London min 50% https://ajiio.co/3p96yJ Guess Min 40% https://ajiio.co/8SMht1",
-    "shortlink": "https://ajiio.co/3p96yJ",
-    "urls": [
-      {
-        "url": "https://ajiio.co/3p96yJ",
-        "label": "Steve Madden, Dune London min 50%"
-      },
-      {
-        "url": "https://ajiio.co/8SMht1",
-        "label": "Guess Min 40%"
-      }
-    ],
-    "raw_text": "Ajio | Steve Madden, Dune London min 50%\nhttps://ajiio.co/3p96yJ\n\nGuess Min 40%\nhttps://ajiio.co/8SMht1",
-    "final_url": "https://ajiio.co/3p96yJ",
-    "local_image": "assets/images/tgmsg_32183.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-04-04T08:41:22+00:00",
-    "buy_link": "https://ajiio.co/3p96yJ",
-    "date_iso": "2026-04-04T08:41:22+00:00"
   }
 ]
