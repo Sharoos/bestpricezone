@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg32922",
+    "title": "Up to 85% OFF on Branded Women Footwear 🔥🔥",
+    "description": "Myntra : Upto 85% OFF on Branded Women Footwear 🔥🔥 *Lavie : *DressBerry : *Anouk : *Action : *Redtape :",
+    "shortlink": "https://myntr.in/9JE5cv",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% OFF on Branded Women Footwear 🔥🔥"
+      },
+      {
+        "url": "https://myntr.in/9JE5cv",
+        "label": "Lavie"
+      },
+      {
+        "url": "https://myntr.in/7ZdECD",
+        "label": "DressBerry"
+      },
+      {
+        "url": "https://myntr.in/tlRfsJ",
+        "label": "Anouk"
+      },
+      {
+        "url": "https://myntr.in/ZgLE02",
+        "label": "Action"
+      },
+      {
+        "url": "https://myntr.in/1zlW7f",
+        "label": "Redtape"
+      }
+    ],
+    "raw_text": "Myntra : Upto 85% OFF on Branded Women Footwear 🔥🔥\n\n*Lavie : https://myntr.in/9JE5cv\n*DressBerry : https://myntr.in/7ZdECD\n*Anouk : https://myntr.in/tlRfsJ\n*Action : https://myntr.in/ZgLE02\n*Redtape : https://myntr.in/1zlW7f",
+    "final_url": "https://myntr.in/9JE5cv",
+    "local_image": "assets/images/tgmsg_32922.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-04-12T15:26:10+00:00",
+    "buy_link": "https://myntr.in/9JE5cv",
+    "date_iso": "2026-04-12T15:26:10+00:00"
+  },
+  {
     "id": "msg32918",
     "title": "Up to 77% Off On Hrx By Hrithik Roshan Duffel Bag",
     "description": "Flipkart | Upto 77% Off On Hrx By Hrithik Roshan Duffel Bags 👉Link : Track Pants Starting From 352. 👉",
@@ -9342,29 +9382,5 @@
     "date_obj": "2026-04-05T04:42:41+00:00",
     "buy_link": "https://ajiio.co/GdNi39",
     "date_iso": "2026-04-05T04:42:41+00:00"
-  },
-  {
-    "id": "msg32249",
-    "title": "Up to 70% Off",
-    "description": "Ajio | Upto 70% Off - Men Stripe Fit Shirts Starting From @Rs.478 🔗 https://ajiio.co/gKz2VQ",
-    "shortlink": "https://ajiio.co/gKz2VQ",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 70% Off - Men Stripe Fit Shirts"
-      },
-      {
-        "url": "https://ajiio.co/gKz2VQ",
-        "label": "Starting From @Rs.478"
-      }
-    ],
-    "raw_text": "Ajio | Upto 70% Off - Men Stripe Fit Shirts\n\nStarting From @Rs.478\n\n🔗 https://ajiio.co/gKz2VQ",
-    "final_url": "https://ajiio.co/gKz2VQ",
-    "local_image": "assets/images/tgmsg_32249.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-04-04T19:49:58+00:00",
-    "buy_link": "https://ajiio.co/gKz2VQ",
-    "date_iso": "2026-04-04T19:49:58+00:00"
   }
 ]
