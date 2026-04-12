@@ -1,5 +1,93 @@
 [
   {
+    "id": "msg32904",
+    "title": "15 products @ 699 INR (Including Shipping)",
+    "description": "TIARAA Bulk Purchase Offer Buy 15 products @ 699 INR  (Including Shipping) Use Code : CK15 Link : https://bitli.in/lHkj1l7",
+    "shortlink": "https://bitli.in/lHkj1l7",
+    "urls": [
+      {
+        "url": "",
+        "label": "TIARAA Bulk Purchase Offer"
+      },
+      {
+        "url": "https://bitli.in/lHkj1l7",
+        "label": "CK15"
+      }
+    ],
+    "raw_text": "TIARAA Bulk Purchase Offer\nBuy 15 products @ 699 INR  (Including Shipping)\n\nUse Code : CK15\n\nLink : https://bitli.in/lHkj1l7",
+    "final_url": "https://bitli.in/lHkj1l7",
+    "local_image": "assets/images/tgmsg_32904.jpg",
+    "source_host": "bitli.in",
+    "merchant_label": "Bitli",
+    "date_obj": "2026-04-12T12:59:39+00:00",
+    "buy_link": "https://bitli.in/lHkj1l7",
+    "date_iso": "2026-04-12T12:59:39+00:00"
+  },
+  {
+    "id": "msg32906",
+    "title": "Apply 2% Off",
+    "description": "GRAB : Kokila NO PPD Hair Color Shampoo (Ammonia Free | No Allergy | 10 Mins Hair Colour) @ 722 Link- * Coupon",
+    "shortlink": "https://www.amazon.in/Kokila-PPD-Shampoo-Hair-Colour/dp/B0CP5S82ZV?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/Kokila-PPD-Shampoo-Hair-Colour/dp/B0CP5S82ZV?tag=bestpricezo0f-21",
+        "label": "Kokila NO PPD Hair Color Shampoo (Ammonia Free | No Allergy | 10 Mins Hair Colour) @ 722"
+      }
+    ],
+    "raw_text": "GRAB : Kokila NO PPD Hair Color Shampoo (Ammonia Free | No Allergy | 10 Mins Hair Colour) @ 722\n\nLink- https://www.amazon.in/Kokila-PPD-Shampoo-Hair-Colour/dp/B0CP5S82ZV?tag=bestpricezo0f-21\n\n*Apply 2% Off Coupon",
+    "final_url": "https://www.amazon.in/Kokila-PPD-Shampoo-Hair-Colour/dp/B0CP5S82ZV?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_32906.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-12T13:05:23+00:00",
+    "buy_link": "https://www.amazon.in/Kokila-PPD-Shampoo-Hair-Colour/dp/B0CP5S82ZV?tag=bestpricezo0f-21",
+    "date_iso": "2026-04-12T13:05:23+00:00"
+  },
+  {
+    "id": "msg32908",
+    "title": "Fast 86% Off American Tourister Checkin Suitcase (Set of 3) @ 4199",
+    "description": "Fast 86% Off : American Tourister Checkin Suitcase (Set of 3) @ 4199 👉https://fkrt.co/9vJJzP",
+    "shortlink": "https://fkrt.co/9vJJzP",
+    "urls": [
+      {
+        "url": "https://fkrt.co/9vJJzP",
+        "label": "Fast 86% Off : American Tourister Checkin Suitcase (Set of 3) @ 4199"
+      }
+    ],
+    "raw_text": "Fast 86% Off : American Tourister Checkin Suitcase (Set of 3) @ 4199\n\n👉https://fkrt.co/9vJJzP",
+    "final_url": "https://fkrt.co/9vJJzP",
+    "local_image": "assets/images/tgmsg_32908.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-04-12T13:09:02+00:00",
+    "buy_link": "https://fkrt.co/9vJJzP",
+    "date_iso": "2026-04-12T13:09:02+00:00"
+  },
+  {
+    "id": "msg32912",
+    "title": "Apply 20% Off",
+    "description": "Grab : SNMMIFER Arm Sleeves with UV Protection (2 Pairs) @199 Apply 20% Off Coupon : https://www.amazon.in/dp/B0DXD52Z6K?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DXD52Z6K?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "SNMMIFER Arm Sleeves with UV Protection (2 Pairs) @199"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0DXD52Z6K?tag=bestpricezo0f-21",
+        "label": "Apply 20% Off"
+      }
+    ],
+    "raw_text": "Grab : SNMMIFER Arm Sleeves with UV Protection (2 Pairs) @199 \n\nApply 20% Off Coupon : https://www.amazon.in/dp/B0DXD52Z6K?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DXD52Z6K?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_32912.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-12T13:17:06+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DXD52Z6K?tag=bestpricezo0f-21",
+    "date_iso": "2026-04-12T13:17:06+00:00"
+  },
+  {
     "id": "msg32901",
     "title": "199",
     "description": "199 : https://www.amazon.in/dp/B0GWNMH921?social_share=cm_sw_r_cso_wa_apin_dp_F6RAAKFMR30S2KG36CMF&tag=bestpricezo0f-21",
@@ -9274,121 +9362,5 @@
     "date_obj": "2026-04-04T19:55:06+00:00",
     "buy_link": "https://ajiio.co/cQI11e",
     "date_iso": "2026-04-04T19:55:06+00:00"
-  },
-  {
-    "id": "msg32251",
-    "title": "🏦 ICICI Card Offer – 10% OFF (up to ₹2000 on ₹20K+)",
-    "description": "🔥AJIO Gold Deal Alert – Limited Time! 🔥 Buy Bhima 2gm Gold at a better rate 💰✨ 💸 Market Price : ₹15,400/gm 👉 AJIO Price : ₹15,034/gm 💥 Extra Savings : 🎟 Use code DHANVARSHA2 – Get 2% OFF (up to ₹2000)  🧾 +3% extra…",
-    "shortlink": "https://ajiio.co/6FJF24",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥AJIO Gold Deal Alert – Limited Time! 🔥"
-      },
-      {
-        "url": "",
-        "label": "💸 Market Price : ₹15,400/gm"
-      },
-      {
-        "url": "",
-        "label": "₹15,034/gm"
-      },
-      {
-        "url": "",
-        "label": "💥 Extra Savings"
-      },
-      {
-        "url": "",
-        "label": "🎟 Use code DHANVARSHA2 – Get 2% OFF (up to ₹2000)"
-      },
-      {
-        "url": "",
-        "label": "🏦 ICICI Card Offer – 10% OFF (up to ₹2000 on ₹20K+)"
-      },
-      {
-        "url": "",
-        "label": "🧾 +3% extra benefit with GST invoice"
-      },
-      {
-        "url": "https://ajiio.co/6FJF24",
-        "label": "Grab the deal now"
-      },
-      {
-        "url": "",
-        "label": "💛 Perfect time to invest & start the year with gold!"
-      }
-    ],
-    "raw_text": "🔥AJIO Gold Deal Alert – Limited Time! 🔥\n\nBuy Bhima 2gm Gold at a better rate 💰✨\n💸 Market Price : ₹15,400/gm\n👉 AJIO Price : ₹15,034/gm\n\n💥 Extra Savings :\n🎟 Use code DHANVARSHA2 – Get 2% OFF (up to ₹2000)\n🏦 ICICI Card Offer – 10% OFF (up to ₹2000 on ₹20K+)\n🧾 +3% extra benefit with GST invoice\n\n👉 Grab the deal now : https://ajiio.co/6FJF24\n\n💛 Perfect time to invest & start the year with gold!",
-    "final_url": "https://ajiio.co/6FJF24",
-    "local_image": "assets/images/tgmsg_32251.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-04-04T20:00:15+00:00",
-    "buy_link": "https://ajiio.co/6FJF24",
-    "date_iso": "2026-04-04T20:00:15+00:00"
-  },
-  {
-    "id": "msg32240",
-    "title": "FAAST 💥",
-    "description": "Amazon |  300₹ 299₹ Coupon AWG ALL WEATHER GEAR Cotton Polo T-Shirt | Half Sleeve Plain-Regular Fit",
-    "shortlink": "https://www.amazon.in/dp/B0GSYZQDVX?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "FAAST 💥"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0GSYZQDVX?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "Shirt | Half Sleeve Plain-Regular Fit"
-      }
-    ],
-    "raw_text": "Amazon | FAAST 💥 \n300₹\n299₹ Coupon \n\nAWG ALL WEATHER GEAR Cotton Polo T-Shirt | Half Sleeve Plain-Regular Fit \n\nhttps://www.amazon.in/dp/B0GSYZQDVX?psc=1&th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0GSYZQDVX?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_32240.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-04T19:10:54+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0GSYZQDVX?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-04T19:10:54+00:00"
-  },
-  {
-    "id": "msg32241",
-    "title": "Veg Gravy & Marinade Combo 200",
-    "description": "Amazon | ZOFF Non-Veg Gravy & Marinade Combo 200₹ https://www.amazon.in/dp/B0FCYVR7RR?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FCYVR7RR?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FCYVR7RR?th=1&tag=bestpricezo0f-21",
-        "label": "ZOFF Non-Veg Gravy & Marinade Combo 200₹"
-      }
-    ],
-    "raw_text": "Amazon | ZOFF Non-Veg Gravy & Marinade Combo 200₹\n\nhttps://www.amazon.in/dp/B0FCYVR7RR?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FCYVR7RR?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_32241.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-04T19:24:43+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FCYVR7RR?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-04T19:24:43+00:00"
-  },
-  {
-    "id": "msg32242",
-    "title": "70% Off Clean & Clear Foaming Facewash, 240ml (Pack Of 2) at 283",
-    "description": "Amazon | 70% Off : Clean & Clear Foaming Facewash, 240ml (Pack Of 2) at 283 https://www.amazon.in/dp/B0DX7BPTXP?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DX7BPTXP?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DX7BPTXP?th=1&tag=bestpricezo0f-21",
-        "label": "70% Off : Clean & Clear Foaming Facewash, 240ml (Pack Of 2) at 283"
-      }
-    ],
-    "raw_text": "Amazon | 70% Off : Clean & Clear Foaming Facewash, 240ml (Pack Of 2) at 283\n\nhttps://www.amazon.in/dp/B0DX7BPTXP?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DX7BPTXP?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_32242.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-04T19:33:48+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DX7BPTXP?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-04T19:33:48+00:00"
   }
 ]
