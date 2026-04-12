@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg32901",
+    "title": "199",
+    "description": "199 : https://www.amazon.in/dp/B0GWNMH921?social_share=cm_sw_r_cso_wa_apin_dp_F6RAAKFMR30S2KG36CMF&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0GWNMH921?social_share=cm_sw_r_cso_wa_apin_dp_F6RAAKFMR30S2KG36CMF&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0GWNMH921?social_share=cm_sw_r_cso_wa_apin_dp_F6RAAKFMR30S2KG36CMF&tag=bestpricezo0f-21",
+        "label": "199"
+      }
+    ],
+    "raw_text": "199 : https://www.amazon.in/dp/B0GWNMH921?social_share=cm_sw_r_cso_wa_apin_dp_F6RAAKFMR30S2KG36CMF&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0GWNMH921?social_share=cm_sw_r_cso_wa_apin_dp_F6RAAKFMR30S2KG36CMF&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_32901.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-12T11:34:35+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0GWNMH921?social_share=cm_sw_r_cso_wa_apin_dp_F6RAAKFMR30S2KG36CMF&tag=bestpricezo0f-21",
+    "date_iso": "2026-04-12T11:34:35+00:00"
+  },
+  {
     "id": "msg32899",
     "title": "Up to 86% Off on Branded Perfumes Starting @₹199🔥🔥🔥🔥",
     "description": "Myntra | UPTO 86% Off on Branded Perfumes Starting @₹199🔥🔥🔥🔥 🔗🔗Links : https://myntr.in/zrCGFP",
@@ -9370,29 +9390,5 @@
     "date_obj": "2026-04-04T19:33:48+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DX7BPTXP?th=1&tag=bestpricezo0f-21",
     "date_iso": "2026-04-04T19:33:48+00:00"
-  },
-  {
-    "id": "msg32243",
-    "title": "53% Off",
-    "description": "Flipkart | 53% Off - Samsung 400 W Bluetooth Soundbar At Rs.13,990 Regular Rs.18,760 https://fkrt.co/8Qxd47",
-    "shortlink": "https://fkrt.co/8Qxd47",
-    "urls": [
-      {
-        "url": "",
-        "label": "53% Off - Samsung 400 W Bluetooth Soundbar At Rs.13,990"
-      },
-      {
-        "url": "https://fkrt.co/8Qxd47",
-        "label": "Regular Rs.18,760"
-      }
-    ],
-    "raw_text": "Flipkart | 53% Off - Samsung 400 W Bluetooth Soundbar At Rs.13,990\n\nRegular Rs.18,760\n\n https://fkrt.co/8Qxd47",
-    "final_url": "https://fkrt.co/8Qxd47",
-    "local_image": "assets/images/tgmsg_32243.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-04-04T19:37:16+00:00",
-    "buy_link": "https://fkrt.co/8Qxd47",
-    "date_iso": "2026-04-04T19:37:16+00:00"
   }
 ]
