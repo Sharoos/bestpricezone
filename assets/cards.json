@@ -1,5 +1,85 @@
 [
   {
+    "id": "msg33002",
+    "title": "Livon Hair Serum, 100 ml @131",
+    "description": "Amazon | Livon Hair Serum, 100 ml @131 https://www.amazon.in/dp/B07GVT58MX?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B07GVT58MX?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B07GVT58MX?tag=bestpricezo0f-21",
+        "label": "Livon Hair Serum, 100 ml @131"
+      }
+    ],
+    "raw_text": "Amazon | Livon Hair Serum, 100 ml @131\n\nhttps://www.amazon.in/dp/B07GVT58MX?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B07GVT58MX?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_33002.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-13T18:53:06+00:00",
+    "buy_link": "https://www.amazon.in/dp/B07GVT58MX?tag=bestpricezo0f-21",
+    "date_iso": "2026-04-13T18:53:06+00:00"
+  },
+  {
+    "id": "msg33005",
+    "title": "GEAR Bags & Backpacks Starting from @229",
+    "description": "Flipkart | GEAR Bags & Backpacks Starting from @229 https://fkrt.co/yPdfPB",
+    "shortlink": "https://fkrt.co/yPdfPB",
+    "urls": [
+      {
+        "url": "https://fkrt.co/yPdfPB",
+        "label": "GEAR Bags & Backpacks Starting from @229"
+      }
+    ],
+    "raw_text": "Flipkart | GEAR Bags & Backpacks Starting from @229\n\nhttps://fkrt.co/yPdfPB",
+    "final_url": "https://fkrt.co/yPdfPB",
+    "local_image": "assets/images/tgmsg_33005.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-04-13T19:10:42+00:00",
+    "buy_link": "https://fkrt.co/yPdfPB",
+    "date_iso": "2026-04-13T19:10:42+00:00"
+  },
+  {
+    "id": "msg33007",
+    "title": "Lee Cooper Analog Black Dial Men's Watch",
+    "description": "Amazon | Lee Cooper Analog Black Dial Men's Watch-LC07525.651 @4,159 https://www.amazon.in/dp/B0C6R3G4VR?smid=A1JFLV2BUSJ5AK&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0C6R3G4VR?smid=A1JFLV2BUSJ5AK&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0C6R3G4VR?smid=A1JFLV2BUSJ5AK&tag=bestpricezo0f-21",
+        "label": "Lee Cooper Analog Black Dial Men's Watch-LC07525.651 @4,159"
+      }
+    ],
+    "raw_text": "Amazon | Lee Cooper Analog Black Dial Men's Watch-LC07525.651 @4,159\n\nhttps://www.amazon.in/dp/B0C6R3G4VR?smid=A1JFLV2BUSJ5AK&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0C6R3G4VR?smid=A1JFLV2BUSJ5AK&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_33007.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-13T19:52:12+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0C6R3G4VR?smid=A1JFLV2BUSJ5AK&tag=bestpricezo0f-21",
+    "date_iso": "2026-04-13T19:52:12+00:00"
+  },
+  {
+    "id": "msg33008",
+    "title": "French Connection French Connection Women's Ella Analog Watch @1,498",
+    "description": "Amazon | French Connection French Connection Women's Ella Analog Watch @1,498 https://www.amazon.in/dp/B0B2K3ZJV9?psc=1&th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0B2K3ZJV9?psc=1&th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0B2K3ZJV9?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "French Connection French Connection Women's Ella Analog Watch @1,498"
+      }
+    ],
+    "raw_text": "Amazon | French Connection French Connection Women's Ella Analog Watch @1,498\n\nhttps://www.amazon.in/dp/B0B2K3ZJV9?psc=1&th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0B2K3ZJV9?psc=1&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_33008.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-13T19:53:15+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0B2K3ZJV9?psc=1&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-04-13T19:53:15+00:00"
+  },
+  {
     "id": "msg32995",
     "title": "Up to. 70% Off On Raymond, Park Avenue & Parx Clothing",
     "description": "Ajio | Upto. 70% Off On Raymond, Park Avenue & Parx Clothing. Shirts : Trousers : Tshirts : Jeans : Women : 💰 Bonus : Earn 10% AJIO Super Cash on Every Order!!!",
@@ -9178,101 +9258,5 @@
     "date_obj": "2026-04-06T14:46:33+00:00",
     "buy_link": "https://www.amazon.in/dp/B0GTR35753?th=1&tag=bestpricezo0f-21",
     "date_iso": "2026-04-06T14:46:33+00:00"
-  },
-  {
-    "id": "msg32347",
-    "title": "TIARAA Get Any 3 Bracelets @ 199 INR (Shipping free)",
-    "description": "TIARAA Loot : Get Any 3 Bracelets @ 199 INR (Shipping free) ✅ Apply Coupon : LOOT3 Link :",
-    "shortlink": "https://bitli.in/jmlV95K",
-    "urls": [
-      {
-        "url": "https://bitli.in/jmlV95K",
-        "label": "Get Any 3 Bracelets @ 199 INR (Shipping free)"
-      }
-    ],
-    "raw_text": "TIARAA  Loot : Get Any 3 Bracelets @ 199 INR (Shipping free)\n\n✅ Apply Coupon : LOOT3\n\nLink : https://bitli.in/jmlV95K",
-    "final_url": "https://bitli.in/jmlV95K",
-    "local_image": "assets/images/tgmsg_32347.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-04-06T13:32:58+00:00",
-    "buy_link": "https://bitli.in/jmlV95K",
-    "date_iso": "2026-04-06T13:32:58+00:00"
-  },
-  {
-    "id": "msg32348",
-    "title": "Apply ₹1000 Off + ₹3500 Off With Axis Credit Card",
-    "description": "Hisense 1.5 Ton 3 Inverter Split AC At 24,990 Apply ₹1000 Off Coupon + ₹3500 Off With Axis Credit Card",
-    "shortlink": "https://www.amazon.in/dp/B0GD67K1DW?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0GD67K1DW?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "Hisense 1.5 Ton 3 Inverter Split AC At 24,990"
-      }
-    ],
-    "raw_text": "Hisense 1.5 Ton 3 Inverter Split AC At 24,990\n\nhttps://www.amazon.in/dp/B0GD67K1DW?psc=1&th=1&tag=bestpricezo0f-21\n\nApply ₹1000 Off Coupon + ₹3500 Off With Axis Credit Card",
-    "final_url": "https://www.amazon.in/dp/B0GD67K1DW?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_32348.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-06T13:39:10+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0GD67K1DW?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-06T13:39:10+00:00"
-  },
-  {
-    "id": "msg32349",
-    "title": "● Baby beds from 145",
-    "description": "Shopsy - low prices on toddlers products🔥🔥 ● Baby powder from 29 -  - ● Baby swings from 207 - ● Baby food from 284 -",
-    "shortlink": "https://bilty.co/cQmYau",
-    "urls": [
-      {
-        "url": "",
-        "label": "low prices on toddlers products🔥🔥"
-      },
-      {
-        "url": "https://bilty.co/cQmYau",
-        "label": "● Baby powder from 29"
-      },
-      {
-        "url": "https://bilty.co/B4UJb4",
-        "label": "● Baby beds from 145"
-      },
-      {
-        "url": "https://bilty.co/XYvP1b",
-        "label": "● Baby swings from 207"
-      },
-      {
-        "url": "https://bilty.co/es5HRM",
-        "label": "● Baby food from 284"
-      }
-    ],
-    "raw_text": "Shopsy  - low prices on toddlers products🔥🔥\n\n● Baby powder from 29 - https://bilty.co/cQmYau   \n● Baby beds from 145 - https://bilty.co/B4UJb4\n● Baby swings from 207 - https://bilty.co/XYvP1b\n● Baby food from 284 - https://bilty.co/es5HRM",
-    "final_url": "https://bilty.co/cQmYau",
-    "local_image": "assets/images/tgmsg_32349.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-04-06T13:45:53+00:00",
-    "buy_link": "https://bilty.co/cQmYau",
-    "date_iso": "2026-04-06T13:45:53+00:00"
-  },
-  {
-    "id": "msg32342",
-    "title": "Lakmé Peach Milk Moisturiser SPF 30 with 2% Pro",
-    "description": "Amazon | Lakmé Peach Milk Moisturiser SPF 30 with 2% Pro-Ceramide 200ml @204 🔗 https://www.amazon.in/dp/B079NHBD4D?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B079NHBD4D?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B079NHBD4D?tag=bestpricezo0f-21",
-        "label": "Lakmé Peach Milk Moisturiser SPF 30 with 2% Pro-Ceramide 200ml @204"
-      }
-    ],
-    "raw_text": "Amazon | Lakmé Peach Milk Moisturiser SPF 30 with 2% Pro-Ceramide 200ml @204\n\n🔗 https://www.amazon.in/dp/B079NHBD4D?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B079NHBD4D?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_32342.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-06T11:32:30+00:00",
-    "buy_link": "https://www.amazon.in/dp/B079NHBD4D?tag=bestpricezo0f-21",
-    "date_iso": "2026-04-06T11:32:30+00:00"
   }
 ]
