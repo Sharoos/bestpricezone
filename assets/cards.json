@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg33164",
+    "title": "Brand Presto! Clean Plastic Spin Mop Durable @ ₹1,079",
+    "description": "Amazon Brand  Presto! Clean Plastic Spin Mop | Durable  @ ₹1,079 👉https://www.amazon.in/dp/B0F8C6XLDF?psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0F8C6XLDF?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0F8C6XLDF?psc=1&tag=bestpricezo0f-21",
+        "label": "Amazon Brand Presto! Clean Plastic Spin Mop | Durable @ ₹1,079"
+      }
+    ],
+    "raw_text": "Amazon Brand  Presto! Clean Plastic Spin Mop | Durable  @ ₹1,079 \n\n👉https://www.amazon.in/dp/B0F8C6XLDF?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F8C6XLDF?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_33164.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-15T17:41:24+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F8C6XLDF?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-04-15T17:41:24+00:00"
+  },
+  {
     "id": "msg33155",
     "title": "💰 ₹299",
     "description": "🔥MYNTRA LIMITED HOUR TECH DEALS – GRAB FAST! 🔥 🔌 boAt Charger  👉 🎧 boAt Wired Headphones 💰 ₹549 👉 🎧 boAt Bassheads  👉 🎧 boAt Airdopes 91 💰 ₹799 👉",
@@ -9242,25 +9262,5 @@
     "date_obj": "2026-04-08T14:33:14+00:00",
     "buy_link": "https://fktr.in/zXPxwUA",
     "date_iso": "2026-04-08T14:33:14+00:00"
-  },
-  {
-    "id": "msg32539",
-    "title": "🧔Trimmers – Starting from ₹331",
-    "description": "Flipkart | 🧔Trimmers – Starting from ₹331 🔗https://fkrt.co/textg2",
-    "shortlink": "https://fkrt.co/textg2",
-    "urls": [
-      {
-        "url": "https://fkrt.co/textg2",
-        "label": "🧔Trimmers – Starting from ₹331"
-      }
-    ],
-    "raw_text": "Flipkart | 🧔Trimmers – Starting from ₹331\n\n🔗https://fkrt.co/textg2",
-    "final_url": "https://fkrt.co/textg2",
-    "local_image": "assets/images/tgmsg_32539.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-04-08T15:05:17+00:00",
-    "buy_link": "https://fkrt.co/textg2",
-    "date_iso": "2026-04-08T15:05:17+00:00"
   }
 ]
