@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg33185",
+    "title": "2️⃣ Women — Moda Rapido Kurtas @ ₹199",
+    "description": "Myntra | 1️⃣ Men — Moda Rapido Men’s T-Shirts @ ₹147 👉  👉 3️⃣ Women — Moda Rapido Tops @ ₹199 👉",
+    "shortlink": "https://myntr.in/4qgvaK",
+    "urls": [
+      {
+        "url": "https://myntr.in/4qgvaK",
+        "label": "1️⃣ Men — Moda Rapido Men’s T-Shirts @ ₹147"
+      },
+      {
+        "url": "https://myntr.in/x7qcCk",
+        "label": "2️⃣ Women — Moda Rapido Kurtas @ ₹199"
+      },
+      {
+        "url": "https://myntr.in/6QZPuX",
+        "label": "3️⃣ Women — Moda Rapido Tops @ ₹199"
+      }
+    ],
+    "raw_text": "Myntra | 1️⃣ Men — Moda Rapido Men’s T-Shirts @ ₹147\n👉 https://myntr.in/4qgvaK\n\n2️⃣ Women — Moda Rapido Kurtas @ ₹199\n👉 https://myntr.in/x7qcCk\n\n3️⃣ Women — Moda Rapido Tops @ ₹199\n👉 https://myntr.in/6QZPuX",
+    "final_url": "https://myntr.in/4qgvaK",
+    "local_image": "assets/images/tgmsg_33185.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-04-16T03:33:55+00:00",
+    "buy_link": "https://myntr.in/4qgvaK",
+    "date_iso": "2026-04-16T03:33:55+00:00"
+  },
+  {
     "id": "msg33171",
     "title": "FAAASSSTTT 🔥",
     "description": "Flipkart | FAAASSSTTT 🔥 6,999₹ https://fkrt.co/dhnPLd",
@@ -9210,25 +9238,5 @@
     "date_obj": "2026-04-09T04:45:57+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DRKM7XH7/ref=cm_sw_r_as_gl_apa_gl_i_dl_788Y180SHVBF26GZTS8T?tag=bestpricezo0f-21",
     "date_iso": "2026-04-09T04:45:57+00:00"
-  },
-  {
-    "id": "msg32558",
-    "title": "Bagrry's Crunchy Dark Chocolate Muesli 700g @299",
-    "description": "Amazon | Bagrry's Crunchy Dark Chocolate Muesli 700g @299 https://www.amazon.in/dp/B00LA5OGXG?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B00LA5OGXG?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B00LA5OGXG?th=1&tag=bestpricezo0f-21",
-        "label": "Bagrry's Crunchy Dark Chocolate Muesli 700g @299"
-      }
-    ],
-    "raw_text": "Amazon | Bagrry's Crunchy Dark Chocolate Muesli 700g @299\n\nhttps://www.amazon.in/dp/B00LA5OGXG?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B00LA5OGXG?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_32558.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-09T04:47:34+00:00",
-    "buy_link": "https://www.amazon.in/dp/B00LA5OGXG?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-09T04:47:34+00:00"
   }
 ]
