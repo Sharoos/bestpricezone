@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg33331",
+    "title": "⚡️ Stock Limited – Don’t Miss This Crazy Deal! 🚀",
+    "description": "🔥 Summer Ready Sale by Beardo 💥 🎁 BUY 2 GET 2 FREE OR 💣 Buy Any 4 at the Price of 2! 🧴 Perfumes • Facewash • Beard Oil • Skincare & More 🔗 Link :",
+    "shortlink": "https://bilty.co/9REs10",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Summer Ready Sale by Beardo 💥"
+      },
+      {
+        "url": "https://bilty.co/9REs10",
+        "label": "🧴 Perfumes • Facewash • Beard Oil • Skincare & More"
+      },
+      {
+        "url": "",
+        "label": "⚡️ Stock Limited – Don’t Miss This Crazy Deal! 🚀"
+      }
+    ],
+    "raw_text": "🔥 Summer Ready Sale by Beardo 💥\n\n🎁 BUY 2 GET 2 FREE\nOR\n💣 Buy Any 4 at the Price of 2!\n\n🧴 Perfumes • Facewash • Beard Oil • Skincare & More\n\n🔗 Link : https://bilty.co/9REs10\n\n⚡️ Stock Limited – Don’t Miss This Crazy Deal! 🚀",
+    "final_url": "https://bilty.co/9REs10",
+    "local_image": "assets/images/tgmsg_33331.jpg",
+    "source_host": "bilty.co",
+    "merchant_label": "Bilty",
+    "date_obj": "2026-04-17T09:05:01+00:00",
+    "buy_link": "https://bilty.co/9REs10",
+    "date_iso": "2026-04-17T09:05:01+00:00"
+  },
+  {
     "id": "msg33318",
     "title": "💰 ₹299",
     "description": "🔥MYNTRA LIMITED HOUR TECH DEALS – GRAB FAST! 🔥 🔌 boAt Charger  👉 🎧 boAt Wired Headphones 💰 ₹549 👉 🎧 boAt Bassheads  👉 🎧 boAt Airdopes 91 💰 ₹799 👉",
@@ -9098,33 +9126,5 @@
     "date_obj": "2026-04-10T12:00:53+00:00",
     "buy_link": "https://bilty.co/ZL42TB",
     "date_iso": "2026-04-10T12:00:53+00:00"
-  },
-  {
-    "id": "msg32703",
-    "title": "Up to 75% Off On Bata Footwea",
-    "description": "Myntra | Upto 75% Off On Bata Footwears Women’s : https://myntr.in/jN8MjW Men’s : https://myntr.in/fbKIKq",
-    "shortlink": "https://myntr.in/jN8MjW",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 75% Off On Bata Footwears"
-      },
-      {
-        "url": "https://myntr.in/jN8MjW",
-        "label": "Women’s"
-      },
-      {
-        "url": "https://myntr.in/fbKIKq",
-        "label": "Men’s"
-      }
-    ],
-    "raw_text": "Myntra | Upto 75% Off On Bata Footwears \n\nWomen’s : https://myntr.in/jN8MjW\nMen’s : https://myntr.in/fbKIKq",
-    "final_url": "https://myntr.in/jN8MjW",
-    "local_image": "assets/images/tgmsg_32703.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-04-10T12:20:13+00:00",
-    "buy_link": "https://myntr.in/jN8MjW",
-    "date_iso": "2026-04-10T12:20:13+00:00"
   }
 ]
