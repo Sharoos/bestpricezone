@@ -1,5 +1,125 @@
 [
   {
+    "id": "msg33397",
+    "title": "Office Chair @3783",
+    "description": "Amazon | Office Chair @3783 https://www.amazon.in/dp/B09XMHY37W?psc=1&th=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B09XMHY37W?psc=1&th=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B09XMHY37W?psc=1&th=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
+        "label": "Office Chair @3783"
+      }
+    ],
+    "raw_text": "Amazon | Office Chair @3783\n\nhttps://www.amazon.in/dp/B09XMHY37W?psc=1&th=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B09XMHY37W?psc=1&th=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_33397.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-17T18:29:14+00:00",
+    "buy_link": "https://www.amazon.in/dp/B09XMHY37W?psc=1&th=1&smid=AXOGFIT0PZZ7G&tag=bestpricezo0f-21",
+    "date_iso": "2026-04-17T18:29:14+00:00"
+  },
+  {
+    "id": "msg33401",
+    "title": "Parachute Advansed Jasmine Coconut Hair Oil, 600ml @194",
+    "description": "Amazon | Parachute Advansed Jasmine Coconut Hair Oil, 600ml @194 https://www.amazon.in/dp/B0FY67CG6W?psc=1&th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0FY67CG6W?psc=1&th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0FY67CG6W?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "Parachute Advansed Jasmine Coconut Hair Oil, 600ml @194"
+      }
+    ],
+    "raw_text": "Amazon | Parachute Advansed Jasmine Coconut Hair Oil, 600ml @194\n \nhttps://www.amazon.in/dp/B0FY67CG6W?psc=1&th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0FY67CG6W?psc=1&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_33401.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-17T18:52:58+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0FY67CG6W?psc=1&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-04-17T18:52:58+00:00"
+  },
+  {
+    "id": "msg33405",
+    "title": "Beardo Perfumes min 70% off",
+    "description": "Myntra | Beardo Perfumes min 70% off Link : https://myntr.in/a3o7cV",
+    "shortlink": "https://myntr.in/a3o7cV",
+    "urls": [
+      {
+        "url": "https://myntr.in/a3o7cV",
+        "label": "Beardo Perfumes min 70% off"
+      }
+    ],
+    "raw_text": "Myntra | Beardo Perfumes min 70% off\n\nLink : https://myntr.in/a3o7cV",
+    "final_url": "https://myntr.in/a3o7cV",
+    "local_image": "assets/images/tgmsg_33405.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-04-17T19:02:02+00:00",
+    "buy_link": "https://myntr.in/a3o7cV",
+    "date_iso": "2026-04-17T19:02:02+00:00"
+  },
+  {
+    "id": "msg33406",
+    "title": "Ikonic hair dryers, straighteners & trimmers min 40% off",
+    "description": "Myntra | Ikonic hair dryers, straighteners & trimmers min 40% off Link : https://myntr.in/SZQ4ag",
+    "shortlink": "https://myntr.in/SZQ4ag",
+    "urls": [
+      {
+        "url": "https://myntr.in/SZQ4ag",
+        "label": "Ikonic hair dryers, straighteners & trimmers min 40% off"
+      }
+    ],
+    "raw_text": "Myntra | Ikonic hair dryers, straighteners & trimmers min 40% off\n\nLink : https://myntr.in/SZQ4ag",
+    "final_url": "https://myntr.in/SZQ4ag",
+    "local_image": "assets/images/tgmsg_33406.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-04-17T19:03:51+00:00",
+    "buy_link": "https://myntr.in/SZQ4ag",
+    "date_iso": "2026-04-17T19:03:51+00:00"
+  },
+  {
+    "id": "msg33407",
+    "title": "Agaro min 50% off on trimmers, hair dryers & Volumize",
+    "description": "Myntra | Agaro min 50% off on trimmers, hair dryers & Volumizers Link : https://myntr.in/ruLUB8",
+    "shortlink": "https://myntr.in/ruLUB8",
+    "urls": [
+      {
+        "url": "https://myntr.in/ruLUB8",
+        "label": "Agaro min 50% off on trimmers, hair dryers & Volumizers"
+      }
+    ],
+    "raw_text": "Myntra | Agaro min 50% off on trimmers, hair dryers & Volumizers\n\nLink : https://myntr.in/ruLUB8",
+    "final_url": "https://myntr.in/ruLUB8",
+    "local_image": "assets/images/tgmsg_33407.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-04-17T19:05:48+00:00",
+    "buy_link": "https://myntr.in/ruLUB8",
+    "date_iso": "2026-04-17T19:05:48+00:00"
+  },
+  {
+    "id": "msg33410",
+    "title": "MILTON Stainless Steel Casserole Set Of 3 @516",
+    "description": "Amazon | MILTON Stainless Steel Casserole Set Of 3 @516 https://www.amazon.in/dp/B0BX91Z8KX?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0BX91Z8KX?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0BX91Z8KX?tag=bestpricezo0f-21",
+        "label": "MILTON Stainless Steel Casserole Set Of 3 @516"
+      }
+    ],
+    "raw_text": "Amazon | MILTON Stainless Steel Casserole Set Of 3 @516\n\nhttps://www.amazon.in/dp/B0BX91Z8KX?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0BX91Z8KX?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_33410.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-17T19:16:36+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0BX91Z8KX?tag=bestpricezo0f-21",
+    "date_iso": "2026-04-17T19:16:36+00:00"
+  },
+  {
     "id": "msg33393",
     "title": "🐻 The Bear House – Flat 70% OFF",
     "description": "🔥FLIPKART MEN’S FASHION MEGA 🔥 💥 Lowest Prices | Top Brands 👖 Jeans – Under ₹449 👉 🧢 Cargo Pants – Under ₹449 👉 👕 SNITCH Clothing – Minimum 60% OFF 👉 👖 URBANO Fashion – Flat 60% OFF 👉  👉 🧥 Shiv Naresh Jackets – Starting…",
@@ -9022,173 +9142,5 @@
     "date_obj": "2026-04-11T08:26:11+00:00",
     "buy_link": "https://myntr.in/a2ha8E",
     "date_iso": "2026-04-11T08:26:11+00:00"
-  },
-  {
-    "id": "msg32809",
-    "title": "🔥XENOR Men Cotton Shirt From ₹202",
-    "description": "Myntra | 🔥XENOR Men Cotton Shirt From ₹202 👉 https://myntr.in/Jh0Ij5",
-    "shortlink": "https://myntr.in/Jh0Ij5",
-    "urls": [
-      {
-        "url": "https://myntr.in/Jh0Ij5",
-        "label": "🔥XENOR Men Cotton Shirt From ₹202"
-      }
-    ],
-    "raw_text": "Myntra | 🔥XENOR Men Cotton Shirt From ₹202\n\n👉 https://myntr.in/Jh0Ij5",
-    "final_url": "https://myntr.in/Jh0Ij5",
-    "local_image": "assets/images/tgmsg_32809.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-04-11T08:36:12+00:00",
-    "buy_link": "https://myntr.in/Jh0Ij5",
-    "date_iso": "2026-04-11T08:36:12+00:00"
-  },
-  {
-    "id": "msg32810",
-    "title": "Silk Sarees — Min 70% Off",
-    "description": "🔥 Flipkart Ethnic Wear  Silk Sarees — From ₹249 Kanjivaram Sarees — Min 70% Off Kanjivaram Sarees — From ₹249 Ready-to-Wear Sarees — Min 70% Off",
-    "shortlink": "https://fkrt.co/KyHWYj",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Flipkart Ethnic Wear"
-      },
-      {
-        "url": "https://fkrt.co/KyHWYj",
-        "label": "Silk Sarees — Min 70% Off"
-      },
-      {
-        "url": "https://fkrt.co/0tufSI",
-        "label": "Silk Sarees — From ₹249"
-      },
-      {
-        "url": "https://fkrt.co/zM9fPB",
-        "label": "Kanjivaram Sarees — Min 70% Off"
-      },
-      {
-        "url": "https://fkrt.co/zcoX48",
-        "label": "Kanjivaram Sarees — From ₹249"
-      },
-      {
-        "url": "https://fkrt.co/yajUmA",
-        "label": "to-Wear Sarees — Min 70% Off"
-      }
-    ],
-    "raw_text": "🔥 Flipkart Ethnic Wear  \n\nSilk Sarees — Min 70% Off\nhttps://fkrt.co/KyHWYj\n\nSilk Sarees — From ₹249\nhttps://fkrt.co/0tufSI\n\nKanjivaram Sarees — Min 70% Off\nhttps://fkrt.co/zM9fPB\n\nKanjivaram Sarees — From ₹249\nhttps://fkrt.co/zcoX48\n\nReady-to-Wear Sarees — Min 70% Off\nhttps://fkrt.co/yajUmA",
-    "final_url": "https://fkrt.co/KyHWYj",
-    "local_image": "assets/images/tgmsg_32810.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-04-11T08:51:20+00:00",
-    "buy_link": "https://fkrt.co/KyHWYj",
-    "date_iso": "2026-04-11T08:51:20+00:00"
-  },
-  {
-    "id": "msg32812",
-    "title": "⚡️ Stock Limited – Don’t Miss This Crazy Deal! 🚀",
-    "description": "🔥 Summer Ready Sale by Beardo 💥 🎁 BUY 2 GET 2 FREE OR 💣 Buy Any 4 at the Price of 2! 🧴 Perfumes • Facewash • Beard Oil • Skincare & More 🔗 Link :",
-    "shortlink": "https://bilty.co/Efuccj",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Summer Ready Sale by Beardo 💥"
-      },
-      {
-        "url": "https://bilty.co/Efuccj",
-        "label": "🧴 Perfumes • Facewash • Beard Oil • Skincare & More"
-      },
-      {
-        "url": "",
-        "label": "⚡️ Stock Limited – Don’t Miss This Crazy Deal! 🚀"
-      }
-    ],
-    "raw_text": "🔥 Summer Ready Sale by Beardo 💥\n\n🎁 BUY 2 GET 2 FREE\nOR\n💣 Buy Any 4 at the Price of 2!\n\n🧴 Perfumes • Facewash • Beard Oil • Skincare & More\n\n🔗 Link : https://bilty.co/Efuccj\n\n⚡️ Stock Limited – Don’t Miss This Crazy Deal! 🚀",
-    "final_url": "https://bilty.co/Efuccj",
-    "local_image": "assets/images/tgmsg_32812.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-04-11T09:01:25+00:00",
-    "buy_link": "https://bilty.co/Efuccj",
-    "date_iso": "2026-04-11T09:01:25+00:00"
-  },
-  {
-    "id": "msg32803",
-    "title": "At An Effective Price Of Rs. 2999 Only. (With Offer)",
-    "description": "Amazon | JBL Wave Beam 2 Ear Buds Wireless At An Effective Price Of Rs. 2999 Only. (With Coupon Offer)",
-    "shortlink": "https://www.amazon.in/dp/B0DHL93XCN?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DHL93XCN?th=1&tag=bestpricezo0f-21",
-        "label": "JBL Wave Beam 2 Ear Buds Wireless"
-      }
-    ],
-    "raw_text": "Amazon | JBL Wave Beam 2 Ear Buds Wireless\n\nAt An Effective Price Of Rs. 2999 Only. (With Coupon Offer)\n\nhttps://www.amazon.in/dp/B0DHL93XCN?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DHL93XCN?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_32803.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-11T07:36:19+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DHL93XCN?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-11T07:36:19+00:00"
-  },
-  {
-    "id": "msg32801",
-    "title": "",
-    "description": "Loot https://myntr.it/kizgeXj",
-    "shortlink": "https://myntr.it/kizgeXj",
-    "urls": [
-      {
-        "url": "https://myntr.it/kizgeXj",
-        "label": "Loot"
-      }
-    ],
-    "raw_text": "Loot https://myntr.it/kizgeXj",
-    "final_url": "https://myntr.it/kizgeXj",
-    "local_image": "assets/images/tgmsg_32801.jpg",
-    "source_host": "myntr.it",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-04-11T06:59:18+00:00",
-    "buy_link": "https://myntr.it/kizgeXj",
-    "date_iso": "2026-04-11T06:59:18+00:00"
-  },
-  {
-    "id": "msg32799",
-    "title": "Sale is Live !!!",
-    "description": "Ajio  AX Min 40%: Superdry Min 50%: Tommy Hilfiger Calvin Klein Min 40%: USPA Min 55% : Levis Min 60% :",
-    "shortlink": "https://ajiio.co/YLZ6rO",
-    "urls": [
-      {
-        "url": "",
-        "label": "Ajio Sale is Live !!!"
-      },
-      {
-        "url": "https://ajiio.co/YLZ6rO",
-        "label": "AX Min 40%"
-      },
-      {
-        "url": "https://ajiio.co/SYqRzc",
-        "label": "Superdry Min 50%"
-      },
-      {
-        "url": "https://ajiio.co/17KgO7",
-        "label": "Tommy Hilfiger Calvin Klein Min 40%"
-      },
-      {
-        "url": "https://ajiio.co/So4WgV",
-        "label": "USPA Min 55%"
-      },
-      {
-        "url": "https://ajiio.co/dh9sBp",
-        "label": "Levis Min 60%"
-      }
-    ],
-    "raw_text": "Ajio Sale is Live !!!\nAX Min 40%: \nhttps://ajiio.co/YLZ6rO\n\nSuperdry Min 50%: \nhttps://ajiio.co/SYqRzc\n\nTommy Hilfiger Calvin Klein Min 40%: \nhttps://ajiio.co/17KgO7\n\nUSPA Min 55% : \nhttps://ajiio.co/So4WgV\n\nLevis Min 60% :\nhttps://ajiio.co/dh9sBp",
-    "final_url": "https://ajiio.co/YLZ6rO",
-    "local_image": "assets/images/tgmsg_32799.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-04-11T06:02:38+00:00",
-    "buy_link": "https://ajiio.co/YLZ6rO",
-    "date_iso": "2026-04-11T06:02:38+00:00"
   }
 ]
