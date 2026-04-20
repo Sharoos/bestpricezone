@@ -1,5 +1,41 @@
 [
   {
+    "id": "msg33593",
+    "title": "Highlander Min 75% Off",
+    "description": "Myntra | Vishudh Ethnic Wear Under 399 👉 Tokyo Talkies Under 199 👉 Tokyo Talkies Under 299 👉  👉 Highlander Min 80% Off 👉",
+    "shortlink": "https://myntr.in/YRWDXl",
+    "urls": [
+      {
+        "url": "https://myntr.in/YRWDXl",
+        "label": "Vishudh Ethnic Wear Under 399"
+      },
+      {
+        "url": "https://myntr.in/LYATjx",
+        "label": "Tokyo Talkies Under 199"
+      },
+      {
+        "url": "https://myntr.in/ggTvRR",
+        "label": "Tokyo Talkies Under 299"
+      },
+      {
+        "url": "https://myntr.in/CUqNDV",
+        "label": "Highlander Min 75% Off"
+      },
+      {
+        "url": "https://myntr.in/QdT8gY",
+        "label": "Highlander Min 80% Off"
+      }
+    ],
+    "raw_text": "Myntra | Vishudh Ethnic Wear Under 399\n👉https://myntr.in/YRWDXl\n\nTokyo Talkies Under 199\n👉https://myntr.in/LYATjx\n\nTokyo Talkies Under 299 \n👉https://myntr.in/ggTvRR\n\nHighlander Min 75% Off\n👉https://myntr.in/CUqNDV\n\nHighlander Min 80% Off\n👉https://myntr.in/QdT8gY",
+    "final_url": "https://myntr.in/YRWDXl",
+    "local_image": "assets/images/tgmsg_33593.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-04-20T04:46:10+00:00",
+    "buy_link": "https://myntr.in/YRWDXl",
+    "date_iso": "2026-04-20T04:46:10+00:00"
+  },
+  {
     "id": "msg33590",
     "title": "➕ EXTRA 10% OFF with coupons 🎉",
     "description": "✨MYNTRA HOME DECOR STEALS – STARTING @ JUST ₹99! 🏡💫 🕯️ String Lights | Showpieces | Candles 💥 Starting from just ₹99  🔗 Shop Now:",
@@ -9218,29 +9254,5 @@
     "date_obj": "2026-04-13T17:16:07+00:00",
     "buy_link": "https://myntr.in/FIjoOf",
     "date_iso": "2026-04-13T17:16:07+00:00"
-  },
-  {
-    "id": "msg32994",
-    "title": "Miraggio Min 50%",
-    "description": "Ajio | Miraggio Min 50% https://ajiio.co/agvCSQ Soch Min 60 https://ajiio.co/piakAd",
-    "shortlink": "https://ajiio.co/agvCSQ",
-    "urls": [
-      {
-        "url": "https://ajiio.co/agvCSQ",
-        "label": "Miraggio Min 50%"
-      },
-      {
-        "url": "https://ajiio.co/piakAd",
-        "label": "Soch Min 60"
-      }
-    ],
-    "raw_text": "Ajio | Miraggio Min 50%\nhttps://ajiio.co/agvCSQ\n\nSoch Min 60\nhttps://ajiio.co/piakAd",
-    "final_url": "https://ajiio.co/agvCSQ",
-    "local_image": "assets/images/tgmsg_32994.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-04-13T17:33:17+00:00",
-    "buy_link": "https://ajiio.co/agvCSQ",
-    "date_iso": "2026-04-13T17:33:17+00:00"
   }
 ]
