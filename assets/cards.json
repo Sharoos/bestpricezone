@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg33937",
+    "title": "2) Apply 3% Off &",
+    "description": "Amazon | Aristocrat 8 Wheels Spinner Trolley (Set Of 2) @2539 1) Collect 10% Cashback : 2) Apply 3% Off Coupon & Buy :",
+    "shortlink": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.B2KZ4DBJCXTZE?rdpf=en&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.B2KZ4DBJCXTZE?rdpf=en&tag=bestpricezo0f-21",
+        "label": "1) Collect 10% Cashback"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0D4S1FB4K?th=1&tag=bestpricezo0f-21",
+        "label": "Aristocrat 8 Wheels Spinner Trolley (Set Of 2) @2539"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0C5DMCHLC?th=1&tag=bestpricezo0f-21",
+        "label": "Aristocrat 8 Wheels Spinner Trolley (Set Of 2) @2539"
+      }
+    ],
+    "raw_text": "Amazon | Aristocrat 8 Wheels Spinner Trolley (Set Of 2) @2539\n\n1) Collect 10% Cashback : https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.B2KZ4DBJCXTZE?rdpf=en&tag=bestpricezo0f-21\n\n2) Apply 3% Off Coupon & Buy : \nhttps://www.amazon.in/dp/B0D4S1FB4K?th=1&tag=bestpricezo0f-21 \nhttps://www.amazon.in/dp/B0C5DMCHLC?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.B2KZ4DBJCXTZE?rdpf=en&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_33937.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-23T10:03:36+00:00",
+    "buy_link": "https://www.amazon.in/h/rewards/dp/amzn1.rewards.rewardAd.B2KZ4DBJCXTZE?rdpf=en&tag=bestpricezo0f-21",
+    "date_iso": "2026-04-23T10:03:36+00:00"
+  },
+  {
     "id": "msg33929",
     "title": "Cello Sandwich Toaster at Rs.279",
     "description": "Amazon | Cello Sandwich Toaster at Rs.279 🔗 https://www.amazon.in/dp/B07YQ5SN4H?psc=1&tag=bestpricezo0f-21",
@@ -9626,25 +9654,5 @@
     "date_obj": "2026-04-17T05:28:34+00:00",
     "buy_link": "https://fktr.in/qRF0a79",
     "date_iso": "2026-04-17T05:28:34+00:00"
-  },
-  {
-    "id": "msg33315",
-    "title": "Up to 85% Off on Red Tape Footwear @329",
-    "description": "Flipkart | Upto 85% Off on Red Tape Footwear @329 👉Link : https://fkrt.co/iP4FkK",
-    "shortlink": "https://fkrt.co/iP4FkK",
-    "urls": [
-      {
-        "url": "https://fkrt.co/iP4FkK",
-        "label": "Upto 85% Off on Red Tape Footwear @329"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 85% Off on Red Tape Footwear @329\n\n👉Link : https://fkrt.co/iP4FkK",
-    "final_url": "https://fkrt.co/iP4FkK",
-    "local_image": "assets/images/tgmsg_33315.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-04-17T05:40:53+00:00",
-    "buy_link": "https://fkrt.co/iP4FkK",
-    "date_iso": "2026-04-17T05:40:53+00:00"
   }
 ]
