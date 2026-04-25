@@ -1,5 +1,97 @@
 [
   {
+    "id": "msg34154",
+    "title": "Shopsy Curtains (5ft) [Min.2]",
+    "description": "Shopsy GRAB : Curtains (5ft) [Min.2] ₹101 : https://bilty.co/SsQODR ₹105 : https://bilty.co/zs7NTd ₹109 : https://bilty.co/qWdLCS ₹110 : https://bilty.co/fslMg4 ₹113 : https://bilty.co/hXplmG ₹112 :…",
+    "shortlink": "https://bilty.co/SsQODR",
+    "urls": [
+      {
+        "url": "",
+        "label": "Curtains (5ft) [Min.2]"
+      },
+      {
+        "url": "https://bilty.co/SsQODR",
+        "label": "₹101"
+      },
+      {
+        "url": "https://bilty.co/zs7NTd",
+        "label": "₹105"
+      },
+      {
+        "url": "https://bilty.co/qWdLCS",
+        "label": "₹109"
+      },
+      {
+        "url": "https://bilty.co/fslMg4",
+        "label": "₹110"
+      },
+      {
+        "url": "https://bilty.co/hXplmG",
+        "label": "₹113"
+      },
+      {
+        "url": "https://bilty.co/Gi3dS7",
+        "label": "₹112"
+      }
+    ],
+    "raw_text": "Shopsy GRAB : Curtains (5ft) [Min.2]\n\n₹101 : https://bilty.co/SsQODR\n₹105 : https://bilty.co/zs7NTd\n₹109 : https://bilty.co/qWdLCS\n₹110 : https://bilty.co/fslMg4\n₹113 : https://bilty.co/hXplmG\n₹112 : https://bilty.co/Gi3dS7",
+    "final_url": "https://bilty.co/SsQODR",
+    "local_image": "assets/images/tgmsg_34154.jpg",
+    "source_host": "bilty.co",
+    "merchant_label": "Bilty",
+    "date_obj": "2026-04-25T17:44:22+00:00",
+    "buy_link": "https://bilty.co/SsQODR",
+    "date_iso": "2026-04-25T17:44:22+00:00"
+  },
+  {
+    "id": "msg34155",
+    "title": "Shopsy Kurta Dupatta With Palazzo ₹252",
+    "description": "Shopsy | Kurta Dupatta With Palazzo  ₹252 🔗https://bilty.co/bQGWhD 🔗https://bilty.co/RzHQb6 🔗https://bilty.co/aNvPEl",
+    "shortlink": "https://bilty.co/bQGWhD",
+    "urls": [
+      {
+        "url": "https://bilty.co/bQGWhD",
+        "label": "Kurta Dupatta With Palazzo ₹252"
+      },
+      {
+        "url": "https://bilty.co/RzHQb6",
+        "label": "Kurta Dupatta With Palazzo ₹252"
+      },
+      {
+        "url": "https://bilty.co/aNvPEl",
+        "label": "Kurta Dupatta With Palazzo ₹252"
+      }
+    ],
+    "raw_text": "Shopsy | Kurta Dupatta With Palazzo  ₹252\n\n🔗https://bilty.co/bQGWhD\n🔗https://bilty.co/RzHQb6\n🔗https://bilty.co/aNvPEl",
+    "final_url": "https://bilty.co/bQGWhD",
+    "local_image": "assets/images/tgmsg_34155.jpg",
+    "source_host": "bilty.co",
+    "merchant_label": "Bilty",
+    "date_obj": "2026-04-25T17:50:19+00:00",
+    "buy_link": "https://bilty.co/bQGWhD",
+    "date_iso": "2026-04-25T17:50:19+00:00"
+  },
+  {
+    "id": "msg34156",
+    "title": "Lavie Signature Women's Mono Georgia Crossbody Sling Bag @949",
+    "description": "Amazon | Lavie Signature Women's Mono Georgia Crossbody Sling Bag @949 🔗 https://www.amazon.in/dp/B0GLWPDXXM?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0GLWPDXXM?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0GLWPDXXM?tag=bestpricezo0f-21",
+        "label": "Lavie Signature Women's Mono Georgia Crossbody Sling Bag @949"
+      }
+    ],
+    "raw_text": "Amazon | Lavie Signature Women's Mono Georgia Crossbody Sling Bag @949\n\n🔗 https://www.amazon.in/dp/B0GLWPDXXM?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0GLWPDXXM?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_34156.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-25T18:04:20+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0GLWPDXXM?tag=bestpricezo0f-21",
+    "date_iso": "2026-04-25T18:04:20+00:00"
+  },
+  {
     "id": "msg34150",
     "title": "Safari Genius Theo 8 Wheels 66cm Medium Size Check",
     "description": "Amazon | Safari Genius Theo 8 Wheels 66cm Medium Size Check-in Trolley Bag @2,139 🔗 https://www.amazon.in/dp/B0CRB5NWHW?tag=bestpricezo0f-21",
@@ -9362,125 +9454,5 @@
     "date_obj": "2026-04-19T08:25:56+00:00",
     "buy_link": "https://www.amazon.in/dp/B08NW2J2T6/ref=cm_sw_r_as_gl_apa_gl_i_NWJYD6XSWJVT9W5XQRCE?tag=bestpricezo0f-21",
     "date_iso": "2026-04-19T08:25:56+00:00"
-  },
-  {
-    "id": "msg33520",
-    "title": "88% Off On Locomotive Clothing",
-    "description": "Myntra  88% Off On Locomotive Clothing. TShirt : https://myntr.in/Faci81 Shirt : https://myntr.in/PRYOQ8 Jeans : https://myntr.in/BBygiw SweatShirt : https://myntr.in/vtkdTO Trackpants : https://myntr.in/UIPIgC More :…",
-    "shortlink": "https://myntr.in/Faci81",
-    "urls": [
-      {
-        "url": "",
-        "label": "Myntra 88% Off On Locomotive Clothing"
-      },
-      {
-        "url": "https://myntr.in/Faci81",
-        "label": "TShirt"
-      },
-      {
-        "url": "https://myntr.in/PRYOQ8",
-        "label": "Shirt"
-      },
-      {
-        "url": "https://myntr.in/BBygiw",
-        "label": "Jeans"
-      },
-      {
-        "url": "https://myntr.in/vtkdTO",
-        "label": "SweatShirt"
-      },
-      {
-        "url": "https://myntr.in/UIPIgC",
-        "label": "Trackpants"
-      },
-      {
-        "url": "https://myntr.in/8UEJWc",
-        "label": "More"
-      }
-    ],
-    "raw_text": "Myntra  88% Off On Locomotive Clothing.\n\nTShirt : https://myntr.in/Faci81\nShirt : https://myntr.in/PRYOQ8\nJeans : https://myntr.in/BBygiw\nSweatShirt : https://myntr.in/vtkdTO\nTrackpants : https://myntr.in/UIPIgC\nMore : https://myntr.in/8UEJWc",
-    "final_url": "https://myntr.in/Faci81",
-    "local_image": "assets/images/tgmsg_33520.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-04-19T06:23:45+00:00",
-    "buy_link": "https://myntr.in/Faci81",
-    "date_iso": "2026-04-19T06:23:45+00:00"
-  },
-  {
-    "id": "msg33521",
-    "title": "₹250 Gift Card + ₹1,000+ First Spend Benefit",
-    "description": "SBI Flipkart Credit Card – 1st Year Free Apply Now 👉 ----------------------------------------------- • No Joining Fee (Limited Time Offer) • 5% Cashback on Flipkart (incl. Shopsy & Travel) + 12% on Cleartrip • 7.5%…",
-    "shortlink": "https://bitli.in/sB8Rw1d",
-    "urls": [
-      {
-        "url": "",
-        "label": "SBI Flipkart Credit Card – 1st Year Free"
-      },
-      {
-        "url": "https://bitli.in/sB8Rw1d",
-        "label": "Apply Now 👉"
-      },
-      {
-        "url": "",
-        "label": "No Joining Fee (Limited Time Offer)"
-      },
-      {
-        "url": "",
-        "label": "5% Cashback on Flipkart (incl. Shopsy & Travel) + 12% on Cleartrip"
-      },
-      {
-        "url": "",
-        "label": "7.5% Cashback on Myntra"
-      },
-      {
-        "url": "",
-        "label": "4% Cashback on Zomato, Uber, Netmeds & PVR"
-      },
-      {
-        "url": "",
-        "label": "1% Unlimited Cashback on other spends"
-      },
-      {
-        "url": "",
-        "label": "₹250 Flipkart Gift Card + ₹1,000+ First Spend Benefits"
-      },
-      {
-        "url": "",
-        "label": "1% Fuel Surcharge Waiver (₹500–₹4000, cap ₹400)"
-      },
-      {
-        "url": "",
-        "label": "Limited Time Offer Till 30th April"
-      }
-    ],
-    "raw_text": "SBI Flipkart Credit Card – 1st Year Free\n\nApply Now 👉 https://bitli.in/sB8Rw1d\n-----------------------------------------------\n• No Joining Fee (Limited Time Offer)\n• 5% Cashback on Flipkart (incl. Shopsy & Travel) + 12% on Cleartrip\n• 7.5% Cashback on Myntra\n• 4% Cashback on Zomato, Uber, Netmeds & PVR\n• 1% Unlimited Cashback on other spends\n• ₹250 Flipkart Gift Card + ₹1,000+ First Spend Benefits\n• 1% Fuel Surcharge Waiver (₹500–₹4000, cap ₹400)\n\nNote Fees: ₹500 + GST (Waived on ₹3.5L yearly spend)\n\n• Limited Time Offer Till 30th April.",
-    "final_url": "https://bitli.in/sB8Rw1d",
-    "local_image": "assets/images/tgmsg_33521.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-04-19T06:26:39+00:00",
-    "buy_link": "https://bitli.in/sB8Rw1d",
-    "date_iso": "2026-04-19T06:26:39+00:00"
-  },
-  {
-    "id": "msg33522",
-    "title": "199",
-    "description": "199 : https://www.amazon.in/dp/B0GMSBZP3Y?social_share=cm_sw_r_cso_wa_apin_dp_MVAK3SW67YBE0Z1S63H8&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0GMSBZP3Y?social_share=cm_sw_r_cso_wa_apin_dp_MVAK3SW67YBE0Z1S63H8&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0GMSBZP3Y?social_share=cm_sw_r_cso_wa_apin_dp_MVAK3SW67YBE0Z1S63H8&tag=bestpricezo0f-21",
-        "label": "199"
-      }
-    ],
-    "raw_text": "199 : https://www.amazon.in/dp/B0GMSBZP3Y?social_share=cm_sw_r_cso_wa_apin_dp_MVAK3SW67YBE0Z1S63H8&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0GMSBZP3Y?social_share=cm_sw_r_cso_wa_apin_dp_MVAK3SW67YBE0Z1S63H8&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_33522.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-19T06:44:26+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0GMSBZP3Y?social_share=cm_sw_r_cso_wa_apin_dp_MVAK3SW67YBE0Z1S63H8&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-19T06:44:26+00:00"
   }
 ]
