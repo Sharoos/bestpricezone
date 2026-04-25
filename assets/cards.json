@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg34163",
+    "title": "64% Off",
+    "description": "Amazon | 64% Off - GreenFinity Kishmish ,500Gm At  Rs.249 https://www.amazon.in/dp/B08X519P4J?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B08X519P4J?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B08X519P4J?th=1&tag=bestpricezo0f-21",
+        "label": "64% Off - GreenFinity Kishmish ,500Gm At Rs.249"
+      }
+    ],
+    "raw_text": "Amazon | 64% Off - GreenFinity Kishmish ,500Gm At  Rs.249\n\nhttps://www.amazon.in/dp/B08X519P4J?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B08X519P4J?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_34163.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-25T18:44:35+00:00",
+    "buy_link": "https://www.amazon.in/dp/B08X519P4J?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-04-25T18:44:35+00:00"
+  },
+  {
     "id": "msg34154",
     "title": "Shopsy Curtains (5ft) [Min.2]",
     "description": "Shopsy GRAB : Curtains (5ft) [Min.2] ₹101 : https://bilty.co/SsQODR ₹105 : https://bilty.co/zs7NTd ₹109 : https://bilty.co/qWdLCS ₹110 : https://bilty.co/fslMg4 ₹113 : https://bilty.co/hXplmG ₹112 :…",
@@ -9434,25 +9454,5 @@
     "date_obj": "2026-04-19T08:10:49+00:00",
     "buy_link": "https://myntr.in/raxlqQ",
     "date_iso": "2026-04-19T08:10:49+00:00"
-  },
-  {
-    "id": "msg33532",
-    "title": "ThriveCo Rosemary Hair Shampoo, 250ml @₹177",
-    "description": "Amazon | ThriveCo Rosemary Hair Shampoo, 250ml @₹177 🔗 https://www.amazon.in/dp/B08NW2J2T6/ref=cm_sw_r_as_gl_apa_gl_i_NWJYD6XSWJVT9W5XQRCE?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B08NW2J2T6/ref=cm_sw_r_as_gl_apa_gl_i_NWJYD6XSWJVT9W5XQRCE?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B08NW2J2T6/ref=cm_sw_r_as_gl_apa_gl_i_NWJYD6XSWJVT9W5XQRCE?tag=bestpricezo0f-21",
-        "label": "ThriveCo Rosemary Hair Shampoo, 250ml @₹177"
-      }
-    ],
-    "raw_text": "Amazon | ThriveCo Rosemary Hair Shampoo, 250ml @₹177\n\n🔗 https://www.amazon.in/dp/B08NW2J2T6/ref=cm_sw_r_as_gl_apa_gl_i_NWJYD6XSWJVT9W5XQRCE?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B08NW2J2T6/ref=cm_sw_r_as_gl_apa_gl_i_NWJYD6XSWJVT9W5XQRCE?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_33532.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-19T08:25:56+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08NW2J2T6/ref=cm_sw_r_as_gl_apa_gl_i_NWJYD6XSWJVT9W5XQRCE?tag=bestpricezo0f-21",
-    "date_iso": "2026-04-19T08:25:56+00:00"
   }
 ]
