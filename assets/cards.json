@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg34296",
+    "title": "Offer Under Rs 799",
+    "description": "AJIO |💥 Jeans & Trousers 👉Offer: Under Rs 799 ⚡ 💥 Tshirts and Tops 👉Offer: Under Rs 299 ⚡ 💥 Kurtas and Kurtis 👉Offer: Under Rs 399 ⚡",
+    "shortlink": "https://ajiio.co/kdFPej",
+    "urls": [
+      {
+        "url": "",
+        "label": "💥 Jeans & Trousers"
+      },
+      {
+        "url": "https://ajiio.co/kdFPej",
+        "label": "Under Rs 799"
+      },
+      {
+        "url": "",
+        "label": "💥 Tshirts and Tops"
+      },
+      {
+        "url": "https://ajiio.co/xDhin1",
+        "label": "Under Rs 299"
+      },
+      {
+        "url": "",
+        "label": "💥 Kurtas and Kurtis"
+      },
+      {
+        "url": "https://ajiio.co/tj4ObU",
+        "label": "Under Rs 399"
+      }
+    ],
+    "raw_text": "AJIO |💥 Jeans & Trousers \n👉Offer: Under Rs 799 \n⚡https://ajiio.co/kdFPej\n\n💥 Tshirts and Tops \n👉Offer: Under Rs 299 \n⚡https://ajiio.co/xDhin1\n\n💥 Kurtas and Kurtis \n👉Offer: Under Rs 399 \n⚡https://ajiio.co/tj4ObU",
+    "final_url": "https://ajiio.co/kdFPej",
+    "local_image": "assets/images/tgmsg_34296.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-04-27T14:19:44+00:00",
+    "buy_link": "https://ajiio.co/kdFPej",
+    "date_iso": "2026-04-27T14:19:44+00:00"
+  },
+  {
     "id": "msg34287",
     "title": "179",
     "description": "179 : https://www.amazon.in/dp/B0GWXHPNCQ?social_share=cm_sw_r_cso_cp_mwn_dp_9WD87KASYEGCHFSVS589&tag=bestpricezo0f-21",
@@ -9086,25 +9126,5 @@
     "date_obj": "2026-04-20T19:34:48+00:00",
     "buy_link": "https://www.amazon.in/dp/B07JPHN53X?aod=1&tag=bestpricezo0f-21",
     "date_iso": "2026-04-20T19:34:48+00:00"
-  },
-  {
-    "id": "msg33682",
-    "title": "LONGWAY Ventura 8 Inch 200 mm Energy Efficient Exhaust Fan @969",
-    "description": "Amazon | LONGWAY Ventura 8 Inch 200 mm Energy Efficient Exhaust Fan @969 https://www.amazon.in/dp/B0F3CRDGMZ?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0F3CRDGMZ?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0F3CRDGMZ?th=1&tag=bestpricezo0f-21",
-        "label": "LONGWAY Ventura 8 Inch 200 mm Energy Efficient Exhaust Fan @969"
-      }
-    ],
-    "raw_text": "Amazon | LONGWAY Ventura 8 Inch 200 mm Energy Efficient Exhaust Fan @969\n\nhttps://www.amazon.in/dp/B0F3CRDGMZ?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0F3CRDGMZ?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_33682.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-20T19:52:55+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0F3CRDGMZ?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-20T19:52:55+00:00"
   }
 ]
