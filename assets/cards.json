@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg34325",
+    "title": "Up to 88% OFF on Biba Women's Clothing",
+    "description": "👉 Myntra : Upto 88% OFF on Biba Women's Clothing 🔗 https://myntr.in/0GEDw8",
+    "shortlink": "https://myntr.in/0GEDw8",
+    "urls": [
+      {
+        "url": "https://myntr.in/0GEDw8",
+        "label": "Upto 88% OFF on Biba Women's Clothing"
+      }
+    ],
+    "raw_text": "👉 Myntra : Upto 88% OFF on Biba Women's Clothing\n \n🔗 https://myntr.in/0GEDw8",
+    "final_url": "https://myntr.in/0GEDw8",
+    "local_image": "assets/images/tgmsg_34325.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-04-28T04:23:26+00:00",
+    "buy_link": "https://myntr.in/0GEDw8",
+    "date_iso": "2026-04-28T04:23:26+00:00"
+  },
+  {
     "id": "msg34322",
     "title": "Wireless Carplay Adaptar 🔥",
     "description": "Amazon | Wireless Carplay Adaptar 🔥 999₹ https://www.amazon.in/dp/B0CLV4J42S?tag=bestpricezo0f-21",
@@ -9086,61 +9106,5 @@
     "date_obj": "2026-04-21T05:15:57+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DQY8WHW7?psc=1&smid=ARENK22K2PQRH&tag=bestpricezo0f-21",
     "date_iso": "2026-04-21T05:15:57+00:00"
-  },
-  {
-    "id": "msg33694",
-    "title": "Up to 60% Off on Top Beauty Products 🔥🔥",
-    "description": "Flipkart : Upto 60% Off on Top Beauty Products 🔥🔥 Nivea: Ponds: Vaseline: Lakme: Park Avenue: Clean & Clear: Everyuth: Yardley London: Denver:",
-    "shortlink": "https://fkrt.co/G98oY3",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 60% Off on Top Beauty Products 🔥🔥"
-      },
-      {
-        "url": "https://fkrt.co/G98oY3",
-        "label": "Nivea"
-      },
-      {
-        "url": "https://fkrt.co/9pORem",
-        "label": "Ponds"
-      },
-      {
-        "url": "https://fkrt.co/IDOKs7",
-        "label": "Vaseline"
-      },
-      {
-        "url": "https://fkrt.co/YNJBOF",
-        "label": "Lakme"
-      },
-      {
-        "url": "https://fkrt.co/xRuWAA",
-        "label": "Park Avenue"
-      },
-      {
-        "url": "https://fkrt.co/QYHGDp",
-        "label": "Clean & Clear"
-      },
-      {
-        "url": "https://fkrt.co/67nAtD",
-        "label": "Everyuth"
-      },
-      {
-        "url": "https://fkrt.co/HeEf0f",
-        "label": "Yardley London"
-      },
-      {
-        "url": "https://fkrt.co/mXmiro",
-        "label": "Denver"
-      }
-    ],
-    "raw_text": "Flipkart : Upto 60% Off on Top Beauty Products 🔥🔥\n\nNivea: https://fkrt.co/G98oY3\nPonds: https://fkrt.co/9pORem\nVaseline: https://fkrt.co/IDOKs7\nLakme: https://fkrt.co/YNJBOF\nPark Avenue: https://fkrt.co/xRuWAA\nClean & Clear: https://fkrt.co/QYHGDp\nEveryuth: https://fkrt.co/67nAtD\nYardley London: https://fkrt.co/HeEf0f\nDenver: https://fkrt.co/mXmiro",
-    "final_url": "https://fkrt.co/G98oY3",
-    "local_image": "assets/images/tgmsg_33694.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-04-21T05:34:46+00:00",
-    "buy_link": "https://fkrt.co/G98oY3",
-    "date_iso": "2026-04-21T05:34:46+00:00"
   }
 ]
