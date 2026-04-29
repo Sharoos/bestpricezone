@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg34402",
+    "title": "Hair Fall Bhringaraja Shampoo 340ml @220",
+    "description": "Amazon | Himalaya Anti-Hair Fall Bhringaraja Shampoo 340ml @220 https://www.amazon.in/dp/B006G84U56?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B006G84U56?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B006G84U56?th=1&tag=bestpricezo0f-21",
+        "label": "Himalaya Anti-Hair Fall Bhringaraja Shampoo 340ml @220"
+      }
+    ],
+    "raw_text": "Amazon | Himalaya Anti-Hair Fall Bhringaraja Shampoo 340ml @220\n\nhttps://www.amazon.in/dp/B006G84U56?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B006G84U56?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_34402.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-29T03:45:51+00:00",
+    "buy_link": "https://www.amazon.in/dp/B006G84U56?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-04-29T03:45:51+00:00"
+  },
+  {
     "id": "msg34392",
     "title": "Up to 70% Off On Branded Beauty Product",
     "description": "Myntra : Upto 70% Off On Branded Beauty Products. Lifebuoy : Pond's : Vaseline : Nivea : Lakmé :",
@@ -9214,29 +9234,5 @@
     "date_obj": "2026-04-21T19:10:57+00:00",
     "buy_link": "https://bilty.co/Sunsyt",
     "date_iso": "2026-04-21T19:10:57+00:00"
-  },
-  {
-    "id": "msg33774",
-    "title": "89% Off",
-    "description": "Amazon | 89% Off - Rice Moisturizer & Face Wash Combo At Rs.353 Regular Rs.630 https://www.amazon.in/dp/B0D277X2Y2?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0D277X2Y2?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "89% Off - Rice Moisturizer & Face Wash Combo At Rs.353"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0D277X2Y2?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-        "label": "Regular Rs.630"
-      }
-    ],
-    "raw_text": "Amazon | 89% Off - Rice Moisturizer & Face Wash Combo At Rs.353\n\nRegular Rs.630\n\nhttps://www.amazon.in/dp/B0D277X2Y2?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0D277X2Y2?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_33774.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-21T19:10:59+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0D277X2Y2?psc=1&th=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-21T19:10:59+00:00"
   }
 ]
