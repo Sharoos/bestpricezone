@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg34505",
+    "title": "White Abstract Shaped Engineered Wood Coffee Table @9953",
+    "description": "Myntra | THEGASBH White Abstract Shaped Engineered Wood Coffee Table @9953 🔗 Link : https://myntr.in/lIf333",
+    "shortlink": "https://myntr.in/lIf333",
+    "urls": [
+      {
+        "url": "",
+        "label": "THEGASBH"
+      },
+      {
+        "url": "https://myntr.in/lIf333",
+        "label": "White Abstract Shaped Engineered Wood Coffee Table @9953"
+      }
+    ],
+    "raw_text": "Myntra | THEGASBH\nWhite Abstract Shaped Engineered Wood Coffee Table @9953\n\n🔗 Link : https://myntr.in/lIf333",
+    "final_url": "https://myntr.in/lIf333",
+    "local_image": "assets/images/tgmsg_34505.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-04-30T09:20:31+00:00",
+    "buy_link": "https://myntr.in/lIf333",
+    "date_iso": "2026-04-30T09:20:31+00:00"
+  },
+  {
+    "id": "msg34508",
+    "title": "🔥 Casual Shoes For Men @ ₹245",
+    "description": "Shopsy  - 🔥  Casual Shoes For Men @ ₹245 🔗 https://bilty.co/arU4gj 🔗 https://bilty.co/6wTwvs",
+    "shortlink": "https://bilty.co/arU4gj",
+    "urls": [
+      {
+        "url": "https://bilty.co/arU4gj",
+        "label": "🔥 Casual Shoes For Men @ ₹245"
+      },
+      {
+        "url": "https://bilty.co/6wTwvs",
+        "label": "🔥 Casual Shoes For Men @ ₹245"
+      }
+    ],
+    "raw_text": "Shopsy  - 🔥  Casual Shoes For Men @ ₹245\n\n🔗 https://bilty.co/arU4gj\n\n🔗 https://bilty.co/6wTwvs",
+    "final_url": "https://bilty.co/arU4gj",
+    "local_image": "assets/images/tgmsg_34508.jpg",
+    "source_host": "bilty.co",
+    "merchant_label": "Bilty",
+    "date_obj": "2026-04-30T10:10:13+00:00",
+    "buy_link": "https://bilty.co/arU4gj",
+    "date_iso": "2026-04-30T10:10:13+00:00"
+  },
+  {
     "id": "msg34494",
     "title": "Flat 79% Off on Safari Pentagon Pro 8 Wheels Cabin Trolley Bag @₹1,899",
     "description": "Amazon | Flat 79% Off on Safari Pentagon Pro 8 Wheels Cabin Trolley Bag @₹1,899 🔗 https://www.amazon.in/dp/B097BH338H?th=1&smid=AXOGFIT0PZZ7G&language=en_IN&tag=bestpricezo0f-21",
@@ -8986,49 +9034,5 @@
     "date_obj": "2026-04-23T05:29:50+00:00",
     "buy_link": "https://bitli.in/zsj55RE",
     "date_iso": "2026-04-23T05:29:50+00:00"
-  },
-  {
-    "id": "msg33918",
-    "title": "Portronics Worldtag Item Finder @₹599",
-    "description": "Amazon | Portronics Worldtag Item Finder @₹599 https://www.amazon.in/dp/B0DJH1MCWF?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DJH1MCWF?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DJH1MCWF?tag=bestpricezo0f-21",
-        "label": "Portronics Worldtag Item Finder @₹599"
-      }
-    ],
-    "raw_text": "Amazon | Portronics Worldtag Item Finder @₹599\n\nhttps://www.amazon.in/dp/B0DJH1MCWF?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DJH1MCWF?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_33918.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-23T05:51:09+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DJH1MCWF?tag=bestpricezo0f-21",
-    "date_iso": "2026-04-23T05:51:09+00:00"
-  },
-  {
-    "id": "msg33910",
-    "title": "🛒 Deal Price ₹1399",
-    "description": "Flipkart | BAJAJ New Shakti 3HD HA Handi With IB 3 L Inner Lid Induction Bottom Pressure Cooker 🛒 Deal Price : ₹1399 👉",
-    "shortlink": "https://fkrt.co/FJos0s",
-    "urls": [
-      {
-        "url": "",
-        "label": "BAJAJ New Shakti 3HD HA Handi With IB 3 L Inner Lid Induction Bottom Pressure Cooker"
-      },
-      {
-        "url": "https://fkrt.co/FJos0s",
-        "label": "🛒 Deal Price : ₹1399"
-      }
-    ],
-    "raw_text": "Flipkart | BAJAJ New Shakti 3HD HA Handi With IB 3 L Inner Lid Induction Bottom Pressure Cooker\n\n🛒 Deal Price : ₹1399\n\n👉https://fkrt.co/FJos0s",
-    "final_url": "https://fkrt.co/FJos0s",
-    "local_image": "assets/images/tgmsg_33910.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-04-23T03:37:27+00:00",
-    "buy_link": "https://fkrt.co/FJos0s",
-    "date_iso": "2026-04-23T03:37:27+00:00"
   }
 ]
