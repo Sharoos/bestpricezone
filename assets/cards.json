@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg34478",
+    "title": "RR Signature Vento Grill 100mm @599",
+    "description": "Amazon | RR Signature Vento Grill 100mm @599 https://www.amazon.in/dp/B0F9FRKRK6?psc=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0F9FRKRK6?psc=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0F9FRKRK6?psc=1&tag=bestpricezo0f-21",
+        "label": "RR Signature Vento Grill 100mm @599"
+      }
+    ],
+    "raw_text": "Amazon | RR Signature Vento Grill 100mm @599\n\nhttps://www.amazon.in/dp/B0F9FRKRK6?psc=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0F9FRKRK6?psc=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_34478.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-04-30T03:45:43+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0F9FRKRK6?psc=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-04-30T03:45:43+00:00"
+  },
+  {
     "id": "msg34471",
     "title": "Havells Beard & Hair Trimmer 🔥",
     "description": "Amazon | Havells Beard & Hair Trimmer 🔥 699₹ https://www.amazon.in/dp/B0GNRN5619?psc=1&th=1&tag=bestpricezo0f-21",
@@ -9130,29 +9150,5 @@
     "date_obj": "2026-04-22T18:47:11+00:00",
     "buy_link": "https://ajiio.co/ejVBRA",
     "date_iso": "2026-04-22T18:47:11+00:00"
-  },
-  {
-    "id": "msg33851",
-    "title": "American Eagle Min 50%",
-    "description": "Ajio | American Eagle Min 50% https://ajiio.co/3Xi9Lf CLARKS Min 60% https://ajiio.co/JgsGsA",
-    "shortlink": "https://ajiio.co/3Xi9Lf",
-    "urls": [
-      {
-        "url": "https://ajiio.co/3Xi9Lf",
-        "label": "American Eagle Min 50%"
-      },
-      {
-        "url": "https://ajiio.co/JgsGsA",
-        "label": "CLARKS Min 60%"
-      }
-    ],
-    "raw_text": "Ajio | American Eagle Min 50%\nhttps://ajiio.co/3Xi9Lf\n\nCLARKS Min 60%\nhttps://ajiio.co/JgsGsA",
-    "final_url": "https://ajiio.co/3Xi9Lf",
-    "local_image": "assets/images/tgmsg_33851.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-04-22T16:55:58+00:00",
-    "buy_link": "https://ajiio.co/3Xi9Lf",
-    "date_iso": "2026-04-22T16:55:58+00:00"
   }
 ]
