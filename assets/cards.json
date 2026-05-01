@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg34606",
+    "title": "Up to 90% Off On Men Polo T",
+    "description": "AJIO  Upto 90% Off On Men Polo T-Shirts. https://ajiio.co/jZX2Gn Oversized Women's :  https://ajiio.co/kD30pw Men's :  https://ajiio.co/GEIBmj",
+    "shortlink": "https://ajiio.co/jZX2Gn",
+    "urls": [
+      {
+        "url": "https://ajiio.co/jZX2Gn",
+        "label": "AJIO Upto 90% Off On Men Polo T-Shirts"
+      },
+      {
+        "url": "https://ajiio.co/kD30pw",
+        "label": "Women's"
+      },
+      {
+        "url": "https://ajiio.co/GEIBmj",
+        "label": "Men's"
+      }
+    ],
+    "raw_text": "AJIO  Upto 90% Off On Men Polo T-Shirts. \n\nhttps://ajiio.co/jZX2Gn\n\nOversized\nWomen's :  https://ajiio.co/kD30pw\nMen's :  https://ajiio.co/GEIBmj",
+    "final_url": "https://ajiio.co/jZX2Gn",
+    "local_image": "assets/images/tgmsg_34606.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-05-01T14:17:16+00:00",
+    "buy_link": "https://ajiio.co/jZX2Gn",
+    "date_iso": "2026-05-01T14:17:16+00:00"
+  },
+  {
     "id": "msg34599",
     "title": "Deal 58% Off Doctor Extra Soft Lightweight Shoes for Women @ 849",
     "description": "Amazon Grab Deal 58% Off : Doctor Extra Soft Lightweight Shoes for Women @ 849 🔗 Link :",
@@ -9294,33 +9322,5 @@
     "date_obj": "2026-04-24T08:54:11+00:00",
     "buy_link": "https://bilty.co/WZdzgO",
     "date_iso": "2026-04-24T08:54:11+00:00"
-  },
-  {
-    "id": "msg34012",
-    "title": "⚡️ Stock Limited – Don’t Miss This Crazy Deal! 🚀",
-    "description": "🔥 Summer Ready Sale by Beardo 💥 🎁 BUY 2 GET 2 FREE OR 💣 Buy Any 4 at the Price of 2! 🧴 Perfumes • Facewash • Beard Oil • Skincare & More 🔗 Link :",
-    "shortlink": "https://bilty.co/RdyMrn",
-    "urls": [
-      {
-        "url": "",
-        "label": "🔥 Summer Ready Sale by Beardo 💥"
-      },
-      {
-        "url": "https://bilty.co/RdyMrn",
-        "label": "🧴 Perfumes • Facewash • Beard Oil • Skincare & More"
-      },
-      {
-        "url": "",
-        "label": "⚡️ Stock Limited – Don’t Miss This Crazy Deal! 🚀"
-      }
-    ],
-    "raw_text": "🔥 Summer Ready Sale by Beardo 💥\n\n🎁 BUY 2 GET 2 FREE\nOR\n💣 Buy Any 4 at the Price of 2!\n\n🧴 Perfumes • Facewash • Beard Oil • Skincare & More\n\n🔗 Link : https://bilty.co/RdyMrn\n\n⚡️ Stock Limited – Don’t Miss This Crazy Deal! 🚀",
-    "final_url": "https://bilty.co/RdyMrn",
-    "local_image": "assets/images/tgmsg_34012.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-04-24T09:01:09+00:00",
-    "buy_link": "https://bilty.co/RdyMrn",
-    "date_iso": "2026-04-24T09:01:09+00:00"
   }
 ]
