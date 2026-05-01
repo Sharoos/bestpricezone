@@ -1,5 +1,137 @@
 [
   {
+    "id": "msg34570",
+    "title": "Grocery Up to 92% Off",
+    "description": "Flipkart Grocery Loot : Upto 92% Off Link 1 :   https://fktr.in/o5jI6xo Link 2 :   https://fktr.in/fdw2kzG Link 3 :   https://fktr.in/jHENSNq",
+    "shortlink": "https://fktr.in/o5jI6xo",
+    "urls": [
+      {
+        "url": "https://fktr.in/o5jI6xo",
+        "label": "Upto 92% Off"
+      },
+      {
+        "url": "https://fktr.in/fdw2kzG",
+        "label": "Upto 92% Off"
+      },
+      {
+        "url": "https://fktr.in/jHENSNq",
+        "label": "Upto 92% Off"
+      }
+    ],
+    "raw_text": "Flipkart Grocery Loot : Upto 92% Off\n\nLink 1 :   https://fktr.in/o5jI6xo\nLink 2 :   https://fktr.in/fdw2kzG\nLink 3 :   https://fktr.in/jHENSNq",
+    "final_url": "https://fktr.in/o5jI6xo",
+    "local_image": "assets/images/tgmsg_34570.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-05-01T07:34:59+00:00",
+    "buy_link": "https://fktr.in/o5jI6xo",
+    "date_iso": "2026-05-01T07:34:59+00:00"
+  },
+  {
+    "id": "msg34571",
+    "title": "80% Off",
+    "description": "Flipkart | 80% Off - boAt Stone 650 10 W Bluetooth Speaker at Rs.999 -  https://fkrt.co/Qevnuz",
+    "shortlink": "https://fkrt.co/Qevnuz",
+    "urls": [
+      {
+        "url": "https://fkrt.co/Qevnuz",
+        "label": "80% Off - boAt Stone 650 10 W Bluetooth Speaker at Rs.999"
+      }
+    ],
+    "raw_text": "Flipkart | 80% Off - boAt Stone 650 10 W Bluetooth Speaker at Rs.999\n\n -  https://fkrt.co/Qevnuz",
+    "final_url": "https://fkrt.co/Qevnuz",
+    "local_image": "assets/images/tgmsg_34571.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-05-01T07:49:36+00:00",
+    "buy_link": "https://fkrt.co/Qevnuz",
+    "date_iso": "2026-05-01T07:49:36+00:00"
+  },
+  {
+    "id": "msg34572",
+    "title": "Cargo Pants Starts @199",
+    "description": "AJIO : Cargo Pants Starts @199 Men : https://ajiio.in/z6p1xmH Women : https://ajiio.in/gttglPd",
+    "shortlink": "https://ajiio.in/z6p1xmH",
+    "urls": [
+      {
+        "url": "",
+        "label": "Cargo Pants Starts @199"
+      },
+      {
+        "url": "https://ajiio.in/z6p1xmH",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.in/gttglPd",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "AJIO : Cargo Pants Starts @199\n \nMen : https://ajiio.in/z6p1xmH \nWomen : https://ajiio.in/gttglPd",
+    "final_url": "https://ajiio.in/z6p1xmH",
+    "local_image": "assets/images/tgmsg_34572.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-05-01T08:26:10+00:00",
+    "buy_link": "https://ajiio.in/z6p1xmH",
+    "date_iso": "2026-05-01T08:26:10+00:00"
+  },
+  {
+    "id": "msg34574",
+    "title": "Cargo Pants Starts @199",
+    "description": "AJIO : Cargo Pants Starts @199 Men : https://ajiio.co/2hGdxM Women : https://ajiio.co/SVUyAh",
+    "shortlink": "https://ajiio.co/2hGdxM",
+    "urls": [
+      {
+        "url": "",
+        "label": "Cargo Pants Starts @199"
+      },
+      {
+        "url": "https://ajiio.co/2hGdxM",
+        "label": "Men"
+      },
+      {
+        "url": "https://ajiio.co/SVUyAh",
+        "label": "Women"
+      }
+    ],
+    "raw_text": "AJIO : Cargo Pants Starts @199\n \nMen : https://ajiio.co/2hGdxM \nWomen : https://ajiio.co/SVUyAh",
+    "final_url": "https://ajiio.co/2hGdxM",
+    "local_image": "assets/images/tgmsg_34574.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-05-01T08:50:20+00:00",
+    "buy_link": "https://ajiio.co/2hGdxM",
+    "date_iso": "2026-05-01T08:50:20+00:00"
+  },
+  {
+    "id": "msg34575",
+    "title": "⚡️ Stock Limited – Don’t Miss This Crazy Deal! 🚀",
+    "description": "🔥 Summer Ready Sale by Beardo 💥 🎁 BUY 2 GET 2 FREE OR 💣 Buy Any 4 at the Price of 2! 🧴 Perfumes • Facewash • Beard Oil • Skincare & More 🔗 Link :",
+    "shortlink": "https://bilty.co/dU3EkM",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥 Summer Ready Sale by Beardo 💥"
+      },
+      {
+        "url": "https://bilty.co/dU3EkM",
+        "label": "🧴 Perfumes • Facewash • Beard Oil • Skincare & More"
+      },
+      {
+        "url": "",
+        "label": "⚡️ Stock Limited – Don’t Miss This Crazy Deal! 🚀"
+      }
+    ],
+    "raw_text": "🔥 Summer Ready Sale by Beardo 💥\n\n🎁 BUY 2 GET 2 FREE\nOR\n💣 Buy Any 4 at the Price of 2!\n\n🧴 Perfumes • Facewash • Beard Oil • Skincare & More\n\n🔗 Link : https://bilty.co/dU3EkM\n\n⚡️ Stock Limited – Don’t Miss This Crazy Deal! 🚀",
+    "final_url": "https://bilty.co/dU3EkM",
+    "local_image": "assets/images/tgmsg_34575.jpg",
+    "source_host": "bilty.co",
+    "merchant_label": "Bilty",
+    "date_obj": "2026-05-01T09:02:04+00:00",
+    "buy_link": "https://bilty.co/dU3EkM",
+    "date_iso": "2026-05-01T09:02:04+00:00"
+  },
+  {
     "id": "msg34563",
     "title": "Up to 80% Off on Branded Perfumes Starting @₹159🔥🔥🔥🔥",
     "description": "Myntra | UPTO 80% Off on Branded Perfumes Starting @₹159🔥🔥🔥🔥 🔗🔗Links : https://myntr.in/tbG6Aa",
@@ -9010,161 +9142,5 @@
     "date_obj": "2026-04-23T12:40:27+00:00",
     "buy_link": "https://www.amazon.in/gp/product/B0DSPBD3R3/ref=ox_sc_act_title_1?tag=bestpricezo0f-21",
     "date_iso": "2026-04-23T12:40:27+00:00"
-  },
-  {
-    "id": "msg33950",
-    "title": "Grocery Up to 92% Off",
-    "description": "Flipkart Grocery Loot : Upto 92% Off Link 1 : Link 2 : Link 3 : Location Sepcific | Check All.",
-    "shortlink": "https://fktr.in/GbC10L2",
-    "urls": [
-      {
-        "url": "https://fktr.in/GbC10L2",
-        "label": "Upto 92% Off"
-      },
-      {
-        "url": "https://fktr.in/Fz7a552",
-        "label": "Upto 92% Off"
-      },
-      {
-        "url": "https://fktr.in/6zv6Ns2",
-        "label": "Upto 92% Off"
-      },
-      {
-        "url": "",
-        "label": "Check All"
-      }
-    ],
-    "raw_text": "Flipkart Grocery Loot : Upto 92% Off\n\nLink 1 :   https://fktr.in/GbC10L2\nLink 2 :   https://fktr.in/Fz7a552\nLink 3 :   https://fktr.in/6zv6Ns2\n\nLocation Sepcific | Check All.",
-    "final_url": "https://fktr.in/GbC10L2",
-    "local_image": "assets/images/tgmsg_33950.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-04-23T12:55:09+00:00",
-    "buy_link": "https://fktr.in/GbC10L2",
-    "date_iso": "2026-04-23T12:55:09+00:00"
-  },
-  {
-    "id": "msg33951",
-    "title": "Campus Men's MASK Running Shoes @649",
-    "description": "Amazon | Campus Men's MASK Running Shoes @649 🔗 https://www.amazon.in/dp/B0FR9J346T?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FR9J346T?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FR9J346T?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Campus Men's MASK Running Shoes @649"
-      }
-    ],
-    "raw_text": "Amazon | Campus Men's MASK Running Shoes @649\n\n🔗 https://www.amazon.in/dp/B0FR9J346T?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FR9J346T?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_33951.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-23T13:10:20+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FR9J346T?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-23T13:10:20+00:00"
-  },
-  {
-    "id": "msg33953",
-    "title": "4 Car Rechargeable Lithium Battery (White) @894",
-    "description": "J K INTERNATIONAL Racing Remote Control Car | Mini High Speed 4*4 Car Rechargeable Lithium Battery (White) @894 https://fktr.in/My1c8p5",
-    "shortlink": "https://fktr.in/My1c8p5",
-    "urls": [
-      {
-        "url": "https://fktr.in/My1c8p5",
-        "label": "J K INTERNATIONAL Racing Remote Control Car | Mini High Speed 4*4 Car Rechargeable Lithium Battery (White) @894"
-      }
-    ],
-    "raw_text": "J K INTERNATIONAL Racing Remote Control Car | Mini High Speed 4*4 Car Rechargeable Lithium Battery (White) @894\n\nhttps://fktr.in/My1c8p5",
-    "final_url": "https://fktr.in/My1c8p5",
-    "local_image": "assets/images/tgmsg_33953.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-04-23T13:36:12+00:00",
-    "buy_link": "https://fktr.in/My1c8p5",
-    "date_iso": "2026-04-23T13:36:12+00:00"
-  },
-  {
-    "id": "msg33954",
-    "title": "Yogaraja Guggulu – ₹170",
-    "description": "💚 Pain Relief Ayurvedic Deals! 🌿 💥 Natural solutions for Muscle Pain, Joint Pain & Headaches 🛍 Best Picks : 👉 Punarnavasava (450ml) – ₹160 🔗 👉  🔗 👉 KM Lepam Ointment – ₹90 🔗 👉 Myaxyl Cream – ₹80 🔗 👉 Balarishta (450ml) –…",
-    "shortlink": "https://bilty.co/pYKHbu",
-    "urls": [
-      {
-        "url": "",
-        "label": "💚 Pain Relief Ayurvedic Deals! 🌿"
-      },
-      {
-        "url": "",
-        "label": "💥 Natural solutions for Muscle Pain, Joint Pain & Headaches"
-      },
-      {
-        "url": "",
-        "label": "🛍 Best Picks"
-      },
-      {
-        "url": "https://bilty.co/pYKHbu",
-        "label": "Punarnavasava (450ml) – ₹160"
-      },
-      {
-        "url": "https://bilty.co/rqZbSJ",
-        "label": "Yogaraja Guggulu – ₹170"
-      },
-      {
-        "url": "https://bilty.co/oewikB",
-        "label": "KM Lepam Ointment – ₹90"
-      },
-      {
-        "url": "https://bilty.co/pKAepQ",
-        "label": "Myaxyl Cream – ₹80"
-      },
-      {
-        "url": "https://bilty.co/oKpcRC",
-        "label": "Balarishta (450ml) – ₹190"
-      },
-      {
-        "url": "https://bilty.co/mvvgLb",
-        "label": "Myaxyl Balm – ₹60"
-      },
-      {
-        "url": "",
-        "label": "✨ Herbal | Effective | Budget Friendly"
-      },
-      {
-        "url": "https://bilty.co/lNmUCj",
-        "label": "🛒 Master"
-      },
-      {
-        "url": "",
-        "label": "⏳ Limited stock – Grab now!"
-      }
-    ],
-    "raw_text": "💚 Pain Relief Ayurvedic Deals! 🌿\n\n💥 Natural solutions for Muscle Pain, Joint Pain & Headaches\n\n🛍 Best Picks :\n👉 Punarnavasava (450ml) – ₹160\n🔗 https://bilty.co/pYKHbu\n\n👉 Yogaraja Guggulu – ₹170\n🔗 https://bilty.co/rqZbSJ\n\n👉 KM Lepam Ointment – ₹90\n🔗 https://bilty.co/oewikB\n\n👉 Myaxyl Cream – ₹80\n🔗 https://bilty.co/pKAepQ\n\n👉 Balarishta (450ml) – ₹190\n🔗 https://bilty.co/oKpcRC\n\n👉 Myaxyl Balm – ₹60\n🔗 https://bilty.co/mvvgLb\n\n✨ Herbal | Effective | Budget Friendly\n\n🛒 Master Link : https://bilty.co/lNmUCj\n\n⏳ Limited stock – Grab now!",
-    "final_url": "https://bilty.co/pYKHbu",
-    "local_image": "assets/images/tgmsg_33954.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-04-23T13:40:24+00:00",
-    "buy_link": "https://bilty.co/pYKHbu",
-    "date_iso": "2026-04-23T13:40:24+00:00"
-  },
-  {
-    "id": "msg33955",
-    "title": "💥 Plastic Frill Basket 3 Litre @ ₹77",
-    "description": "Amazon | 💥 Plastic Frill Basket | 3 Litre @ ₹77 🔗 https://www.amazon.in/dp/B01MQV5UBR?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B01MQV5UBR?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B01MQV5UBR?th=1&tag=bestpricezo0f-21",
-        "label": "💥 Plastic Frill Basket | 3 Litre @ ₹77"
-      }
-    ],
-    "raw_text": "Amazon | 💥 Plastic Frill Basket | 3 Litre @ ₹77\n\n🔗 https://www.amazon.in/dp/B01MQV5UBR?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B01MQV5UBR?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_33955.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-23T14:02:13+00:00",
-    "buy_link": "https://www.amazon.in/dp/B01MQV5UBR?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-23T14:02:13+00:00"
   }
 ]
