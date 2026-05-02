@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg34701",
+    "title": "Steve Madden, Dune London min 50%",
+    "description": "Ajio | Steve Madden, Dune London min 50% https://ajiio.co/SZ6tO5 Guess Min 40% https://ajiio.co/ziML1c",
+    "shortlink": "https://ajiio.co/SZ6tO5",
+    "urls": [
+      {
+        "url": "https://ajiio.co/SZ6tO5",
+        "label": "Steve Madden, Dune London min 50%"
+      },
+      {
+        "url": "https://ajiio.co/ziML1c",
+        "label": "Guess Min 40%"
+      }
+    ],
+    "raw_text": "Ajio | Steve Madden, Dune London min 50%\nhttps://ajiio.co/SZ6tO5\n\nGuess Min 40%\nhttps://ajiio.co/ziML1c",
+    "final_url": "https://ajiio.co/SZ6tO5",
+    "local_image": "assets/images/tgmsg_34701.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-05-02T14:55:53+00:00",
+    "buy_link": "https://ajiio.co/SZ6tO5",
+    "date_iso": "2026-05-02T14:55:53+00:00"
+  },
+  {
     "id": "msg34699",
     "title": "shirt Starts @₹102",
     "description": "🔥Myntra : Branded T-shirt Starts @₹102 Women's T-shirt Starts @102 👉https://myntr.in/q8dHup Men's T-shirt Starts @123 👉https://myntr.in/K06c10",
@@ -9058,25 +9082,5 @@
     "date_obj": "2026-04-25T06:03:38+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DPHZD746?tag=bestpricezo0f-21",
     "date_iso": "2026-04-25T06:03:38+00:00"
-  },
-  {
-    "id": "msg34094",
-    "title": "Park Avenue Men Good Morning Combo Perfume at Rs.240",
-    "description": "Amazon | Park Avenue Men Good Morning Combo Perfume at Rs.240. 🔗 https://www.amazon.in/dp/B06XW8MH73?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B06XW8MH73?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B06XW8MH73?th=1&tag=bestpricezo0f-21",
-        "label": "Park Avenue Men Good Morning Combo Perfume at Rs.240"
-      }
-    ],
-    "raw_text": "Amazon | Park Avenue Men Good Morning Combo Perfume at Rs.240.\n\n🔗 https://www.amazon.in/dp/B06XW8MH73?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B06XW8MH73?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_34094.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-25T06:03:48+00:00",
-    "buy_link": "https://www.amazon.in/dp/B06XW8MH73?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-25T06:03:48+00:00"
   }
 ]
