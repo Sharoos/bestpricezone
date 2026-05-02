@@ -1,5 +1,65 @@
 [
   {
+    "id": "msg34711",
+    "title": "Offer Under Rs 799",
+    "description": "AJIO |💥 Jeans & Trousers 👉Offer: Under Rs 799 ⚡ 💥 Tshirts and Tops 👉Offer: Under Rs 299 ⚡ 💥 Kurtas and Kurtis 👉Offer: Under Rs 399 ⚡",
+    "shortlink": "https://ajiio.co/j6m8fb",
+    "urls": [
+      {
+        "url": "",
+        "label": "💥 Jeans & Trousers"
+      },
+      {
+        "url": "https://ajiio.co/j6m8fb",
+        "label": "Under Rs 799"
+      },
+      {
+        "url": "",
+        "label": "💥 Tshirts and Tops"
+      },
+      {
+        "url": "https://ajiio.co/9HuBbr",
+        "label": "Under Rs 299"
+      },
+      {
+        "url": "",
+        "label": "💥 Kurtas and Kurtis"
+      },
+      {
+        "url": "https://ajiio.co/WoRMHV",
+        "label": "Under Rs 399"
+      }
+    ],
+    "raw_text": "AJIO |💥 Jeans & Trousers \n👉Offer: Under Rs 799 \n⚡https://ajiio.co/j6m8fb\n\n💥 Tshirts and Tops \n👉Offer: Under Rs 299 \n⚡https://ajiio.co/9HuBbr\n\n💥 Kurtas and Kurtis \n👉Offer: Under Rs 399 \n⚡https://ajiio.co/WoRMHV",
+    "final_url": "https://ajiio.co/j6m8fb",
+    "local_image": "assets/images/tgmsg_34711.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-05-02T17:46:30+00:00",
+    "buy_link": "https://ajiio.co/j6m8fb",
+    "date_iso": "2026-05-02T17:46:30+00:00"
+  },
+  {
+    "id": "msg34713",
+    "title": "Pigeon Cruise 1800 watt Induction Cooktop @1,999",
+    "description": "Amazon | Pigeon Cruise 1800 watt Induction Cooktop @1,999 https://www.amazon.in/dp/B01GFTEV5Y?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B01GFTEV5Y?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B01GFTEV5Y?th=1&tag=bestpricezo0f-21",
+        "label": "Pigeon Cruise 1800 watt Induction Cooktop @1,999"
+      }
+    ],
+    "raw_text": "Amazon | Pigeon Cruise 1800 watt Induction Cooktop @1,999\n\nhttps://www.amazon.in/dp/B01GFTEV5Y?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B01GFTEV5Y?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_34713.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-05-02T18:35:59+00:00",
+    "buy_link": "https://www.amazon.in/dp/B01GFTEV5Y?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-05-02T18:35:59+00:00"
+  },
+  {
     "id": "msg34707",
     "title": "Longway 70W Juicer Mixer Grinder @1599",
     "description": "Amazon | Longway 70W Juicer Mixer Grinder @1599 https://www.amazon.in/dp/B0GWCRPGDB?th=1&tag=bestpricezo0f-21",
@@ -8966,45 +9026,5 @@
     "date_obj": "2026-04-25T11:07:22+00:00",
     "buy_link": "https://www.amazon.in/dp/B0CRR82SVB?tag=bestpricezo0f-21",
     "date_iso": "2026-04-25T11:07:22+00:00"
-  },
-  {
-    "id": "msg34115",
-    "title": "Set of 3 CELLO Water Bottles (310ml, 790ml, 2085ml) @309",
-    "description": "Amazon | Set of 3 : CELLO Water Bottles (310ml, 790ml, 2085ml) @309 🔗 https://www.amazon.in/dp/B0DZCVDQJ3?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DZCVDQJ3?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DZCVDQJ3?tag=bestpricezo0f-21",
-        "label": "Set of 3 : CELLO Water Bottles (310ml, 790ml, 2085ml) @309"
-      }
-    ],
-    "raw_text": "Amazon | Set of 3 : CELLO Water Bottles (310ml, 790ml, 2085ml) @309\n\n🔗 https://www.amazon.in/dp/B0DZCVDQJ3?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DZCVDQJ3?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_34115.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-25T11:32:33+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DZCVDQJ3?tag=bestpricezo0f-21",
-    "date_iso": "2026-04-25T11:32:33+00:00"
-  },
-  {
-    "id": "msg34116",
-    "title": "Up to 65% Off On Supples Baby Diaper Pant",
-    "description": "Amazon | Up to 65% Off On Supples Baby Diaper Pants. 🔗…",
-    "shortlink": "https://www.amazon.in/s?k=supples+diaper&rh=n%3A1953352031%2Cp_85%3A10440599031%2Cp_89%3ASupples%2Cp_n_deal_type%3A210770212031&s=price-asc-rank&i=baby&tag=bestpricezo0f-21&",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/s?k=supples+diaper&rh=n%3A1953352031%2Cp_85%3A10440599031%2Cp_89%3ASupples%2Cp_n_deal_type%3A210770212031&s=price-asc-rank&i=baby&tag=bestpricezo0f-21&",
-        "label": "Up to 65% Off On Supples Baby Diaper Pants"
-      }
-    ],
-    "raw_text": "Amazon | Up to 65% Off On Supples Baby Diaper Pants.\n\n🔗 https://www.amazon.in/s?k=supples+diaper&rh=n%3A1953352031%2Cp_85%3A10440599031%2Cp_89%3ASupples%2Cp_n_deal_type%3A210770212031&s=price-asc-rank&i=baby&tag=bestpricezo0f-21&",
-    "final_url": "https://www.amazon.in/s?k=supples+diaper&rh=n%3A1953352031%2Cp_85%3A10440599031%2Cp_89%3ASupples%2Cp_n_deal_type%3A210770212031&s=price-asc-rank&i=baby&tag=bestpricezo0f-21&",
-    "local_image": "assets/images/tgmsg_34116.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-25T11:45:15+00:00",
-    "buy_link": "https://www.amazon.in/s?k=supples+diaper&rh=n%3A1953352031%2Cp_85%3A10440599031%2Cp_89%3ASupples%2Cp_n_deal_type%3A210770212031&s=price-asc-rank&i=baby&tag=bestpricezo0f-21&",
-    "date_iso": "2026-04-25T11:45:15+00:00"
   }
 ]
