@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg34699",
+    "title": "shirt Starts @₹102",
+    "description": "🔥Myntra : Branded T-shirt Starts @₹102 Women's T-shirt Starts @102 👉https://myntr.in/q8dHup Men's T-shirt Starts @123 👉https://myntr.in/K06c10",
+    "shortlink": "https://myntr.in/q8dHup",
+    "urls": [
+      {
+        "url": "",
+        "label": "🔥Myntra : Branded T-shirt Starts @₹102"
+      },
+      {
+        "url": "https://myntr.in/q8dHup",
+        "label": "Women's T-shirt Starts @102"
+      },
+      {
+        "url": "https://myntr.in/K06c10",
+        "label": "Men's T-shirt Starts @123"
+      }
+    ],
+    "raw_text": "🔥Myntra : Branded T-shirt Starts @₹102\n\nWomen's T-shirt Starts @102\n👉https://myntr.in/q8dHup\n\nMen's T-shirt Starts @123\n👉https://myntr.in/K06c10",
+    "final_url": "https://myntr.in/q8dHup",
+    "local_image": "assets/images/tgmsg_34699.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-05-02T14:40:18+00:00",
+    "buy_link": "https://myntr.in/q8dHup",
+    "date_iso": "2026-05-02T14:40:18+00:00"
+  },
+  {
+    "id": "msg34700",
+    "title": "Single Bedsheet At 164",
+    "description": "Single Bedsheet At 164. https://fkrt.co/6bMT6Y",
+    "shortlink": "https://fkrt.co/6bMT6Y",
+    "urls": [
+      {
+        "url": "https://fkrt.co/6bMT6Y",
+        "label": "Single Bedsheet At 164"
+      }
+    ],
+    "raw_text": "Single Bedsheet At 164.\n\nhttps://fkrt.co/6bMT6Y",
+    "final_url": "https://fkrt.co/6bMT6Y",
+    "local_image": "assets/images/tgmsg_34700.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-05-02T14:45:58+00:00",
+    "buy_link": "https://fkrt.co/6bMT6Y",
+    "date_iso": "2026-05-02T14:45:58+00:00"
+  },
+  {
     "id": "msg34687",
     "title": "💥 Up to 50% OFF on trending style",
     "description": "🔥Campus Bold Moves Start Here! 🔥 Step up your style with Campus 👟 s 🛒 Shop Now : Upgrade your sneaker game now!",
@@ -9030,45 +9078,5 @@
     "date_obj": "2026-04-25T06:03:48+00:00",
     "buy_link": "https://www.amazon.in/dp/B06XW8MH73?th=1&tag=bestpricezo0f-21",
     "date_iso": "2026-04-25T06:03:48+00:00"
-  },
-  {
-    "id": "msg34095",
-    "title": "Halonix 12W LED Light Bulb Yellow (3000K) Pack of 2 @143",
-    "description": "Amazon | Halonix 12W LED Light Bulb | Yellow (3000K) |Pack of 2 @143 🔗 https://www.amazon.in/dp/B0DV3RFZS5?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DV3RFZS5?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DV3RFZS5?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Halonix 12W LED Light Bulb | Yellow (3000K) |Pack of 2 @143"
-      }
-    ],
-    "raw_text": "Amazon | Halonix 12W LED Light Bulb | Yellow (3000K) |Pack of 2 @143\n\n🔗 https://www.amazon.in/dp/B0DV3RFZS5?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DV3RFZS5?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_34095.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-25T06:15:11+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DV3RFZS5?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-25T06:15:11+00:00"
-  },
-  {
-    "id": "msg34096",
-    "title": "Greenfinity White Anjeer 250g at Rs.199",
-    "description": "Amazon | Greenfinity White Anjeer 250g  at Rs.199. 🔗 https://www.amazon.in/dp/B0FPNVPRG9?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0FPNVPRG9?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0FPNVPRG9?th=1&tag=bestpricezo0f-21",
-        "label": "Greenfinity White Anjeer 250g at Rs.199"
-      }
-    ],
-    "raw_text": "Amazon | Greenfinity White Anjeer 250g  at Rs.199.\n\n🔗 https://www.amazon.in/dp/B0FPNVPRG9?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0FPNVPRG9?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_34096.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-25T06:31:35+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0FPNVPRG9?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-25T06:31:35+00:00"
   }
 ]
