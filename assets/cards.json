@@ -1,5 +1,57 @@
 [
   {
+    "id": "msg34754",
+    "title": "Up to 70% Off Vero Moda & ONLY Women's Clothing",
+    "description": "Ajio | Upto 70% Off Vero Moda & ONLY Women's Clothing. Dresses : T-shirts : Sweatshirts : Jeans : Trackpants : Shorts : Trousers : Earn Extra 10% AJIO SUPERCASH",
+    "shortlink": "https://ajiio.co/MSYdI3",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 70% Off Vero Moda & ONLY Women's Clothing"
+      },
+      {
+        "url": "https://ajiio.co/MSYdI3",
+        "label": "Dresses"
+      },
+      {
+        "url": "https://ajiio.co/NqlXmV",
+        "label": "T-shirts"
+      },
+      {
+        "url": "https://ajiio.co/g5ixJP",
+        "label": "Sweatshirts"
+      },
+      {
+        "url": "https://ajiio.co/lumDu8",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/OnbdwE",
+        "label": "Trackpants"
+      },
+      {
+        "url": "https://ajiio.co/VkKrSc",
+        "label": "Shorts"
+      },
+      {
+        "url": "https://ajiio.co/S9lZod",
+        "label": "Trousers"
+      },
+      {
+        "url": "",
+        "label": "Earn Extra 10% AJIO SUPERCASH"
+      }
+    ],
+    "raw_text": "Ajio | Upto 70% Off Vero Moda & ONLY Women's Clothing.\n\nDresses : https://ajiio.co/MSYdI3\nT-shirts : https://ajiio.co/NqlXmV\nSweatshirts : https://ajiio.co/g5ixJP\nJeans : https://ajiio.co/lumDu8\nTrackpants : https://ajiio.co/OnbdwE\nShorts : https://ajiio.co/VkKrSc\nTrousers : https://ajiio.co/S9lZod\n\nEarn Extra 10% AJIO SUPERCASH",
+    "final_url": "https://ajiio.co/MSYdI3",
+    "local_image": "assets/images/tgmsg_34754.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-05-03T10:49:16+00:00",
+    "buy_link": "https://ajiio.co/MSYdI3",
+    "date_iso": "2026-05-03T10:49:16+00:00"
+  },
+  {
     "id": "msg34746",
     "title": "Use GAPKIDSDEAL to get up to 78% off. 💸✨",
     "description": "Ajio | Gap Kids 🛍️👶 https://ajiio.co/8SnsLU Use Coupon GAPKIDSDEAL to get up to 78% off. 💸✨",
@@ -8918,33 +8970,5 @@
     "date_obj": "2026-04-25T17:44:22+00:00",
     "buy_link": "https://bilty.co/SsQODR",
     "date_iso": "2026-04-25T17:44:22+00:00"
-  },
-  {
-    "id": "msg34155",
-    "title": "Shopsy Kurta Dupatta With Palazzo ₹252",
-    "description": "Shopsy | Kurta Dupatta With Palazzo  ₹252 🔗https://bilty.co/bQGWhD 🔗https://bilty.co/RzHQb6 🔗https://bilty.co/aNvPEl",
-    "shortlink": "https://bilty.co/bQGWhD",
-    "urls": [
-      {
-        "url": "https://bilty.co/bQGWhD",
-        "label": "Kurta Dupatta With Palazzo ₹252"
-      },
-      {
-        "url": "https://bilty.co/RzHQb6",
-        "label": "Kurta Dupatta With Palazzo ₹252"
-      },
-      {
-        "url": "https://bilty.co/aNvPEl",
-        "label": "Kurta Dupatta With Palazzo ₹252"
-      }
-    ],
-    "raw_text": "Shopsy | Kurta Dupatta With Palazzo  ₹252\n\n🔗https://bilty.co/bQGWhD\n🔗https://bilty.co/RzHQb6\n🔗https://bilty.co/aNvPEl",
-    "final_url": "https://bilty.co/bQGWhD",
-    "local_image": "assets/images/tgmsg_34155.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-04-25T17:50:19+00:00",
-    "buy_link": "https://bilty.co/bQGWhD",
-    "date_iso": "2026-04-25T17:50:19+00:00"
   }
 ]
