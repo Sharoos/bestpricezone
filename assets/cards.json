@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg34770",
+    "title": "Wonderchef Neo Digital Air Fryer 1000W, 2 L @2,860",
+    "description": "Amazon | Wonderchef Neo Digital Air Fryer | 1000W, 2 L @2,860 🔗 https://www.amazon.in/dp/B0DXVXP148?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DXVXP148?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DXVXP148?th=1&tag=bestpricezo0f-21",
+        "label": "Wonderchef Neo Digital Air Fryer | 1000W, 2 L @2,860"
+      }
+    ],
+    "raw_text": "Amazon | Wonderchef Neo Digital Air Fryer | 1000W, 2 L @2,860\n\n🔗 https://www.amazon.in/dp/B0DXVXP148?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DXVXP148?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_34770.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-05-03T17:50:26+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DXVXP148?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-05-03T17:50:26+00:00"
+  },
+  {
     "id": "msg34769",
     "title": "22.5W PD Fast Charging, 1m Length @193",
     "description": "Amazon | XIAOMI Mi Type C Cable - 22.5W PD Fast Charging, 1m Length @193 🔗 https://www.amazon.in/dp/B08DDRGWTJ?tag=bestpricezo0f-21",
@@ -9026,25 +9046,5 @@
     "date_obj": "2026-04-26T07:02:36+00:00",
     "buy_link": "https://ajiio.co/A6VFrO",
     "date_iso": "2026-04-26T07:02:36+00:00"
-  },
-  {
-    "id": "msg34183",
-    "title": "JK International 6 Compartment Drawer @498",
-    "description": "Loot: JK International 6 Compartment Drawer @498 https://fktr.in/vF4Wpy2",
-    "shortlink": "https://fktr.in/vF4Wpy2",
-    "urls": [
-      {
-        "url": "https://fktr.in/vF4Wpy2",
-        "label": "JK International 6 Compartment Drawer @498"
-      }
-    ],
-    "raw_text": "Loot: JK International 6 Compartment Drawer @498\n\nhttps://fktr.in/vF4Wpy2",
-    "final_url": "https://fktr.in/vF4Wpy2",
-    "local_image": "assets/images/tgmsg_34183.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-04-26T07:02:45+00:00",
-    "buy_link": "https://fktr.in/vF4Wpy2",
-    "date_iso": "2026-04-26T07:02:45+00:00"
   }
 ]
