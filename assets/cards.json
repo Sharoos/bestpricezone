@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg34769",
+    "title": "22.5W PD Fast Charging, 1m Length @193",
+    "description": "Amazon | XIAOMI Mi Type C Cable - 22.5W PD Fast Charging, 1m Length @193 🔗 https://www.amazon.in/dp/B08DDRGWTJ?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B08DDRGWTJ?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B08DDRGWTJ?tag=bestpricezo0f-21",
+        "label": "XIAOMI Mi Type C Cable - 22.5W PD Fast Charging, 1m Length @193"
+      }
+    ],
+    "raw_text": "Amazon | XIAOMI Mi Type C Cable - 22.5W PD Fast Charging, 1m Length @193\n\n🔗 https://www.amazon.in/dp/B08DDRGWTJ?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B08DDRGWTJ?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_34769.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-05-03T16:34:57+00:00",
+    "buy_link": "https://www.amazon.in/dp/B08DDRGWTJ?tag=bestpricezo0f-21",
+    "date_iso": "2026-05-03T16:34:57+00:00"
+  },
+  {
     "id": "msg34766",
     "title": "Backpack under 499 /",
     "description": "Myntra | - Backpack under 699/- Belts under 399/- Wallets under 399/- Socks under 399/-",
@@ -9026,45 +9046,5 @@
     "date_obj": "2026-04-26T07:02:45+00:00",
     "buy_link": "https://fktr.in/vF4Wpy2",
     "date_iso": "2026-04-26T07:02:45+00:00"
-  },
-  {
-    "id": "msg34166",
-    "title": "Offer Under Rs 799",
-    "description": "AJIO |💥 Jeans & Trousers 👉Offer: Under Rs 799 ⚡ 💥 Tshirts and Tops 👉Offer: Under Rs 299 ⚡ 💥 Kurtas and Kurtis 👉Offer: Under Rs 399 ⚡",
-    "shortlink": "https://ajiio.co/ur9Uvq",
-    "urls": [
-      {
-        "url": "",
-        "label": "💥 Jeans & Trousers"
-      },
-      {
-        "url": "https://ajiio.co/ur9Uvq",
-        "label": "Under Rs 799"
-      },
-      {
-        "url": "",
-        "label": "💥 Tshirts and Tops"
-      },
-      {
-        "url": "https://ajiio.co/yz9WCm",
-        "label": "Under Rs 299"
-      },
-      {
-        "url": "",
-        "label": "💥 Kurtas and Kurtis"
-      },
-      {
-        "url": "https://ajiio.co/ZaYpWv",
-        "label": "Under Rs 399"
-      }
-    ],
-    "raw_text": "AJIO |💥 Jeans & Trousers \n👉Offer: Under Rs 799 \n⚡https://ajiio.co/ur9Uvq\n\n💥 Tshirts and Tops \n👉Offer: Under Rs 299 \n⚡https://ajiio.co/yz9WCm\n\n💥 Kurtas and Kurtis \n👉Offer: Under Rs 399 \n⚡https://ajiio.co/ZaYpWv",
-    "final_url": "https://ajiio.co/ur9Uvq",
-    "local_image": "assets/images/tgmsg_34166.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-04-26T03:40:17+00:00",
-    "buy_link": "https://ajiio.co/ur9Uvq",
-    "date_iso": "2026-04-26T03:40:17+00:00"
   }
 ]
