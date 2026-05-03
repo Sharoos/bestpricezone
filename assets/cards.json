@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg34765",
+    "title": "FAST 61% off",
+    "description": "* FAST 61% off:* American Tourister 36L Laptop Backpack @ 999 👉 https://fkrt.co/JuPWwq",
+    "shortlink": "https://fkrt.co/JuPWwq",
+    "urls": [
+      {
+        "url": "https://fkrt.co/JuPWwq",
+        "label": "FAST 61% off:* American Tourister 36L Laptop Backpack @ 999"
+      }
+    ],
+    "raw_text": "* FAST 61% off:* American Tourister 36L Laptop Backpack @ 999\n\n👉 https://fkrt.co/JuPWwq",
+    "final_url": "https://fkrt.co/JuPWwq",
+    "local_image": "assets/images/tgmsg_34765.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-05-03T14:19:35+00:00",
+    "buy_link": "https://fkrt.co/JuPWwq",
+    "date_iso": "2026-05-03T14:19:35+00:00"
+  },
+  {
     "id": "msg34759",
     "title": "Women's Footwear Collection Sale",
     "description": "Flipkart |  Women's Shoes Under ₹499 Women's Heels Under ₹499 Women's Flats Under ₹299 Women's Slippers From ₹184 Women's Sandals Under ₹499",
@@ -8994,33 +9014,5 @@
     "date_obj": "2026-04-26T04:10:58+00:00",
     "buy_link": "https://ajiio.co/g9rmM1",
     "date_iso": "2026-04-26T04:10:58+00:00"
-  },
-  {
-    "id": "msg34169",
-    "title": "Up to 89% Off On Libas Women Clothing",
-    "description": "Myntra | Upto 89% Off On Libas Women Clothing. https://myntr.in/kAYVAn Kurta : https://myntr.in/TqYDoE Kurta Sets : https://myntr.in/GIW9n9",
-    "shortlink": "https://myntr.in/kAYVAn",
-    "urls": [
-      {
-        "url": "https://myntr.in/kAYVAn",
-        "label": "Upto 89% Off On Libas Women Clothing"
-      },
-      {
-        "url": "https://myntr.in/TqYDoE",
-        "label": "Kurta"
-      },
-      {
-        "url": "https://myntr.in/GIW9n9",
-        "label": "Kurta Sets"
-      }
-    ],
-    "raw_text": "Myntra | Upto 89% Off On Libas Women Clothing.\n\nhttps://myntr.in/kAYVAn\n\nKurta : https://myntr.in/TqYDoE\nKurta Sets : https://myntr.in/GIW9n9",
-    "final_url": "https://myntr.in/kAYVAn",
-    "local_image": "assets/images/tgmsg_34169.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-04-26T04:26:14+00:00",
-    "buy_link": "https://myntr.in/kAYVAn",
-    "date_iso": "2026-04-26T04:26:14+00:00"
   }
 ]
