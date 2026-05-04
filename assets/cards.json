@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg34873",
+    "title": "81% Off",
+    "description": "Amazon | 81% Off - Basics Mattress Protector At Rs.531 https://www.amazon.in/dp/B0DB28N8WM?smid=A2AL6IVND0I91F&th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DB28N8WM?smid=A2AL6IVND0I91F&th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DB28N8WM?smid=A2AL6IVND0I91F&th=1&tag=bestpricezo0f-21",
+        "label": "81% Off - Basics Mattress Protector At Rs.531"
+      }
+    ],
+    "raw_text": "Amazon | 81% Off - Basics Mattress Protector At Rs.531\n\nhttps://www.amazon.in/dp/B0DB28N8WM?smid=A2AL6IVND0I91F&th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DB28N8WM?smid=A2AL6IVND0I91F&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_34873.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-05-04T20:17:17+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DB28N8WM?smid=A2AL6IVND0I91F&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-05-04T20:17:17+00:00"
+  },
+  {
     "id": "msg34872",
     "title": "69% Off",
     "description": "Amazon | 69% Off - Clean & Clear ,240Ml ( Pack Of 2) At Rs.335 Regualr Rs.431 https://www.amazon.in/dp/B0DX7BPTXP?smid=A15APWRK6P7LBV&th=1&tag=bestpricezo0f-21",
@@ -9222,29 +9242,5 @@
     "date_obj": "2026-04-27T07:02:27+00:00",
     "buy_link": "https://www.amazon.in/Xacton-Management-Protector-Organizer-Children/dp/B09JLZ3N31?language=en_IN&tag=bestpricezo0f-21",
     "date_iso": "2026-04-27T07:02:27+00:00"
-  },
-  {
-    "id": "msg34273",
-    "title": "Pigeon Nonstick Tawa + Pan at ₹640",
-    "description": "Amazon | Pigeon Nonstick Tawa + Pan at ₹640 👉 https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21 Pigeon Knife Set - 4pcs at ₹129 👉 https://www.amazon.in/dp/B0CYZ48MDL?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21",
-        "label": "Pigeon Nonstick Tawa + Pan at ₹640"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0CYZ48MDL?th=1&tag=bestpricezo0f-21",
-        "label": "4pcs at ₹129"
-      }
-    ],
-    "raw_text": "Amazon | Pigeon Nonstick Tawa + Pan at ₹640\n\n👉 https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21\n\nPigeon Knife Set - 4pcs at ₹129\n\n👉 https://www.amazon.in/dp/B0CYZ48MDL?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_34273.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-27T07:10:08+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07KYPZHJ9?psc=1&th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-27T07:10:08+00:00"
   }
 ]
