@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg34940",
+    "title": "Upgrade your home at crazy low prices + EXTRA 20% OFF 😍",
+    "description": "🏡MYNTRA HOME ESSENTIALS MEGA DEALS – GRAB FAST! 🔥✨  🍼 Water Bottles from ₹241 🔗 🪟 Curtains & Sheers from ₹186 🔗 🍱 Containers from ₹228 🔗 ☔ Umbrellas from ₹350 🔗",
+    "shortlink": "https://myntr.in/DRkAI5",
+    "urls": [
+      {
+        "url": "",
+        "label": "🏡MYNTRA HOME ESSENTIALS MEGA DEALS – GRAB FAST! 🔥✨"
+      },
+      {
+        "url": "",
+        "label": "Upgrade your home at crazy low prices + EXTRA 20% OFF 😍"
+      },
+      {
+        "url": "https://myntr.in/DRkAI5",
+        "label": "🍼 Water Bottles from ₹241"
+      },
+      {
+        "url": "https://myntr.in/k14cnq",
+        "label": "🪟 Curtains & Sheers from ₹186"
+      },
+      {
+        "url": "https://myntr.in/GPCSaF",
+        "label": "🍱 Containers from ₹228"
+      },
+      {
+        "url": "https://myntr.in/1Qm9C0",
+        "label": "☔ Umbrellas from ₹350"
+      }
+    ],
+    "raw_text": "🏡MYNTRA HOME ESSENTIALS MEGA DEALS – GRAB FAST! 🔥✨\n\nUpgrade your home at crazy low prices + EXTRA 20% OFF 😍\n\n🍼 Water Bottles from ₹241\n🔗 https://myntr.in/DRkAI5\n\n🪟 Curtains & Sheers from ₹186\n🔗 https://myntr.in/k14cnq\n\n🍱 Containers from ₹228\n🔗 https://myntr.in/GPCSaF\n\n☔ Umbrellas from ₹350\n🔗 https://myntr.in/1Qm9C0",
+    "final_url": "https://myntr.in/DRkAI5",
+    "local_image": "assets/images/tgmsg_34940.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-05-05T16:23:30+00:00",
+    "buy_link": "https://myntr.in/DRkAI5",
+    "date_iso": "2026-05-05T16:23:30+00:00"
+  },
+  {
     "id": "msg34936",
     "title": "24 F1 Car @ 1649",
     "description": "GRAB: LEGO Speed Champions Ferrari SF-24 F1 Car @ 1649 https://fktr.in/LS6eos8",
@@ -9122,33 +9162,5 @@
     "date_obj": "2026-04-28T12:15:27+00:00",
     "buy_link": "https://www.amazon.in/dp/B07KR5P3YD?th=1&tag=bestpricezo0f-21",
     "date_iso": "2026-04-28T12:15:27+00:00"
-  },
-  {
-    "id": "msg34365",
-    "title": "Shopsy 💥 Joy Body Lotion (100 ml) @ ₹89",
-    "description": "Shopsy | 💥 Joy Body Lotion (100 ml) @ ₹89 🔗https://bilty.co/ZGBiv5 🔗https://bilty.co/t2EWC5 Masterlink - https://bilty.co/8GlJZt",
-    "shortlink": "https://bilty.co/ZGBiv5",
-    "urls": [
-      {
-        "url": "https://bilty.co/ZGBiv5",
-        "label": "💥 Joy Body Lotion (100 ml) @ ₹89"
-      },
-      {
-        "url": "https://bilty.co/t2EWC5",
-        "label": "💥 Joy Body Lotion (100 ml) @ ₹89"
-      },
-      {
-        "url": "https://bilty.co/8GlJZt",
-        "label": "Masterlink"
-      }
-    ],
-    "raw_text": "Shopsy | 💥 Joy Body Lotion (100 ml) @ ₹89\n\n🔗https://bilty.co/ZGBiv5\n🔗https://bilty.co/t2EWC5\n\nMasterlink - https://bilty.co/8GlJZt",
-    "final_url": "https://bilty.co/ZGBiv5",
-    "local_image": "assets/images/tgmsg_34365.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-04-28T12:22:59+00:00",
-    "buy_link": "https://bilty.co/ZGBiv5",
-    "date_iso": "2026-04-28T12:22:59+00:00"
   }
 ]
