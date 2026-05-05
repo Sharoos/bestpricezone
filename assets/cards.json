@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg34959",
+    "title": "50%",
+    "description": "Amazon | FAAASSSTTT 🔥 121₹ 50% Coupon https://www.amazon.in/dp/B019ORGD8M?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B019ORGD8M?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B019ORGD8M?th=1&tag=bestpricezo0f-21",
+        "label": "FAAASSSTTT 🔥"
+      }
+    ],
+    "raw_text": "Amazon | FAAASSSTTT 🔥 \n121₹\n50% Coupon \n\nhttps://www.amazon.in/dp/B019ORGD8M?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B019ORGD8M?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_34959.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-05-05T19:10:26+00:00",
+    "buy_link": "https://www.amazon.in/dp/B019ORGD8M?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-05-05T19:10:26+00:00"
+  },
+  {
     "id": "msg34940",
     "title": "Upgrade your home at crazy low prices + EXTRA 20% OFF 😍",
     "description": "🏡MYNTRA HOME ESSENTIALS MEGA DEALS – GRAB FAST! 🔥✨  🍼 Water Bottles from ₹241 🔗 🪟 Curtains & Sheers from ₹186 🔗 🍱 Containers from ₹228 🔗 ☔ Umbrellas from ₹350 🔗",
@@ -9142,25 +9162,5 @@
     "date_obj": "2026-04-28T16:10:10+00:00",
     "buy_link": "https://ajiio.co/PdxNbu",
     "date_iso": "2026-04-28T16:10:10+00:00"
-  },
-  {
-    "id": "msg34364",
-    "title": "Zebronics Wired Keyboard and Mouse Combo @369",
-    "description": "Amazon | Zebronics Wired Keyboard and Mouse Combo @369 🔗 https://www.amazon.in/dp/B07KR5P3YD?th=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B07KR5P3YD?th=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07KR5P3YD?th=1&tag=bestpricezo0f-21",
-        "label": "Zebronics Wired Keyboard and Mouse Combo @369"
-      }
-    ],
-    "raw_text": "Amazon | Zebronics Wired Keyboard and Mouse Combo @369\n\n🔗 https://www.amazon.in/dp/B07KR5P3YD?th=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B07KR5P3YD?th=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_34364.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-04-28T12:15:27+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07KR5P3YD?th=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-04-28T12:15:27+00:00"
   }
 ]
