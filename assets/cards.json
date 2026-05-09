@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg35462",
+    "title": "🧺 Monte Carlo Towels – Min 50% OFF",
+    "description": "🏠✨ MYNTRA HOME DEALS – PREMIUM BRANDS AT BEST PRICES! ✨🏠 🛏️ D'Decor Bedsheets Under ₹999 👉  👉 🛏️ D'Decor Bedsheets Under ₹1399 👉 ✨ Raymond Home Bedsheets Under ₹999 👉 🪟 Raymond Home Curtains Starting ₹499 👉",
+    "shortlink": "https://myntr.in/y3Q7m5",
+    "urls": [
+      {
+        "url": "",
+        "label": "🏠✨ MYNTRA HOME DEALS – PREMIUM BRANDS AT BEST PRICES! ✨🏠"
+      },
+      {
+        "url": "https://myntr.in/y3Q7m5",
+        "label": "🛏️ D'Decor Bedsheets Under ₹999"
+      },
+      {
+        "url": "https://myntr.in/4pwnDc",
+        "label": "🧺 Monte Carlo Towels – Min 50% OFF"
+      },
+      {
+        "url": "https://myntr.in/RS9Ue3",
+        "label": "🛏️ D'Decor Bedsheets Under ₹1399"
+      },
+      {
+        "url": "https://myntr.in/NM9pje",
+        "label": "✨ Raymond Home Bedsheets Under ₹999"
+      },
+      {
+        "url": "https://myntr.in/HofFYZ",
+        "label": "🪟 Raymond Home Curtains Starting ₹499"
+      }
+    ],
+    "raw_text": "🏠✨ MYNTRA HOME DEALS – PREMIUM BRANDS AT BEST PRICES! ✨🏠\n\n🛏️ D'Decor Bedsheets Under ₹999\n👉 https://myntr.in/y3Q7m5\n\n🧺 Monte Carlo Towels – Min 50% OFF\n👉 https://myntr.in/4pwnDc\n\n🛏️ D'Decor Bedsheets Under ₹1399\n👉 https://myntr.in/RS9Ue3\n\n✨ Raymond Home Bedsheets Under ₹999\n👉 https://myntr.in/NM9pje\n\n🪟 Raymond Home Curtains Starting ₹499\n👉 https://myntr.in/HofFYZ",
+    "final_url": "https://myntr.in/y3Q7m5",
+    "local_image": "assets/images/tgmsg_35462.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-05-09T10:02:29+00:00",
+    "buy_link": "https://myntr.in/y3Q7m5",
+    "date_iso": "2026-05-09T10:02:29+00:00"
+  },
+  {
     "id": "msg35445",
     "title": "🛏️ Min. 75% Off on Bedsheet",
     "description": "🔥 Bedsheets Mega Sale on Myntra! 🔥 s 🔗 🛏️ Double Bedsheets Under ₹299 (MRP ₹1799) 🔗",
@@ -9442,25 +9482,5 @@
     "date_obj": "2026-05-03T15:15:30+00:00",
     "buy_link": "https://ajiio.co/fx9X9q",
     "date_iso": "2026-05-03T15:15:30+00:00"
-  },
-  {
-    "id": "msg34765",
-    "title": "FAST 61% off",
-    "description": "* FAST 61% off:* American Tourister 36L Laptop Backpack @ 999 👉 https://fkrt.co/JuPWwq",
-    "shortlink": "https://fkrt.co/JuPWwq",
-    "urls": [
-      {
-        "url": "https://fkrt.co/JuPWwq",
-        "label": "FAST 61% off:* American Tourister 36L Laptop Backpack @ 999"
-      }
-    ],
-    "raw_text": "* FAST 61% off:* American Tourister 36L Laptop Backpack @ 999\n\n👉 https://fkrt.co/JuPWwq",
-    "final_url": "https://fkrt.co/JuPWwq",
-    "local_image": "assets/images/tgmsg_34765.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-05-03T14:19:35+00:00",
-    "buy_link": "https://fkrt.co/JuPWwq",
-    "date_iso": "2026-05-03T14:19:35+00:00"
   }
 ]
