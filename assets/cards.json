@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg35687",
+    "title": "189",
+    "description": "189 : https://www.amazon.in/dp/B0GYM3MCRP?social_share=cm_sw_r_cso_wa_apin_dp_P67XHWHPYX267ZMEPF2Q&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0GYM3MCRP?social_share=cm_sw_r_cso_wa_apin_dp_P67XHWHPYX267ZMEPF2Q&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0GYM3MCRP?social_share=cm_sw_r_cso_wa_apin_dp_P67XHWHPYX267ZMEPF2Q&tag=bestpricezo0f-21",
+        "label": "189"
+      }
+    ],
+    "raw_text": "189 : https://www.amazon.in/dp/B0GYM3MCRP?social_share=cm_sw_r_cso_wa_apin_dp_P67XHWHPYX267ZMEPF2Q&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0GYM3MCRP?social_share=cm_sw_r_cso_wa_apin_dp_P67XHWHPYX267ZMEPF2Q&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_35687.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-05-10T09:52:16+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0GYM3MCRP?social_share=cm_sw_r_cso_wa_apin_dp_P67XHWHPYX267ZMEPF2Q&tag=bestpricezo0f-21",
+    "date_iso": "2026-05-10T09:52:16+00:00"
+  },
+  {
     "id": "msg35671",
     "title": "DNMX Clothing Starts @ Rs.101 + Bank offe",
     "description": "AJIO rs Men’s : T-Shirts : Jeans : Shirts : Sweaters & Cardigans : Sweatshirt & Hoodies : Shorts : Trousers & Jogger : Women's : T-shirts : Shirts & Tops : Jeans & Jeggings : Sweatshirts : Shirts : Jackets :",
@@ -9382,29 +9402,5 @@
     "date_obj": "2026-05-04T14:43:07+00:00",
     "buy_link": "https://www.amazon.in/dp/B0GYM3MCRP?social_share=cm_sw_r_cso_wa_apin_dp_14C1B857CRNPXE27SNA0&tag=bestpricezo0f-21",
     "date_iso": "2026-05-04T14:43:07+00:00"
-  },
-  {
-    "id": "msg34839",
-    "title": "Lifelong Stainless Steel Water Bottle with Sippe",
-    "description": "Amazon | Lifelong Stainless Steel Water Bottle with Sipper -950ml ₹249 🔗 https://www.amazon.in/Lifelong-Stainless-Leak-Proof-Odour-Free-LLWBTSP03/dp/B0F6D23W84?language=en_IN&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/Lifelong-Stainless-Leak-Proof-Odour-Free-LLWBTSP03/dp/B0F6D23W84?language=en_IN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Lifelong Stainless Steel Water Bottle with Sipper -950ml"
-      },
-      {
-        "url": "https://www.amazon.in/Lifelong-Stainless-Leak-Proof-Odour-Free-LLWBTSP03/dp/B0F6D23W84?language=en_IN&tag=bestpricezo0f-21",
-        "label": "₹249 🔗"
-      }
-    ],
-    "raw_text": "Amazon | Lifelong Stainless Steel Water Bottle with Sipper -950ml \n\n₹249 🔗 https://www.amazon.in/Lifelong-Stainless-Leak-Proof-Odour-Free-LLWBTSP03/dp/B0F6D23W84?language=en_IN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/Lifelong-Stainless-Leak-Proof-Odour-Free-LLWBTSP03/dp/B0F6D23W84?language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_34839.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-05-04T14:46:13+00:00",
-    "buy_link": "https://www.amazon.in/Lifelong-Stainless-Leak-Proof-Odour-Free-LLWBTSP03/dp/B0F6D23W84?language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2026-05-04T14:46:13+00:00"
   }
 ]
