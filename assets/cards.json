@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg35711",
+    "title": "Up to 53%Off MIDEA Home Appliances + 7.5% Bank Discount",
+    "description": "Amazon | Upto 53%Off: MIDEA Home Appliances + 7.5% Bank Discount Microwave Oven: Mini Refrigerator:",
+    "shortlink": "https://www.amazon.in/dp/B0DSBJ8ZW4?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 53%Off: MIDEA Home Appliances + 7.5% Bank Discount"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0DSBJ8ZW4?tag=bestpricezo0f-21",
+        "label": "Microwave Oven"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0GK961KY8?th=1&tag=bestpricezo0f-21",
+        "label": "Mini Refrigerator"
+      }
+    ],
+    "raw_text": "Amazon | Upto 53%Off: MIDEA  Home Appliances + 7.5% Bank Discount\n\nMicrowave Oven: https://www.amazon.in/dp/B0DSBJ8ZW4?tag=bestpricezo0f-21\n\nMini Refrigerator: https://www.amazon.in/dp/B0GK961KY8?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DSBJ8ZW4?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_35711.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-05-10T13:13:25+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DSBJ8ZW4?tag=bestpricezo0f-21",
+    "date_iso": "2026-05-10T13:13:25+00:00"
+  },
+  {
     "id": "msg35697",
     "title": "Pluss Dress at 90% off",
     "description": "Myntra  Pluss Dress at 90% off https://myntr.in/30Hz0i",
@@ -9350,29 +9378,5 @@
     "date_obj": "2026-05-04T13:25:23+00:00",
     "buy_link": "https://bilty.co/ZJCnsH",
     "date_iso": "2026-05-04T13:25:23+00:00"
-  },
-  {
-    "id": "msg34835",
-    "title": "Adapter, Lightning to Type C Converter @₹129 🔥🔥",
-    "description": "Amazon  | U.S.B- Adapter, Lightning to Type C Converter @₹129 🔥🔥 🔗Buy Here: https://www.amazon.in/dp/B0DL74DWBM?language=en_IN&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DL74DWBM?language=en_IN&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "U.S.B- Adapter, Lightning to Type C Converter @₹129 🔥🔥"
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0DL74DWBM?language=en_IN&tag=bestpricezo0f-21",
-        "label": "🔗 Here"
-      }
-    ],
-    "raw_text": "Amazon  | U.S.B- Adapter, Lightning to Type C Converter @₹129 🔥🔥\n\n🔗Buy Here: https://www.amazon.in/dp/B0DL74DWBM?language=en_IN&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DL74DWBM?language=en_IN&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_34835.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-05-04T13:46:13+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DL74DWBM?language=en_IN&tag=bestpricezo0f-21",
-    "date_iso": "2026-05-04T13:46:13+00:00"
   }
 ]
