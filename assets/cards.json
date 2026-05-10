@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg35697",
+    "title": "Pluss Dress at 90% off",
+    "description": "Myntra  Pluss Dress at 90% off https://myntr.in/30Hz0i",
+    "shortlink": "https://myntr.in/30Hz0i",
+    "urls": [
+      {
+        "url": "https://myntr.in/30Hz0i",
+        "label": "Myntra Pluss Dress at 90% off"
+      }
+    ],
+    "raw_text": "Myntra  Pluss Dress at 90% off \n\n https://myntr.in/30Hz0i",
+    "final_url": "https://myntr.in/30Hz0i",
+    "local_image": "assets/images/tgmsg_35697.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-05-10T11:57:39+00:00",
+    "buy_link": "https://myntr.in/30Hz0i",
+    "date_iso": "2026-05-10T11:57:39+00:00"
+  },
+  {
     "id": "msg35691",
     "title": "Up to 50%Off on MIDEA Dishwasher Portable Child Lock + 7.5% Bank Discount",
     "description": "Upto 50%Off on MIDEA Dishwasher Portable  Child Lock + 7.5% Bank Discount Link: https://www.amazon.in/s?hidden-keywords=B0DSC7JW1V%7CB0F5VVTQWJ&tag=bestpricezo0f-21&",
@@ -9354,33 +9374,5 @@
     "date_obj": "2026-05-04T13:46:13+00:00",
     "buy_link": "https://www.amazon.in/dp/B0DL74DWBM?language=en_IN&tag=bestpricezo0f-21",
     "date_iso": "2026-05-04T13:46:13+00:00"
-  },
-  {
-    "id": "msg34836",
-    "title": "Up to 62% Off On Dove & Axe Beauty Item",
-    "description": "Amazon | Upto 62% Off On Dove & Axe Beauty Item. Dove :…",
-    "shortlink": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ADove&s=popularity-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 62% Off On Dove & Axe Beauty Item"
-      },
-      {
-        "url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ADove&s=popularity-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
-        "label": "Dove"
-      },
-      {
-        "url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3AAXE&s=popularity-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
-        "label": "Axe"
-      }
-    ],
-    "raw_text": "Amazon | Upto 62% Off On Dove & Axe Beauty Item.\n\nDove : https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ADove&s=popularity-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21\nAxe : https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3AAXE&s=popularity-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ADove&s=popularity-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_34836.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-05-04T14:03:06+00:00",
-    "buy_link": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ADove&s=popularity-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
-    "date_iso": "2026-05-04T14:03:06+00:00"
   }
 ]
