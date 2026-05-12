@@ -1,5 +1,49 @@
 [
   {
+    "id": "msg36006",
+    "title": "70% Off On Lee Cooper Men’s Clothing🔥",
+    "description": "AJIO . Master Link : T-Shirt : Shirts : Jeans : Shorts : Sweatshirts & Hoodies :",
+    "shortlink": "https://ajiio.co/DInUT0",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO 70% Off On Lee Cooper Men’s Clothing🔥"
+      },
+      {
+        "url": "https://ajiio.co/DInUT0",
+        "label": "Master"
+      },
+      {
+        "url": "https://ajiio.co/1BZOsn",
+        "label": "T-Shirt"
+      },
+      {
+        "url": "https://ajiio.co/QzKOiE",
+        "label": "Shirts"
+      },
+      {
+        "url": "https://ajiio.co/mfs3L6",
+        "label": "Jeans"
+      },
+      {
+        "url": "https://ajiio.co/Bhx6XX",
+        "label": "Shorts"
+      },
+      {
+        "url": "https://ajiio.co/HtBRQm",
+        "label": "Sweatshirts & Hoodies"
+      }
+    ],
+    "raw_text": "AJIO  70% Off On Lee Cooper Men’s Clothing🔥. \n\nMaster Link : https://ajiio.co/DInUT0\n\nT-Shirt : https://ajiio.co/1BZOsn\nShirts : https://ajiio.co/QzKOiE\nJeans : https://ajiio.co/mfs3L6\nShorts : https://ajiio.co/Bhx6XX\nSweatshirts & Hoodies : https://ajiio.co/HtBRQm",
+    "final_url": "https://ajiio.co/DInUT0",
+    "local_image": "assets/images/tgmsg_36006.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-05-12T05:41:02+00:00",
+    "buy_link": "https://ajiio.co/DInUT0",
+    "date_iso": "2026-05-12T05:41:02+00:00"
+  },
+  {
     "id": "msg35996",
     "title": "Up to 80% OFF",
     "description": "🔥Myntra | 👕 Snitch Men's Clothing - Up to 80% OFF https://myntr.in/ummcUr",
@@ -9062,33 +9106,5 @@
     "date_obj": "2026-05-06T07:33:21+00:00",
     "buy_link": "https://fktr.in/4nVWfxW",
     "date_iso": "2026-05-06T07:33:21+00:00"
-  },
-  {
-    "id": "msg34967",
-    "title": "Jeans Starts @299",
-    "description": "Myntra : Jeans Starts @299. Men : https://myntr.in/nLn8cg Women : https://myntr.in/ONS5Ds",
-    "shortlink": "https://myntr.in/nLn8cg",
-    "urls": [
-      {
-        "url": "",
-        "label": "Jeans Starts @299"
-      },
-      {
-        "url": "https://myntr.in/nLn8cg",
-        "label": "Men"
-      },
-      {
-        "url": "https://myntr.in/ONS5Ds",
-        "label": "Women"
-      }
-    ],
-    "raw_text": "Myntra : Jeans Starts @299.\n\nMen : https://myntr.in/nLn8cg\nWomen : https://myntr.in/ONS5Ds",
-    "final_url": "https://myntr.in/nLn8cg",
-    "local_image": "assets/images/tgmsg_34967.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-05-06T03:46:03+00:00",
-    "buy_link": "https://myntr.in/nLn8cg",
-    "date_iso": "2026-05-06T03:46:03+00:00"
   }
 ]
