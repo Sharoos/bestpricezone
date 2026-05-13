@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg36164",
+    "title": "✅ Apply 50%",
+    "description": "FAST: WickedGud High Protein Instant Noodles 720g @90 ✅ Apply 50% Coupon https://www.amazon.in/dp/B0G2X991KY?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0G2X991KY?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0G2X991KY?tag=bestpricezo0f-21",
+        "label": "WickedGud High Protein Instant Noodles 720g @90"
+      }
+    ],
+    "raw_text": "FAST: WickedGud High Protein Instant Noodles 720g @90\n\n✅ Apply 50% Coupon\n\nhttps://www.amazon.in/dp/B0G2X991KY?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0G2X991KY?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_36164.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-05-13T15:05:31+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0G2X991KY?tag=bestpricezo0f-21",
+    "date_iso": "2026-05-13T15:05:31+00:00"
+  },
+  {
     "id": "msg36137",
     "title": "Flat 73% Off On Arrow Men's Clothing",
     "description": "Amazon GRAB : Flat 73% Off On Arrow Men's Clothing. 🔗…",
@@ -9370,25 +9390,5 @@
     "date_obj": "2026-05-07T14:16:14+00:00",
     "buy_link": "https://myntr.in/wOgVi1",
     "date_iso": "2026-05-07T14:16:14+00:00"
-  },
-  {
-    "id": "msg35114",
-    "title": "👕 THE BEAR HOUSE Slim Fit Tie & Dye Crew",
-    "description": "👕 AJIO : THE BEAR HOUSE Slim Fit Tie & Dye Crew-Neck T-Shirt starting at ₹479 🔗 https://ajiio.co/1JUaye",
-    "shortlink": "https://ajiio.co/1JUaye",
-    "urls": [
-      {
-        "url": "https://ajiio.co/1JUaye",
-        "label": "👕 AJIO : THE BEAR HOUSE Slim Fit Tie & Dye Crew-Neck T-Shirt starting at ₹479"
-      }
-    ],
-    "raw_text": "👕 AJIO : THE BEAR HOUSE Slim Fit Tie & Dye Crew-Neck T-Shirt starting at ₹479\n\n🔗 https://ajiio.co/1JUaye",
-    "final_url": "https://ajiio.co/1JUaye",
-    "local_image": "assets/images/tgmsg_35114.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-05-07T14:46:21+00:00",
-    "buy_link": "https://ajiio.co/1JUaye",
-    "date_iso": "2026-05-07T14:46:21+00:00"
   }
 ]
