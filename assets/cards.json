@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg36111",
+    "title": "Offer Under Rs 799",
+    "description": "AJIO |💥 Jeans & Trousers 👉Offer: Under Rs 799 ⚡ 💥 Tshirts and Tops 👉Offer: Under Rs 299 ⚡ 💥 Kurtas and Kurtis 👉Offer: Under Rs 399 ⚡",
+    "shortlink": "https://ajiio.co/TTkxjB",
+    "urls": [
+      {
+        "url": "",
+        "label": "💥 Jeans & Trousers"
+      },
+      {
+        "url": "https://ajiio.co/TTkxjB",
+        "label": "Under Rs 799"
+      },
+      {
+        "url": "",
+        "label": "💥 Tshirts and Tops"
+      },
+      {
+        "url": "https://ajiio.co/iJf3B4",
+        "label": "Under Rs 299"
+      },
+      {
+        "url": "",
+        "label": "💥 Kurtas and Kurtis"
+      },
+      {
+        "url": "https://ajiio.co/yOzTTA",
+        "label": "Under Rs 399"
+      }
+    ],
+    "raw_text": "AJIO |💥 Jeans & Trousers \n👉Offer: Under Rs 799 \n⚡https://ajiio.co/TTkxjB\n\n💥 Tshirts and Tops \n👉Offer: Under Rs 299 \n⚡https://ajiio.co/iJf3B4\n\n💥 Kurtas and Kurtis \n👉Offer: Under Rs 399 \n⚡https://ajiio.co/yOzTTA",
+    "final_url": "https://ajiio.co/TTkxjB",
+    "local_image": "assets/images/tgmsg_36111.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-05-13T03:48:11+00:00",
+    "buy_link": "https://ajiio.co/TTkxjB",
+    "date_iso": "2026-05-13T03:48:11+00:00"
+  },
+  {
     "id": "msg36102",
     "title": "The bear house , Campus sutra & British club Min 75%",
     "description": "Ajio | The bear house , Campus sutra & British club Min 75% https://ajiio.co/2TCVqo The Indian garage Flat 80% (opening hour) https://ajiio.co/LzywVN",
@@ -9354,29 +9394,5 @@
     "date_obj": "2026-05-06T20:13:14+00:00",
     "buy_link": "https://myntr.in/j6iT4Y",
     "date_iso": "2026-05-06T20:13:14+00:00"
-  },
-  {
-    "id": "msg35062",
-    "title": "Titan Wall Clock Up to 50% Discount Plus Discount",
-    "description": "Myntra | Titan Wall Clock upto 50% Discount Plus Coupon Discount 🔗 Jockey Towels at flat 30% off Plus Extra Coupons 🔗",
-    "shortlink": "https://myntr.in/QInna9",
-    "urls": [
-      {
-        "url": "https://myntr.in/QInna9",
-        "label": ""
-      },
-      {
-        "url": "https://myntr.in/38hdyM",
-        "label": "Jockey Towels at flat 30% off Plus Extra Coupons"
-      }
-    ],
-    "raw_text": "Myntra | Titan Wall Clock upto 50% Discount Plus Coupon Discount\n🔗 https://myntr.in/QInna9\n\nJockey Towels at flat 30% off Plus Extra Coupons\n🔗 https://myntr.in/38hdyM",
-    "final_url": "https://myntr.in/QInna9",
-    "local_image": "assets/images/tgmsg_35062.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-05-06T20:19:15+00:00",
-    "buy_link": "https://myntr.in/QInna9",
-    "date_iso": "2026-05-06T20:19:15+00:00"
   }
 ]
