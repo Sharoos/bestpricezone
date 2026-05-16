@@ -1,5 +1,69 @@
 [
   {
+    "id": "msg36483",
+    "title": "🛒 Deal Price ₹780",
+    "description": "Ajio | 👕 USPA Shirt 🛒 Deal Price: ₹780 🔗 https://ajiio.co/3hWdzR?",
+    "shortlink": "https://ajiio.co/3hWdzR?",
+    "urls": [
+      {
+        "url": "",
+        "label": "👕 USPA Shirt"
+      },
+      {
+        "url": "https://ajiio.co/3hWdzR?",
+        "label": "🛒 Deal Price: ₹780"
+      }
+    ],
+    "raw_text": "Ajio | 👕 USPA Shirt\n\n🛒 Deal Price: ₹780\n\n🔗 https://ajiio.co/3hWdzR?",
+    "final_url": "https://ajiio.co/3hWdzR?",
+    "local_image": "assets/images/tgmsg_36483.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-05-16T08:46:27+00:00",
+    "buy_link": "https://ajiio.co/3hWdzR?",
+    "date_iso": "2026-05-16T08:46:27+00:00"
+  },
+  {
+    "id": "msg36484",
+    "title": "Campus Men’s Casual Shoes Starts @ 554",
+    "description": "Flipkart | Campus Men’s Casual Shoes Starts @ 554 👉https://fkrt.co/kvzeKy",
+    "shortlink": "https://fkrt.co/kvzeKy",
+    "urls": [
+      {
+        "url": "https://fkrt.co/kvzeKy",
+        "label": "Campus Men’s Casual Shoes Starts @ 554"
+      }
+    ],
+    "raw_text": "Flipkart | Campus Men’s Casual Shoes Starts @ 554\n\n👉https://fkrt.co/kvzeKy",
+    "final_url": "https://fkrt.co/kvzeKy",
+    "local_image": "assets/images/tgmsg_36484.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-05-16T09:01:28+00:00",
+    "buy_link": "https://fkrt.co/kvzeKy",
+    "date_iso": "2026-05-16T09:01:28+00:00"
+  },
+  {
+    "id": "msg36485",
+    "title": "Beardo Up to 78% off",
+    "description": "Myntra | Beardo Upto 78% off, Link : https://myntr.in/sUFkSx",
+    "shortlink": "https://myntr.in/sUFkSx",
+    "urls": [
+      {
+        "url": "https://myntr.in/sUFkSx",
+        "label": "Beardo Upto 78% off,"
+      }
+    ],
+    "raw_text": "Myntra | Beardo Upto 78% off, \n\nLink : https://myntr.in/sUFkSx",
+    "final_url": "https://myntr.in/sUFkSx",
+    "local_image": "assets/images/tgmsg_36485.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-05-16T09:46:14+00:00",
+    "buy_link": "https://myntr.in/sUFkSx",
+    "date_iso": "2026-05-16T09:46:14+00:00"
+  },
+  {
     "id": "msg36474",
     "title": "Flat 52% Off on Makeup Revolution London",
     "description": "Myntra | • Flat 54% Off on LUX •  • Flat 52% Off on Veet • Flat 52% Off on Herbal Essences • Flat 48% Off on Nivea",
@@ -9258,69 +9322,5 @@
     "date_obj": "2026-05-09T13:44:19+00:00",
     "buy_link": "https://bilty.co/7MRgSG",
     "date_iso": "2026-05-09T13:44:19+00:00"
-  },
-  {
-    "id": "msg35471",
-    "title": "Prima Plastic Baby High Chair ( Detachable Tray ) @ ₹939",
-    "description": "Prima Plastic Baby High Chair ( Detachable Tray ) @ ₹939 Link: https://www.amazon.in/dp/B0B87V99GV?tag=bestpricezo0f-21 + Apply 3% Coupon",
-    "shortlink": "https://www.amazon.in/dp/B0B87V99GV?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0B87V99GV?tag=bestpricezo0f-21",
-        "label": "Prima Plastic Baby High Chair ( Detachable Tray ) @ ₹939"
-      }
-    ],
-    "raw_text": "Prima Plastic Baby High Chair ( Detachable Tray ) @ ₹939\n\nLink: https://www.amazon.in/dp/B0B87V99GV?tag=bestpricezo0f-21\n+ Apply 3% Coupon",
-    "final_url": "https://www.amazon.in/dp/B0B87V99GV?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_35471.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-05-09T11:35:13+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0B87V99GV?tag=bestpricezo0f-21",
-    "date_iso": "2026-05-09T11:35:13+00:00"
-  },
-  {
-    "id": "msg35473",
-    "title": "🔥Boxjoy shoe rack min 30% off",
-    "description": "🔥Myntra | Boxjoy shoe rack min 30% off ⚡https://myntr.in/nnzcHd",
-    "shortlink": "https://myntr.in/nnzcHd",
-    "urls": [
-      {
-        "url": "https://myntr.in/nnzcHd",
-        "label": "🔥Myntra | Boxjoy shoe rack min 30% off"
-      }
-    ],
-    "raw_text": "🔥Myntra | Boxjoy shoe rack min 30% off \n\n⚡https://myntr.in/nnzcHd",
-    "final_url": "https://myntr.in/nnzcHd",
-    "local_image": "assets/images/tgmsg_35473.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-05-09T11:51:00+00:00",
-    "buy_link": "https://myntr.in/nnzcHd",
-    "date_iso": "2026-05-09T11:51:00+00:00"
-  },
-  {
-    "id": "msg35463",
-    "title": "18% Off Luminous Red Charge RC 25000 Tall Tubular Battery (200Ah, 36 Months Warranty) @ ₹17,349",
-    "description": "18% Off: Luminous Red Charge RC 25000 Tall Tubular Battery (200Ah, 36 Months Warranty) @ ₹17,349 Link: + 10% Bank Offers",
-    "shortlink": "https://www.amazon.in/dp/B07BCDDXZJ?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B07BCDDXZJ?tag=bestpricezo0f-21",
-        "label": "18% Off: Luminous Red Charge RC 25000 Tall Tubular Battery (200Ah, 36 Months Warranty) @ ₹17,349"
-      },
-      {
-        "url": "",
-        "label": "+ 10% Bank Offers"
-      }
-    ],
-    "raw_text": "18% Off: Luminous Red Charge RC 25000 Tall Tubular Battery (200Ah, 36 Months Warranty) @ ₹17,349 \n\nLink: https://www.amazon.in/dp/B07BCDDXZJ?tag=bestpricezo0f-21\n\n+ 10% Bank Offers",
-    "final_url": "https://www.amazon.in/dp/B07BCDDXZJ?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_35463.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-05-09T10:20:14+00:00",
-    "buy_link": "https://www.amazon.in/dp/B07BCDDXZJ?tag=bestpricezo0f-21",
-    "date_iso": "2026-05-09T10:20:14+00:00"
   }
 ]
