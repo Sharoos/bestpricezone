@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg36610",
+    "title": "ZX110A On Ear Stereo Wired Headphones (White), Without Mic @599",
+    "description": "Amazon | Sony MDR-ZX110A On Ear Stereo Wired Headphones (White), Without Mic @599 https://www.amazon.in/dp/B00KGZZ824?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B00KGZZ824?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B00KGZZ824?th=1&tag=bestpricezo0f-21",
+        "label": "Sony MDR-ZX110A On Ear Stereo Wired Headphones (White), Without Mic @599"
+      }
+    ],
+    "raw_text": "Amazon | Sony MDR-ZX110A On Ear Stereo Wired Headphones (White), Without Mic @599\n\nhttps://www.amazon.in/dp/B00KGZZ824?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B00KGZZ824?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_36610.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-05-17T21:25:32+00:00",
+    "buy_link": "https://www.amazon.in/dp/B00KGZZ824?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-05-17T21:25:32+00:00"
+  },
+  {
     "id": "msg36601",
     "title": "VEMIGON Sports Smart Band @599",
     "description": "Loot: VEMIGON Sports Smart Band @599 https://www.amazon.in/stores/page/preview?isPreview=1&isSlp=1&asins=B0FMFCK2X1%2CB0F7MLGZZG%2CB0FMF7QS58%2CB0GTVLC4Y6&tag=bestpricezo0f-21",
@@ -9406,25 +9426,5 @@
     "date_obj": "2026-05-11T08:03:36+00:00",
     "buy_link": "https://bilty.co/ctYOsb",
     "date_iso": "2026-05-11T08:03:36+00:00"
-  },
-  {
-    "id": "msg35866",
-    "title": "Biotique Ocean Kelp Anti Hairfall Shampoo @256",
-    "description": "Amazon | Biotique Ocean Kelp Anti Hairfall Shampoo @256 https://www.amazon.in/dp/B0DQTHR3WS?th=1&psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DQTHR3WS?th=1&psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DQTHR3WS?th=1&psc=1&tag=bestpricezo0f-21",
-        "label": "Biotique Ocean Kelp Anti Hairfall Shampoo @256"
-      }
-    ],
-    "raw_text": "Amazon | Biotique Ocean Kelp Anti Hairfall Shampoo @256\n\nhttps://www.amazon.in/dp/B0DQTHR3WS?th=1&psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DQTHR3WS?th=1&psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_35866.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-05-11T04:05:33+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DQTHR3WS?th=1&psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-05-11T04:05:33+00:00"
   }
 ]
