@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg36954",
+    "title": "Havells Beard & Hair Trimmer @699",
+    "description": "Amazon | Havells Beard & Hair Trimmer  @699 https://www.amazon.in/dp/B0GNRN5619?psc=1&th=1&smid=A2GTG1HPYW8M2P&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0GNRN5619?psc=1&th=1&smid=A2GTG1HPYW8M2P&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0GNRN5619?psc=1&th=1&smid=A2GTG1HPYW8M2P&tag=bestpricezo0f-21",
+        "label": "Havells Beard & Hair Trimmer @699"
+      }
+    ],
+    "raw_text": "Amazon | Havells Beard & Hair Trimmer  @699\n \nhttps://www.amazon.in/dp/B0GNRN5619?psc=1&th=1&smid=A2GTG1HPYW8M2P&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0GNRN5619?psc=1&th=1&smid=A2GTG1HPYW8M2P&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_36954.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-05-22T04:33:20+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0GNRN5619?psc=1&th=1&smid=A2GTG1HPYW8M2P&tag=bestpricezo0f-21",
+    "date_iso": "2026-05-22T04:33:20+00:00"
+  },
+  {
     "id": "msg36927",
     "title": "Up to 70% Off On Campus Sneakers & Running Shoe",
     "description": "Upto 70% Off On Campus Sneakers & Running Shoes Men :…",
@@ -9466,45 +9486,5 @@
     "date_obj": "2026-05-15T05:46:14+00:00",
     "buy_link": "https://ajiio.co/POEeIf",
     "date_iso": "2026-05-15T05:46:14+00:00"
-  },
-  {
-    "id": "msg36357",
-    "title": "Being human Min 65% 🧵✨",
-    "description": "Ajio |  Tshirts : 👕 Shirts : 👔 Sweatshirt & Hoodies : 🧥 Jeans : 👖 Track Pants : 🏃",
-    "shortlink": "https://ajiio.co/GZBeS9",
-    "urls": [
-      {
-        "url": "https://ajiio.co/GZBeS9",
-        "label": "Being human Min 65% 🧵✨"
-      },
-      {
-        "url": "https://ajiio.co/dpE71H",
-        "label": "Being human Min 65% 🧵✨"
-      },
-      {
-        "url": "https://ajiio.co/IfA7LL",
-        "label": "Being human Min 65% 🧵✨"
-      },
-      {
-        "url": "https://ajiio.co/admtvi",
-        "label": "🧥"
-      },
-      {
-        "url": "https://ajiio.co/w5x2j7",
-        "label": "🧥"
-      },
-      {
-        "url": "https://ajiio.co/Ucansc",
-        "label": "🏃"
-      }
-    ],
-    "raw_text": "Ajio | Being human Min 65% 🧵✨\nhttps://ajiio.co/GZBeS9\n\nTshirts : 👕\nhttps://ajiio.co/dpE71H\nShirts : 👔\nhttps://ajiio.co/IfA7LL\nSweatshirt & Hoodies : 🧥\nhttps://ajiio.co/admtvi\nJeans : 👖\nhttps://ajiio.co/w5x2j7\nTrack Pants : 🏃\nhttps://ajiio.co/Ucansc",
-    "final_url": "https://ajiio.co/GZBeS9",
-    "local_image": "assets/images/tgmsg_36357.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-05-15T06:03:48+00:00",
-    "buy_link": "https://ajiio.co/GZBeS9",
-    "date_iso": "2026-05-15T06:03:48+00:00"
   }
 ]
