@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg37075",
+    "title": "Mid Light Magic 8.5\" E",
+    "description": "Loot: Mid Light Magic 8.5\" E-Writer Pad @ ₹130 https://fktr.in/cR07uwT",
+    "shortlink": "https://fktr.in/cR07uwT",
+    "urls": [
+      {
+        "url": "https://fktr.in/cR07uwT",
+        "label": "Mid Light Magic 8.5\" E-Writer Pad @ ₹130"
+      }
+    ],
+    "raw_text": "Loot: Mid Light Magic 8.5\" E-Writer Pad @ ₹130\n\nhttps://fktr.in/cR07uwT",
+    "final_url": "https://fktr.in/cR07uwT",
+    "local_image": "assets/images/tgmsg_37075.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-05-23T12:36:08+00:00",
+    "buy_link": "https://fktr.in/cR07uwT",
+    "date_iso": "2026-05-23T12:36:08+00:00"
+  },
+  {
     "id": "msg37070",
     "title": "Avengers Spiderman 3 Wheeled Heroglide Kick Scooter @858",
     "description": "Loot: Avengers Spiderman 3 Wheeled Heroglide Kick Scooter @858 https://fktr.in/2d942JM",
@@ -9466,41 +9486,5 @@
     "date_obj": "2026-05-16T12:33:30+00:00",
     "buy_link": "https://www.amazon.in/dp/B0FFZ9QMGD?tag=bestpricezo0f-21",
     "date_iso": "2026-05-16T12:33:30+00:00"
-  },
-  {
-    "id": "msg36505",
-    "title": "Up to 85% Off On HRX Luggage",
-    "description": "Flipkart | Upto 85% Off On HRX Luggage. Small : https://fkrt.co/g6WTNn Medium : https://fkrt.co/zMDtQV Large : https://fkrt.co/35ftbR Pack Of 2/3 : https://fkrt.co/ZiTa8o",
-    "shortlink": "https://fkrt.co/g6WTNn",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On HRX Luggage"
-      },
-      {
-        "url": "https://fkrt.co/g6WTNn",
-        "label": "Small"
-      },
-      {
-        "url": "https://fkrt.co/zMDtQV",
-        "label": "Medium"
-      },
-      {
-        "url": "https://fkrt.co/35ftbR",
-        "label": "Large"
-      },
-      {
-        "url": "https://fkrt.co/ZiTa8o",
-        "label": "Pack Of 2/3"
-      }
-    ],
-    "raw_text": "Flipkart | Upto 85% Off On HRX Luggage.\n\nSmall : https://fkrt.co/g6WTNn\nMedium : https://fkrt.co/zMDtQV\nLarge : https://fkrt.co/35ftbR\n\nPack Of 2/3 : https://fkrt.co/ZiTa8o",
-    "final_url": "https://fkrt.co/g6WTNn",
-    "local_image": "assets/images/tgmsg_36505.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-05-16T12:46:06+00:00",
-    "buy_link": "https://fkrt.co/g6WTNn",
-    "date_iso": "2026-05-16T12:46:06+00:00"
   }
 ]
