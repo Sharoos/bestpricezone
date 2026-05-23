@@ -1,5 +1,85 @@
 [
   {
+    "id": "msg37087",
+    "title": "Up to 62% Off On Dove & Axe Beauty Item",
+    "description": "Amazon | Upto 62% Off On Dove & Axe Beauty Item. Dove :…",
+    "shortlink": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ADove&s=popularity-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 62% Off On Dove & Axe Beauty Item"
+      },
+      {
+        "url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ADove&s=popularity-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+        "label": "Dove"
+      },
+      {
+        "url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3AAXE&s=popularity-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+        "label": "Axe"
+      }
+    ],
+    "raw_text": "Amazon | Upto 62% Off On Dove & Axe Beauty Item.\n\nDove : https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ADove&s=popularity-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21\nAxe : https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3AAXE&s=popularity-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ADove&s=popularity-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_37087.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-05-23T14:51:23+00:00",
+    "buy_link": "https://www.amazon.in/s?rh=n%3A1355016031%2Cp_6%3AA15APWRK6P7LBV%2Cp_n_pct-off-with-tax%3A2665401031%2Cp_89%3ADove&s=popularity-rank&i=beauty&srs=1355016031&tag=bestpricezo0f-21",
+    "date_iso": "2026-05-23T14:51:23+00:00"
+  },
+  {
+    "id": "msg37091",
+    "title": "Zivame, Clovia Min 70%",
+    "description": "Ajio | Zivame, Clovia Min 70% https://ajiio.co/pEx0lE Shein Min 20% https://ajiio.co/81nf5o",
+    "shortlink": "https://ajiio.co/pEx0lE",
+    "urls": [
+      {
+        "url": "https://ajiio.co/pEx0lE",
+        "label": "Zivame, Clovia Min 70%"
+      },
+      {
+        "url": "https://ajiio.co/81nf5o",
+        "label": "Shein Min 20%"
+      }
+    ],
+    "raw_text": "Ajio | Zivame, Clovia Min 70%\nhttps://ajiio.co/pEx0lE\n\nShein Min 20%\nhttps://ajiio.co/81nf5o",
+    "final_url": "https://ajiio.co/pEx0lE",
+    "local_image": "assets/images/tgmsg_37091.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-05-23T15:21:30+00:00",
+    "buy_link": "https://ajiio.co/pEx0lE",
+    "date_iso": "2026-05-23T15:21:30+00:00"
+  },
+  {
+    "id": "msg37092",
+    "title": "Cello and Larah by Borosil Dinner set at min 50% off",
+    "description": "Myntra | Cello products at min 40% https://myntr.in/LqPcIB Cello and Larah by Borosil Dinner set at min 50% off Limited time deal! https://myntr.in/5gZjz9",
+    "shortlink": "https://myntr.in/LqPcIB",
+    "urls": [
+      {
+        "url": "https://myntr.in/LqPcIB",
+        "label": "Cello products at min 40%"
+      },
+      {
+        "url": "",
+        "label": "Cello and Larah by Borosil Dinner set at min 50% off"
+      },
+      {
+        "url": "https://myntr.in/5gZjz9",
+        "label": "Limited time deal!"
+      }
+    ],
+    "raw_text": "Myntra | Cello products at min 40%\n\nhttps://myntr.in/LqPcIB\n\nCello and Larah by Borosil Dinner set at min 50% off \n\nLimited time deal!\n\nhttps://myntr.in/5gZjz9",
+    "final_url": "https://myntr.in/LqPcIB",
+    "local_image": "assets/images/tgmsg_37092.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-05-23T15:36:34+00:00",
+    "buy_link": "https://myntr.in/LqPcIB",
+    "date_iso": "2026-05-23T15:36:34+00:00"
+  },
+  {
     "id": "msg37078",
     "title": "Up to 81% Off On Skybags Backpacks & Luggage",
     "description": "Myntra : Upto 81% Off On Skybags Backpacks & Luggage. https://myntr.in/cIVrxt&",
@@ -9358,97 +9438,5 @@
     "date_obj": "2026-05-16T17:06:58+00:00",
     "buy_link": "https://ajiio.co/tMYam0",
     "date_iso": "2026-05-16T17:06:58+00:00"
-  },
-  {
-    "id": "msg36519",
-    "title": "Up to 81% Off On Clothing",
-    "description": "Amazon Grab : Upto 81% Off On Clothing. Men's :…",
-    "shortlink": "https://www.amazon.in/s?k=bullmer&i=apparel&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_123%3A654573%2Cp_6%3AAB57CX8LB83EF%2Cp_n_pct-off-with-tax%3A27060456031&dc=&ds=v1%3ApdR0EhD0dAlEKcEI94WJSt3gjweXkhjoVmmlNIHfTGE&crid=2QCTDGXP16M57&qid=1750662727&sprefix=bullme%2Caps%2C238&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 81% Off On Clothing"
-      },
-      {
-        "url": "https://www.amazon.in/s?k=bullmer&i=apparel&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_123%3A654573%2Cp_6%3AAB57CX8LB83EF%2Cp_n_pct-off-with-tax%3A27060456031&dc=&ds=v1%3ApdR0EhD0dAlEKcEI94WJSt3gjweXkhjoVmmlNIHfTGE&crid=2QCTDGXP16M57&qid=1750662727&sprefix=bullme%2Caps%2C238&tag=bestpricezo0f-21",
-        "label": "Men's"
-      },
-      {
-        "url": "https://www.amazon.in/s?k=hellcat&i=apparel&rh=n%3A1968545031%2Cp_36%3A-90000%2Cp_123%3A403606&s=exact-aware-popularity-rank&dc=&crid=K1FXTG90LPMH&qid=1751688401&sprefix=hellcat%2Caps%2C297&ds=v1%3AQr%2BV6P5xD1ucvWQgkDS0MzHOp0EcFAmHOdwaCjco5kA&tag=bestpricezo0f-21",
-        "label": "Women's"
-      }
-    ],
-    "raw_text": "Amazon Grab : Upto 81% Off On Clothing.\n\nMen's : https://www.amazon.in/s?k=bullmer&i=apparel&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_123%3A654573%2Cp_6%3AAB57CX8LB83EF%2Cp_n_pct-off-with-tax%3A27060456031&dc=&ds=v1%3ApdR0EhD0dAlEKcEI94WJSt3gjweXkhjoVmmlNIHfTGE&crid=2QCTDGXP16M57&qid=1750662727&sprefix=bullme%2Caps%2C238&tag=bestpricezo0f-21\nWomen's : https://www.amazon.in/s?k=hellcat&i=apparel&rh=n%3A1968545031%2Cp_36%3A-90000%2Cp_123%3A403606&s=exact-aware-popularity-rank&dc=&crid=K1FXTG90LPMH&qid=1751688401&sprefix=hellcat%2Caps%2C297&ds=v1%3AQr%2BV6P5xD1ucvWQgkDS0MzHOp0EcFAmHOdwaCjco5kA&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/s?k=bullmer&i=apparel&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_123%3A654573%2Cp_6%3AAB57CX8LB83EF%2Cp_n_pct-off-with-tax%3A27060456031&dc=&ds=v1%3ApdR0EhD0dAlEKcEI94WJSt3gjweXkhjoVmmlNIHfTGE&crid=2QCTDGXP16M57&qid=1750662727&sprefix=bullme%2Caps%2C238&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_36519.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-05-16T15:19:54+00:00",
-    "buy_link": "https://www.amazon.in/s?k=bullmer&i=apparel&rh=n%3A1571271031%2Cn%3A1968024031%2Cp_123%3A654573%2Cp_6%3AAB57CX8LB83EF%2Cp_n_pct-off-with-tax%3A27060456031&dc=&ds=v1%3ApdR0EhD0dAlEKcEI94WJSt3gjweXkhjoVmmlNIHfTGE&crid=2QCTDGXP16M57&qid=1750662727&sprefix=bullme%2Caps%2C238&tag=bestpricezo0f-21",
-    "date_iso": "2026-05-16T15:19:54+00:00"
-  },
-  {
-    "id": "msg36521",
-    "title": "99 Deal Store",
-    "description": "- Myntra Home !!! Master Link !! Doormats and Bath rugs Flat 99 !!! Storage Organizers Flat 99 !!! Kitchen Deals Flat 99 !!!",
-    "shortlink": "https://myntr.in/ZIHb23",
-    "urls": [
-      {
-        "url": "https://myntr.in/ZIHb23",
-        "label": "Myntra Home !!!"
-      },
-      {
-        "url": "https://myntr.in/oN1LH0",
-        "label": "Doormats and Bath rugs Flat 99 !!!"
-      },
-      {
-        "url": "https://myntr.in/SZq2yA",
-        "label": "Storage Organizers Flat 99 !!!"
-      },
-      {
-        "url": "https://myntr.in/b8FLxF",
-        "label": "Kitchen Deals Flat 99 !!!"
-      }
-    ],
-    "raw_text": "99 Deal Store - Myntra Home !!!\n\nMaster Link !! \nhttps://myntr.in/ZIHb23\n\nDoormats and Bath rugs Flat 99 !!!\nhttps://myntr.in/oN1LH0\n\nStorage Organizers Flat 99 !!!\nhttps://myntr.in/SZq2yA\n\nKitchen Deals Flat 99 !!!\nhttps://myntr.in/b8FLxF",
-    "final_url": "https://myntr.in/ZIHb23",
-    "local_image": "assets/images/tgmsg_36521.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-05-16T15:36:41+00:00",
-    "buy_link": "https://myntr.in/ZIHb23",
-    "date_iso": "2026-05-16T15:36:41+00:00"
-  },
-  {
-    "id": "msg36512",
-    "title": "🔥Puma Min 50% Off",
-    "description": "Myntra |  : 🔥Adidas Min. 50% Off : ⚡ 🔥Skechers Min 50% Off : ⚡ 🔥New Balance Min. 50% Off : ⚡",
-    "shortlink": "https://myntr.in/lExM63",
-    "urls": [
-      {
-        "url": "https://myntr.in/lExM63",
-        "label": "🔥Puma Min 50% Off"
-      },
-      {
-        "url": "https://myntr.in/uGiMN0",
-        "label": "🔥Adidas Min. 50% Off"
-      },
-      {
-        "url": "https://myntr.in/LalSrA",
-        "label": "🔥Skechers Min 50% Off"
-      },
-      {
-        "url": "https://myntr.in/2WYU18",
-        "label": "🔥New Balance Min. 50% Off"
-      }
-    ],
-    "raw_text": "Myntra | 🔥Puma Min 50% Off : https://myntr.in/lExM63\n\n🔥Adidas Min. 50% Off : \n⚡https://myntr.in/uGiMN0\n\n🔥Skechers Min 50% Off : \n⚡https://myntr.in/LalSrA\n\n🔥New Balance Min. 50% Off : \n⚡https://myntr.in/2WYU18",
-    "final_url": "https://myntr.in/lExM63",
-    "local_image": "assets/images/tgmsg_36512.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-05-16T14:16:20+00:00",
-    "buy_link": "https://myntr.in/lExM63",
-    "date_iso": "2026-05-16T14:16:20+00:00"
   }
 ]
