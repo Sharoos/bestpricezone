@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg37123",
+    "title": "199",
+    "description": "199 : https://www.amazon.in/dp/B0GX2P66KX?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0GX2P66KX?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0GX2P66KX?tag=bestpricezo0f-21",
+        "label": "199"
+      }
+    ],
+    "raw_text": "199 : https://www.amazon.in/dp/B0GX2P66KX?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0GX2P66KX?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_37123.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-05-24T10:31:57+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0GX2P66KX?tag=bestpricezo0f-21",
+    "date_iso": "2026-05-24T10:31:57+00:00"
+  },
+  {
     "id": "msg37121",
     "title": "💳 Extra ₹4000 Off on FK Axis Card",
     "description": "🚨 Lowest: Samsung S25 Ultra 12GB + 256GB @86,999 💳 ₹4000 Coupon Included  ⏳ Limited Stocks Left Hurry Up!",
@@ -9570,25 +9590,5 @@
     "date_obj": "2026-05-17T08:45:47+00:00",
     "buy_link": "https://ajiio.co/DSeB2A",
     "date_iso": "2026-05-17T08:45:47+00:00"
-  },
-  {
-    "id": "msg36560",
-    "title": "Bigmuscles Nutrition Premium Gold Whey, 1 Kg @1439",
-    "description": "Amazon | Bigmuscles Nutrition Premium Gold Whey, 1 Kg @1439 https://www.amazon.in/dp/B084H8LWC3?src=ot&ck&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B084H8LWC3?src=ot&ck&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B084H8LWC3?src=ot&ck&tag=bestpricezo0f-21",
-        "label": "Bigmuscles Nutrition Premium Gold Whey, 1 Kg @1439"
-      }
-    ],
-    "raw_text": "Amazon | Bigmuscles Nutrition Premium Gold Whey, 1 Kg @1439\n\n https://www.amazon.in/dp/B084H8LWC3?src=ot&ck&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B084H8LWC3?src=ot&ck&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_36560.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-05-17T09:16:11+00:00",
-    "buy_link": "https://www.amazon.in/dp/B084H8LWC3?src=ot&ck&tag=bestpricezo0f-21",
-    "date_iso": "2026-05-17T09:16:11+00:00"
   }
 ]
