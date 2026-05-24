@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg37142",
+    "title": "55% Off",
+    "description": "Amazon | 55% Off - Bajaj Bahar Fresh 225 MM Exhaust Fan at Rs.1249 🔗 https://www.amazon.in/dp/B00KL56PLC?th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B00KL56PLC?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B00KL56PLC?th=1&tag=bestpricezo0f-21",
+        "label": "55% Off - Bajaj Bahar Fresh 225 MM Exhaust Fan at Rs.1249"
+      }
+    ],
+    "raw_text": "Amazon | 55% Off - Bajaj Bahar Fresh 225 MM Exhaust Fan at Rs.1249\n\n 🔗 https://www.amazon.in/dp/B00KL56PLC?th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B00KL56PLC?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_37142.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-05-24T15:04:00+00:00",
+    "buy_link": "https://www.amazon.in/dp/B00KL56PLC?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-05-24T15:04:00+00:00"
+  },
+  {
     "id": "msg37135",
     "title": "Clove Ultimate Mouthwash (Pack of 3) at 299",
     "description": "Clove Ultimate Mouthwash (Pack of 3) at 299. https://bilty.co/CqNJAX *Kill 99.9% Mouth Germs",
@@ -9534,49 +9554,5 @@
     "date_obj": "2026-05-17T13:05:13+00:00",
     "buy_link": "https://bitli.in/26SYIr9",
     "date_iso": "2026-05-17T13:05:13+00:00"
-  },
-  {
-    "id": "msg36571",
-    "title": "➡️ Mens Track Pants At 105",
-    "description": "Shopsy Deals 🔥🔥 ➡️ Men's Tshirt At 65 : ➡️ Mens Sweatshirts At 85: ➡️ Men's Shirt At 102 :  : ➡️ Men's Kurtas At 167 : ➡️ Mens Jeans At 198 :",
-    "shortlink": "https://bilty.co/kWHIf2",
-    "urls": [
-      {
-        "url": "",
-        "label": "Shopsy Deals 🔥🔥"
-      },
-      {
-        "url": "https://bilty.co/kWHIf2",
-        "label": "➡️ Men's Tshirt At 65"
-      },
-      {
-        "url": "https://bilty.co/Z43Arh",
-        "label": "➡️ Mens Sweatshirts At 85"
-      },
-      {
-        "url": "https://bilty.co/xj5ngH",
-        "label": "➡️ Men's Shirt At 102"
-      },
-      {
-        "url": "https://bilty.co/mzSXY0",
-        "label": "➡️ Mens Track Pants At 105"
-      },
-      {
-        "url": "https://bilty.co/81DewB",
-        "label": "➡️ Men's Kurtas At 167"
-      },
-      {
-        "url": "https://bilty.co/nlKdeF",
-        "label": "➡️ Mens Jeans At 198"
-      }
-    ],
-    "raw_text": "Shopsy  Deals 🔥🔥\n\n➡️ Men's Tshirt At 65 : https://bilty.co/kWHIf2\n➡️ Mens Sweatshirts At 85: https://bilty.co/Z43Arh\n➡️ Men's Shirt At 102 : https://bilty.co/xj5ngH\n➡️ Mens Track Pants At 105 : https://bilty.co/mzSXY0\n➡️ Men's Kurtas At 167 : https://bilty.co/81DewB\n➡️ Mens Jeans At 198 : https://bilty.co/nlKdeF",
-    "final_url": "https://bilty.co/kWHIf2",
-    "local_image": "assets/images/tgmsg_36571.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-05-17T13:16:22+00:00",
-    "buy_link": "https://bilty.co/kWHIf2",
-    "date_iso": "2026-05-17T13:16:22+00:00"
   }
 ]
