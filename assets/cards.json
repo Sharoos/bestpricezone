@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg37112",
+    "title": "₹6,000 off with HDFC Credit Card EMI",
+    "description": "Hitachi 1.5 Ton 3 Star, New Star rated, Inverter Split AC At 29,998. https://www.amazon.in/dp/B0GP71KXP5?tag=bestpricezo0f-21 ₹6,000 off with HDFC Credit Card EMI",
+    "shortlink": "https://www.amazon.in/dp/B0GP71KXP5?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0GP71KXP5?tag=bestpricezo0f-21",
+        "label": "Hitachi 1.5 Ton 3 Star, New Star rated, Inverter Split AC At 29,998"
+      },
+      {
+        "url": "",
+        "label": "₹6,000 off with HDFC Credit Card EMI"
+      }
+    ],
+    "raw_text": "Hitachi 1.5 Ton 3 Star, New Star rated, Inverter Split AC At 29,998.\n\nhttps://www.amazon.in/dp/B0GP71KXP5?tag=bestpricezo0f-21\n\n₹6,000 off with HDFC Credit Card EMI",
+    "final_url": "https://www.amazon.in/dp/B0GP71KXP5?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_37112.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-05-24T01:59:26+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0GP71KXP5?tag=bestpricezo0f-21",
+    "date_iso": "2026-05-24T01:59:26+00:00"
+  },
+  {
     "id": "msg37110",
     "title": "Ear Headphones with 70H Playtime at ₹1,898",
     "description": "Amazon Grab FAST 💥 Soundcore H30i Wireless On-Ear Headphones with 70H Playtime at ₹1,898. https://www.amazon.in/dp/B0CD1NJBN2?psc=1&th=1&tag=bestpricezo0f-21",
@@ -9514,53 +9538,5 @@
     "date_obj": "2026-05-17T04:44:39+00:00",
     "buy_link": "https://ajiio.co/Aqwxd6",
     "date_iso": "2026-05-17T04:44:39+00:00"
-  },
-  {
-    "id": "msg36554",
-    "title": "Men Polo Tshirts Starts at 100",
-    "description": "AJIO . Oversized Tshirts Starts at 190. Women : Men : Kids Clothing Boys : Girls : Infants :",
-    "shortlink": "https://ajiio.co/CVu5hq",
-    "urls": [
-      {
-        "url": "https://ajiio.co/CVu5hq",
-        "label": "AJIO Men Polo Tshirts Starts at 100"
-      },
-      {
-        "url": "",
-        "label": "Oversized Tshirts Starts at 190"
-      },
-      {
-        "url": "https://ajiio.co/F8NZqN",
-        "label": "Women"
-      },
-      {
-        "url": "https://ajiio.co/b8QmZl",
-        "label": "Men"
-      },
-      {
-        "url": "",
-        "label": "Kids Clothing"
-      },
-      {
-        "url": "https://ajiio.co/6irCJj",
-        "label": "Boys"
-      },
-      {
-        "url": "https://ajiio.co/7x0t6t",
-        "label": "Girls"
-      },
-      {
-        "url": "https://ajiio.co/UDzGwQ",
-        "label": "Infants"
-      }
-    ],
-    "raw_text": "AJIO  Men Polo Tshirts Starts at 100.\n\nhttps://ajiio.co/CVu5hq\n\nOversized Tshirts Starts at 190.\n\nWomen : https://ajiio.co/F8NZqN\nMen : https://ajiio.co/b8QmZl\n\nKids Clothing \n\nBoys : https://ajiio.co/6irCJj\nGirls : https://ajiio.co/7x0t6t\nInfants : https://ajiio.co/UDzGwQ",
-    "final_url": "https://ajiio.co/CVu5hq",
-    "local_image": "assets/images/tgmsg_36554.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-05-17T05:04:55+00:00",
-    "buy_link": "https://ajiio.co/CVu5hq",
-    "date_iso": "2026-05-17T05:04:55+00:00"
   }
 ]
