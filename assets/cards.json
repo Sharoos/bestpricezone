@@ -1,5 +1,45 @@
 [
   {
+    "id": "msg37148",
+    "title": "Men's Track Pants Starts @ 162",
+    "description": "Flipkart | Men's T-Shirts Starts @ 71 🔗 Formal Shirts Starts @ 183 🔗 Casual Shirts Starts @ 179 🔗 Men's Jeans Starts @ 232 🔗  🔗 Men's Trousers Starts @ 175 🔗",
+    "shortlink": "https://fkrt.co/2O3xvK",
+    "urls": [
+      {
+        "url": "https://fkrt.co/2O3xvK",
+        "label": "Men's T-Shirts Starts @ 71"
+      },
+      {
+        "url": "https://fkrt.co/6DfOIt",
+        "label": "Formal Shirts Starts @ 183"
+      },
+      {
+        "url": "https://fkrt.co/U2bMUy",
+        "label": "Casual Shirts Starts @ 179"
+      },
+      {
+        "url": "https://fkrt.co/nPGc2u",
+        "label": "Men's Jeans Starts @ 232"
+      },
+      {
+        "url": "https://fkrt.co/0cu881",
+        "label": "Men's Track Pants Starts @ 162"
+      },
+      {
+        "url": "https://fkrt.co/erIXnN",
+        "label": "Men's Trousers Starts @ 175"
+      }
+    ],
+    "raw_text": "Flipkart | Men's T-Shirts Starts @ 71\n🔗 https://fkrt.co/2O3xvK\n\nFormal Shirts Starts @ 183\n🔗 https://fkrt.co/6DfOIt\n\nCasual Shirts Starts @ 179\n🔗 https://fkrt.co/U2bMUy\n\nMen's Jeans Starts @ 232\n🔗 https://fkrt.co/nPGc2u\n\nMen's Track Pants Starts @ 162\n🔗 https://fkrt.co/0cu881\n\nMen's Trousers Starts @ 175\n🔗 https://fkrt.co/erIXnN",
+    "final_url": "https://fkrt.co/2O3xvK",
+    "local_image": "assets/images/tgmsg_37148.jpg",
+    "source_host": "fkrt.co",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-05-24T16:40:33+00:00",
+    "buy_link": "https://fkrt.co/2O3xvK",
+    "date_iso": "2026-05-24T16:40:33+00:00"
+  },
+  {
     "id": "msg37142",
     "title": "55% Off",
     "description": "Amazon | 55% Off - Bajaj Bahar Fresh 225 MM Exhaust Fan at Rs.1249 🔗 https://www.amazon.in/dp/B00KL56PLC?th=1&tag=bestpricezo0f-21",
@@ -9526,33 +9566,5 @@
     "date_obj": "2026-05-17T13:04:38+00:00",
     "buy_link": "https://myntr.in/FYfDcP",
     "date_iso": "2026-05-17T13:04:38+00:00"
-  },
-  {
-    "id": "msg36569",
-    "title": "3 products @ 249 IN",
-    "description": "Get Tiaraa Newest Collection 3 products @ 249 INR ✅Use code : Loot3 Link : https://bitli.in/26SYIr9",
-    "shortlink": "https://bitli.in/26SYIr9",
-    "urls": [
-      {
-        "url": "",
-        "label": "Get Tiaraa Newest Collection"
-      },
-      {
-        "url": "",
-        "label": "3 products @ 249 INR"
-      },
-      {
-        "url": "https://bitli.in/26SYIr9",
-        "label": "✅Use code : Loot3"
-      }
-    ],
-    "raw_text": "Get Tiaraa Newest Collection \n3 products @ 249 INR \n\n✅Use code : Loot3\n\nLink : https://bitli.in/26SYIr9",
-    "final_url": "https://bitli.in/26SYIr9",
-    "local_image": "assets/images/tgmsg_36569.jpg",
-    "source_host": "bitli.in",
-    "merchant_label": "Bitli",
-    "date_obj": "2026-05-17T13:05:13+00:00",
-    "buy_link": "https://bitli.in/26SYIr9",
-    "date_iso": "2026-05-17T13:05:13+00:00"
   }
 ]
