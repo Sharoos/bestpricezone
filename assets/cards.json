@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg37733",
+    "title": "Get 20% off on watche",
+    "description": "Myntra | Get 20% off on watches 🔗 https://myntr.in/HvodBi",
+    "shortlink": "https://myntr.in/HvodBi",
+    "urls": [
+      {
+        "url": "https://myntr.in/HvodBi",
+        "label": "Get 20% off on watches"
+      }
+    ],
+    "raw_text": "Myntra | Get 20% off on watches\n\n🔗 https://myntr.in/HvodBi",
+    "final_url": "https://myntr.in/HvodBi",
+    "local_image": "assets/images/tgmsg_37733.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-05-28T20:46:04+00:00",
+    "buy_link": "https://myntr.in/HvodBi",
+    "date_iso": "2026-05-28T20:46:04+00:00"
+  },
+  {
     "id": "msg37606",
     "title": "🛏️ Double Bed Jaipuri Bedsheets Starting @ ₹499",
     "description": "🏠🔥MYNTRA MEGA HOME DEALS – Limited Time Offers! 🔥🏠  👉 ✨ Raymond Home Bedsheets Under ₹399 👉 🪟 Raymond Home Curtains Under ₹999 👉 🛌 Summer Blankets & Dohar Under ₹1499 👉 🛏️ Double Bedsheets Under ₹299 👉",
@@ -9522,29 +9542,5 @@
     "date_obj": "2026-05-22T08:45:42+00:00",
     "buy_link": "https://bilty.co/BZnzLy",
     "date_iso": "2026-05-22T08:45:42+00:00"
-  },
-  {
-    "id": "msg36981",
-    "title": "✅ Apply 48% Off",
-    "description": "✅ Apply 48% Off Coupon https://www.amazon.in/dp/B0DM1B36PM?tag=bestpricezo0f-21 https://www.amazon.in/dp/B0DM16VHRQ?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B0DM1B36PM?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0DM1B36PM?tag=bestpricezo0f-21",
-        "label": ""
-      },
-      {
-        "url": "https://www.amazon.in/dp/B0DM16VHRQ?tag=bestpricezo0f-21",
-        "label": ""
-      }
-    ],
-    "raw_text": "✅ Apply 48% Off Coupon\n\nhttps://www.amazon.in/dp/B0DM1B36PM?tag=bestpricezo0f-21\nhttps://www.amazon.in/dp/B0DM16VHRQ?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0DM1B36PM?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_36981.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-05-22T09:27:35+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0DM1B36PM?tag=bestpricezo0f-21",
-    "date_iso": "2026-05-22T09:27:35+00:00"
   }
 ]
