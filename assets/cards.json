@@ -1,5 +1,29 @@
 [
   {
+    "id": "msg38052",
+    "title": "Pampers Diaper Apply 48%",
+    "description": "Pampers Diaper | Apply 48% Coupon 140 : https://www.amazon.in/dp/B0DM16VHRQ?th=1&tag=bestpricezo0f-21 176 : https://www.amazon.in/dp/B0DM1B36PM?psc=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0DM16VHRQ?th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DM16VHRQ?th=1&tag=bestpricezo0f-21",
+        "label": "140"
+      },
+      {
+        "url": "https://www.amazon.in/dp/B0DM1B36PM?psc=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+        "label": "176"
+      }
+    ],
+    "raw_text": "Pampers Diaper | Apply 48% Coupon \n\n140 : https://www.amazon.in/dp/B0DM16VHRQ?th=1&tag=bestpricezo0f-21\n176 : https://www.amazon.in/dp/B0DM1B36PM?psc=1&smid=A15APWRK6P7LBV&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0DM16VHRQ?th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_38052.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-06-02T02:00:20+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DM16VHRQ?th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-06-02T02:00:20+00:00"
+  },
+  {
     "id": "msg38020",
     "title": "Shopsy Women's Top ₹198",
     "description": "Shopsy   Women's Top  ₹198 🔗 https://bilty.co/AcLOzo",
@@ -9278,41 +9302,5 @@
     "date_obj": "2026-05-27T13:45:57+00:00",
     "buy_link": "https://ajiio.co/OO7B6c",
     "date_iso": "2026-05-27T13:45:57+00:00"
-  },
-  {
-    "id": "msg37370",
-    "title": "Up to 80% Off On Premium Brand",
-    "description": "AJIO : Upto 80% Off On Premium Brands Under Armour : Clarks : ASOS : Zivame & Clovia :",
-    "shortlink": "https://ajiio.co/VCNG9X",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 80% Off On Premium Brands"
-      },
-      {
-        "url": "https://ajiio.co/VCNG9X",
-        "label": "Under Armour"
-      },
-      {
-        "url": "https://ajiio.co/KdHVEy",
-        "label": "Clarks"
-      },
-      {
-        "url": "https://ajiio.co/NELKQo",
-        "label": "ASOS"
-      },
-      {
-        "url": "https://ajiio.co/upFqar",
-        "label": "Zivame & Clovia"
-      }
-    ],
-    "raw_text": "AJIO : Upto 80% Off On Premium Brands\n\nUnder Armour : https://ajiio.co/VCNG9X\nClarks : https://ajiio.co/KdHVEy\nASOS : https://ajiio.co/NELKQo\nZivame & Clovia : https://ajiio.co/upFqar",
-    "final_url": "https://ajiio.co/VCNG9X",
-    "local_image": "assets/images/tgmsg_37370.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-05-27T14:01:10+00:00",
-    "buy_link": "https://ajiio.co/VCNG9X",
-    "date_iso": "2026-05-27T14:01:10+00:00"
   }
 ]
