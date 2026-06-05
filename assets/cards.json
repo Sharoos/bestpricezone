@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg38436",
+    "title": "Use Code EORSOP25 To get extra 25% Off",
+    "description": "Myntra | OnePlus Nord Buds 3 Only At Rs. 1949 + 10% Bank Offers!! Use Coupon Code: EORSOP25 To get extra 25% Off OnePlus BWZ 3 Only At Rs. 1241 + 10% Bank Offers!! Use Coupon Code: EORSOP31 To get extra 31% Off OnePlus…",
+    "shortlink": "https://myntr.in/ST3Iu3",
+    "urls": [
+      {
+        "url": "https://myntr.in/ST3Iu3",
+        "label": "OnePlus Nord Buds 3 Only At Rs. 1949 + 10% Bank Offers!!"
+      },
+      {
+        "url": "https://myntr.in/jxeKNk",
+        "label": "OnePlus BWZ 3 Only At Rs. 1241 + 10% Bank Offers!!"
+      },
+      {
+        "url": "https://myntr.in/UKVmS3",
+        "label": "OnePlus Nord Buds 3r Only At Rs. 1493 + 10% Bank Offers!!"
+      }
+    ],
+    "raw_text": "Myntra | OnePlus Nord Buds 3 Only At Rs. 1949 + 10% Bank Offers!! \nUse Coupon Code: EORSOP25 To get extra 25% Off    \nhttps://myntr.in/ST3Iu3\n\nOnePlus BWZ 3 Only At Rs. 1241 + 10% Bank Offers!! \nUse Coupon Code: EORSOP31 To get extra 31% Off    \nhttps://myntr.in/jxeKNk\n\nOnePlus Nord Buds 3r Only At Rs. 1493 + 10% Bank Offers!! \nUse Coupon Code: EORSOP17 To get extra 17% Off    \nhttps://myntr.in/UKVmS3",
+    "final_url": "https://myntr.in/ST3Iu3",
+    "local_image": "assets/images/tgmsg_38436.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-06-05T20:27:28+00:00",
+    "buy_link": "https://myntr.in/ST3Iu3",
+    "date_iso": "2026-06-05T20:27:28+00:00"
+  },
+  {
     "id": "msg38427",
     "title": "68% Off Parachute Pre",
     "description": "Flipkart | 68% Off Parachute Pre-Wash At Rs.162 https://fkrt.co/JSaZjj",
@@ -9714,25 +9742,5 @@
     "date_obj": "2026-05-30T09:50:22+00:00",
     "buy_link": "https://www.amazon.in/dp/B00R2MP7QG?psc=1&tag=bestpricezo0f-21",
     "date_iso": "2026-05-30T09:50:22+00:00"
-  },
-  {
-    "id": "msg37867",
-    "title": "Min 80% off on UCB Perfumes + Bank Offers 😱😱",
-    "description": "Myntra  Min 80% off on UCB Perfumes + Bank Offers 😱😱 Link : https://myntr.in/57IVOk",
-    "shortlink": "https://myntr.in/57IVOk",
-    "urls": [
-      {
-        "url": "https://myntr.in/57IVOk",
-        "label": "Myntra Min 80% off on UCB Perfumes + Bank Offers 😱😱"
-      }
-    ],
-    "raw_text": "Myntra  Min 80% off on UCB Perfumes + Bank Offers 😱😱\n\nLink : https://myntr.in/57IVOk",
-    "final_url": "https://myntr.in/57IVOk",
-    "local_image": "assets/images/tgmsg_37867.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-05-30T09:55:25+00:00",
-    "buy_link": "https://myntr.in/57IVOk",
-    "date_iso": "2026-05-30T09:55:25+00:00"
   }
 ]
