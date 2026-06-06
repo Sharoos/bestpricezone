@@ -1,5 +1,61 @@
 [
   {
+    "id": "msg38507",
+    "title": "Jeans Starts @169",
+    "description": "AJIO Loot : Jeans Starts @169. Women : https://ajiio.in/iN3K3PN Men : https://ajiio.in/tvZOprI",
+    "shortlink": "https://ajiio.in/iN3K3PN",
+    "urls": [
+      {
+        "url": "",
+        "label": "Jeans Starts @169"
+      },
+      {
+        "url": "https://ajiio.in/iN3K3PN",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.in/tvZOprI",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "AJIO Loot : Jeans Starts @169.\n\nWomen : https://ajiio.in/iN3K3PN\nMen : https://ajiio.in/tvZOprI",
+    "final_url": "https://ajiio.in/iN3K3PN",
+    "local_image": "assets/images/tgmsg_38507.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-06-06T17:02:26+00:00",
+    "buy_link": "https://ajiio.in/iN3K3PN",
+    "date_iso": "2026-06-06T17:02:26+00:00"
+  },
+  {
+    "id": "msg38508",
+    "title": "Up to 85% Off Red Tape Shoe",
+    "description": "AJIO : Upto 85% Off : Red Tape Shoes Men's : https://ajiio.in/73UGPHh Women's : https://ajiio.in/BZ1OWoc",
+    "shortlink": "https://ajiio.in/73UGPHh",
+    "urls": [
+      {
+        "url": "",
+        "label": "Upto 85% Off : Red Tape Shoes"
+      },
+      {
+        "url": "https://ajiio.in/73UGPHh",
+        "label": "Men's"
+      },
+      {
+        "url": "https://ajiio.in/BZ1OWoc",
+        "label": "Women's"
+      }
+    ],
+    "raw_text": "AJIO : Upto 85% Off : Red Tape Shoes\n\nMen's : https://ajiio.in/73UGPHh\n\nWomen's : https://ajiio.in/BZ1OWoc",
+    "final_url": "https://ajiio.in/73UGPHh",
+    "local_image": "assets/images/tgmsg_38508.jpg",
+    "source_host": "ajiio.in",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-06-06T17:23:46+00:00",
+    "buy_link": "https://ajiio.in/73UGPHh",
+    "date_iso": "2026-06-06T17:23:46+00:00"
+  },
+  {
     "id": "msg38495",
     "title": "Up to 70% Off on United Colors Of Benetton Watche",
     "description": "Myntra | Upto 70% Off on United Colors Of Benetton Watches 🔗Link : https://myntr.in/jaRHCX",
@@ -9902,45 +9958,5 @@
     "date_obj": "2026-05-30T16:53:52+00:00",
     "buy_link": "https://myntr.it/s2RR1OG",
     "date_iso": "2026-05-30T16:53:52+00:00"
-  },
-  {
-    "id": "msg37913",
-    "title": "Multicolor Stone Bridal Necklace Set With Earrings And Maang Tikka Elegant Gold Plated Designer Wedding Jewelry Set @259",
-    "description": "Amazon | Multicolor Stone Bridal Necklace Set With Earrings And Maang Tikka Elegant Gold Plated Designer Wedding Jewelry Set @259…",
-    "shortlink": "https://www.amazon.in/dp/B0GRR5QVRC?social_share=cm_sw_r_cso_cp_mwn_dp_ACBF8QM35V1AGR78T9FS&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B0GRR5QVRC?social_share=cm_sw_r_cso_cp_mwn_dp_ACBF8QM35V1AGR78T9FS&tag=bestpricezo0f-21",
-        "label": "Multicolor Stone Bridal Necklace Set With Earrings And Maang Tikka Elegant Gold Plated Designer Wedding Jewelry Set @259"
-      }
-    ],
-    "raw_text": "Amazon | Multicolor Stone Bridal Necklace Set With Earrings And Maang Tikka Elegant Gold Plated Designer Wedding Jewelry Set @259\n\nhttps://www.amazon.in/dp/B0GRR5QVRC?social_share=cm_sw_r_cso_cp_mwn_dp_ACBF8QM35V1AGR78T9FS&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B0GRR5QVRC?social_share=cm_sw_r_cso_cp_mwn_dp_ACBF8QM35V1AGR78T9FS&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_37913.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-05-30T17:10:27+00:00",
-    "buy_link": "https://www.amazon.in/dp/B0GRR5QVRC?social_share=cm_sw_r_cso_cp_mwn_dp_ACBF8QM35V1AGR78T9FS&tag=bestpricezo0f-21",
-    "date_iso": "2026-05-30T17:10:27+00:00"
-  },
-  {
-    "id": "msg37914",
-    "title": "52% Off",
-    "description": "Amazon | 52% Off - Staunch Professional Hair Curler Rs.961 https://www.amazon.in/dp/B08937YTVK?tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B08937YTVK?tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B08937YTVK?tag=bestpricezo0f-21",
-        "label": "52% Off - Staunch Professional Hair Curler Rs.961"
-      }
-    ],
-    "raw_text": "Amazon | 52% Off - Staunch Professional Hair Curler Rs.961\n\nhttps://www.amazon.in/dp/B08937YTVK?tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B08937YTVK?tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_37914.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-05-30T17:15:41+00:00",
-    "buy_link": "https://www.amazon.in/dp/B08937YTVK?tag=bestpricezo0f-21",
-    "date_iso": "2026-05-30T17:15:41+00:00"
   }
 ]
