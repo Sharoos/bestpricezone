@@ -1,5 +1,53 @@
 [
   {
+    "id": "msg38439",
+    "title": "HE deo at flat 70% off",
+    "description": "Myntra | HE Set Of 2 Men Respect Perfumed Body Spray Deodorant - 100g Each HE deo at flat 70% off https://myntr.in/Bfo5jC",
+    "shortlink": "https://myntr.in/Bfo5jC",
+    "urls": [
+      {
+        "url": "",
+        "label": "HE Set Of 2 Men Respect Perfumed Body Spray Deodorant - 100g Each"
+      },
+      {
+        "url": "https://myntr.in/Bfo5jC",
+        "label": "HE deo at flat 70% off"
+      }
+    ],
+    "raw_text": "Myntra | HE Set Of 2 Men Respect Perfumed Body Spray Deodorant - 100g Each\n\nHE deo at flat 70% off\n\nhttps://myntr.in/Bfo5jC",
+    "final_url": "https://myntr.in/Bfo5jC",
+    "local_image": "assets/images/tgmsg_38439.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-06-06T04:07:21+00:00",
+    "buy_link": "https://myntr.in/Bfo5jC",
+    "date_iso": "2026-06-06T04:07:21+00:00"
+  },
+  {
+    "id": "msg38440",
+    "title": "Safari Trolly Bag Combo At Rs.3299",
+    "description": "Myntra | Safari Trolly Bag Combo At Rs.3299 Regular RS.5823 https://myntr.in/lNVgty",
+    "shortlink": "https://myntr.in/lNVgty",
+    "urls": [
+      {
+        "url": "",
+        "label": "Safari Trolly Bag Combo At Rs.3299"
+      },
+      {
+        "url": "https://myntr.in/lNVgty",
+        "label": "Regular RS.5823"
+      }
+    ],
+    "raw_text": "Myntra | Safari Trolly Bag Combo At Rs.3299\n\nRegular RS.5823\n\nhttps://myntr.in/lNVgty",
+    "final_url": "https://myntr.in/lNVgty",
+    "local_image": "assets/images/tgmsg_38440.jpg",
+    "source_host": "myntr.in",
+    "merchant_label": "Myntra",
+    "date_obj": "2026-06-06T04:09:22+00:00",
+    "buy_link": "https://myntr.in/lNVgty",
+    "date_iso": "2026-06-06T04:09:22+00:00"
+  },
+  {
     "id": "msg38436",
     "title": "Use Code EORSOP25 To get extra 25% Off",
     "description": "Myntra | OnePlus Nord Buds 3 Only At Rs. 1949 + 10% Bank Offers!! Use Coupon Code: EORSOP25 To get extra 25% Off OnePlus BWZ 3 Only At Rs. 1241 + 10% Bank Offers!! Use Coupon Code: EORSOP31 To get extra 31% Off OnePlus…",
@@ -9702,45 +9750,5 @@
     "date_obj": "2026-05-30T09:34:03+00:00",
     "buy_link": "https://myntr.in/RFqUvn",
     "date_iso": "2026-05-30T09:34:03+00:00"
-  },
-  {
-    "id": "msg37864",
-    "title": "Rare Rabbit Up to 75% off",
-    "description": "Flipkart | Rare Rabbit Upto 75% off 🔗 https://fkrt.co/3k083q",
-    "shortlink": "https://fkrt.co/3k083q",
-    "urls": [
-      {
-        "url": "https://fkrt.co/3k083q",
-        "label": "Rare Rabbit Upto 75% off"
-      }
-    ],
-    "raw_text": "Flipkart | Rare Rabbit Upto 75% off\n\n🔗 https://fkrt.co/3k083q",
-    "final_url": "https://fkrt.co/3k083q",
-    "local_image": "assets/images/tgmsg_37864.jpg",
-    "source_host": "fkrt.co",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-05-30T09:40:29+00:00",
-    "buy_link": "https://fkrt.co/3k083q",
-    "date_iso": "2026-05-30T09:40:29+00:00"
-  },
-  {
-    "id": "msg37866",
-    "title": "💥 Premium Cotton Balls (50 Pcs) @ ₹38",
-    "description": "Amazon | 💥 Premium Cotton Balls (50 Pcs) @ ₹38 🔗 https://www.amazon.in/dp/B00R2MP7QG?psc=1&tag=bestpricezo0f-21",
-    "shortlink": "https://www.amazon.in/dp/B00R2MP7QG?psc=1&tag=bestpricezo0f-21",
-    "urls": [
-      {
-        "url": "https://www.amazon.in/dp/B00R2MP7QG?psc=1&tag=bestpricezo0f-21",
-        "label": "💥 Premium Cotton Balls (50 Pcs) @ ₹38"
-      }
-    ],
-    "raw_text": "Amazon | 💥 Premium Cotton Balls (50 Pcs) @ ₹38\n\n🔗 https://www.amazon.in/dp/B00R2MP7QG?psc=1&tag=bestpricezo0f-21",
-    "final_url": "https://www.amazon.in/dp/B00R2MP7QG?psc=1&tag=bestpricezo0f-21",
-    "local_image": "assets/images/tgmsg_37866.jpg",
-    "source_host": "www.amazon.in",
-    "merchant_label": "Amazon",
-    "date_obj": "2026-05-30T09:50:22+00:00",
-    "buy_link": "https://www.amazon.in/dp/B00R2MP7QG?psc=1&tag=bestpricezo0f-21",
-    "date_iso": "2026-05-30T09:50:22+00:00"
   }
 ]
