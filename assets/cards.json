@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg38530",
+    "title": "Jeans Starts At 240",
+    "description": "AJIO  Jeans Starts At 240. Women : https://ajiio.co/OMG3f9 Men : https://ajiio.co/WzmCkh",
+    "shortlink": "https://ajiio.co/OMG3f9",
+    "urls": [
+      {
+        "url": "",
+        "label": "AJIO Jeans Starts At 240"
+      },
+      {
+        "url": "https://ajiio.co/OMG3f9",
+        "label": "Women"
+      },
+      {
+        "url": "https://ajiio.co/WzmCkh",
+        "label": "Men"
+      }
+    ],
+    "raw_text": "AJIO  Jeans Starts At 240.\n\nWomen : https://ajiio.co/OMG3f9\nMen : https://ajiio.co/WzmCkh",
+    "final_url": "https://ajiio.co/OMG3f9",
+    "local_image": "assets/images/tgmsg_38530.jpg",
+    "source_host": "ajiio.co",
+    "merchant_label": "Ajiio",
+    "date_obj": "2026-06-07T01:45:53+00:00",
+    "buy_link": "https://ajiio.co/OMG3f9",
+    "date_iso": "2026-06-07T01:45:53+00:00"
+  },
+  {
     "id": "msg38528",
     "title": "Clocks Starting at 199/",
     "description": "Myntra |- + additional coupon 🔗 Ceiling lamp Starting at 399/- + additional coupon 🔗 Table Lamp starting at 419/- + additional coupon 🔗 Wall Lamp starting at 495/- + additional coupon 🔗 Wall Art starting at 166/- +…",
@@ -9850,57 +9878,5 @@
     "date_obj": "2026-05-31T05:49:11+00:00",
     "buy_link": "https://myntr.in/wCJUcg",
     "date_iso": "2026-05-31T05:49:11+00:00"
-  },
-  {
-    "id": "msg37918",
-    "title": "Up to 85% Off On Branded Shoe (Limited Stock)",
-    "description": "Flipkart Loot : Upto 85% Off On Branded Shoe (Limited Stock). Master Link : Puma : Adidas : Reebok : Campus : Redtape : Ducati : Crocs :",
-    "shortlink": "https://fktr.in/h6uqQ21",
-    "urls": [
-      {
-        "url": "",
-        "label": "Upto 85% Off On Branded Shoe (Limited Stock)"
-      },
-      {
-        "url": "https://fktr.in/h6uqQ21",
-        "label": "Master"
-      },
-      {
-        "url": "https://fktr.in/ni2bRb7",
-        "label": "Puma"
-      },
-      {
-        "url": "https://fktr.in/f6Qz7ik",
-        "label": "Adidas"
-      },
-      {
-        "url": "https://fktr.in/Yxo1GVE",
-        "label": "Reebok"
-      },
-      {
-        "url": "https://fktr.in/nFiQDEg",
-        "label": "Campus"
-      },
-      {
-        "url": "https://fktr.in/WUBK0Eq",
-        "label": "Redtape"
-      },
-      {
-        "url": "https://fktr.in/bomytWP",
-        "label": "Ducati"
-      },
-      {
-        "url": "https://fktr.in/DnweiNj",
-        "label": "Crocs"
-      }
-    ],
-    "raw_text": "Flipkart Loot : Upto 85% Off On Branded Shoe (Limited Stock). \n\nMaster Link : https://fktr.in/h6uqQ21\n\nPuma : https://fktr.in/ni2bRb7\nAdidas : https://fktr.in/f6Qz7ik\nReebok : https://fktr.in/Yxo1GVE\nCampus : https://fktr.in/nFiQDEg\nRedtape : https://fktr.in/WUBK0Eq\nDucati : https://fktr.in/bomytWP\nCrocs : https://fktr.in/DnweiNj",
-    "final_url": "https://fktr.in/h6uqQ21",
-    "local_image": "assets/images/tgmsg_37918.jpg",
-    "source_host": "fktr.in",
-    "merchant_label": "Flipkart",
-    "date_obj": "2026-05-30T17:47:22+00:00",
-    "buy_link": "https://fktr.in/h6uqQ21",
-    "date_iso": "2026-05-30T17:47:22+00:00"
   }
 ]
