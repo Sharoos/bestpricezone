@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg38769",
+    "title": "Apply 10% off",
+    "description": "Amazon | Titan Athleisure Analog Blue Dial Men's Watch @3665 Apply 10% off coupon 🔗 https://www.amazon.in/dp/B083ZJ71DW?psc=1&th=1&tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B083ZJ71DW?psc=1&th=1&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B083ZJ71DW?psc=1&th=1&tag=bestpricezo0f-21",
+        "label": "Titan Athleisure Analog Blue Dial Men's Watch @3665"
+      }
+    ],
+    "raw_text": "Amazon | Titan Athleisure Analog Blue Dial Men's Watch @3665\n\nApply 10% off coupon\n\n🔗 https://www.amazon.in/dp/B083ZJ71DW?psc=1&th=1&tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B083ZJ71DW?psc=1&th=1&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_38769.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-06-09T18:40:54+00:00",
+    "buy_link": "https://www.amazon.in/dp/B083ZJ71DW?psc=1&th=1&tag=bestpricezo0f-21",
+    "date_iso": "2026-06-09T18:40:54+00:00"
+  },
+  {
     "id": "msg38752",
     "title": "3 Seater Foldable Sofa Bed",
     "description": "Flipkart | 3 Seater Foldable Sofa Bed ₹9,024 https://fkrt.co/5mQ392",
@@ -9710,69 +9730,5 @@
     "date_obj": "2026-06-03T05:51:21+00:00",
     "buy_link": "https://myntr.in/jX2g9k",
     "date_iso": "2026-06-03T05:51:21+00:00"
-  },
-  {
-    "id": "msg38141",
-    "title": "💥Water Bottle starting at 241 + Additional of 20%",
-    "description": "Myntra | 💥Water Bottle starting at 241 + Additional Coupon of 20% ⚡ 💥Curtains and sheer starting at 186 + Additional Coupon of 20% ⚡ ⚡ 💥Containers Starting at 206/- + Additional Coupon of 20% ⚡ 💥Umbrella Starting at…",
-    "shortlink": "https://myntr.in/aHjEba",
-    "urls": [
-      {
-        "url": "https://myntr.in/aHjEba",
-        "label": ""
-      },
-      {
-        "url": "https://myntr.in/Gu0NeB",
-        "label": ""
-      },
-      {
-        "url": "https://myntr.in/TIihO7",
-        "label": ""
-      },
-      {
-        "url": "https://myntr.in/xcLv0l",
-        "label": ""
-      },
-      {
-        "url": "https://myntr.in/gchOyx",
-        "label": ""
-      },
-      {
-        "url": "https://myntr.in/CmhLKn",
-        "label": ""
-      },
-      {
-        "url": "https://myntr.in/ZT6VnS",
-        "label": ""
-      },
-      {
-        "url": "https://myntr.in/kF8gQZ",
-        "label": ""
-      },
-      {
-        "url": "https://myntr.in/DeTtMV",
-        "label": ""
-      },
-      {
-        "url": "https://myntr.in/WPmC4Y",
-        "label": ""
-      },
-      {
-        "url": "https://myntr.in/OHrarx",
-        "label": ""
-      },
-      {
-        "url": "https://myntr.in/OvOqX7",
-        "label": ""
-      }
-    ],
-    "raw_text": "Myntra | 💥Water Bottle starting at 241 + Additional Coupon of 20%\n⚡https://myntr.in/aHjEba\n\n💥Curtains and sheer starting at 186 + Additional Coupon of 20%\n⚡https://myntr.in/Gu0NeB\n⚡https://myntr.in/TIihO7\n\n💥Containers Starting at 206/- + Additional Coupon of 20%\n⚡https://myntr.in/xcLv0l\n\n💥Umbrella Starting at 350/- +  + Additional Coupon of 20%\n⚡https://myntr.in/gchOyx\n\n💥Cotton Bedsheet at Min 50%  + Additional Coupon of 20%\n⚡https://myntr.in/CmhLKn\n\n💥Satin Bedsheet at Min 70%  + Additional Coupon of 20%\n⚡https://myntr.in/ZT6VnS\n\n💥Bedsheet at Min 70%  + Additional Coupon of 20%\n⚡https://myntr.in/kF8gQZ\n\n💥Wall Art starting at 169/-  + Additional Coupon of 20%\n⚡https://myntr.in/DeTtMV\n\n💥Sofa Covers starting at 151 + Additional Coupon of 20%\n⚡https://myntr.in/WPmC4Y\n\n💥Bowls starting at 191/- + Additional Coupon of 20%\n⚡https://myntr.in/OHrarx\n\n💥Lunch Boxes starting at 283/- + Additional Coupon of 20%\n⚡https://myntr.in/OvOqX7",
-    "final_url": "https://myntr.in/aHjEba",
-    "local_image": "assets/images/tgmsg_38141.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-06-03T06:11:30+00:00",
-    "buy_link": "https://myntr.in/aHjEba",
-    "date_iso": "2026-06-03T06:11:30+00:00"
   }
 ]
