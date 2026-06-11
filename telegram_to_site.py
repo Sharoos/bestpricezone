@@ -217,7 +217,7 @@ def safe_filename(base: str) -> str:
     return f"{name}_{h}"
 
 REQ = requests.Session()
-REQ.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "en-IN,en;q=0.9"})
+REQ.ers.update({"User-Agent": USER_AGENT, "Accept-Language": "en-IN,en;q=0.9"})
 REQ.max_redirects = 8
 
 def extract_url_labels(raw_text: str, urls: list) -> list:
@@ -225,7 +225,7 @@ def extract_url_labels(raw_text: str, urls: list) -> list:
     Return list of {"url":..., "label":...} in reading order.
     This version:
       - merges duplicate URLs (keep first occurrence, prefer first non-empty label)
-      - removes duplicate header-only labels (keeps first)
+      - removes duplicate er-only labels (keeps first)
       - normalizes / strips trivial 'buy now' noise from labels
       - ensures every original url appears at least once
     """
@@ -242,7 +242,7 @@ def extract_url_labels(raw_text: str, urls: list) -> list:
         without_urls = re.sub(r'^[\s\-\u25B6👉\*•…\:\|]+|[\s\-\u25B6👉\*•…\:\|]+$', '', without_urls).strip()
         return len(without_urls) < 4
 
-    def is_header_line(s: str) -> bool:
+    def is_er_line(s: str) -> bool:
         if not s: return False
         s2 = s.strip()
         if URL_RE.search(s2): return False
@@ -271,7 +271,7 @@ def extract_url_labels(raw_text: str, urls: list) -> list:
 
     discount_re = re.compile(r'\b(upto|up to|off|discount|% off|%|sale|save|flat)\b', re.I)
 
-    current_header = ""
+    current_er = ""
     i = 0
     while i < len(lines):
         ln = lines[i]
@@ -280,7 +280,7 @@ def extract_url_labels(raw_text: str, urls: list) -> list:
             continue
         stripped = ln.strip()
 
-        # header lookahead and merge-with-next-url behaviour
+        # er lookahead and merge-with-next-url behaviour
         if is_header_line(stripped):
             candidate = clean_label_candidate(stripped)
             j = i + 1
@@ -620,6 +620,9 @@ def build_index(cards, show_relative=True, banner_rel: Optional[str] = None, her
 
 <meta name="title" content="BestPriceZone — Best Online Deals & Discounts" />
 <meta name="description" content="BestPriceZone brings you the latest discounts from Amazon, Flipkart, Ajio, Myntra & more. Save money with daily updated deals, offers, and coupons.">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1544215949940677"
+     crossorigin="anonymous"></script>
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
