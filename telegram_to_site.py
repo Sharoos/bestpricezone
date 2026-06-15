@@ -217,7 +217,7 @@ def safe_filename(base: str) -> str:
     return f"{name}_{h}"
 
 REQ = requests.Session()
-REQ.ers.update({"User-Agent": USER_AGENT, "Accept-Language": "en-IN,en;q=0.9"})
+REQ.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "en-IN,en;q=0.9"})
 REQ.max_redirects = 8
 
 def extract_url_labels(raw_text: str, urls: list) -> list:
