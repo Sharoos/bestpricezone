@@ -88,33 +88,40 @@ jobs:
             
             # Category: Tech & Electronics
             if [[ "$TITLE" =~ "Mouse"|"Gaming"|"Buds"|"Earbuds"|"Fan"|"TV"|"Phone"|"Laptop" ]]; then
-                EXTRAS="%23TechDealsIndia %23GadgetLoot %23GamingDealsIndia"
+                EXTRAS="#TechDealsIndia #GadgetLoot #GamingDealsIndia"
             
             # Category: Beauty & Personal Care
             elif [[ "$TITLE" =~ "Lakme"|"Beauty"|"Skin"|"Serum"|"Lipstick"|"Cream" ]]; then
-                EXTRAS="%23BeautyDeals %23SkincareIndia %23MakeupLoot"
+                EXTRAS="#BeautyDeals #SkincareIndia #MakeupLoot"
 
             # Category: Fashion & Footwear
             elif [[ "$TITLE" =~ "Kurta"|"Shirt"|"Topwear"|"Jean"|"Shoe"|"Backpack"|"Clothing" ]]; then
-                EXTRAS="%23FashionDealsIndia %23MyntraSale %23AjioLoot %23OOTDIndia"
+                EXTRAS="#FashionDealsIndia #MyntraSale #AjioLoot #OOTDIndia"
 
             # Category: Grocery & Household
             elif [[ "$TITLE" =~ "Veeba"|"Food"|"Grocery"|"Kitchen"|"Bottle" ]]; then
-                EXTRAS="%23GroceryDeals %23HomeEssentials %23KitchenHacks"
+                EXTRAS="#GroceryDeals #HomeEssentials #KitchenHacks"
             fi
 
             # 3. India-Specific High Reach Viral Set
-            VIRAL_TAGS="%23LootAlert %23OnlineShoppingIndia %23BestPriceZone %23AmazonFindsIndia %23FlipkartDeals"
+            VIRAL_TAGS="#LootAlert #OnlineShoppingIndia #BestPriceZone #AmazonFindsIndia #FlipkartDeals"
             
             HASHTAGS="$VIRAL_TAGS $EXTRAS"
 
             echo "Posting ($((i+1))/$NEW_COUNT): $TITLE"
 
-            # 4. Optimized Caption for Reach
+            # 4. Optimized Caption for Reach (Using -F for multipart/form-data)
             curl -X POST "https://graph.facebook.com/v18.0/${{ secrets.FB_PAGE_ID }}/photos" \
-            -d "url=$IMG_URL" \
-            -d "caption=🚨 BIG SAVINGS: $TITLE %0A%0A✨ Don't pay full price! Grab this deal now on Best Price Zone. %0A%0A🛒 Shop Here: $LINK %0A%0A$HASHTAGS" \
-            -d "access_token=${{ secrets.FB_PAGE_TOKEN }}"
+            -F "url=$IMG_URL" \
+            -F "caption=🚨 BIG SAVINGS: $TITLE
+
+          ✨ Don't pay full price! Grab this deal now on Best Price Zone.
+
+          🛒 Shop Here: $LINK
+
+          $HASHTAGS" \
+            -F "published=true" \
+            -F "access_token=${{ secrets.FB_PAGE_TOKEN }}"
             
             sleep 10
           done
