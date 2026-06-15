@@ -242,7 +242,7 @@ def extract_url_labels(raw_text: str, urls: list) -> list:
         without_urls = re.sub(r'^[\s\-\u25B6👉\*•…\:\|]+|[\s\-\u25B6👉\*•…\:\|]+$', '', without_urls).strip()
         return len(without_urls) < 4
 
-    def is_er_line(s: str) -> bool:
+    def is_header_line(s: str) -> bool:
         if not s: return False
         s2 = s.strip()
         if URL_RE.search(s2): return False
@@ -271,7 +271,7 @@ def extract_url_labels(raw_text: str, urls: list) -> list:
 
     discount_re = re.compile(r'\b(upto|up to|off|discount|% off|%|sale|save|flat)\b', re.I)
 
-    current_er = ""
+    current_header = ""
     i = 0
     while i < len(lines):
         ln = lines[i]
