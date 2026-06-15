@@ -7,6 +7,10 @@ on:
   schedule:
     - cron: '*/15 * * * *'
 
+# Opt into Node 24 early to prevent pipeline breakage on June 16, 2026
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 permissions:
   contents: write
   pages: write
@@ -23,7 +27,7 @@ jobs:
           fetch-depth: 0
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -60,7 +64,6 @@ jobs:
             echo "No new deals found. Skipping commit."
             echo "pushed=false" >> $GITHUB_OUTPUT
           else
-            # REMOVED [skip ci] to ensure the workflow finishes the Facebook post
             git commit -m "Update deals and database"
             git push origin main
             echo "pushed=true" >> $GITHUB_OUTPUT
@@ -83,25 +86,24 @@ jobs:
             # 2. Advanced Keyword Research Logic based on your site (bestpricezone.in)
             EXTRAS=""
             
-            # Category: Tech & Electronics (e.g., Ant Esports, Gaming Mouse, Buds)
+            # Category: Tech & Electronics
             if [[ "$TITLE" =~ "Mouse"|"Gaming"|"Buds"|"Earbuds"|"Fan"|"TV"|"Phone"|"Laptop" ]]; then
                 EXTRAS="%23TechDealsIndia %23GadgetLoot %23GamingDealsIndia"
             
-            # Category: Beauty & Personal Care (e.g., Lakme, Maybelline)
+            # Category: Beauty & Personal Care
             elif [[ "$TITLE" =~ "Lakme"|"Beauty"|"Skin"|"Serum"|"Lipstick"|"Cream" ]]; then
                 EXTRAS="%23BeautyDeals %23SkincareIndia %23MakeupLoot"
 
-            # Category: Fashion & Footwear (e.g., Spykar, Kurta, Topwear, Shoes, Shirts)
+            # Category: Fashion & Footwear
             elif [[ "$TITLE" =~ "Kurta"|"Shirt"|"Topwear"|"Jean"|"Shoe"|"Backpack"|"Clothing" ]]; then
                 EXTRAS="%23FashionDealsIndia %23MyntraSale %23AjioLoot %23OOTDIndia"
 
-            # Category: Grocery & Household (e.g., Veeba, Mayonnaise, Food)
+            # Category: Grocery & Household
             elif [[ "$TITLE" =~ "Veeba"|"Food"|"Grocery"|"Kitchen"|"Bottle" ]]; then
                 EXTRAS="%23GroceryDeals %23HomeEssentials %23KitchenHacks"
             fi
 
             # 3. India-Specific High Reach Viral Set
-            # Including "Shopsy" and "Flipkart" keywords as they are trending in India right now
             VIRAL_TAGS="%23LootAlert %23OnlineShoppingIndia %23BestPriceZone %23AmazonFindsIndia %23FlipkartDeals"
             
             HASHTAGS="$VIRAL_TAGS $EXTRAS"
@@ -109,7 +111,6 @@ jobs:
             echo "Posting ($((i+1))/$NEW_COUNT): $TITLE"
 
             # 4. Optimized Caption for Reach
-            # Note: Using %0A for line breaks to make it look professional on mobile
             curl -X POST "https://graph.facebook.com/v18.0/${{ secrets.FB_PAGE_ID }}/photos" \
             -d "url=$IMG_URL" \
             -d "caption=🚨 BIG SAVINGS: $TITLE %0A%0A✨ Don't pay full price! Grab this deal now on Best Price Zone. %0A%0A🛒 Shop Here: $LINK %0A%0A$HASHTAGS" \
