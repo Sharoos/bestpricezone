@@ -1,5 +1,33 @@
 [
   {
+    "id": "msg39373",
+    "title": "Grocery Up to 92% Off",
+    "description": "Flipkart Grocery Loot : Upto 92% Off Link 1 :   https://fktr.in/DtokFju Link 2 :   https://fktr.in/v4oOLQs Link 3 :   https://fktr.in/145HiVz",
+    "shortlink": "https://fktr.in/DtokFju",
+    "urls": [
+      {
+        "url": "https://fktr.in/DtokFju",
+        "label": "Upto 92% Off"
+      },
+      {
+        "url": "https://fktr.in/v4oOLQs",
+        "label": "Upto 92% Off"
+      },
+      {
+        "url": "https://fktr.in/145HiVz",
+        "label": "Upto 92% Off"
+      }
+    ],
+    "raw_text": "Flipkart Grocery Loot : Upto 92% Off\n\nLink 1 :   https://fktr.in/DtokFju\nLink 2 :   https://fktr.in/v4oOLQs\nLink 3 :   https://fktr.in/145HiVz",
+    "final_url": "https://fktr.in/DtokFju",
+    "local_image": "assets/images/tgmsg_39373.jpg",
+    "source_host": "fktr.in",
+    "merchant_label": "Flipkart",
+    "date_obj": "2026-06-17T04:56:14+00:00",
+    "buy_link": "https://fktr.in/DtokFju",
+    "date_iso": "2026-06-17T04:56:14+00:00"
+  },
+  {
     "id": "msg39371",
     "title": "Up to 80% Off On Handbags 🔥💥",
     "description": "Myntra | Upto 80% Off On Handbags 🔥💥 👉Link : https://myntr.in/NlFn1R",
@@ -9750,29 +9778,5 @@
     "date_obj": "2026-06-06T08:06:18+00:00",
     "buy_link": "https://www.amazon.in/s?k=Campus+Sutra&i=apparel&rh=n%3A1968024031%2Cp_6%3AA1WYWER0W24N8S%2Cp_n_pct-off-with-tax%3A27060457031%2Cp_123%3A33124&dc=&ds=v1%3AUtcrHbP6Y7ZXF7Yg1igLJLXdK%2FE%252Bnlw4xYZz%252B8f%252B0Yw&crid=2DBVC5ECEAMEN&qid=1751187013&sprefix=campus+sutra+%2Capparel%2C251&ck&tag=bestpricezo0f-21&",
     "date_iso": "2026-06-06T08:06:18+00:00"
-  },
-  {
-    "id": "msg38439",
-    "title": "HE deo at flat 70% off",
-    "description": "Myntra | HE Set Of 2 Men Respect Perfumed Body Spray Deodorant - 100g Each HE deo at flat 70% off https://myntr.in/Bfo5jC",
-    "shortlink": "https://myntr.in/Bfo5jC",
-    "urls": [
-      {
-        "url": "",
-        "label": "HE Set Of 2 Men Respect Perfumed Body Spray Deodorant - 100g Each"
-      },
-      {
-        "url": "https://myntr.in/Bfo5jC",
-        "label": "HE deo at flat 70% off"
-      }
-    ],
-    "raw_text": "Myntra | HE Set Of 2 Men Respect Perfumed Body Spray Deodorant - 100g Each\n\nHE deo at flat 70% off\n\nhttps://myntr.in/Bfo5jC",
-    "final_url": "https://myntr.in/Bfo5jC",
-    "local_image": "assets/images/tgmsg_38439.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-06-06T04:07:21+00:00",
-    "buy_link": "https://myntr.in/Bfo5jC",
-    "date_iso": "2026-06-06T04:07:21+00:00"
   }
 ]
