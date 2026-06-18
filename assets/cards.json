@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg39399",
+    "title": "JioTag Air for iOS At 549",
+    "description": "JioTag Air for iOS At 549 https://www.amazon.in/dp/B0D5B1DHHY?tag=bestpricezo0f-21",
+    "shortlink": "https://www.amazon.in/dp/B0D5B1DHHY?tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0D5B1DHHY?tag=bestpricezo0f-21",
+        "label": "JioTag Air for iOS At 549"
+      }
+    ],
+    "raw_text": "JioTag Air for iOS At 549\n\nhttps://www.amazon.in/dp/B0D5B1DHHY?tag=bestpricezo0f-21",
+    "final_url": "https://www.amazon.in/dp/B0D5B1DHHY?tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_39399.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-06-18T13:25:08+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0D5B1DHHY?tag=bestpricezo0f-21",
+    "date_iso": "2026-06-18T13:25:08+00:00"
+  },
+  {
     "id": "msg39396",
     "title": "MediBuddy Offer Flat ₹5151 Off on Full Body Health Check",
     "description": "MediBuddy Offer : Flat ₹5151 Off on Full Body Health Check-Up + Vitamin Tests 🔥🔥 ✅ 63+ Lab Tests (Vitamin D, Thyroid profile, Diabetes, Liver function, CBC, Kidney, Lipid Profile, Calcium, Iron & more) Worth ₹5900 @…",
@@ -9678,37 +9698,5 @@
     "date_obj": "2026-06-06T12:06:19+00:00",
     "buy_link": "https://myntr.in/X4X5Bs",
     "date_iso": "2026-06-06T12:06:19+00:00"
-  },
-  {
-    "id": "msg38477",
-    "title": "🎉 Minimum 70% OFF + Extra",
-    "description": "🧒👕 AJIO KIDS SUMMER EDITION SALE ☀️🔥 ⏰ Live Today at 6:00 PM Get your little ones summer-ready with trendy T-Shirts, Shorts & more at unbeatable prices  Coupon 🔗 Shop Now:",
-    "shortlink": "https://ajiio.co/ls01h2",
-    "urls": [
-      {
-        "url": "",
-        "label": "🧒👕 AJIO KIDS SUMMER EDITION SALE ☀️🔥"
-      },
-      {
-        "url": "",
-        "label": "⏰ Live Today at 6:00 PM"
-      },
-      {
-        "url": "",
-        "label": "ready with trendy T-Shirts, Shorts & more at unbeatable prices"
-      },
-      {
-        "url": "https://ajiio.co/ls01h2",
-        "label": "🔗 Shop Now"
-      }
-    ],
-    "raw_text": "🧒👕 AJIO KIDS SUMMER EDITION SALE ☀️🔥\n⏰ Live Today at 6:00 PM\n\nGet your little ones summer-ready with trendy T-Shirts, Shorts & more at unbeatable prices\n\n🎉 Minimum 70% OFF + Extra Coupon \n\n🔗 Shop Now: https://ajiio.co/ls01h2",
-    "final_url": "https://ajiio.co/ls01h2",
-    "local_image": "assets/images/tgmsg_38477.jpg",
-    "source_host": "ajiio.co",
-    "merchant_label": "Ajiio",
-    "date_obj": "2026-06-06T12:13:16+00:00",
-    "buy_link": "https://ajiio.co/ls01h2",
-    "date_iso": "2026-06-06T12:13:16+00:00"
   }
 ]
