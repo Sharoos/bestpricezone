@@ -1,5 +1,37 @@
 [
   {
+    "id": "msg39400",
+    "title": "⚠️ Prime Sale starts July 4 — this on all your accounts before it goes away",
+    "description": "Amazon Prime — Grab It Cheap • 1 Year Prime Shopping Edition — ₹299 • 1 Year Prime + Prime Video — ₹999 ⚠️ Prime Sale starts July 4 — grab this on all your accounts before it goes away",
+    "shortlink": "https://www.amazon.in/amazonprime?primeCampaignId=prime_assoc_FT_IN&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "",
+        "label": "Amazon Prime — Grab It Cheap"
+      },
+      {
+        "url": "",
+        "label": "1 Year Prime Shopping Edition — ₹299"
+      },
+      {
+        "url": "https://www.amazon.in/amazonprime?primeCampaignId=prime_assoc_FT_IN&tag=bestpricezo0f-21",
+        "label": "1 Year Prime + Prime Video — ₹999"
+      },
+      {
+        "url": "",
+        "label": "⚠️ Prime Sale starts July 4 — grab this on all your accounts before it goes away"
+      }
+    ],
+    "raw_text": "Amazon Prime — Grab It Cheap\n\n• 1 Year Prime Shopping Edition — ₹299\n• 1 Year Prime + Prime Video — ₹999\n\nhttps://www.amazon.in/amazonprime?primeCampaignId=prime_assoc_FT_IN&tag=bestpricezo0f-21\nhttps://www.amazon.in/amazonprime?primeCampaignId=prime_assoc_FT_IN&tag=bestpricezo0f-21\n\n⚠️ Prime Sale starts July 4 — grab this on all your accounts before it goes away",
+    "final_url": "https://www.amazon.in/amazonprime?primeCampaignId=prime_assoc_FT_IN&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_39400.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-06-18T16:08:50+00:00",
+    "buy_link": "https://www.amazon.in/amazonprime?primeCampaignId=prime_assoc_FT_IN&tag=bestpricezo0f-21",
+    "date_iso": "2026-06-18T16:08:50+00:00"
+  },
+  {
     "id": "msg39399",
     "title": "JioTag Air for iOS At 549",
     "description": "JioTag Air for iOS At 549 https://www.amazon.in/dp/B0D5B1DHHY?tag=bestpricezo0f-21",
@@ -9678,25 +9710,5 @@
     "date_obj": "2026-06-06T14:51:26+00:00",
     "buy_link": "https://www.amazon.in/dp/B0BBB1M4N1?tag=bestpricezo0f-21",
     "date_iso": "2026-06-06T14:51:26+00:00"
-  },
-  {
-    "id": "msg38476",
-    "title": "Ikonic Hair Brushes Starts at Rs.229",
-    "description": "Myntra : Ikonic Hair Brushes Starts at Rs.229. https://myntr.in/X4X5Bs",
-    "shortlink": "https://myntr.in/X4X5Bs",
-    "urls": [
-      {
-        "url": "https://myntr.in/X4X5Bs",
-        "label": "Ikonic Hair Brushes Starts at Rs.229"
-      }
-    ],
-    "raw_text": "Myntra : Ikonic Hair Brushes Starts at Rs.229.\n\nhttps://myntr.in/X4X5Bs",
-    "final_url": "https://myntr.in/X4X5Bs",
-    "local_image": "assets/images/tgmsg_38476.jpg",
-    "source_host": "myntr.in",
-    "merchant_label": "Myntra",
-    "date_obj": "2026-06-06T12:06:19+00:00",
-    "buy_link": "https://myntr.in/X4X5Bs",
-    "date_iso": "2026-06-06T12:06:19+00:00"
   }
 ]
