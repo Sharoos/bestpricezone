@@ -1,5 +1,25 @@
 [
   {
+    "id": "msg39436",
+    "title": "Apply ₹1500 Off + ₹11,100 Off Using HDFC CC No Cost EMI",
+    "description": "Samsung 9 kg, 5 Star Fully-Automatic Washing Machine at 29,390 Apply ₹1500 Off Coupon + ₹11,100 Off Using HDFC CC No Cost EMIs.",
+    "shortlink": "https://www.amazon.in/dp/B0DS681G4K?psc=1&th=1&smid=A3K8GDUW67973J&tag=bestpricezo0f-21",
+    "urls": [
+      {
+        "url": "https://www.amazon.in/dp/B0DS681G4K?psc=1&th=1&smid=A3K8GDUW67973J&tag=bestpricezo0f-21",
+        "label": "Samsung 9 kg, 5 Star Fully-Automatic Washing Machine at 29,390"
+      }
+    ],
+    "raw_text": "Samsung 9 kg, 5 Star Fully-Automatic Washing Machine at 29,390\n\nhttps://www.amazon.in/dp/B0DS681G4K?psc=1&th=1&smid=A3K8GDUW67973J&tag=bestpricezo0f-21\n\nApply ₹1500 Off Coupon + ₹11,100 Off Using HDFC CC No Cost EMIs.",
+    "final_url": "https://www.amazon.in/dp/B0DS681G4K?psc=1&th=1&smid=A3K8GDUW67973J&tag=bestpricezo0f-21",
+    "local_image": "assets/images/tgmsg_39436.jpg",
+    "source_host": "www.amazon.in",
+    "merchant_label": "Amazon",
+    "date_obj": "2026-06-21T14:12:06+00:00",
+    "buy_link": "https://www.amazon.in/dp/B0DS681G4K?psc=1&th=1&smid=A3K8GDUW67973J&tag=bestpricezo0f-21",
+    "date_iso": "2026-06-21T14:12:06+00:00"
+  },
+  {
     "id": "msg39426",
     "title": "Flat 75% Off On Branded Shoes & Clothing",
     "description": "AJIO : . Apply Code : SUPERSAVINGS1 Skechers : New Balance : Asics : Levis : U.S Polo Assn. : Reebok : Puma : Adidas : Under Armour : Saucony : Flat 80% Off On GAP/GAS/Marks & Spencer & More. Apply Code : PREMIUMGRABS2…",
@@ -9726,25 +9746,5 @@
     "date_obj": "2026-06-06T15:40:17+00:00",
     "buy_link": "https://myntr.in/fOEucc",
     "date_iso": "2026-06-06T15:40:17+00:00"
-  },
-  {
-    "id": "msg38497",
-    "title": "Shopsy Women's Innerwear Under ₹99",
-    "description": "Shopsy |   Women's Innerwear Under ₹99 🔗 https://bilty.co/mWPDRZ",
-    "shortlink": "https://bilty.co/mWPDRZ",
-    "urls": [
-      {
-        "url": "https://bilty.co/mWPDRZ",
-        "label": "Women's Innerwear Under ₹99"
-      }
-    ],
-    "raw_text": "Shopsy |   Women's Innerwear Under ₹99\n\n🔗 https://bilty.co/mWPDRZ",
-    "final_url": "https://bilty.co/mWPDRZ",
-    "local_image": "assets/images/tgmsg_38497.jpg",
-    "source_host": "bilty.co",
-    "merchant_label": "Bilty",
-    "date_obj": "2026-06-06T15:45:21+00:00",
-    "buy_link": "https://bilty.co/mWPDRZ",
-    "date_iso": "2026-06-06T15:45:21+00:00"
   }
 ]
