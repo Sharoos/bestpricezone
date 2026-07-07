@@ -1,0 +1,36 @@
+name: Auto Scrape DeoDap Deals
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Runs automatically every day at 6:00 AM UTC
+  workflow_dispatch: # Allows you to manually click "Run workflow" anytime from GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Scraper Script
+        run: python scraper.py
+
+      - name: Commit and push changes if data updated
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data.json affiliate_store.db || true
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated product data refresh [skip ci]" && git push)
