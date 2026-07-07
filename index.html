@@ -7,22 +7,21 @@
     <title>Best Price Zone | Unbeatable Deals & Discounts</title>
     <meta name="description" content="Discover unbeatable deals, curated collections, and massive discounts on electronics, home decor, and more at Best Price Zone.">
     <meta name="keywords" content="deals, discounts, shopping online, lowest prices, Best Price Zone, offers, sale">
-    <link rel="canonical" href="https://yourwebsite.com/">
+    <link rel="canonical" href="https://bestpricezone.in/">
     
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://yourwebsite.com/">
+    <meta property="og:url" content="https://bestpricezone.in/">
     <meta property="og:title" content="Best Price Zone | Unbeatable Deals">
     <meta property="og:description" content="Discover unbeatable deals, curated collections, and massive discounts at Best Price Zone.">
     <meta property="og:image" content="https://via.placeholder.com/1200x630?text=Best+Price+Zone">
 
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://yourwebsite.com/">
+    <meta property="twitter:url" content="https://bestpricezone.in/">
     <meta property="twitter:title" content="Best Price Zone | Unbeatable Deals">
     <meta property="twitter:description" content="Discover unbeatable deals, curated collections, and massive discounts at Best Price Zone.">
     <meta property="twitter:image" content="https://via.placeholder.com/1200x630?text=Best+Price+Zone">
 
     <style>
-        /* Modern CSS Reset & Setup */
         * {
             box-sizing: border-box;
             margin: 0;
@@ -45,7 +44,6 @@
             min-height: 100vh;
         }
         
-        /* ---------------- HERO SECTION ---------------- */
         .hero {
             background: linear-gradient(135deg, #1a252f 0%, #2c3e50 100%);
             color: white;
@@ -69,7 +67,6 @@
             color: #bdc3c7;
         }
 
-        /* ---------------- STICKY NAVIGATION CONTAINER ---------------- */
         .nav-wrapper {
             background: #ffffff;
             box-shadow: 0 4px 15px rgba(0,0,0,0.06);
@@ -83,7 +80,6 @@
             width: 100%;
         }
         
-        /* Zone 1: Main Collection Tabs */
         .collections-nav {
             display: flex;
             flex-wrap: wrap;
@@ -112,7 +108,6 @@
         .col-tab:hover { background: #edf2f7; color: #1a202c; }
         .col-tab.active { background: #2c3e50; color: #ffffff; border-color: #2c3e50; }
 
-        /* Zone 2: Action Toolbar (Search + Sort) */
         .action-toolbar {
             display: flex;
             justify-content: space-between;
@@ -161,7 +156,6 @@
             white-space: nowrap;
         }
 
-        /* Zone 3: Categories Bar */
         .categories { 
             display: flex; 
             flex-wrap: wrap; 
@@ -187,7 +181,6 @@
         .cat-btn:hover { background: #e2e8f0; }
         .cat-btn.active { background: #e74c3c; color: #ffffff; }
 
-        /* ---------------- MAIN CONTENT ---------------- */
         main {
             width: 100%;
             max-width: 1250px;
@@ -206,7 +199,7 @@
         .card { 
             background: #ffffff; 
             border-radius: 16px; 
-            padding: 20px; 
+            padding: 0; 
             text-align: left; 
             box-shadow: 0 4px 15px rgba(0,0,0,0.03);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -231,23 +224,33 @@
         .discount-badge {
             position: absolute;
             top: 15px;
-            right: 15px;
+            left: 15px; 
             background: #e74c3c;
             color: white;
             padding: 5px 10px;
             border-radius: 8px;
             font-size: 12px;
             font-weight: bold;
-            z-index: 10;
+            z-index: 15;
         }
         
         .card img { 
             width: 100%; 
-            height: 200px;
-            object-fit: contain;
-            border-radius: 8px; 
-            margin-bottom: 15px; 
-            background: #fcfcfc;
+            aspect-ratio: 1 / 1; 
+            object-fit: contain; 
+            background: #ffffff; 
+            border-top-left-radius: 16px;
+            border-top-right-radius: 16px;
+            cursor: pointer;
+            display: block;
+        }
+
+        .card-body {
+            padding: 15px 18px 18px 18px; 
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            flex: 1;
         }
         
         .card h3 { 
@@ -259,7 +262,9 @@
             -webkit-line-clamp: 2;
             -webkit-box-orient: vertical;
             overflow: hidden;
-            min-height: 42px;
+            text-overflow: ellipsis;
+            word-break: break-word;
+            overflow-wrap: break-word;
         }
         
         .price-container {
@@ -289,6 +294,84 @@
         }
         
         .buy-btn:hover { background: #1a252f; transform: scale(1.02); }
+
+        .modal-overlay {
+            position: fixed;
+            top: 0; left: 0; width: 100vw; height: 100vh;
+            background: rgba(0, 0, 0, 0.65);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 2000;
+            padding: 20px;
+            backdrop-filter: blur(4px);
+            animation: fadeInModal 0.2s ease forwards;
+        }
+
+        @keyframes fadeInModal { from { opacity: 0; } to { opacity: 1; } }
+
+        .modal-content {
+            background: #ffffff;
+            border-radius: 20px;
+            padding: 25px 30px 30px 30px;
+            max-width: 520px;
+            width: 100%;
+            position: relative;
+            text-align: left;
+            box-shadow: 0 25px 50px rgba(0,0,0,0.25);
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+
+        #modal-title {
+            font-size: 1.15rem;
+            line-height: 1.4;
+            color: #2c3e50;
+            display: block;
+            width: 100%;
+            overflow: visible;
+            white-space: normal;
+            word-break: break-word;
+            overflow-wrap: break-word;
+        }
+
+        .modal-close {
+            position: absolute;
+            top: 12px; right: 12px;
+            background: #edf2f7; 
+            border: none;
+            width: 40px; height: 40px; 
+            border-radius: 50%;
+            font-size: 24px; 
+            cursor: pointer;
+            display: flex; 
+            align-items: center; 
+            justify-content: center;
+            color: #1a202c; 
+            transition: background 0.2s;
+            z-index: 99999;
+        }
+        .modal-close:hover { background: #e2e8f0; }
+
+        .modal-img-wrapper {
+            width: 100%;
+            aspect-ratio: 1 / 1;
+            background: #ffffff;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .modal-img-wrapper img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            display: block;
+        }
 
         .loading-indicator {
             text-align: center;
@@ -374,8 +457,6 @@
         }
         .copyright { font-size: 0.85rem; opacity: 0.7; }
 
-        /* ================= RESPONSIVE MEDIA QUERIES ================= */
-
         @media (max-width: 850px) {
             .action-toolbar { flex-direction: column; align-items: stretch; }
             .sort-select { width: 100%; text-align: center; }
@@ -394,31 +475,30 @@
             .hero { padding: 30px 15px 20px; }
             .hero h1 { font-size: 2rem; }
             .hero p { font-size: 0.95rem; }
-            
             .nav-wrapper { padding: 10px 15px; }
             .col-tab { font-size: 0.85rem; padding: 6px 12px; }
-            
             main { padding: 20px 15px; }
-
-            .grid { 
-                grid-template-columns: repeat(auto-fill, minmax(145px, 1fr)); 
-                gap: 12px; 
+            .grid { grid-template-columns: repeat(auto-fill, minmax(145px, 1fr)); gap: 12px; }
+            .card-body { padding: 12px 14px 14px 14px; }
+            .card h3 { 
+                font-size: 13px; 
+                line-height: 1.35;
+                margin-bottom: 8px;
+                display: -webkit-box;
+                -webkit-line-clamp: 2;
+                -webkit-box-orient: vertical;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                word-break: break-word;
+                overflow-wrap: break-word;
             }
-            
-            .card { padding: 12px; border-radius: 12px; }
-            .card img { height: 130px; margin-bottom: 10px; }
-            .card h3 { font-size: 13px; min-height: 36px; margin-bottom: 8px; }
-            
             .price-container { margin-bottom: 10px; gap: 5px; }
             .price { font-size: 15px; }
             .mrp { font-size: 12px; }
-            
-            .discount-badge { top: 8px; right: 8px; font-size: 10px; padding: 3px 6px; }
+            .discount-badge { top: 8px; left: 8px; font-size: 10px; padding: 3px 6px; }
             .buy-btn { padding: 8px; font-size: 13px; border-radius: 8px; }
-
             .footer-content h3 { font-size: 1.2rem; }
             .disclaimer-text { font-size: 0.8rem; padding: 12px; }
-            
             #backToTop { width: 45px; height: 45px; font-size: 20px; bottom: 15px; right: 15px;}
         }
     </style>
@@ -431,8 +511,7 @@
     </header>
 
     <nav class="nav-wrapper">
-        <div class="collections-nav" id="collection-nav" aria-label="Collections Navigation">
-            </div>
+        <div class="collections-nav" id="collection-nav" aria-label="Collections Navigation"></div>
 
         <div class="action-toolbar">
             <div class="search-container-small">
@@ -446,21 +525,32 @@
             </select>
         </div>
 
-        <div class="categories" id="category-nav" aria-label="Category Filters">
-            </div>
+        <div class="categories" id="category-nav" aria-label="Category Filters"></div>
     </nav>
 
     <main>
         <div id="error-message">Could not load products. Make sure your local server is running.</div>
 
-        <div class="grid" id="product-grid">
-            </div>
+        <div class="grid" id="product-grid"></div>
 
         <div id="scroll-sentinel" class="loading-indicator">
             <div class="spinner"></div>
             Loading more amazing deals...
         </div>
     </main>
+
+    <div id="product-modal" class="modal-overlay">
+        <div class="modal-content">
+            <button class="modal-close" aria-label="Close Modal" onclick="closeModal()">&times;</button>
+            <div class="modal-img-wrapper">
+                <div id="modal-badge" class="discount-badge" style="display: none;"></div>
+                <img id="modal-img" src="" alt="Zoomed Product Image">
+            </div>
+            <h3 id="modal-title" style="margin-bottom: 5px;"></h3>
+            <div class="price-container" id="modal-price-container" style="margin-bottom: 10px;"></div>
+            <a id="modal-buy-btn" href="" class="buy-btn" target="_blank" rel="noopener noreferrer">Buy Now</a>
+        </div>
+    </div>
 
     <button id="backToTop" aria-label="Scroll to Top" onclick="window.scrollTo(0,0)">&#8679;</button>
 
@@ -522,9 +612,7 @@
                     document.querySelectorAll('.col-tab').forEach(b => b.classList.remove('active'));
                     btn.classList.add('active');
                     activeCollection = col;
-                    
                     activeCategory = 'All'; 
-                    
                     renderCategoryButtons();
                     applyFilters();
                 };
@@ -639,14 +727,20 @@
                 
                 card.innerHTML = `
                     ${badgeHtml}
-                    <img src="${imgUrl}" alt="${product.title}" loading="lazy">
-                    <h3>${product.title}</h3>
-                    <div class="price-container">
-                        <span class="price">Rs. ${displayPrice}</span>
-                        ${product.mrp > product.price ? `<span class="mrp">Rs. ${displayMrp}</span>` : ''}
+                    <img src="${imgUrl}" alt="${product.title}" class="product-thumb" loading="lazy">
+                    <div class="card-body">
+                        <h3>${product.title}</h3>
+                        <div class="price-container">
+                            <span class="price">Rs. ${displayPrice}</span>
+                            ${product.mrp > product.price ? `<span class="mrp">Rs. ${displayMrp}</span>` : ''}
+                        </div>
+                        <a href="${product.url}" class="buy-btn" target="_blank" rel="noopener noreferrer">Buy Now</a>
                     </div>
-                    <a href="${product.url}" class="buy-btn" target="_blank" rel="noopener noreferrer">Buy Now</a>
                 `;
+
+                const imgEl = card.querySelector('.product-thumb');
+                imgEl.onclick = () => openModal(product);
+
                 grid.appendChild(card);
             });
 
@@ -657,6 +751,48 @@
                 document.getElementById('scroll-sentinel').style.display = 'none';
             }
         }
+
+        function openModal(product) {
+            const modal = document.getElementById('product-modal');
+            const modalImg = document.getElementById('modal-img');
+            const modalBadge = document.getElementById('modal-badge');
+            const modalTitle = document.getElementById('modal-title');
+            const modalPriceContainer = document.getElementById('modal-price-container');
+            const modalBuyBtn = document.getElementById('modal-buy-btn');
+
+            modalImg.src = product.image_url || 'https://via.placeholder.com/300x250?text=No+Image';
+            
+            if (product.discount_label) {
+                modalBadge.innerText = product.discount_label;
+                modalBadge.style.display = 'block';
+            } else {
+                modalBadge.style.display = 'none';
+            }
+
+            modalTitle.innerText = product.title;
+            
+            const displayPrice = Number(product.price).toFixed(2);
+            const displayMrp = Number(product.mrp).toFixed(2);
+
+            modalPriceContainer.innerHTML = `
+                <span class="price">Rs. ${displayPrice}</span>
+                ${product.mrp > product.price ? `<span class="mrp">Rs. ${displayMrp}</span>` : ''}
+            `;
+            modalBuyBtn.href = product.url;
+
+            modal.style.display = 'flex';
+        }
+
+        function closeModal() {
+            document.getElementById('product-modal').style.display = 'none';
+        }
+
+        window.onclick = function(event) {
+            const modal = document.getElementById('product-modal');
+            if (event.target === modal) {
+                closeModal();
+            }
+        };
 
         function setupIntersectionObserver() {
             const sentinel = document.getElementById('scroll-sentinel');
