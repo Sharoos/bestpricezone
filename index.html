@@ -4,13 +4,130 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
     
-    <title>Best Price Zone | Unbeatable Deals & Discounts</title>
-    <meta name="description" content="Discover unbeatable deals, curated collections, and massive discounts on electronics, home decor, and more at Best Price Zone.">
+    <!-- Primary SEO Meta Tags -->
+    <title>Best Price Zone | Handpicked Deals Cheaper Than Amazon & Flipkart</title>
+    <meta name="description" content="Discover handpicked online deals in India with prices lower than Amazon and Flipkart. Save big on everyday essentials, tech, home decor, and stationery at Best Price Zone.">
+    <link rel="canonical" href="https://bestpricezone.in/">
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph / WhatsApp / Facebook Meta Tags -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://bestpricezone.in/">
+    <meta property="og:title" content="Best Price Zone | Handpicked Deals Cheaper Than Amazon & Flipkart">
+    <meta property="og:description" content="Find curated deals and discounts across India. Lower prices than major e-commerce stores!">
+    <meta property="og:image" content="https://bestpricezone.in/logo.png">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:url" content="https://bestpricezone.in/">
+    <meta name="twitter:title" content="Best Price Zone | Unbeatable Deals & Discounts">
+    <meta name="twitter:description" content="Handpicked online deals in India cheaper than Amazon and Flipkart.">
+    <meta name="twitter:image" content="https://bestpricezone.in/logo.png">
+
+    <!-- Structured Data (Schema.org JSON-LD for Search Engines) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Best Price Zone",
+      "url": "https://bestpricezone.in/",
+      "description": "Handpicked daily deals in India with prices lower than Amazon & Flipkart.",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://bestpricezone.in/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
     
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
     <link rel="dns-prefetch" href="https://cdn.shopify.com">
     
+    <!-- Early Script to prevent Theme Flash on Load -->
+    <script>
+        (function() {
+            const savedTheme = localStorage.getItem('bpz_theme');
+            const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+            if (savedTheme === 'dark' || (!savedTheme && systemPrefersDark)) {
+                document.documentElement.classList.add('dark-theme');
+            } else {
+                document.documentElement.classList.remove('dark-theme');
+            }
+        })();
+    </script>
+
     <style>
+        /* System Light/Dark Theme Color Variables */
+        :root {
+            --bg-main: #f4f7f6;
+            --bg-surface: #ffffff;
+            --bg-subtle: #f8fafc;
+            --bg-chip: #f7fafc;
+            --text-primary: #2c3e50;
+            --text-secondary: #7f8c8d;
+            --text-muted: #bdc3c7;
+            --border-color: #e2e8f0;
+            --border-hover: #cbd5e0;
+            --card-shadow: rgba(0, 0, 0, 0.04);
+            --card-shadow-hover: rgba(0, 0, 0, 0.12);
+            --accent-red: #e74c3c;
+            --accent-green: #27ae60;
+            --hero-bg: linear-gradient(135deg, #1a252f 0%, #2c3e50 100%);
+            --modal-overlay: rgba(15, 23, 42, 0.75);
+        }
+
+        /* Default fallback media query if no local override */
+        @media (prefers-color-scheme: dark) {
+            :root:not(.light-theme) {
+                --bg-main: #0f172a;
+                --bg-surface: #1e293b;
+                --bg-subtle: #334155;
+                --bg-chip: #1e293b;
+                --text-primary: #f8fafc;
+                --text-secondary: #94a3b8;
+                --text-muted: #64748b;
+                --border-color: #334155;
+                --border-hover: #475569;
+                --card-shadow: rgba(0, 0, 0, 0.25);
+                --card-shadow-hover: rgba(0, 0, 0, 0.45);
+                --hero-bg: linear-gradient(135deg, #020617 0%, #0f172a 100%);
+                --modal-overlay: rgba(0, 0, 0, 0.85);
+            }
+        }
+
+        /* Manual Class Overrides for Theme Toggle */
+        html.dark-theme {
+            --bg-main: #0f172a;
+            --bg-surface: #1e293b;
+            --bg-subtle: #334155;
+            --bg-chip: #1e293b;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --text-muted: #64748b;
+            --border-color: #334155;
+            --border-hover: #475569;
+            --card-shadow: rgba(0, 0, 0, 0.25);
+            --card-shadow-hover: rgba(0, 0, 0, 0.45);
+            --hero-bg: linear-gradient(135deg, #020617 0%, #0f172a 100%);
+            --modal-overlay: rgba(0, 0, 0, 0.85);
+        }
+
+        html.light-theme {
+            --bg-main: #f4f7f6;
+            --bg-surface: #ffffff;
+            --bg-subtle: #f8fafc;
+            --bg-chip: #f7fafc;
+            --text-primary: #2c3e50;
+            --text-secondary: #7f8c8d;
+            --text-muted: #bdc3c7;
+            --border-color: #e2e8f0;
+            --border-hover: #cbd5e0;
+            --card-shadow: rgba(0, 0, 0, 0.04);
+            --card-shadow-hover: rgba(0, 0, 0, 0.12);
+            --hero-bg: linear-gradient(135deg, #1a252f 0%, #2c3e50 100%);
+            --modal-overlay: rgba(15, 23, 42, 0.75);
+        }
+
         * {
             box-sizing: border-box;
             margin: 0;
@@ -22,23 +139,25 @@
         html, body { max-width: 100vw; overflow-x: hidden; }
 
         body { 
-            background-color: #f4f7f6; 
-            color: #2c3e50;
+            background-color: var(--bg-main); 
+            color: var(--text-primary);
             line-height: 1.6;
             display: flex;
             flex-direction: column;
             min-height: 100vh;
+            transition: background-color 0.3s ease, color 0.3s ease;
         }
         
         .hero {
-            background: linear-gradient(135deg, #1a252f 0%, #2c3e50 100%);
-            color: white;
+            background: var(--hero-bg);
+            color: #ffffff;
             padding: 40px 20px 25px;
             text-align: center;
             display: flex;
             flex-direction: column;
             align-items: center;
             width: 100%;
+            position: relative;
         }
 
         .hero-brand {
@@ -60,12 +179,38 @@
             transform: scale(1.05);
         }
 
-        .hero h1 { font-size: 2.6rem; margin-bottom: 5px; letter-spacing: -1px; font-weight: 800; }
+        .hero h1 { font-size: 2.6rem; margin-bottom: 5px; letter-spacing: -1px; font-weight: 800; color: #ffffff; }
         .hero p { font-size: 1.05rem; color: #bdc3c7; }
 
+        /* Theme Toggle Button */
+        .theme-toggle-btn {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: rgba(255, 255, 255, 0.15);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            color: #ffffff;
+            padding: 8px 14px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            backdrop-filter: blur(5px);
+            transition: all 0.2s ease;
+            z-index: 10;
+        }
+
+        .theme-toggle-btn:hover {
+            background: rgba(255, 255, 255, 0.25);
+            transform: scale(1.05);
+        }
+
         .nav-wrapper {
-            background: #ffffff;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+            background: var(--bg-surface);
+            box-shadow: 0 4px 15px var(--card-shadow);
             position: sticky;
             top: 0;
             z-index: 100;
@@ -74,6 +219,7 @@
             flex-direction: column;
             align-items: center;
             width: 100%;
+            border-bottom: 1px solid var(--border-color);
         }
         
         .collections-nav {
@@ -84,17 +230,24 @@
             margin-bottom: 12px;
             width: 100%;
             max-width: 1200px;
-            border-bottom: 1px solid #edf2f7;
+            border-bottom: 1px solid var(--border-color);
             padding-bottom: 10px;
         }
 
         .col-tab {
-            background: #f7fafc; border: 1px solid #e2e8f0; font-size: 0.95rem;
-            font-weight: 700; color: #4a5568; padding: 8px 16px; cursor: pointer;
-            border-radius: 20px; transition: all 0.2s ease; white-space: nowrap;
+            background: var(--bg-chip); 
+            border: 1px solid var(--border-color); 
+            font-size: 0.95rem;
+            font-weight: 700; 
+            color: var(--text-primary); 
+            padding: 8px 16px; 
+            cursor: pointer;
+            border-radius: 20px; 
+            transition: all 0.2s ease; 
+            white-space: nowrap;
         }
 
-        .col-tab:hover { background: #edf2f7; color: #1a202c; }
+        .col-tab:hover { background: var(--bg-subtle); border-color: var(--border-hover); }
         .col-tab.active { background: #2c3e50; color: #ffffff; border-color: #2c3e50; }
 
         .budget-chips {
@@ -102,38 +255,44 @@
             gap: 8px; margin-bottom: 15px; width: 100%; max-width: 1100px;
         }
         .chip {
-            background: #ffffff; border: 1px solid #cbd5e0; font-size: 0.85rem;
-            font-weight: 600; color: #4a5568; padding: 6px 14px; cursor: pointer;
-            border-radius: 15px; transition: all 0.2s ease;
+            background: var(--bg-surface); 
+            border: 1px solid var(--border-color); 
+            font-size: 0.85rem;
+            font-weight: 600; 
+            color: var(--text-primary); 
+            padding: 6px 14px; 
+            cursor: pointer;
+            border-radius: 15px; 
+            transition: all 0.2s ease;
         }
-        .chip:hover { background: #edf2f7; }
-        .chip.active { background: #e74c3c; color: #ffffff; border-color: #e74c3c; }
+        .chip:hover { background: var(--bg-subtle); }
+        .chip.active { background: var(--accent-red); color: #ffffff; border-color: var(--accent-red); }
 
         .action-toolbar {
             display: flex; justify-content: space-between; align-items: center;
-            width: 100%; max-width: 1100px; background: #f8fafc; padding: 10px 15px;
-            border-radius: 12px; gap: 12px; border: 1px solid #e2e8f0;
+            width: 100%; max-width: 1100px; background: var(--bg-subtle); padding: 10px 15px;
+            border-radius: 12px; gap: 12px; border: 1px solid var(--border-color);
         }
 
         .search-group { display: flex; flex: 1 1 auto; align-items: stretch; margin-right: 10px; }
 
         .category-select {
-            padding: 9px 14px; border-radius: 20px 0 0 20px; border: 1px solid #cbd5e0;
-            border-right: none; background: #f7fafc; color: #2c3e50; font-weight: 600;
+            padding: 9px 14px; border-radius: 20px 0 0 20px; border: 1px solid var(--border-color);
+            border-right: none; background: var(--bg-surface); color: var(--text-primary); font-weight: 600;
             font-size: 13px; outline: none; cursor: pointer; white-space: nowrap; max-width: 180px;
         }
 
         .search-container-small { flex: 1 1 auto; }
         .search-container-small input {
             width: 100%; height: 100%; padding: 9px 16px; font-size: 14px;
-            border: 1px solid #cbd5e0; border-radius: 0 20px 20px 0; outline: none;
-            background: #ffffff; color: #2c3e50; transition: all 0.3s ease;
+            border: 1px solid var(--border-color); border-radius: 0 20px 20px 0; outline: none;
+            background: var(--bg-surface); color: var(--text-primary); transition: all 0.3s ease;
         }
-        .search-container-small input:focus { border-color: #2c3e50; position: relative; z-index: 2; }
+        .search-container-small input:focus { border-color: var(--border-hover); position: relative; z-index: 2; }
 
         .sort-select {
-            padding: 9px 14px; border-radius: 20px; border: 1px solid #cbd5e0;
-            background: #ffffff; color: #2c3e50; font-weight: 600; font-size: 13px;
+            padding: 9px 14px; border-radius: 20px; border: 1px solid var(--border-color);
+            background: var(--bg-surface); color: var(--text-primary); font-weight: 600; font-size: 13px;
             outline: none; cursor: pointer; white-space: nowrap;
         }
 
@@ -145,26 +304,26 @@
         }
         
         .card { 
-            background: #ffffff; border-radius: 16px; padding: 0; text-align: left; 
-            box-shadow: 0 4px 15px rgba(0,0,0,0.03); transition: transform 0.3s ease, box-shadow 0.3s ease;
+            background: var(--bg-surface); border-radius: 16px; padding: 0; text-align: left; 
+            box-shadow: 0 4px 15px var(--card-shadow); transition: transform 0.3s ease, box-shadow 0.3s ease;
             display: flex; flex-direction: column; justify-content: space-between; position: relative;
             overflow: hidden; animation: fadeIn 0.4s ease forwards; opacity: 0;
-            transform: translateY(15px); width: 100%; height: 100%; 
+            transform: translateY(15px); width: 100%; height: 100%; border: 1px solid var(--border-color);
         }
 
         @keyframes fadeIn { to { opacity: 1; transform: translateY(0); } }
-        .card:hover { transform: translateY(-8px); box-shadow: 0 12px 30px rgba(0,0,0,0.08); }
+        .card:hover { transform: translateY(-8px); box-shadow: 0 12px 30px var(--card-shadow-hover); }
 
         .discount-badge {
-            position: absolute; top: 15px; left: 15px; background: #e74c3c; color: white;
+            position: absolute; top: 15px; left: 15px; background: var(--accent-red); color: #ffffff;
             padding: 5px 10px; border-radius: 8px; font-size: 12px; font-weight: bold; z-index: 15;
         }
 
         .wishlist-btn {
-            position: absolute; top: 15px; right: 15px; background: rgba(255,255,255,0.95);
-            border: none; border-radius: 50%; width: 34px; height: 34px; display: flex;
+            position: absolute; top: 15px; right: 15px; background: var(--bg-surface);
+            border: 1px solid var(--border-color); border-radius: 50%; width: 34px; height: 34px; display: flex;
             align-items: center; justify-content: center; cursor: pointer;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.15); font-size: 16px; z-index: 15;
+            box-shadow: 0 2px 8px var(--card-shadow); font-size: 16px; z-index: 15;
             transition: transform 0.2s ease;
         }
         .wishlist-btn:hover { transform: scale(1.15); }
@@ -176,11 +335,11 @@
         }
 
         .card-body { padding: 15px 18px 18px 18px; display: flex; flex-direction: column; justify-content: space-between; flex: 1; }
-        .card h3 { font-size: 15px !important; line-height: 1.4 !important; margin-bottom: 15px !important; color: #2c3e50 !important; }
+        .card h3 { font-size: 15px !important; line-height: 1.4 !important; margin-bottom: 15px !important; color: var(--text-primary) !important; }
         
         .price-container { margin-bottom: 15px; display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap; }
-        .price { font-size: 20px; font-weight: 800; color: #27ae60; }
-        .mrp { font-size: 13px; text-decoration: line-through; color: #95a5a6; }
+        .price { font-size: 20px; font-weight: 800; color: var(--accent-green); }
+        .mrp { font-size: 13px; text-decoration: line-through; color: var(--text-secondary); }
         
         .buy-btn { 
             display: flex; justify-content: center; align-items: center; background: #2c3e50; 
@@ -192,31 +351,32 @@
         /* Modal Styling */
         .modal-overlay { 
             position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; 
-            background: rgba(15, 23, 42, 0.75); display: none; justify-content: center; 
+            background: var(--modal-overlay); display: none; justify-content: center; 
             align-items: center; z-index: 2000; padding: 20px; backdrop-filter: blur(6px); 
             animation: fadeInModal 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards; 
         }
         @keyframes fadeInModal { from { opacity: 0; transform: scale(0.97); } to { opacity: 1; transform: scale(1); } }
         
         .modal-content { 
-            background: #ffffff; border-radius: 24px; padding: 28px; max-width: 520px; 
+            background: var(--bg-surface); border-radius: 24px; padding: 28px; max-width: 520px; 
             width: 100%; position: relative; text-align: left; 
             box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.35); display: flex; 
             flex-direction: column; gap: 16px; max-height: 90vh; overflow-y: auto;
+            border: 1px solid var(--border-color); color: var(--text-primary);
         }
 
         .modal-close { 
-            position: absolute; top: 16px; right: 16px; background: #f1f5f9; 
-            border: 1px solid #e2e8f0; width: 38px; height: 38px; border-radius: 50%; 
+            position: absolute; top: 16px; right: 16px; background: var(--bg-subtle); 
+            border: 1px solid var(--border-color); width: 38px; height: 38px; border-radius: 50%; 
             font-size: 20px; cursor: pointer; display: flex; align-items: center; 
-            justify-content: center; color: #475569; transition: all 0.2s ease; z-index: 100; 
+            justify-content: center; color: var(--text-primary); transition: all 0.2s ease; z-index: 100; 
         }
-        .modal-close:hover { background: #e2e8f0; color: #0f172a; transform: rotate(90deg) scale(1.05); }
+        .modal-close:hover { background: var(--border-color); transform: rotate(90deg) scale(1.05); }
 
         .modal-img-wrapper { 
-            width: 100%; aspect-ratio: 1 / 1; background: #fafafa; border-radius: 16px; 
+            width: 100%; aspect-ratio: 1 / 1; background: #ffffff; border-radius: 16px; 
             display: flex; align-items: center; justify-content: center; overflow: hidden; 
-            position: relative; border: 1px solid #f1f5f9;
+            position: relative; border: 1px solid var(--border-color);
         }
         .modal-img-wrapper img { width: 100%; height: 100%; object-fit: contain; display: block; transition: opacity 0.2s ease; }
 
@@ -225,27 +385,27 @@
             scroll-behavior: smooth; -webkit-overflow-scrolling: touch;
         }
         .modal-thumbnails::-webkit-scrollbar { height: 6px; }
-        .modal-thumbnails::-webkit-scrollbar-thumb { background: #cbd5e0; border-radius: 4px; }
+        .modal-thumbnails::-webkit-scrollbar-thumb { background: var(--border-color); border-radius: 4px; }
         
         .modal-thumb {
-            width: 60px; height: 60px; object-fit: contain; border: 2px solid #e2e8f0;
+            width: 60px; height: 60px; object-fit: contain; border: 2px solid var(--border-color);
             border-radius: 10px; cursor: pointer; transition: all 0.2s ease;
             background: #ffffff; flex-shrink: 0; padding: 2px;
         }
-        .modal-thumb:hover { border-color: #94a3b8; }
-        .modal-thumb.active { border-color: #e74c3c; transform: scale(1.05); box-shadow: 0 4px 10px rgba(231, 76, 60, 0.2); }
+        .modal-thumb:hover { border-color: var(--border-hover); }
+        .modal-thumb.active { border-color: var(--accent-red); transform: scale(1.05); box-shadow: 0 4px 10px rgba(231, 76, 60, 0.2); }
 
-        .loading-indicator { text-align: center; padding: 30px; color: #7f8c8d; font-weight: 600; display: none; }
-        .spinner { border: 3px solid rgba(0,0,0,0.1); width: 30px; height: 30px; border-radius: 50%; border-left-color: #2c3e50; animation: spin 1s linear infinite; margin: 0 auto 10px auto; }
+        .loading-indicator { text-align: center; padding: 30px; color: var(--text-secondary); font-weight: 600; display: none; }
+        .spinner { border: 3px solid var(--border-color); width: 30px; height: 30px; border-radius: 50%; border-left-color: var(--text-primary); animation: spin 1s linear infinite; margin: 0 auto 10px auto; }
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
-        .no-results { text-align: center; grid-column: 1 / -1; padding: 50px; color: #7f8c8d; font-size: 1.2rem; background: white; border-radius: 12px; }
+        .no-results { text-align: center; grid-column: 1 / -1; padding: 50px; color: var(--text-secondary); font-size: 1.2rem; background: var(--bg-surface); border-radius: 12px; border: 1px solid var(--border-color); }
         #error-message { text-align: center; background: #ffeaa7; padding: 15px; border-radius: 8px; color: #d63031; font-weight: bold; display: none; width: 100%; margin-bottom: 20px; }
-        #backToTop { position: fixed; bottom: 20px; right: 20px; background: #e74c3c; color: white; border: none; width: 50px; height: 50px; border-radius: 50%; font-size: 24px; cursor: pointer; display: none; box-shadow: 0 4px 15px rgba(231, 76, 60, 0.4); transition: transform 0.3s ease, background 0.3s ease; z-index: 1000; }
+        #backToTop { position: fixed; bottom: 20px; right: 20px; background: var(--accent-red); color: white; border: none; width: 50px; height: 50px; border-radius: 50%; font-size: 24px; cursor: pointer; display: none; box-shadow: 0 4px 15px rgba(231, 76, 60, 0.4); transition: transform 0.3s ease, background 0.3s ease; z-index: 1000; }
         #backToTop:hover { transform: scale(1.1); background: #c0392b; }
         footer { background: #1a252f; color: #bdc3c7; text-align: center; padding: 40px 20px; margin-top: auto; }
         .footer-content { max-width: 800px; margin: 0 auto; }
         .footer-content h3 { color: white; margin-bottom: 15px; font-size: 1.5rem; }
-        .disclaimer-text { font-size: 0.9rem; line-height: 1.5; margin-bottom: 15px; padding: 15px; background: rgba(255,255,255,0.05); border-radius: 8px; border-left: 4px solid #e74c3c; text-align: left; }
+        .disclaimer-text { font-size: 0.9rem; line-height: 1.5; margin-bottom: 15px; padding: 15px; background: rgba(255,255,255,0.05); border-radius: 8px; border-left: 4px solid var(--accent-red); text-align: left; }
         .copyright { font-size: 0.85rem; opacity: 0.7; }
 
         @media (max-width: 850px) {
@@ -257,6 +417,7 @@
 
         @media (max-width: 600px) {
             .hero { padding: 30px 15px 20px; }
+            .theme-toggle-btn { top: 12px; right: 12px; padding: 6px 10px; font-size: 12px; }
             .site-logo { width: 56px; height: 56px; }
             .hero h1 { font-size: 2rem; }
             .nav-wrapper { padding: 10px 15px; }
@@ -282,11 +443,15 @@
 <body>
 
     <header class="hero" id="top">
+        <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle Dark/Light Mode" onclick="toggleTheme()">
+            <span id="theme-icon">🌙</span> <span id="theme-text">Mode</span>
+        </button>
+
         <a href="#" class="hero-brand">
             <img src="logo.png" alt="Best Price Zone Logo" class="site-logo">
         </a>
         <h1>Best Price Zone</h1>
-        <p>Curated collections, incredible discounts, just for you.</p>
+        <p>Curated collections & handpicked discounts cheaper than major sites.</p>
     </header>
 
     <nav class="nav-wrapper">
@@ -321,7 +486,7 @@
     </nav>
 
     <main>
-        <div id="error-message">Could not load products. Make sure your local server is running.</div>
+        <div id="error-message">Could not load products. Please refresh or check back later.</div>
         <div class="grid" id="product-grid"></div>
         <div id="scroll-sentinel" class="loading-indicator">
             <div class="spinner"></div>
@@ -359,6 +524,33 @@
     </footer>
 
     <script>
+        // --- Theme Toggle Logic ---
+        function updateThemeUI() {
+            const isDark = document.documentElement.classList.contains('dark-theme');
+            const icon = document.getElementById('theme-icon');
+            const text = document.getElementById('theme-text');
+            if (icon) icon.textContent = isDark ? '☀️' : '🌙';
+            if (text) text.textContent = isDark ? 'Light' : 'Dark';
+        }
+
+        function toggleTheme() {
+            const isDarkNow = document.documentElement.classList.contains('dark-theme');
+            if (isDarkNow) {
+                document.documentElement.classList.remove('dark-theme');
+                document.documentElement.classList.add('light-theme');
+                localStorage.setItem('bpz_theme', 'light');
+            } else {
+                document.documentElement.classList.remove('light-theme');
+                document.documentElement.classList.add('dark-theme');
+                localStorage.setItem('bpz_theme', 'dark');
+            }
+            updateThemeUI();
+        }
+
+        // Initialize theme UI text on load
+        document.addEventListener('DOMContentLoaded', updateThemeUI);
+
+        // --- Product Catalog Logic ---
         let allProducts = [];
         let filteredProducts = [];
         
@@ -380,7 +572,7 @@
         let activeCollection = 'All products'; 
         let activeCategory = 'All';
         let searchQuery = '';
-        let currentSort = 'default'; // Initialized to Recommended
+        let currentSort = 'default';
         let minBudget = 0;
         let maxBudget = Infinity;
         
@@ -426,14 +618,12 @@
                     activeCollection = col;
                     activeCategory = 'All'; 
 
-                    // Set "Recommended" for All Products, and "Newest First" for everything else
                     if (col === 'All products') {
                         currentSort = 'default';
                     } else {
                         currentSort = 'newest';
                     }
 
-                    // Sync the select dropdown UI
                     document.getElementById('sort-select').value = currentSort;
 
                     renderCategoryDropdown();
@@ -596,8 +786,8 @@
                 const images = getProductImages(product);
                 const mainImg = images[0];
                 const badgeHtml = product.discount_label ? `<div class="discount-badge">${product.discount_label}</div>` : '';
-                const displayPrice = Number(product.price).toFixed(2);
-                const displayMrp = Number(product.mrp).toFixed(2);
+                const displayPrice = Number(product.price || 0).toFixed(2);
+                const displayMrp = Number(product.mrp || 0).toFixed(2);
                 
                 const isWished = userWishlist.includes(product.url);
 
@@ -674,8 +864,8 @@
             }
 
             modalTitle.innerText = product.title;
-            const displayPrice = Number(product.price).toFixed(2);
-            const displayMrp = Number(product.mrp).toFixed(2);
+            const displayPrice = Number(product.price || 0).toFixed(2);
+            const displayMrp = Number(product.mrp || 0).toFixed(2);
 
             modalPriceContainer.innerHTML = `
                 <span class="price">₹${displayPrice}</span>
