@@ -477,8 +477,7 @@
             </div>
 
             <select class="sort-select" id="sort-select" aria-label="Sort Products">
-                <option value="default" selected>Sort: Newest First</option>
-                <option value="newest">Sort: Newest First</option>
+                <option value="newest" selected>Sort: Newest First</option>
                 <option value="price-low">Price: Low to High</option>
                 <option value="price-high">Price: High to Low</option>
                 <option value="discount">Biggest Discount</option>
@@ -733,9 +732,7 @@
                 return matchCollection && matchCategory && matchSearch && matchBudget;
             });
 
-            if (currentSort === 'newest') {
-                filteredProducts.sort((a, b) => new Date(b.created_at || 0) - new Date(a.created_at || 0));
-            } else if (currentSort === 'price-low') {
+            if (currentSort === 'price-low') {
                 filteredProducts.sort((a, b) => a.price - b.price);
             } else if (currentSort === 'price-high') {
                 filteredProducts.sort((a, b) => b.price - a.price);
@@ -745,6 +742,9 @@
                     const discountB = b.mrp > b.price ? ((b.mrp - b.price) / b.mrp) : 0;
                     return discountB - discountA; 
                 });
+            } else {
+                // Default fallback is newest first
+                filteredProducts.sort((a, b) => new Date(b.created_at || 0) - new Date(a.created_at || 0));
             }
 
             document.getElementById('product-grid').innerHTML = '';
