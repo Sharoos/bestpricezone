@@ -24,15 +24,15 @@ COLLECTIONS = [
         "name": "New Arrivals",
     },
     {
-        "url": "https://deodap.in/collections/customer-favorites/products.json",
+        "url": "https://deodap.in/collections/best-selling-products/products.json",
         "name": "Bestsellers",
     },
     {
-        "url": "https://deodap.in/collections/kitchen-dining-items/products.json",
+        "url": "https://deodap.in/collections/kitchen-dining/products.json",
         "name": "Kitchenware",
     },
     {
-        "url": "https://deodap.in/collections/home_decor/products.json",
+        "url": "https://deodap.in/collections/home-improvement/products.json",
         "name": "Home & Living",
     },
     {
