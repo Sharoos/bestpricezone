@@ -32,7 +32,7 @@ COLLECTIONS = [
         "name": "Kitchenware",
     },
     {
-        "url": "https://deodap.in/collections/home-improvement/products.json",
+        "url": "https://deodap.in/collections/home-decor/products.json",
         "name": "Home & Living",
     },
     {
